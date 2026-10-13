@@ -1,0 +1,87 @@
+A¦abgelegen¦remote; secluded¦T11¦Das Dorf liegt abgelegen in den Bergen.¦The village lies remote in the mountains.¦ein abgelegenes Dorf | abgelegen wohnen | abgelegene Gegend¦Lesen; Alltag
+A¦abgenutzt¦worn; worn out¦T07¦Die Reifen sind schon stark abgenutzt.¦The tyres are already badly worn.¦stark abgenutzt | abgenutzte Schuhe | ein abgenutzter Teppich¦Alltag; Lesen
+A¦abwechslungsreich¦varied; full of variety¦T16¦Der Beruf ist sehr abwechslungsreich.¦The job is very varied.¦abwechslungsreich gestalten | eine abwechslungsreiche Ernährung | ein abwechslungsreiches Programm¦Schreiben; Sprechen
+A¦achtlos¦careless; heedless¦T14¦Er warf das Papier achtlos auf den Boden.¦He threw the paper carelessly on the floor.¦achtlos wegwerfen | achtlos vorbeigehen | achtlos mit etwas umgehen¦Lesen; Schreiben
+A¦albern¦silly; childish¦T14¦Hör auf, so albern zu sein!¦Stop being so silly!¦albern sein | ein alberner Witz | albern kichern¦Sprechen; Alltag
+A¦anhaltend¦continuing; persistent¦T16¦Der anhaltende Regen verursachte Überschwemmungen.¦The continuing rain caused floods.¦anhaltender Regen | anhaltende Kritik | anhaltend schlechtes Wetter¦Lesen; Hören
+A¦ansehnlich¦considerable; presentable¦T16¦Er hat ein ansehnliches Vermögen geerbt.¦He inherited a considerable fortune.¦ein ansehnliches Gehalt | ansehnlich aussehen | eine ansehnliche Summe¦Lesen; Schreiben
+A¦aufdringlich¦pushy; intrusive¦T14¦Der Verkäufer war mir zu aufdringlich.¦The salesman was too pushy for me.¦ein aufdringlicher Verkäufer | aufdringlich wirken | aufdringlicher Geruch¦Sprechen; Alltag
+A¦aufgeschlossen¦open-minded; receptive¦T14¦Sie ist neuen Ideen gegenüber sehr aufgeschlossen.¦She is very open-minded towards new ideas.¦aufgeschlossen für etwas | aufgeschlossen sein | ein aufgeschlossener Mensch¦Schreiben; Sprechen
+A¦aufgeweckt¦bright; alert¦T14¦Das Mädchen ist für sein Alter sehr aufgeweckt.¦The girl is very bright for her age.¦ein aufgewecktes Kind | aufgeweckt wirken | geistig aufgeweckt¦Sprechen; Lesen
+A¦ausgelassen¦exuberant; boisterous¦T14¦Die Kinder feierten ausgelassen Geburtstag.¦The children celebrated their birthday boisterously.¦ausgelassen feiern | ausgelassene Stimmung | ausgelassen lachen¦Lesen; Sprechen
+A¦ausgeglichen¦balanced; even-tempered¦T14¦Sie ist ein sehr ausgeglichener Mensch.¦She is a very even-tempered person.¦ein ausgeglichener Mensch | ausgeglichen sein | eine ausgeglichene Bilanz¦Sprechen; Schreiben
+A¦ausgedehnt¦extensive; prolonged¦T16¦Wir machten einen ausgedehnten Spaziergang.¦We went for a long walk.¦ein ausgedehnter Spaziergang | ausgedehnte Wälder | ausgedehnt frühstücken¦Alltag; Lesen
+A¦ausgelaugt¦drained; exhausted¦T14¦Nach der langen Schicht fühlte er sich völlig ausgelaugt.¦After the long shift he felt completely drained.¦sich ausgelaugt fühlen | völlig ausgelaugt | ausgelaugte Böden¦Sprechen; Lesen
+A¦ausgesprochen¦decided; distinct; particularly¦T16¦Das war eine ausgesprochen freundliche Geste.¦That was a particularly friendly gesture.¦ausgesprochen freundlich | ausgesprochen gut | eine ausgesprochene Vorliebe¦Sprechen; Schreiben
+A¦bedrückt¦depressed; dejected¦T14¦Sie wirkte bedrückt und sagte kaum etwas.¦She seemed dejected and hardly said anything.¦bedrückt wirken | bedrückt sein | eine bedrückte Stimmung¦Sprechen; Lesen
+A¦befangen¦biased; self-conscious¦T14¦Vor der Kamera wirkte er etwas befangen.¦In front of the camera he seemed somewhat self-conscious.¦befangen wirken | als befangen gelten | einen Richter für befangen erklären¦Lesen; Schreiben
+A¦begehrt¦in demand; sought after¦T16¦Die Wohnungen in der Innenstadt sind sehr begehrt.¦Flats in the city centre are in great demand.¦ein begehrter Platz | heiß begehrt | begehrte Fachkräfte¦Lesen; Medien
+A¦beharrlich¦persistent; tenacious¦T14¦Beharrlich verfolgte sie ihr Ziel.¦She pursued her goal persistently.¦beharrlich arbeiten | beharrlich schweigen | beharrlich bleiben¦Schreiben; Lesen
+A¦beklommen¦uneasy; anxious¦T14¦Beklommen betrat er das Büro des Direktors.¦Uneasily he entered the director's office.¦sich beklommen fühlen | beklommen schweigen | beklommenes Gefühl¦Lesen; Sprechen
+A¦beleidigt¦offended; sulking¦T14¦Sie war beleidigt, weil niemand ihre Idee gut fand.¦She was offended because nobody liked her idea.¦beleidigt sein | beleidigt reagieren | beleidigt wirken¦Sprechen; Alltag
+A¦berüchtigt¦notorious¦T12¦Die Gegend ist für ihre hohe Kriminalität berüchtigt.¦The area is notorious for its high crime rate.¦berüchtigt sein für | ein berüchtigter Ort | als berüchtigt gelten¦Lesen; Medien
+A¦beschämt¦ashamed; embarrassed¦T14¦Beschämt senkte er den Blick.¦Ashamed, he lowered his gaze.¦beschämt schweigen | sich beschämt fühlen | beschämt wegschauen¦Lesen; Sprechen
+A¦beschränkt¦limited; narrow-minded¦T16¦Die Plätze im Kurs sind beschränkt.¦Places in the course are limited.¦beschränkte Plätze | zeitlich beschränkt | auf etwas beschränkt sein¦Lesen; Schreiben
+A¦besessen¦obsessed; possessed¦T14¦Er ist besessen von dem Gedanken, reich zu werden.¦He is obsessed with the idea of becoming rich.¦von etwas besessen sein | besessen arbeiten | wie besessen¦Sprechen; Lesen
+A¦besonnen¦level-headed; prudent¦T14¦Sie reagierte in der Notlage besonnen.¦She reacted level-headedly in the emergency.¦besonnen reagieren | ein besonnener Mensch | besonnen handeln¦Lesen; Schreiben
+A¦bestürzt¦dismayed; shocked¦T14¦Wir waren bestürzt über die Nachricht.¦We were dismayed by the news.¦bestürzt sein über | bestürzt reagieren | bestürzt ansehen¦Lesen; Hören
+A¦betrübt¦saddened; sad¦T14¦Er war betrübt über den Abschied.¦He was saddened by the farewell.¦betrübt sein | betrübt aussehen | über etwas betrübt¦Lesen; Sprechen
+A¦bezaubernd¦charming; enchanting¦T14¦Sie trug ein bezauberndes Kleid.¦She wore an enchanting dress.¦bezaubernd aussehen | ein bezauberndes Lächeln | bezaubernd schön¦Lesen; Sprechen
+A¦bissig¦snappy; biting¦T14¦Vorsicht, der Hund ist bissig!¦Careful, the dog bites!¦ein bissiger Hund | eine bissige Bemerkung | bissig kommentieren¦Sprechen; Lesen
+A¦bockig¦stubborn; sulky (colloquial)¦T14¦Das Kind wurde bockig, als es ins Bett sollte.¦The child turned stubborn when it had to go to bed.¦bockig sein | bockig werden | ein bockiges Kind¦Sprechen; Alltag¦rg=colloquial
+A¦boshaft¦malicious; spiteful¦T14¦Er machte eine boshafte Bemerkung über ihre Frisur.¦He made a spiteful remark about her hairstyle.¦eine boshafte Bemerkung | boshaft lächeln | boshaft sein¦Lesen; Sprechen
+A¦brüchig¦brittle; crumbling¦T16¦Das alte Holz ist schon ganz brüchig.¦The old wood is already quite brittle.¦brüchiges Material | brüchig werden | eine brüchige Stimme¦Lesen; Alltag
+A¦dezent¦discreet; subtle¦T16¦Sie trägt dezenten Schmuck.¦She wears subtle jewellery.¦dezent gekleidet | eine dezente Farbe | dezent auftreten¦Lesen; Sprechen
+A¦diskret¦discreet¦T14¦Der Arzt behandelt alle Fälle diskret.¦The doctor handles all cases discreetly.¦diskret behandeln | eine diskrete Anfrage | sich diskret verhalten¦Schreiben; Sprechen
+A¦dreist¦brazen; cheeky¦T14¦Es war dreist von ihm, sich einfach vorzudrängeln.¦It was brazen of him to simply push in line.¦eine dreiste Lüge | dreist behaupten | dreist sein¦Sprechen; Lesen
+A¦dürftig¦meagre; poor¦T16¦Die Ergebnisse der Studie sind dürftig.¦The results of the study are meagre.¦dürftige Informationen | ein dürftiges Ergebnis | dürftig ausgestattet¦Lesen; Schreiben
+A¦ebenbürtig¦equal; on a par¦T16¦Die beiden Gegner sind einander ebenbürtig.¦The two opponents are equal to one another.¦jemandem ebenbürtig sein | ein ebenbürtiger Gegner | an Können ebenbürtig¦Lesen; Medien
+A¦eigensinnig¦headstrong; obstinate¦T14¦Mein Sohn ist ein eigensinniges Kind.¦My son is a headstrong child.¦ein eigensinniges Kind | eigensinnig sein | eigensinnig auf etwas beharren¦Sprechen; Lesen
+A¦eigenwillig¦individualistic; wilful¦T14¦Sie hat einen eigenwilligen Stil.¦She has an individualistic style.¦ein eigenwilliger Charakter | eigenwillig gekleidet | eine eigenwillige Meinung¦Lesen; Schreiben
+A¦einfallsreich¦inventive; imaginative¦T14¦Die Kinder sind sehr einfallsreich beim Spielen.¦The children are very inventive when playing.¦ein einfallsreicher Mensch | einfallsreiche Lösungen | einfallsreich sein¦Schreiben; Sprechen
+A¦eintönig¦monotonous¦T16¦Die Arbeit am Fließband ist eintönig.¦Work on the assembly line is monotonous.¦eine eintönige Arbeit | eintönig klingen | ein eintöniger Alltag¦Sprechen; Lesen
+A¦eitel¦vain¦T14¦Er ist so eitel, dass er ständig in den Spiegel schaut.¦He is so vain that he constantly looks in the mirror.¦eitel sein | ein eitler Mensch | eitel auf sein Aussehen¦Sprechen; Lesen
+A¦empfehlenswert¦recommendable; worth recommending¦T16¦Das Restaurant ist sehr empfehlenswert.¦The restaurant is highly recommendable.¦sehr empfehlenswert | empfehlenswert sein | ein empfehlenswertes Buch¦Alltag; Schreiben
+A¦empört¦indignant; outraged¦T14¦Sie reagierte empört auf den Vorwurf.¦She reacted indignantly to the accusation.¦empört sein über | empört reagieren | empört ablehnen¦Lesen; Sprechen
+A¦entlegen¦remote; out-of-the-way¦T11¦Die Hütte liegt in einem entlegenen Tal.¦The hut is in a remote valley.¦ein entlegener Ort | entlegene Gegenden | entlegen liegen¦Lesen; Schreiben
+A¦erbärmlich¦pathetic; wretched¦T14¦Die Zustände in dem Heim waren erbärmlich.¦The conditions in the home were wretched.¦erbärmliche Zustände | erbärmlich frieren | ein erbärmlicher Anblick¦Lesen; Sprechen
+A¦erfinderisch¦inventive; resourceful¦T14¦Wer wenig Geld hat, wird oft sehr erfinderisch.¦People with little money often become very resourceful.¦erfinderisch sein | ein erfinderischer Kopf | erfinderisch vorgehen¦Sprechen; Schreiben
+A¦erfreulich¦pleasing; gratifying¦T16¦Es ist erfreulich, dass die Zahlen steigen.¦It is gratifying that the figures are rising.¦eine erfreuliche Nachricht | erfreulich früh | erfreulicherweise¦Schreiben; Lesen
+A¦ergreifend¦moving; touching¦T10¦Der Film war ergreifend und traurig zugleich.¦The film was moving and sad at the same time.¦eine ergreifende Rede | ergreifende Szenen | ergreifend schön¦Lesen; Medien
+A¦erleichtert¦relieved¦T14¦Sie war erleichtert, als der Test negativ war.¦She was relieved when the test was negative.¦erleichtert sein | erleichtert aufatmen | erleichtert wirken¦Sprechen; Lesen
+A¦erstaunlich¦astonishing; surprising¦T16¦Es ist erstaunlich, wie schnell sie lernt.¦It is astonishing how quickly she learns.¦erstaunlich schnell | eine erstaunliche Entwicklung | erstaunlich viel¦Lesen; Sprechen
+A¦fade¦bland; insipid¦T06¦Die Suppe schmeckt fade, sie braucht mehr Salz.¦The soup tastes bland; it needs more salt.¦fade schmecken | ein fader Geschmack | fade Antworten¦Alltag; Sprechen
+A¦fehlerhaft¦faulty; defective¦T07¦Das Gerät war fehlerhaft und wurde zurückgerufen.¦The device was faulty and was recalled.¦fehlerhaft sein | fehlerhafte Ware | fehlerhaft funktionieren¦Lesen; Schreiben
+A¦fesselnd¦gripping; captivating¦T10¦Das Buch ist von der ersten bis zur letzten Seite fesselnd.¦The book is gripping from the first to the last page.¦ein fesselnder Roman | fesselnd erzählen | fesselnde Spannung¦Lesen; Medien
+A¦fies¦nasty; mean (colloquial)¦T14¦Das war ein richtig fieser Trick.¦That was a really nasty trick.¦ein fieser Typ | fies sein | fies grinsen¦Sprechen; Alltag¦rg=colloquial
+A¦forsch¦brisk; assertive¦T14¦Mit forschem Schritt betrat sie den Saal.¦With a brisk step she entered the hall.¦forsch auftreten | ein forscher Ton | forsch antworten¦Lesen; Sprechen
+A¦fürsorglich¦caring; solicitous¦T14¦Die Mutter ist sehr fürsorglich gegenüber ihren Kindern.¦The mother is very caring towards her children.¦ein fürsorglicher Vater | fürsorglich sein | sich fürsorglich kümmern¦Sprechen; Lesen
+A¦gefährdet¦endangered; at risk¦T11¦Viele Tierarten sind vom Aussterben bedroht und stark gefährdet.¦Many animal species are threatened with extinction and highly endangered.¦vom Aussterben gefährdet | stark gefährdet | gefährdete Arten¦Lesen; Wissenschaft
+A¦gefasst¦composed; calm¦T14¦Sie blieb nach der schlechten Nachricht erstaunlich gefasst.¦She remained astonishingly composed after the bad news.¦gefasst bleiben | gefasst wirken | auf alles gefasst sein¦Lesen; Sprechen
+A¦geheimnisvoll¦mysterious¦T10¦Aus dem Wald kam ein geheimnisvolles Geräusch.¦A mysterious noise came from the forest.¦ein geheimnisvolles Lächeln | geheimnisvoll tun | geheimnisvoll klingen¦Lesen; Medien
+A¦gehetzt¦harried; rushed¦T14¦Er sah gehetzt aus, als er ins Büro kam.¦He looked harried when he came into the office.¦gehetzt wirken | gehetzt aussehen | gehetzt leben¦Lesen; Sprechen
+A¦gelangweilt¦bored¦T14¦Der Schüler schaute gelangweilt aus dem Fenster.¦The pupil looked out of the window, bored.¦gelangweilt sein | gelangweilt aussehen | gelangweilt gähnen¦Sprechen; Lesen
+A¦gelungen¦successful; well done¦T10¦Die Überraschungsparty war wirklich gelungen.¦The surprise party was really a success.¦eine gelungene Überraschung | gelungen sein | ein gelungener Abend¦Sprechen; Schreiben
+A¦gemächlich¦leisurely; unhurried¦T13¦Wir gingen gemächlich am Fluss entlang.¦We walked leisurely along the river.¦gemächlich spazieren | in gemächlichem Tempo | gemächlich fahren¦Lesen; Sprechen
+A¦genügsam¦frugal; undemanding¦T14¦Mein Großvater war ein genügsamer Mensch.¦My grandfather was a frugal person.¦genügsam leben | ein genügsamer Mensch | genügsam sein¦Lesen; Sprechen
+A¦gerührt¦moved; touched¦T14¦Sie war von seinem Geschenk zu Tränen gerührt.¦She was moved to tears by his present.¦gerührt sein | zu Tränen gerührt | gerührt lächeln¦Sprechen; Lesen
+A¦gesellig¦sociable¦T14¦Er ist ein geselliger Typ und hat viele Freunde.¦He is a sociable guy and has many friends.¦ein geselliger Mensch | gesellig beisammensitzen | gesellig sein¦Sprechen; Alltag
+A¦gierig¦greedy¦T14¦Der Mann ist gierig nach Geld.¦The man is greedy for money.¦gierig sein nach | gierig essen | ein gieriger Blick¦Lesen; Sprechen
+A¦gnadenlos¦merciless; ruthless¦T14¦Die Konkurrenz im Wettbewerb ist gnadenlos.¦The competition in the market is ruthless.¦gnadenlos kritisieren | ein gnadenloser Kampf | gnadenlos sein¦Lesen; Medien
+A¦grob¦rough; coarse; gross¦T16¦Das ist eine grobe Schätzung.¦That is a rough estimate.¦grob geschätzt | ein grober Fehler | grob fahrlässig¦Schreiben; Sprechen
+A¦großspurig¦pompous; boastful¦T14¦Er tritt immer so großspurig auf.¦He always acts so pompously.¦großspurig auftreten | großspurig reden | ein großspuriger Typ¦Sprechen; Lesen
+A¦gutgläubig¦gullible; credulous¦T14¦Er ist zu gutgläubig und glaubt jede Geschichte.¦He is too gullible and believes every story.¦gutgläubig sein | gutgläubig handeln | gutgläubige Menschen¦Sprechen; Lesen
+A¦hemmungslos¦unrestrained; without inhibition¦T14¦Er schrie hemmungslos seine Wut heraus.¦He shouted out his rage without any restraint.¦hemmungslos weinen | hemmungslos feiern | hemmungslos ausnutzen¦Lesen; Sprechen
+A¦hochmütig¦arrogant; haughty¦T14¦Sie sah ihn hochmütig an.¦She looked at him haughtily.¦hochmütig sein | hochmütig blicken | hochmütiges Verhalten¦Lesen; Sprechen
+A¦hoffnungslos¦hopeless¦T14¦Die Lage der Flüchtlinge war hoffnungslos.¦The situation of the refugees was hopeless.¦hoffnungslos überfordert | ein hoffnungsloser Fall | hoffnungslos sein¦Sprechen; Lesen
+A¦idyllisch¦idyllic¦T11¦Das Dorf liegt idyllisch an einem See.¦The village lies idyllically beside a lake.¦idyllisch gelegen | ein idyllischer Ort | eine idyllische Landschaft¦Lesen; Alltag
+A¦ignorant¦ignorant; indifferent¦T14¦Sein ignorantes Verhalten stößt auf Kritik.¦His ignorant behaviour meets with criticism.¦ignorant sein | ein ignoranter Mensch | ignorantes Verhalten¦Sprechen; Lesen
+A¦jähzornig¦quick-tempered¦T14¦Er ist jähzornig und schreit schnell.¦He is quick-tempered and shouts quickly.¦ein jähzorniger Mensch | jähzornig reagieren | jähzornig werden¦Sprechen; Lesen
+A¦kleinlich¦petty; stingy¦T14¦Sei nicht so kleinlich wegen ein paar Euro!¦Don't be so petty about a few euros!¦kleinlich sein | kleinlich wirken | ein kleinlicher Mensch¦Sprechen; Alltag
+A¦kokett¦coquettish; flirty¦T14¦Sie lächelte kokett und senkte den Blick.¦She smiled coquettishly and lowered her gaze.¦kokett lächeln | kokett wirken | eine kokette Geste¦Lesen; Sprechen
+A¦kopflos¦panicky; headless¦T14¦Kopflos rannte er aus dem Gebäude.¦Panicking, he ran out of the building.¦kopflos reagieren | kopflos umherlaufen | kopflos handeln¦Lesen; Sprechen
+A¦kurios¦odd; curious¦T16¦Es ist kurios, dass beide denselben Gedanken hatten.¦It is odd that both had the same thought.¦eine kuriose Geschichte | kurios klingen | ein kurioser Zufall¦Lesen; Medien
+A¦lässig¦casual; relaxed¦T14¦Er lehnte sich lässig an die Wand.¦He leaned casually against the wall.¦lässig gekleidet | lässig auftreten | eine lässige Haltung¦Sprechen; Lesen
+A¦lebhaft¦lively; vivid¦T14¦Die Kinder führten ein lebhaftes Gespräch.¦The children had a lively conversation.¦ein lebhaftes Gespräch | lebhaft diskutieren | lebhafte Fantasie¦Sprechen; Schreiben
+A¦leichtsinnig¦reckless; careless¦T14¦Es war leichtsinnig, bei Glatteis so schnell zu fahren.¦It was reckless to drive so fast on black ice.¦leichtsinnig handeln | leichtsinnig sein | leichtsinnig fahren¦Sprechen; Lesen
+A¦lustlos¦listless; unenthusiastic¦T14¦Er stocherte lustlos in seinem Essen herum.¦He picked listlessly at his food.¦lustlos sein | lustlos arbeiten | lustlos wirken¦Sprechen; Lesen
