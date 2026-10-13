@@ -5,6 +5,5 @@
   1 connectors/adverbs/prepositions (done 39) | 2 Nomen-Verb-Verbindungen (done 165) | 3 abstract verbs 250 | 4 abstract nouns 300 | 5 adjectives 250 |
   6 work/economy 200 | 7 society/politics/law 200 | 8 media/digital/tech 180 | 9 environment/energy 150 | 10 education/science 150 |
   11 consumer/finance/housing 150 | 12 culture/leisure/sport/travel 150 | 13 family/feelings/character 150 | 14 admin/services/traffic 120 | 15 verbs with prepositions 100.
-- STATUS (1,947 rows, 0 validation errors): connectors/adverbs, Nomen-Verb-Verbindungen, abstract verbs and nouns, adjectives (abstract, character, feelings), verbs with prepositions, everyday verbs, work/economy, politics/law/society, media/tech, environment/energy, education/science, culture/travel/traffic, finance/housing/consumer/admin, family/feelings, food/household/clothing/sport, professions, social topics and language/media terms are done.
-- Main bank already covers most core B2 words, so new candidate lists yield only about 20-60 percent new words.
-- NEXT: nature/animals/plants/geography, more idioms and fixed phrases (type F), more adjectives/participles, technical everyday nouns; then proof-reading (weak collocations), sample audit by a sub-agent, B2_QA_report.md, export to German_B2_Bank.xlsx, final message.
+- STATUS: DONE. 2,379 rows, 0 validation errors, full-bank review done and all findings fixed (see B2_QA_report.md). Export: German_B2_Bank.xlsx.
+- Optional later: add more themes (use work/b2chk.py to find new words, work/b2.py add to append).
