@@ -3,13 +3,13 @@
 (Auto status block below is rewritten by `python work/bank_tools.py status --write`.)
 
 <!--AUTO-->
-## Status (auto, 2026-10-13 04:20)
-- vocab: rows=6524 complete=2595 reviewed=2499 flagged=277 empty_cells={'example_en': 3562, 'topic': 1943, 'example_de': 2312, 'preterite': 337, 'meaning_en': 1320, 'plural': 546, 'pos': 583, 'level': 691, 'pres_3sg': 258, 'perfect': 258, 'article': 358, 'collocations': 98, 'gov': 3}
-- phrase: rows=1016 complete=0 reviewed=0 flagged=1 empty_cells={'meaning_en': 928, 'level': 1016, 'example_de': 979, 'example_en': 1001, 'function': 82, 'register': 59}
+## Status (auto, 2026-10-13 04:33)
+- vocab: rows=6524 complete=2598 reviewed=2499 flagged=277 empty_cells={'example_en': 3559, 'topic': 1941, 'example_de': 2312, 'preterite': 337, 'meaning_en': 1318, 'plural': 545, 'pos': 583, 'level': 691, 'pres_3sg': 258, 'perfect': 258, 'article': 358, 'collocations': 98, 'gov': 3}
+- phrase: rows=1016 complete=1016 reviewed=1016 flagged=226 empty_cells={}
 - redemittel: rows=408 complete=408 reviewed=0 flagged=0 empty_cells={}
 - redemittel total 408/1116 min; categories done 20/55
 - redemittel open categories: 35 (first: B2-01 0/24, B2-02 0/24, B2-03 0/18, B2-04 0/18)
-- patches applied: 66
+- patches applied: 83
 <!--/AUTO-->
 
 ## How to resume
@@ -24,7 +24,7 @@ BLOCK 5 Redemittel wave 2, 3 + export | BLOCK 6 remaining vocab, then skip=yes r
 
 ## Current block / NEXT STEP
 BLOCK 1 DONE (vocab study_order 1-800). BLOCK 2 DONE (Redemittel wave 1, B1-01..B1-20: 408 rows, min 366; export run).
-NEXT: BLOCK 3 DONE (vocab 801-2500 complete, 0 errors). BLOCK 4 = phrase bank: `work/nx.sh phrase 100`, write with `python3 work/mk.py phrase`, repeat until 1016 rows complete, then export. After that BLOCK 5 (Redemittel waves 2+3), BLOCK 6 (vocab 2501+), BLOCK 7 (QA).
+NEXT: BLOCK 4 DONE (phrase bank complete, 1016/1016, exported). BLOCK 5 = Redemittel wave 2 (B2-01..B2-13) then wave 3 (FSP-01..FSP-22): `python3 work/bank_tools.py status` shows open categories; write rows with `python3 work/mk.py redemittel` (@CAT_ID then NEW lines, max 40 rows per step), export after each wave. Then BLOCK 6 (vocab study_order 2501+ then skip=yes), BLOCK 7 (QA, dup resolution, QA_report.md, final export).
 Then BLOCK 4 phrases (`work/bank_tools.py next phrase 100`), BLOCK 5 Redemittel wave 2 then 3, BLOCK 6 remaining vocab then skip=yes, BLOCK 7 QA.
 
 ## Decisions

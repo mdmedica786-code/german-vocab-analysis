@@ -1043,3 +1043,343 @@ phrase,P0450,phrase_de,"zu wissen, dass","zu wissen, dass ..."
 phrase,P0453,phrase_de,nur ein paar,nur ein paar ...
 phrase,P0454,phrase_de,"Tatsache, dass","die Tatsache, dass ..."
 phrase,P0457,phrase_de,"davon überzeugt, dass","davon überzeugt sein, dass ..."
+phrase,P0460,phrase_de,es handelt sich,es handelt sich um ...
+phrase,P0462,phrase_de,"weiß, was","weiß, was ..."
+phrase,P0463,phrase_de,kam es zu,kam es zu ...
+phrase,P0464,phrase_de,"gezeigt, dass","gezeigt, dass ..."
+phrase,P0465,phrase_de,Unterschied zwischen,Unterschied zwischen ...
+phrase,P0467,phrase_de,stellt sich die Frage,"es stellt sich die Frage, ob ..."
+phrase,P0471,phrase_de,ist es wichtig,"es ist wichtig, ... zu ..."
+phrase,P0472,phrase_de,"die Frage, wie","die Frage, wie ..."
+phrase,P0473,phrase_de,"ich weiß, was","ich weiß, was ..."
+phrase,P0474,phrase_de,eine Vielzahl von,eine Vielzahl von ...
+phrase,P0476,phrase_de,"hoffen, dass","hoffen, dass ..."
+phrase,P0477,phrase_de,"Frage, ob","die Frage, ob ..."
+phrase,P0481,phrase_de,"du weißt, dass","du weißt, dass ..."
+phrase,P0483,phrase_de,weißt du,"weißt du, ..."
+phrase,P0486,phrase_de,"egal, was","egal, was ..."
+phrase,P0487,phrase_de,"feststellen, dass","feststellen, dass ..."
+phrase,P0488,phrase_de,"was passiert, wenn","was passiert, wenn ...?"
+phrase,P0491,phrase_de,"bewusst, dass","mir ist bewusst, dass ..."
+phrase,P0493,phrase_de,vor dem Hintergrund,vor dem Hintergrund + Gen.
+phrase,P0495,phrase_de,eine ganze Reihe von,eine ganze Reihe von ...
+phrase,P0498,phrase_de,"wissen, wie","wissen, wie ..."
+phrase,P0500,phrase_de,am Tag,dreimal am Tag
+phrase,P0503,phrase_de,"glaube, dass","ich glaube, dass ..."
+phrase,P0508,phrase_de,"zu zeigen, dass","zu zeigen, dass ..."
+phrase,P0509,phrase_de,mit Blick auf,mit Blick auf ...
+phrase,P0510,phrase_de,"der Hoffnung, dass","in der Hoffnung, dass ..."
+phrase,P0513,phrase_de,ist in der Regel,in der Regel ist ...
+phrase,P0514,phrase_de,weiß es nicht,ich weiß es nicht
+phrase,P0517,phrase_de,"ausgehen, dass","davon ausgehen, dass ..."
+phrase,P0524,phrase_de,sind in der Regel,sind in der Regel ...
+phrase,P0529,phrase_de,"bedeutet dies, dass","bedeutet dies, dass ...?"
+phrase,P0530,phrase_de,"erzählt, dass","erzählt, dass ..."
+phrase,P0533,phrase_de,im Kontext,im Kontext von ...
+phrase,P0537,phrase_de,"möglich, dass","es ist möglich, dass ..."
+phrase,P0538,phrase_de,"Frage, wie","die Frage, wie ..."
+phrase,P0539,phrase_de,Anzahl von,Anzahl von ...
+phrase,P0542,phrase_de,am Beispiel,am Beispiel ...
+phrase,P0545,phrase_de,"sicher, ob","sicher sein, ob ..."
+phrase,P0547,phrase_de,"denken, dass","ich denke, dass ..."
+phrase,P0548,phrase_de,zum Thema,zum Thema ...
+phrase,P0550,phrase_de,"fällt auf, dass","es fällt auf, dass ..."
+phrase,P0553,phrase_de,"weiß, wie","weiß, wie ..."
+phrase,P0555,phrase_de,im Rahmen von,im Rahmen von ...
+phrase,P0556,phrase_de,einer Reihe von,einer Reihe von ...
+phrase,P0558,phrase_de,das gilt insbesondere für,das gilt insbesondere für ...
+phrase,P0564,phrase_de,"zu bedenken, dass","zu bedenken ist, dass ..."
+phrase,P0568,phrase_de,im Anschluss an,im Anschluss an ...
+phrase,P0569,phrase_de,"nicht vorstellen, dass","ich kann mir nicht vorstellen, dass ..."
+phrase,P0572,phrase_de,"gefragt, ob","gefragt, ob ..."
+phrase,P0575,phrase_de,zu dem Schluss,"zu dem Schluss kommen, dass ..."
+phrase,P0577,phrase_de,es scheint,"es scheint, dass ..."
+phrase,P0579,phrase_de,"hoffe, dass","ich hoffe, dass ..."
+phrase,P0580,phrase_de,Beispiel für,ein Beispiel für ...
+phrase,P0585,phrase_de,"wissen, ob","wissen, ob ..."
+phrase,P0588,phrase_de,Vielzahl von,eine Vielzahl von ...
+phrase,P0592,phrase_de,"anders, als","anders, als ..."
+phrase,P0593,phrase_de,"ich weiß, wie","ich weiß, wie ..."
+phrase,P0594,phrase_de,"sorgt dafür, dass","sorgt dafür, dass ..."
+phrase,P0595,phrase_de,"wir wissen, dass","wir wissen, dass ..."
+phrase,P0596,phrase_de,kurz nach,kurz nach ...
+phrase,P0597,phrase_de,das gilt auch für,das gilt auch für ...
+phrase,P0600,phrase_de,ich frage mich,"ich frage mich, ob ..."
+phrase,P0603,phrase_de,im Verlauf,im Verlauf + Gen.
+phrase,P0605,phrase_de,aus der Perspektive,aus der Perspektive + Gen.
+phrase,P0607,phrase_de,bis hin zur,bis hin zur ...
+phrase,P0609,phrase_de,nicht allzu,nicht allzu ...
+phrase,P0610,phrase_de,befinden sich,sich befinden
+phrase,P0612,phrase_de,die Angst vor,die Angst vor ...
+phrase,P0613,phrase_de,"zeigen, wie","zeigen, wie ..."
+phrase,P0614,phrase_de,"erfahren, dass","erfahren, dass ..."
+phrase,P0615,phrase_de,ein hohes Maß an,ein hohes Maß an ...
+phrase,P0617,phrase_de,"sicher sein, dass","sicher sein, dass ..."
+phrase,P0618,phrase_de,dies gilt auch für,dies gilt auch für ...
+phrase,P0619,phrase_de,"der Ansicht, dass","der Ansicht sein, dass ..."
+phrase,P0623,phrase_de,das Verhältnis zwischen,das Verhältnis zwischen ...
+phrase,P0624,phrase_de,"es möglich, dass","ist es möglich, dass ...?"
+phrase,P0626,phrase_de,Überblick über,Überblick über ...
+phrase,P0629,phrase_de,Einführung in,Einführung in ...
+phrase,P0637,phrase_de,abhängig von,abhängig von ...
+phrase,P0638,phrase_de,"gehört, dass","gehört, dass ..."
+phrase,P0641,phrase_de,"ist klar, dass","es ist klar, dass ..."
+phrase,P0642,phrase_de,wird in der Regel,wird in der Regel ...
+phrase,P0646,phrase_de,keine Lust,keine Lust ...
+phrase,P0650,phrase_de,gilt insbesondere für,gilt insbesondere für ...
+phrase,P0651,phrase_de,aus Sicht,aus Sicht + Gen.
+phrase,P0655,phrase_de,in diesem Fall ist,in diesem Fall ist ...
+phrase,P0657,phrase_de,unterscheiden sich,sich unterscheiden
+phrase,P0658,phrase_de,"dazu führt, dass","dazu führt, dass ..."
+phrase,P0659,phrase_de,"sagt, dass","... sagt, dass ..."
+phrase,P0660,phrase_de,ich wusste nicht,"ich wusste nicht, ob ..."
+phrase,P0662,phrase_de,in den Mittelpunkt,in den Mittelpunkt stellen
+phrase,P0665,phrase_de,"die Wahrscheinlichkeit, dass","die Wahrscheinlichkeit, dass ..."
+phrase,P0667,phrase_de,"es wichtig, dass","es ist wichtig, dass ..."
+phrase,P0672,phrase_de,"heißt, dass","das heißt, dass ..."
+phrase,P0673,phrase_de,"die Möglichkeit, dass","die Möglichkeit, dass ..."
+phrase,P0676,phrase_de,"festgestellt, dass","festgestellt, dass ..."
+phrase,P0678,phrase_de,so weiter,und so weiter
+phrase,P0679,phrase_de,"die Annahme, dass","die Annahme, dass ..."
+phrase,P0680,phrase_de,"bin sicher, dass","ich bin sicher, dass ..."
+phrase,P0682,phrase_de,"nur hoffen, dass","nur hoffen, dass ..."
+phrase,P0685,phrase_de,"das einzige, was","das Einzige, was ..."
+phrase,P0688,phrase_de,anders als bei,anders als bei ...
+phrase,P0690,phrase_de,"gut, dann","gut, dann ..."
+phrase,P0692,phrase_de,wie weit,wie weit ...?
+phrase,P0693,phrase_de,ganz schön,ganz schön ...
+phrase,P0694,phrase_de,"erwarten, dass","erwarten, dass ..."
+phrase,P0696,phrase_de,bis hin zum,bis hin zum ...
+phrase,P0697,phrase_de,"damit gerechnet, dass","damit rechnen, dass ..."
+phrase,P0698,phrase_de,"dem Ergebnis, dass","zu dem Ergebnis kommen, dass ..."
+phrase,P0700,phrase_de,zum Zeitpunkt,zum Zeitpunkt + Gen.
+phrase,P0701,phrase_de,ganz zu schweigen,ganz zu schweigen von ...
+phrase,P0703,phrase_de,ich fürchte,"ich fürchte, ..."
+phrase,P0705,phrase_de,eine Gruppe von,eine Gruppe von ...
+phrase,P0706,phrase_de,auch im Hinblick auf,auch im Hinblick auf ...
+phrase,P0708,phrase_de,"ausgegangen werden, dass","davon ausgegangen werden, dass ..."
+phrase,P0709,phrase_de,"egal, wie","egal, wie ..."
+phrase,P0714,phrase_de,dies gilt auch,dies gilt auch für ...
+phrase,P0715,phrase_de,freue mich,"ich freue mich, dass ..."
+phrase,P0718,phrase_de,kommen wir,kommen wir zu ...
+phrase,P0720,phrase_de,als Folge,als Folge davon
+phrase,P0721,phrase_de,"bekannt, dass","es ist bekannt, dass ..."
+phrase,P0722,phrase_de,"wer weiß, was","wer weiß, was ..."
+phrase,P0725,phrase_de,"auszugehen, dass","davon auszugehen, dass ..."
+phrase,P0726,phrase_de,wie beispielsweise,wie beispielsweise ...
+phrase,P0729,phrase_de,"vermuten, dass","vermuten, dass ..."
+phrase,P0732,phrase_de,für die meisten,für die meisten ...
+phrase,P0735,phrase_de,ich weiß gar nicht,"ich weiß gar nicht, ob ..."
+phrase,P0738,phrase_de,ich halte,ich halte das für ...
+phrase,P0740,phrase_de,"erklären, dass","erklären, dass ..."
+phrase,P0748,phrase_de,fühle mich,ich fühle mich ...
+phrase,P0750,phrase_de,im Vergleich mit,im Vergleich mit ...
+phrase,P0751,phrase_de,"ziemlich sicher, dass","ziemlich sicher sein, dass ..."
+phrase,P0755,phrase_de,in erster Linie auf,in erster Linie auf ...
+phrase,P0758,phrase_de,bin mir nicht sicher,ich bin mir nicht sicher
+phrase,P0759,phrase_de,ein Blick auf,ein Blick auf ...
+phrase,P0761,phrase_de,"behaupten, dass","behaupten, dass ..."
+phrase,P0765,phrase_de,zum Beispiel in,zum Beispiel in ...
+phrase,P0766,phrase_de,"sieht aus, als","es sieht aus, als ob ..."
+phrase,P0767,phrase_de,keinen Sinn,keinen Sinn machen
+phrase,P0769,phrase_de,werden in der Regel,werden in der Regel ...
+phrase,P0770,phrase_de,die Frage ist,"die Frage ist, ob/wie ..."
+phrase,P0771,phrase_de,weit von,weit von ... entfernt
+phrase,P0777,meaning_en,Good day! Hello!,hello; good day
+phrase,P0783,meaning_en,from...till,from ... to/until ...
+phrase,P0783,phrase_de,von ... bis,von ... bis ...
+phrase,P0784,meaning_en,good day,hello (southern German/Austrian)
+phrase,P0786,meaning_en,Enjoy!,enjoy your meal
+phrase,P0790,meaning_en,athome,at home
+phrase,P0791,meaning_en,talk to you later,goodbye (on the phone)
+phrase,P0792,meaning_en,thank you,thank you very much
+phrase,P0794,meaning_en,again,again (already)
+phrase,P0796,meaning_en,not anymore,no longer
+phrase,P0797,meaning_en,"a couple, a few",a few; a couple
+phrase,P0798,meaning_en,excuse me,pardon? / excuse me?
+phrase,P0800,meaning_en,not only,not only ...
+phrase,P0800,phrase_de,nicht nur,nicht nur ...
+phrase,P0801,meaning_en,over there,over there; up ahead
+phrase,P0802,meaning_en,from...to,from ... to ...
+phrase,P0802,phrase_de,von ... nach,von ... nach ...
+phrase,P0803,meaning_en,from...to,from ... to ...
+phrase,P0803,phrase_de,von ... zu,von ... zu ...
+phrase,P0804,meaning_en,first,first (of all)
+phrase,P0805,meaning_en,such a,such a ...
+phrase,P0805,phrase_de,So ein,so ein ...
+phrase,P0807,meaning_en,thanks a million,a thousand thanks
+phrase,P0808,meaning_en,there and back,there and back; return
+phrase,P0809,meaning_en,very well,all right then
+phrase,P0810,meaning_en,out of office,out (of the house)
+phrase,P0810,example_en,Ms Mankel is out of office.,"Mrs Mankel is out of the office, I'm afraid."
+phrase,P0811,meaning_en,before,ever; before
+phrase,P0812,meaning_en,past,past ...
+phrase,P0813,meaning_en,opposite of,opposite ...
+phrase,P0813,phrase_de,gegenüber von,gegenüber von ...
+phrase,P0814,meaning_en,outside of,outside ...
+phrase,P0814,phrase_de,außerhalb von,außerhalb von ...
+phrase,P0815,meaning_en,whenever,whenever ...
+phrase,P0815,phrase_de,immer wenn,immer wenn ...
+phrase,P0817,meaning_en,to take care,to be careful
+phrase,P0821,phrase_de,von ... auf,von einem ... auf den anderen
+phrase,P0829,phrase_de,einerseits ...,"einerseits ..., andererseits ..."
+phrase,P0830,meaning_en,heavy metal,heavy metal (music)
+phrase,P0831,meaning_en,still...yet...,"indeed ..., but ..."
+phrase,P0831,phrase_de,zwar ...,"zwar ..., aber ..."
+phrase,P0834,phrase_de,im Lauf,im Lauf(e) der Zeit
+phrase,P0838,phrase_de,je ...,"je ..., desto ..."
+phrase,P0839,check,not-a-phrase?,drop?
+phrase,P0843,phrase_de,"ich glaube nicht, dass","ich glaube nicht, dass ..."
+phrase,P0844,phrase_de,"ich weiß nicht, ob","ich weiß nicht, ob ..."
+phrase,P0845,phrase_de,"für den Fall, dass","für den Fall, dass ..."
+phrase,P0846,phrase_de,"ich weiß nicht, was","ich weiß nicht, was ..."
+phrase,P0847,phrase_de,"ich weiß nicht, wie","ich weiß nicht, wie ..."
+phrase,P0848,phrase_de,"nichts anderes übrig, als","nichts anderes übrig bleiben, als ..."
+phrase,P0849,phrase_de,"ist zu beachten, dass","es ist zu beachten, dass ..."
+phrase,P0850,phrase_de,"tut mir leid, dass","es tut mir leid, dass ..."
+phrase,P0851,phrase_de,"das erste Mal, dass","das erste Mal, dass ..."
+phrase,P0852,phrase_de,"geht davon aus, dass","geht davon aus, dass ..."
+phrase,P0853,phrase_de,"ich bin froh, dass","ich bin froh, dass ..."
+phrase,P0854,phrase_de,"zu dem Schluss, dass","zu dem Schluss kommen, dass ..."
+phrase,P0855,phrase_de,"darauf zu achten, dass","darauf zu achten, dass ..."
+phrase,P0856,phrase_de,"weist darauf hin, dass","darauf hinweisen, dass ..."
+phrase,P0857,phrase_de,"ist davon auszugehen, dass","davon auszugehen sein, dass ..."
+phrase,P0858,phrase_de,"in der Hoffnung, dass","in der Hoffnung, dass ..."
+phrase,P0859,phrase_de,"stellte sich heraus, dass","es stellte sich heraus, dass ..."
+phrase,P0777,register,formal,neutral
+phrase,P0781,register,formal,neutral
+phrase,P0782,register,formal,neutral
+phrase,P0860,phrase_de,"ich bin sicher, dass","ich bin sicher, dass ..."
+phrase,P0861,phrase_de,"um zu sehen, ob","um zu sehen, ob ..."
+phrase,P0862,phrase_de,"dafür zu sorgen, dass","dafür zu sorgen, dass ..."
+phrase,P0863,phrase_de,"hatte das Gefühl, dass","ich hatte das Gefühl, dass ..."
+phrase,P0864,phrase_de,"bin mir sicher, dass","ich bin mir sicher, dass ..."
+phrase,P0865,phrase_de,"ich glaube, ich habe","ich glaube, ich habe ..."
+phrase,P0867,phrase_de,"gehen davon aus, dass","wir gehen davon aus, dass ..."
+phrase,P0868,phrase_de,"davon ausgegangen werden, dass","davon ausgegangen werden, dass ..."
+phrase,P0869,phrase_de,"zu dem Ergebnis, dass","zu dem Ergebnis kommen, dass ..."
+phrase,P0871,phrase_de,"sieht so aus, als","es sieht so aus, als ob ..."
+phrase,P0872,phrase_de,nicht mehr in der Lage,nicht mehr in der Lage sein
+phrase,P0873,phrase_de,"ist es wichtig, dass","ist es wichtig, dass ...?"
+phrase,P0875,phrase_de,"hat zur Folge, dass","hat zur Folge, dass ..."
+phrase,P0877,phrase_de,"ich frage mich, ob","ich frage mich, ob ..."
+phrase,P0878,phrase_de,"um zu verhindern, dass","um zu verhindern, dass ..."
+phrase,P0879,phrase_de,"besteht die Gefahr, dass","es besteht die Gefahr, dass ..."
+phrase,P0880,phrase_de,"bist du sicher, dass","bist du sicher, dass ...?"
+phrase,P0881,phrase_de,"wird davon ausgegangen, dass","es wird davon ausgegangen, dass ..."
+phrase,P0882,phrase_de,"ich wusste nicht, was","ich wusste nicht, was ..."
+phrase,P0883,phrase_de,"ich glaube, es ist","ich glaube, es ist ..."
+phrase,P0884,phrase_de,"ich wusste nicht, dass","ich wusste nicht, dass ..."
+phrase,P0885,phrase_de,ich kann mir nicht vorstellen,"ich kann mir nicht vorstellen, ... zu ..."
+phrase,P0886,phrase_de,"ich weiß nicht, warum","ich weiß nicht, warum ..."
+phrase,P0887,phrase_de,"zu der Annahme, dass","zu der Annahme kommen, dass ..."
+phrase,P0888,phrase_de,"wenn man bedenkt, dass","wenn man bedenkt, dass ..."
+phrase,P0889,phrase_de,"ich nehme an, dass","ich nehme an, dass ..."
+phrase,P0890,phrase_de,"achten Sie darauf, dass","achten Sie darauf, dass ..."
+phrase,P0891,phrase_de,"ist es möglich, dass","ist es möglich, dass ...?"
+phrase,P0892,phrase_de,"ich weiß nur, dass","ich weiß nur, dass ..."
+phrase,P0893,phrase_de,"mit der Folge, dass","mit der Folge, dass ..."
+phrase,P0894,phrase_de,"wurde mir klar, dass","mir wurde klar, dass ..."
+phrase,P0895,phrase_de,"hatte den Eindruck, dass","ich hatte den Eindruck, dass ..."
+phrase,P0896,phrase_de,kann ich für Sie tun,was kann ich für Sie tun?
+phrase,P0897,phrase_de,"ging davon aus, dass","ich ging davon aus, dass ..."
+phrase,P0898,phrase_de,"zu beachten ist, dass","zu beachten ist, dass ..."
+phrase,P0899,phrase_de,"damit zu tun, dass","damit zu tun haben, dass ..."
+phrase,P0900,phrase_de,"deutet darauf hin, dass","deutet darauf hin, dass ..."
+phrase,P0901,phrase_de,"ich habe gehört, dass","ich habe gehört, dass ..."
+phrase,P0902,phrase_de,"gehe davon aus, dass","ich gehe davon aus, dass ..."
+phrase,P0903,phrase_de,nicht in der Lage ist,"nicht in der Lage sein, ... zu ..."
+phrase,P0904,phrase_de,"ich freue mich, dass","ich freue mich, dass ..."
+phrase,P0905,phrase_de,"hat mir erzählt, dass","... hat mir erzählt, dass ..."
+phrase,P0906,phrase_de,"ich wünschte, ich könnte","ich wünschte, ich könnte ..."
+phrase,P0908,phrase_de,"hätte nie gedacht, dass","ich hätte nie gedacht, dass ..."
+phrase,P0909,phrase_de,"hätte nicht gedacht, dass","ich hätte nicht gedacht, dass ..."
+phrase,P0910,phrase_de,"das liegt daran, dass","das liegt daran, dass ..."
+phrase,P0911,phrase_de,"ist zu berücksichtigen, dass","zu berücksichtigen ist, dass ..."
+phrase,P0913,phrase_de,"es ist wichtig, dass","es ist wichtig, dass ..."
+phrase,P0914,phrase_de,"habe das Gefühl, dass","ich habe das Gefühl, dass ..."
+phrase,P0915,phrase_de,"weisen darauf hin, dass","wir weisen darauf hin, dass ..."
+phrase,P0916,phrase_de,"ich glaube, das ist","ich glaube, das ist ..."
+phrase,P0917,phrase_de,"keine andere Wahl, als","keine andere Wahl haben, als ..."
+phrase,P0918,phrase_de,"es zeigt sich, dass","es zeigt sich, dass ..."
+phrase,P0919,phrase_de,"nicht damit gerechnet, dass","nicht damit gerechnet haben, dass ..."
+phrase,P0920,phrase_de,"in dem Maße, wie","in dem Maße, wie ..."
+phrase,P0922,phrase_de,"es ist besser, wenn","es ist besser, wenn ..."
+phrase,P0923,phrase_de,"lässt sich sagen, dass","es lässt sich sagen, dass ..."
+phrase,P0924,phrase_de,"stellt sich heraus, dass","es stellt sich heraus, dass ..."
+phrase,P0926,phrase_de,stellt sich die Frage nach,es stellt sich die Frage nach ...
+phrase,P0927,phrase_de,"lässt sich festhalten, dass","es lässt sich festhalten, dass ..."
+phrase,P0928,phrase_de,es ist an der Zeit,"es ist an der Zeit, ... zu ..."
+phrase,P0929,phrase_de,nicht in der Lage sind,"nicht in der Lage sein, ... zu ..."
+phrase,P0930,phrase_de,"es wird Zeit, dass","es wird Zeit, dass ..."
+phrase,P0931,phrase_de,"angesichts der Tatsache, dass","angesichts der Tatsache, dass ..."
+phrase,P0933,phrase_de,"ich wusste nicht, ob","ich wusste nicht, ob ..."
+phrase,P0934,phrase_de,"wie kommt es, dass","wie kommt es, dass ...?"
+phrase,P0935,phrase_de,"lässt sich feststellen, dass","es lässt sich feststellen, dass ..."
+phrase,P0936,phrase_de,"hat den Vorteil, dass","den Vorteil haben, dass ..."
+phrase,P0937,phrase_de,"das heißt nicht, dass","das heißt nicht, dass ..."
+phrase,P0938,phrase_de,"ich weiß nicht, wo","ich weiß nicht, wo ..."
+phrase,P0939,phrase_de,"ich denke nicht, dass","ich denke nicht, dass ..."
+phrase,P0940,phrase_de,"kann man sagen, dass","man kann sagen, dass ..."
+phrase,P0941,phrase_de,"ist der Grund, warum","der Grund sein, warum ..."
+phrase,P0944,phrase_de,auf der anderen Seite ist,auf der anderen Seite ist ...
+phrase,P0945,phrase_de,"der Grund dafür, dass","der Grund dafür, dass ..."
+phrase,P0948,phrase_de,"hat sich gezeigt, dass","es hat sich gezeigt, dass ..."
+phrase,P0949,phrase_de,"ich denke, es ist","ich denke, es ist ..."
+phrase,P0950,phrase_de,"ich bin überzeugt, dass","ich bin überzeugt, dass ..."
+phrase,P0951,phrase_de,"mit dem Unterschied, dass","mit dem Unterschied, dass ..."
+phrase,P0953,phrase_de,"unter der Voraussetzung, dass","unter der Voraussetzung, dass ..."
+phrase,P0954,phrase_de,"fiel mir auf, dass","mir fiel auf, dass ..."
+phrase,P0955,phrase_de,"ich wusste nicht, wie","ich wusste nicht, wie ..."
+phrase,P0956,phrase_de,"bin so froh, dass","ich bin so froh, dass ..."
+phrase,P0957,phrase_de,"sorgen Sie dafür, dass","sorgen Sie dafür, dass ..."
+phrase,P0958,phrase_de,"gilt auch dann, wenn","das gilt auch dann, wenn ..."
+phrase,P0959,phrase_de,"daran zu erinnern, dass","daran erinnern, dass ..."
+phrase,P0960,phrase_de,"ich wünschte, ich hätte","ich wünschte, ich hätte ..."
+phrase,P0961,phrase_de,"kann festgehalten werden, dass","es kann festgehalten werden, dass ..."
+phrase,P0962,phrase_de,"darauf geachtet werden, dass","darauf geachtet werden, dass ..."
+phrase,P0963,phrase_de,"keinen Zweifel daran, dass","keinen Zweifel daran haben, dass ..."
+phrase,P0964,phrase_de,"tut mir leid, wenn","es tut mir leid, wenn ..."
+phrase,P0965,phrase_de,"um zu zeigen, dass","um zu zeigen, dass ..."
+phrase,P0966,phrase_de,"hat mir gesagt, dass","... hat mir gesagt, dass ..."
+phrase,P0967,phrase_de,"kann nicht glauben, dass","nicht glauben können, dass ..."
+phrase,P0970,phrase_de,"man davon ausgehen, dass","man davon ausgehen, dass ..."
+phrase,P0971,phrase_de,"deuten darauf hin, dass","deuten darauf hin, dass ..."
+phrase,P0972,phrase_de,"habe keine Ahnung, was","ich habe keine Ahnung, was ..."
+phrase,P0973,phrase_de,"fest davon überzeugt, dass","fest davon überzeugt sein, dass ..."
+phrase,P0974,phrase_de,"ich glaube, ich bin","ich glaube, ich bin ..."
+phrase,P0976,phrase_de,"unter der Bedingung, dass","unter der Bedingung, dass ..."
+phrase,P0977,phrase_de,"ist die Frage, ob","die Frage ist, ob ..."
+phrase,P0979,phrase_de,"ich war froh, dass","ich war froh, dass ..."
+phrase,P0981,phrase_de,"aufgrund der Tatsache, dass","aufgrund der Tatsache, dass ..."
+phrase,P0982,phrase_de,"es ist anzunehmen, dass","es ist anzunehmen, dass ..."
+phrase,P0983,phrase_de,"weiß nicht, wie lange","ich weiß nicht, wie lange ..."
+phrase,P0984,phrase_de,"ich hoffe, du hast","ich hoffe, du hast ..."
+phrase,P0985,phrase_de,"hältst du davon, wenn","was hältst du davon, wenn ...?"
+phrase,P0986,phrase_de,kann ich mir nicht vorstellen,das kann ich mir nicht vorstellen
+phrase,P0988,phrase_de,"kann dazu führen, dass","kann dazu führen, dass ..."
+phrase,P0989,phrase_de,"es ist möglich, dass","es ist möglich, dass ..."
+phrase,P0991,phrase_de,"vor dem Hintergrund, dass","vor dem Hintergrund, dass ..."
+phrase,P0992,phrase_de,"ich muss zugeben, dass","ich muss zugeben, dass ..."
+phrase,P0993,phrase_de,ist es an der Zeit,es ist an der Zeit
+phrase,P0994,phrase_de,"frage ich mich, ob","ich frage mich, ob ..."
+phrase,P0995,phrase_de,"darauf hingewiesen werden, dass","darauf hingewiesen werden, dass ..."
+phrase,P0996,phrase_de,"ich gebe zu, dass","ich gebe zu, dass ..."
+phrase,P0997,phrase_de,"ich denke, wir sollten","ich denke, wir sollten ..."
+phrase,P0999,phrase_de,"ist zu erwarten, dass","es ist zu erwarten, dass ..."
+phrase,P1000,phrase_de,"es ist gut, dass","es ist gut, dass ..."
+phrase,P1001,phrase_de,"kann es passieren, dass","es kann passieren, dass ..."
+phrase,P1002,phrase_de,"lag es daran, dass","es lag daran, dass ..."
+phrase,P1003,phrase_de,"das bedeutet nicht, dass","das bedeutet nicht, dass ..."
+phrase,P1004,phrase_de,"ich frage mich, wie","ich frage mich, wie ..."
+phrase,P1005,phrase_de,"ein Zeichen dafür, dass","ein Zeichen dafür, dass ..."
+phrase,P1006,phrase_de,"es zu verdanken, dass","es zu verdanken sein, dass ..."
+phrase,P1007,phrase_de,"es wird deutlich, dass","es wird deutlich, dass ..."
+phrase,P1008,phrase_de,"es nicht verwunderlich, dass","es nicht verwunderlich sein, dass ..."
+phrase,P1009,phrase_de,"ich frage mich, was","ich frage mich, was ..."
+phrase,P1010,phrase_de,"ich glaube, du hast","ich glaube, du hast recht"
+phrase,P1011,phrase_de,"ich weiß nicht, wer","ich weiß nicht, wer ..."
+phrase,P1012,phrase_de,"werde dafür sorgen, dass","ich werde dafür sorgen, dass ..."
+phrase,P1013,phrase_de,"denken Sie daran, dass","denken Sie daran, dass ..."
+phrase,P1014,phrase_de,"die Erfahrung gemacht, dass","die Erfahrung gemacht haben, dass ..."
+phrase,P1015,phrase_de,"weiß gar nicht, was","ich weiß gar nicht, was ..."

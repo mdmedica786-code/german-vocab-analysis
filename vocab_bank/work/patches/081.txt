@@ -1,0 +1,100 @@
+P0660¦ph=ich wusste nicht, ob ...¦m=I didn't know whether ...¦lv=B1¦ex=Ich wusste nicht, ob du schon Feierabend hast.¦en=I didn't know whether you had finished work yet.¦gn=Präteritum; ob-Satz: Verb am Ende¦v=ich hatte keine Ahnung, ob | mir war unklar, ob
+P0661¦m=after a short time¦lv=B1¦ex=Nach kurzer Zeit kam die Krankenschwester zurück.¦en=After a short time the nurse came back.¦v=bald danach | nach einer Weile
+P0662¦ph=in den Mittelpunkt stellen¦m=to put at the centre¦lv=C1¦ex=Wir wollen den Patienten in den Mittelpunkt stellen.¦en=We want to put the patient at the centre.¦gn=stellen + Akk.: wohin?¦v=ins Zentrum rücken | hervorheben
+P0663¦m=only rarely¦lv=B1¦ex=Ich gehe nur selten ins Kino.¦en=I only rarely go to the cinema.¦v=selten | kaum
+P0664¦m=in the background¦lv=B2¦ex=Im Hintergrund läuft leise Musik.¦en=Quiet music is playing in the background.¦v=dahinter | im Verborgenen
+P0665¦ph=die Wahrscheinlichkeit, dass ...¦m=the probability that ...¦lv=C1¦ex=Die Wahrscheinlichkeit, dass er kommt, ist gering.¦en=The probability that he is coming is low.¦gn=dass-Satz: Verb am Ende¦v=die Chance, dass | das Risiko, dass
+P0666¦m=in winter¦lv=A1¦ex=Im Winter schneit es oft.¦en=In winter it often snows.¦gn=im + Dat.: Jahreszeit¦v=winters | in den Wintermonaten
+P0667¦ph=es ist wichtig, dass ...¦m=it is important that ...¦lv=B1¦ex=Es ist wichtig, dass du ausreichend schläfst.¦en=It is important that you sleep enough.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0136
+P0668¦ph=in diesem Kontext¦m=in this context¦lv=C1¦ex=In diesem Kontext ist das Wort höflich.¦en=In this context the word is polite.¦v=in diesem Zusammenhang | hier¦ck=dup:P0100
+P0669¦m=how often¦lv=A1¦ex=Wie oft nehmen Sie die Tabletten?¦en=How often do you take the tablets?¦v=wie häufig | wie viele Male
+P0670¦m=from the outset¦lv=C1¦ex=Von vornherein war klar, dass es schwierig wird.¦en=From the outset it was clear that it would be difficult.¦gn=auch: von vorneherein¦v=von Anfang an | von Beginn an
+P0671¦m=in the centre¦lv=A2¦ex=Das Krankenhaus liegt im Zentrum der Stadt.¦en=The hospital is in the centre of the city.¦v=in der Mitte | zentral
+P0672¦ph=das heißt, dass ...¦m=that means that ...¦lv=B1¦ex=Das heißt, dass wir morgen früher kommen.¦en=That means we are coming earlier tomorrow.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0007
+P0673¦ph=die Möglichkeit, dass ...¦m=the possibility that ...¦lv=B2¦ex=Es besteht die Möglichkeit, dass er wiederkommt.¦en=There is a possibility that he will come back.¦gn=dass-Satz: Verb am Ende¦v=die Chance, dass | die Gefahr, dass
+P0674¦m=towards the end¦lv=B1¦ex=Zum Ende des Jahres haben wir Urlaub.¦en=Towards the end of the year we have holiday.¦v=am Ende | gegen Ende
+P0675¦m=two days¦lv=A1¦ex=Ich bleibe nur zwei Tage.¦en=I'm only staying two days.¦gn=Akk. der Zeit¦v=2 Tage | zwei Tage lang
+P0676¦ph=festgestellt, dass ...¦m=established that ...¦lv=B2¦ex=Der Arzt hat festgestellt, dass der Blutdruck zu hoch ist.¦en=The doctor established that the blood pressure is too high.¦gn=Partizip II von „feststellen“¦ck=dup:P0487
+P0677¦m=minutes later¦lv=B1¦ex=Minuten später kam der Krankenwagen.¦en=Minutes later the ambulance arrived.¦v=kurz darauf | wenig später
+P0678¦ph=und so weiter¦m=and so on¦lv=A2¦ex=Wir lernen Wörter, Grammatik und so weiter.¦en=We learn words, grammar and so on.¦gn=Abkürzung: usw.¦v=usw. | und so fort
+P0679¦ph=die Annahme, dass ...¦m=the assumption that ...¦lv=C1¦ex=Wir gehen von der Annahme aus, dass der Test korrekt ist.¦en=We start from the assumption that the test is correct.¦gn=dass-Satz: Verb am Ende¦v=die Vermutung, dass | die Erwartung, dass
+P0680¦ph=ich bin sicher, dass ...¦m=I'm sure that ...¦lv=B1¦ex=Ich bin sicher, dass es gut ausgeht.¦en=I'm sure it will turn out well.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0302
+P0681¦m=a few times¦lv=A2¦ex=Ich war schon ein paar Mal in Deutschland.¦en=I have been to Germany a few times.¦v=einige Male | mehrmals
+P0682¦ph=nur hoffen, dass ...¦m=can only hope that ...¦lv=B2¦ex=Wir können nur hoffen, dass es gut geht.¦en=We can only hope that it goes well.¦gn=dass-Satz: Verb am Ende¦v=nur wünschen, dass | hoffentlich
+P0683¦ph=Jahre lang¦m=for years¦lv=B1¦ex=Ich habe Jahre lang in Köln gelebt.¦en=I lived in Cologne for years.¦gn=auch: jahrelang¦v=jahrelang | viele Jahre
+P0684¦m=abroad¦lv=A2¦ex=Meine Schwester arbeitet im Ausland.¦en=My sister works abroad.¦gn=im Ausland (wo?) / ins Ausland (wohin?)¦v=in einem anderen Land | außerhalb Deutschlands
+P0685¦ph=das Einzige, was ...¦m=the only thing that ...¦lv=B2¦ex=Das Einzige, was mir fehlt, ist Zeit.¦en=The only thing I'm missing is time.¦gn=Relativsatz mit „was“; Einzige groß¦v=nur eines | allein ...
+P0686¦m=at a later point¦lv=C1¦ex=Wir sprechen zu einem späteren Zeitpunkt darüber.¦en=We will talk about it at a later point.¦v=später | zu gegebener Zeit
+P0687¦m=one or two¦lv=A2¦ex=Ich brauche ein oder zwei Tage.¦en=I need one or two days.¦v=wenige | ein paar
+P0688¦ph=anders als bei ...¦m=different from with ...¦lv=B2¦ex=Anders als bei Erwachsenen verläuft die Krankheit bei Kindern leichter.¦en=Unlike in adults, the illness is milder in children.¦gn=bei + Dat.¦v=im Gegensatz zu | im Unterschied zu
+P0689¦m=not exactly¦lv=B1¦ex=Ich weiß nicht genau, wo er wohnt.¦en=I don't know exactly where he lives.¦v=nicht ganz | ungefähr
+P0690¦ph=gut, dann ...¦m=good, then ...¦lv=B1¦ex=Gut, dann sehen wir uns morgen.¦en=Good, then we'll see each other tomorrow.¦gn=Gesprächspartikel¦v=also gut | okay, dann
+P0691¦m=after eating¦lv=A2¦ex=Nach dem Essen mache ich einen Spaziergang.¦en=After eating I go for a walk.¦v=nach der Mahlzeit | anschließend
+P0692¦ph=wie weit ...?¦m=how far ...?¦lv=A2¦ex=Wie weit ist es bis zum Bahnhof?¦en=How far is it to the station?¦gn=Frage nach Entfernung¦v=wie viele Kilometer | wie lange dauert es bis
+P0693¦ph=ganz schön ...¦m=quite ...; rather ...¦lv=B2¦ex=Das war ganz schön anstrengend.¦en=That was quite exhausting.¦gn=umgangssprachlich: verstärkend¦v=ziemlich | ordentlich
+P0694¦ph=erwarten, dass ...¦m=to expect that ...¦lv=B2¦ex=Man kann nicht erwarten, dass alles perfekt ist.¦en=You can't expect everything to be perfect.¦gn=dass-Satz: Verb am Ende¦v=rechnen damit, dass | annehmen, dass
+P0695¦m=in half an hour¦lv=A2¦ex=In einer halben Stunde beginnt die Untersuchung.¦en=The examination begins in half an hour.¦gn=in + Dat.: Zeitspanne¦v=in 30 Minuten | gleich
+P0696¦ph=bis hin zum ...¦m=right up to the ...¦lv=C1¦ex=Wir untersuchen alles vom Kopf bis hin zum Fuß.¦en=We examine everything from head right down to foot.¦gn=zum = zu dem + Dat.¦ck=dup:P0405
+P0697¦ph=damit rechnen, dass ...¦m=to reckon with the fact that ...¦lv=B2¦ex=Wir rechnen damit, dass viele Patienten kommen.¦en=We are reckoning with many patients coming.¦gn=rechnen mit + Dat.; dass-Satz¦v=erwarten, dass | davon ausgehen, dass
+P0698¦ph=zu dem Ergebnis kommen, dass ...¦m=to come to the conclusion that ...¦lv=C1¦ex=Die Studie kommt zu dem Ergebnis, dass Sport hilft.¦en=The study comes to the conclusion that exercise helps.¦gn=dass-Satz: Verb am Ende¦v=zu dem Schluss kommen, dass | feststellen, dass
+P0699¦m=most people¦lv=B1¦ex=Die meisten Menschen schlafen nachts.¦en=Most people sleep at night.¦v=fast alle | der Großteil
+P0700¦ph=zum Zeitpunkt + Gen.¦m=at the time of ...¦lv=C1¦ex=Zum Zeitpunkt der Aufnahme hatte er Fieber.¦en=At the time of admission he had a fever.¦gn=zum Zeitpunkt + Gen.¦v=zur Zeit von | während
+P0701¦ph=ganz zu schweigen von ...¦m=not to mention ...¦lv=C1¦ex=Er hat kein Geld, ganz zu schweigen von einem Auto.¦en=He has no money, not to mention a car.¦gn=von + Dat.¦v=geschweige denn | und erst recht nicht
+P0702¦m=in the west¦lv=A2¦ex=Im Westen Deutschlands liegt das Ruhrgebiet.¦en=The Ruhr area is in the west of Germany.¦gn=im + Dat.: Himmelsrichtung¦v=westlich | im westlichen Teil
+P0703¦ph=ich fürchte, ...¦m=I'm afraid ...¦lv=B1¦ex=Ich fürchte, wir haben ein Problem.¦en=I'm afraid we have a problem.¦gn=höflich-vorsichtige Einleitung schlechter Nachrichten¦v=leider | ich muss sagen
+P0704¦m=the next time¦lv=A2¦ex=Das nächste Mal komme ich früher.¦en=Next time I'll come earlier.¦gn=Akk. der Zeit¦v=beim nächsten Mal | nächstes Mal
+P0705¦ph=eine Gruppe von ...¦m=a group of ...¦lv=B1¦ex=Eine Gruppe von Studenten wartet vor dem Hörsaal.¦en=A group of students is waiting in front of the lecture hall.¦gn=von + Dat.¦v=eine Gruppe + Gen. | mehrere
+P0706¦ph=auch im Hinblick auf ...¦m=also with regard to ...¦lv=C1¦ex=Auch im Hinblick auf die Kosten ist das Verfahren günstig.¦en=Also with regard to costs the procedure is cheap.¦gn=im Hinblick auf + Akk.¦ck=dup:P0069
+P0707¦m=shortly afterwards¦lv=B1¦ex=Wenig später klopfte es an der Tür.¦en=Shortly afterwards there was a knock at the door.¦v=kurz darauf | bald danach
+P0708¦ph=davon ausgegangen werden, dass ...¦m=it can be assumed that ...¦lv=C1¦ex=Es kann davon ausgegangen werden, dass alle kommen.¦en=It can be assumed that everyone will come.¦gn=Passiv mit Modalverb¦ck=dup:P0045
+P0709¦ph=egal, wie ...¦m=no matter how ...¦lv=B2¦ex=Egal, wie schwer es ist, ich versuche es.¦en=No matter how hard it is, I'll try.¦gn=wie-Satz: Verb am Ende¦ck=dup:P0486
+P0710¦m=not really (quite)¦lv=B2¦ex=Ich kann das nicht so recht glauben.¦en=I can't quite believe that.¦v=nicht richtig | nicht ganz
+P0711¦m=five minutes¦lv=A1¦ex=Der Bus kommt in fünf Minuten.¦en=The bus comes in five minutes.¦v=5 Minuten | wenige Minuten
+P0712¦m=from behind¦lv=B1¦ex=Er kam von hinten und erschreckte mich.¦en=He came from behind and startled me.¦v=hinten herum | rückseitig
+P0713¦m=at that time¦lv=B1¦ex=Zu der Zeit gab es noch keine Handys.¦en=At that time there were no mobile phones yet.¦v=damals | zu jener Zeit
+P0714¦ph=dies gilt auch für ...¦m=this also applies to ...¦lv=B2¦ex=Dies gilt auch für ältere Menschen.¦en=This also applies to older people.¦gn=gelten für + Akk.¦ck=dup:P0597
+P0715¦ph=ich freue mich, dass ...¦m=I'm pleased that ...¦lv=B1¦ex=Ich freue mich, dass du da bist.¦en=I'm pleased that you are here.¦gn=dass-Satz: Verb am Ende¦v=schön, dass | ich bin froh, dass
+P0716¦m=as a child¦lv=A2¦ex=Als Kind habe ich viel gespielt.¦en=As a child I played a lot.¦v=in der Kindheit | früher
+P0717¦m=only once¦lv=A2¦ex=Ich war nur einmal in Berlin.¦en=I have only been to Berlin once.¦v=ein einziges Mal | nur ein Mal
+P0718¦ph=kommen wir zu ...¦m=let's turn to ...¦lv=B2¦ex=Kommen wir nun zum nächsten Punkt.¦en=Let's now turn to the next point.¦gn=kommen zu + Dat.¦v=wenden wir uns ... zu | nun zu ...
+P0719¦m=much better¦lv=A2¦ex=Heute geht es mir viel besser.¦en=Today I'm feeling much better.¦gn=viel + Komparativ¦v=deutlich besser | wesentlich besser
+P0720¦ph=als Folge davon¦m=as a result of that¦lv=C1¦ex=Er hatte Diabetes, als Folge davon hat er schlechte Nieren.¦en=He had diabetes, as a result of that he has poor kidneys.¦v=infolgedessen | daraufhin
+P0721¦ph=es ist bekannt, dass ...¦m=it is known that ...¦lv=B2¦ex=Es ist bekannt, dass Bewegung gesund ist.¦en=It is known that exercise is healthy.¦gn=dass-Satz: Verb am Ende¦v=bekanntlich | man weiß, dass
+P0722¦ph=wer weiß, was ...¦m=who knows what ...¦lv=B2¦ex=Wer weiß, was er noch vorhat.¦en=Who knows what else he has planned.¦gn=was-Satz: Verb am Ende¦v=keine Ahnung, was | was auch immer
+P0723¦m=this year¦lv=A1¦ex=In diesem Jahr mache ich Urlaub in Italien.¦en=This year I'm taking my holiday in Italy.¦v=dieses Jahr | heuer
+P0724¦m=in hospital¦lv=A2¦ex=Mein Vater liegt im Krankenhaus.¦en=My father is in hospital.¦gn=im Krankenhaus (wo?) / ins Krankenhaus (wohin?)¦v=in der Klinik | stationär
+P0725¦ph=davon auszugehen, dass ...¦m=to assume that ...¦lv=C1¦ex=Wir haben allen Grund, davon auszugehen, dass er kommt.¦en=We have every reason to assume that he is coming.¦gn=zu + Infinitiv¦ck=dup:P0271
+P0726¦ph=wie beispielsweise ...¦m=such as ...¦lv=C1¦ex=Viele Faktoren, wie beispielsweise Alter, spielen eine Rolle.¦en=Many factors, such as age, play a role.¦v=wie zum Beispiel | etwa
+P0727¦ph=mehr oder minder¦m=more or less¦lv=C1¦ex=Die Werte sind mehr oder minder normal.¦en=The values are more or less normal.¦v=mehr oder weniger | ungefähr
+P0728¦m=once more¦lv=B1¦ex=Ein weiteres Mal bitte ich um Verständnis.¦en=Once more I ask for your understanding.¦v=noch einmal | erneut
+P0729¦ph=vermuten, dass ...¦m=to suspect that ...¦lv=B2¦ex=Wir vermuten, dass eine Infektion vorliegt.¦en=We suspect that an infection is present.¦gn=dass-Satz: Verb am Ende¦v=annehmen, dass | davon ausgehen, dass
+P0730¦m=very soon¦lv=A2¦ex=Wir sehen uns schon bald wieder.¦en=We'll see each other again very soon.¦v=bald | in Kürze
+P0731¦m=in this section¦lv=C1¦ex=In diesem Abschnitt erkläre ich die Grammatik.¦en=In this section I explain the grammar.¦v=hier | in diesem Teil
+P0732¦ph=für die meisten ...¦m=for most ...¦lv=B1¦ex=Für die meisten Patienten ist die Therapie gut verträglich.¦en=For most patients the therapy is well tolerated.¦gn=für + Akk.¦v=für viele | für die Mehrheit der
+P0733¦m=from inside¦lv=B1¦ex=Von innen ist das Haus sehr hell.¦en=From the inside the house is very bright.¦v=innen | im Inneren
+P0734¦m=days later¦lv=B1¦ex=Tage später ging es ihm besser.¦en=Days later he was better.¦v=einige Tage danach | später
+P0735¦ph=ich weiß gar nicht, ob ...¦m=I don't even know whether ...¦lv=B2¦ex=Ich weiß gar nicht, ob ich Zeit habe.¦en=I don't even know whether I have time.¦gn=ob-Satz: Verb am Ende¦v=ich bin nicht sicher, ob | keine Ahnung, ob
+P0736¦m=especially; particularly¦lv=B1¦ex=Ich mag Obst, ganz besonders Äpfel.¦en=I like fruit, particularly apples.¦v=insbesondere | vor allem
+P0737¦m=three years¦lv=A1¦ex=Ich lebe seit drei Jahren hier.¦en=I have lived here for three years.¦gn=seit + Dat.: Dauer¦v=3 Jahre | drei Jahre lang
+P0738¦ph=ich halte das für ...¦m=I consider that to be ...¦lv=B2¦ex=Ich halte das für eine gute Idee.¦en=I consider that a good idea.¦gn=halten für + Akk.¦v=ich finde das | ich betrachte das als ...
+P0739¦m=immediately afterwards¦lv=B1¦ex=Gleich darauf hörte man einen Knall.¦en=Immediately afterwards there was a bang.¦v=sofort danach | im nächsten Moment
+P0740¦ph=erklären, dass ...¦m=to explain that ...¦lv=B2¦ex=Der Arzt muss erklären, dass die OP Risiken hat.¦en=The doctor must explain that the operation has risks.¦gn=dass-Satz: Verb am Ende¦v=mitteilen, dass | darlegen, dass
+P0741¦m=solely; entirely¦lv=B2¦ex=Das liegt einzig und allein an dir.¦en=That is entirely up to you.¦v=ausschließlich | nur
+P0742¦m=in the east¦lv=A2¦ex=Im Osten Deutschlands liegt Berlin.¦en=Berlin is in the east of Germany.¦gn=im + Dat.: Himmelsrichtung¦v=östlich | im östlichen Teil
+P0743¦m=I had no idea¦lv=B1¦ex=Ich hatte keine Ahnung, dass du hier wohnst.¦en=I had no idea that you live here.¦gn=Präteritum von „haben“¦v=ich wusste nicht | das war mir neu
+P0744¦m=at the same time¦lv=B1¦ex=Zur gleichen Zeit rief mich meine Mutter an.¦en=At the same time my mother called me.¦v=gleichzeitig | zeitgleich
+P0745¦m=ten years¦lv=A2¦ex=Wir sind schon zehn Jahre verheiratet.¦en=We have been married for ten years.¦v=10 Jahre | ein Jahrzehnt
+P0746¦m=for some time¦lv=B1¦ex=Ich habe seit einiger Zeit Rückenschmerzen.¦en=I have had back pain for some time.¦gn=seit + Dat.: Dauer¦v=seit Kurzem | seit geraumer Zeit
+P0747¦m=in the narrower sense¦lv=C1¦ex=Im engeren Sinne ist das keine Krankheit.¦en=In the narrower sense this is not an illness.¦v=genau genommen | streng genommen
+P0748¦ph=ich fühle mich ...¦m=I feel ...¦lv=A2¦ex=Ich fühle mich heute viel besser.¦en=I feel much better today.¦gn=sich fühlen + Adjektiv¦ck=dup:P0096
+P0749¦ph=nur ein einziges Mal¦m=only a single time¦lv=B2¦ex=Ich habe das nur ein einziges Mal gesehen.¦en=I have seen that only a single time.¦v=nur einmal | ein einziges Mal¦ck=dup:P0627
+P0750¦ph=im Vergleich mit ...¦m=in comparison with ...¦lv=B2¦ex=Im Vergleich mit gestern geht es mir besser.¦en=Compared with yesterday I feel better.¦gn=mit + Dat.¦ck=dup:P0017
+P0751¦ph=ziemlich sicher sein, dass ...¦m=to be fairly sure that ...¦lv=B2¦ex=Ich bin ziemlich sicher, dass das stimmt.¦en=I'm fairly sure that this is correct.¦gn=dass-Satz: Verb am Ende¦v=so gut wie sicher | beinahe sicher
+P0752¦m=in the next few years¦lv=B1¦ex=In den nächsten Jahren will ich Arzt werden.¦en=In the next few years I want to become a doctor.¦v=künftig | in naher Zukunft
+P0753¦m=in the north¦lv=A2¦ex=Im Norden Deutschlands liegt das Meer.¦en=The sea is in the north of Germany.¦gn=im + Dat.: Himmelsrichtung¦v=nördlich | im nördlichen Teil
+P0754¦m=of great importance¦lv=C1¦ex=Diese Untersuchung ist von großer Bedeutung.¦en=This examination is of great importance.¦v=sehr wichtig | entscheidend
+P0755¦ph=in erster Linie auf ...¦m=primarily on ...¦lv=C1¦ex=Der Erfolg beruht in erster Linie auf Teamarbeit.¦en=Success is primarily based on teamwork.¦gn=beruhen auf + Dat.; in erster Linie¦ck=dup:P0117
+P0756¦m=this morning¦lv=A1¦ex=Heute Morgen habe ich lange geschlafen.¦en=This morning I slept late.¦gn=heute Morgen (groß): Zeitpunkt¦v=heute früh | am heutigen Morgen
+P0757¦m=three days¦lv=A1¦ex=Ich war drei Tage krank.¦en=I was ill for three days.¦gn=Akk. der Zeit¦v=3 Tage | drei Tage lang
+P0758¦ph=ich bin mir nicht sicher¦m=I'm not sure¦lv=B1¦ex=Ich bin mir nicht sicher, ob das richtig ist.¦en=I'm not sure whether that is right.¦gn=sich (Dat.) nicht sicher sein¦v=ich bin nicht sicher | ich zweifle¦ck=dup:P0412
+P0759¦ph=ein Blick auf ...¦m=a look at ...¦lv=B1¦ex=Ein Blick auf die Uhr zeigt: Es ist spät.¦en=A glance at the clock shows: it's late.¦gn=Blick auf + Akk.¦v=ein Blick in ... | ein kurzer Überblick über
