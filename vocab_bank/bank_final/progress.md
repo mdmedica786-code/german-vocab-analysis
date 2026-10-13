@@ -24,7 +24,7 @@ BLOCK 5 Redemittel wave 2, 3 + export | BLOCK 6 remaining vocab, then skip=yes r
 
 ## Current block / NEXT STEP
 BLOCK 1 DONE (vocab study_order 1-800). BLOCK 2 DONE (Redemittel wave 1, B1-01..B1-20: 408 rows, min 366; export run).
-BLOCKS 1-6 DONE (vocab 6524/6524 complete incl. skip=yes rows; phrases 1016; Redemittel 1176, core share 64%; exported). validate --final = 0 errors. NOW: BLOCK 7 QA - audits (150 vocab / 60 phrase / 80 Redemittel), QA_report.md, final export.
+ALL BLOCKS DONE (1-7). validate --final = 0 errors; audits done and fixed; QA_report.md written; German_Bank.xlsx exported (Vocabulary 6524, Phrases 1016, Redemittel 1176).
 
 ## Decisions
 - Environment: cloud Linux container; root = repo folder vocab_bank/ (input/, bank_final/, work/). Work is committed to git branch claude/intelligent-maxwell-ubz9a4.

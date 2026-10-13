@@ -1,0 +1,3 @@
+R0397¦v=Wie geht's Ihnen? – Gut, danke. | Danke, es geht mir gut. Und Ihnen?
+R0936¦de=Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass ...¦ex=Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass sich die Entzündung ausbreitet.¦v=Ohne Operation könnte es passieren, dass ... | Wenn Sie darauf verzichten, kann ...
+R0824¦v=Folgen Sie bitte mit den Augen meinem Finger. | Verfolgen Sie meinen Finger mit den Augen.

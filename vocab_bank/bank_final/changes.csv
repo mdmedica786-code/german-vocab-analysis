@@ -2589,3 +2589,22 @@ redemittel,R1171,priority,core,extra
 redemittel,R1173,priority,core,extra
 redemittel,R1174,priority,core,extra
 redemittel,R1175,priority,core,extra
+phrase,P0273,function,"Vorschlagen / Raten (suggest, advise)",Sonstige nützliche Wendung (other useful expression)
+phrase,P0409,variants,irgendwann | an einem Tag,irgendwann
+redemittel,R0397,variants,"Wie geht's Ihnen? – Gut, danke. | Und selbst? – Auch gut, danke.","Wie geht's Ihnen? – Gut, danke. | Danke, es geht mir gut. Und Ihnen?"
+redemittel,R0936,variants,"Ohne Operation könnte es passieren, dass ... | Verzichten Sie darauf, kann ...","Ohne Operation könnte es passieren, dass ... | Wenn Sie darauf verzichten, kann ..."
+redemittel,R0936,redemittel_de,"Wenn Sie nicht operieren lassen, besteht das Risiko, dass ...","Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass ..."
+redemittel,R0936,example_de,"Wenn Sie nicht operieren lassen, besteht das Risiko, dass sich die Entzündung ausbreitet.","Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass sich die Entzündung ausbreitet."
+redemittel,R0824,variants,Schauen Sie bitte meinem Finger nach. | Verfolgen Sie meinen Finger mit den Augen.,Folgen Sie bitte mit den Augen meinem Finger. | Verfolgen Sie meinen Finger mit den Augen.
+vocab,B1157,meaning_en,salutation,greeting formula (e.g. complimentary close)
+vocab,B2253,meaning_en,to be present,to be there; to be included; to take part
+vocab,B2394,plural,–,Hinfahrten
+vocab,B2865,meaning_en,contradiction,contradiction; objection; (legal) appeal
+vocab,B3807,example_en,My boss often inquires after the status of my projects.,My boss often asks me about the status of my project.
+vocab,B6265,perfect,hat geweigert,hat sich geweigert
+vocab,B6402,example_de,Wir gehen heute Abend in die Disco/Disko.,Wir gehen heute Abend in die Disko.
+vocab,B0797,level,A1,B2
+vocab,B2031,meaning_en,secondary modern school graduation,intermediate school-leaving certificate (Realschule)
+vocab,B3403,collocations,darum bitten | darum geht es | genau darum | nicht darum,darum bitten | darum geht es | genau darum | darum geht es nicht
+vocab,B4716,level,B1,B2
+vocab,B5737,meaning_en,southern,southern; south of
