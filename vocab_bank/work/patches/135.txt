@@ -1,0 +1,100 @@
+B3192¦tp=T10¦ex=Meine Schwester hört gern Pop.¦en=My sister likes listening to pop.
+B3193¦tp=T10¦ex=Der Rap handelt vom Leben in der Stadt.¦en=The rap is about life in the city.
+B3194¦pos=adjective¦tp=T10¦ex=Das Lied klingt richtig rockig.¦en=The song sounds really rocking.
+B5407¦pos=adjective¦m=strategic¦lv=B2¦ex=Die Firma plant strategisch für die nächsten Jahre.¦en=The company plans strategically for the next few years.
+B3195¦pos=adjective¦m=friends (with each other)¦tp=T01¦ex=Wir sind schon lange befreundet.¦en=We have been friends for a long time.
+B3198¦pos=adjective¦m=in a mood¦tp=T14¦en=Today I'm in a good/bad mood.
+B3199¦en=The programme has many listeners.
+B5408¦pos=adjective¦m=western¦ex=Westlich von Berlin liegt Potsdam.¦en=Potsdam lies west of Berlin.
+B3200¦en=The programme has many listeners.
+B3202¦ck=-¦tp=T10¦ex=Der Kunstexperte schätzt das Bild auf zehntausend Euro.¦en=The art expert values the painting at ten thousand euros.
+B3203¦ck=-¦tp=T10¦ex=Die Kunstexpertin hält einen Vortrag im Museum.¦en=The art expert gives a talk at the museum.
+B5409¦m=to bring about; to cause¦lv=C1¦ps=bewirkt¦pt=bewirkte¦pf=hat bewirkt¦ex=Die Medikamente bewirken eine schnelle Besserung.¦en=The medicines bring about a quick improvement.
+B3204¦tp=T10¦ex=Der Nachrichtensprecher liest die Meldungen vor.¦en=The newsreader reads out the reports.
+B3205¦tp=T10¦ex=Die Nachrichtensprecherin begrüßt die Zuschauer.¦en=The newsreader welcomes the viewers.
+B3206¦ck=-¦tp=T10¦ex=Der Radiosprecher hat eine angenehme Stimme.¦en=The radio announcer has a pleasant voice.
+B3255¦pos=adjective¦en=We wish you a pleasant journey.
+B3207¦ck=-¦tp=T10¦ex=Die Radiosprecherin kündigt das nächste Lied an.¦en=The radio announcer introduces the next song.
+B3208¦tp=T10¦ex=Der Sammler besitzt über tausend Briefmarken.¦en=The collector owns over a thousand stamps.
+B3209¦tp=T10¦ex=Die Sammlerin zeigt ihre alten Münzen.¦en=The collector shows her old coins.
+B5410¦m=to teach¦lv=B2¦ps=lehrt¦pt=lehrte¦pf=hat gelehrt¦ex=Er lehrt Medizin an der Universität.¦en=He teaches medicine at the university.
+B3210¦tp=T07¦ex=Das Sofa war ein richtiges Schnäppchen.¦en=The sofa was a real bargain.
+B3211¦tp=T14¦ex=In der Bibliothek herrscht Stille.¦en=Silence reigns in the library.
+B3214¦pt=verschlief¦tp=T13¦ex=Ich habe heute leider verschlafen.¦en=Unfortunately I overslept today.
+B5411¦m=to identify¦lv=B2¦ps=identifiziert¦pt=identifizierte¦pf=hat identifiziert¦ex=Die Polizei konnte den Täter identifizieren.¦en=The police were able to identify the culprit.
+B3216¦pos=adjective¦en=I have a very valuable ring from my grandmother.
+B3217¦tp=T15¦ex=„Der“ ist in diesem Satz ein Relativpronomen.¦en="Der" is a relative pronoun in this sentence.
+B3218¦tp=T15¦ex=Ein Relativsatz beschreibt ein Nomen näher.¦en=A relative clause describes a noun in more detail.
+B5412¦pl=–¦m=warmth; heat¦en=Heat is good for my pain.
+B3219¦m=report; announcement¦en=Did you hear the announcement on the radio?
+B3220¦ck=-¦tp=T15¦ex=Das Bezugswort des Relativsatzes steht davor.¦en=The antecedent of the relative clause comes before it.
+B3221¦m=lead role¦tp=T10¦ex=Sie spielt die Hauptrolle in dem Film.¦en=She plays the lead role in the film.
+B3668¦en=The host welcomes his guests.
+B3222¦ck=-¦ef=der Prominente; die Prominente; die Prominenten¦tp=T10¦ex=Viele Prominente kamen zur Premiere.¦en=Many celebrities came to the premiere.
+B3223¦en=She won the quiz.
+B3224¦tp=T10¦ex=Die Malerei ist ihr Hobby.¦en=Painting is her hobby.
+B5413¦pos=preposition¦g=+ Gen.¦m=beyond; on the other side of¦lv=C1¦ex=Jenseits der Grenze beginnt ein anderes Land.¦en=Beyond the border another country begins.
+B3225¦tp=T10¦ex=Im Museum bekommt man einen Audioguide.¦en=At the museum you get an audio guide.
+B3227¦tp=T04¦ex=Meine Tochter studiert Kunstgeschichte.¦en=My daughter studies art history.
+B3228¦ck=-¦tp=T10¦ex=An der Wand hängt ein Tierbild.¦en=An animal picture hangs on the wall.
+B4208¦ps=deckt¦pt=deckte¦pf=hat gedeckt¦tp=T06
+B3229¦ck=-¦ps=malt ab¦pt=malte ab¦pf=hat abgemalt¦tp=T10¦m=to copy (in a drawing)¦ex=Das Kind malt das Bild ab.¦en=The child copies the picture.
+B3230¦ck=-¦tp=T10¦ex=Die Tiermalerei ist ein altes Genre.¦en=Animal painting is an old genre.
+B3231¦tp=T11¦ex=Im Wald haben wir ein Wildschwein gesehen.¦en=In the forest we saw a wild boar.
+B4643¦ps=setzt um¦pt=setzte um¦pf=hat umgesetzt¦tp=T16¦ex=Wir wollen den Plan bald umsetzen.¦en=We want to put the plan into practice soon.
+B3232¦pos=adjective¦tp=T10¦ex=Das Bild ist sehr abstrakt.¦en=The picture is very abstract.
+B3234¦pos=adjective¦tp=T14¦ex=Der Film war uninteressant.¦en=The film was uninteresting.
+B3235¦pos=adjective¦en=Have you gone mad?!
+B4262¦en=I can't accept these conditions.
+B3236¦tp=T15¦ex=Schreiben Sie eine Bildbeschreibung zu diesem Foto.¦en=Write a description of this photo.
+B3237¦pos=adverb¦ex=Das Haus steht links, dahinter ist der Garten.¦en=The house is on the left; behind it is the garden.
+B3240¦tp=T10
+B3519¦pos=adjective¦ex=Der Patient braucht medizinische Hilfe.¦en=The patient needs medical help.¦col=medizinische Versorgung | medizinische Behandlung | medizinisch notwendig | medizinischer Notfall
+B3241¦en=I noticed that Harriett is very pale.
+B3242¦tp=T08¦ex=Vom Balkon hat man einen schönen Ausblick.¦en=From the balcony you have a lovely view.
+B3461¦tp=T16¦en=Because of his work he unfortunately can't come.
+B5414¦m=stomach¦en=My stomach hurts.
+B4567¦pos=adjective¦en=I'd like a soft-boiled egg for breakfast.
+B4674¦en=He gives his girlfriend red roses for her birthday.
+B4792¦tp=T06¦en=I like eating oranges.
+B5415¦m=consent; approval¦en=We need your consent to send you advertising.
+B3631¦pt=verliebte¦en=I'm totally in love.
+B3257¦en=The bus stop is over there.
+B5416¦m=to threaten¦g=+ Dat.¦lv=B2¦ps=droht¦pt=drohte¦pf=hat gedroht¦ex=Dem Patienten droht eine Operation.¦en=The patient faces an operation.
+B5784¦m=to be finished; to be ready¦ps=ist fertig¦pt=war fertig¦pf=ist fertig gewesen¦tp=T16¦en=The food will be ready in a moment. Are you coming?
+B5786¦m=to be fit¦ps=ist fit¦pt=war fit¦pf=ist fit gewesen¦tp=T10¦en=Tom wants to be fit. He goes to the gym every day.
+B5790¦m=to be valid¦ps=ist gültig¦pt=war gültig¦pf=ist gültig gewesen¦tp=T09¦en=The passport is no longer valid.
+B5417¦m=opponent¦en=The team from France was a very strong opponent.
+B5815¦m=to be on the way; to be out and about¦ps=ist unterwegs¦pt=war unterwegs¦pf=ist unterwegs gewesen¦tp=T08¦en=Please wait for me. I'm on my way and will be there shortly.
+B5078¦ps=überlebt¦pt=überlebte¦pf=hat überlebt¦ex=Der Patient hat die Operation gut überlebt.¦en=The patient survived the operation well.
+B4338¦en=You shouldn't lie.
+B4375¦en=The riddle is difficult! I don't know the answer.
+B4677¦en=Don't you have a bigger pot? I want to cook potatoes.
+B3555¦en=The separation from the family was difficult.
+B4417¦m=device; apparatus¦en=What shall we do with your old device?
+B5045¦m=to enter; to register¦en=Please enter your name on this list!
+B4090¦m=New Year's Eve¦ex=An Silvester feiern wir mit Freunden.¦en=On New Year's Eve we celebrate with friends.
+B4602¦pos=adjective¦m=apparent; seeming¦ex=Es war nur ein scheinbarer Erfolg.¦en=It was only an apparent success.
+B4157¦en=Today we're going to the circus with the children.
+B4218¦m=health insurance company¦en=Which health insurance company are you with?
+B3766¦en=The scissors don't cut well. Do you have another pair?
+B3663¦tp=T07¦ex=Das Kleid hat ein schönes Muster.¦en=The dress has a lovely pattern.
+B3702¦ex=Der Briefträger trägt die Post aus.¦en=The postman delivers the post.
+B6420¦m=to have a cold¦ps=ist erkältet¦pt=war erkältet¦pf=ist erkältet gewesen¦tp=T05¦en=Lisa has a cold. She can't go to school today.
+B4016¦pos=adjective¦en=Drive carefully! It's foggy.
+B4719¦en=Nowadays many fathers also take care of the children's upbringing.
+B3890¦m=cattle; beef¦en=I only eat beef.
+B3922¦pos=adjective¦en=Smoking is harmful to your health.
+B6588¦m=to have arranged to meet¦ps=ist verabredet¦pt=war verabredet¦pf=ist verabredet gewesen¦tp=T01¦en=I have arranged to meet my girlfriend.
+B3986¦m=to lend; to award¦ex=Ich verleihe meine Bücher nicht gern.¦en=I don't like lending my books.
+B3247¦en=At the weekend we can laze around.
+B3248¦pos=adjective¦en=Careful, that is poisonous!
+B4899¦pos=adverb¦m=apparently¦tp=T15¦ex=Anscheinend ist er schon gegangen.¦en=Apparently he has already left.
+B3251¦ex=Ein Insekt hat mich in den Arm gestochen.¦en=An insect stung me on the arm.
+B3252¦m=mushroom; fungus¦en=Do you have fresh mushrooms?
+B3254¦en=I have never camped.
+B5419¦art=die¦pl=Leichen¦m=corpse¦lv=C1¦ex=Die Leiche wurde in die Pathologie gebracht.¦en=The body was taken to the pathology department.
+B3256¦en=From this tower you have a great view.
+B3258¦en=The trip was a great experience.
+B3259¦ex=Der Kaffee ist jeden Morgen ein Genuss.¦en=The coffee is a pleasure every morning.
+B5420¦art=der¦pl=–¦m=overview¦lv=B2¦ex=Ich verschaffe mir zuerst einen Überblick.¦en=First I get an overview.

@@ -1605,3 +1605,131 @@ vocab,B2678,meaning_en,panel,forum; online forum
 vocab,B2683,register,neutral,informal
 vocab,B2686,meaning_en,to race,to speed; to race
 vocab,B2692,check,ocr?,
+vocab,B2699,meaning_en,to clear,to clear; to free up
+vocab,B2701,check,ocr?,
+vocab,B2702,check,ocr?,
+vocab,B2706,check,article?,
+vocab,B2712,meaning_en,todo,to do; to undertake
+vocab,B4940,meaning_en,to determine,to determine; to commit oneself
+vocab,B2728,meaning_en,secretary's office,secretary's office; administrative office
+vocab,B5346,pres_3sg,nähert sich,nähert
+vocab,B5346,preterite,näherte sich,näherte
+vocab,B2734,check,article?,
+vocab,B2735,topic,T02 Wohnen,T03 Arbeit & Beruf
+vocab,B2743,meaning_en,to translate,to interpret
+vocab,B5348,pres_3sg,verläuft sich,verläuft
+vocab,B5348,preterite,verlief sich,verlief
+vocab,B2748,check,ocr?,
+vocab,B2749,check,ocr?,
+vocab,B2750,check,ocr?,
+vocab,B2752,check,article?,
+vocab,B2759,check,article?,
+vocab,B2833,meaning_en,health,health; bless you (after a sneeze)
+vocab,B2760,example_de,um Mitternacht,Die Party endet um Mitternacht.
+vocab,B5352,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B2777,meaning_en,action,campaign; action
+vocab,B2782,check,article?,
+vocab,B2829,meaning_en,goal,gate; goal
+vocab,B2791,meaning_en,to rinse,to rinse; to wash up
+vocab,B3658,topic,T05 Gesundheit & Körper,"T07 Einkaufen, Kleidung & Geld"
+vocab,B3658,example_en,Before the euro the currency in Germany was German Mark.,Before the euro the currency in Germany was the Mark.
+vocab,B3658,medical,related,
+vocab,B5354,topic,"T07 Einkaufen, Kleidung & Geld",T05 Gesundheit & Körper
+vocab,B2797,check,article?,
+vocab,B4514,example_en,What's the word again? It's on the top of my tongue.,What's the word again? It's on the tip of my tongue.
+vocab,B2807,meaning_en,fluent,fluent; liquid
+vocab,B2812,check,ocr?,
+vocab,B2818,meaning_en,bat,racket; bat
+vocab,B2819,check,ocr?,
+vocab,B2820,meaning_en,sport,type of sport; sport
+vocab,B2841,register,neutral,informal
+vocab,B5362,pos,adjective,numeral
+vocab,B2867,example_de,Meine Cousine wohnt jetzt in Brasilien.,Mein Cousin studiert Medizin.
+vocab,B5364,register,neutral,informal
+vocab,B2869,example_de,"Ich weiß nicht, ob ich — für das Joggen genug Kondition habe.","Ich weiß nicht, ob ich für das Joggen genug Kondition habe."
+vocab,B2871,meaning_en,recent,recently
+vocab,B2875,check,ocr?,
+vocab,B2876,check,ocr?,
+vocab,B2885,check,ocr?,
+vocab,B4688,meaning_en,master (m),master craftsman; master
+vocab,B2903,meaning_en,route,route; distance
+vocab,B3646,meaning_en,to give up; to abandon,to give up; to abandon; to post
+vocab,B2904,meaning_en,strip,strip; stripe
+vocab,B2912,check,ocr?,
+vocab,B5371,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B2914,example_de,Berlin hat über drei Millionen Einwohner.,Jede Einwohnerin der Stadt bekommt einen Brief.
+vocab,B2916,check,ocr?,
+vocab,B2926,meaning_en,COW,cow
+vocab,B2946,meaning_en,package,small parcel
+vocab,B5376,level,B1,B2
+vocab,B2958,check,ocr?,
+vocab,B2959,check,ocr?,
+vocab,B2964,check,ocr?,
+vocab,B2967,check,ocr?,
+vocab,B3963,meaning_en,to be available,available
+vocab,B3963,pos,verb,adjective
+vocab,B2971,example_de,Sie hat heute neue Mieter für die Wohnung gefunden.,Die Mieterin zahlt die Miete pünktlich.
+vocab,B2974,gov,mit + Dat.,in + Dat.
+vocab,B2988,check,ocr?,
+vocab,B2989,meaning_en,stress,accent; stress
+vocab,B2993,check,ocr?,
+vocab,B2999,check,ocr?,
+vocab,B3002,meaning_en,feed,animal feed; fodder
+vocab,B3020,check,ocr?,
+vocab,B3862,meaning_en,plan,planning; plan
+vocab,B3032,check,ocr?,
+vocab,B3037,check,ocr?,
+vocab,B3060,meaning_en,to fire,to discharge; to dismiss
+vocab,B3804,meaning_en,all,all; entire
+vocab,B3072,check,ocr?,
+vocab,B3073,check,ocr?,
+vocab,B3076,check,article?,
+vocab,B3078,check,ocr?,
+vocab,B3641,meaning_en,embassy,embassy; message
+vocab,B3127,meaning_en,criminality,crime; criminality
+vocab,B3128,meaning_en,crime,scenery; backdrop
+vocab,B3131,check,ocr?,
+vocab,B3134,meaning_en,castle,castle; lock
+vocab,B3141,check,ocr?,
+vocab,B3145,meaning_en,electric,electro (music)
+vocab,B3146,check,ocr?,
+vocab,B3152,check,ocr?,
+vocab,B3154,check,ocr?,
+vocab,B3163,meaning_en,nett,net
+vocab,B3164,check,ocr?,
+vocab,B3165,check,ocr?,
+vocab,B3170,meaning_en,standing room (only),standing place
+vocab,B3171,meaning_en,tax (value-added tax),tax
+vocab,B3172,check,ocr?,
+vocab,B3175,check,ocr?,
+vocab,B3179,check,ocr?,
+vocab,B3181,check,ocr?,
+vocab,B3183,meaning_en,provisions,catering; food
+vocab,B5406,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B3195,meaning_en,friendly,friends (with each other)
+vocab,B3198,example_en,Today I'm ina good I bad mood.,Today I'm in a good/bad mood.
+vocab,B3198,pos,verb,adjective
+vocab,B3198,meaning_en,to be in a mood (type of),in a mood
+vocab,B3202,check,ocr?,
+vocab,B3203,check,ocr?,
+vocab,B3206,check,ocr?,
+vocab,B3207,check,ocr?,
+vocab,B3219,meaning_en,announcement,report; announcement
+vocab,B3220,check,ocr?,
+vocab,B3221,meaning_en,lead,lead role
+vocab,B3222,check,article?,
+vocab,B3228,check,ocr?,
+vocab,B3229,meaning_en,to depict,to copy (in a drawing)
+vocab,B3229,check,ocr?,
+vocab,B3230,check,ocr?,
+vocab,B4417,meaning_en,"apparatus, machine",device; apparatus
+vocab,B5045,meaning_en,to register,to enter; to register
+vocab,B4090,meaning_en,new year,New Year's Eve
+vocab,B4602,meaning_en,apparent,apparent; seeming
+vocab,B4218,meaning_en,insurance company,health insurance company
+vocab,B3702,example_de,Post austragen,Der Briefträger trägt die Post aus.
+vocab,B3702,example_en,to deliver post,The postman delivers the post.
+vocab,B3890,meaning_en,beef,cattle; beef
+vocab,B3986,meaning_en,to lend,to lend; to award
+vocab,B4899,meaning_en,apparent,apparently
+vocab,B3252,meaning_en,mushroom,mushroom; fungus

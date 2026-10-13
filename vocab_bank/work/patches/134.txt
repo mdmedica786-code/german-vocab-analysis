@@ -1,0 +1,100 @@
+B3213¦en=It was a great party. The mood was very good.
+B3089¦en=We cook with gas.
+B3090¦en=We heat with oil.
+B3091¦en=It's cold. Is the heating broken?
+B4067¦en=The participants from our course come from different countries.
+B3092¦tp=T14¦ex=Im Alltag gibt es oft viel Hektik.¦en=In everyday life there is often a lot of rush.
+B3093¦tp=T03¦ex=Die Helfer verteilen Wasser.¦en=The helpers distribute water.
+B3094¦tp=T03¦ex=Die Helferin bringt den Kaffee.¦en=The helper brings the coffee.
+B3810¦pos=adjective¦en=I ask you to come earlier in future.
+B3095¦pos=adjective¦en=It's cool outside. Put on a jacket.
+B3096¦tp=T08¦ex=Die Kutsche fährt durch die Altstadt.¦en=The carriage drives through the old town.
+B3097¦tp=T16¦ex=In meinem Lebenslauf gibt es eine Lücke.¦en=There is a gap in my CV.
+B4547¦tp=T14¦ex=Die Schönheit der Berge beeindruckt mich.¦en=The beauty of the mountains impresses me.
+B3099¦en=We have an emergency. Please send an ambulance.
+B3100¦en=Our company produces lighters.
+B3102¦en=How can I save electricity in the household?
+B5392¦m=all the more; the (more)¦en=The earlier we're there, the better our chances of a good seat.
+B3104¦en=I'm still looking for accommodation in Basel. Do you know a cheap hotel?
+B3108¦en=Is the ring made of gold? No, it just looks like it.
+B3109¦ps=heilt¦pt=heilte¦pf=hat geheilt¦nt=Intransitive (wounds): heilt – heilte – ist geheilt.¦ex=Die Wunde heilt langsam.¦en=The wound is healing slowly.¦col=Wunden heilen | Krankheiten heilen | vollständig heilen | schnell heilen
+B4222¦ex=Der Präsident hält eine Rede.¦en=The president gives a speech.
+B3110¦tp=T13¦ex=In der frühen Morgenstunde ist die Stadt noch ruhig.¦en=In the early morning hour the city is still quiet.
+B3112¦tp=T15¦ex=Ein deutsches Sprichwort sagt: Übung macht den Meister.¦en=A German proverb says: practice makes perfect.
+B3114¦pos=adjective¦tp=T16¦ex=Diese Methode ist sehr effektiv.¦en=This method is very effective.
+B5393¦m=Greek¦ex=Mein Nachbar kocht gern griechisch.¦en=My neighbour likes cooking Greek food.
+B3118¦tp=T12¦ex=Die Königin besucht das Krankenhaus.¦en=The queen visits the hospital.
+B3119¦en=We wish you good entertainment.
+B3124¦pos=adjective¦ex=Die Kontrolle findet jährlich statt.¦en=The check takes place annually.
+B5394¦m=conviction¦en=How did you come to this conviction?
+B3125¦tp=T10¦ex=Ich lese meiner Tochter ein Kinderbuch vor.¦en=I read a children's book to my daughter.
+B3127¦tp=T12¦m=crime; criminality¦ex=Die Kriminalität in der Stadt ist gesunken.¦en=Crime in the city has fallen.
+B3128¦m=scenery; backdrop¦tp=T10¦ex=Die Kulisse des Theaterstücks ist sehr schön.¦en=The scenery of the play is very beautiful.
+B5395¦art=die¦pl=Differenzen¦m=difference¦lv=B2¦ex=Die Differenz zwischen beiden Werten ist klein.¦en=The difference between the two values is small.
+B3129¦tp=T10¦ex=Das Märchenschloss liegt auf einem Berg.¦en=The fairytale castle stands on a mountain.
+B3131¦pos=adjective¦ck=-¦tp=T10¦ex=Das ist die meistabonnierte Zeitschrift des Landes.¦en=This is the most subscribed magazine in the country.
+B3134¦m=castle; lock¦tp=T10¦en=At the weekend we're visiting Neuschwanstein Castle.
+B5396¦pos=adjective¦m=active; employed¦lv=B2¦ex=Sie ist als Ärztin tätig.¦en=She works as a doctor.
+B3135¦tp=T10¦ex=Der Synchronsprecher leiht dem Schauspieler seine Stimme.¦en=The voice actor lends the actor his voice.
+B3136¦tp=T10¦ex=Die Synchronsprecherin spricht die Hauptrolle.¦en=The voice actress speaks the lead role.
+B5397¦m=hole¦en=I have a hole in my tooth. I have to go to the dentist.
+B3139¦tp=T10¦ex=Die Verfilmung des Romans war ein Erfolg.¦en=The film adaptation of the novel was a success.
+B3140¦tp=T10¦ex=Der Wanderer macht Pause am See.¦en=The hiker takes a break at the lake.
+B3141¦ck=-¦tp=T10¦ex=Die Wanderin folgt dem markierten Weg.¦en=The hiker follows the marked path.
+B5398¦m=sum; amount¦en=The sum seems too high to me!
+B3145¦tp=T10¦m=electro (music)¦ex=Auf dem Festival spielen sie Elektro.¦en=At the festival they play electro.
+B3146¦ck=-¦tp=T10¦ex=Der Festivalbesuch war ein tolles Erlebnis.¦en=The festival visit was a great experience.
+B3147¦tp=T10¦ex=Meine Schwester hört am liebsten Indie.¦en=My sister likes listening to indie best.
+B5399¦m=ever¦en=Have you ever heard of the problem? – No, never.
+B3148¦tp=T10¦ex=Im Sommer besuchen wir ein Musikfestival.¦en=In summer we are visiting a music festival.
+B3149¦tp=T10¦ex=Mein Vater hört gern Rockmusik.¦en=My father likes listening to rock music.
+B3150¦tp=T15¦ex=„z. B.“ ist die Abkürzung für „zum Beispiel“.¦en="z. B." is the abbreviation for "zum Beispiel".
+B5058¦ex=Das Problem ist global.¦en=The problem is global.
+B3151¦tp=T07¦ex=Bitte lesen Sie die AGB vor dem Kauf.¦en=Please read the terms and conditions before buying.
+B3152¦ck=-¦tp=T09¦ex=Die Datenschutzbestimmung erklärt den Umgang mit Ihren Daten.¦en=The data protection regulation explains how your data is handled.
+B3154¦ck=-¦tp=T07¦ex=Firmenkunden bekommen einen Rabatt.¦en=Business clients get a discount.
+B3267¦en=From this distance it can't be recognised.
+B3155¦en=The fee is 60 euros.
+B3156¦tp=T07¦ex=Die Geschäftsbedingungen finden Sie auf unserer Internetseite.¦en=You can find the business conditions on our website.
+B3157¦g=+ Gen.¦en=The room price includes breakfast.
+B5400¦m=to mark; to label¦lv=B2¦ps=kennzeichnet¦pt=kennzeichnete¦pf=hat gekennzeichnet¦ex=Alle Produkte müssen gekennzeichnet werden.¦en=All products must be labelled.
+B3158¦en=The new dining table was a good buy.
+B3159¦tp=T15¦ex=Bitte geben Sie Ihre Kontaktdaten an.¦en=Please provide your contact details.
+B3160¦en=The VAT on this product is 20%.
+B4752¦en=You must always back up all data on the computer.
+B3162¦en=How can I reach you? Do you have a mobile phone?
+B3163¦pos=adverb¦m=net¦tp=T07¦ex=Mein Gehalt beträgt netto 2.500 Euro.¦en=My salary is 2,500 euros net.
+B3164¦ck=-¦tp=T07¦ex=Privatkunden zahlen mit Karte.¦en=Private customers pay by card.
+B3637¦en=The economy is in a serious crisis.
+B3165¦ck=-¦tp=T07¦ex=Die Rechnungsinformation steht im Anhang.¦en=The invoice information is in the attachment.
+B3167¦en=We'd like to call you. What is your phone number?
+B3168¦tp=T10¦ex=Haben Sie noch einen Sitzplatz frei?¦en=Do you still have a seat free?
+B5401¦m=to master; to control¦lv=B2¦ps=beherrscht¦pt=beherrschte¦pf=hat beherrscht¦ex=Sie beherrscht drei Sprachen.¦en=She masters three languages.
+B3170¦m=standing place¦tp=T10¦ex=Für das Konzert gibt es nur noch Stehplätze.¦en=For the concert there are only standing places left.
+B3171¦m=tax¦en=We have to pay more and more taxes.
+B3172¦ck=-¦tp=T07¦ex=Bei der Ticketwahl können Sie den Sitzplatz aussuchen.¦en=When choosing tickets you can pick your seat.
+B4735¦en=The burglar was already on the run.
+B3173¦en=You can pay in cash or by bank transfer.
+B3174¦tp=T07¦ex=Der Versand dauert drei Tage.¦en=Shipping takes three days.
+B3175¦ck=-¦tp=T07¦ex=Welche Versandart möchten Sie wählen?¦en=Which shipping method would you like to choose?
+B5402¦art=der¦pl=–¦m=possession; property¦lv=B2¦ex=Der Besitz von Waffen ist verboten.¦en=The possession of weapons is forbidden.
+B3176¦tp=T07¦ex=Die Versandkosten betragen fünf Euro.¦en=The shipping costs are five euros.
+B3178¦tp=T07¦ex=Ich lege das Buch in den Warenkorb.¦en=I put the book in the shopping basket.
+B3179¦ck=-¦tp=T07¦ex=Bitte wählen Sie eine Zahlungsart.¦en=Please choose a payment method.
+B5403¦pos=adjective¦m=effective¦lv=B2¦ex=Das Medikament ist sehr wirksam.¦en=The medicine is very effective.
+B3180¦pos=preposition¦g=+ Gen.¦tp=T07¦ex=Der Preis versteht sich zuzüglich Versandkosten.¦en=The price is plus shipping costs.
+B3181¦ck=-¦tp=T07¦ex=Die Zwischensumme steht unten auf der Rechnung.¦en=The subtotal is at the bottom of the invoice.
+B3182¦tp=T08¦ex=Wir übernachten auf einem Campingplatz am See.¦en=We are staying overnight at a campsite by the lake.
+B5404¦pos=adverb¦m=for this¦lv=B2¦ex=Hierfür brauchen Sie einen Antrag.¦en=For this you need an application.
+B3183¦m=catering; food¦tp=T08¦ex=Die Verpflegung auf der Reise ist inklusive.¦en=Catering during the trip is included.
+B3184¦en=I'd rather take a backpack than a suitcase.
+B3185¦en=In this hotel the overnight stay with breakfast costs 90 euros.
+B5405¦m=department¦en=My friend works in Mrs Kaufmann's department.
+B3186¦tp=T15¦ex=Bei Rückfragen rufen Sie uns an.¦en=If you have queries, call us.
+B3187¦pos=adverb¦ex=Das Konzert wird live im Fernsehen übertragen.¦en=The concert is broadcast live on television.
+B3188¦tp=T10¦ex=Mein Bruder hört gern Hardrock.¦en=My brother likes listening to hard rock.
+B3842¦tp=T03¦ex=Die Beurteilung des Mitarbeiters ist positiv.¦en=The assessment of the employee is positive.
+B3189¦ex=Das Lied ist ein großer Hit.¦en=The song is a big hit.
+B3190¦pos=adjective¦tp=T10¦ex=Das Lied klingt sehr melodisch.¦en=The song sounds very melodious.
+B3191¦tp=T10¦ex=Welchen Musikstil magst du am liebsten?¦en=Which music style do you like best?
+B5406¦art=das¦pl=Organe¦m=organ¦lv=B1¦tp=M1 Medizin: Anatomie & Körpersysteme¦ex=Die Leber ist ein wichtiges Organ.¦en=The liver is an important organ.¦col=ein Organ spenden | innere Organe | Organ transplantieren | Organ versagt

@@ -1,0 +1,100 @@
+B2892¦tp=T08¦ex=Im Grenzgebiet leben Menschen aus zwei Ländern.¦en=In the border region live people from two countries.
+B2895¦ex=Die Kinder spielen in einer Höhle.¦en=The children are playing in a cave.
+B4688¦m=master craftsman; master¦en=I don't know how to do that. – Then ask the master craftsman.
+B2896¦tp=T12¦ex=Die Schweiz besteht aus 26 Kantonen.¦en=Switzerland consists of 26 cantons.
+B2898¦tp=T11¦ex=Im Nationalpark leben viele seltene Tiere.¦en=Many rare animals live in the national park.
+B2899¦en=Because of fog we couldn't land in Frankfurt yesterday.
+B5370¦art=die¦pl=Durchführungen¦m=implementation; carrying out¦lv=B2¦ex=Die Durchführung der Studie dauert ein Jahr.¦en=Carrying out the study takes a year.
+B2900¦pos=adverb¦en=I have to drive right across the whole city to get to work.
+B2901¦tp=T11¦ex=An einem schönen Sommertag gehen wir baden.¦en=On a lovely summer's day we go swimming.
+B2903¦m=route; distance¦en=Did you walk the whole distance?
+B3646¦m=to give up; to abandon; to post¦en=I posted a parcel at the post office.
+B2904¦m=strip; stripe¦tp=T07¦ex=Das Hemd hat blaue Streifen.¦en=The shirt has blue stripes.
+B2905¦en=Our village lies in a valley.
+B2908¦pos=adjective¦tp=T08¦ex=Mein Nachbar spricht tschechisch.¦en=My neighbour speaks Czech.
+B3621¦en=Please create a list of all the information you need.
+B2910¦en=We went on a lovely hike during the holidays.
+B2911¦tp=T10¦ex=Der Wanderweg führt durch den Wald.¦en=The hiking trail leads through the forest.
+B2912¦ck=-¦tp=T15¦ex=Zur Wortfamilie von „fahren“ gehört auch „Fahrer“.¦en="Fahrer" also belongs to the word family of "fahren".
+B5371¦pos=adjective¦m=clinical¦lv=B2¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦ex=Die klinische Untersuchung zeigt keine Auffälligkeiten.¦en=The clinical examination shows no abnormalities.¦col=klinische Untersuchung | klinischer Verlauf | klinisch unauffällig | klinische Studie
+B2913¦en=Berlin has over three million inhabitants.
+B2914¦ex=Jede Einwohnerin der Stadt bekommt einen Brief.¦en=Every female resident of the city gets a letter.
+B2915¦tp=T10¦ex=Kitesurfen ist bei starkem Wind am schönsten.¦en=Kitesurfing is best in strong wind.
+B5372¦m=to tremble; to shiver¦lv=B1¦ps=zittert¦pt=zitterte¦pf=hat gezittert¦ex=Vor Kälte zittern seine Hände.¦en=His hands tremble from the cold.
+B2916¦ck=-¦tp=T10¦ex=In der Surfschule lernen Anfänger das Surfen.¦en=In the surf school beginners learn to surf.
+B2917¦en=My grandparents had a farm.
+B2918¦tp=T13¦en=What are the dimensions of the table? – Length: 1 m, width: 80 cm, height: 1.20 m.
+B3506¦pos=adverb¦ex=Ich gehe um acht zur Arbeit, davor frühstücke ich.¦en=I go to work at eight; before that I have breakfast.
+B2920¦tp=T08¦ex=Wir mieten eine Ferienwohnung am Meer.¦en=We are renting a holiday flat by the sea.
+B2921¦en=Our flat has a living area of 100 m².
+B2922¦tp=T11¦ex=Auf der Hallig leben nur wenige Menschen.¦en=Only a few people live on the Hallig.
+B5373¦pos=adverb¦m=all too; too¦lv=B2¦ex=Das Essen war nicht allzu teuer.¦en=The food wasn't all that expensive.
+B2923¦tp=T02¦ex=Er wohnt auf einem Hausboot.¦en=He lives on a houseboat.
+B2926¦m=cow¦ex=Die Kuh gibt jeden Tag viel Milch.¦en=The cow gives a lot of milk every day.
+B2927¦en=My desk has the following dimensions: length 1.20 m, width 0.85 m, height 0.75 m.
+B5374¦m=to integrate¦en=She is already very well integrated into the team.
+B2928¦tp=T07¦ex=Ein eigener Pool ist ein großer Luxus.¦en=A private pool is a great luxury.
+B2930¦pos=adjective¦en=Don't go into the living room with wet shoes!
+B2932¦ps=schaukelt¦pt=schaukelte¦pf=hat geschaukelt¦tp=T10¦ex=Die Kinder schaukeln auf dem Spielplatz.¦en=The children are swinging on the playground.
+B5375¦art=die¦pl=–¦m=darkness¦lv=B1¦ex=Bei Dunkelheit sieht man schlecht.¦en=In darkness you can't see well.
+B2933¦ps=spiegelt¦pt=spiegelte¦pf=hat gespiegelt¦tp=T11¦ex=Der Berg spiegelt sich im See.¦en=The mountain is reflected in the lake.
+B2934¦tp=T08¦ex=Wir wohnen am Stadtrand.¦en=We live on the outskirts of the city.
+B2935¦en=He swims back to the shore.
+B4857¦pos=adjective¦en=With that the problem is finally solved.
+B2936¦tp=T02¦ex=In der Wagenburg leben Menschen in Bauwagen.¦en=In the wagon fort people live in trailers.
+B2938¦en=We have to have the roof repaired.
+B3875¦pos=adjective¦tp=T15¦ex=Inhaltlich ist der Text sehr gut.¦en=In terms of content the text is very good.
+B2939¦en=Please take the potatoes to the cellar!
+B2940¦pos=adjective¦en=Without my family I feel a bit lonely.
+B2941¦en=It hasn't rained. I have to water my flowers.
+B3389¦pos=pronoun¦tp=T16¦ex=Hast du irgendetwas gehört?¦en=Did you hear anything?
+B2942¦en=The planes make a terrible noise.
+B2943¦ck=-
+B2945¦ps=bellt¦pt=bellte¦pf=hat gebellt¦tp=T11¦ex=Der Hund bellt die ganze Nacht.¦en=The dog barks all night.
+B4002¦tp=T15¦ex=Dein Argument überzeugt mich nicht.¦en=Your argument doesn't convince me.
+B2946¦m=small parcel¦tp=T09¦ex=Ich habe ein Päckchen für dich bekommen.¦en=I received a small parcel for you.
+B2947¦en=What stinks so much here? – It's the fish. It's no longer fresh.
+B2948¦tp=T09¦ex=Der Aushang im Treppenhaus informiert über die Hausversammlung.¦en=The notice in the stairwell informs about the residents' meeting.
+B5376¦pl=Bünde¦m=federation; Federal Government¦lv=B2¦ex=Der Bund finanziert das Projekt mit.¦en=The federal government co-finances the project.
+B2949¦pos=adjective¦en=The towel is dirty.
+B2950¦en=I'll bake you a cake for your birthday.
+B2952¦tp=T02¦ex=Der Blumentopf steht auf dem Fensterbrett.¦en=The flower pot stands on the windowsill.
+B3107¦ck=-
+B2954¦tp=T02¦ex=Im Gartenhaus lagern wir die Gartengeräte.¦en=We store the garden tools in the summer house.
+B2956¦en=For the birthday table we need lots of flowers and candles.
+B2957¦en=I can't sleep without a pillow.
+B4579¦en=The number of participants is limited to 12.
+B2958¦ck=-¦tp=T10¦ex=Die Kinder tragen beim Laternenumzug einen Lampion.¦en=The children carry a paper lantern at the lantern parade.
+B2959¦ck=-¦tp=T15¦ex=„Stehen“ und „liegen“ sind Positionsverben.¦en="Stehen" and "liegen" are verbs of position.
+B2960¦en=The poster hangs above the bed.
+B5377¦art=der¦pl=–¦m=change¦lv=B2¦ex=Der Wandel der Gesellschaft geht schnell.¦en=Change in society is fast.
+B2961¦m=scooter¦tp=T08¦ex=Das Kind fährt mit dem Roller zur Schule.¦en=The child goes to school on a scooter.
+B2962¦en=For Christmas children mainly wish for toys.
+B2964¦ck=-¦tp=T15¦ex=„Legen“ und „stellen“ sind Richtungsverben.¦en="Legen" and "stellen" are verbs of direction.
+B5378¦m=to require; to demand¦en=This job demands a lot of strength.
+B2966¦tp=T02¦ex=Die Dekoration für die Party ist fertig.¦en=The decoration for the party is ready.
+B2967¦ck=-¦tp=T04¦ex=Zum Kursfest bringt jeder etwas zu essen mit.¦en=Everyone brings something to eat to the course party.
+B3963¦pos=adjective¦m=available¦tp=T07¦ex=Das Produkt ist im Internet erhältlich.¦en=The product is available on the internet.
+B2969¦pt=zog ein¦en=Our new neighbours are moving in in June.
+B2970¦en=Today she found new tenants for the flat.
+B2971¦ex=Die Mieterin zahlt die Miete pünktlich.¦en=The tenant pays the rent on time.
+B4040¦pos=adjective¦tp=T11¦ex=Diese Pflanze ist geschützt.¦en=This plant is protected.
+B2972¦pos=adjective¦en=I'm looking for a furnished room.
+B2973¦tp=T02¦ex=Die Nebenkosten sind in der Miete nicht enthalten.¦en=The utilities are not included in the rent.
+B2974¦pt=kannte aus¦tp=T16¦g=in + Dat.¦ex=Ich kenne mich in dieser Stadt gut aus.¦en=I know my way around this city well.
+B5379¦m=to shine; to glow¦lv=B2¦ps=leuchtet¦pt=leuchtete¦pf=hat geleuchtet¦ex=Die Sterne leuchten am Himmel.¦en=The stars shine in the sky.
+B2975¦pt=packte aus¦en=Could you please unpack the suitcase?
+B2976¦en=Is there a postbox near here?
+B2977¦pos=adjective¦en=I'm curious who will win this game.
+B5380¦art=die¦pl=Belastungen¦m=strain; burden¦lv=B2¦ex=Die Arbeit ist eine große Belastung für ihn.¦en=The work is a great strain for him.
+B2979¦pt=kündigte¦en=I don't like my job any more. I handed in my notice today.
+B2980¦tp=T02¦ex=Mein Mitbewohner kocht gern.¦en=My flatmate likes cooking.
+B4925¦ex=Diese Woche habe ich Spätschicht.¦en=This week I'm on the late shift.
+B2981¦tp=T02¦ex=Meine Mitbewohnerin studiert Medizin.¦en=My flatmate studies medicine.
+B2982¦ps=verirrt¦pt=verirrte¦pf=hat verirrt¦tp=T08¦ex=Wir haben uns im Wald verirrt.¦en=We got lost in the forest.
+B2983¦ex=Die Zulassung zum Studium ist beantragt.¦en=Admission to the course has been applied for.
+B3861¦ex=Sie hat eine starke Persönlichkeit.¦en=She has a strong personality.
+B2984¦g=+ Akk.
+B2985¦pos=adjective¦tp=T16¦ex=Dieses Angebot ist einmalig.¦en=This offer is unique.
+B2987¦tp=T13¦ex=In diesem Zeitraum bleibt die Praxis geschlossen.¦en=During this period the practice stays closed.
+B3693¦pos=adverb¦en=No, the other way round: first name, then surname.

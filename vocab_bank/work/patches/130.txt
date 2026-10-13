@@ -1,0 +1,100 @@
+B2796¦pt=brachte zusammen¦tp=T01¦ex=Das Fest bringt alle Nachbarn zusammen.¦en=The party brings all the neighbours together.
+B2797¦ck=-¦ef=der Lehrende; die Lehrende; die Lehrenden¦tp=T04¦ex=Die Lehrenden bereiten den Unterricht vor.¦en=The teachers prepare the lessons.
+B4514¦en=What's the word again? It's on the tip of my tongue.¦col=die Zunge herausstrecken | belegte Zunge | sich auf die Zunge beißen | Zunge und Gaumen
+B2798¦en=Write a suitable introduction and conclusion.
+B2799¦tp=T15¦ex=Die Gliederung des Textes hilft beim Verstehen.¦en=The outline of the text helps with understanding.
+B2800¦tp=T15¦ex=Im Hauptteil nennt man die wichtigsten Argumente.¦en=In the main part you state the most important arguments.
+B3009¦en=Nadine likes birds.
+B2802¦pt=las ab¦tp=T15¦ex=Ich lese die Uhrzeit von der Uhr ab.¦en=I read the time from the clock.
+B2803¦rf=sich¦ps=hört an¦pt=hörte an¦pf=hat angehört¦ex=Ich höre mir die Nachricht an.¦en=I listen to the message.
+B2804¦ck=-
+B3731¦en=The public rarely finds out about such things.
+B2807¦pos=adjective¦m=fluent; liquid¦tp=T15
+B2809¦pt=trug vor¦tp=T15¦ex=Sie trägt ein Gedicht vor.¦en=She recites a poem.
+B2810¦en=Dear listeners, we are interested in your opinion. Please call!
+B5356¦m=to cause; to prepare¦lv=B2¦ps=bereitet¦pt=bereitete¦pf=hat bereitet¦ex=Das Wetter bereitet uns Sorgen.¦en=The weather is causing us worry.
+B2811¦en=Dear listeners, we are interested in your opinion. Please call!
+B2812¦ck=-¦tp=T10¦ex=Mein Sohn braucht neue Fußballschuhe.¦en=My son needs new football boots.
+B2813¦tp=T10¦ex=Wir fahren im Urlaub Kajak.¦en=On holiday we go kayaking.
+B3738¦en=The judge has not yet pronounced a verdict.
+B2814¦ps=läuft lang¦pt=lief lang¦pf=ist langgelaufen¦tp=T10¦ex=Im Winter gehe ich gern langlaufen.¦en=In winter I like going cross-country skiing.
+B2815¦tp=T10¦ex=Für die Yogastunde brauchst du eine Matte.¦en=For the yoga class you need a mat.
+B2816¦ex=Am Wochenende fahre ich mit dem Mountainbike im Wald.¦en=At the weekend I ride my mountain bike in the forest.
+B4696¦pos=adjective¦en=I like traditional cooking.
+B2817¦tp=T10¦ex=Ohne Paddel kommen wir im Boot nicht voran.¦en=Without a paddle we can't make progress in the boat.
+B2818¦m=racket; bat¦tp=T10¦ex=Mein Schläger ist kaputt, ich brauche einen neuen.¦en=My racket is broken, I need a new one.
+B2819¦ck=-¦tp=T10¦ex=Beim Skifahren hält man in jeder Hand einen Skistock.¦en=When skiing you hold a ski pole in each hand.
+B4093¦ps=befragt¦pt=befragte¦pf=hat befragt¦tp=T15¦ex=Die Polizei befragt die Zeugen.¦en=The police are questioning the witnesses.
+B2820¦m=type of sport; sport¦en=Which sport do you like best?
+B2821¦tp=T10¦ex=Das Surfbrett liegt am Strand.¦en=The surfboard is lying on the beach.
+B2822¦pt=surfte¦en=I'd like to learn to surf.
+B3553¦en=Do you want to go in or out?
+B2824¦tp=T10¦ex=Ohne Taucherbrille sieht man unter Wasser schlecht.¦en=Without a diving mask you can't see well under water.
+B2826¦en=Our team lost 0-1.
+B2827¦en=Do you have another bike? I rode over glass and now my bike is broken.
+B4995¦ps=rollt¦pt=rollte¦pf=ist gerollt¦tp=T08¦ex=Der Ball rollt auf die Straße.¦en=The ball rolls onto the street.
+B2830¦en=My son won in a competition.
+B2831¦ps=entspannt¦pt=entspannte¦pf=hat entspannt¦rf=sich¦ex=Am Wochenende entspanne ich mich beim Lesen.¦en=At the weekend I relax by reading.
+B2834¦en=Which programmes do you like watching? – I like sports programmes.
+B3482¦pos=adjective¦en=The pupil listened attentively.
+B2835¦pt=bastelte¦en=The children made something.
+B2836¦en=My mother is getting a beautiful necklace for her birthday.
+B2838¦ck=-¦tp=T10¦ex=Im Stadion gibt es viele Fanartikel zu kaufen.¦en=In the stadium there are many fan articles to buy.
+B5357¦art=der¦pl=Umfänge¦m=extent; circumference¦lv=B2¦ex=Der Umfang des Projekts ist größer als gedacht.¦en=The scope of the project is bigger than expected.
+B2839¦tp=T10¦ex=Mein Sohn ist im Sportverein.¦en=My son is in the sports club.
+B2840¦tp=T10¦ex=Mein Bruder ist ein großer Fußballfan.¦en=My brother is a big football fan.
+B2841¦pos=adverb¦tp=T14¦rg=informal
+B5358¦m=warehouse; stockroom; camp¦en=I don't know whether we have this shoe in your size. I'll check in the stockroom.
+B2843¦pos=adjective¦en=You are driving much too fast. Are you crazy?!
+B2844¦en=The final was a big disappointment.
+B2845¦pos=adjective¦tp=T14¦ex=Das ist eine geniale Idee!¦en=That is a brilliant idea!
+B5359¦pl=–¦m=youth¦en=In my youth I was very interested in music.
+B2846¦pos=adjective¦tp=T14¦ex=Das Konzert war großartig.¦en=The concert was terrific.
+B2848¦en=The holiday was a disaster. It only rained.
+B2849¦pos=adjective¦en=It is unbelievable. Another accident like this.
+B5360¦m=in love¦g=in + Akk.¦en=I'm in love with Francesco.
+B2850¦tp=T14
+B2851¦en=Next week the course is cancelled.
+B2852¦ps=spielt mit¦pt=spielte mit¦pf=hat mitgespielt¦tp=T10¦ex=Willst du beim Fußball mitspielen?¦en=Do you want to join in the football game?
+B5361¦m=to win; to be victorious¦en=The team won 2-0.
+B2853¦tp=T10¦ex=Am Sonntag machen wir eine Radtour.¦en=On Sunday we're going on a bike ride.
+B2854¦en=Except for Lisa, nobody wants to see the film.
+B2855¦pt=benahm¦ex=Bitte benimm dich anständig.¦en=Please behave properly.
+B5362¦pos=numeral¦m=fourth¦tp=T13¦ex=Das ist mein vierter Versuch.¦en=This is my fourth attempt.
+B2857¦tp=T10¦ex=Die Band hat eine Fanseite im Internet.¦en=The band has a fan page on the internet.
+B2858¦tp=T10¦ex=Der Fußballstar gibt Autogramme.¦en=The football star signs autographs.
+B2859¦pos=adjective¦en=Mr Maier is a loyal customer of ours.
+B3789¦pos=adjective¦tp=T13¦ex=Meine frühere Chefin arbeitet jetzt in Wien.¦en=My former boss now works in Vienna.
+B2861¦ex=Meine Mutter ist mein Vorbild.¦en=My mother is my role model.
+B2863¦tp=T16¦ex=Der Kontrast zwischen Tag und Nacht ist hier groß.¦en=The contrast between day and night is big here.
+B2864¦pos=adjective¦en=The new boss is very likeable.
+B5363¦art=die¦pl=Fäuste¦m=fist¦lv=B2¦ex=Er ballte die Hand zur Faust.¦en=He clenched his hand into a fist.
+B2865¦tp=T12¦ex=Ich lege Widerspruch gegen den Bescheid ein.¦en=I am lodging an objection to the notice.
+B2867¦ex=Mein Cousin studiert Medizin.¦en=My cousin studies medicine.
+B2868¦en=My cousin lives in Brazil now.
+B5364¦pos=adjective¦m=extreme; crass¦rg=informal¦lv=B2¦tp=T14¦ex=Der Film war echt krass.¦en=The film was really extreme.
+B2869¦tp=T10¦ex=Ich weiß nicht, ob ich für das Joggen genug Kondition habe.
+B2870¦pos=adjective
+B2871¦m=recently¦en=I was at the bank recently and met an old friend.
+B5365¦art=die¦pl=Angelegenheiten¦m=matter; affair¦lv=B2¦ex=Das ist meine persönliche Angelegenheit.¦en=That is my personal matter.
+B2872¦tp=T10¦ex=Im Hochseilgarten klettern wir zwischen den Bäumen.¦en=In the high ropes course we climb between the trees.
+B2873¦tp=T15¦ex=Hast du schon Infos zum Kurs?¦en=Do you already have info about the course?
+B2874¦tp=T10¦ex=Der Kletterer sichert sich mit einem Seil.¦en=The climber secures himself with a rope.
+B5366¦pos=adverb¦m=at the basis (of)¦lv=C1¦nt=Used in: zugrunde liegen, zugrunde gehen.¦ex=Dem Bericht liegen genaue Zahlen zugrunde.¦en=Exact figures form the basis of the report.
+B2875¦ck=-¦tp=T10¦ex=Vor dem Klettern ziehst du den Klettergurt an.¦en=Before climbing you put on the harness.
+B2876¦ck=-¦tp=T10¦ex=Die Kletterin erreicht den Gipfel zuerst.¦en=The climber reaches the summit first.
+B2877¦en=Tomorrow I'm off. I'll be back in the office the day after tomorrow.
+B5367¦pos=adjective¦m=internal¦lv=B2¦ex=Das ist eine interne Angelegenheit der Klinik.¦en=That is an internal matter of the clinic.
+B2878¦pt=gab zurück¦tp=T07¦ex=Ich gebe dir das Buch morgen zurück.¦en=I'll give you the book back tomorrow.
+B2881¦tp=T08¦ex=Die Anreise dauert etwa drei Stunden.¦en=The journey there takes about three hours.
+B2882¦tp=T08¦ex=An der Bergstation steigen wir aus.¦en=We get off at the summit station.
+B5368¦m=injury¦en=Don't worry. The injury isn't that bad.
+B2883¦ps=bewacht¦pt=bewachte¦pf=hat bewacht¦tp=T12¦ex=Ein Hund bewacht das Haus.¦en=A dog guards the house.
+B2884¦pos=numeral¦tp=T13¦ex=Der Film dauert eineinhalb Stunden.¦en=The film lasts an hour and a half.
+B2885¦ck=-¦tp=T11¦ex=In der Eishöhle ist es sehr kalt.¦en=It is very cold in the ice cave.
+B2907¦pos=adjective¦en=The laundry will soon be dry.
+B2887¦pos=adjective¦tp=T14¦ex=Das ist eine faszinierende Geschichte.¦en=That is a fascinating story.
+B2888¦tp=T08¦ex=Der Führer zeigt uns die Altstadt.¦en=The guide shows us the old town.
+B2889¦tp=T08¦ex=Die Führerin erklärt die Geschichte des Schlosses.¦en=The guide explains the history of the castle.
+B5369¦pos=adjective¦m=secured; certain¦lv=B2¦tp=T16¦ex=Die Finanzierung des Projekts ist gesichert.¦en=The financing of the project is secured.
+B2890¦tp=T06¦en=Shall we go for a beer in an inn?
