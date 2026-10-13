@@ -1413,3 +1413,45 @@ redemittel,R0498,example_de,"Sehr geehrte Damen und Herren, ich schreibe Ihnen w
 redemittel,R0498,example_en,"Dear Sir or Madam, I am writing to you regarding your job advertisement.","Dear Dr Weber, I am writing to you about my application."
 redemittel,R0498,grammar_note,Anrede mit Komma; Satz danach klein,Anrede mit Titel; danach Komma und Kleinschreibung
 redemittel,R0498,variants,"Sehr geehrte Frau Dr. Schmidt, | Sehr geehrter Herr Professor Müller,","Sehr geehrter Herr Doktor ..., | Sehr geehrte Frau Professorin ...,"
+redemittel,R0429,redemittel_de,Vielen Dank für Ihre Aufmerksamkeit.,Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.
+redemittel,R0429,meaning_en,Thank you for your attention.,I thank you for your attention and look forward to your questions.
+redemittel,R0429,example_de,Das war mein Vortrag. Vielen Dank für Ihre Aufmerksamkeit.,Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.
+redemittel,R0429,example_en,That was my talk. Thank you for your attention.,I thank you for your attention and look forward to your questions.
+redemittel,R0429,grammar_note,danken für + Akkusativ,sich bedanken für + Akkusativ; sich freuen auf + Akkusativ
+redemittel,R0429,variants,Ich danke Ihnen für Ihre Aufmerksamkeit. | Danke fürs Zuhören.,"Danke fürs Zuhören, ich freue mich auf Ihre Rückfragen. | Das war mein Vortrag, gern beantworte ich Ihre Fragen."
+redemittel,R0430,redemittel_de,"Stellen Sie sich einmal vor, ...","Man stelle sich vor, ..."
+redemittel,R0430,meaning_en,Just imagine ...,Imagine that ...
+redemittel,R0430,example_de,"Stellen Sie sich einmal vor, Sie müssten jeden Tag zwei Stunden pendeln.","Man stelle sich vor, jeder Patient hätte einen eigenen Arzt."
+redemittel,R0430,example_en,Just imagine you had to commute two hours every day.,Imagine every patient had their own doctor.
+redemittel,R0430,grammar_note,sich (Dativ) vorstellen; danach oft Konjunktiv II,Konjunktiv I als Aufforderung (formell); danach oft Konjunktiv II
+redemittel,R0430,variants,Denken Sie einmal darüber nach: ... | Überlegen Sie kurz: ...,"Angenommen, ... | Nehmen wir an, ..."
+redemittel,R0444,redemittel_de,"Das hängt davon ab, ob ...","Es kommt maßgeblich darauf an, ob ..."
+redemittel,R0444,meaning_en,That depends on whether ...,It depends largely on whether ...
+redemittel,R0444,example_de,"Das hängt davon ab, ob man genug Zeit zum Lernen hat.","Es kommt maßgeblich darauf an, ob man genug Zeit zum Lernen hat."
+redemittel,R0444,example_en,That depends on whether one has enough time to study.,It depends largely on whether one has enough time to study.
+redemittel,R0444,grammar_note,abhängen von + Dativ; ob-Satz,ankommen auf + Akkusativ; ob-Satz: Verb am Ende
+redemittel,R0444,variants,"Es kommt darauf an, ob ... | Das ist von ... abhängig.","Das ist weitgehend davon abhängig, ob ... | Ausschlaggebend ist, ob ..."
+redemittel,R0447,redemittel_de,"Ich schlage vor, dass wir ...","Mein Vorschlag wäre, ... zu ..."
+redemittel,R0447,meaning_en,I suggest that we ...,My suggestion would be to ...
+redemittel,R0447,example_de,"Ich schlage vor, dass wir die Aufgaben fair verteilen.","Mein Vorschlag wäre, die Aufgaben fair zu verteilen."
+redemittel,R0447,example_en,I suggest that we distribute the tasks fairly.,My suggestion would be to distribute the tasks fairly.
+redemittel,R0447,grammar_note,vorschlagen + dass-Satz,Konjunktiv II: wäre; zu-Infinitiv
+redemittel,R0447,variants,"Mein Vorschlag wäre, ... | Wie wäre es, wenn wir ...?","Ich würde vorschlagen, ... zu ... | Man könnte ... zu ..."
+redemittel,R0455,redemittel_de,Da muss ich Ihnen leider widersprechen.,Dem kann ich so nicht zustimmen.
+redemittel,R0455,meaning_en,I'm afraid I have to disagree with you there.,I can't agree with that.
+redemittel,R0455,example_de,Da muss ich Ihnen leider widersprechen: Das stimmt so nicht.,"Dem kann ich so nicht zustimmen, denn die Zahlen sprechen dagegen."
+redemittel,R0455,example_en,I'm afraid I have to disagree with you there: that is not correct.,"I can't agree with that, because the figures speak against it."
+redemittel,R0455,grammar_note,widersprechen + Dativ,zustimmen + Dativ
+redemittel,R0455,variants,Das sehe ich anders. | Da bin ich anderer Meinung.,Da bin ich anderer Meinung. | Ich sehe das nicht so.
+redemittel,R0467,redemittel_de,Ein Beispiel dafür ist ...,"Als Beleg dafür lässt sich anführen, dass ..."
+redemittel,R0467,meaning_en,An example of this is ...,As evidence for this one can cite that ...
+redemittel,R0467,example_de,"Ein Beispiel dafür ist die Stadt Freiburg, in der viele Menschen Rad fahren.","Als Beleg dafür lässt sich anführen, dass die Zahl der Patienten steigt."
+redemittel,R0467,example_en,"An example of this is the city of Freiburg, where many people cycle.",As evidence for this one can cite that the number of patients is rising.
+redemittel,R0467,grammar_note,Beispiel für + Akkusativ,sich lassen + Infinitiv = Passiv mit können
+redemittel,R0467,variants,Dies zeigt sich zum Beispiel bei ... | So ist es etwa bei ...,"Dafür spricht, dass ... | Zum Beleg sei erwähnt, dass ..."
+redemittel,R0469,redemittel_de,"Aus eigener Erfahrung weiß ich, dass ...","Persönlich habe ich die Erfahrung gemacht, dass ..."
+redemittel,R0469,meaning_en,From my own experience I know that ...,Personally I have found from experience that ...
+redemittel,R0469,example_de,"Aus eigener Erfahrung weiß ich, dass man in Gruppen besser lernt.","Persönlich habe ich die Erfahrung gemacht, dass Nachfragen Probleme verhindert."
+redemittel,R0469,example_en,From my own experience I know that one learns better in groups.,Personally I have found from experience that asking questions prevents problems.
+redemittel,R0469,grammar_note,aus + Dativ; wissen + dass-Satz,Erfahrung machen; dass-Satz: Verb am Ende
+redemittel,R0469,variants,"Ich habe selbst die Erfahrung gemacht, dass ... | Persönlich habe ich erlebt, dass ...","Ich habe selbst erlebt, dass ... | Aus meiner eigenen Praxis weiß ich, dass ..."

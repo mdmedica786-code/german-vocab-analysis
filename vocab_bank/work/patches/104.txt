@@ -1,0 +1,3 @@
+@FSP-03
+%sp=Arzt¦au=Patient¦lv=B2¦rg=formal¦eu=FSP Anamnesegespräch
+NEW¦fn=Schmerzmittel erfragen¦de=Seit wann nehmen Sie die Schmerzmittel regelmäßig?¦m=Since when have you been taking the painkillers regularly?¦ex=Seit wann nehmen Sie die Schmerzmittel regelmäßig, und in welcher Dosis?¦en=Since when have you been taking the painkillers regularly, and at what dose?¦gn=seit wann + Präsens; regelmäßig als Adverb¦v=Wie lange nehmen Sie schon Schmerzmittel? | Nehmen Sie die Tabletten täglich?¦pr=extra
