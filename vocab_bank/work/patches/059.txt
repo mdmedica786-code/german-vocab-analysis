@@ -1,0 +1,100 @@
+B3122¦en=I don't like films in which there is violence.
+B1537¦en=In the evening I always go for a walk.
+B1538¦tp=T10¦ex=Der Tennisplatz ist am Wochenende immer voll.¦en=The tennis court is always full at the weekend.
+B1539¦tp=T08¦m=here (towards the speaker); ago¦nt=Direction towards the speaker; hin = away from the speaker.¦en=Please come here!¦col=hin und her | von ... her | wo kommst du her | her damit
+B5244¦pl=–¦m=reality¦en=The book describes the reality around 1900 very well.¦col=in Wirklichkeit | Traum und Wirklichkeit | Wirklichkeit werden | die Wirklichkeit sehen
+B1540¦tp=T15¦en=She receives many calls on her mobile.
+B1541¦tp=T09¦m=extension; direct dial¦ex=Meine Durchwahl ist die 123.¦en=My extension is 123.
+B1542¦m=to report; to answer (sich melden)¦en=But nobody answers.¦col=sich melden | einen Unfall melden | sich krank melden | sich bei jemandem melden
+B5245¦m=circle; district¦en=The children sit in a circle in the kindergarten.
+B1544¦tp=T08¦en=In Mannheim you have a connection to Saarbrücken.
+B1545¦tp=T15¦en=The number is always engaged.
+B3714¦pos=adverb¦en=Originally I wanted to work in a restaurant. But then I became a bus driver.¦col=ursprünglich geplant | ursprünglich aus | ursprünglich war | der ursprüngliche Zustand
+B1546¦tp=T03¦ck=-¦ex=Meine Schwester arbeitet bei einer Computerfirma.¦en=My sister works at a computer company.
+B1547¦tp=T10¦ck=-¦ex=Ich habe ein Computerproblem und brauche Hilfe.¦en=I have a computer problem and need help.
+B1548¦tp=T10¦ps=spielt vor¦pt=spielte vor¦pf=hat vorgespielt¦ex=Spielen Sie die Szene im Kurs vor.¦en=Act out the scene in class.
+B4133¦en=When are you going to repair the heating? – I repaired that long ago.¦col=längst vergessen | längst bekannt | längst fertig | längst erledigt
+B1549¦tp=T13¦en=She lives at the beginning of the street.
+B1550¦tp=T10¦ex=Der Turm ist die größte Attraktion der Stadt.¦en=The tower is the biggest attraction in the city.
+B1551¦tp=T08¦en=Are you going abroad?
+B5246¦g=mit + Dat.¦m=to calculate; to count; to expect¦en=Sarah is good at maths.¦col=mit etwas rechnen | im Kopf rechnen | gut rechnen können | damit rechnen, dass ...¦pt=rechnete
+B1552¦pos=adjective¦en=Thomas Müller is a famous footballer.
+B1553¦en=He likes standing on the stage.
+B1554¦tp=T13¦en=She lives at the end of the street.
+B5247¦art=das¦pl=–¦tp=M2 Medizin: Symptome & Krankheiten¦m=consciousness; awareness¦lv=B1¦ex=Der Patient ist bei Bewusstsein.¦en=The patient is conscious.¦col=bei Bewusstsein sein | das Bewusstsein verlieren | das Bewusstsein erlangen | getrübtes Bewusstsein
+B1555¦tp=T10¦ex=Die Festspiele im Sommer ziehen viele Gäste an.¦en=The summer festival attracts many visitors.
+B1556¦en=I'm going to the greengrocer's. Shall I bring you something?
+B1557¦en=I'm going to the greengrocer's. Shall I bring you something?
+B5248¦art=das¦pl=Objekte¦m=object; property¦lv=B1¦ex=Im Satz ist „das Buch“ das Objekt.¦en=In the sentence “das Buch” is the object.
+B1558¦pos=adverb¦en=In total, 20 participants registered for the exam.¦col=insgesamt zehn | insgesamt gesehen | insgesamt gut | insgesamt zwanzig Euro
+B1559¦tp=T10¦ex=Die Kinder fahren Karussell.¦en=The children ride the merry-go-round.
+B1560¦tp=T10¦ex=Das Kulturfestival dauert eine Woche.¦en=The culture festival lasts a week.
+B4470¦tp=T14¦ex=Ich empfinde die Musik als sehr entspannend.¦en=I find the music very relaxing.¦col=Freude empfinden | Schmerz empfinden | als störend empfinden | Mitleid empfinden
+B1561¦en=I like operas.
+B1562¦pt=fand statt¦en=The match also takes place when it rains.
+B1563¦tp=T06¦m=Christmas stollen (fruit loaf); tunnel¦ex=Zu Weihnachten backen wir einen Stollen.¦en=At Christmas we bake a stollen.
+B2659¦pos=adjective¦tp=T07¦ex=Wir haben ein gebrauchtes Auto gekauft.¦en=We bought a used car.¦col=gebrauchtes Auto | gebraucht kaufen | gebrauchte Möbel | gut gebraucht
+B1564¦tp=T07¦ps=verkauft¦pt=verkaufte¦pf=hat verkauft¦en=He is selling his old car.
+B1565¦en=We deliver the goods directly to your home.
+B1566¦tp=T10¦ex=Auf dem Weihnachtsmarkt gibt es Glühwein.¦en=At the Christmas market there is mulled wine.
+B3113¦tp=T13
+B1567¦ex=Die Zuschauer klatschen laut.¦en=The spectators clap loudly.¦es=claude
+B1568¦en=Dear viewers, we wish you good entertainment.
+B1569¦en=On Saturday our restaurant is closed. We have an event.
+B4053¦tp=T11¦col=einen Baum pflanzen | Blumen pflanzen | Gemüse pflanzen | Samen pflanzen¦en=Let's plant a tree!
+B1570¦tp=T10¦ef=den/dem/des Statisten (n-declension)¦ex=Der Statist steht im Hintergrund der Szene.¦en=The extra stands in the background of the scene.
+B1571¦tp=T10¦ck=-¦ex=Die Statistin trägt ein Kostüm.¦en=The extra is wearing a costume.
+B1573¦tp=T15¦ps=fragt nach¦pt=fragte nach¦pf=hat nachgefragt¦ex=Fragen Sie bei der Information nach.¦en=Ask at the information desk.
+B2069¦tp=T10¦ps=postet¦pt=postete¦pf=hat gepostet¦ex=Sie postet jeden Tag ein Foto.¦en=She posts a photo every day.¦col=ein Foto posten | einen Kommentar posten | im Internet posten | etwas auf Instagram posten
+B1574¦tp=T14¦pt=gefiel¦g=+ Dat.¦m=to please; to be liked¦en=I like that.
+B1575¦tp=T07¦en=Put on a jacket. It is cold.
+B1576¦pos=adjective¦tp=T14¦rg=colloquial¦ex=Das ist eine doofe Idee.¦en=That is a silly idea.
+B5249¦m=to separate; to split up¦en=We live separately.¦col=Müll trennen | sich trennen | getrennt leben | Wörter trennen
+B1577¦pos=adjective¦ef=enger – am engsten¦col=eine enge Hose | eine enge Straße | eng befreundet | eng zusammenarbeiten¦en=These trousers are too tight. Do they also come one size bigger?
+B1578¦en=Nick is wearing a new shirt today.
+B1579¦en=Can I wash the trousers?
+B5250¦g=zu + Dat.¦m=obliged; committed¦en=You are obliged to report the accident.¦col=verpflichtet sein | gesetzlich verpflichtet | sich verpflichtet fühlen | zur Verschwiegenheit verpflichtet
+B1580¦pl=Röcke¦m=skirt; rock (music)¦os=-¦nt=Pl. Röcke = skirts; rock music has no plural.
+B1581¦en=Do you also have this T-shirt in M?
+B4282¦col=etwas behaupten | steif und fest behaupten | das Gegenteil behaupten | sich behaupten¦en=He claims that our opinion is not important.
+B1584¦en=My husband needs to buy a new suit.
+B1585¦col=von etwas ausgehen | abends ausgehen | davon ausgehen, dass ... | das Licht geht aus¦m=to go out; to assume
+B1586¦en=Julia wants to buy a red dress.
+B5251¦pos=adverb¦m=on this; to this¦lv=B1¦ex=Hierzu möchte ich noch etwas sagen.¦en=I would like to add something about this.¦col=hierzu gehören | hierzu zählt | hierzu gibt es | hierzu mehr
+B1587¦tp=T07¦en=Where do I find clothes? – Jackets on the first floor, jeans on the second.
+B1588¦tp=T07¦ex=Der Chef trägt eine blaue Krawatte.¦en=The boss is wearing a blue tie.
+B1589¦en=I have to buy myself a sweater.
+B5252¦pos=adjective¦m=obvious; evidently¦lv=B1¦ex=Er hat offensichtlich keine Lust.¦en=He evidently doesn't feel like it.¦col=offensichtlich falsch | offensichtlich sein | ganz offensichtlich | offensichtlich nicht
+B1590¦tp=T07¦pt=trug¦col=Kleidung tragen | eine Brille tragen | Verantwortung tragen | die Kosten tragen
+B1591¦en=I'm looking for a white blouse.
+B1592¦en=I like jeans better than skirts.
+B2891¦en=There is hardly any industry in this area.
+B1593¦en=It is cold. Put your coat on!
+B1594¦m=hat; cap¦en=Do you have red hats?
+B1595¦tp=T07¦en=Take your shoes off!
+B5253¦m=tear¦en=She dries the child's tears.
+B1596¦en=How much are the red boots?
+B1597¦tp=T07¦en=I have the keys in my bag.
+B1598¦tp=T07¦ck=-¦ex=Im Kleidergeschäft gibt es heute Sonderangebote.¦en=There are special offers in the clothes shop today.
+B3820¦col=jemanden überzeugen | sich überzeugen | von etwas überzeugt sein | durch Argumente überzeugen¦en=Your suggestion doesn't convince me at all.
+B1599¦tp=T07¦en=I always buy my clothes in a small shop in the centre.
+B1601¦tp=T15¦ck=-¦ps=hört weiter¦pt=hörte weiter¦pf=hat weitergehört¦ex=Hören Sie bitte weiter, es gibt noch eine Aufgabe.¦en=Please keep listening, there is another task.
+B1602¦pos=adjective¦tp=T16¦ef=gut – besser – am besten¦en=I'm already feeling better.
+B2370¦en=This building only contains offices.
+B1603¦tp=T08¦en=You know the post office. The bank is next to it.
+B1604¦tp=T16¦col=eine Entscheidung treffen | vor einer Entscheidung stehen | eine schwere Entscheidung | die Entscheidung fällt¦en=I would like to discuss this important decision with my husband first.
+B1605¦en=In summer you shouldn't go into the sun without a hat.
+B2103¦col=unbedingt notwendig | unbedingt wollen | nicht unbedingt | unbedingt brauchen¦en=I absolutely have to speak to you.
+B1606¦tp=T15¦pt=meinte¦col=etwas meinen | wie meinst du das | meinen, dass ... | es gut meinen
+B1607¦tp=T15¦rg=colloquial¦ex=Das ist doch Quatsch!¦en=That's just nonsense!
+B1608¦tp=T10¦col=auf die Uhr schauen | aus dem Fenster schauen | fernsehen schauen | nach dem Rechten schauen¦en=Look! There is still a free seat up front.
+B2124¦pos=adjective¦en=Be careful!
+B1609¦tp=T07¦ex=Im Winter trage ich einen warmen Schal.¦en=In winter I wear a warm scarf.
+B1610¦tp=T07¦ex=Zu Hause trage ich gern ein Sweatshirt.¦en=At home I like wearing a sweatshirt.
+B1611¦m=scarf; shawl; cloth¦en=Where did you buy this nice shawl?
+B4961¦col=eine Diskussion führen | an einer Diskussion teilnehmen | eine Diskussion beginnen | eine hitzige Diskussion¦en=There was a discussion on TV on the topic of childcare.
+B1612¦tp=T08¦g=auf + Akk.¦m=to arrive; to depend on (es kommt darauf an)¦en=When does this train arrive in Hamburg?
+B1613¦pos=adjective¦tp=T14¦ef=böser – am bösesten¦m=angry; evil; bad¦en=She is angry with me.
+B1614¦tp=T07¦pt=empfahl¦en=Which wine can you recommend?
+B4901¦pos=adjective¦col=eindeutig sein | ein eindeutiges Ergebnis | eindeutig falsch | eine eindeutige Antwort¦en=The result is clear. You have won.
+B1615¦col=einen Fehler entdecken | etwas Neues entdecken | die Welt entdecken | eine Krankheit entdecken¦en=I discovered a few more mistakes in your letter.

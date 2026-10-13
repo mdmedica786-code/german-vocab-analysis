@@ -502,3 +502,137 @@ vocab,B1294,meaning_en,clove,carnation; clove
 vocab,B1296,meaning_en,to suspect,to suspect; to assume
 vocab,B1300,check,ocr?,
 vocab,B3513,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3858,meaning_en,possible,as ... as possible
+vocab,B1310,meaning_en,note,slip of paper; note
+vocab,B1312,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1315,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1315,meaning_en,lab (oratory),laboratory
+vocab,B1317,check,ocr?,
+vocab,B4615,meaning_en,to perform,to appear; to perform; to occur
+vocab,B1319,check,ocr?,
+vocab,B5115,meaning_en,to fall into,to get (into); to end up
+vocab,B1323,example_de,Sie ist eine gute Sportlerin.,Er ist ein guter Sportler.
+vocab,B1323,example_source,goethe,claude
+vocab,B1327,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4163,example_en,A good education helps you your whole life long.,A good education helps you your whole life.
+vocab,B1328,meaning_en,to include,to belong to it; to be part of it
+vocab,B1330,meaning_en,to infer,to infer; to open up
+vocab,B3870,example_en,Punctuality counts as one ofthe most important characteristics of an applicant.,Punctuality counts among the most important characteristics of an applicant.
+vocab,B1334,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1336,check,article?,
+vocab,B3818,example_en,Make a good impression on the superiors.,Make a good impression on your employer.
+vocab,B1341,meaning_en,commandment,commandment; rule; requirement
+vocab,B1343,meaning_en,to recite,to reproduce; to recite; to give back
+vocab,B1344,meaning_en,office,study; home office
+vocab,B1345,meaning_en,bath,bathroom; bath
+vocab,B4158,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T13 Zeit, Zahlen, Maße & Mengen"
+vocab,B4158,meaning_en,percentage,share; proportion
+vocab,B1370,meaning_en,"above, atthe top",above; at the top; upstairs
+vocab,B1373,check,ocr?,
+vocab,B1374,meaning_en,light,light; bright
+vocab,B1376,note,= Quadratmeter,Abbreviation of Quadratmeter (also m²).
+vocab,B3238,meaning_en,to indicate,to point; to indicate; to interpret
+vocab,B1392,meaning_en,floor,floor; stick
+vocab,B1393,meaning_en,well,great; top (colloq.)
+vocab,B1393,register,neutral,informal
+vocab,B1396,check,ocr?,
+vocab,B3197,meaning_en,assignment,use; deployment; effort
+vocab,B1405,meaning_en,to close,to close; to conclude; to lock
+vocab,B1405,other_senses,to make; to conclude,
+vocab,B3459,meaning_en,to afford,to afford; to achieve; to do
+vocab,B1413,register,neutral,informal
+vocab,B1414,meaning_en,to look forward to sth,to be glad; to look forward to (sich freuen)
+vocab,B3088,meaning_en,fire,fire; light (for a cigarette)
+vocab,B1415,meaning_en,to shine,to shine; to seem
+vocab,B4476,meaning_en,"to reach, attain",to reach; to get to
+vocab,B1422,gov,+ Dat.,+ Akk./Dat.
+vocab,B1423,gov,+ Dat.,+ Akk./Dat.
+vocab,B5227,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1424,gov,+ Dat.,+ Akk./Dat.
+vocab,B1425,gov,+ Dat.,+ Akk./Dat.
+vocab,B1431,meaning_en,remark,remark; statement
+vocab,B1442,meaning_en,ceiling,ceiling; blanket
+vocab,B1453,example_de,Ich kenne die anderen Hausbewohner nicht.,Die Bewohnerin im dritten Stock ist sehr freundlich.
+vocab,B1453,example_source,goethe,claude
+vocab,B4913,meaning_en,duty,duty; service; shift
+vocab,B1462,meaning_en,location,location; situation
+vocab,B1464,meaning_en,far,far; wide; loose
+vocab,B1464,other_senses,loose,
+vocab,B1465,register,neutral,informal
+vocab,B1468,pos,noun,adverb
+vocab,B5232,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1470,check,ocr?,
+vocab,B1471,meaning_en,approval,favour
+vocab,B1471,other_senses,favour,
+vocab,B1472,meaning_en,disapproval,displeasure; disapproval
+vocab,B1473,check,ocr?,
+vocab,B1479,example_de,In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin.,Der Künstler stellt seine Bilder im Museum aus.
+vocab,B1479,example_source,goethe,claude
+vocab,B1482,check,ocr?,
+vocab,B1483,check,ocr?,
+vocab,B2248,meaning_en,to design,to design; to shape; to organise
+vocab,B1490,check,ocr?,
+vocab,B1494,meaning_en,sometime,once; just (modal particle)
+vocab,B1495,example_de,Unsere Nachbarin ist Professorin an der Universität.,Der Professor hält eine Vorlesung.
+vocab,B1495,example_source,goethe,claude
+vocab,B3246,meaning_en,subsequent,afterwards; subsequently
+vocab,B1507,check,ocr?,
+vocab,B1510,meaning_en,appendix,attachment; appendix
+vocab,B1512,meaning_en,assignment,task; assignment
+vocab,B1523,check,ocr?,
+vocab,B1524,check,ocr?,
+vocab,B1526,register,neutral,informal
+vocab,B1531,example_de,Der neue Sekretär hat sich gestern vorgestellt.,Die Sekretärin plant meine Termine.
+vocab,B1531,example_source,goethe,claude
+vocab,B1532,example_en,In your stead I would ...,"If I were you, I would ..."
+vocab,B1532,meaning_en,position,position; place; job
+vocab,B1532,plural,–,Stellen
+vocab,B1533,check,ocr?,
+vocab,B1539,meaning_en,ago,here (towards the speaker); ago
+vocab,B1541,meaning_en,direct dialling,extension; direct dial
+vocab,B1542,meaning_en,to answer,to report; to answer (sich melden)
+vocab,B1546,check,ocr?,
+vocab,B1547,check,ocr?,
+vocab,B5247,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1563,meaning_en,German fruit cake,Christmas stollen (fruit loaf); tunnel
+vocab,B1567,example_de,"Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung.",Die Zuschauer klatschen laut.
+vocab,B1567,example_source,goethe,claude
+vocab,B1571,check,ocr?,
+vocab,B1574,meaning_en,to inquire,to please; to be liked
+vocab,B1576,register,neutral,colloquial
+vocab,B1580,meaning_en,skirt,skirt; rock (music)
+vocab,B1580,plural,–,Röcke
+vocab,B1580,other_senses,rock,
+vocab,B1585,meaning_en,to go out,to go out; to assume
+vocab,B1594,meaning_en,hat,hat; cap
+vocab,B1598,check,ocr?,
+vocab,B1601,check,ocr?,
+vocab,B1607,register,neutral,colloquial
+vocab,B1611,meaning_en,shawl,scarf; shawl; cloth
+vocab,B1612,meaning_en,to arrive,to arrive; to depend on (es kommt darauf an)
+vocab,B1612,gov,auf + Dat.,auf + Akk.
+vocab,B1613,meaning_en,angry,angry; evil; bad
+vocab,B1616,register,neutral,informal
+vocab,B1617,register,neutral,informal
+vocab,B1631,register,neutral,informal
+vocab,B1632,register,neutral,informal
+vocab,B1633,check,ocr?,
+vocab,B4423,meaning_en,to come to,to amount to
+vocab,B1639,check,ocr?,
+vocab,B1640,check,ocr?,
+vocab,B1644,check,article?,
+vocab,B1649,example_en,to be out of fashion,to go out of fashion
+vocab,B3718,meaning_en,"attachment, facility, exhibit",attachment; facility; investment
+vocab,B1655,meaning_en,Sportswear,sportswear
+vocab,B4676,meaning_en,step,step; level
+vocab,B1662,register,neutral,informal
+vocab,B1664,check,ocr?,
+vocab,B1666,register,neutral,colloquial
+vocab,B1677,check,ocr?,
+vocab,B1680,example_de,Die Fotografin hat sehr schöne Fotos gemacht.,Der Fotograf macht Bilder von der Hochzeit.
+vocab,B1680,example_source,goethe,claude
+vocab,B4122,meaning_en,to see,to meet (by chance); to encounter
+vocab,B1684,check,ocr?,
+vocab,B1689,check,ocr?,
+vocab,B1690,check,ocr?,
+vocab,B1692,meaning_en,around,round; around

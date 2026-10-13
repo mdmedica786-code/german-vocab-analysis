@@ -1,0 +1,100 @@
+B1307¦en=Can you give me a good tip?
+B1308¦tp=T16¦pt=versuchte¦col=etwas versuchen | versuchen, zu ... | sein Glück versuchen | noch einmal versuchen¦en=Can I try it too?
+B1309¦tp=T02¦ps=hängt auf¦pt=hängte auf¦pf=hat aufgehängt¦ex=Hängst du bitte die Wäsche auf?¦en=Can you hang up the washing, please?
+B3858¦pos=adverb¦m=as ... as possible¦col=möglichst bald | möglichst schnell | möglichst viel | möglichst wenig¦en=Please tell me as soon as possible whether the appointment suits you.
+B1310¦m=slip of paper; note¦en=Do you have a slip of paper for me? I need to write something down.
+B1311¦pos=adjective¦en=I find this work very tiring.
+B1312¦tp=M1 Medizin: Anatomie & Körpersysteme¦med=core¦col=Blut abnehmen | Blut verlieren | Blut spenden | Blut im Stuhl¦en=The injured person lost a lot of blood.
+B4541¦col=für etwas geeignet sein | gut geeignet | nicht geeignet | als geeignet erscheinen¦en=This game is not suitable for children under three.
+B1313¦tp=T16¦en=You will get the test result in two weeks.
+B1314¦pos=adjective¦tp=T14¦en=My children are happily married.
+B1315¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦ex=Die Blutprobe wird im Labor untersucht.¦en=The blood sample is analysed in the laboratory.¦m=laboratory¦col=ins Labor schicken | im Labor untersuchen | Laborwerte | Blut ins Labor geben
+B4870¦pos=adjective¦ex=Die wirtschaftliche Lage ist schwierig.¦en=The economic situation is difficult.¦col=wirtschaftliche Lage | wirtschaftliche Entwicklung | wirtschaftlich denken | wirtschaftliche Probleme
+B1316¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ef=den/dem/des Laboranten (n-declension)¦ex=Der Laborant analysiert die Blutprobe.¦en=The lab assistant analyses the blood sample.
+B1317¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ck=-¦ex=Die Laborantin nimmt eine Probe.¦en=The lab assistant takes a sample.
+B1318¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ef=des Notarztes¦ex=Rufen Sie sofort den Notarzt!¦en=Call the emergency doctor immediately!¦col=den Notarzt rufen | der Notarzt kommt | Notarzt und Rettungswagen | mit dem Notarzt sprechen
+B4615¦m=to appear; to perform; to occur¦en=Next week a famous band is performing at the city hall.¦col=öffentlich auftreten | als Zeuge auftreten | selbstbewusst auftreten | Probleme treten auf
+B1319¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ck=-¦ex=Die Notärztin ist in fünf Minuten da.¦en=The emergency doctor will be there in five minutes.¦col=die Notärztin rufen | die Notärztin kommt | die Notärztin alarmieren | Notärztin im Einsatz
+B1320¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦ef=den/dem/des Physiotherapeuten (n-declension)¦ex=Der Physiotherapeut zeigt mir Übungen.¦en=The physiotherapist shows me exercises.
+B1321¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦ex=Die Physiotherapeutin behandelt meinen Rücken.¦en=The physiotherapist is treating my back.
+B5115¦tp=T16¦m=to get (into); to end up¦ex=Er ist in große Schwierigkeiten geraten.¦en=He got into great difficulties.¦col=in Schwierigkeiten geraten | in Panik geraten | außer Kontrolle geraten | in Streit geraten
+B1322¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦ex=Nach der Operation brauche ich Physiotherapie.¦en=After the operation I need physiotherapy.
+B1323¦ex=Er ist ein guter Sportler.¦en=He is a good sportsman.¦es=claude
+B1324¦en=She is a good sportswoman.
+B2118¦pos=adjective¦col=kritisch denken | kritisch sein | eine kritische Frage | im kritischen Zustand¦en=There was a discussion about food prices. A journalist asked critical questions.
+B1325¦ex=Wir brauchen eine neue Strategie.¦en=We need a new strategy.
+B1326¦en=This exercise was very difficult.
+B1327¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦pt=untersuchte¦col=einen Patienten untersuchen | gründlich untersuchen | Blut untersuchen | den Bauch untersuchen¦en=The doctor examined me.
+B4163¦col=eine gute Bildung | Bildung und Ausbildung | Bildung fördern | höhere Bildung¦en=A good education helps you your whole life.
+B1328¦tp=T01¦ps=gehört dazu¦pt=gehörte dazu¦pf=hat dazugehört¦m=to belong to it; to be part of it¦ex=Sie gehört schon lange dazu.¦en=She has belonged for a long time.
+B1329¦tp=T15¦nt=Also: der/die Deutsche = German person.¦ex=Das Deutsche hat drei Artikel.¦en=German has three articles.
+B1330¦tp=T15¦pt=erschloss¦m=to infer; to open up¦ex=Sie erschließt die Bedeutung des Wortes aus dem Text.¦en=She infers the meaning of the word from the text.
+B2847¦col=Hoffnung haben | die Hoffnung verlieren | neue Hoffnung schöpfen | Hoffnung auf Besserung¦en=You must not lose hope.
+B1331¦tp=T01
+B1332¦tp=T15¦ex=„Haustür“ ist ein Kompositum.¦en=“Haustür” is a compound.
+B1333¦tp=T15¦ex=Den Kontext müssen Sie beachten.¦en=You must take the context into account.
+B3870¦col=bis zehn zählen | zu den Besten zählen | Geld zählen | auf jemanden zählen¦en=Punctuality counts among the most important characteristics of an applicant.
+B1334¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦ef=den/dem/des Therapeuten (n-declension)¦ex=Der Therapeut bespricht den Behandlungsplan.¦en=The therapist discusses the treatment plan.¦col=zum Therapeuten gehen | bei einem Therapeuten in Behandlung | ein erfahrener Therapeut | Therapeut und Patient
+B1335¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦ex=Die Therapeutin erklärt die Übungen.¦en=The therapist explains the exercises.
+B1336¦tp=T05¦med=related¦ck=-¦ef=der Verletzte; die Verletzte; ein Verletzter¦ex=Die Verletzten werden ins Krankenhaus gebracht.¦en=The injured are taken to hospital.
+B3818¦en=Make a good impression on your employer.
+B1337¦tp=T15¦ps=zerlegt¦pt=zerlegte¦pf=hat zerlegt¦ex=Wir zerlegen das Wort in seine Teile.¦en=We break the word down into its parts.
+B1338¦en=I have never heard this expression.
+B1339¦ps=drückt aus¦pt=drückte aus¦pf=hat ausgedrückt¦ex=Ich kann meine Gefühle schlecht ausdrücken.¦en=I find it hard to express my feelings.
+B3143¦pos=adjective¦col=wilde Tiere | ein wilder Fluss | wild wachsen | wild campen¦en=That is a wild river.
+B1340¦en=You should have asked him for permission beforehand.
+B1341¦tp=T12¦m=commandment; rule; requirement¦ex=Es ist ein Gebot der Höflichkeit, zu grüßen.¦en=It is a matter of politeness to say hello.
+B1342¦en=I am in favour of banning this new video game.
+B2801¦tp=T13¦ex=Die Krankheit hat drei Phasen.¦en=The illness has three phases.
+B1343¦tp=T15¦pt=gab wieder¦m=to reproduce; to recite; to give back¦ex=Kannst du den Text kurz wiedergeben?¦en=Can you briefly reproduce the text?
+B1344¦m=study; home office¦ex=Mein Mann arbeitet im Arbeitszimmer.¦en=My husband works in the study.
+B1345¦tp=T02¦m=bathroom; bath¦en=We don't have a large bathroom.
+B2128¦pos=adjective¦col=privat versichert | privater Besuch | private Daten | privat und beruflich¦en=This is my number at the office and this is my private mobile number.
+B1346¦tp=T02¦en=The flat also has a small balcony.
+B1347¦en=The TV is broken.
+B1348¦en=We are waiting outside in the hallway.
+B5221¦pos=conjunction¦m=as far as¦lv=B1¦ex=Soweit ich weiß, kommt er morgen.¦en=As far as I know, he's coming tomorrow.
+B1349¦en=You will find electrical appliances on the third floor.
+B1350¦tp=T02¦en=The new kitchen still lacks the cooker.
+B1351¦tp=T02¦ex=Die Kaffeemaschine steht in der Küche.¦en=The coffee machine is in the kitchen.
+B4158¦m=share; proportion¦tp=T13¦ex=Der Anteil der Frauen im Team steigt.¦en=The share of women in the team is rising.
+B1352¦tp=T02¦ex=Das Kinderzimmer ist klein, aber hell.¦en=The nursery is small but bright.
+B1353¦tp=T02¦en=The new cooker is going into the kitchen.
+B1354¦tp=T02¦en=Do we still have milk? – Yes, in the fridge.
+B4315¦g=zu + Dat.¦col=jemanden zu etwas zwingen | gezwungen sein | sich zwingen | zum Handeln zwingen¦en=Please don't force me to eat anything.
+B1355¦en=Please turn on the lamp. It is so dark.
+B1356¦tp=T02¦en=Is the furniture new?
+B1357¦en=The book is on the shelf at the top right.
+B5222¦m=as soon as¦en=As soon as I know the appointment, I'll let you know.
+B1358¦en=Here is the bedroom.
+B1359¦tp=T02¦en=The glasses are in the cupboard.
+B1360¦ex=Auf dem Schreibtisch liegen viele Papiere.¦en=There are many papers on the desk.
+B5223¦pos=adverb¦m=still; furthermore; continuing¦lv=B1¦ex=Das Büro bleibt weiterhin geschlossen.¦en=The office remains closed.¦col=weiterhin gültig | weiterhin bestehen | weiterhin offen | auch weiterhin
+B1361¦en=I would like a comfortable armchair.
+B1362¦tp=T02¦en=The sofa is new.
+B1363¦tp=T02¦ex=Die Spülmaschine ist voll.¦en=The dishwasher is full.
+B4935¦ps=berücksichtigt¦pt=berücksichtigte¦pf=hat berücksichtigt¦ex=Bitte berücksichtigen Sie meine Wünsche.¦en=Please take my wishes into account.¦col=Wünsche berücksichtigen | alle Faktoren berücksichtigen | berücksichtigt werden | nicht berücksichtigen
+B1364¦en=Is this chair free?
+B1365¦en=I bought myself a new carpet.
+B1366¦tp=T02¦en=Where is the toilet, please?
+B2168¦tp=T10¦col=die Handlung des Films | eine strafbare Handlung | Handlungen vornehmen | der Verlauf der Handlung
+B1367¦tp=T02¦ex=Die Waschmaschine ist kaputt.¦en=The washing machine is broken.
+B1368¦tp=T02¦en=How long have you had this flat?
+B1369¦en=The children are sitting in the living room watching TV.
+B3115¦col=eine Erklärung abgeben | eine einfache Erklärung | eine Erklärung verlangen | eine plausible Erklärung¦en=The teacher's explanation is better than the explanation in the book.
+B1370¦pos=adverb¦tp=T02¦m=above; at the top; upstairs¦en=I live upstairs.
+B1371¦en=Could you please take care of our plants? We're on holiday next week.
+B1372¦tp=T10¦ex=Mein Lieblingsort ist der Park.¦en=My favourite place is the park.
+B5085¦col=Wissenschaft und Forschung | in der Wissenschaft arbeiten | die Wissenschaft belegt | moderne Wissenschaft¦en=Representatives of art and science are meeting in Berlin today.
+B1373¦tp=T02¦ck=-¦ex=Mein Lieblingszimmer ist die Küche.¦en=My favourite room is the kitchen.
+B1374¦pos=adjective¦tp=T02¦ef=heller – am hellsten¦m=light; bright
+B1375¦pos=adverb¦en=How long does a letter take? – Two days at most.
+B3406¦en=The train was two hours late, so I only got home at 11 p.m.
+B1376¦pos=noun¦art=der¦pl=Quadratmeter¦tp=T13¦nt=Abbreviation of Quadratmeter (also m²).¦ex=Die Wohnung hat 60 qm.¦en=The flat has 60 sq m.
+B1377¦en=Let's sit on the terrace!
+B1378¦pos=adverb¦en=How far is it to the station? – Not far, about ten minutes on foot.
+B5224¦m=to demand; to call for¦col=mehr Geld fordern | Rechte fordern | eine Erklärung fordern | Opfer fordern¦en=The employees demand more money.
+B1379¦tp=T02¦ex=Die Wohnungssuche in der Großstadt ist schwierig.¦en=Finding a flat in a big city is difficult.
+B1380¦en=Do you live in the centre? – No, I don't live right in the city.
+B1381¦tp=T02¦en=The rent for this flat is 600 euros.
+B3326¦ex=Aus dieser Perspektive sieht das Problem anders aus.¦en=From this perspective the problem looks different.

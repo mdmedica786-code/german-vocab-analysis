@@ -1,0 +1,100 @@
+B1458¦tp=T08¦en=From this hotel you have a good view of the Rhine.
+B1459¦tp=T11¦en=Do you like the flowers?
+B4913¦m=duty; service; shift¦en=Tomorrow I'm on duty. That is why I can't come.
+B1461¦en=I live on the ground floor.
+B1462¦m=location; situation¦col=zentrale Lage | in guter Lage | die Lage verbessern | die Lage ist ernst¦en=We are looking for a flat in a central location.
+B3492¦pos=adjective¦tp=T14¦ex=Ich bin überrascht, wie schnell das ging.¦en=I'm surprised how fast that was.¦col=überrascht sein | angenehm überrascht | völlig überrascht | überrascht aussehen
+B1463¦tp=T13¦en=He never arrives on time.
+B1464¦pos=adjective¦tp=T08¦ef=weiter – am weitesten¦m=far; wide; loose¦os=-
+B1465¦tp=T02¦rg=informal¦nt=Abbreviation of Wohngemeinschaft.¦ex=Ich wohne in einer WG mit drei Freunden.¦en=I live in a flat share with three friends.
+B5231¦m=fight; struggle¦en=On the school bus there is always a fight for the seats.
+B1467¦pos=adjective¦tp=T14¦g=mit + Dat.¦en=I'm satisfied with the flat.
+B1468¦pos=adverb¦tp=T13¦nt=Also written zur Zeit.¦en=At the moment I have a lot to do.
+B1469¦en=Do you have your exercise book with you?
+B5232¦tp=M1 Medizin: Anatomie & Körpersysteme¦art=die¦pl=Stirnen¦m=forehead¦lv=B1¦ex=Das Kind hat eine Beule an der Stirn.¦en=The child has a bump on its forehead.¦col=die Stirn runzeln | Schweiß auf der Stirn | eine Beule an der Stirn | die Stirn abtasten
+B1470¦tp=T15¦ck=-¦ex=Mit Textbausteinen schreibt man schneller.¦en=You write faster with text blocks.
+B1471¦tp=T01¦m=favour¦os=-
+B1472¦tp=T14¦m=displeasure; disapproval¦ex=Er zeigte sein Missfallen deutlich.¦en=He clearly showed his displeasure.
+B2756¦col=Kommunikation verbessern | gute Kommunikation | digitale Kommunikation | Kommunikation mit Patienten¦en=Communication between the departments is good.
+B1473¦tp=T15¦ck=-¦ex=„In“ ist eine Wechselpräposition.¦en=“In” is a two-way preposition.
+B1474¦tp=T04¦en=The degree course starts in October.
+B1475¦en=Who looks after the children at your place?
+B3436¦tp=T05¦ps=berührt¦pt=berührte¦pf=hat berührt¦ex=Bitte berühren Sie das Bild nicht.¦en=Please do not touch the picture.¦col=die Haut berühren | sanft berühren | berührt werden | Gefühle berühren
+B1476¦pt=malte¦en=My son can paint well.
+B1477¦tp=T10¦ps=segelt¦pt=segelte¦pf=hat/ist gesegelt¦ex=Im Sommer segeln wir auf dem See.¦en=In summer we sail on the lake.
+B1478¦tp=T04
+B5233¦pos=adverb¦m=on the other hand; whereas¦lv=B1¦ex=Ich mag den Winter, meine Frau hingegen liebt den Sommer.¦en=I like winter, my wife on the other hand loves summer.
+B1479¦ex=Der Künstler stellt seine Bilder im Museum aus.¦en=The artist exhibits his paintings in the museum.¦es=claude
+B1480¦en=Many women artists live in this district. A musician lives next to us.
+B1481¦tp=T10¦ex=Ich höre jeden Morgen eine Radiosendung.¦en=Every morning I listen to a radio programme.
+B3876¦pos=adjective¦en=I'm looking for a very special ring for my girlfriend.¦col=speziell für | ein spezieller Fall | speziell ausgebildet | etwas Spezielles
+B1482¦tp=T03¦ck=-¦ex=Der Segellehrer erklärt die Knoten.¦en=The sailing instructor explains the knots.
+B1483¦tp=T03¦ck=-¦ex=Die Segellehrerin fährt mit uns aufs Meer.¦en=The sailing instructor takes us out to sea.
+B1484¦tp=T03¦en=At my workplace a printer is missing.
+B2248¦tp=T16¦ps=gestaltet¦pt=gestaltete¦pf=hat gestaltet¦m=to design; to shape; to organise¦ex=Wir gestalten den Unterricht selbst.¦en=We organise the lesson ourselves.¦col=den Alltag gestalten | die Zukunft gestalten | einen Raum gestalten | die Freizeit gestalten
+B1485¦en=There is a large building site in front of our house.
+B1486¦en=I always buy my sweaters at the Hertie department store.
+B1487¦en=My car is broken. It is in the garage.
+B5234¦art=die¦pl=Anforderungen¦m=requirement; demand¦lv=B1¦ex=Die Anforderungen an Ärzte sind hoch.¦en=The requirements for doctors are high.¦col=hohe Anforderungen | Anforderungen erfüllen | den Anforderungen entsprechen | Anforderungen stellen
+B1488¦en=My brother has big plans. He wants to make a career.
+B1489¦tp=T03¦ps=verdient¦pt=verdiente¦pf=hat verdient¦en=I earn 1,500 euros a month.
+B1490¦tp=T04¦ck=-¦ex=Die Kursstatistik zeigt, wie viele Teilnehmer kommen.¦en=The course statistics show how many participants are coming.
+B5235¦art=der¦pl=Soldaten¦ef=den/dem/des Soldaten (n-declension)¦m=soldier¦lv=B1¦ex=Der Soldat kehrt nach Hause zurück.¦en=The soldier returns home.
+B1491¦en=Have a nice evening after work.
+B1492¦pos=adjective¦en=Ibrahim is very hardworking. He always does his homework.
+B1493¦pos=adjective¦tp=T13¦ex=Das ist mein letzter Tag hier.¦en=This is my last day here.
+B5236¦pos=adjective¦m=youthful; juvenile¦ex=Das Kino ist für jugendliche Besucher gedacht.¦en=The cinema is intended for young visitors.
+B1494¦tp=T16¦m=once; just (modal particle)¦ex=Komm mal her!¦en=Come here (for a moment)!
+B1495¦ex=Der Professor hält eine Vorlesung.¦en=The professor is giving a lecture.¦es=claude
+B1496¦en=Our neighbour is a professor at the university.
+B5237¦pos=preposition¦g=+ Dat. | + Gen.¦m=thanks to¦ex=Dank deiner Hilfe habe ich es geschafft.¦en=Thanks to your help I made it.
+B1497¦en=We are doing a project on the sights of our city.
+B1498¦en=My nephew is in his seventh semester of medicine.
+B1499¦tp=T13¦ps=ist vorbei¦pt=war vorbei¦pf=ist vorbei gewesen¦ex=Der Winter ist endlich vorbei.¦en=Winter is finally over.
+B3246¦pos=adverb¦tp=T13¦m=afterwards; subsequently¦ex=Wir essen und gehen anschließend ins Kino.¦en=We eat and afterwards go to the cinema.¦col=anschließend fahren | gleich anschließend | im anschließenden Gespräch | anschließend können wir
+B1500¦tp=T16¦col=ebenso gut | ebenso viel | ebenso wie | ebenso schnell¦en=Happy holidays. – Thanks, same to you.
+B1501¦tp=T15¦ex=„Gegangen“ ist das Partizip II von „gehen“.¦en=“Gegangen” is the past participle of “gehen”.
+B1502¦tp=T15¦ex=Das Perfekt bildet man mit haben oder sein.¦en=The perfect tense is formed with haben or sein.
+B3367¦col=Hilfe benötigen | Unterlagen benötigen | dringend benötigen | Zeit benötigen¦en=Let me know if you need anything else.
+B1503¦tp=T04¦en=The exam is on Monday at 8 a.m.
+B1504¦en=The statistics show that every second person owns a bicycle.
+B1505¦en=Today's guests in the studio are ...
+B2172¦col=zuletzt gesehen | zuletzt gearbeitet | wann zuletzt | zuletzt kam er¦en=The last time we saw each other was three years ago.
+B1506¦pt=trainierte¦en=We train once a week at the sports club.
+B1507¦tp=T04¦ck=-¦ex=Im Unicafé treffen wir uns nach der Vorlesung.¦en=We meet in the uni café after the lecture.
+B1508¦tp=T16¦en=Both parents work.
+B5238¦g=in + Akk.¦m=to enter; to join¦en=Last year I joined a sports club.¦col=in einen Verein eintreten | in den Raum eintreten | ein Problem tritt ein | für etwas eintreten
+B1509¦tp=T13¦col=kaum zu glauben | kaum noch | kaum jemand | kaum Zeit¦en=I can hardly understand you. Please speak louder.
+B1510¦tp=T15¦m=attachment; appendix¦ex=Im Anhang finden Sie die Unterlagen.¦en=You will find the documents in the attachment.
+B1511¦en=What do we need for the party? – Make a shopping list.
+B2133¦tp=T15¦ps=flüstert¦pt=flüsterte¦pf=hat geflüstert¦ex=Sie flüstert ihm ein Geheimnis ins Ohr.¦en=She whispers a secret into his ear.¦col=leise flüstern | jemandem etwas zuflüstern | ins Ohr flüstern | miteinander flüstern
+B1512¦tp=T04¦m=task; assignment¦en=That is a difficult task.
+B1513¦en=I would like a mixed ice cream with cream.
+B1514¦art=die¦pl=–¦tp=T09¦ex=Ich war gestern bei der Agentur für Arbeit.¦en=Yesterday I was at the employment agency.
+B5239¦sp=aus¦ps=sagt aus¦pt=sagte aus¦pf=hat ausgesagt¦tp=T12¦m=to testify; to state¦lv=B1¦ex=Der Zeuge sagt vor Gericht aus.¦en=The witness testifies in court.¦col=als Zeuge aussagen | vor Gericht aussagen | gegen jemanden aussagen | etwas über ... aussagen
+B1515¦pos=adjective¦tp=T03¦en=There are many people here who have been unemployed for a long time.
+B1516¦en=Where should I send my application?
+B1517¦tp=T01¦en=This is my husband/my wife.
+B5240¦pos=adjective¦tp=T16¦m=created; made (participle of schaffen)¦lv=B1¦ck=dup:B1198¦ex=Für diese Aufgabe ist er wie geschaffen.¦en=He is made for this task.¦col=wie geschaffen für | neu geschaffen | von Natur aus geschaffen | geschaffene Werte
+B1518¦tp=T01¦en=This is my husband/my wife.
+B1519¦pos=adjective¦tp=T14
+B1520¦pt=flog¦tp=T08¦en=I don't like flying. That is why I take the train.
+B5241¦m=lane; track; trace¦col=auf der linken Spur | eine Spur verfolgen | die Spur wechseln | Spuren hinterlassen¦en=Please drive in the left lane if you want to go faster.
+B1521¦tp=T13¦en=In the past we often went to the cinema together.
+B1522¦tp=T01¦en=I come from Switzerland. That is my home.
+B1523¦tp=T03¦ck=-¦ex=Der Hotelchef begrüßt die Gäste.¦en=The hotel manager welcomes the guests.
+B3971¦pt=lieferte¦col=Waren liefern | frei Haus liefern | Beweise liefern | Strom liefern¦en=We will deliver the wardrobe to your home.
+B1524¦tp=T03¦ck=-¦ex=Die Hotelchefin zeigt uns das Zimmer.¦en=The hotel manager shows us the room.
+B1525¦tp=T10¦en=You can find that on the internet.
+B1526¦tp=T03¦rg=informal¦en=Jenny has a new job at the post office.
+B4212¦col=eine Gelegenheit nutzen | bei Gelegenheit | die Gelegenheit haben | eine günstige Gelegenheit¦en=The party is a good opportunity to see our friends.
+B1529¦tp=T10¦ex=Mein Profil im Netzwerk ist öffentlich.¦en=My profile on the network is public.
+B1530¦en=The new secretary introduced himself yesterday.
+B5242¦pos=preposition¦g=+ Gen.¦m=with regard to¦lv=B1¦ex=Hinsichtlich der Kosten gibt es noch Fragen.¦en=With regard to the costs there are still questions.
+B1531¦ex=Die Sekretärin plant meine Termine.¦en=The secretary organises my appointments.¦es=claude
+B1532¦pl=Stellen¦tp=T03¦m=position; place; job¦en=If I were you, I would ...
+B1533¦tp=T08¦ck=-¦ex=Eine Ortsveränderung kann man mit „nach“ ausdrücken.¦en=A change of place can be expressed with “nach”.
+B5243¦art=die¦pl=Basen¦m=basis; base¦lv=B1¦ex=Das ist die Basis unserer Zusammenarbeit.¦en=That is the basis of our cooperation.
+B1534¦tp=T07
+B1535¦tp=T10
+B1536¦pos=adjective¦tp=T16¦en=75 kg. His weight is normal.
