@@ -1,0 +1,57 @@
+You are building Medica's complete German learning bank. Work autonomously and do not ask questions.
+
+CONTEXT
+Medica is a final-year MBBS student who will work as a doctor in Germany (Goethe B1 in Dec 2026, B2 in spring 2027, then the Fachsprachprüfung = FSP). She needs three finished banks (German with English explanations):
+1. VOCABULARY BANK - input\vocabulary_input.csv (6,524 rows: Netzwerk neu A1-B1 glossary + Goethe A1-B1 lists + frequent words from her n-gram corpus). Verify and complete every row.
+2. PHRASE BANK - input\phrases_input.csv (1,016 rows of multi-word chunks and fixed expressions). Complete every row.
+3. REDEMITTEL BANK - speech and writing phrases by communicative function for the B1/B2 exams and the FSP. You write it yourself from input\redemittel_plan.csv (55 categories, at least 1,116 rows).
+No Anki cards, audio or pronunciation in this task.
+
+FOLDERS - work in D:\ngram\vocab_bank (cd there first)
+input\        READ-ONLY. Start with input\README_input.txt: it defines every column, allowed value, writing rule and the todo logic. Read it completely, once.
+bank_final\   your results: vocabulary_bank.csv, phrase_bank.csv, redemittel_bank.csv, German_Bank.xlsx, progress.md, changes.csv, QA_report.md
+work\         scratch: tools, patches, tests, backups
+Do not open, change or delete anything else on the computer (anki\, D:\ngram\vocab_analysis, ...). Never delete files. Never overwrite anything outside bank_final\ and work\.
+If bank_final\ already contains files, this is a resumed run: read bank_final\progress.md and continue where it stops. Never restart.
+
+RULES
+1. German must be flawless: spelling, umlauts, ß, article, plural, case, verb forms, word order. If you are unsure about a fact, write your best answer and add a flag to the row's check column (for example ?plural). Never invent, never guess silently.
+2. Row ids and row order never change, locked columns never change, no row is deleted or merged (flag duplicates as dup:<id>, useless rows as drop?). Corrections to prefilled cells are allowed and are logged in bank_final\changes.csv.
+3. CSV files: comma-separated, UTF-8 with BOM, one physical line per row, no tabs, line breaks, HTML or Markdown inside cells. Open and write every file with encoding="utf-8-sig" and set PYTHONUTF8=1, so umlauts survive on Windows.
+4. Never print or open whole data files. Print counts and at most 30 rows at a time.
+5. Work in small steps: at most 100 vocabulary or phrase rows, or 40 Redemittel rows, per step. After every step validate, save and update bank_final\progress.md (blocks done, rows done per bank, next step, decisions, open issues). One to three lines of chat output per step.
+6. Work efficiently (bulk work, no long deliberation per row, QA pass at the end) but never trade correctness for speed (rule 1). If you run out of context or usage, stop cleanly after a finished step; the next session resumes from progress.md.
+7. Stop and tell Medica only if an input file is missing or unreadable, a file you must not overwrite already exists, or the tools keep failing.
+
+STEP 0 - SETUP (once)
+a) Read input\README_input.txt. Check Python (python or py) and openpyxl (pip install openpyxl if missing).
+b) Write work\bank_tools.py (standard library + openpyxl) with these commands:
+   status                 per bank: rows, complete rows, empty cells per required column, rows with check flags; Redemittel rows per category vs min_count
+   next <bank> <n> [--from A --to B | --wave W | --cat ID]
+                          print the RULES block of that bank (copied from README_input.txt), then the next n unfinished rows in work order (vocabulary: study_order range A-B), one compact line per row (non-empty cells as key=value, columns as listed in README_input.txt). For the Redemittel bank: the first category (plan order, optionally limited to a wave) with fewer rows than min_count, its cover text, and the expressions already written for it (to avoid duplicates)
+   apply <patch.json>     merge and validate a patch; print only counts and errors
+   validate               full check of all banks against README_input.txt (required cells, allowed values, locked columns, duplicates, forbidden characters, Redemittel count per category); print counts and the first 30 errors
+   export                 write bank_final\German_Bank.xlsx as described in README_input.txt section 9
+   Patch file: {"bank":"vocab|phrase|redemittel","cols":["id","col1","col2"],"rows":[["B0004","v1","v2"]]}. An empty string leaves the cell unchanged. Include only the columns you fill or correct in that step. In the Redemittel bank a row with empty id creates a new row (cols must then include wave, cat_id and category); the tool assigns R0001, R0002, ...
+   apply must reject unknown ids/columns, locked columns and values outside the allowed lists; reject tabs, line breaks and HTML in cells; recompute todo; log every change of a previously non-empty cell to bank_final\changes.csv (bank, id, column, old, new); write each CSV atomically (temp file, then replace); copy the CSVs to work\backup\ with a timestamp after every 20th patch.
+   Test the tool on copies inside work\test\, never on bank_final\.
+c) Create bank_final\vocabulary_bank.csv and phrase_bank.csv as copies of the two input files (only if they do not exist yet), an empty redemittel_bank.csv with the header from README_input.txt section 6, and progress.md.
+
+WORK ORDER - one step = `next` -> write the patch file work\patches\NNN.json -> `apply`
+BLOCK 1  vocabulary rows with study_order 1-800
+BLOCK 2  Redemittel wave 1 (categories B1-01 ... B1-20), then run export
+BLOCK 3  vocabulary rows with study_order 801-2500
+BLOCK 4  phrase bank, all rows, then run export
+BLOCK 5  Redemittel wave 2 (B2-xx), then wave 3 (FSP-xx), then run export
+BLOCK 6  vocabulary: all remaining rows, then the skip=yes rows, then run export
+BLOCK 7  QA and final export
+What to do per row is defined by the RULES blocks in README_input.txt (printed by `next`). In short:
+- Vocabulary: in one pass per row verify the prefilled cells and fill every empty required cell: pos, meaning, article and plural, verb forms for every verb, government, level, register, topic, example sentence plus translation, collocations for key words. Pay extra attention to rows flagged ocr? (compare with input\reference\netzwerk_entries.csv via column nw_entry).
+- Phrases: complete fragments and normalise the phrase, then fill meaning, function, level, register, example plus translation, grammar note and variants.
+- Redemittel: for each category write at least min_count distinct, natural, original expressions that cover everything listed under "cover", with both sides of the dialogue where relevant (Arzt and Patient), formal and informal variants, about 60 % priority=core. Every row complete. FSP categories use realistic clinical German: Sie-form for adults, patient-friendly wording for patients, technical wording for colleagues, no real patient data.
+
+BLOCK 7 - QA
+validate must report 0 errors. Then audit a random sample with fresh eyes, using a subagent if you have one: 150 vocabulary rows, 60 phrase rows, 80 Redemittel rows. Check German correctness, English meanings, article/plural/verb forms, and that every example sentence is natural and contains the target word or phrase. Fix every error. If more than 3 % of the sample rows were wrong in a bank, audit another 150 rows of that bank and fix systematic problems. Resolve duplicates (same lemma + pos + article, identical phrases, identical Redemittel). Write bank_final\QA_report.md: row counts per bank, vocabulary by level and topic, Redemittel per category, error rates found, every row still carrying a check flag (id + flag), and three suggested follow-up extensions (do not start them).
+
+FINISH
+Tell Medica in at most 8 lines: what is in bank_final\, the row counts, how many rows still carry check flags, and that she should open German_Bank.xlsx first.
