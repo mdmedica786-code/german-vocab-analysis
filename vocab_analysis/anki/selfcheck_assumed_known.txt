@@ -1,0 +1,444 @@
+SELF-CHECK LIST - words the plan assumes you already know
+============================================================
+
+The plan schedules only words that are probably NEW for you. Two groups were left out on purpose.
+Scan them once (5 minutes). Any word you cannot translate in under 2 seconds: add it to the plan (Anki, "de gram" / 14-field card).
+
+A) Goethe A1 words that are absent or rare in your n-gram data (155 words). You should know them from A1:
+
+
+-- T01 Person, Familie & Beziehungen
+das Geburtsjahr
+der Familienname, -n
+der Familienstand
+der Geburtsort
+der Glückwunsch, ¨-e
+der Vorname, -n
+die Großeltern (Pl.)
+die Partnerin, -nen
+gratulieren
+ledig
+
+-- T02 Wohnen
+anmachen
+das Apartment, -s
+der Aufzug, ¨-e
+der Balkon, -e
+der Herd, -e
+der Vermieter, -
+die Miete, -n
+die Möbel (Pl.)
+mieten
+umziehen
+vermieten
+
+-- T03 Arbeit & Beruf
+arbeitslos
+das Praktikum, -a
+der Hausmann, ¨-er
+die Hausfrau, -en
+selbstständig
+
+-- T04 Ausbildung, Schule & Studium
+der Bleistift, -e
+der Kindergarten, ¨-
+der Kugelschreiber, -
+die Hausaufgabe, -n
+
+-- T05 Gesundheit & Körper
+sich duschen
+
+-- T06 Essen & Trinken
+das Brötchen, -
+das Getränk, -e
+das Hähnchen, -
+der Apfel, ¨-
+der Appetit
+der Durst (Sg.)
+der Reis (Sg.)
+der Saft, ¨-e
+der Salat, -e
+der Schinken, -
+die Banane, -n
+die Birne, -n
+die Speisekarte, -n
+die Tomate, -n
+frühstücken
+grillen
+
+-- T07 Einkaufen, Kleidung & Geld
+billig
+der Kiosk, -e
+der Laden, ¨-
+die Bäckerei, -en
+die Jacke, -n
+die Kasse, -n
+einkaufen
+
+-- T08 Reisen, Verkehr & Orte
+abfahren
+abfliegen
+aussteigen
+besichtigen
+das Doppelzimmer, -
+das Einzelzimmer
+das Gleis, -e
+das Reisebüro, -s
+das Ticket, -s
+der Abflug
+der Automat, -en
+der Bahnsteig, -e
+der Europäer, -
+der Finne
+der Lkw, -s
+der Mexikaner
+der Prospekt, -e
+der Reiseführer, -
+der Türke, -n
+die Abfahrt, -en
+die Autobahn, -en
+die Fahrkarte, -n
+die Finnin, -nen
+die Halbpension
+die Haltestelle, -n
+die Mexikanerin, -nen
+die S-Bahn, -en
+die Sehenswürdigkeit, -en
+die Straßenbahn, -en
+die Türkin, -nen
+einsteigen
+finnisch
+Finnland
+geradeaus
+mexikanisch
+Mexiko
+türkisch
+übernachten
+
+-- T09 Behörden, Post & Dienstleistungen
+ausfüllen
+das Formular, -e
+der Absender, -
+der Ausweis, -e
+der Schalter, -
+der Zoll, ¨-e
+die Anmeldung, -en
+die Briefmarke, -n
+die Postleitzahl, -en
+die Reparatur, -en
+die Unterschrift, -en
+die Vorwahl, -en
+gültig
+sich anmelden
+unterschreiben
+überweisen
+
+-- T10 Freizeit, Sport, Kultur & Medien
+anklicken
+das Hobby, -s
+das Schwimmbad, ¨-er
+der Ausflug, ¨-e
+der Drucker, -
+die CD, -s
+die Disco, -s
+drucken
+
+-- T11 Natur, Umwelt, Wetter & Tiere
+regnen
+
+-- T13 Zeit, Zahlen, Maße & Mengen
+achtzehn
+achtzig
+circa
+das Gramm
+das Kilo
+der Cent
+der Dienstag
+der Donnerstag
+der Liter
+der Mittwoch
+der Quadratmeter
+der Wochentag, -e
+dreizehn
+einundzwanzig
+hunderteins
+minus
+neunzehn
+neunzig
+pünktlich
+sechzehn
+sechzig
+siebzehn
+siebzig
+zweihundert
+
+-- T15 Sprache, Kommunikation & Denken
+ankreuzen
+buchstabieren
+das Fax, -e
+das Wiederhören, -
+der Anrufbeantworter, -
+die Anrede, -n
+die Ansage, -n
+die Durchsage, -n
+telefonieren
+tschüss
+
+-- T16 Allgemein (Funktionswörter, abstrakter Wortschatz)
+kaputt
+mitkommen
+mitmachen
+reparieren
+
+
+B) Goethe A2/B1 words that are in the top-500 lemmas of your data (219 words). Assumed known:
+
+
+-- T01 Person, Familie & Beziehungen
+die Person, -en   [lemma rank 255]
+der Tod   [lemma rank 361]
+die Beziehung, -en   [lemma rank 407]
+das Verhältnis, -se   [lemma rank 473]
+
+-- T02 Wohnen
+die Tür, -en   [lemma rank 268]
+der Boden, ¨-   [lemma rank 386]
+
+-- T03 Arbeit & Beruf
+handeln, handelt, handelte, hat gehandelt   [lemma rank 250]
+die Erfahrung, -en   [lemma rank 434]
+das Werk, -e   [lemma rank 474]
+
+-- T04 Ausbildung, Schule & Studium
+die Seite, -n   [lemma rank 169]
+bestehen, besteht, hat bestanden   [lemma rank 193]
+die Geschichte, -n   [lemma rank 263]
+das Kapitel, -   [lemma rank 336]
+
+-- T05 Gesundheit & Körper
+das Gesicht, -er   [lemma rank 209]
+sich fühlen, fühlt, hat gefühlt   [lemma rank 257]
+der Körper, -   [lemma rank 297]
+das Herz, -en   [lemma rank 307]
+die Kraft, ¨-e   [lemma rank 360]
+wirken, wirkt, wirkte, hat gewirkt   [lemma rank 368]
+verbinden, verbindet, verband, hat verbunden   [lemma rank 391]
+der Patient, -en   [lemma rank 421]
+die Bewegung, -en   [lemma rank 444]
+spüren, spürt, spürte, hat gespürt   [lemma rank 451]
+die Untersuchung, -en   [lemma rank 480]
+
+-- T06 Essen & Trinken
+gar   [lemma rank 179]
+
+-- T07 Einkaufen, Kleidung & Geld
+arm   [lemma rank 342]
+bieten, bietet, bot, hat geboten   [lemma rank 389]
+rein   [lemma rank 479]
+wert   [lemma rank 489]
+
+-- T08 Reisen, Verkehr & Orte
+recht-   [lemma rank 135]
+erreichen, erreicht, hat erreicht   [lemma rank 278]
+der Schritt, -e   [lemma rank 354]
+die Richtung, -en   [lemma rank 408]
+nah   [lemma rank 468]
+wenden, wendet, wendete, hat gewendet   [lemma rank 469]
+öffentlich   [lemma rank 486]
+
+-- T10 Freizeit, Sport, Kultur & Medien
+schlagen, schlägt, schlug, hat geschlagen   [lemma rank 365]
+die Rolle, -n   [lemma rank 446]
+das Interesse, -n   [lemma rank 460]
+
+-- T11 Natur, Umwelt, Wetter & Tiere
+die Luft   [lemma rank 436]
+
+-- T12 Gesellschaft, Politik, Recht & Geschichte
+der Gott, ¨-er   [lemma rank 181]
+sozial   [lemma rank 281]
+politisch   [lemma rank 290]
+die Gesellschaft, -en   [lemma rank 337]
+der Staat, -en   [lemma rank 423]
+der Prozess, -e   [lemma rank 448]
+der König, -e   [lemma rank 449]
+das Gesetz, -e   [lemma rank 490]
+
+-- T13 Zeit, Zahlen, Maße & Mengen
+bereits   [lemma rank 152]
+früh   [lemma rank 229]
+schließlich   [lemma rank 260]
+paar   [lemma rank 275]
+nächste   [lemma rank 283]
+plötzlich   [lemma rank 322]
+zunächst   [lemma rank 355]
+häufig   [lemma rank 369]
+endlich   [lemma rank 378]
+mehrere   [lemma rank 380]
+genug   [lemma rank 420]
+das Jahrhundert, -e   [lemma rank 425]
+reichen, reicht, reichte, hat gereicht   [lemma rank 435]
+damals   [lemma rank 461]
+der Monat, -e   [lemma rank 475]
+halb   [lemma rank 478]
+steigen, steigt, stieg, ist gestiegen   [lemma rank 483]
+danach   [lemma rank 485]
+der Augenblick, -e   [lemma rank 487]
+
+-- T14 Gefühle, Charakter & Meinungen
+das Gefühl, -e   [lemma rank 311]
+lächeln, lächelt, lächelte, hat gelächelt   [lemma rank 340]
+die Angst, ¨-e   [lemma rank 385]
+sich verhalten, verhält sich, verhielt sich, hat sich verhalten   [lemma rank 455]
+persönlich   [lemma rank 494]
+
+-- T15 Sprache, Kommunikation & Denken
+denken, denkt, hat gedacht   [lemma rank 117]
+erkennen, erkennt, erkannte, hat erkannt   [lemma rank 239]
+rufen, ruft, hat gerufen   [lemma rank 254]
+der Gedanke, -n   [lemma rank 259]
+reden, redet, hat geredet   [lemma rank 267]
+meinen, meint, hat gemeint   [lemma rank 276]
+nennen, nennt, hat genannt   [lemma rank 293]
+die Stimme, -n   [lemma rank 313]
+die Bedeutung, -en   [lemma rank 314]
+darstellen, stellt dar, stellte dar, hat dargestellt   [lemma rank 414]
+sich erinnern, erinnert, hat erinnert   [lemma rank 415]
+beschreiben, beschreibt, hat beschrieben   [lemma rank 439]
+die Entscheidung, -en   [lemma rank 447]
+der Punkt, -e   [lemma rank 492]
+die Idee, -n   [lemma rank 496]
+
+-- T16 Allgemein (Funktionswörter, abstrakter Wortschatz)
+als   [lemma rank 21]
+dass   [lemma rank 22]
+aller-   [lemma rank 35]
+wenn   [lemma rank 39]
+lassen, lässt, hat gelassen   [lemma rank 64]
+doch   [lemma rank 65]
+wieder   [lemma rank 67]
+erst   [lemma rank 68]
+ganz   [lemma rank 70]
+jeder   [lemma rank 81]
+etwas   [lemma rank 83]
+welcher   [lemma rank 88]
+selbst   [lemma rank 90]
+damit   [lemma rank 94]
+nun   [lemma rank 104]
+beid-   [lemma rank 106]
+sondern   [lemma rank 115]
+weil   [lemma rank 120]
+dabei   [lemma rank 123]
+ob   [lemma rank 124]
+während   [lemma rank 125]
+mal   [lemma rank 127]
+zeigen, zeigt, hat gezeigt   [lemma rank 136]
+führen, führt, führte, hat geführt   [lemma rank 138]
+der Fall, ¨-e   [lemma rank 139]
+eigen-   [lemma rank 140]
+solch-   [lemma rank 142]
+jedoch   [lemma rank 150]
+ziehen   [lemma rank 154]
+sich setzen, setzt, hat gesetzt   [lemma rank 159]
+weg   [lemma rank 167]
+fallen, fällt, ist gefallen   [lemma rank 175]
+wohl   [lemma rank 176]
+versuchen, versucht, hat versucht   [lemma rank 182]
+genau   [lemma rank 185]
+wirklich   [lemma rank 191]
+stark   [lemma rank 194]
+etwa   [lemma rank 197]
+natürlich   [lemma rank 200]
+die Art, -en   [lemma rank 205]
+zwar   [lemma rank 206]
+neben   [lemma rank 208]
+gelten, gilt, galt, hat gegolten   [lemma rank 211]
+folgen, folgt, folgte, ist gefolgt   [lemma rank 212]
+verschieden   [lemma rank 213]
+die Form, -en   [lemma rank 216]
+hinter   [lemma rank 218]
+hin   [lemma rank 220]
+fast   [lemma rank 222]
+dafür   [lemma rank 226]
+allerdings   [lemma rank 228]
+einig-   [lemma rank 230]
+einzeln   [lemma rank 232]
+fest   [lemma rank 233]
+der Sinn   [lemma rank 234]
+treten   [lemma rank 237]
+tragen, trägt, hat getragen   [lemma rank 238]
+sicher   [lemma rank 241]
+folgend   [lemma rank 242]
+der Grund, ¨-e   [lemma rank 244]
+sogar   [lemma rank 246]
+tief   [lemma rank 247]
+eigentlich   [lemma rank 248]
+kaum   [lemma rank 258]
+besonders   [lemma rank 262]
+allgemein   [lemma rank 274]
+gegenüber   [lemma rank 279]
+daher   [lemma rank 280]
+erhalten, erhält, erhielt, hat erhalten   [lemma rank 288]
+je   [lemma rank 289]
+derselbe   [lemma rank 294]
+selb-   [lemma rank 294]
+eben   [lemma rank 302]
+deutlich   [lemma rank 304]
+wegen   [lemma rank 305]
+deshalb   [lemma rank 306]
+einzig-   [lemma rank 312]
+die Möglichkeit, -en   [lemma rank 315]
+voll   [lemma rank 316]
+die Entwicklung, -en   [lemma rank 318]
+das System, -e   [lemma rank 319]
+schauen, schaut, schaute, hat geschaut   [lemma rank 320]
+das Ziel, -e   [lemma rank 323]
+überhaupt   [lemma rank 329]
+jemand   [lemma rank 330]
+das Ding, -e   [lemma rank 331]
+die Sache, -n   [lemma rank 334]
+entstehen, entsteht, entstand, ist entstanden   [lemma rank 335]
+der Bereich, -e   [lemma rank 338]
+direkt   [lemma rank 345]
+verlieren, verliert, hat verloren   [lemma rank 351]
+schaffen, schafft, hat geschafft   [lemma rank 356]
+ebenfalls   [lemma rank 358]
+gemeinsam   [lemma rank 359]
+ebenso   [lemma rank 363]
+unterschiedlich   [lemma rank 364]
+besonder-   [lemma rank 367]
+sich befinden, befindet sich, befand sich, hat sich befunden   [lemma rank 371]
+anders   [lemma rank 372]
+tatsächlich   [lemma rank 373]
+niemand   [lemma rank 374]
+eher   [lemma rank 376]
+werfen, wirft, warf, hat geworfen   [lemma rank 377]
+her   [lemma rank 382]
+sonst   [lemma rank 384]
+bevor   [lemma rank 387]
+verlassen, verlässt, verließ, hat verlassen   [lemma rank 390]
+nachdem   [lemma rank 393]
+indem   [lemma rank 394]
+obwohl   [lemma rank 395]
+verwenden, verwendet, verwendete, hat verwendet   [lemma rank 401]
+entwickeln, entwickelt, entwickelte, hat entwickelt   [lemma rank 403]
+geschehen, geschieht, geschah, ist geschehen   [lemma rank 413]
+die Situation, -en   [lemma rank 417]
+ähnlich   [lemma rank 419]
+offen   [lemma rank 422]
+gering   [lemma rank 427]
+wahr   [lemma rank 430]
+innerhalb   [lemma rank 432]
+der Zusammenhang, ¨-e   [lemma rank 433]
+erwarten, erwartet, erwartete, hat erwartet   [lemma rank 440]
+drehen, dreht, drehte, hat gedreht   [lemma rank 453]
+außerdem   [lemma rank 458]
+verschwinden, verschwindet, verschwand, ist verschwunden   [lemma rank 459]
+dunkel   [lemma rank 463]
+los   [lemma rank 465]
+nämlich   [lemma rank 472]
+völlig   [lemma rank 477]
+nutzen, nutzt, nutzte, hat genutzt   [lemma rank 481]
+greifen, greift, griff, hat gegriffen   [lemma rank 488]
+heben, hebt, hob, hat gehoben   [lemma rank 497]
+besitzen, besitzt, besaß, hat besessen   [lemma rank 500]

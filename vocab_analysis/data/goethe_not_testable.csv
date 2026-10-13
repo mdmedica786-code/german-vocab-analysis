@@ -1,0 +1,70 @@
+﻿goethe_item,kind,level,note
+an sein,phrase (particle + sein),A1,particle + sein cannot be told apart from ordinary prepositions/zu-infinitives in a frequency list
+auf sein,phrase (particle + sein),A1,particle + sein cannot be told apart from ordinary prepositions/zu-infinitives in a frequency list
+aus sein,phrase (particle + sein),A1,particle + sein cannot be told apart from ordinary prepositions/zu-infinitives in a frequency list
+zu sein,phrase (particle + sein),A1,particle + sein cannot be told apart from ordinary prepositions/zu-infinitives in a frequency list
+Feier,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Lieblings,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Geburts,word stem / prefix,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+zurück,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Achtung!,other,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Bio,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Doppel,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Einzel,word stem / prefix,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Elektro,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Ferien,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Groß,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Haupt,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+inner,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+irgend,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Kriminal,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+miss,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Not,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+ober,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Öko,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+rück,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Schwieger,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Sonder,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Spezial,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Traum,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+über,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+un,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+unter,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+ca.,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+d. h.,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+ICE,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Lkw,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+PC,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+SMS,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+usw.,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+WC,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+z. B.,abbreviation,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+bzw.,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+DVD,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+EG,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+OG,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+UG,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+etc.,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Kfz,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Pkw,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+TV,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+vgl.,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+WG,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+hell,word stem / prefix,A1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+dunkel,word stem / prefix,A2,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Nord,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Ost,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Süd,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+West,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Bundes,word stem / prefix,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+EU,abbreviation,B1,"Goethe prints it, but it cannot be tested against a frequency list of whole words"
+Neue Mittelschule,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Allgemeinbildende Höhere Schule,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Berufsbildende Höhere Schule,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Pädagogische Hochschule,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Europäische Union,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Europäische Parlament,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Bundesrepublik Deutschland,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Republik Österreich,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Confoederatio Helvetica,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match
+Schweizerische Eidgenossenschaft,institution / official name,B1,proper names of institutions are not vocabulary items for a frequency match

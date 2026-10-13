@@ -1,0 +1,1130 @@
+﻿theme,priority,goethe_level,word_for_card,lemma,pos,lemma_rank,zipf_de_wordfreq,why,source_id
+"T01 Person, Familie & Beziehungen",frequent in your data,A2,"sich verlieben, verliebt, hat verliebt",verlieben,VERB,2658,3.72,Goethe A2 word; in your data (lemma rank 2658),W1180
+"T01 Person, Familie & Beziehungen",frequent in your data,A2,blond,blond,ADJ/ADV,2784,3.66,Goethe A2 word; in your data (lemma rank 2784),W0736
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,der Streit,Streit,NOUN,2021,4.61,Goethe B1 word; in your data (lemma rank 2021),W2659
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,die Herkunft,Herkunft,NOUN,2243,4.48,Goethe B1 word; in your data (lemma rank 2243),W1946
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"die Freundschaft, -en",Freundschaft,NOUN,2255,4.44,Goethe B1 word; in your data (lemma rank 2255),W1804
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"umgehen, geht um, ging um, ist umgegangen",umgehen,VERB,2017,4.39,Goethe B1 word; in your data (lemma rank 2017),W2773
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"die Trennung, -en",Trennung,NOUN,1872,4.36,Goethe B1 word; in your data (lemma rank 1872),W2731
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,verliebt,verliebt,ADJ,2658,4.36,Goethe B1 word; in your data (lemma rank 2658),W2851
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,die Kindheit,Kindheit,NOUN,2068,4.35,Goethe B1 word; in your data (lemma rank 2068),W2047
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"der Abschied, -e",Abschied,NOUN,2404,4.29,Goethe B1 word; in your data (lemma rank 2404),W2816
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,die Erziehung,Erziehung,NOUN,1882,4.25,Goethe B1 word; in your data (lemma rank 1882),W1718
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,die Betreuung,Betreuung,NOUN,3299,4.24,Goethe B1 word; in your data (lemma rank 3299),W1470
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"der Bart, ¨-e",Bart,NOUN,3436,4.17,Goethe B1 word; in your data (lemma rank 3436),W1401
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"der Angehörige, -n",Angehörige,NOUN,1950,4.12,Goethe B1 word; in your data (lemma rank 1950),W1308
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"die Scheidung, -en",Scheidung,NOUN,3885,4.02,Goethe B1 word; in your data (lemma rank 3885),W2497
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,verwandt,verwandt,ADJ,2750,3.98,Goethe B1 word; in your data (lemma rank 2750),W2888
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"zusagen, sagt zu, sagte zu, hat zugesagt",zusagen,VERB,,3.62,Goethe B1 word; in your data (lemma rank None),W3018
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"umarmen, umarmt, umarmte, hat umarmt",umarmen,VERB,3872,3.59,Goethe B1 word; in your data (lemma rank 3872),W2769
+"T01 Person, Familie & Beziehungen",frequent in your data,B1,"winken, winkt, winkte, hat gewinkt",winken,VERB,2190,3.52,Goethe B1 word; in your data (lemma rank 2190),W2957
+T02 Wohnen,exam word absent/rare in your data,A2,"die Vermieterin, -nen",Vermieterin,NOUN,,3.1,Goethe A2 exam word; absent from your n-gram data,W1182
+T02 Wohnen,exam word absent/rare in your data,B1,"die Bürste, -n",Bürste,NOUN,,3.2,Goethe B1 exam word; absent from your n-gram data,W1524
+T02 Wohnen,exam word absent/rare in your data,B1,die Müllabfuhr,Müllabfuhr,NOUN,,3.19,Goethe B1 exam word; absent from your n-gram data,W2250
+T02 Wohnen,exam word absent/rare in your data,B1,"das Waschmittel, -",Waschmittel,NOUN,,3.14,Goethe B1 exam word; absent from your n-gram data,W2933
+T02 Wohnen,exam word absent/rare in your data,B1,"abwaschen, wäscht ab, wusch ab, hat abgewaschen",abwaschen,VERB,,3.11,Goethe B1 exam word; absent from your n-gram data,W1279
+T02 Wohnen,exam word absent/rare in your data,B1,"das Streichholz, ¨-er",Streichholz,NOUN,,2.83,Goethe B1 exam word; absent from your n-gram data,W2656
+T02 Wohnen,exam word absent/rare in your data,B1,"die Bewohnerin, -nen",Bewohnerin,NOUN,,2.81,Goethe B1 exam word; absent from your n-gram data,W1483
+T02 Wohnen,exam word absent/rare in your data,B1,"die Mieterin, -nen",Mieterin,NOUN,,2.68,Goethe B1 exam word; absent from your n-gram data,W2223
+T02 Wohnen,exam word absent/rare in your data,B1,"staubsaugen, staubsaugt, staubsaugte, hat gestaubsaugt",staubsaugen,VERB,,2.68,Goethe B1 exam word; absent from your n-gram data,W2624
+T02 Wohnen,exam word absent/rare in your data,B1,möbliert,möbliert,ADJ/ADV,,2.6,Goethe B1 exam word; absent from your n-gram data,W2238
+T02 Wohnen,exam word absent/rare in your data,B1,"der Abfalleimer, -",Abfalleimer,NOUN,,2.56,Goethe B1 exam word; absent from your n-gram data,W1256
+T02 Wohnen,exam word absent/rare in your data,B1,"die Hausmeisterin, -nen",Hausmeisterin,NOUN,,2.29,Goethe B1 exam word; absent from your n-gram data,W1934
+T02 Wohnen,frequent in your data,A2,sauber,sauber,ADJ/ADV,3037,4.46,Goethe A2 word; in your data (lemma rank 3037),W1050
+T02 Wohnen,frequent in your data,A2,bequem,bequem,ADJ/ADV,3366,4.22,Goethe A2 word; in your data (lemma rank 3366),W0716
+T02 Wohnen,frequent in your data,B1,das Gas,Gas,NOUN,3134,4.53,Goethe B1 word; in your data (lemma rank 3134),W1829
+T02 Wohnen,frequent in your data,B1,"das Grundstück, -e",Grundstück,NOUN,3511,4.28,Goethe B1 word; in your data (lemma rank 3511),W1909
+T02 Wohnen,frequent in your data,B1,"der Mieter, -",Mieter,NOUN,3784,4.17,Goethe B1 word; in your data (lemma rank 3784),W2222
+T02 Wohnen,frequent in your data,B1,gemütlich,gemütlich,ADJ/ADV,3803,4.12,Goethe B1 word; in your data (lemma rank 3803),W1859
+T02 Wohnen,frequent in your data,B1,"der Ofen, ¨-",Ofen,NOUN,3645,4.12,Goethe B1 word; in your data (lemma rank 3645),W2308
+T02 Wohnen,frequent in your data,B1,"der Teppich, -e",Teppich,NOUN,3713,4.11,Goethe B1 word; in your data (lemma rank 3713),W2704
+T02 Wohnen,frequent in your data,B1,"die Vermittlung, -en",Vermittlung,NOUN,2867,4.07,Goethe B1 word; in your data (lemma rank 2867),W2858
+T02 Wohnen,frequent in your data,B1,"die Couch, -s",Couch,NOUN,3772,4.04,Goethe B1 word; in your data (lemma rank 3772),W1530
+T02 Wohnen,frequent in your data,B1,"schalten, schaltet, schaltete, hat geschaltet",schalten,VERB,3241,4.02,Goethe B1 word; in your data (lemma rank 3241),W2488
+T02 Wohnen,frequent in your data,B1,"anstellen, stellt an, stellte an, hat angestellt",anstellen,VERB,2753,3.95,Goethe B1 word; in your data (lemma rank 2753),W1322
+T02 Wohnen,frequent in your data,B1,"das Kissen, -",Kissen,NOUN,3094,3.95,Goethe B1 word; in your data (lemma rank 3094),W2049
+T02 Wohnen,frequent in your data,B1,"die Terrasse, -n",Terrasse,NOUN,3281,3.91,Goethe B1 word; in your data (lemma rank 3281),W2706
+T02 Wohnen,frequent in your data,B1,"die Kerze, -n",Kerze,NOUN,2945,3.69,Goethe B1 word; in your data (lemma rank 2945),W2046
+T02 Wohnen,frequent in your data,B1,"klingeln, klingelt, klingelte, hat geklingelt",klingeln,VERB,2599,3.69,Goethe B1 word; in your data (lemma rank 2599),W2060
+T02 Wohnen,frequent in your data,B1,"zugehen, geht zu, ging zu, ist zugegangen",zugehen,VERB,,3.54,Goethe B1 word; in your data (lemma rank None),W3007
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"der Mechaniker, -",Mechaniker,NOUN,,3.51,Goethe A2 exam word; absent from your n-gram data,W2201
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Verkäuferin, -nen",Verkäuferin,NOUN,,3.48,Goethe A2 exam word; absent from your n-gram data,W2844
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,stressig,stressig,ADJ/ADV,,3.47,Goethe A2 exam word; absent from your n-gram data,W1113
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Köchin, -nen",Köchin,NOUN,,3.36,Goethe A2 exam word; absent from your n-gram data,W2073
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"der Krankenpfleger, -",Krankenpfleger,NOUN,,3.32,Goethe A2 exam word; absent from your n-gram data,W2103
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Rentnerin, -nen",Rentnerin,NOUN,,3.24,Goethe A2 exam word; absent from your n-gram data,W1033
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Kellnerin, -nen",Kellnerin,NOUN,,3.21,Goethe A2 exam word; absent from your n-gram data,W2044
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Fahrerin, -nen",Fahrerin,NOUN,,3.21,Goethe A2 exam word; absent from your n-gram data,W3169
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Musikerin, -nen",Musikerin,NOUN,,3.2,Goethe A2 exam word; absent from your n-gram data,W2256
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"der Babysitter, -",Babysitter,NOUN,,3.17,Goethe A2 exam word; absent from your n-gram data,W0702
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Friseurin, -nen",Friseurin,NOUN,,2.91,Goethe A2 exam word; absent from your n-gram data,W1808
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Kauffrau, -en",Kauffrau,NOUN,,2.91,Goethe A2 exam word; absent from your n-gram data,W3171
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"der Auszubildender, -e",Auszubildender,NOUN,,2.57,Goethe A2 exam word; absent from your n-gram data,W3165
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Bäckerin, -nen",Bäckerin,NOUN,,2.48,Goethe A2 exam word; absent from your n-gram data,W3168
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Doktorin, -nen",Doktorin,NOUN,,2.28,Goethe A2 exam word; absent from your n-gram data,W1571
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Technikerin, -nen",Technikerin,NOUN,,2.04,Goethe A2 exam word; absent from your n-gram data,W3174
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Mechanikerin, -nen",Mechanikerin,NOUN,,1.76,Goethe A2 exam word; absent from your n-gram data,W2202
+T03 Arbeit & Beruf,exam word absent/rare in your data,A2,"die Handwerkerin, -nen",Handwerkerin,NOUN,,1.64,Goethe A2 exam word; absent from your n-gram data,W1925
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Betreuer, -",Betreuer,NOUN,,3.76,Goethe B1 exam word; absent from your n-gram data,W1468
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,die Fachleute (Pl.),Fachleute,NOUN,,3.75,Goethe B1 exam word; absent from your n-gram data,W1731
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Fortbildung, -en",Fortbildung,NOUN,,3.72,Goethe B1 exam word; absent from your n-gram data,W1793
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Import, -e",Import,NOUN,,3.7,Goethe B1 exam word; absent from your n-gram data,W1983
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,der Fachmann,Fachmann,NOUN,,3.68,Goethe B1 exam word; absent from your n-gram data,W1729
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Sekretär, -e",Sekretär,NOUN,5351,3.68,Goethe B1 exam word; in your data but rare (lemma rank 5351),W2540
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Pfleger, -",Pfleger,NOUN,,3.67,Goethe B1 exam word; absent from your n-gram data,W2360
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Betriebsrat, ¨-e",Betriebsrat,NOUN,,3.64,Goethe B1 exam word; absent from your n-gram data,W1472
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Sekretärin, -nen",Sekretärin,NOUN,4595,3.61,Goethe B1 exam word; in your data but rare (lemma rank 4595),W2541
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"das Vorstellungsgespräch, -e",Vorstellungsgespräch,NOUN,,3.53,Goethe B1 exam word; absent from your n-gram data,W2918
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Anwältin, -nen",Anwältin,NOUN,,3.49,Goethe B1 exam word; absent from your n-gram data,W1330
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"streiken, streikt, streikte, hat gestreikt",streiken,VERB,,3.49,Goethe B1 exam word; absent from your n-gram data,W2657
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Azubi, -s",Azubi,NOUN,,3.47,Goethe B1 exam word; absent from your n-gram data,W3236
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Arbeitsstelle, -n",Arbeitsstelle,NOUN,,3.46,Goethe B1 exam word; absent from your n-gram data,W1337
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"genehmigen, genehmigt, genehmigte, hat genehmigt",genehmigen,VERB,,3.44,Goethe B1 exam word; absent from your n-gram data,W1861
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Praktikant, -en",Praktikant,NOUN,,3.44,Goethe B1 exam word; absent from your n-gram data,W2381
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Lehrling, -e",Lehrling,NOUN,,3.39,Goethe B1 exam word; absent from your n-gram data,W2150
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Sozialarbeiter, -",Sozialarbeiter,NOUN,,3.38,Goethe B1 exam word; absent from your n-gram data,W2585
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Visitenkarte, -n",Visitenkarte,NOUN,,3.38,Goethe B1 exam word; absent from your n-gram data,W2898
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Aushilfe, -n",Aushilfe,NOUN,,3.29,Goethe B1 exam word; absent from your n-gram data,W1375
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Vertreterin, -nen",Vertreterin,NOUN,,3.27,Goethe B1 exam word; absent from your n-gram data,W2884
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Mappe, -n",Mappe,NOUN,,3.25,Goethe B1 exam word; absent from your n-gram data,W2190
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Malerin, -nen",Malerin,NOUN,,3.23,Goethe B1 exam word; absent from your n-gram data,W2188
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Managerin, -nen",Managerin,NOUN,,3.23,Goethe B1 exam word; absent from your n-gram data,W3265
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,abwesend,abwesend,ADJ/ADV,,3.22,Goethe B1 exam word; absent from your n-gram data,W1280
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,berufstätig,berufstätig,ADJ/ADV,,3.1,Goethe B1 exam word; absent from your n-gram data,W1447
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Wissenschaftlerin, -nen",Wissenschaftlerin,NOUN,,3.08,Goethe B1 exam word; absent from your n-gram data,W2967
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Praktikantin, -nen",Praktikantin,NOUN,,3.07,Goethe B1 exam word; absent from your n-gram data,W2382
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Unternehmerin, -nen",Unternehmerin,NOUN,,3.07,Goethe B1 exam word; absent from your n-gram data,W2794
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Architektin, -nen",Architektin,NOUN,,3.06,Goethe B1 exam word; absent from your n-gram data,W1339
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Beamtin, -nen",Beamtin,NOUN,,3.01,Goethe B1 exam word; absent from your n-gram data,W1406
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Fleischhauer, -",Fleischhauer,NOUN,,3.0,Goethe B1 exam word; absent from your n-gram data,W1774
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Sozialarbeiterin, -nen",Sozialarbeiterin,NOUN,,2.98,Goethe B1 exam word; absent from your n-gram data,W2586
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Lehrstelle, -n",Lehrstelle,NOUN,,2.96,Goethe B1 exam word; absent from your n-gram data,W2148
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Betreuerin, -nen",Betreuerin,NOUN,,2.95,Goethe B1 exam word; absent from your n-gram data,W1469
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Pflegerin, -nen",Pflegerin,NOUN,,2.95,Goethe B1 exam word; absent from your n-gram data,W2361
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Übersetzerin, -nen",Übersetzerin,NOUN,,2.94,Goethe B1 exam word; absent from your n-gram data,W2759
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Kopierer, -",Kopierer,NOUN,,2.89,Goethe B1 exam word; absent from your n-gram data,W2091
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Steward, -s",Steward,NOUN,,2.87,Goethe B1 exam word; absent from your n-gram data,W2636
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Stewardess, -en",Stewardess,NOUN,,2.86,Goethe B1 exam word; absent from your n-gram data,W2637
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,die Arbeitserlaubnis,Arbeitserlaubnis,NOUN,,2.85,Goethe B1 exam word; absent from your n-gram data,W1335
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,halbtags,halbtags,ADJ/ADV,,2.78,Goethe B1 exam word; absent from your n-gram data,W1917
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Arbeiterin, -nen",Arbeiterin,NOUN,,2.65,Goethe B1 exam word; absent from your n-gram data,W1334
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Fachfrau, -en",Fachfrau,NOUN,,2.65,Goethe B1 exam word; absent from your n-gram data,W1730
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"jobben, jobbt, jobbte, hat gejobbt",jobben,VERB,,2.56,Goethe B1 exam word; absent from your n-gram data,W3258
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Babysitterin, -nen",Babysitterin,NOUN,,2.42,Goethe B1 exam word; absent from your n-gram data,W3237
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"der Coiffeur, -e",Coiffeur,NOUN,,2.33,Goethe B1 exam word; absent from your n-gram data,W1528
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Händlerin, -nen",Händlerin,NOUN,,2.06,Goethe B1 exam word; absent from your n-gram data,W1929
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Betriebsrätin, -nen",Betriebsrätin,NOUN,,1.8,Goethe B1 exam word; absent from your n-gram data,W1473
+T03 Arbeit & Beruf,exam word absent/rare in your data,B1,"die Überstunde, -n",Überstunde,NOUN,,1.76,Goethe B1 exam word; absent from your n-gram data,W2760
+T03 Arbeit & Beruf,frequent in your data,A2,"der Schauspieler, -",Schauspieler,NOUN,3610,4.55,Goethe A2 word; in your data (lemma rank 3610),W2494
+T03 Arbeit & Beruf,frequent in your data,A2,der Stress (Sg.),Stress,NOUN,2541,4.49,Goethe A2 word; in your data (lemma rank 2541),W1112
+T03 Arbeit & Beruf,frequent in your data,A2,"der Koch, ¨-e",Koch,NOUN,3091,4.45,Goethe A2 word; in your data (lemma rank 3091),W2072
+T03 Arbeit & Beruf,frequent in your data,A2,"das Gehalt, ¨-er",Gehalt,NOUN,2845,4.38,Goethe A2 word; in your data (lemma rank 2845),W0831
+T03 Arbeit & Beruf,frequent in your data,A2,"die Lehrerin, -nen",Lehrerin,NOUN,3638,4.24,Goethe A2 word; in your data (lemma rank 3638),W2149
+T03 Arbeit & Beruf,frequent in your data,A2,"der Journalist, -en",Journalist,NOUN,2666,4.23,Goethe A2 word; in your data (lemma rank 2666),W2014
+T03 Arbeit & Beruf,frequent in your data,A2,"die Autorin, -nen",Autorin,NOUN,3844,4.22,Goethe A2 word; in your data (lemma rank 3844),W1392
+T03 Arbeit & Beruf,frequent in your data,A2,der Kaufmann,Kaufmann,NOUN,3611,4.08,Goethe A2 word; in your data (lemma rank 3611),W3170
+T03 Arbeit & Beruf,frequent in your data,A2,"der Kellner, -",Kellner,NOUN,3879,3.84,Goethe A2 word; in your data (lemma rank 3879),W2043
+T03 Arbeit & Beruf,frequent in your data,B1,"der Betrieb, -e",Betrieb,NOUN,2778,4.82,Goethe B1 word; in your data (lemma rank 2778),W1471
+T03 Arbeit & Beruf,frequent in your data,B1,"die Industrie, -n",Industrie,NOUN,2259,4.73,Goethe B1 word; in your data (lemma rank 2259),W1986
+T03 Arbeit & Beruf,frequent in your data,B1,"die Leitung, -en",Leitung,NOUN,2069,4.73,Goethe B1 word; in your data (lemma rank 2069),W2157
+T03 Arbeit & Beruf,frequent in your data,B1,"die Karriere, -n",Karriere,NOUN,2859,4.7,Goethe B1 word; in your data (lemma rank 2859),W2033
+T03 Arbeit & Beruf,frequent in your data,B1,"der Manager, -",Manager,NOUN,2891,4.55,Goethe B1 word; in your data (lemma rank 2891),W3264
+T03 Arbeit & Beruf,frequent in your data,B1,das Personal,Personal,NOUN,2431,4.53,Goethe B1 word; in your data (lemma rank 2431),W2353
+T03 Arbeit & Beruf,frequent in your data,B1,"der Anwalt, ¨-e",Anwalt,NOUN,3150,4.51,Goethe B1 word; in your data (lemma rank 3150),W1329
+T03 Arbeit & Beruf,frequent in your data,B1,"der Unternehmer, -",Unternehmer,NOUN,2714,4.5,Goethe B1 word; in your data (lemma rank 2714),W2793
+T03 Arbeit & Beruf,frequent in your data,B1,"der Arbeiter, -",Arbeiter,NOUN,2024,4.48,Goethe B1 word; in your data (lemma rank 2024),W1333
+T03 Arbeit & Beruf,frequent in your data,B1,die Landwirtschaft,Landwirtschaft,NOUN,3492,4.45,Goethe B1 word; in your data (lemma rank 3492),W2132
+T03 Arbeit & Beruf,frequent in your data,B1,die Konkurrenz,Konkurrenz,NOUN,2719,4.43,Goethe B1 word; in your data (lemma rank 2719),W2082
+T03 Arbeit & Beruf,frequent in your data,B1,"der Wissenschaftler, -",Wissenschaftler,NOUN,2807,4.43,Goethe B1 word; in your data (lemma rank 2807),W2966
+T03 Arbeit & Beruf,frequent in your data,B1,"der Händler, -",Händler,NOUN,3455,4.33,Goethe B1 word; in your data (lemma rank 3455),W1928
+T03 Arbeit & Beruf,frequent in your data,B1,"die Konferenz, -en",Konferenz,NOUN,3756,4.31,Goethe B1 word; in your data (lemma rank 3756),W2078
+T03 Arbeit & Beruf,frequent in your data,B1,"die Erhöhung, -en",Erhöhung,NOUN,2463,4.25,Goethe B1 word; in your data (lemma rank 2463),W1688
+T03 Arbeit & Beruf,frequent in your data,B1,"der Lohn, ¨-e",Lohn,NOUN,3288,4.25,Goethe B1 word; in your data (lemma rank 3288),W2175
+T03 Arbeit & Beruf,frequent in your data,B1,"produzieren, produziert, produzierte, hat produziert",produzieren,VERB,2435,4.22,Goethe B1 word; in your data (lemma rank 2435),W2387
+T03 Arbeit & Beruf,frequent in your data,B1,"der Maler, -",Maler,NOUN,3346,4.2,Goethe B1 word; in your data (lemma rank 3346),W2187
+T03 Arbeit & Beruf,frequent in your data,B1,die Beschäftigung,Beschäftigung,NOUN,2292,4.18,Goethe B1 word; in your data (lemma rank 2292),W1451
+T03 Arbeit & Beruf,frequent in your data,B1,"die Kündigung, -en",Kündigung,NOUN,3230,4.09,Goethe B1 word; in your data (lemma rank 3230),W2117
+T03 Arbeit & Beruf,frequent in your data,B1,anwesend,anwesend,ADJ/ADV,2295,4.07,Goethe B1 word; in your data (lemma rank 2295),W1328
+T03 Arbeit & Beruf,frequent in your data,B1,"das Werkzeug, -e",Werkzeug,NOUN,2242,4.07,Goethe B1 word; in your data (lemma rank 2242),W2942
+T03 Arbeit & Beruf,frequent in your data,B1,die Arbeitslosigkeit,Arbeitslosigkeit,NOUN,3934,4.06,Goethe B1 word; in your data (lemma rank 3934),W1336
+T03 Arbeit & Beruf,frequent in your data,B1,"die Besprechung, -en",Besprechung,NOUN,3921,3.75,Goethe B1 word; in your data (lemma rank 3921),W1460
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,A2,"der Stundenplan, ¨-e",Stundenplan,NOUN,,3.19,Goethe A2 exam word; absent from your n-gram data,W3194
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,A2,"die Klassenfahrt, -en",Klassenfahrt,NOUN,,3.17,Goethe A2 exam word; absent from your n-gram data,W3192
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,A2,die Geografie,Geografie,NOUN,,2.99,Goethe A2 exam word; absent from your n-gram data,W3199
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,A2,die Sozialkunde,Sozialkunde,NOUN,,2.9,Goethe A2 exam word; absent from your n-gram data,W3203
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"abschreiben, schreibt ab, schrieb ab, hat abgeschrieben",abschreiben,VERB,,3.32,Goethe B1 exam word; absent from your n-gram data,W1261
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,die Krippe,Krippe,NOUN,,3.3,Goethe B1 exam word; absent from your n-gram data,W3284
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,die Kindertagesstätte,Kindertagesstätte,NOUN,,3.3,Goethe B1 exam word; absent from your n-gram data,W3285
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"festsetzen, setzt fest, setzte fest, hat festgesetzt",festsetzen,VERB,,3.13,Goethe B1 exam word; absent from your n-gram data,W1760
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"die Teilnehmerin, -nen",Teilnehmerin,NOUN,,3.12,Goethe B1 exam word; absent from your n-gram data,W2701
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"der Lerner, -",Lerner,NOUN,,3.02,Goethe B1 exam word; absent from your n-gram data,W2158
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,die Sonderschule,Sonderschule,NOUN,,2.85,Goethe B1 exam word; absent from your n-gram data,W3291
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"der Kuli, -s",Kuli,NOUN,,2.84,Goethe B1 exam word; absent from your n-gram data,W2116
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"die Klassenarbeit, -en",Klassenarbeit,NOUN,,2.64,Goethe B1 exam word; absent from your n-gram data,W2053
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"der Kursleiter, -",Kursleiter,NOUN,,2.53,Goethe B1 exam word; absent from your n-gram data,W2122
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"der Intensivkurs, -e",Intensivkurs,NOUN,,2.3,Goethe B1 exam word; absent from your n-gram data,W2001
+"T04 Ausbildung, Schule & Studium",exam word absent/rare in your data,B1,"die Lernerin, -nen",Lernerin,NOUN,,,Goethe B1 exam word; absent from your n-gram data,W2159
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"der Direktor, -en",Direktor,NOUN,2995,4.46,Goethe A2 word; in your data (lemma rank 2995),W1566
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,die Chemie,Chemie,NOUN,3733,4.41,Goethe A2 word; in your data (lemma rank 3733),W3195
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"die Bibliothek, -en",Bibliothek,NOUN,1929,4.4,Goethe A2 word; in your data (lemma rank 1929),W0732
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"das Fach, ¨-er",Fach,NOUN,2441,4.37,Goethe A2 word; in your data (lemma rank 2441),W0793
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"das Heft, -e",Heft,NOUN,2521,4.33,Goethe A2 word; in your data (lemma rank 2521),W0853
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,die Physik,Physik,NOUN,3267,4.33,Goethe A2 word; in your data (lemma rank 3267),W3202
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,die Mathematik,Mathematik,NOUN,3007,4.32,Goethe A2 word; in your data (lemma rank 3007),W3201
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"die Note, -n",Note,NOUN,2985,4.3,Goethe A2 word; in your data (lemma rank 2985),W0977
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"die Tafel, -n",Tafel,NOUN,2869,4.17,Goethe A2 word; in your data (lemma rank 2869),W1126
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"das Zeugnis, -se",Zeugnis,NOUN,3661,3.92,Goethe A2 word; in your data (lemma rank 3661),W1242
+"T04 Ausbildung, Schule & Studium",frequent in your data,A2,"die Schülerin, -nen",Schülerin,NOUN,3061,3.82,Goethe A2 word; in your data (lemma rank 3061),W1072
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,die Hochschule,Hochschule,NOUN,2297,4.49,Goethe B1 word; in your data (lemma rank 2297),W3293
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"der Vortrag, ¨-e",Vortrag,NOUN,2390,4.47,Goethe B1 word; in your data (lemma rank 2390),W2920
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,ausgebildet,ausgebildet,ADJ,3901,4.21,Goethe B1 word; in your data (lemma rank 3901),W1367
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"die Weiterbildung, -en",Weiterbildung,NOUN,3539,4.18,Goethe B1 word; in your data (lemma rank 3539),W2936
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"der Kandidat, -en",Kandidat,NOUN,3954,4.14,Goethe B1 word; in your data (lemma rank 3954),W2025
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"die Wiederholung, -en",Wiederholung,NOUN,3636,3.99,Goethe B1 word; in your data (lemma rank 3636),W2952
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"unterrichten, unterrichtet, unterrichtete, hat unterrichtet",unterrichten,VERB,2968,3.91,Goethe B1 word; in your data (lemma rank 2968),W2795
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"der Studierende, -n",Studierende,NOUN,2805,3.86,Goethe B1 word; in your data (lemma rank 2805),W2663
+"T04 Ausbildung, Schule & Studium",frequent in your data,B1,"anerkennen, erkennt an, erkannte an, hat anerkannt",anerkennen,VERB,2405,3.79,Goethe B1 word; in your data (lemma rank 2405),W1304
+T05 Gesundheit & Körper,frequent in your data,A2,"das Krankenhaus, ¨-er",Krankenhaus,NOUN,1821,4.75,Goethe A2 word; in your data (lemma rank 1821),W0906
+T05 Gesundheit & Körper,frequent in your data,A2,"der Unfall, ¨-e",Unfall,NOUN,2734,4.7,Goethe A2 word; in your data (lemma rank 2734),W1166
+T05 Gesundheit & Körper,frequent in your data,A2,die Gesundheit (Sg.),Gesundheit,NOUN,1572,4.68,Goethe A2 word; in your data (lemma rank 1572),W0841
+T05 Gesundheit & Körper,frequent in your data,A2,wach,wach,ADJ/ADV,2340,4.46,Goethe A2 word; in your data (lemma rank 2340),W1201
+T05 Gesundheit & Körper,frequent in your data,A2,"die Brille, -n",Brille,NOUN,3326,4.23,Goethe A2 word; in your data (lemma rank 3326),W0740
+T05 Gesundheit & Körper,frequent in your data,A2,"der Magen, ¨-",Magen,NOUN,1865,4.23,Goethe A2 word; in your data (lemma rank 1865),W0930
+T05 Gesundheit & Körper,frequent in your data,A2,schwanger,schwanger,ADJ/ADV,3785,4.15,Goethe A2 word; in your data (lemma rank 3785),W1074
+T05 Gesundheit & Körper,frequent in your data,A2,"das Medikament, -e",Medikament,NOUN,3125,3.77,Goethe A2 word; in your data (lemma rank 3125),W0939
+T05 Gesundheit & Körper,frequent in your data,B1,"schaden, schadet, schadete, hat geschadet",schaden,VERB,1558,4.8,Goethe B1 word; in your data (lemma rank 1558),W2486
+T05 Gesundheit & Körper,frequent in your data,B1,die Medizin,Medizin,NOUN,2147,4.56,Goethe B1 word; in your data (lemma rank 2147),W2204
+T05 Gesundheit & Körper,frequent in your data,B1,"die Operation, -en",Operation,NOUN,1673,4.49,Goethe B1 word; in your data (lemma rank 1673),W2317
+T05 Gesundheit & Körper,frequent in your data,B1,locker,locker,ADJ/ADV,3253,4.45,Goethe B1 word; in your data (lemma rank 3253),W2174
+T05 Gesundheit & Körper,frequent in your data,B1,"die Klinik, -en",Klinik,NOUN,2029,4.44,Goethe B1 word; in your data (lemma rank 2029),W2063
+T05 Gesundheit & Körper,frequent in your data,B1,"das Loch, ¨-er",Loch,NOUN,1782,4.43,Goethe B1 word; in your data (lemma rank 1782),W2173
+T05 Gesundheit & Körper,frequent in your data,B1,"entlassen, entlässt, entließ, hat entlassen",entlassen,VERB,3395,4.37,Goethe B1 word; in your data (lemma rank 3395),W1659
+T05 Gesundheit & Körper,frequent in your data,B1,"die Verletzung, -en",Verletzung,NOUN,1635,4.32,Goethe B1 word; in your data (lemma rank 1635),W2850
+T05 Gesundheit & Körper,frequent in your data,B1,"der Knochen, -",Knochen,NOUN,2144,4.28,Goethe B1 word; in your data (lemma rank 2144),W2069
+T05 Gesundheit & Körper,frequent in your data,B1,"klagen, klagt, klagte, hat geklagt",klagen,VERB,3488,4.27,Goethe B1 word; in your data (lemma rank 3488),W2050
+T05 Gesundheit & Körper,frequent in your data,B1,blind,blind,ADJ/ADV,2569,4.26,Goethe B1 word; in your data (lemma rank 2569),W1492
+T05 Gesundheit & Körper,frequent in your data,B1,"abnehmen, nimmt ab, nahm ab, hat abgenommen",abnehmen,VERB,2764,4.2,Goethe B1 word; in your data (lemma rank 2764),W1265
+T05 Gesundheit & Körper,frequent in your data,B1,die Tropfen (Pl.),Tropfen,NOUN,2748,4.15,Goethe B1 word; in your data (lemma rank 2748),W2737
+T05 Gesundheit & Körper,frequent in your data,B1,"pflegen, pflegt, pflegte, hat gepflegt",pflegen,VERB,1579,4.1,Goethe B1 word; in your data (lemma rank 1579),W2359
+T05 Gesundheit & Körper,frequent in your data,B1,"die Schwangerschaft, -en",Schwangerschaft,NOUN,2982,4.07,Goethe B1 word; in your data (lemma rank 2982),W2534
+T05 Gesundheit & Körper,frequent in your data,B1,"das Gift, -e",Gift,NOUN,3817,4.02,Goethe B1 word; in your data (lemma rank 3817),W1887
+T05 Gesundheit & Körper,frequent in your data,B1,"einnehmen, nimmt ein, nahm ein, hat eingenommen",einnehmen,VERB,2505,4.01,Goethe B1 word; in your data (lemma rank 2505),W1623
+T05 Gesundheit & Körper,frequent in your data,B1,"sich verbrennen, verbrennt, verbrannte, hat verbrannt",verbrennen,VERB,3136,3.98,Goethe B1 word; in your data (lemma rank 3136),W2828
+T05 Gesundheit & Körper,frequent in your data,B1,"die Flüssigkeit, -en",Flüssigkeit,NOUN,2564,3.96,Goethe B1 word; in your data (lemma rank 2564),W1783
+T05 Gesundheit & Körper,frequent in your data,B1,"die Infektion, -en",Infektion,NOUN,2550,3.96,Goethe B1 word; in your data (lemma rank 2550),W1987
+T05 Gesundheit & Körper,frequent in your data,B1,"die Wunde, -n",Wunde,NOUN,1810,3.95,Goethe B1 word; in your data (lemma rank 1810),W2974
+T05 Gesundheit & Körper,frequent in your data,B1,erschöpft,erschöpft,ADJ/ADV,2303,3.92,Goethe B1 word; in your data (lemma rank 2303),W1709
+T05 Gesundheit & Körper,frequent in your data,B1,"das Vitamin, -e",Vitamin,NOUN,3484,3.87,Goethe B1 word; in your data (lemma rank 3484),W2900
+T05 Gesundheit & Körper,frequent in your data,B1,schlank,schlank,ADJ/ADV,2758,3.84,Goethe B1 word; in your data (lemma rank 2758),W2505
+T05 Gesundheit & Körper,frequent in your data,B1,"sich erholen, erholt sich, erholte sich, hat sich erholt",erholen,VERB,3548,3.79,Goethe B1 word; in your data (lemma rank 3548),W1689
+T05 Gesundheit & Körper,frequent in your data,B1,"die Patientin, -nen",Patientin,NOUN,3260,3.79,Goethe B1 word; in your data (lemma rank 3260),W2340
+T05 Gesundheit & Körper,frequent in your data,B1,"die Droge, -n",Droge,NOUN,3551,3.75,Goethe B1 word; in your data (lemma rank 3551),W1581
+T05 Gesundheit & Körper,frequent in your data,B1,"der Nerv, -en",Nerv,NOUN,2487,3.71,Goethe B1 word; in your data (lemma rank 2487),W2283
+T05 Gesundheit & Körper,frequent in your data,B1,"der Muskel, -n",Muskel,NOUN,1991,3.66,Goethe B1 word; in your data (lemma rank 1991),W2257
+T05 Gesundheit & Körper,frequent in your data,B1,blass,blass,ADJ/ADV,3953,3.65,Goethe B1 word; in your data (lemma rank 3953),W1491
+T06 Essen & Trinken,exam word absent/rare in your data,A2,"die Cafeteria, -s",Cafeteria,NOUN,,3.33,Goethe A2 exam word; absent from your n-gram data,W0745
+T06 Essen & Trinken,exam word absent/rare in your data,A2,"die Nudel, -n",Nudel,NOUN,,3.25,Goethe A2 exam word; absent from your n-gram data,W0981
+T06 Essen & Trinken,exam word absent/rare in your data,A2,"die Bohne, -n",Bohne,NOUN,,3.21,Goethe A2 exam word; absent from your n-gram data,W0738
+T06 Essen & Trinken,exam word absent/rare in your data,B1,vegetarisch,vegetarisch,ADJ/ADV,,3.44,Goethe B1 exam word; absent from your n-gram data,W2810
+T06 Essen & Trinken,exam word absent/rare in your data,B1,das Gebäck,Gebäck,NOUN,,3.4,Goethe B1 exam word; absent from your n-gram data,W1833
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"der Snack, -s",Snack,NOUN,,3.39,Goethe B1 exam word; absent from your n-gram data,W3273
+T06 Essen & Trinken,exam word absent/rare in your data,B1,mager,mager,ADJ/ADV,,3.38,Goethe B1 exam word; absent from your n-gram data,W2183
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Kanne, -n",Kanne,NOUN,,3.36,Goethe B1 exam word; absent from your n-gram data,W2026
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"stinken, stinkt, stank, hat gestunken",stinken,VERB,,3.35,Goethe B1 exam word; absent from your n-gram data,W2646
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"zubereiten, bereitet zu, bereitete zu, hat zubereitet",zubereiten,VERB,,3.35,Goethe B1 exam word; absent from your n-gram data,W3002
+T06 Essen & Trinken,exam word absent/rare in your data,B1,das Hackfleisch,Hackfleisch,NOUN,,3.33,Goethe B1 exam word; absent from your n-gram data,W1913
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Wirtin, -nen",Wirtin,NOUN,,3.23,Goethe B1 exam word; absent from your n-gram data,W2962
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Büchse, -n",Büchse,NOUN,,3.21,Goethe B1 exam word; absent from your n-gram data,W1518
+T06 Essen & Trinken,exam word absent/rare in your data,B1,die Margarine,Margarine,NOUN,,3.11,Goethe B1 exam word; absent from your n-gram data,W2192
+T06 Essen & Trinken,exam word absent/rare in your data,B1,salzig,salzig,ADJ/ADV,,3.11,Goethe B1 exam word; absent from your n-gram data,W2479
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Limonade, -n",Limonade,NOUN,,3.1,Goethe B1 exam word; absent from your n-gram data,W2166
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Pflaume, -n",Pflaume,NOUN,,3.09,Goethe B1 exam word; absent from your n-gram data,W2358
+T06 Essen & Trinken,exam word absent/rare in your data,B1,durstig,durstig,ADJ/ADV,,3.06,Goethe B1 exam word; absent from your n-gram data,W1587
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"das Gewürz, -e",Gewürz,NOUN,,3.01,Goethe B1 exam word; absent from your n-gram data,W1885
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Karotte, -n",Karotte,NOUN,,3.01,Goethe B1 exam word; absent from your n-gram data,W2032
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"der Kloß, ¨-e",Kloß,NOUN,,3.01,Goethe B1 exam word; absent from your n-gram data,W2065
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"der Knödel, -",Knödel,NOUN,,3.0,Goethe B1 exam word; absent from your n-gram data,W2070
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Möhre, -n",Möhre,NOUN,,2.87,Goethe B1 exam word; absent from your n-gram data,W2245
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Nachspeise, -n",Nachspeise,NOUN,,2.77,Goethe B1 exam word; absent from your n-gram data,W2267
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"verpflegen, verpflegt, verpflegte, hat verpflegt",verpflegen,VERB,,2.52,Goethe B1 exam word; absent from your n-gram data,W2863
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"die Aprikose, -n",Aprikose,NOUN,,2.48,Goethe B1 exam word; absent from your n-gram data,W1332
+T06 Essen & Trinken,exam word absent/rare in your data,B1,"das Müesli, -",Müesli,NOUN,,1.04,Goethe B1 exam word; absent from your n-gram data,W2258
+T06 Essen & Trinken,frequent in your data,B1,satt,satt,ADJ/ADV,3997,4.06,Goethe B1 word; in your data (lemma rank 3997),W2484
+T06 Essen & Trinken,frequent in your data,B1,"die Schüssel, -n",Schüssel,NOUN,3913,3.81,Goethe B1 word; in your data (lemma rank 3913),W2529
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,A2,"das Parfüm, -s",Parfüm,NOUN,,3.42,Goethe A2 exam word; absent from your n-gram data,W0991
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,A2,preiswert,preiswert,ADJ/ADV,,3.42,Goethe A2 exam word; absent from your n-gram data,W1008
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,A2,"die Ermäßigung, -en",Ermäßigung,NOUN,,3.0,Goethe A2 exam word; absent from your n-gram data,W0789
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"die Quittung, -en",Quittung,NOUN,,3.43,Goethe B1 exam word; absent from your n-gram data,W2404
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"das Schaufenster, -",Schaufenster,NOUN,,3.41,Goethe B1 exam word; absent from your n-gram data,W2493
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"anschaffen, schafft an, schaffte an, hat angeschafft",anschaffen,VERB,,3.4,Goethe B1 exam word; absent from your n-gram data,W1317
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"die Socke, -n",Socke,NOUN,,3.38,Goethe B1 exam word; absent from your n-gram data,W2571
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"anhaben, hat an, hatte an, hat angehabt",anhaben,VERB,,3.29,Goethe B1 exam word; absent from your n-gram data,W1311
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,chic,chic,ADJ/ADV,,3.28,Goethe B1 exam word; absent from your n-gram data,W1527
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"die Drogerie, -n",Drogerie,NOUN,,3.26,Goethe B1 exam word; absent from your n-gram data,W1582
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"die Brieftasche, -n",Brieftasche,NOUN,,3.23,Goethe B1 exam word; absent from your n-gram data,W1512
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"umtauschen, tauscht um, tauschte um, hat umgetauscht",umtauschen,VERB,,3.09,Goethe B1 exam word; absent from your n-gram data,W2778
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"das Sonderangebot, -e",Sonderangebot,NOUN,,2.99,Goethe B1 exam word; absent from your n-gram data,W2576
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"der Strumpf, ¨-e",Strumpf,NOUN,,2.93,Goethe B1 exam word; absent from your n-gram data,W2661
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"der Umtausch, ¨-e",Umtausch,NOUN,,2.93,Goethe B1 exam word; absent from your n-gram data,W2779
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,die Zahncreme,Zahncreme,NOUN,,2.4,Goethe B1 exam word; absent from your n-gram data,W2983
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"die Käuferin, -nen",Käuferin,NOUN,,2.21,Goethe B1 exam word; absent from your n-gram data,W2041
+"T07 Einkaufen, Kleidung & Geld",exam word absent/rare in your data,B1,"das Zündholz, ¨-er",Zündholz,NOUN,,2.07,Goethe B1 exam word; absent from your n-gram data,W3015
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"sparen, spart, hat gespart",sparen,VERB,3753,4.65,Goethe A2 word; in your data (lemma rank 3753),W1091
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"das Gerät, -e",Gerät,NOUN,2452,4.6,Goethe A2 word; in your data (lemma rank 2452),W0835
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"der Rock, ¨-e",Rock,NOUN,2760,4.58,Goethe A2 word; in your data (lemma rank 2760),W1039
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"die Mode, -n",Mode,NOUN,3590,4.39,Goethe A2 word; in your data (lemma rank 3590),W0953
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"der Kredit, -e",Kredit,NOUN,3387,4.21,Goethe A2 word; in your data (lemma rank 3387),W0909
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,die Jeans (Pl.),Jeans,NOUN,3141,4.1,Goethe A2 word; in your data (lemma rank 3141),W0879
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"der Mantel, ¨-",Mantel,NOUN,2497,4.04,Goethe A2 word; in your data (lemma rank 2497),W0937
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"das Hemd, -en",Hemd,NOUN,2591,4.03,Goethe A2 word; in your data (lemma rank 2591),W0856
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"der Anzug, ¨-e",Anzug,NOUN,3419,4.0,Goethe A2 word; in your data (lemma rank 3419),W0681
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,A2,"der Stiefel, -",Stiefel,NOUN,3754,3.94,Goethe A2 word; in your data (lemma rank 3754),W1104
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,der Kauf,Kauf,NOUN,2493,4.71,Goethe B1 word; in your data (lemma rank 2493),W2039
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"der Hersteller, -",Hersteller,NOUN,3311,4.57,Goethe B1 word; in your data (lemma rank 3311),W1947
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,inklusive,inklusive,ADP,3891,4.44,Goethe B1 word; in your data (lemma rank 3891),W1990
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Nachfrage, -n",Nachfrage,NOUN,2740,4.44,Goethe B1 word; in your data (lemma rank 2740),W2263
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,die Schulden (Pl.),Schulden,NOUN,3268,4.42,Goethe B1 word; in your data (lemma rank 3268),W2525
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"das Einkommen, -",Einkommen,NOUN,2624,4.36,Goethe B1 word; in your data (lemma rank 2624),W1622
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,der Ersatz,Ersatz,NOUN,3298,4.35,Goethe B1 word; in your data (lemma rank 3298),W1712
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,umsonst,umsonst,ADV,3362,4.33,Goethe B1 word; in your data (lemma rank 3362),W2777
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Ware, -n",Ware,NOUN,3111,4.28,Goethe B1 word; in your data (lemma rank 3111),W2930
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,die Zinsen (Pl.),Zinsen,NOUN,3634,4.28,Goethe B1 word; in your data (lemma rank 3634),W2999
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"der Sack, ¨-e",Sack,NOUN,3752,4.26,Goethe B1 word; in your data (lemma rank 3752),W2474
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,schuldig,schuldig,ADJ/ADV,2773,4.23,Goethe B1 word; in your data (lemma rank 2773),W2526
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,der Schmuck,Schmuck,NOUN,3876,4.21,Goethe B1 word; in your data (lemma rank 3876),W2510
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"der Käufer, -",Käufer,NOUN,3520,4.16,Goethe B1 word; in your data (lemma rank 3520),W2040
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Zahlung, -en",Zahlung,NOUN,2641,4.1,Goethe B1 word; in your data (lemma rank 2641),W2981
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"der Schein, -e",Schein,NOUN,2556,4.06,Goethe B1 word; in your data (lemma rank 2556),W2498
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"der Kasten, ¨-",Kasten,NOUN,3758,4.05,Goethe B1 word; in your data (lemma rank 3758),W2036
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Kiste, -n",Kiste,NOUN,2894,3.98,Goethe B1 word; in your data (lemma rank 2894),W2048
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,wertvoll,wertvoll,ADJ/ADV,2911,3.96,Goethe B1 word; in your data (lemma rank 2911),W2946
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Uniform, -en",Uniform,NOUN,3881,3.93,Goethe B1 word; in your data (lemma rank 3881),W2788
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Münze, -n",Münze,NOUN,3365,3.88,Goethe B1 word; in your data (lemma rank 3365),W2253
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"der Beleg, -e",Beleg,NOUN,3243,3.87,Goethe B1 word; in your data (lemma rank 3243),W1433
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"die Einnahme, -n",Einnahme,NOUN,2473,3.85,Goethe B1 word; in your data (lemma rank 2473),W1624
+"T07 Einkaufen, Kleidung & Geld",frequent in your data,B1,"das Tuch, ¨-er",Tuch,NOUN,3203,3.81,Goethe B1 word; in your data (lemma rank 3203),W2741
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"das Verkehrsmittel, -",Verkehrsmittel,NOUN,,3.66,Goethe A2 exam word; absent from your n-gram data,W1178
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"der Fahrplan, ¨-e",Fahrplan,NOUN,,3.61,Goethe A2 exam word; absent from your n-gram data,W0794
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"umsteigen, steigt um, ist umgestiegen",umsteigen,VERB,,3.6,Goethe A2 exam word; absent from your n-gram data,W1163
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"der Rundgang, ¨-e",Rundgang,NOUN,,3.57,Goethe A2 exam word; absent from your n-gram data,W1047
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"auspacken, packt aus, hat ausgepackt",auspacken,VERB,,3.52,Goethe A2 exam word; absent from your n-gram data,W0694
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"einpacken, packt ein, hat eingepackt",einpacken,VERB,,3.52,Goethe A2 exam word; absent from your n-gram data,W0778
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"reservieren, reserviert, reservierte, hat reserviert",reservieren,VERB,,3.44,Goethe A2 exam word; absent from your n-gram data,W1034
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"der Luxemburger, -",Luxemburger,NOUN,,3.35,Goethe A2 exam word; absent from your n-gram data,W3184
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"verreisen, verreist, ist verreist",verreisen,VERB,,3.28,Goethe A2 exam word; absent from your n-gram data,W1184
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"die Jugendherberge, -n",Jugendherberge,NOUN,,3.21,Goethe A2 exam word; absent from your n-gram data,W0883
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"der Stadtplan, ¨-e",Stadtplan,NOUN,,3.2,Goethe A2 exam word; absent from your n-gram data,W1099
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"die Österreicherin, -nen",Österreicherin,NOUN,,2.95,Goethe A2 exam word; absent from your n-gram data,W3177
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"die Schweizerin, -nen",Schweizerin,NOUN,,2.95,Goethe A2 exam word; absent from your n-gram data,W3181
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"der Motorroller, -",Motorroller,NOUN,,2.94,Goethe A2 exam word; absent from your n-gram data,W0956
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"die Touristin, -nen",Touristin,NOUN,,2.74,Goethe A2 exam word; absent from your n-gram data,W1146
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,schweizerisch,schweizerisch,ADJ,,2.73,Goethe A2 exam word; absent from your n-gram data,W3182
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,luxemburgisch,luxemburgisch,ADJ,,2.41,Goethe A2 exam word; absent from your n-gram data,W3186
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"die Europäerin, -nen",Europäerin,NOUN,,2.37,Goethe A2 exam word; absent from your n-gram data,W3187
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,A2,"die Luxemburgerin, -nen",Luxemburgerin,NOUN,,1.31,Goethe A2 exam word; absent from your n-gram data,W3185
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"tanken, tankt, tankte, hat getankt",tanken,VERB,,3.69,Goethe B1 exam word; absent from your n-gram data,W2680
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"überholen, überholt, überholte, hat überholt",überholen,VERB,,3.69,Goethe B1 exam word; absent from your n-gram data,W2748
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Ausfahrt, -en",Ausfahrt,NOUN,,3.67,Goethe B1 exam word; absent from your n-gram data,W1371
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Metropole, -n",Metropole,NOUN,,3.67,Goethe B1 exam word; absent from your n-gram data,W2220
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Einfahrt, -en",Einfahrt,NOUN,,3.65,Goethe B1 exam word; absent from your n-gram data,W1611
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Fußgängerzone, -n",Fußgängerzone,NOUN,,3.62,Goethe B1 exam word; absent from your n-gram data,W1821
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"abbiegen, biegt ab, bog ab, ist abgebogen",abbiegen,VERB,,3.61,Goethe B1 exam word; absent from your n-gram data,W1252
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Zuschlag, ¨-e",Zuschlag,NOUN,,3.61,Goethe B1 exam word; absent from your n-gram data,W3025
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,abwärts,abwärts,ADV,5191,3.56,Goethe B1 exam word; in your data but rare (lemma rank 5191),W1278
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Panne, -n",Panne,NOUN,,3.56,Goethe B1 exam word; absent from your n-gram data,W2332
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Vorort, -e",Vorort,NOUN,,3.55,Goethe B1 exam word; absent from your n-gram data,W2328
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"verbrauchen, verbraucht, verbrauchte, hat verbraucht",verbrauchen,VERB,5458,3.53,Goethe B1 exam word; in your data but rare (lemma rank 5458),W2825
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Rückfahrt, -en",Rückfahrt,NOUN,,3.49,Goethe B1 exam word; absent from your n-gram data,W2465
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"zelten, zeltet, zeltete, hat gezeltet",zelten,VERB,,3.48,Goethe B1 exam word; absent from your n-gram data,W2990
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Passagier, -e",Passagier,NOUN,5410,3.47,Goethe B1 exam word; in your data but rare (lemma rank 5410),W2336
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"das Tram, -s",Tram,NOUN,,3.46,Goethe B1 exam word; absent from your n-gram data,W2724
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Umleitung, -en",Umleitung,NOUN,,3.44,Goethe B1 exam word; absent from your n-gram data,W2775
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,die Vorfahrt,Vorfahrt,NOUN,,3.44,Goethe B1 exam word; absent from your n-gram data,W2909
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Ukrainer, -",Ukrainer,NOUN,,3.44,Goethe B1 exam word; absent from your n-gram data,W3318
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Rundfahrt, -en",Rundfahrt,NOUN,,3.41,Goethe B1 exam word; absent from your n-gram data,W2472
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,entgegenkommen,entgegenkommen,VERB,,3.4,Goethe B1 exam word; absent from your n-gram data,W1656
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Reservierung, -en",Reservierung,NOUN,,3.36,Goethe B1 exam word; absent from your n-gram data,W2453
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Übernachtung, -en",Übernachtung,NOUN,,3.33,Goethe B1 exam word; absent from your n-gram data,W2750
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"hupen, hupt, hupte, hat gehupt",hupen,VERB,,3.29,Goethe B1 exam word; absent from your n-gram data,W1976
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Einbahnstraße, -n",Einbahnstraße,NOUN,,3.23,Goethe B1 exam word; absent from your n-gram data,W1603
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"losfahren, fährt los, fuhr los, ist losgefahren",losfahren,VERB,,3.23,Goethe B1 exam word; absent from your n-gram data,W2178
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"campen, campt, campte, hat gecampt",campen,VERB,,3.22,Goethe B1 exam word; absent from your n-gram data,W3241
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Strafzettel, -",Strafzettel,NOUN,,3.15,Goethe B1 exam word; absent from your n-gram data,W2654
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"das Souvenir, -s",Souvenir,NOUN,,3.09,Goethe B1 exam word; absent from your n-gram data,W2581
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,ukrainisch,ukrainisch,ADJ,,3.06,Goethe B1 exam word; absent from your n-gram data,W3320
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,das Ukrainisch,Ukrainisch,NOUN,,3.06,Goethe B1 exam word; absent from your n-gram data,W3321
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"das Verkehrszeichen, -",Verkehrszeichen,NOUN,,3.01,Goethe B1 exam word; absent from your n-gram data,W2986
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"das Kraftfahrzeug, -e",Kraftfahrzeug,NOUN,,2.96,Goethe B1 exam word; absent from your n-gram data,W2100
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Radfahrerin, -nen",Radfahrerin,NOUN,,2.93,Goethe B1 exam word; absent from your n-gram data,W2407
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,der Gehsteig,Gehsteig,NOUN,,2.87,Goethe B1 exam word; absent from your n-gram data,W1852
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"anschnallen, schnallt an, schnallte an, hat angeschnallt",anschnallen,VERB,,2.77,Goethe B1 exam word; absent from your n-gram data,W1319
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Speisewagen, -",Speisewagen,NOUN,,2.77,Goethe B1 exam word; absent from your n-gram data,W2590
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,städtisch,städtisch,ADJ/ADV,4142,2.63,Goethe B1 exam word; in your data but rare (lemma rank 4142),W2612
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"der Notausgang, ¨-e",Notausgang,NOUN,,2.62,Goethe B1 exam word; absent from your n-gram data,W2297
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Fußgängerin, -nen",Fußgängerin,NOUN,,2.61,Goethe B1 exam word; absent from your n-gram data,W1820
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Griechin, -nen",Griechin,NOUN,,2.48,Goethe B1 exam word; absent from your n-gram data,W3313
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Ukrainerin, -nen",Ukrainerin,NOUN,,2.39,Goethe B1 exam word; absent from your n-gram data,W3319
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Geschwindigkeitsbeschränkung, -en",Geschwindigkeitsbeschränkung,NOUN,,2.2,Goethe B1 exam word; absent from your n-gram data,W1873
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Passagierin, -nen",Passagierin,NOUN,,2.13,Goethe B1 exam word; absent from your n-gram data,W2337
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"das Billett, -e / -s",Billett,NOUN,,2.07,Goethe B1 exam word; absent from your n-gram data,W1487
+"T08 Reisen, Verkehr & Orte",exam word absent/rare in your data,B1,"die Einwohnerin, -nen",Einwohnerin,NOUN,,1.92,Goethe B1 exam word; absent from your n-gram data,W1636
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,Österreich,Österreich,PROPN,1899,5.2,Goethe A2 word; in your data (lemma rank 1899),W3175
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,die Schweiz,Schweiz,NOUN,1965,5.09,Goethe A2 word; in your data (lemma rank 1965),W3179
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"der Schweizer, -",Schweizer,NOUN,3086,4.81,Goethe A2 word; in your data (lemma rank 3086),W3180
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,der Verkehr (Sg.),Verkehr,NOUN,2319,4.75,Goethe A2 word; in your data (lemma rank 2319),W1177
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"die Tour, -en",Tour,NOUN,3585,4.74,Goethe A2 word; in your data (lemma rank 3585),W1144
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"die Brücke, -n",Brücke,NOUN,1808,4.61,Goethe A2 word; in your data (lemma rank 1808),W0741
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"die Hauptstadt, ¨-e",Hauptstadt,NOUN,3017,4.56,Goethe A2 word; in your data (lemma rank 3017),W0851
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"der Flug, ¨-e",Flug,NOUN,3301,4.49,Goethe A2 word; in your data (lemma rank 3301),W0810
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"der Motor, -en",Motor,NOUN,2768,4.47,Goethe A2 word; in your data (lemma rank 2768),W0955
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"der Strand, ¨-e",Strand,NOUN,2193,4.44,Goethe A2 word; in your data (lemma rank 2193),W1109
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,vorn,vorn,ADV,1795,4.44,Goethe A2 word; in your data (lemma rank 1795),W1197
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"das Rad, ¨-er",Rad,NOUN,2900,4.42,Goethe A2 word; in your data (lemma rank 2900),W0795
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"kontrollieren, kontrolliert, hat kontrolliert",kontrollieren,VERB,2113,4.28,Goethe A2 word; in your data (lemma rank 2113),W0901
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"die Werkstatt, ¨-en",Werkstatt,NOUN,3896,4.25,Goethe A2 word; in your data (lemma rank 3896),W1221
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"verpassen, verpasst, hat verpasst",verpassen,VERB,3422,4.17,Goethe A2 word; in your data (lemma rank 3422),W1183
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,vorwärts,vorwärts,ADV,2782,4.11,Goethe A2 word; in your data (lemma rank 2782),W1200
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"das Zelt, -e",Zelt,NOUN,3425,4.04,Goethe A2 word; in your data (lemma rank 3425),W1239
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"der Rucksack, ¨-e",Rucksack,NOUN,3507,4.03,Goethe A2 word; in your data (lemma rank 3507),W1043
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,"der Tourist, -en",Tourist,NOUN,3619,3.59,Goethe A2 word; in your data (lemma rank 3619),W1145
+"T08 Reisen, Verkehr & Orte",frequent in your data,A2,österreichisch,österreichisch,ADJ,2443,3.55,Goethe A2 word; in your data (lemma rank 2443),W3178
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Start, -s",Start,NOUN,3338,4.9,Goethe B1 word; in your data (lemma rank 3338),W2617
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Schaden, ¨-",Schaden,NOUN,3323,4.8,Goethe B1 word; in your data (lemma rank 3323),W2487
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Strecke, -n",Strecke,NOUN,2419,4.69,Goethe B1 word; in your data (lemma rank 2419),W2655
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"starten, startet, startete, ist gestartet",starten,VERB,2787,4.63,Goethe B1 word; in your data (lemma rank 2787),W2616
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die City, -s",City,NOUN,3220,4.62,Goethe B1 word; in your data (lemma rank 3220),W3247
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Sitz, -e",Sitz,NOUN,2306,4.59,Goethe B1 word; in your data (lemma rank 2306),W2569
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,Griechenland,Griechenland,PROPN,3701,4.54,Goethe B1 word; in your data (lemma rank 3701),W3311
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"das Fahrzeug, -e",Fahrzeug,NOUN,2174,4.52,Goethe B1 word; in your data (lemma rank 2174),W1735
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Einwohner, -",Einwohner,NOUN,3246,4.5,Goethe B1 word; in your data (lemma rank 3246),W1635
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,die Rückkehr,Rückkehr,NOUN,2175,4.49,Goethe B1 word; in your data (lemma rank 2175),W2466
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Geschwindigkeit, -en",Geschwindigkeit,NOUN,2026,4.48,Goethe B1 word; in your data (lemma rank 2026),W1872
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Station, -en",Station,NOUN,2066,4.47,Goethe B1 word; in your data (lemma rank 2066),W2618
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Burg, -en",Burg,NOUN,2573,4.38,Goethe B1 word; in your data (lemma rank 2573),W1521
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Aussicht, -en",Aussicht,NOUN,2468,4.37,Goethe B1 word; in your data (lemma rank 2468),W1385
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Hafen, ¨-",Hafen,NOUN,2565,4.36,Goethe B1 word; in your data (lemma rank 2565),W1914
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"landen, landet, landete, ist gelandet",landen,VERB,1802,4.33,Goethe B1 word; in your data (lemma rank 1802),W2133
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Zone, -n",Zone,NOUN,3691,4.31,Goethe B1 word; in your data (lemma rank 3691),W3001
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Transport, -e",Transport,NOUN,3254,4.29,Goethe B1 word; in your data (lemma rank 3254),W2727
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,quer,quer,ADJ/ADV,2763,4.28,Goethe B1 word; in your data (lemma rank 2763),W2403
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Aufenthalt, -e",Aufenthalt,NOUN,2803,4.24,Goethe B1 word; in your data (lemma rank 2803),W1347
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,glatt,glatt,ADJ/ADV,1984,4.24,Goethe B1 word; in your data (lemma rank 1984),W1890
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,das Tempo,Tempo,NOUN,3350,4.24,Goethe B1 word; in your data (lemma rank 3350),W2703
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Hütte, -n",Hütte,NOUN,1999,4.22,Goethe B1 word; in your data (lemma rank 1999),W1979
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Turm, ¨-e",Turm,NOUN,3257,4.19,Goethe B1 word; in your data (lemma rank 3257),W2742
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,regional,regional,ADJ,2168,4.16,Goethe B1 word; in your data (lemma rank 2168),W2438
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,südlich,südlich,ADJ,2892,4.13,Goethe B1 word; in your data (lemma rank 2892),W3309
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,nördlich,nördlich,ADJ,2986,4.12,Goethe B1 word; in your data (lemma rank 2986),W3307
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"die Kurve, -n",Kurve,NOUN,2350,4.08,Goethe B1 word; in your data (lemma rank 2350),W2123
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,westlich,westlich,ADJ,1829,3.96,Goethe B1 word; in your data (lemma rank 1829),W3310
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,rückwärts,rückwärts,ADV,3534,3.95,Goethe B1 word; in your data (lemma rank 3534),W2467
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,griechisch,griechisch,ADJ,1769,3.78,Goethe B1 word; in your data (lemma rank 1769),W3314
+"T08 Reisen, Verkehr & Orte",frequent in your data,B1,"der Grieche, -n",Grieche,NOUN,3553,3.29,Goethe B1 word; in your data (lemma rank 3553),W3312
+"T09 Behörden, Post & Dienstleistungen",exam word absent/rare in your data,B1,"die Mobilbox, -en",Mobilbox,NOUN,,1.24,Goethe B1 exam word; absent from your n-gram data,W2240
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,A2,"beraten, berät, hat beraten",beraten,VERB,3975,4.29,Goethe A2 word; in your data (lemma rank 3975),W0717
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,A2,die Erlaubnis (Sg.),Erlaubnis,NOUN,3249,4.12,Goethe A2 word; in your data (lemma rank 3249),W0788
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,A2,"sich eintragen, trägt ein, hat eingetragen",eintragen,VERB,3974,3.75,Goethe A2 word; in your data (lemma rank 3974),W0779
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,original,original,ADJ/ADV,3038,4.63,Goethe B1 word; in your data (lemma rank 3038),W2327
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,"der Empfang, ¨-e",Empfang,NOUN,3304,4.26,Goethe B1 word; in your data (lemma rank 3304),W1647
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,"die Bestätigung, -en",Bestätigung,NOUN,3210,4.16,Goethe B1 word; in your data (lemma rank 3210),W1462
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,"die Frist, -en",Frist,NOUN,3123,4.1,Goethe B1 word; in your data (lemma rank 3123),W1810
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,"die Urkunde, -n",Urkunde,NOUN,3517,4.08,Goethe B1 word; in your data (lemma rank 3517),W2804
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,"die Aufforderung, -en",Aufforderung,NOUN,3291,3.94,Goethe B1 word; in your data (lemma rank 3291),W1350
+"T09 Behörden, Post & Dienstleistungen",frequent in your data,B1,"der Salon, -s",Salon,NOUN,3892,3.88,Goethe B1 word; in your data (lemma rank 3892),W2478
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,surfen,surfen,VERB,,3.73,Goethe A2 exam word; absent from your n-gram data,W1120
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,das Quiz (Sg.),Quiz,NOUN,,3.63,Goethe A2 exam word; absent from your n-gram data,W1019
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,joggen,joggen,VERB,,3.62,Goethe A2 exam word; absent from your n-gram data,W0882
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,"herunterladen, lädt herunter, hat heruntergeladen",herunterladen,VERB,,3.55,Goethe A2 exam word; absent from your n-gram data,W0861
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,"der Sportplatz, ¨-e",Sportplatz,NOUN,,3.51,Goethe A2 exam word; absent from your n-gram data,W1097
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,"chatten, chattet, hat gechattet",chatten,VERB,,3.38,Goethe A2 exam word; absent from your n-gram data,W0746
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,"die Disko, -s",Disko,NOUN,,3.11,Goethe A2 exam word; absent from your n-gram data,W0761
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,A2,"der Fotoapparat, -e",Fotoapparat,NOUN,,2.87,Goethe A2 exam word; absent from your n-gram data,W0812
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"tippen, tippt, tippte, hat getippt",tippen,VERB,4214,3.76,Goethe B1 exam word; in your data but rare (lemma rank 4214),W2713
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,populär,populär,ADJ/ADV,,3.75,Goethe B1 exam word; absent from your n-gram data,W2375
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Broschüre, -n",Broschüre,NOUN,,3.74,Goethe B1 exam word; absent from your n-gram data,W1513
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"hochladen, lädt hoch, lud hoch, hat hochgeladen",hochladen,VERB,,3.72,Goethe B1 exam word; absent from your n-gram data,W1961
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"einfügen, fügt ein, fügte ein, hat eingefügt",einfügen,VERB,,3.71,Goethe B1 exam word; absent from your n-gram data,W1616
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Reportage, -n",Reportage,NOUN,,3.71,Goethe B1 exam word; absent from your n-gram data,W2450
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Taste, -n",Taste,NOUN,4496,3.7,Goethe B1 exam word; in your data but rare (lemma rank 4496),W2686
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"vorlesen, liest vor, las vor, hat vorgelesen",vorlesen,VERB,,3.7,Goethe B1 exam word; absent from your n-gram data,W2914
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Ballett, -e",Ballett,NOUN,,3.67,Goethe B1 exam word; absent from your n-gram data,W1395
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Sportart, -en",Sportart,NOUN,,3.67,Goethe B1 exam word; absent from your n-gram data,W2600
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Schriftstellerin, -nen",Schriftstellerin,NOUN,,3.58,Goethe B1 exam word; absent from your n-gram data,W2521
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Fernbedienung, -en",Fernbedienung,NOUN,,3.55,Goethe B1 exam word; absent from your n-gram data,W1753
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Flöte, -n",Flöte,NOUN,,3.54,Goethe B1 exam word; absent from your n-gram data,W1781
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"ausstellen, stellt aus, stellte aus, hat ausgestellt",ausstellen,VERB,5415,3.53,Goethe B1 exam word; in your data but rare (lemma rank 5415),W1387
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Garderobe, -n",Garderobe,NOUN,,3.53,Goethe B1 exam word; absent from your n-gram data,W1828
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"abonnieren, abonniert, abonnierte, hat abonniert",abonnieren,VERB,,3.51,Goethe B1 exam word; absent from your n-gram data,W1266
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Mountainbike, -s",Mountainbike,NOUN,,3.51,Goethe B1 exam word; absent from your n-gram data,W3266
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"aufladen, lädt auf, lud auf, hat aufgeladen",aufladen,VERB,,3.48,Goethe B1 exam word; absent from your n-gram data,W1355
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Picknick, -s",Picknick,NOUN,,3.48,Goethe B1 exam word; absent from your n-gram data,W2364
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Puzzle, -s",Puzzle,NOUN,,3.48,Goethe B1 exam word; absent from your n-gram data,W3269
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"der Fasching, -",Fasching,NOUN,,3.47,Goethe B1 exam word; absent from your n-gram data,W1745
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"googeln, googelt, googelte, hat gegoogelt",googeln,VERB,,3.41,Goethe B1 exam word; absent from your n-gram data,W3255
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Reporterin, -nen",Reporterin,NOUN,,3.4,Goethe B1 exam word; absent from your n-gram data,W2452
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Heldin, -nen",Heldin,NOUN,,3.39,Goethe B1 exam word; absent from your n-gram data,W1943
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,die Gymnastik,Gymnastik,NOUN,,3.38,Goethe B1 exam word; absent from your n-gram data,W1912
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"der Tierpark, -s",Tierpark,NOUN,,3.38,Goethe B1 exam word; absent from your n-gram data,W2712
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Trainerin, -nen",Trainerin,NOUN,,3.38,Goethe B1 exam word; absent from your n-gram data,W2723
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Siegerin, -nen",Siegerin,NOUN,,3.35,Goethe B1 exam word; absent from your n-gram data,W2563
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Hallenbad, ¨-er",Hallenbad,NOUN,,3.34,Goethe B1 exam word; absent from your n-gram data,W1919
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Spielerin, -nen",Spielerin,NOUN,,3.33,Goethe B1 exam word; absent from your n-gram data,W2596
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Kassette, -n",Kassette,NOUN,,3.29,Goethe B1 exam word; absent from your n-gram data,W2035
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"sich amüsieren, amüsiert sich, amüsierte sich, hat sich amüsiert",amüsieren,VERB,4468,3.28,Goethe B1 exam word; in your data but rare (lemma rank 4468),W1299
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Abonnement, -s / -e",Abonnement,NOUN,,3.25,Goethe B1 exam word; absent from your n-gram data,W1267
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Reklame, -n",Reklame,NOUN,,3.24,Goethe B1 exam word; absent from your n-gram data,W2444
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"bloggen, bloggt, bloggte, hat gebloggt",bloggen,VERB,,3.2,Goethe B1 exam word; absent from your n-gram data,W3239
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Laufwerk, -e",Laufwerk,NOUN,,3.13,Goethe B1 exam word; absent from your n-gram data,W2141
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"twittern, twittert, twitterte, hat getwittert",twittern,VERB,,3.11,Goethe B1 exam word; absent from your n-gram data,W3281
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Diskothek, -en",Diskothek,NOUN,,3.07,Goethe B1 exam word; absent from your n-gram data,W1568
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"das Inserat, -e",Inserat,NOUN,,3.06,Goethe B1 exam word; absent from your n-gram data,W1993
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"dekorieren, dekoriert, dekorierte, hat dekoriert",dekorieren,VERB,,3.02,Goethe B1 exam word; absent from your n-gram data,W1549
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Leserin, -nen",Leserin,NOUN,,3.0,Goethe B1 exam word; absent from your n-gram data,W2161
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"der Swimmingpool, -s",Swimmingpool,NOUN,,3.0,Goethe B1 exam word; absent from your n-gram data,W3278
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Sportlerin, -nen",Sportlerin,NOUN,,2.98,Goethe B1 exam word; absent from your n-gram data,W2602
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Castingshow, -s",Castingshow,NOUN,,2.96,Goethe B1 exam word; absent from your n-gram data,W3242
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"mailen, mailt, mailte, hat gemailt",mailen,VERB,,2.86,Goethe B1 exam word; absent from your n-gram data,W3263
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"faulenzen, faulenzt, faulenzte, hat gefaulenzt",faulenzen,VERB,,2.75,Goethe B1 exam word; absent from your n-gram data,W1748
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Annonce, -n",Annonce,NOUN,,2.69,Goethe B1 exam word; absent from your n-gram data,W1316
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Zuschauerin, -nen",Zuschauerin,NOUN,,2.67,Goethe B1 exam word; absent from your n-gram data,W3024
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Userin, -nen",Userin,NOUN,,2.64,Goethe B1 exam word; absent from your n-gram data,W3283
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"der Profisportler, -",Profisportler,NOUN,,2.41,Goethe B1 exam word; absent from your n-gram data,W2392
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Zuhörerin, -nen",Zuhörerin,NOUN,,2.27,Goethe B1 exam word; absent from your n-gram data,W3009
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Verliererin, -nen",Verliererin,NOUN,,2.19,Goethe B1 exam word; absent from your n-gram data,W2853
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,das Golfspiel,Golfspiel,NOUN,,2.16,Goethe B1 exam word; absent from your n-gram data,W1896
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Hörerin, -nen",Hörerin,NOUN,,1.84,Goethe B1 exam word; absent from your n-gram data,W1970
+"T10 Freizeit, Sport, Kultur & Medien",exam word absent/rare in your data,B1,"die Profisportlerin, -nen",Profisportlerin,NOUN,,1.25,Goethe B1 exam word; absent from your n-gram data,W2393
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,online,online,ADJ/ADV,1390,5.38,Goethe A2 word; in your data (lemma rank 1390),W0985
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"unternehmen, unternimmt, hat unternommen",unternehmen,VERB,2984,5.38,Goethe A2 word; in your data (lemma rank 2984),W1170
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Mannschaft, -en",Mannschaft,NOUN,3404,4.93,Goethe A2 word; in your data (lemma rank 3404),W0936
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"der Club, -s",Club,NOUN,3443,4.82,Goethe A2 word; in your data (lemma rank 3443),W0748
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"das Interview, -s",Interview,NOUN,1510,4.76,Goethe A2 word; in your data (lemma rank 1510),W0878
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Kamera, -s",Kamera,NOUN,2387,4.76,Goethe A2 word; in your data (lemma rank 2387),W0886
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"der Park, -s",Park,NOUN,2032,4.72,Goethe A2 word; in your data (lemma rank 2032),W0992
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"das Theater, -",Theater,NOUN,1930,4.72,Goethe A2 word; in your data (lemma rank 1930),W1135
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"das Museum, -een",Museum,NOUN,1846,4.71,Goethe A2 word; in your data (lemma rank 1846),W0958
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Ausstellung, -en",Ausstellung,NOUN,3414,4.69,Goethe A2 word; in your data (lemma rank 3414),W0700
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"das Radio, -s",Radio,NOUN,3279,4.68,Goethe A2 word; in your data (lemma rank 3279),W1020
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Sendung, -en",Sendung,NOUN,3986,4.68,Goethe A2 word; in your data (lemma rank 3986),W1080
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Veranstaltung, -en",Veranstaltung,NOUN,2581,4.65,Goethe A2 word; in your data (lemma rank 2581),W1173
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"der Ball, ¨-e",Ball,NOUN,2850,4.64,Goethe A2 word; in your data (lemma rank 2850),W0704
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"das Training, -s",Training,NOUN,2610,4.63,Goethe A2 word; in your data (lemma rank 2610),W1149
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"singen, singt, hat gesungen",singen,VERB,1391,4.56,Goethe A2 word; in your data (lemma rank 1391),W1084
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"der Wettbewerb, -e",Wettbewerb,NOUN,2632,4.55,Goethe A2 word; in your data (lemma rank 2632),W1222
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Zeitschrift, -en",Zeitschrift,NOUN,1398,4.48,Goethe A2 word; in your data (lemma rank 1398),W1238
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"sammeln, sammelt, hat gesammelt",sammeln,VERB,1613,4.47,Goethe A2 word; in your data (lemma rank 1613),W1049
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"sich interessieren, interessiert, hat interessiert",interessieren,VERB,1698,4.45,Goethe A2 word; in your data (lemma rank 1698),W0876
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Feier, -n",Feier,NOUN,3962,4.37,Goethe A2 word; in your data (lemma rank 3962),W0801
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"der Fernseher, -",Fernseher,NOUN,3643,4.34,Goethe A2 word; in your data (lemma rank 3643),W0804
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"teilnehmen, nimmt teil, hat teilgenommen",teilnehmen,VERB,3961,4.32,Goethe A2 word; in your data (lemma rank 3961),W1132
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"zeichnen, zeichnet, hat gezeichnet",zeichnen,VERB,1388,4.26,Goethe A2 word; in your data (lemma rank 1388),W1236
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"das Rätsel, -",Rätsel,NOUN,3532,4.17,Goethe A2 word; in your data (lemma rank 3532),W1023
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"reiten, reitet, ist geritten",reiten,VERB,2111,4.11,Goethe A2 word; in your data (lemma rank 2111),W1030
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"die Datei, -en",Datei,NOUN,2166,4.1,Goethe A2 word; in your data (lemma rank 2166),W0754
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,berühmt,berühmt,ADJ/ADV,1766,4.04,Goethe A2 word; in your data (lemma rank 1766),W0720
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"der Spaziergang, ¨-e",Spaziergang,NOUN,3787,3.98,Goethe A2 word; in your data (lemma rank 3787),W1093
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,A2,"speichern, speichert, hat gespeichert",speichern,VERB,2655,3.89,Goethe A2 word; in your data (lemma rank 2655),W1094
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"das Video, -s",Video,NOUN,2766,5.13,Goethe B1 word; in your data (lemma rank 2766),W2894
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Spieler, -",Spieler,NOUN,2696,5.06,Goethe B1 word; in your data (lemma rank 2696),W2595
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Serie, -n",Serie,NOUN,3388,4.92,Goethe B1 word; in your data (lemma rank 3388),W2554
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Sieg, -e",Sieg,NOUN,2545,4.9,Goethe B1 word; in your data (lemma rank 2545),W2561
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"laden, lädt herunter, lud herunter, hat heruntergeladen (herunterladen)",laden,VERB,1354,4.84,Goethe B1 word; in your data (lemma rank 1354),W1949
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Werbung, -en",Werbung,NOUN,2361,4.83,Goethe B1 word; in your data (lemma rank 2361),W2939
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Szene, -n",Szene,NOUN,1426,4.76,Goethe B1 word; in your data (lemma rank 1426),W2675
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,das Fernsehen,Fernsehen,NOUN,2532,4.72,Goethe B1 word; in your data (lemma rank 2532),W1754
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,die Presse,Presse,NOUN,2489,4.68,Goethe B1 word; in your data (lemma rank 2489),W2385
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Zuschauer, -",Zuschauer,NOUN,2815,4.64,Goethe B1 word; in your data (lemma rank 2815),W3023
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Gewinn, -e",Gewinn,NOUN,2059,4.63,Goethe B1 word; in your data (lemma rank 2059),W1879
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Bühne, -n",Bühne,NOUN,2212,4.62,Goethe B1 word; in your data (lemma rank 2212),W1520
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,das Publikum,Publikum,NOUN,2056,4.61,Goethe B1 word; in your data (lemma rank 2056),W2398
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Software, -s",Software,NOUN,2371,4.57,Goethe B1 word; in your data (lemma rank 2371),W3274
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Leser, -",Leser,NOUN,1415,4.55,Goethe B1 word; in your data (lemma rank 1415),W2160
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Teilnahme, -n",Teilnahme,NOUN,2649,4.54,Goethe B1 word; in your data (lemma rank 2649),W2699
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Sender, -",Sender,NOUN,3942,4.49,Goethe B1 word; in your data (lemma rank 3942),W2551
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Kanal, ¨-e",Kanal,NOUN,2816,4.48,Goethe B1 word; in your data (lemma rank 2816),W2024
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Trend, -s",Trend,NOUN,2813,4.46,Goethe B1 word; in your data (lemma rank 2813),W3280
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"das Abenteuer, -",Abenteuer,NOUN,2903,4.42,Goethe B1 word; in your data (lemma rank 2903),W1254
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"das Netzwerk, -e",Netzwerk,NOUN,1717,4.42,Goethe B1 word; in your data (lemma rank 1717),W2285
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Unterhaltung, -en",Unterhaltung,NOUN,2478,4.42,Goethe B1 word; in your data (lemma rank 2478),W2790
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Plattform, -en",Plattform,NOUN,3413,4.41,Goethe B1 word; in your data (lemma rank 3413),W3268
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"klicken, klickt, klickte, hat geklickt",klicken,VERB,3354,4.39,Goethe B1 word; in your data (lemma rank 3354),W2056
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"löschen, löscht, löschte, hat gelöscht",löschen,VERB,3095,4.38,Goethe B1 word; in your data (lemma rank 3095),W2179
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Eröffnung, -en",Eröffnung,NOUN,3866,4.37,Goethe B1 word; in your data (lemma rank 3866),W1708
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Tanz, ¨-e",Tanz,NOUN,3348,4.37,Goethe B1 word; in your data (lemma rank 3348),W2683
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Schriftsteller, -",Schriftsteller,NOUN,2757,4.35,Goethe B1 word; in your data (lemma rank 2757),W2520
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"empfangen, empfängt, empfing, hat empfangen",empfangen,VERB,1891,4.31,Goethe B1 word; in your data (lemma rank 1891),W1646
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,digital,digital,ADJ,1907,4.28,Goethe B1 word; in your data (lemma rank 1907),W1564
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"wetten, wettet, wettete, hat gewettet",wetten,VERB,3970,4.28,Goethe B1 word; in your data (lemma rank 3970),W2948
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"das Märchen, -",Märchen,NOUN,3174,4.24,Goethe B1 word; in your data (lemma rank 3174),W2191
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Oper, -n",Oper,NOUN,3908,4.24,Goethe B1 word; in your data (lemma rank 3908),W2315
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Fortsetzung, -en",Fortsetzung,NOUN,3351,4.23,Goethe B1 word; in your data (lemma rank 3351),W1796
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"vorhaben, hat vor, hatte vor, hat vorgehabt",vorhaben,VERB,2711,4.23,Goethe B1 word; in your data (lemma rank 2711),W2910
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Held, -en",Held,NOUN,1961,4.22,Goethe B1 word; in your data (lemma rank 1961),W1942
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"das Erlebnis, -se",Erlebnis,NOUN,2171,4.2,Goethe B1 word; in your data (lemma rank 2171),W1699
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht",veröffentlichen,VERB,1506,4.17,Goethe B1 word; in your data (lemma rank 1506),W2311
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,der Saal,Saal,NOUN,2812,4.16,Goethe B1 word; in your data (lemma rank 2812),W2473
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"das Gedicht, -e",Gedicht,NOUN,1933,4.11,Goethe B1 word; in your data (lemma rank 1933),W1840
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Bildschirm, -e",Bildschirm,NOUN,3085,4.08,Goethe B1 word; in your data (lemma rank 3085),W1486
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Erzählung, -en",Erzählung,NOUN,1566,4.07,Goethe B1 word; in your data (lemma rank 1566),W1716
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"die Zeichnung, -en",Zeichnung,NOUN,2745,3.99,Goethe B1 word; in your data (lemma rank 2745),W2987
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,tauchen,tauchen,VERB,1400,3.98,Goethe B1 word; in your data (lemma rank 1400),W2694
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,musikalisch,musikalisch,ADJ/ADV,3623,3.88,Goethe B1 word; in your data (lemma rank 3623),W2254
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"klettern, klettert, kletterte, ist geklettert",klettern,VERB,3063,3.87,Goethe B1 word; in your data (lemma rank 3063),W2055
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"der Hörer, -",Hörer,NOUN,3261,3.75,Goethe B1 word; in your data (lemma rank 3261),W1969
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,stumm,stumm,ADJ/ADV,2606,3.69,Goethe B1 word; in your data (lemma rank 2606),W2666
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,elektronisch,elektronisch,ADJ/ADV,2444,3.47,Goethe B1 word; in your data (lemma rank 2444),W1645
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,"aufführen, führt auf, führte auf, hat aufgeführt",aufführen,VERB,3280,3.44,Goethe B1 word; in your data (lemma rank 3280),W1351
+"T10 Freizeit, Sport, Kultur & Medien",frequent in your data,B1,virtuell,virtuell,ADJ/ADV,3347,3.27,Goethe B1 word; in your data (lemma rank 3347),W2896
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,A2,bewölkt,bewölkt,ADJ/ADV,,3.41,Goethe A2 exam word; absent from your n-gram data,W0730
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,A2,sonnig,sonnig,ADJ/ADV,,3.35,Goethe A2 exam word; absent from your n-gram data,W1088
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,A2,windig,windig,ADJ/ADV,,3.12,Goethe A2 exam word; absent from your n-gram data,W1224
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,A2,"schneien, schneit, hat geschneit",schneien,VERB,,2.96,Goethe A2 exam word; absent from your n-gram data,W1068
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,A2,neblig,neblig,ADJ/ADV,,2.66,Goethe A2 exam word; absent from your n-gram data,W0971
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"die Mücke, -n",Mücke,NOUN,,3.36,Goethe B1 exam word; absent from your n-gram data,W3367
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"das Krokodil, -e",Krokodil,NOUN,,3.33,Goethe B1 exam word; absent from your n-gram data,W3363
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"der Pinguin, -e",Pinguin,NOUN,,3.32,Goethe B1 exam word; absent from your n-gram data,W3368
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"blitzen, blitzt, blitzte, hat geblitzt",blitzen,VERB,,3.25,Goethe B1 exam word; absent from your n-gram data,W1493
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"der Wetterbericht, -e",Wetterbericht,NOUN,,3.22,Goethe B1 exam word; absent from your n-gram data,W2949
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,die Abgase (Pl.),Abgase,NOUN,,3.2,Goethe B1 exam word; absent from your n-gram data,W1257
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"die Giraffe, -n",Giraffe,NOUN,,3.19,Goethe B1 exam word; absent from your n-gram data,W3360
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"die Wettervorhersage, -n",Wettervorhersage,NOUN,,3.18,Goethe B1 exam word; absent from your n-gram data,W2950
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"das Insekt, -en",Insekt,NOUN,5256,3.13,Goethe B1 exam word; in your data but rare (lemma rank 5256),W3362
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"die Umweltverschmutzung, -en",Umweltverschmutzung,NOUN,,3.11,Goethe B1 exam word; absent from your n-gram data,W2782
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"donnern, donnert, donnerte, hat gedonnert",donnern,VERB,,2.94,Goethe B1 exam word; absent from your n-gram data,W1573
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"verschmutzen, verschmutzt, verschmutzte, hat verschmutzt",verschmutzen,VERB,,2.69,Goethe B1 exam word; absent from your n-gram data,W2512
+"T11 Natur, Umwelt, Wetter & Tiere",exam word absent/rare in your data,B1,"hageln, hagelt, hagelte, hat gehagelt",hageln,VERB,,2.32,Goethe B1 exam word; absent from your n-gram data,W1915
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,heiß,heiß,ADJ/ADV,1752,4.61,Goethe A2 word; in your data (lemma rank 1752),W0854
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,"die Katze, -n",Katze,NOUN,1836,4.49,Goethe A2 word; in your data (lemma rank 1836),W0888
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,"die Landschaft, -en",Landschaft,NOUN,2225,4.46,Goethe A2 word; in your data (lemma rank 2225),W0918
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,der Schnee (Sg.),Schnee,NOUN,2003,4.45,Goethe A2 word; in your data (lemma rank 2003),W1066
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,"die Rose, -n",Rose,NOUN,1990,4.35,Goethe A2 word; in your data (lemma rank 1990),W1041
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,"das Schwein, -e",Schwein,NOUN,3307,4.11,Goethe A2 word; in your data (lemma rank 3307),W1075
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,kühl,kühl,ADJ/ADV,1765,3.93,Goethe A2 word; in your data (lemma rank 1765),W0912
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,A2,"die Wolke, -n",Wolke,NOUN,1824,3.79,Goethe A2 word; in your data (lemma rank 1824),W0731
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Sturm, ¨-e",Sturm,NOUN,2311,4.51,Goethe B1 word; in your data (lemma rank 2311),W2667
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,das Klima,Klima,NOUN,3657,4.44,Goethe B1 word; in your data (lemma rank 3657),W2058
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,der Sand,Sand,NOUN,2214,4.37,Goethe B1 word; in your data (lemma rank 2214),W2481
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Mond, -e",Mond,NOUN,2365,4.35,Goethe B1 word; in your data (lemma rank 2365),W2246
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,die Hitze,Hitze,NOUN,2083,4.33,Goethe B1 word; in your data (lemma rank 2083),W1959
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"die Küste, -n",Küste,NOUN,2804,4.3,Goethe B1 word; in your data (lemma rank 2804),W2127
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,das Gras,Gras,NOUN,2589,4.26,Goethe B1 word; in your data (lemma rank 2589),W1899
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,die Wärme,Wärme,NOUN,1844,4.26,Goethe B1 word; in your data (lemma rank 1844),W2931
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"das Tal, ¨-er",Tal,NOUN,2623,4.23,Goethe B1 word; in your data (lemma rank 2623),W2678
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"das Ufer, -",Ufer,NOUN,2035,4.22,Goethe B1 word; in your data (lemma rank 2035),W2768
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"die Maus, ¨-e",Maus,NOUN,3709,4.22,Goethe B1 word; in your data (lemma rank 3709),W3366
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,der Lärm,Lärm,NOUN,2854,4.12,Goethe B1 word; in your data (lemma rank 2854),W2139
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Nebel, -",Nebel,NOUN,2584,4.12,Goethe B1 word; in your data (lemma rank 2584),W2279
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"die Schlange, -n",Schlange,NOUN,2450,4.11,Goethe B1 word; in your data (lemma rank 2450),W2504
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,die Kälte,Kälte,NOUN,2263,4.09,Goethe B1 word; in your data (lemma rank 2263),W2021
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"die Wiese, -n",Wiese,NOUN,3324,4.08,Goethe B1 word; in your data (lemma rank 3324),W2955
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Hügel, -",Hügel,NOUN,2774,4.07,Goethe B1 word; in your data (lemma rank 2774),W1973
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"fließen, fließt, floss, ist geflossen",fließen,VERB,2549,4.04,Goethe B1 word; in your data (lemma rank 2549),W1779
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"die Kuh, ¨-e",Kuh,NOUN,3385,4.04,Goethe B1 word; in your data (lemma rank 3385),W3364
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Bär, -en",Bär,NOUN,3393,4.0,Goethe B1 word; in your data (lemma rank 3393),W3355
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Blitz, -e",Blitz,NOUN,3456,3.98,Goethe B1 word; in your data (lemma rank 3456),W1494
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"der Löwe, -n",Löwe,NOUN,3222,3.89,Goethe B1 word; in your data (lemma rank 3222),W3365
+"T11 Natur, Umwelt, Wetter & Tiere",frequent in your data,B1,"beißen, beißt, biss, hat gebissen",beißen,VERB,2417,3.73,Goethe B1 word; in your data (lemma rank 2417),W1431
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"der Politiker, -",Politiker,NOUN,2830,4.99,Goethe B1 word; in your data (lemma rank 2830),W2370
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Demokratie, -n",Demokratie,NOUN,2022,4.75,Goethe B1 word; in your data (lemma rank 2022),W3329
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"der Gegner, -",Gegner,NOUN,1868,4.73,Goethe B1 word; in your data (lemma rank 1868),W1846
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Mehrheit, -en",Mehrheit,NOUN,2430,4.73,Goethe B1 word; in your data (lemma rank 2430),W2207
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"der Bürgermeister, -",Bürgermeister,NOUN,3199,4.73,Goethe B1 word; in your data (lemma rank 3199),W3327
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,der Bund,Bund,NOUN,1684,4.65,Goethe B1 word; in your data (lemma rank 1684),W3322
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"der Täter, -",Täter,NOUN,2217,4.64,Goethe B1 word; in your data (lemma rank 2217),W2688
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,das Parlament,Parlament,NOUN,2578,4.62,Goethe B1 word; in your data (lemma rank 2578),W3336
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Förderung, -en",Förderung,NOUN,1869,4.61,Goethe B1 word; in your data (lemma rank 1869),W1790
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,verpflichtet,verpflichtet,ADJ,1763,4.59,Goethe B1 word; in your data (lemma rank 1763),W2864
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"der Minister, -",Minister,NOUN,3290,4.57,Goethe B1 word; in your data (lemma rank 3290),W3334
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,die Flucht,Flucht,NOUN,1804,4.54,Goethe B1 word; in your data (lemma rank 1804),W1778
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Krise, -n",Krise,NOUN,1799,4.51,Goethe B1 word; in your data (lemma rank 1799),W2112
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Strafe, -n",Strafe,NOUN,2238,4.51,Goethe B1 word; in your data (lemma rank 2238),W2652
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Statistik, -en",Statistik,NOUN,3496,4.49,Goethe B1 word; in your data (lemma rank 3496),W2619
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"das Verbot, -e",Verbot,NOUN,2980,4.47,Goethe B1 word; in your data (lemma rank 2980),W2822
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"das Gefängnis, -se",Gefängnis,NOUN,2593,4.46,Goethe B1 word; in your data (lemma rank 2593),W1844
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Steuer, -n",Steuer,NOUN,3075,4.42,Goethe B1 word; in your data (lemma rank 3075),W2635
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,der Verdacht,Verdacht,NOUN,2093,4.37,Goethe B1 word; in your data (lemma rank 2093),W2830
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"anzeigen, zeigt an, zeigte an, hat angezeigt",anzeigen,VERB,2085,4.32,Goethe B1 word; in your data (lemma rank 2085),W1331
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Technologie, -n",Technologie,NOUN,2134,4.32,Goethe B1 word; in your data (lemma rank 2134),W2697
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Reform, -en",Reform,NOUN,2492,4.27,Goethe B1 word; in your data (lemma rank 2492),W2432
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Versammlung, -en",Versammlung,NOUN,3429,4.26,Goethe B1 word; in your data (lemma rank 3429),W2867
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,global,global,ADJ,1791,4.17,Goethe B1 word; in your data (lemma rank 1791),W3254
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"verbieten, verbietet, verbot, hat verboten",verbieten,VERB,2506,4.16,Goethe B1 word; in your data (lemma rank 2506),W2821
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"der Zeuge, -n",Zeuge,NOUN,3990,4.15,Goethe B1 word; in your data (lemma rank 3990),W2995
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,die Migration,Migration,NOUN,3995,4.09,Goethe B1 word; in your data (lemma rank 3995),W2226
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"fliehen, flieht, floh, ist geflohen",fliehen,VERB,3625,4.08,Goethe B1 word; in your data (lemma rank 3625),W1777
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"die Erfindung, -en",Erfindung,NOUN,3692,4.05,Goethe B1 word; in your data (lemma rank 3692),W1679
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"integrieren, integriert, integrierte, hat integriert",integrieren,VERB,1671,4.02,Goethe B1 word; in your data (lemma rank 1671),W1997
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,statistisch,statistisch,ADJ/ADV,2332,3.86,Goethe B1 word; in your data (lemma rank 2332),W2620
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"erfinden, erfindet, erfand, hat erfunden",erfinden,VERB,3993,3.84,Goethe B1 word; in your data (lemma rank 3993),W1678
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"stehlen, stiehlt, stahl, hat gestohlen",stehlen,VERB,3046,3.83,Goethe B1 word; in your data (lemma rank 3046),W2629
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,demokratisch,demokratisch,ADJ,2305,3.83,Goethe B1 word; in your data (lemma rank 2305),W3330
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"bestrafen, bestraft, bestrafte, hat bestraft",bestrafen,VERB,3822,3.82,Goethe B1 word; in your data (lemma rank 3822),W1464
+"T12 Gesellschaft, Politik, Recht & Geschichte",frequent in your data,B1,"verurteilen, verurteilt, verurteilte, hat verurteilt",verurteilen,VERB,3282,3.75,Goethe B1 word; in your data (lemma rank 3282),W2886
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,vorgestern,vorgestern,ADV,,3.64,Goethe A2 exam word; absent from your n-gram data,W1195
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,übermorgen,übermorgen,ADV,,3.61,Goethe A2 exam word; absent from your n-gram data,W1160
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,der Franke,Franke,NOUN,,3.61,Goethe A2 exam word; absent from your n-gram data,W3204
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,drittens,drittens,ADV,4332,3.59,Goethe A2 exam word; in your data but rare (lemma rank 4332),W3229
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,vormittags,vormittags,ADV,,3.58,Goethe A2 exam word; absent from your n-gram data,W3212
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,mittwochs,mittwochs,ADV,,3.49,Goethe A2 exam word; absent from your n-gram data,W3219
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,das Neujahr,Neujahr,NOUN,,3.45,Goethe A2 exam word; absent from your n-gram data,W3190
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,donnerstags,donnerstags,ADV,,3.42,Goethe A2 exam word; absent from your n-gram data,W3220
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,dienstags,dienstags,ADV,,3.41,Goethe A2 exam word; absent from your n-gram data,W3218
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,"sich beeilen, beeilt, hat beeilt",beeilen,VERB,5675,3.27,Goethe A2 exam word; in your data but rare (lemma rank 5675),W0712
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,"der Rappen, -",Rappen,NOUN,,3.26,Goethe A2 exam word; absent from your n-gram data,W3205
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,der Werktag,Werktag,NOUN,,2.99,Goethe A2 exam word; absent from your n-gram data,W3225
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,viertens,viertens,ADV,,2.84,Goethe A2 exam word; absent from your n-gram data,W3230
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,A2,zweitausendeins,zweitausendeins,NUM,,1.88,Goethe A2 exam word; absent from your n-gram data,W3226
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,der Sonnabend,Sonnabend,NOUN,,3.58,Goethe B1 exam word; absent from your n-gram data,W3379
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,das Pfingsten,Pfingsten,NOUN,,3.46,Goethe B1 exam word; absent from your n-gram data,W3375
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,stündlich,stündlich,ADJ/ADV,,3.4,Goethe B1 exam word; absent from your n-gram data,W3383
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,"der Terminkalender, -",Terminkalender,NOUN,,3.34,Goethe B1 exam word; absent from your n-gram data,W2705
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,"das Jahrtausend, -e",Jahrtausend,NOUN,,3.32,Goethe B1 exam word; absent from your n-gram data,W3388
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,"der Tagesablauf, ¨-e",Tagesablauf,NOUN,,3.25,Goethe B1 exam word; absent from your n-gram data,W2677
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,zweifach,zweifach,ADJ,,3.13,Goethe B1 exam word; absent from your n-gram data,W3372
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,werktags,werktags,ADV,,3.06,Goethe B1 exam word; absent from your n-gram data,W3381
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,der Nationalfeiertag,Nationalfeiertag,NOUN,,3.01,Goethe B1 exam word; absent from your n-gram data,W3376
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,wochentags,wochentags,ADV,,2.8,Goethe B1 exam word; absent from your n-gram data,W3380
+"T13 Zeit, Zahlen, Maße & Mengen",exam word absent/rare in your data,B1,sonnabends,sonnabends,ADV,,2.5,Goethe B1 exam word; absent from your n-gram data,W3382
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,"der Rest, -e",Rest,NOUN,1111,4.89,Goethe A2 word; in your data (lemma rank 1111),W1035
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,zuletzt,zuletzt,ADV,1004,4.88,Goethe A2 word; in your data (lemma rank 1004),W1250
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,täglich,täglich,ADJ/ADV,1062,4.8,Goethe A2 word; in your data (lemma rank 1062),W3209
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,abends,abends,ADV,1421,4.69,Goethe A2 word; in your data (lemma rank 1421),W3215
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,meistens,meistens,ADV,1629,4.64,Goethe A2 word; in your data (lemma rank 1629),W0942
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,das Weihnachten,Weihnachten,NOUN,2978,4.63,Goethe A2 word; in your data (lemma rank 2978),W3189
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,zweimal,zweimal,ADV,2031,4.6,Goethe A2 word; in your data (lemma rank 2031),W3231
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,morgens,morgens,ADV,1937,4.59,Goethe A2 word; in your data (lemma rank 1937),W3211
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,nachts,nachts,ADV,2055,4.59,Goethe A2 word; in your data (lemma rank 2055),W3216
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,"rechnen, rechnet, hat gerechnet",rechnen,VERB,1026,4.57,Goethe A2 word; in your data (lemma rank 1026),W1024
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,dreimal,dreimal,ADV,3025,4.29,Goethe A2 word; in your data (lemma rank 3025),W3232
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,erstens,erstens,ADV,2344,4.2,Goethe A2 word; in your data (lemma rank 2344),W3227
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,zweitens,zweitens,ADV,2373,4.19,Goethe A2 word; in your data (lemma rank 2373),W3228
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,die Mitternacht,Mitternacht,NOUN,3406,4.09,Goethe A2 word; in your data (lemma rank 3406),W3208
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,"verschieben, verschiebt, hat verschoben",verschieben,VERB,2799,4.05,Goethe A2 word; in your data (lemma rank 2799),W1185
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,A2,nachmittags,nachmittags,ADV,3856,3.97,Goethe A2 word; in your data (lemma rank 3856),W3214
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,der Beginn,Beginn,NOUN,848,4.99,Goethe B1 word; in your data (lemma rank 848),W1418
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,mittlerweile,mittlerweile,ADV,1345,4.99,Goethe B1 word; in your data (lemma rank 1345),W2237
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Hälfte, -n",Hälfte,NOUN,1147,4.98,Goethe B1 word; in your data (lemma rank 1147),W1918
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,knapp,knapp,ADJ/ADV,1119,4.93,Goethe B1 word; in your data (lemma rank 1119),W2066
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,irgendwann,irgendwann,ADV,1166,4.89,Goethe B1 word; in your data (lemma rank 1166),W2006
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,regelmäßig,regelmäßig,ADJ/ADV,963,4.87,Goethe B1 word; in your data (lemma rank 963),W2435
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"der Zeitpunkt, -e",Zeitpunkt,NOUN,877,4.86,Goethe B1 word; in your data (lemma rank 877),W2989
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Anzahl, -en",Anzahl,NOUN,845,4.85,Goethe B1 word; in your data (lemma rank 845),W2979
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,die Vergangenheit,Vergangenheit,NOUN,1052,4.79,Goethe B1 word; in your data (lemma rank 1052),W2832
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,längst,längst,ADV,1025,4.75,Goethe B1 word; in your data (lemma rank 1025),W2136
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,diesmal,diesmal,ADV,1235,4.74,Goethe B1 word; in your data (lemma rank 1235),W1563
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,ungefähr,ungefähr,ADJ/ADV,1606,4.7,Goethe B1 word; in your data (lemma rank 1606),W2783
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,seitdem,seitdem,ADV,2132,4.67,Goethe B1 word; in your data (lemma rank 2132),W2539
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,die Länge,Länge,NOUN,1817,4.64,Goethe B1 word; in your data (lemma rank 1817),W2135
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"zählen, zählt, zählte, hat gezählt",zählen,VERB,903,4.63,Goethe B1 word; in your data (lemma rank 903),W2982
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,jährlich,jährlich,ADJ/ADV,2522,4.59,Goethe B1 word; in your data (lemma rank 2522),W3390
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,die Dauer,Dauer,NOUN,1432,4.57,Goethe B1 word; in your data (lemma rank 1432),W1546
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,jemals,jemals,ADV,1786,4.57,Goethe B1 word; in your data (lemma rank 1786),W2012
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Fläche, -n",Fläche,NOUN,1696,4.56,Goethe B1 word; in your data (lemma rank 1696),W1772
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,spätestens,spätestens,ADV,2537,4.55,Goethe B1 word; in your data (lemma rank 2537),W2588
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,ewig,ewig,ADJ/ADV,1232,4.52,Goethe B1 word; in your data (lemma rank 1232),W1723
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,normalerweise,normalerweise,ADV,1954,4.51,Goethe B1 word; in your data (lemma rank 1954),W2295
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,anfangs,anfangs,ADV,2078,4.5,Goethe B1 word; in your data (lemma rank 2078),W1305
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,sämtliche,sämtliche,DET,1740,4.5,Goethe B1 word; in your data (lemma rank 1740),W2480
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,maximal,maximal,ADJ/ADV,2270,4.47,Goethe B1 word; in your data (lemma rank 2270),W2200
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"das Viertel, -",Viertel,NOUN,2650,4.46,Goethe B1 word; in your data (lemma rank 2650),W2895
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Summe, -n",Summe,NOUN,1783,4.45,Goethe B1 word; in your data (lemma rank 1783),W2672
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,doppelt,doppelt,ADJ/ADV,1709,4.44,Goethe B1 word; in your data (lemma rank 1709),W1575
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,das Drittel,Drittel,NOUN,2700,4.44,Goethe B1 word; in your data (lemma rank 2700),W3373
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,jederzeit,jederzeit,ADV,2304,4.42,Goethe B1 word; in your data (lemma rank 2304),W2010
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,hinterher,hinterher,ADV,2154,4.41,Goethe B1 word; in your data (lemma rank 2154),W1955
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,nachher,nachher,ADV,2572,4.4,Goethe B1 word; in your data (lemma rank 2572),W2264
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Entfernung, -en",Entfernung,NOUN,1793,4.37,Goethe B1 word; in your data (lemma rank 1793),W1655
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,höchstens,höchstens,ADV,2353,4.37,Goethe B1 word; in your data (lemma rank 2353),W1962
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,rechtzeitig,rechtzeitig,ADJ/ADV,2396,4.37,Goethe B1 word; in your data (lemma rank 2396),W2428
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"der Durchschnitt, -e",Durchschnitt,NOUN,3340,4.32,Goethe B1 word; in your data (lemma rank 3340),W1585
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,durchschnittlich,durchschnittlich,ADJ/ADV,2084,4.26,Goethe B1 word; in your data (lemma rank 2084),W1586
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,vorhin,vorhin,ADV,2475,4.23,Goethe B1 word; in your data (lemma rank 2475),W2911
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,dauernd,dauernd,ADV,3630,4.2,Goethe B1 word; in your data (lemma rank 3630),W1547
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Distanz, -en",Distanz,NOUN,2548,4.2,Goethe B1 word; in your data (lemma rank 2548),W1570
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,niedrig,niedrig,ADJ/ADV,1302,4.15,Goethe B1 word; in your data (lemma rank 1302),W2292
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"die Reihenfolge, -n",Reihenfolge,NOUN,2832,4.14,Goethe B1 word; in your data (lemma rank 2832),W2441
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"sinken, sinkt, sank, ist gesunken",sinken,VERB,1246,4.11,Goethe B1 word; in your data (lemma rank 1246),W2565
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,riesig,riesig,ADJ/ADV,1539,4.04,Goethe B1 word; in your data (lemma rank 1539),W2459
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,zukünftig,zukünftig,ADJ/ADV,1755,4.0,Goethe B1 word; in your data (lemma rank 1755),W3011
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,vorläufig,vorläufig,ADJ/ADV,3925,3.88,Goethe B1 word; in your data (lemma rank 3925),W2913
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,"das Jahrzehnt, -e",Jahrzehnt,NOUN,2027,3.88,Goethe B1 word; in your data (lemma rank 2027),W3386
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,die Eile,Eile,NOUN,3556,3.7,Goethe B1 word; in your data (lemma rank 3556),W1602
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,schmal,schmal,ADJ/ADV,1499,3.7,Goethe B1 word; in your data (lemma rank 1499),W2507
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,eilen,eilen,VERB,2458,3.27,Goethe B1 word; in your data (lemma rank 2458),W1601
+"T13 Zeit, Zahlen, Maße & Mengen",frequent in your data,B1,heutig-,heutig,DET,1272,1.9,Goethe B1 word; in your data (lemma rank 1272),W1951
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,egal,egal,ADJ/ADV,1075,5.28,Goethe A2 word; in your data (lemma rank 1075),W0772
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,der Spaß (Sg.),Spaß,NOUN,1451,5.22,Goethe A2 word; in your data (lemma rank 1451),W1092
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,super,super,ADJ/ADV,3202,5.19,Goethe A2 word; in your data (lemma rank 3202),W1117
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,toll,toll,ADJ/ADV,2030,5.04,Goethe A2 word; in your data (lemma rank 2030),W1140
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,die Lust (Sg.),Lust,NOUN,1074,4.85,Goethe A2 word; in your data (lemma rank 1074),W0929
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,interessant,interessant,ADJ/ADV,1121,4.8,Goethe A2 word; in your data (lemma rank 1121),W0877
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,froh,froh,ADJ/ADV,1361,4.79,Goethe A2 word; in your data (lemma rank 1361),W0818
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,schade,schade,ADJ,2809,4.78,Goethe A2 word; in your data (lemma rank 2809),W1052
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,dumm,dumm,ADJ/ADV,2041,4.76,Goethe A2 word; in your data (lemma rank 2041),W0767
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"der Wunsch, ¨-e",Wunsch,NOUN,1211,4.74,Goethe A2 word; in your data (lemma rank 1211),W1230
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,nett,nett,ADJ/ADV,1892,4.7,Goethe A2 word; in your data (lemma rank 1892),W0974
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,traurig,traurig,ADJ/ADV,1425,4.64,Goethe A2 word; in your data (lemma rank 1425),W1152
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,komisch,komisch,ADJ/ADV,3190,4.62,Goethe A2 word; in your data (lemma rank 3190),W0899
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"der Witz, -e",Witz,NOUN,3687,4.6,Goethe A2 word; in your data (lemma rank 3687),W1226
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,blöd,blöd,ADJ/ADV,3231,4.46,Goethe A2 word; in your data (lemma rank 3231),W0734
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"lügen, lügt, hat gelogen",lügen,VERB,3142,4.45,Goethe A2 word; in your data (lemma rank 3142),W0928
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,vorsichtig,vorsichtig,ADJ/ADV,1047,4.44,Goethe A2 word; in your data (lemma rank 1047),W1199
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,langweilig,langweilig,ADJ/ADV,3762,4.42,Goethe A2 word; in your data (lemma rank 3762),W0919
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,beliebt,beliebt,ADJ/ADV,3773,4.36,Goethe A2 word; in your data (lemma rank 3773),W0715
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,streng,streng,ADJ/ADV,1274,4.33,Goethe A2 word; in your data (lemma rank 1274),W1111
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"weinen, weint, hat geweint",weinen,VERB,1404,4.32,Goethe A2 word; in your data (lemma rank 1404),W1217
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"träumen, träumt, hat geträumt",träumen,VERB,1743,4.27,Goethe A2 word; in your data (lemma rank 1743),W1151
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"die Lüge, -n",Lüge,NOUN,3214,4.25,Goethe A2 word; in your data (lemma rank 3214),W0927
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,"stören, stört, hat gestört",stören,VERB,1406,4.25,Goethe A2 word; in your data (lemma rank 1406),W1108
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,schrecklich,schrecklich,ADJ/ADV,1591,4.22,Goethe A2 word; in your data (lemma rank 1591),W1070
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,furchtbar,furchtbar,ADJ/ADV,2151,4.13,Goethe A2 word; in your data (lemma rank 2151),W0823
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,klug,klug,ADJ/ADV,2582,4.11,Goethe A2 word; in your data (lemma rank 2582),W0897
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,A2,nervös,nervös,ADJ/ADV,2265,4.06,Goethe A2 word; in your data (lemma rank 2265),W0973
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,die Schuld,Schuld,NOUN,3268,4.94,Goethe B1 word; in your data (lemma rank 3268),W2523
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,schuld,schuld,ADJ,1145,4.94,Goethe B1 word; in your data (lemma rank 1145),W2524
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,ehrlich,ehrlich,ADJ/ADV,1649,4.9,Goethe B1 word; in your data (lemma rank 1649),W1599
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,das Verhalten,Verhalten,NOUN,2946,4.9,Goethe B1 word; in your data (lemma rank 2946),W2841
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,stolz,stolz,ADJ/ADV,1220,4.88,Goethe B1 word; in your data (lemma rank 1220),W2648
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,interessiert,interessiert,ADJ/ADV,1462,4.87,Goethe B1 word; in your data (lemma rank 1462),W2002
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,perfekt,perfekt,ADJ/ADV,1879,4.84,Goethe B1 word; in your data (lemma rank 1879),W2348
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,unglaublich,unglaublich,ADJ/ADV,2494,4.73,Goethe B1 word; in your data (lemma rank 2494),W2785
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Sorge, -n",Sorge,NOUN,1547,4.64,Goethe B1 word; in your data (lemma rank 1547),W2579
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Stimmung, -en",Stimmung,NOUN,1749,4.64,Goethe B1 word; in your data (lemma rank 1749),W2645
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,der Respekt,Respekt,NOUN,2767,4.62,Goethe B1 word; in your data (lemma rank 2767),W2454
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,das Verständnis,Verständnis,NOUN,1091,4.61,Goethe B1 word; in your data (lemma rank 1091),W2876
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,ausgezeichnet,ausgezeichnet,ADJ,3685,4.54,Goethe B1 word; in your data (lemma rank 3685),W1374
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,der Mut,Mut,NOUN,1705,4.54,Goethe B1 word; in your data (lemma rank 1705),W2259
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,aufmerksam,aufmerksam,ADJ/ADV,1614,4.52,Goethe B1 word; in your data (lemma rank 1614),W1357
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,begeistert,begeistert,ADJ/ADV,2412,4.52,Goethe B1 word; in your data (lemma rank 2412),W1417
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,ernsthaft,ernsthaft,ADJ/ADV,2944,4.5,Goethe B1 word; in your data (lemma rank 2944),W1705
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,gespannt,gespannt,ADJ/ADV,2695,4.5,Goethe B1 word; in your data (lemma rank 2695),W1876
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,der Humor,Humor,NOUN,3703,4.48,Goethe B1 word; in your data (lemma rank 3703),W1974
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,ordentlich,ordentlich,ADJ/ADV,2465,4.46,Goethe B1 word; in your data (lemma rank 2465),W2321
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,dankbar,dankbar,ADJ/ADV,2127,4.44,Goethe B1 word; in your data (lemma rank 2127),W1542
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Überraschung, -en",Überraschung,NOUN,2383,4.44,Goethe B1 word; in your data (lemma rank 2383),W2755
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"der Konflikt, -e",Konflikt,NOUN,1248,4.4,Goethe B1 word; in your data (lemma rank 1248),W2080
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,der Ärger,Ärger,NOUN,2490,4.37,Goethe B1 word; in your data (lemma rank 2490),W1340
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,gerecht,gerecht,ADJ/ADV,1944,4.37,Goethe B1 word; in your data (lemma rank 1944),W1865
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,verrückt,verrückt,ADJ/ADV,2087,4.37,Goethe B1 word; in your data (lemma rank 2087),W2866
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,peinlich,peinlich,ADJ/ADV,3275,4.35,Goethe B1 word; in your data (lemma rank 3275),W2343
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,verständlich,verständlich,ADJ/ADV,2681,4.31,Goethe B1 word; in your data (lemma rank 2681),W2875
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,hübsch,hübsch,ADJ/ADV,1494,4.3,Goethe B1 word; in your data (lemma rank 1494),W1972
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,seltsam,seltsam,ADJ/ADV,1283,4.3,Goethe B1 word; in your data (lemma rank 1283),W2546
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,angenehm,angenehm,ADJ/ADV,1839,4.28,Goethe B1 word; in your data (lemma rank 1839),W1309
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Laune, -n",Laune,NOUN,2817,4.28,Goethe B1 word; in your data (lemma rank 2817),W2142
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"das Talent, -e",Talent,NOUN,3814,4.28,Goethe B1 word; in your data (lemma rank 3814),W2679
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"der Vorwurf, ¨-e",Vorwurf,NOUN,2177,4.28,Goethe B1 word; in your data (lemma rank 2177),W2921
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,wunderschön,wunderschön,ADJ/ADV,2461,4.27,Goethe B1 word; in your data (lemma rank 2461),W2976
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,die Geduld,Geduld,NOUN,2780,4.25,Goethe B1 word; in your data (lemma rank 2780),W1841
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,die Intelligenz,Intelligenz,NOUN,2949,4.23,Goethe B1 word; in your data (lemma rank 2949),W1999
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"hassen, hasst, hasste, hat gehasst",hassen,VERB,2325,4.22,Goethe B1 word; in your data (lemma rank 2325),W1930
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"das Vergnügen, -",Vergnügen,NOUN,2388,4.21,Goethe B1 word; in your data (lemma rank 2388),W2836
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Überzeugung, -en",Überzeugung,NOUN,1771,4.18,Goethe B1 word; in your data (lemma rank 1771),W2764
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,wahnsinnig,wahnsinnig,ADJ/ADV,3807,4.18,Goethe B1 word; in your data (lemma rank 3807),W2925
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,wütend,wütend,ADJ/ADV,1695,4.17,Goethe B1 word; in your data (lemma rank 1695),W2978
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,entschlossen,entschlossen,ADJ,2100,4.16,Goethe B1 word; in your data (lemma rank 2100),W1665
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"sich fürchten, fürchtet, fürchtete, hat gefürchtet",fürchten,VERB,1266,4.16,Goethe B1 word; in your data (lemma rank 1266),W1818
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,neugierig,neugierig,ADJ/ADV,2183,4.15,Goethe B1 word; in your data (lemma rank 2183),W2287
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,treu,treu,ADJ/ADV,1926,4.15,Goethe B1 word; in your data (lemma rank 1926),W2734
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,heimlich,heimlich,ADJ/ADV,2868,4.14,Goethe B1 word; in your data (lemma rank 2868),W1939
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"sich wundern, wundert sich, wunderte sich, hat sich gewundert",wundern,VERB,2070,4.13,Goethe B1 word; in your data (lemma rank 2070),W2977
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,vernünftig,vernünftig,ADJ/ADV,2421,4.12,Goethe B1 word; in your data (lemma rank 2421),W2861
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"vermissen, vermisst, vermisste, hat vermisst",vermissen,VERB,3325,4.11,Goethe B1 word; in your data (lemma rank 3325),W2857
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,fröhlich,fröhlich,ADJ/ADV,2841,4.09,Goethe B1 word; in your data (lemma rank 2841),W1811
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,merkwürdig,merkwürdig,ADJ/ADV,2002,4.08,Goethe B1 word; in your data (lemma rank 2002),W2216
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Rücksicht, -en",Rücksicht,NOUN,2691,4.07,Goethe B1 word; in your data (lemma rank 2691),W2468
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"überraschen, überrascht, überraschte, hat überrascht",überraschen,VERB,1117,4.06,Goethe B1 word; in your data (lemma rank 1117),W2754
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,unheimlich,unheimlich,ADJ/ADV,3808,4.02,Goethe B1 word; in your data (lemma rank 3808),W2787
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"der Standpunkt, -e",Standpunkt,NOUN,2935,4.01,Goethe B1 word; in your data (lemma rank 2935),W2615
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,einsam,einsam,ADJ/ADV,2566,3.97,Goethe B1 word; in your data (lemma rank 2566),W1627
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"erleichtern, erleichtert, erleichterte, hat erleichtert",erleichtern,VERB,1397,3.97,Goethe B1 word; in your data (lemma rank 1397),W1701
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"die Enttäuschung, -en",Enttäuschung,NOUN,3312,3.96,Goethe B1 word; in your data (lemma rank 3312),W1670
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"beruhigen, beruhigt, beruhigte, hat beruhigt",beruhigen,VERB,1427,3.94,Goethe B1 word; in your data (lemma rank 1427),W1448
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"aufregen, regt auf, regte auf, hat aufgeregt",aufregen,VERB,2447,3.9,Goethe B1 word; in your data (lemma rank 2447),W1360
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,höflich,höflich,ADJ/ADV,3370,3.89,Goethe B1 word; in your data (lemma rank 3370),W1966
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,passiv,passiv,ADJ/ADV,3461,3.76,Goethe B1 word; in your data (lemma rank 3461),W2338
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"verzeihen, verzeiht, verzieh, hat verziehen",verzeihen,VERB,3577,3.71,Goethe B1 word; in your data (lemma rank 3577),W2891
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,der Schreck,Schreck,NOUN,3642,3.68,Goethe B1 word; in your data (lemma rank 3642),W2515
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,ängstlich,ängstlich,ADJ/ADV,3309,3.59,Goethe B1 word; in your data (lemma rank 3309),W1310
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,erschrecken,erschrecken,VERB,1367,3.57,Goethe B1 word; in your data (lemma rank 1367),W1710
+"T14 Gefühle, Charakter & Meinungen",frequent in your data,B1,"enttäuschen, enttäuscht, enttäuschte, hat enttäuscht",enttäuschen,VERB,2609,3.53,Goethe B1 word; in your data (lemma rank 2609),W1669
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,A2,tschüs,tschüs,INTJ,,2.26,Goethe A2 exam word; absent from your n-gram data,W1154
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,A2,"die Prüferin, -nen",Prüferin,NOUN,,2.01,Goethe A2 exam word; absent from your n-gram data,W3159
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,A2,"der Antwortbogen, -",Antwortbogen,NOUN,,1.04,Goethe A2 exam word; absent from your n-gram data,W3157
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,aufschreiben,aufschreiben,VERB,,3.38,Goethe B1 exam word; absent from your n-gram data,W2516
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"die Neuigkeit, -en",Neuigkeit,NOUN,4704,3.37,Goethe B1 exam word; in your data but rare (lemma rank 4704),W2286
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"ankündigen, kündigt an, kündigte an, hat angekündigt",ankündigen,VERB,5037,3.34,Goethe B1 exam word; in your data but rare (lemma rank 5037),W1312
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"der Einfall, ¨-e",Einfall,NOUN,,3.3,Goethe B1 exam word; absent from your n-gram data,W1613
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,stilistisch,stilistisch,ADJ/ADV,,3.28,Goethe B1 exam word; absent from your n-gram data,W2639
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"nachschlagen, schlägt nach, schlug nach, hat nachgeschlagen",nachschlagen,VERB,,3.13,Goethe B1 exam word; absent from your n-gram data,W2266
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"duzen, duzt, duzte, hat geduzt",duzen,VERB,,3.06,Goethe B1 exam word; absent from your n-gram data,W1588
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"sich siezen, siezt, siezte, hat gesiezt",siezen,VERB,,2.81,Goethe B1 exam word; absent from your n-gram data,W2564
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"die Zweitsprache, -n",Zweitsprache,NOUN,,2.74,Goethe B1 exam word; absent from your n-gram data,W2605
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,"abmachen, macht ab, machte ab, hat abgemacht",abmachen,VERB,,2.73,Goethe B1 exam word; absent from your n-gram data,W1264
+"T15 Sprache, Kommunikation & Denken",exam word absent/rare in your data,B1,der Textaufbau,Textaufbau,NOUN,,,Goethe B1 exam word; absent from your n-gram data,W3400
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"der Artikel, -",Artikel,NOUN,1048,5.24,Goethe A2 word; in your data (lemma rank 1048),W0686
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"die Ahnung, -en",Ahnung,NOUN,1315,4.97,Goethe A2 word; in your data (lemma rank 1315),W0672
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"das Gegenteil, -e",Gegenteil,NOUN,1435,4.59,Goethe A2 word; in your data (lemma rank 1435),W0829
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"der Vorschlag, ¨-e",Vorschlag,NOUN,1488,4.57,Goethe A2 word; in your data (lemma rank 1488),W1198
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"die Übersetzung, -en",Übersetzung,NOUN,1683,4.54,Goethe A2 word; in your data (lemma rank 1683),W1162
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"der Tipp, -s",Tipp,NOUN,2495,4.51,Goethe A2 word; in your data (lemma rank 2495),W1138
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"sich informieren (über), informiert, hat informiert",informieren,VERB,1774,4.48,Goethe A2 word; in your data (lemma rank 1774),W0871
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"beantworten, beantwortet, hat beantwortet",beantworten,VERB,1702,4.44,Goethe A2 word; in your data (lemma rank 1702),W0710
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"vergleichen, vergleicht, hat verglichen",vergleichen,VERB,1187,4.44,Goethe A2 word; in your data (lemma rank 1187),W1176
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"sich unterhalten, unterhält, hat unterhalten",unterhalten,VERB,1636,4.41,Goethe A2 word; in your data (lemma rank 1636),W1168
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"diskutieren, diskutiert, hat diskutiert",diskutieren,VERB,1438,4.4,Goethe A2 word; in your data (lemma rank 1438),W0762
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"raten, rät, hat geraten",raten,VERB,3128,4.29,Goethe A2 word; in your data (lemma rank 3128),W1021
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"sich bedanken, bedankt, hat bedankt",bedanken,VERB,3686,4.06,Goethe A2 word; in your data (lemma rank 3686),W0711
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"zuhören, hört zu, hat zugehört",zuhören,VERB,3205,4.02,Goethe A2 word; in your data (lemma rank 3205),W1249
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"aussprechen, spricht aus, hat ausgesprochen",aussprechen,VERB,1529,3.98,Goethe A2 word; in your data (lemma rank 1529),W0699
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"übersetzen, übersetzt, hat übersetzt",übersetzen,VERB,2349,3.9,Goethe A2 word; in your data (lemma rank 2349),W1161
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"markieren, markiert, markierte, hat markiert",markieren,VERB,2717,3.76,Goethe A2 word; in your data (lemma rank 2717),W2195
+"T15 Sprache, Kommunikation & Denken",frequent in your data,A2,"die Notiz, -en",Notiz,NOUN,2735,3.65,Goethe A2 word; in your data (lemma rank 2735),W0979
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,das Wissen,Wissen,NOUN,2546,5.55,Goethe B1 word; in your data (lemma rank 2546),W2964
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Kritik, -en",Kritik,NOUN,1053,5.01,Goethe B1 word; in your data (lemma rank 1053),W2114
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Diskussion, -en",Diskussion,NOUN,1050,4.78,Goethe B1 word; in your data (lemma rank 1050),W1569
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,der Rat,Rat,NOUN,1501,4.74,Goethe B1 word; in your data (lemma rank 1501),W2412
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"das Urteil, -e",Urteil,NOUN,1185,4.71,Goethe B1 word; in your data (lemma rank 1185),W2808
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"der Kommentar, -e",Kommentar,NOUN,1910,4.71,Goethe B1 word; in your data (lemma rank 1910),W3394
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"melden, meldet, meldete, hat gemeldet",melden,VERB,1151,4.67,Goethe B1 word; in your data (lemma rank 1151),W2211
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"der Zweifel, -",Zweifel,NOUN,1143,4.66,Goethe B1 word; in your data (lemma rank 1143),W3036
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Beschreibung, -en",Beschreibung,NOUN,1186,4.6,Goethe B1 word; in your data (lemma rank 1186),W1454
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"übertragen, überträgt, übertrug, hat übertragen",übertragen,VERB,1550,4.58,Goethe B1 word; in your data (lemma rank 1550),W3401
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Zustimmung, -en",Zustimmung,NOUN,1866,4.51,Goethe B1 word; in your data (lemma rank 1866),W3029
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Begründung, -en",Begründung,NOUN,1946,4.46,Goethe B1 word; in your data (lemma rank 1946),W1421
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"nachdenken, denkt nach, dachte nach, hat nachgedacht",nachdenken,VERB,1377,4.43,Goethe B1 word; in your data (lemma rank 1377),W2262
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"schätzen, schätzt, schätzte, hat geschätzt",schätzen,VERB,1357,4.37,Goethe B1 word; in your data (lemma rank 1357),W2490
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,präsentieren,präsentieren,VERB,2341,4.34,Goethe B1 word; in your data (lemma rank 2341),W2383
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"klären, klärt, klärte, hat geklärt",klären,VERB,1914,4.31,Goethe B1 word; in your data (lemma rank 1914),W2051
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"sich konzentrieren, konzentriert sich, konzentrierte sich, hat sich konzentriert",konzentrieren,VERB,1238,4.31,Goethe B1 word; in your data (lemma rank 1238),W2088
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"verraten, verrät, verriet, hat verraten",verraten,VERB,1490,4.31,Goethe B1 word; in your data (lemma rank 1490),W2865
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"der Dialog, -e",Dialog,NOUN,2772,4.3,Goethe B1 word; in your data (lemma rank 2772),W1558
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"hinterlassen, hinterlässt, hinterließ, hat hinterlassen",hinterlassen,VERB,2322,4.28,Goethe B1 word; in your data (lemma rank 2322),W1954
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,senden,senden,VERB,3227,4.28,Goethe B1 word; in your data (lemma rank 3227),W2550
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,einverstanden,einverstanden,ADJ/ADV,2781,4.27,Goethe B1 word; in your data (lemma rank 2781),W1634
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"begrüßen, begrüßt, begrüßte, hat begrüßt",begrüßen,VERB,1849,4.24,Goethe B1 word; in your data (lemma rank 1849),W1422
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Empfehlung, -en",Empfehlung,NOUN,2301,4.24,Goethe B1 word; in your data (lemma rank 2301),W1648
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Störung, -en",Störung,NOUN,1173,4.22,Goethe B1 word; in your data (lemma rank 1173),W2650
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"hinweisen, weist hin, wies hin, hat hingewiesen",hinweisen,VERB,1538,4.18,Goethe B1 word; in your data (lemma rank 1538),W1956
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"vermuten, vermutet, vermutete, hat vermutet",vermuten,VERB,1280,4.15,Goethe B1 word; in your data (lemma rank 1280),W2859
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Präsentation, -en",Präsentation,NOUN,3833,4.14,Goethe B1 word; in your data (lemma rank 3833),W2384
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"warnen, warnt, warnte, hat gewarnt",warnen,VERB,2401,4.08,Goethe B1 word; in your data (lemma rank 2401),W2932
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"einfallen, fällt ein, fiel ein, ist eingefallen",einfallen,VERB,3118,4.06,Goethe B1 word; in your data (lemma rank 3118),W1612
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"mitteilen, teilt mit, teilte mit, hat mitgeteilt",mitteilen,VERB,1957,4.06,Goethe B1 word; in your data (lemma rank 1957),W2234
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Einleitung, -en",Einleitung,NOUN,1989,4.06,Goethe B1 word; in your data (lemma rank 1989),W3391
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"grüßen, grüßt, grüßte, hat gegrüßt",grüßen,VERB,3583,4.05,Goethe B1 word; in your data (lemma rank 3583),W1910
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"kritisieren, kritisiert, kritisierte, hat kritisiert",kritisieren,VERB,3742,4.03,Goethe B1 word; in your data (lemma rank 3742),W2113
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"besprechen, bespricht, besprach, hat besprochen",besprechen,VERB,2252,4.02,Goethe B1 word; in your data (lemma rank 2252),W1459
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"ansprechen, spricht an, sprach an, hat angesprochen",ansprechen,VERB,1747,4.01,Goethe B1 word; in your data (lemma rank 1747),W1320
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"widersprechen, widerspricht, widersprach, hat widersprochen",widersprechen,VERB,2248,4.01,Goethe B1 word; in your data (lemma rank 2248),W2951
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"ergänzen, ergänzt, ergänzte, hat ergänzt",ergänzen,VERB,1585,3.98,Goethe B1 word; in your data (lemma rank 1585),W1685
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"sich verabschieden, verabschiedet, verabschiedete, hat verabschiedet",verabschieden,VERB,1951,3.98,Goethe B1 word; in your data (lemma rank 1951),W2815
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Zeile, -n",Zeile,NOUN,1750,3.97,Goethe B1 word; in your data (lemma rank 1750),W2988
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"sich irren, irrt sich, irrte sich, hat sich geirrt",irren,VERB,2874,3.96,Goethe B1 word; in your data (lemma rank 2874),W2007
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"ablehnen, lehnt ab, lehnte ab, hat abgelehnt",ablehnen,VERB,2575,3.94,Goethe B1 word; in your data (lemma rank 2575),W1263
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"korrigieren, korrigiert, korrigierte, hat korrigiert",korrigieren,VERB,3506,3.93,Goethe B1 word; in your data (lemma rank 3506),W2095
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"analysieren, analysiert, analysierte, hat analysiert",analysieren,VERB,2034,3.89,Goethe B1 word; in your data (lemma rank 2034),W1300
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"ausrichten, richtet aus, richtete aus, hat ausgerichtet",ausrichten,VERB,2346,3.86,Goethe B1 word; in your data (lemma rank 2346),W1380
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen",vorschlagen,VERB,3711,3.86,Goethe B1 word; in your data (lemma rank 3711),W2915
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"beschließen, beschließt, beschloss, hat beschlossen",beschließen,VERB,1542,3.79,Goethe B1 word; in your data (lemma rank 1542),W1452
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"das Hilfsmittel, -",Hilfsmittel,NOUN,3852,3.79,Goethe B1 word; in your data (lemma rank 3852),W3393
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"die Phantasie, -n",Phantasie,NOUN,3219,3.77,Goethe B1 word; in your data (lemma rank 3219),W2363
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"zuordnen, ordnet zu, ordnete zu, hat zugeordnet",zuordnen,VERB,1931,3.61,Goethe B1 word; in your data (lemma rank 1931),W3402
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst",zusammenfassen,VERB,2685,3.55,Goethe B1 word; in your data (lemma rank 2685),W3020
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"sich erkundigen, erkundigt sich, erkundigte sich, hat sich erkundigt",erkundigen,VERB,3080,3.4,Goethe B1 word; in your data (lemma rank 3080),W1697
+"T15 Sprache, Kommunikation & Denken",frequent in your data,B1,"sich entschließen, entschließt sich, entschloss sich, hat sich entschlossen",entschließen,VERB,2100,3.12,Goethe B1 word; in your data (lemma rank 2100),W1664
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,unbedingt,unbedingt,ADV,1046,4.98,Goethe A2 word; in your data (lemma rank 1046),W1165
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,total,total,ADJ/ADV,1788,4.92,Goethe A2 word; in your data (lemma rank 1788),W1143
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,außerhalb,außerhalb,ADP,1138,4.84,Goethe A2 word; in your data (lemma rank 1138),W0698
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,hoffentlich,hoffentlich,ADV,2136,4.74,Goethe A2 word; in your data (lemma rank 2136),W0866
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,schwierig,schwierig,ADJ/ADV,972,4.69,Goethe A2 word; in your data (lemma rank 972),W1076
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,dringend,dringend,ADJ/ADV,2300,4.6,Goethe A2 word; in your data (lemma rank 2300),W0764
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,gefährlich,gefährlich,ADJ/ADV,1226,4.6,Goethe A2 word; in your data (lemma rank 1226),W0828
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"wechseln, wechselt, hat gewechselt",wechseln,VERB,1262,4.52,Goethe A2 word; in your data (lemma rank 1262),W1210
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"prüfen, prüft, hat geprüft",prüfen,VERB,1549,4.47,Goethe A2 word; in your data (lemma rank 1549),W1015
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,freiwillig,freiwillig,ADJ/ADV,1832,4.4,Goethe A2 word; in your data (lemma rank 1832),W0814
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"beenden, beendet, hat beendet",beenden,VERB,1362,4.38,Goethe A2 word; in your data (lemma rank 1362),W0713
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"das Blatt, ¨-er",Blatt,NOUN,1252,4.38,Goethe A2 word; in your data (lemma rank 1252),W0733
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"stattfinden, findet statt, hat stattgefunden",stattfinden,VERB,1526,4.37,Goethe A2 word; in your data (lemma rank 1526),W1102
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,rosa,rosa,ADJ,2693,4.37,Goethe A2 word; in your data (lemma rank 2693),W3163
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,typisch,typisch,ADJ/ADV,1202,4.36,Goethe A2 word; in your data (lemma rank 1202),W1157
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"planen, plant, hat geplant",planen,VERB,1801,4.35,Goethe A2 word; in your data (lemma rank 1801),W1002
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,trocken,trocken,ADJ/ADV,1639,4.3,Goethe A2 word; in your data (lemma rank 1639),W1153
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"organisieren, organisiert, hat organisiert",organisieren,VERB,1564,4.18,Goethe A2 word; in your data (lemma rank 1564),W0987
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,drinnen,drinnen,ADV,3090,4.13,Goethe A2 word; in your data (lemma rank 3090),W0765
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,nass,nass,ADJ/ADV,2877,4.13,Goethe A2 word; in your data (lemma rank 2877),W0966
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,nirgends,nirgends,ADV,3286,4.13,Goethe A2 word; in your data (lemma rank 3286),W0976
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"vorbereiten, bereitet vor, hat vorbereitet",vorbereiten,VERB,1569,4.13,Goethe A2 word; in your data (lemma rank 1569),W1194
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,nützlich,nützlich,ADJ/ADV,3389,4.12,Goethe A2 word; in your data (lemma rank 3389),W0982
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,dünn,dünn,ADJ/ADV,1496,4.09,Goethe A2 word; in your data (lemma rank 1496),W0769
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,bunt,bunt,ADJ/ADV,2096,4.06,Goethe A2 word; in your data (lemma rank 2096),W0743
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"der Zettel, -",Zettel,NOUN,3079,4.06,Goethe A2 word; in your data (lemma rank 3079),W1241
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,weich,weich,ADJ/ADV,1962,4.05,Goethe A2 word; in your data (lemma rank 1962),W1215
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"klappen, klappt, hat geklappt",klappen,VERB,3002,4.0,Goethe A2 word; in your data (lemma rank 3002),W0894
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"wecken, weckt, hat geweckt",wecken,VERB,1994,3.98,Goethe A2 word; in your data (lemma rank 1994),W1211
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,drüben,drüben,ADV,2702,3.94,Goethe A2 word; in your data (lemma rank 2702),W0766
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,herein,herein,ADV,2040,3.94,Goethe A2 word; in your data (lemma rank 2040),W0859
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,A2,"der Apparat, -e",Apparat,NOUN,3933,3.73,Goethe A2 word; in your data (lemma rank 3933),W0683
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,halt,halt,ADV,1216,5.36,Goethe B1 word; in your data (lemma rank 1216),W1920
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,bestimmt,bestimmt,ADJ,1593,5.24,Goethe B1 word; in your data (lemma rank 1593),W1463
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,wieso,wieso,CONJ,1358,5.17,Goethe B1 word; in your data (lemma rank 1358),W2956
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,per,per,ADP,1335,5.11,Goethe B1 word; in your data (lemma rank 1335),W2347
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,übrigens,übrigens,ADV,1273,5.07,Goethe B1 word; in your data (lemma rank 1273),W2767
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Kreis, -e",Kreis,NOUN,1022,5.0,Goethe B1 word; in your data (lemma rank 1022),W2108
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,deswegen,deswegen,ADV,1319,4.99,Goethe B1 word; in your data (lemma rank 1319),W1554
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,okay,okay,ADJ/ADV,1314,4.97,Goethe B1 word; in your data (lemma rank 1314),W3267
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,der Druck,Druck,NOUN,969,4.96,Goethe B1 word; in your data (lemma rank 969),W1583
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Liste, -n",Liste,NOUN,1449,4.96,Goethe B1 word; in your data (lemma rank 1449),W2170
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,komplett,komplett,ADJ/ADV,1917,4.95,Goethe B1 word; in your data (lemma rank 1917),W2075
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Unterstützung, -en",Unterstützung,NOUN,1097,4.95,Goethe B1 word; in your data (lemma rank 1097),W2801
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,vermutlich,vermutlich,ADJ/ADV,956,4.93,Goethe B1 word; in your data (lemma rank 956),W2860
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,drin,drin,ADV,2512,4.88,Goethe B1 word; in your data (lemma rank 2512),W1580
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Auswahl, -en",Auswahl,NOUN,1461,4.87,Goethe B1 word; in your data (lemma rank 1461),W1390
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,solange,solange,CONJ,1150,4.85,Goethe B1 word; in your data (lemma rank 1150),W2574
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,der Schutz,Schutz,NOUN,1078,4.84,Goethe B1 word; in your data (lemma rank 1078),W2532
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Technik, -en",Technik,NOUN,1060,4.83,Goethe B1 word; in your data (lemma rank 1060),W2695
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,dahin,dahin,ADV,1141,4.8,Goethe B1 word; in your data (lemma rank 1141),W1539
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,nötig,nötig,ADJ/ADV,961,4.8,Goethe B1 word; in your data (lemma rank 961),W2300
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Aktion, -en",Aktion,NOUN,1852,4.79,Goethe B1 word; in your data (lemma rank 1852),W1283
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,ausschließlich,ausschließlich,ADJ/ADV,1190,4.79,Goethe B1 word; in your data (lemma rank 1190),W1382
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,weltweit,weltweit,ADJ/ADV,2563,4.78,Goethe B1 word; in your data (lemma rank 2563),W2937
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Gegensatz, ¨-e",Gegensatz,NOUN,968,4.77,Goethe B1 word; in your data (lemma rank 968),W1848
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"unterstützen, unterstützt, unterstützte, hat unterstützt",unterstützen,VERB,1063,4.76,Goethe B1 word; in your data (lemma rank 1063),W2800
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"verhindern, verhindert, verhinderte, hat verhindert",verhindern,VERB,1094,4.76,Goethe B1 word; in your data (lemma rank 1094),W2843
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,extrem,extrem,ADJ/ADV,1742,4.75,Goethe B1 word; in your data (lemma rank 1742),W1727
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,innen,innen,ADJ/ADV,1194,4.73,Goethe B1 word; in your data (lemma rank 1194),W1991
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Anlage, -n",Anlage,NOUN,1070,4.71,Goethe B1 word; in your data (lemma rank 1070),W1313
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,das Material,Material,NOUN,1128,4.7,Goethe B1 word; in your data (lemma rank 1128),W2197
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Gelegenheit, -en",Gelegenheit,NOUN,1015,4.69,Goethe B1 word; in your data (lemma rank 1015),W1854
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,extra,extra,ADJ/ADV,3313,4.68,Goethe B1 word; in your data (lemma rank 3313),W1726
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,selbstverständlich,selbstverständlich,ADJ/ADV,1334,4.68,Goethe B1 word; in your data (lemma rank 1334),W2544
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"das Wunder, -",Wunder,NOUN,1575,4.68,Goethe B1 word; in your data (lemma rank 1575),W2975
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,mitten,mitten,ADV,1263,4.67,Goethe B1 word; in your data (lemma rank 1263),W2235
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,sowieso,sowieso,ADV,1932,4.67,Goethe B1 word; in your data (lemma rank 1932),W2583
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,entlang,entlang,ADP,1183,4.64,Goethe B1 word; in your data (lemma rank 1183),W1658
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,das Holz,Holz,NOUN,1768,4.64,Goethe B1 word; in your data (lemma rank 1768),W1967
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,ursprünglich,ursprünglich,ADJ/ADV,1023,4.63,Goethe B1 word; in your data (lemma rank 1023),W2807
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Vorteil, -e",Vorteil,NOUN,981,4.63,Goethe B1 word; in your data (lemma rank 981),W2919
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"behalten, behält, behielt, hat behalten",behalten,VERB,1287,4.62,Goethe B1 word; in your data (lemma rank 1287),W1423
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,weshalb,weshalb,ADV,1349,4.61,Goethe B1 word; in your data (lemma rank 1349),W2947
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Realität, -en",Realität,NOUN,1482,4.6,Goethe B1 word; in your data (lemma rank 1482),W2421
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Zugang, ¨-e",Zugang,NOUN,1544,4.6,Goethe B1 word; in your data (lemma rank 1544),W3005
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,eindeutig,eindeutig,ADJ/ADV,1051,4.59,Goethe B1 word; in your data (lemma rank 1051),W1608
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Ausnahme, -n",Ausnahme,NOUN,1303,4.56,Goethe B1 word; in your data (lemma rank 1303),W1377
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,das Zeug,Zeug,NOUN,2941,4.56,Goethe B1 word; in your data (lemma rank 2941),W2994
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,die Mühe,Mühe,NOUN,1403,4.55,Goethe B1 word; in your data (lemma rank 1403),W2249
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"vermeiden, vermeidet, vermied, hat vermieden",vermeiden,VERB,1137,4.55,Goethe B1 word; in your data (lemma rank 1137),W2855
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,voraus,voraus,ADV,1412,4.55,Goethe B1 word; in your data (lemma rank 1412),W2904
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"achten, achtet, achtete, hat geachtet (auf)",achten,VERB,1242,4.54,Goethe B1 word; in your data (lemma rank 1242),W1281
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,zufällig,zufällig,ADJ/ADV,1970,4.52,Goethe B1 word; in your data (lemma rank 1970),W3004
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,abhängig,abhängig,ADJ/ADV,1502,4.51,Goethe B1 word; in your data (lemma rank 1502),W1259
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"funktionieren, funktioniert, funktionierte, hat funktioniert",funktionieren,VERB,1207,4.51,Goethe B1 word; in your data (lemma rank 1207),W1817
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,speziell,speziell,ADJ/ADV,991,4.51,Goethe B1 word; in your data (lemma rank 991),W2593
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Verlust, -e",Verlust,NOUN,1299,4.51,Goethe B1 word; in your data (lemma rank 1299),W2854
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"verzichten, verzichtet, verzichtete, hat verzichtet",verzichten,VERB,1576,4.51,Goethe B1 word; in your data (lemma rank 1576),W2893
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,der Alltag,Alltag,NOUN,1773,4.5,Goethe B1 word; in your data (lemma rank 1773),W1291
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Änderung, -en",Änderung,NOUN,1222,4.5,Goethe B1 word; in your data (lemma rank 1222),W1303
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,ausreichend,ausreichend,ADJ/ADV,1465,4.5,Goethe B1 word; in your data (lemma rank 1465),W1379
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Planung, -en",Planung,NOUN,1727,4.5,Goethe B1 word; in your data (lemma rank 1727),W2367
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,sinnvoll,sinnvoll,ADJ/ADV,1444,4.49,Goethe B1 word; in your data (lemma rank 1444),W2568
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,soviel,soviel,PRON,2709,4.49,Goethe B1 word; in your data (lemma rank 2709),W2582
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,einerseits,einerseits,ADV,1125,4.48,Goethe B1 word; in your data (lemma rank 1125),W1610
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,eventuell,eventuell,ADV,2324,4.48,Goethe B1 word; in your data (lemma rank 2324),W1722
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"sich verbessern, verbessert, verbesserte, hat verbessert",verbessern,VERB,1523,4.48,Goethe B1 word; in your data (lemma rank 1523),W2820
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Absicht, -en",Absicht,NOUN,1290,4.46,Goethe B1 word; in your data (lemma rank 1290),W1272
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"sichern, sichert, sicherte, hat gesichert",sichern,VERB,1797,4.46,Goethe B1 word; in your data (lemma rank 1797),W2558
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Zufall, ¨-e",Zufall,NOUN,2149,4.46,Goethe B1 word; in your data (lemma rank 2149),W3003
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,sichtbar,sichtbar,ADJ/ADV,1233,4.45,Goethe B1 word; in your data (lemma rank 1233),W2559
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,umso,umso,ADV,1757,4.45,Goethe B1 word; in your data (lemma rank 1757),W2776
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,heim,heim,ADJ/ADV,2525,4.44,Goethe B1 word; in your data (lemma rank 2525),W1937
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,nochmals,nochmals,ADV,1996,4.43,Goethe B1 word; in your data (lemma rank 1996),W2294
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,beinahe,beinahe,ADV,1065,4.42,Goethe B1 word; in your data (lemma rank 1065),W1430
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,einschließlich,einschließlich,ADP,1982,4.41,Goethe B1 word; in your data (lemma rank 1982),W1629
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,die Wirklichkeit,Wirklichkeit,NOUN,1019,4.4,Goethe B1 word; in your data (lemma rank 1019),W2960
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,endgültig,endgültig,ADJ/ADV,1676,4.39,Goethe B1 word; in your data (lemma rank 1676),W1649
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"akzeptieren, akzeptiert, akzeptierte, hat akzeptiert",akzeptieren,VERB,1860,4.38,Goethe B1 word; in your data (lemma rank 1860),W1285
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,auseinander,auseinander,ADV,2318,4.38,Goethe B1 word; in your data (lemma rank 2318),W1370
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,üblich,üblich,ADJ/ADV,1176,4.38,Goethe B1 word; in your data (lemma rank 1176),W2765
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"das Geheimnis, -se",Geheimnis,NOUN,1571,4.37,Goethe B1 word; in your data (lemma rank 1571),W1850
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,umgekehrt,umgekehrt,ADJ/ADV,1701,4.37,Goethe B1 word; in your data (lemma rank 1701),W2774
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"überprüfen, überprüft, überprüfte, hat überprüft",überprüfen,VERB,1725,4.35,Goethe B1 word; in your data (lemma rank 1725),W2752
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"vorkommen, kommt vor, kam vor, ist vorgekommen",vorkommen,VERB,1401,4.35,Goethe B1 word; in your data (lemma rank 1401),W2912
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Herausforderung, -en",Herausforderung,NOUN,1515,4.34,Goethe B1 word; in your data (lemma rank 1515),W1945
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,korrekt,korrekt,ADJ/ADV,3487,4.34,Goethe B1 word; in your data (lemma rank 3487),W2093
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,intensiv,intensiv,ADJ/ADV,1337,4.32,Goethe B1 word; in your data (lemma rank 1337),W2000
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,begrenzt,begrenzt,ADJ,1661,4.31,Goethe B1 word; in your data (lemma rank 1661),W1420
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"das Symbol, -e",Symbol,NOUN,2006,4.3,Goethe B1 word; in your data (lemma rank 2006),W2673
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,zugänglich,zugänglich,ADJ/ADV,2825,4.29,Goethe B1 word; in your data (lemma rank 2825),W3006
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"beachten, beachtet, beachtete, hat beachtet",beachten,VERB,1363,4.28,Goethe B1 word; in your data (lemma rank 1363),W1405
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,dorthin,dorthin,ADV,2058,4.27,Goethe B1 word; in your data (lemma rank 2058),W1576
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,nebenbei,nebenbei,ADV,3870,4.27,Goethe B1 word; in your data (lemma rank 3870),W2280
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"erstellen, erstellt, erstellte, hat erstellt",erstellen,VERB,1657,4.26,Goethe B1 word; in your data (lemma rank 1657),W1713
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Experte, -n",Experte,NOUN,2789,4.26,Goethe B1 word; in your data (lemma rank 2789),W1724
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Katastrophe, -n",Katastrophe,NOUN,3447,4.26,Goethe B1 word; in your data (lemma rank 3447),W2038
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Mangel, ¨-",Mangel,NOUN,1738,4.26,Goethe B1 word; in your data (lemma rank 1738),W2189
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,schief,schief,ADJ/ADV,3561,4.26,Goethe B1 word; in your data (lemma rank 3561),W2500
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"beeinflussen, beeinflusst, beeinflusste, hat beeinflusst",beeinflussen,VERB,1098,4.25,Goethe B1 word; in your data (lemma rank 1098),W1615
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"das Metall, -e",Metall,NOUN,3156,4.24,Goethe B1 word; in your data (lemma rank 3156),W2218
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"das Detail, -s",Detail,NOUN,1770,4.23,Goethe B1 word; in your data (lemma rank 1770),W1555
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"sich verstecken, versteckt, versteckte, hat versteckt",verstecken,VERB,1420,4.23,Goethe B1 word; in your data (lemma rank 1420),W2877
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"verteilen, verteilt, verteilte, hat verteilt",verteilen,VERB,1503,4.23,Goethe B1 word; in your data (lemma rank 1503),W2879
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Fortschritt, -e",Fortschritt,NOUN,2138,4.21,Goethe B1 word; in your data (lemma rank 2138),W1794
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,ideal,ideal,ADJ/ADV,1537,4.21,Goethe B1 word; in your data (lemma rank 1537),W1980
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,ungewöhnlich,ungewöhnlich,ADJ/ADV,2481,4.21,Goethe B1 word; in your data (lemma rank 2481),W2784
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,voneinander,voneinander,ADV,1823,4.2,Goethe B1 word; in your data (lemma rank 1823),W2903
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"gebrauchen, gebraucht, gebrauchte, hat gebraucht",gebrauchen,VERB,3294,4.18,Goethe B1 word; in your data (lemma rank 3294),W1836
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"erledigen, erledigt, erledigte, hat erledigt",erledigen,VERB,1708,4.17,Goethe B1 word; in your data (lemma rank 1708),W1700
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,irgendein,irgendein,PRON,999,4.17,Goethe B1 word; in your data (lemma rank 999),W2005
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"das Unglück, -e",Unglück,NOUN,2592,4.17,Goethe B1 word; in your data (lemma rank 2592),W2786
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"benötigen, benötigt, benötigte, hat benötigt",benötigen,VERB,1003,4.16,Goethe B1 word; in your data (lemma rank 1003),W1437
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,hierher,hierher,ADV,1924,4.15,Goethe B1 word; in your data (lemma rank 1924),W1952
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"festhalten, hält fest, hielt fest, hat festgehalten",festhalten,VERB,1405,4.14,Goethe B1 word; in your data (lemma rank 1405),W1757
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,gewöhnlich,gewöhnlich,ADJ/ADV,1221,4.13,Goethe B1 word; in your data (lemma rank 1221),W1884
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"eröffnen, eröffnet, eröffnete, hat eröffnet",eröffnen,VERB,1667,4.12,Goethe B1 word; in your data (lemma rank 1667),W1707
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"aufhalten, hält auf, hielt auf, hat aufgehalten",aufhalten,VERB,2178,4.11,Goethe B1 word; in your data (lemma rank 2178),W1353
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,flach,flach,ADJ/ADV,2117,4.1,Goethe B1 word; in your data (lemma rank 2117),W1771
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,herunter,herunter,ADV,1941,4.1,Goethe B1 word; in your data (lemma rank 1941),W1948
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"brennen, brennt, brannte, hat gebrannt",brennen,VERB,1486,4.09,Goethe B1 word; in your data (lemma rank 1486),W1507
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"sich bemühen, bemüht, bemühte, hat bemüht",bemühen,VERB,1331,4.08,Goethe B1 word; in your data (lemma rank 1331),W1436
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Nachteil, -e",Nachteil,NOUN,2116,4.08,Goethe B1 word; in your data (lemma rank 2116),W2268
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,alternativ,alternativ,ADJ/ADV,1114,4.07,Goethe B1 word; in your data (lemma rank 1114),W1296
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"anschließen, schließt an, schloss an, hat angeschlossen",anschließen,VERB,3131,4.07,Goethe B1 word; in your data (lemma rank 3131),W1318
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"verursachen, verursacht, verursachte, hat verursacht",verursachen,VERB,1583,4.07,Goethe B1 word; in your data (lemma rank 1583),W2806
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,durcheinander,durcheinander,ADJ/ADV,2931,4.03,Goethe B1 word; in your data (lemma rank 2931),W1584
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,worum,worum,CONJ,3944,4.02,Goethe B1 word; in your data (lemma rank 3944),W2972
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,gründlich,gründlich,ADJ/ADV,3170,4.01,Goethe B1 word; in your data (lemma rank 3170),W1908
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,anwenden,anwenden,VERB,1174,4.0,Goethe B1 word; in your data (lemma rank 1174),W1327
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"sich eignen, eignet sich, eignete sich, hat sich geeignet",eignen,VERB,2203,4.0,Goethe B1 word; in your data (lemma rank 2203),W1600
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,worüber,worüber,ADV,3766,3.99,Goethe B1 word; in your data (lemma rank 3766),W2971
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,feucht,feucht,ADJ/ADV,1942,3.97,Goethe B1 word; in your data (lemma rank 1942),W1764
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,vergeblich,vergeblich,ADJ/ADV,3099,3.96,Goethe B1 word; in your data (lemma rank 3099),W2833
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"besetzen, besetzt, besetzte, hat besetzt",besetzen,VERB,2409,3.95,Goethe B1 word; in your data (lemma rank 2409),W1455
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"der Fleck, -en",Fleck,NOUN,3649,3.94,Goethe B1 word; in your data (lemma rank 3649),W1773
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"realisieren, realisiert, realisierte, hat realisiert",realisieren,VERB,2230,3.94,Goethe B1 word; in your data (lemma rank 2230),W2420
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"ausschließen, schließt aus, schloss aus, hat ausgeschlossen",ausschließen,VERB,1375,3.93,Goethe B1 word; in your data (lemma rank 1375),W1381
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,gewöhnen,gewöhnen,VERB,2191,3.93,Goethe B1 word; in your data (lemma rank 2191),W1881
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,künstlich,künstlich,ADJ/ADV,2366,3.92,Goethe B1 word; in your data (lemma rank 2366),W2120
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,geheim,geheim,ADJ/ADV,2156,3.91,Goethe B1 word; in your data (lemma rank 2156),W1851
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,beschränken,beschränken,VERB,1254,3.9,Goethe B1 word; in your data (lemma rank 1254),W1453
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"garantieren, garantiert, garantierte, hat garantiert",garantieren,VERB,3510,3.88,Goethe B1 word; in your data (lemma rank 3510),W1826
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,gleichfalls,gleichfalls,ADV,3441,3.85,Goethe B1 word; in your data (lemma rank 3441),W1891
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"fortsetzen, setzt fort, setzte fort, hat fortgesetzt",fortsetzen,VERB,3474,3.84,Goethe B1 word; in your data (lemma rank 3474),W1795
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,steil,steil,ADJ/ADV,3318,3.84,Goethe B1 word; in your data (lemma rank 3318),W2631
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"festlegen, legt fest, legte fest, hat festgelegt",festlegen,VERB,1551,3.83,Goethe B1 word; in your data (lemma rank 1551),W1758
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"auflösen, löst auf, löste auf, hat aufgelöst",auflösen,VERB,2708,3.82,Goethe B1 word; in your data (lemma rank 2708),W1356
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"abhängen, hängt ab, hing ab, hat abgehangen (von)",abhängen,VERB,3001,3.81,Goethe B1 word; in your data (lemma rank 3001),W1258
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"erfordern, erfordert, erforderte, hat erfordert",erfordern,VERB,1691,3.81,Goethe B1 word; in your data (lemma rank 1691),W1683
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"genügen, genügt, genügte, hat genügt",genügen,VERB,1464,3.79,Goethe B1 word; in your data (lemma rank 1464),W1864
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"sich lohnen, lohnt sich, lohnte sich, hat sich gelohnt",lohnen,VERB,3483,3.79,Goethe B1 word; in your data (lemma rank 3483),W2176
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"auswählen, wählt aus, wählte aus, hat ausgewählt",auswählen,VERB,1660,3.78,Goethe B1 word; in your data (lemma rank 1660),W1389
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"aufheben, hebt auf, hob auf, hat aufgehoben",aufheben,VERB,2875,3.76,Goethe B1 word; in your data (lemma rank 2875),W1354
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,einheitlich,einheitlich,ADJ/ADV,2106,3.72,Goethe B1 word; in your data (lemma rank 2106),W1619
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"auffallen, fällt auf, fiel auf, ist aufgefallen",auffallen,VERB,3048,3.68,Goethe B1 word; in your data (lemma rank 3048),W1348
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Gewohnheit, -en",Gewohnheit,NOUN,2794,3.65,Goethe B1 word; in your data (lemma rank 2794),W1882
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Schwierigkeit, -en",Schwierigkeit,NOUN,1072,3.65,Goethe B1 word; in your data (lemma rank 1072),W2536
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,spitz,spitz,ADJ/ADV,3157,3.64,Goethe B1 word; in your data (lemma rank 3157),W2599
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,senkrecht,senkrecht,ADJ/ADV,3799,3.59,Goethe B1 word; in your data (lemma rank 3799),W2553
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"ordnen, ordnet, ordnete, hat geordnet",ordnen,VERB,2999,3.53,Goethe B1 word; in your data (lemma rank 2999),W2323
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,mittler-,mittler,DET,1306,3.22,Goethe B1 word; in your data (lemma rank 1306),W2236
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,"die Einzelheit, -en",Einzelheit,NOUN,2746,2.42,Goethe B1 word; in your data (lemma rank 2746),W1640
+"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",frequent in your data,B1,sogenannt-,sogenannt,DET,975,2.0,Goethe B1 word; in your data (lemma rank 975),W2573
