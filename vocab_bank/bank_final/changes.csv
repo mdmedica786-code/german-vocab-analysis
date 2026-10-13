@@ -292,3 +292,7 @@ vocab,B0736,check,ocr?,
 vocab,B3909,meaning_en,earth,earth; soil; ground
 vocab,B0744,check,ocr?,
 vocab,B0747,meaning_en,historic city,old town; historic city centre
+redemittel,R0037,variants,"Meinst du wirklich, dass ...? | Bist du sicher, dass ...?",Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?
+redemittel,R0037,variants,Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?,"Meinst du wirklich, dass ...? | Bist du sicher, dass ...?"
+redemittel,R0038,variants,Ich hätte einen anderen Vorschlag: ... | Was hältst du von ... statt dessen?,Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?
+redemittel,R0353,variants,Das ist wirklich schade für dich. | Mein herzliches Beileid.,"Das ist wirklich schade für dich. | Ich hoffe, es wird bald besser."
