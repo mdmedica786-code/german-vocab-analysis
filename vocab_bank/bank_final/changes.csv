@@ -403,3 +403,102 @@ vocab,B1060,example_en,Are you not coming today? - On the contrary.,"Aren't you 
 vocab,B1060,meaning_en,indeed,yes (to a negative question); but; after all
 vocab,B1060,pos,adverb,particle
 vocab,B1069,check,ocr?,
+vocab,B1074,meaning_en,easy,easy; light
+vocab,B1074,other_senses,lighter,
+vocab,B3305,meaning_en,in any case,in any case; at any rate
+vocab,B1078,register,neutral,colloquial
+vocab,B1078,check,ocr?,
+vocab,B1929,meaning_en,item,object; item; subject
+vocab,B1081,meaning_en,call on customers,customer visit
+vocab,B1081,check,ocr?,
+vocab,B1082,meaning_en,colleague (m),employee; colleague (m)
+vocab,B1083,meaning_en,colleague (f),employee; colleague (f)
+vocab,B1083,example_de,Unsere Firma hat sieben Mitarbeiter.,Die neue Mitarbeiterin fängt am Montag an.
+vocab,B1083,example_source,goethe,claude
+vocab,B4138,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T01 Person, Familie & Beziehungen"
+vocab,B4138,meaning_en,togetherness,with each other; together
+vocab,B4435,meaning_en,in general,in principle; fundamentally
+vocab,B1089,check,ocr?,
+vocab,B1090,check,ocr?,
+vocab,B1091,check,ocr?,
+vocab,B4392,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4392,meaning_en,chest,chest; breast
+vocab,B1994,meaning_en,article,contribution; fee; article
+vocab,B4061,meaning_en,symbol,sign; symbol; character
+vocab,B1101,meaning_en,to transfer,to transfer; to refer (a patient)
+vocab,B4077,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1105,meaning_en,post office,post; post office; mail
+vocab,B1111,meaning_en,bakery,baker
+vocab,B1113,example_de,"Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen.",Die Hausmeisterin repariert die Heizung.
+vocab,B1113,example_source,goethe,claude
+vocab,B1115,register,neutral,informal
+vocab,B4241,meaning_en,against,contrary to; towards
+vocab,B4241,gov,+ Gen.,+ Dat.
+vocab,B1116,meaning_en,to turn off,to turn off; to arrange
+vocab,B1116,register,neutral,informal
+vocab,B1124,example_en,"Oh bother, my battery is almost empty.","Damn, my battery is almost empty."
+vocab,B1124,meaning_en,bother,rubbish; (colloq.) damn!
+vocab,B1124,register,neutral,colloquial
+vocab,B1125,meaning_en,reception,network; reception; net
+vocab,B1125,other_senses,net,
+vocab,B1135,check,article?,
+vocab,B1146,meaning_en,language department,language institute
+vocab,B1146,check,ocr?,
+vocab,B5210,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T14 Gefühle, Charakter & Meinungen"
+vocab,B1148,meaning_en,letter standard,letter template; standard letter format
+vocab,B1148,check,ocr?,
+vocab,B1152,check,ocr?,
+vocab,B1153,example_en,Memorise the words.,Learn the words by heart.
+vocab,B1153,pos,verb,adverb
+vocab,B1154,meaning_en,madam,lady; madam
+vocab,B1156,check,paren?,
+vocab,B1159,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4818,meaning_en,to conduct,to carry out; to conduct
+vocab,B1162,topic,"T04 Ausbildung, Schule & Studium","T12 Gesellschaft, Politik, Recht & Geschichte"
+vocab,B3307,meaning_en,obvious,apparently; obviously
+vocab,B1166,pos,noun,pronoun
+vocab,B1169,meaning_en,really,at all; done (cooked)
+vocab,B1172,topic,"T10 Freizeit, Sport, Kultur & Medien","T14 Gefühle, Charakter & Meinungen"
+vocab,B1176,meaning_en,difficult,difficult; heavy; severe
+vocab,B1176,other_senses,heavy; severe,
+vocab,B1177,register,neutral,informal
+vocab,B1183,meaning_en,live,to live
+vocab,B1189,check,article?,
+vocab,B2617,meaning_en,route,line; route
+vocab,B1199,meaning_en,sure,sure; safe; certain
+vocab,B1199,other_senses,safe,
+vocab,B2805,other_senses,to take out,to take in; to admit (a patient)
+vocab,B1203,meaning_en,at the moment,just; right now; straight
+vocab,B3272,meaning_en,type,type; guy
+vocab,B3272,register,neutral,informal
+vocab,B1214,check,ocr?,
+vocab,B1214,meaning_en,trainer,sports shoe; trainer
+vocab,B5215,plural,Anzahlen,–
+vocab,B1217,meaning_en,application,app
+vocab,B1218,meaning_en,quiet,quiet; calm
+vocab,B1229,meaning_en,size,size; height; greatness
+vocab,B1230,meaning_en,stomach,stomach; belly; abdomen
+vocab,B1234,meaning_en,neck,neck; throat
+vocab,B4244,meaning_en,to realize,to notice; to establish; to realise
+vocab,B1252,example_de,Ist Frau Dr. Müller da?,Die Doktorin wird gleich bei Ihnen sein.
+vocab,B1254,meaning_en,salve,ointment
+vocab,B1256,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1267,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B3215,meaning_en,value,value; worth
+vocab,B3215,check,paren?,
+vocab,B3215,other_senses,value (Which values are important in a society?),
+vocab,B1272,meaning_en,to have a cold,having a cold
+vocab,B1272,pos,verb,adjective
+vocab,B3919,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1274,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1276,register,neutral,informal
+vocab,B1280,example_en,J am against cars in the city centre.,I am against cars in the city centre.
+vocab,B1283,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1290,meaning_en,band-aid,plaster
+vocab,B1291,meaning_en,drop,drop; drops
+vocab,B1291,plural,(Pl.),Tropfen
+vocab,B5076,meaning_en,view,view; visibility; point of view
+vocab,B1294,meaning_en,clove,carnation; clove
+vocab,B1296,meaning_en,to suspect,to suspect; to assume
+vocab,B1300,check,ocr?,
+vocab,B3513,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"

@@ -1,0 +1,100 @@
+B1152¦tp=T15¦ck=-¦ex=„Sehr geehrte Damen und Herren“ ist eine Anredeformel.¦en="Sehr geehrte Damen und Herren" is a form of address.
+B2714¦en=It is quiet in the forest.
+B1153¦pos=adverb¦tp=T04¦nt=auswendig lernen = to learn by heart.¦en=Learn the words by heart.
+B1154¦tp=T01¦m=lady; madam
+B1155¦pos=adjective¦ef=freundlicher – am freundlichsten¦col=freundlich lächeln | ein freundlicher Mensch | freundlich grüßen | ein freundlicher Empfang
+B2621¦tp=T13¦ex=Das Gerät ist zwanzig Prozent billiger.¦en=The device is twenty percent cheaper.
+B1156¦ck=-
+B1157¦tp=T15¦ex=„Mit freundlichen Grüßen“ ist eine Grußformel.¦en="Mit freundlichen Grüßen" is a closing formula.
+B1158¦tp=T15¦pt=dachte¦g=an + Akk.¦col=an etwas denken | an jemanden denken | positiv denken | laut denken¦en=I think you're right.
+B2147¦nt=die Band = music group; der Band = volume.
+B1159¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦col=an einer Krankheit leiden | eine Krankheit behandeln | eine chronische Krankheit | eine Krankheit übertragen¦en=Which illness does Mr Brandner have?
+B1160¦tp=T03¦ex=In der Mittagspause gehe ich spazieren.¦en=During the lunch break I go for a walk.
+B1161¦col=Politik machen | in die Politik gehen | sich für Politik interessieren | internationale Politik¦en=I'm not interested in politics.
+B4818¦tp=T16¦ps=führt durch¦pt=führte durch¦pf=hat durchgeführt¦m=to carry out; to conduct¦ex=Wir führen morgen eine Umfrage durch.¦en=Tomorrow we are conducting a survey.¦col=eine Untersuchung durchführen | ein Experiment durchführen | eine Umfrage durchführen | Maßnahmen durchführen
+B1162¦tp=T12¦col=eine Religion ausüben | die Religion wechseln | Religion und Politik | die Religionsfreiheit¦en=Religion is very important to some people.
+B1163¦en=My daughter loves watching series on TV.
+B1164¦tp=T02¦en=There is no lift in this building.
+B3307¦m=apparently; obviously¦col=offenbar nicht | offenbar schon | offenbar ein Fehler | offenbar werden¦en=The restaurant is apparently closed today.
+B1165¦pos=adjective¦ef=beliebter – am beliebtesten¦en=Football is popular with many people.
+B1166¦pos=pronoun¦art=die¦pl=(Pl.)¦tp=T13¦nt=Superlative of viel: die meisten Menschen; am meisten.¦ex=Die meisten Leute fahren im Sommer in den Urlaub.¦en=Most people go on holiday in summer.
+B1167
+B3871¦pos=adjective¦col=zahlreiche Gäste | zahlreich erscheinen | zahlreiche Beispiele | in zahlreichen Fällen¦en=The guests came in large numbers.
+B1168¦tp=T15¦ps=formuliert¦pt=formulierte¦pf=hat formuliert¦ex=Bitte formulieren Sie Ihre Frage klar.¦en=Please phrase your question clearly.
+B1169¦tp=T16¦m=at all; done (cooked)¦col=gar nicht | gar kein | gar nichts | gar nicht so schlecht¦en=The potatoes are not cooked yet.
+B1170¦tp=T15¦ex=Das Wetter ist ein beliebtes Gesprächsthema.¦en=The weather is a popular topic of conversation.
+B4647¦tp=T14¦ex=Geduld ist eine wichtige Eigenschaft für Ärzte.¦en=Patience is an important characteristic for doctors.¦col=gute Eigenschaften | eine wichtige Eigenschaft | positive Eigenschaften | eine charakterliche Eigenschaft
+B1171¦tp=T13¦en=Yesterday I was ill.
+B1172¦tp=T14¦pt=interessierte¦en=I'm interested in football.
+B1173¦pos=adjective¦en=I'm bored.
+B2443¦col=die Freiheit haben | persönliche Freiheit | in Freiheit leben | Freiheit der Meinung¦en=We want to have the freedom to say what we think.
+B1174¦pos=adjective¦tp=T15¦ex=Der Reporter bleibt neutral.¦en=The reporter remains neutral.
+B1175¦tp=T15¦pt=redete¦g=mit + Dat. | über + Akk.¦col=über etwas reden | mit jemandem reden | miteinander reden | viel reden¦en=I can talk about everything with my girlfriend.
+B1176¦pos=adjective¦tp=T16¦m=difficult; heavy; severe¦os=-
+B5211¦m=to raise; to increase¦en=The government will surely raise taxes again soon.¦col=die Preise erhöhen | die Steuern erhöhen | das Tempo erhöhen | das Risiko erhöhen
+B1177¦tp=T15¦rg=informal¦ex=Beim Small Talk spricht man oft über das Wetter.¦en=In small talk people often talk about the weather.
+B1178¦pos=adverb¦tp=T16¦col=eigentlich nicht | was willst du eigentlich | eigentlich schon | wie war es eigentlich¦en=We actually wanted to visit friends, but then we stayed at home after all.
+B1179¦pos=adjective¦ef=heißer – am heißesten¦en=Careful, the tea is hot!
+B4749¦pos=adjective¦tp=T16¦ex=Bitte füllen Sie das Formular vollständig aus.¦en=Please fill in the form completely.¦col=vollständig ausfüllen | vollständig sein | vollständige Angaben | nicht vollständig
+B1180¦ps=regnet¦pt=regnete¦pf=hat geregnet¦en=It is raining today.
+B1182¦pos=adjective¦en=I'm terribly sorry!
+B4032¦col=sich an etwas beteiligen | sich an den Kosten beteiligen | Mitarbeiter beteiligen | sich am Gespräch beteiligen¦en=We want to buy our teacher a present. Who would like to chip in?
+B1183¦tp=T01¦ps=lebt¦pt=lebte¦pf=hat gelebt¦m=to live¦en=She lives with her sister.
+B1184¦tp=T06¦ex=Zum Film essen wir Chips.¦en=With the film we eat crisps.
+B1185¦ex=Das Experiment hat gut funktioniert.¦en=The experiment worked well.
+B2582¦tp=T16¦ex=Das Konzept der Schule ist modern.¦en=The school's concept is modern.
+B1186¦tp=T02¦ps=räumt weg¦pt=räumte weg¦pf=hat weggeräumt¦ex=Räum bitte dein Spielzeug weg.¦en=Please put your toys away.
+B1187¦tp=T02¦en=She is ill and has to stay in bed today.
+B1188¦pos=adjective¦col=egal sein | ganz egal | egal wie | egal was¦en=I don't care.
+B5212¦m=stone; rock¦en=The children throw stones into the water.
+B1189¦tp=T13¦ck=-¦ef=der Erste; die Erste; ein Erster¦ex=Sie ist die Erste in der Klasse.¦en=She is the first in the class.
+B1190¦pos=adjective¦en=Today we're lazy: we're not doing homework and not working.
+B1191¦ex=Nach dem Sport fühle ich mich fit.¦en=After sport I feel fit.
+B5213¦pos=adjective¦tp=T08¦m=French¦ex=Sie isst gern französisches Brot.¦en=She likes eating French bread.¦col=französisches Essen | französisch sprechen | die französische Küche | französischer Wein
+B1192¦tp=T10¦en=In my free time I often play football.
+B1193¦pos=adjective¦en=I am very hungry.
+B1194¦pos=interjection¦tp=T14¦ex=Hurra, wir haben gewonnen!¦en=Hooray, we won!
+B2617¦m=line; route¦en=You can take line 8 to the main station.
+B1195¦tp=T13¦pt=ging los¦ex=Gleich geht es los.¦en=It is about to start.
+B1196¦pos=adjective¦tp=T05¦en=I'm tired. I'm going to sleep.
+B1197¦pos=adjective¦col=regelmäßig nehmen | regelmäßig kontrollieren | regelmäßige Termine | regelmäßig Sport treiben¦en=You have to take the tablets regularly.
+B5214¦pos=conjunction¦m=either (entweder ... oder)¦lv=B1¦ex=Entweder fahren wir mit dem Zug, oder wir nehmen das Auto.¦en=Either we go by train, or we take the car.
+B1198¦pt=schaffte¦col=es schaffen | eine Prüfung schaffen | Arbeit schaffen | Platz schaffen¦en=Can you help me, please? I can't manage this alone.
+B1199¦pos=adjective¦tp=T16¦m=sure; safe; certain¦os=-
+B1200¦tp=T06¦ex=Kinder essen gern Süßigkeiten.¦en=Children like eating sweets.
+B2805¦os=to take in; to admit (a patient)¦col=ein Gespräch aufnehmen | Kontakt aufnehmen | einen Patienten aufnehmen | ein Lied aufnehmen
+B1201¦pos=adverb¦ex=Ich gehe täglich eine Stunde spazieren.¦en=I go for a walk for an hour every day.¦col=täglich üben | täglich nehmen | täglich zweimal | tägliche Routine
+B1202¦pos=adjective¦en=You mustn't cross the street at a red light. That is dangerous.
+B1203¦tp=T13¦m=just; right now; straight¦en=Here he comes now.
+B3927¦en=Thank you very much! – Don't mention it!
+B1204¦tp=T15¦ex=Ich schicke dir eine Sprachnachricht.¦en=I'll send you a voice message.
+B1205¦pt=vergaß¦col=den Schlüssel vergessen | den Termin vergessen | nicht vergessen | vergessen, zu ...¦en=I forgot my homework.
+B1206¦en=I miss my family.
+B3272¦rg=informal¦m=type; guy¦en=My neighbour is a nice guy.
+B1207¦pos=adjective¦col=aktiv sein | aktiv werden | sich aktiv beteiligen | aktiv zuhören¦en=Peter is very active and does a lot of sport.
+B1208¦tp=T07¦pt=zog an¦en=I still have to get dressed.
+B1209¦en=My son only ever reads comics.
+B2531¦col=jemandem etwas versprechen | viel versprechen | Besserung versprechen | sein Wort geben¦en=My mother promised me that she would pick me up.
+B1211¦col=mindestens zwei | mindestens ein Jahr | mindestens haltbar bis | mindestens so viel¦en=Please arrive at the airport at least two hours before your flight.
+B1212¦tp=T08¦pt=ging raus¦ex=Gehst du bei dem Wetter raus?¦en=Are you going out in this weather?
+B1213¦pos=adjective¦en=Tom is very sporty.
+B5006¦col=ins Wasser springen | über einen Zaun springen | in die Höhe springen | vom Sprungbrett springen¦en=We were at the swimming pool. My son kept jumping into the water.
+B1214¦tp=T07¦ck=-¦m=sports shoe; trainer¦ex=Ich brauche neue Sportschuhe für den Lauf.¦en=I need new sports shoes for the run.
+B1215¦tp=T13¦ps=macht weiter¦pt=machte weiter¦pf=hat weitergemacht¦ex=Machen wir nach der Pause weiter.¦en=Let's continue after the break.
+B1216¦en=You will receive a request to pay the amount by June.
+B5215¦pl=–¦m=number; quantity¦en=The number of participants was large.
+B1217¦ex=Diese App zeigt das Wetter.¦en=This app shows the weather.¦m=app
+B1218¦pos=adjective¦tp=T14¦m=quiet; calm
+B1219¦pt=machte auf¦en=Can you open the door, please?
+B3836¦pos=adverb¦col=absolut sicher | absolut richtig | absolut notwendig | absolut nicht¦en=What you are saying is absolutely wrong.
+B1220¦pt=schrieb auf¦en=I have written down your phone number.
+B1221¦en=Can you open the window, please?
+B1222¦pos=adjective¦tp=T15¦en=Be quiet. The others are already asleep.
+B3610
+B1223
+B1224¦en=I often read aloud to my children.
+B1225¦tp=T04¦ps=wiederholt¦pt=wiederholte¦pf=hat wiederholt¦en=Can you please repeat that?
+B2894¦en=The police received many tips about the accident.
+B1226¦en=How much do you weigh?
+B1227¦tp=T01¦en=Age: 26 years.
+B1228¦tp=T05¦en=Under “weight” you write: 62 kilos.
