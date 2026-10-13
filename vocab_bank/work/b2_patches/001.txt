@@ -1,0 +1,39 @@
+C¦weswegen¦why; for which reason¦T16¦Er hat gekündigt, weswegen wir einen Ersatz suchen.¦He has resigned, which is why we are looking for a replacement.¦¦Schreiben; Lesen
+D¦infolgedessen¦as a result; consequently¦T16¦Es hat stark geregnet, infolgedessen sind viele Straßen überflutet.¦It rained heavily, and as a result many streets are flooded.¦¦Schreiben; Lesen
+D¦vielmehr¦rather; on the contrary¦T16¦Das ist kein Fehler, vielmehr ist es eine bewusste Entscheidung.¦That is not a mistake; rather, it is a deliberate decision.¦nicht ..., sondern vielmehr¦Schreiben; Lesen
+D¦andernfalls¦otherwise; or else¦T16¦Bitte melden Sie sich rechtzeitig an, andernfalls verfällt Ihr Platz.¦Please register in time, otherwise your place will lapse.¦¦Schreiben; Alltag
+C¦geschweige denn¦let alone¦T16¦Er kann kaum laufen, geschweige denn rennen.¦He can hardly walk, let alone run.¦¦Sprechen; Lesen
+C¦es sei denn¦unless¦T16¦Wir fahren morgen, es sei denn, es regnet stark.¦We are leaving tomorrow unless it rains heavily.¦¦Schreiben; Grammatik
+C¦angenommen¦assuming; suppose¦T16¦Angenommen, der Zug hat Verspätung, was machen wir dann?¦Suppose the train is delayed, what do we do then?¦angenommen, dass¦Sprechen; Schreiben
+C¦vorausgesetzt¦provided that¦T16¦Ich helfe dir gern, vorausgesetzt, du sagst die Wahrheit.¦I will gladly help you, provided you tell the truth.¦vorausgesetzt, dass¦Schreiben; Grammatik
+D¦neuerdings¦recently; lately¦T13¦Neuerdings fährt er mit dem Fahrrad zur Arbeit.¦Lately he has been cycling to work.¦¦Alltag; Lesen
+D¦bislang¦so far; until now¦T13¦Bislang gab es keine Beschwerden.¦So far there have been no complaints.¦¦Schreiben; Lesen
+D¦allmählich¦gradually; little by little¦T13¦Allmählich wird es im Frühling wärmer.¦Gradually it is getting warmer in spring.¦¦Alltag; Lesen
+D¦zunehmend¦increasingly¦T16¦Die Stadt wird zunehmend zum Zentrum der Kultur.¦The city is increasingly becoming a centre of culture.¦zunehmend schwierig | zunehmend beliebt¦Schreiben; Lesen
+D¦zeitweise¦at times; temporarily¦T13¦Zeitweise fällt der Strom im ganzen Viertel aus.¦At times the power fails in the whole district.¦¦Lesen; Alltag
+D¦vorübergehend¦temporarily¦T13¦Das Geschäft ist vorübergehend geschlossen.¦The shop is temporarily closed.¦vorübergehend geschlossen | vorübergehend untergebracht¦Alltag; Lesen
+D¦dauerhaft¦permanently; lasting¦T13¦Die Lösung muss dauerhaft funktionieren.¦The solution must work permanently.¦dauerhaft gelöst | dauerhafter Schaden¦Schreiben; Lesen
+D¦zuvor¦before; previously¦T13¦Wir hatten uns zuvor noch nie gesehen.¦We had never seen each other before.¦¦Lesen; Schreiben
+D¦letztlich¦in the end; ultimately¦T16¦Letztlich entscheidet jeder selbst.¦In the end everyone decides for themselves.¦¦Sprechen; Schreiben
+D¦lediglich¦merely; only¦T16¦Das ist lediglich eine Vermutung.¦That is merely an assumption.¦¦Schreiben; Lesen
+D¦nahezu¦almost; nearly¦T13¦Das Konzert war nahezu ausverkauft.¦The concert was almost sold out.¦nahezu unmöglich | nahezu alle¦Schreiben; Lesen
+D¦annähernd¦approximately; almost¦T13¦Annähernd tausend Gäste waren gekommen.¦Almost a thousand guests had come.¦¦Schreiben; Lesen
+D¦erheblich¦considerably; significantly¦T16¦Die Preise sind erheblich gestiegen.¦Prices have risen considerably.¦erheblich steigen | erheblich teurer¦Schreiben; Lesen
+D¦beträchtlich¦considerably; substantially¦T16¦Der Verbrauch ist beträchtlich gesunken.¦Consumption has fallen substantially.¦beträchtlich steigen | ein beträchtlicher Unterschied¦Schreiben; Lesen
+D¦zweifellos¦undoubtedly¦T14¦Sie ist zweifellos die beste Kandidatin.¦She is undoubtedly the best candidate.¦¦Sprechen; Schreiben
+D¦keineswegs¦by no means; not at all¦T14¦Das ist keineswegs selbstverständlich.¦That is by no means a matter of course.¦¦Sprechen; Schreiben
+D¦keinesfalls¦under no circumstances¦T14¦Sie dürfen das Medikament keinesfalls absetzen.¦You must under no circumstances stop the medicine.¦¦Sprechen; Alltag
+D¦durchaus¦quite; perfectly¦T14¦Das ist durchaus möglich.¦That is quite possible.¦durchaus möglich | durchaus verständlich¦Sprechen; Schreiben
+D¦ohnehin¦anyway; in any case¦T16¦Ich muss ohnehin in die Stadt, ich kann das erledigen.¦I have to go into town anyway; I can take care of that.¦¦Sprechen; Alltag
+D¦gewissermaßen¦so to speak; in a way¦T15¦Er ist gewissermaßen mein zweiter Vater.¦He is, in a way, my second father.¦¦Sprechen; Schreiben
+D¦sozusagen¦so to speak; as it were¦T15¦Das Buch ist sozusagen mein Lebenswerk.¦The book is, so to speak, my life's work.¦¦Sprechen; Alltag
+D¦größtenteils¦for the most part; mostly¦T13¦Die Gäste kamen größtenteils aus dem Ausland.¦The guests came mostly from abroad.¦¦Schreiben; Lesen
+D¦weitgehend¦largely; to a great extent¦T16¦Das Problem ist weitgehend gelöst.¦The problem is largely solved.¦weitgehend unbekannt | weitgehend zufrieden¦Schreiben; Lesen
+D¦vorwiegend¦predominantly; mainly¦T16¦Im Norden ist es vorwiegend bewölkt.¦In the north it is mainly cloudy.¦¦Lesen; Hören
+P¦anlässlich¦+ Gen.¦on the occasion of¦T16¦Anlässlich seines Geburtstags gab es ein Fest.¦There was a party on the occasion of his birthday.¦anlässlich des Jubiläums | anlässlich der Eröffnung¦Schreiben; Lesen
+P¦zulasten¦+ Gen.¦at the expense of¦T16¦Die Sparmaßnahmen gehen zulasten der Schüler.¦The cutbacks are at the expense of the pupils.¦zulasten der Umwelt | zulasten der Gesundheit¦Schreiben; Lesen
+P¦diesseits¦+ Gen.¦on this side of¦T08¦Diesseits der Grenze gelten andere Regeln.¦On this side of the border different rules apply.¦diesseits des Flusses | diesseits und jenseits¦Lesen
+P¦abzüglich¦+ Gen.¦minus; less¦T07¦Der Preis beträgt 100 Euro abzüglich der Versandkosten.¦The price is 100 euros less the shipping costs.¦abzüglich der Steuer | abzüglich Rabatt¦Lesen; Alltag
+P¦zwecks¦+ Gen.¦for the purpose of¦T09¦Zwecks Klärung bitten wir um einen Rückruf.¦For clarification we ask for a call back.¦zwecks Klärung | zwecks Prüfung¦Schreiben; Lesen
+P¦unweit¦+ Gen.¦not far from¦T08¦Das Hotel liegt unweit des Bahnhofs.¦The hotel is not far from the station.¦unweit des Zentrums | unweit des Flusses¦Lesen; Alltag
+P¦mitsamt¦+ Dat.¦together with; including¦T16¦Er zog mitsamt seiner Familie nach Hamburg.¦He moved to Hamburg together with his family.¦mitsamt Gepäck | mitsamt allen Kosten¦Lesen; Schreiben
