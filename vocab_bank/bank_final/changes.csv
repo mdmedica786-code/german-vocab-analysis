@@ -2467,3 +2467,125 @@ vocab,B6630,example_de,Dieser Fleischhauer macht sehr gute Wurst.,Diese Fleischh
 vocab,B6633,register,neutral,regional
 vocab,B6634,register,neutral,regional
 vocab,B6634,article,der,der/die
+vocab,B0012,pos,noun,pronoun
+vocab,B0020,meaning_en,the (the sausage),"the (definite article, neuter)"
+vocab,B0021,meaning_en,the (the kindergarten),"the (definite article, masculine)"
+vocab,B0022,meaning_en,the (the bottle),"the (definite article, feminine and plural)"
+vocab,B0030,meaning_en,sausage,sausage (Austrian)
+vocab,B0030,register,neutral,regional
+vocab,B0031,meaning_en,in,on; onto; up
+vocab,B0033,pos,noun,determiner
+vocab,B0034,meaning_en,in,in; into
+vocab,B0037,meaning_en,as,how; like; as
+vocab,B0041,meaning_en,a,a; an; one (indefinite article)
+vocab,B0058,meaning_en,|,I
+vocab,B0077,pos,noun,pronoun
+vocab,B0098,meaning_en,the,"the (definite article, masculine accusative)"
+vocab,B0139,meaning_en,to,to; after; according to
+vocab,B0162,meaning_en,Brasil,Brazil
+vocab,B0165,meaning_en,country,country; land; countryside
+vocab,B0165,plural,–,Länder
+vocab,B0168,meaning_en,Portugese,Portuguese
+vocab,B0180,meaning_en,Rhaeto-Romanic (Romansh),Romansh
+vocab,B0185,meaning_en,to,to; at; too
+vocab,B0197,meaning_en,about,about; over; above
+vocab,B0228,meaning_en,at,at the; on the (an dem)
+vocab,B0231,meaning_en,you,you (pl.); her; their
+vocab,B0231,check,paren?,
+vocab,B0334,meaning_en,room,room; space; square
+vocab,B0334,plural,–,Plätze
+vocab,B0441,check,ocr?,
+vocab,B0447,gov,+ Dat.,+ Akk.
+vocab,B0481,meaning_en,u ride,taxi ride
+vocab,B0644,meaning_en,ours,us; (bei uns) at our place
+vocab,B0937,meaning_en,will,to become; will (future auxiliary)
+vocab,B1046,meaning_en,open-air concert,open-air cinema
+vocab,B1093,meaning_en,whereto,where to
+vocab,B1583,meaning_en,story,story; history
+vocab,B1826,meaning_en,to be,to lie; to be located
+vocab,B1868,pos,verb,adjective
+vocab,B1878,check,ocr?,
+vocab,B1948,check,ocr?,
+vocab,B1949,check,ocr?,
+vocab,B1983,check,ocr?,
+vocab,B1986,check,ocr?,
+vocab,B3500,meaning_en,Finnland,Finland
+vocab,B4137,meaning_en,mikro living,micro-living
+vocab,B4322,meaning_en,main role,showpiece role; star role
+vocab,B4998,register,neutral,regional
+vocab,B6372,register,neutral,regional
+vocab,B6406,register,neutral,regional
+redemittel,R0431,priority,core,extra
+redemittel,R0434,priority,core,extra
+redemittel,R0493,priority,core,extra
+redemittel,R0494,priority,core,extra
+redemittel,R0496,priority,core,extra
+redemittel,R0520,priority,core,extra
+redemittel,R0522,priority,core,extra
+redemittel,R0539,priority,core,extra
+redemittel,R0542,priority,core,extra
+redemittel,R0560,priority,core,extra
+redemittel,R0562,priority,core,extra
+redemittel,R0593,priority,core,extra
+redemittel,R0595,priority,core,extra
+redemittel,R0596,priority,core,extra
+redemittel,R0609,priority,core,extra
+redemittel,R0610,priority,core,extra
+redemittel,R0613,priority,core,extra
+redemittel,R0629,priority,core,extra
+redemittel,R0630,priority,core,extra
+redemittel,R0648,priority,core,extra
+redemittel,R0649,priority,core,extra
+redemittel,R0666,priority,core,extra
+redemittel,R0667,priority,core,extra
+redemittel,R0682,priority,core,extra
+redemittel,R0684,priority,core,extra
+redemittel,R0704,priority,core,extra
+redemittel,R0705,priority,core,extra
+redemittel,R0707,priority,core,extra
+redemittel,R0729,priority,core,extra
+redemittel,R0730,priority,core,extra
+redemittel,R0773,priority,core,extra
+redemittel,R0774,priority,core,extra
+redemittel,R0807,priority,core,extra
+redemittel,R0808,priority,core,extra
+redemittel,R0830,priority,core,extra
+redemittel,R0832,priority,core,extra
+redemittel,R0852,priority,core,extra
+redemittel,R0853,priority,core,extra
+redemittel,R0875,priority,core,extra
+redemittel,R0876,priority,core,extra
+redemittel,R0894,priority,core,extra
+redemittel,R0896,priority,core,extra
+redemittel,R0898,priority,core,extra
+redemittel,R0920,priority,core,extra
+redemittel,R0921,priority,core,extra
+redemittel,R0922,priority,core,extra
+redemittel,R0947,priority,core,extra
+redemittel,R0948,priority,core,extra
+redemittel,R0949,priority,core,extra
+redemittel,R0969,priority,core,extra
+redemittel,R0970,priority,core,extra
+redemittel,R0974,priority,core,extra
+redemittel,R1032,priority,core,extra
+redemittel,R1033,priority,core,extra
+redemittel,R1035,priority,core,extra
+redemittel,R1056,priority,core,extra
+redemittel,R1057,priority,core,extra
+redemittel,R1078,priority,core,extra
+redemittel,R1080,priority,core,extra
+redemittel,R1084,priority,core,extra
+redemittel,R1108,priority,core,extra
+redemittel,R1109,priority,core,extra
+redemittel,R1110,priority,core,extra
+redemittel,R1134,priority,core,extra
+redemittel,R1135,priority,core,extra
+redemittel,R1138,priority,core,extra
+redemittel,R1156,priority,core,extra
+redemittel,R1157,priority,core,extra
+redemittel,R1158,priority,core,extra
+redemittel,R1159,priority,core,extra
+redemittel,R1171,priority,core,extra
+redemittel,R1173,priority,core,extra
+redemittel,R1174,priority,core,extra
+redemittel,R1175,priority,core,extra

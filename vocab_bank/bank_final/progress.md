@@ -24,8 +24,7 @@ BLOCK 5 Redemittel wave 2, 3 + export | BLOCK 6 remaining vocab, then skip=yes r
 
 ## Current block / NEXT STEP
 BLOCK 1 DONE (vocab study_order 1-800). BLOCK 2 DONE (Redemittel wave 1, B1-01..B1-20: 408 rows, min 366; export run).
-NEXT: BLOCK 5 DONE (Redemittel 1176 rows, all 55 categories, exported). BLOCK 6: vocab. Use `work/nx.sh vocab 100 --from 2224` style paging via `python3 work/bank_tools.py next vocab 100 --incomplete` (study_order order), write with `python3 work/mk.py vocab`; later skip=yes rows; export. Then BLOCK 7 QA (dup flags, audits, QA_report.md, validate --final = 0 errors).
-Then BLOCK 4 phrases (`work/bank_tools.py next phrase 100`), BLOCK 5 Redemittel wave 2 then 3, BLOCK 6 remaining vocab then skip=yes, BLOCK 7 QA.
+BLOCKS 1-6 DONE (vocab 6524/6524 complete incl. skip=yes rows; phrases 1016; Redemittel 1176, core share 64%; exported). validate --final = 0 errors. NOW: BLOCK 7 QA - audits (150 vocab / 60 phrase / 80 Redemittel), QA_report.md, final export.
 
 ## Decisions
 - Environment: cloud Linux container; root = repo folder vocab_bank/ (input/, bank_final/, work/). Work is committed to git branch claude/intelligent-maxwell-ubz9a4.
