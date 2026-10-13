@@ -1383,3 +1383,33 @@ phrase,P1012,phrase_de,"werde dafür sorgen, dass","ich werde dafür sorgen, das
 phrase,P1013,phrase_de,"denken Sie daran, dass","denken Sie daran, dass ..."
 phrase,P1014,phrase_de,"die Erfahrung gemacht, dass","die Erfahrung gemacht haben, dass ..."
 phrase,P1015,phrase_de,"weiß gar nicht, was","ich weiß gar nicht, was ..."
+redemittel,R0464,meaning_en,"Firstly, it speaks in favour that ...","Firstly, one point in favour is that ..."
+redemittel,R0464,example_en,"Firstly, there is the fact that one saves a lot of time this way.","Firstly, one point in favour is that you save a lot of time this way."
+redemittel,R0520,redemittel_de,Mit freundlichen Grüßen,Ich verbleibe mit freundlichen Grüßen
+redemittel,R0520,meaning_en,Yours sincerely,"I remain, with kind regards"
+redemittel,R0520,example_de,"Mit freundlichen Grüßen, Dr. Aisha Khan","Ich verbleibe mit freundlichen Grüßen, Dr. Aisha Khan"
+redemittel,R0520,example_en,"Yours sincerely, Dr Aisha Khan","I remain, with kind regards, Dr Aisha Khan"
+redemittel,R0520,grammar_note,"Grußformel ohne Satzzeichen, danach Name","verbleiben = Briefschluss, formell"
+redemittel,R0520,variants,Freundliche Grüße | Hochachtungsvoll,Mit besten Grüßen | Mit freundlichem Gruß
+redemittel,R0613,redemittel_de,An deiner Stelle würde ich ...,"Wenn ich du wäre, würde ich ..."
+redemittel,R0613,example_de,An deiner Stelle würde ich den Arzt anrufen.,"Wenn ich du wäre, würde ich einen Termin beim Arzt machen."
+redemittel,R0613,example_en,"If I were you, I would call the doctor.","If I were you, I would make an appointment with the doctor."
+redemittel,R0613,grammar_note,Konjunktiv II: würde + Infinitiv,"Konjunktiv II: wäre, würde + Infinitiv"
+redemittel,R0613,variants,"Wenn ich du wäre, würde ich ... | Ich würde dir raten, ... zu ...","An deiner Stelle würde ich ... | Ich würde dir raten, ... zu ..."
+redemittel,R0632,redemittel_de,"Mir ist aufgefallen, dass ...","Ich habe bemerkt, dass ..."
+redemittel,R0632,meaning_en,I noticed that ...,I have noticed that ...
+redemittel,R0632,example_de,"Mir ist aufgefallen, dass die Übergabe oft zu spät beginnt.","Ich habe bemerkt, dass die Übergabe oft zu spät beginnt."
+redemittel,R0632,example_en,I noticed that handover often starts too late.,I have noticed that the handover often starts late.
+redemittel,R0632,grammar_note,auffallen + Dativ; dass-Satz,bemerken + dass-Satz
+redemittel,R0632,variants,"Ich habe beobachtet, dass ... | Mir fällt auf, dass ...","Mir ist etwas aufgefallen: ... | Ich habe festgestellt, dass ..."
+redemittel,R0479,redemittel_de,Hiermit möchte ich mich über ... beschweren.,Leider muss ich mich bei Ihnen über ... beschweren.
+redemittel,R0479,meaning_en,I hereby wish to complain about ...,Unfortunately I have to complain to you about ...
+redemittel,R0479,example_de,Hiermit möchte ich mich über die Verspätung meiner Lieferung beschweren.,Leider muss ich mich bei Ihnen über die schlechte Qualität der Ware beschweren.
+redemittel,R0479,example_en,I hereby wish to complain about the delay of my delivery.,Unfortunately I have to complain to you about the poor quality of the goods.
+redemittel,R0479,variants,"Ich wende mich an Sie, weil ... | Leider muss ich mich bei Ihnen über ... beschweren.",Ich bin mit ... unzufrieden und möchte mich beschweren. | Hiermit beschwere ich mich über ...
+redemittel,R0498,redemittel_de,"Sehr geehrte Damen und Herren,","Sehr geehrte Frau Doktor ...,"
+redemittel,R0498,meaning_en,"Dear Sir or Madam,","Dear Dr ... (female addressee),"
+redemittel,R0498,example_de,"Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen Ihrer Stellenanzeige.","Sehr geehrte Frau Doktor Weber, ich schreibe Ihnen wegen meiner Bewerbung."
+redemittel,R0498,example_en,"Dear Sir or Madam, I am writing to you regarding your job advertisement.","Dear Dr Weber, I am writing to you about my application."
+redemittel,R0498,grammar_note,Anrede mit Komma; Satz danach klein,Anrede mit Titel; danach Komma und Kleinschreibung
+redemittel,R0498,variants,"Sehr geehrte Frau Dr. Schmidt, | Sehr geehrter Herr Professor Müller,","Sehr geehrter Herr Doktor ..., | Sehr geehrte Frau Professorin ...,"

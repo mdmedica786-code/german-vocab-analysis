@@ -24,7 +24,7 @@ BLOCK 5 Redemittel wave 2, 3 + export | BLOCK 6 remaining vocab, then skip=yes r
 
 ## Current block / NEXT STEP
 BLOCK 1 DONE (vocab study_order 1-800). BLOCK 2 DONE (Redemittel wave 1, B1-01..B1-20: 408 rows, min 366; export run).
-NEXT: BLOCK 4 DONE (phrase bank complete, 1016/1016, exported). BLOCK 5 = Redemittel wave 2 (B2-01..B2-13) then wave 3 (FSP-01..FSP-22): `python3 work/bank_tools.py status` shows open categories; write rows with `python3 work/mk.py redemittel` (@CAT_ID then NEW lines, max 40 rows per step), export after each wave. Then BLOCK 6 (vocab study_order 2501+ then skip=yes), BLOCK 7 (QA, dup resolution, QA_report.md, final export).
+NEXT: BLOCK 5 wave 2 DONE (B2-01..B2-13, 667 Redemittel rows, exported). Now wave 3 FSP-01..FSP-22 (see `python3 work/bank_tools.py status`), then export; then BLOCK 6 (vocab study_order 2501+, then skip=yes), BLOCK 7 (QA: dup flags, audits, QA_report.md, final export).
 Then BLOCK 4 phrases (`work/bank_tools.py next phrase 100`), BLOCK 5 Redemittel wave 2 then 3, BLOCK 6 remaining vocab then skip=yes, BLOCK 7 QA.
 
 ## Decisions
