@@ -1,0 +1,69 @@
+A¦melancholisch¦melancholic¦T14¦Im Herbst werde ich oft melancholisch.¦In autumn I often become melancholic.¦melancholisch werden | melancholisch klingen | eine melancholische Stimmung¦Lesen; Sprechen
+A¦mürrisch¦grumpy; sullen¦T14¦Er saß mürrisch am Frühstückstisch.¦He sat grumpily at the breakfast table.¦mürrisch antworten | ein mürrischer Mensch | mürrisch aussehen¦Lesen; Sprechen
+A¦naiv¦naive¦T14¦Es war naiv zu glauben, dass alles einfach wird.¦It was naive to believe that everything would be easy.¦naiv sein | naiv wirken | eine naive Vorstellung¦Sprechen; Lesen
+A¦neidisch¦envious; jealous¦T14¦Sie ist neidisch auf den Erfolg ihrer Kollegin.¦She is envious of her colleague's success.¦neidisch sein auf | neidisch schauen | neidisch werden¦Sprechen; Alltag
+A¦niedergeschlagen¦downcast; dejected¦T14¦Nach der Absage war er tagelang niedergeschlagen.¦After the rejection he was downcast for days.¦niedergeschlagen sein | niedergeschlagen wirken | sich niedergeschlagen fühlen¦Sprechen; Lesen
+A¦nüchtern¦sober; matter-of-fact; on an empty stomach¦T14¦Eine nüchterne Betrachtung zeigt, dass der Plan zu teuer ist.¦A sober look shows that the plan is too expensive.¦nüchtern betrachten | nüchtern bleiben | auf nüchternen Magen¦Lesen; Schreiben
+A¦oberflächlich¦superficial¦T14¦Ich habe den Bericht nur oberflächlich gelesen.¦I only read the report superficially.¦oberflächlich betrachten | ein oberflächlicher Mensch | oberflächlich kennen¦Sprechen; Schreiben
+A¦panisch¦panic-stricken¦T14¦Sie rannte in panischer Angst aus dem Raum.¦She ran from the room in panic.¦panisch reagieren | panische Angst | panisch fliehen¦Lesen; Hören
+A¦pedantisch¦pedantic¦T14¦Mein Chef ist bei Zahlen sehr pedantisch.¦My boss is very pedantic about numbers.¦pedantisch genau | ein pedantischer Mensch | pedantisch sein¦Sprechen; Lesen
+A¦pessimistisch¦pessimistic¦T14¦Die Ärzte sind eher pessimistisch, was die Heilung angeht.¦The doctors are rather pessimistic about the recovery.¦pessimistisch sein | pessimistisch in die Zukunft blicken | eine pessimistische Prognose¦Sprechen; Schreiben
+A¦pingelig¦fussy; nitpicky¦T14¦Er ist beim Essen sehr pingelig.¦He is very fussy about food.¦pingelig sein | pingelig prüfen | ein pingeliger Typ¦Sprechen; Alltag¦rg=colloquial
+A¦plump¦clumsy; crude¦T14¦Sein Annäherungsversuch war ziemlich plump.¦His attempt to get closer was rather clumsy.¦ein plumper Versuch | plump wirken | eine plumpe Lüge¦Lesen; Sprechen
+A¦ratlos¦at a loss; helpless¦T14¦Die Ärzte standen dem Fall ratlos gegenüber.¦The doctors were at a loss when faced with the case.¦ratlos sein | ratlos wirken | jemanden ratlos zurücklassen¦Sprechen; Lesen
+A¦redselig¦talkative; garrulous¦T14¦Mein Nachbar ist sehr redselig und erzählt gern.¦My neighbour is very talkative and likes to tell stories.¦redselig sein | ein redseliger Mensch | redselig werden¦Sprechen; Lesen
+A¦reizbar¦irritable¦T14¦Wenn er müde ist, wird er schnell reizbar.¦When he is tired he quickly becomes irritable.¦reizbar sein | leicht reizbar | reizbar reagieren¦Sprechen; Lesen
+A¦resolut¦resolute; firm¦T14¦Sie lehnte den Vorschlag resolut ab.¦She rejected the proposal resolutely.¦resolut auftreten | resolut ablehnen | eine resolute Frau¦Lesen; Schreiben
+A¦rührend¦touching; moving¦T14¦Es war rührend, wie sie sich um ihn kümmerte.¦It was touching how she looked after him.¦eine rührende Geste | rührend besorgt | rührend kümmern¦Sprechen; Lesen
+A¦ruhelos¦restless¦T14¦Er wanderte ruhelos durch die Wohnung.¦He wandered restlessly through the flat.¦ruhelos umherirren | ruhelos sein | ein ruheloses Leben¦Lesen; Sprechen
+A¦rücksichtslos¦inconsiderate; ruthless¦T14¦Rücksichtslose Fahrer gefährden andere Verkehrsteilnehmer.¦Inconsiderate drivers endanger other road users.¦rücksichtslos fahren | rücksichtslos vorgehen | ein rücksichtsloser Mensch¦Sprechen; Lesen
+A¦sanftmütig¦gentle; meek¦T14¦Er ist ein sanftmütiger Mensch und streitet nie.¦He is a gentle person and never argues.¦sanftmütig sein | ein sanftmütiges Wesen | sanftmütig lächeln¦Lesen; Schreiben
+A¦schadenfroh¦gloating; malicious¦T14¦Er grinste schadenfroh, als ich stolperte.¦He grinned gloatingly when I stumbled.¦schadenfroh lachen | schadenfroh sein | schadenfroh grinsen¦Sprechen; Lesen
+A¦scheu¦shy; timid¦T14¦Das Reh war scheu und lief davon.¦The deer was timid and ran away.¦ein scheues Tier | scheu sein | scheu lächeln¦Lesen; Sprechen
+A¦schlagfertig¦quick-witted¦T14¦Sie ist schlagfertig und weiß immer eine Antwort.¦She is quick-witted and always knows an answer.¦schlagfertig antworten | schlagfertig sein | eine schlagfertige Antwort¦Sprechen; Lesen
+A¦schlampig¦sloppy; careless¦T14¦Das ist schlampig gearbeitet, so geht das nicht.¦That is sloppy work; it won't do like that.¦schlampig arbeiten | schlampig aussehen | schlampig geschrieben¦Sprechen; Alltag
+A¦schlau¦clever; smart¦T14¦Ein schlauer Plan hat uns gerettet.¦A clever plan saved us.¦ein schlauer Kopf | sich schlau machen | schlau werden aus¦Sprechen; Alltag
+A¦schroff¦curt; abrupt¦T14¦Er antwortete schroff und beendete das Gespräch.¦He answered curtly and ended the conversation.¦schroff antworten | schroff ablehnen | ein schroffer Ton¦Lesen; Sprechen
+A¦selbstbewusst¦self-confident¦T14¦Sie tritt vor Publikum sehr selbstbewusst auf.¦She appears very self-confident in front of an audience.¦selbstbewusst auftreten | ein selbstbewusster Mensch | selbstbewusst wirken¦Sprechen; Schreiben
+A¦selbstlos¦selfless¦T14¦Sie hilft selbstlos in der Flüchtlingshilfe.¦She helps selflessly in refugee assistance.¦selbstlos helfen | eine selbstlose Tat | selbstlos handeln¦Lesen; Schreiben
+A¦selbstsicher¦self-assured¦T14¦Sie beantwortete alle Fragen selbstsicher.¦She answered all the questions self-assuredly.¦selbstsicher auftreten | selbstsicher wirken | selbstsicher antworten¦Sprechen; Schreiben
+A¦sensibel¦sensitive¦T14¦Er ist ein sehr sensibler Mensch und nimmt Kritik persönlich.¦He is a very sensitive person and takes criticism personally.¦sensibel reagieren | ein sensibles Thema | sensible Daten¦Sprechen; Schreiben
+A¦skeptisch¦sceptical¦T14¦Ich bin skeptisch, ob das Projekt klappt.¦I am sceptical whether the project will work.¦skeptisch sein | skeptisch blicken | skeptisch gegenüber¦Sprechen; Schreiben
+A¦spießig¦stuffy; narrow-minded (colloquial)¦T14¦Die Nachbarn finden unseren Lebensstil spießig.¦The neighbours find our lifestyle stuffy.¦spießig sein | eine spießige Wohnung | spießig wirken¦Sprechen; Alltag¦rg=colloquial
+A¦spöttisch¦mocking; derisive¦T14¦Er lächelte spöttisch über ihre Antwort.¦He smiled mockingly at her answer.¦spöttisch lächeln | eine spöttische Bemerkung | spöttisch sein¦Lesen; Sprechen
+A¦sprachlos¦speechless¦T14¦Als ich das Geschenk sah, war ich sprachlos.¦When I saw the present I was speechless.¦sprachlos sein | sprachlos zurücklassen | vor Staunen sprachlos¦Sprechen; Lesen
+A¦spröde¦brittle; chapped; aloof¦T05¦Im Winter wird die Haut oft trocken und spröde.¦In winter the skin often becomes dry and chapped.¦spröde Lippen | spröde Haut | sprödes Material¦Alltag; Lesen
+A¦standhaft¦steadfast; firm¦T14¦Er blieb trotz des Drucks standhaft.¦He remained steadfast despite the pressure.¦standhaft bleiben | standhaft bleiben müssen | standhaft verweigern¦Lesen; Schreiben
+A¦tapfer¦brave; valiant¦T14¦Der kleine Junge war beim Impfen sehr tapfer.¦The little boy was very brave at the vaccination.¦tapfer sein | sich tapfer schlagen | tapfer durchhalten¦Sprechen; Alltag
+A¦taktlos¦tactless¦T14¦Es war taktlos von ihm, nach ihrem Alter zu fragen.¦It was tactless of him to ask about her age.¦taktlos sein | eine taktlose Bemerkung | sich taktlos verhalten¦Sprechen; Lesen
+A¦tatenlos¦idle; passive¦T12¦Die Regierung kann dem Problem nicht länger tatenlos zusehen.¦The government can no longer look on idly at the problem.¦tatenlos zusehen | tatenlos bleiben | tatenlos zuschauen¦Lesen; Medien
+A¦trotzig¦defiant; sulky¦T14¦Das Kind schaute trotzig zur Seite.¦The child looked away defiantly.¦trotzig sein | trotzig antworten | ein trotziges Kind¦Sprechen; Alltag
+A¦überheblich¦arrogant; overbearing¦T14¦Sein überhebliches Verhalten stieß auf Ablehnung.¦His arrogant behaviour met with rejection.¦überheblich sein | überheblich auftreten | überheblich wirken¦Sprechen; Lesen
+A¦übermütig¦high-spirited; cocky¦T14¦Die Kinder waren am letzten Schultag übermütig.¦The children were high-spirited on the last day of school.¦übermütig werden | übermütig sein | übermütig lachen¦Lesen; Sprechen
+A¦unbeholfen¦clumsy; awkward¦T14¦Er bedankte sich unbeholfen bei den Gästen.¦He thanked the guests awkwardly.¦unbeholfen wirken | sich unbeholfen bewegen | unbeholfen formulieren¦Lesen; Sprechen
+A¦unentschlossen¦undecided; irresolute¦T14¦Ich bin noch unentschlossen, welchen Kurs ich wähle.¦I am still undecided which course I will choose.¦unentschlossen sein | unentschlossen wirken | unentschlossen zögern¦Sprechen; Schreiben
+A¦unnahbar¦unapproachable; aloof¦T14¦Der Chef wirkt auf viele Mitarbeiter unnahbar.¦The boss seems unapproachable to many employees.¦unnahbar wirken | unnahbar sein | eine unnahbare Person¦Lesen; Sprechen
+A¦unverschämt¦impertinent; outrageous¦T14¦Es ist unverschämt, so spät noch anzurufen.¦It is outrageous to call so late.¦unverschämt sein | unverschämte Preise | eine unverschämte Frage¦Sprechen; Alltag
+A¦verbittert¦embittered; bitter¦T14¦Nach den vielen Enttäuschungen wurde er verbittert.¦After the many disappointments he became embittered.¦verbittert sein | verbittert wirken | verbittert werden¦Lesen; Sprechen
+A¦verblüfft¦astonished; baffled¦T14¦Sie war verblüfft über seine ehrliche Antwort.¦She was astonished by his honest answer.¦verblüfft sein | verblüfft schauen | verblüfft über etwas¦Sprechen; Lesen
+A¦verdrossen¦sullen; disgruntled¦T14¦Er verließ verdrossen den Raum.¦He left the room sullenly.¦verdrossen wirken | verdrossen sein | verdrossen schweigen¦Lesen; Schreiben
+A¦verbissen¦dogged; grim¦T14¦Er kämpfte verbissen um seinen Platz im Team.¦He fought doggedly for his place on the team.¦verbissen kämpfen | verbissen arbeiten | ein verbissenes Gesicht¦Lesen; Sprechen
+A¦verfroren¦chilly; sensitive to cold¦T05¦Meine Hände sind ganz verfroren.¦My hands are quite frozen.¦verfroren sein | ein verfrorener Mensch | verfroren aussehen¦Alltag; Sprechen
+A¦verkrampft¦tense; strained¦T14¦Beim Vorstellungsgespräch wirkte sie verkrampft.¦At the job interview she seemed tense.¦verkrampft wirken | verkrampft lachen | ein verkrampftes Lächeln¦Sprechen; Lesen
+A¦verletzlich¦vulnerable¦T14¦Kleine Kinder sind besonders verletzlich.¦Small children are particularly vulnerable.¦verletzlich sein | verletzlich wirken | sich verletzlich zeigen¦Lesen; Sprechen
+A¦verlogen¦lying; hypocritical¦T14¦Ich finde seine Freundlichkeit verlogen.¦I find his friendliness hypocritical.¦verlogen sein | eine verlogene Moral | ein verlogener Mensch¦Sprechen; Lesen
+A¦verschmitzt¦mischievous; roguish¦T14¦Er lächelte verschmitzt und sagte nichts.¦He smiled mischievously and said nothing.¦verschmitzt lächeln | verschmitzt grinsen | verschmitzt blicken¦Lesen; Sprechen
+A¦verschwenderisch¦lavish; wasteful¦T07¦Sie geht verschwenderisch mit Wasser um.¦She is wasteful with water.¦verschwenderisch leben | verschwenderisch umgehen mit | ein verschwenderischer Lebensstil¦Lesen; Sprechen
+A¦versöhnlich¦conciliatory¦T14¦Am Ende fand er versöhnliche Worte.¦In the end he found conciliatory words.¦versöhnliche Worte | versöhnlich klingen | versöhnlich stimmen¦Lesen; Schreiben
+A¦verstockt¦obstinate; stubborn¦T14¦Der Angeklagte blieb verstockt und schwieg.¦The accused remained obstinate and kept silent.¦verstockt sein | verstockt schweigen | ein verstockter Mensch¦Lesen; Sprechen
+A¦vorlaut¦cheeky; forward¦T14¦Sei nicht so vorlaut, wenn Erwachsene sprechen!¦Don't be so cheeky when adults are speaking!¦vorlaut sein | eine vorlaute Bemerkung | ein vorlautes Kind¦Sprechen; Alltag
+A¦wachsam¦vigilant; watchful¦T14¦Der Wachhund ist wachsam und bellt bei jedem Geräusch.¦The guard dog is vigilant and barks at every noise.¦wachsam sein | wachsam bleiben | ein wachsames Auge¦Lesen; Sprechen
+A¦wehleidig¦whiny; self-pitying¦T14¦Sei nicht so wehleidig, es ist nur ein kleiner Kratzer!¦Don't be so whiny; it's only a small scratch!¦wehleidig sein | wehleidig klingen | ein wehleidiger Mensch¦Sprechen; Alltag
+A¦weinerlich¦tearful; whiny¦T14¦Das Kind wurde müde und weinerlich.¦The child became tired and tearful.¦weinerlich klingen | weinerlich werden | eine weinerliche Stimme¦Sprechen; Alltag
+A¦weltfremd¦unworldly; out of touch¦T14¦Seine Vorschläge wirken ziemlich weltfremd.¦His proposals seem rather out of touch with reality.¦weltfremd sein | weltfremd wirken | eine weltfremde Vorstellung¦Lesen; Sprechen
+A¦wählerisch¦picky; choosy¦T14¦Mein Sohn ist beim Essen sehr wählerisch.¦My son is very picky about food.¦wählerisch sein | beim Essen wählerisch | nicht wählerisch sein¦Sprechen; Alltag
+A¦zerstreut¦absent-minded; scattered¦T14¦Der Professor ist oft zerstreut und vergisst alles.¦The professor is often absent-minded and forgets everything.¦zerstreut sein | zerstreut wirken | ein zerstreuter Professor¦Sprechen; Alltag
+A¦zickig¦bitchy; moody (colloquial)¦T14¦Sie war gestern ziemlich zickig.¦She was rather moody yesterday.¦zickig sein | zickig reagieren | eine zickige Antwort¦Sprechen; Alltag¦rg=colloquial
+A¦zimperlich¦squeamish; overly delicate¦T14¦Sei nicht so zimperlich, das tut nicht weh!¦Don't be so squeamish; it doesn't hurt!¦nicht zimperlich sein | zimperlich reagieren | zimperlich tun¦Sprechen; Alltag
+A¦zuvorkommend¦obliging; courteous¦T14¦Das Personal im Hotel war sehr zuvorkommend.¦The staff at the hotel were very obliging.¦zuvorkommend behandeln | zuvorkommend sein | eine zuvorkommende Bedienung¦Alltag; Schreiben
+A¦zwiespältig¦ambivalent; mixed¦T14¦Ich habe ein zwiespältiges Gefühl bei dem Plan.¦I have mixed feelings about the plan.¦ein zwiespältiges Gefühl | zwiespältig reagieren | zwiespältig bewerten¦Lesen; Schreiben

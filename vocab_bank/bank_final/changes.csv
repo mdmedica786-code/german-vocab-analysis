@@ -1,0 +1,2610 @@
+﻿bank,id,column,old,new
+vocab,B2700,meaning_en,to leave,to leave; to let
+vocab,B0017,meaning_en,to fit together,to belong together; to fit together
+vocab,B0018,meaning_en,highway,motorway; freeway
+vocab,B0018,example_de,Wo geht‘s hier bitte zur Autobahn?,Wo geht's hier bitte zur Autobahn?
+vocab,B0019,meaning_en,sandwich,bread and butter; sandwich
+vocab,B2694,pos,conjunction,adverb
+vocab,B0027,meaning_en,sick person,sick person; patient
+vocab,B0027,check,article?,
+vocab,B0029,meaning_en,sausage,small sausage; frankfurter
+vocab,B0032,example_en,"“Sausage” in Italian is called ""wurstel”.","In Italian, “Würstchen” is called “wurstel”."
+vocab,B0032,meaning_en,to be called,to be called; to mean
+vocab,B0032,example_de,„Würstchen” heißt auf Italienisch „wurstel”.,„Würstchen“ heißt auf Italienisch „wurstel“.
+vocab,B2534,meaning_en,to stop,to hold; to stop; to keep
+vocab,B2534,other_senses,to hold,
+vocab,B0039,meaning_en,other,other; different
+vocab,B3485,example_en,Advertisements help that customers buy certain products.,I was there when that happened.
+vocab,B3485,example_de,"Werbung hilft dabei, dass Kunden bestimmte Produkte kaufen.","Ich war dabei, als das passiert ist."
+vocab,B3485,example_source,netzwerk,claude
+vocab,B0043,check,ocr?,
+vocab,B0044,meaning_en,to make,to make; to do
+vocab,B0044,gov,zu + Dat.,
+vocab,B2589,meaning_en,if,if; whether
+vocab,B0047,meaning_en,also,also; too
+vocab,B3945,meaning_en,case,case; instance; fall
+vocab,B0049,register,neutral,informal
+vocab,B0053,example_en,"I'm sorry, what is your name?","Excuse me, what's your name?"
+vocab,B0054,meaning_en,whole,quite; entirely; whole
+vocab,B0055,meaning_en,to go,to go; to walk
+vocab,B0057,meaning_en,to hear,to hear; to listen
+vocab,B0061,example_en,"How are you? Thank you, very well.","How are you? – Thanks, very well."
+vocab,B0063,register,neutral,informal
+vocab,B0067,meaning_en,well-known,well-known; famous
+vocab,B2627,meaning_en,to sit,to sit down; to put; to set
+vocab,B0072,example_en,"Good morning, Miss I Mrs I Ms Weber","Good morning, Ms Weber."
+vocab,B0072,meaning_en,"Miss, Mrs, Ms",Ms; Mrs (title)
+vocab,B0072,other_senses,woman,woman; wife
+vocab,B2602,meaning_en,to determine,to determine; to decide
+vocab,B0076,example_en,"Good day, Mr Hansen","Good day, Mr Hansen."
+vocab,B0076,meaning_en,Mr,Mr; Sir (title)
+vocab,B2010,meaning_en,further,further; on; onward
+vocab,B4950,meaning_en,as well as,as well as; as soon as
+vocab,B0088,example_de,Das Theaterstück kommt auf die Bühne.,Woher kommst du?
+vocab,B0088,example_en,The play is coming to stage.,Where are you from?
+vocab,B0088,example_source,netzwerk,claude
+vocab,B0088,gov,zu + Dat.,
+vocab,B0088,meaning_en,to come from,to come; to come from
+vocab,B0088,other_senses,to come,
+vocab,B0089,meaning_en,travel guide (m),tour guide (m); guidebook
+vocab,B0089,other_senses,travel guide,
+vocab,B0090,meaning_en,travel guide (f),tour guide (f)
+vocab,B0090,check,ocr?,
+vocab,B0093,meaning_en,which,which; some
+vocab,B0097,check,ocr?,
+vocab,B0103,meaning_en,to complete,to complete; to supplement
+vocab,B2177,gov,aus + Dat.,aus + Dat. | auf + Dat.
+vocab,B2177,meaning_en,to pass,to pass; to consist; to exist
+vocab,B2177,other_senses,to consist,
+vocab,B0109,gov,zu + Dat.,+ Dat.
+vocab,B0109,meaning_en,to guess,to guess; to advise
+vocab,B0110,meaning_en,to introduce,to introduce; to present
+vocab,B0110,other_senses,sich: to imagine,sich (Dat.) vorstellen: to imagine
+vocab,B2963,meaning_en,to lie,to lay; to put (down)
+vocab,B3308,meaning_en,such,such; such a
+vocab,B0121,meaning_en,loud,loud; (prep.) according to
+vocab,B0121,pos,preposition,adjective
+vocab,B0122,meaning_en,to speak along,to speak along; to join in
+vocab,B2986,meaning_en,to apply,to apply; to be valid
+vocab,B3939,meaning_en,though,however; though; admittedly
+vocab,B0145,meaning_en,conversation,conversation; talk
+vocab,B2719,meaning_en,single,single; individual
+vocab,B0147,pos,particle,conjunction
+vocab,B0148,meaning_en,period,period (full stop); point; dot
+vocab,B0148,other_senses,point,
+vocab,B2510,meaning_en,fixed,fixed; firm; solid
+vocab,B0152,meaning_en,please,please; you're welcome
+vocab,B1921,meaning_en,sense,sense; meaning; point
+vocab,B2236,meaning_en,to recognize,to recognise; to realise
+vocab,B0190,meaning_en,condition,condition; state of health; well-being
+vocab,B0191,meaning_en,upon,on it; on that; after that
+vocab,B0193,meaning_en,to great,to greet
+vocab,B0195,check,ocr?,
+vocab,B0195,meaning_en,useful phrases,useful phrase (for speaking and writing)
+vocab,B0200,meaning_en,glad,gladly; with pleasure
+vocab,B3066,meaning_en,most,mostly; most of the time
+vocab,B3812,meaning_en,about that,about that; over it; above it
+vocab,B0211,meaning_en,to mark,to tick; to mark with a cross
+vocab,B0212,meaning_en,movie theater,cinema; movie theater
+vocab,B0218,meaning_en,yes,yes; (modal particle) indeed
+vocab,B0220,check,paren?,
+vocab,B0225,meaning_en,super,super; great
+vocab,B0225,register,neutral,colloquial
+vocab,B0226,register,neutral,informal
+vocab,B3402,meaning_en,therefore,therefore; from there
+vocab,B4822,meaning_en,to be released,to appear; to be published; to seem
+vocab,B4822,example_en,The magazine is released once a month.,The magazine is published once a month.
+vocab,B0240,example_en,Work in threes,Work in threes.
+vocab,B0241,meaning_en,"form, shape, mold",form; shape; mould
+vocab,B0241,other_senses,form,
+vocab,B1979,meaning_en,each,each; per; ever
+vocab,B3747,meaning_en,about that,on it; at it; of it
+vocab,B5147,pos,adjective,numeral
+vocab,B0257,meaning_en,to repeat,to repeat (after sb.)
+vocab,B0258,check,ocr?,
+vocab,B2919,meaning_en,just,just; just now; exactly
+vocab,B0259,meaning_en,to pay attention to sth,to pay attention to; to respect
+vocab,B0259,gov,auf,auf + Akk.
+vocab,B0262,lemma,Cafe,Café
+vocab,B0262,plural,Cafes,Cafés
+vocab,B2483,meaning_en,distinct,clear; distinct
+vocab,B0265,meaning_en,every,every; each
+vocab,B0266,check,ocr?,
+vocab,B0266,meaning_en,course room,classroom; course room
+vocab,B4906,meaning_en,equivalent,corresponding; appropriate; accordingly
+vocab,B0277,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B0277,example_de,Ich muss heute zum Arzt.,Die Ärztin untersucht den Patienten.
+vocab,B0277,example_source,goethe,claude
+vocab,B4685,meaning_en,only,only; sole; single
+vocab,B0280,meaning_en,certain,certain; definite
+vocab,B0283,preterite,es hat gegeben,gab
+vocab,B0283,meaning_en,to give,to give; (es gibt) there is/are
+vocab,B0286,example_de,Ich bin Kellnerin von Beruf.,Der Kellner bringt uns die Speisekarte.
+vocab,B0286,example_source,goethe,claude
+vocab,B0289,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B0292,lemma,neutrum,Neutrum
+vocab,B0293,topic,"T07 Einkaufen, Kleidung & Geld","T16 Allgemein (Funktionswörter, abstrakter Wortschatz)"
+vocab,B0293,example_en,which picture matched to which text?,Which photo matches the text?
+vocab,B0293,meaning_en,to match,to fit; to match; to suit
+vocab,B0293,other_senses,to fit,
+vocab,B0297,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B0297,meaning_en,injection,injection; syringe
+vocab,B0302,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3962,meaning_en,to originate,to arise; to come into being; to be built
+vocab,B0304,check,ocr?,
+vocab,B0309,check,ocr?,
+vocab,B0311,meaning_en,to search,to search; to look for
+vocab,B0319,meaning_en,to drive,to drive; to go (by vehicle)
+vocab,B0319,pres_3sg,fahrt,fährt
+vocab,B0320,meaning_en,to have a holiday,to have time off; to have a day off
+vocab,B0320,check,ocr?,
+vocab,B0324,example_en,I drive 68.000 kilometres per year.,"I drive 68,000 kilometres per year."
+vocab,B0325,meaning_en,kilometre (=km),kilometre
+vocab,B0326,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B0327,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B4871,meaning_en,initially,first of all; initially
+vocab,B0332,example_de,Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.,Der Patient klagt über starke Schmerzen.
+vocab,B0332,example_source,goethe,claude
+vocab,B0333,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B0335,example_en,Are you pro or con globalization?,Are you for or against globalisation?
+vocab,B4323,plural,Tode,–
+vocab,B0339,meaning_en,a lot,a lot; much
+vocab,B0345,meaning_en,all,all; every
+vocab,B0345,other_senses,every,
+vocab,B0354,check,ocr?,
+vocab,B0355,meaning_en,mutual,mutual; each other
+vocab,B0356,meaning_en,learning cards,flashcard; learning card
+vocab,B0356,check,ocr?,
+vocab,B0357,meaning_en,to switch,to swap; to exchange
+vocab,B0357,pres_3sg,tauscht (aus),tauscht
+vocab,B0357,perfect,hat (aus)getauscht,hat getauscht
+vocab,B0358,example_de,Dieses Haus hat eine berühmte Architektin gebaut.,Der Architekt zeichnet den Plan für das neue Haus.
+vocab,B0358,example_source,goethe,claude
+vocab,B3339,example_en,"All in all, it's more lonely here on the alp.","All in all, it's rather lonely up here on the alp."
+vocab,B0366,example_de,Unsere Deutschlehrerin heißt Frau Müller.,Der Lehrer erklärt die Aufgabe noch einmal.
+vocab,B0366,example_source,goethe,claude
+vocab,B0372,check,ocr?,
+vocab,B0375,meaning_en,craftsman,tradesman; craftsman
+vocab,B0376,example_de,Morgen sind bei uns die Handwerker.,Die Handwerkerin repariert das Dach.
+vocab,B0376,example_source,goethe,claude
+vocab,B0376,meaning_en,craftswoman,tradeswoman; craftswoman
+vocab,B0377,example_de,Meine Tochter möchte Journalistin werden.,Der Journalist schreibt einen Artikel über die Wahl.
+vocab,B0377,example_source,goethe,claude
+vocab,B2120,meaning_en,some,some; many a
+vocab,B0379,meaning_en,solicitor (m),lawyer; legal expert
+vocab,B0380,meaning_en,solicitor (f),lawyer; legal expert
+vocab,B0382,example_de,Ein Freund von mir ist Koch in einem teuren Restaurant.,Die Köchin bereitet das Mittagessen vor.
+vocab,B0382,example_source,goethe,claude
+vocab,B2718,meaning_en,to offer,to offer; to bid
+vocab,B0384,example_de,Das kann nur ein Mechaniker reparieren.,Die Mechanikerin wechselt die Reifen.
+vocab,B0384,example_source,goethe,claude
+vocab,B0386,example_de,Die Ampel war kaputt. Ein Polizist hat den Verkehr geregelt.,Die Polizistin stoppt das Auto.
+vocab,B0386,example_source,goethe,claude
+vocab,B0395,check,ocr?,
+vocab,B0395,meaning_en,article picture,picture with an article
+vocab,B0398,meaning_en,to remember,to notice; to remember (sich merken)
+vocab,B0398,other_senses,to notice,
+vocab,B0410,meaning_en,personally,personal; personally
+vocab,B0411,meaning_en,to fit together,to match; to go together
+vocab,B0420,meaning_en,zip code,postcode; zip code
+vocab,B0424,meaning_en,to choose,to choose; to dial; to vote
+vocab,B0440,meaning_en,fourty,forty
+vocab,B5039,meaning_en,small,small; slight; low
+vocab,B0449,meaning_en,first,first (ordinal)
+vocab,B0449,pos,adjective,numeral
+vocab,B0455,meaning_en,to cost,costs; expenses
+vocab,B3490,meaning_en,to be enough,to be enough; to hand; to reach
+vocab,B0468,meaning_en,person,person; human being
+vocab,B0477,meaning_en,Swiss word for: hello,hello (Swiss German)
+vocab,B0477,register,neutral,regional
+vocab,B0480,meaning_en,good morning,hello; good morning (northern Germany)
+vocab,B0480,register,neutral,regional
+vocab,B0486,register,neutral,colloquial
+vocab,B4202,meaning_en,to mean,to describe; to call; to designate
+vocab,B0489,meaning_en,true,correct; right
+vocab,B0489,example_en,Is the sentence true or false?,Is the sentence correct or wrong?
+vocab,B3552,meaning_en,process,trial; process
+vocab,B0491,meaning_en,pretty,beautiful; nice; pretty
+vocab,B0494,meaning_en,to stand up,to get up; to stand up
+vocab,B0495,meaning_en,to form,to form; to educate
+vocab,B0498,meaning_en,indeterminate,indefinite; vague
+vocab,B0498,example_en,the indeterminate article,the indefinite article
+vocab,B4172,meaning_en,at the moment,just; at the moment
+vocab,B4172,register,neutral,colloquial
+vocab,B0509,meaning_en,comic strip,picture story; comic strip
+vocab,B0509,check,ocr?,
+vocab,B0513,meaning_en,to point,to show; to point
+vocab,B0513,other_senses,to show,
+vocab,B0521,meaning_en,luck,luck; happiness
+vocab,B2237,meaning_en,besides,besides; in addition
+vocab,B0526,check,ocr?,
+vocab,B0527,check,ocr?,
+vocab,B0531,meaning_en,thanks,thanks; gratitude
+vocab,B0535,meaning_en,time,time (occasion)
+vocab,B0538,meaning_en,starting line,start; take-off
+vocab,B5159,lemma,veröffentlicht,veröffentlichen
+vocab,B0549,check,ocr?,
+vocab,B4765,example_en,to fulfill an important function,to fulfil an important function
+vocab,B0558,example_de,Der Film war toll. Die Schauspieler waren sehr gut.,Die Schauspielerin spielt die Hauptrolle.
+vocab,B0558,example_source,goethe,claude
+vocab,B3639,meaning_en,relationship,relationship; ratio; (pl.) conditions
+vocab,B3142,meaning_en,piece,factory; plant; work (of art)
+vocab,B3421,example_en,"It was pure luck, that I found my mobile phone again.",It was pure luck that I found my mobile phone again.
+vocab,B3421,meaning_en,pure,pure; clean; sheer
+vocab,B4999,meaning_en,to climb,to rise; to climb
+vocab,B0586,example_en,To help during times of need is my thing,Helping in times of need is my thing.
+vocab,B0588,meaning_en,to put,to put (upright); to set; to ask (a question)
+vocab,B0593,check,article?,
+vocab,B0600,check,article?,
+vocab,B0604,meaning_en,"jam, marmelade",jam; marmalade
+vocab,B0608,lemma,Ol,Öl
+vocab,B0608,plural,Ole,Öle
+vocab,B4402,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B0613,meaning_en,to connect,to connect; to link; to bandage (med.)
+vocab,B0618,meaning_en,butcher,butcher's shop
+vocab,B0620,meaning_en,dinner,dinner; supper
+vocab,B5167,pos,adjective,numeral
+vocab,B0624,meaning_en,cookie,biscuit; cookie
+vocab,B0624,check,article?,
+vocab,B2879,meaning_en,ASO,etc. (and so on)
+vocab,B4036,gov,als + N.,+ Dat. | als + Nom.
+vocab,B4036,meaning_en,to serve,to serve; to be used
+vocab,B2955,example_en,A poster is attached to the summer house.,A poster is hanging on the garden house.
+vocab,B2955,meaning_en,to be attached to sth,to hang; to be attached
+vocab,B0639,meaning_en,"meal, food",food; meal
+vocab,B0640,meaning_en,ready,finished; ready
+vocab,B0641,example_en,The food is nearly ready.,The food will be ready in a moment.
+vocab,B0641,meaning_en,nearly,same; equal; right away
+vocab,B0641,other_senses,the same,
+vocab,B3283,meaning_en,to learn,to learn; to find out; to experience
+vocab,B3283,other_senses,experienced,
+vocab,B0643,meaning_en,message,message; news
+vocab,B4370,meaning_en,soul,mind; spirit; ghost
+vocab,B0649,meaning_en,grocery list,shopping list
+vocab,B0652,meaning_en,longer,more; any more
+vocab,B0654,meaning_en,to be correct,to be correct; to tune; to vote
+vocab,B3850,meaning_en,whole,whole; entire; total
+vocab,B5110,meaning_en,gone,away; gone; onwards
+vocab,B0676,meaning_en,a bit,something; a bit
+vocab,B4499,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B0679,meaning_en,to cost,to cost; to taste
+vocab,B0680,perfect,hat gemocht,– (use hat gewollt)
+vocab,B0681,example_en,"/'l/ take one bread roll, please.","I'll take one bread roll, please."
+vocab,B3438,meaning_en,simultaneous,at the same time; simultaneous
+vocab,B0682,meaning_en,price,price; prize
+vocab,B0682,other_senses,prize,
+vocab,B0686,meaning_en,to change,to change; to swap; to exchange
+vocab,B0689,meaning_en,to research,to research; to look up
+vocab,B0690,meaning_en,cup,mug; cup; tub
+vocab,B0691,meaning_en,jar,tin; can
+vocab,B0696,meaning_en,measure,measure; measurement; dimension
+vocab,B0703,meaning_en,enjoy your meal,meal; (lunchtime greeting)
+vocab,B0709,meaning_en,alone,alone; on one's own
+vocab,B0712,meaning_en,kebab,doner kebab
+vocab,B3823,meaning_en,wanted,wanted; sought
+vocab,B0715,example_en,l eat breakfast at half past eight.,I have breakfast at half past seven.
+vocab,B0723,meaning_en,afternoon,in the afternoon
+vocab,B3403,example_en,"Max's speaker doesn't work anymore, that's why he's getting it repaired.","Max's speaker doesn't work, so he's getting it repaired."
+vocab,B0733,meaning_en,a bit,little; few
+vocab,B0734,meaning_en,to tell,to tell; to narrate
+vocab,B0735,meaning_en,before noon,morning (before noon)
+vocab,B0736,check,ocr?,
+vocab,B3909,meaning_en,earth,earth; soil; ground
+vocab,B0744,check,ocr?,
+vocab,B0747,meaning_en,historic city,old town; historic city centre
+redemittel,R0037,variants,"Meinst du wirklich, dass ...? | Bist du sicher, dass ...?",Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?
+redemittel,R0037,variants,Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?,"Meinst du wirklich, dass ...? | Bist du sicher, dass ...?"
+redemittel,R0038,variants,Ich hätte einen anderen Vorschlag: ... | Was hältst du von ... statt dessen?,Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?
+redemittel,R0353,variants,Das ist wirklich schade für dich. | Mein herzliches Beileid.,"Das ist wirklich schade für dich. | Ich hoffe, es wird bald besser."
+vocab,B0751,example_de,Wir haben eine neue Chefin.,Mein Chef ist heute nicht im Büro.
+vocab,B0751,example_source,goethe,claude
+vocab,B0754,meaning_en,really,real; really (colloq.)
+vocab,B0754,register,neutral,colloquial
+vocab,B0755,check,ocr?,
+vocab,B0757,example_de,Ich bin Anwältin und oft — am Gericht.,Ich bin Anwältin und oft am Gericht.
+vocab,B0757,meaning_en,meal,dish; meal; court (of law)
+vocab,B0757,other_senses,court (of law),
+vocab,B0761,meaning_en,longer,longer (comparative of lang)
+vocab,B0767,topic,T05 Gesundheit & Körper,T06 Essen & Trinken
+vocab,B0770,register,neutral,informal
+vocab,B0772,example_en,I work from 6 o'clock am to 3 o'clock pm.,I work from 6 a.m. to 3 p.m.
+vocab,B0772,meaning_en,o'clock,o'clock; clock; watch
+vocab,B0778,meaning_en,to lead (to),to lead; to conduct; to run
+vocab,B0787,register,neutral,informal
+vocab,B0788,meaning_en,to meet,to meet; to hit; to make (a decision)
+vocab,B0789,register,neutral,informal
+vocab,B3815,meaning_en,to refer to,to refer (sich beziehen auf); to obtain; to move into
+vocab,B0804,check,ocr?,
+vocab,B0809,example_en,Florian has a game one Sunday.,Florian has a game on Sunday.
+vocab,B0810,meaning_en,practice,training; practice session
+vocab,B5188,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T15 Sprache, Kommunikation & Denken"
+vocab,B0818,meaning_en,"music school, conservatory",music school; conservatoire
+vocab,B3431,meaning_en,introduction,idea; introduction; performance
+vocab,B0822,check,ocr?,
+vocab,B2355,meaning_en,to ask for sth,to ask for; to request
+vocab,B0828,check,ocr?,
+vocab,B4778,pos,preposition,adjective
+vocab,B4778,meaning_en,remaining,left over; remaining
+vocab,B3166,topic,"T10 Freizeit, Sport, Kultur & Medien","T16 Allgemein (Funktionswörter, abstrakter Wortschatz)"
+vocab,B0837,register,neutral,informal
+vocab,B0838,check,article?,
+vocab,B2303,example_en,hier: to clean up,to tidy up
+vocab,B2303,meaning_en,order,order; tidiness
+vocab,B0853,register,neutral,informal
+vocab,B3386,meaning_en,only,only; just; merely
+vocab,B0858,register,neutral,informal
+vocab,B0862,meaning_en,card,card; ticket; map
+vocab,B0862,other_senses,ticket; map,
+vocab,B0863,pos,particle,conjunction
+vocab,B0865,meaning_en,deck of cards,pile; stack; deck
+vocab,B4762,example_en,to fulfill an important function,to fulfil an important function
+vocab,B4762,meaning_en,to fulfill,to fulfil; to meet; to fill
+vocab,B0867,example_en,Kind greetings.,Kind regards.
+vocab,B0870,example_en,Kind greetings.,Kind regards.
+vocab,B0870,meaning_en,kind,kind; dear; sweet
+vocab,B0871,check,ocr?,
+vocab,B0873,meaning_en,next,next; nearest
+vocab,B0888,meaning_en,surgery,surgery; (doctor's) practice
+vocab,B0895,check,ocr?,
+vocab,B0900,meaning_en,to make,to arrange; to agree
+vocab,B0905,meaning_en,to be there,to be there; to be present
+vocab,B5192,plural,Verlage | Verläge(A),Verlage
+vocab,B4178,register,neutral,colloquial
+vocab,B4178,meaning_en,self,myself/himself/etc.; on one's own
+vocab,B0913,meaning_en,to excuse,to excuse; to apologise (sich entschuldigen)
+vocab,B0916,check,ocr?,
+vocab,B0920,check,ocr?,
+vocab,B3994,meaning_en,to ask for,to demand; to ask for
+vocab,B0926,check,ocr?,
+vocab,B0927,example_en,What?,"What is it, then?"
+vocab,B3530,meaning_en,conscious,conscious; deliberate
+vocab,B0930,register,neutral,informal
+vocab,B0931,meaning_en,of course,clear; of course (colloq.)
+vocab,B0938,example_en,What's special on your birthday?,What is special about a birthday?
+vocab,B0940,check,ocr?,
+vocab,B0941,meaning_en,to arrange,to set up; to put up; to draw up
+vocab,B0943,meaning_en,careful,attention; watch out; respect
+vocab,B0952,meaning_en,to come,to come along
+vocab,B0957,check,ocr?,
+vocab,B0964,meaning_en,warm (Warm greetings),warm; cordial; heartfelt
+vocab,B4843,example_en,The employees are entitled to 30 holidays.,The employees are entitled to 30 days of holiday.
+vocab,B0965,register,neutral,informal
+vocab,B0966,check,ocr?,
+vocab,B0977,meaning_en,ice cream,ice cream; ice
+vocab,B3048,meaning_en,to break,to break; to fracture
+vocab,B3048,perfect,ist gebrochen,ist/hat gebrochen
+vocab,B2739,example_de,Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.,Der Autor hat in diesem Jahr schon zwei Bücher geschrieben.
+vocab,B2739,example_source,goethe,claude
+vocab,B2379,meaning_en,quiet,quiet; peace; rest
+vocab,B1000,plural,Praterita,Präterita
+vocab,B1003,meaning_en,pub,pub (Austria)
+vocab,B1003,plural,Beisl,Beisln
+vocab,B1003,register,neutral,regional
+vocab,B1004,meaning_en,pub,pub (Switzerland)
+vocab,B1004,register,neutral,regional
+vocab,B1006,meaning_en,co,and the like (Co.)
+vocab,B1008,meaning_en,opened,open
+vocab,B1010,register,neutral,informal
+vocab,B1012,check,article?,
+vocab,B1022,meaning_en,application,registration; sign-up; application
+vocab,B1024,topic,"T11 Natur, Umwelt, Wetter & Tiere","T14 Gefühle, Charakter & Meinungen"
+vocab,B3379,meaning_en,to insert,to insert; to use; to appoint
+vocab,B3379,other_senses,sich: to support,sich einsetzen für: to stand up for
+vocab,B1030,meaning_en,entrance,admission; entrance fee
+vocab,B1033,meaning_en,to miss,to be missing; to be absent; to miss
+vocab,B1035,meaning_en,morning,early
+vocab,B1036,meaning_en,to savor,to enjoy; to savour
+vocab,B1040,meaning_en,to run,to run; to walk; to work
+vocab,B1050,meaning_en,"to want, to feel like",desire; inclination
+vocab,B1052,meaning_en,result,event; incident
+vocab,B2307,meaning_en,security,security; safety; certainty
+vocab,B4616,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1060,example_en,Are you not coming today? - On the contrary.,"Aren't you coming today? – Yes, I am."
+vocab,B1060,meaning_en,indeed,yes (to a negative question); but; after all
+vocab,B1060,pos,adverb,particle
+vocab,B1069,check,ocr?,
+vocab,B1074,meaning_en,easy,easy; light
+vocab,B1074,other_senses,lighter,
+vocab,B3305,meaning_en,in any case,in any case; at any rate
+vocab,B1078,register,neutral,colloquial
+vocab,B1078,check,ocr?,
+vocab,B1929,meaning_en,item,object; item; subject
+vocab,B1081,meaning_en,call on customers,customer visit
+vocab,B1081,check,ocr?,
+vocab,B1082,meaning_en,colleague (m),employee; colleague (m)
+vocab,B1083,meaning_en,colleague (f),employee; colleague (f)
+vocab,B1083,example_de,Unsere Firma hat sieben Mitarbeiter.,Die neue Mitarbeiterin fängt am Montag an.
+vocab,B1083,example_source,goethe,claude
+vocab,B4138,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T01 Person, Familie & Beziehungen"
+vocab,B4138,meaning_en,togetherness,with each other; together
+vocab,B4435,meaning_en,in general,in principle; fundamentally
+vocab,B1089,check,ocr?,
+vocab,B1090,check,ocr?,
+vocab,B1091,check,ocr?,
+vocab,B4392,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4392,meaning_en,chest,chest; breast
+vocab,B1994,meaning_en,article,contribution; fee; article
+vocab,B4061,meaning_en,symbol,sign; symbol; character
+vocab,B1101,meaning_en,to transfer,to transfer; to refer (a patient)
+vocab,B4077,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1105,meaning_en,post office,post; post office; mail
+vocab,B1111,meaning_en,bakery,baker
+vocab,B1113,example_de,"Der Hausmeister hat mir geholfen, den Schrank in die Wohnung zu tragen.",Die Hausmeisterin repariert die Heizung.
+vocab,B1113,example_source,goethe,claude
+vocab,B1115,register,neutral,informal
+vocab,B4241,meaning_en,against,contrary to; towards
+vocab,B4241,gov,+ Gen.,+ Dat.
+vocab,B1116,meaning_en,to turn off,to turn off; to arrange
+vocab,B1116,register,neutral,informal
+vocab,B1124,example_en,"Oh bother, my battery is almost empty.","Damn, my battery is almost empty."
+vocab,B1124,meaning_en,bother,rubbish; (colloq.) damn!
+vocab,B1124,register,neutral,colloquial
+vocab,B1125,meaning_en,reception,network; reception; net
+vocab,B1125,other_senses,net,
+vocab,B1135,check,article?,
+vocab,B1146,meaning_en,language department,language institute
+vocab,B1146,check,ocr?,
+vocab,B5210,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T14 Gefühle, Charakter & Meinungen"
+vocab,B1148,meaning_en,letter standard,letter template; standard letter format
+vocab,B1148,check,ocr?,
+vocab,B1152,check,ocr?,
+vocab,B1153,example_en,Memorise the words.,Learn the words by heart.
+vocab,B1153,pos,verb,adverb
+vocab,B1154,meaning_en,madam,lady; madam
+vocab,B1156,check,paren?,
+vocab,B1159,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4818,meaning_en,to conduct,to carry out; to conduct
+vocab,B1162,topic,"T04 Ausbildung, Schule & Studium","T12 Gesellschaft, Politik, Recht & Geschichte"
+vocab,B3307,meaning_en,obvious,apparently; obviously
+vocab,B1166,pos,noun,pronoun
+vocab,B1169,meaning_en,really,at all; done (cooked)
+vocab,B1172,topic,"T10 Freizeit, Sport, Kultur & Medien","T14 Gefühle, Charakter & Meinungen"
+vocab,B1176,meaning_en,difficult,difficult; heavy; severe
+vocab,B1176,other_senses,heavy; severe,
+vocab,B1177,register,neutral,informal
+vocab,B1183,meaning_en,live,to live
+vocab,B1189,check,article?,
+vocab,B2617,meaning_en,route,line; route
+vocab,B1199,meaning_en,sure,sure; safe; certain
+vocab,B1199,other_senses,safe,
+vocab,B2805,other_senses,to take out,to take in; to admit (a patient)
+vocab,B1203,meaning_en,at the moment,just; right now; straight
+vocab,B3272,meaning_en,type,type; guy
+vocab,B3272,register,neutral,informal
+vocab,B1214,check,ocr?,
+vocab,B1214,meaning_en,trainer,sports shoe; trainer
+vocab,B5215,plural,Anzahlen,–
+vocab,B1217,meaning_en,application,app
+vocab,B1218,meaning_en,quiet,quiet; calm
+vocab,B1229,meaning_en,size,size; height; greatness
+vocab,B1230,meaning_en,stomach,stomach; belly; abdomen
+vocab,B1234,meaning_en,neck,neck; throat
+vocab,B4244,meaning_en,to realize,to notice; to establish; to realise
+vocab,B1252,example_de,Ist Frau Dr. Müller da?,Die Doktorin wird gleich bei Ihnen sein.
+vocab,B1254,meaning_en,salve,ointment
+vocab,B1256,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1267,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B3215,meaning_en,value,value; worth
+vocab,B3215,check,paren?,
+vocab,B3215,other_senses,value (Which values are important in a society?),
+vocab,B1272,meaning_en,to have a cold,having a cold
+vocab,B1272,pos,verb,adjective
+vocab,B3919,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1274,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1276,register,neutral,informal
+vocab,B1280,example_en,J am against cars in the city centre.,I am against cars in the city centre.
+vocab,B1283,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1290,meaning_en,band-aid,plaster
+vocab,B1291,meaning_en,drop,drop; drops
+vocab,B1291,plural,(Pl.),Tropfen
+vocab,B5076,meaning_en,view,view; visibility; point of view
+vocab,B1294,meaning_en,clove,carnation; clove
+vocab,B1296,meaning_en,to suspect,to suspect; to assume
+vocab,B1300,check,ocr?,
+vocab,B3513,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3858,meaning_en,possible,as ... as possible
+vocab,B1310,meaning_en,note,slip of paper; note
+vocab,B1312,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1315,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1315,meaning_en,lab (oratory),laboratory
+vocab,B1317,check,ocr?,
+vocab,B4615,meaning_en,to perform,to appear; to perform; to occur
+vocab,B1319,check,ocr?,
+vocab,B5115,meaning_en,to fall into,to get (into); to end up
+vocab,B1323,example_de,Sie ist eine gute Sportlerin.,Er ist ein guter Sportler.
+vocab,B1323,example_source,goethe,claude
+vocab,B1327,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4163,example_en,A good education helps you your whole life long.,A good education helps you your whole life.
+vocab,B1328,meaning_en,to include,to belong to it; to be part of it
+vocab,B1330,meaning_en,to infer,to infer; to open up
+vocab,B3870,example_en,Punctuality counts as one ofthe most important characteristics of an applicant.,Punctuality counts among the most important characteristics of an applicant.
+vocab,B1334,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1336,check,article?,
+vocab,B3818,example_en,Make a good impression on the superiors.,Make a good impression on your employer.
+vocab,B1341,meaning_en,commandment,commandment; rule; requirement
+vocab,B1343,meaning_en,to recite,to reproduce; to recite; to give back
+vocab,B1344,meaning_en,office,study; home office
+vocab,B1345,meaning_en,bath,bathroom; bath
+vocab,B4158,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T13 Zeit, Zahlen, Maße & Mengen"
+vocab,B4158,meaning_en,percentage,share; proportion
+vocab,B1370,meaning_en,"above, atthe top",above; at the top; upstairs
+vocab,B1373,check,ocr?,
+vocab,B1374,meaning_en,light,light; bright
+vocab,B1376,note,= Quadratmeter,Abbreviation of Quadratmeter (also m²).
+vocab,B3238,meaning_en,to indicate,to point; to indicate; to interpret
+vocab,B1392,meaning_en,floor,floor; stick
+vocab,B1393,meaning_en,well,great; top (colloq.)
+vocab,B1393,register,neutral,informal
+vocab,B1396,check,ocr?,
+vocab,B3197,meaning_en,assignment,use; deployment; effort
+vocab,B1405,meaning_en,to close,to close; to conclude; to lock
+vocab,B1405,other_senses,to make; to conclude,
+vocab,B3459,meaning_en,to afford,to afford; to achieve; to do
+vocab,B1413,register,neutral,informal
+vocab,B1414,meaning_en,to look forward to sth,to be glad; to look forward to (sich freuen)
+vocab,B3088,meaning_en,fire,fire; light (for a cigarette)
+vocab,B1415,meaning_en,to shine,to shine; to seem
+vocab,B4476,meaning_en,"to reach, attain",to reach; to get to
+vocab,B1422,gov,+ Dat.,+ Akk./Dat.
+vocab,B1423,gov,+ Dat.,+ Akk./Dat.
+vocab,B5227,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1424,gov,+ Dat.,+ Akk./Dat.
+vocab,B1425,gov,+ Dat.,+ Akk./Dat.
+vocab,B1431,meaning_en,remark,remark; statement
+vocab,B1442,meaning_en,ceiling,ceiling; blanket
+vocab,B1453,example_de,Ich kenne die anderen Hausbewohner nicht.,Die Bewohnerin im dritten Stock ist sehr freundlich.
+vocab,B1453,example_source,goethe,claude
+vocab,B4913,meaning_en,duty,duty; service; shift
+vocab,B1462,meaning_en,location,location; situation
+vocab,B1464,meaning_en,far,far; wide; loose
+vocab,B1464,other_senses,loose,
+vocab,B1465,register,neutral,informal
+vocab,B1468,pos,noun,adverb
+vocab,B5232,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1470,check,ocr?,
+vocab,B1471,meaning_en,approval,favour
+vocab,B1471,other_senses,favour,
+vocab,B1472,meaning_en,disapproval,displeasure; disapproval
+vocab,B1473,check,ocr?,
+vocab,B1479,example_de,In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin.,Der Künstler stellt seine Bilder im Museum aus.
+vocab,B1479,example_source,goethe,claude
+vocab,B1482,check,ocr?,
+vocab,B1483,check,ocr?,
+vocab,B2248,meaning_en,to design,to design; to shape; to organise
+vocab,B1490,check,ocr?,
+vocab,B1494,meaning_en,sometime,once; just (modal particle)
+vocab,B1495,example_de,Unsere Nachbarin ist Professorin an der Universität.,Der Professor hält eine Vorlesung.
+vocab,B1495,example_source,goethe,claude
+vocab,B3246,meaning_en,subsequent,afterwards; subsequently
+vocab,B1507,check,ocr?,
+vocab,B1510,meaning_en,appendix,attachment; appendix
+vocab,B1512,meaning_en,assignment,task; assignment
+vocab,B1523,check,ocr?,
+vocab,B1524,check,ocr?,
+vocab,B1526,register,neutral,informal
+vocab,B1531,example_de,Der neue Sekretär hat sich gestern vorgestellt.,Die Sekretärin plant meine Termine.
+vocab,B1531,example_source,goethe,claude
+vocab,B1532,example_en,In your stead I would ...,"If I were you, I would ..."
+vocab,B1532,meaning_en,position,position; place; job
+vocab,B1532,plural,–,Stellen
+vocab,B1533,check,ocr?,
+vocab,B1539,meaning_en,ago,here (towards the speaker); ago
+vocab,B1541,meaning_en,direct dialling,extension; direct dial
+vocab,B1542,meaning_en,to answer,to report; to answer (sich melden)
+vocab,B1546,check,ocr?,
+vocab,B1547,check,ocr?,
+vocab,B5247,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B1563,meaning_en,German fruit cake,Christmas stollen (fruit loaf); tunnel
+vocab,B1567,example_de,"Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung.",Die Zuschauer klatschen laut.
+vocab,B1567,example_source,goethe,claude
+vocab,B1571,check,ocr?,
+vocab,B1574,meaning_en,to inquire,to please; to be liked
+vocab,B1576,register,neutral,colloquial
+vocab,B1580,meaning_en,skirt,skirt; rock (music)
+vocab,B1580,plural,–,Röcke
+vocab,B1580,other_senses,rock,
+vocab,B1585,meaning_en,to go out,to go out; to assume
+vocab,B1594,meaning_en,hat,hat; cap
+vocab,B1598,check,ocr?,
+vocab,B1601,check,ocr?,
+vocab,B1607,register,neutral,colloquial
+vocab,B1611,meaning_en,shawl,scarf; shawl; cloth
+vocab,B1612,meaning_en,to arrive,to arrive; to depend on (es kommt darauf an)
+vocab,B1612,gov,auf + Dat.,auf + Akk.
+vocab,B1613,meaning_en,angry,angry; evil; bad
+vocab,B1616,register,neutral,informal
+vocab,B1617,register,neutral,informal
+vocab,B1631,register,neutral,informal
+vocab,B1632,register,neutral,informal
+vocab,B1633,check,ocr?,
+vocab,B4423,meaning_en,to come to,to amount to
+vocab,B1639,check,ocr?,
+vocab,B1640,check,ocr?,
+vocab,B1644,check,article?,
+vocab,B1649,example_en,to be out of fashion,to go out of fashion
+vocab,B3718,meaning_en,"attachment, facility, exhibit",attachment; facility; investment
+vocab,B1655,meaning_en,Sportswear,sportswear
+vocab,B4676,meaning_en,step,step; level
+vocab,B1662,register,neutral,informal
+vocab,B1664,check,ocr?,
+vocab,B1666,register,neutral,colloquial
+vocab,B1677,check,ocr?,
+vocab,B1680,example_de,Die Fotografin hat sehr schöne Fotos gemacht.,Der Fotograf macht Bilder von der Hochzeit.
+vocab,B1680,example_source,goethe,claude
+vocab,B4122,meaning_en,to see,to meet (by chance); to encounter
+vocab,B1684,check,ocr?,
+vocab,B1689,check,ocr?,
+vocab,B1690,check,ocr?,
+vocab,B1692,meaning_en,around,round; around
+vocab,B4232,meaning_en,sympathy,understanding; sympathy
+vocab,B1694,check,ocr?,
+vocab,B1700,check,ocr?,
+vocab,B1703,plural,Saisonen,Saisons
+vocab,B1704,check,ocr?,
+vocab,B1715,meaning_en,courtyard,courtyard; farm
+vocab,B1718,check,ocr?,
+vocab,B1721,check,ocr?,
+vocab,B1722,check,ocr?,
+vocab,B1723,check,ocr?,
+vocab,B1729,check,ocr?,
+vocab,B4493,meaning_en,tone,sound; tone; clay
+vocab,B1753,meaning_en,files,data; dates
+vocab,B5265,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4001,example_en,"I'm of the opinion, that...",I am of the opinion that we have to do more.
+vocab,B4001,meaning_en,opinion,opinion; view
+vocab,B4001,example_de,"Ich bin der Ansicht, dass we","Ich bin der Ansicht, dass wir mehr tun müssen."
+vocab,B4001,other_senses,prospect,
+vocab,B1764,check,article?,
+vocab,B5267,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1767,meaning_en,end,end; conclusion
+vocab,B1770,meaning_en,station,stop; station
+vocab,B2404,meaning_en,aisle,aisle; corridor; gait
+vocab,B2404,topic,T02 Wohnen,"T08 Reisen, Verkehr & Orte"
+vocab,B3499,meaning_en,characteristic,characteristic; feature
+vocab,B1783,meaning_en,across from,opposite; towards
+vocab,B1786,register,neutral,informal
+vocab,B2746,meaning_en,character,figure; character
+vocab,B1788,meaning_en,ZOO,zoo
+vocab,B1793,check,article?,
+vocab,B1798,meaning_en,tired,knocked out; exhausted
+vocab,B1798,register,neutral,informal
+vocab,B1799,pres_3sg,fahrt los,fährt los
+vocab,B3874,example_de,Da ist ohne Zweifel die beste Lösung.,Das ist ohne Zweifel die beste Lösung.
+vocab,B4091,meaning_en,to plan to do sth,to plan to do; to undertake
+vocab,B1811,meaning_en,type,type; kind; way
+vocab,B1811,plural,–,Arten
+vocab,B1812,check,ocr?,
+vocab,B1814,plural,–,Weisen
+vocab,B1815,register,neutral,informal
+vocab,B1816,gov,zu + Dat.,+ Dat. | zu + Dat.
+vocab,B1824,check,ocr?,
+vocab,B4539,meaning_en,to form,to shape; to form
+vocab,B1840,check,ocr?,
+vocab,B1848,register,neutral,colloquial
+vocab,B1848,check,ocr?,
+vocab,B2689,meaning_en,material,material; fabric; substance
+vocab,B1854,meaning_en,"exercise, movement",exercise; movement
+vocab,B2516,meaning_en,machine,machine; aeroplane
+vocab,B2395,meaning_en,train,railway; train
+vocab,B2290,meaning_en,official (m),civil servant; official
+vocab,B2453,meaning_en,truck,lorry; truck
+vocab,B2339,meaning_en,to submit,to hand in; to submit; to give
+vocab,B3744,meaning_en,verdict,judgement; verdict
+vocab,B2465,meaning_en,independent,independent; self-employed
+vocab,B2400,meaning_en,counter,counter; switch
+vocab,B2931,meaning_en,square meter (=sq m I m?),square metre
+vocab,B2931,note,= qm / m?,Abbreviation: qm or m².
+vocab,B3645,meaning_en,customs,customs; inch
+vocab,B3529,meaning_en,exclusive,exclusively
+vocab,B2366,register,neutral,informal
+vocab,B2546,meaning_en,departing flight,take-off; departure (flight)
+vocab,B3398,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",T02 Wohnen
+vocab,B3398,meaning_en,to paint,to paint; to cross out; to cancel
+vocab,B3050,meaning_en,homemaker (m),housewife; homemaker (f)
+vocab,B3051,meaning_en,homemaker (f),househusband; homemaker (m)
+vocab,B1928,check,ocr?,
+vocab,B1934,meaning_en,sour,sour; angry (colloq.)
+vocab,B1935,meaning_en,spicy,spicy; sharp
+vocab,B3846,meaning_en,"approach, attitude",attitude; setting; employment
+vocab,B1951,register,neutral,informal
+vocab,B1952,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B1953,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B1953,meaning_en,medicine,medicine (drug); medicine (subject)
+vocab,B4608,meaning_en,position,position; job; stance
+vocab,B1959,check,article?,
+vocab,B3699,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1982,register,neutral,informal
+vocab,B5287,register,neutral,colloquial
+vocab,B1996,check,ocr?,
+vocab,B5288,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T13 Zeit, Zahlen, Maße & Mengen"
+vocab,B2045,check,ocr?,
+vocab,B2048,register,neutral,informal
+vocab,B2059,meaning_en,schedule,timetable; schedule
+vocab,B2065,register,neutral,informal
+vocab,B2071,register,neutral,informal
+vocab,B2079,meaning_en,Screen,screen
+vocab,B2080,meaning_en,cabel,cable
+vocab,B2097,meaning_en,shooting (film),photo shoot
+vocab,B2100,check,article?,
+vocab,B4215,example_de,Ich besuche einen Sprachkurs in einem kleinen Sprachinstitut.,Mein Bruder arbeitet an einem Institut für Physik.
+vocab,B2106,meaning_en,thing,thingamajig
+vocab,B2106,register,neutral,informal
+vocab,B2108,check,ocr?,
+vocab,B3958,meaning_en,sales,paragraph; heel; sales
+vocab,B2111,register,neutral,informal
+vocab,B2114,meaning_en,grandchild (m),grandson; grandchild
+vocab,B2115,example_de,Alle meine Enkel gehen schon zur Schule.,Meine Enkelin ist drei Jahre alt.
+vocab,B2115,meaning_en,grandchild (f),granddaughter
+vocab,B2117,meaning_en,cheese bread,cheese sandwich
+vocab,B2121,meaning_en,to share,to inform; to notify
+vocab,B5295,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B2126,meaning_en,repeatedly,several times
+vocab,B2127,pos,conjunction,adverb
+vocab,B2131,meaning_en,blog entry,blog post
+vocab,B2132,meaning_en,first letter,first letter; initial
+vocab,B2134,meaning_en,last,last one; last person
+vocab,B2134,check,article?,
+vocab,B2135,meaning_en,round,lap; round
+vocab,B2137,meaning_en,to pass on quietly,to pass on in a whisper
+vocab,B2137,check,ocr?,
+vocab,B2141,meaning_en,crime novel,detective story; crime novel
+vocab,B4235,meaning_en,edition,expense; edition
+vocab,B4235,other_senses,expense,
+vocab,B4962,example_de,auf einen Standpunkt eingehen,Der Lehrer geht auf die Fragen der Schüler ein.
+vocab,B4962,example_en,to react to a point of view,The teacher responds to the students' questions.
+vocab,B4962,meaning_en,to react to,to respond to; to go into
+vocab,B2150,check,ocr?,
+vocab,B2151,meaning_en,happy,cheerful; happy
+vocab,B4294,meaning_en,to be scared,to fear; to be afraid
+vocab,B2152,example_en,Laugh away the situation and just continue.,Take the situation with humour and just carry on.
+vocab,B2155,meaning_en,destiny,fate; destiny
+vocab,B2162,meaning_en,protagonist,main character
+vocab,B2163,meaning_en,abstract,short description; summary
+vocab,B2167,meaning_en,phrasing,wording; phrasing
+vocab,B2175,meaning_en,excited,excited; nervous
+vocab,B2191,meaning_en,etwa: candy cone,school cone (sweets given on the first day of school)
+vocab,B2737,meaning_en,contract,order; commission; assignment
+vocab,B2196,meaning_en,annoyed,annoyed; irritated
+vocab,B3126,meaning_en,scarce; tight; just; barely,scarce; tight; barely
+vocab,B3661,meaning_en,"to release, to publish",to publish; to release
+phrase,P0001,phrase_de,ich glaube,"ich glaube, dass ..."
+phrase,P0002,phrase_de,"ich weiß, dass","ich weiß, dass ..."
+phrase,P0003,meaning_en,allright,all right; okay
+phrase,P0004,phrase_de,"kein Wunder, dass","kein Wunder, dass ..."
+phrase,P0007,phrase_de,"das bedeutet, dass","das bedeutet, dass ..."
+phrase,P0008,phrase_de,"dafür sorgen, dass","dafür sorgen, dass ..."
+phrase,P0014,phrase_de,es handelt sich um,es handelt sich um ...
+phrase,P0016,phrase_de,es sei denn,"es sei denn, ..."
+phrase,P0017,phrase_de,im Vergleich zu,im Vergleich zu ...
+phrase,P0020,phrase_de,in der Lage,"in der Lage sein, ... zu ..."
+phrase,P0022,phrase_de,bezieht sich auf,sich auf ... beziehen
+phrase,P0026,phrase_de,ich denke,"ich denke, dass ..."
+phrase,P0028,phrase_de,lass uns,lass uns ...
+phrase,P0029,phrase_de,in Bezug auf,in Bezug auf ...
+phrase,P0030,phrase_de,wie geht es,wie geht es dir?
+phrase,P0033,phrase_de,lässt sich,... lässt sich ...
+phrase,P0036,phrase_de,auf der einen Seite,auf der einen Seite ...
+phrase,P0037,phrase_de,"bedeutet, dass","bedeutet, dass ..."
+phrase,P0038,phrase_de,was für ein,was für ein ...
+phrase,P0038,function,Gefühle ausdrücken (feelings),Sonstige nützliche Wendung (other useful expression)
+phrase,P0039,phrase_de,"auch dann, wenn","auch dann, wenn ..."
+phrase,P0040,phrase_de,"ich hoffe, dass","ich hoffe, dass ..."
+phrase,P0044,phrase_de,"die Gefahr, dass","die Gefahr, dass ..."
+phrase,P0045,phrase_de,"davon ausgehen, dass","davon ausgehen, dass ..."
+phrase,P0046,phrase_de,ich glaube nicht,"ich glaube nicht, dass ..."
+phrase,P0048,phrase_de,im Vergleich zur,im Vergleich zur ...
+phrase,P0051,phrase_de,in der Nähe von,in der Nähe von ...
+phrase,P0052,phrase_de,ich bitte,"ich bitte Sie, ... zu ..."
+phrase,P0053,phrase_de,ich danke,ich danke Ihnen für ...
+phrase,P0053,function,"Entschuldigen / Bedauern (apology, regret)",Gefühle ausdrücken (feelings)
+phrase,P0055,phrase_de,Mangel an,Mangel an ...
+phrase,P0056,phrase_de,lassen sich,... lassen sich ...
+phrase,P0057,phrase_de,"sagen, dass","sagen, dass ..."
+phrase,P0058,phrase_de,ich finde,"ich finde, dass ..."
+phrase,P0037,example_de,"Fieber bedeutet nicht immer, dass man ernsthaft krank ist.","Eine hohe Temperatur bedeutet, dass der Körper gegen eine Infektion kämpft."
+phrase,P0037,example_en,A fever doesn't always mean that you are seriously ill.,A high temperature means that the body is fighting an infection.
+phrase,P0061,phrase_de,der Grund für,der Grund für ...
+phrase,P0062,phrase_de,im Gegensatz zu,im Gegensatz zu ...
+phrase,P0063,register,neutral,informal
+phrase,P0065,phrase_de,du solltest,du solltest ...
+phrase,P0066,phrase_de,je nach,je nach ...
+phrase,P0067,phrase_de,ich wollte,ich wollte ... fragen
+phrase,P0069,phrase_de,im Hinblick auf,im Hinblick auf ...
+phrase,P0070,phrase_de,ich freue mich,ich freue mich auf/über ...
+phrase,P0074,phrase_de,nicht in der Lage,"nicht in der Lage sein, ... zu ..."
+phrase,P0076,phrase_de,"ich glaube, dass","ich glaube, dass ..."
+phrase,P0078,phrase_de,was ist mit,was ist mit ...?
+phrase,P0079,phrase_de,im Vergleich zum,im Vergleich zum ...
+phrase,P0082,phrase_de,"dadurch, dass","dadurch, dass ..."
+phrase,P0084,phrase_de,"dazu führen, dass","dazu führen, dass ..."
+phrase,P0085,phrase_de,"nur dann, wenn","nur dann, wenn ..."
+phrase,P0088,phrase_de,mein Name ist,mein Name ist ...
+phrase,P0089,phrase_de,"der Meinung, dass","der Meinung sein, dass ..."
+phrase,P0093,phrase_de,"dort, wo","dort, wo ..."
+phrase,P0096,phrase_de,ich fühle mich,ich fühle mich ...
+phrase,P0097,phrase_de,je … desto …,"je ..., desto ..."
+phrase,P0098,phrase_de,"gesagt, dass","... gesagt, dass ..."
+phrase,P0101,phrase_de,"ich möchte, dass","ich möchte, dass ..."
+phrase,P0104,phrase_de,auf Grund,aufgrund von ...
+phrase,P0105,phrase_de,"unabhängig davon, ob","unabhängig davon, ob ..."
+phrase,P0106,phrase_de,"führt dazu, dass","führt dazu, dass ..."
+phrase,P0107,phrase_de,"den Fall, dass","für den Fall, dass ..."
+phrase,P0109,phrase_de,"ich denke, dass","ich denke, dass ..."
+phrase,P0111,phrase_de,"zu beachten, dass","zu beachten ist, dass ..."
+phrase,P0112,phrase_de,der Unterschied zwischen,der Unterschied zwischen ...
+phrase,P0113,meaning_en,how long,how long ...?
+phrase,P0113,phrase_de,wie lange,wie lange ...?
+phrase,P0115,phrase_de,in der Lage ist,"in der Lage ist, ... zu ..."
+phrase,P0116,meaning_en,only,only (just) ...
+phrase,P0121,phrase_de,gehen wir,gehen wir ...?
+phrase,P0122,phrase_de,lassen Sie,lassen Sie mich ...
+phrase,P0124,phrase_de,auf der Grundlage,auf der Grundlage von ...
+phrase,P0125,phrase_de,abgesehen von,abgesehen von ...
+phrase,P0127,phrase_de,ergibt sich,... ergibt sich ...
+phrase,P0128,phrase_de,im Falle,im Falle ...
+phrase,P0131,phrase_de,auf dem Weg,auf dem Weg zu ...
+phrase,P0133,phrase_de,meinst du,"meinst du, dass ...?"
+phrase,P0134,phrase_de,schwer zu,schwer zu ...
+phrase,P0136,phrase_de,"wichtig ist, dass","wichtig ist, dass ..."
+phrase,P0139,phrase_de,"weißt du, was","weißt du, was ...?"
+phrase,P0140,phrase_de,mehr als,mehr als ...
+phrase,P0141,phrase_de,ich brauche,ich brauche ...
+phrase,P0142,phrase_de,"darauf hin, dass","darauf hinweisen, dass ..."
+phrase,P0143,phrase_de,"fragen, ob","fragen, ob ..."
+phrase,P0144,phrase_de,in der Lage sind,"in der Lage sind, ... zu ..."
+phrase,P0145,phrase_de,"keine Ahnung, was","keine Ahnung, was ..."
+phrase,P0146,phrase_de,auf der Basis,auf der Basis von ...
+phrase,P0147,phrase_de,"abgesehen davon, dass","abgesehen davon, dass ..."
+phrase,P0148,phrase_de,"so sehr, dass","so sehr, dass ..."
+phrase,P0149,phrase_de,für den Fall,"für den Fall, dass ..."
+phrase,P0152,phrase_de,im Zusammenhang mit,im Zusammenhang mit ...
+phrase,P0153,phrase_de,was ist denn los,was ist denn los?
+phrase,P0154,phrase_de,ich meine,"ich meine, dass ..."
+phrase,P0155,phrase_de,nicht wahr,nicht wahr?
+phrase,P0156,phrase_de,nehmen Sie,nehmen Sie ...
+phrase,P0159,phrase_de,kommen Sie,kommen Sie ...
+phrase,P0065,example_de,"Wenn du Fieber hast, du solltest zum Arzt gehen.","Du solltest zum Arzt gehen, wenn du Fieber hast."
+phrase,P0065,example_en,"If you have a fever, you should see a doctor.",You should see a doctor if you have a fever.
+phrase,P0064,grammar_note,nach der Wendung: Verb auf Position 2,Inversion: Verb direkt nach der Wendung
+phrase,P0161,phrase_de,"glauben, dass","glauben, dass ..."
+phrase,P0163,phrase_de,machen wir,machen wir ...?
+phrase,P0165,phrase_de,zum anderen,zum anderen ...
+phrase,P0166,phrase_de,so etwas wie,so etwas wie ...
+phrase,P0167,phrase_de,ich nehme,ich nehme ...
+phrase,P0168,phrase_de,wir brauchen,wir brauchen ...
+phrase,P0169,phrase_de,"keine Ahnung, wie","keine Ahnung, wie ..."
+phrase,P0170,phrase_de,"der Grund, warum","der Grund, warum ..."
+phrase,P0171,phrase_de,im Unterschied zu,im Unterschied zu ...
+phrase,P0172,phrase_de,Einfluss auf,Einfluss auf ...
+phrase,P0174,phrase_de,"sorgen, dass","dafür sorgen, dass ..."
+phrase,P0175,phrase_de,finden Sie,"finden Sie, dass ...?"
+phrase,P0176,phrase_de,ich habe das Gefühl,"ich habe das Gefühl, dass ..."
+phrase,P0178,phrase_de,gehen Sie,gehen Sie ...
+phrase,P0179,phrase_de,"schön, dass","schön, dass ..."
+phrase,P0180,phrase_de,"zu sagen, dass","ist zu sagen, dass ..."
+phrase,P0182,phrase_de,bis zu,bis zu ...
+phrase,P0183,meaning_en,"amongst other things, inter alia (i.a.)",among other things
+phrase,P0184,phrase_de,"zu fragen, ob","ist zu fragen, ob ..."
+phrase,P0185,phrase_de,als ob,als ob ...
+phrase,P0186,phrase_de,dazu in der Lage,dazu in der Lage sein
+phrase,P0188,phrase_de,ergibt sich aus,ergibt sich aus ...
+phrase,P0191,phrase_de,in der Hoffnung,"in der Hoffnung, dass ..."
+phrase,P0195,phrase_de,sagen Sie,sagen Sie ...
+phrase,P0199,phrase_de,in der Mitte,in der Mitte ...
+phrase,P0200,phrase_de,ist es möglich,"ist es möglich, ... zu ...?"
+phrase,P0201,phrase_de,"Gefühl, dass","ich habe das Gefühl, dass ..."
+phrase,P0202,phrase_de,"verstehen, dass","verstehen, dass ..."
+phrase,P0203,phrase_de,"beachten, dass","beachten, dass ..."
+phrase,P0204,phrase_de,ich bin froh,"ich bin froh, dass ..."
+phrase,P0206,phrase_de,glaubst du,"glaubst du, dass ...?"
+phrase,P0207,phrase_de,ich bin mir sicher,"ich bin mir sicher, dass ..."
+phrase,P0208,phrase_de,auf der Basis von,auf der Basis von ...
+phrase,P0209,phrase_de,"egal, ob","egal, ob ..."
+phrase,P0211,phrase_de,mit dem Ziel,"mit dem Ziel, ... zu ..."
+phrase,P0213,phrase_de,nicht mehr als,nicht mehr als ...
+phrase,P0216,phrase_de,"das Gefühl, dass","das Gefühl, dass ..."
+phrase,P0218,phrase_de,"besser, wenn","es ist besser, wenn ..."
+phrase,P0220,phrase_de,"zeigen, dass","zeigen, dass ..."
+phrase,P0221,phrase_de,geben Sie,geben Sie mir ...
+phrase,P0222,phrase_de,"so, als ob","so, als ob ..."
+phrase,P0224,phrase_de,kommst du,kommst du ...?
+phrase,P0225,phrase_de,"froh, dass","froh sein, dass ..."
+phrase,P0228,meaning_en,home (toward),home (direction)
+phrase,P0230,phrase_de,Grund für,Grund für ...
+phrase,P0232,phrase_de,"zur Folge, dass","zur Folge haben, dass ..."
+phrase,P0234,phrase_de,"der Fall, wenn","der Fall sein, wenn ..."
+phrase,P0235,phrase_de,"erkennen, dass","erkennen, dass ..."
+phrase,P0237,phrase_de,"zu sorgen, dass","dafür zu sorgen, dass ..."
+phrase,P0238,phrase_de,was passiert,"was passiert, wenn ...?"
+phrase,P0241,phrase_de,geht es um,es geht um ...
+phrase,P0242,phrase_de,"glaube nicht, dass","ich glaube nicht, dass ..."
+phrase,P0244,phrase_de,"zu achten, dass","darauf zu achten, dass ..."
+phrase,P0245,phrase_de,lassen Sie mich,lassen Sie mich ...
+phrase,P0246,phrase_de,so schnell,so schnell wie ...
+phrase,P0248,phrase_de,Grundlage für,Grundlage für ...
+phrase,P0249,phrase_de,"dafür, dass","dafür, dass ..."
+phrase,P0250,phrase_de,zur Folge,zur Folge haben
+phrase,P0251,phrase_de,in Abhängigkeit von,in Abhängigkeit von ...
+phrase,P0252,phrase_de,glauben Sie,"glauben Sie, dass ...?"
+phrase,P0253,phrase_de,ich hoffe,"ich hoffe, es geht dir gut"
+phrase,P0255,phrase_de,zeigt sich,"... zeigt sich, dass ..."
+phrase,P0256,phrase_de,handelt sich um,es handelt sich um ...
+phrase,P0257,phrase_de,"den Eindruck, dass","den Eindruck haben, dass ..."
+phrase,P0259,phrase_de,nehmen wir,"nehmen wir an, dass ..."
+phrase,P0260,phrase_de,lass mich,lass mich ...
+phrase,P0262,phrase_de,denken Sie,denken Sie an ...
+phrase,P0264,phrase_de,"liegt darin, dass","liegt darin, dass ..."
+phrase,P0265,phrase_de,sowohl … als auch,sowohl ... als auch ...
+phrase,P0265,meaning_en,as well as (sowohl ... als auch ...: both ... and ...),both ... and ...; as well as
+phrase,P0266,phrase_de,im Gegensatz zur,im Gegensatz zur ...
+phrase,P0267,phrase_de,kommt es zu,kommt es zu ...
+phrase,P0271,phrase_de,"davon auszugehen, dass","davon auszugehen, dass ..."
+phrase,P0273,phrase_de,"zu berücksichtigen, dass","zu berücksichtigen ist, dass ..."
+phrase,P0276,phrase_de,Angst vor,Angst vor ... haben
+phrase,P0281,phrase_de,solltest du,solltest du ...
+phrase,P0282,phrase_de,es geht um,es geht um ...
+phrase,P0283,phrase_de,wie gut,wie gut ...
+phrase,P0288,phrase_de,führt zu,führt zu ...
+phrase,P0289,phrase_de,Voraussetzung für,Voraussetzung für ...
+phrase,P0290,phrase_de,"darauf hingewiesen, dass","darauf hingewiesen, dass ..."
+phrase,P0291,phrase_de,würdest du,würdest du ...?
+phrase,P0293,phrase_de,"davon ausgegangen, dass","davon ausgegangen, dass ..."
+phrase,P0294,phrase_de,nicht in Frage,nicht in Frage kommen
+phrase,P0295,phrase_de,"darauf achten, dass","darauf achten, dass ..."
+phrase,P0296,phrase_de,um … zu,um ... zu ...
+phrase,P0296,meaning_en,in order to,in order to ...
+phrase,P0299,phrase_de,so groß,so groß wie ...
+phrase,P0300,phrase_de,"gut, dass","es ist gut, dass ..."
+phrase,P0302,phrase_de,ich bin sicher,"ich bin sicher, dass ..."
+phrase,P0303,phrase_de,es liegt,es liegt an ...
+phrase,P0304,phrase_de,unabhängig von,unabhängig von ...
+phrase,P0305,phrase_de,"dies bedeutet, dass","dies bedeutet, dass ..."
+phrase,P0306,phrase_de,"zu verhindern, dass","zu verhindern, dass ..."
+phrase,P0307,phrase_de,wichtig ist,wichtig ist ...
+phrase,P0309,phrase_de,"achten, dass","achten, dass ..."
+phrase,P0312,phrase_de,"überzeugt, dass","ich bin überzeugt, dass ..."
+phrase,P0314,phrase_de,darauf zu achten,darauf zu achten ...
+phrase,P0315,phrase_de,ich nehme an,"ich nehme an, dass ..."
+phrase,P0316,phrase_de,auf der Grundlage von,auf der Grundlage von ...
+phrase,P0317,phrase_de,entweder … oder,entweder ... oder ...
+phrase,P0317,meaning_en,either ... or,either ... or ...
+phrase,P0319,phrase_de,"dafür gesorgt, dass","dafür gesorgt, dass ..."
+phrase,P0320,phrase_de,"liegt vor, wenn","... liegt vor, wenn ..."
+phrase,P0321,phrase_de,je mehr,"je mehr ..., desto ..."
+phrase,P0322,phrase_de,in Richtung,in Richtung ...
+phrase,P0325,phrase_de,"wird deutlich, dass","wird deutlich, dass ..."
+phrase,P0329,phrase_de,weder … noch,weder ... noch ...
+phrase,P0329,meaning_en,neither...nor,neither ... nor ...
+phrase,P0330,phrase_de,hatte das Gefühl,"ich hatte das Gefühl, dass ..."
+phrase,P0331,phrase_de,"zugeben, dass","zugeben, dass ..."
+phrase,P0332,phrase_de,"der Annahme, dass","in der Annahme, dass ..."
+phrase,P0335,phrase_de,im Gegensatz zum,im Gegensatz zum ...
+phrase,P0336,phrase_de,"führen, dass","dazu führen, dass ..."
+phrase,P0337,phrase_de,ist zu beachten,"es ist zu beachten, dass ..."
+phrase,P0338,phrase_de,Interesse an,Interesse an ... haben
+phrase,P0339,phrase_de,"zeigt sich, dass","zeigt sich, dass ..."
+phrase,P0341,phrase_de,wenn jemand,wenn jemand ...
+phrase,P0342,phrase_de,so einfach,so einfach ...
+phrase,P0344,phrase_de,"hinzu kommt, dass","hinzu kommt, dass ..."
+phrase,P0349,phrase_de,ich weiß,"ich weiß, dass ..."
+phrase,P0352,phrase_de,einen Überblick über,einen Überblick über ... geben
+phrase,P0353,phrase_de,eine Reihe von,eine Reihe von ...
+phrase,P0355,phrase_de,"vorstellen, dass","sich vorstellen, dass ..."
+phrase,P0356,phrase_de,"wusste, dass","ich wusste, dass ..."
+phrase,P0357,phrase_de,"das heißt, dass","das heißt, dass ..."
+phrase,P0361,phrase_de,heißt es,"es heißt, dass ..."
+phrase,P0363,phrase_de,stellen Sie sich vor,"stellen Sie sich vor, ..."
+phrase,P0364,phrase_de,"klar, dass","es ist klar, dass ..."
+phrase,P0366,phrase_de,"jedes Mal, wenn","jedes Mal, wenn ..."
+phrase,P0367,phrase_de,wenn es darum geht,"wenn es darum geht, ..."
+phrase,P0368,phrase_de,"nicht glauben, dass","nicht glauben, dass ..."
+phrase,P0371,phrase_de,"weiß, dass","weiß, dass ..."
+phrase,P0379,phrase_de,"wissen, dass","wissen, dass ..."
+phrase,P0380,phrase_de,befindet sich,... befindet sich ...
+phrase,P0382,phrase_de,"zeigt, dass","... zeigt, dass ..."
+phrase,P0383,phrase_de,im Jahr,im Jahr ...
+phrase,P0384,phrase_de,"gedacht, dass","gedacht, dass ..."
+phrase,P0386,phrase_de,ein Beispiel für,ein Beispiel für ...
+phrase,P0387,phrase_de,"weiß nicht, ob","ich weiß nicht, ob ..."
+phrase,P0388,phrase_de,so lange,"so lange, bis ..."
+phrase,P0389,phrase_de,auf dem Weg zu,auf dem Weg zu ...
+phrase,P0393,phrase_de,"weiß nicht, was","ich weiß nicht, was ..."
+phrase,P0397,phrase_de,"dem Schluss, dass","zu dem Schluss kommen, dass ..."
+phrase,P0398,phrase_de,auf dem Weg zum,auf dem Weg zum ...
+phrase,P0400,phrase_de,"sicher, dass","sicher sein, dass ..."
+phrase,P0401,phrase_de,Auswirkungen auf,Auswirkungen auf ...
+phrase,P0402,phrase_de,"zu erkennen, dass","zu erkennen, dass ..."
+phrase,P0403,phrase_de,das Verhältnis von,das Verhältnis von ... zu ...
+phrase,P0404,phrase_de,geht es darum,"geht es darum, dass ..."
+phrase,P0405,phrase_de,bis hin zu,bis hin zu ...
+phrase,P0407,phrase_de,"bin froh, dass","ich bin froh, dass ..."
+phrase,P0410,phrase_de,auf dem Weg zur,auf dem Weg zur ...
+phrase,P0412,phrase_de,"nicht sicher, ob","ich bin nicht sicher, ob ..."
+phrase,P0413,phrase_de,aus der Sicht,aus der Sicht + Gen.
+phrase,P0414,phrase_de,mit Ausnahme,mit Ausnahme von ...
+phrase,P0416,phrase_de,sondern auch,"nicht nur ..., sondern auch ..."
+phrase,P0419,phrase_de,ich dachte,"ich dachte, ..."
+phrase,P0420,phrase_de,auf dem Weg nach,auf dem Weg nach ...
+phrase,P0423,phrase_de,einmal in,einmal in der Woche
+phrase,P0424,phrase_de,"sehen, dass","sehen, dass ..."
+phrase,P0425,phrase_de,"wissen, was","wissen, was ..."
+phrase,P0428,phrase_de,"den Vorteil, dass","den Vorteil haben, dass ..."
+phrase,P0433,phrase_de,"deutlich, dass","es ist deutlich, dass ..."
+phrase,P0434,phrase_de,Verhältnis von,Verhältnis von ... zu ...
+phrase,P0436,phrase_de,kurz vor,kurz vor ...
+phrase,P0437,phrase_de,"die Frage, ob","die Frage, ob ..."
+phrase,P0440,phrase_de,fühlt sich,... fühlt sich ...
+phrase,P0442,phrase_de,"weiß nicht, wie","ich weiß nicht, wie ..."
+phrase,P0443,phrase_de,"wichtig, dass","es ist wichtig, dass ..."
+phrase,P0444,phrase_de,im Rahmen,im Rahmen von ...
+phrase,P0446,phrase_de,"sagen, was","sagen, was ..."
+phrase,P0447,phrase_de,in Höhe von,in Höhe von ...
+phrase,P0450,phrase_de,"zu wissen, dass","zu wissen, dass ..."
+phrase,P0453,phrase_de,nur ein paar,nur ein paar ...
+phrase,P0454,phrase_de,"Tatsache, dass","die Tatsache, dass ..."
+phrase,P0457,phrase_de,"davon überzeugt, dass","davon überzeugt sein, dass ..."
+phrase,P0460,phrase_de,es handelt sich,es handelt sich um ...
+phrase,P0462,phrase_de,"weiß, was","weiß, was ..."
+phrase,P0463,phrase_de,kam es zu,kam es zu ...
+phrase,P0464,phrase_de,"gezeigt, dass","gezeigt, dass ..."
+phrase,P0465,phrase_de,Unterschied zwischen,Unterschied zwischen ...
+phrase,P0467,phrase_de,stellt sich die Frage,"es stellt sich die Frage, ob ..."
+phrase,P0471,phrase_de,ist es wichtig,"es ist wichtig, ... zu ..."
+phrase,P0472,phrase_de,"die Frage, wie","die Frage, wie ..."
+phrase,P0473,phrase_de,"ich weiß, was","ich weiß, was ..."
+phrase,P0474,phrase_de,eine Vielzahl von,eine Vielzahl von ...
+phrase,P0476,phrase_de,"hoffen, dass","hoffen, dass ..."
+phrase,P0477,phrase_de,"Frage, ob","die Frage, ob ..."
+phrase,P0481,phrase_de,"du weißt, dass","du weißt, dass ..."
+phrase,P0483,phrase_de,weißt du,"weißt du, ..."
+phrase,P0486,phrase_de,"egal, was","egal, was ..."
+phrase,P0487,phrase_de,"feststellen, dass","feststellen, dass ..."
+phrase,P0488,phrase_de,"was passiert, wenn","was passiert, wenn ...?"
+phrase,P0491,phrase_de,"bewusst, dass","mir ist bewusst, dass ..."
+phrase,P0493,phrase_de,vor dem Hintergrund,vor dem Hintergrund + Gen.
+phrase,P0495,phrase_de,eine ganze Reihe von,eine ganze Reihe von ...
+phrase,P0498,phrase_de,"wissen, wie","wissen, wie ..."
+phrase,P0500,phrase_de,am Tag,dreimal am Tag
+phrase,P0503,phrase_de,"glaube, dass","ich glaube, dass ..."
+phrase,P0508,phrase_de,"zu zeigen, dass","zu zeigen, dass ..."
+phrase,P0509,phrase_de,mit Blick auf,mit Blick auf ...
+phrase,P0510,phrase_de,"der Hoffnung, dass","in der Hoffnung, dass ..."
+phrase,P0513,phrase_de,ist in der Regel,in der Regel ist ...
+phrase,P0514,phrase_de,weiß es nicht,ich weiß es nicht
+phrase,P0517,phrase_de,"ausgehen, dass","davon ausgehen, dass ..."
+phrase,P0524,phrase_de,sind in der Regel,sind in der Regel ...
+phrase,P0529,phrase_de,"bedeutet dies, dass","bedeutet dies, dass ...?"
+phrase,P0530,phrase_de,"erzählt, dass","erzählt, dass ..."
+phrase,P0533,phrase_de,im Kontext,im Kontext von ...
+phrase,P0537,phrase_de,"möglich, dass","es ist möglich, dass ..."
+phrase,P0538,phrase_de,"Frage, wie","die Frage, wie ..."
+phrase,P0539,phrase_de,Anzahl von,Anzahl von ...
+phrase,P0542,phrase_de,am Beispiel,am Beispiel ...
+phrase,P0545,phrase_de,"sicher, ob","sicher sein, ob ..."
+phrase,P0547,phrase_de,"denken, dass","ich denke, dass ..."
+phrase,P0548,phrase_de,zum Thema,zum Thema ...
+phrase,P0550,phrase_de,"fällt auf, dass","es fällt auf, dass ..."
+phrase,P0553,phrase_de,"weiß, wie","weiß, wie ..."
+phrase,P0555,phrase_de,im Rahmen von,im Rahmen von ...
+phrase,P0556,phrase_de,einer Reihe von,einer Reihe von ...
+phrase,P0558,phrase_de,das gilt insbesondere für,das gilt insbesondere für ...
+phrase,P0564,phrase_de,"zu bedenken, dass","zu bedenken ist, dass ..."
+phrase,P0568,phrase_de,im Anschluss an,im Anschluss an ...
+phrase,P0569,phrase_de,"nicht vorstellen, dass","ich kann mir nicht vorstellen, dass ..."
+phrase,P0572,phrase_de,"gefragt, ob","gefragt, ob ..."
+phrase,P0575,phrase_de,zu dem Schluss,"zu dem Schluss kommen, dass ..."
+phrase,P0577,phrase_de,es scheint,"es scheint, dass ..."
+phrase,P0579,phrase_de,"hoffe, dass","ich hoffe, dass ..."
+phrase,P0580,phrase_de,Beispiel für,ein Beispiel für ...
+phrase,P0585,phrase_de,"wissen, ob","wissen, ob ..."
+phrase,P0588,phrase_de,Vielzahl von,eine Vielzahl von ...
+phrase,P0592,phrase_de,"anders, als","anders, als ..."
+phrase,P0593,phrase_de,"ich weiß, wie","ich weiß, wie ..."
+phrase,P0594,phrase_de,"sorgt dafür, dass","sorgt dafür, dass ..."
+phrase,P0595,phrase_de,"wir wissen, dass","wir wissen, dass ..."
+phrase,P0596,phrase_de,kurz nach,kurz nach ...
+phrase,P0597,phrase_de,das gilt auch für,das gilt auch für ...
+phrase,P0600,phrase_de,ich frage mich,"ich frage mich, ob ..."
+phrase,P0603,phrase_de,im Verlauf,im Verlauf + Gen.
+phrase,P0605,phrase_de,aus der Perspektive,aus der Perspektive + Gen.
+phrase,P0607,phrase_de,bis hin zur,bis hin zur ...
+phrase,P0609,phrase_de,nicht allzu,nicht allzu ...
+phrase,P0610,phrase_de,befinden sich,sich befinden
+phrase,P0612,phrase_de,die Angst vor,die Angst vor ...
+phrase,P0613,phrase_de,"zeigen, wie","zeigen, wie ..."
+phrase,P0614,phrase_de,"erfahren, dass","erfahren, dass ..."
+phrase,P0615,phrase_de,ein hohes Maß an,ein hohes Maß an ...
+phrase,P0617,phrase_de,"sicher sein, dass","sicher sein, dass ..."
+phrase,P0618,phrase_de,dies gilt auch für,dies gilt auch für ...
+phrase,P0619,phrase_de,"der Ansicht, dass","der Ansicht sein, dass ..."
+phrase,P0623,phrase_de,das Verhältnis zwischen,das Verhältnis zwischen ...
+phrase,P0624,phrase_de,"es möglich, dass","ist es möglich, dass ...?"
+phrase,P0626,phrase_de,Überblick über,Überblick über ...
+phrase,P0629,phrase_de,Einführung in,Einführung in ...
+phrase,P0637,phrase_de,abhängig von,abhängig von ...
+phrase,P0638,phrase_de,"gehört, dass","gehört, dass ..."
+phrase,P0641,phrase_de,"ist klar, dass","es ist klar, dass ..."
+phrase,P0642,phrase_de,wird in der Regel,wird in der Regel ...
+phrase,P0646,phrase_de,keine Lust,keine Lust ...
+phrase,P0650,phrase_de,gilt insbesondere für,gilt insbesondere für ...
+phrase,P0651,phrase_de,aus Sicht,aus Sicht + Gen.
+phrase,P0655,phrase_de,in diesem Fall ist,in diesem Fall ist ...
+phrase,P0657,phrase_de,unterscheiden sich,sich unterscheiden
+phrase,P0658,phrase_de,"dazu führt, dass","dazu führt, dass ..."
+phrase,P0659,phrase_de,"sagt, dass","... sagt, dass ..."
+phrase,P0660,phrase_de,ich wusste nicht,"ich wusste nicht, ob ..."
+phrase,P0662,phrase_de,in den Mittelpunkt,in den Mittelpunkt stellen
+phrase,P0665,phrase_de,"die Wahrscheinlichkeit, dass","die Wahrscheinlichkeit, dass ..."
+phrase,P0667,phrase_de,"es wichtig, dass","es ist wichtig, dass ..."
+phrase,P0672,phrase_de,"heißt, dass","das heißt, dass ..."
+phrase,P0673,phrase_de,"die Möglichkeit, dass","die Möglichkeit, dass ..."
+phrase,P0676,phrase_de,"festgestellt, dass","festgestellt, dass ..."
+phrase,P0678,phrase_de,so weiter,und so weiter
+phrase,P0679,phrase_de,"die Annahme, dass","die Annahme, dass ..."
+phrase,P0680,phrase_de,"bin sicher, dass","ich bin sicher, dass ..."
+phrase,P0682,phrase_de,"nur hoffen, dass","nur hoffen, dass ..."
+phrase,P0685,phrase_de,"das einzige, was","das Einzige, was ..."
+phrase,P0688,phrase_de,anders als bei,anders als bei ...
+phrase,P0690,phrase_de,"gut, dann","gut, dann ..."
+phrase,P0692,phrase_de,wie weit,wie weit ...?
+phrase,P0693,phrase_de,ganz schön,ganz schön ...
+phrase,P0694,phrase_de,"erwarten, dass","erwarten, dass ..."
+phrase,P0696,phrase_de,bis hin zum,bis hin zum ...
+phrase,P0697,phrase_de,"damit gerechnet, dass","damit rechnen, dass ..."
+phrase,P0698,phrase_de,"dem Ergebnis, dass","zu dem Ergebnis kommen, dass ..."
+phrase,P0700,phrase_de,zum Zeitpunkt,zum Zeitpunkt + Gen.
+phrase,P0701,phrase_de,ganz zu schweigen,ganz zu schweigen von ...
+phrase,P0703,phrase_de,ich fürchte,"ich fürchte, ..."
+phrase,P0705,phrase_de,eine Gruppe von,eine Gruppe von ...
+phrase,P0706,phrase_de,auch im Hinblick auf,auch im Hinblick auf ...
+phrase,P0708,phrase_de,"ausgegangen werden, dass","davon ausgegangen werden, dass ..."
+phrase,P0709,phrase_de,"egal, wie","egal, wie ..."
+phrase,P0714,phrase_de,dies gilt auch,dies gilt auch für ...
+phrase,P0715,phrase_de,freue mich,"ich freue mich, dass ..."
+phrase,P0718,phrase_de,kommen wir,kommen wir zu ...
+phrase,P0720,phrase_de,als Folge,als Folge davon
+phrase,P0721,phrase_de,"bekannt, dass","es ist bekannt, dass ..."
+phrase,P0722,phrase_de,"wer weiß, was","wer weiß, was ..."
+phrase,P0725,phrase_de,"auszugehen, dass","davon auszugehen, dass ..."
+phrase,P0726,phrase_de,wie beispielsweise,wie beispielsweise ...
+phrase,P0729,phrase_de,"vermuten, dass","vermuten, dass ..."
+phrase,P0732,phrase_de,für die meisten,für die meisten ...
+phrase,P0735,phrase_de,ich weiß gar nicht,"ich weiß gar nicht, ob ..."
+phrase,P0738,phrase_de,ich halte,ich halte das für ...
+phrase,P0740,phrase_de,"erklären, dass","erklären, dass ..."
+phrase,P0748,phrase_de,fühle mich,ich fühle mich ...
+phrase,P0750,phrase_de,im Vergleich mit,im Vergleich mit ...
+phrase,P0751,phrase_de,"ziemlich sicher, dass","ziemlich sicher sein, dass ..."
+phrase,P0755,phrase_de,in erster Linie auf,in erster Linie auf ...
+phrase,P0758,phrase_de,bin mir nicht sicher,ich bin mir nicht sicher
+phrase,P0759,phrase_de,ein Blick auf,ein Blick auf ...
+phrase,P0761,phrase_de,"behaupten, dass","behaupten, dass ..."
+phrase,P0765,phrase_de,zum Beispiel in,zum Beispiel in ...
+phrase,P0766,phrase_de,"sieht aus, als","es sieht aus, als ob ..."
+phrase,P0767,phrase_de,keinen Sinn,keinen Sinn machen
+phrase,P0769,phrase_de,werden in der Regel,werden in der Regel ...
+phrase,P0770,phrase_de,die Frage ist,"die Frage ist, ob/wie ..."
+phrase,P0771,phrase_de,weit von,weit von ... entfernt
+phrase,P0777,meaning_en,Good day! Hello!,hello; good day
+phrase,P0783,meaning_en,from...till,from ... to/until ...
+phrase,P0783,phrase_de,von ... bis,von ... bis ...
+phrase,P0784,meaning_en,good day,hello (southern German/Austrian)
+phrase,P0786,meaning_en,Enjoy!,enjoy your meal
+phrase,P0790,meaning_en,athome,at home
+phrase,P0791,meaning_en,talk to you later,goodbye (on the phone)
+phrase,P0792,meaning_en,thank you,thank you very much
+phrase,P0794,meaning_en,again,again (already)
+phrase,P0796,meaning_en,not anymore,no longer
+phrase,P0797,meaning_en,"a couple, a few",a few; a couple
+phrase,P0798,meaning_en,excuse me,pardon? / excuse me?
+phrase,P0800,meaning_en,not only,not only ...
+phrase,P0800,phrase_de,nicht nur,nicht nur ...
+phrase,P0801,meaning_en,over there,over there; up ahead
+phrase,P0802,meaning_en,from...to,from ... to ...
+phrase,P0802,phrase_de,von ... nach,von ... nach ...
+phrase,P0803,meaning_en,from...to,from ... to ...
+phrase,P0803,phrase_de,von ... zu,von ... zu ...
+phrase,P0804,meaning_en,first,first (of all)
+phrase,P0805,meaning_en,such a,such a ...
+phrase,P0805,phrase_de,So ein,so ein ...
+phrase,P0807,meaning_en,thanks a million,a thousand thanks
+phrase,P0808,meaning_en,there and back,there and back; return
+phrase,P0809,meaning_en,very well,all right then
+phrase,P0810,meaning_en,out of office,out (of the house)
+phrase,P0810,example_en,Ms Mankel is out of office.,"Mrs Mankel is out of the office, I'm afraid."
+phrase,P0811,meaning_en,before,ever; before
+phrase,P0812,meaning_en,past,past ...
+phrase,P0813,meaning_en,opposite of,opposite ...
+phrase,P0813,phrase_de,gegenüber von,gegenüber von ...
+phrase,P0814,meaning_en,outside of,outside ...
+phrase,P0814,phrase_de,außerhalb von,außerhalb von ...
+phrase,P0815,meaning_en,whenever,whenever ...
+phrase,P0815,phrase_de,immer wenn,immer wenn ...
+phrase,P0817,meaning_en,to take care,to be careful
+phrase,P0821,phrase_de,von ... auf,von einem ... auf den anderen
+phrase,P0829,phrase_de,einerseits ...,"einerseits ..., andererseits ..."
+phrase,P0830,meaning_en,heavy metal,heavy metal (music)
+phrase,P0831,meaning_en,still...yet...,"indeed ..., but ..."
+phrase,P0831,phrase_de,zwar ...,"zwar ..., aber ..."
+phrase,P0834,phrase_de,im Lauf,im Lauf(e) der Zeit
+phrase,P0838,phrase_de,je ...,"je ..., desto ..."
+phrase,P0839,check,not-a-phrase?,drop?
+phrase,P0843,phrase_de,"ich glaube nicht, dass","ich glaube nicht, dass ..."
+phrase,P0844,phrase_de,"ich weiß nicht, ob","ich weiß nicht, ob ..."
+phrase,P0845,phrase_de,"für den Fall, dass","für den Fall, dass ..."
+phrase,P0846,phrase_de,"ich weiß nicht, was","ich weiß nicht, was ..."
+phrase,P0847,phrase_de,"ich weiß nicht, wie","ich weiß nicht, wie ..."
+phrase,P0848,phrase_de,"nichts anderes übrig, als","nichts anderes übrig bleiben, als ..."
+phrase,P0849,phrase_de,"ist zu beachten, dass","es ist zu beachten, dass ..."
+phrase,P0850,phrase_de,"tut mir leid, dass","es tut mir leid, dass ..."
+phrase,P0851,phrase_de,"das erste Mal, dass","das erste Mal, dass ..."
+phrase,P0852,phrase_de,"geht davon aus, dass","geht davon aus, dass ..."
+phrase,P0853,phrase_de,"ich bin froh, dass","ich bin froh, dass ..."
+phrase,P0854,phrase_de,"zu dem Schluss, dass","zu dem Schluss kommen, dass ..."
+phrase,P0855,phrase_de,"darauf zu achten, dass","darauf zu achten, dass ..."
+phrase,P0856,phrase_de,"weist darauf hin, dass","darauf hinweisen, dass ..."
+phrase,P0857,phrase_de,"ist davon auszugehen, dass","davon auszugehen sein, dass ..."
+phrase,P0858,phrase_de,"in der Hoffnung, dass","in der Hoffnung, dass ..."
+phrase,P0859,phrase_de,"stellte sich heraus, dass","es stellte sich heraus, dass ..."
+phrase,P0777,register,formal,neutral
+phrase,P0781,register,formal,neutral
+phrase,P0782,register,formal,neutral
+phrase,P0860,phrase_de,"ich bin sicher, dass","ich bin sicher, dass ..."
+phrase,P0861,phrase_de,"um zu sehen, ob","um zu sehen, ob ..."
+phrase,P0862,phrase_de,"dafür zu sorgen, dass","dafür zu sorgen, dass ..."
+phrase,P0863,phrase_de,"hatte das Gefühl, dass","ich hatte das Gefühl, dass ..."
+phrase,P0864,phrase_de,"bin mir sicher, dass","ich bin mir sicher, dass ..."
+phrase,P0865,phrase_de,"ich glaube, ich habe","ich glaube, ich habe ..."
+phrase,P0867,phrase_de,"gehen davon aus, dass","wir gehen davon aus, dass ..."
+phrase,P0868,phrase_de,"davon ausgegangen werden, dass","davon ausgegangen werden, dass ..."
+phrase,P0869,phrase_de,"zu dem Ergebnis, dass","zu dem Ergebnis kommen, dass ..."
+phrase,P0871,phrase_de,"sieht so aus, als","es sieht so aus, als ob ..."
+phrase,P0872,phrase_de,nicht mehr in der Lage,nicht mehr in der Lage sein
+phrase,P0873,phrase_de,"ist es wichtig, dass","ist es wichtig, dass ...?"
+phrase,P0875,phrase_de,"hat zur Folge, dass","hat zur Folge, dass ..."
+phrase,P0877,phrase_de,"ich frage mich, ob","ich frage mich, ob ..."
+phrase,P0878,phrase_de,"um zu verhindern, dass","um zu verhindern, dass ..."
+phrase,P0879,phrase_de,"besteht die Gefahr, dass","es besteht die Gefahr, dass ..."
+phrase,P0880,phrase_de,"bist du sicher, dass","bist du sicher, dass ...?"
+phrase,P0881,phrase_de,"wird davon ausgegangen, dass","es wird davon ausgegangen, dass ..."
+phrase,P0882,phrase_de,"ich wusste nicht, was","ich wusste nicht, was ..."
+phrase,P0883,phrase_de,"ich glaube, es ist","ich glaube, es ist ..."
+phrase,P0884,phrase_de,"ich wusste nicht, dass","ich wusste nicht, dass ..."
+phrase,P0885,phrase_de,ich kann mir nicht vorstellen,"ich kann mir nicht vorstellen, ... zu ..."
+phrase,P0886,phrase_de,"ich weiß nicht, warum","ich weiß nicht, warum ..."
+phrase,P0887,phrase_de,"zu der Annahme, dass","zu der Annahme kommen, dass ..."
+phrase,P0888,phrase_de,"wenn man bedenkt, dass","wenn man bedenkt, dass ..."
+phrase,P0889,phrase_de,"ich nehme an, dass","ich nehme an, dass ..."
+phrase,P0890,phrase_de,"achten Sie darauf, dass","achten Sie darauf, dass ..."
+phrase,P0891,phrase_de,"ist es möglich, dass","ist es möglich, dass ...?"
+phrase,P0892,phrase_de,"ich weiß nur, dass","ich weiß nur, dass ..."
+phrase,P0893,phrase_de,"mit der Folge, dass","mit der Folge, dass ..."
+phrase,P0894,phrase_de,"wurde mir klar, dass","mir wurde klar, dass ..."
+phrase,P0895,phrase_de,"hatte den Eindruck, dass","ich hatte den Eindruck, dass ..."
+phrase,P0896,phrase_de,kann ich für Sie tun,was kann ich für Sie tun?
+phrase,P0897,phrase_de,"ging davon aus, dass","ich ging davon aus, dass ..."
+phrase,P0898,phrase_de,"zu beachten ist, dass","zu beachten ist, dass ..."
+phrase,P0899,phrase_de,"damit zu tun, dass","damit zu tun haben, dass ..."
+phrase,P0900,phrase_de,"deutet darauf hin, dass","deutet darauf hin, dass ..."
+phrase,P0901,phrase_de,"ich habe gehört, dass","ich habe gehört, dass ..."
+phrase,P0902,phrase_de,"gehe davon aus, dass","ich gehe davon aus, dass ..."
+phrase,P0903,phrase_de,nicht in der Lage ist,"nicht in der Lage sein, ... zu ..."
+phrase,P0904,phrase_de,"ich freue mich, dass","ich freue mich, dass ..."
+phrase,P0905,phrase_de,"hat mir erzählt, dass","... hat mir erzählt, dass ..."
+phrase,P0906,phrase_de,"ich wünschte, ich könnte","ich wünschte, ich könnte ..."
+phrase,P0908,phrase_de,"hätte nie gedacht, dass","ich hätte nie gedacht, dass ..."
+phrase,P0909,phrase_de,"hätte nicht gedacht, dass","ich hätte nicht gedacht, dass ..."
+phrase,P0910,phrase_de,"das liegt daran, dass","das liegt daran, dass ..."
+phrase,P0911,phrase_de,"ist zu berücksichtigen, dass","zu berücksichtigen ist, dass ..."
+phrase,P0913,phrase_de,"es ist wichtig, dass","es ist wichtig, dass ..."
+phrase,P0914,phrase_de,"habe das Gefühl, dass","ich habe das Gefühl, dass ..."
+phrase,P0915,phrase_de,"weisen darauf hin, dass","wir weisen darauf hin, dass ..."
+phrase,P0916,phrase_de,"ich glaube, das ist","ich glaube, das ist ..."
+phrase,P0917,phrase_de,"keine andere Wahl, als","keine andere Wahl haben, als ..."
+phrase,P0918,phrase_de,"es zeigt sich, dass","es zeigt sich, dass ..."
+phrase,P0919,phrase_de,"nicht damit gerechnet, dass","nicht damit gerechnet haben, dass ..."
+phrase,P0920,phrase_de,"in dem Maße, wie","in dem Maße, wie ..."
+phrase,P0922,phrase_de,"es ist besser, wenn","es ist besser, wenn ..."
+phrase,P0923,phrase_de,"lässt sich sagen, dass","es lässt sich sagen, dass ..."
+phrase,P0924,phrase_de,"stellt sich heraus, dass","es stellt sich heraus, dass ..."
+phrase,P0926,phrase_de,stellt sich die Frage nach,es stellt sich die Frage nach ...
+phrase,P0927,phrase_de,"lässt sich festhalten, dass","es lässt sich festhalten, dass ..."
+phrase,P0928,phrase_de,es ist an der Zeit,"es ist an der Zeit, ... zu ..."
+phrase,P0929,phrase_de,nicht in der Lage sind,"nicht in der Lage sein, ... zu ..."
+phrase,P0930,phrase_de,"es wird Zeit, dass","es wird Zeit, dass ..."
+phrase,P0931,phrase_de,"angesichts der Tatsache, dass","angesichts der Tatsache, dass ..."
+phrase,P0933,phrase_de,"ich wusste nicht, ob","ich wusste nicht, ob ..."
+phrase,P0934,phrase_de,"wie kommt es, dass","wie kommt es, dass ...?"
+phrase,P0935,phrase_de,"lässt sich feststellen, dass","es lässt sich feststellen, dass ..."
+phrase,P0936,phrase_de,"hat den Vorteil, dass","den Vorteil haben, dass ..."
+phrase,P0937,phrase_de,"das heißt nicht, dass","das heißt nicht, dass ..."
+phrase,P0938,phrase_de,"ich weiß nicht, wo","ich weiß nicht, wo ..."
+phrase,P0939,phrase_de,"ich denke nicht, dass","ich denke nicht, dass ..."
+phrase,P0940,phrase_de,"kann man sagen, dass","man kann sagen, dass ..."
+phrase,P0941,phrase_de,"ist der Grund, warum","der Grund sein, warum ..."
+phrase,P0944,phrase_de,auf der anderen Seite ist,auf der anderen Seite ist ...
+phrase,P0945,phrase_de,"der Grund dafür, dass","der Grund dafür, dass ..."
+phrase,P0948,phrase_de,"hat sich gezeigt, dass","es hat sich gezeigt, dass ..."
+phrase,P0949,phrase_de,"ich denke, es ist","ich denke, es ist ..."
+phrase,P0950,phrase_de,"ich bin überzeugt, dass","ich bin überzeugt, dass ..."
+phrase,P0951,phrase_de,"mit dem Unterschied, dass","mit dem Unterschied, dass ..."
+phrase,P0953,phrase_de,"unter der Voraussetzung, dass","unter der Voraussetzung, dass ..."
+phrase,P0954,phrase_de,"fiel mir auf, dass","mir fiel auf, dass ..."
+phrase,P0955,phrase_de,"ich wusste nicht, wie","ich wusste nicht, wie ..."
+phrase,P0956,phrase_de,"bin so froh, dass","ich bin so froh, dass ..."
+phrase,P0957,phrase_de,"sorgen Sie dafür, dass","sorgen Sie dafür, dass ..."
+phrase,P0958,phrase_de,"gilt auch dann, wenn","das gilt auch dann, wenn ..."
+phrase,P0959,phrase_de,"daran zu erinnern, dass","daran erinnern, dass ..."
+phrase,P0960,phrase_de,"ich wünschte, ich hätte","ich wünschte, ich hätte ..."
+phrase,P0961,phrase_de,"kann festgehalten werden, dass","es kann festgehalten werden, dass ..."
+phrase,P0962,phrase_de,"darauf geachtet werden, dass","darauf geachtet werden, dass ..."
+phrase,P0963,phrase_de,"keinen Zweifel daran, dass","keinen Zweifel daran haben, dass ..."
+phrase,P0964,phrase_de,"tut mir leid, wenn","es tut mir leid, wenn ..."
+phrase,P0965,phrase_de,"um zu zeigen, dass","um zu zeigen, dass ..."
+phrase,P0966,phrase_de,"hat mir gesagt, dass","... hat mir gesagt, dass ..."
+phrase,P0967,phrase_de,"kann nicht glauben, dass","nicht glauben können, dass ..."
+phrase,P0970,phrase_de,"man davon ausgehen, dass","man davon ausgehen, dass ..."
+phrase,P0971,phrase_de,"deuten darauf hin, dass","deuten darauf hin, dass ..."
+phrase,P0972,phrase_de,"habe keine Ahnung, was","ich habe keine Ahnung, was ..."
+phrase,P0973,phrase_de,"fest davon überzeugt, dass","fest davon überzeugt sein, dass ..."
+phrase,P0974,phrase_de,"ich glaube, ich bin","ich glaube, ich bin ..."
+phrase,P0976,phrase_de,"unter der Bedingung, dass","unter der Bedingung, dass ..."
+phrase,P0977,phrase_de,"ist die Frage, ob","die Frage ist, ob ..."
+phrase,P0979,phrase_de,"ich war froh, dass","ich war froh, dass ..."
+phrase,P0981,phrase_de,"aufgrund der Tatsache, dass","aufgrund der Tatsache, dass ..."
+phrase,P0982,phrase_de,"es ist anzunehmen, dass","es ist anzunehmen, dass ..."
+phrase,P0983,phrase_de,"weiß nicht, wie lange","ich weiß nicht, wie lange ..."
+phrase,P0984,phrase_de,"ich hoffe, du hast","ich hoffe, du hast ..."
+phrase,P0985,phrase_de,"hältst du davon, wenn","was hältst du davon, wenn ...?"
+phrase,P0986,phrase_de,kann ich mir nicht vorstellen,das kann ich mir nicht vorstellen
+phrase,P0988,phrase_de,"kann dazu führen, dass","kann dazu führen, dass ..."
+phrase,P0989,phrase_de,"es ist möglich, dass","es ist möglich, dass ..."
+phrase,P0991,phrase_de,"vor dem Hintergrund, dass","vor dem Hintergrund, dass ..."
+phrase,P0992,phrase_de,"ich muss zugeben, dass","ich muss zugeben, dass ..."
+phrase,P0993,phrase_de,ist es an der Zeit,es ist an der Zeit
+phrase,P0994,phrase_de,"frage ich mich, ob","ich frage mich, ob ..."
+phrase,P0995,phrase_de,"darauf hingewiesen werden, dass","darauf hingewiesen werden, dass ..."
+phrase,P0996,phrase_de,"ich gebe zu, dass","ich gebe zu, dass ..."
+phrase,P0997,phrase_de,"ich denke, wir sollten","ich denke, wir sollten ..."
+phrase,P0999,phrase_de,"ist zu erwarten, dass","es ist zu erwarten, dass ..."
+phrase,P1000,phrase_de,"es ist gut, dass","es ist gut, dass ..."
+phrase,P1001,phrase_de,"kann es passieren, dass","es kann passieren, dass ..."
+phrase,P1002,phrase_de,"lag es daran, dass","es lag daran, dass ..."
+phrase,P1003,phrase_de,"das bedeutet nicht, dass","das bedeutet nicht, dass ..."
+phrase,P1004,phrase_de,"ich frage mich, wie","ich frage mich, wie ..."
+phrase,P1005,phrase_de,"ein Zeichen dafür, dass","ein Zeichen dafür, dass ..."
+phrase,P1006,phrase_de,"es zu verdanken, dass","es zu verdanken sein, dass ..."
+phrase,P1007,phrase_de,"es wird deutlich, dass","es wird deutlich, dass ..."
+phrase,P1008,phrase_de,"es nicht verwunderlich, dass","es nicht verwunderlich sein, dass ..."
+phrase,P1009,phrase_de,"ich frage mich, was","ich frage mich, was ..."
+phrase,P1010,phrase_de,"ich glaube, du hast","ich glaube, du hast recht"
+phrase,P1011,phrase_de,"ich weiß nicht, wer","ich weiß nicht, wer ..."
+phrase,P1012,phrase_de,"werde dafür sorgen, dass","ich werde dafür sorgen, dass ..."
+phrase,P1013,phrase_de,"denken Sie daran, dass","denken Sie daran, dass ..."
+phrase,P1014,phrase_de,"die Erfahrung gemacht, dass","die Erfahrung gemacht haben, dass ..."
+phrase,P1015,phrase_de,"weiß gar nicht, was","ich weiß gar nicht, was ..."
+redemittel,R0464,meaning_en,"Firstly, it speaks in favour that ...","Firstly, one point in favour is that ..."
+redemittel,R0464,example_en,"Firstly, there is the fact that one saves a lot of time this way.","Firstly, one point in favour is that you save a lot of time this way."
+redemittel,R0520,redemittel_de,Mit freundlichen Grüßen,Ich verbleibe mit freundlichen Grüßen
+redemittel,R0520,meaning_en,Yours sincerely,"I remain, with kind regards"
+redemittel,R0520,example_de,"Mit freundlichen Grüßen, Dr. Aisha Khan","Ich verbleibe mit freundlichen Grüßen, Dr. Aisha Khan"
+redemittel,R0520,example_en,"Yours sincerely, Dr Aisha Khan","I remain, with kind regards, Dr Aisha Khan"
+redemittel,R0520,grammar_note,"Grußformel ohne Satzzeichen, danach Name","verbleiben = Briefschluss, formell"
+redemittel,R0520,variants,Freundliche Grüße | Hochachtungsvoll,Mit besten Grüßen | Mit freundlichem Gruß
+redemittel,R0613,redemittel_de,An deiner Stelle würde ich ...,"Wenn ich du wäre, würde ich ..."
+redemittel,R0613,example_de,An deiner Stelle würde ich den Arzt anrufen.,"Wenn ich du wäre, würde ich einen Termin beim Arzt machen."
+redemittel,R0613,example_en,"If I were you, I would call the doctor.","If I were you, I would make an appointment with the doctor."
+redemittel,R0613,grammar_note,Konjunktiv II: würde + Infinitiv,"Konjunktiv II: wäre, würde + Infinitiv"
+redemittel,R0613,variants,"Wenn ich du wäre, würde ich ... | Ich würde dir raten, ... zu ...","An deiner Stelle würde ich ... | Ich würde dir raten, ... zu ..."
+redemittel,R0632,redemittel_de,"Mir ist aufgefallen, dass ...","Ich habe bemerkt, dass ..."
+redemittel,R0632,meaning_en,I noticed that ...,I have noticed that ...
+redemittel,R0632,example_de,"Mir ist aufgefallen, dass die Übergabe oft zu spät beginnt.","Ich habe bemerkt, dass die Übergabe oft zu spät beginnt."
+redemittel,R0632,example_en,I noticed that handover often starts too late.,I have noticed that the handover often starts late.
+redemittel,R0632,grammar_note,auffallen + Dativ; dass-Satz,bemerken + dass-Satz
+redemittel,R0632,variants,"Ich habe beobachtet, dass ... | Mir fällt auf, dass ...","Mir ist etwas aufgefallen: ... | Ich habe festgestellt, dass ..."
+redemittel,R0479,redemittel_de,Hiermit möchte ich mich über ... beschweren.,Leider muss ich mich bei Ihnen über ... beschweren.
+redemittel,R0479,meaning_en,I hereby wish to complain about ...,Unfortunately I have to complain to you about ...
+redemittel,R0479,example_de,Hiermit möchte ich mich über die Verspätung meiner Lieferung beschweren.,Leider muss ich mich bei Ihnen über die schlechte Qualität der Ware beschweren.
+redemittel,R0479,example_en,I hereby wish to complain about the delay of my delivery.,Unfortunately I have to complain to you about the poor quality of the goods.
+redemittel,R0479,variants,"Ich wende mich an Sie, weil ... | Leider muss ich mich bei Ihnen über ... beschweren.",Ich bin mit ... unzufrieden und möchte mich beschweren. | Hiermit beschwere ich mich über ...
+redemittel,R0498,redemittel_de,"Sehr geehrte Damen und Herren,","Sehr geehrte Frau Doktor ...,"
+redemittel,R0498,meaning_en,"Dear Sir or Madam,","Dear Dr ... (female addressee),"
+redemittel,R0498,example_de,"Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen Ihrer Stellenanzeige.","Sehr geehrte Frau Doktor Weber, ich schreibe Ihnen wegen meiner Bewerbung."
+redemittel,R0498,example_en,"Dear Sir or Madam, I am writing to you regarding your job advertisement.","Dear Dr Weber, I am writing to you about my application."
+redemittel,R0498,grammar_note,Anrede mit Komma; Satz danach klein,Anrede mit Titel; danach Komma und Kleinschreibung
+redemittel,R0498,variants,"Sehr geehrte Frau Dr. Schmidt, | Sehr geehrter Herr Professor Müller,","Sehr geehrter Herr Doktor ..., | Sehr geehrte Frau Professorin ...,"
+redemittel,R0429,redemittel_de,Vielen Dank für Ihre Aufmerksamkeit.,Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.
+redemittel,R0429,meaning_en,Thank you for your attention.,I thank you for your attention and look forward to your questions.
+redemittel,R0429,example_de,Das war mein Vortrag. Vielen Dank für Ihre Aufmerksamkeit.,Ich bedanke mich für Ihre Aufmerksamkeit und freue mich auf Ihre Fragen.
+redemittel,R0429,example_en,That was my talk. Thank you for your attention.,I thank you for your attention and look forward to your questions.
+redemittel,R0429,grammar_note,danken für + Akkusativ,sich bedanken für + Akkusativ; sich freuen auf + Akkusativ
+redemittel,R0429,variants,Ich danke Ihnen für Ihre Aufmerksamkeit. | Danke fürs Zuhören.,"Danke fürs Zuhören, ich freue mich auf Ihre Rückfragen. | Das war mein Vortrag, gern beantworte ich Ihre Fragen."
+redemittel,R0430,redemittel_de,"Stellen Sie sich einmal vor, ...","Man stelle sich vor, ..."
+redemittel,R0430,meaning_en,Just imagine ...,Imagine that ...
+redemittel,R0430,example_de,"Stellen Sie sich einmal vor, Sie müssten jeden Tag zwei Stunden pendeln.","Man stelle sich vor, jeder Patient hätte einen eigenen Arzt."
+redemittel,R0430,example_en,Just imagine you had to commute two hours every day.,Imagine every patient had their own doctor.
+redemittel,R0430,grammar_note,sich (Dativ) vorstellen; danach oft Konjunktiv II,Konjunktiv I als Aufforderung (formell); danach oft Konjunktiv II
+redemittel,R0430,variants,Denken Sie einmal darüber nach: ... | Überlegen Sie kurz: ...,"Angenommen, ... | Nehmen wir an, ..."
+redemittel,R0444,redemittel_de,"Das hängt davon ab, ob ...","Es kommt maßgeblich darauf an, ob ..."
+redemittel,R0444,meaning_en,That depends on whether ...,It depends largely on whether ...
+redemittel,R0444,example_de,"Das hängt davon ab, ob man genug Zeit zum Lernen hat.","Es kommt maßgeblich darauf an, ob man genug Zeit zum Lernen hat."
+redemittel,R0444,example_en,That depends on whether one has enough time to study.,It depends largely on whether one has enough time to study.
+redemittel,R0444,grammar_note,abhängen von + Dativ; ob-Satz,ankommen auf + Akkusativ; ob-Satz: Verb am Ende
+redemittel,R0444,variants,"Es kommt darauf an, ob ... | Das ist von ... abhängig.","Das ist weitgehend davon abhängig, ob ... | Ausschlaggebend ist, ob ..."
+redemittel,R0447,redemittel_de,"Ich schlage vor, dass wir ...","Mein Vorschlag wäre, ... zu ..."
+redemittel,R0447,meaning_en,I suggest that we ...,My suggestion would be to ...
+redemittel,R0447,example_de,"Ich schlage vor, dass wir die Aufgaben fair verteilen.","Mein Vorschlag wäre, die Aufgaben fair zu verteilen."
+redemittel,R0447,example_en,I suggest that we distribute the tasks fairly.,My suggestion would be to distribute the tasks fairly.
+redemittel,R0447,grammar_note,vorschlagen + dass-Satz,Konjunktiv II: wäre; zu-Infinitiv
+redemittel,R0447,variants,"Mein Vorschlag wäre, ... | Wie wäre es, wenn wir ...?","Ich würde vorschlagen, ... zu ... | Man könnte ... zu ..."
+redemittel,R0455,redemittel_de,Da muss ich Ihnen leider widersprechen.,Dem kann ich so nicht zustimmen.
+redemittel,R0455,meaning_en,I'm afraid I have to disagree with you there.,I can't agree with that.
+redemittel,R0455,example_de,Da muss ich Ihnen leider widersprechen: Das stimmt so nicht.,"Dem kann ich so nicht zustimmen, denn die Zahlen sprechen dagegen."
+redemittel,R0455,example_en,I'm afraid I have to disagree with you there: that is not correct.,"I can't agree with that, because the figures speak against it."
+redemittel,R0455,grammar_note,widersprechen + Dativ,zustimmen + Dativ
+redemittel,R0455,variants,Das sehe ich anders. | Da bin ich anderer Meinung.,Da bin ich anderer Meinung. | Ich sehe das nicht so.
+redemittel,R0467,redemittel_de,Ein Beispiel dafür ist ...,"Als Beleg dafür lässt sich anführen, dass ..."
+redemittel,R0467,meaning_en,An example of this is ...,As evidence for this one can cite that ...
+redemittel,R0467,example_de,"Ein Beispiel dafür ist die Stadt Freiburg, in der viele Menschen Rad fahren.","Als Beleg dafür lässt sich anführen, dass die Zahl der Patienten steigt."
+redemittel,R0467,example_en,"An example of this is the city of Freiburg, where many people cycle.",As evidence for this one can cite that the number of patients is rising.
+redemittel,R0467,grammar_note,Beispiel für + Akkusativ,sich lassen + Infinitiv = Passiv mit können
+redemittel,R0467,variants,Dies zeigt sich zum Beispiel bei ... | So ist es etwa bei ...,"Dafür spricht, dass ... | Zum Beleg sei erwähnt, dass ..."
+redemittel,R0469,redemittel_de,"Aus eigener Erfahrung weiß ich, dass ...","Persönlich habe ich die Erfahrung gemacht, dass ..."
+redemittel,R0469,meaning_en,From my own experience I know that ...,Personally I have found from experience that ...
+redemittel,R0469,example_de,"Aus eigener Erfahrung weiß ich, dass man in Gruppen besser lernt.","Persönlich habe ich die Erfahrung gemacht, dass Nachfragen Probleme verhindert."
+redemittel,R0469,example_en,From my own experience I know that one learns better in groups.,Personally I have found from experience that asking questions prevents problems.
+redemittel,R0469,grammar_note,aus + Dativ; wissen + dass-Satz,Erfahrung machen; dass-Satz: Verb am Ende
+redemittel,R0469,variants,"Ich habe selbst die Erfahrung gemacht, dass ... | Persönlich habe ich erlebt, dass ...","Ich habe selbst erlebt, dass ... | Aus meiner eigenen Praxis weiß ich, dass ..."
+redemittel,R1026,redemittel_de,Ich wiederhole: einen Milligramm Adrenalin intravenös.,Ich wiederhole: ein Milligramm Adrenalin intravenös.
+redemittel,R1031,grammar_note,fasse zusammen: Doppelpunkt¶v=Kurze Lagebeschreibung: ... | Zur Situation: ...,Lagebeschreibung im Präsens
+redemittel,R0699,redemittel_de,"Habe ich Sie richtig verstanden, dass ...?",Habe ich das richtig verstanden: Seit wann bestehen die Beschwerden?
+redemittel,R0699,meaning_en,Have I understood you correctly that ...?,Have I understood correctly: since when have the complaints existed?
+redemittel,R0699,example_de,"Habe ich Sie richtig verstanden, dass die Beschwerden vor einer Woche begonnen haben?","Habe ich das richtig verstanden: Seit wann bestehen die Beschwerden, seit Montag?"
+redemittel,R0699,example_en,Have I understood you correctly that the complaints began a week ago?,"Have I understood correctly: since when have the complaints existed, since Monday?"
+redemittel,R0699,grammar_note,dass-Satz: Verb am Ende,Rückfrage zur Bestätigung
+redemittel,R0699,variants,"Ich fasse kurz zusammen: ... | Sie sagen also, dass ...","Sie sagen also, die Beschwerden begannen am Montag? | Ich fasse kurz zusammen: ..."
+vocab,B2202,example_en,I'm ina bad mood today.,I'm in a bad mood today.
+vocab,B2205,meaning_en,"bride and groom, newlyweds",bride and groom; newlyweds
+vocab,B2207,meaning_en,greetings card,congratulations card
+vocab,B2212,gov,bei + Dat.,bei + Dat. | für + Akk.
+vocab,B2218,gov,mit + Dat.,mit + Dat. | über + Akk.
+vocab,B2220,check,ocr?,
+vocab,B2232,meaning_en,annoyed,annoying
+vocab,B3727,meaning_en,to create,to produce; to establish
+vocab,B2240,check,ocr?,
+vocab,B4881,meaning_en,dealing,contact; handling
+vocab,B2243,check,ocr?,
+vocab,B2246,check,ocr?,
+vocab,B2253,gov,für + Akk.,
+vocab,B2257,perfect,hat gewöhnt/ist gewöhnt,hat gewöhnt
+vocab,B2263,meaning_en,tidy,tidy; proper
+vocab,B2283,meaning_en,garbage disposal,refuse collection
+vocab,B2514,meaning_en,expertise,competence; expertise
+vocab,B2287,meaning_en,transportation (means of),means of transport
+vocab,B4859,example_de,die Europäische Gemeinschaft,Die Gemeinschaft der Nachbarn hilft sich gegenseitig.
+vocab,B4859,example_en,the European community,The community of neighbours helps each other.
+vocab,B4728,example_de,die Aufnahme in ein Team,Die Aufnahme in das Team war sehr herzlich.
+vocab,B4728,example_en,the inclusion into a team,The welcome into the team was very warm.
+vocab,B2309,meaning_en,fire department,fire brigade
+vocab,B2323,meaning_en,job advertisment,job advertisement
+vocab,B3426,meaning_en,to load,to load; to charge
+vocab,B2331,example_de,Bescheid geben,"Ich gebe Ihnen Bescheid, sobald der Termin feststeht."
+vocab,B2331,meaning_en,notification (to inform),notice; decision
+vocab,B2335,check,ocr?,
+vocab,B2344,meaning_en,purse,purse; wallet
+vocab,B2347,example_de,den Pass verlängern,Ich muss meinen Pass verlängern lassen.
+vocab,B2347,example_en,to extend the passport,I have to get my passport renewed.
+vocab,B5311,preterite,erschrak,erschreckte
+vocab,B5311,pres_3sg,erschrickt,erschreckt
+vocab,B2349,example_de,Geld abheben,Ich muss noch Geld am Automaten abheben.
+vocab,B2349,example_en,to withdraw money,I still have to withdraw money from the cash machine.
+vocab,B2353,example_de,die Geldkarte sperren,Ich muss sofort meine Bankkarte sperren lassen.
+vocab,B2353,example_en,to block the money card,I have to have my bank card blocked immediately.
+vocab,B2353,meaning_en,to block,to block; to close
+vocab,B2358,meaning_en,to borrow,to borrow; to lend
+vocab,B2360,check,article?,
+vocab,B2360,meaning_en,next,next one
+vocab,B2363,check,article?,
+vocab,B2364,check,ocr?,
+vocab,B2374,example_de,Wir haben die Maler im Haus. Wir lassen die Wände neu streichen.,Der Maler streicht die Wände in unserer Wohnung neu.
+vocab,B2375,example_de,Wir haben die Maler im Haus. Wir lassen die Wände neu streichen.,Die Malerin streicht die Wände in unserer Wohnung neu.
+vocab,B2378,example_de,"Weißt du, wie dieser Politiker heißt?","Weißt du, wie diese Politikerin heißt?"
+vocab,B2381,example_de,Im Sommer kommen viele Touristen in diese Stadt.,Die Touristin fragt nach dem Weg zum Dom.
+vocab,B2389,example_de,einen Termin einhalten,Bitte halten Sie den Termin ein.
+vocab,B2389,example_en,to adhere to an appointment,Please keep to the appointment.
+vocab,B2389,meaning_en,to adhere,to keep to; to comply with
+vocab,B2391,meaning_en,word,vocabulary word
+vocab,B2403,check,ocr?,
+vocab,B2403,meaning_en,booking office,ticket office
+vocab,B2411,meaning_en,holiday,public holiday
+vocab,B2414,example_de,Mein Bruder möchte Musiker werden.,Meine Schwester möchte Musikerin werden.
+vocab,B2415,example_de,Wie findest du diesen Sänger? − Ich finde seine Stimme toll.,Der Sänger hat eine tolle Stimme.
+vocab,B2416,example_de,Wie findest du diesen Sänger? − Ich finde seine Stimme toll.,Die Sängerin tritt heute Abend im Stadttheater auf.
+vocab,B3911,meaning_en,to seize,to seize; to take (measures)
+vocab,B2417,check,ocr?,
+vocab,B2418,check,ocr?,
+vocab,B2419,meaning_en,trainer (m),coach; trainer
+vocab,B4266,example_de,"Ich bin erleichtert, dass alles so gut geklappt hat.",Ein guter Plan erleichtert die Arbeit.
+vocab,B4266,meaning_en,to facilitate,to make easier; to relieve
+vocab,B2420,example_de,Ich finde unseren Trainer sehr nett.,Unsere Trainerin ist sehr motivierend.
+vocab,B2422,example_en,What does she choose?,What are you opting for?
+vocab,B2422,meaning_en,what,what for; for what
+vocab,B2423,check,ocr?,
+vocab,B2427,check,ocr?,
+vocab,B2428,meaning_en,cheap,inexpensive; good value
+vocab,B2429,check,ocr?,
+vocab,B2429,meaning_en,doctor's uniforms,doctor's clothing
+vocab,B2441,check,ocr?,
+vocab,B2446,check,ocr?,
+vocab,B2451,example_de,Haben Sie eine Leiter für mich? Ich will die Fenster putzen.,Der Leiter der Abteilung ist heute nicht da.
+vocab,B2451,meaning_en,director (m),manager; head (m)
+vocab,B2454,meaning_en,doctor (m),doctor (m); physician (m)
+vocab,B2455,meaning_en,doctor (f),doctor (f); physician (f)
+vocab,B2460,meaning_en,consultant doctor (m),senior physician (m)
+vocab,B2461,meaning_en,consultant doctor (f),senior physician (f)
+vocab,B2462,plural,Operationssaäle,Operationssäle
+vocab,B2466,example_de,Meine Tochter möchte als Übersetzerin arbeiten.,Der Übersetzer arbeitet für einen Verlag.
+vocab,B2467,example_de,Meine Tochter möchte als Übersetzerin arbeiten.,Die Übersetzerin arbeitet für einen Verlag.
+vocab,B2469,meaning_en,funny,funny; strange
+vocab,B2474,check,ocr?,
+vocab,B2475,check,ocr?,
+vocab,B2481,check,ocr?,
+vocab,B2488,meaning_en,telephone,phone call
+vocab,B2489,check,ocr?,
+vocab,B2490,check,ocr?,
+vocab,B2498,meaning_en,response,feedback; response
+vocab,B2505,meaning_en,firm,company; business
+vocab,B2512,meaning_en,housework,housework; term paper
+vocab,B4662,meaning_en,to replace,to replace; to reimburse
+vocab,B3964,meaning_en,areas,area; region
+vocab,B2525,example_de,Es hat ein großes Wissen über Pflanzen.,Sie hat ein großes Wissen über Pflanzen.
+vocab,B2526,meaning_en,to increase,to increase; to put on weight
+vocab,B5331,example_de,"Als Herr Dr. Müller in Urlaub war, bin ich zu seiner Vertreterin gegangen.","Während Dr. Müller im Urlaub war, hat sein Vertreter die Praxis geleitet."
+vocab,B2535,meaning_en,motor,engine; motor
+vocab,B2536,meaning_en,car trouble,breakdown
+vocab,B4780,example_de,eine Auswahl treffen,Das Geschäft bietet eine große Auswahl an Obst.
+vocab,B4780,example_en,to make a selection,The shop offers a wide selection of fruit.
+vocab,B2538,meaning_en,tire,tyre
+vocab,B2541,meaning_en,parking garage,multi-storey car park
+vocab,B3921,meaning_en,ressource,resource
+vocab,B2544,meaning_en,to refuel,to fill up; to refuel
+vocab,B2552,meaning_en,license plate,number plate
+vocab,B5332,register,neutral,informal
+vocab,B4248,meaning_en,hard,strong; hearty
+vocab,B2564,check,ocr?,
+vocab,B2566,register,neutral,informal
+vocab,B2570,check,ocr?,
+vocab,B2572,meaning_en,rendition,reported speech
+vocab,B2572,check,ocr?,
+vocab,B3448,meaning_en,to control,to steer; to control
+vocab,B2573,check,ocr?,
+vocab,B2583,meaning_en,to park,to park; to turn off
+vocab,B2594,meaning_en,sms,text message
+vocab,B3422,meaning_en,to reveal,to reveal; to betray
+vocab,B2604,check,ocr?,
+vocab,B2606,check,ocr?,
+vocab,B2608,meaning_en,electronic bike,e-bike
+vocab,B4369,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B2622,example_de,Achtung! Da kommt eine Radfahrerin.,Der Radfahrer hält an der roten Ampel an.
+vocab,B2629,check,ocr?,
+vocab,B2632,check,ocr?,
+vocab,B2634,pres_3sg,ist dafür/dagegen,ist dafür
+vocab,B2634,preterite,war dafür/dagegen,war dafür
+vocab,B2634,perfect,ist dafür/dagegen gewesen,ist dafür gewesen
+vocab,B2638,example_de,das heißt,"Wir treffen uns am Montag, d.h. in zwei Tagen."
+vocab,B2638,meaning_en,meaning (meaning),i.e.; that is
+vocab,B2647,topic,"T11 Natur, Umwelt, Wetter & Tiere","T09 Behörden, Post & Dienstleistungen"
+vocab,B2665,example_de,Die Kursleiterin ist mit unserer Kursgruppe manchmal in den Computerraum gegangen.,Der Kursleiter erklärt die Grammatik.
+vocab,B2665,meaning_en,course director (m),course leader (m)
+vocab,B2666,meaning_en,course director (f),course leader (f)
+vocab,B2670,register,neutral,informal
+vocab,B2672,meaning_en,retirement,pension; retirement
+vocab,B2674,meaning_en,to know,to know what to do next
+vocab,B2674,check,ocr?,
+vocab,B2678,meaning_en,panel,forum; online forum
+vocab,B2683,register,neutral,informal
+vocab,B2686,meaning_en,to race,to speed; to race
+vocab,B2692,check,ocr?,
+vocab,B2699,meaning_en,to clear,to clear; to free up
+vocab,B2701,check,ocr?,
+vocab,B2702,check,ocr?,
+vocab,B2706,check,article?,
+vocab,B2712,meaning_en,todo,to do; to undertake
+vocab,B4940,meaning_en,to determine,to determine; to commit oneself
+vocab,B2728,meaning_en,secretary's office,secretary's office; administrative office
+vocab,B5346,pres_3sg,nähert sich,nähert
+vocab,B5346,preterite,näherte sich,näherte
+vocab,B2734,check,article?,
+vocab,B2735,topic,T02 Wohnen,T03 Arbeit & Beruf
+vocab,B2743,meaning_en,to translate,to interpret
+vocab,B5348,pres_3sg,verläuft sich,verläuft
+vocab,B5348,preterite,verlief sich,verlief
+vocab,B2748,check,ocr?,
+vocab,B2749,check,ocr?,
+vocab,B2750,check,ocr?,
+vocab,B2752,check,article?,
+vocab,B2759,check,article?,
+vocab,B2833,meaning_en,health,health; bless you (after a sneeze)
+vocab,B2760,example_de,um Mitternacht,Die Party endet um Mitternacht.
+vocab,B5352,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B2777,meaning_en,action,campaign; action
+vocab,B2782,check,article?,
+vocab,B2829,meaning_en,goal,gate; goal
+vocab,B2791,meaning_en,to rinse,to rinse; to wash up
+vocab,B3658,topic,T05 Gesundheit & Körper,"T07 Einkaufen, Kleidung & Geld"
+vocab,B3658,example_en,Before the euro the currency in Germany was German Mark.,Before the euro the currency in Germany was the Mark.
+vocab,B3658,medical,related,
+vocab,B5354,topic,"T07 Einkaufen, Kleidung & Geld",T05 Gesundheit & Körper
+vocab,B2797,check,article?,
+vocab,B4514,example_en,What's the word again? It's on the top of my tongue.,What's the word again? It's on the tip of my tongue.
+vocab,B2807,meaning_en,fluent,fluent; liquid
+vocab,B2812,check,ocr?,
+vocab,B2818,meaning_en,bat,racket; bat
+vocab,B2819,check,ocr?,
+vocab,B2820,meaning_en,sport,type of sport; sport
+vocab,B2841,register,neutral,informal
+vocab,B5362,pos,adjective,numeral
+vocab,B2867,example_de,Meine Cousine wohnt jetzt in Brasilien.,Mein Cousin studiert Medizin.
+vocab,B5364,register,neutral,informal
+vocab,B2869,example_de,"Ich weiß nicht, ob ich — für das Joggen genug Kondition habe.","Ich weiß nicht, ob ich für das Joggen genug Kondition habe."
+vocab,B2871,meaning_en,recent,recently
+vocab,B2875,check,ocr?,
+vocab,B2876,check,ocr?,
+vocab,B2885,check,ocr?,
+vocab,B4688,meaning_en,master (m),master craftsman; master
+vocab,B2903,meaning_en,route,route; distance
+vocab,B3646,meaning_en,to give up; to abandon,to give up; to abandon; to post
+vocab,B2904,meaning_en,strip,strip; stripe
+vocab,B2912,check,ocr?,
+vocab,B5371,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B2914,example_de,Berlin hat über drei Millionen Einwohner.,Jede Einwohnerin der Stadt bekommt einen Brief.
+vocab,B2916,check,ocr?,
+vocab,B2926,meaning_en,COW,cow
+vocab,B2946,meaning_en,package,small parcel
+vocab,B5376,level,B1,B2
+vocab,B2958,check,ocr?,
+vocab,B2959,check,ocr?,
+vocab,B2964,check,ocr?,
+vocab,B2967,check,ocr?,
+vocab,B3963,meaning_en,to be available,available
+vocab,B3963,pos,verb,adjective
+vocab,B2971,example_de,Sie hat heute neue Mieter für die Wohnung gefunden.,Die Mieterin zahlt die Miete pünktlich.
+vocab,B2974,gov,mit + Dat.,in + Dat.
+vocab,B2988,check,ocr?,
+vocab,B2989,meaning_en,stress,accent; stress
+vocab,B2993,check,ocr?,
+vocab,B2999,check,ocr?,
+vocab,B3002,meaning_en,feed,animal feed; fodder
+vocab,B3020,check,ocr?,
+vocab,B3862,meaning_en,plan,planning; plan
+vocab,B3032,check,ocr?,
+vocab,B3037,check,ocr?,
+vocab,B3060,meaning_en,to fire,to discharge; to dismiss
+vocab,B3804,meaning_en,all,all; entire
+vocab,B3072,check,ocr?,
+vocab,B3073,check,ocr?,
+vocab,B3076,check,article?,
+vocab,B3078,check,ocr?,
+vocab,B3641,meaning_en,embassy,embassy; message
+vocab,B3127,meaning_en,criminality,crime; criminality
+vocab,B3128,meaning_en,crime,scenery; backdrop
+vocab,B3131,check,ocr?,
+vocab,B3134,meaning_en,castle,castle; lock
+vocab,B3141,check,ocr?,
+vocab,B3145,meaning_en,electric,electro (music)
+vocab,B3146,check,ocr?,
+vocab,B3152,check,ocr?,
+vocab,B3154,check,ocr?,
+vocab,B3163,meaning_en,nett,net
+vocab,B3164,check,ocr?,
+vocab,B3165,check,ocr?,
+vocab,B3170,meaning_en,standing room (only),standing place
+vocab,B3171,meaning_en,tax (value-added tax),tax
+vocab,B3172,check,ocr?,
+vocab,B3175,check,ocr?,
+vocab,B3179,check,ocr?,
+vocab,B3181,check,ocr?,
+vocab,B3183,meaning_en,provisions,catering; food
+vocab,B5406,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B3195,meaning_en,friendly,friends (with each other)
+vocab,B3198,example_en,Today I'm ina good I bad mood.,Today I'm in a good/bad mood.
+vocab,B3198,pos,verb,adjective
+vocab,B3198,meaning_en,to be in a mood (type of),in a mood
+vocab,B3202,check,ocr?,
+vocab,B3203,check,ocr?,
+vocab,B3206,check,ocr?,
+vocab,B3207,check,ocr?,
+vocab,B3219,meaning_en,announcement,report; announcement
+vocab,B3220,check,ocr?,
+vocab,B3221,meaning_en,lead,lead role
+vocab,B3222,check,article?,
+vocab,B3228,check,ocr?,
+vocab,B3229,meaning_en,to depict,to copy (in a drawing)
+vocab,B3229,check,ocr?,
+vocab,B3230,check,ocr?,
+vocab,B4417,meaning_en,"apparatus, machine",device; apparatus
+vocab,B5045,meaning_en,to register,to enter; to register
+vocab,B4090,meaning_en,new year,New Year's Eve
+vocab,B4602,meaning_en,apparent,apparent; seeming
+vocab,B4218,meaning_en,insurance company,health insurance company
+vocab,B3702,example_de,Post austragen,Der Briefträger trägt die Post aus.
+vocab,B3702,example_en,to deliver post,The postman delivers the post.
+vocab,B3890,meaning_en,beef,cattle; beef
+vocab,B3986,meaning_en,to lend,to lend; to award
+vocab,B4899,meaning_en,apparent,apparently
+vocab,B3252,meaning_en,mushroom,mushroom; fungus
+vocab,B3265,check,ocr?,
+vocab,B3273,check,ocr?,
+vocab,B3903,meaning_en,brand,brand; stamp
+vocab,B3276,meaning_en,to relax,to recover; to relax
+vocab,B3294,check,ocr?,
+vocab,B3304,check,ocr?,
+vocab,B3310,check,ocr?,
+vocab,B3316,example_de,"Sg. ohne Artikel, ugs.",Ich habe keinen Bock auf Hausaufgaben.
+vocab,B3316,example_en,to not feel like something,I don't feel like doing homework.
+vocab,B3316,register,neutral,informal
+vocab,B5429,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3332,meaning_en,ZOO,zoo
+vocab,B5432,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T08 Reisen, Verkehr & Orte"
+vocab,B3335,check,ocr?,
+vocab,B3336,check,ocr?,
+vocab,B3350,meaning_en,hut/lodge,hut; lodge
+vocab,B3357,meaning_en,diary,diary; appointment calendar
+vocab,B3359,check,ocr?,
+vocab,B3278,pos,noun,adverb
+vocab,B3361,check,ocr?,
+vocab,B3365,check,ocr?,
+vocab,B3366,check,ocr?,
+vocab,B3369,check,ocr?,
+vocab,B3371,check,ocr?,
+vocab,B3382,topic,T02 Wohnen,"T10 Freizeit, Sport, Kultur & Medien"
+vocab,B3382,example_de,das Handy stumm schalten,Bitte schalte das Handy stumm.
+vocab,B3382,example_en,In etwa: to mute the phone,Please put the phone on silent.
+vocab,B3383,example_de,das Handy stumm schalten,Mein Handy ist stumm geschaltet.
+vocab,B3383,example_en,to mute the phone,My phone is on silent.
+vocab,B3387,check,ocr?,
+vocab,B3400,meaning_en,charger,charging cable
+vocab,B3405,check,ocr?,
+vocab,B3622,example_de,wieder der/die Alte sein,Nach der Erkältung bin ich wieder der Alte.
+vocab,B3622,example_en,to be oneself again,After the cold I'm my old self again.
+vocab,B3622,check,article?,
+vocab,B3450,check,ocr?,
+vocab,B4224,register,neutral,informal
+vocab,B3477,check,ocr?,
+vocab,B3479,check,ocr?,
+vocab,B4746,meaning_en,law,law; right
+vocab,B3481,meaning_en,handkerchief,handkerchief; tissue
+vocab,B3496,check,ocr?,
+vocab,B3497,check,ocr?,
+vocab,B3502,check,ocr?,
+vocab,B3504,preterite,verbat,verbot
+vocab,B3507,check,ocr?,
+vocab,B3769,example_de,aus Versehen,Ich habe aus Versehen den falschen Knopf gedrückt.
+vocab,B3509,example_de,Maria ist seit zwei Jahren Arbeiterin bei Siemens.,Der Arbeiter repariert die Maschine.
+vocab,B3514,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3516,meaning_en,handiwork,handicraft; manual work
+vocab,B3611,plural,Weltmeistere,Weltmeister
+vocab,B3517,meaning_en,hygene,hygiene
+vocab,B5446,pos,noun,interjection
+vocab,B3526,check,ocr?,
+vocab,B5448,register,neutral,informal
+vocab,B5452,level,B1,B2
+vocab,B3559,meaning_en,issue,concern; request
+vocab,B3561,check,ocr?,
+vocab,B3564,check,ocr?,
+vocab,B3566,check,ocr?,
+vocab,B3571,check,ocr?,
+vocab,B3576,check,ocr?,
+vocab,B3578,check,ocr?,
+vocab,B3580,check,ocr?,
+vocab,B5446,pos,interjection,noun
+vocab,B5446,meaning_en,attention!; watch out!,attention; respect
+vocab,B3582,check,ocr?,
+vocab,B3583,check,ocr?,
+vocab,B5466,example_de,Ich wohne in einer Neubauwohnung.,Der Bau des Krankenhauses dauert zwei Jahre.
+vocab,B3607,meaning_en,to take an active part,to work; to be active
+vocab,B3613,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4273,meaning_en,arguement,argument; quarrel
+vocab,B3650,check,article?,
+vocab,B3659,example_en,"Before the cent existed, the currency in Germany was pennies.","Before the cent, the currency in Germany was the pfennig."
+vocab,B3665,check,ocr?,
+vocab,B3673,check,ocr?,
+vocab,B5477,example_de,Ich habe bei einem Ratespiel mitge - macht. Der Hauptgewinn ist ein Auto.,Der Gewinn des Spiels ist ein Auto.
+vocab,B4089,meaning_en,reason,reason; occasion
+vocab,B3694,meaning_en,insecure,insecure; unsure
+vocab,B3698,meaning_en,superiors,superior; boss
+vocab,B3698,check,article?,
+vocab,B3700,check,ocr?,
+vocab,B3703,example_de,War die Briefträgerin schon da?,Der Briefträger kommt jeden Morgen um zehn Uhr.
+vocab,B4551,meaning_en,to marvel,to be surprised; to wonder
+vocab,B3710,meaning_en,mechanical electronics engineer (m),mechatronics technician (m)
+vocab,B3711,meaning_en,mechanical electronics engineer (f),mechatronics technician (f)
+vocab,B3711,check,ocr?,
+vocab,B3715,meaning_en,file,file; record
+vocab,B3716,meaning_en,"to cultivate, to attach",to grow (crops); to add on (build)
+vocab,B3717,check,article?,
+vocab,B3722,check,ocr?,
+vocab,B3724,meaning_en,TV channel,TV channel; TV station
+vocab,B3726,meaning_en,trial,court hearing; trial
+vocab,B3730,meaning_en,"people skills, knowledge of people",judgement of character; people skills
+vocab,B3736,example_de,Die Reporterin macht gerade ein Interview.,Der Reporter macht gerade ein Interview.
+vocab,B3739,example_de,Der Richter hat noch kein Urteil gesprochen.,Die Richterin hat noch kein Urteil gesprochen.
+vocab,B4834,meaning_en,to be admitted,to allow; to permit; to admit
+vocab,B3740,meaning_en,carpenter (m),carpenter; joiner (m)
+vocab,B3741,meaning_en,carpenter (f),carpenter; joiner (f)
+vocab,B3741,check,ocr?,
+vocab,B3742,example_de,Mein Arzt hat mich zur Spezialistin geschickt.,Mein Arzt hat mich zu einem Spezialisten geschickt.
+vocab,B3750,meaning_en,to cope (with),to endure; to bear
+vocab,B3751,check,ocr?,
+vocab,B3752,check,ocr?,
+vocab,B3753,check,ocr?,
+vocab,B3755,meaning_en,surreal,unreal; hypothetical
+vocab,B3758,meaning_en,to colour,to dye; to colour
+vocab,B3759,meaning_en,to dry ones hair,to blow-dry
+vocab,B3764,meaning_en,carton,cardboard box; carton
+vocab,B3765,meaning_en,calculator,computer; calculator
+vocab,B3767,meaning_en,envelope,envelope; compress; poultice
+vocab,B3771,perfect,ist zusammengesessen,hat zusammengesessen
+vocab,B3773,pres_3sg,verzieht,verzeiht
+vocab,B3774,meaning_en,shortly,recently
+vocab,B3778,meaning_en,meaningful,meaningful; informative
+vocab,B3780,meaning_en,application photo,application photo; CV photo
+vocab,B3780,check,ocr?,
+vocab,B3781,meaning_en,application website,application portal
+vocab,B3781,check,ocr?,
+vocab,B3783,meaning_en,job application training,application training (course)
+vocab,B5497,example_de,Wir treffen uns in Halle B,Wir treffen uns in Halle B.
+vocab,B3793,plural,Jobsuchen,–
+vocab,B3794,meaning_en,resume,CV; résumé
+vocab,B3797,meaning_en,human resources (HR),HR department
+vocab,B3798,meaning_en,HR director (m),HR manager (m)
+vocab,B3799,meaning_en,HR director (f),HR manager (f)
+vocab,B3799,check,ocr?,
+vocab,B3800,meaning_en,personal data,personal details; personal data
+vocab,B4990,example_en,to be the centre of focus,Family is the focus of his life.
+vocab,B4990,example_de,im Mittelpunkt stehen,Die Familie steht im Mittelpunkt seines Lebens.
+vocab,B3802,meaning_en,advisor,advisor; guidebook
+vocab,B3806,meaning_en,respectable,respectable; reputable; serious
+vocab,B3807,meaning_en,status,status; state of affairs
+vocab,B3809,meaning_en,guideline,template; model; submission
+vocab,B3813,check,ocr?,
+vocab,B3814,meaning_en,satisfying,satisfactory; satisfying
+vocab,B3817,meaning_en,worker (f),employee (f)
+vocab,B3822,meaning_en,agreement,arrangement; agreement
+vocab,B3824,meaning_en,"advertisement, insert",advertisement; classified ad
+vocab,B3832,meaning_en,application,application documents
+vocab,B3833,meaning_en,interested party (m),interested person (m); prospective candidate
+vocab,B3834,meaning_en,interested party (f),interested person (f); prospective candidate
+vocab,B3834,check,ocr?,
+vocab,B3835,meaning_en,to come over in person,to come by; to drop in
+vocab,B3838,meaning_en,journey,journey (to a place); route
+vocab,B3845,meaning_en,field of business,sector; line of business
+vocab,B3851,meaning_en,to look up,to look out; to pick out
+vocab,B3856,meaning_en,casual,loose; relaxed; casual
+vocab,B5509,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B3865,meaning_en,business man,entrepreneur; businessman
+vocab,B3865,example_de,Sie ist erfolgreiche Unternehmerin.,Er ist ein erfolgreicher Unternehmer.
+vocab,B3866,meaning_en,business woman,entrepreneur; businesswoman
+vocab,B3869,example_en,to set the alarm clock,I set the alarm clock for six o'clock.
+vocab,B3869,meaning_en,alarm,alarm clock
+vocab,B3869,example_de,den Wecker stellen,Ich stelle den Wecker auf sechs Uhr.
+vocab,B3872,meaning_en,furious,angry; furious
+vocab,B3873,meaning_en,to collect,to put together; to compile
+vocab,B3878,meaning_en,driver (m),driver (m); motorist
+vocab,B3879,meaning_en,driver (f),driver (f); motorist
+vocab,B4465,meaning_en,to elicit,to trigger; to cause
+vocab,B3885,meaning_en,chicken,chicken; hen
+vocab,B3897,meaning_en,regional (ly),regional
+vocab,B3887,check,ocr?,
+vocab,B3888,meaning_en,usage of paper,paper consumption
+vocab,B3888,check,ocr?,
+vocab,B3894,check,ocr?,
+vocab,B3899,meaning_en,transport corridor,transport route
+vocab,B3900,meaning_en,organic,organic; bio
+vocab,B3910,meaning_en,to investigate,to research; to explore
+vocab,B4854,meaning_en,feature,special feature; peculiarity
+vocab,B3920,meaning_en,ecological,ecological; organic
+vocab,B5517,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B3936,meaning_en,glas bottle,glass bottle
+vocab,B3941,check,ocr?,
+vocab,B3943,check,ocr?,
+vocab,B3944,meaning_en,warming,to warm; to heat
+vocab,B3948,check,ocr?,
+vocab,B5521,topic,"T12 Gesellschaft, Politik, Recht & Geschichte","M4 Medizin: Klinik, Pflege & Recht"
+vocab,B3952,check,ocr?,
+vocab,B3954,check,ocr?,
+vocab,B4726,meaning_en,"MP, congressman (wo)",member of parliament (MP)
+vocab,B4726,check,article?,
+vocab,B3957,meaning_en,garbage problem,rubbish problem
+vocab,B4319,meaning_en,concentration,concentration; (substance) level
+vocab,B3966,meaning_en,durable,durable; long-lasting
+vocab,B4831,meaning_en,scheme,plan; project
+vocab,B3975,meaning_en,start-up,new foundation; start-up
+vocab,B3979,check,ocr?,
+vocab,B3981,plural,Solarpanele,Solarpanels
+vocab,B3981,check,ocr?,
+vocab,B3982,meaning_en,sun energy,solar energy
+vocab,B3984,meaning_en,ton,tonne; bin
+vocab,B3992,check,ocr?,
+vocab,B3995,check,ocr?,
+vocab,B3997,meaning_en,energy usage,electricity consumption
+vocab,B3998,check,ocr?,
+vocab,B4565,meaning_en,district,district; part of town
+vocab,B4970,meaning_en,renovation,conversion; renovation
+vocab,B4017,check,ocr?,
+vocab,B4025,check,ocr?,
+vocab,B4030,meaning_en,to storm,to storm (weather); to rush
+vocab,B4031,meaning_en,to inform,to inform; to clarify; to educate
+vocab,B4045,check,ocr?,
+vocab,B4046,check,ocr?,
+vocab,B4049,meaning_en,ride-on bench,ride-share bench
+vocab,B4049,check,ocr?,
+vocab,B4052,check,ocr?,
+vocab,B5537,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4062,meaning_en,to pick up,to pick up; to keep; to cancel
+vocab,B4063,meaning_en,laborious,elaborate; costly; laborious
+vocab,B4065,check,ocr?,
+vocab,B4069,check,ocr?,
+vocab,B4070,meaning_en,omitted,to be omitted; to be waived; to fall to
+vocab,B4071,meaning_en,final sentence,purpose clause
+vocab,B4071,check,ocr?,
+vocab,B4072,check,ocr?,
+vocab,B4073,meaning_en,picture subtitle,caption
+vocab,B4074,meaning_en,chip,chip (electronic); crisp
+vocab,B4087,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4087,meaning_en,prognosis,prognosis; forecast
+vocab,B4094,example_de,Das dauernde Klingeln des Telefons stört mich.,Du unterbrichst mich dauernd.
+vocab,B4094,meaning_en,constant,constantly; permanently
+vocab,B5545,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4100,example_de,einen Vorsatz fassen,"Mein guter Vorsatz für das neue Jahr ist, mehr Sport zu machen."
+vocab,B4100,example_en,to make a resolution,My New Year's resolution is to do more sport.
+vocab,B4107,meaning_en,potential,possibly; perhaps
+vocab,B5112,meaning_en,"bygone, past",then; of that time
+vocab,B4109,example_de,Bei dieser Firma habe ich zwei Jahre als Praktikantin gearbeitet.,Bei dieser Firma habe ich zwei Jahre als Praktikant gearbeitet.
+vocab,B4111,meaning_en,quote,quotation; quote
+vocab,B4115,meaning_en,educator (m),educator; teacher (m)
+vocab,B4116,meaning_en,educator (f),educator; teacher (f)
+vocab,B4117,check,ocr?,
+vocab,B4124,meaning_en,recreational opportunities,opportunity for recreation
+vocab,B4124,check,ocr?,
+vocab,B4126,meaning_en,foot path,footpath; walk
+vocab,B4128,meaning_en,inhabitant (m),resident (of a building) (m)
+vocab,B5533,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4129,meaning_en,inhabitant (f),resident (of a building) (f)
+vocab,B4129,check,ocr?,
+vocab,B4136,meaning_en,to be worth living in,worth living in; liveable
+vocab,B4136,pos,verb,adjective
+vocab,B4140,check,ocr?,
+vocab,B4945,meaning_en,institution of higher education,university; institution of higher education
+vocab,B4142,meaning_en,area,district; neighbourhood
+vocab,B4144,meaning_en,to be expected,probably; expected
+vocab,B4144,pos,verb,adverb
+vocab,B4146,check,ocr?,
+vocab,B5553,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B4152,meaning_en,kindergarten,day-care centre (Kita)
+vocab,B4156,meaning_en,community college,adult education centre
+vocab,B4160,meaning_en,case,case (grammar)
+vocab,B4167,meaning_en,anticipation,anticipation; joyful expectation
+vocab,B4281,meaning_en,allegedly,allegedly; supposedly
+vocab,B4173,meaning_en,hurdle,hurdle; obstacle
+vocab,B4175,meaning_en,lyric,line of a song
+vocab,B4175,check,ocr?,
+vocab,B4183,meaning_en,cheesy,kitschy; tacky
+vocab,B4189,meaning_en,drums,drums; drum kit
+vocab,B4195,check,ocr?,
+vocab,B4206,meaning_en,internationalism,internationalism; international word
+vocab,B5562,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4211,meaning_en,site,site; grounds; terrain
+vocab,B4216,meaning_en,cabin,booth; cabin
+vocab,B5564,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4225,meaning_en,darling,treasure; darling
+vocab,B4956,meaning_en,to assess,to assess; to rate
+vocab,B4237,meaning_en,working,employed; working
+vocab,B4243,meaning_en,ages,eternity; ages
+vocab,B4245,meaning_en,friendship history,story of a friendship
+vocab,B4245,check,ocr?,
+vocab,B4246,meaning_en,to benefit,to do good; to be good for
+vocab,B4252,meaning_en,to crash together,to collide; to crash
+vocab,B5570,plural,Softwares,–
+vocab,B4256,meaning_en,past perfect,past perfect (pluperfect)
+vocab,B4256,check,ocr?,
+vocab,B4261,meaning_en,student job,pupil's part-time job
+vocab,B4261,check,ocr?,
+vocab,B4276,meaning_en,argument,debate; argument
+vocab,B4278,check,ocr?,
+vocab,B5575,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4279,plural,Modalpartikel,Modalpartikeln
+vocab,B4279,check,ocr?,
+vocab,B4280,meaning_en,to amuse,to enjoy oneself; to amuse
+vocab,B4287,meaning_en,spouse s (f),spouse (f)
+vocab,B5577,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4299,meaning_en,famous person,celebrity
+vocab,B4299,check,article?,
+vocab,B4304,check,ocr?,
+vocab,B4305,meaning_en,comercial,commercial
+vocab,B4310,meaning_en,musical history,history of music
+vocab,B4311,meaning_en,piano player (m),pianist (m)
+vocab,B4312,meaning_en,piano player (f),pianist (f)
+vocab,B4326,meaning_en,moral,morality; moral
+vocab,B4329,meaning_en,roared,to roar; to shout
+vocab,B4330,check,ocr?,
+vocab,B4340,check,ocr?,
+vocab,B4341,meaning_en,to eat,to eat (of animals); to devour
+vocab,B4343,meaning_en,crow,raven; crow
+vocab,B4346,meaning_en,to sing,to sing (to someone); to audition
+vocab,B4357,meaning_en,argument,conflict discussion
+vocab,B4357,check,ocr?,
+vocab,B4358,check,ocr?,
+vocab,B4360,meaning_en,to show effort,to tire; to make an effort
+vocab,B5592,topic,"T14 Gefühle, Charakter & Meinungen",M2 Medizin: Symptome & Krankheiten
+vocab,B4365,meaning_en,to put on,to put cream on; to moisturise
+vocab,B4371,meaning_en,gymnastics,gymnastics; exercises
+vocab,B4386,meaning_en,more or less,fairly; more or less
+vocab,B4390,meaning_en,to resolve,to dissolve; to resolve
+vocab,B4393,example_de,Medikamente einnehmen,Sie müssen das Medikament dreimal täglich einnehmen.
+vocab,B4393,example_en,to take medicine,You have to take the medicine three times a day.
+vocab,B5598,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5599,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B5022,meaning_en,revenue,income; revenue; intake
+vocab,B4407,example_de,Meine Freundin ist Pflegerin in einem Altersheim.,Der Pfleger misst den Blutdruck.
+vocab,B4412,check,ocr?,
+vocab,B5601,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4416,meaning_en,alarm,alarm button
+vocab,B4418,meaning_en,to keep safe,to keep; to store
+vocab,B4422,meaning_en,marked with signs,signposted
+vocab,B4424,meaning_en,fire,fire (blaze)
+vocab,B4428,example_de,diätische Ernährung,Die Klinik bietet diätische Ernährung an.
+vocab,B4431,meaning_en,discharge,dismissal; discharge
+vocab,B4445,meaning_en,upper,upper; top
+vocab,B4446,meaning_en,basically,in principle; basically
+vocab,B4449,meaning_en,safe,locker; safe-deposit box
+vocab,B4452,meaning_en,track suit,tracksuit
+vocab,B4456,meaning_en,next-door neighbour (m),neighbour in the same room (m)
+vocab,B4456,check,ocr?,
+vocab,B4457,meaning_en,next-door neighbour (f),neighbour in the same room (f)
+vocab,B4457,check,ocr?,
+vocab,B4462,meaning_en,Alzheimer's Disease,Alzheimer's disease
+vocab,B4468,meaning_en,major,major (key)
+vocab,B4479,meaning_en,classic,classical music
+vocab,B4484,meaning_en,minor,minor (key)
+vocab,B4488,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4489,meaning_en,advertisement,advertising; advertisement
+vocab,B5028,meaning_en,bill,banknote; certificate
+vocab,B4496,meaning_en,to process,to process; to cope with
+vocab,B4500,meaning_en,spicy,spicy; aromatic
+vocab,B4502,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4502,meaning_en,cure,cure; healing
+vocab,B4504,meaning_en,restriction,connector (grammar); connective
+vocab,B4504,check,ocr?,
+vocab,B4510,meaning_en,memory skills,memory performance
+vocab,B4511,check,ocr?,
+vocab,B4515,check,ocr?,
+vocab,B5620,topic,"T12 Gesellschaft, Politik, Recht & Geschichte","M4 Medizin: Klinik, Pflege & Recht"
+vocab,B4517,check,ocr?,
+vocab,B4520,check,ocr?,
+vocab,B4521,check,ocr?,
+vocab,B4523,example_de,Die Moderatorin der Radiosendung diskutiert mit zwei Gästen.,Der Moderator der Radiosendung diskutiert mit zwei Gästen.
+vocab,B4523,meaning_en,moderator (m),presenter (m); moderator
+vocab,B4524,meaning_en,moderator (f),presenter (f); moderator
+vocab,B4526,meaning_en,to think of,to think up; to invent
+vocab,B4531,meaning_en,peer group,age group
+vocab,B4533,check,ocr?,
+vocab,B4534,meaning_en,"belvedere, observation tower",observation tower
+vocab,B5625,topic,"T14 Gefühle, Charakter & Meinungen",M2 Medizin: Symptome & Krankheiten
+vocab,B4535,meaning_en,partly accessible,with few barriers; partly accessible
+vocab,B4535,check,ocr?,
+vocab,B5626,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",M2 Medizin: Symptome & Krankheiten
+vocab,B5627,article,der,der/die
+vocab,B4544,meaning_en,musically interested,person interested in music
+vocab,B4544,check,ocr? article?,
+vocab,B4545,meaning_en,way,path; trail
+vocab,B4548,meaning_en,dreamy,dreamlike; wonderful
+vocab,B4552,meaning_en,piece of art,feat; trick; work of art
+vocab,B4553,meaning_en,to inspire,to stimulate; to inspire
+vocab,B4555,meaning_en,fountain,fountain; well
+vocab,B5628,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4556,meaning_en,espresso can,espresso pot (moka pot)
+vocab,B4556,check,ocr?,
+vocab,B4557,meaning_en,graffiti,graffito (single graffiti)
+vocab,B4560,meaning_en,installation,"installation (art, software)"
+vocab,B4562,check,ocr?,
+vocab,B4564,meaning_en,skewer,skewer; spit
+vocab,B4568,meaning_en,to evolve,to develop further
+vocab,B4570,check,ocr?,
+vocab,B5634,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4574,meaning_en,animal,animal; animal-based
+vocab,B4575,check,ocr?,
+vocab,B4577,check,ocr?,
+vocab,B4578,check,ocr?,
+vocab,B4584,check,ocr?,
+vocab,B4586,check,ocr?,
+vocab,B5639,topic,"T14 Gefühle, Charakter & Meinungen",M2 Medizin: Symptome & Krankheiten
+vocab,B4588,meaning_en,to approach,to get close to; to reach
+vocab,B4589,meaning_en,inland,home country; domestic
+vocab,B4591,example_de,Ich habe schon einen Käufer für den alten Tisch.,Die Käuferin hat den Tisch schon bezahlt.
+vocab,B4594,check,ocr?,
+vocab,B5644,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4605,check,ocr?,
+vocab,B4606,meaning_en,prepositional appendix,prepositional complement
+vocab,B4606,check,ocr?,
+vocab,B4607,check,ocr?,
+vocab,B4609,check,ocr?,
+vocab,B4611,check,ocr?,
+vocab,B4920,meaning_en,concentrated,concentrated; focused
+vocab,B4626,check,ocr?,
+vocab,B4632,check,ocr?,
+vocab,B5017,meaning_en,rate,instalment; rate
+vocab,B4635,meaning_en,Brasilian,Brazilian
+vocab,B4636,meaning_en,to develop,to work out; to develop
+vocab,B5649,topic,"T12 Gesellschaft, Politik, Recht & Geschichte","M4 Medizin: Klinik, Pflege & Recht"
+vocab,B4642,check,ocr?,
+vocab,B4989,example_en,a social initiative,The initiative helps older people in everyday life.
+vocab,B4989,example_de,eine soziale Initiative,Die Initiative hilft älteren Menschen im Alltag.
+vocab,B4646,meaning_en,end of an adjective,adjective ending
+vocab,B4646,check,ocr?,
+vocab,B4648,check,ocr?,
+vocab,B4650,check,article?,
+vocab,B4652,check,ocr?,
+vocab,B4652,meaning_en,crayon,coloured pencil; crayon
+vocab,B4660,check,ocr?,
+vocab,B4683,check,ocr?,
+vocab,B4687,example_en,It is long ago that I sung in the choir.,It is a long time since I sang in a choir.
+vocab,B4687,meaning_en,to be long ago,to be (so long) ago
+vocab,B4689,meaning_en,master (f),master craftswoman; champion (f)
+vocab,B4885,topic,"T07 Einkaufen, Kleidung & Geld","T15 Sprache, Kommunikation & Denken"
+vocab,B4885,example_de,den Faden verlieren,Ich habe beim Vortrag den Faden verloren.
+vocab,B4885,example_en,to lose one's train of thought,I lost the thread during the talk.
+vocab,B4885,meaning_en,in etwa: the train,thread; (den Faden verlieren = to lose the thread)
+vocab,B4706,meaning_en,gloomy,dark; gloomy
+vocab,B4711,meaning_en,nightly,nocturnal; nightly
+vocab,B4713,meaning_en,forgivable,in vain; futile
+vocab,B4716,meaning_en,to relativise,to put into perspective; to qualify
+vocab,B4731,check,article?,
+vocab,B4736,meaning_en,funny,humorous
+vocab,B4742,example_de,Viele Migranten kommen aus Osteuropa.,Die Migrantin lernt schnell Deutsch.
+vocab,B4756,check,ocr?,
+vocab,B4758,check,ocr?,
+vocab,B5677,topic,"T14 Gefühle, Charakter & Meinungen",M2 Medizin: Symptome & Krankheiten
+vocab,B4761,meaning_en,voluntary,voluntary (unpaid)
+vocab,B5120,meaning_en,"idea, conception",concept; conception
+vocab,B4769,example_de,Nachhilfe geben,Mein Sohn bekommt Nachhilfe in Mathe.
+vocab,B4769,meaning_en,tutoring (to tutor),private tutoring
+vocab,B4781,check,ocr?,
+vocab,B4788,check,article?,
+vocab,B4791,check,ocr?,
+vocab,B4795,meaning_en,curd,quark (fresh curd cheese)
+vocab,B4800,check,ocr?,
+vocab,B4803,check,ocr?,
+vocab,B4804,check,ocr?,
+vocab,B4808,meaning_en,to sign off,to deregister; to sign off
+vocab,B4810,meaning_en,city information,city information office
+vocab,B4810,check,ocr?,
+vocab,B4813,meaning_en,to be deducted,to deduct; to pull off
+vocab,B4814,meaning_en,job center,employment office (job centre)
+vocab,B4819,meaning_en,parent coffee shop,parents' café
+vocab,B4819,check,ocr?,
+vocab,B4820,meaning_en,parent-free,without parents
+vocab,B4820,check,ocr?,
+vocab,B4828,check,ocr?,
+vocab,B4829,meaning_en,play city,play city (children's mock town)
+vocab,B4829,check,ocr?,
+vocab,B4830,meaning_en,delegation,substitute; cover; representation
+vocab,B4837,check,ocr?,
+vocab,B4840,meaning_en,right,right? isn't it? (South German tag question)
+vocab,B4840,register,neutral,regional
+vocab,B4841,meaning_en,to go,to go there
+vocab,B4842,plural,Partikel,Partikeln
+vocab,B5678,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4846,check,ocr?,
+vocab,B4847,check,ocr?,
+vocab,B4847,meaning_en,contrast emphasis,contrastive stress
+vocab,B4848,check,ocr?,
+vocab,B5698,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4851,meaning_en,exit,exit; withdrawal
+vocab,B5700,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4865,meaning_en,rule,normal case; rule
+vocab,B4867,check,ocr?,
+vocab,B5703,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4883,check,ocr?,
+vocab,B4888,meaning_en,in conclusion,finally; in conclusion
+vocab,B5704,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4892,example_de,Dieser Weg ist nur für Fußgänger.,Die Fußgängerin wartet an der Ampel.
+vocab,B4898,meaning_en,to concern,to concern; to tackle
+vocab,B4902,check,ocr?,
+vocab,B4905,check,ocr?,
+vocab,B4908,check,ocr?,
+vocab,B4909,check,ocr?,
+vocab,B4911,meaning_en,bakery,bakery (workshop)
+vocab,B4914,meaning_en,admitted,to admit (to hospital)
+vocab,B4917,perfect,ist heruntergefahren,hat heruntergefahren
+vocab,B4917,meaning_en,to shut (down),to shut down (computer)
+vocab,B4922,check,ocr?,
+vocab,B4923,check,article?,
+vocab,B4924,check,ocr?,
+vocab,B4926,meaning_en,urban,urban; municipal
+vocab,B4928,meaning_en,"restless, turbulent",restless; uneasy
+vocab,B4930,example_de,Die Sozialarbeiterin kommt einmal in der Woche.,Der Sozialarbeiter berät die Familie.
+vocab,B4954,check,ocr?,
+vocab,B5719,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B4958,example_de,jemanden ausreden lassen,Lass mich bitte ausreden!
+vocab,B4958,example_en,to let somebody finish speaking,Please let me finish speaking!
+vocab,B5720,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4977,check,article?,
+vocab,B4978,meaning_en,ticket,ticket (travel)
+vocab,B5725,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4985,check,ocr?,
+vocab,B4988,check,ocr?,
+vocab,B4991,meaning_en,in the middle of,in the middle of it
+vocab,B4994,check,ocr?,
+vocab,B5000,check,ocr?,
+vocab,B5011,meaning_en,half formal,semi-formal
+vocab,B5011,check,ocr?,
+vocab,B5023,example_de,Die Rechnung ist Énde des Monats fällig.,Die Rechnung ist Ende des Monats fällig.
+vocab,B5024,meaning_en,on time,within the deadline; on time
+vocab,B5034,check,ocr?,
+vocab,B5037,meaning_en,bank teller,bank employee
+vocab,B5037,check,article?,
+vocab,B5046,check,ocr?,
+vocab,B5048,check,ocr?,
+vocab,B5051,check,ocr?,
+vocab,B5055,meaning_en,immediate,immediate; promptly
+vocab,B5063,meaning_en,con,against; con
+vocab,B5065,check,ocr?,
+vocab,B5069,check,ocr?,
+vocab,B5747,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",M2 Medizin: Symptome & Krankheiten
+vocab,B5081,meaning_en,user (m),consumer (m)
+vocab,B5082,meaning_en,user (f),consumer (f)
+vocab,B5082,check,ocr?,
+vocab,B5750,register,neutral,regional
+vocab,B5087,meaning_en,preferable,desirable
+vocab,B5089,check,ocr?,
+vocab,B5093,meaning_en,to cheat,to deceive; to cheat on
+vocab,B5094,meaning_en,to be in,to be inside; to be possible (colloquial)
+vocab,B5103,check,ocr?,
+vocab,B5104,check,ocr?,
+vocab,B5105,meaning_en,to agree with,to support; to be in favour of
+vocab,B5117,check,ocr?,
+vocab,B5122,check,ocr?,
+vocab,B5127,check,ocr?,
+vocab,B5132,meaning_en,touristic,tourist (adj.)
+vocab,B5761,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5136,meaning_en,benevolent,charitable
+vocab,B5824,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5826,topic,"T11 Natur, Umwelt, Wetter & Tiere",M1 Medizin: Anatomie & Körpersysteme
+vocab,B5841,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5858,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5862,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5872,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5875,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5887,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5890,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5907,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B5910,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5912,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5915,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5860,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B5925,article,das,der
+vocab,B5934,level,B1,B2
+vocab,B5939,example_de,Ich bin sehr in Eile 2. Das hat keine Eile.,Ich bin sehr in Eile. Das hat keine Eile.
+vocab,B5959,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B5960,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5964,example_de,Sie ist ganz frisch aus dem Ofen.,Der Kuchen kommt frisch aus dem Ofen.
+vocab,B5967,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5968,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5969,register,neutral,regional
+vocab,B5976,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B5989,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B5993,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B5994,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6001,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6004,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6006,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6011,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6012,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6014,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6015,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6026,plural,Wäschen,–
+vocab,B6039,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6043,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6044,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6048,example_de,Sie ist eine gute Verliererin.,Er ist ein guter Verlierer.
+vocab,B6062,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6070,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6079,topic,"T09 Behörden, Post & Dienstleistungen","M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6087,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6089,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6099,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6100,plural,Models | Modelle,Models
+vocab,B6102,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6106,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6116,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6117,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6132,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6142,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6145,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6146,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6148,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6151,example_de,Wer hat gewonnen? Wie heißt die Siegerin?,Wer hat gewonnen? Wie heißt der Sieger?
+vocab,B6154,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6157,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6161,article,der,der/die
+vocab,B6167,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6173,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6175,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6186,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6188,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6189,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6206,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6207,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6208,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6209,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6213,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6217,plural,Bundespräsident,Bundespräsidenten
+vocab,B6222,plural,Friede | Frieden,–
+vocab,B6223,plural,Ecken,Ecke
+vocab,B6223,register,neutral,regional
+vocab,B6233,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6238,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6240,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6246,example_de,Sie ist ganz frisch aus dem Rohr.,Das Rohr im Bad ist undicht.
+vocab,B6261,example_de,Es ist aus Langeweile eingeschlafen.,Er ist aus Langeweile eingeschlafen.
+vocab,B6265,example_de,Ich weigere mich diese Arbeit zu tun.,"Ich weigere mich, diese Arbeit zu tun."
+vocab,B6268,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6273,topic,"T09 Behörden, Post & Dienstleistungen","M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6279,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6285,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6288,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6291,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6295,level,B1,B2
+vocab,B6298,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6303,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6307,pos,noun,interjection
+vocab,B6317,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6319,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B6322,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B6323,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6324,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6327,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6328,topic,"T09 Behörden, Post & Dienstleistungen","M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6329,topic,"T13 Zeit, Zahlen, Maße & Mengen",M1 Medizin: Anatomie & Körpersysteme
+vocab,B6330,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B6332,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B6310,pos,noun,adjective
+vocab,B6350,example_de,Schicken Sie das Paket an den Absender zurück.,Die Absenderin des Briefes ist unbekannt.
+vocab,B6351,register,neutral,regional
+vocab,B6356,register,neutral,regional
+vocab,B6357,plural,Angestelltere,Angestellten
+vocab,B6363,example_de,Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen.,Ich möchte zuerst mit meiner Anwältin sprechen.
+vocab,B6367,plural,Auszubildendere,Auszubildenden
+vocab,B6370,example_de,Ich hole noch schnell Geld vom Bankomaten.,Ich hole schnell Geld am Bancomaten.
+vocab,B6370,register,neutral,regional
+vocab,B6374,article,der,der/die
+vocab,B6377,example_de,Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren.,Die Betriebsrätin informiert Sie über die neuen Arbeitszeiten.
+vocab,B6378,register,neutral,regional
+vocab,B6385,register,neutral,regional
+vocab,B6386,register,neutral,regional
+vocab,B6394,example_de,Ich finde dein Kleid sehr chick.,Ich finde dein Kleid sehr chic.
+vocab,B6395,register,neutral,regional
+vocab,B6396,register,neutral,regional
+vocab,B6398,register,neutral,regional
+vocab,B6408,example_de,Das ist mein Ehemann/meine Ehefrau.,Der Ehepartner muss das Formular mit unterschreiben.
+vocab,B6411,example_de,Die Einbrecher haben nichts gestohlen.,Die Einbrecherin wurde von der Polizei gefasst.
+vocab,B6419,register,neutral,regional
+vocab,B6424,example_de,Meine Schwester ist Computerfachfrau.,Er ist ein Fachmann für Herzkrankheiten.
+vocab,B6427,register,neutral,regional
+vocab,B6428,register,neutral,regional
+vocab,B6429,register,neutral,regional
+vocab,B6430,register,neutral,regional
+vocab,B6433,register,neutral,regional
+vocab,B6441,register,neutral,regional
+vocab,B6444,topic,"T13 Zeit, Zahlen, Maße & Mengen","T08 Reisen, Verkehr & Orte"
+vocab,B6447,register,neutral,regional
+vocab,B6450,register,neutral,regional
+vocab,B6453,register,neutral,regional
+vocab,B6453,article,die/das,die
+vocab,B6455,example_de,Kannst du Golf spielen?,Das Golfspiel dauert mehrere Stunden.
+vocab,B6459,register,neutral,regional
+vocab,B6461,register,neutral,regional
+vocab,B6466,register,neutral,regional
+vocab,B6481,register,neutral,regional
+vocab,B6485,example_de,Sie ist eine fleißige Lernerin.,Er ist ein fleißiger Lerner.
+vocab,B6492,register,neutral,regional
+vocab,B6493,example_de,Meine Tocher hat gerade die Matura gemacht.,Meine Tochter hat gerade die Matura gemacht.
+vocab,B6493,register,neutral,regional
+vocab,B6499,register,neutral,regional
+vocab,B6501,register,neutral,regional
+vocab,B6504,register,neutral,regional
+vocab,B6506,example_de,Nach dem Essen gab es noch eine leckere Nachspeise,Nach dem Essen gab es noch eine leckere Nachspeise.
+vocab,B6513,example_de,In unserer Familie sind alle Nichtraucher.,Ich bin Nichtraucherin.
+vocab,B6514,register,neutral,regional
+vocab,B6514,article,das/der,das
+vocab,B6516,register,neutral,regional
+vocab,B6518,register,neutral,regional
+vocab,B6520,example_de,Meine Großmutter arbeitet nicht mehr.,Der Pensionist geht jeden Tag spazieren.
+vocab,B6520,register,neutral,regional
+vocab,B6521,register,neutral,regional
+vocab,B6522,register,neutral,regional
+vocab,B6525,register,neutral,regional
+vocab,B6527,register,neutral,regional
+vocab,B6529,example_de,Mein Sohn möchte Profisportler werden.,Meine Tochter möchte Profisportlerin werden.
+vocab,B6532,example_de,War die Pöstlerin schon da?,Der Pöstler bringt die Briefe um zehn.
+vocab,B6532,register,neutral,regional
+vocab,B6533,register,neutral,regional
+vocab,B6534,register,neutral,regional
+vocab,B6538,register,neutral,regional
+vocab,B6539,register,neutral,regional
+vocab,B6543,register,neutral,regional
+vocab,B6545,register,neutral,regional
+vocab,B6546,register,neutral,regional
+vocab,B6550,register,neutral,regional
+vocab,B6554,register,neutral,regional
+vocab,B6556,example_de,Für dieses Spiel braucht man zwei bis vier Spieler.,Die Spielerin hat zwei Tore geschossen.
+vocab,B6557,register,neutral,regional
+vocab,B6559,register,neutral,regional
+vocab,B6560,register,neutral,regional
+vocab,B6562,example_de,Die Stewardess bringt das Mittagessen.,Der Steward bringt das Mittagessen.
+vocab,B6564,register,neutral,regional
+vocab,B6565,register,neutral,regional
+vocab,B6571,register,neutral,regional
+vocab,B6578,register,neutral,regional
+vocab,B6580,example_de,Die Polizei hat den Täter endlich gefasst.,Die Täterin wurde von der Polizei gefasst.
+vocab,B6589,example_de,Die Polizei hat den Verbrecher verhaftet.,Die Verbrecherin wurde verhaftet.
+vocab,B6593,example_de,Hast Du die Pakete gut verpackt?,Hast du die Pakete gut verpackt?
+vocab,B6599,register,neutral,regional
+vocab,B6613,example_de,Die Polizei sucht noch Zeugen für den Unfall.,Die Zeugin hat den Unfall gesehen.
+vocab,B6614,register,neutral,regional
+vocab,B6617,register,neutral,regional
+vocab,B6617,plural,Zvieris,–
+vocab,B6617,article,das/der,das
+vocab,B6621,register,neutral,regional
+vocab,B6626,register,neutral,regional
+vocab,B6626,example_de,"Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.",Die Abwartin putzt das Treppenhaus.
+vocab,B6627,register,neutral,regional
+vocab,B6628,register,neutral,regional
+vocab,B6629,register,neutral,regional
+vocab,B6630,register,neutral,regional
+vocab,B6630,example_de,Dieser Fleischhauer macht sehr gute Wurst.,Diese Fleischhauerin macht sehr gute Wurst.
+vocab,B6633,register,neutral,regional
+vocab,B6634,register,neutral,regional
+vocab,B6634,article,der,der/die
+vocab,B0012,pos,noun,pronoun
+vocab,B0020,meaning_en,the (the sausage),"the (definite article, neuter)"
+vocab,B0021,meaning_en,the (the kindergarten),"the (definite article, masculine)"
+vocab,B0022,meaning_en,the (the bottle),"the (definite article, feminine and plural)"
+vocab,B0030,meaning_en,sausage,sausage (Austrian)
+vocab,B0030,register,neutral,regional
+vocab,B0031,meaning_en,in,on; onto; up
+vocab,B0033,pos,noun,determiner
+vocab,B0034,meaning_en,in,in; into
+vocab,B0037,meaning_en,as,how; like; as
+vocab,B0041,meaning_en,a,a; an; one (indefinite article)
+vocab,B0058,meaning_en,|,I
+vocab,B0077,pos,noun,pronoun
+vocab,B0098,meaning_en,the,"the (definite article, masculine accusative)"
+vocab,B0139,meaning_en,to,to; after; according to
+vocab,B0162,meaning_en,Brasil,Brazil
+vocab,B0165,meaning_en,country,country; land; countryside
+vocab,B0165,plural,–,Länder
+vocab,B0168,meaning_en,Portugese,Portuguese
+vocab,B0180,meaning_en,Rhaeto-Romanic (Romansh),Romansh
+vocab,B0185,meaning_en,to,to; at; too
+vocab,B0197,meaning_en,about,about; over; above
+vocab,B0228,meaning_en,at,at the; on the (an dem)
+vocab,B0231,meaning_en,you,you (pl.); her; their
+vocab,B0231,check,paren?,
+vocab,B0334,meaning_en,room,room; space; square
+vocab,B0334,plural,–,Plätze
+vocab,B0441,check,ocr?,
+vocab,B0447,gov,+ Dat.,+ Akk.
+vocab,B0481,meaning_en,u ride,taxi ride
+vocab,B0644,meaning_en,ours,us; (bei uns) at our place
+vocab,B0937,meaning_en,will,to become; will (future auxiliary)
+vocab,B1046,meaning_en,open-air concert,open-air cinema
+vocab,B1093,meaning_en,whereto,where to
+vocab,B1583,meaning_en,story,story; history
+vocab,B1826,meaning_en,to be,to lie; to be located
+vocab,B1868,pos,verb,adjective
+vocab,B1878,check,ocr?,
+vocab,B1948,check,ocr?,
+vocab,B1949,check,ocr?,
+vocab,B1983,check,ocr?,
+vocab,B1986,check,ocr?,
+vocab,B3500,meaning_en,Finnland,Finland
+vocab,B4137,meaning_en,mikro living,micro-living
+vocab,B4322,meaning_en,main role,showpiece role; star role
+vocab,B4998,register,neutral,regional
+vocab,B6372,register,neutral,regional
+vocab,B6406,register,neutral,regional
+redemittel,R0431,priority,core,extra
+redemittel,R0434,priority,core,extra
+redemittel,R0493,priority,core,extra
+redemittel,R0494,priority,core,extra
+redemittel,R0496,priority,core,extra
+redemittel,R0520,priority,core,extra
+redemittel,R0522,priority,core,extra
+redemittel,R0539,priority,core,extra
+redemittel,R0542,priority,core,extra
+redemittel,R0560,priority,core,extra
+redemittel,R0562,priority,core,extra
+redemittel,R0593,priority,core,extra
+redemittel,R0595,priority,core,extra
+redemittel,R0596,priority,core,extra
+redemittel,R0609,priority,core,extra
+redemittel,R0610,priority,core,extra
+redemittel,R0613,priority,core,extra
+redemittel,R0629,priority,core,extra
+redemittel,R0630,priority,core,extra
+redemittel,R0648,priority,core,extra
+redemittel,R0649,priority,core,extra
+redemittel,R0666,priority,core,extra
+redemittel,R0667,priority,core,extra
+redemittel,R0682,priority,core,extra
+redemittel,R0684,priority,core,extra
+redemittel,R0704,priority,core,extra
+redemittel,R0705,priority,core,extra
+redemittel,R0707,priority,core,extra
+redemittel,R0729,priority,core,extra
+redemittel,R0730,priority,core,extra
+redemittel,R0773,priority,core,extra
+redemittel,R0774,priority,core,extra
+redemittel,R0807,priority,core,extra
+redemittel,R0808,priority,core,extra
+redemittel,R0830,priority,core,extra
+redemittel,R0832,priority,core,extra
+redemittel,R0852,priority,core,extra
+redemittel,R0853,priority,core,extra
+redemittel,R0875,priority,core,extra
+redemittel,R0876,priority,core,extra
+redemittel,R0894,priority,core,extra
+redemittel,R0896,priority,core,extra
+redemittel,R0898,priority,core,extra
+redemittel,R0920,priority,core,extra
+redemittel,R0921,priority,core,extra
+redemittel,R0922,priority,core,extra
+redemittel,R0947,priority,core,extra
+redemittel,R0948,priority,core,extra
+redemittel,R0949,priority,core,extra
+redemittel,R0969,priority,core,extra
+redemittel,R0970,priority,core,extra
+redemittel,R0974,priority,core,extra
+redemittel,R1032,priority,core,extra
+redemittel,R1033,priority,core,extra
+redemittel,R1035,priority,core,extra
+redemittel,R1056,priority,core,extra
+redemittel,R1057,priority,core,extra
+redemittel,R1078,priority,core,extra
+redemittel,R1080,priority,core,extra
+redemittel,R1084,priority,core,extra
+redemittel,R1108,priority,core,extra
+redemittel,R1109,priority,core,extra
+redemittel,R1110,priority,core,extra
+redemittel,R1134,priority,core,extra
+redemittel,R1135,priority,core,extra
+redemittel,R1138,priority,core,extra
+redemittel,R1156,priority,core,extra
+redemittel,R1157,priority,core,extra
+redemittel,R1158,priority,core,extra
+redemittel,R1159,priority,core,extra
+redemittel,R1171,priority,core,extra
+redemittel,R1173,priority,core,extra
+redemittel,R1174,priority,core,extra
+redemittel,R1175,priority,core,extra
+phrase,P0273,function,"Vorschlagen / Raten (suggest, advise)",Sonstige nützliche Wendung (other useful expression)
+phrase,P0409,variants,irgendwann | an einem Tag,irgendwann
+redemittel,R0397,variants,"Wie geht's Ihnen? – Gut, danke. | Und selbst? – Auch gut, danke.","Wie geht's Ihnen? – Gut, danke. | Danke, es geht mir gut. Und Ihnen?"
+redemittel,R0936,variants,"Ohne Operation könnte es passieren, dass ... | Verzichten Sie darauf, kann ...","Ohne Operation könnte es passieren, dass ... | Wenn Sie darauf verzichten, kann ..."
+redemittel,R0936,redemittel_de,"Wenn Sie nicht operieren lassen, besteht das Risiko, dass ...","Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass ..."
+redemittel,R0936,example_de,"Wenn Sie nicht operieren lassen, besteht das Risiko, dass sich die Entzündung ausbreitet.","Wenn Sie sich nicht operieren lassen, besteht das Risiko, dass sich die Entzündung ausbreitet."
+redemittel,R0824,variants,Schauen Sie bitte meinem Finger nach. | Verfolgen Sie meinen Finger mit den Augen.,Folgen Sie bitte mit den Augen meinem Finger. | Verfolgen Sie meinen Finger mit den Augen.
+vocab,B1157,meaning_en,salutation,greeting formula (e.g. complimentary close)
+vocab,B2253,meaning_en,to be present,to be there; to be included; to take part
+vocab,B2394,plural,–,Hinfahrten
+vocab,B2865,meaning_en,contradiction,contradiction; objection; (legal) appeal
+vocab,B3807,example_en,My boss often inquires after the status of my projects.,My boss often asks me about the status of my project.
+vocab,B6265,perfect,hat geweigert,hat sich geweigert
+vocab,B6402,example_de,Wir gehen heute Abend in die Disco/Disko.,Wir gehen heute Abend in die Disko.
+vocab,B0797,level,A1,B2
+vocab,B2031,meaning_en,secondary modern school graduation,intermediate school-leaving certificate (Realschule)
+vocab,B3403,collocations,darum bitten | darum geht es | genau darum | nicht darum,darum bitten | darum geht es | genau darum | darum geht es nicht
+vocab,B4716,level,B1,B2
+vocab,B5737,meaning_en,southern,southern; south of

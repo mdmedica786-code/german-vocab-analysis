@@ -1,0 +1,100 @@
+B2590¦pos=adverb¦tp=T15¦ex=Sie erreichen uns telefonisch von 8 bis 16 Uhr.¦en=You can reach us by phone from 8 am to 4 pm.
+B2592¦pos=adjective¦tp=T09¦ex=Mein Gepäck ist gegen Diebstahl versichert.¦en=My luggage is insured against theft.
+B3317¦en=This house was on fire last year.
+B2594¦m=text message¦tp=T15¦ex=Ich schicke dir gleich eine SMS.¦en=I'll send you a text message in a moment.
+B2595¦en=Can you please summarise that briefly once more?
+B3116¦ps=äußert¦pt=äußerte¦pf=hat geäußert¦ex=Er äußert seine Meinung offen.¦en=He expresses his opinion openly.
+B2598¦en=Turn right at the next crossroads.
+B2599¦pt=ging vorbei¦tp=T08¦ex=Ich gehe jeden Tag an der Apotheke vorbei.¦en=I walk past the pharmacy every day.
+B3422¦m=to reveal; to betray¦en=Who told you the secret?
+B2600¦ps=zeichnet ein¦pt=zeichnete ein¦pf=hat eingezeichnet¦tp=T08¦ex=Zeichnen Sie bitte den Weg auf der Karte ein.¦en=Please mark the route on the map.
+B2603¦tp=T08¦ex=Für diesen Zug brauchen Sie eine Platzreservierung.¦en=For this train you need a seat reservation.
+B2604¦ck=-¦tp=T08¦ex=Die Stadtbesichtigung dauert zwei Stunden.¦en=The sightseeing tour takes two hours.
+B2906¦en=The temperatures will rise by 10 degrees today.
+B2605¦tp=T02¦ex=Ich habe meinen Wohnungsschlüssel verloren.¦en=I have lost my flat key.
+B2606¦ck=-¦tp=T15¦ex=Man erkennt die Wortgrenze an der Leerstelle.¦en=You recognise the word boundary by the space.
+B2607¦en=You can put your bag over there.
+B3233¦pos=adjective¦en=We found a pretty flat.
+B2608¦m=e-bike¦ex=Mit dem E-Bike fahre ich zur Arbeit.¦en=I go to work by e-bike.
+B2609¦pos=adjective¦en=We don't cook with gas but electrically.
+B2610¦en=I know a little about computers. But I'm not an expert.
+B4369¦tp=M1 Medizin: Anatomie & Körpersysteme¦ex=Das Gehirn steuert alle wichtigen Funktionen des Körpers.¦en=The brain controls all important functions of the body.¦col=das Gehirn untersuchen | Gehirn und Rückenmark | Erkrankung des Gehirns | Durchblutung des Gehirns
+B2611¦ex=Die Expertin erklärt uns die neue Technik.¦en=The expert explains the new technology to us.
+B2612¦tp=T08¦ex=In einer Großstadt gibt es viele Möglichkeiten.¦en=In a big city there are many opportunities.
+B3855¦pos=adjective¦tp=T16
+B2614¦tp=T08¦ex=In der Innenstadt gibt es viele Geschäfte.¦en=In the city centre there are many shops.
+B2615¦ex=Die Kombination aus Sport und gesunder Ernährung wirkt am besten.¦en=The combination of sport and healthy eating works best.
+B2619¦tp=T15¦ex=Haben Sie einen Lösungsvorschlag für das Problem?¦en=Do you have a proposed solution to the problem?
+B5337¦m=third (fraction)¦tp=T13¦nt=Also the noun: das Drittel.¦ex=Ich brauche ein drittel Liter Milch.¦en=I need a third of a litre of milk.
+B2622¦ex=Der Radfahrer hält an der roten Ampel an.¦en=The cyclist stops at the red light.
+B2623¦en=Watch out! A cyclist is coming.
+B2624¦tp=T08¦ex=Auf dem Radweg darf man nicht parken.¦en=You must not park on the cycle path.
+B3015¦pos=adjective¦en=The book is very thin. It has only 40 pages.
+B2625¦en=We have now reduced our prices.
+B2626¦tp=T08¦ex=Mit der Seilbahn fahren wir auf den Berg.¦en=We take the cable car up the mountain.
+B2628¦tp=T02¦ex=Viele Stadtbewohner fahren am Wochenende aufs Land.¦en=Many city dwellers go to the countryside at the weekend.
+B4997¦pos=adjective¦en=You can't park here. The street is too narrow.
+B2629¦ck=-¦tp=T02¦ex=Die Stadtbewohnerin sucht Ruhe auf dem Land.¦en=The city dweller is looking for peace in the countryside.
+B2630¦pos=adjective¦tp=T11¦ex=Das Fahrrad ist ein umweltfreundliches Verkehrsmittel.¦en=The bicycle is an environmentally friendly means of transport.
+B2632¦ck=-¦tp=T08¦ex=Staus sind ein großes Verkehrsproblem.¦en=Traffic jams are a big traffic problem.
+B3111¦ck=-
+B2634¦ps=ist dafür¦pt=war dafür¦pf=ist dafür gewesen¦tp=T15¦en=I am for it / against it.
+B2635¦ps=ist dagegen¦pt=war dagegen¦pf=ist dagegen gewesen¦tp=T15¦ex=Ich bin dagegen, dass wir so spät losfahren.¦en=I am against us setting off so late.
+B2637¦pos=adjective¦tp=T16¦ex=Der lange Rock ist unpraktisch zum Radfahren.¦en=The long skirt is impractical for cycling.
+B5032¦pos=adjective¦g=von + Dat.¦en=Gregor is financially dependent on his parents.
+B2638¦pos=adverb¦m=i.e.; that is¦tp=T15¦ex=Wir treffen uns am Montag, d.h. in zwei Tagen.¦en=We'll meet on Monday, i.e. in two days.
+B2640¦en=I think there will be a thunderstorm today.
+B2641¦tp=T11¦ex=Vorsicht, auf der Straße ist Glatteis!¦en=Careful, there is black ice on the road!
+B4058¦en=Can you please already hand out the glasses?
+B2642¦ps=pendelt¦pt=pendelte¦pf=ist gependelt¦tp=T08¦ex=Ich pendele jeden Tag mit dem Zug zur Arbeit.¦en=I commute to work by train every day.
+B2645¦tp=T08¦ex=Die Zugfahrt nach Wien dauert vier Stunden.¦en=The train journey to Vienna takes four hours.
+B2647¦tp=T09¦en=At the post office there is always a long queue.
+B5338¦pos=adjective¦m=parallel¦en=Goethestraße runs parallel to the main street.
+B2648¦en=Please board at the front!
+B2649¦ps=klatscht¦pt=klatschte¦pf=hat geklatscht¦tp=T10¦ex=Nach dem Konzert klatscht das Publikum lange.¦en=After the concert the audience applauds for a long time.
+B2650¦ps=erfragt¦pt=erfragte¦pf=hat erfragt¦tp=T15¦ex=Die Uhrzeit können Sie an der Information erfragen.¦en=You can find out the time at the information desk.
+B2651¦pos=adjective¦ex=Wir essen heute in einem chinesischen Restaurant.¦en=Today we are eating in a Chinese restaurant.
+B2653¦en=I'd like to subscribe to this magazine.
+B2654¦ps=bearbeitet¦pt=bearbeitete¦pf=hat bearbeitet¦tp=T10
+B4710¦en=The children climbed over the wall.
+B2655¦pt=beschwerte¦en=It's too loud here. Where can we complain?
+B2656¦ps=hat dabei¦pt=hatte dabei¦pf=hat dabei gehabt¦tp=T16¦ex=Hast du deinen Ausweis dabei?¦en=Do you have your ID with you?
+B2657¦ex=Zum Lernen braucht man Disziplin.¦en=You need discipline to study.
+B3565¦en=The game is a challenge.
+B2660¦en=He can play the guitar well.
+B2662¦en=With cable you get over 30 TV channels.
+B2663¦en=Jakob can play the piano very well.
+B4203¦tp=T15¦ex=Welche Bezeichnung steht auf dem Etikett?¦en=What term is on the label?
+B2664¦pos=adjective¦en=He writes far too complicatedly.
+B2665¦m=course leader (m)¦ex=Der Kursleiter erklärt die Grammatik.¦en=The course leader explains the grammar.
+B2666¦m=course leader (f)¦tp=T04¦ex=Die Kursleiterin ist sehr geduldig.¦en=The course leader is very patient.
+B5339¦pos=adjective¦m=detailed; extensive¦lv=B2¦ex=Der Arzt erklärt die Behandlung ausführlich.¦en=The doctor explains the treatment in detail.
+B2669¦pos=adjective¦tp=T03¦ex=Mein Vater ist seit zwei Jahren pensioniert.¦en=My father has been retired for two years.
+B2670¦pos=adjective¦rg=informal¦en=I get on great with these people.
+B2672¦m=pension; retirement¦en=She is 67 and now gets a good pension.
+B3035¦en=I have improved my German.
+B2673¦en=Do you want to give me the letter? I'm going to the post office anyway.
+B2674¦ck=-¦ps=weiß weiter¦pt=wusste weiter¦pf=hat weitergewusst¦m=to know what to do next¦tp=T16¦ex=Ich weiß bei dieser Aufgabe nicht weiter.¦en=I don't know what to do next with this task.
+B2675¦tp=T04¦ex=Die Abschlussprüfung findet im Juni statt.¦en=The final exam takes place in June.
+B3105¦ps=füllt¦pt=füllte¦pf=hat gefüllt¦ex=Bitte füllen Sie das Glas mit Wasser.¦en=Please fill the glass with water.
+B2677¦tp=T08¦ex=Morgen habe ich meine erste Fahrstunde.¦en=Tomorrow I have my first driving lesson.
+B2678¦m=forum; online forum¦en=I'm signing up for this forum today.
+B2682¦pos=adjective¦en=Einstein was very intelligent.
+B5340¦art=der¦pl=Leiber¦m=body¦lv=C1¦ex=Er zitterte am ganzen Leib.¦en=He trembled all over.
+B2683¦ps=kapiert¦pt=kapierte¦pf=hat kapiert¦rg=informal¦tp=T15¦ex=Ich kapiere die Aufgabe nicht.¦en=I don't get the task.
+B2684¦pos=adjective¦en=Molly is a clever girl.
+B2685¦tp=T05¦ex=Ich habe seit gestern Magenschmerzen.¦en=I have had stomach ache since yesterday.
+B5341¦m=to insure; to assure¦en=Do you want to insure your luggage?
+B2686¦ps=rast¦pt=raste¦pf=ist gerast¦tp=T08¦m=to speed; to race¦ex=Auf der Autobahn rasen manche Fahrer.¦en=Some drivers speed on the motorway.
+B2687¦pos=adjective¦en=I don't think you will still get that much money for the car. That is not realistic.
+B2688¦en=If I have a good school report I'll get a scholarship.
+B5342¦m=to point out; to refer¦g=auf + Akk.¦en=We would like to point out that smoking is not permitted on the platform.
+B2690¦ex=Tagsüber arbeite ich, abends gehe ich zum Sport.¦en=During the day I work, in the evening I go to the gym.
+B2691¦tp=T03¦ex=Der Zeitplan für das Projekt ist sehr eng.¦en=The schedule for the project is very tight.
+B2692¦ck=-¦tp=T04¦ex=Viele Kinder haben Lernprobleme in Mathe.¦en=Many children have learning problems in maths.
+B4238¦en=We have decided to buy a smaller car.
+B2693¦pt=verschob¦en=Unfortunately I have to postpone the appointment.
+B2695¦ps=arbeitet weiter¦pt=arbeitete weiter¦pf=hat weitergearbeitet¦tp=T03¦ex=Nach der Pause arbeiten wir weiter.¦en=After the break we continue working.
+B2696¦ps=atmet durch¦pt=atmete durch¦pf=hat durchgeatmet¦tp=T05¦ex=Atmen Sie tief durch, dann geht es Ihnen besser.¦en=Take a deep breath, then you'll feel better.
+B5343¦pos=adjective¦m=fundamental¦lv=B2¦ex=Wir brauchen grundlegende Veränderungen im System.¦en=We need fundamental changes in the system.
+B2698¦pos=adjective¦en=The sausage is too fatty for me.

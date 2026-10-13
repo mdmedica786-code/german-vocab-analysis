@@ -1,0 +1,100 @@
+B4385¦en=So far everything is fine.¦col=bisher noch nicht | bisher alles gut | bisher unbekannt | wie bisher
+B0750¦tp=T06¦ex=Die Soße enthält frische Champignons.¦en=The sauce contains fresh mushrooms.
+B0751¦tp=T03¦ex=Mein Chef ist heute nicht im Büro.¦en=My boss is not in the office today.¦es=claude
+B0752¦en=We have a new boss.
+B5180¦m=performance; achievement; service¦en=My grades at school are quite good.¦col=eine gute Leistung | Leistung bringen | Leistungen erbringen | Leistungen der Krankenkasse
+B0753¦en=After the meal there was a delicious dessert.
+B0754¦pos=adjective¦rg=colloquial¦m=real; really (colloq.)¦col=echt Leder | echt gut | ein echter Freund | echt jetzt
+B0755¦tp=T06¦ck=-¦ex=Als Hauptgericht gibt es ein Fischgericht.¦en=As the main course there is a fish dish.
+B3022¦en=I don't want to live in the city, at least not now while the children are still so small.¦col=zumindest teilweise | zumindest jetzt | zumindest nicht | zumindest für ...
+B0756¦pos=adjective¦ef=frischer – am frischesten¦col=frisch gebacken | frische Luft | frisch verliebt | frisch gewaschen
+B0757¦m=dish; meal; court (of law)¦os=-¦ex=Ich bin Anwältin und oft am Gericht.
+B0758¦tp=T01¦pt=half¦g=+ Dat.¦en=Can you help me, please?
+B5181¦pos=adverb¦tp=T14¦m=rather; preferably¦ef=gern – lieber – am liebsten¦en=She prefers to travel by train.
+B0759¦pos=adjective¦tp=T13¦ef=kleiner – am kleinsten¦en=Eltville is a small town on the Rhine.
+B0760¦pos=adjective¦en=The children are very creative when doing crafts.
+B0761¦pos=adverb¦tp=T13¦m=longer (comparative of lang)¦ex=Heute muss ich länger arbeiten.¦en=Today I have to work longer.
+B2101¦en=We are not allowed to have animals in the flat.
+B0762¦pos=adverb¦tp=T16¦col=natürlich nicht | natürlich gern | natürlich möglich | ganz natürlich
+B0763¦pos=adjective¦en=I have many nice colleagues.
+B0764¦en=When do you normally have a break?
+B2965¦tp=T16¦ex=Seit dem Umzug gab es viele Veränderungen.¦en=Since the move there have been many changes.¦col=eine Veränderung bewirken | große Veränderungen | sich auf Veränderungen einstellen | positive Veränderung
+B0765¦pt=probierte¦en=Would you like to try the cheese?
+B0766¦tp=T06¦ps=schält¦pt=schälte¦pf=hat geschält¦ex=Ich schäle die Kartoffeln für die Suppe.¦en=I am peeling the potatoes for the soup.
+B0767¦tp=T06¦pt=schnitt
+B2618¦col=ein Problem lösen | eine Aufgabe lösen | eine Fahrkarte lösen | einen Vertrag lösen¦en=We have to solve this problem.
+B0768¦tp=T13
+B0769
+B0770¦pos=adjective¦rg=informal¦en=My work is stressful.
+B3883¦tp=T12¦ex=Deutschland ist ein europäisches Land.¦en=Germany is a European country.¦col=die Europäische Union | europäische Länder | europäische Kultur | europäisches Recht
+B0771¦en=I like working in a team.
+B0772¦art=die¦pl=Uhren¦tp=T13¦m=o'clock; clock; watch¦en=I work from 6 a.m. to 3 p.m.
+B0773¦tp=T02¦pt=wusch¦en=Where can I wash my hands?
+B5182¦pos=adverb¦m=nevertheless; still¦lv=B1¦ex=Es war anstrengend, dennoch hat es mir Spaß gemacht.¦en=It was exhausting; nevertheless I enjoyed it.¦col=und dennoch | aber dennoch | dennoch möglich | dennoch nicht
+B0774¦pos=adjective¦tp=T16¦en=This form is very important.
+B0775¦en=She prepares the meat with potatoes.
+B0776¦tp=T08¦en=A return ticket to Frankfurt, please.
+B5183¦m=study; survey¦en=We are carrying out a study on unemployment.
+B0777¦en=Cut an onion into small pieces and fry it together with the meat.
+B0778¦tp=T16¦m=to lead; to conduct; to run¦col=ein Gespräch führen | zum Erfolg führen | ein Geschäft führen | eine Liste führen
+B0779¦pos=adjective¦tp=T15¦en=irregular verbs
+B2057¦en=What is the difference between the two courses? – The courses are the same. There is no difference.
+B0780¦tp=T14¦ex=Ich habe eine Vorliebe für scharfes Essen.¦en=I have a preference for spicy food.
+B0781¦en=That is my everyday life: cleaning, washing, cooking.
+B0782¦tp=T16¦ps=besucht¦pt=besuchte¦pf=hat besucht
+B4103¦g=+ Dat.¦nt=Subject is the thing: Es gelingt mir, ... zu ...¦en=I managed to persuade my boss.¦col=Es gelingt mir, ... | gut gelingen | ein Plan gelingt | knapp gelingen
+B0783¦en=She studies in the library every day.
+B0784¦tp=T05¦ps=duscht¦pt=duschte¦pf=hat geduscht¦en=I don't like taking baths, I prefer to shower.
+B0785¦tp=T01¦en=My family lives in Spain.
+B5184¦ps=erhebt¦pt=erhob¦pf=hat erhoben¦m=to raise; to levy; to collect (data)¦lv=B1¦ex=Die Stadt erhebt eine Gebühr für Parkplätze.¦en=The city charges a fee for parking spaces.¦col=Anklage erheben | Gebühren erheben | Daten erheben | die Stimme erheben
+B0786¦en=I eat in the canteen almost every day.
+B0787¦tp=T01¦rg=informal¦en=My grandma has already died.
+B0788¦tp=T16¦m=to meet; to hit; to make (a decision)
+B2350¦en=At the border you have to show your ID.
+B0789¦rg=informal¦ex=Ich gehe heute Nachmittag zur Uni.¦en=I'm going to uni this afternoon.
+B0790¦tp=T15¦ps=nummeriert¦pt=nummerierte¦pf=hat nummeriert¦ex=Bitte nummerieren Sie die Seiten.¦en=Please number the pages.
+B0791¦pos=adverb¦tp=T13¦en=How long does the train take from Hamburg to Berlin?
+B3495¦g=+ Dat.¦col=jemandem vertrauen | auf etwas vertrauen | blind vertrauen | Vertrauen schenken¦en=I know you well. I trust you.
+B0792¦tp=T10¦en=I like reading the newspaper.
+B0794¦pos=adverb¦tp=T13¦ex=Wir kochen abwechselnd, einmal du, einmal ich.¦en=We take turns cooking, once you, once me.
+B4289¦en=The weather has an influence on people's health.
+B0795¦en=I work in an office.
+B0796¦tp=T13¦ex=Wie ist die genaue Uhrzeit?¦en=What is the exact time?
+B0797¦pos=adjective¦tp=T09¦ex=Das ist nur eine inoffizielle Information.¦en=That is only unofficial information.
+B3815¦tp=T15¦m=to refer (sich beziehen auf); to obtain; to move into¦ex=Ich beziehe mich auf Ihre E-Mail vom Montag.¦en=I am referring to your email of Monday.¦col=sich auf etwas beziehen | eine Wohnung beziehen | Gehalt beziehen | Stellung beziehen
+B0798¦pos=adjective¦en=You will receive an official invitation from us.
+B0799¦pos=adjective¦tp=T13¦ef=später – am spätesten¦en=It is already late, I have to go.
+B0800
+B2500¦col=das Leben verändern | sich verändern | grundlegend verändern | nichts verändern¦en=That won't do. We have to change the organisation.
+B0802¦tp=T01¦en=Happy birthday!
+B0803¦tp=T10¦ex=Meine Tochter lernt Geige.¦en=My daughter is learning the violin.
+B0804¦tp=T10¦ck=-¦ex=Der Geigenunterricht ist am Mittwoch.¦en=The violin lesson is on Wednesday.
+B5185¦tp=T05¦m=died; deceased¦nt=Participle of sterben: ist gestorben.¦en=My wife died yesterday.¦ck=dup:B2157
+B0805¦en=Do you have time on Monday? – One moment, I'll look in my calendar.
+B0807¦tp=T01¦en=Mrs Berghäuser is Michaela's mother.
+B0808¦en=Next week I'm going to visit my uncle in Berlin.
+B5186¦pos=adverb¦m=at the same time; simultaneously¦lv=B1¦ex=Sie ist Ärztin und zugleich Mutter von drei Kindern.¦en=She is a doctor and at the same time a mother of three.¦col=und zugleich | zugleich aber | zugleich auch
+B0809¦en=Florian has a game on Sunday.
+B0810¦m=training; practice session¦en=Training is always on Tuesdays.
+B0811¦tp=T10¦ex=Er spielt seit Jahren Trompete.¦en=He has been playing the trumpet for years.
+B5187¦art=die¦pl=Grundlagen¦m=basis; foundation¦lv=B1¦ex=Das ist die Grundlage für unsere Entscheidung.¦en=That is the basis for our decision.¦col=die Grundlage bilden | auf der Grundlage von | Grundlagen schaffen | Grundlage für ... sein
+B0813¦tp=T16¦pt=blieb
+B0814¦tp=T01¦en=My parents live in Spain.
+B0815¦pos=adjective¦tp=T16¦en=That is wrong.
+B5188¦pos=adverb¦tp=T15¦m=for example¦lv=B1¦ex=Viele Berufe, beispielsweise in der Pflege, suchen Personal.¦en=Many professions, for example in nursing, are looking for staff.¦col=beispielsweise im Beruf | beispielsweise für | beispielsweise bei | wie beispielsweise
+B0816¦tp=T01¦en=How many children do you have?
+B0817¦pos=adjective¦tp=T05¦ef=kränker – am kränksten¦en=I can't come to work today, I'm ill and lying in bed.
+B0818¦tp=T04¦m=music school; conservatoire¦ex=Meine Tochter geht zweimal pro Woche in die Musikschule.¦en=My daughter goes to music school twice a week.
+B5189¦m=theory¦en=That is the theory. In practice many things are quite different.
+B0819¦tp=T01¦en=This is Hans, my son.
+B0820¦tp=T15¦ps=telefoniert¦pt=telefonierte¦pf=hat telefoniert¦en=May I make a phone call?
+B0821¦tp=T01¦en=This is my daughter Katharina.
+B3431¦m=idea; introduction; performance¦col=eine Vorstellung haben | keine Vorstellung davon haben | sich eine Vorstellung machen | eine Vorstellung geben
+B0822¦tp=T10¦ck=-¦ex=Der Trompetenunterricht beginnt um vier Uhr.¦en=The trumpet lesson begins at four o'clock.
+B0823¦tp=T01¦en=My father is a worker.
+B2355¦tp=T15¦pt=bat¦g=um + Akk.¦m=to ask for; to request¦col=um Hilfe bitten | um Erlaubnis bitten | um Verzeihung bitten | jemanden bitten, zu ...¦en=May I ask you for something?
+B0825¦tp=T15¦pt=beschrieb¦col=den Weg beschreiben | ein Bild beschreiben | die Symptome beschreiben | genau beschreiben¦en=Can you describe the way to the station to me?
+B0826¦tp=T01¦en=His brother also works here.
+B0827¦pos=adjective¦tp=T01¦en=Are you married? – No. Single.
+B3701¦ex=Die Analyse zeigt klare Ergebnisse.¦en=The analysis shows clear results.
+B0828¦tp=T15¦ck=-¦ex=„Mein“ ist ein Possessivartikel.¦en=“Mein” is a possessive article.

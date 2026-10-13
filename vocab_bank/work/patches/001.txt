@@ -1,0 +1,58 @@
+B0004¦pos=adjective¦tp=T16¦en=I think that's good.¦ef=besser – am besten
+B0016¦en=Match the statements.
+B2700¦tp=T16¦pt=ließ¦m=to leave; to let¦nt=Also: sich (Dat.) etwas machen lassen = to have something done.¦col=etwas liegen lassen | jemanden in Ruhe lassen | sich Zeit lassen | Platz lassen
+B0017¦tp=T16¦ps=gehört zusammen¦pt=gehörte zusammen¦pf=hat zusammengehört¦m=to belong together; to fit together¦ex=Diese beiden Wörter gehören zusammen.¦en=These two words belong together.
+B0018¦tp=T08¦m=motorway; freeway¦ex=Wo geht's hier bitte zur Autobahn?¦en=Where is the way to the motorway, please?
+B0019¦tp=T06¦m=bread and butter; sandwich¦ex=Zum Frühstück esse ich ein Butterbrot mit Käse.¦en=For breakfast I eat a slice of bread and butter with cheese.
+B2694¦pos=adverb¦tp=T16¦nt=Conjunction: damit + Nebensatz = so that. Pronominal adverb: da + mit.
+B0023¦tp=T06¦en=A bottle of beer, please.
+B0024¦en=Could you give me a fresh towel, please?
+B0025¦tp=T04¦en=Little Laura already goes to kindergarten.
+B2458¦tp=T16¦os=well (discourse particle)¦col=nun mal | nun gut | von nun an | nun ja¦en=Shame that you have to work. – That's just how it is.
+B0026¦tp=T08¦en=Is that your suitcase?
+B0027¦tp=T05¦ef=der Kranke; die Kranke; ein Kranker; eine Kranke¦m=sick person; patient¦en=Sick people need a lot of rest.¦ck=-
+B0028¦en=Would you prefer rice or noodles?
+B5140¦tp=T16¦m=but (rather); but instead¦nt=After a negation: nicht ..., sondern ... No change of word order.¦en=Our visitor is not coming today but tomorrow.
+B0029¦tp=T06¦m=small sausage; frankfurter¦ex=Zum Mittagessen gibt es Würstchen mit Kartoffelsalat.¦en=For lunch there are sausages with potato salad.
+B0032¦tp=T15¦pt=hieß¦m=to be called; to mean¦ex=„Würstchen“ heißt auf Italienisch „wurstel“.¦en=In Italian, “Würstchen” is called “wurstel”.
+B0036¦tp=T15¦en=Which languages do you speak?
+B2534¦tp=T16¦m=to hold; to stop; to keep¦os=-¦g=für + Akk. | von + Dat.¦col=den Mund halten | Abstand halten | einen Vortrag halten | an der Ampel halten
+B0038¦tp=T15¦ef=Pl. also Worte (connected words, sayings)
+B0039¦pos=adjective¦tp=T16¦m=other; different¦nt=Declines like an adjective: ein anderer Mann, die anderen.¦ex=Hast du auch andere Farben?¦en=Do you also have other colours?
+B0040¦tp=T15¦nt=Language name is capitalised: Ich lerne Deutsch.¦ex=Sie ist deutsch, aber sie lebt in Spanien.¦en=She is German, but she lives in Spain.
+B3485¦tp=T16¦ex=Ich war dabei, als das passiert ist.¦en=I was there when that happened.¦es=claude¦col=dabei sein | dabei helfen, zu ... | es bleibt dabei | dabei haben
+B0042¦tp=T01¦pt=kannte¦nt=kennen = be familiar with (person, place); wissen = know a fact.¦en=Do you know this woman? – No, unfortunately not.
+B0043¦tp=T04¦ex=Das Kursplakat hängt im Eingang der Schule.¦en=The course poster is hanging in the school entrance.¦ck=-
+B0044¦tp=T16¦g=-¦ps=macht¦pt=machte¦pf=hat gemacht¦m=to make; to do
+B2589¦tp=T16¦m=if; whether¦nt=ob-Satz = indirect question: Verb am Ende.
+B0045¦pt=sammelte
+B0047¦tp=T16¦m=also; too¦en=I am Spanish too.
+B3945¦tp=T16¦m=case; instance; fall
+B0049¦pos=interjection¦tp=T15¦rg=informal¦nt=Informal hello/goodbye, borrowed from Italian.¦ex=Ciao, bis morgen!¦en=Bye, see you tomorrow!
+B0050¦tp=T15¦en=Shall I help you? – No, thank you!
+B0053¦tp=T15¦en=Excuse me, what's your name?
+B4288¦pos=adjective¦tp=T16¦ex=Sie wohnt jetzt in ihrer eigenen Wohnung.¦en=She now lives in her own flat.¦col=ein eigenes Zimmer | die eigene Meinung | auf eigene Faust
+B0054¦pos=adverb¦tp=T16¦m=quite; entirely; whole¦nt=Adjective: das ganze Jahr = the whole year. Adverb: ganz gut = quite good.¦col=ganz gut | den ganzen Tag | im Ganzen | ganz und gar
+B0055¦tp=T08¦pt=ging¦m=to go; to walk¦nt=Wie geht's? = how are you? Es geht um ... = it is about ...
+B0056¦tp=T15¦en=Hello Inge! How are you?
+B2365¦pos=adverb¦ex=Dazu kann ich leider nichts sagen.¦en=Unfortunately, I can't say anything about that.¦col=dazu gehören | dazu kommen | dazu passen | noch dazu
+B0057¦tp=T15¦ps=hört¦pt=hörte¦pf=hat gehört¦m=to hear; to listen¦en=Listen! What's that?
+B0059¦tp=T10¦pt=las¦en=I am reading a book by García Márquez.
+B0060¦tp=T01¦en=Admission per person: 5 euros.
+B3792¦tp=T16¦nt=Position 1 or mid-sentence: Er kam jedoch nicht.¦en=She keeps calling, but without success.¦col=jedoch ohne Erfolg | jedoch nicht | jedoch nur dann, wenn ...
+B0061¦tp=T16¦en=How are you? – Thanks, very well.
+B0063¦rg=informal¦nt=Also spelled tschüss.¦en=Bye, see you tomorrow!
+B0065¦tp=T16¦en=I am in a difficult situation. I don't know what to do.¦col=in einer schwierigen Situation sein | die Situation verbessern | eine Situation erklären
+B3435¦tp=T13¦en=Please contact Mrs Kaiser. She has already called three times.¦col=bereits gestern | bereits bekannt | bereits vorhanden | bereits im Jahr 2020
+B0066¦tp=T10¦ps=spielt¦pt=spielte¦pf=hat gespielt¦en=The children are playing outside.
+B0067¦tp=T16¦m=well-known; famous¦nt=bekannt sein für/als/mit.¦en=Picasso is very famous.
+B0068¦tp=T01¦ef=des Namens (Gen.)¦en=My name is Thomas Schmidt.
+B2627¦tp=T16¦pt=setzte¦m=to sit down; to put; to set¦en=Do sit down!¦col=sich auf einen Stuhl setzen | sich zu jemandem setzen | ein Ziel setzen | sich in Bewegung setzen
+B0072¦tp=T01¦art=die¦pl=Frauen¦m=Ms; Mrs (title)¦os=woman; wife¦en=Good morning, Ms Weber.
+B2602¦tp=T16¦ps=bestimmt¦pt=bestimmte¦pf=hat bestimmt¦m=to determine; to decide¦ex=Wer bestimmt, wohin wir fahren?¦en=Who decides where we are going?¦col=die Richtung bestimmen | über etwas bestimmen | den Preis bestimmen | eine Pflanze bestimmen
+B0076¦tp=T01¦art=der¦pl=Herren¦ef=den/dem/des Herrn (n-declension)¦m=Mr; Sir (title)¦os=gentleman¦en=Good day, Mr Hansen.
+B2010¦pos=adverb¦tp=T16¦m=further; on; onward¦en=The bus doesn't go any further.¦col=weitermachen | immer weiter | und so weiter | ohne Weiteres
+B0079¦pos=adjective¦tp=T15¦ex=Das ist eine formelle Einladung.¦en=This is a formal invitation.
+B0080¦pos=adjective¦tp=T15¦ex=Das war ein informelles Gespräch.¦en=That was an informal conversation.
+B0081¦tp=T01¦ef=des Nachnamens¦ex=Wie lautet Ihr Nachname, bitte?¦en=What is your last name, please?
+B4950¦pos=conjunction¦tp=T16¦m=as well as; as soon as¦ex=Wir brauchen Brot, Käse sowie etwas Obst.¦en=We need bread, cheese and some fruit as well.¦col=Kinder sowie Erwachsene | Hotels sowie Restaurants | sowie ich Zeit habe

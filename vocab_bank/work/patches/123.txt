@@ -1,0 +1,97 @@
+B2199¦tp=T10¦ex=Am Wochenende sehen wir einen Horrorfilm.¦en=At the weekend we're watching a horror film.
+B2200¦pt=fuhr weg¦tp=T08¦ex=Wir fahren morgen früh weg.¦en=We're leaving early tomorrow morning.
+B2202¦en=I'm in a bad mood today.
+B2203¦tp=T15¦ex=Ich habe eine Absage für die Stelle bekommen.¦en=I got a rejection for the job.
+B5300¦m=responsibility¦pl=–¦en=You bear the responsibility for your children.
+B2205¦m=bride and groom; newlyweds¦tp=T01¦ex=Das Brautpaar tanzt den ersten Tanz.¦en=The newlyweds are dancing the first dance.
+B2206¦tp=T15¦ex=Nach der Feier schreibe ich eine Dankeskarte.¦en=After the party I'll write a thank-you card.
+B2207¦m=congratulations card¦tp=T15¦ex=Zum Geburtstag habe ich eine Glückwunschkarte bekommen.¦en=I got a congratulations card for my birthday.
+B4034¦en=EU citizens can work anywhere in Europe.
+B2208¦tp=T01¦en=We got married out of love.
+B2211¦pt=sprach aus¦en=How do you pronounce this word?
+B2893¦pos=adverb¦tp=T08¦ex=Wir gehen die Treppe hinunter.¦en=We're going down the stairs.
+B2212¦pt=bedankte¦g=bei + Dat. | für + Akk.¦en=I would like to thank you once more very warmly for your help.
+B2213¦tp=T10¦ex=Zur Geburtstagsparty kommen zwanzig Gäste.¦en=Twenty guests are coming to the birthday party.
+B2214¦pt=ärgerte¦en=Why are you annoyed? – I'm annoyed because the weather is bad.
+B5056¦en=The loss of my watch annoys me a lot.
+B2218¦pt=unterhielt¦g=mit + Dat. | über + Akk.¦en=Andreas and Nessrin are chatting.
+B2219¦pos=adjective¦tp=T15¦ex=„Sich freuen“ ist ein reflexives Verb.¦en="Sich freuen" is a reflexive verb.
+B2220¦ck=-¦tp=T15¦ex=„Mich“ und „dich“ sind Reflexivpronomen.¦en="Mich" and "dich" are reflexive pronouns.
+B5301¦m=to determine; to investigate¦lv=B2¦ps=ermittelt¦pt=ermittelte¦pf=hat ermittelt¦ex=Die Polizei ermittelt den Täter.¦en=The police are investigating the culprit.
+B2221¦ck=-
+B2222¦pt=ruhte aus¦en=Have a rest first! You're surely tired.
+B2223¦en=Are you bored?
+B3098¦pos=adjective¦en=The rooms here are too low for me.
+B2224¦pt=stritt¦en=The children often argue.
+B2225¦tp=T14¦ex=Er drückte sein Bedauern über den Fehler aus.¦en=He expressed his regret about the mistake.
+B2226¦en=Please calm down. Everything is fine.
+B3433¦en=Normally I have to work at the weekend. But today is an exception.
+B2228¦pos=adjective¦en=The city is huge.
+B2231¦pos=adjective¦tp=T14¦ex=Das Gespräch war mir sehr unangenehm.¦en=The conversation was very unpleasant for me.
+B2232¦pos=adjective¦m=annoying¦en=That is really annoying.
+B5302¦pos=adjective¦m=middle; medium¦nt=Used before a noun: mittlerer, mittlere, mittleres.¦ex=Das Unternehmen hat eine mittlere Größe.¦en=The company is of medium size.
+B2233¦pos=adjective¦ex=Sie reagierte sehr emotional auf die Nachricht.¦en=She reacted very emotionally to the news.
+B2234¦pos=adjective¦tp=T14¦ex=Vor der Prüfung bin ich immer gestresst.¦en=Before an exam I'm always stressed.
+B2235¦ex=Er zeigt seine Emotionen nicht gern.¦en=He doesn't like showing his emotions.
+B3727¦m=to produce; to establish¦pt=stellte her¦en=In our company we make furniture.
+B2238¦ps=bewundert¦pt=bewunderte¦pf=hat bewundert¦tp=T14¦ex=Ich bewundere ihren Mut.¦en=I admire her courage.
+B2239¦tp=T10¦ex=An Silvester gibt es ein großes Feuerwerk.¦en=On New Year's Eve there is a big firework display.
+B2240¦ck=-¦tp=T10¦ex=Mein Bruder ist ein großer Musikfan.¦en=My brother is a big music fan.
+B4881¦m=contact; handling¦ex=Der Umgang mit Kindern macht mir Freude.¦en=Dealing with children gives me pleasure.
+B2241¦tp=T12¦ex=Die Vereinten Nationen haben ihren Sitz in New York.¦en=The United Nations have their headquarters in New York.
+B2243¦ck=-¦tp=T10¦ex=Am Wochenende findet eine Segelregatta auf dem See statt.¦en=A sailing regatta takes place on the lake at the weekend.
+B2244¦tp=T10¦ex=Segelsport ist an der Küste sehr beliebt.¦en=Sailing is very popular on the coast.
+B5303¦art=die¦pl=Auflagen¦m=edition; print run; condition¦lv=C1¦ex=Das Buch erscheint in einer neuen Auflage.¦en=The book is being published in a new edition.
+B2245¦tp=T10¦ex=Der Segler fährt allein über den Atlantik.¦en=The sailor is crossing the Atlantic alone.
+B2246¦ck=-¦tp=T10¦ex=Die Seglerin hat die Regatta gewonnen.¦en=The sailor won the regatta.
+B2247¦pos=adjective¦nt=Also used as an adverb.¦en=Our company produces for the worldwide market.
+B4949¦pos=adjective¦en=We advise you on legal questions.
+B2249¦pos=adjective¦en=This magazine costs nothing. It is free.
+B2252¦pos=adjective¦en=Last week was very exciting.
+B2253¦tp=T16¦g=-
+B3133¦en=I like reading novels.
+B2257¦pf=hat gewöhnt¦en=We have got used to life here.
+B2258¦pos=adjective¦tp=T14¦ex=Meine Nachbarn sind sehr hilfsbereit.¦en=My neighbours are very helpful.
+B2261¦tp=T16¦en=There is nobody here.
+B3404¦en=I parked wrongly. Therefore I got a parking ticket.
+B2262¦en=You can't park anywhere here.
+B2263¦pos=adjective¦m=tidy; proper¦en=My brother is a very tidy person.
+B2265¦tp=T10¦ex=Wir lernen im Kurs Tango tanzen.¦en=We're learning to dance the tango in the course.
+B2661¦en=I play the piano. Do you play an instrument too?
+B2267¦en=My wife teaches Spanish.
+B2268¦en=There is always a lot of traffic here in the morning.
+B2269¦ex=Die Währung in Deutschland ist der Euro.¦en=The currency in Germany is the euro.
+B4943¦pos=adjective¦ex=Die gesetzliche Krankenversicherung ist in Deutschland Pflicht.¦en=Statutory health insurance is compulsory in Germany.
+B2270¦ps=fühlt wohl¦pt=fühlte wohl¦pf=hat wohlgefühlt¦tp=T14¦nt=Usually written in two words: sich wohl fühlen.¦ex=Ich fühle mich in meiner neuen Wohnung wohl.¦en=I feel comfortable in my new flat.
+B2271¦tp=T02¦ex=Viele Studenten wohnen im Wohnheim.¦en=Many students live in the dormitory.
+B2272¦tp=T15¦ex=Das Hauptthema der Sitzung ist der Dienstplan.¦en=The main topic of the meeting is the duty roster.
+B5304¦art=die¦pl=Wahrnehmungen¦m=perception¦lv=B2¦ex=Nach dem Schlaganfall war ihre Wahrnehmung gestört.¦en=After the stroke her perception was impaired.
+B2273¦en=The word is in the fifth line from the top.
+B2274¦ps=strukturiert¦pt=strukturierte¦pf=hat strukturiert¦tp=T15¦ex=Ich strukturiere meinen Tag mit einer Liste.¦en=I structure my day with a list.
+B2275¦en=The opposite of "klein" is "groß".
+B5305¦pos=adverb¦m=in this respect; to that extent¦lv=B2¦ex=Er hat insofern recht, als das Problem wirklich groß ist.¦en=He is right in so far as the problem is really big.
+B2276¦pos=adjective¦tp=T02¦ex=Dein Zimmer ist sehr unordentlich.¦en=Your room is very messy.
+B2277¦pos=adjective¦tp=T14¦ex=Der neue Chef wirkt auf mich unsympathisch.¦en=The new boss comes across to me as unlikeable.
+B2278¦pos=adjective¦tp=T16¦ex=Das ist unwichtig, vergiss es.¦en=That is unimportant, forget it.
+B3993¦en=The doctor was still able to save the child.
+B2279¦pos=adjective¦tp=T08¦ex=Der Zug kommt verspätet an.¦en=The train arrives late.
+B2280¦ps=tauscht aus¦pt=tauschte aus¦pf=hat ausgetauscht¦tp=T15¦ex=Wir tauschen Erfahrungen aus.¦en=We exchange experiences.
+B5306¦m=to make an effort; to try hard¦g=um + Akk.¦en=He tried hard to cook something good.
+B2282¦en=You will receive a letter from the responsible authority.
+B2283¦m=refuse collection¦en=The rubbish collection comes twice a week.
+B2286¦tp=T02¦ex=Die Straßenreinigung kommt jeden Morgen.¦en=The street cleaning comes every morning.
+B2514¦m=competence; expertise¦ex=Die Kompetenz der Ärztin überzeugt die Patienten.¦en=The doctor's competence convinces the patients.
+B2287¦m=means of transport¦en=Which means of transport do you often use?
+B2288¦en=Have you already filled in an application for housing benefit?
+B2289¦pt=räumte auf¦en=The children have to tidy up their room.
+B3805¦pos=adverb¦en=Of course we will let you know immediately.
+B2291¦en=My wife is a civil servant with the police.
+B2292¦en=Are you being served yet?
+B2293¦ps=beschützt¦pt=beschützte¦pf=hat beschützt¦g=vor + Dat.¦tp=T12¦ex=Eltern beschützen ihre Kinder vor Gefahren.¦en=Parents protect their children from dangers.
+B2294¦en=Do you have all the documents for registration with you?
+B2296¦ex=Die Fahrerin des Busses ist sehr freundlich.¦en=The bus driver is very friendly.
+B2297¦en=My boss has approved six weeks' holiday for me.
+B2925¦pos=adjective¦en=I want to learn German intensively.
+B2299¦ps=leert¦pt=leerte¦pf=hat geleert¦tp=T02¦ex=Er leert jeden Morgen den Mülleimer.¦en=He empties the bin every morning.
+B2300¦en=Can you take the rubbish out, please?
+B2301¦en=The rubbish bin is full.

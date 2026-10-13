@@ -1,0 +1,100 @@
+B6066¦col=schmerzhafte Untersuchung | schmerzhafte Schwellung | schmerzhaft sein | schmerzhaft verlaufen
+B6098¦tp=T06
+B6130¦pos=adjective¦m=linked; connected¦lv=C1¦tp=T16¦ex=Beide Themen sind eng miteinander verknüpft.¦en=Both topics are closely linked.
+B6131¦pos=adjective¦m=locked; reserved¦lv=C1¦tp=T14¦ex=Die Tür ist verschlossen.¦en=The door is locked.
+B6132¦m=symptoms; symptomatology¦lv=C1¦art=die¦pl=–¦tp=M2¦ex=Die Symptomatik begann vor drei Tagen.¦en=The symptoms began three days ago.¦col=typische Symptomatik | akute Symptomatik | die Symptomatik beschreiben | die Symptomatik verschlechtert sich
+B6133¦m=to deliver; to extradite¦lv=C1¦sp=aus¦ps=liefert aus¦pt=lieferte aus¦pf=hat ausgeliefert¦ex=Der Händler liefert die Ware morgen aus.¦en=The dealer delivers the goods tomorrow.
+B6134¦m=corridor¦en=We are waiting outside in the corridor.
+B6135¦m=foundation¦lv=C1¦art=das¦pl=Fundamente¦ex=Das Haus hat ein stabiles Fundament.¦en=The house has a stable foundation.
+B6136¦m=protest¦en=All protests were of no use.
+B6137¦m=bag; pouch¦lv=B2¦art=der¦pl=Beutel¦ex=Ich brauche einen Beutel für die Äpfel.¦en=I need a bag for the apples.
+B6138¦m=to commission; to instruct¦lv=C1¦ps=beauftragt¦pt=beauftragte¦pf=hat beauftragt¦ex=Die Firma beauftragt einen Anwalt.¦en=The company instructs a lawyer.
+B6139¦m=counter; bar¦lv=B2¦art=die¦pl=Theken¦ex=Bitte zahlen Sie an der Theke.¦en=Please pay at the counter.
+B6140¦m=list; directory; index¦lv=B2¦art=das¦pl=Verzeichnisse¦ex=Das Verzeichnis liegt am Empfang.¦en=The directory is at the reception.
+B6141¦m=membership¦lv=B2¦art=die¦pl=Mitgliedschaften¦ex=Die Mitgliedschaft im Verein kostet 20 Euro.¦en=Membership in the club costs 20 euros.
+B6142¦m=prevention¦lv=C1¦art=die¦pl=–¦tp=M4¦ex=Prävention ist besser als Therapie.¦en=Prevention is better than therapy.¦col=Prävention betreiben | primäre Prävention | Prävention von Krankheiten | gezielte Prävention
+B6143¦m=donkey¦lv=B2¦art=der¦pl=Esel¦ex=Der Esel trägt die Last.¦en=The donkey carries the load.
+B6144¦m=stipulation; condition¦lv=C1¦art=die¦pl=Maßgaben¦nt=mostly in nach Maßgabe von¦ex=Die Hilfe erfolgt nach Maßgabe der vorhandenen Mittel.¦en=Help is given according to the available funds.
+B6145¦pos=adjective¦m=inpatient¦lv=B2¦tp=M4¦ex=Der Patient wird stationär aufgenommen.¦en=The patient is admitted as an inpatient.
+B6146¦m=blood pressure¦lv=B1¦art=der¦pl=–¦tp=M3¦ex=Der Arzt misst den Blutdruck.¦en=The doctor measures the blood pressure.¦col=den Blutdruck messen | hoher Blutdruck | niedriger Blutdruck | den Blutdruck senken
+B6147¦pos=adjective¦m=brave¦en=It was very brave of you to say your opinion out loud.
+B6148¦m=trauma¦lv=C1¦art=das¦pl=Traumata¦tp=M2¦ex=Der Patient hat ein Trauma erlitten.¦en=The patient has suffered a trauma.¦col=ein psychisches Trauma | ein Trauma erleiden | ein Trauma verarbeiten | ein schweres Trauma
+B6150¦m=extension¦lv=B2¦art=die¦pl=Verlängerungen¦ex=Ich beantrage eine Verlängerung des Visums.¦en=I am applying for an extension of the visa.
+B6151¦m=winner¦ex=Wer hat gewonnen? Wie heißt der Sieger?¦en=Who won? What is the winner called?
+B6152¦m=steam¦lv=B2¦art=der¦pl=Dämpfe¦ex=Aus dem Topf steigt Dampf auf.¦en=Steam rises from the pot.
+B6154¦m=damage¦lv=C1¦art=die¦pl=Schädigungen¦tp=M2¦ex=Alkohol kann zu einer Schädigung der Leber führen.¦en=Alcohol can lead to damage to the liver.¦col=eine Schädigung der Leber | bleibende Schädigung | Schädigung vermeiden | Schädigung des Gehirns
+B6155¦m=statutes; rules¦lv=C1¦art=die¦pl=Satzungen¦ex=Die Satzung des Vereins regelt die Mitgliedschaft.¦en=The club's statutes regulate membership.
+B6156¦pos=adjective¦m=comprehensible¦lv=C1¦ex=Seine Entscheidung ist gut nachvollziehbar.¦en=His decision is easy to understand.
+B6157¦m=psychiatry¦lv=B2¦art=die¦pl=Psychiatrien¦tp=M4¦ex=Er arbeitet als Arzt in der Psychiatrie.¦en=He works as a doctor in psychiatry.¦col=in der Psychiatrie arbeiten | in die Psychiatrie einweisen | forensische Psychiatrie | Kinder- und Jugendpsychiatrie
+B6158¦m=needle¦en=Do you have a needle for me? I have to sew on a button.
+B6159¦m=cleaning; dry cleaner's¦en=Could you take the blouse to the dry cleaner, please? It must not be washed in the washing machine.
+B6160¦m=to deny; to dispute¦lv=C1¦tp=T15¦ps=bestreitet¦pt=bestritt¦pf=hat bestritten¦ex=Der Angeklagte bestreitet die Tat.¦en=The accused denies the offence.
+B6161¦m=blonde person¦lv=B2¦tp=T01¦art=der/die¦pl=Blonden¦ex=Die Blonde dort ist meine Schwester.¦en=The blonde woman over there is my sister.
+B6162¦pos=adjective¦m=visual; optical¦lv=C1¦tp=T10¦ex=Optisch gefällt mir das Auto sehr.¦en=Visually I like the car a lot.
+B6163¦m=competition¦lv=B2¦art=der¦pl=Wettkämpfe¦tp=T10¦ex=Morgen ist der Wettkampf im Schwimmen.¦en=Tomorrow is the swimming competition.
+B6164¦m=rumour¦lv=B2¦art=das¦pl=Gerüchte¦ex=Das ist nur ein Gerücht.¦en=That is only a rumour.
+B6165¦en=There was a strike at the airport.
+B6166¦pos=verb¦m=to carry out; to make (a purchase)¦lv=C1¦tp=T07¦ps=tätigt¦pt=tätigte¦pf=hat getätigt¦ex=Er tätigt einen großen Einkauf.¦en=He makes a large purchase.
+B6167¦m=to vomit¦lv=B2¦tp=M2¦ps=erbricht¦pt=erbrach¦pf=hat erbrochen¦ex=Das Kind hat mehrmals erbrochen.¦en=The child has vomited several times.¦col=Blut erbrechen | mehrmals erbrechen | Übelkeit und Erbrechen | morgens erbrechen
+B6168¦m=cooperation; participation¦lv=B2¦art=die¦pl=–¦ex=Wir danken Ihnen für Ihre Mitarbeit.¦en=We thank you for your cooperation.
+B6169¦pos=adjective¦m=inadmissible; not permitted¦lv=C1¦ex=Dieser Antrag ist unzulässig.¦en=This application is inadmissible.
+B6170¦m=submission; handing in¦lv=B2¦art=die¦pl=Abgaben¦ex=Die Abgabe der Arbeit ist am Freitag.¦en=The submission of the work is on Friday.
+B6171¦m=lighting¦lv=B2¦art=die¦pl=Beleuchtungen¦ex=Die Beleuchtung im Raum ist zu schwach.¦en=The lighting in the room is too weak.
+B6172¦pos=adjective¦m=shy¦lv=B2¦ex=Das Kind ist sehr schüchtern.¦en=The child is very shy.
+B6173¦m=interaction¦lv=C1¦art=die¦pl=Wechselwirkungen¦tp=M3¦ex=Zwischen den beiden Medikamenten gibt es eine Wechselwirkung.¦en=There is an interaction between the two medicines.¦col=Wechselwirkungen beachten | gefährliche Wechselwirkung | Wechselwirkungen mit Medikamenten | eine Wechselwirkung ausschließen
+B6174¦m=eastern¦ex=Östlich der Stadt beginnt der Wald.¦en=The forest begins east of the city.
+B6175¦m=toe¦lv=B1¦art=der¦pl=Zehen¦tp=M1¦ex=Er hat sich den Zeh gebrochen.¦en=He broke his toe.¦col=den Zeh brechen | der große Zeh | Schmerzen im Zeh | den Zeh verletzen
+B6176¦m=scope; area of application¦lv=C1¦art=der¦pl=Anwendungsbereiche¦ex=Der Anwendungsbereich des Gesetzes ist begrenzt.¦en=The scope of the law is limited.
+B6177¦pos=adjective¦m=defective¦lv=B2¦tp=T02¦ex=Die Heizung ist defekt.¦en=The heating is defective.
+B6178¦pos=adjective¦m=switched on¦lv=B2¦tp=T02¦ex=Der Fernseher ist noch eingeschaltet.¦en=The television is still switched on.
+B6179¦m=killer¦ex=Der Killer wurde gefasst.¦en=The killer was caught.
+B6180¦m=know-how¦lv=C1¦tp=T03¦pl=–¦ex=Dafür braucht man viel Know-how.¦en=You need a lot of know-how for that.
+B6182¦pos=adjective¦m=dissatisfied¦lv=B2¦tp=T14¦ex=Ich bin mit dem Ergebnis unzufrieden.¦en=I am dissatisfied with the result.
+B6183¦m=voter turnout¦lv=C1¦tp=T12¦pl=–¦ex=Die Wahlbeteiligung war niedrig.¦en=Voter turnout was low.
+B6184¦m=performance¦lv=B2¦art=die¦pl=Aufführungen¦ex=Die Aufführung beginnt um 20 Uhr.¦en=The performance starts at 8 pm.
+B6185¦pos=adverb¦m=reluctantly¦lv=B2¦ex=Ich stehe ungern früh auf.¦en=I do not like getting up early.
+B6186¦m=inflammation¦lv=B2¦art=die¦pl=Entzündungen¦tp=M2¦ex=Die Entzündung geht langsam zurück.¦en=The inflammation is slowly subsiding.¦col=eine akute Entzündung | die Entzündung behandeln | Entzündung der Lunge | Anzeichen einer Entzündung
+B6187¦m=to refrain from; to omit¦en=Smoking in the corridors is to be avoided.
+B6188¦m=bladder; bubble; blister¦lv=B2¦art=die¦pl=Blasen¦tp=M1¦ex=Die Blase muss vor der Untersuchung voll sein.¦en=The bladder has to be full before the examination.¦col=die Blase entleeren | volle Blase | Entzündung der Blase | Blase am Fuß
+B6189¦m=dementia¦lv=C1¦art=die¦pl=Demenzen¦tp=M2¦ex=Die Demenz schreitet langsam fort.¦en=The dementia is progressing slowly.¦col=an Demenz leiden | beginnende Demenz | Demenz diagnostizieren | Demenz im Alter
+B6191¦m=GPS¦lv=B2¦tp=T08¦pl=–¦ex=Das GPS zeigt den Weg.¦en=The GPS shows the way.
+B6192¦m=stop¦lv=B2¦art=der¦pl=Stopps¦tp=T08¦ex=Wir machen einen kurzen Stopp an der Tankstelle.¦en=We make a short stop at the petrol station.
+B6193¦m=sweets¦en=Which sweets do you like best?
+B6194¦m=user¦ex=Die User können Kommentare schreiben.¦en=The users can write comments.
+B6195¦m=drawer¦lv=B2¦art=die¦pl=Schubladen¦ex=Die Schlüssel liegen in der Schublade.¦en=The keys are in the drawer.
+B6196¦m=little house¦lv=B2¦art=das¦pl=Häuschen¦ex=Sie wohnen in einem kleinen Häuschen am Waldrand.¦en=They live in a little house at the edge of the forest.
+B6198¦m=continent¦lv=B2¦tp=T11¦pl=Kontinente¦ex=Afrika ist ein Kontinent.¦en=Africa is a continent.
+B6199¦m=residence; place of residence¦en=He has a permanent residence in this city.
+B6200¦pos=adjective¦m=lit; illuminated¦lv=B2¦tp=T08¦ex=Die Straße ist gut beleuchtet.¦en=The street is well lit.
+B6202¦m=landing¦en=During landing you must fasten your seat belt.
+B6203¦m=nail¦en=Can you hammer the nail into the wall for me?
+B6204¦m=spot (ad); spotlight¦ex=Der Spot im Fernsehen dauert nur 30 Sekunden.¦en=The ad on TV lasts only 30 seconds.
+B6206¦m=penis¦lv=C1¦art=der¦pl=Penisse¦tp=M1¦ex=Bei der Untersuchung wird auch der Penis kontrolliert.¦en=The penis is also checked during the examination.¦col=den Penis untersuchen | Schwellung am Penis | Schmerzen am Penis | Entzündung am Penis
+B6207¦m=to hurt; to ache¦lv=B2¦tp=M2¦ps=schmerzt¦pt=schmerzte¦pf=hat geschmerzt¦ex=Mein Rücken schmerzt seit Tagen.¦en=My back has been aching for days.¦col=der Kopf schmerzt | stark schmerzen | die Wunde schmerzt | im Bauch schmerzen
+B6208¦m=heartbeat¦lv=B2¦art=der¦pl=Herzschläge¦tp=M1¦ex=Der Herzschlag des Patienten ist unregelmäßig.¦en=The patient's heartbeat is irregular.¦col=ein regelmäßiger Herzschlag | der Herzschlag setzt aus | schneller Herzschlag | den Herzschlag messen
+B6209¦m=urine¦lv=B2¦art=der¦pl=–¦tp=M3¦ex=Der Urin wird im Labor untersucht.¦en=The urine is examined in the laboratory.¦col=Urin abgeben | Blut im Urin | den Urin untersuchen | dunkler Urin
+B6210¦m=tray¦lv=B2¦art=das¦pl=Tabletts¦ex=Der Kellner trägt ein Tablett.¦en=The waiter carries a tray.
+B6211¦m=Turkish man¦tp=T08¦pl=Türken¦ex=Der Türke im Restaurant spricht gut Deutsch.¦en=The Turkish man in the restaurant speaks good German.
+B6212¦m=to understand; to follow¦lv=C1¦sp=nach¦ps=vollzieht nach¦pt=vollzog nach¦pf=hat nachvollzogen¦ex=Ich kann deine Entscheidung gut nachvollziehen.¦en=I can easily understand your decision.
+B6213¦m=hearing¦lv=B2¦art=das¦pl=–¦tp=M1¦ex=Er hat ein sehr gutes Gehör.¦en=He has very good hearing.¦col=ein gutes Gehör | das Gehör verlieren | das Gehör schützen | das Gehör testen
+B6214¦pos=adjective¦m=school-related¦lv=C1¦ex=Seine schulischen Leistungen sind gut.¦en=His school performance is good.
+B6215¦m=management¦lv=C1¦art=die¦pl=Geschäftsführungen¦ex=Die Geschäftsführung entscheidet morgen.¦en=The management decides tomorrow.
+B6216¦pos=verb¦m=to complete (a course)¦lv=C1¦tp=T04¦ps=absolviert¦pt=absolvierte¦pf=hat absolviert¦ex=Sie absolviert ein Praktikum in einer Klinik.¦en=She is completing an internship at a clinic.
+B6217¦m=Federal President (m)¦pl=Bundespräsidenten¦ex=Der Bundespräsident hält eine Rede.¦en=The Federal President gives a speech.
+B6218¦m=carriageway; road¦en=Please drive carefully. There are cows on the road.
+B6219¦m=compliment¦lv=B1¦tp=T01¦pl=Komplimente¦ex=Danke für das Kompliment!¦en=Thank you for the compliment!
+B6220¦m=pill¦en=The doctor prescribed me new pills.
+B6221¦pos=adjective¦m=shortened¦lv=C1¦tp=T13¦ex=Die Arbeitszeit wurde verkürzt.¦en=The working hours were shortened.
+B6222¦m=peace¦pl=–¦en=At last there is peace here!
+B6223¦m=corner (S. German, Austrian)¦rg=regional¦tp=T02¦pl=Ecke¦en=We put the shelf here in the corner.
+B6224¦pos=adjective¦m=unsuccessful¦lv=B2¦tp=T14¦ex=Die Suche blieb erfolglos.¦en=The search remained unsuccessful.
+B6225¦m=on Fridays¦ex=Freitags gehe ich schwimmen.¦en=On Fridays I go swimming.
+B6226¦m=router¦lv=B2¦tp=T10¦art=der¦pl=Router¦ex=Der Router steht im Wohnzimmer.¦en=The router is in the living room.
+B6227¦m=bestseller¦lv=B2¦tp=T10¦pl=Bestseller¦ex=Das Buch ist ein Bestseller.¦en=The book is a bestseller.
+B6228¦m=bookshop¦en=They are sure to have the book in the bookshop in town.
+B6229¦m=burglar¦en=The burglars did not steal anything.
+B6230¦m=immigrant¦lv=B2¦tp=T12¦pl=Einwanderer¦ex=Viele Einwanderer kommen wegen der Arbeit.¦en=Many immigrants come because of work.
+B6231¦m=to sting; to stab¦en=Stefan always gets stung by mosquitoes when camping.
+B6232¦m=to dry¦en=I dried my hair.
+B6233¦m=jaw; pine tree (die Kiefer)¦lv=C1¦art=der¦pl=Kiefer¦tp=M1¦nt=die Kiefer = pine tree (pl. Kiefern)¦ex=Der Patient hat Schmerzen im Kiefer.¦en=The patient has pain in the jaw.¦col=Schmerzen im Kiefer | der Kiefer ist gebrochen | den Kiefer öffnen | Kiefer und Zähne
+B6234¦m=enrichment¦lv=C1¦tp=T14¦pl=Bereicherungen¦ex=Die neue Kollegin ist eine Bereicherung für das Team.¦en=The new colleague is an asset to the team.

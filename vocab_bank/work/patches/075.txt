@@ -1,0 +1,100 @@
+P0160¦m=back and forth¦lv=B1¦ex=Er läuft nervös im Zimmer hin und her.¦en=He walks back and forth nervously in the room.¦v=auf und ab
+P0161¦ph=glauben, dass ...¦m=to believe that ...¦lv=B1¦ex=Viele Leute glauben, dass Zucker süchtig macht.¦en=Many people believe that sugar is addictive.¦gn=dass-Satz: Verb am Ende¦v=meinen, dass | denken, dass
+P0162¦m=of course not¦lv=A2¦ex=Stört dich das? – Natürlich nicht!¦en=Does that bother you? – Of course not!¦v=auf keinen Fall | keineswegs
+P0163¦ph=machen wir ...?¦m=shall we do ...?¦lv=A2¦ex=Machen wir heute eine Pause?¦en=Shall we take a break today?¦gn=Vorschlag: Verb an Position 1¦v=wollen wir ... machen? | wir könnten ... machen
+P0164¦fn=Ort¦m=to stop; to remain standing¦lv=A2¦en=Please remain standing.¦gn=Perfekt: ist stehen geblieben¦v=anhalten | nicht weitergehen
+P0165¦ph=zum anderen ...¦m=on the other hand ...¦lv=B2¦ex=Zum einen ist das Auto teuer, zum anderen verbraucht es viel Benzin.¦en=For one thing the car is expensive, for another it uses a lot of petrol.¦gn=steht nach „zum einen“¦v=zum Zweiten | außerdem
+P0166¦ph=so etwas wie ...¦m=something like ...¦lv=B1¦ex=Er ist so etwas wie ein Vater für mich.¦en=He is something like a father to me.¦v=eine Art ... | sozusagen
+P0167¦ph=ich nehme ...¦m=I'll have ...¦lv=A1¦ex=Ich nehme einen Kaffee, bitte.¦en=I'll have a coffee, please.¦gn=beim Bestellen: nehmen + Akk.¦v=ich hätte gern ... | bringen Sie mir ...
+P0168¦ph=wir brauchen ...¦m=we need ...¦lv=A2¦ex=Wir brauchen mehr Zeit.¦en=We need more time.¦gn=brauchen + Akk.¦v=wir benötigen ... | uns fehlt ...
+P0169¦ph=keine Ahnung, wie ...¦m=no idea how ...¦lv=B1¦ex=Ich habe keine Ahnung, wie das funktioniert.¦en=I have no idea how that works.¦gn=Nebensatz: Verb am Ende¦v=ich weiß nicht, wie | keinen Schimmer, wie
+P0170¦ph=der Grund, warum ...¦m=the reason why ...¦lv=B1¦ex=Das ist der Grund, warum ich nicht komme.¦en=That is the reason why I'm not coming.¦gn=warum-Satz: Verb am Ende¦v=deshalb | der Grund dafür, dass
+P0171¦ph=im Unterschied zu ...¦m=in contrast to ...¦lv=B2¦ex=Im Unterschied zu seiner Schwester spricht er kein Deutsch.¦en=Unlike his sister, he doesn't speak German.¦gn=zu + Dat.¦v=im Gegensatz zu | anders als
+P0172¦ph=Einfluss auf ...¦m=influence on ...¦lv=B2¦ex=Das Wetter hat Einfluss auf meine Stimmung.¦en=The weather has an influence on my mood.¦gn=Einfluss auf + Akk.¦v=sich auf ... auswirken | beeinflussen
+P0173¦fn=Sonstige¦m=in German¦lv=A1¦ex=Können Sie das bitte auf Deutsch sagen?¦en=Can you say that in German, please?¦v=in deutscher Sprache | deutsch
+P0174¦ph=dafür sorgen, dass ...¦m=to see to it that ...¦lv=B2¦ex=Der Pfleger sorgt dafür, dass die Station sauber ist.¦en=The nurse makes sure that the ward is clean.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0008
+P0175¦ph=finden Sie, dass ...?¦m=do you think that ...?¦lv=B1¦ex=Finden Sie, dass der Preis zu hoch ist?¦en=Do you think the price is too high?¦gn=dass-Satz: Verb am Ende¦v=glauben Sie, dass | meinen Sie, dass
+P0176¦ph=ich habe das Gefühl, dass ...¦m=I have the feeling that ...¦lv=B1¦ex=Ich habe das Gefühl, dass er etwas verheimlicht.¦en=I have the feeling that he is hiding something.¦gn=dass-Satz: Verb am Ende¦v=mir scheint, dass | ich habe den Eindruck, dass
+P0177¦m=not at all¦lv=B2¦ex=Das gefällt mir ganz und gar nicht.¦en=I don't like that at all.¦v=überhaupt nicht | keineswegs
+P0178¦ph=gehen Sie ...¦m=go ...¦lv=A1¦ex=Gehen Sie bitte geradeaus und dann links.¦en=Please go straight ahead and then left.¦gn=Imperativ Höflichkeitsform¦v=Sie müssen ... gehen | bitte gehen Sie ...
+P0179¦ph=schön, dass ...¦m=nice that ...¦lv=A2¦ex=Schön, dass du da bist!¦en=Nice that you're here!¦gn=Kurzform von „es ist schön, dass ...“¦v=toll, dass | ich freue mich, dass
+P0180¦ph=ist zu sagen, dass ...¦m=it must be said that ...¦lv=B2¦ex=Zu der Frage ist zu sagen, dass es keine einfache Antwort gibt.¦en=Regarding the question, it must be said that there is no simple answer.¦gn=sein + zu + Infinitiv = Passiversatz¦v=man muss sagen, dass | festzustellen ist, dass
+P0181¦m=over time¦lv=B2¦ex=Im Laufe der Zeit hat sich vieles verändert.¦en=Over time much has changed.¦gn=im Laufe + Gen.¦v=mit der Zeit | allmählich
+P0182¦ph=bis zu ...¦lv=B1¦ex=Der Zug fährt mit bis zu 300 Kilometern pro Stunde.¦en=The train travels at up to 300 kilometres per hour.¦gn=bis zu + Dat.¦v=maximal | höchstens
+P0183¦m=among other things¦lv=B1¦ex=Ich lerne unter anderem Deutsch und Spanisch.¦en=I'm learning German and Spanish, among other things.¦gn=Abkürzung: u. a.¦v=u. a. | neben anderem
+P0184¦ph=ist zu fragen, ob ...¦m=one must ask whether ...¦lv=B2¦ex=Es ist zu fragen, ob die Maßnahme wirklich nötig ist.¦en=One must ask whether the measure is really necessary.¦gn=sein + zu + Infinitiv = Passiversatz¦v=man muss fragen, ob | fraglich ist, ob
+P0185¦ph=als ob ...¦m=as if ...¦lv=B2¦en=He acts as if we had never talked about it.¦gn=meist Konjunktiv II; Verb am Ende¦v=als wenn | als (+ Konjunktiv II)
+P0186¦ph=dazu in der Lage sein¦m=to be capable of it¦lv=B2¦ex=Ich bin leider nicht dazu in der Lage.¦en=Unfortunately I'm not able to do that.¦gn=dazu bezieht sich auf eine Handlung¦v=dazu fähig sein | imstande sein
+P0187¦m=I have no idea¦lv=A2¦ex=Ich habe keine Ahnung, wo der Bahnhof ist.¦en=I have no idea where the station is.¦v=keine Ahnung | ich weiß es nicht
+P0188¦ph=ergibt sich aus ...¦m=results from ...¦lv=C1¦ex=Das Ergebnis ergibt sich aus mehreren Faktoren.¦en=The result arises from several factors.¦gn=sich ergeben aus + Dat.¦v=folgt aus | resultiert aus
+P0189¦m=in contrast to that¦lv=B2¦ex=Im Gegensatz dazu war der Sommer letztes Jahr kühl.¦en=In contrast to that, last summer was cool.¦gn=dazu bezieht sich auf den Satz davor¦v=dagegen | hingegen
+P0190¦ph=ergeben sich¦m=arise; result¦lv=C1¦ex=Aus dem Gespräch ergeben sich neue Fragen.¦en=New questions arise from the conversation.¦gn=Plural von „ergibt sich“¦v=entstehen | folgen
+P0191¦ph=in der Hoffnung, dass ...¦m=in the hope that ...¦lv=B2¦ex=Ich schreibe Ihnen in der Hoffnung, dass Sie mir helfen können.¦en=I'm writing to you in the hope that you can help me.¦gn=dass-Satz: Verb am Ende¦v=in der Erwartung, dass | mit der Hoffnung, dass
+P0192¦m=best of all¦lv=A2¦ex=Ich esse am liebsten Nudeln.¦en=I like eating pasta best of all.¦gn=Superlativ von „gern“¦v=am meisten | besonders gern
+P0193¦m=not really¦lv=B1¦ex=Hast du Hunger? – Nicht wirklich.¦en=Are you hungry? – Not really.¦v=eigentlich nicht | nicht so
+P0194¦m=don't forget¦lv=A2¦ex=Bitte nicht vergessen, die Tabletten zu nehmen!¦en=Please don't forget to take the tablets!¦gn=Infinitiv als Aufforderung¦v=denk daran | vergiss nicht
+P0195¦ph=sagen Sie ...¦m=tell me ...¦lv=A1¦ex=Sagen Sie bitte, wo die Toilette ist.¦en=Please tell me where the toilet is.¦gn=Imperativ Höflichkeitsform¦v=könnten Sie mir sagen, ... | wissen Sie, ...?
+P0196¦m=as good as; so well¦lv=A2¦ex=Niemand kocht so gut wie meine Mutter.¦en=Nobody cooks as well as my mother.¦gn=so ... wie = Gleichheit¦v=genauso gut | ebenso gut
+P0197¦lv=A2¦v=nochmals | wieder
+P0198¦m=first of all; for now¦lv=B1¦ex=Ich mache erst einmal eine Pause.¦en=First of all I'm going to take a break.¦v=zuerst | zunächst
+P0199¦ph=in der Mitte ...¦m=in the middle (of) ...¦lv=A2¦ex=In der Mitte des Raumes steht ein Tisch.¦en=In the middle of the room there is a table.¦gn=in der Mitte + Gen.¦v=mittendrin | zentral
+P0200¦ph=ist es möglich, ... zu ...?¦m=is it possible to ...?¦lv=B1¦ex=Ist es möglich, den Termin zu verschieben?¦en=Is it possible to postpone the appointment?¦gn=zu + Infinitiv¦v=wäre es möglich, ... zu ...? | kann ich ...?
+P0201¦ph=ich habe das Gefühl, dass ...¦m=I have the feeling that ...¦lv=B1¦ex=Ich habe das Gefühl, dass mir etwas fehlt.¦en=I have the feeling that something is missing.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0176
+P0202¦ph=verstehen, dass ...¦m=to understand that ...¦lv=B2¦ex=Ich kann gut verstehen, dass du müde bist.¦en=I can well understand that you are tired.¦gn=dass-Satz: Verb am Ende¦v=nachvollziehen, dass | Verständnis dafür haben, dass
+P0203¦ph=beachten, dass ...¦m=to note that ...¦lv=B2¦ex=Man muss beachten, dass die Dosis nicht überschritten wird.¦en=You have to note that the dose must not be exceeded.¦gn=dass-Satz: Verb am Ende¦v=darauf achten, dass | berücksichtigen, dass
+P0204¦ph=ich bin froh, dass ...¦m=I'm glad that ...¦lv=A2¦ex=Ich bin froh, dass du gekommen bist.¦en=I'm glad you came.¦gn=dass-Satz: Verb am Ende¦v=ich freue mich, dass | zum Glück
+P0205¦m=in the last few days¦lv=B1¦ex=In den letzten Tagen hat es viel geregnet.¦en=It has rained a lot in the last few days.¦v=seit einigen Tagen | in jüngster Zeit
+P0206¦ph=glaubst du, dass ...?¦m=do you think that ...?¦lv=B1¦ex=Glaubst du, dass es morgen regnet?¦en=Do you think it will rain tomorrow?¦gn=dass-Satz: Verb am Ende¦v=meinst du, dass | denkst du, dass
+P0207¦ph=ich bin mir sicher, dass ...¦m=I'm sure that ...¦lv=B1¦ex=Ich bin mir sicher, dass wir die Prüfung bestehen.¦en=I'm sure we'll pass the exam.¦gn=sich (Dat.) sicher sein¦v=ich bin überzeugt, dass | ich zweifle nicht daran, dass
+P0208¦ph=auf der Basis von ...¦m=on the basis of ...¦lv=C1¦ex=Die Diagnose erfolgt auf der Basis von Blutwerten.¦en=The diagnosis is made on the basis of blood values.¦gn=von + Dat. oder + Gen.¦ck=dup:P0146
+P0209¦ph=egal, ob ...¦m=no matter whether ...¦lv=B1¦ex=Egal, ob es regnet oder schneit, wir gehen spazieren.¦en=No matter whether it rains or snows, we go for a walk.¦gn=ob-Satz: Verb am Ende¦v=unabhängig davon, ob | gleichgültig, ob
+P0210¦m=subsequently; as a result¦lv=C1¦ex=In der Folge stiegen die Preise stark an.¦en=As a result, prices rose sharply.¦v=infolgedessen | anschließend
+P0211¦ph=mit dem Ziel, ... zu ...¦m=with the aim of ...¦lv=B2¦ex=Er studiert Medizin mit dem Ziel, Arzt zu werden.¦en=He studies medicine with the aim of becoming a doctor.¦gn=Ziel + zu + Infinitiv¦v=um ... zu ... | in der Absicht, ... zu ...
+P0212¦lv=A2¦en=I definitely want to see the new James Bond film. – Really? I find James Bond films boring. I'm definitely not watching it!¦v=unbedingt | in jedem Fall
+P0213¦ph=nicht mehr als ...¦m=no more than ...¦lv=B1¦ex=Das kostet nicht mehr als zehn Euro.¦en=That costs no more than ten euros.¦v=höchstens | maximal
+P0214¦m=below; in the following¦lv=B2¦ex=Im Folgenden erkläre ich den Ablauf.¦en=In the following I will explain the procedure.¦gn=eher Schriftsprache¦v=nachstehend | unten
+P0215¦m=see you¦lv=A1¦ex=Wir sehen uns morgen in der Klinik.¦en=We'll see each other tomorrow at the clinic.¦gn=Verabschiedung¦v=bis bald | bis später
+P0216¦ph=das Gefühl, dass ...¦m=the feeling that ...¦lv=B2¦ex=Sie hatte das Gefühl, dass jemand sie beobachtete.¦en=She had the feeling that someone was watching her.¦gn=dass-Satz: Verb am Ende¦v=der Eindruck, dass | die Ahnung, dass
+P0217¦m=and certainly not¦lv=C1¦ex=Er mag keinen Fisch und schon gar nicht rohen.¦en=He doesn't like fish, and certainly not raw.¦gn=verstärkt eine Verneinung¦v=erst recht nicht | ganz zu schweigen von
+P0218¦ph=es ist besser, wenn ...¦m=it is better if ...¦lv=B1¦ex=Es ist besser, wenn du heute zu Hause bleibst.¦en=It is better if you stay at home today.¦gn=wenn-Satz: Verb am Ende¦v=es wäre besser, wenn ... | am besten ...
+P0219¦fn=Sonstige¦m=to let tea steep¦lv=B1¦en=You should let this tea steep for ten minutes.¦gn=lassen + Infinitiv¦v=Tee durchziehen lassen
+P0220¦ph=zeigen, dass ...¦m=to show that ...¦lv=B1¦ex=Die Studie will zeigen, dass Bewegung gesund ist.¦en=The study aims to show that exercise is healthy.¦gn=dass-Satz: Verb am Ende¦v=beweisen, dass | belegen, dass
+P0221¦ph=geben Sie mir ...¦m=give me ...¦lv=A1¦ex=Geben Sie mir bitte ein Glas Wasser.¦en=Please give me a glass of water.¦gn=Imperativ Höflichkeitsform¦v=ich hätte gern ... | könnte ich ... haben?
+P0222¦ph=so, als ob ...¦m=as if ...¦lv=B2¦ex=Sie lacht so, als ob alles in Ordnung wäre.¦en=She laughs as if everything were fine.¦gn=Konjunktiv II; Verb am Ende¦ck=dup:P0185
+P0223¦m=not least¦lv=C1¦ex=Das hängt nicht zuletzt vom Wetter ab.¦en=That depends not least on the weather.¦v=insbesondere | vor allem
+P0224¦ph=kommst du ...?¦m=are you coming ...?¦lv=A1¦ex=Kommst du morgen zur Party?¦en=Are you coming to the party tomorrow?¦gn=Frage ohne Fragewort: Verb an Position 1¦v=kommst du mit ...? | wirst du ... kommen?
+P0225¦ph=froh sein, dass ...¦m=to be glad that ...¦lv=B1¦ex=Wir sind froh, dass alles gut gegangen ist.¦en=We are glad that everything went well.¦gn=dass-Satz: Verb am Ende¦v=sich freuen, dass | erleichtert sein, dass
+P0226¦fn=Zeit¦m=on Saturday¦lv=A1¦ex=Wir treffen uns am Samstag im Café.¦en=We're meeting on Saturday at the café.¦gn=am + Dat.: Wochentag¦v=samstags
+P0227¦m=in the next few days¦lv=B1¦ex=Ich melde mich in den nächsten Tagen bei Ihnen.¦en=I'll get in touch with you in the next few days.¦v=demnächst | bald
+P0228¦m=home (direction)¦lv=A1¦ex=Nach der Arbeit gehe ich sofort nach Hause.¦en=After work I go straight home.¦gn=nach Hause = Richtung; zu Hause = Ort¦v=heim
+P0229¦m=for sure; certainly¦lv=B2¦ex=Das stimmt mit Sicherheit.¦en=That is certainly true.¦v=sicher | bestimmt
+P0230¦ph=Grund für ...¦m=reason for ...¦lv=B1¦ex=Gibt es einen Grund für diese Entscheidung?¦en=Is there a reason for this decision?¦gn=Grund für + Akk.¦ck=dup:P0061
+P0231¦m=quite the opposite¦lv=B2¦ex=Ich bin nicht müde, ganz im Gegenteil!¦en=I'm not tired, quite the opposite!¦v=genau umgekehrt | im Gegenteil
+P0232¦ph=zur Folge haben, dass ...¦m=to result in ...¦lv=C1¦ex=Das kann zur Folge haben, dass du den Job verlierst.¦en=That can result in you losing your job.¦gn=dass-Satz: Verb am Ende¦v=dazu führen, dass | bewirken, dass
+P0233¦lv=A2¦m=so much¦en=I ate so much. Now I feel sick.¦gn=so viel + Nomen/Verb¦v=so sehr | derart viel
+P0234¦ph=der Fall sein, wenn ...¦m=to be the case if ...¦lv=B2¦ex=Das ist der Fall, wenn die Werte zu hoch sind.¦en=That is the case if the values are too high.¦gn=wenn-Satz: Verb am Ende¦v=zutreffen, wenn | gelten, wenn
+P0235¦ph=erkennen, dass ...¦m=to realise that ...¦lv=B2¦ex=Man muss erkennen, dass Rauchen schadet.¦en=You have to realise that smoking is harmful.¦gn=dass-Satz: Verb am Ende¦v=einsehen, dass | bemerken, dass
+P0236¦m=I understand¦lv=A1¦ex=Ach so, ich verstehe.¦en=Oh, I see, I understand.¦v=ich sehe | alles klar
+P0237¦ph=dafür zu sorgen, dass ...¦m=to make sure that ...¦lv=B2¦ex=Es ist wichtig, dafür zu sorgen, dass alle informiert sind.¦en=It is important to make sure that everyone is informed.¦gn=zu + Infinitiv; dass-Satz¦ck=dup:P0008
+P0238¦ph=was passiert, wenn ...?¦m=what happens if ...?¦lv=A2¦ex=Was passiert, wenn ich die Tablette vergesse?¦en=What happens if I forget the tablet?¦gn=wenn-Satz: Verb am Ende¦v=was geschieht, wenn ... | was ist, wenn ...
+P0239¦fn=Sonstige¦m=to cycle¦lv=A1¦en=The child can already ride a bike.¦gn=Perfekt: ist Rad gefahren¦v=radfahren | mit dem Fahrrad fahren
+P0240¦m=now and then¦lv=B1¦ex=Ich gehe ab und zu ins Kino.¦en=I go to the cinema now and then.¦v=manchmal | gelegentlich
+P0241¦ph=es geht um ...¦m=it is about ...¦lv=A2¦ex=Worum geht es? Es geht um deine Gesundheit.¦en=What is it about? It's about your health.¦gn=gehen um + Akk.¦v=es handelt sich um | es dreht sich um
+P0242¦ph=ich glaube nicht, dass ...¦m=I don't think that ...¦lv=B1¦ex=Ich glaube nicht, dass du recht hast.¦en=I don't think you're right.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0046
+P0243¦m=yes, I know¦lv=A2¦ex=Du musst mehr schlafen. – Ja, ich weiß.¦en=You need to sleep more. – Yes, I know.¦v=ich weiß schon | ich weiß, ich weiß
+P0244¦ph=darauf zu achten, dass ...¦m=to make sure that ...¦lv=B2¦ex=Es ist wichtig, darauf zu achten, dass man genug trinkt.¦en=It is important to make sure that you drink enough.¦gn=achten auf + Akk.; dass-Satz¦v=aufpassen, dass | darauf achten, dass
+P0245¦ph=lassen Sie mich ...¦m=let me ...¦lv=B1¦ex=Lassen Sie mich bitte ausreden.¦en=Please let me finish speaking.¦gn=lassen + Akk. + Infinitiv¦ck=dup:P0122
+P0246¦ph=so schnell wie ...¦m=as fast as ...¦lv=A2¦ex=Ich laufe so schnell wie mein Bruder.¦en=I run as fast as my brother.¦gn=so ... wie = Gleichheit¦v=genauso schnell wie | ebenso schnell wie
+P0247¦m=I don't know that¦lv=A1¦ex=Wann kommt der Zug? Das weiß ich nicht.¦en=When does the train come? I don't know.¦v=keine Ahnung | das kann ich nicht sagen
+P0248¦ph=Grundlage für ...¦m=basis for ...¦lv=C1¦ex=Das ist die Grundlage für unsere Zusammenarbeit.¦en=That is the basis for our cooperation.¦gn=Grundlage für + Akk.¦v=Basis für | Voraussetzung für
+P0249¦ph=dafür, dass ...¦m=considering that ...¦lv=B2¦ex=Er spielt ziemlich gut, dafür, dass er erst ein Jahr übt.¦en=He plays quite well, considering he has only been practising for a year.¦gn=dass-Satz: Verb am Ende¦v=wenn man bedenkt, dass | angesichts dessen, dass
+P0250¦ph=zur Folge haben¦m=to result in ...¦lv=C1¦ex=Der Unfall hatte schwere Verletzungen zur Folge.¦en=The accident resulted in serious injuries.¦gn=zur Folge haben + Akk.¦ck=dup:P0232
+P0251¦ph=in Abhängigkeit von ...¦m=depending on ...¦lv=C1¦ex=Der Preis ändert sich in Abhängigkeit von der Nachfrage.¦en=The price changes depending on demand.¦gn=von + Dat.¦v=abhängig von | je nach
+P0252¦ph=glauben Sie, dass ...?¦m=do you think that ...?¦lv=B1¦ex=Glauben Sie, dass die Behandlung hilft?¦en=Do you think the treatment will help?¦gn=dass-Satz: Verb am Ende¦v=meinen Sie, dass | denken Sie, dass
+P0253¦ph=ich hoffe, es geht dir gut¦m=I hope you are well¦lv=B1¦ex=Hallo Anna, ich hoffe, es geht dir gut.¦en=Hello Anna, I hope you are well.¦gn=Einstieg in E-Mails und Briefen¦v=ich hoffe, du bist wohlauf | wie geht es dir?
+P0254¦m=lately¦lv=B1¦ex=In der letzten Zeit habe ich wenig geschlafen.¦en=Lately I've slept little.¦v=neuerdings | seit Kurzem¦ck=dup:P0158
+P0255¦ph=... zeigt sich, dass ...¦m=it turns out that ...¦lv=C1¦ex=Im Test zeigt sich, dass die Methode funktioniert.¦en=The test shows that the method works.¦gn=sich zeigen + dass-Satz¦v=es stellt sich heraus, dass | es wird deutlich, dass
+P0256¦ph=es handelt sich um ...¦m=it is a matter of ...¦lv=B2¦ex=Es handelt sich um einen Notfall.¦en=It is an emergency.¦gn=sich handeln um + Akk.¦ck=dup:P0014
+P0257¦ph=den Eindruck haben, dass ...¦m=to have the impression that ...¦lv=B2¦ex=Ich habe den Eindruck, dass er müde ist.¦en=I have the impression that he is tired.¦gn=dass-Satz: Verb am Ende¦v=es scheint, dass | mir scheint, dass
+P0258¦m=not particularly¦lv=B1¦ex=Wie war der Film? – Nicht besonders.¦en=How was the film? – Not particularly.¦v=nicht so gut | mittelmäßig
+P0259¦ph=nehmen wir an, dass ...¦m=let's assume that ...¦lv=B2¦ex=Nehmen wir an, dass der Test positiv ist.¦en=Let's assume that the test is positive.¦gn=dass-Satz: Verb am Ende¦v=angenommen, dass | gesetzt den Fall, dass

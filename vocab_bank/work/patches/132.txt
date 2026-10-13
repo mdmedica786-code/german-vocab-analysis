@@ -1,0 +1,100 @@
+B2988¦ck=-¦tp=T15¦ex=Der Satzakzent liegt meistens auf dem wichtigsten Wort.¦en=The sentence stress is usually on the most important word.
+B2989¦tp=T15¦m=accent; stress¦ex=Sie spricht Deutsch mit einem leichten Akzent.¦en=She speaks German with a slight accent.
+B2990¦ex=Im Zoo sehen wir einen Bären.¦en=At the zoo we see a bear.
+B3567¦ck=-
+B2991¦tp=T11¦ex=Das Kind schläft mit seinem Bärchen.¦en=The child sleeps with its little teddy bear.
+B2992¦ex=Auf dem Feld sitzt ein Hase.¦en=A hare is sitting in the field.
+B2993¦ck=-¦tp=T01¦ex=Komm her, mein Hasilein!¦en=Come here, my little bunny!
+B5381¦pos=preposition¦g=+ Gen.¦m=as a result of¦lv=C1¦ex=Infolge des Sturms fiel der Strom aus.¦en=As a result of the storm the power failed.
+B2994¦ex=Das Kätzchen spielt mit einem Ball.¦en=The kitten plays with a ball.
+B2995¦en=My daughter wants a cat.
+B2996¦tp=T01¦ex=„Schatz“ ist ein beliebter Kosename.¦en="Schatz" is a popular pet name.
+B5382¦m=to lower; to reduce¦lv=B2¦ps=senkt¦pt=senkte¦pf=hat gesenkt¦ex=Die Firma senkt die Preise.¦en=The company is lowering its prices.
+B2997¦ex=Das Mäuschen versteckt sich im Loch.¦en=The little mouse hides in the hole.
+B2998¦tp=T01¦ex=Das Mausi ist ein Kosename für ein Kind.¦en="Mausi" is a pet name for a child.
+B2999¦ck=-¦tp=T11¦ex=Unser Hund hat einen lustigen Tiernamen.¦en=Our dog has a funny animal name.
+B5383¦art=die¦pl=Verbesserungen¦m=improvement¦lv=B2¦ex=Wir arbeiten an der Verbesserung der Abläufe.¦en=We are working on improving the processes.
+B3000¦en=Does your family have a pet? – Yes, we have a dog.
+B3001¦ex=Die Ratte läuft durch den Keller.¦en=The rat runs through the cellar.
+B3002¦m=animal feed; fodder¦tp=T11¦ex=Die Katze bekommt zweimal täglich Futter.¦en=The cat gets food twice a day.
+B4257¦en=Social networks are important.
+B3003¦tp=T01¦ex=Meine Lebenssituation hat sich verändert.¦en=My life situation has changed.
+B3004¦pos=adjective¦tp=T07¦ex=Sie trägt immer modische Kleidung.¦en=She always wears fashionable clothes.
+B3005¦en=I don't eat pork.
+B3931¦en=The storm destroyed many houses.
+B3006¦tp=T11¦ex=Der Tierarzt impft den Hund.¦en=The vet vaccinates the dog.
+B3007¦tp=T11¦ex=Die Tierärztin untersucht die Katze.¦en=The vet examines the cat.
+B3008¦tp=T15¦ex=Meine Vermutung hat sich bestätigt.¦en=My assumption has been confirmed.
+B5384¦art=die¦pl=–¦m=origin; formation¦lv=B2¦ex=Die Entstehung der Krankheit ist noch unklar.¦en=The origin of the disease is still unclear.
+B3011¦tp=T03¦ex=Die Bäuerin melkt die Kühe.¦en=The farmer milks the cows.
+B3012¦ex=Der Besitzer des Hundes ist nicht da.¦en=The owner of the dog is not here.
+B3013¦tp=T07¦ex=Die Besitzerin des Cafés kennt alle Gäste.¦en=The owner of the café knows all the guests.
+B3301¦en=At this lake you can rent boats.
+B3014¦pos=adjective¦tp=T14¦ex=Die Mutter ist besorgt um ihr Kind.¦en=The mother is worried about her child.
+B3016¦pt=gab her¦tp=T16¦ex=Gibst du mir bitte deinen Stift her?¦en=Will you hand me your pen, please?
+B3776¦tp=T16¦ex=Es gibt eine einfachere Variante.¦en=There is a simpler variant.
+B3019¦ex=Auf der Wiese stehen viele Schafe.¦en=Many sheep are standing in the meadow.
+B3020¦ck=-¦tp=T10¦ex=Die Kinder lieben diese Tiergeschichte.¦en=The children love this animal story.
+B3021¦tp=T02¦en=I feel comfortable here. This is my home.
+B4528¦en=Please check whether your name is spelled correctly.
+B3023¦pt=lief zurück¦tp=T08¦ex=Ich laufe schnell zum Auto zurück.¦en=I'll run back to the car quickly.
+B3024¦tp=T16¦ex=Ich habe eine Checkliste für die Reise gemacht.¦en=I made a checklist for the trip.
+B3025¦en=Her style is very elegant.
+B5385¦pl=–¦m=trade; commerce¦en=Trading in computers is good business.
+B3026¦tp=T02¦ex=Wir wohnen in einem Altbau mit hohen Decken.¦en=We live in an old building with high ceilings.
+B3027¦pos=adjective¦tp=T13¦ex=Er reagierte blitzschnell.¦en=He reacted lightning-fast.
+B3029¦en=It is not allowed to feed the animals in the zoo.
+B3862¦m=planning; plan¦en=Our planning for the summer party has been in place for a long time.
+B3030¦en=This is José. He lives next door.
+B3031¦en=The building has twenty floors.
+B3032¦ck=-¦tp=T15¦ex=Am Textanfang steht eine kurze Einleitung.¦en=At the beginning of the text there is a short introduction.
+B5386¦art=die¦pl=Abhängigkeiten¦m=dependence; addiction¦lv=B2¦ex=Die Abhängigkeit von Nikotin ist schwer zu überwinden.¦en=Dependence on nicotine is hard to overcome.
+B3033¦pt=lief weg¦tp=T08¦ex=Der Hund ist weggelaufen.¦en=The dog has run away.
+B3034¦tp=T02¦ex=Die Wohnungstür ist abgeschlossen.¦en=The flat door is locked.
+B3036¦tp=T15¦ex=Haben Sie einen Verbesserungsvorschlag?¦en=Do you have a suggestion for improvement?
+B5387¦m=to shape; to influence¦lv=C1¦ps=prägt¦pt=prägte¦pf=hat geprägt¦ex=Diese Erfahrung hat ihn sehr geprägt.¦en=This experience shaped him greatly.
+B3037¦pos=adjective¦ck=-¦tp=T13¦ex=Nach mehrmaliger Aufforderung ging er endlich.¦en=After repeated requests he finally left.
+B3041¦pt=verreiste¦en=Are you going away during the holidays?
+B5388¦art=der¦pl=Bestandteile¦m=component; part¦lv=B2¦ex=Salz ist ein wichtiger Bestandteil des Rezepts.¦en=Salt is an important component of the recipe.
+B3043¦en=You must clean the wound with alcohol.
+B3044¦pt=backte¦en=If you come, I'll bake a cake.
+B3046¦pos=adjective¦en=If you drive drunk you lose your driving licence.
+B4824¦ex=Ich möchte herausfinden, was passiert ist.¦en=I want to find out what happened.
+B3047¦en=I hurt myself. My hand is bleeding.
+B3049¦en=I furnished my flat myself.
+B3052¦ex=Papa kocht heute Abend.¦en=Dad is cooking this evening.
+B5389¦m=lack; shortage; defect¦en=In this city there is a great shortage of flats.
+B3053¦pt=sparte¦en=A new car is very expensive. I have to save.
+B3056¦ex=An Werktagen öffnet die Praxis um acht Uhr.¦en=On working days the practice opens at eight.
+B5390¦art=die¦pl=Anerkennungen¦m=recognition; appreciation¦lv=B2¦ex=Die Anerkennung ausländischer Abschlüsse dauert oft lange.¦en=The recognition of foreign qualifications often takes a long time.
+B3057¦pos=adverb¦ex=Womit bezahlen Sie, bar oder mit Karte?¦en=How will you pay, in cash or by card?
+B3059¦tp=T01¦en=She has two children from her first marriage.
+B3060¦m=to discharge; to dismiss¦en=The operation went well. We can discharge you from hospital next week.
+B3804¦pos=adjective¦m=all; entire¦tp=T16¦ex=Sämtliche Unterlagen liegen bei.¦en=All the documents are enclosed.
+B3061¦en=Here is the firm Schulz, import and export.
+B3062¦en=The deadline for registering for the German course has expired.
+B3063¦pt=kam herein¦tp=T02¦ex=Kommen Sie bitte herein.¦en=Please come in.
+B3685¦en=Give Mummy a kiss!
+B3064¦en=On the third floor is the firm Schmidt & Co, import and export.
+B3065¦en=I think the doorbell rang.
+B3067¦pt=schimpfte¦en=Why are you swearing so loudly? – I'm annoyed about my car.
+B3901¦pos=adjective¦en=The exam was extremely hard.
+B3069¦tp=T15¦ex=Schreiben Sie zu jedem Absatz ein Stichwort.¦en=Write a keyword for each paragraph.
+B3070¦ps=schaltet aus¦pt=schaltete aus¦pf=hat ausgeschaltet¦tp=T10¦ex=Schalte bitte den Fernseher aus.¦en=Please switch off the television.
+B3071¦pt=schrieb dazu¦tp=T15¦ex=Schreib bitte deinen Namen dazu.¦en=Please write your name next to it.
+B3103¦pt=träumte¦en=I had a bad dream.
+B3072¦ck=-¦tp=T15¦ex=Ich schreibe einen Beispielsatz zu jedem Wort.¦en=I write an example sentence for every word.
+B3073¦ck=-¦tp=T15¦ex=Verbinden Sie die erste mit der zweiten Satzhälfte.¦en=Connect the first with the second half of the sentence.
+B3074¦tp=T15¦ex=Ich mache einen Gegenvorschlag: Treffen wir uns um sieben.¦en=I'll make a counter-proposal: let's meet at seven.
+B5391¦rf=sich¦m=to transform¦lv=B2¦ps=verwandelt¦pt=verwandelte¦pf=hat verwandelt¦ex=Die Stadt verwandelt sich im Winter in ein Märchenland.¦en=In winter the city transforms into a fairy-tale land.
+B3076¦ck=-¦ef=der Arme; die Arme; die Armen¦tp=T14¦ex=Der Arme hat sein ganzes Geld verloren.¦en=The poor man has lost all his money.
+B3077¦pos=adverb¦tp=T14
+B3078¦ck=-¦tp=T10¦ex=Wir machen am Wochenende eine Kajaktour.¦en=At the weekend we're going on a kayak tour.
+B3933¦en=The cost of the trip must first be calculated.
+B3079¦tp=T14¦ex=Ich habe Mitleid mit dem kranken Hund.¦en=I feel pity for the sick dog.
+B3081¦ex=Der Sprecher liest die Nachrichten vor.¦en=The speaker reads out the news.
+B3082¦ex=Die Sprecherin der Firma beantwortet die Fragen.¦en=The company's spokesperson answers the questions.
+B3641¦m=embassy; message¦en=I got the visa from the embassy.
+B3083¦tp=T06¦ex=Zum Kaffee gibt es Apfelkuchen.¦en=With the coffee there is apple cake.
+B3084¦pos=adjective¦tp=T07¦ex=Das Kleid ist altmodisch.¦en=The dress is old-fashioned.
+B3087¦en=Are you coming to the shopping centre tomorrow?

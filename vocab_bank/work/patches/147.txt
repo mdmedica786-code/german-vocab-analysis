@@ -1,0 +1,99 @@
+B3787¦en=Have you already enquired about a train?
+B5498¦m=trophy; cup¦lv=B2¦tp=T10¦pl=Pokale¦ex=Die Mannschaft hat den Pokal gewonnen.¦en=The team won the cup.
+B3788¦en=The further training I want to do is very expensive.
+B3790¦en=Please be patient for a moment.
+B3793¦tp=T03¦pl=–¦ex=Die Jobsuche dauert oft mehrere Monate.¦en=The job search often takes several months.
+B5499¦m=interest (on money)¦en=How much interest do I get on my savings account?
+B3794¦m=CV; résumé¦en=Have you already written the CV for the application?
+B3795¦tp=T03¦ps=schickt mit¦pt=schickte mit¦pf=hat mitgeschickt¦ex=Bitte schicken Sie Ihr Zeugnis mit.¦en=Please send your certificate along.
+B3797¦tp=T03¦m=HR department¦ex=Die Personalabteilung lädt Sie zum Gespräch ein.¦en=The HR department is inviting you to an interview.
+B5500¦pos=adjective¦m=comparable¦lv=C1¦ex=Die beiden Preise sind nicht vergleichbar.¦en=The two prices are not comparable.
+B3798¦tp=T03¦m=HR manager (m)¦ex=Der Personalchef führt die Vorstellungsgespräche.¦en=The HR manager conducts the job interviews.
+B3799¦ck=-¦tp=T03¦m=HR manager (f)¦ex=Die Personalchefin hat meine Bewerbung gelesen.¦en=The HR manager has read my application.
+B3800¦m=personal details; personal data¦en=My colleague will take down your personal details.
+B4990¦tp=T16¦ex=Die Familie steht im Mittelpunkt seines Lebens.¦en=Family is the focus of his life.
+B3802¦tp=T15¦m=advisor; guidebook¦ex=Dieser Ratgeber gibt Tipps für die Bewerbung.¦en=This guidebook gives tips for applying.
+B3806¦pos=adjective¦tp=T03¦m=respectable; reputable; serious¦ex=Die Firma macht einen seriösen Eindruck.¦en=The company makes a reputable impression.
+B3807¦tp=T16¦m=status; state of affairs
+B5501¦pos=preposition¦m=on behalf of; by the name of¦lv=C1¦g=+ Gen.¦ex=Ich spreche namens der ganzen Familie.¦en=I am speaking on behalf of the whole family.
+B3809¦tp=T03¦m=template; model; submission¦ex=Ich nutze eine Vorlage für meinen Lebenslauf.¦en=I use a template for my CV.
+B3813¦ck=-¦tp=T15¦ex=Damit und darüber sind Pronominaladverbien.¦en=Damit and darüber are pronominal adverbs.
+B3814¦pos=adjective¦m=satisfactory; satisfying¦en=The result is satisfactory.
+B5502¦m=constitution; state (of health)¦lv=B2¦art=die¦pl=Verfassungen¦ex=Die Verfassung garantiert die Meinungsfreiheit.¦en=The constitution guarantees freedom of opinion.
+B3817¦tp=T03¦m=employee (f)¦ex=Die Arbeitnehmerin hat Anspruch auf Urlaub.¦en=The employee is entitled to leave.
+B3819¦tp=T14¦rf=sich¦ps=macht klein¦pt=machte klein¦pf=hat kleingemacht¦ex=Mach dich nicht klein, du hast gute Noten.¦en=Do not belittle yourself, you have good grades.
+B3821¦pos=adjective¦tp=T03¦ex=Sie ist für diese Stelle gut qualifiziert.¦en=She is well qualified for this position.
+B4651¦pos=adjective¦en=I am very grateful to you for your help.
+B3822¦tp=T03¦m=arrangement; agreement¦ex=Nach Absprache mit dem Chef nehme ich Urlaub.¦en=By arrangement with my boss I am taking leave.
+B3824¦m=advertisement; classified ad¦en=What does an advertisement in the newspaper cost?
+B3825¦pos=adjective¦tp=T15¦ex=Unsere neue Kollegin ist sehr kommunikativ.¦en=Our new colleague is very communicative.
+B3847¦pos=adjective¦tp=T14¦ex=Nach dem Urlaub bin ich total entspannt.¦en=After the holiday I am totally relaxed.
+B3826¦tp=T08¦ex=Der Nachtportier gibt Ihnen den Schlüssel.¦en=The night porter will give you the key.
+B3827¦tp=T03¦ex=Der Stundenlohn beträgt zwölf Euro.¦en=The hourly wage is twelve euros.
+B3828¦tp=T03¦ex=Neben dem Studium habe ich einen Teilzeitjob.¦en=Besides my studies I have a part-time job.
+B5503¦m=power; energy (colloquial)¦lv=C1¦tp=T14¦pl=–¦ex=Er hat richtig Power beim Sport.¦en=He has real energy when doing sport.
+B3829¦en=It is a pleasure to watch the children play.
+B3830¦tp=T03¦ex=Eine gute Zeiteinteilung hilft im Studium.¦en=Good time management helps with studying.
+B3832¦tp=T03¦m=application documents¦ex=Bitte senden Sie Ihre Bewerbungsunterlagen per E-Mail.¦en=Please send your application documents by email.
+B5504¦m=root¦lv=B2¦art=die¦pl=Wurzeln¦ex=Der Baum hat tiefe Wurzeln.¦en=The tree has deep roots.
+B3833¦tp=T03¦m=interested person (m); prospective candidate¦ex=Es gibt viele Interessenten für die Stelle.¦en=There are many interested candidates for the position.
+B3834¦ck=-¦tp=T03¦m=interested person (f); prospective candidate¦ex=Eine Interessentin hat sich telefonisch gemeldet.¦en=An interested woman got in touch by phone.
+B3835¦tp=T01¦m=to come by; to drop in¦ex=Kommst du heute Abend kurz vorbei?¦en=Will you drop by briefly this evening?
+B3915¦en=I have made great progress in learning German.
+B3837¦pos=adjective¦tp=T14¦ex=Der Patient wurde plötzlich aggressiv.¦en=The patient suddenly became aggressive.
+B3838¦tp=T08¦m=journey (to a place); route¦ex=Die Anfahrt dauert etwa eine Stunde.¦en=The journey takes about an hour.
+B3840¦ex=Vor der Prüfung herrschte große Aufregung.¦en=Before the exam there was great excitement.
+B5505¦m=to guarantee; to ensure¦lv=C1¦ps=gewährleistet¦pt=gewährleistete¦pf=hat gewährleistet¦ex=Wir gewährleisten die Sicherheit der Patienten.¦en=We ensure the safety of the patients.
+B3843¦ex=Der Bewerber stellt sich heute vor.¦en=The applicant is introducing himself today.
+B3844¦tp=T03¦ex=Die Bewerberin hat einen guten Eindruck gemacht.¦en=The applicant made a good impression.
+B3845¦tp=T03¦m=sector; line of business¦ex=Sie arbeitet seit Jahren in der Baubranche.¦en=She has worked in the construction sector for years.
+B5506¦m=bone¦en=I fell over. Now all my bones hurt.
+B3851¦tp=T15¦m=to look out; to pick out¦ps=sucht heraus¦pt=suchte heraus¦pf=hat herausgesucht¦ex=Ich suche dir die Unterlagen heraus.¦en=I will look out the documents for you.
+B3852¦ex=Mein Opa hat eine konservative Meinung.¦en=My grandfather has a conservative opinion.
+B3853¦tp=T05¦ex=Eine gute Körperhaltung schützt den Rücken.¦en=Good posture protects the back.
+B5507¦pos=adverb¦m=otherwise; apart from that¦lv=B2¦ex=Ansonsten ist alles in Ordnung.¦en=Otherwise everything is fine.
+B3854¦tp=T15¦ex=Die Körpersprache verrät oft mehr als Worte.¦en=Body language often reveals more than words.
+B3856¦pos=adjective¦m=loose; relaxed; casual¦en=Please keep your arms completely relaxed and breathe in deeply.
+B3859¦pos=adjective¦en=Do you think you will get the job? – Yes, I am quite optimistic.
+B5508¦m=afterwards¦en=I studied so much before the exam. Afterwards I forgot a lot of it.
+B3860¦tp=T07¦ex=Für das Vorstellungsgespräch brauche ich ein neues Outfit.¦en=I need a new outfit for the job interview.
+B3863¦tp=T15¦ps=signalisiert¦pt=signalisierte¦pf=hat signalisiert¦ex=Er signalisiert Interesse an der Stelle.¦en=He signals interest in the position.
+B3864¦pos=adjective¦tp=T05¦ex=Nach dem Sport habe ich einen steifen Nacken.¦en=After sport I have a stiff neck.
+B5509¦m=complaint; ailment, symptom¦lv=B1¦art=die¦pl=Beschwerden¦tp=M2¦ex=Seit wann haben Sie diese Beschwerden?¦en=Since when have you had these complaints?¦col=Beschwerden haben | über etwas Beschwerde einlegen | chronische Beschwerden | Beschwerden beim Wasserlassen
+B3865¦m=entrepreneur; businessman¦ex=Er ist ein erfolgreicher Unternehmer.¦en=He is a successful entrepreneur.
+B3866¦m=entrepreneur; businesswoman¦en=She is a successful businesswoman.
+B3868¦tp=T14¦ex=Ich ziehe Tee dem Kaffee vor.¦en=I prefer tea to coffee.
+B4295¦pos=adjective¦en=That is secret. You must not tell anyone.
+B3869¦m=alarm clock¦ex=Ich stelle den Wecker auf sechs Uhr.¦en=I set the alarm clock for six o'clock.
+B3872¦pos=adjective¦tp=T14¦m=angry; furious¦ex=Er war zornig über die Entscheidung.¦en=He was angry about the decision.
+B3873¦tp=T16¦m=to put together; to compile¦ps=stellt zusammen¦pt=stellte zusammen¦pf=hat zusammengestellt¦ex=Sie stellt die Unterlagen für die Bewerbung zusammen.¦en=She is putting together the documents for the application.
+B5510¦pos=adjective¦m=philosophical¦lv=C1¦ex=Wir führten ein philosophisches Gespräch über das Leben.¦en=We had a philosophical conversation about life.
+B3877¦en=Please do not throw the organic waste in with the normal rubbish.
+B3878¦tp=T08¦m=driver (m); motorist¦ex=Der Autofahrer hat die Ampel übersehen.¦en=The driver overlooked the traffic light.
+B3879¦tp=T08¦m=driver (f); motorist¦ex=Die Autofahrerin parkt vor dem Haus.¦en=The driver parks in front of the house.
+B4465¦m=to trigger; to cause¦ps=löst aus¦pt=löste aus¦pf=hat ausgelöst¦ex=Das Medikament kann Übelkeit auslösen.¦en=The medicine can cause nausea.
+B3882¦en=The average of the expenses is 150 euros a month.
+B3884¦tp=T06¦ex=Der Fleischkonsum sinkt in Deutschland langsam.¦en=Meat consumption is slowly falling in Germany.
+B3885¦tp=T06¦m=chicken; hen¦ex=Das Huhn legt jeden Tag ein Ei.¦en=The hen lays an egg every day.
+B3897¦m=regional¦en=You can take a regional train. That is cheaper.
+B3886¦tp=T07¦ex=Die Firma hat einen großen Marktanteil.¦en=The company has a large market share.
+B3887¦ck=-¦tp=T13¦ps=rechnet mit¦pt=rechnete mit¦pf=hat mitgerechnet¦ex=Rechnest du die Getränke mit?¦en=Are you including the drinks in the calculation?
+B3888¦ck=-¦tp=T11¦m=paper consumption¦ex=Der Papierverbrauch im Büro soll sinken.¦en=Paper consumption in the office should fall.
+B5511¦pos=adverb¦m=predominantly; mostly¦lv=B2¦ex=Das Wetter war überwiegend sonnig.¦en=The weather was mostly sunny.
+B3889¦en=There is a new record in swimming.
+B3891¦tp=T11¦ex=Das Trinkwasser in Deutschland ist sauber.¦en=Drinking water in Germany is clean.
+B3892¦en=How much petrol does your car use?
+B3893¦tp=T11¦ex=Im Supermarkt gibt es viel Verpackungsmüll.¦en=In the supermarket there is a lot of packaging waste.
+B3894¦ck=-¦tp=T06¦ex=Bioprodukte sind oft teurer.¦en=Organic products are often more expensive.
+B3895¦tp=T11¦ex=Recycling schont die Umwelt.¦en=Recycling protects the environment.
+B5512¦m=to swallow¦lv=B1¦ps=schluckt¦pt=schluckte¦pf=hat geschluckt¦ex=Ich kann die Tablette nicht schlucken.¦en=I cannot swallow the tablet.
+B3899¦tp=T08¦m=transport route¦ex=Kurze Transportwege schonen die Umwelt.¦en=Short transport routes protect the environment.
+B3900¦tp=T06¦m=organic; bio¦ex=Ich kaufe am liebsten Bio.¦en=I prefer to buy organic.
+B3902¦en=Many people ask me about my origin.
+B5513¦m=participation; involvement; share¦lv=C1¦art=die¦pl=Beteiligungen¦ex=Die Beteiligung an der Wahl war hoch.¦en=Participation in the election was high.
+B3904¦tp=T11¦ex=Die Abgase des Autos belasten die Luft.¦en=The car's exhaust fumes pollute the air.
+B3905¦ps=bekämpft¦pt=bekämpfte¦pf=hat bekämpft¦ex=Die Regierung will die Armut bekämpfen.¦en=The government wants to fight poverty.
+B3907¦ps=setzt durch¦pt=setzte durch¦pf=hat durchgesetzt¦ex=Er konnte seine Idee im Team durchsetzen.¦en=He was able to push his idea through in the team.
+B5514¦m=environment; surroundings¦lv=B2¦art=das¦pl=Umfelder¦ex=Im privaten Umfeld gibt es wenig Stress.¦en=There is little stress in my personal environment.
+B3908¦tp=T04¦ex=Bitte streichen Sie falsche Antworten durch.¦en=Please cross out wrong answers.
+B3910¦tp=T04¦m=to research; to explore¦ps=erforscht¦pt=erforschte¦pf=hat erforscht¦ex=Wissenschaftler erforschen das Klima.¦en=Scientists are researching the climate.

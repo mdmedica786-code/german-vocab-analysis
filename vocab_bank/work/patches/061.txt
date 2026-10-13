@@ -1,0 +1,100 @@
+B1616¦tp=T07¦rg=informal¦ex=Ich muss neue Klamotten kaufen.¦en=I need to buy new clothes.
+B1617¦tp=T14¦rg=informal¦ps=nervt¦pt=nervte¦pf=hat genervt¦ex=Das Warten nervt mich.¦en=The waiting annoys me.
+B3038¦col=in der Vergangenheit | die Vergangenheit vergessen | an die Vergangenheit denken | mit der Vergangenheit abschließen¦en=In the past that was different.
+B1618¦tp=T16¦en=Without money he can't buy anything.
+B1619¦pos=adjective¦en=When will you be online again?
+B1620¦col=eine Reaktion zeigen | eine allergische Reaktion | eine schnelle Reaktion | Reaktion auf etwas¦en=This reaction is typical of him.
+B4270¦col=Kritik üben | Kritik an etwas | konstruktive Kritik | auf Kritik stoßen¦en=There is a lot of criticism of the government's policy.
+B1621¦tp=T16¦en=You can leave your things at the hotel.
+B1622¦en=I would like to exchange this blouse.
+B1623¦en=He called me the day before yesterday.
+B3628¦pos=adjective¦ef=schwächer – am schwächsten¦med=related¦col=schwach sein | schwacher Puls | ein schwaches Herz | sich schwach fühlen¦en=He is ill and weak.
+B1624¦tp=T07¦ps=schickt zurück¦pt=schickte zurück¦pf=hat zurückgeschickt¦ex=Ich schicke die Schuhe zurück.¦en=I'm sending the shoes back.
+B1625¦tp=T15¦ex=„Un-“ ist ein Präfix.¦en="Un-" is a prefix.
+B1626¦pos=adjective¦tp=T15¦ex=Die erste Silbe ist betont.¦en=The first syllable is stressed.
+B5254¦m=attempt; experiment¦en=Many experiments are carried out in research.
+B1627¦tp=T15¦ex=Die Betonung liegt auf der ersten Silbe.¦en=The stress is on the first syllable.
+B1628¦tp=T10¦pt=sah fern¦en=Shall we watch TV tonight?
+B1629¦tp=T07¦ps=probiert an¦pt=probierte an¦pf=hat anprobiert¦ex=Darf ich die Jacke anprobieren?¦en=May I try on the jacket?
+B5255¦pos=adjective¦m=religious¦lv=B1¦ex=Sie ist sehr religiös.¦en=She is very religious.¦col=religiös erzogen | religiöse Feste | religiöse Gründe | religiös sein
+B1630¦tp=T07
+B1631¦tp=T07¦rg=informal¦ps=shoppt¦pt=shoppte¦pf=hat geshoppt¦ex=Am Wochenende gehen wir shoppen.¦en=At the weekend we're going shopping.
+B1632¦tp=T07¦rg=informal¦ex=Der Pulli ist schön warm.¦en=The jumper is nice and warm.
+B3839¦tp=T14¦ex=Vielen Dank für Ihre Aufmerksamkeit.¦en=Thank you very much for your attention.¦col=Aufmerksamkeit schenken | Aufmerksamkeit erregen | die Aufmerksamkeit lenken | volle Aufmerksamkeit
+B1633¦tp=T07¦ck=-¦ex=Für die Feier brauchen Sie Abendkleidung.¦en=For the party you need evening wear.
+B1634¦tp=T07¦ex=Im Sommer gibt es neue Bademode.¦en=In summer there is new swimwear.
+B1635¦tp=T10¦en=Please bring your favourite CD.
+B5256¦pos=adjective¦m=mental; intellectual¦lv=B1¦ex=Er ist geistig noch sehr fit.¦en=He is still mentally very fit.¦col=geistige Gesundheit | geistig fit | geistige Arbeit | geistig behindert
+B1636¦tp=T07¦ex=Die Damenmode finden Sie im ersten Stock.¦en=You will find women's fashion on the first floor.
+B1637¦tp=T07¦ex=Ich brauche Duschgel und Shampoo.¦en=I need shower gel and shampoo.
+B1638¦tp=T07¦ex=Das Elektrogerät ist noch ganz neu.¦en=The electrical appliance is still brand new.
+B4423¦tp=T13¦m=to amount to¦ex=Die Gebühr beträgt zehn Euro.¦en=The fee is ten euros.¦col=die Kosten betragen | der Betrag beträgt | die Dauer beträgt | der Abstand beträgt
+B1639¦tp=T10¦ck=-¦ex=Im Fitnessraum stehen viele Fitnessgeräte.¦en=There is a lot of fitness equipment in the gym.
+B1640¦tp=T07¦ck=-¦ex=Fotozubehör finden Sie im Untergeschoss.¦en=You will find photographic accessories in the basement.
+B1641¦tp=T07¦ex=Freizeitkleidung ist im Angebot.¦en=Leisure clothes are on offer.
+B3926¦col=jemanden unterstützen | finanziell unterstützen | ein Projekt unterstützen | tatkräftig unterstützen¦en=They support me wherever they can.
+B1642¦tp=T07¦ex=Haushaltswaren gibt es im dritten Stock.¦en=Household goods are on the third floor.
+B1643¦tp=T07¦ex=Die Herrenmode ist im zweiten Stock.¦en=Men's fashion is on the second floor.
+B1644¦tp=T01¦ck=-¦ef=der Jugendliche; die Jugendliche; ein Jugendlicher¦en=Many teenagers like shopping.
+B4740¦pos=adjective¦med=related¦col=körperliche Arbeit | körperlich fit | körperliche Untersuchung | körperliche Beschwerden¦en=Physical work doesn't bother me.
+B1645¦en=Hannes has a new camera. He can take photos and make films with it.
+B1646¦tp=T07¦en=Please pay at the till.
+B1647¦en=You can buy cosmetics on the ground floor.
+B3338¦col=beinahe passieren | beinahe verpassen | beinahe vergessen | beinahe immer¦en=I almost missed the bus today.
+B1648¦tp=T04¦en=Do you have a ballpoint pen for me?
+B1649¦en=to go out of fashion
+B1650¦en=For my birthday I got a perfume from my husband.
+B3718¦m=attachment; facility; investment¦col=als Anlage beifügen | eine Anlage bauen | technische Anlage | Anlage zur E-Mail¦en=In the attachment to the email you will find my CV.
+B1651¦tp=T07¦ex=In der Parfümerie rieche ich an vielen Düften.¦en=In the perfumery I smell many fragrances.
+B1652¦en=This jewellery is from my grandmother.
+B1653¦tp=T07¦ex=Schreibwaren kaufe ich im Papiergeschäft.¦en=I buy stationery at the stationer's.
+B4055¦col=Schwierigkeiten haben | in Schwierigkeiten geraten | auf Schwierigkeiten stoßen | Schwierigkeiten bereiten¦en=I had great difficulty getting a parking space.
+B1654¦tp=T07¦ex=Spielwaren gibt es im vierten Stock.¦en=Toys are on the fourth floor.
+B1655¦tp=T07¦m=sportswear¦ex=Ich brauche neue Sportkleidung.¦en=I need new sportswear.
+B1656¦col=moderne Technik | Technik verstehen | die Technik beherrschen | medizinische Technik¦en=I don't understand much about technology.
+B4676¦m=step; level¦en=Careful, step!
+B1657¦tp=T02¦ex=Im Untergeschoss ist die Garage.¦en=The garage is in the basement.
+B1659¦en=Andrea buys this magazine every week.
+B1660¦en=Our products are of very high quality.
+B2741¦col=jemanden begleiten | ein Stück begleiten | musikalisch begleiten | einen Patienten begleiten¦en=I'll walk with you part of the way.
+B1661¦tp=T04¦en=Do you have a pencil?
+B1662¦rg=informal¦tp=T16¦en=The glass was expensive. It breaks very easily.
+B1663¦tp=T04¦en=Here are paper and pencil.
+B3253¦en=That is good protection against the cold.
+B1664¦tp=T15¦ck=-¦ex=Ein Wortteil kann ein Präfix sein.¦en=A word part can be a prefix.
+B1665¦tp=T15¦ps=dankt¦pt=dankte¦pf=hat gedankt¦g=+ Dat. | für + Akk.¦en=Thank you for the invitation.
+B1666¦tp=T16¦rg=colloquial¦ps=kriegt¦pt=kriegte¦pf=hat gekriegt¦en=I get 15 euros an hour for my work.
+B5077¦pos=adverb¦tp=T13¦ex=Die Straße ist teilweise gesperrt.¦en=The road is partly closed.¦col=teilweise gesperrt | teilweise richtig | nur teilweise | teilweise erhalten
+B1667¦tp=T07¦ex=Im Buchladen kaufe ich oft Krimis.¦en=In the bookshop I often buy crime novels.
+B1668¦tp=T16¦ps=ist auf¦pt=war auf¦pf=ist auf gewesen¦en=You don't need the key. The flat is open.
+B1669¦tp=T07¦en=The bank is closed on Saturday.
+B4982¦pos=adjective¦ef=ferner – am fernsten¦ex=Das ist eine ferne Zukunft.¦en=That is a distant future.¦col=fern von | von fern | ferne Länder | der Ferne Osten
+B1670¦tp=T08¦en=Didn't you see the sign?
+B1671¦tp=T16¦ps=ist zu¦pt=war zu¦pf=ist zu gewesen¦en=The door is closed.
+B1672¦tp=T07¦pt=hatte zu¦ex=Der Laden hat sonntags zu.¦en=The shop is closed on Sundays.
+B4377¦en=Yesterday it was 25 degrees in the shade.
+B1673¦tp=T10¦ex=Die Künstlerin arbeitet in ihrem Atelier.¦en=The artist works in her studio.
+B1674¦pos=adjective¦tp=T14¦ex=Das Angebot ist sehr attraktiv.¦en=The offer is very attractive.
+B4729¦ex=Jeder Mensch hat das Bedürfnis nach Ruhe.¦en=Everyone has a need for peace and quiet.¦col=ein Bedürfnis haben | Bedürfnisse befriedigen | das Bedürfnis nach Ruhe | menschliche Bedürfnisse
+B1676¦ex=Das Design der Lampe ist modern.¦en=The design of the lamp is modern.
+B1677¦tp=T10¦ck=-¦ex=Mein Bruder ist ein großer Designfan.¦en=My brother is a big design fan.
+B1678¦tp=T03¦ex=Sie arbeitet bei einer Fernsehproduktion.¦en=She works for a television production.
+B2897¦pos=adjective¦tp=T10¦col=kulturelle Veranstaltung | kulturelles Angebot | kulturell interessiert | kulturelle Unterschiede¦en=I'm culturally interested. I often go to the museum.
+B1679¦tp=T03¦ex=Die Filmproduktion dauerte zwei Jahre.¦en=The film production took two years.
+B1680¦ef=den/dem/des Fotografen (n-declension)¦ex=Der Fotograf macht Bilder von der Hochzeit.¦en=The photographer takes pictures of the wedding.¦es=claude
+B1681¦tp=T03¦ex=Die Fotografin hat sehr schöne Fotos gemacht.¦en=The photographer took very beautiful photos.
+B4122¦g=+ Dat.¦m=to meet (by chance); to encounter¦col=jemandem begegnen | einer Gefahr begegnen | sich begegnen | mit Respekt begegnen¦en=Haven't we met somewhere before?
+B1682¦en=Berlin is the capital of Germany.
+B1683¦pos=adjective¦col=individuell betreuen | eine individuelle Lösung | individuell angepasst | individuelle Beratung¦en=The teacher tries to support each child individually.
+B1684¦tp=T15¦ck=-¦ex=Der Infotext steht auf der Rückseite.¦en=The information text is on the back.
+B5257¦art=das¦pl=–¦m=management¦lv=B1¦ex=Das Management hat die Pläne vorgestellt.¦en=The management presented the plans.¦col=ins Management aufsteigen | das Management übernehmen | Zeitmanagement | Qualitätsmanagement
+B1685¦tp=T07¦ex=Das Label ist bei jungen Leuten beliebt.¦en=The label is popular with young people.
+B1686¦pos=adjective¦ex=Die Stadt ist sehr lebendig.¦en=The city is very lively.
+B1687¦tp=T03¦ex=Der Modedesigner zeigt seine neue Kollektion.¦en=The fashion designer presents his new collection.
+B5258¦pos=adverb¦m=in doing so; hereby¦lv=B1¦ex=Hierbei handelt es sich um einen Notfall.¦en=This is an emergency.¦col=hierbei handelt es sich um | hierbei beachten | hierbei helfen | hierbei sein
+B1688¦tp=T03¦ex=Die Modedesignerin entwirft Kleider.¦en=The fashion designer designs dresses.
+B1689¦tp=T07¦ck=-¦ex=Mein Bruder ist ein Modefan.¦en=My brother is a fashion fan.
+B1690¦tp=T04¦ck=-¦ex=Sie besucht eine Modeschule in Mailand.¦en=She attends a fashion school in Milan.
+B2529¦tp=T16¦ex=Die Verwendung von Handys ist hier verboten.¦en=The use of mobile phones is forbidden here.¦col=Verwendung finden | zur Verwendung | die Verwendung von ... | sinnvolle Verwendung
+B1691¦tp=T10¦ex=Die Musikproduktion braucht ein gutes Studio.¦en=Music production needs a good studio.
+B1692¦pos=adjective¦m=round; around¦col=rund um die Uhr | ein runder Tisch | rund zehn Prozent | rund herum

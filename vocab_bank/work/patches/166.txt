@@ -1,0 +1,100 @@
+B6253¦pos=verb
+B6289¦col=ohnmächtig werden | plötzlich ohnmächtig | ohnmächtig am Boden liegen | ohnmächtig zusammenbrechen
+B6304¦lv=B2
+B6310¦pos=adjective
+B6334¦m=distraction¦lv=B2¦art=die¦pl=Ablenkungen¦ex=Ich brauche etwas Ablenkung.¦en=I need some distraction.
+B6335¦pos=adjective¦m=constant; continuous¦lv=B2¦tp=T13¦ex=Das andauernde Klingeln stört mich.¦en=The constant ringing disturbs me.
+B6336¦m=popularity¦lv=B2¦tp=T14¦pl=–¦ex=Das Lied erfreut sich großer Beliebtheit.¦en=The song enjoys great popularity.
+B6337¦m=air conditioning¦en=In summer we need an air conditioner.
+B6338¦m=to sweat¦en=It was very hot. We all sweated a lot.
+B6339¦m=terminal¦ex=Das Flugzeug ist am Terminal 2 gelandet.¦en=The plane has landed at terminal 2.
+B6340¦m=carer; supervisor (m)¦en=The children's carer is very nice.
+B6341¦m=department; field of study¦lv=C1¦tp=T04¦pl=Fachbereiche¦ex=Der Fachbereich Medizin hat 2.000 Studierende.¦en=The medical department has 2,000 students.
+B6342¦pos=adjective¦m=ironic¦lv=C1¦tp=T15¦ex=Das hat er ironisch gemeint.¦en=He meant that ironically.
+B6343¦pos=adjective¦m=ready; at hand¦lv=C1¦tp=T16¦ex=Hast du die Unterlagen parat?¦en=Do you have the documents ready?
+B6344¦pos=adjective¦m=entertaining¦lv=B2¦tp=T10¦ex=Der Film war sehr unterhaltsam.¦en=The film was very entertaining.
+B6345¦m=main street¦lv=A2¦art=die¦pl=Hauptstraßen¦ex=Die Apotheke liegt an der Hauptstraße.¦en=The pharmacy is on the main street.
+B6346¦m=waste bin¦en=Please throw this in the waste bin!
+B6347¦m=exhaust fumes¦en=Exhaust fumes from industry and households pollute the air.
+B6348¦m=to agree; to detach¦en=We agreed that you would get the drinks.
+B6349¦m=subscription¦en=I cancelled the subscription.
+B6350¦m=sender (f)¦ex=Die Absenderin des Briefes ist unbekannt.¦en=The sender of the letter is unknown.
+B6351¦m=caretaker (Swiss)¦rg=regional¦tp=T02¦en=The caretaker helped me carry the wardrobe into the flat.
+B6352¦m=to wash up¦en=I still have to wash up the dishes.
+B6353¦pos=adjective¦m=absent¦en=Mr Huber is absent until 25 April.
+B6355¦m=old people's home¦en=Our neighbours' grandparents are in the old people's home.
+B6356¦m=chief of a municipality (Swiss)¦rg=regional¦tp=T12¦ex=Der Ammann leitet die Gemeinde.¦en=The Ammann heads the municipality.
+B6357¦pl=Angestellten¦m=employee (m)¦tp=T03¦ex=Der Angestellte arbeitet im Büro.¦en=The employee works in the office.
+B6358¦m=advertisement¦en=I have read all the ads, but the flats are too expensive.
+B6359¦m=announcement¦tp=T15¦en=Listen to the announcements.
+B6360¦m=purchase; acquisition¦lv=B2¦tp=T07¦pl=Anschaffungen¦ex=Die Anschaffung eines neuen Autos ist teuer.¦en=Buying a new car is expensive.
+B6361¦m=to fasten (seat belt)¦en=Do not forget to fasten your seat belt.
+B6362¦m=answer sheet¦en=Please transfer your answers to the answer sheet.
+B6363¦m=lawyer (f)¦ex=Ich möchte zuerst mit meiner Anwältin sprechen.¦en=I would like to speak to my lawyer first.
+B6364¦m=work permit¦pl=Arbeitserlaubnisse¦en=Do you have a work permit?
+B6365¦m=exit; slip road¦en=This is an exit, you may not park here.
+B6366¦m=foreigner (f)¦en=Many foreigners learn German at the adult education centre.
+B6367¦pl=Auszubildenden¦m=apprentice; trainee (m)¦ex=Der Auszubildende lernt den Beruf in der Praxis.¦en=The apprentice learns the profession in practice.
+B6368¦pos=adjective¦m=authentic¦lv=C1¦tp=T14¦ex=Der Film wirkt sehr authentisch.¦en=The film seems very authentic.
+B6369¦m=ballet¦en=My daughter would like to dance ballet.
+B6370¦m=cash machine (Swiss)¦rg=regional¦tp=T07¦ex=Ich hole schnell Geld am Bancomaten.¦en=I will quickly get some money from the cash machine.
+B6371¦m=bank sort code¦en=Please state your bank sort code.
+B6374¦art=der/die¦m=person involved; participant¦lv=C1¦tp=T12¦pl=Beteiligten¦ex=Alle Beteiligten wurden informiert.¦en=All parties involved were informed.
+B6375¦m=carer; supervisor (f)¦en=The children's carer is very nice.
+B6376¦m=works council¦en=The works council will inform you about the new working hours.
+B6377¦m=works council member (f)¦ex=Die Betriebsrätin informiert Sie über die neuen Arbeitszeiten.¦en=The works council member will inform you about the new working hours.
+B6378¦m=district school (Swiss secondary school)¦rg=regional¦tp=T04¦pl=Bezirksschulen¦ex=Nach der Primarschule besucht er die Bezirksschule.¦en=After primary school he attends the district school.
+B6379¦m=to bloom¦en=The trees are already blooming. It is spring.
+B6380¦m=bean¦en=Hans does not like eating beans.
+B6381¦tp=T06¦m=roast¦en=Would you like some more sauce with the roast?
+B6382¦tp=T08¦m=brake¦en=You absolutely must have the brakes checked.
+B6383¦m=wallet¦en=I only have small change in my wallet.
+B6384¦m=envelope¦en=I would like 50 envelopes and stamps too.
+B6385¦m=bread roll (Swiss)¦rg=regional¦tp=T06¦en=I will quickly fetch a few rolls for breakfast.
+B6386¦m=boy (S. German, Swiss, Austrian)¦rg=regional¦tp=T01¦en=In the class there are 15 boys and 10 girls.
+B6387¦m=buffet¦en=The buffet is open!
+B6388¦m=Federal President (f)¦ex=Die Bundespräsidentin hält eine Rede.¦en=The Federal President gives a speech.
+B6389¦m=Federal Councillor (f) (Switzerland)¦tp=T12¦ex=Die Bundesrätin besucht den Kanton.¦en=The Federal Councillor visits the canton.
+B6390¦m=baker (f)¦ex=Die Bäckerin backt jeden Morgen Brot.¦en=The baker bakes bread every morning.
+B6391¦m=tin; can¦en=I still have a tin of beans.
+B6392¦m=to camp¦ex=Im Sommer campen wir am See.¦en=In summer we camp by the lake.
+B6393¦m=casting show¦ex=Sie hat in der Castingshow gewonnen.¦en=She won the casting show.
+B6394¦pos=adjective¦m=stylish¦ex=Ich finde dein Kleid sehr chic.¦en=I think your dress is very stylish.
+B6395¦m=hairdresser (m) (Swiss)¦rg=regional¦en=You look great! Who is your hairdresser?
+B6396¦m=hairdresser (f) (Swiss)¦rg=regional¦tp=T03¦en=My daughter wants to become a hairdresser.
+B6398¦m=envelope (Swiss)¦rg=regional¦tp=T09¦en=I would like 50 envelopes and stamps too.
+B6399¦m=cream¦en=I am looking for a cream for my hands.
+B6400¦m=to decorate¦en=Can you help me decorate the table for the party?
+B6401¦m=on Tuesdays¦ex=Dienstags gehe ich zum Sport.¦en=On Tuesdays I go to sport.
+B6402¦m=disco¦en=We are going to the disco tonight.
+B6403¦m=discotheque¦en=We are going to the discotheque tonight.
+B6404¦m=on Thursdays¦ex=Donnerstags arbeite ich bis 18 Uhr.¦en=On Thursdays I work until 6 pm.
+B6405¦pos=adjective¦m=thirsty¦en=You must be thirsty. What would you like to drink?
+B6407¦pos=adjective¦m=angular; square¦en=I would like a square table, not a round one.
+B6408¦m=spouse; partner¦ex=Der Ehepartner muss das Formular mit unterschreiben.¦en=The spouse must also sign the form.
+B6409¦m=one-way street¦en=Goethestraße is now a one-way street.
+B6410¦m=to break in¦en=Someone broke into our flat.
+B6411¦m=burglar (f)¦ex=Die Einbrecherin wurde von der Polizei gefasst.¦en=The burglar was caught by the police.
+B6412¦m=driveway; entrance¦en=Someone is parking in front of our driveway again.
+B6413¦m=to insert; to paste¦en=First mark the lines, then press copy and then paste.
+B6414¦m=to insert; to pickle¦lv=B2¦tp=T06¦sp=ein¦ps=legt ein¦pt=legte ein¦pf=hat eingelegt¦ex=Legen Sie bitte eine CD ein.¦en=Please insert a CD.
+B6415¦m=registered mail¦en=I sent the letter by registered mail.
+B6417¦m=payment; deposit¦en=You should make the payment on time.
+B6418¦m=to meet halfway¦ps=kommt entgegen¦pt=kam entgegen¦pf=ist entgegengekommen¦en=Can you meet me halfway on the price?
+B6419¦m=potato (Austrian)¦rg=regional¦tp=T06¦en=Could I please have some more potatoes?
+B6421¦m=cold¦en=You have a bad cold!
+B6422¦m=European (woman)¦ex=Die Europäerin lebt seit Jahren in Kanada.¦en=The European woman has lived in Canada for years.
+B6423¦m=expert (f)¦ex=Sie ist eine Fachfrau für Datenschutz.¦en=She is an expert in data protection.
+B6424¦m=expert (m)¦pl=Fachleute¦ex=Er ist ein Fachmann für Herzkrankheiten.¦en=He is an expert in heart diseases.
+B6425¦m=marital status¦tp=T09¦pl=–¦en=Under marital status you have to tick single.
+B6426¦pos=adjective¦m=coloured¦en=I do not need white paper but coloured paper.
+B6427¦m=minced meat (Austrian)¦rg=regional¦tp=T06¦pl=–¦en=Please give me 500 g of minced meat.
+B6428¦m=carnival (Austrian, Bavarian)¦rg=regional¦en=My costume for the carnival parade hangs there.
+B6429¦m=carnival (Swiss, S. German)¦rg=regional¦tp=T13¦pl=–¦en=My costume for the carnival parade hangs there.
+B6430¦m=armchair¦rg=regional¦tp=T02¦en=I would like a comfortable armchair.
+B6431¦m=fax¦tp=T09¦en=Just send us a fax!
+B6432¦m=to fax¦ex=Ich faxe Ihnen den Vertrag.¦en=I will fax you the contract.
+B6433¦m=February (Austrian)¦rg=regional¦tp=T13¦pl=–¦ex=Im Feber ist es in Wien oft kalt.¦en=In February it is often cold in Vienna.
+B6434¦m=to arrest¦en=The police arrested a man.
+B6435¦m=to set; to fix¦en=The school has set the date for the exam.
+B6436¦m=to be fixed; to be certain¦en=The date has been fixed for a long time.

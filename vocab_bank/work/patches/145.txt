@@ -1,0 +1,100 @@
+B3688¦en=This entrance is for staff only.
+B4089¦tp=T16¦m=reason; occasion¦ex=Der Anlass für das Treffen war ein Jubiläum.¦en=The occasion for the meeting was an anniversary.
+B3689¦en=Although they have known each other for a long time, they address each other formally.
+B3692¦en=Let me hug you goodbye.
+B3694¦pos=adjective¦tp=T14¦m=insecure; unsure¦ex=Ich bin unsicher, ob das die richtige Entscheidung ist.¦en=I am unsure whether this is the right decision.
+B5478¦m=act (of a play); nude (art)¦lv=C1¦art=der¦pl=Akte¦ex=Das Stück hat drei Akte.¦en=The play has three acts.
+B3696¦pos=adjective¦tp=T16¦ex=Du hast den Pullover verkehrt herum angezogen.¦en=You put the jumper on the wrong way round.
+B3697¦pos=adjective¦tp=T14¦ex=Die Stimme kam mir vertraut vor.¦en=The voice sounded familiar to me.
+B3698¦ck=-¦tp=T03¦m=superior; boss¦ex=Meine Vorgesetzte hat mir eine Woche Urlaub genehmigt.¦en=My boss approved a week of leave for me.
+B4721¦ex=Er kämpft für Gerechtigkeit.¦en=He fights for justice.
+B3700¦ck=-¦tp=T15¦ex=Bei vielen starken Verben gibt es eine Vokaländerung.¦en=Many strong verbs have a vowel change.
+B3703¦ex=Der Briefträger kommt jeden Morgen um zehn Uhr.¦en=The postman comes every morning at ten o'clock.
+B3704¦en=Has the postwoman already been?
+B5479¦m=management; leadership; line (phone/pipe)¦en=From 1 July Mr Meier takes over the management of the department.
+B3705¦tp=T03¦ex=Der Chemiker arbeitet im Labor.¦en=The chemist works in the laboratory.
+B3706¦tp=T03¦ex=Die Chemikerin entwickelt neue Medikamente.¦en=The chemist develops new medicines.
+B3707¦tp=T10¦ex=Er arbeitet in einer Firma für Elektronik.¦en=He works in an electronics company.
+B4551¦m=to be surprised; to wonder¦en=It surprised me that the food is so cheap here.
+B3708¦pos=adjective¦tp=T16¦ex=Können Sie mir die exakte Uhrzeit sagen?¦en=Can you tell me the exact time?
+B3709¦pos=adjective¦tp=T03¦ex=Ich habe geregelte Arbeitszeiten.¦en=I have regular working hours.
+B3710¦tp=T03¦m=mechatronics technician (m)¦ex=Der Mechatroniker repariert die Maschine.¦en=The mechatronics technician repairs the machine.
+B5480¦pos=adjective¦m=optimal; ideal¦lv=B2¦ex=Die Bedingungen für das Projekt sind optimal.¦en=The conditions for the project are ideal.
+B3711¦ck=-¦tp=T03¦m=mechatronics technician (f)¦ex=Die Mechatronikerin prüft die Elektronik des Autos.¦en=The mechatronics technician checks the car's electronics.
+B3712¦en=This table here is made entirely of metal.
+B3713¦tp=T09¦ps=stellt zu¦pt=stellte zu¦pf=hat zugestellt¦ex=Der Postbote stellt die Pakete bis mittags zu.¦en=The postman delivers the parcels by noon.
+B3715¦m=file; record¦ex=Bitte legen Sie die Akte auf meinen Schreibtisch.¦en=Please put the file on my desk.
+B3716¦tp=T11¦m=to grow (crops); to add on (build)¦ps=baut an¦pt=baute an¦pf=hat angebaut¦ex=Die Bauern bauen hier vor allem Mais an.¦en=The farmers mainly grow maize here.
+B3717¦ck=-¦tp=T12¦ex=Die Angeklagte bestreitet die Tat.¦en=The defendant denies the act.
+B5481¦m=at first; initially¦en=At first everything went well.
+B5482¦pos=adjective¦m=astonished; surprised¦lv=B2¦ex=Er sah mich erstaunt an.¦en=He looked at me in astonishment.
+B3720¦en=With a higher income you have to pay more tax.
+B3721¦tp=T03¦ex=Der Elektroingenieur plant die Stromversorgung.¦en=The electrical engineer plans the power supply.
+B3722¦ck=-¦tp=T03¦ex=Die Elektroingenieurin arbeitet bei einem Autohersteller.¦en=The electrical engineer works at a car manufacturer.
+B5483¦pos=adjective¦m=average; on average¦en=Prices rose by an average of 6% last year.
+B3723¦pos=adjective¦en=I think our team played very fairly.
+B3724¦tp=T10¦m=TV channel; TV station¦ex=Dieser Fernsehsender zeigt viele Filme.¦en=This TV channel shows many films.
+B3726¦tp=T12¦m=court hearing; trial¦ex=Die Gerichtsverhandlung beginnt um neun Uhr.¦en=The trial begins at nine o'clock.
+B5484¦m=to report (to the police); to display¦en=If you park here, I will report you.
+B3728¦en=There is a lot of industry in this area.
+B3729¦en=In the countryside most people work in agriculture.
+B3730¦tp=T14¦m=judgement of character; people skills¦ex=Für diesen Beruf braucht man Menschenkenntnis.¦en=You need an understanding of people for this job.
+B5485¦m=good; property; estate¦lv=B2¦art=das¦pl=Güter¦ex=Gesundheit ist das höchste Gut.¦en=Health is the greatest asset.
+B3733¦ex=Der Rechtsanwalt berät seine Mandanten.¦en=The lawyer advises his clients.
+B3734¦tp=T12¦ex=Die Rechtsanwältin vertritt mich vor Gericht.¦en=The lawyer represents me in court.
+B3735¦en=Have you seen the report about Africa?
+B5486¦m=suspicion¦pl=–¦en=Who took the money from the till? – I don't know, but I have a suspicion.
+B3736¦ex=Der Reporter macht gerade ein Interview.¦en=The reporter is just doing an interview.
+B3737¦en=The reporter is just doing an interview.
+B3739¦ex=Die Richterin hat noch kein Urteil gesprochen.¦en=The judge has not yet passed judgement.
+B4834¦m=to allow; to permit; to admit¦ex=Das Gesetz lässt keine Ausnahmen zu.¦en=The law allows no exceptions.
+B3740¦tp=T03¦m=carpenter; joiner (m)¦ex=Der Schreiner baut einen Schrank aus Eiche.¦en=The carpenter is building a wardrobe out of oak.
+B3741¦ck=-¦tp=T03¦m=carpenter; joiner (f)¦ex=Die Schreinerin repariert den alten Tisch.¦en=The carpenter is repairing the old table.
+B3742¦ex=Mein Arzt hat mich zu einem Spezialisten geschickt.¦en=My doctor sent me to a specialist.
+B3743¦en=My doctor sent me to a (female) specialist.
+B5487¦pos=preposition¦m=against; contrary to¦lv=C1¦nt=takes the accusative; mostly in set phrases (wider Willen, wider Erwarten)¦ex=Er hat das wider besseres Wissen getan.¦en=He did that against his better judgement.
+B3745¦tp=T12¦ex=Die Polizei untersucht das Verbrechen.¦en=The police are investigating the crime.
+B3749¦tp=T14¦ex=Ich nehme deine Sorgen ernst.¦en=I take your worries seriously.
+B5488¦m=flame¦lv=B2¦art=die¦pl=Flammen¦ex=Die Flammen griffen schnell auf das Nachbarhaus über.¦en=The flames quickly spread to the neighbouring house.
+B3750¦tp=T14¦m=to endure; to bear¦ex=Ich halte den Lärm nicht mehr aus.¦en=I can't stand the noise any more.
+B3751¦ck=-¦tp=T03¦ex=Mein Wunschberuf ist Ärztin.¦en=My dream job is doctor.
+B3752¦ck=-¦tp=T15¦ex=Hätte ist eine Konjunktivform von haben.¦en=Hätte is a subjunctive form of haben.
+B4380¦tp=T05¦ps=stärkt¦pt=stärkte¦pf=hat gestärkt¦ex=Sport stärkt das Herz.¦en=Exercise strengthens the heart.
+B3753¦ck=-¦tp=T15¦ex=Ein Bedingungssatz beginnt oft mit wenn.¦en=A conditional clause often begins with wenn.
+B3754¦tp=T03¦ex=Ich nehme mir morgen einen Tag frei.¦en=I am taking a day off tomorrow.
+B3755¦pos=adjective¦tp=T15¦m=unreal; hypothetical¦ex=Mit dem Konjunktiv II drückt man irreale Wünsche aus.¦en=With the subjunctive II you express unreal wishes.
+B5489¦pos=adjective¦m=uniform; standardised¦en=The pupils of this school wear uniform clothing.
+B3756¦tp=T06¦ex=Das Besteck liegt neben dem Teller.¦en=The cutlery is next to the plate.
+B3757¦en=Do you have a brush? My shoes are so dirty.
+B3758¦tp=T07¦m=to dye; to colour¦ps=färbt¦pt=färbte¦pf=hat gefärbt¦ex=Sie färbt sich die Haare rot.¦en=She is dyeing her hair red.
+B5118¦pos=adjective¦tp=T12¦ex=Meine Großeltern sind katholisch.¦en=My grandparents are Catholic.
+B3759¦tp=T05¦m=to blow-dry¦ps=föhnt¦pt=föhnte¦pf=hat geföhnt¦ex=Ich föhne mir jeden Morgen die Haare.¦en=I blow-dry my hair every morning.
+B3760¦en=I have been working in a restaurant for a month.
+B3761¦en=I want to hang up a picture. Do you have a hammer for me?
+B5490¦m=sex¦lv=B2¦art=der¦pl=–¦ex=In der Beratung ging es um Sex und Verhütung.¦en=The counselling session was about sex and contraception.
+B3762¦en=It is time for a little snack.
+B3763¦tp=T05¦ex=Hast du einen Kamm dabei?¦en=Do you have a comb with you?
+B3764¦tp=T02¦m=cardboard box; carton¦ex=Wir packen die Bücher in einen Karton.¦en=We are packing the books in a cardboard box.
+B5491¦m=to contribute¦lv=B2¦sp=bei¦ps=trägt bei¦pt=trug bei¦pf=hat beigetragen¦g=zu + Dat.¦ex=Jeder kann zum Umweltschutz beitragen.¦en=Everyone can contribute to environmental protection.
+B3765¦m=computer; calculator¦en=My computer is broken.
+B3767¦m=envelope; compress; poultice¦ex=Stecken Sie den Brief in einen Umschlag.¦en=Put the letter in an envelope.
+B3768¦en=You are wrong. The car was not green but red.
+B5492¦pos=adverb¦m=on it (colloquial); (it is) one's turn¦lv=B1¦ex=Wer ist als Nächster dran?¦en=Whose turn is it next?
+B3770¦en=Excuse me, I mistook you for someone else.
+B3771¦tp=T01¦pf=hat zusammengesessen¦ex=Am Abend sitzen wir oft gemütlich zusammen.¦en=In the evening we often sit together comfortably.
+B3773¦ps=verzeiht¦en=I will never be able to forgive him for that.
+B5493¦m=interaction¦lv=C1¦art=die¦pl=Interaktionen¦ex=Die Interaktion zwischen Arzt und Patient ist wichtig.¦en=The interaction between doctor and patient is important.
+B3774¦m=recently¦en=We recently talked about the fact that we want to go away at the weekend.
+B3775¦pos=adjective¦tp=T14¦ex=Der Verkäufer war sehr unfreundlich zu uns.¦en=The shop assistant was very unfriendly to us.
+B3777¦en=He copied the homework from me.
+B5495¦pos=adjective¦m=flat; shallow¦en=I need flat shoes for work.
+B3778¦pos=adjective¦tp=T03¦m=meaningful; informative¦ex=Ein aussagekräftiger Lebenslauf erhöht deine Chancen.¦en=A meaningful CV increases your chances.
+B3779¦tp=T09¦ex=Ich brauche eine Bescheinigung für meinen Arbeitgeber.¦en=I need a certificate for my employer.
+B3780¦ck=-¦tp=T03¦m=application photo; CV photo¦ex=Für die Bewerbung brauche ich ein aktuelles Bewerbungsfoto.¦en=For the application I need a recent application photo.
+B5496¦pos=conjunction¦m=especially since; all the more so as¦lv=C1¦ex=Ich gehe heute nicht aus, zumal es regnet.¦en=I am not going out today, especially since it is raining.
+B3781¦ck=-¦tp=T03¦m=application portal¦ex=Sie müssen Ihre Unterlagen im Bewerbungsportal hochladen.¦en=You have to upload your documents on the application portal.
+B3782¦tp=T03¦ex=Im Bewerbungsschreiben nenne ich meine Stärken.¦en=In the cover letter I mention my strengths.
+B3783¦tp=T03¦m=application training (course)¦ex=Ich mache ein Bewerbungstraining bei der Agentur für Arbeit.¦en=I am doing an application training course at the employment agency.
+B5497¦m=hall; large building¦tp=T08¦pl=Hallen¦ex=Wir treffen uns in Halle B.¦en=We are meeting in hall B.
+B3784¦tp=T10¦ex=Der Download dauert nur eine Minute.¦en=The download takes only one minute.
+B3785¦en=This hotel is particularly suitable for families with children.

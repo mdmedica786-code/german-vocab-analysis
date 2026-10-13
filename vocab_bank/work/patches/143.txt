@@ -1,0 +1,100 @@
+B3581¦en=From there the path leads downhill into the valley.
+B5460¦ef=der Tote; die Tote; die Toten¦pl=Toten¦m=dead person¦tp=T12¦en=There were two dead in the accident.
+B3582¦ck=-¦tp=T10¦ex=Der Bahnradfahrer trainiert im Velodrom.¦en=The track cyclist trains in the velodrome.
+B3583¦ck=-¦tp=T10¦ex=Die Bahnradfahrerin gewinnt das Rennen.¦en=The track cyclist wins the race.
+B3584¦ps=ehrt¦pt=ehrte¦pf=hat geehrt¦tp=T12¦ex=Die Stadt ehrt die Sportlerin.¦en=The city honours the sportswoman.
+B5461¦pl=Updates¦m=update¦lv=B2¦tp=T10¦ex=Ich muss das Update noch installieren.¦en=I still have to install the update.
+B3585¦ps=ist engagiert¦pt=war engagiert¦pf=ist engagiert gewesen¦tp=T12¦g=in + Dat.¦ex=Sie ist im Umweltschutz engagiert.¦en=She is committed to environmental protection.
+B3586¦en=The accident happened early in the morning.
+B3588¦pos=adjective¦tp=T05¦ex=Nach dem Unfall war sein Arm gelähmt.¦en=After the accident his arm was paralysed.
+B5462¦pl=–¦m=trust¦tp=T14¦en=I have trust in you.
+B3590¦en=She is the heroine of the day.
+B3591¦ex=Der Höhepunkt des Abends war das Feuerwerk.¦en=The highlight of the evening was the fireworks.
+B3595¦tp=T05¦ex=Bitte machen Sie den Oberkörper frei.¦en=Please undress your upper body.
+B5463¦pl=Weiten¦m=vastness; width¦lv=B2¦tp=T11¦ex=Ich liebe die Weite des Meeres.¦en=I love the vastness of the sea.
+B3596¦tp=T10¦ex=Der Olympiasieger bekam eine Goldmedaille.¦en=The Olympic champion received a gold medal.
+B3597¦tp=T10¦ex=Die Olympiasiegerin wurde gefeiert.¦en=The Olympic champion was celebrated.
+B3598¦tp=T14¦ex=Mit Optimismus schafft man vieles.¦en=With optimism you can achieve a lot.
+B5464¦pl=–¦m=wool¦tp=T07¦en=This sweater is made of pure wool.
+B3600¦tp=T14¦ex=Sie ist eine Powerfrau und schafft alles.¦en=She is a powerhouse and manages everything.
+B3601¦tp=T01¦ex=Mein Privatleben ist mir wichtig.¦en=My private life is important to me.
+B3602¦pos=adjective¦tp=T16¦ex=Die Firma plant radikale Änderungen.¦en=The company is planning radical changes.
+B5465¦m=Austrian (man)¦ex=Mein Nachbar ist Österreicher.¦en=My neighbour is Austrian.
+B3603¦ck=-
+B3604¦tp=T03¦ex=Mit der Selbstständigkeit hat sie sich einen Traum erfüllt.¦en=With self-employment she fulfilled a dream.
+B3605¦tp=T12
+B5466¦m=building; construction¦ex=Der Bau des Krankenhauses dauert zwei Jahre.¦en=The construction of the hospital takes two years.
+B3607¦ps=ist tätig¦pt=war tätig¦pf=ist tätig gewesen¦tp=T03¦m=to work; to be active¦ex=Sie ist als Ärztin tätig.¦en=She works as a doctor.
+B3608¦pos=adjective¦tp=T16¦ex=Der Befund ist unverändert.¦en=The finding is unchanged.
+B3612¦tp=T10¦ex=Die Weltmeisterin trainiert täglich.¦en=The world champion trains daily.
+B5467¦art=die¦pl=Republiken¦m=republic¦lv=B2¦ex=Österreich ist eine Republik.¦en=Austria is a republic.
+B3613¦ex=Die Wirbelsäule trägt den Körper.¦en=The spine supports the body.¦col=Wirbelsäule untersuchen | Verletzung der Wirbelsäule | Wirbelsäule belasten | gekrümmte Wirbelsäule¦tp=M1 Medizin: Anatomie & Körpersysteme
+B3614¦pos=adjective¦ex=Das ist ein literarisches Werk.¦en=That is a literary work.
+B3615¦ef=das Vergangene¦tp=T13¦ex=Man sollte das Vergangene ruhen lassen.¦en=One should let the past rest.
+B4850¦ck=-
+B3616¦tp=T15¦ex=„Ich ging“ ist eine Vergangenheitsform.¦en="Ich ging" is a past tense form.
+B3617¦tp=T10¦ex=Ich habe einen Zeitungsartikel über Gesundheit gelesen.¦en=I read a newspaper article about health.
+B3618¦ps=begeistert¦pt=begeisterte¦pf=hat begeistert¦tp=T14¦ex=Das Konzert hat mich begeistert.¦en=The concert thrilled me.
+B5468¦m=to deal with; to handle¦g=mit + Dat.¦en=He can handle children very well.
+B3620¦tp=T10¦ex=Am Wochenende ist ein Stadtfest.¦en=There is a city festival at the weekend.
+B3623¦en=I woke up from the noise.
+B3624¦ps=ist gemacht¦pt=war gemacht¦pf=ist gemacht gewesen¦tp=T07
+B4273¦m=argument; quarrel¦en=I don't want an argument with the neighbours.
+B3625¦tp=T08
+B3626¦pos=adjective¦tp=T14¦ex=Sie kümmert sich liebevoll um die Kinder.¦en=She takes loving care of the children.
+B3627¦tp=T06¦ex=Zum Nachtisch gibt es Eis.¦en=For dessert there is ice cream.
+B4717¦ex=Deutschland ist eine Demokratie.¦en=Germany is a democracy.
+B3629¦tp=T01¦ex=Meine Schwiegereltern besuchen uns am Sonntag.¦en=My parents-in-law are visiting us on Sunday.
+B3630¦ex=Am Sonnabend gehen wir einkaufen.¦en=On Saturday we go shopping.
+B3633¦tp=T13
+B4064¦en=The car drove at too high a speed.
+B3634¦tp=T11¦ex=An einem Regentag bleibe ich zu Hause.¦en=On a rainy day I stay at home.
+B3635¦pos=adjective¦tp=T13¦ex=Die jetzige Lage ist schwierig.¦en=The current situation is difficult.
+B3636¦tp=T05¦ex=Er arbeitet am Klinikum in München.¦en=He works at the clinic in Munich.
+B5469¦m=decade¦ex=Das Jahrzehnt war von Veränderungen geprägt.¦en=The decade was marked by changes.
+B3638¦ps=hat lieb¦pt=hatte lieb¦pf=hat lieb gehabt¦tp=T14¦ex=Ich habe meine Großeltern sehr lieb.¦en=I love my grandparents very much.
+B3640¦tp=T14¦ex=Sie zeigt ihm viel Zuneigung.¦en=She shows him a lot of affection.
+B3642¦en=You can also get a visa at the consulate.
+B4154¦en=I have to go to the clinic to visit my sick uncle.
+B3643¦tp=T09¦ex=Vergessen Sie Ihren Reisepass nicht.¦en=Don't forget your passport.
+B3644¦en=Please cross the street only at the traffic light.
+B3647¦tp=T10¦ex=Der Roman erzählt eine Liebesgeschichte.¦en=The novel tells a love story.
+B5470¦m=to analyse¦en=The politicians analyse the situation on the labour market.
+B3649¦tp=T02¦ex=Meine Freundin zieht nach Berlin weg.¦en=My friend is moving away to Berlin.
+B3650¦ck=-¦ef=der Büroangestellte; die Büroangestellte; die Büroangestellten¦tp=T03¦ex=Die Büroangestellten haben eine Pause.¦en=The office workers are having a break.
+B3651¦tp=T08¦ex=Camping am See ist im Sommer beliebt.¦en=Camping by the lake is popular in summer.
+B5471¦m=in; come in¦en=Come in! The door is open.
+B3654¦tp=T10¦ex=Ich schreibe einen Blogeintrag über meine Reise.¦en=I'm writing a blog post about my trip.
+B3655¦en=Look! It's snowing.
+B3656¦pos=adjective¦tp=T13¦ex=Er hat jahrelang in Köln gelebt.¦en=He lived in Cologne for years.
+B5472¦art=die¦pl=–¦m=humankind¦lv=B2¦ex=Die Menschheit muss das Klima schützen.¦en=Humankind must protect the climate.
+B3657¦en=As an apprentice you don't earn very much money.
+B3659¦tp=T07¦en=Before the cent, the currency in Germany was the pfennig.
+B3662¦tp=T16¦ex=Vertrauen ist ein wichtiger Baustein jeder Beziehung.¦en=Trust is an important building block of every relationship.
+B4776¦pos=adjective¦tp=T16¦ex=Es gibt einen qualitativen Unterschied.¦en=There is a qualitative difference.
+B3665¦ck=-¦tp=T15¦ex=Wie heißt die Tempusform von „ging“?¦en=What is the tense form of "ging"?
+B3666¦en=Pick something nice! I'm paying.
+B3667¦en=I'll call again afterwards.
+B5473¦art=die¦pl=–¦m=fear¦lv=B2¦ex=Er hat Furcht vor großen Hunden.¦en=He is afraid of big dogs.
+B3669¦tp=T14¦ex=Sein Benehmen war sehr höflich.¦en=His behaviour was very polite.
+B3670¦pos=adjective¦en=At the meeting all the members were present.
+B3671¦ck=-
+B5474¦pos=adverb¦m=consequently¦lv=B2¦ex=Es regnet stark, folglich fällt das Fest aus.¦en=It is raining heavily; consequently the party is cancelled.
+B3672¦ex=Die Begrüßung war sehr herzlich.¦en=The greeting was very warm.
+B3673¦ck=-¦tp=T15¦ex=In einem Benimmbuch stehen Regeln für gutes Benehmen.¦en=A book of etiquette contains rules for good manners.
+B3675¦pos=conjunction¦ex=Ich komme am Montag beziehungsweise am Dienstag.¦en=I'm coming on Monday or rather Tuesday.
+B5475¦art=die¦pl=–¦m=fulfilment¦lv=B2¦ex=Der Beruf ist für sie eine große Erfüllung.¦en=Her job is a great fulfilment for her.
+B3676¦en=Shall we use "du" with each other? Yes, we can address each other as "du".
+B3677¦tp=T01¦ex=Der Gastgeber begrüßt die Gäste.¦en=The host welcomes the guests.
+B3678¦tp=T01¦ex=Die Gastgeberin serviert den Kuchen.¦en=The host serves the cake.
+B5476¦m=to obtain; to gain¦lv=C1¦ps=erlangt¦pt=erlangte¦pf=hat erlangt¦ex=Sie hat große Bekanntheit erlangt.¦en=She has gained great fame.
+B3679¦tp=T03¦ex=Die Geschäftsfrau eröffnet ein neues Büro.¦en=The businesswoman opens a new office.
+B3680¦tp=T03¦ex=Der Geschäftsmann reist oft nach Asien.¦en=The businessman often travels to Asia.
+B3681¦en=He has the habit of dealing with the post first in the morning.
+B5083¦ps=verlegt¦pt=verlegte¦pf=hat verlegt¦tp=T03
+B3682¦pos=adjective¦tp=T03¦ex=Die Firma ist sehr hierarchisch organisiert.¦en=The company is organised very hierarchically.
+B3683¦ps=ignoriert¦pt=ignorierte¦pf=hat ignoriert¦ex=Er ignoriert alle Warnungen.¦en=He ignores all warnings.
+B3684¦en=She complains of headaches.
+B5477¦m=profit; prize¦ex=Der Gewinn des Spiels ist ein Auto.¦en=The prize in the game is a car.
+B3686¦en=Unfortunately the lift is broken in the office.
+B3687¦ps=niest¦pt=nieste¦pf=hat geniest¦tp=T05¦ex=Ich muss niesen, ich bin erkältet.¦en=I have to sneeze; I have a cold.

@@ -1,0 +1,59 @@
+P0001¦ph=ich glaube, dass ...¦m=I think that ...¦lv=B1¦ex=Ich glaube, dass er morgen kommt.¦en=I think he is coming tomorrow.¦gn=dass-Satz: Verb am Ende¦v=ich denke, dass | ich meine, dass
+P0002¦ph=ich weiß, dass ...¦m=I know that ...¦lv=B1¦ex=Ich weiß, dass du viel zu tun hast.¦en=I know you have a lot to do.¦gn=dass-Satz: Verb am Ende¦v=mir ist klar, dass | ich bin sicher, dass
+P0003¦m=all right; okay¦lv=A2¦gn=Antwort: einverstanden¦v=einverstanden | okay | gut
+P0004¦ph=kein Wunder, dass ...¦m=no wonder that ...¦lv=B1¦ex=Es ist kein Wunder, dass du müde bist.¦en=It's no wonder you're tired.¦gn=dass-Satz: Verb am Ende¦v=es überrascht nicht, dass | kein Wunder, wenn
+P0005¦m=on the other hand¦lv=B1¦ex=Die Wohnung ist schön, aber auf der anderen Seite ist sie sehr teuer.¦en=The flat is nice, but on the other hand it is very expensive.¦gn=Gegenstück zu „auf der einen Seite“¦v=andererseits | dagegen
+P0006¦fn=Zeit¦m=at the weekend¦lv=A1¦ex=Ich besuche am Wochenende meine Eltern.¦en=I visit my parents at the weekend.¦gn=am + Dat.: das Wochenende¦v=samstags und sonntags
+P0007¦ph=das bedeutet, dass ...¦m=that means that ...¦lv=B1¦ex=Ich habe die Prüfung nicht bestanden, das bedeutet, dass ich sie wiederholen muss.¦en=I didn't pass the exam, which means I have to retake it.¦gn=dass-Satz: Verb am Ende¦v=das heißt, dass | daraus folgt, dass
+P0008¦ph=dafür sorgen, dass ...¦m=to make sure that ...¦lv=B2¦ex=Ich muss dafür sorgen, dass alle Patienten rechtzeitig informiert werden.¦en=I must make sure that all patients are informed in time.¦gn=sorgen für + Akk.; dass-Satz¦v=darauf achten, dass | sicherstellen, dass
+P0009¦m=just a moment¦lv=A2¦ex=Warten Sie bitte einen Moment, ich komme gleich.¦en=Please wait a moment, I'll be right there.¦gn=Akkusativ der Zeit¦v=einen Augenblick
+P0010¦lv=B2¦ex=Wir werden Ihnen jederzeit zur Verfügung stehen.¦en=We will be available to you at any time.¦gn=jemandem zur Verfügung stehen (+ Dat.)¦v=bereitstehen | verfügbar sein
+P0011¦m=I'm sorry¦lv=A1¦ex=Gestern war ich unhöflich, und es tut mir leid.¦en=I was rude yesterday, and I'm sorry.¦gn=leidtun + Dat.: mir, dir, Ihnen¦v=entschuldigen Sie bitte | verzeihen Sie
+P0012¦lv=A2¦ex=Wir haben zum Glück einen Parkplatz gefunden.¦en=Luckily we found a parking space.¦v=glücklicherweise | Gott sei Dank
+P0013¦m=what's the matter?¦lv=A2¦ex=Du siehst blass aus, was ist los?¦en=You look pale, what's the matter?¦v=was ist passiert? | was hast du?
+P0014¦ph=es handelt sich um ...¦m=it is a matter of ...; it concerns ...¦lv=B2¦ex=Ich glaube, es handelt sich um einen Irrtum.¦en=I think it is a mistake.¦gn=sich handeln um + Akk.¦v=es geht um | es betrifft
+P0015¦m=in recent years¦lv=B1¦ex=In den letzten Jahren ist das Leben teurer geworden.¦en=In recent years life has become more expensive.¦gn=Dativ Plural: in den ... Jahren¦v=seit einigen Jahren | in jüngster Zeit
+P0016¦ph=es sei denn, ...¦m=unless¦lv=B2¦ex=Ich komme morgen, es sei denn, ich bin krank.¦en=I'll come tomorrow, unless I'm ill.¦gn=feste Wendung (Konjunktiv I); danach Hauptsatz¦v=außer wenn | wenn nicht
+P0017¦ph=im Vergleich zu ...¦m=in comparison to ...¦lv=B1¦ex=Im Vergleich zu München ist Berlin günstig.¦en=Compared to Munich, Berlin is cheap.¦gn=zu + Dat.¦v=verglichen mit | gegenüber
+P0018¦m=in most cases¦lv=B1¦ex=In den meisten Fällen ist die Grippe harmlos.¦en=In most cases the flu is harmless.¦gn=Dativ Plural: in den ... Fällen¦v=meistens | in der Regel
+P0019¦m=as a rule; usually¦lv=B1¦ex=In der Regel stehe ich um sieben Uhr auf.¦en=As a rule I get up at seven.¦v=normalerweise | meistens
+P0020¦ph=in der Lage sein, ... zu ...¦m=to be able to ...¦lv=B2¦ex=Er ist nicht in der Lage, allein zu wohnen.¦en=He is not able to live alone.¦gn=in der Lage sein + zu + Infinitiv¦v=fähig sein, ... zu ... | können
+P0021¦m=nearby; close by¦lv=A2¦ex=Gibt es hier in der Nähe eine Apotheke?¦en=Is there a pharmacy near here?¦v=in der Umgebung | nicht weit von hier
+P0022¦ph=sich auf ... beziehen¦m=to refer to ...¦lv=B2¦ex=Ich möchte mich auf Ihre E-Mail vom Montag beziehen.¦en=I would like to refer to your email from Monday.¦gn=sich beziehen auf + Akk.¦v=Bezug nehmen auf | verweisen auf
+P0023¦m=is everything all right?¦lv=A2¦ex=Ist bei dir alles in Ordnung?¦en=Is everything all right with you?¦v=alles klar? | geht es dir gut?
+P0024¦m=I'm sorry¦lv=A1¦ex=Das tut mir leid, ich habe Ihre Nachricht nicht gesehen.¦en=I'm sorry, I didn't see your message.¦gn=leidtun + Dat.¦v=es tut mir leid | Entschuldigung
+P0025¦m=not easy¦lv=B1¦ex=Eine neue Sprache zu lernen ist nicht einfach.¦en=Learning a new language is not easy.¦v=nicht leicht | ziemlich schwierig
+P0026¦ph=ich denke, dass ...¦m=I think that ...¦lv=B1¦ex=Ich denke, dass wir früher losfahren sollten.¦en=I think we should set off earlier.¦gn=dass-Satz: Verb am Ende¦v=ich glaube, dass | ich meine, dass
+P0027¦lv=A2¦ex=Das darfst du auf keinen Fall vergessen.¦en=You must on no account forget that.¦v=keinesfalls | unter keinen Umständen
+P0028¦ph=lass uns ...¦m=let's ...¦lv=A2¦ex=Lass uns heute Abend ins Kino gehen.¦en=Let's go to the cinema this evening.¦gn=Imperativ + Infinitiv am Ende¦v=wir könnten ... | wollen wir ...?
+P0029¦ph=in Bezug auf ...¦m=with regard to ...¦lv=B2¦ex=In Bezug auf Ihre Anfrage kann ich Ihnen Folgendes sagen.¦en=With regard to your enquiry, I can tell you the following.¦gn=auf + Akk.¦v=bezüglich | hinsichtlich
+P0030¦ph=wie geht es dir?¦m=how are you?¦lv=A1¦ex=Hallo Anna, wie geht es dir?¦en=Hello Anna, how are you?¦gn=+ Dat.: dir, Ihnen¦v=wie geht's? | wie läuft's?
+P0031¦m=unfortunately not¦lv=A1¦ex=Kannst du morgen kommen? – Leider nicht.¦en=Can you come tomorrow? – Unfortunately not.¦v=nein, leider | schade, nein
+P0032¦m=not good; not well¦lv=A1¦ex=Mir geht es heute nicht gut.¦en=I'm not feeling well today.¦v=schlecht | nicht so gut
+P0033¦ph=... lässt sich ...¦m=can be ...¦lv=B2¦ex=Das Problem lässt sich leicht lösen.¦en=The problem can be solved easily.¦gn=sich lassen + Infinitiv = Passiv mit „können“¦v=kann ... werden | ist ... möglich
+P0034¦m=I don't know¦lv=A1¦ex=Ich weiß nicht, wo mein Schlüssel ist.¦en=I don't know where my key is.¦v=keine Ahnung | das weiß ich nicht
+P0035¦m=no wonder¦lv=B1¦ex=Du hast kaum geschlafen, kein Wunder!¦en=You barely slept, no wonder!¦v=das überrascht nicht | verständlich
+P0036¦ph=auf der einen Seite ...¦m=on the one hand ...¦lv=B1¦ex=Auf der einen Seite möchte ich reisen, auf der anderen Seite fehlt mir das Geld.¦en=On the one hand I'd like to travel, on the other hand I lack the money.¦gn=meist mit „auf der anderen Seite“¦v=einerseits
+P0037¦ph=bedeutet, dass ...¦m=means that ...¦lv=B2¦ex=Fieber bedeutet nicht immer, dass man ernsthaft krank ist.¦en=A fever doesn't always mean that you are seriously ill.¦gn=dass-Satz: Verb am Ende¦v=heißt, dass | bedeutet, dass¦ck=dup:P0007
+P0038¦ph=was für ein ...¦lv=A2¦fn=Sonstige¦en=What colour would you like?¦gn=Fall nach dem Verb: was für einen/eine/ein¦v=welche
+P0039¦ph=auch dann, wenn ...¦m=even if ...¦lv=B2¦ex=Ich helfe dir, auch dann, wenn ich wenig Zeit habe.¦en=I'll help you, even if I have little time.¦gn=wenn-Satz: Verb am Ende¦v=selbst wenn | auch wenn
+P0040¦ph=ich hoffe, dass ...¦m=I hope that ...¦lv=B1¦ex=Ich hoffe, dass es dir bald besser geht.¦en=I hope you get better soon.¦gn=dass-Satz: Verb am Ende¦v=hoffentlich | ich wünsche mir, dass
+P0041¦m=for the first time¦lv=A2¦ex=Ich fliege zum ersten Mal nach Deutschland.¦en=I'm flying to Germany for the first time.¦v=erstmals | das erste Mal
+P0042¦m=what do you think?¦lv=A2¦ex=Ich möchte das Sofa kaufen. Was meinst du?¦en=I'd like to buy the sofa. What do you think?¦v=was denkst du? | wie findest du das?
+P0043¦m=I'm so sorry¦lv=A2¦ex=Es tut mir so leid, dass ich dich warten ließ.¦en=I'm so sorry that I kept you waiting.¦gn=leidtun + Dat.¦v=es tut mir wirklich leid | ich bedauere sehr
+P0044¦ph=die Gefahr, dass ...¦m=the risk that ...¦lv=B2¦ex=Es besteht die Gefahr, dass sich die Wunde entzündet.¦en=There is a risk that the wound will become infected.¦gn=dass-Satz: Verb am Ende¦v=das Risiko, dass | die Befürchtung, dass
+P0045¦ph=davon ausgehen, dass ...¦m=to assume that ...¦lv=B2¦ex=Wir können davon ausgehen, dass der Test negativ ist.¦en=We can assume that the test is negative.¦gn=dass-Satz: Verb am Ende¦v=annehmen, dass | vermuten, dass
+P0046¦ph=ich glaube nicht, dass ...¦m=I don't think that ...¦lv=B1¦ex=Ich glaube nicht, dass er heute kommt.¦en=I don't think he's coming today.¦gn=dass-Satz: Verb am Ende¦v=ich denke nicht, dass | ich bezweifle, dass
+P0047¦m=don't worry¦lv=A2¦ex=Hör zu, mach dir keine Sorgen, das wird schon klappen.¦en=Listen, don't worry, it will work out.¦gn=Imperativ; sich (Dat.) Sorgen machen¦v=keine Sorge | nur ruhig
+P0048¦ph=im Vergleich zur ...¦m=in comparison to the ...¦lv=B1¦ex=Im Vergleich zur Hauptstadt ist das Leben hier ruhig.¦en=Compared to the capital, life here is quiet.¦gn=zur = zu der + Dat. (feminin)¦ck=dup:P0017
+P0049¦m=around the clock¦lv=B1¦ex=Die Notaufnahme ist rund um die Uhr geöffnet.¦en=The emergency room is open around the clock.¦v=Tag und Nacht | 24 Stunden
+P0050¦m=in this way¦lv=B1¦ex=Auf diese Weise sparen wir viel Zeit.¦en=This way we save a lot of time.¦v=so | dadurch
+P0051¦ph=in der Nähe von ...¦m=near ...¦lv=B1¦ex=Wir wohnen in der Nähe von Frankfurt.¦en=We live near Frankfurt.¦gn=von + Dat.¦v=nahe bei | unweit von
+P0052¦ph=ich bitte Sie, ... zu ...¦m=I ask you to ...¦lv=B2¦ex=Ich bitte Sie, Ihre Unterlagen mitzubringen.¦en=I ask you to bring your documents.¦gn=bitten + Akk. + zu + Infinitiv¦v=ich möchte Sie bitten, ... zu ... | könnten Sie bitte ...?
+P0053¦ph=ich danke Ihnen für ...¦fn=Gefühle¦m=I thank you for ...¦lv=B1¦ex=Ich danke Ihnen für Ihre schnelle Antwort.¦en=Thank you for your quick reply.¦gn=danken + Dat.; für + Akk.¦v=vielen Dank für ... | besten Dank für ...
+P0054¦fn=Zeit¦m=at midnight¦lv=A2¦ex=Die Party endet um Mitternacht.¦en=The party ends at midnight.¦v=um 24 Uhr
+P0055¦ph=Mangel an ...¦m=lack of ...¦lv=B2¦ex=Es gibt einen Mangel an Pflegekräften.¦en=There is a shortage of nursing staff.¦gn=Mangel an + Dat.¦v=Knappheit an | Fehlen von
+P0056¦ph=... lassen sich ...¦m=can be ...¦lv=B2¦ex=Die Symptome lassen sich gut behandeln.¦en=The symptoms can be treated well.¦gn=Plural von „lässt sich“: Passiv mit „können“¦v=können ... werden | sind ... möglich
+P0057¦ph=sagen, dass ...¦m=to say that ...¦lv=B1¦ex=Man muss sagen, dass die Behandlung gut war.¦en=You have to say that the treatment was good.¦gn=dass-Satz: Verb am Ende¦v=erklären, dass | mitteilen, dass
+P0058¦ph=ich finde, dass ...¦m=I think that ...¦lv=A2¦ex=Ich finde, dass der Film zu lang war.¦en=I think the film was too long.¦gn=dass-Satz: Verb am Ende¦v=ich meine, dass | meiner Meinung nach
+P0059¦m=no idea¦lv=A2¦ex=Wo ist Paul? – Keine Ahnung.¦en=Where is Paul? – No idea.¦v=ich weiß nicht | keinen Schimmer

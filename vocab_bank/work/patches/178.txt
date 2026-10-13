@@ -1,0 +1,12 @@
+B1157¦m=greeting formula (e.g. complimentary close)
+B2253¦m=to be there; to be included; to take part
+B2394¦pl=Hinfahrten
+B2865¦m=contradiction; objection; (legal) appeal
+B3807¦en=My boss often asks me about the status of my project.
+B6265¦pf=hat sich geweigert
+B6402¦ex=Wir gehen heute Abend in die Disko.
+B0797¦lv=B2
+B2031¦m=intermediate school-leaving certificate (Realschule)
+B3403¦col=darum bitten | darum geht es | genau darum | darum geht es nicht
+B4716¦lv=B2
+B5737¦m=southern; south of¦nt=also a preposition with genitive: südlich der Stadt

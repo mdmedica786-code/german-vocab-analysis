@@ -1,0 +1,100 @@
+B1382¦en=Do you have another wish?
+B1383¦tp=T02¦en=We have rented an apartment.
+B1384¦pos=adjective¦tp=T07¦nt=Can sound negative (cheap, tacky); günstig = inexpensive.¦en=The jacket only costs 10 euros! That's cheap!
+B5064¦col=in der Forschung arbeiten | Forschung betreiben | medizinische Forschung | Ergebnisse der Forschung¦en=He works in research.
+B1385¦pos=adjective¦tp=T16¦col=direkt fahren | ein direkter Zug | direkt am Bahnhof | direkt fragen
+B1386¦tp=T02¦en=Our flat only has a shower.
+B1387¦pos=adjective¦en=I find your dress very elegant.
+B3238¦tp=T15¦ps=deutet¦pt=deutete¦pf=hat gedeutet¦m=to point; to indicate; to interpret¦ex=Der Mann deutet auf die Tür.¦en=The man points to the door.¦col=auf etwas deuten | etwas als Zeichen deuten | Träume deuten | die Zeichen deuten
+B1388¦pos=adjective¦en=A flat with a garden would be ideal for us.
+B1389¦pos=adjective¦tp=T01¦ef=jünger – am jüngsten¦en=Claudia is 21. – What? So young?
+B1390¦en=The post office is near the station.
+B2092¦pos=adverb¦en=Katarina looks just like her sister.¦col=genauso gut | genauso viel | genauso wie | genauso schnell
+B1391¦pos=adjective¦tp=T02¦ex=Die Wohnung ist frisch renoviert.¦en=The flat has been freshly renovated.
+B1392¦tp=T02¦m=floor; stick¦en=Our flat is on the first floor.
+B1393¦pos=adjective¦tp=T14¦rg=informal¦m=great; top (colloq.)¦ex=Das Hotel ist wirklich top.¦en=The hotel is really top.
+B2439¦pos=adjective¦col=erfolgreich sein | erfolgreich abschließen | ein erfolgreicher Geschäftsmann | erfolgreich arbeiten¦en=My grandfather was a successful businessman.
+B1394¦tp=T02¦ps=vermietet¦pt=vermietete¦pf=hat vermietet¦en=The flat has already been rented out.
+B1395¦tp=T02¦ex=Die Wohnfläche beträgt 65 Quadratmeter.¦en=The living area is 65 square metres.
+B1396¦tp=T02¦ck=-¦ex=Ich habe eine Wohnungsanzeige in der Zeitung gelesen.¦en=I read a flat advertisement in the newspaper.
+B3197¦m=use; deployment; effort¦ex=Der Einsatz der Feuerwehr dauerte drei Stunden.¦en=The fire brigade's operation lasted three hours.
+B1397¦pos=adjective¦col=zentral gelegen | zentrale Lage | ein zentrales Thema | zentral wohnen¦en=We are looking for a two-room flat in a central location.
+B1398¦pos=adjective¦tp=T13¦ef=dunkler – am dunkelsten¦col=dunkle Haare | dunkel werden | im Dunkeln | dunkle Wolken¦en=At six o'clock it is already dark.
+B1399¦pos=adjective¦tp=T07¦en=There are good offers there.
+B5225¦m=to run; to operate; to pursue¦lv=B1¦ps=betreibt¦pt=betrieb¦pf=hat betrieben¦ex=Sie betreibt ein kleines Café.¦en=She runs a small café.¦col=ein Geschäft betreiben | eine Firma betreiben | Sport betreiben | eine Anlage betreiben
+B1400¦tp=T09¦ps=füllt aus¦pt=füllte aus¦pf=hat ausgefüllt
+B1401¦tp=T08¦ps=besichtigt¦pt=besichtigte¦pf=hat besichtigt¦en=I would like to visit the cathedral.
+B1402¦en=I bought two crates of beer.
+B2652¦en=Unfortunately I can't read your handwriting.
+B1403¦tp=T02¦en=Where do you switch on the light here?
+B1404¦pt=packte¦col=den Koffer packen | Sachen packen | ein Paket packen | jemanden am Arm packen¦en=I still have to pack my suitcase.
+B1405¦tp=T16¦m=to close; to conclude; to lock¦os=-
+B3459¦m=to afford; to achieve; to do¦en=Unfortunately I can't afford such an expensive car.¦col=sich etwas leisten | Hilfe leisten | gute Arbeit leisten | einen Beitrag leisten
+B1406¦tp=T02¦en=Please close the door!
+B1407¦tp=T02¦pt=zog um¦nt=sich umziehen = to change clothes.¦en=Next month we are moving.
+B1408¦en=The move is next week.
+B3045¦pt=baute¦col=ein Haus bauen | eine Brücke bauen | ein Modell bauen | auf etwas bauen¦en=Our neighbours are building a new house.
+B1409¦tp=T09¦pt=unterschrieb¦en=Where do I have to sign?
+B1410¦tp=T02¦en=Our landlord is called Huber. He lives here too.
+B1411¦en=Our landlady is a very nice, older woman.
+B5226¦art=die¦pl=Waffen¦m=weapon¦lv=B1¦ex=Die Polizei hat eine Waffe gefunden.¦en=The police found a weapon.
+B1412¦en=I still have to sign the contract.
+B1413¦rg=informal¦pt=machte zu¦en=Could you close the window, please?
+B1414¦tp=T14¦ps=freut¦pt=freute¦pf=hat gefreut¦g=auf + Akk. | über + Akk.¦m=to be glad; to look forward to (sich freuen)¦en=I'm looking forward to the holiday.
+B3088¦tp=T11¦m=fire; light (for a cigarette)¦en=Do you have a light?
+B1415¦tp=T11¦pt=schien¦m=to shine; to seem¦en=The sun is shining.
+B1416¦pos=adjective¦tp=T16¦ex=Bitte ergänzen Sie die fehlenden Wörter.¦en=Please add the missing words.
+B1417¦tp=T13¦en=I'll be there soon.
+B4476¦ps=gelangt¦pt=gelangte¦pf=ist gelangt¦g=zu + Dat. | in + Akk.¦m=to reach; to get to¦ex=Wie gelange ich zum Bahnhof?¦en=How do I get to the station?¦col=ans Ziel gelangen | zu einer Entscheidung gelangen | in die Öffentlichkeit gelangen | zum Erfolg gelangen
+B1418¦en=It was a lovely party.
+B1419¦tp=T01¦en=Congratulations on your birthday.
+B1420¦tp=T13¦ex=Am Samstagabend gehen wir ins Theater.¦en=On Saturday evening we're going to the theatre.
+B4497¦pos=adverb¦en=Presumably he is telling the truth.¦col=vermutlich nicht | vermutlich schon | vermutlich ein Irrtum | vermutlich morgen
+B1421¦tp=T01¦ex=Zur Einweihungsfeier kommen alle Nachbarn.¦en=All the neighbours are coming to the housewarming party.
+B1422¦tp=T08¦g=+ Akk./Dat.¦en=Behind the house we have a garden.
+B1423¦tp=T08¦g=+ Akk./Dat.
+B5227¦ps=zuckt¦pt=zuckte¦pf=hat gezuckt¦tp=M2 Medizin: Symptome & Krankheiten¦m=to twitch; to jerk¦lv=B1¦ex=Sein Auge zuckt vor Müdigkeit.¦en=His eye twitches from tiredness.¦col=mit den Schultern zucken | das Auge zuckt | zusammenzucken | die Mundwinkel zucken
+B1424¦tp=T08¦g=+ Akk./Dat.
+B1425¦tp=T08¦g=+ Akk./Dat.¦en=Heidelberg lies between Frankfurt and Stuttgart.
+B1426¦tp=T14¦pt=sah aus¦en=That looks nice.
+B5228¦ps=erlaubt¦pt=erlaubte¦pf=hat erlaubt¦g=+ Dat. + Akk.¦tp=T09¦m=to allow; to permit¦en=Smoking is not allowed here.
+B1427¦tp=T14¦ex=Die Kinder spielen mit großer Begeisterung.¦en=The children play with great enthusiasm.
+B1428¦pos=adjective¦en=We have a very cosy flat.
+B1429¦pos=adjective¦en=I find the dress ugly. I don't like it.
+B3245¦tp=T16¦ex=Im Hintergrund sieht man die Berge.¦en=In the background you can see the mountains.
+B1431¦tp=T15¦m=remark; statement¦ex=Seine Äußerung war nicht höflich.¦en=His remark was not polite.
+B1432¦pos=adjective¦col=negativ denken | ein negatives Ergebnis | negativ getestet | negative Folgen¦en=You shouldn't see everything negatively.
+B2588¦pos=adjective¦col=nötig sein | nicht nötig | wenn nötig | das Nötigste¦en=If necessary, take another tablet.
+B1433¦pos=adjective¦col=positiv denken | ein positives Ergebnis | positiv getestet | eine positive Nachricht¦en=We have positive news for you. You are getting the job.
+B1434¦tp=T16¦ex=Er hat braune Augen.¦en=He has brown eyes.
+B1435¦tp=T16¦ex=Die Zitrone ist gelb.¦en=The lemon is yellow.
+B2019¦pos=adjective¦tp=T14¦g=von + Dat.¦ex=Ich möchte finanziell unabhängig sein.¦en=I would like to be financially independent.¦col=unabhängig sein | finanziell unabhängig | unabhängig von ... | eine unabhängige Zeitung
+B1436¦tp=T16¦ex=Der Himmel ist heute grau.¦en=The sky is grey today.
+B1437¦ex=Sie trägt ein lila Kleid.¦en=She is wearing a purple dress.¦nt=Indeclinable colour adjective.
+B1438¦ex=Ich möchte eine orange Jacke.¦en=I would like an orange jacket.¦nt=Indeclinable colour adjective.
+B5229¦pos=preposition¦g=+ Gen. (um ... willen)¦m=for the sake of¦lv=B1¦ex=Um des Friedens willen hat er nachgegeben.¦en=For the sake of peace he gave in.
+B1439¦tp=T16¦ex=Mein Kater ist schwarz.¦en=My tomcat is black.
+B1440¦tp=T16¦ex=Die Wände sind weiß.¦en=The walls are white.
+B1441¦tp=T02¦ex=Die Altbauwohnung hat hohe Decken.¦en=The old-building flat has high ceilings.
+B4747¦ex=Die Regierung plant neue Gesetze.¦en=The government is planning new laws.¦col=die Regierung bilden | die Regierung wechselt | die Bundesregierung | Kritik an der Regierung
+B1442¦m=ceiling; blanket¦en=In the living room we have no lamp on the ceiling.
+B1443¦tp=T02¦ex=In der Altstadt stehen viele Fachwerkhäuser.¦en=There are many half-timbered houses in the old town.
+B1444¦tp=T02¦en=Unfortunately we have no garden.
+B3527¦en=These two opinions are in strong contrast to each other.
+B1445¦tp=T02¦ex=Er wohnt in einem Hochhaus im zehnten Stock.¦en=He lives in a high-rise on the tenth floor.
+B1446¦en=Would you like a shelf made of wood or metal?
+B1447¦tp=T02¦ex=Sie wohnt in einem Loft in der Innenstadt.¦en=She lives in a loft in the city centre.
+B5230¦pl=Drücke¦m=pressure; print¦nt=Pl. Drucke = prints.¦en=What must the pressure in the front tyres be?
+B1448¦tp=T02¦en=The lesson is in room 332.
+B1449¦tp=T02¦ex=Wir haben ein kleines Reihenhaus am Stadtrand.¦en=We have a small terraced house on the outskirts.
+B1450¦tp=T02¦en=The toilet? Up the stairs and then left.
+B2096¦pos=adjective¦en=The exam was not difficult.
+B1451¦en=The article appeared under the following heading: “…”
+B1452¦en=I don't know the other residents of the building.
+B1453¦ex=Die Bewohnerin im dritten Stock ist sehr freundlich.¦en=The resident on the third floor is very friendly.¦es=claude
+B3196¦pt=bestätigte¦col=einen Termin bestätigen | den Empfang bestätigen | eine Vermutung bestätigen | schriftlich bestätigen¦en=I can confirm that he was here.
+B1454¦en=The flat has one disadvantage. It isn't centrally located.
+B1455¦en=The advantage of this flat is that it is right in the centre.
+B1456¦tp=T02¦ex=Eine Wohngemeinschaft ist eine beliebte Wohnform.¦en=A shared flat is a popular form of housing.
+B3980¦pos=adjective¦ex=Das ist ein sogenannter Fachbegriff.¦en=That is a so-called technical term.¦col=sogenannte Experten | der sogenannte Fortschritt | sogenannte Freunde | die sogenannte Wahrheit
+B1457¦tp=T11¦en=Careful, don't drive into the tree!

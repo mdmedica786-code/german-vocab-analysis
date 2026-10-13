@@ -1,0 +1,93 @@
+B4968¦tp=T10¦ex=Das Training findet in der Sporthalle statt.¦en=The training takes place in the sports hall.
+B4969¦tp=T12¦ex=Die Stadträtin spricht über den neuen Park.¦en=The city councillor speaks about the new park.
+B5722¦m=handball¦lv=A2¦tp=T10¦pl=–¦ex=Mein Bruder spielt Handball im Verein.¦en=My brother plays handball in a club.
+B4972¦tp=T02¦ex=Die Stadt fördert den Wohnbau.¦en=The city promotes housing construction.
+B4973¦en=At the next crossing you have to turn left.
+B4974¦tp=T08¦ex=Mein Auto ist in der Autowerkstatt.¦en=My car is at the garage.
+B5723¦m=Easter¦pl=–¦ex=Zu Ostern besuchen wir meine Eltern.¦en=At Easter we visit my parents.
+B4976¦tp=T10¦ex=Wir machen eine Bootstour auf dem Rhein.¦en=We are taking a boat trip on the Rhine.
+B4977¦ck=-¦tp=T08¦ex=Die Einheimischen kennen die besten Restaurants.¦en=The locals know the best restaurants.
+B4978¦tp=T08¦m=ticket (travel)¦ex=Bitte entwerten Sie Ihren Fahrschein.¦en=Please validate your ticket.
+B5724¦pos=adjective¦m=exaggerated; excessive¦lv=B2¦tp=T14¦ex=Ihre Angst ist übertrieben.¦en=Her fear is exaggerated.
+B4979¦ex=Die Fassade des Hauses ist frisch gestrichen.¦en=The facade of the house has been freshly painted.
+B4980¦tp=T10¦ex=Der Favorit hat das Rennen gewonnen.¦en=The favourite won the race.
+B4981¦tp=T10¦ex=Die Favoritin ist schon im Finale.¦en=The favourite is already in the final.
+B5725¦m=intervention¦lv=C1¦art=die¦pl=Interventionen¦tp=M3¦ex=Eine frühe Intervention verbessert die Prognose.¦en=An early intervention improves the prognosis.
+B4984¦tp=T12¦ex=Viele Flüchtlinge suchen Schutz in Europa.¦en=Many refugees seek protection in Europe.
+B4985¦ck=-¦tp=T10¦ex=Im Sommer gehen wir ins Flussbad.¦en=In summer we go to the river baths.
+B4986¦tp=T08¦ex=Die Gasse in der Altstadt ist sehr eng.¦en=The alley in the old town is very narrow.
+B5726¦m=donation¦lv=B2¦tp=T12¦pl=Spenden¦ex=Wir danken für Ihre Spende.¦en=We thank you for your donation.
+B4987¦tp=T16¦ex=Der Hauptgrund für den Umzug war die Arbeit.¦en=The main reason for the move was work.
+B4988¦ck=-¦tp=T08¦ex=Im Industrieviertel gibt es viele Fabriken.¦en=There are many factories in the industrial quarter.
+B4991¦pos=adverb¦tp=T08¦m=in the middle of it¦ex=Wir wohnen mittendrin in der Stadt.¦en=We live right in the middle of the city.
+B5727¦m=agency; placement; mediation¦en=You are looking for a room? Then ask at the agency at the station.
+B4992¦en=I cannot find the keys anywhere.
+B4994¦ck=-¦tp=T08¦ex=Wir fahren mit dem Auto den Berg rauf.¦en=We drive up the mountain by car.
+B4996¦tp=T08¦ex=Wir fahren den ganzen Tag in der Stadt rum.¦en=We drive around the city all day.
+B5728¦m=property¦lv=B2¦art=das¦pl=–¦ex=Das Haus ist mein Eigentum.¦en=The house is my property.
+B5000¦ck=-¦tp=T08¦ex=Das Trendviertel hat viele kleine Cafés.¦en=The trendy district has many small cafés.
+B5002¦tp=T08¦ex=Der Eiffelturm ist das Wahrzeichen von Paris.¦en=The Eiffel Tower is the landmark of Paris.
+B5003¦ps=schaut an¦pt=schaute an¦pf=hat angeschaut¦ex=Ich schaue das Bild an.¦en=I look at the picture.
+B5729¦pos=adjective¦m=therapeutic¦lv=C1¦ex=Die therapeutische Behandlung dauert sechs Wochen.¦en=The therapeutic treatment lasts six weeks.
+B5004¦en=There are many famous monuments in this city.
+B5005¦en=On the second day we took a round trip through the harbour.
+B5007¦tp=T08¦ex=Am Samstag machen wir einen Stadtbummel.¦en=On Saturday we are going for a stroll through the city.
+B5731¦m=blossom¦lv=B2¦art=die¦pl=Blüten¦ex=Im Frühling stehen die Bäume in voller Blüte.¦en=In spring the trees are in full blossom.
+B5008¦en=There is a lot of tourism in this area.
+B5009¦tp=T03¦ex=Mein Geschäftspartner kommt aus Italien.¦en=My business partner comes from Italy.
+B5010¦tp=T03¦ex=Meine Geschäftspartnerin besucht uns nächste Woche.¦en=My business partner visits us next week.
+B5732¦m=rejection; refusal¦lv=C1¦art=die¦pl=Ablehnungen¦ex=Die Ablehnung seines Antrags hat ihn enttäuscht.¦en=The rejection of his application disappointed him.
+B5011¦ck=-¦pos=adjective¦tp=T15¦m=semi-formal¦ex=Für diese E-Mail passt ein halbformeller Ton.¦en=A semi-formal tone suits this email.
+B5012¦tp=T12¦ps=regiert¦pt=regierte¦pf=hat regiert¦ex=Die Königin regierte fünfzig Jahre lang.¦en=The queen ruled for fifty years.
+B5013¦tp=T07¦ex=Bankgeschäfte erledige ich online.¦en=I do my banking online.
+B5733¦pos=preposition¦m=together with¦lv=C1¦g=+ Dat.¦ex=Er kam samt seiner Familie.¦en=He came together with his family.
+B5014¦en=Do you need a receipt?
+B5015¦en=Yesterday I paid money into my bank account.
+B5016¦tp=T07¦ex=Ich prüfe jeden Monat meinen Kontoauszug.¦en=I check my bank statement every month.
+B5734¦m=liability¦lv=C1¦art=die¦pl=–¦tp=T12¦ex=Die Haftung für Schäden übernimmt die Versicherung.¦en=The insurance covers liability for damage.
+B5018¦tp=T07
+B5019¦tp=T07¦ex=Der Zins für den Kredit ist niedrig.¦en=The interest rate for the loan is low.
+B5021¦tp=T07¦ex=Für die Überweisung brauche ich die BIC.¦en=For the transfer I need the BIC.
+B5735¦m=level; standard¦lv=B2¦art=das¦pl=Niveaus¦ex=Das Niveau des Kurses ist hoch.¦en=The level of the course is high.
+B5023¦pos=adjective¦ex=Die Rechnung ist Ende des Monats fällig.¦en=The bill is due at the end of the month.
+B5024¦pos=adjective¦tp=T09¦m=within the deadline; on time¦ex=Bitte zahlen Sie fristgerecht.¦en=Please pay within the deadline.
+B5025¦tp=T07¦ex=Bitte geben Sie Ihre IBAN an.¦en=Please state your IBAN.
+B5736¦m=manager¦ex=Der Manager leitet die Abteilung.¦en=The manager heads the department.
+B5026¦pos=adjective¦ex=Die Miete wird monatlich bezahlt.¦en=The rent is paid monthly.
+B5027¦en=The machine only accepts coins.
+B5030¦en=I am sorry, I missed the registration deadline.
+B5737¦m=southern¦ex=Südlich der Stadt liegt ein See.¦en=A lake lies south of the town.
+B5034¦ck=-¦tp=T07¦ex=Die Bank verlangt eine monatliche Kontoführungsgebühr.¦en=The bank charges a monthly account maintenance fee.
+B5035¦tp=T15¦ex=Die Grundform des Verbs ist der Infinitiv.¦en=The basic form of the verb is the infinitive.
+B5738¦m=problem; set of issues¦lv=C1¦art=die¦pl=Problematiken¦ex=Die Problematik ist uns bekannt.¦en=We are aware of the issue.
+B5036¦tp=T07¦ex=Online-Banking spart mir viel Zeit.¦en=Online banking saves me a lot of time.
+B5037¦ck=-¦tp=T03¦m=bank employee¦ex=Die Bankangestellte erklärt mir das Konto.¦en=The bank employee explains the account to me.
+B5040¦tp=T02¦ex=Der Kleiderschrank steht im Schlafzimmer.¦en=The wardrobe is in the bedroom.
+B5739¦m=to hunt; to chase¦ps=jagt¦pt=jagte¦pf=hat gejagt¦ex=Der Hund jagt die Katze.¦en=The dog is chasing the cat.
+B5041¦tp=T07¦ex=Dabei fallen keine zusätzlichen Kosten an.¦en=No additional costs arise in doing so.
+B5042¦tp=T10¦ex=Ihr Benutzername steht in der E-Mail.¦en=Your user name is in the email.
+B5043¦tp=T07¦ex=Die Miete zahle ich per Dauerauftrag.¦en=I pay the rent by standing order.
+B5740¦pos=adverb¦m=meanwhile; however¦lv=C1¦ex=Sie kochte; er deckte indessen den Tisch.¦en=She cooked; meanwhile he set the table.
+B5044¦tp=T10¦ps=loggt sich ein¦pt=loggte sich ein¦pf=hat sich eingeloggt¦ex=Ich logge mich mit meinem Passwort ein.¦en=I log in with my password.
+B5046¦ck=-¦tp=T07¦ex=Mit der Fotoüberweisung fotografiert man die Rechnung.¦en=With a photo transfer you photograph the invoice.
+B5047¦tp=T07¦ex=Bitte prüfen Sie Ihre Kontodaten.¦en=Please check your account details.
+B5741¦pos=adjective¦m=ethical¦lv=C1¦ex=Das ist eine ethische Frage.¦en=That is an ethical question.
+B5048¦ck=-¦tp=T07¦ex=In der Kontoübersicht sehe ich alle Umsätze.¦en=In the account overview I see all transactions.
+B5049¦tp=T10¦ex=Der Log-in funktioniert nicht.¦en=The log-in does not work.
+B5742¦m=provider; supplier¦en=Is that a private telephone provider?
+B5051¦ck=-¦tp=T10¦ex=Die Standardübersicht zeigt die wichtigsten Daten.¦en=The standard overview shows the most important data.
+B5053¦tp=T07¦ex=Die Kontoeröffnung dauert nur zehn Minuten.¦en=Opening the account takes only ten minutes.
+B5743¦m=thinking¦lv=B2¦art=das¦pl=–¦ex=Logisches Denken ist für den Beruf wichtig.¦en=Logical thinking is important for the profession.
+B5054¦en=Can you make me a copy, please?
+B5055¦pos=adjective¦tp=T09¦m=immediate; promptly¦ex=Bitte antworten Sie umgehend.¦en=Please reply immediately.
+B5059¦tp=T12¦ex=Die Globalisierung verändert die Wirtschaft.¦en=Globalisation changes the economy.
+B5744¦pos=adverb¦m=if necessary; where applicable¦lv=C1¦ex=Bringen Sie gegebenenfalls Ihre Unterlagen mit.¦en=If necessary, bring your documents.
+B5062¦ex=Die Bekämpfung der Armut ist ein wichtiges Ziel.¦en=Combating poverty is an important goal.
+B5063¦pos=preposition¦tp=T15¦m=against; con¦ex=Es gibt Argumente pro und contra.¦en=There are arguments for and against.
+B5065¦ck=-¦tp=T10¦ex=Der Handyhersteller bringt ein neues Modell heraus.¦en=The mobile phone manufacturer is bringing out a new model.
+B5745¦m=relief¦lv=B2¦art=die¦pl=Erleichterungen¦ex=Zu meiner Erleichterung war der Test negativ.¦en=To my relief the test was negative.
+B5067¦tp=T14¦ex=Das ist doch Irrsinn!¦en=That is sheer madness!
+B5068¦ex=Die Konsumenten kaufen weniger Fleisch.¦en=Consumers are buying less meat.
+B5069¦ck=-¦tp=T07¦ex=Die Konsumentin vergleicht die Preise.¦en=The consumer compares the prices.
+B5746¦m=to gather; to assemble¦lv=B2¦rf=sich¦ps=versammelt sich¦pt=versammelte sich¦pf=hat sich versammelt¦ex=Die Familie versammelt sich zum Essen.¦en=The family gathers for the meal.
+B5072¦tp=T16¦ex=Ein Pluspunkt ist die zentrale Lage.¦en=One plus point is the central location.

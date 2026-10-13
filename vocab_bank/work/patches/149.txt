@@ -1,0 +1,99 @@
+B4022¦pos=adjective¦tp=T11¦ex=Morgen wird es wolkig, aber trocken.¦en=Tomorrow it will be cloudy but dry.
+B5531¦pos=adjective¦m=committed; dedicated¦lv=B2¦tp=T14¦ex=Sie ist eine engagierte Lehrerin.¦en=She is a dedicated teacher.
+B4023¦en=The weather forecast for tomorrow: dry and sunny.
+B4024¦tp=T11¦ex=Die Vorhersage für das Wochenende ist gut.¦en=The forecast for the weekend is good.
+B4025¦ck=-¦tp=T11¦ex=Für morgen wird eine Wetterbesserung erwartet.¦en=An improvement in the weather is expected for tomorrow.
+B5532¦m=slice; pane (of glass)¦en=Five slices of cheese, please.
+B4026¦ex=Mein Gedächtnis ist nicht mehr so gut.¦en=My memory is not as good as it used to be.
+B4027¦tp=T11¦ex=Der Herbststurm hat viele Bäume umgeworfen.¦en=The autumn storm knocked over many trees.
+B4028¦tp=T11¦ex=Im Gebirge gab es gestern einen Schneesturm.¦en=There was a snowstorm in the mountains yesterday.
+B5533¦pos=adjective¦m=chronic¦lv=B2¦ex=Der Patient leidet an chronischen Rückenschmerzen.¦en=The patient suffers from chronic back pain.
+B4029¦en=On the radio they forecast rain and storms.
+B4030¦tp=T11¦m=to storm (weather); to rush¦ps=stürmt¦pt=stürmte¦pf=hat gestürmt¦ex=Draußen stürmt es seit Stunden.¦en=It has been blowing a gale outside for hours.
+B4031¦tp=M4¦ps=klärt auf¦pt=klärte auf¦pf=hat aufgeklärt¦m=to inform; to clarify; to educate¦ex=Der Arzt klärt den Patienten über die Risiken auf.¦en=The doctor informs the patient about the risks.
+B4623¦en=I would like chewing gum with strawberry flavour, please.
+B4035¦en=EU citizens can work anywhere in Europe.
+B4038¦tp=T14¦ex=Ihr Engagement für die Umwelt ist beeindruckend.¦en=Her commitment to the environment is impressive.
+B4039¦pos=adverb¦en=The drinks cost extra.
+B4104¦en=These plans cannot be realised.
+B4041¦tp=T11¦ex=Unsere Hauskatze schläft den ganzen Tag.¦en=Our house cat sleeps all day.
+B4042¦pos=adjective¦tp=T14¦ex=Das Baby ist noch ganz hilflos.¦en=The baby is still completely helpless.
+B5534¦m=to go; to proceed¦lv=C1¦rf=sich¦ps=begibt sich¦pt=begab sich¦pf=hat sich begeben¦ex=Die Gäste begeben sich in den Speisesaal.¦en=The guests proceed to the dining room.
+B4044¦tp=T15¦ex=Auf dem Tisch liegt viel Infomaterial.¦en=There is a lot of information material on the table.
+B4045¦ck=-¦tp=T11¦ex=Mein Nachbar ist ein großer Katzenfreund.¦en=My neighbour is a big cat lover.
+B4046¦ck=-¦tp=T11¦ex=Als Katzenfreundin habe ich drei Katzen.¦en=As a cat lover I have three cats.
+B5535¦m=to acquire; to purchase¦lv=C1¦ps=erwirbt¦pt=erwarb¦pf=hat erworben¦ex=Sie hat in Deutschland ihren Abschluss erworben.¦en=She acquired her degree in Germany.
+B4047¦en=Everyone says the climate is changing.
+B4048¦pos=adjective¦tp=T08¦ex=Wir wohnen in einer ländlichen Gegend.¦en=We live in a rural area.
+B4049¦ck=-¦tp=T08¦m=ride-share bench¦ex=An der Mitfahrbank warten Leute auf eine Mitfahrgelegenheit.¦en=People wait on the ride-share bench for a lift.
+B5536¦m=tail¦lv=B2¦art=der¦pl=Schwänze¦ex=Der Hund wedelt mit dem Schwanz.¦en=The dog wags its tail.
+B4050¦tp=T08¦ex=Das Nachbardorf liegt nur zwei Kilometer entfernt.¦en=The neighbouring village is only two kilometres away.
+B4051¦tp=T11¦ex=Als Naturfreund wandert er viel.¦en=As a nature lover he goes hiking a lot.
+B4052¦ck=-¦tp=T11¦ex=Sie ist eine echte Naturfreundin.¦en=She is a real nature lover.
+B5537¦m=hip¦lv=B1¦art=die¦pl=Hüften¦tp=M1¦ex=Die Patientin hat Schmerzen in der rechten Hüfte.¦en=The patient has pain in the right hip.¦col=Schmerzen in der Hüfte | künstliche Hüfte | die Hüfte operieren | Hüfte und Knie
+B4056¦tp=T11¦ex=Hinter dem Haus wächst ein großer Strauch.¦en=A large bush grows behind the house.
+B4057¦tp=T04¦ex=Nächste Woche ist Themenwoche an unserer Schule.¦en=Next week is theme week at our school.
+B4059¦en=My brother lives in a suburb of Hamburg.
+B5538¦m=sheet (of paper); bow; curve¦tp=T04¦pl=Bögen¦en=Please write your answers on the answer sheet.
+B4060¦tp=T11¦ex=Die Wildkatze lebt im Wald.¦en=The wildcat lives in the forest.
+B4062¦m=to pick up; to keep; to cancel¦en=Just leave the papers on the floor, I will pick them up.
+B4063¦pos=adjective¦tp=T16¦m=elaborate; costly; laborious¦ex=Die Reparatur ist sehr aufwändig.¦en=The repair is very laborious.
+B5539¦m=change; switch; exchange¦lv=B2¦art=der¦pl=Wechsel¦ex=Der Wechsel des Arbeitsplatzes war schwierig.¦en=Changing jobs was difficult.
+B4065¦ck=-¦tp=T10¦ex=Beim Plogging sammelt man beim Joggen Müll.¦en=When plogging you collect rubbish while jogging.
+B4066¦ps=engagiert sich¦pt=engagierte sich¦pf=hat sich engagiert¦ex=Sie engagiert sich für den Umweltschutz.¦en=She is committed to environmental protection.
+B4068¦en=The participants from our course come from different countries.
+B5540¦m=manual; handbook¦lv=B2¦art=das¦pl=Handbücher¦ex=Das steht im Handbuch auf Seite zehn.¦en=It says that in the manual on page ten.
+B4069¦ck=-¦tp=T15¦ps=dekliniert¦pt=deklinierte¦pf=hat dekliniert¦ex=Im Deutschunterricht lernen wir, Nomen zu deklinieren.¦en=In German class we learn to decline nouns.
+B4070¦m=to be omitted; to be waived; to fall to¦ex=Die Gebühr entfällt bei Barzahlung.¦en=The fee is waived for cash payment.
+B4071¦ck=-¦tp=T15¦m=purpose clause¦ex=Ein Finalsatz beginnt mit damit oder um zu.¦en=A purpose clause begins with damit or um zu.
+B5541¦m=dollar¦lv=A2¦art=der¦pl=Dollar¦ex=Das Buch kostet zehn Dollar.¦en=The book costs ten dollars.
+B4072¦ck=-¦tp=T11¦ex=Unsere Klasse macht eine Umweltaktion im Park.¦en=Our class is doing an environmental campaign in the park.
+B4073¦tp=T10¦m=caption¦ex=Die Bildunterschrift erklärt das Foto.¦en=The caption explains the photo.
+B4074¦m=chip (electronic); crisp¦ex=Der Chip ist in der Karte eingebaut.¦en=The chip is built into the card.
+B5542¦m=run; course¦lv=B2¦art=der¦pl=Läufe¦ex=Der Lauf durch den Wald hat mir gut getan.¦en=The run through the forest did me good.
+B4076¦tp=T10¦ex=Mit der Drohne macht er Fotos von oben.¦en=He takes photos from above with the drone.
+B4079¦tp=T11¦ex=Der Mars ist ein roter Planet.¦en=Mars is a red planet.
+B4080¦en=Learning languages promotes mobility.
+B4617¦en=We still need to discuss exactly when we are leaving and what we are taking.
+B4081¦en=Passengers Schulz and Kaufmann, please come to the information desk.
+B4082¦en=Passengers Schulz and Kaufmann, please come to the information desk.
+B4083¦ex=Die Erde ist ein Planet.¦en=The Earth is a planet.
+B5543¦m=publication¦lv=C1¦art=die¦pl=Veröffentlichungen¦ex=Die Veröffentlichung der Studie ist für Mai geplant.¦en=The publication of the study is planned for May.
+B4084¦en=I still have to vacuum my flat today.
+B4086¦tp=T02¦ex=Die Wohnanlage hat einen großen Spielplatz.¦en=The residential complex has a big playground.
+B4087¦tp=M2¦m=prognosis; forecast¦ex=Die Prognose nach der Operation ist gut.¦en=The prognosis after the operation is good.¦col=eine gute Prognose | eine Prognose stellen | die Prognose verschlechtert sich | schlechte Prognose
+B5544¦m=cold¦pl=–¦en=I will not ride my bike in this cold.
+B4092¦tp=T15¦ex=Das ist nur eine Ausrede.¦en=That is just an excuse.
+B4094¦m=constantly; permanently¦ex=Du unterbrichst mich dauernd.¦en=You are constantly interrupting me.
+B5545¦m=neck (back of the neck); nape¦lv=B1¦art=der¦pl=Nacken¦tp=M1¦ex=Der Patient klagt über Schmerzen im Nacken.¦en=The patient complains of pain in the neck.¦col=steifer Nacken | Schmerzen im Nacken | den Nacken massieren | Verspannungen im Nacken
+B4098¦en=The readers are satisfied with the newspaper.
+B4099¦tp=T06
+B4100¦tp=T14¦ex=Mein guter Vorsatz für das neue Jahr ist, mehr Sport zu machen.¦en=My New Year's resolution is to do more sport.
+B4503¦ex=Wegen der Verletzung gibt es einige Einschränkungen im Alltag.¦en=Because of the injury there are some limitations in everyday life.
+B4101¦tp=T15¦ex=Das Futur drückt etwas in der Zukunft aus.¦en=The future tense expresses something in the future.
+B4105¦tp=T16¦ex=Das Hauptproblem ist die fehlende Zeit.¦en=The main problem is the lack of time.
+B4107¦m=possibly; perhaps¦en=I may come a little later.
+B5112¦pos=adjective¦tp=T13¦m=then; of that time¦ex=Der damalige Bürgermeister ist heute Minister.¦en=The then mayor is now a minister.
+B4109¦ex=Bei dieser Firma habe ich zwei Jahre als Praktikant gearbeitet.¦en=I worked at this company for two years as an intern.
+B4110¦en=I worked at this company for two years as an intern.
+B4111¦tp=T15¦m=quotation; quote¦ex=Dieses Zitat stammt von Goethe.¦en=This quotation is by Goethe.
+B4387¦ex=Hier gibt es leider kein Signal.¦en=Unfortunately there is no signal here.
+B4112¦ex=Der Affe klettert auf den Baum.¦en=The monkey climbs up the tree.
+B4113¦ex=Der Elefant hat einen langen Rüssel.¦en=The elephant has a long trunk.
+B4114¦ex=Der Löwe schläft in der Sonne.¦en=The lion is sleeping in the sun.
+B5546¦m=agreement; arrangement¦lv=B2¦art=die¦pl=Vereinbarungen¦ex=Wir haben eine Vereinbarung getroffen.¦en=We have reached an agreement.
+B4115¦tp=T04¦m=educator; teacher (m)¦ex=Der Pädagoge arbeitet an einer Grundschule.¦en=The educator works at a primary school.
+B4116¦tp=T04¦m=educator; teacher (f)¦ex=Die Pädagogin kennt sich mit Kindern gut aus.¦en=The educator is very good with children.
+B4117¦ck=-¦tp=T15¦ex=Die Vokallänge ändert die Bedeutung eines Wortes.¦en=Vowel length changes the meaning of a word.
+B5547¦m=effort; strain¦lv=B2¦art=die¦pl=Anstrengungen¦ex=Mit großer Anstrengung erreichte er das Ziel.¦en=With great effort he reached the goal.
+B4118¦pos=adjective¦tp=T15¦ex=Der Brief war anonym.¦en=The letter was anonymous.
+B4119¦tp=T03¦ex=Mein Arbeitsort ist Köln.¦en=My place of work is Cologne.
+B4120¦pos=adjective¦tp=T16¦ex=Das Auto fährt autonom.¦en=The car drives autonomously.
+B5548¦pos=conjunction¦m=although¦lv=C1¦ex=Obgleich es regnete, gingen wir spazieren.¦en=Although it was raining, we went for a walk.
+B4123¦tp=T03¦ex=Sie arbeitet im Dienstleistungsbereich.¦en=She works in the service sector.
+B4124¦ck=-¦tp=T10¦m=opportunity for recreation¦ex=In der Stadt gibt es viele Erholungsmöglichkeiten.¦en=The city has many opportunities for recreation.
+B4125¦tp=T13¦ex=Ein Fünftel der Schüler fehlt heute.¦en=A fifth of the pupils are absent today.
+B5549¦pos=adjective¦m=any; arbitrary¦lv=B2¦ex=Du kannst eine beliebige Zahl wählen.¦en=You can choose any number.
+B4126¦tp=T08¦m=footpath; walk¦ex=Der Fußweg zum Bahnhof dauert zehn Minuten.¦en=The walk to the station takes ten minutes.
+B4127¦tp=T11¦ex=In der Stadt gibt es viele Grünflächen.¦en=There are many green spaces in the city.
+B4128¦tp=T02¦m=resident (of a building) (m)¦ex=Die Hausbewohner feiern ein Fest im Hof.¦en=The residents of the building are holding a party in the courtyard.

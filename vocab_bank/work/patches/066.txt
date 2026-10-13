@@ -1,0 +1,100 @@
+B4868¦en=Please observe the rules for using the library.
+B1951¦rg=informal¦ex=Im Sommer jobbt sie im Café.¦en=In summer she has a job at the café.
+B1952¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦nt=Official title today: Pflegefachfrau/Pflegefachmann.¦en=My cousin would like to become a nurse.¦col=als Krankenschwester arbeiten | die Krankenschwester rufen | die Krankenschwester kommt | Krankenschwester und Arzt
+B1953¦art=die¦pl=–¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦m=medicine (drug); medicine (subject)¦en=You still have to take your medicine.¦col=Medizin studieren | Medizin einnehmen | alternative Medizin | moderne Medizin
+B4608¦tp=T03¦m=position; job; stance¦ex=Sie hat eine leitende Stellung in der Firma.¦en=She has a leading position in the company.
+B1955¦tp=T15¦ex=Der Steckbrief enthält Name, Alter und Hobbys.¦en=The profile contains name, age and hobbies.
+B1959¦ck=-¦ef=der Auszubildende; die Auszubildende; ein Auszubildender¦ex=Die Auszubildende lernt im ersten Lehrjahr.¦en=The trainee is in her first year of training.
+B1968¦tp=T05¦pt=schlief aus¦ex=Am Wochenende schlafe ich gern aus.¦en=At the weekend I like to sleep in.
+B2356¦en=Can you show me how the machine works, please?
+B1969¦en=I'm going to the cafeteria now. Shall I bring you something?
+B1975¦pos=adjective¦en=The children are almost grown up.
+B1976¦tp=T04¦en=We'll soon have holidays.
+B3303¦pos=adjective¦tp=T14¦ex=Ich bin enttäuscht vom Ergebnis.¦en=I am disappointed with the result.
+B1977¦pos=adjective¦en=He is in terrible pain.
+B1978¦tp=T16¦ex=Hauptsache, du bist gesund.¦en=The main thing is that you are healthy.
+B1980¦tp=T13
+B3699¦tp=M1 Medizin: Anatomie & Körpersysteme¦ex=Das Kind hat rote Wangen vom Fieber.¦en=The child has red cheeks from the fever.¦col=rote Wangen | die Wange streicheln | auf die Wange küssen | eine geschwollene Wange
+B1982¦rg=informal¦tp=T14¦ex=Der Ausflug war ein Riesenspaß.¦en=The outing was great fun.
+B1984¦tp=T04¦ex=In den Sommerferien fahren wir ans Meer.¦en=In the summer holidays we go to the seaside.
+B1985¦pos=adjective¦ef=strenger – am strengsten¦en=My daughter's teacher is very strict.
+B3054¦pt=verletzte¦med=related¦en=Are you hurt? – Yes, in the leg.
+B1989¦pos=adjective¦en=Why are you so angry?
+B1990¦tp=T04¦ex=In England tragen viele Kinder eine Schuluniform.¦en=In England many children wear a school uniform.
+B1991¦pos=adjective¦m=honest; honestly
+B5287¦pos=adverb¦rg=colloquial¦m=just; simply (modal particle)¦nt=Modal particle, mostly spoken.¦en=That's just how it is.
+B1992¦tp=T14¦ps=ist überrascht¦pt=war überrascht¦pf=ist überrascht gewesen¦ex=Ich bin überrascht, wie freundlich alle sind.¦en=I'm surprised how friendly everyone is.
+B1993¦tp=T04¦nt=Arbeitsgemeinschaft (also: Aktiengesellschaft).¦ex=Ich bin in der Fotografie-AG.¦en=I'm in the photography club.
+B1996¦tp=T04¦ck=-¦ex=Schulkleidung ist an manchen Schulen Pflicht.¦en=School clothing is compulsory at some schools.
+B2193¦pos=adjective¦g=auf + Akk.¦ef=stolzer – am stolzesten
+B1997¦tp=T04¦ex=Mein Schulweg dauert zehn Minuten.¦en=My way to school takes ten minutes.
+B1998¦tp=T10¦ex=Sie spielt in einer Theatergruppe.¦en=She plays in a drama group.
+B2001¦ex=Menschen mit einer Behinderung brauchen oft Hilfe.¦en=People with a disability often need help.
+B5288¦pos=adjective¦tp=T13¦m=usual; ordinary; usually¦en=At that time he is usually at home.
+B2002¦pos=adjective¦en=Sometimes I voluntarily stay longer in the office.
+B2003¦tp=T03¦ex=Der Gärtner schneidet die Hecke.¦en=The gardener is trimming the hedge.
+B2004¦tp=T03¦ex=Die Gärtnerin pflanzt Blumen.¦en=The gardener is planting flowers.
+B5289¦m=change; alteration¦en=There is a change to the programme.
+B2005¦tp=T03¦ex=Er hat ein Handwerk gelernt.¦en=He has learned a trade.
+B2007¦tp=T05¦ex=Der Patient sitzt im Rollstuhl.¦en=The patient is sitting in a wheelchair.
+B2011¦en=He rejected my offer to help him.
+B4332¦tp=T12¦ex=Er hat viele Feinde.¦en=He has many enemies.
+B2013¦en=I completely agree with you on this matter.
+B2015¦tp=T03¦ex=Ich habe fünf Jahre Berufserfahrung.¦en=I have five years of work experience.
+B2017¦en=I've worked too much. Now I need some recovery.
+B2322¦tp=T04¦ex=Ich habe gute Kenntnisse in Englisch.¦en=I have a good knowledge of English.
+B2018¦pos=adjective¦en=Thanks for the tip. It was very useful.
+B2021¦tp=T08¦ex=Nach dem Studium mache ich eine Weltreise.¦en=After my studies I'm going on a trip around the world.
+B2022¦pt=übte¦en=I'm learning to play the guitar. I practise two hours every day.
+B5290¦m=knowledge; skills¦ck=dup:B2322¦en=Your German skills are very good!
+B2024¦ex=Bayern ist das größte Bundesland.¦en=Bavaria is the largest federal state.
+B2041¦tp=T04¦ex=Mein Lieblingsschulfach ist Biologie.¦en=My favourite school subject is biology.
+B2044¦tp=T03¦ex=Die Arbeitswelt verändert sich schnell.¦en=The working world is changing quickly.
+B3932¦tp=T15¦ex=Dieser Begriff ist mir neu.¦en=This term is new to me.
+B2045¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ck=-¦ex=Der Arzthelfer nimmt Blut ab.¦en=The doctor's assistant takes blood.
+B2046¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ex=Die Arzthelferin macht einen Termin für Sie.¦en=The doctor's assistant makes an appointment for you.
+B2047¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ex=Die Arztpraxis öffnet um acht Uhr.¦en=The doctor's surgery opens at eight o'clock.¦col=in die Arztpraxis gehen | eine Arztpraxis eröffnen | in einer Arztpraxis arbeiten | die Arztpraxis ist geschlossen
+B5291¦pl=–¦m=philosophy¦ex=Sie studiert Philosophie und Geschichte.¦en=She studies philosophy and history.
+B2048¦rg=informal¦ex=Der Azubi lernt im ersten Lehrjahr.¦en=The trainee is in his first year of training.
+B2049¦tp=T03¦ex=Im Berufsleben ist Pünktlichkeit wichtig.¦en=In professional life punctuality is important.
+B2050¦en=You can borrow the book for a period of one week.
+B2563¦pos=adjective¦en=I've been waiting for my new car for ages!
+B2052¦en=I speak three foreign languages.
+B2054¦en=Next week we start preparing for the exam.
+B4451¦pos=adjective¦en=There are no visible injuries.
+B2056¦tp=T01¦ex=Wir haben viele Gemeinsamkeiten.¦en=We have a lot in common.
+B2058¦tp=T04¦ex=Das Klassenzimmer ist hell und groß.¦en=The classroom is bright and large.
+B2059¦m=timetable; schedule¦ex=Mein Stundenplan ist voll.¦en=My timetable is full.
+B5292¦ps=umfasst¦pt=umfasste¦pf=hat umfasst¦m=to include; to comprise¦lv=B1¦ex=Der Kurs umfasst vierzig Stunden.¦en=The course comprises forty hours.
+B2061¦tp=T04¦ex=Die Unterrichtszeit beginnt um acht Uhr.¦en=The lesson time begins at eight o'clock.
+B2062¦ps=probiert aus¦pt=probierte aus¦pf=hat ausprobiert¦ex=Ich möchte das neue Programm ausprobieren.¦en=I would like to try out the new program.
+B2063¦pt=chattete¦en=Luis likes chatting with his friends on the internet.
+B3411¦en=This time we luckily won.
+B2064
+B2065¦tp=T10¦rg=informal¦ps=downloadet¦pt=downloadete¦pf=hat downloadet¦ex=Ich downloade die App kostenlos.¦en=I download the app for free.
+B2066¦pt=lud herunter¦en=He downloads the music from the internet.
+B2485¦en=Please don't disturb me now. I have to concentrate on my work.
+B2067¦ps=kopiert¦pt=kopierte¦pf=hat kopiert¦en=Can I copy this article?
+B2068¦tp=T10¦en=I'll send you a link to German exercises.
+B2070
+B5293¦pos=adverb¦nt=Also the comparative of fern.¦m=furthermore; in addition¦lv=B1¦ex=Ferner benötigen wir einen Nachweis.¦en=Furthermore we need proof.
+B2071¦tp=T10¦rg=informal¦pt=lud runter¦ex=Ich lade das Video runter.¦en=I'm downloading the video.
+B2073¦en=There are many websites with grammar exercises.
+B2074¦en=Do you prefer to read e-books or paper books?
+B4965¦en=We live on the edge of the city centre.
+B2075¦en=I need a new laptop.
+B2076¦ex=Mein Smartphone hat eine gute Kamera.¦en=My smartphone has a good camera.
+B2077¦tp=T10¦ex=Die Smartwatch zählt meine Schritte.¦en=The smartwatch counts my steps.
+B4033¦en=11% of the population were not born in the country.
+B2078¦tp=T10¦ex=Die Kinder spielen an der Spielekonsole.¦en=The children are playing on the games console.
+B2079¦m=screen¦en=I need a bigger screen for my computer.
+B2080¦m=cable¦en=Where is the cable for the recording device?
+B4254¦tp=T13¦ex=In der Gegenwart zu leben ist wichtig.¦en=Living in the present is important.
+B2081¦en=Please also pay attention to the loudspeaker announcements at the station.
+B2082¦en=Do you have a tablet? – No, I have a laptop and a mobile.
+B2083¦en=The keyboard on my computer is brand new.
+B5020
+B2085¦en=You can delete the file. I don't need it any more.
+B2086¦en=Please send us the documents by email.
+B2087¦tp=T10¦ps=leitet weiter¦pt=leitete weiter¦pf=hat weitergeleitet¦ex=Bitte leiten Sie die E-Mail weiter.¦en=Please forward the email.
+B4491¦en=The ship sank off the coast.

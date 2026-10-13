@@ -1,0 +1,98 @@
+B5678¦tp=M3¦col=operativer Eingriff | operative Therapie | operativ entfernen | operative Behandlung
+B5111¦tp=T12¦ps=betet¦pt=betete¦pf=hat gebetet¦ex=Vor dem Essen betet die Familie.¦en=The family prays before eating.
+B4846¦ck=-¦tp=T08¦ex=Die Straßenlampe vor dem Haus ist kaputt.¦en=The street lamp in front of the house is broken.
+B4847¦ck=-¦tp=T15¦m=contrastive stress¦ex=Beim Kontrastakzent betont man das wichtige Wort besonders stark.¦en=With contrastive stress you stress the important word particularly strongly.
+B4848¦ck=-¦tp=T15¦ex=In diesem Satz ist heute das Kontrastwort.¦en=In this sentence heute is the contrast word.
+B5698¦m=syndrome¦lv=C1¦art=das¦pl=Syndrome¦tp=M2¦ex=Der Patient hat ein seltenes Syndrom.¦en=The patient has a rare syndrome.¦col=ein seltenes Syndrom | metabolisches Syndrom | ein Syndrom diagnostizieren | Symptome eines Syndroms
+B4851¦tp=T08¦m=exit; withdrawal¦ex=Der Ausstieg ist hinten.¦en=The exit is at the back.
+B4853¦tp=T12¦ex=Er ist dem Verein beigetreten.¦en=He joined the club.
+B5699¦pos=adjective¦m=accessible¦en=The park is accessible to everyone.
+B4858¦tp=T12¦ex=Deutschland ist Mitglied der Europäischen Union.¦en=Germany is a member of the European Union.
+B4860¦tp=T12¦ex=An der Grenze gibt es keine Grenzkontrolle mehr.¦en=There is no longer a border control at the border.
+B5700¦m=depression¦lv=B2¦art=die¦pl=Depressionen¦tp=M2¦ex=Die Patientin leidet seit Monaten an einer Depression.¦en=The patient has been suffering from depression for months.¦col=an einer Depression leiden | eine schwere Depression | eine Depression behandeln | in eine Depression fallen
+B4865¦tp=T16¦m=normal case; rule¦ex=Im Normalfall dauert es zwei Tage.¦en=Normally it takes two days.
+B4866¦tp=T14¦ex=Der Skeptiker glaubt nicht alles.¦en=The sceptic does not believe everything.
+B4867¦ck=-¦tp=T14¦ex=Die Skeptikerin stellt viele Fragen.¦en=The sceptic asks many questions.
+B5701¦pos=adverb¦m=nevertheless¦lv=C1¦ex=Es regnete, gleichwohl gingen wir spazieren.¦en=It was raining, nevertheless we went for a walk.
+B4872¦tp=T11¦ex=Viele Menschen sind gegen Atomkraft.¦en=Many people are against nuclear power.
+B4874¦tp=T12¦ex=Der Handel mit Kriegswaffen ist streng kontrolliert.¦en=The trade in weapons of war is strictly controlled.
+B4876¦tp=T12¦ex=Deutschland ist ein Mitgliedsstaat der EU.¦en=Germany is a member state of the EU.
+B5702¦m=iron¦lv=B2¦art=das¦pl=–¦ex=Eisen ist ein Metall.¦en=Iron is a metal.
+B4879¦tp=T12¦ex=Solidarität ist in der Krise wichtig.¦en=Solidarity is important in a crisis.
+B4880¦tp=T14¦ex=Toleranz ist die Basis für ein friedliches Miteinander.¦en=Tolerance is the basis for peaceful coexistence.
+B4882¦tp=T09¦ps=unterzeichnet¦pt=unterzeichnete¦pf=hat unterzeichnet¦ex=Bitte unterzeichnen Sie den Vertrag.¦en=Please sign the contract.
+B5703¦m=weakness¦lv=B2¦art=die¦pl=Schwächen¦tp=M2¦ex=Der Patient klagt über Schwäche in den Beinen.¦en=The patient complains of weakness in the legs.
+B4883¦ck=-¦tp=T03¦ex=Die Wirtschaftsbeziehungen zwischen beiden Ländern sind gut.¦en=The economic relations between the two countries are good.
+B4888¦pos=adverb¦m=finally; in conclusion¦ex=Abschließend möchte ich Ihnen danken.¦en=In conclusion I would like to thank you.
+B5704¦m=liver¦lv=B1¦art=die¦pl=Lebern¦tp=M1¦ex=Die Leber entgiftet den Körper.¦en=The liver detoxifies the body.¦col=die Leber untersuchen | eine vergrößerte Leber | Leber und Niere | Alkohol schadet der Leber
+B4889¦tp=T03¦ex=Das Bürogebäude hat zehn Stockwerke.¦en=The office building has ten floors.
+B4890¦en=Do not eat the apple! It was lying in the dirt.
+B4891¦en=This path is for pedestrians only.
+B5705¦m=essay¦lv=B2¦art=der¦pl=Aufsätze¦ex=Wir müssen einen Aufsatz über den Sommer schreiben.¦en=We have to write an essay about the summer.
+B4892¦ex=Die Fußgängerin wartet an der Ampel.¦en=The pedestrian waits at the traffic light.
+B4893¦en=I saw a smart blouse in the shop window.
+B4894¦en=You have dirt on your shoes.
+B5706¦m=to cite; to lead¦lv=C1¦ps=führt an¦pt=führte an¦pf=hat angeführt¦ex=Er führt mehrere Gründe für seine Entscheidung an.¦en=He cites several reasons for his decision.
+B4895¦en=Here you may only drive at 30 km/h.
+B4896¦tp=T10¦ex=In der Stadt gibt es viele Freizeitangebote.¦en=There are many leisure activities in the city.
+B4897¦tp=T01¦ex=Ich bin ein Stadtmensch und mag das Landleben nicht.¦en=I am a city person and do not like country life.
+B5038¦en=I have no cash left.
+B4898¦tp=T15¦m=to concern; to tackle
+B4900¦en=I understand you better when you do not speak dialect.
+B4902¦ck=-¦tp=T10¦ex=Mein Forumsname ist Sonnenschein.¦en=My forum name is Sonnenschein.
+B5707¦m=data protection¦lv=B2¦tp=T09¦pl=–¦ex=Der Datenschutz ist im Krankenhaus besonders wichtig.¦en=Data protection is particularly important in hospitals.
+B4903¦en=What kind of juice would you like? – Doesn't matter, any.
+B4904¦tp=T10¦ex=Beim Kulturfest gibt es Musik und Tanz.¦en=At the cultural festival there is music and dance.
+B4905¦ck=-¦tp=T01¦m=country person¦ex=Meine Oma ist ein richtiger Landmensch.¦en=My grandmother is a real country person.
+B5708¦m=voucher¦lv=B1¦tp=T07¦pl=Gutscheine¦ex=Zum Geburtstag habe ich einen Gutschein bekommen.¦en=For my birthday I got a voucher.
+B4907¦tp=T10¦ex=Hast du deine Sportsachen dabei?¦en=Do you have your sports kit with you?
+B4908¦ck=-¦pos=pronoun¦tp=T16¦ex=Gib mir irgendeins.¦en=Give me any one.
+B4909¦ck=-¦tp=T15¦ex=Wie lautet die Singularform von Kinder?¦en=What is the singular form of Kinder?
+B5709¦m=click¦en=To mark the word, a double click with the left mouse button is enough.
+B4911¦tp=T06¦m=bakery (workshop)¦ex=In der Backstube riecht es nach frischem Brot.¦en=It smells of fresh bread in the bakery workshop.
+B4912¦tp=T03¦ex=Der Bauhof der Stadt repariert die Straßen.¦en=The municipal works yard repairs the roads.
+B4914¦pos=verb¦tp=M4¦sp=ein¦m=to admit (to hospital)¦ps=liefert ein¦pt=lieferte ein¦pf=hat eingeliefert¦ex=Der Verletzte wurde ins Krankenhaus eingeliefert.¦en=The injured man was taken to hospital.
+B5710¦m=offspring; young talent¦pl=–¦en=Young researchers are to be supported.
+B4915¦tp=T03¦ex=Ich arbeite diese Woche in der Frühschicht.¦en=I work the early shift this week.
+B4916¦tp=T02¦ex=Das Garagentor lässt sich nicht öffnen.¦en=The garage door will not open.
+B4917¦tp=T10¦m=to shut down (computer)¦ps=fährt herunter¦pt=fuhr herunter¦pf=hat heruntergefahren¦ex=Ich fahre den Computer herunter.¦en=I shut down the computer.
+B5711¦m=waiter¦tp=T06¦en=I am a waiter by profession.
+B4918¦tp=T16¦ps=hindert¦pt=hinderte¦pf=hat gehindert¦ex=Nichts hindert dich daran, es zu versuchen.¦en=Nothing stops you from trying.
+B4919¦tp=T08¦ex=Gehen wir in das Café hinein?¦en=Shall we go into the café?
+B4921¦ex=Im Korb liegen frische Äpfel.¦en=There are fresh apples in the basket.
+B5712¦m=meeting again; goodbye¦tp=T01¦pl=–¦en=Goodbye!
+B4922¦ck=-¦tp=T10¦ex=Der Magazinbericht handelt von Umweltschutz.¦en=The magazine report is about environmental protection.
+B4923¦ck=-¦tp=T12¦ex=Der Obdachlose schläft unter der Brücke.¦en=The homeless man sleeps under the bridge.
+B4924¦ck=-¦tp=T09¦ex=Das Reinigungsfahrzeug säubert früh am Morgen die Straße.¦en=The street-cleaning vehicle cleans the street early in the morning.
+B5713¦m=to record; to register¦lv=C1¦ps=verzeichnet¦pt=verzeichnete¦pf=hat verzeichnet¦ex=Die Klinik verzeichnet mehr Patienten als im Vorjahr.¦en=The clinic records more patients than in the previous year.
+B4926¦pos=adjective¦m=urban; municipal¦en=I like going to the municipal library.
+B4927¦tp=T09¦ex=Die Übergabe der Schlüssel erfolgt am Montag.¦en=The handover of the keys takes place on Monday.
+B4928¦pos=adjective¦m=restless; uneasy¦ex=Das Kind schläft unruhig.¦en=The child sleeps restlessly.
+B5714¦m=alarm¦en=In case of a fire alarm you must not use the lifts.
+B4929¦tp=T03¦ex=Diese Woche habe ich Nachtdienst.¦en=This week I am on night duty.
+B4930¦ex=Der Sozialarbeiter berät die Familie.¦en=The social worker advises the family.
+B4931¦en=The social worker comes once a week.
+B5715¦pos=verb¦sp=an¦m=to start (a job); to line up¦lv=C1¦tp=T03¦ps=tritt an¦pt=trat an¦pf=ist angetreten¦ex=Er tritt nächste Woche seine neue Stelle an.¦en=He starts his new job next week.
+B4933¦en=Maybe we will stay a few days longer, that depends on the weather.
+B4934¦en=Unemployment has fallen.
+B5716¦m=cloud (computing)¦lv=B2¦tp=T10¦pl=Clouds¦ex=Meine Fotos sind in der Cloud gespeichert.¦en=My photos are stored in the cloud.
+B4937¦tp=T12¦ex=Diversität bereichert ein Team.¦en=Diversity enriches a team.
+B4938¦tp=T03¦ex=Sie ist ein Jahr in Elternzeit.¦en=She is on parental leave for a year.
+B4939¦en=They are looking for specialists for this computer programme.
+B5717¦m=demonstration; protest¦lv=B2¦tp=T12¦pl=Demonstrationen¦ex=Die Demonstration beginnt um 14 Uhr.¦en=The demonstration begins at 2 pm.
+B4944¦tp=T05¦ex=Das deutsche Gesundheitssystem ist sehr komplex.¦en=The German healthcare system is very complex.
+B4946¦tp=T16¦ex=Die Intensität der Schmerzen nimmt zu.¦en=The intensity of the pain is increasing.
+B4948¦tp=T01¦ex=Die Kinderbetreuung kostet viel Geld.¦en=Childcare costs a lot of money.
+B5718¦pos=verb¦m=to compel; to urge¦lv=C1¦tp=T12¦ps=nötigt¦pt=nötigte¦pf=hat genötigt¦ex=Er nötigte seinen Gast, noch länger zu bleiben.¦en=He urged his guest to stay longer.
+B4951¦tp=T12¦ps=ist vorgeschrieben¦pt=war vorgeschrieben¦pf=ist vorgeschrieben gewesen¦ex=Ein Helm ist vorgeschrieben.¦en=A helmet is mandatory.
+B4954¦ck=-¦tp=T10¦ex=Im Radiobericht ging es um das Wetter.¦en=The radio report was about the weather.
+B4955¦tp=T10¦ex=Die Uni steht im Ranking auf Platz drei.¦en=The university is in third place in the ranking.
+B5719¦m=tumour¦lv=B2¦art=der¦pl=Tumoren¦tp=M2¦ex=Im Röntgenbild sieht man einen Tumor.¦en=You can see a tumour in the X-ray.¦col=ein gutartiger Tumor | ein bösartiger Tumor | den Tumor entfernen | Tumor im Gehirn
+B4957¦en=We will continue the treatment next Thursday at 11 o'clock.
+B4958¦tp=T15¦ps=redet aus¦pt=redete aus¦pf=hat ausgeredet¦ex=Lass mich bitte ausreden!¦en=Please let me finish speaking!
+B5720¦m=diagnostics¦lv=C1¦art=die¦pl=–¦tp=M3¦ex=Die Diagnostik umfasst Blutuntersuchungen und Röntgen.¦en=Diagnostics include blood tests and X-rays.¦col=bildgebende Diagnostik | Diagnostik und Therapie | die Diagnostik erweitern | invasive Diagnostik
+B4960¦tp=T07¦ex=Das Budget für das Projekt ist begrenzt.¦en=The budget for the project is limited.
+B4963¦tp=T04¦ex=Mein Sohn geht in die Kita.¦en=My son goes to day care.
+B4966¦tp=T15¦ps=gibt recht¦pt=gab recht¦pf=hat recht gegeben¦ex=Ich gebe dir recht.¦en=I agree with you.
+B5721¦m=fact¦lv=B2¦tp=T15¦pl=Fakten¦ex=Das ist ein Fakt, keine Meinung.¦en=That is a fact, not an opinion.
+B4967¦tp=T02¦ex=Die Renovierung der Wohnung dauert zwei Wochen.¦en=The renovation of the flat takes two weeks.

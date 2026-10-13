@@ -1,0 +1,3 @@
+B3403¦col=darum bitten | darum geht es | genau darum | nicht darum
+B1939¦col=sehr wahrscheinlich | höchstwahrscheinlich | wahrscheinlich nicht | wahrscheinlich kommen
+B3857¦col=menschliche Fehler | menschlich sein | menschliche Wärme | menschlich behandeln

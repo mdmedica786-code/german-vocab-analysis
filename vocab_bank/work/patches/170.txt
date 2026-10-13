@@ -1,0 +1,100 @@
+B0228¦g=+ Dat.
+B0644¦pos=pronoun¦tp=T16¦m=us; (bei uns) at our place
+B0710¦tp=T03
+B0720¦pt=mochte¦tp=T14
+B0730¦tp=T16
+B0746¦tp=T16
+B0801¦tp=T04
+B0806¦tp=T04
+B0851¦pos=determiner¦tp=T16
+B0855¦tp=T16
+B0869¦pt=konnte¦tp=T16
+B0872¦pt=musste¦tp=T16
+B0877¦pt=wollte¦tp=T16
+B0936¦pos=pronoun¦tp=T16
+B0937¦tp=T16¦m=to become; will (future auxiliary)
+B0963¦tp=T15
+B0970¦tp=T16
+B0971¦pos=pronoun¦tp=T16
+B0972¦pos=pronoun¦tp=T16
+B0973¦pos=pronoun¦tp=T16
+B1032¦tp=T16
+B1039¦tp=T10
+B1046¦tp=T10¦m=open-air cinema
+B1051¦tp=T16
+B1087¦pos=pronoun¦tp=T16
+B1093¦tp=T16¦m=where to
+B1144¦tp=T08
+B1210¦tp=T05
+B1265¦tp=T16
+B1270¦pt=sollte¦tp=T16
+B1278¦pt=durfte¦tp=T16
+B1466¦tp=T02
+B1527¦tp=T03
+B1572¦tp=T03
+B1583¦tp=T10¦m=story; history
+B1600¦tp=T07
+B1658¦tp=T10
+B1697¦tp=T07
+B1727¦tp=T08
+B1728¦tp=T08
+B1796¦tp=T10
+B1826¦tp=T08¦m=to lie; to be located
+B1865¦tp=T03
+B1866¦tp=T03
+B1867¦pos=adjective
+B1868¦pos=adjective¦tp=T01
+B1871¦pt=ritt
+B1872¦pt=renovierte
+B1875¦tp=T08
+B1876¦tp=T09¦ps=meldet an¦pt=meldete an¦pf=hat angemeldet
+B1877¦tp=T03
+B1878¦ck=-¦tp=T03
+B1879¦pt=beendete
+B1881¦tp=T01¦ps=heiratet¦pt=heiratete¦pf=hat geheiratet
+B1882¦tp=T01
+B1884¦tp=T07¦ps=mietet¦pt=mietete¦pf=hat gemietet
+B1886¦pt=organisierte
+B1887¦pos=adjective
+B1888¦pos=adjective
+B1889¦pt=nahm teil
+B1890¦tp=T10
+B1891¦tp=T03¦ps=sucht weiter¦pt=suchte weiter¦pf=hat weitergesucht
+B1892¦tp=T01¦ps=lebt zusammen¦pt=lebte zusammen¦pf=hat zusammengelebt
+B1893¦tp=T15
+B1894¦pt=schloss ab
+B1898¦tp=T15
+B1899¦pt=begründete
+B1900¦tp=T15
+B1901¦tp=T15
+B1903¦tp=T15
+B1906¦pt=änderte
+B1908¦pos=adjective¦tp=T16
+B1916¦tp=T14¦pt=fühlte
+B1938¦tp=T04
+B1944¦tp=T08
+B1946¦tp=T03
+B1947¦tp=T03
+B1948¦ck=-¦tp=T03
+B1949¦ck=-¦tp=T03
+B1950¦tp=T04
+B1956¦tp=T08
+B1957¦tp=T03
+B1962¦tp=T04
+B1964¦tp=T04
+B1972¦tp=T04
+B1973¦tp=T04
+B1983¦ck=-¦tp=T04
+B1986¦ck=-¦tp=T04
+B2006¦tp=T04
+B2008¦tp=T04
+B2025¦tp=T04
+B2029¦tp=T04
+B2030¦tp=T04
+B2031¦tp=T04
+B2033¦tp=T04
+B2034¦tp=T04
+B2037¦tp=T04
+B2039¦tp=T04
+B2053¦tp=T14
+B2060¦tp=T14

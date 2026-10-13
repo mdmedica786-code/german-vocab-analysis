@@ -1,0 +1,97 @@
+B4351¦ex=Eine Mücke hat mich gestochen.¦en=A mosquito bit me.
+B4352¦ex=Pinguine leben am Südpol.¦en=Penguins live at the South Pole.
+B4353¦ex=Die Schildkröte bewegt sich sehr langsam.¦en=The turtle moves very slowly.
+B5590¦m=publication¦lv=C1¦art=die¦pl=Publikationen¦ex=Seine Publikation wurde in einer Fachzeitschrift veröffentlicht.¦en=His publication was published in a specialist journal.
+B4355¦tp=T15¦ex=Subjekt und Verb sind wichtige Satzteile.¦en=Subject and verb are important parts of a sentence.
+B4356¦tp=T15¦ex=Bitte beachten Sie die Markierung auf dem Boden.¦en=Please note the marking on the floor.
+B4357¦ck=-¦tp=T01¦m=conflict discussion¦ex=Das Konfliktgespräch mit dem Chef war schwierig.¦en=The conflict discussion with the boss was difficult.
+B5591¦m=Austrian¦ex=Wir essen heute österreichische Küche.¦en=Today we are eating Austrian cuisine.
+B4358¦ck=-¦tp=T15¦ex=Ein Temporalsatz beginnt oft mit als oder wenn.¦en=A temporal clause often begins with als or wenn.
+B4359¦tp=T15¦ex=Das Tempus dieses Satzes ist das Präteritum.¦en=The tense of this sentence is the preterite.
+B4360¦m=to tire; to make an effort¦en=This work is very tiring for me.
+B5592¦m=sensation; feeling¦lv=C1¦art=die¦pl=Empfindungen¦tp=M2¦ex=Der Patient beschreibt eine Empfindung von Taubheit.¦en=The patient describes a sensation of numbness.
+B4361¦tp=T06¦ex=Zu den Kartoffelpuffern esse ich Apfelmus.¦en=With the potato pancakes I eat apple sauce.
+B4363¦pos=adjective¦tp=M2¦ex=Der Verband war blutig.¦en=The bandage was bloody.
+B4364¦ps=baut ein¦pt=baute ein¦pf=hat eingebaut¦ex=Wir bauen eine neue Küche ein.¦en=We are installing a new kitchen.
+B4384¦ex=Die Auswertung der Umfrage dauert eine Woche.¦en=The evaluation of the survey takes a week.
+B4365¦tp=T05¦m=to put cream on; to moisturise¦ps=cremt ein¦pt=cremte ein¦pf=hat eingecremt¦ex=Ich creme mir die Hände ein.¦en=I put cream on my hands.
+B4366¦pos=adjective¦tp=T11¦ex=Das Wasser im See ist eiskalt.¦en=The water in the lake is ice cold.
+B4367¦en=Take this medicine with plenty of fluid.
+B5593¦m=priest; pastor¦lv=B2¦art=der¦pl=Pfarrer¦ex=Der Pfarrer hält am Sonntag eine Predigt.¦en=The priest gives a sermon on Sunday.
+B4368¦tp=T06¦ex=Zum Frühstück trinke ich Fruchtsaft.¦en=For breakfast I drink fruit juice.
+B4371¦m=gymnastics; exercises¦en=I do gymnastics every morning.
+B4372¦en=Would you like potatoes or dumplings with the meat? – Dumplings, please.
+B5594¦m=to hurry; to be urgent¦en=It is very urgent. Please be quick.
+B4373¦tp=M3¦ps=kühlt¦pt=kühlte¦pf=hat gekühlt¦ex=Sie sollten die Stelle mit Eis kühlen.¦en=You should cool the area with ice.
+B4374¦tp=T06¦ex=Zum Frühstück gibt es Pfannkuchen.¦en=There are pancakes for breakfast.
+B4376¦en=You cannot eat that. The meat is still raw.
+B5595¦pos=adjective¦m=internal; inner¦lv=B2¦ex=Das Medikament ist zur innerlichen Anwendung.¦en=The medicine is for internal use.
+B4378¦tp=T06¦ex=Sonntags gibt es oft Schweinebraten mit Knödeln.¦en=On Sundays there is often roast pork with dumplings.
+B4381¦ex=Ich hätte gern ein Steak mit Pommes.¦en=I would like a steak with chips.
+B4382¦tp=T06¦ex=Nimm eine Wasserflasche mit zur Wanderung.¦en=Take a water bottle with you on the hike.
+B5596¦m=to differentiate¦lv=C1¦ps=differenziert¦pt=differenzierte¦pf=hat differenziert¦ex=Man muss zwischen beiden Fällen differenzieren.¦en=One has to differentiate between the two cases.
+B4383¦pos=adverb¦tp=T13¦ex=Zwischendurch trinke ich einen Kaffee.¦en=In between I have a coffee.
+B4386¦pos=adverb¦tp=T16¦m=fairly; more or less¦ex=Mir geht es einigermaßen gut.¦en=I am doing fairly well.
+B4388¦tp=T13¦ps=zählt zusammen¦pt=zählte zusammen¦pf=hat zusammengezählt¦ex=Zähl bitte die Preise zusammen.¦en=Please add up the prices.
+B5597¦m=mechanism¦lv=C1¦art=der¦pl=Mechanismen¦ex=Der Mechanismus der Krankheit ist noch unklar.¦en=The mechanism of the disease is still unclear.
+B4390¦m=to dissolve; to resolve¦en=Please dissolve the tablet in water.
+B4391¦pos=adjective¦en=You look quite pale. Are you ill?
+B4393¦ex=Sie müssen das Medikament dreimal täglich einnehmen.¦en=You have to take the medicine three times a day.
+B5598¦m=to hand over; to vomit (sich übergeben)¦lv=B2¦ps=übergibt¦pt=übergab¦pf=hat übergeben¦tp=M2¦ex=Das Kind hat sich mehrmals übergeben.¦en=The child vomited several times.
+B4394¦en=The stamp no longer sticks.
+B4395¦en=We had to call an ambulance.
+B4396¦tp=M4¦ex=Der Arzt schreibt mich für eine Woche krank.¦en=The doctor signs me off sick for a week.
+B5599¦m=proof; evidence; certificate¦lv=C1¦art=der¦pl=Nachweise¦tp=M3¦ex=Der Nachweis des Virus gelang im Labor.¦en=The virus was detected in the laboratory.
+B4397¦en=The emergency room is right here on the left.
+B4398¦en=The emergency number is 110.
+B4399¦tp=T05¦ex=Das Pulver wird in Wasser aufgelöst.¦en=The powder is dissolved in water.
+B5022¦m=income; revenue; intake¦en=Our business is going well. Our revenue was higher this month than last month.
+B4401¦en=You have toothache? I will prescribe you a painkiller.
+B4403¦en=The doctor prescribed me tablets.
+B4404¦en=Do you have your insurance card with you?
+B5600¦m=a little while ago¦en=Heidrun called a while ago. You should call her back.
+B4405¦tp=T05¦ex=Das Krankenzimmer liegt im zweiten Stock.¦en=The hospital room is on the second floor.
+B4407¦ex=Der Pfleger misst den Blutdruck.¦en=The nurse measures the blood pressure.
+B4408¦en=My friend is a nurse in a care home.
+B4529¦pos=adjective¦en=I find this dish unusual, but it tastes good.
+B4410¦pos=adjective¦tp=M2¦ex=Mir ist schwindelig.¦en=I feel dizzy.
+B4411¦pos=adjective¦tp=T02¦ex=Der Stuhl ist sehr unbequem.¦en=The chair is very uncomfortable.
+B4412¦ck=-¦tp=T15¦ex=In dem Satz ist das Buch das Akkusativobjekt.¦en=In the sentence the book is the accusative object.
+B5601¦m=lung¦lv=B1¦art=die¦pl=Lungen¦tp=M1¦ex=Der Arzt hört die Lunge ab.¦en=The doctor listens to the lungs.¦col=eine gesunde Lunge | die Lunge abhören | Wasser in der Lunge | die Lunge röntgen
+B4413¦tp=T05¦ps=kämmt sich¦pt=kämmte sich¦pf=hat sich gekämmt¦ex=Ich kämme mir jeden Morgen die Haare.¦en=I comb my hair every morning.
+B4414¦tp=T05¦ex=Die Besuchszeit ist von 14 bis 18 Uhr.¦en=Visiting hours are from 2 to 6 pm.
+B4415¦tp=T05¦ex=Bitte lassen Sie keine Wertsachen im Zimmer.¦en=Please do not leave any valuables in the room.
+B5602¦m=nerve¦en=Please turn off the radio. The music gets on my nerves.
+B4416¦tp=M4¦m=alarm button¦ex=Drücken Sie den Alarmknopf, wenn Sie Hilfe brauchen.¦en=Press the alarm button if you need help.
+B4418¦tp=T02¦m=to keep; to store¦ps=bewahrt auf¦pt=bewahrte auf¦pf=hat aufbewahrt¦ex=Bewahren Sie das Medikament im Kühlschrank auf.¦en=Store the medicine in the fridge.
+B4419¦tp=T16¦ps=teilt auf¦pt=teilte auf¦pf=hat aufgeteilt¦ex=Wir teilen die Arbeit unter uns auf.¦en=We divide the work among ourselves.
+B5092¦ps=basiert¦pt=basierte¦pf=hat basiert¦ex=Das Urteil basiert auf Zeugenaussagen.¦en=The judgement is based on witness statements.
+B4420¦tp=T07¦ex=Im Hotel liegt ein Bademantel im Zimmer.¦en=In the hotel there is a bathrobe in the room.
+B4421¦en=I do not understand the instruction manual.
+B4422¦pos=adjective¦tp=T08¦m=signposted¦ex=Der Weg ist gut beschildert.¦en=The path is well signposted.
+B5603¦m=reform¦en=The government is planning a reform for next year. Taxes are supposed to rise.
+B4424¦tp=T12¦m=fire (blaze)¦ex=Bei dem Brand wurde niemand verletzt.¦en=Nobody was injured in the fire.
+B4425¦en=I have a chip card for this machine.
+B4428¦pos=adjective¦tp=T06¦ex=Die Klinik bietet diätische Ernährung an.¦en=The clinic offers dietary food.
+B5101¦en=I wiped dust everywhere.
+B4429¦en=You can get detergent at the drugstore.
+B4431¦m=dismissal; discharge¦en=His dismissal from the company came as a surprise.
+B4432¦en=Have you seen the remote control?
+B5604¦m=philosopher¦lv=C1¦art=der¦pl=Philosophen¦ex=Kant war ein bekannter Philosoph.¦en=Kant was a famous philosopher.
+B4433¦tp=T10¦ex=Das Fernsehgerät steht im Wohnzimmer.¦en=The television set is in the living room.
+B4434¦tp=T15¦ex=Ich rufe dich vom Festnetz aus an.¦en=I will call you from the landline.
+B4436¦tp=T08¦ex=Der Haupteingang ist auf der Nordseite.¦en=The main entrance is on the north side.
+B4640¦ex=Der Schwerpunkt des Kurses liegt auf der Grammatik.¦en=The focus of the course is on grammar.
+B4437¦tp=T06¦ex=Das Mittagessen ist bei uns die Hauptmahlzeit.¦en=Lunch is our main meal.
+B4438¦tp=T07¦ex=Zu Hause trage ich immer Hausschuhe.¦en=At home I always wear slippers.
+B4439¦tp=T15¦ex=Das Infoblatt liegt am Empfang.¦en=The fact sheet is at reception.
+B5605¦m=inside; in it¦en=There is nothing left in the packet.
+B4440¦tp=M4¦ex=Nach dem Klinikaufenthalt fühlt er sich besser.¦en=After the hospital stay he feels better.
+B4441¦tp=T06¦ex=Das Küchenteam bereitet das Essen vor.¦en=The kitchen team prepares the food.
+B4442¦tp=T07¦ex=Im Krankenhaus trage ich ein Nachthemd.¦en=In hospital I wear a nightgown.
+B5606¦m=innovation¦lv=C1¦art=die¦pl=Innovationen¦ex=Die Firma lebt von Innovationen.¦en=The company lives on innovations.
+B4443¦tp=T02¦ex=Auf dem Nachttisch liegt mein Buch.¦en=My book is on the nightstand.
+B4444¦en=The emergency exit is right here by the stairs.
+B4445¦pos=adjective¦tp=T16¦m=upper; top¦ex=Das Buch steht im oberen Regal.¦en=The book is on the top shelf.
+B5607¦m=to move; to shift¦lv=C1¦ps=rückt¦pt=rückte¦pf=ist gerückt¦ex=Rück bitte ein Stück zur Seite.¦en=Please move over a bit.
+B4446¦pos=adverb¦tp=T16¦m=in principle; basically¦ex=Prinzipiell bin ich dafür.¦en=In principle I am in favour.

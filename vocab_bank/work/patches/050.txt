@@ -1,0 +1,100 @@
+B5216¦m=fact¦en=That contradicts the facts.
+B1229¦tp=T13¦m=size; height; greatness¦en=Do you also have that in size 40?
+B1230¦tp=T05¦med=related¦m=stomach; belly; abdomen¦en=My stomach has hurt since yesterday.
+B1231¦tp=T05¦med=related¦en=My right leg hurts.
+B2697¦en=We have to save energy.
+B1232¦med=related¦en=Alessandro cut his finger.
+B1233¦tp=T05¦med=related¦en=My left foot hurts.
+B1234¦med=related¦m=neck; throat¦en=My throat hurts.
+B5217¦m=field¦en=Vegetables grow in this field.
+B1235¦tp=T05¦med=related¦en=He shakes my hand.
+B1236¦med=related¦en=I hurt my knee. Now I can't walk.
+B1237¦tp=T05¦med=related
+B4244¦m=to notice; to establish; to realise¦en=He realised that the sender of the letter was wrong.¦col=einen Fehler feststellen | eine Krankheit feststellen | Veränderungen feststellen | fest steht, dass ...
+B1238¦tp=T05¦en=The doctor says I have to do something for my body, e.g. swim or cycle.
+B1239¦med=related¦en=My back hurts.
+B1240¦tp=T05¦ex=Der Arm ist ein Körperteil.¦en=The arm is a part of the body.
+B3849¦en=The cream has a high sun protection factor.
+B1241¦tp=T01¦ps=wechselt ab¦pt=wechselte ab¦pf=hat abgewechselt¦rf=sich¦ex=Wir wechseln uns beim Kochen ab.¦en=We take turns cooking.
+B1242¦tp=T05¦med=related¦en=He has blue eyes.
+B1243¦tp=T05¦med=related¦en=Please wash your face.
+B4464¦col=einerseits ... andererseits | andererseits aber | und andererseits | andererseits jedoch¦en=Tarek would like to study, but on the other hand he also wants to earn money straight away.
+B1244¦tp=T05¦en=She has long hair.
+B1245¦tp=T05¦med=related¦en=Open your mouth.
+B1246¦med=related¦en=Do you have nasal drops? I have a bad cold.
+B5218¦pos=adjective¦lv=B1¦g=+ Dat.¦ef=näher – am nächsten¦m=near; close¦ex=Das Krankenhaus liegt nahe am Bahnhof.¦en=The hospital is close to the station.¦col=nahe liegen | nahe stehen | nahe am Wasser | aus nächster Nähe
+B1247¦med=related¦en=The baby has tiny ears!
+B1248¦med=related¦en=My tooth has been hurting for a week.
+B1249¦tp=T05¦pt=roch
+B4480¦med=related¦en=He suffers from a serious illness.¦col=an einer Krankheit leiden | unter Schmerzen leiden | unter etwas leiden | Hunger leiden
+B1250¦tp=T16¦pt=bekam¦en=Did you get my letter?
+B1251¦tp=T05¦med=related¦en=My daughter is ill. We're going to the doctor.
+B1252¦med=related¦ex=Die Doktorin wird gleich bei Ihnen sein.¦en=The doctor will be with you in a moment.
+B5219¦m=to catch¦en=The child caught the ball.¦col=einen Ball fangen | einen Fisch fangen | Feuer fangen | sich fangen
+B1253¦med=related¦en=This cake tastes great! Can you give me the recipe, please?
+B1254¦med=related¦m=ointment¦en=This ointment is only available on prescription.
+B1255¦med=related¦en=I had an accident yesterday.
+B4272¦pt=schwieg¦col=über etwas schweigen | beharrlich schweigen | Schweigen brechen | schweigen wie ein Grab¦en=She talked a lot, but her husband stayed silent the whole evening.
+B1256¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦ex=Der Arzt legt dem Patienten einen Verband an.¦en=The doctor puts a bandage on the patient.¦col=einen Verband anlegen | den Verband wechseln | einen Druckverband anlegen | den Verband abnehmen
+B1257¦pos=adjective¦tp=T05¦med=related¦ex=Der Fahrer ist schwer verletzt.¦en=The driver is seriously injured.
+B1258¦med=related¦en=You can get the medicine at the pharmacy.
+B2436¦en=My husband has good chances of getting the job.
+B1259¦rf=sich¦col=sich bewegen | den Arm bewegen | Gefühle bewegen | viel bewegen
+B1261¦tp=T05¦ps=legt hin¦pt=legte hin¦pf=hat hingelegt¦ex=Ich lege mich kurz hin, ich bin müde.¦en=I'm going to lie down for a moment, I'm tired.
+B4864¦pos=adjective¦en=That is a national competition.
+B1262¦en=There are hardly any checks at the borders any more.
+B1263¦pt=kontrollierte¦en=Can you check the oil on my car, please?
+B1264¦tp=T02¦ps=macht sauber¦pt=machte sauber¦pf=hat sauber gemacht¦ex=Ich mache jeden Samstag die Wohnung sauber.¦en=I clean the flat every Saturday.
+B5220¦pos=adjective¦tp=T04¦m=completed; locked¦lv=B1¦ex=Die Ausbildung ist abgeschlossen.¦en=The training is completed.¦col=abgeschlossene Ausbildung | ein abgeschlossenes Studium | abgeschlossen sein | die Tür abgeschlossen
+B1266¦tp=T05¦med=related¦pt=tat weh¦en=Where does it hurt?
+B1267¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦col=eine Wunde versorgen | eine offene Wunde | die Wunde reinigen | die Wunde nähen¦en=We have to bandage the wound immediately.
+B1268¦tp=T05¦ex=Nach dem Arztbesuch gehe ich zur Apotheke.¦en=After the doctor's visit I go to the pharmacy.
+B3215¦ck=-¦os=-¦m=value; worth¦en=The house is worth approx. 1 million.
+B1269¦tp=T13¦en=Please answer immediately.
+B1271¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦ex=Seit gestern habe ich starke Bauchschmerzen.¦en=Since yesterday I have had severe stomach pain.¦col=starke Bauchschmerzen | Bauchschmerzen haben | krampfartige Bauchschmerzen | über Bauchschmerzen klagen
+B1272¦pos=adjective¦m=having a cold¦med=related¦en=I have a bad cold.
+B3919¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦en=Have you taken your temperature yet?¦col=Fieber messen | den Blutdruck messen | den Puls messen | die Temperatur messen
+B1273¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦col=Fieber haben | Fieber messen | Fieber senken | hohes Fieber¦en=My husband still has a fever.
+B1274¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦pt=hustete¦col=stark husten | trocken husten | Blut husten | nachts husten¦en=She has been coughing for two days. She is ill.
+B1275¦pos=adjective¦ef=schlechter – am schlechtesten¦tp=T16
+B3279¦pos=interjection¦tp=T15¦ex=Sorry, ich bin zu spät!¦en=Sorry, I'm late!
+B1276¦pos=adverb¦rg=informal¦en=The film is totally boring.
+B1277¦tp=T05¦ps=badet¦pt=badete¦pf=hat gebadet¦en=I don't like taking baths, I prefer to shower.
+B1279¦tp=T09¦en=Parking is not allowed here.
+B2390¦col=eine Tätigkeit ausüben | berufliche Tätigkeit | eine Tätigkeit beenden | freiberufliche Tätigkeit¦en=What activity would you enjoy?
+B1280¦tp=T16¦en=I am against cars in the city centre.
+B1281¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦ex=Ich nehme abends einen Löffel Hustensaft.¦en=In the evening I take a spoonful of cough syrup.
+B1282¦tp=T05¦med=related¦ps=raucht¦pt=rauchte¦pf=hat geraucht¦en=I don't smoke.
+B2828¦col=ein Tor schießen | ein Foto schießen | auf jemanden schießen | in die Höhe schießen¦en=Our team scored a goal.
+B1283¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦col=starke Schmerzen haben | über Schmerzen klagen | Schmerzen lindern | der Schmerz strahlt aus¦en=Do you have any pain?
+B1284¦ex=Ich nehme die Tablette zweimal am Tag.¦en=I take the tablet twice a day.
+B1285¦tp=T09¦ex=Bitte folgen Sie den Anweisungen.¦en=Please follow the instructions.
+B3358¦en=He is ill. This is not a good time for a visit.
+B1286¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦ex=Ich habe seit drei Tagen Halsschmerzen.¦en=I have had a sore throat for three days.¦col=starke Halsschmerzen | Halsschmerzen haben | Halsschmerzen beim Schlucken | gegen Halsschmerzen lutschen
+B1287¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦ex=Seit dem Morgen habe ich Kopfschmerzen.¦en=I have had a headache since this morning.¦col=starke Kopfschmerzen | pochende Kopfschmerzen | Kopfschmerzen haben | Tabletten gegen Kopfschmerzen
+B1288¦tp=M2 Medizin: Symptome & Krankheiten¦med=core¦ex=Nach dem langen Sitzen habe ich Rückenschmerzen.¦en=After sitting for so long I have back pain.¦col=Rückenschmerzen haben | chronische Rückenschmerzen | untere Rückenschmerzen | Tabletten gegen Rückenschmerzen
+B3028¦pos=adjective¦ef=dicker – am dicksten¦col=dick werden | ein dickes Buch | dick anziehen | zu dick
+B1289¦tp=T15
+B1290¦med=related¦m=plaster¦en=Do you have a plaster? I've cut myself.
+B1291¦med=related¦pl=Tropfen¦m=drop; drops¦en=Have you taken the drops yet?
+B5076¦tp=T16¦m=view; visibility; point of view
+B1292¦en=For breakfast I like rolls with honey and butter.
+B1293¦tp=T06¦ex=Bei Erkältung hilft Hühnersuppe.¦en=Chicken soup helps with a cold.
+B1294¦tp=T11¦m=carnation; clove¦ex=Auf dem Tisch stehen rote Nelken.¦en=Red carnations are on the table.
+B2264¦pos=adjective¦ef=schlimmer – am schlimmsten¦col=schlimm sein | nicht so schlimm | schlimme Folgen | schlimmer werden¦en=No problem, it's not that bad.
+B1295¦med=related¦en=I have a cold. Which medicine do you recommend?
+B1296¦m=to suspect; to assume¦en=I suspect she won't come today.
+B1297¦tp=T05¦med=related¦ex=Seit gestern habe ich Zahnschmerzen.¦en=Since yesterday I have had toothache.
+B3345¦en=If it rains, we won't have a picnic.
+B1298¦tp=T15
+B1299¦pt=schlief ein¦ex=Ich kann abends nicht einschlafen.¦en=I can't fall asleep in the evening.
+B1300¦tp=T10¦ck=-¦ex=Ich habe einen Forumsbeitrag zu dem Thema geschrieben.¦en=I wrote a forum post on the topic.
+B4145¦col=schnell wachsen | in die Höhe wachsen | die Wirtschaft wächst | Pflanzen wachsen¦en=My son has grown a lot. He is already taller than me.
+B1301¦tp=T05¦ex=Honig mit Milch ist ein altes Hausmittel.¦en=Honey with milk is an old home remedy.
+B1302¦tp=T05¦med=related¦ps=inhaliert¦pt=inhalierte¦pf=hat inhaliert¦ex=Bei Husten sollten Sie zweimal am Tag inhalieren.¦en=For a cough you should inhale twice a day.
+B1303¦tp=T16¦en=Does anyone have my pen?
+B3513¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦ex=Die Behandlung dauert etwa vier Wochen.¦en=The treatment takes about four weeks.¦col=eine Behandlung beginnen | in Behandlung sein | ambulante Behandlung | die Behandlung abbrechen
+B1304¦pos=adjective¦en=The travel organisation was perfect.
+B1305¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦ex=Nehmen Sie keine Schlaftabletten ohne Rücksprache.¦en=Do not take sleeping pills without consulting your doctor.
+B1306¦tp=T06¦ex=Für die Suppe brauche ich ein Suppenhuhn.¦en=For the soup I need a boiling fowl.
+B2464¦en=I'm not taking out a loan. The risk is too high for me.

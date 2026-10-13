@@ -1,0 +1,89 @@
+A¦abstoßend¦repulsive; repellent¦T14¦Der Geruch im Keller war abstoßend.¦The smell in the cellar was repulsive.¦ein abstoßender Geruch | abstoßend wirken | abstoßend hässlich¦Lesen; Sprechen
+A¦ätzend¦caustic; awful (colloquial)¦T14¦Das Wetter ist heute echt ätzend.¦The weather is really awful today.¦ätzend finden | ätzend sein | eine ätzende Flüssigkeit¦Sprechen; Alltag¦rg=colloquial
+A¦ausgetrocknet¦dried out; parched¦T11¦Der Boden ist nach dem heißen Sommer völlig ausgetrocknet.¦The soil is completely dried out after the hot summer.¦ausgetrocknet sein | ausgetrocknete Haut | ein ausgetrocknetes Flussbett¦Lesen; Hören
+A¦buschig¦bushy¦T01¦Der alte Mann hat buschige Augenbrauen.¦The old man has bushy eyebrows.¦buschige Augenbrauen | ein buschiger Schwanz | buschiges Haar¦Lesen; Sprechen
+A¦diesig¦hazy; misty¦T11¦Es war diesig, deshalb sah man die Berge nicht.¦It was hazy, so the mountains could not be seen.¦diesiges Wetter | diesig sein | ein diesiger Morgen¦Hören; Lesen
+A¦durchlässig¦permeable; porous¦T16¦Der Stoff ist wasserdurchlässig.¦The fabric is permeable to water.¦durchlässig sein | wasserdurchlässig | eine durchlässige Schicht¦Lesen; Wissenschaft
+A¦durchsichtig¦transparent; see-through¦T16¦Das Glas ist völlig durchsichtig.¦The glass is completely transparent.¦durchsichtig sein | eine durchsichtige Folie | durchsichtig wie Glas¦Lesen; Alltag
+A¦farbenfroh¦colourful¦T16¦Auf dem Markt gibt es farbenfrohe Stoffe.¦At the market there are colourful fabrics.¦farbenfroh gekleidet | ein farbenfrohes Bild | farbenfroh gestalten¦Lesen; Sprechen
+A¦fettig¦greasy; oily¦T06¦Die Pommes sind mir zu fettig.¦The chips are too greasy for me.¦fettige Haare | fettiges Essen | fettig glänzen¦Alltag; Sprechen
+A¦filigran¦delicate; filigree¦T16¦Sie trägt filigranen Schmuck aus Silber.¦She wears delicate silver jewellery.¦filigraner Schmuck | filigran gearbeitet | eine filigrane Struktur¦Lesen; Schreiben
+A¦flauschig¦fluffy; soft¦T07¦Die Decke ist schön flauschig und warm.¦The blanket is nice and fluffy and warm.¦ein flauschiger Pullover | flauschig weich | eine flauschige Decke¦Alltag; Sprechen
+A¦gemustert¦patterned¦T07¦Er trägt ein gemustertes Hemd.¦He is wearing a patterned shirt.¦gemusterter Stoff | gemustert sein | ein gemustertes Kleid¦Alltag; Hören
+A¦gestreift¦striped¦T07¦Ich suche ein gestreiftes T-Shirt in Blau und Weiß.¦I'm looking for a striped T-shirt in blue and white.¦ein gestreiftes Hemd | blau-weiß gestreift | gestreift sein¦Alltag; Hören
+A¦geräumig¦spacious; roomy¦T02¦Die Wohnung ist hell und geräumig.¦The flat is bright and spacious.¦ein geräumiges Zimmer | geräumig sein | eine geräumige Küche¦Alltag; Lesen
+A¦grell¦glaring; harsh¦T16¦Das grelle Licht blendete mich.¦The glaring light dazzled me.¦grelles Licht | grelle Farben | grell leuchten¦Lesen; Sprechen
+A¦handlich¦handy; easy to handle¦T07¦Das Gerät ist klein und handlich.¦The device is small and handy.¦ein handliches Format | handlich sein | handlich verpackt¦Alltag; Lesen
+A¦karg¦meagre; barren¦T11¦Die Landschaft ist karg und unwirtlich.¦The landscape is barren and inhospitable.¦ein karger Boden | karge Vegetation | karg bemessen¦Lesen; Schreiben
+A¦kariert¦checked; squared¦T07¦Er hat ein kariertes Hemd an.¦He is wearing a checked shirt.¦ein kariertes Hemd | kariertes Papier | rot-weiß kariert¦Alltag; Hören
+A¦klebrig¦sticky¦T06¦Meine Hände sind vom Honig ganz klebrig.¦My hands are all sticky from the honey.¦klebrige Finger | klebrig sein | ein klebriger Tisch¦Alltag; Sprechen
+A¦knackig¦crisp; crunchy; firm¦T06¦Der Salat ist frisch und knackig.¦The salad is fresh and crisp.¦knackiges Gemüse | knackig frisch | ein knackiger Apfel¦Alltag; Hören
+A¦kratzig¦scratchy¦T07¦Der Pullover ist mir zu kratzig.¦The jumper is too scratchy for me.¦ein kratziger Stoff | kratzig sein | ein kratziger Hals¦Alltag; Sprechen
+A¦lückenlos¦complete; gapless¦T16¦Die Polizei verlangt einen lückenlosen Nachweis.¦The police demand complete proof.¦lückenlos dokumentieren | ein lückenloser Lebenslauf | lückenlos aufklären¦Schreiben; Lesen
+A¦luftig¦airy; light¦T07¦Im Sommer trage ich luftige Kleider.¦In summer I wear airy dresses.¦luftig gekleidet | ein luftiges Kleid | luftig und leicht¦Alltag; Sprechen
+A¦matt¦dull; matt; weak¦T16¦Die Farbe hat einen matten Glanz.¦The colour has a matt sheen.¦matte Farben | matt glänzen | sich matt fühlen¦Lesen; Alltag
+A¦muffig¦musty; stuffy¦T02¦Im Keller riecht es muffig.¦It smells musty in the cellar.¦muffig riechen | ein muffiger Geruch | eine muffige Luft¦Alltag; Sprechen
+A¦porös¦porous¦T16¦Der Stein ist porös und saugt Wasser auf.¦The stone is porous and soaks up water.¦poröses Material | porös werden | ein poröser Boden¦Wissenschaft; Lesen
+A¦prall¦plump; full to bursting¦T16¦Der Rucksack ist prall gefüllt.¦The rucksack is stuffed full.¦prall gefüllt | pralle Sonne | ein praller Geldbeutel¦Lesen; Sprechen
+A¦quadratisch¦square¦T16¦Der Tisch ist quadratisch.¦The table is square.¦ein quadratischer Raum | quadratisch geformt | quadratisch, praktisch, gut¦Lesen; Alltag
+A¦rau¦rough; hoarse; harsh¦T16¦Seine Stimme klingt heute ganz rau.¦His voice sounds quite hoarse today.¦eine raue Stimme | raues Klima | raue Haut¦Lesen; Sprechen
+A¦rissig¦cracked; chapped¦T05¦Meine Lippen sind im Winter rissig.¦My lips are chapped in winter.¦rissige Haut | rissig werden | rissige Wände¦Alltag; Lesen
+A¦rostig¦rusty¦T16¦Das Fahrrad ist alt und rostig.¦The bicycle is old and rusty.¦ein rostiger Nagel | rostig sein | rostige Kette¦Alltag; Lesen
+A¦samtig¦velvety¦T07¦Das Kleid hat einen samtigen Stoff.¦The dress has a velvety fabric.¦samtige Haut | samtig weich | eine samtige Stimme¦Lesen; Sprechen
+A¦schäbig¦shabby¦T07¦Der Mantel sieht schon ziemlich schäbig aus.¦The coat already looks rather shabby.¦schäbig aussehen | ein schäbiges Zimmer | schäbig gekleidet¦Lesen; Sprechen
+A¦schlaff¦limp; slack¦T16¦Nach der Hitze ließen die Blumen schlaff die Köpfe hängen.¦After the heat the flowers drooped limply.¦schlaff herunterhängen | ein schlaffer Händedruck | schlaffe Muskeln¦Lesen; Sprechen
+A¦schmierig¦greasy; smeary¦T16¦Die Fensterscheibe ist ganz schmierig.¦The window pane is all smeary.¦schmierige Hände | schmierig sein | ein schmieriges Lächeln¦Alltag; Lesen
+A¦schwammig¦spongy; vague¦T15¦Die Antwort der Politikerin war ziemlich schwammig.¦The politician's answer was rather vague.¦eine schwammige Aussage | schwammig formulieren | schwammiger Begriff¦Lesen; Sprechen
+A¦seidig¦silky¦T07¦Ihr Haar ist weich und seidig.¦Her hair is soft and silky.¦seidiges Haar | seidig glänzen | eine seidige Haut¦Lesen; Sprechen
+A¦sperrig¦bulky; unwieldy¦T16¦Das sperrige Paket passt nicht in den Kofferraum.¦The bulky parcel doesn't fit into the boot.¦sperriges Gepäck | sperrige Güter | ein sperriger Begriff¦Alltag; Lesen
+A¦spiegelglatt¦smooth as glass; icy¦T11¦Die Straße ist spiegelglatt, fahren Sie vorsichtig!¦The road is icy; drive carefully!¦spiegelglatte Straßen | spiegelglatt gefroren | ein spiegelglatter See¦Hören; Lesen
+A¦staubig¦dusty¦T02¦Auf dem Dachboden ist alles staubig.¦In the attic everything is dusty.¦staubige Regale | staubig sein | eine staubige Straße¦Alltag; Sprechen
+A¦stickig¦stuffy; airless¦T02¦Im Raum war die Luft stickig.¦The air in the room was stuffy.¦stickige Luft | ein stickiges Zimmer | stickig sein¦Alltag; Sprechen
+A¦stoßfest¦shockproof¦T07¦Die Uhr ist wasserdicht und stoßfest.¦The watch is waterproof and shockproof.¦stoßfest und wasserdicht | ein stoßfestes Gehäuse | stoßfest sein¦Alltag; Lesen
+A¦stumpf¦blunt; dull¦T16¦Das Messer ist stumpf und schneidet nicht mehr.¦The knife is blunt and no longer cuts.¦ein stumpfes Messer | stumpfe Farben | stumpf werden¦Alltag; Lesen
+A¦trüb¦cloudy; murky; gloomy¦T11¦Das Wasser im See war trüb.¦The water in the lake was murky.¦trübes Wasser | ein trüber Tag | trübe Stimmung¦Lesen; Hören
+A¦unscharf¦blurred; out of focus¦T10¦Das Foto ist leider unscharf.¦The photo is unfortunately blurred.¦unscharf sein | ein unscharfes Bild | unscharf fotografieren¦Alltag; Medien
+A¦verbeult¦dented¦T07¦Das Auto hat eine verbeulte Tür.¦The car has a dented door.¦eine verbeulte Tür | verbeult sein | ein verbeultes Blech¦Alltag; Hören
+A¦verschwommen¦blurry; vague¦T16¦Ohne Brille sehe ich alles verschwommen.¦Without glasses I see everything blurry.¦verschwommen sehen | verschwommene Erinnerungen | ein verschwommenes Bild¦Lesen; Sprechen
+A¦verschmutzt¦dirty; polluted¦T11¦Der Fluss ist stark verschmutzt.¦The river is heavily polluted.¦stark verschmutzt | verschmutztes Wasser | verschmutzte Kleidung¦Lesen; Schreiben
+A¦verwittert¦weathered¦T11¦Die Mauern sind alt und verwittert.¦The walls are old and weathered.¦verwitterter Stein | verwitterte Gesichtszüge | verwittert aussehen¦Lesen; Schreiben
+A¦wasserdicht¦waterproof¦T07¦Meine Jacke ist wasserdicht.¦My jacket is waterproof.¦wasserdichte Kleidung | wasserdicht verpackt | eine wasserdichte Uhr¦Alltag; Lesen
+A¦widerstandsfähig¦resilient; robust¦T16¦Das Material ist besonders widerstandsfähig.¦The material is especially robust.¦widerstandsfähig sein | ein widerstandsfähiges Material | widerstandsfähig gegen Kälte¦Schreiben; Wissenschaft
+A¦wellig¦wavy¦T01¦Sie hat langes welliges Haar.¦She has long wavy hair.¦welliges Haar | wellig sein | eine wellige Oberfläche¦Lesen; Sprechen
+A¦winzig¦tiny¦T16¦Die Wohnung hat eine winzige Küche.¦The flat has a tiny kitchen.¦eine winzige Wohnung | winzig klein | ein winziger Unterschied¦Sprechen; Alltag
+A¦wolkenlos¦cloudless¦T11¦Der Himmel war den ganzen Tag wolkenlos.¦The sky was cloudless all day.¦ein wolkenloser Himmel | wolkenlos sein | wolkenlos und klar¦Hören; Lesen
+A¦zäh¦tough; tenacious¦T06¦Das Fleisch ist leider zäh.¦The meat is unfortunately tough.¦zähes Fleisch | zäh verhandeln | ein zäher Kampf¦Alltag; Sprechen
+A¦zerbrechlich¦fragile¦T07¦Vorsicht, die Vase ist zerbrechlich!¦Careful, the vase is fragile!¦zerbrechlich wirken | zerbrechliche Ware | ein zerbrechliches Glas¦Alltag; Lesen
+A¦zerknittert¦crumpled; creased¦T07¦Das Hemd war nach der Reise zerknittert.¦The shirt was creased after the journey.¦zerknitterte Kleidung | zerknittert aussehen | ein zerknittertes Papier¦Alltag; Sprechen
+A¦zerzaust¦tousled; dishevelled¦T01¦Nach dem Sturm waren ihre Haare zerzaust.¦After the storm her hair was tousled.¦zerzauste Haare | zerzaust aussehen | ein zerzauster Vogel¦Lesen; Sprechen
+A¦zierlich¦petite; dainty¦T01¦Sie ist klein und zierlich.¦She is small and petite.¦eine zierliche Frau | zierlich gebaut | ein zierliches Gefäß¦Lesen; Sprechen
+A¦abgemagert¦emaciated; very thin¦T01¦Der Hund war abgemagert und hungrig.¦The dog was emaciated and hungry.¦stark abgemagert | abgemagert aussehen | ein abgemagerter Körper¦Lesen; Hören
+A¦bleich¦pale; pallid¦T01¦Er wurde bleich, als er die Nachricht hörte.¦He turned pale when he heard the news.¦bleich werden | ein bleiches Gesicht | bleich wie die Wand¦Lesen; Sprechen
+A¦gebräunt¦tanned¦T01¦Nach dem Urlaub war sie schön gebräunt.¦After the holiday she was nicely tanned.¦gebräunt sein | gebräunte Haut | von der Sonne gebräunt¦Alltag; Sprechen
+A¦gedrungen¦stocky; squat¦T01¦Er hat eine gedrungene Gestalt.¦He has a stocky build.¦eine gedrungene Gestalt | gedrungen wirken | ein gedrungener Körperbau¦Lesen; Schreiben
+A¦kahl¦bald; bare¦T01¦Er hat schon mit 30 einen kahlen Kopf bekommen.¦He already got a bald head at 30.¦ein kahler Kopf | kahle Bäume | kahl werden¦Lesen; Sprechen
+A¦mollig¦plump; chubby¦T01¦Das Baby ist mollig und gesund.¦The baby is chubby and healthy.¦mollige Arme | mollig sein | eine molligere Figur¦Alltag; Sprechen
+A¦rundlich¦roundish; plump¦T01¦Er ist ein rundlicher Mann mit freundlichem Gesicht.¦He is a plump man with a friendly face.¦rundlich sein | ein rundliches Gesicht | rundlich geformt¦Lesen; Sprechen
+A¦sommersprossig¦freckled¦T01¦Das sommersprossige Mädchen lachte fröhlich.¦The freckled girl laughed happily.¦ein sommersprossiges Gesicht | sommersprossig sein | sommersprossige Haut¦Lesen; Sprechen
+A¦stämmig¦stocky; sturdy¦T01¦Der stämmige Mann trug schwere Kisten.¦The sturdy man carried heavy boxes.¦ein stämmiger Mann | stämmig gebaut | stämmige Beine¦Lesen; Sprechen
+A¦untersetzt¦thickset; stocky¦T01¦Er ist untersetzt und kräftig gebaut.¦He is thickset and powerfully built.¦untersetzt sein | ein untersetzter Mann | untersetzt wirken¦Lesen; Sprechen
+A¦zart¦tender; delicate; gentle¦T14¦Sie umarmte ihn mit zarter Geste.¦She embraced him with a gentle gesture.¦zarte Haut | zart besaitet | zartes Fleisch¦Lesen; Sprechen
+A¦appetitlich¦appetising¦T06¦Das Essen sieht sehr appetitlich aus.¦The food looks very appetising.¦appetitlich aussehen | appetitlich angerichtet | ein appetitliches Gericht¦Alltag; Lesen
+A¦bekömmlich¦easily digestible; wholesome¦T06¦Das Gericht ist leicht und gut bekömmlich.¦The dish is light and easily digestible.¦gut bekömmlich | leicht bekömmlich | bekömmliche Kost¦Alltag; Lesen
+A¦deftig¦hearty; substantial¦T06¦In der Gaststätte gibt es deftige Hausmannskost.¦The inn serves hearty home cooking.¦deftiges Essen | eine deftige Mahlzeit | deftig essen¦Alltag; Hören
+A¦herb¦tart; dry; harsh¦T06¦Der Wein schmeckt herb.¦The wine tastes dry.¦ein herber Geschmack | herb im Geschmack | eine herbe Enttäuschung¦Alltag; Lesen
+A¦herzhaft¦hearty; savoury¦T06¦Zum Frühstück esse ich gern etwas Herzhaftes.¦For breakfast I like to eat something savoury.¦herzhaft essen | ein herzhaftes Lachen | eine herzhafte Suppe¦Alltag; Sprechen
+A¦kross¦crispy¦T06¦Die Haut vom Braten ist schön kross.¦The skin of the roast is nicely crispy.¦kross gebraten | kross backen | eine krosse Kruste¦Alltag; Hören
+A¦köstlich¦delicious¦T06¦Die Suppe schmeckt köstlich.¦The soup tastes delicious.¦köstlich schmecken | ein köstliches Essen | sich köstlich amüsieren¦Alltag; Sprechen
+A¦pikant¦spicy; piquant¦T06¦Die Soße ist würzig und pikant.¦The sauce is flavourful and piquant.¦pikant gewürzt | eine pikante Soße | ein pikanter Käse¦Alltag; Lesen
+A¦säuerlich¦slightly sour¦T06¦Die Äpfel schmecken säuerlich.¦The apples taste slightly sour.¦säuerlich schmecken | ein säuerlicher Geschmack | säuerlich lächeln¦Alltag; Lesen
+A¦saftig¦juicy¦T06¦Die Birne ist reif und saftig.¦The pear is ripe and juicy.¦saftiges Fleisch | eine saftige Orange | eine saftige Rechnung¦Alltag; Sprechen
+A¦schmackhaft¦tasty; palatable¦T06¦Sie kocht schmackhafte Gerichte aus frischen Zutaten.¦She cooks tasty dishes from fresh ingredients.¦schmackhaft zubereiten | ein schmackhaftes Essen | schmackhaft gewürzt¦Alltag; Lesen
+A¦süßlich¦sweetish; cloying¦T06¦Der Saft schmeckt mir zu süßlich.¦The juice tastes too sweetish to me.¦süßlich schmecken | ein süßlicher Geruch | süßlich lächeln¦Alltag; Sprechen
+A¦ungenießbar¦inedible; unpalatable¦T06¦Die Milch war schlecht und ungenießbar.¦The milk was off and undrinkable.¦ungenießbar sein | ungenießbare Pilze | ungenießbar werden¦Alltag; Lesen
+A¦zartbitter¦dark (chocolate); bittersweet¦T06¦Ich esse am liebsten zartbittere Schokolade.¦I like to eat dark chocolate best.¦zartbittere Schokolade | zartbitter schmecken | Zartbitterschokolade¦Alltag; Hören
+A¦lauwarm¦lukewarm¦T06¦Der Tee ist nur noch lauwarm.¦The tea is only lukewarm now.¦lauwarmes Wasser | lauwarm sein | lauwarm duschen¦Alltag; Hören
+A¦brütend¦sweltering; brooding¦T11¦Es herrschte eine brütende Hitze.¦There was a sweltering heat.¦brütende Hitze | brütend heiß | in der brütenden Sonne¦Lesen; Hören
+A¦drückend¦oppressive; sultry¦T11¦Heute ist es drückend schwül.¦Today it is oppressively muggy.¦drückende Hitze | drückende Schwüle | drückend heiß¦Hören; Lesen
+A¦frostig¦frosty; chilly¦T11¦Der Morgen war frostig und klar.¦The morning was frosty and clear.¦frostige Temperaturen | ein frostiger Empfang | frostig kalt¦Hören; Lesen
+A¦wechselhaft¦changeable; variable¦T11¦Das Wetter bleibt wechselhaft.¦The weather remains changeable.¦wechselhaftes Wetter | wechselhaft sein | ein wechselhaftes Leben¦Hören; Lesen

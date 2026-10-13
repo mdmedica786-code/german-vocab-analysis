@@ -1,0 +1,100 @@
+P0460¦ph=es handelt sich um ...¦m=it is a matter of ...¦lv=B2¦ex=Es handelt sich um eine Routineuntersuchung.¦en=It is a routine examination.¦gn=sich handeln um + Akk.¦ck=dup:P0014
+P0461¦m=in the evening¦lv=A1¦ex=Am Abend sehe ich gern fern.¦en=In the evening I like watching TV.¦gn=am + Dat.: Tageszeit¦v=abends | gegen Abend
+P0462¦ph=weiß, was ...¦m=knows what ...¦lv=B1¦ex=Die Ärztin weiß, was zu tun ist.¦en=The doctor knows what to do.¦gn=3. Person Singular: er/sie weiß; was-Satz¦ck=dup:P0425
+P0463¦ph=kam es zu ...¦m=there was ...; it led to ...¦lv=C1¦ex=Nach dem Streit kam es zu einer Schlägerei.¦en=After the argument there was a fight.¦gn=Präteritum von „kommen zu“¦ck=dup:P0267
+P0464¦ph=gezeigt, dass ...¦m=shown that ...¦lv=B2¦ex=Studien haben gezeigt, dass Bewegung gesund ist.¦en=Studies have shown that exercise is healthy.¦gn=Partizip II von „zeigen“¦ck=dup:P0220
+P0465¦ph=Unterschied zwischen ...¦m=difference between ...¦lv=B1¦ex=Es gibt einen großen Unterschied zwischen Tee und Kaffee.¦en=There is a big difference between tea and coffee.¦gn=zwischen + Dat.¦ck=dup:P0112
+P0466¦m=during this time; at that time¦lv=B1¦ex=In dieser Zeit habe ich viel gelernt.¦en=During this time I learned a lot.¦v=damals | währenddessen
+P0467¦ph=es stellt sich die Frage, ob ...¦m=the question arises whether ...¦lv=C1¦ex=Es stellt sich die Frage, ob die Behandlung sinnvoll ist.¦en=The question arises whether the treatment makes sense.¦gn=sich stellen: Frage; ob-Satz¦v=es fragt sich, ob | die Frage ist, ob
+P0468¦m=not seldom; quite often¦lv=C1¦ex=Nicht selten treten Nebenwirkungen auf.¦en=Side effects occur quite often.¦gn=Litotes: nicht selten = oft¦v=oft | häufig
+P0469¦m=onto the street; outside¦lv=A2¦ex=Die Kinder laufen auf die Straße.¦en=The children run onto the street.¦gn=auf + Akk.: wohin?¦v=nach draußen | hinaus
+P0470¦m=at this point in time¦lv=C1¦ex=Zu diesem Zeitpunkt wussten wir das noch nicht.¦en=At that point in time we didn't know that yet.¦v=damals | in dem Moment
+P0471¦ph=es ist wichtig, ... zu ...¦m=it is important to ...¦lv=B1¦ex=Es ist wichtig, viel Wasser zu trinken.¦en=It is important to drink a lot of water.¦gn=zu + Infinitiv oder dass-Satz¦v=es ist wichtig, dass | man sollte unbedingt ...
+P0472¦ph=die Frage, wie ...¦m=the question of how ...¦lv=B2¦ex=Die Frage, wie wir das bezahlen, ist noch offen.¦en=The question of how we pay for that is still open.¦gn=wie-Satz: Verb am Ende¦v=die Frage, ob | die Frage, wann
+P0473¦ph=ich weiß, was ...¦m=I know what ...¦lv=B1¦ex=Ich weiß, was du meinst.¦en=I know what you mean.¦gn=was-Satz: Verb am Ende¦ck=dup:P0425
+P0474¦ph=eine Vielzahl von ...¦m=a large number of ...¦lv=C1¦ex=Es gibt eine Vielzahl von Möglichkeiten.¦en=There are a large number of possibilities.¦gn=von + Dat.¦v=viele | zahlreiche
+P0475¦m=for a long time¦lv=B1¦ex=Ich kenne ihn schon lange.¦en=I have known him for a long time.¦gn=schon lange + Präsens¦v=seit Langem | seit Jahren
+P0476¦ph=hoffen, dass ...¦m=to hope that ...¦lv=B1¦ex=Wir hoffen, dass es bald besser wird.¦en=We hope that it will get better soon.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0040
+P0477¦ph=die Frage, ob ...¦m=the question of whether ...¦lv=B2¦ex=Die Frage, ob er kommt, ist unklar.¦en=The question of whether he is coming is unclear.¦gn=ob-Satz: Verb am Ende¦ck=dup:P0437
+P0478¦m=the whole time¦lv=B2¦ex=Er hat die ganze Zeit über geschwiegen.¦en=He was silent the whole time.¦gn=Akk. der Zeit + über¦v=die ganze Zeit | durchgehend
+P0479¦m=very close by¦lv=B1¦ex=Mein Büro liegt ganz in der Nähe.¦en=My office is very close by.¦v=gleich um die Ecke | nicht weit
+P0480¦m=a lot of time¦lv=A2¦ex=Ich habe heute viel Zeit.¦en=I have a lot of time today.¦v=genug Zeit | reichlich Zeit
+P0481¦ph=du weißt, dass ...¦m=you know that ...¦lv=B1¦ex=Du weißt, dass ich dich mag.¦en=You know that I like you.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0002
+P0482¦m=for a moment¦lv=B1¦ex=Ich habe für einen Moment gezweifelt.¦en=I doubted for a moment.¦v=kurz | einen Augenblick lang
+P0483¦ph=weißt du, ...¦fn=Gliedern¦m=you know, ...¦lv=B1¦ex=Weißt du, ich bin gerade etwas müde.¦en=You know, I'm a bit tired at the moment.¦gn=Gesprächspartikel; Verb an Position 1¦v=siehst du | hör mal
+P0484¦ph=denke ich¦m=I think¦lv=B1¦ex=Er hat recht, denke ich.¦en=He is right, I think.¦gn=nachgestellter Kommentar¦v=glaube ich | meine ich¦ck=dup:P0279
+P0485¦m=not necessary¦lv=B1¦ex=Das ist nicht nötig, danke.¦en=That is not necessary, thank you.¦v=nicht notwendig | muss nicht sein
+P0486¦ph=egal, was ...¦m=no matter what ...¦lv=B2¦ex=Egal, was passiert, ich bleibe bei dir.¦en=No matter what happens, I'll stay with you.¦gn=was-Satz: Verb am Ende¦v=ganz gleich, was | was auch immer
+P0487¦ph=feststellen, dass ...¦m=to find that ...¦lv=B2¦ex=Wir müssen feststellen, dass die Methode nicht wirkt.¦en=We have to note that the method doesn't work.¦gn=dass-Satz: Verb am Ende¦v=bemerken, dass | erkennen, dass
+P0488¦ph=was passiert, wenn ...?¦m=what happens if ...?¦lv=B1¦ex=Was passiert, wenn man zu wenig trinkt?¦en=What happens if you drink too little?¦gn=wenn-Satz: Verb am Ende¦ck=dup:P0238
+P0489¦m=in many cases¦lv=B2¦ex=In vielen Fällen hilft eine Salbe.¦en=In many cases an ointment helps.¦gn=Dativ Plural¦v=oft | häufig
+P0490¦m=a long time¦lv=B1¦ex=Ich habe lange Zeit in Berlin gelebt.¦en=I lived in Berlin for a long time.¦v=lange | viele Jahre
+P0491¦ph=mir ist bewusst, dass ...¦m=I am aware that ...¦lv=C1¦ex=Mir ist bewusst, dass das nicht einfach wird.¦en=I am aware that this won't be easy.¦gn=dass-Satz: Verb am Ende; bewusst sein + Dat.¦v=ich weiß, dass | mir ist klar, dass
+P0492¦m=on the right-hand side¦lv=A1¦ex=Die Apotheke ist auf der rechten Seite.¦en=The pharmacy is on the right-hand side.¦v=rechts | rechter Hand
+P0493¦ph=vor dem Hintergrund + Gen.¦m=against the background of ...¦lv=C1¦ex=Vor dem Hintergrund der aktuellen Lage ist das klar.¦en=Against the background of the current situation this is clear.¦gn=Genitiv: vor dem Hintergrund der ...¦v=angesichts | im Hinblick auf
+P0494¦m=in summer¦lv=A1¦ex=Im Sommer fahren wir ans Meer.¦en=In summer we go to the seaside.¦gn=im + Dat.: Jahreszeit¦v=sommers | in den Sommermonaten
+P0495¦ph=eine ganze Reihe von ...¦m=quite a number of ...¦lv=B2¦ex=Es gibt eine ganze Reihe von Problemen.¦en=There are quite a number of problems.¦gn=von + Dat.¦ck=dup:P0353
+P0496¦m=basically¦lv=B2¦ex=Im Grunde bin ich damit einverstanden.¦en=Basically I agree with it.¦v=eigentlich | grundsätzlich
+P0497¦m=at the beginning¦lv=A2¦ex=Am Anfang war alles neu für mich.¦en=At the beginning everything was new to me.¦v=zu Beginn | anfangs
+P0498¦ph=wissen, wie ...¦m=to know how ...¦lv=B1¦ex=Ich möchte wissen, wie das funktioniert.¦en=I'd like to know how that works.¦gn=wie-Satz: Verb am Ende¦ck=dup:P0425
+P0499¦m=in the same way¦lv=C1¦ex=In gleicher Weise reagieren auch andere Patienten.¦en=Other patients react in the same way.¦v=ebenso | gleichermaßen
+P0500¦ph=dreimal am Tag¦fn=Menge¦m=three times a day¦lv=A2¦ex=Nehmen Sie die Tablette dreimal am Tag.¦en=Take the tablet three times a day.¦gn=Häufigkeit: -mal am Tag¦v=täglich dreimal | drei Mal täglich
+P0501¦m=outwards; to the outside¦lv=B2¦ex=Die Tür geht nach außen auf.¦en=The door opens outwards.¦gn=Richtung: wohin?¦v=hinaus | nach draußen
+P0502¦m=at the moment; currently¦lv=B1¦ex=Zur Zeit arbeite ich in einer Klinik.¦en=At the moment I work in a clinic.¦gn=auch: zurzeit (zusammen)¦v=im Moment | derzeit
+P0503¦ph=ich glaube, dass ...¦m=I believe that ...¦lv=B1¦ex=Ich glaube, dass die Idee gut ist.¦en=I believe that the idea is good.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0001
+P0504¦m=in this spirit¦lv=C1¦ex=In diesem Sinne wünsche ich Ihnen viel Erfolg.¦en=In this spirit I wish you every success.¦v=damit | auf diese Weise
+P0505¦m=I know that¦lv=B1¦ex=Das weiß ich schon lange.¦en=I have known that for a long time.¦v=das ist mir bekannt | das weiß ich ja
+P0506¦m=this evening; tonight¦lv=A1¦ex=Heute Abend gehen wir ins Kino.¦en=This evening we're going to the cinema.¦gn=heute Abend: Zeitpunkt¦v=heute Nacht | am heutigen Abend
+P0507¦m=two hours¦lv=A1¦ex=Der Film dauert zwei Stunden.¦en=The film lasts two hours.¦gn=Akk. der Zeit¦v=2 Stunden | zwei Std.
+P0508¦ph=zu zeigen, dass ...¦m=to show that ...¦lv=C1¦ex=Ziel der Studie ist es, zu zeigen, dass die Methode wirkt.¦en=The aim of the study is to show that the method works.¦gn=zu + Infinitiv; dass-Satz¦ck=dup:P0220
+P0509¦ph=mit Blick auf ...¦m=with a view to ...¦lv=C1¦ex=Mit Blick auf die Zukunft sparen wir Geld.¦en=With a view to the future we are saving money.¦gn=auf + Akk.¦v=im Hinblick auf | angesichts
+P0510¦ph=in der Hoffnung, dass ...¦m=in the hope that ...¦lv=B2¦ex=Er wartet, in der Hoffnung, dass sie anruft.¦en=He waits in the hope that she will call.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0191
+P0511¦m=on this day¦lv=A2¦ex=An diesem Tag hat es geregnet.¦en=On this day it rained.¦v=an jenem Tag | damals
+P0512¦m=in bed¦lv=A1¦ex=Mein Mann liegt noch im Bett.¦en=My husband is still in bed.¦gn=im Bett = wo?; ins Bett = wohin?¦v=zu Bett | im Schlafzimmer
+P0513¦ph=in der Regel ist ...¦m=as a rule ...¦lv=B2¦ex=In der Regel ist die Praxis bis 17 Uhr geöffnet.¦en=As a rule the practice is open until 5 p.m.¦gn=Inversion: Verb an Position 2¦ck=dup:P0019
+P0514¦ph=ich weiß es nicht¦m=I don't know (it)¦lv=A1¦ex=Wo er ist? Ich weiß es nicht.¦en=Where is he? I don't know.¦ck=dup:P0103
+P0515¦m=well...; oh well¦lv=B1¦ex=Na ja, das ist nicht so schlimm.¦en=Well, that's not so bad.¦gn=Gesprächspartikel; zögernd/relativierend¦v=tja | also
+P0516¦m=years later¦lv=B1¦ex=Jahre später traf ich ihn wieder.¦en=Years later I met him again.¦v=viele Jahre danach | später
+P0517¦ph=davon ausgehen, dass ...¦m=to assume that ...¦lv=B2¦ex=Wir gehen davon aus, dass alle kommen.¦en=We assume that everyone will come.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0045
+P0518¦m=a few hours¦lv=A2¦ex=Wir warten schon ein paar Stunden.¦en=We have been waiting for a few hours.¦v=einige Stunden | mehrere Stunden
+P0519¦m=in recent years¦lv=B2¦ex=In den vergangenen Jahren hat sich viel verändert.¦en=In recent years a lot has changed.¦gn=Dativ Plural¦v=in den letzten Jahren | seit einigen Jahren
+P0520¦m=as follows¦lv=B2¦ex=Der Ablauf ist wie folgt.¦en=The procedure is as follows.¦gn=wie folgt (unverändert)¦v=folgendermaßen | so
+P0521¦m=on the spot¦lv=B2¦ex=Der Notarzt war sofort an Ort und Stelle.¦en=The emergency doctor was on the spot immediately.¦v=vor Ort | sofort da
+P0522¦ph=weiß ich nicht¦m=I don't know¦lv=A1¦ex=Wann der Zug kommt, weiß ich nicht.¦en=I don't know when the train comes.¦gn=Verb an Position 2 nach Nebensatz¦ck=dup:P0034
+P0523¦m=not for a long time¦lv=B1¦ex=Ich war schon lange nicht mehr im Kino.¦en=I haven't been to the cinema for a long time.¦v=seit Langem nicht | ewig nicht
+P0524¦ph=sind in der Regel ...¦m=are as a rule ...¦lv=B2¦ex=Kinder sind in der Regel neugierig.¦en=Children are as a rule curious.¦gn=Plural von „ist in der Regel“¦ck=dup:P0019
+P0525¦m=such as¦lv=B1¦ex=Ich mag Obst, wie zum Beispiel Äpfel.¦en=I like fruit, such as apples.¦v=etwa | beispielsweise
+P0526¦lv=B1¦ex=In Zukunft möchte ich mehr Sport machen.¦en=In future I'd like to do more sport.¦gn=in Zukunft (= künftig)¦v=künftig | zukünftig
+P0527¦m=not sure¦lv=A2¦ex=Ich bin nicht sicher, ob er kommt.¦en=I'm not sure whether he's coming.¦v=unsicher | nicht ganz klar
+P0528¦m=so easily¦lv=B1¦ex=Das ist nicht so leicht zu lernen.¦en=That is not so easy to learn.¦v=so einfach | so mühelos
+P0529¦ph=bedeutet dies, dass ...?¦m=does this mean that ...?¦lv=B2¦ex=Bedeutet dies, dass ich nicht arbeiten darf?¦en=Does this mean that I may not work?¦gn=Frage: Verb an Position 1¦ck=dup:P0007
+P0530¦ph=erzählt, dass ...¦m=tells that ...¦lv=B1¦ex=Mein Nachbar erzählt, dass er umzieht.¦en=My neighbour says that he is moving.¦gn=3. Person Singular; dass-Satz¦v=sagt, dass | berichtet, dass
+P0531¦m=from above¦lv=B1¦ex=Von oben hat man eine schöne Aussicht.¦en=From above you have a nice view.¦v=von der Höhe | aus der Vogelperspektive
+P0532¦ph=ich hatte das Gefühl¦m=I had the feeling¦lv=B2¦ex=Ich hatte das Gefühl, dass er mir nicht glaubt.¦en=I had the feeling that he doesn't believe me.¦gn=Präteritum von „haben“¦ck=dup:P0330
+P0533¦ph=im Kontext von ...¦m=in the context of ...¦lv=C1¦ex=Im Kontext von Gesundheit ist Vorsorge wichtig.¦en=In the context of health, prevention is important.¦gn=von + Dat. oder Gen.¦v=im Zusammenhang mit | in Bezug auf
+P0534¦m=two years¦lv=A1¦ex=Ich lerne seit zwei Jahren Deutsch.¦en=I have been learning German for two years.¦gn=seit + Dat.: Dauer¦v=2 Jahre | zwei Jahre lang
+P0535¦m=over the years¦lv=B2¦ex=Im Laufe der Jahre wurde er ruhiger.¦en=Over the years he became calmer.¦gn=im Laufe + Gen.¦v=mit den Jahren | über die Jahre
+P0536¦m=shortly afterwards¦lv=B1¦ex=Kurz darauf klingelte das Telefon.¦en=Shortly afterwards the phone rang.¦v=wenig später | bald danach
+P0537¦ph=es ist möglich, dass ...¦m=it is possible that ...¦lv=B1¦ex=Es ist möglich, dass er schon weg ist.¦en=It is possible that he has already left.¦gn=dass-Satz: Verb am Ende¦v=vielleicht | es kann sein, dass
+P0538¦ph=die Frage, wie ...¦m=the question of how ...¦lv=B2¦ex=Wir diskutieren die Frage, wie wir Geld sparen.¦en=We are discussing the question of how we can save money.¦gn=wie-Satz: Verb am Ende¦ck=dup:P0472
+P0539¦ph=Anzahl von ...¦m=number of ...¦lv=B2¦ex=Die Anzahl von Patienten steigt.¦en=The number of patients is rising.¦gn=Anzahl von + Dat.¦v=Zahl der | Menge an
+P0540¦m=on the left-hand side¦lv=A1¦ex=Die Bank ist auf der linken Seite.¦en=The bank is on the left-hand side.¦v=links | linker Hand
+P0541¦m=in the morning¦lv=A1¦ex=Am Morgen trinke ich Kaffee.¦en=In the morning I drink coffee.¦v=morgens | früh
+P0542¦ph=am Beispiel ...¦m=using the example of ...¦lv=C1¦ex=Ich erkläre das am Beispiel einer Tablette.¦en=I'll explain that using the example of a tablet.¦gn=am Beispiel + Gen. oder von + Dat.¦v=anhand eines Beispiels | exemplarisch
+P0543¦m=so beautiful¦lv=A2¦ex=Der Garten ist so schön.¦en=The garden is so beautiful.¦v=sehr schön | wunderschön
+P0544¦m=two weeks¦lv=A1¦ex=Ich habe zwei Wochen Urlaub.¦en=I have two weeks of holiday.¦gn=Akk. der Zeit¦v=14 Tage | vierzehn Tage
+P0545¦ph=sicher sein, ob ...¦m=to be sure whether ...¦lv=B2¦ex=Ich bin nicht sicher, ob ich komme.¦en=I am not sure whether I'm coming.¦gn=ob-Satz: Verb am Ende¦ck=dup:P0412
+P0546¦m=in old age¦lv=B1¦ex=Im Alter braucht man mehr Ruhe.¦en=In old age you need more rest.¦gn=im Alter von + Zahl = mit ... Jahren¦v=im höheren Alter | auf seine alten Tage
+P0547¦ph=ich denke, dass ...¦m=I think that ...¦lv=B1¦ex=Ich denke, dass das richtig ist.¦en=I think that this is right.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0026
+P0548¦ph=zum Thema ...¦m=on the subject of ...¦lv=B2¦ex=Wir sprechen heute zum Thema Ernährung.¦en=Today we are talking on the subject of nutrition.¦gn=zum = zu dem + Dat.¦v=über | in Bezug auf
+P0549¦m=the last time¦lv=A2¦ex=Das letzte Mal war ich vor einem Jahr hier.¦en=The last time I was here was a year ago.¦v=zuletzt | letztes Mal
+P0550¦ph=es fällt auf, dass ...¦m=it is striking that ...¦lv=C1¦ex=Es fällt auf, dass viele Patienten müde sind.¦en=It is striking that many patients are tired.¦gn=dass-Satz: Verb am Ende; auffallen + Dat.¦v=auffällig ist, dass | bemerkenswert ist, dass
+P0551¦m=to bed¦lv=A1¦ex=Ich gehe heute früh ins Bett.¦en=I'm going to bed early today.¦gn=ins Bett = wohin?¦v=schlafen gehen | zu Bett gehen
+P0552¦m=as far as possible¦lv=B2¦ex=Wir versuchen, so weit wie möglich zu helfen.¦en=We try to help as far as possible.¦v=nach Möglichkeit | möglichst weit
+P0553¦ph=weiß, wie ...¦m=knows how ...¦lv=B1¦ex=Er weiß, wie man einen Verband anlegt.¦en=He knows how to apply a bandage.¦gn=wie-Satz: Verb am Ende¦ck=dup:P0425
+P0554¦m=all night¦lv=A2¦ex=Ich habe die ganze Nacht gelernt.¦en=I studied all night.¦gn=Akk. der Zeit¦v=die Nacht über | nächtelang
+P0555¦ph=im Rahmen von ...¦m=within the scope of ...¦lv=C1¦ex=Wir arbeiten im Rahmen von einem Projekt zusammen.¦en=We are working together within the scope of a project.¦gn=im Rahmen von + Dat.¦ck=dup:P0444
+P0556¦ph=einer Reihe von ...¦m=of a number of ...¦lv=C1¦ex=Aufgrund einer Reihe von Fehlern wurde der Test wiederholt.¦en=Due to a number of errors the test was repeated.¦gn=Genitiv-/Dativform¦ck=dup:P0353
+P0557¦m=at that time¦lv=B1¦ex=Zu dieser Zeit lebte ich noch bei meinen Eltern.¦en=At that time I still lived with my parents.¦v=damals | in jener Zeit
+P0558¦ph=das gilt insbesondere für ...¦m=this applies in particular to ...¦lv=C1¦ex=Das gilt insbesondere für Kinder und alte Menschen.¦en=This applies in particular to children and the elderly.¦gn=gelten für + Akk.¦v=das trifft vor allem auf ... zu | besonders gilt das für
+P0559¦m=quite certainly¦lv=B1¦ex=Er kommt ganz sicher.¦en=He is quite certainly coming.¦v=bestimmt | mit Sicherheit

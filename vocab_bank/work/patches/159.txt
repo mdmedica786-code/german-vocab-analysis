@@ -1,0 +1,96 @@
+B5729¦col=therapeutische Maßnahme | therapeutischer Ansatz | therapeutisch wirksam | therapeutische Dosis
+B5739¦lv=B2
+B5063¦g=+ Akk.
+B5071¦pos=adjective¦en=They booked the trip as a package.
+B5747¦pos=adjective¦m=involuntary¦lv=C1¦tp=M2¦ex=Der Patient hat unwillkürliche Bewegungen der Hand.¦en=The patient has involuntary movements of the hand.
+B5073¦pos=adjective¦ex=Die Lage ist problematisch.¦en=The situation is problematic.
+B5074¦tp=T07¦ex=Das Produktangebot der Firma ist sehr groß.¦en=The company's product range is very large.
+B5075¦tp=T07¦ps=profitiert¦pt=profitierte¦pf=hat profitiert¦ex=Alle Kunden profitieren von dem Angebot.¦en=All customers benefit from the offer.
+B5748¦m=Federal Council (Germany: upper house; Switzerland: government)¦tp=T12¦ex=Der Bundesrat vertritt die Länder.¦en=The Bundesrat represents the federal states.
+B5079¦pos=adjective¦ex=Sein Argument war sehr überzeugend.¦en=His argument was very convincing.
+B5080¦tp=T11¦ex=Müll ist ein großes Umweltproblem.¦en=Rubbish is a big environmental problem.
+B5081¦m=consumer (m)¦ex=Der Verbraucher hat das Recht auf Information.¦en=The consumer has a right to information.
+B5749¦pos=verb¦m=to demonstrate; to protest¦lv=B2¦tp=T12¦ps=demonstriert¦pt=demonstrierte¦pf=hat demonstriert¦ex=Viele Menschen demonstrieren gegen die Reform.¦en=Many people are demonstrating against the reform.
+B5082¦ck=-¦tp=T07¦m=consumer (f)¦ex=Die Verbraucherin beschwert sich über das Produkt.¦en=The consumer complains about the product.
+B5084¦tp=T07¦ex=Auf dem Weltmarkt steigen die Preise.¦en=Prices are rising on the world market.
+B5086¦ex=Wohlstand bedeutet nicht immer Glück.¦en=Prosperity does not always mean happiness.
+B5750¦m=January (Austrian)¦rg=regional¦tp=T13¦pl=Jänner¦ex=Im Jänner ist es in Österreich oft sehr kalt.¦en=In January it is often very cold in Austria.
+B5087¦pos=adjective¦tp=T16¦m=desirable¦ex=Mehr Zeit wäre wünschenswert.¦en=More time would be desirable.
+B5089¦ck=-¦tp=T15¦ex=Im Wort Banane liegt der Wortakzent auf der zweiten Silbe.¦en=In the word Banane the stress is on the second syllable.
+B5090¦tp=T15¦ex=Der Wortstamm von lesen ist les.¦en=The stem of lesen is les.
+B5751¦m=satire¦lv=C1¦tp=T10¦pl=Satiren¦ex=Die Satire kritisiert die Politik.¦en=The satire criticises politics.
+B5091¦tp=T07¦ex=Der Geldbetrag wird morgen überwiesen.¦en=The sum of money will be transferred tomorrow.
+B5093¦m=to deceive; to cheat on¦en=I would never cheat on my family.
+B5094¦tp=T16¦ps=ist drin¦pt=war drin¦pf=ist drin gewesen¦m=to be inside; to be possible (colloquial)¦ex=Mehr ist leider nicht drin.¦en=Unfortunately more is not possible.
+B5752¦pos=adjective¦m=upright¦lv=C1¦ex=Er sitzt aufrecht auf dem Stuhl.¦en=He sits upright on the chair.
+B5095¦tp=T09¦ex=Werfen Sie bitte zwei Euro ein.¦en=Please insert two euros.
+B5097¦tp=T14¦ex=Ob ich helfe, ist eine Gewissensfrage.¦en=Whether I help is a question of conscience.
+B5098¦en=I bought two crates of beer.
+B5753¦pos=adjective¦m=serious; earnest¦en=I am seriously considering whether I should move to another city.
+B5099¦tp=T07¦ex=Hast du Kleingeld für den Automaten?¦en=Do you have small change for the machine?
+B5100¦tp=T15¦ps=prüft nach¦pt=prüfte nach¦pf=hat nachgeprüft¦ex=Ich prüfe die Zahlen noch einmal nach.¦en=I will check the numbers once more.
+B5103¦ck=-¦tp=T07¦ps=verschenkt weiter¦pt=verschenkte weiter¦pf=hat weiterverschenkt¦ex=Ich verschenke die alten Bücher weiter.¦en=I pass the old books on as gifts.
+B5754¦m=smoke¦lv=B2¦art=der¦pl=–¦ex=Im Zimmer war viel Rauch.¦en=There was a lot of smoke in the room.
+B5104¦ck=-¦tp=T10¦ex=Am Eingang steht ein Zeitungskasten.¦en=There is a newspaper box at the entrance.
+B5105¦tp=T15¦ps=befürwortet¦pt=befürwortete¦pf=hat befürwortet¦m=to support; to be in favour of¦ex=Ich befürworte den Vorschlag.¦en=I support the proposal.
+B5106¦tp=T15¦ex=Blickkontakt ist im Gespräch wichtig.¦en=Eye contact is important in a conversation.
+B5755¦m=intelligence¦pl=–¦en=My children took an intelligence test at school.
+B5107¦ps=räuspert sich¦pt=räusperte sich¦pf=hat sich geräuspert¦ex=Er räusperte sich und begann zu sprechen.¦en=He cleared his throat and began to speak.
+B5108¦tp=T14¦ps=toleriert¦pt=tolerierte¦pf=hat toleriert¦ex=Ich toleriere keine Lügen.¦en=I do not tolerate lies.
+B5113¦tp=T13¦ex=Die Entstehungszeit des Bildes ist unbekannt.¦en=The time of origin of the picture is unknown.
+B5756¦m=behaviour; way of behaving¦lv=C1¦art=die¦pl=Verhaltensweisen¦ex=Diese Verhaltensweise ist typisch für Kinder.¦en=This behaviour is typical of children.
+B5114¦pos=adjective¦tp=T12¦ex=Die Firma ist sehr fortschrittlich.¦en=The company is very progressive.
+B5116¦tp=T07¦ex=Er investiert sein Geld in Immobilien.¦en=He invests his money in real estate.
+B5117¦ck=-¦tp=T02¦ex=Die Jahresmiete beträgt zwölftausend Euro.¦en=The annual rent is twelve thousand euros.
+B5757¦m=union; association¦lv=C1¦art=die¦pl=Vereinigungen¦ex=Er ist in einer Vereinigung für Naturschutz.¦en=He is in an association for nature conservation.
+B5119¦tp=T01¦ex=Sie stammt aus einer alten Kaufmannsfamilie.¦en=She comes from an old merchant family.
+B5121¦tp=T03¦ex=Der Nachtwächter macht seine Runde.¦en=The night watchman makes his rounds.
+B5122¦ck=-¦tp=T03¦ex=Die Nachtwächterin kontrolliert alle Türen.¦en=The night watchwoman checks all the doors.
+B5758¦pos=adjective¦m=physical (physics)¦lv=C1¦ex=Das ist ein physikalisches Experiment.¦en=That is a physics experiment.
+B5123¦tp=T07¦ex=Das Haus ist im Originalzustand erhalten.¦en=The house has been preserved in its original condition.
+B5125¦tp=T12¦ex=Selbsthilfe ist bei Krankheiten oft wichtig.¦en=Self-help is often important in illness.
+B5759¦m=code¦lv=B2¦art=der¦pl=Codes¦ex=Geben Sie bitte den Code ein.¦en=Please enter the code.
+B5126¦tp=T02¦ex=Die Siedlung liegt am Stadtrand.¦en=The housing estate is on the outskirts of the city.
+B5127¦ck=-¦tp=T02¦ex=In der Sozialsiedlung wohnen viele Familien.¦en=Many families live in the social housing estate.
+B5128¦tp=T08¦ex=Die Stadtmauer ist 500 Jahre alt.¦en=The city wall is 500 years old.
+B5760¦m=restlessness; unrest¦lv=B2¦art=die¦pl=–¦ex=Der Patient zeigt eine starke Unruhe.¦en=The patient shows marked restlessness.
+B5130¦tp=T07¦ex=Das Stiftungsvermögen wird gut verwaltet.¦en=The endowment capital is managed well.
+B5131¦pos=adjective¦tp=T10¦ex=Das ist nur eine symbolische Geste.¦en=That is only a symbolic gesture.
+B5132¦pos=adjective¦tp=T08¦m=tourist (adj.)¦ex=Die Stadt hat viele touristische Attraktionen.¦en=The city has many tourist attractions.
+B5761¦m=skull¦lv=B2¦art=der¦pl=Schädel¦tp=M1¦ex=Das Röntgenbild zeigt einen Bruch im Schädel.¦en=The X-ray shows a fracture in the skull.¦col=Bruch des Schädels | Schädel röntgen | der Schädel brummt | Verletzung am Schädel
+B5133¦tp=T01¦ex=Mein Urgroßvater wurde im Jahr 1920 geboren.¦en=My great-grandfather was born in 1920.
+B5136¦pos=adjective¦tp=T12¦m=charitable¦ex=Der Verein ist wohltätig.¦en=The association is charitable.
+B5137¦tp=T15¦ps=leitet ein¦pt=leitete ein¦pf=hat eingeleitet¦ex=Sie leitet den Vortrag mit einem Witz ein.¦en=She opens the talk with a joke.
+B5763¦m=Christmas¦pl=–¦ex=An Weihnachten besuchen wir die Großeltern.¦en=At Christmas we visit the grandparents.
+B5285¦m=all; all of the¦en=All windows must stay closed.
+B5663¦m=as much as; as far as¦en=As far as I know, this restaurant is closed today.
+B5764¦m=pregnancy¦en=You must not smoke during pregnancy.
+B5773¦m=to announce¦tp=T15¦ps=gibt bekannt¦pt=gab bekannt¦pf=hat bekannt gegeben¦en=We will announce the exam location to you in good time.
+B5765¦m=northern¦ex=Nördlich von Berlin liegt die Ostsee.¦en=The Baltic Sea lies north of Berlin.
+B5776¦m=Federal Republic of Germany¦tp=T12¦pl=–¦ex=Die Bundesrepublik Deutschland hat 16 Bundesländer.¦en=The Federal Republic of Germany has 16 federal states.
+B5782¦m=to put up with something¦tp=T14¦ps=lässt sich gefallen¦pt=ließ sich gefallen¦pf=hat sich gefallen lassen¦en=I would not put up with that.
+B5766¦m=procedure; approach¦lv=C1¦art=die¦pl=Vorgehensweisen¦ex=Die Vorgehensweise ist klar festgelegt.¦en=The procedure is clearly defined.
+B5783¦ck=spelling?¦m=European Parliament¦tp=T12¦pl=–¦ex=Das Europäische Parlament sitzt in Straßburg.¦en=The European Parliament sits in Strasbourg.
+B5788¦m=to be born¦tp=T01¦ps=wird geboren¦pt=wurde geboren¦pf=ist geboren worden¦en=When and where were you born?
+B5767¦m=company; accompaniment; escort¦lv=B2¦art=die¦pl=Begleitungen¦ex=Kommst du allein oder in Begleitung?¦en=Are you coming alone or with company?
+B5768¦m=to see again¦sp=wieder¦ps=sieht wieder¦pt=sah wieder¦pf=hat wiedergesehen¦ex=Ich möchte dich bald wiedersehen.¦en=I would like to see you again soon.
+B5796¦m=to feel sorry for; to be sorry¦tp=T14¦ps=tut leid¦pt=tat leid¦pf=hat leidgetan¦en=I feel sorry for the woman.
+B5807¦m=Republic of Austria¦tp=T12¦pl=–¦ex=Die Republik Österreich hat neun Bundesländer.¦en=The Republic of Austria has nine federal states.
+B5778¦m=check-up¦lv=B2¦tp=M3¦pl=Check-ups¦ex=Ich gehe einmal im Jahr zum Check-up.¦en=I go for a check-up once a year.
+B5799¦m=north (combining form)¦tp=T08¦pl=–¦ex=Nord- und Süddeutschland unterscheiden sich im Dialekt.¦en=North and South Germany differ in dialect.
+B6181¦m=to get divorced¦tp=T01¦ps=lässt sich scheiden¦pt=ließ sich scheiden¦pf=hat sich scheiden lassen¦en=My neighbours got divorced.
+B5821¦m=suggestion; stimulation¦lv=C1¦art=die¦pl=Anregungen¦ex=Danke für die Anregung.¦en=Thank you for the suggestion.
+B6354¦m=Austrian academic secondary school (AHS)¦tp=T04¦pl=–¦ex=Nach der Volksschule besuchen viele Kinder die Allgemeinbildende Höhere Schule.¦en=After primary school many children attend the AHS (academic secondary school).
+B6373¦m=Austrian vocational secondary school (BHS)¦tp=T04¦pl=–¦ex=Die Berufsbildende Höhere Schule endet mit der Matura.¦en=The BHS (vocational secondary school) ends with the Matura.
+B5822¦pos=preposition¦g=+ Gen.¦m=in the middle of¦lv=C1¦ex=Inmitten der Stadt liegt ein ruhiger Park.¦en=A quiet park lies in the middle of the city.
+B6510¦m=Austrian lower secondary school (NMS)¦tp=T04¦pl=–¦nt=Austria; officially called Mittelschule since 2020¦ex=Nach der Volksschule gehen manche Kinder in die Neue Mittelschule.¦en=After primary school some children go to the Neue Mittelschule (lower secondary school).
+B6531¦m=university of teacher education¦tp=T04¦pl=Pädagogische Hochschulen¦ex=Lehrer studieren an der Pädagogischen Hochschule.¦en=Teachers study at the university of teacher education.
+B5823¦m=share; stock¦lv=B2¦art=die¦pl=Aktien¦ex=Er hat Aktien einer Bank gekauft.¦en=He bought shares in a bank.
+B6549¦m=Swiss Confederation¦tp=T12¦pl=–¦ex=Die Schweizerische Eidgenossenschaft hat vier Landessprachen.¦en=The Swiss Confederation has four national languages.
+B5824¦m=sweat¦lv=B2¦art=der¦pl=–¦tp=M2¦ex=Der Patient wacht nachts in Schweiß gebadet auf.¦en=The patient wakes at night bathed in sweat.
+B5825¦m=to point out; to show¦lv=C1¦sp=auf¦ps=zeigt auf¦pt=zeigte auf¦pf=hat aufgezeigt¦ex=Die Studie zeigt neue Möglichkeiten auf.¦en=The study points out new possibilities.
+B5826¦m=organism¦lv=C1¦art=der¦pl=Organismen¦tp=M1¦ex=Der menschliche Organismus braucht Wasser.¦en=The human organism needs water.
+B5827¦m=to cause; to evoke¦lv=C1¦sp=hervor¦ps=ruft hervor¦pt=rief hervor¦pf=hat hervorgerufen¦ex=Das Medikament kann Übelkeit hervorrufen.¦en=The medicine can cause nausea.
+B5828¦m=archive¦lv=B2¦art=das¦pl=Archive¦ex=Die alten Akten liegen im Archiv.¦en=The old files are in the archive.
+B5829¦m=target group¦lv=B2¦art=die¦pl=Zielgruppen¦ex=Die Zielgruppe der Werbung sind junge Leute.¦en=The target group of the advertising is young people.
+B5830¦m=user¦lv=B2¦art=der¦pl=Nutzer¦ex=Die Nutzer der App sind sehr zufrieden.¦en=The users of the app are very satisfied.

@@ -1,0 +1,100 @@
+B1693¦en=In this scene of the film the hero dies.
+B4232¦m=understanding; sympathy¦col=Verständnis haben für | Verständnis zeigen | um Verständnis bitten | kein Verständnis
+B1694¦tp=T08¦ck=-¦ex=Berlin ist eine Trendstadt für junge Leute.¦en=Berlin is a trendy city for young people.
+B1695¦pos=adjective¦en=The sofa is very comfortable.
+B1696¦ex=Der Deckel passt nicht auf den Topf.¦en=The lid doesn't fit the pot.
+B4463¦pos=adjective¦ex=Sie mag amerikanische Filme.¦en=She likes American films.¦col=amerikanische Filme | der amerikanische Präsident | amerikanischer Akzent | amerikanisch essen
+B1698¦en=Who does the housework at your place? – My wife and I do it together: I do the washing and she cleans and tidies up.
+B1699¦tp=T14¦ef=den/dem/des Individualisten (n-declension)¦ex=Er ist ein Individualist und geht seinen eigenen Weg.¦en=He is an individualist and goes his own way.
+B1700¦tp=T14¦ck=-¦ex=Sie ist eine echte Individualistin.¦en=She is a real individualist.
+B4314¦col=einen Unfall verhindern | das Schlimmste verhindern | verhindert sein | Probleme verhindern¦en=We couldn't prevent the accident.
+B1701¦en=How do you like this car? – I don't like this model.
+B1703¦pl=Saisons¦en=Holidays during school holidays are always more expensive. That is the season with the highest prices.
+B5259¦art=die¦pl=Definitionen¦m=definition¦lv=B1¦ex=Wie lautet die Definition von Gesundheit?¦en=What is the definition of health?¦col=eine Definition geben | die Definition lautet | nach der Definition | eine genaue Definition
+B1704¦tp=T07¦ck=-¦ex=Meine Schwester ist ein großer Schuhfan.¦en=My sister is a big shoe fan.
+B1705¦tp=T07¦ex=Im Schuhladen probiere ich viele Schuhe an.¦en=In the shoe shop I try on many shoes.
+B1706¦tp=T07¦ex=Der Shop hat sonntags geöffnet.¦en=The shop is open on Sundays.
+B2671¦col=gute Qualität | die Qualität prüfen | auf Qualität achten | die Qualität sichern¦en=This television is of good quality.
+B1707¦en=I brought back a few souvenirs from my holiday.
+B1708¦pos=adverb¦en=Wait for me. I'm on my way and will be there in a moment.
+B1709¦tp=T16¦ex=Das Rezept hat viele Variationen.¦en=The recipe has many variations.
+B5260¦m=support; assistance¦en=I gladly accept your support.¦col=Unterstützung brauchen | finanzielle Unterstützung | um Unterstützung bitten | mit Unterstützung von
+B1710¦ex=Die Architektur der Stadt gefällt mir sehr.¦en=I like the architecture of the city very much.
+B1711¦tp=T03¦ex=Der Designer entwirft Möbel.¦en=The designer designs furniture.
+B1712¦tp=T03¦ex=Die Designerin zeigt ihre neue Kollektion.¦en=The designer presents her new collection.
+B3484¦col=jemanden beeinflussen | stark beeinflussen | das Ergebnis beeinflussen | beeinflusst werden¦en=This event influenced the elections.
+B1713¦en=The invention of printing was very important for people.
+B1714¦tp=T10¦ex=Mein Bruder kauft jedes neue Gadget.¦en=My brother buys every new gadget.
+B1715¦m=courtyard; farm¦en=The children like playing in the courtyard best.
+B5261¦art=der¦pl=Charaktere¦m=character; personality¦lv=B1¦ex=Sie hat einen starken Charakter.¦en=She has a strong character.
+B1716¦pos=adjective¦tp=T16¦ex=Das ist eine originelle Idee.¦en=That is an original idea.
+B1717¦pos=adjective¦col=praktisch denken | praktische Erfahrung | sehr praktisch | praktisch veranlagt¦en=With my new mobile I can also surf the internet and take photos. I find that very practical.
+B1718¦tp=T15¦ck=-¦ex=Schreiben Sie die wichtigsten Stichpunkte auf.¦en=Write down the most important bullet points.
+B3898¦med=related¦col=vor Kälte schützen | die Umwelt schützen | sich schützen | geschützt sein¦en=This vaccination protects against flu.
+B1719¦pos=adjective¦tp=T10¦ex=Das Thema ist topaktuell.¦en=The topic is up to the minute.
+B1720¦tp=T07¦ex=Die Öffnungszeiten stehen an der Tür.¦en=The opening hours are on the door.
+B1721¦tp=T15¦ck=-¦ex=„Dieser“ ist ein Demonstrativartikel.¦en=“Dieser” is a demonstrative article.
+B2372¦tp=T12¦ef=des Kaisers¦ex=Der Kaiser lebte in einem großen Schloss.¦en=The emperor lived in a large castle.
+B1722¦tp=T15¦ck=-¦ex=„Welcher“ ist ein Interrogativartikel.¦en=“Welcher” is an interrogative article.
+B1723¦tp=T07¦ck=-¦ex=Beim Kleiderkauf achte ich auf die Qualität.¦en=When buying clothes I pay attention to quality.
+B1724¦tp=T16¦ps=orientiert¦pt=orientierte¦pf=hat orientiert¦ex=Ich orientiere mich an der Karte.¦en=I orient myself by the map.
+B5262¦pos=preposition¦g=+ Dat.¦m=according to¦lv=B1¦ex=Gemäß dem Vertrag müssen wir zahlen.¦en=According to the contract we have to pay.
+B1725¦tp=T08¦ex=Wir machen dieses Jahr Badeurlaub am Meer.¦en=This year we are having a beach holiday by the sea.
+B1726¦tp=T08¦ex=Im Campingurlaub schlafen wir im Zelt.¦en=On a camping holiday we sleep in a tent.
+B1729¦tp=T08¦ck=-¦ex=Ein Stadturlaub in Wien ist interessant.¦en=A city break in Vienna is interesting.
+B3592¦col=für etwas kämpfen | gegen eine Krankheit kämpfen | um etwas kämpfen | mit sich kämpfen¦en=The women are fighting for more rights.
+B1730¦tp=T07¦ex=Ich habe meinen Badeanzug vergessen.¦en=I forgot my swimsuit.
+B1731¦tp=T07¦ex=Die Badehose liegt im Koffer.¦en=The swimming trunks are in the suitcase.
+B1732¦ex=Sie packt einen Bikini ein.¦en=She packs a bikini.
+B4400¦en=Here are 50 euros. I'll give you the rest later.
+B1733¦tp=T08¦en=Do you want to take your luggage with you?
+B1734¦en=Can you put the dishes in the cupboard, please?
+B1735¦tp=T07¦ex=Im Winter trage ich warme Handschuhe.¦en=In winter I wear warm gloves.
+B2658¦col=eine Einführung geben | Einführung in ... | zur Einführung | die Einführung neuer Regeln¦en=Unfortunately I missed the introduction to the course.
+B1736¦tp=T07¦ex=Sie sucht ihr Handy in der Handtasche.¦en=She is looking for her phone in the handbag.
+B1737¦ex=Beim Radfahren trägt man einen Helm.¦en=When cycling you wear a helmet.
+B1738¦tp=T07¦ex=Nimm eine Regenjacke mit.¦en=Take a rain jacket with you.
+B5263¦pos=adjective¦m=alternative¦en=We need alternative energy sources.¦col=alternative Energien | eine alternative Lösung | alternative Medizin | alternativ dazu
+B1739¦tp=T08¦ex=Hast du einen Regenschirm dabei?¦en=Do you have an umbrella with you?
+B1740¦tp=T08¦ex=Die Reisetasche ist schon gepackt.¦en=The travel bag is already packed.
+B1741¦tp=T08¦ex=Im Zelt brauche ich einen Schlafsack.¦en=In a tent I need a sleeping bag.
+B4493¦m=sound; tone; clay¦ex=Der Ton der Geige ist sehr schön.¦en=The sound of the violin is very beautiful.
+B1742¦en=There is no soap here.
+B1743¦tp=T07¦ex=Ich setze bei Sonne meine Sonnenbrille auf.¦en=When it is sunny I put on my sunglasses.
+B1744¦tp=T07¦ex=Vergiss die Sonnencreme nicht!¦en=Don't forget the sunscreen!
+B5264¦m=victim; sacrifice¦en=There were many victims in the ship disaster.
+B1745¦tp=T07¦ex=Die Winterjacke ist schön warm.¦en=The winter coat is nice and warm.
+B1746¦en=In summer we sometimes sleep in a tent.
+B1747¦pt=packte ein¦en=Please pack the towels!
+B1999¦col=jemanden überraschen | angenehm überrascht | von etwas überrascht werden | überraschend kommen¦en=I'm very surprised that the flat is so cheap.
+B1748¦tp=T08¦ex=Das Kofferpacken dauert bei mir immer lange.¦en=Packing a suitcase always takes me a long time.
+B1749¦tp=T08¦ex=Wir planen eine Städtereise nach Prag.¦en=We are planning a city trip to Prague.
+B1750¦tp=T08¦ex=Die Stadtführung beginnt um zehn Uhr.¦en=The city tour begins at ten o'clock.
+B3126¦pos=adjective¦col=knapp bei Kasse | knapp gewinnen | knappe Zeit | knapp zwei Stunden¦en=Hurry up. Time is short.
+B1751¦tp=T09¦en=Here is my ID.
+B1753¦m=data; dates¦en=We have all your data on the computer.
+B5265¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦m=therapy; treatment¦en=The therapy helped. I'm already feeling much better.
+B1754¦tp=T08¦en=Would you like a double room or a single room?
+B1755¦tp=T08¦en=Do you still have a single room?
+B1756¦tp=T09
+B4001¦tp=T15¦m=opinion; view¦ex=Ich bin der Ansicht, dass wir mehr tun müssen.¦en=I am of the opinion that we have to do more.¦os=-
+B1757¦tp=T09¦en=In the hotel you need your passport.
+B1758¦en=Please reserve a double room.
+B1759¦tp=T08¦en=Please ask at reception in the hotel.
+B5266¦pos=adverb¦m=on the one hand¦en=On the one hand I would like to take the trip, on the other hand it is too expensive.¦col=einerseits ... andererseits | einerseits aber | einerseits schön | einerseits teuer
+B1760¦pos=adverb¦tp=T02¦en=He lives right at the bottom of the building.
+B1761¦ps=wünscht¦pt=wünschte¦pf=hat gewünscht¦en=For my birthday I'd like a camera.¦col=sich etwas wünschen | alles Gute wünschen | viel Glück wünschen | gute Besserung wünschen
+B1762¦tp=T10¦ex=Die Bergtour dauert den ganzen Tag.¦en=The mountain tour lasts all day.
+B3690¦pos=adjective¦en=I passed the theory exam. After the practical one I will have the driving licence.¦col=theoretisch möglich | die theoretische Prüfung | theoretisches Wissen | theoretisch gesehen
+B1763¦tp=T10¦pt=ging spazieren¦en=On Sundays we always go for a walk.
+B1764¦ck=-¦en=Shall we take the tram or the bus?
+B1765¦en=What shall we do at the weekend? Do you have a good suggestion? – We could go to the cinema.
+B5267¦art=die¦pl=Zellen¦tp=M1 Medizin: Anatomie & Körpersysteme¦m=cell¦lv=B1¦ex=Der Körper besteht aus vielen Zellen.¦en=The body consists of many cells.¦col=gesunde Zellen | Zellen teilen sich | Krebszellen | rote Blutzellen
+B1766¦tp=T13¦col=danach fragen | kurz danach | gleich danach | danach sein
+B1767¦tp=T13¦m=end; conclusion¦en=I have to finish now.
+B2837¦en=What material is the cupboard made of?
+B1769¦tp=T08¦pt=stieg ein¦en=Quick, get in, the train is about to leave.
+B1770¦m=stop; station¦tp=T08¦en=You have to get off at the next stop.
+B1771¦tp=T08¦ex=Die Route führt durch den Wald.¦en=The route leads through the forest.
+B2404¦tp=T08¦m=aisle; corridor; gait
+B1772¦pt=stieg um¦en=You have to change in Mannheim.

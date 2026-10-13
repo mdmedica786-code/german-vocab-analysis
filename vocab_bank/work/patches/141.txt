@@ -1,0 +1,100 @@
+B3469¦pos=adjective¦tp=T07¦ex=Dieser Mantel ist leider unmodern.¦en=This coat is unfortunately unfashionable.
+B4224¦tp=T04¦rg=informal¦ex=Der Prof erklärt die Aufgabe.¦en=The prof explains the task.
+B3470¦pos=adjective¦tp=T15¦ex=Die Anleitung ist völlig unverständlich.¦en=The instructions are completely incomprehensible.
+B3472¦pos=adjective¦en=You mustn't be so cheeky at school.
+B3473¦pos=adjective¦en=That is a strange story.
+B3801¦en=Don't worry. My brother can surely repair the heating. After all, he's a professional.
+B3477¦ck=-¦tp=T16¦ex=Hast du Klebefilm für mich?¦en=Do you have sticky tape for me?
+B3478¦tp=T07¦ex=Der Markenname steht auf der Verpackung.¦en=The brand name is on the packaging.
+B3479¦ck=-¦tp=T05¦ex=Ich nehme eine Schmerztablette gegen die Kopfschmerzen.¦en=I take a painkiller for the headache.
+B4746¦tp=T12¦m=law; right¦en=Under German law he cannot be punished for it.
+B3480¦tp=T06¦ex=Ich nehme Süßstoff in den Kaffee.¦en=I put sweetener in my coffee.
+B3481¦m=handkerchief; tissue¦en=Do you have a tissue for me?
+B3489¦tp=T07¦ex=Das Kaufverhalten der Kunden ändert sich.¦en=Customers' buying behaviour is changing.
+B4354¦tp=T15¦en=The president gave a speech.
+B3491¦tp=T15¦ex=Der Spruch steht auf dem Plakat.¦en=The saying is on the poster.
+B3494¦en=I admire your behaviour in the difficult situation.
+B3496¦ck=-¦tp=T10¦ex=Die Werbesprache ist oft übertrieben.¦en=Advertising language is often exaggerated.
+B5029¦ck=-
+B3497¦ck=-¦tp=T10¦ex=Dieser Werbetrick funktioniert oft.¦en=This advertising trick often works.
+B3498¦tp=T15¦ex=Der Slogan enthält ein lustiges Wortspiel.¦en=The slogan contains a funny play on words.
+B3501¦pos=adjective¦ex=Wir essen heute italienisch.¦en=Today we're having Italian food.
+B4180¦tp=T11¦ex=Die Tiefe des Sees beträgt zehn Meter.¦en=The depth of the lake is ten metres.
+B3502¦ck=-¦tp=T07¦ex=Dieses Kinderprodukt ist sehr sicher.¦en=This children's product is very safe.
+B3503¦pos=adjective¦tp=T05¦ex=Zu viel Zucker ist ungesund.¦en=Too much sugar is unhealthy.
+B3504¦pt=verbot¦en=I will forbid my children to smoke.
+B4697¦tp=T01¦ex=Das Treffen findet am Freitag statt.¦en=The meeting takes place on Friday.
+B3505¦tp=T15¦ex=„Gern“ ist ein Adverb.¦en="Gern" is an adverb.
+B3507¦ck=-¦tp=T15¦ex=Ein Konsekutivsatz beginnt oft mit „sodass“.¦en=A consecutive clause often begins with "sodass".
+B3508¦tp=T15¦ex=Das Wort „Tisch“ hat nur eine Silbe.¦en=The word "Tisch" has only one syllable.
+B3769¦ex=Ich habe aus Versehen den falschen Knopf gedrückt.¦en=I pressed the wrong button by mistake.
+B3509¦ex=Der Arbeiter repariert die Maschine.¦en=The worker repairs the machine.
+B3510¦en=Maria has been a worker at Siemens for two years.
+B3511¦pos=adjective¦tp=T13¦ex=Die Produktion ist weitgehend automatisiert.¦en=Production is largely automated.
+B5088¦tp=T14¦ex=Ein Versprechen muss man halten.¦en=You must keep a promise.
+B3514¦ex=Die Diagnose lautet Lungenentzündung.¦en=The diagnosis is pneumonia.¦col=eine Diagnose stellen | gesicherte Diagnose | Diagnose mitteilen | Verdachtsdiagnose¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie
+B3515¦tp=T04¦ex=Bei der Gruppenarbeit helfen wir uns gegenseitig.¦en=In group work we help each other.
+B3516¦tp=T10¦m=handicraft; manual work¦ex=Handarbeit macht mir Spaß.¦en=Handicraft is fun for me.
+B3611¦pl=Weltmeister¦tp=T10¦ex=Deutschland wurde 2014 Weltmeister.¦en=Germany became world champion in 2014.
+B3517¦m=hygiene¦tp=T05¦ex=In der Klinik ist Hygiene besonders wichtig.¦en=In the clinic hygiene is especially important.
+B3518¦en=The repair is too expensive for me here. At the competitors I get it for half.
+B3520¦pos=adjective¦tp=T14¦ex=Die Arbeit am Fließband ist monoton.¦en=Work on the assembly line is monotonous.
+B4884¦tp=T12¦ex=Die Würde des Menschen ist unantastbar.¦en=Human dignity is inviolable.
+B3521¦en=We must operate on the knee immediately.
+B3522¦tp=T03¦ex=Die Pflegekraft misst den Blutdruck.¦en=The nurse measures the blood pressure.
+B3523¦tp=T04¦ex=Eine gute Schulbildung ist wichtig.¦en=A good school education is important.
+B5446¦pos=interjection¦m=attention!; watch out!¦tp=T16¦en=Watch out, the road ends here!
+B3524¦en=Fare dodging costs a 60 euro fine.
+B3525¦pos=adjective¦en=The neighbours often play loud music. We have to be very tolerant.
+B3526¦ck=-¦tp=T04¦ex=Gruppenarbeit ist eine beliebte Unterrichtsform.¦en=Group work is a popular form of teaching.
+B5447¦art=die¦pl=Bundesrepubliken¦m=Federal Republic¦lv=B2¦tp=T12¦ex=Die Bundesrepublik Deutschland hat 16 Bundesländer.¦en=The Federal Republic of Germany has 16 federal states.
+B3528¦pos=adjective¦en=There is only a minimal difference.
+B3531¦pos=adjective¦ex=Das ist ein biologischer Prozess.¦en=That is a biological process.
+B3532¦en=I want to lose weight. That's why I'm on a diet.
+B5448¦art=das¦pl=Dates¦m=date (romantic meeting)¦rg=informal¦lv=B2¦tp=T01¦ex=Heute Abend habe ich ein Date.¦en=Tonight I have a date.
+B3533¦en=How do I eat properly?
+B3534¦en=I think healthy nutrition is important.
+B3535¦tp=T10¦ex=Fitness ist mir wichtig.¦en=Fitness is important to me.
+B5449¦art=der¦pl=Fremden¦ef=der Fremde; die Fremde; die Fremden¦m=stranger¦lv=B2¦tp=T01¦ex=Sprich nicht mit Fremden!¦en=Don't talk to strangers!
+B3536¦en=Which fruits can one eat?
+B3537¦en=Rabbits like eating carrots.
+B3538¦en=In these countries there is above all a lack of food.
+B5450¦art=das¦pl=Games¦m=game (video game)¦lv=B2¦tp=T10¦ex=Er spielt gern Games am Computer.¦en=He likes playing games on the computer.
+B3540¦tp=T06¦en=As a starter I'll take a soup, but I won't have a dessert.
+B3541¦ex=Vegane Ernährung ist ein Trend.¦en=Vegan eating is a trend.
+B3542¦pos=adjective¦tp=T06¦ex=Meine Schwester isst vegan.¦en=My sister eats vegan.
+B5451¦art=der¦pl=Gewinner¦m=winner¦lv=B2¦tp=T10¦ex=Der Gewinner bekommt einen Preis.¦en=The winner gets a prize.
+B3543¦pos=adjective¦en=I don't like meat. I prefer to eat vegetarian.
+B3544¦en=The doctor says I should eat lots of vitamins.
+B3545¦tp=T10¦ex=Nach dem Workout dusche ich.¦en=After the workout I shower.
+B5452¦art=der¦pl=–¦m=stop; hold¦lv=B2¦tp=T08¦en=The next stop is at the south station.
+B3546¦ps=erbt¦pt=erbte¦pf=hat geerbt¦tp=T07¦ex=Sie erbt das Haus ihrer Eltern.¦en=She inherits her parents' house.
+B3548¦en=I'm used to going to bed early.
+B3549¦tp=T12¦ex=In einer Krisensituation bleibt man ruhig.¦en=In a crisis situation you stay calm.
+B5453¦m=home; institution¦tp=T02¦en=My grandma lives in a retirement home.
+B3550¦tp=T01¦ex=Sie erzählt ihre Lebensgeschichte.¦en=She tells her life story.
+B3551¦tp=T01¦ex=Ihr Lebensweg war nicht einfach.¦en=Her path in life was not easy.
+B3554¦tp=T01¦ex=Es gab einen Todesfall in der Familie.¦en=There was a death in the family.
+B5454¦m=cross¦tp=T10¦en=What does this cross here mean?
+B3556¦tp=T01¦ex=Die Heirat war ein Wendepunkt in ihrem Leben.¦en=The marriage was a turning point in her life.
+B3557¦tp=T10¦ex=Ich habe einen interessanten Zeitschriftenartikel gelesen.¦en=I read an interesting magazine article.
+B3559¦m=concern; request¦ex=Was ist Ihr Anliegen?¦en=What is your concern?
+B5455¦art=der¦pl=Landkreise¦m=district¦lv=B2¦tp=T09¦ex=Unser Dorf gehört zum Landkreis Starnberg.¦en=Our village belongs to the district of Starnberg.
+B3560¦tp=T03¦ex=Mein Onkel ist Berufssoldat.¦en=My uncle is a professional soldier.
+B3561¦ck=-¦tp=T03¦ex=Meine Cousine ist Berufssoldatin.¦en=My cousin is a professional soldier.
+B3562¦tp=T03¦ex=Der Buchautor liest aus seinem Roman vor.¦en=The author reads from his novel.
+B5456¦art=das¦pl=Levels¦m=level¦lv=B2¦tp=T10¦ex=Ich habe im Spiel das nächste Level erreicht.¦en=I have reached the next level in the game.
+B3563¦tp=T03¦ex=Die Buchautorin signiert ihr neues Buch.¦en=The author signs her new book.
+B3564¦ck=-¦tp=T03¦ex=Während seiner Bundeswehrzeit lernte er viele Leute kennen.¦en=During his time in the armed forces he got to know many people.
+B3566¦ck=-¦tp=T01¦ex=Der Umzug war eine Lebenswende.¦en=The move was a turning point in life.
+B5457¦m=letter; written communication¦tp=T09¦en=Did you receive my letter of 3 March?
+B3569¦en=After my return we celebrated a big party.
+B3571¦ck=-¦tp=T11¦ex=Das Schutzprojekt rettet bedrohte Tiere.¦en=The protection project saves endangered animals.
+B3572¦tp=T14¦ex=Ich habe Sehnsucht nach meiner Heimat.¦en=I long for my homeland.
+B5458¦m=addiction¦tp=T05¦en=The addiction to medication is increasing.
+B3575¦tp=T03¦ex=Der Wildhüter schützt die Tiere im Park.¦en=The gamekeeper protects the animals in the park.
+B3576¦ck=-¦tp=T03¦ex=Die Wildhüterin zählt die Rehe im Wald.¦en=The gamekeeper counts the deer in the forest.
+B3577¦tp=T11¦ex=Im Nationalpark leben viele Wildtiere.¦en=Many wild animals live in the national park.
+B5459¦m=deed; act¦tp=T12¦en=This person helped with many good deeds.
+B3578¦ck=-¦tp=T11¦ex=In der Wildtierstation werden verletzte Tiere gepflegt.¦en=Injured animals are cared for at the wildlife station.
+B3580¦pos=adjective¦ck=-¦tp=T13¦ex=Er macht ein zweimonatiges Praktikum.¦en=He is doing a two-month internship.

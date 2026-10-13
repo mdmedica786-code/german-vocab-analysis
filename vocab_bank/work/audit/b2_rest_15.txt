@@ -1,0 +1,30 @@
+D2350 | abgemagert | adjective | - | emaciated; very thin | Der Hund war abgemagert und hungrig. | The dog was emaciated and hungry. | stark abgemagert | abgemagert aussehen | ein abgemagerter Körper
+D2351 | bleich | adjective | - | pale; pallid | Er wurde bleich, als er die Nachricht hörte. | He turned pale when he heard the news. | bleich werden | ein bleiches Gesicht | bleich wie die Wand
+D2352 | gebräunt | adjective | - | tanned | Nach dem Urlaub war sie schön gebräunt. | After the holiday she was nicely tanned. | gebräunt sein | gebräunte Haut | von der Sonne gebräunt
+D2353 | gedrungen | adjective | - | stocky; squat | Er hat eine gedrungene Gestalt. | He has a stocky build. | eine gedrungene Gestalt | gedrungen wirken | ein gedrungener Körperbau
+D2354 | kahl | adjective | - | bald; bare | Er hat schon mit 30 einen kahlen Kopf bekommen. | He already got a bald head at 30. | ein kahler Kopf | kahle Bäume | kahl werden
+D2355 | mollig | adjective | - | plump; chubby | Das Baby ist mollig und gesund. | The baby is chubby and healthy. | mollige Arme | mollig sein | eine molligere Figur
+D2356 | rundlich | adjective | - | roundish; plump | Er ist ein rundlicher Mann mit freundlichem Gesicht. | He is a plump man with a friendly face. | rundlich sein | ein rundliches Gesicht | rundlich geformt
+D2357 | sommersprossig | adjective | - | freckled | Das sommersprossige Mädchen lachte fröhlich. | The freckled girl laughed happily. | ein sommersprossiges Gesicht | sommersprossig sein | sommersprossige Haut
+D2358 | stämmig | adjective | - | stocky; sturdy | Der stämmige Mann trug schwere Kisten. | The sturdy man carried heavy boxes. | ein stämmiger Mann | stämmig gebaut | stämmige Beine
+D2359 | untersetzt | adjective | - | thickset; stocky | Er ist untersetzt und kräftig gebaut. | He is thickset and powerfully built. | untersetzt sein | ein untersetzter Mann | untersetzt wirken
+D2360 | zart | adjective | - | tender; delicate; gentle | Sie umarmte ihn mit zarter Geste. | She embraced him with a gentle gesture. | zarte Haut | zart besaitet | zartes Fleisch
+D2361 | appetitlich | adjective | - | appetising | Das Essen sieht sehr appetitlich aus. | The food looks very appetising. | appetitlich aussehen | appetitlich angerichtet | ein appetitliches Gericht
+D2362 | bekömmlich | adjective | - | easily digestible; wholesome | Das Gericht ist leicht und gut bekömmlich. | The dish is light and easily digestible. | gut bekömmlich | leicht bekömmlich | bekömmliche Kost
+D2363 | deftig | adjective | - | hearty; substantial | In der Gaststätte gibt es deftige Hausmannskost. | The inn serves hearty home cooking. | deftiges Essen | eine deftige Mahlzeit | deftig essen
+D2364 | herb | adjective | - | tart; dry; harsh | Der Wein schmeckt herb. | The wine tastes dry. | ein herber Geschmack | herb im Geschmack | eine herbe Enttäuschung
+D2365 | herzhaft | adjective | - | hearty; savoury | Zum Frühstück esse ich gern etwas Herzhaftes. | For breakfast I like to eat something savoury. | herzhaft essen | ein herzhaftes Lachen | eine herzhafte Suppe
+D2366 | kross | adjective | - | crispy | Die Haut vom Braten ist schön kross. | The skin of the roast is nicely crispy. | kross gebraten | kross backen | eine krosse Kruste
+D2367 | köstlich | adjective | - | delicious | Die Suppe schmeckt köstlich. | The soup tastes delicious. | köstlich schmecken | ein köstliches Essen | sich köstlich amüsieren
+D2368 | pikant | adjective | - | spicy; piquant | Die Soße ist würzig und pikant. | The sauce is flavourful and piquant. | pikant gewürzt | eine pikante Soße | ein pikanter Käse
+D2369 | säuerlich | adjective | - | slightly sour | Die Äpfel schmecken säuerlich. | The apples taste slightly sour. | säuerlich schmecken | ein säuerlicher Geschmack | säuerlich lächeln
+D2370 | saftig | adjective | - | juicy | Die Birne ist reif und saftig. | The pear is ripe and juicy. | saftiges Fleisch | eine saftige Orange | eine saftige Rechnung
+D2371 | schmackhaft | adjective | - | tasty; palatable | Sie kocht schmackhafte Gerichte aus frischen Zutaten. | She cooks tasty dishes from fresh ingredients. | schmackhaft zubereiten | ein schmackhaftes Essen | schmackhaft gewürzt
+D2372 | süßlich | adjective | - | sweetish; cloying | Der Saft schmeckt mir zu süßlich. | The juice tastes too sweetish to me. | süßlich schmecken | ein süßlicher Geruch | süßlich lächeln
+D2373 | ungenießbar | adjective | - | inedible; unpalatable | Die Milch war schlecht und ungenießbar. | The milk was off and undrinkable. | ungenießbar sein | ungenießbare Pilze | ungenießbar werden
+D2374 | zartbitter | adjective | - | dark (chocolate); bittersweet | Ich esse am liebsten zartbittere Schokolade. | I like to eat dark chocolate best. | zartbittere Schokolade | zartbitter schmecken | Zartbitterschokolade
+D2375 | lauwarm | adjective | - | lukewarm | Der Tee ist nur noch lauwarm. | The tea is only lukewarm now. | lauwarmes Wasser | lauwarm sein | lauwarm duschen
+D2376 | brütend | adjective | - | sweltering; brooding | Es herrschte eine brütende Hitze. | There was a sweltering heat. | brütende Hitze | brütend heiß | in der brütenden Sonne
+D2377 | drückend | adjective | - | oppressive; sultry | Heute ist es drückend schwül. | Today it is oppressively muggy. | drückende Hitze | drückende Schwüle | drückend heiß
+D2378 | frostig | adjective | - | frosty; chilly | Der Morgen war frostig und klar. | The morning was frosty and clear. | frostige Temperaturen | ein frostiger Empfang | frostig kalt
+D2379 | wechselhaft | adjective | - | changeable; variable | Das Wetter bleibt wechselhaft. | The weather remains changeable. | wechselhaftes Wetter | wechselhaft sein | ein wechselhaftes Leben

@@ -1,0 +1,93 @@
+B5831¦m=discovery¦lv=B2¦art=die¦pl=Entdeckungen¦ex=Die Entdeckung des Penicillins rettete viele Leben.¦en=The discovery of penicillin saved many lives.
+B5832¦m=follower; supporter; trailer¦lv=B2¦art=der¦pl=Anhänger¦ex=Die Anhänger des Vereins feiern den Sieg.¦en=The club's supporters celebrate the victory.
+B5833¦pos=preposition¦g=+ Gen.¦m=on the part of¦lv=C1¦ex=Seitens der Firma gibt es keine Einwände.¦en=There are no objections on the part of the company.
+B5834¦pos=adjective¦m=miserable; wretched¦lv=C1¦ex=Nach der Nacht fühlte ich mich elend.¦en=After the night I felt miserable.
+B5835¦m=to realise; to make come true¦lv=C1¦ps=verwirklicht¦pt=verwirklichte¦pf=hat verwirklicht¦ex=Er will seinen Traum verwirklichen.¦en=He wants to realise his dream.
+B5836¦m=Swiss person (m)¦ex=Der Schweizer spricht vier Sprachen.¦en=The Swiss man speaks four languages.
+B5837¦m=curtain¦lv=B2¦art=der¦pl=Vorhänge¦ex=Zieh bitte den Vorhang zu.¦en=Please draw the curtain.
+B5838¦m=inside; indoors¦en=Do you want to sit inside or outside?
+B5839¦m=permit; approval¦lv=B2¦art=die¦pl=Genehmigungen¦ex=Für den Umbau brauchen Sie eine Genehmigung.¦en=You need a permit for the conversion.
+B5840¦pos=adjective¦m=unconscious; unaware¦lv=C1¦ex=Er hat die Regel unbewusst gebrochen.¦en=He broke the rule unconsciously.
+B5841¦m=tissue¦lv=C1¦art=das¦pl=Gewebe¦tp=M1¦ex=Das Gewebe wird im Labor untersucht.¦en=The tissue is examined in the laboratory.¦col=entzündetes Gewebe | Gewebe untersuchen | totes Gewebe | gesundes Gewebe
+B5842¦pos=adjective¦m=mathematical¦lv=B2¦ex=Das ist eine mathematische Aufgabe.¦en=That is a mathematical problem.
+B5843¦m=member state¦lv=B2¦art=der¦pl=Mitgliedstaaten¦ex=Jeder Mitgliedstaat der EU hat eine Stimme.¦en=Every member state of the EU has a vote.
+B5844¦m=financing¦lv=B2¦art=die¦pl=Finanzierungen¦ex=Die Finanzierung des Projekts ist gesichert.¦en=The financing of the project is secured.
+B5845¦m=survey; questioning¦lv=B2¦art=die¦pl=Befragungen¦ex=Bei der Befragung nahmen 500 Personen teil.¦en=500 people took part in the survey.
+B5846¦pos=adjective¦m=organisational¦lv=B2¦ex=Es gibt noch einige organisatorische Fragen.¦en=There are still some organisational questions.
+B5847¦m=obstacle¦lv=B2¦art=das¦pl=Hindernisse¦ex=Die Sprache ist das größte Hindernis.¦en=The language is the biggest obstacle.
+B5848¦m=to burn¦en=I will burn all the letters.
+B5849¦m=centimetre¦tp=T13¦pl=Zentimeter¦ex=Der Tisch ist 80 Zentimeter breit.¦en=The table is 80 centimetres wide.
+B5850¦pos=preposition¦g=+ Gen.¦m=above¦lv=C1¦ex=Oberhalb des Dorfes liegt eine Burg.¦en=A castle lies above the village.
+B5852¦m=lawyer¦en=I will not pay that. I would like to speak to my lawyer first.
+B5853¦pos=adjective¦m=organic¦lv=C1¦ex=Die Beschwerden haben keine organische Ursache.¦en=The complaints have no organic cause.
+B5854¦pos=adjective¦m=pointed; sharp¦en=The pencil is not sharp.
+B5855¦m=creditor¦lv=C1¦art=der¦pl=Gläubiger¦ex=Der Gläubiger fordert sein Geld zurück.¦en=The creditor demands his money back.
+B5856¦m=fairy tale¦en=My grandmother told us many fairy tales.
+B5857¦m=to suppress; to displace¦lv=C1¦ps=verdrängt¦pt=verdrängte¦pf=hat verdrängt¦ex=Er verdrängt seine Angst.¦en=He suppresses his fear.
+B5858¦m=shock¦lv=B2¦art=der¦pl=Schocks¦tp=M2¦ex=Der Patient steht unter Schock.¦en=The patient is in shock.¦col=unter Schock stehen | einen Schock erleiden | anaphylaktischer Schock | einen Schock behandeln
+B5859¦pos=conjunction¦m=although¦lv=C1¦ex=Wenngleich er müde war, arbeitete er weiter.¦en=Although he was tired, he carried on working.
+B5860¦pos=adjective¦m=medical; by a doctor¦lv=B2¦ex=Sie brauchen ein ärztliches Attest.¦en=You need a medical certificate.
+B5861¦m=reduction¦lv=C1¦art=die¦pl=Reduktionen¦ex=Die Reduktion der Kosten ist unser Ziel.¦en=The reduction of costs is our goal.
+B5862¦m=eyebrow¦lv=B2¦art=die¦pl=Augenbrauen¦tp=M1¦ex=Er hat sich an der Augenbraue verletzt.¦en=He injured himself on the eyebrow.
+B5863¦m=creation; drawing up¦lv=C1¦art=die¦pl=–¦ex=Die Erstellung des Berichts dauert zwei Tage.¦en=Drawing up the report takes two days.
+B5864¦m=poverty¦lv=B2¦art=die¦pl=–¦ex=Die Armut in der Stadt nimmt zu.¦en=Poverty in the city is increasing.
+B5865¦m=confirmation¦en=I need a written confirmation for the authority.
+B5866¦m=lie¦en=That is not true! That is a lie!
+B5867¦m=imagination¦en=My son paints very well. He has a lot of imagination.
+B5868¦m=city centre; city¦ex=Wir treffen uns in der City.¦en=We will meet in the city centre.
+B5869¦pos=adjective¦m=deceased¦lv=C1¦ex=Seine verstorbene Mutter war Ärztin.¦en=His late mother was a doctor.
+B5870¦m=companion; escort¦lv=B2¦art=der¦pl=Begleiter¦ex=Der Patient kam mit einem Begleiter.¦en=The patient came with a companion.
+B5871¦m=dismissal; notice¦en=I have received my notice.
+B5872¦m=vessel; container¦lv=B2¦art=das¦pl=Gefäße¦tp=M1¦ex=Das Gefäß ist verengt.¦en=The vessel is narrowed.¦col=ein verengtes Gefäß | das Gefäß verschließen | das Gefäß erweitern | ein verstopftes Gefäß
+B5873¦pos=adjective¦m=surprising¦lv=B2¦ex=Das Ergebnis war überraschend.¦en=The result was surprising.
+B5874¦m=federal government¦lv=B2¦art=die¦pl=Bundesregierungen¦ex=Die Bundesregierung beschließt ein neues Gesetz.¦en=The federal government passes a new law.
+B5875¦m=kidney¦lv=B1¦art=die¦pl=Nieren¦tp=M1¦ex=Die Nieren filtern das Blut.¦en=The kidneys filter the blood.¦col=gesunde Niere | die Niere transplantieren | Funktion der Niere | eine Niere spenden
+B5876¦m=wealth¦lv=B2¦art=der¦pl=Reichtümer¦ex=Reichtum macht nicht glücklich.¦en=Wealth does not make you happy.
+B5877¦pos=adjective¦m=mental; emotional¦lv=B2¦ex=Er leidet unter seelischen Problemen.¦en=He suffers from emotional problems.
+B5878¦m=shirt (T-shirt)¦lv=A2¦art=das¦pl=Shirts¦ex=Ich trage heute ein weißes Shirt.¦en=I am wearing a white T-shirt today.
+B5879¦pos=preposition¦g=+ Gen.¦m=instead of¦lv=C1¦ex=Anstelle des Chefs kommt seine Vertreterin.¦en=His deputy is coming instead of the boss.
+B5880¦m=to sentence; to condemn¦en=The court sentenced the offender to a fine.
+B5881¦m=acquisition; purchase¦lv=C1¦art=der¦pl=–¦ex=Der Erwerb des Hauses war teuer.¦en=The purchase of the house was expensive.
+B5882¦m=to use; to need¦en=We can make good use of this furniture.
+B5883¦m=yield; profit¦lv=C1¦art=der¦pl=Erträge¦ex=Der Ertrag der Ernte war gut.¦en=The yield of the harvest was good.
+B5884¦m=care; supervision; childcare¦pl=–¦en=Do you have childcare for your children?
+B5885¦pos=adjective¦m=anxious; timid¦en=My mother is somewhat anxious. She does not like going out on her own.
+B5886¦m=manufacturer¦en=Your mobile is broken? We will send it back to the manufacturer for repair.
+B5887¦m=stage; stadium¦lv=B2¦art=das¦pl=Stadien¦tp=M2¦ex=Der Tumor ist in einem frühen Stadium.¦en=The tumour is at an early stage.
+B5888¦m=damage¦en=Now I have to report the damage to the insurance company.
+B5889¦m=glasses¦en=Where are my glasses?
+B5890¦m=index finger¦lv=B2¦art=der¦pl=Zeigefinger¦tp=M1¦ex=Er hat sich den Zeigefinger verletzt.¦en=He injured his index finger.¦col=der rechte Zeigefinger | mit dem Zeigefinger zeigen | den Zeigefinger verletzen | Zeigefinger und Daumen
+B5891¦pos=adverb¦m=in contrast; on the other hand¦lv=C1¦ex=Demgegenüber steht ein hoher Aufwand.¦en=In contrast there is a high cost.
+B5892¦m=rise; increase¦lv=B2¦art=der¦pl=Anstiege¦ex=Der Anstieg der Preise macht mir Sorgen.¦en=The rise in prices worries me.
+B5893¦m=dance¦en=I cannot do these modern dances.
+B5894¦pos=adverb¦m=consequently; therefore¦lv=C1¦ex=Er ist mithin nicht verantwortlich.¦en=He is consequently not responsible.
+B5895¦m=minutes; record¦lv=B2¦art=das¦pl=Protokolle¦ex=Wer schreibt das Protokoll der Sitzung?¦en=Who is writing the minutes of the meeting?
+B5896¦m=owner¦lv=B2¦art=der¦pl=Eigentümer¦ex=Der Eigentümer des Hauses wohnt im Ausland.¦en=The owner of the house lives abroad.
+B5897¦pos=adjective¦m=inevitable; inevitably¦lv=C1¦ex=Das führt zwangsläufig zu Problemen.¦en=That inevitably leads to problems.
+B5898¦m=expense; expenditure¦lv=C1¦art=die¦pl=Aufwendungen¦ex=Die Aufwendungen für die Reise sind hoch.¦en=The expenses for the trip are high.
+B5899¦m=bride¦lv=B2¦art=die¦pl=Bräute¦ex=Die Braut trägt ein weißes Kleid.¦en=The bride wears a white dress.
+B5900¦m=to irritate; to attract¦lv=B2¦ps=reizt¦pt=reizte¦pf=hat gereizt¦ex=Das Angebot reizt mich sehr.¦en=The offer appeals to me a lot.
+B5901¦m=platform¦ex=Die Plattform bietet viele Kurse an.¦en=The platform offers many courses.
+B5902¦m=comrade¦lv=C1¦art=der¦pl=Kameraden¦ex=Die Kameraden halten zusammen.¦en=The comrades stick together.
+B5903¦m=identification¦lv=C1¦art=die¦pl=Identifikationen¦ex=Die Identifikation des Patienten erfolgt über das Armband.¦en=The patient is identified by the wristband.
+B5904¦m=beard¦en=John now has a beard.
+B5905¦m=to stop; to last¦lv=B2¦sp=an¦ps=hält an¦pt=hielt an¦pf=hat angehalten¦ex=Der Bus hält an der Ecke an.¦en=The bus stops at the corner.
+B5906¦m=balance sheet; outcome¦lv=C1¦art=die¦pl=Bilanzen¦ex=Die Bilanz des Jahres ist positiv.¦en=The balance sheet for the year is positive.
+B5907¦m=rescue¦lv=B2¦art=die¦pl=Rettungen¦tp=M4¦ex=Die Rettung kam nach zehn Minuten.¦en=The rescue service arrived after ten minutes.
+B5908¦m=further development¦lv=C1¦art=die¦pl=Weiterentwicklungen¦ex=Die Weiterentwicklung des Produkts dauert lange.¦en=The further development of the product takes a long time.
+B5909¦m=to please; to delight¦lv=C1¦ps=erfreut¦pt=erfreute¦pf=hat erfreut¦ex=Die Blumen erfreuen mich jeden Tag.¦en=The flowers delight me every day.
+B5910¦m=sign; indication¦lv=B2¦art=das¦pl=Anzeichen¦tp=M2¦ex=Gibt es Anzeichen einer Infektion?¦en=Are there any signs of an infection?¦col=erste Anzeichen | Anzeichen einer Infektion | Anzeichen zeigen | auf Anzeichen achten
+B5911¦pos=adjective¦m=passive¦en=In the course you should not be passive but join in the discussion.
+B5912¦m=pelvis; basin¦lv=B2¦art=das¦pl=Becken¦tp=M1¦ex=Der Patient hat einen Bruch im Becken.¦en=The patient has a fracture of the pelvis.¦col=gebrochenes Becken | Schmerzen im Becken | das Becken röntgen | das Becken untersuchen
+B5913¦pos=adjective¦m=functional¦lv=C1¦ex=Das Büro ist modern und funktional eingerichtet.¦en=The office is furnished in a modern and functional way.
+B5914¦pos=adverb¦m=moreover; besides¦lv=C1¦ex=Er ist klug und überdies fleißig.¦en=He is clever and, moreover, hard-working.
+B5915¦m=bleeding¦lv=B2¦art=die¦pl=Blutungen¦tp=M2¦ex=Die Blutung konnte schnell gestoppt werden.¦en=The bleeding could be stopped quickly.¦col=eine starke Blutung | die Blutung stoppen | innere Blutung | die Blutung stillen
+B5916¦m=to guarantee¦en=I cannot guarantee that the device will be ready next week.
+B5917¦m=plot; property¦en=We want to build a house and are looking for an affordable plot.
+B5918¦m=certificate; document¦en=If we win the game, we get a certificate.
+B5919¦m=interface¦lv=C1¦art=die¦pl=Schnittstellen¦ex=Die Schnittstelle verbindet beide Programme.¦en=The interface connects both programmes.
+B5920¦m=to defend¦lv=B2¦ps=verteidigt¦pt=verteidigte¦pf=hat verteidigt¦ex=Der Anwalt verteidigt seinen Mandanten.¦en=The lawyer defends his client.
+B5921¦pos=adverb¦m=through this; hereby¦lv=C1¦ex=Hierdurch sparen wir viel Zeit.¦en=This way we save a lot of time.
+B5922¦m=location; site¦lv=B2¦art=der¦pl=Standorte¦ex=Der Standort der Klinik ist günstig.¦en=The location of the clinic is convenient.
+B5923¦m=federal election¦lv=B2¦tp=T12¦pl=Bundestagswahlen¦ex=Die Bundestagswahl findet alle vier Jahre statt.¦en=The federal election takes place every four years.
+B5924¦pos=adjective¦m=proven; established¦lv=C1¦tp=T16¦ex=Es ist erwiesen, dass Rauchen schadet.¦en=It is proven that smoking is harmful.

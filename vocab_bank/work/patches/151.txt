@@ -1,0 +1,98 @@
+B4246¦tp=T05¦m=to do good; to be good for¦ex=Ein Spaziergang tut gut.¦en=A walk does you good.
+B4250¦pos=adjective¦tp=T16
+B5569¦pos=adjective¦m=chemical¦lv=B2¦ex=Die chemische Analyse dauert zwei Tage.¦en=The chemical analysis takes two days.
+B4251¦tp=T04¦ex=Sie hat einen Studienplatz in Medizin bekommen.¦en=She got a place to study medicine.
+B4252¦tp=T08¦m=to collide; to crash¦ex=An der Kreuzung sind zwei Autos zusammengestoßen.¦en=Two cars collided at the junction.
+B4253¦tp=T02¦ps=wohnt zusammen¦pt=wohnte zusammen¦pf=hat zusammengewohnt¦ex=Wir wohnen schon lange zusammen.¦en=We have been living together for a long time.
+B5570¦m=software¦pl=–¦ex=Die neue Software ist leicht zu bedienen.¦en=The new software is easy to use.
+B4255¦tp=T15¦ex=Das Plusquamperfekt bildet man mit hatte oder war.¦en=The pluperfect is formed with hatte or war.
+B4256¦ck=-¦tp=T15¦m=past perfect (pluperfect)¦ex=Die Vorvergangenheit beschreibt etwas, das früher passiert ist.¦en=The pluperfect describes something that happened earlier.
+B4258¦tp=T01¦ex=In einer Konfliktsituation bleibt sie ruhig.¦en=In a conflict situation she stays calm.
+B5571¦m=secondly¦ex=Zweitens ist das Zimmer zu klein.¦en=Secondly, the room is too small.
+B4260¦pos=adjective¦en=After sport I am always very exhausted.
+B4261¦ck=-¦tp=T03¦m=pupil's part-time job¦ex=Mit einem Schülerjob verdient er sein Taschengeld.¦en=He earns his pocket money with a part-time job as a pupil.
+B4263¦tp=T14¦ps=ist bereit¦pt=war bereit¦pf=ist bereit gewesen¦ex=Ich bin zu einem Kompromiss bereit.¦en=I am ready for a compromise.
+B5572¦m=to confuse¦lv=B2¦ps=verwirrt¦pt=verwirrte¦pf=hat verwirrt¦ex=Die vielen Fragen haben den Patienten verwirrt.¦en=The many questions confused the patient.
+B4264¦pos=adjective¦tp=T15¦ex=Sie antwortet sehr diplomatisch.¦en=She answers very diplomatically.
+B4267¦tp=T15
+B4268¦tp=T14¦ex=In der Familie herrscht Harmonie.¦en=Harmony reigns in the family.
+B5573¦pos=adverb¦m=on it; on top of it (colloquial)¦lv=B2¦ex=Leg das Buch bitte drauf.¦en=Please put the book on it.
+B4271¦tp=T14¦ex=Im Streit gibt sie nie nach.¦en=In an argument she never gives in.
+B4275¦en=It annoys me that I have to work overtime again.
+B5574¦m=to clear; to vacate; to tidy¦lv=B2¦ps=räumt¦pt=räumte¦pf=hat geräumt¦ex=Bitte räumen Sie das Zimmer bis zehn Uhr.¦en=Please vacate the room by ten o'clock.
+B4276¦tp=T15¦m=debate; argument¦ex=Das Streitgespräch im Fernsehen war sehr hart.¦en=The debate on television was very heated.
+B4277¦en=A little sport is healthy. But you should not overdo it.
+B4278¦ck=-¦pos=adjective¦tp=T15¦ex=Seine Antwort war sehr undiplomatisch.¦en=His answer was very undiplomatic.
+B5575¦m=chin¦lv=B1¦art=das¦pl=Kinne¦tp=M1¦ex=Der Patient hat eine Wunde am Kinn.¦en=The patient has a wound on the chin.¦col=ein markantes Kinn | Wunde am Kinn | das Kinn heben | Doppelkinn
+B4279¦ck=-¦tp=T15¦pl=Modalpartikeln¦ex=Doch und ja sind Modalpartikeln.¦en=Doch and ja are modal particles.
+B4280¦m=to enjoy oneself; to amuse¦en=We enjoyed ourselves a lot at the party.
+B4283¦tp=T15¦ex=Seine Behauptung ist nicht richtig.¦en=His claim is not correct.
+B4483¦pos=preposition¦ex=Mithilfe eines Lexikons kann man Wörter nachschlagen.¦en=With the help of a dictionary you can look up words.
+B4284¦tp=T03¦ps=ist beschäftigt¦pt=war beschäftigt¦pf=ist beschäftigt gewesen¦ex=Ich bin gerade mit der Arbeit beschäftigt.¦en=I am busy with work right now.
+B4286¦tp=T01¦ex=Der Ehegatte muss den Antrag mit unterschreiben.¦en=The spouse must also sign the application.
+B4287¦tp=T01¦m=spouse (f)¦ex=Die Ehegattin ist mit zur Untersuchung gekommen.¦en=The spouse came along to the examination.
+B5576¦pos=adjective¦m=sexual¦lv=B2¦ex=Der Arzt fragt auch nach der sexuellen Gesundheit.¦en=The doctor also asks about sexual health.
+B4290¦en=You have to tell me that in every detail.
+B4291¦en=You will get a replacement for the broken device from our company.
+B4292¦tp=T10¦ex=Fake News verbreiten sich schnell im Internet.¦en=Fake news spreads quickly on the internet.
+B4887¦en=Your talk was very interesting.
+B4293¦tp=T01¦ex=Das Familienleben ist mir sehr wichtig.¦en=Family life is very important to me.
+B4296¦en=If you want to open the file, you have to click twice with the mouse.
+B4297¦en=The majority of people in Germany own a mobile phone.
+B5577¦m=sample; rehearsal; test¦lv=B2¦art=die¦pl=Proben¦tp=M3¦ex=Die Probe wird im Labor untersucht.¦en=The sample is examined in the laboratory.
+B4298¦en=Everyone could find out about it in the press.
+B4299¦ck=-¦tp=T10¦m=celebrity¦ex=Auf der Party waren viele Promis.¦en=There were many celebrities at the party.
+B4300¦en=When was the divorce?
+B4406¦en=I am warning you. The dog is dangerous.
+B4301¦tp=T10¦ex=Die Schlagzeile steht auf der ersten Seite.¦en=The headline is on the front page.
+B4302¦pos=adjective¦tp=T14¦ex=Wir hatten einen wundervollen Urlaub.¦en=We had a wonderful holiday.
+B4304¦ck=-¦tp=T10¦ex=Meine Lieblings-Fernsehkrimiserie läuft am Sonntag.¦en=My favourite TV crime series is on on Sunday.
+B5578¦m=investment¦lv=C1¦art=die¦pl=Investitionen¦ex=Die Investition in neue Geräte lohnt sich.¦en=The investment in new equipment is worthwhile.
+B4305¦pos=adjective¦tp=T07¦m=commercial¦ex=Das Projekt ist kommerziell erfolgreich.¦en=The project is commercially successful.
+B4306¦tp=T10¦ps=komponiert¦pt=komponierte¦pf=hat komponiert¦ex=Er komponiert Musik für Filme.¦en=He composes music for films.
+B4307¦tp=T10¦ex=Beethoven war ein berühmter Komponist.¦en=Beethoven was a famous composer.
+B5579¦m=farewell; parting¦en=Saying goodbye to my friends was hard for me.
+B4308¦tp=T10¦ex=Die Komponistin schreibt eine Oper.¦en=The composer is writing an opera.
+B4309¦pos=adjective¦tp=T14¦ex=Sie ist eine leidenschaftliche Köchin.¦en=She is a passionate cook.
+B4310¦tp=T10¦m=history of music¦ex=In der Musikgeschichte gibt es viele große Namen.¦en=There are many great names in the history of music.
+B5580¦m=to recognise; to acknowledge¦en=My training is not recognised here.
+B4311¦tp=T10¦m=pianist (m)¦ex=Der Pianist gibt morgen ein Konzert.¦en=The pianist is giving a concert tomorrow.
+B4312¦tp=T10¦m=pianist (f)¦ex=Die Pianistin übt jeden Tag drei Stunden.¦en=The pianist practises three hours every day.
+B4313¦tp=T10¦ex=Ihre Schauspielkarriere begann am Theater.¦en=Her acting career began at the theatre.
+B5581¦m=trunk; stem; tribe¦lv=B2¦art=der¦pl=Stämme¦ex=Der Stamm des Baumes ist sehr dick.¦en=The trunk of the tree is very thick.
+B4316¦tp=M4¦ps=dokumentiert¦pt=dokumentierte¦pf=hat dokumentiert¦ex=Der Arzt dokumentiert den Verlauf in der Akte.¦en=The doctor documents the course in the file.
+B4317¦tp=T16¦ps=ist erhalten¦pt=war erhalten¦pf=ist erhalten gewesen
+B4318¦tp=T10¦ex=Die Natur ist für sie eine Inspiration.¦en=Nature is an inspiration for her.
+B5582¦pos=adverb¦m=on top of each other; one another¦lv=B2¦ex=Wir müssen aufeinander achten.¦en=We have to look out for each other.
+B4320¦tp=T10¦ex=Die Band plant eine Konzertreise durch Europa.¦en=The band is planning a concert tour through Europe.
+B4321¦tp=T10¦ex=Diese Krimireihe hat schon zehn Bände.¦en=This crime series already has ten volumes.
+B4326¦tp=T12¦m=morality; moral¦ex=Die Moral der Geschichte ist einfach.¦en=The moral of the story is simple.
+B5583¦m=to occupy; to fill (a post)¦en=This seat is taken.
+B4327¦en=Be careful that the dog does not bite you!
+B4328¦tp=T11¦ex=Der Löwe jagt seine Beute.¦en=The lion hunts its prey.
+B4329¦pos=verb¦m=to roar; to shout¦tp=T11¦ps=brüllt¦pt=brüllte¦pf=hat gebrüllt¦ex=Der Löwe brüllt laut.¦en=The lion roars loudly.
+B5584¦m=cooperation¦lv=C1¦art=die¦pl=Kooperationen¦ex=Die Kooperation zwischen den Kliniken funktioniert gut.¦en=The cooperation between the clinics works well.
+B4330¦ck=-¦tp=T08¦ex=Der Mann geht schnell davon.¦en=The man walks away quickly.
+B4331¦tp=T10¦ex=In der Fabel spricht ein Fuchs mit einem Raben.¦en=In the fable a fox talks to a raven.
+B4333¦tp=T01¦ex=Sie war meine Feindin in der Schule.¦en=She was my enemy at school.
+B5585¦pos=adjective¦m=sensible; reasonable¦en=Please be sensible!
+B4334¦tp=T11¦ex=Im Wald haben wir einen Hirsch gesehen.¦en=We saw a stag in the forest.
+B4335¦tp=T11¦ex=Die Jagd auf Wildschweine beginnt im Herbst.¦en=The hunt for wild boar begins in autumn.
+B4336¦pos=adjective¦tp=T05¦ex=Nach der Grippe fühle ich mich kraftlos.¦en=After the flu I feel without strength.
+B5586¦m=rock; cliff¦lv=B2¦art=der¦pl=Felsen¦ex=Der Felsen ragt hoch aus dem Meer.¦en=The rock rises high out of the sea.
+B4337¦tp=T15¦ex=Das ist eine alte Lebensweisheit.¦en=That is an old piece of worldly wisdom.
+B4340¦ck=-¦tp=T15¦ps=brüllt zurück¦pt=brüllte zurück¦pf=hat zurückgebrüllt¦ex=Er hat wütend zurückgebrüllt.¦en=He roared back angrily.
+B4341¦m=to eat (of animals); to devour¦en=Has the dog already been given something to eat?
+B5587¦pos=adjective¦m=cognitive¦lv=C1¦ex=Die Krankheit schränkt die kognitiven Fähigkeiten ein.¦en=The disease limits cognitive abilities.
+B4342¦en=The teacher praised me today.
+B4343¦tp=T11¦m=raven; crow¦ex=Ein Rabe sitzt auf dem Dach.¦en=A raven is sitting on the roof.
+B4344¦tp=T11¦ex=Der Vogel hat einen gelben Schnabel.¦en=The bird has a yellow beak.
+B4852¦ps=befürchtet¦pt=befürchtete¦pf=hat befürchtet¦ex=Ich befürchte, dass wir zu spät kommen.¦en=I fear that we will be late.
+B4345¦en=Yesterday someone stole my watch on the train.
+B4346¦tp=T10¦m=to sing (to someone); to audition¦ex=Sie singt der Jury ein Lied vor.¦en=She sings a song for the jury.
+B4347¦ex=Die Ente schwimmt auf dem See.¦en=The duck is swimming on the lake.
+B5588¦m=to justify¦lv=C1¦ps=rechtfertigt¦pt=rechtfertigte¦pf=hat gerechtfertigt¦ex=Er konnte sein Verhalten nicht rechtfertigen.¦en=He could not justify his behaviour.
+B4348¦tp=T11¦ex=Eine Fliege sitzt auf dem Tisch.¦en=A fly is sitting on the table.
+B4349¦ex=Die Giraffe hat einen sehr langen Hals.¦en=The giraffe has a very long neck.
+B4350¦ex=Das Krokodil liegt am Fluss.¦en=The crocodile is lying by the river.
+B5589¦m=psychology¦lv=B2¦art=die¦pl=–¦ex=Sie studiert Psychologie in Wien.¦en=She is studying psychology in Vienna.

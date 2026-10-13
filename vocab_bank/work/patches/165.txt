@@ -1,0 +1,100 @@
+B6145¦col=stationäre Aufnahme | stationäre Behandlung | stationär aufnehmen | stationäre Therapie
+B6165¦m=strike
+B6235¦m=cough¦tp=M2¦pl=–¦en=Do you have a medicine for a cough?
+B6236¦m=up (colloquial)¦en=Here is the staircase, so quickly, up!
+B6237¦m=merger; union¦lv=C1¦tp=T03¦pl=Zusammenschlüsse¦ex=Der Zusammenschluss der beiden Firmen wurde beschlossen.¦en=The merger of the two companies was decided.
+B6238¦m=dosage¦lv=C1¦art=die¦pl=Dosierungen¦tp=M3¦ex=Die Dosierung hängt vom Gewicht ab.¦en=The dosage depends on weight.¦col=die Dosierung anpassen | richtige Dosierung | die Dosierung beachten | die Dosierung reduzieren
+B6239¦m=box; packet¦en=I would like a packet of cigarettes.
+B6240¦m=dizziness; swindle¦lv=B2¦art=der¦pl=–¦tp=M2¦ex=Die Patientin klagt über Schwindel.¦en=The patient complains of dizziness.¦col=unter Schwindel leiden | Schwindel und Übelkeit | plötzlicher Schwindel | Schwindel auslösen
+B6241¦m=doll¦en=Our little daughter is getting a doll for her birthday.
+B6242¦m=to announce¦en=We should announce our visit.
+B6243¦pos=adverb¦m=elsewhere¦lv=B2¦ex=Wir suchen woanders nach dem Schlüssel.¦en=We are looking elsewhere for the key.
+B6244¦m=married couple¦en=The married couple below us has two children.
+B6245¦m=module¦en=The listening module consists of four parts.
+B6246¦tp=T02¦m=pipe; tube¦ex=Das Rohr im Bad ist undicht.¦en=The pipe in the bathroom is leaking.
+B6247¦m=ambition¦lv=C1¦art=der¦pl=–¦ex=Sie hat viel Ehrgeiz im Studium.¦en=She has a lot of ambition in her studies.
+B6248¦pos=adjective¦m=cheerful¦en=He came in with a cheerful grin.
+B6249¦m=rabbit¦lv=B2¦art=das¦pl=Kaninchen¦ex=Das Kaninchen frisst Karotten.¦en=The rabbit eats carrots.
+B6250¦m=ocean¦en=This ship crosses the Atlantic Ocean.
+B6251¦pos=adjective¦m=proven; tried and tested¦lv=C1¦tp=T16¦ex=Das ist ein bewährtes Mittel gegen Husten.¦en=That is a tried-and-tested remedy for a cough.
+B6253¦m=to spin; to be crazy (colloquial)¦lv=C1¦tp=T14¦ps=spinnt¦pt=spann¦pf=hat gesponnen¦ex=Du spinnst wohl!¦en=You must be crazy!
+B6254¦m=four times¦ex=Ich war schon viermal in Berlin.¦en=I have already been to Berlin four times.
+B6255¦m=olive oil¦lv=B2¦art=das¦pl=Olivenöle¦ex=Für den Salat nehme ich Olivenöl.¦en=I use olive oil for the salad.
+B6256¦m=floor; storey¦en=The office is on the 3rd floor, room 305.
+B6257¦m=service; waiter or waitress¦lv=B2¦art=die¦pl=Bedienungen¦ex=Die Bedienung war sehr freundlich.¦en=The service was very friendly.
+B6258¦pos=adjective¦m=media (adj.)¦lv=C1¦ex=Das Thema bekommt viel mediale Aufmerksamkeit.¦en=The topic receives a lot of media attention.
+B6259¦m=to be enough; to last¦en=The money has to last until March.
+B6260¦m=to lament; to complain about¦lv=C1¦ps=beklagt¦pt=beklagte¦pf=hat beklagt¦ex=Viele Bürger beklagen den Lärm.¦en=Many citizens complain about the noise.
+B6261¦m=boredom¦pl=–¦ex=Er ist aus Langeweile eingeschlafen.¦en=He fell asleep out of boredom.
+B6262¦m=forbidden¦en=It is forbidden to smoke here.
+B6263¦m=herb; cabbage¦lv=B2¦art=das¦pl=Kräuter¦ex=Das Kraut im Garten wächst schnell.¦en=The herb in the garden grows quickly.
+B6264¦m=photography¦en=I am interested in photography.
+B6265¦m=to refuse¦ex=Ich weigere mich, diese Arbeit zu tun.¦en=I refuse to do this work.
+B6266¦m=preparation (of food)¦lv=B2¦art=die¦pl=Zubereitungen¦ex=Die Zubereitung des Gerichts dauert 20 Minuten.¦en=Preparing the dish takes 20 minutes.
+B6267¦m=natural science¦lv=B2¦art=die¦pl=Naturwissenschaften¦ex=Chemie ist eine Naturwissenschaft.¦en=Chemistry is a natural science.
+B6268¦m=torso; trunk¦lv=C1¦art=der¦pl=Rümpfe¦tp=M1¦ex=Der Verband wird um den Rumpf gewickelt.¦en=The bandage is wound around the torso.¦col=Rumpf und Gliedmaßen | den Rumpf beugen | den Rumpf stabilisieren | Verletzung am Rumpf
+B6269¦m=to persuade; to talk into¦en=At first I did not want to, but my brother talked me into doing an English course.
+B6270¦pos=adjective¦m=cheerful; fair (weather)¦lv=C1¦ex=Morgen wird es heiter bis wolkig.¦en=Tomorrow it will be fair to cloudy.
+B6271¦m=to explore¦lv=B2¦ps=erkundet¦pt=erkundete¦pf=hat erkundet¦ex=Wir erkunden die Altstadt zu Fuß.¦en=We explore the old town on foot.
+B6272¦m=to appoint¦lv=C1¦ps=ernennt¦pt=ernannte¦pf=hat ernannt¦ex=Der Präsident ernennt den neuen Minister.¦en=The president appoints the new minister.
+B6273¦m=health insurance¦lv=B1¦art=die¦pl=Krankenversicherungen¦tp=M4¦ex=Haben Sie eine Krankenversicherung?¦en=Do you have health insurance?
+B6274¦m=umbrella¦pl=Schirme¦en=Take the umbrella with you, it is raining.
+B6275¦m=to bring up; to educate¦en=Bringing up children is not easy.
+B6276¦m=grain; cereal¦lv=B2¦art=das¦pl=Getreide¦ex=Das Getreide wird im Sommer geerntet.¦en=The grain is harvested in summer.
+B6277¦m=to fry; to roast¦pt=briet¦en=Fry the meat in a little oil!
+B6278¦m=European (man)¦tp=T08¦pl=Europäer¦ex=Viele Europäer fahren im Sommer ans Meer.¦en=Many Europeans go to the seaside in summer.
+B6279¦m=anatomy¦lv=B2¦art=die¦pl=–¦tp=M1¦ex=In der Anatomie lernt man den Aufbau des Körpers.¦en=In anatomy you learn the structure of the body.¦col=Anatomie lernen | menschliche Anatomie | Anatomie des Herzens | Anatomie studieren
+B6280¦pos=adjective¦m=harmless¦lv=B2¦ex=Die Wunde sieht harmlos aus.¦en=The wound looks harmless.
+B6281¦m=champagne¦lv=B2¦art=der¦pl=Champagner¦ex=Zum Jubiläum trinken wir Champagner.¦en=We drink champagne for the anniversary.
+B6282¦pos=adjective¦m=suspicious¦en=The door was not locked. That is suspicious.
+B6283¦m=division of labour¦lv=C1¦art=die¦pl=–¦ex=Die Arbeitsteilung im Team funktioniert gut.¦en=The division of labour in the team works well.
+B6284¦m=having an appointment; arranged to meet¦en=Sorry, I have no time. I am meeting my girlfriend.
+B6285¦m=medicine; drug¦lv=B2¦art=das¦pl=Arzneimittel¦tp=M3¦ex=Dieses Arzneimittel ist nur auf Rezept erhältlich.¦en=This medicine is only available on prescription.¦col=ein Arzneimittel einnehmen | Arzneimittel verschreiben | rezeptpflichtiges Arzneimittel | ein Arzneimittel zulassen
+B6286¦pos=adjective¦m=deadly; fatal¦en=This poison can be deadly to humans.
+B6287¦m=garlic¦lv=B2¦art=der¦pl=–¦ex=Ich würze das Fleisch mit Knoblauch.¦en=I season the meat with garlic.
+B6288¦m=antibody¦lv=C1¦art=der¦pl=Antikörper¦tp=M3¦ex=Der Körper bildet Antikörper gegen das Virus.¦en=The body forms antibodies against the virus.¦col=Antikörper bilden | Antikörper nachweisen | Antikörper gegen das Virus | Antikörper im Blut
+B6289¦pos=adjective¦m=unconscious; fainted¦lv=B2¦ex=Die Patientin wurde plötzlich ohnmächtig.¦en=The patient suddenly fainted.
+B6290¦m=grain; seed¦lv=B2¦art=das¦pl=Körner¦nt=der Korn = grain schnapps¦ex=Im Brot sind viele Körner.¦en=There are many grains in the bread.
+B6291¦m=pathogen¦lv=C1¦art=der¦pl=Erreger¦tp=M2¦ex=Der Erreger der Krankheit ist ein Virus.¦en=The pathogen of the disease is a virus.¦col=einen Erreger nachweisen | ansteckender Erreger | Erreger identifizieren | Erreger übertragen
+B6292¦m=to display; to issue¦en=Winter shoes are on display in the shop window.
+B6293¦m=mattress¦lv=B2¦art=die¦pl=Matratzen¦ex=Die Matratze ist zu hart.¦en=The mattress is too hard.
+B6294¦m=railway¦en=The children want an electric train set.
+B6295¦m=golf¦lv=B2¦art=das¦pl=–¦nt=der Golf = gulf; der Golf = VW car¦en=Can you play golf?
+B6296¦m=niece¦en=The bag is a gift from my niece.
+B6297¦tp=T02¦m=accommodation; district¦en=We are staying in a nice accommodation.
+B6298¦m=guideline¦lv=C1¦art=die¦pl=Leitlinien¦tp=M4¦ex=Die Behandlung folgt den aktuellen Leitlinien.¦en=The treatment follows the current guidelines.¦col=aktuelle Leitlinie | Leitlinien beachten | nach den Leitlinien behandeln | Leitlinie der Fachgesellschaft
+B6299¦pos=adverb¦m=upwards¦en=You have to put on good shoes. The path goes uphill all the time.
+B6300¦m=to turn round; to turn over¦en=Turn around. The book is lying back there.
+B6301¦m=to hinder; to obstruct¦en=Please park so that you do not obstruct anyone.
+B6302¦m=disabled¦nt=considered offensive; better: mit Behinderung¦en=Since the accident our friends' child has been disabled.
+B6303¦m=medical history¦lv=C1¦art=die¦pl=Anamnesen¦tp=M3¦ex=Zuerst erhebt der Arzt die Anamnese.¦en=First the doctor takes the medical history.¦col=die Anamnese erheben | eine ausführliche Anamnese | Anamnese und Untersuchung | die Anamnese dokumentieren
+B6304¦m=working group¦tp=T03¦pl=Arbeitsgruppen¦ex=Die Arbeitsgruppe trifft sich jeden Montag.¦en=The working group meets every Monday.
+B6305¦m=hard drive¦en=My computer has a large hard drive.
+B6306¦m=power plant¦en=The people are protesting against the power plant.
+B6307¦pos=interjection¦m=cheers¦en=We drink to your health! Cheers!
+B6308¦m=stamp¦en=The postmark bears the date of last week. The parcel was on its way for a long time.
+B6309¦m=to watch¦ps=schaut zu¦pt=schaute zu¦pf=hat zugeschaut¦en=Would you like to watch the football match?
+B6310¦m=Celsius¦nt=no article; used as Grad Celsius¦ex=Heute sind es 20 Grad Celsius.¦en=Today it is 20 degrees Celsius.
+B6311¦m=ferry¦en=We take the ferry across Lake Constance.
+B6312¦m=Greek (language)¦tp=T15¦pl=–¦ex=Sie lernt Griechisch an der Universität.¦en=She is learning Greek at the university.
+B6313¦m=midfield¦lv=C1¦tp=T10¦pl=Mittelfelder¦ex=Er spielt im Mittelfeld.¦en=He plays in midfield.
+B6314¦m=on Mondays¦ex=Montags habe ich Training.¦en=On Mondays I have training.
+B6315¦m=to protest¦en=We are protesting against the building of the motorway.
+B6316¦m=tattoo¦lv=B2¦tp=T05¦pl=Tattoos¦ex=Er hat ein Tattoo am Arm.¦en=He has a tattoo on his arm.
+B6317¦m=rehabilitation¦lv=C1¦art=die¦pl=Rehabilitationen¦tp=M3¦ex=Nach der Operation folgt die Rehabilitation.¦en=After the operation comes rehabilitation.¦col=Rehabilitation beginnen | stationäre Rehabilitation | eine Rehabilitation verordnen | Rehabilitation nach Schlaganfall
+B6318¦m=coalition¦lv=C1¦art=die¦pl=Koalitionen¦ex=Die Koalition hat sich geeinigt.¦en=The coalition has reached an agreement.
+B6319¦m=injection¦lv=B2¦art=die¦pl=Injektionen¦tp=M3¦ex=Der Arzt gibt dem Patienten eine Injektion.¦en=The doctor gives the patient an injection.¦col=eine Injektion geben | intravenöse Injektion | Injektion unter die Haut | eine Injektion verabreichen
+B6320¦m=jug; mug¦lv=B2¦art=der¦pl=Krüge¦ex=Auf dem Tisch steht ein Krug mit Wasser.¦en=There is a jug of water on the table.
+B6321¦m=to heat¦lv=B2¦ps=erhitzt¦pt=erhitzte¦pf=hat erhitzt¦ex=Erhitzen Sie die Milch langsam.¦en=Heat the milk slowly.
+B6322¦m=attack; seizure; fit¦lv=B2¦art=der¦pl=Anfälle¦tp=M2¦ex=Der Patient hatte einen epileptischen Anfall.¦en=The patient had an epileptic seizure.¦col=einen Anfall erleiden | epileptischer Anfall | einen Anfall auslösen | ein plötzlicher Anfall
+B6323¦m=elbow¦lv=B2¦art=der¦pl=Ellenbogen¦tp=M1¦ck=dup:B6117¦ex=Er hat sich den Ellenbogen gestoßen.¦en=He bumped his elbow.¦col=den Ellenbogen brechen | Schmerzen im Ellenbogen | der rechte Ellenbogen | den Ellenbogen beugen
+B6324¦m=joint¦lv=B1¦art=das¦pl=Gelenke¦tp=M1¦ex=Das Gelenk ist geschwollen.¦en=The joint is swollen.¦col=ein Gelenk ersetzen | Schmerzen im Gelenk | das Gelenk bewegen | entzündetes Gelenk
+B6325¦pos=adjective¦m=organic¦tp=T06¦en=Organic food is now also available in the supermarket.
+B6326¦m=working condition¦lv=B2¦art=die¦pl=Arbeitsbedingungen¦ex=Die Arbeitsbedingungen in der Klinik sind gut.¦en=The working conditions in the clinic are good.
+B6327¦m=chest; thorax¦lv=B2¦art=der¦pl=Brustkörbe¦tp=M1¦ex=Der Brustkorb hebt sich beim Atmen.¦en=The chest rises when breathing.¦col=den Brustkorb röntgen | Schmerzen im Brustkorb | den Brustkorb abtasten | der Brustkorb schmerzt
+B6328¦m=consent; agreement¦lv=C1¦art=das¦pl=–¦tp=M4¦ex=Wir brauchen Ihr Einverständnis für die Behandlung.¦en=We need your consent for the treatment.¦col=sein Einverständnis geben | schriftliches Einverständnis | Einverständnis einholen | im Einverständnis mit
+B6329¦m=radius (bone); radius (circle)¦lv=C1¦art=der¦pl=Radien¦tp=M1¦ex=Der Radius ist am Handgelenk gebrochen.¦en=The radius is broken at the wrist.¦col=Bruch des Radius | distaler Radius | Radius und Elle | der Radius ist gebrochen
+B6330¦m=eyelid¦lv=C1¦art=das¦pl=Lider¦tp=M1¦ex=Das Lid ist geschwollen.¦en=The eyelid is swollen.¦col=das obere Lid | das Lid schließen | geschwollenes Lid | das Lid heben
+B6331¦m=red wine¦lv=B2¦art=der¦pl=Rotweine¦ex=Zum Essen trinken wir Rotwein.¦en=We drink red wine with the meal.
+B6332¦m=psychologist (m)¦lv=B2¦art=der¦pl=Psychologen¦tp=M4¦ex=Der Psychologe führt ein Gespräch mit dem Patienten.¦en=The psychologist has a conversation with the patient.¦col=zum Psychologen gehen | ein Psychologe berät | klinischer Psychologe | Psychologe und Arzt
+B6333¦m=voter¦lv=B2¦art=der¦pl=Wähler¦ex=Die Wähler entscheiden am Sonntag.¦en=The voters decide on Sunday.

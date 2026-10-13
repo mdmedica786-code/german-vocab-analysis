@@ -1,0 +1,100 @@
+B1073¦tp=T16¦en=Life in this country is expensive.
+B1074¦pos=adjective¦tp=T16¦m=easy; light¦os=-
+B5206¦pos=adjective¦m=scientific; academic¦lv=B1¦ex=Sie schreibt eine wissenschaftliche Arbeit über Diabetes.¦en=She is writing a scientific paper on diabetes.¦col=wissenschaftliche Arbeit | wissenschaftlich arbeiten | wissenschaftliche Studie | wissenschaftlich belegt
+B1075¦tp=T10¦en=For your birthday we'll sing you a song.
+B1076¦tp=T03¦en=We're taking a ten-minute break.
+B1077¦tp=T04¦en=I'm doing an internship at Siemens.
+B3305¦pos=adverb¦tp=T16¦m=in any case; at any rate¦ex=Ich weiß nicht, wann er kommt, jedenfalls nicht heute.¦en=I don't know when he's coming, at any rate not today.¦col=jedenfalls nicht | jedenfalls ich | jedenfalls bis jetzt | jedenfalls nicht mehr
+B1078¦pos=adjective¦tp=T14¦rg=colloquial¦ck=-¦ex=Unsere neue Nachbarin ist supernett.¦en=Our new neighbour is super nice.
+B1079¦tp=T06¦ex=Zum Essen trinke ich eine Apfelschorle.¦en=With the meal I drink an apple juice spritzer.
+B1080¦tp=T16¦col=ein Wort verwenden | frische Zutaten verwenden | eine Methode verwenden | Geld sinnvoll verwenden¦en=This word is often used.
+B1929¦m=object; item; subject¦en=I prefer to lock my personal belongings in a locker at the swimming pool.
+B1081¦tp=T03¦ck=-¦m=customer visit¦ex=Morgen habe ich einen Kundenbesuch in Köln.¦en=Tomorrow I have a customer visit in Cologne.
+B1082¦m=employee; colleague (m)¦en=Our company has seven employees.
+B1083¦m=employee; colleague (f)¦ex=Die neue Mitarbeiterin fängt am Montag an.¦en=The new colleague starts on Monday.¦es=claude
+B4138¦pos=adverb¦tp=T01¦m=with each other; together¦en=Please talk to each other.¦col=miteinander reden | miteinander auskommen | gut miteinander | miteinander verbunden
+B1084¦tp=T10¦ex=Unser Sommerfest findet im Garten statt.¦en=Our summer party takes place in the garden.
+B1085¦tp=T03¦en=I'm taking holiday in September.
+B1086¦tp=T15¦ex=Nach „mit“ steht immer der Dativ.¦en=After “mit” the dative always follows.
+B4435¦pos=adverb¦tp=T16¦m=in principle; fundamentally¦ex=Grundsätzlich bin ich mit dem Plan einverstanden.¦en=In principle I agree with the plan.¦col=grundsätzlich einverstanden | grundsätzlich möglich | grundsätzlich verboten | grundsätzlich anders
+B1088¦en=Ali has good pronunciation.
+B1089¦tp=T15¦ck=-¦ex=Am Silbenanfang steht oft ein Konsonant.¦en=A consonant often stands at the beginning of a syllable.
+B1090¦tp=T15¦ck=-¦ex=Am Wortanfang schreibt man Nomen groß.¦en=Nouns are capitalised at the beginning of a word.
+B4878¦col=den Verkehr regeln | etwas regeln | geregelte Arbeitszeiten | rechtlich regeln¦en=The traffic light is broken. A police officer is directing the traffic.
+B1091¦tp=T15¦ck=-¦ef=das Wortinnere; im Wortinneren¦ex=Im Wortinneren steht oft ein Vokal.¦en=A vowel often stands inside the word.
+B1094¦tp=T07¦ef=den/dem/des Automaten (n-declension)¦en=Tickets are only available from the machine.
+B4392¦tp=M1 Medizin: Anatomie & Körpersysteme¦med=core¦m=chest; breast¦col=Schmerzen in der Brust | Druck auf der Brust | die Brust abhören | Stiche in der Brust¦en=I have pain in my chest.
+B1095¦pos=adjective¦tp=T07
+B1096¦col=genug Zeit | gut genug | nicht genug | genug haben¦tp=T16¦en=There's still enough pizza. Would you like another piece?
+B1097¦tp=T16¦ps=holt¦pt=holte¦pf=hat geholt
+B1994¦m=contribution; fee; article¦en=The health insurance has raised its contributions.
+B1098¦tp=T07¦en=We will transfer the money to your account on 1 March.
+B1099¦tp=T07¦ex=Bitte geben Sie Ihre Kontonummer an.¦en=Please state your account number.
+B1100¦en=Can I pay by credit card?
+B4061¦m=sign; symbol; character¦en=Please don't start until I give you a sign.
+B1101¦tp=T07¦pt=überwies¦m=to transfer; to refer (a patient)¦en=You can also transfer the money.
+B1102¦en=I read an interesting report yesterday.
+B1103¦tp=T13¦ps=dauert¦pt=dauerte¦pf=hat gedauert¦en=How long does the film last?
+B4077¦tp=M1 Medizin: Anatomie & Körpersysteme¦med=core¦col=trockene Haut | die Haut untersuchen | empfindliche Haut | die Haut desinfizieren¦en=Do you have a cream for dry skin?
+B1104¦en=Can you please correct my letter?
+B1105¦tp=T09¦m=post; post office; mail¦en=Where is the post office, please?
+B1106¦en=What a coincidence that I meet you here.
+B4106¦pos=adjective¦tp=T16¦ex=Haben Sie eine konkrete Frage?¦en=Do you have a specific question?¦col=konkrete Fragen | konkret werden | ganz konkret | ein konkretes Beispiel
+B1107¦tp=T15¦ex=„Info“ ist die Kurzform von „Information“.¦en=“Info” is the short form of “Information”.
+B1108¦tp=T15¦ex=„Im Park“ ist eine Ortsangabe.¦en=“In the park” is a place expression.
+B1109¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ef=des Zahnarztes¦ex=Ich habe morgen einen Termin beim Zahnarzt.¦en=Tomorrow I have an appointment at the dentist's.
+B5207¦pos=adjective¦m=holy; sacred¦lv=B1¦ex=Für viele Menschen ist dieser Ort heilig.¦en=For many people this place is holy.¦col=heiliger Ort | die heilige Messe | der heilige Abend | heilig sprechen
+B1110¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ex=Die Zahnärztin untersucht meine Zähne.¦en=The dentist is examining my teeth.
+B1111¦m=baker
+B1112¦en=The caretaker helped me carry the wardrobe into the flat.
+B5208¦m=to push¦col=einen Wagen schieben | das Fahrrad schieben | die Schuld schieben | etwas aufschieben¦en=Unfortunately my bike broke. I had to push it home.
+B1113¦ex=Die Hausmeisterin repariert die Heizung.¦en=The caretaker is repairing the heating.¦es=claude
+B1114¦ex=Mein Akku ist schon wieder leer.¦en=My battery is empty again.
+B1115¦tp=T02¦rg=informal¦ps=macht an¦pt=machte an¦pf=hat angemacht¦en=Please turn on the light!
+B4241¦pos=preposition¦g=+ Dat.¦m=contrary to; towards¦ex=Entgegen allen Erwartungen hat es nicht geregnet.¦en=Contrary to all expectations it did not rain.
+B1116¦tp=T02¦rg=informal¦ps=macht aus¦pt=machte aus¦pf=hat ausgemacht¦m=to turn off; to arrange¦en=Please turn off the light!
+B1117¦en=Where did you save the file?
+B1118¦tp=T10¦ps=druckt¦pt=druckte¦pf=hat gedruckt¦en=Please print the form for me.
+B3732¦ex=Welche Partei hast du gewählt?¦en=Which party did you vote for?
+B1119¦tp=T10¦en=My printer is broken.
+B1120¦tp=T10¦pt=gab ein
+B1121¦tp=T10¦pt=fuhr hoch
+B3660¦pos=adverb¦col=relativ gut | relativ wenig | relativ viel | relativ selten¦en=The flat is relatively large, but very expensive.
+B1122¦pos=adjective¦col=leer sein | leer machen | ein leeres Glas | leer ausgehen
+B1123¦en=Environmental protection is a big topic in the media.
+B1124¦tp=T14¦rg=colloquial¦m=rubbish; (colloq.) damn!¦en=Damn, my battery is almost empty.
+B5209¦pos=adverb¦tp=T13¦m=a little; a bit¦en=I speak English, French and a little German.
+B1125¦m=network; reception; net¦os=-
+B1126¦pos=adjective¦tp=T10¦ex=Mein Handy ist gerade offline.¦en=My phone is offline at the moment.
+B1127¦tp=T16¦ps=öffnet¦pt=öffnete¦pf=hat geöffnet
+B4942¦pos=adjective¦ex=Die gesellschaftliche Entwicklung ist schnell.¦en=Social development is fast.¦col=gesellschaftliche Probleme | gesellschaftlich akzeptiert | gesellschaftliche Veränderung | gesellschaftliches Leben
+B1128¦en=Please write your password.
+B1129¦pt=speicherte¦en=You have to save the file.
+B1130¦tp=T10¦pl=–¦ex=Gibt es hier kostenloses WLAN?¦en=Is there free Wi-Fi here?
+B2094¦col=eine Firma gründen | eine Familie gründen | einen Verein gründen | eine Partei gründen¦en=Mrs Bauer has founded her own company.
+B1131¦pos=adjective¦col=aktuelle Nachrichten | die aktuelle Lage | aktuell sein | der aktuelle Stand¦en=That is the current cinema programme.
+B1132¦pos=adjective¦tp=T01¦ex=Er ist ein argentinischer Arzt.¦en=He is an Argentine doctor.
+B1133¦tp=T15¦en=Do you have a letter for me?
+B3848¦col=die Fähigkeit besitzen | Fähigkeiten entwickeln | die Fähigkeit, zu ... | besondere Fähigkeiten¦en=In his position you need the ability to convince others.
+B1134¦pt=diskutierte¦g=über + Akk.¦en=I want to discuss this with my colleagues.
+B1135¦ck=-¦tp=T01¦ef=der Erwachsene; die Erwachsene; ein Erwachsener¦en=This film is only for adults.
+B1136¦tp=T10¦ex=Das Jahrestreffen findet immer im Mai statt.¦en=The annual meeting always takes place in May.
+B2227¦en=This work gives me a lot of joy.
+B1137¦tp=T01¦ps=lernt kennen¦pt=lernte kennen¦pf=hat kennengelernt¦en=We are new here. We would like to get to know you.
+B1138¦en=Admission to the concert is free for members.
+B1139¦tp=T10¦ex=Meine Musikgruppe spielt jeden Freitag.¦en=My music group plays every Friday.
+B4139¦ex=Im Prinzip bin ich einverstanden.¦en=In principle I agree.
+B1140¦en=The pupil got a good mark for her presentation.
+B1141¦pos=adverb¦ex=Samstags gehe ich auf den Markt.¦en=On Saturdays I go to the market.
+B1142¦tp=T06¦ex=Die Spezialität des Hauses ist Fischsuppe.¦en=The speciality of the house is fish soup.
+B1987¦col=wenigstens ein Stück | wenigstens ein bisschen | wenigstens versuchen | wenigstens heute¦en=I'm not hungry. – Oh, at least eat a piece of cake.
+B1143¦tp=T10¦ex=Im Stadtpark gibt es einen kleinen See.¦en=There is a small lake in the city park.
+B1145
+B1146¦tp=T04¦ck=-¦m=language institute¦ex=Ich lerne Deutsch am Sprachinstitut.¦en=I'm learning German at the language institute.
+B5210¦pos=adjective¦tp=T14¦m=ready; prepared; willing¦en=I am ready to help you at any time.¦g=zu + Dat.
+B1147¦tp=T09¦en=There is a letter for you without a sender.
+B1148¦tp=T15¦ck=-¦m=letter template; standard letter format¦ex=Ein Briefstandard hilft beim Schreiben.¦en=A letter template helps with writing.
+B1149¦tp=T15¦en=Your name is on the letter, so you are the recipient.
+B3068¦pos=adverb¦col=ständig besetzt | ständig neu | ständige Veränderung | ständig wechseln¦en=I have called my friend a few times already. The line is constantly busy.
+B1150¦tp=T15¦ex=Die Empfängerin unterschreibt den Brief.¦en=The recipient signs the letter.
+B1151¦tp=T09¦en=Your signature is still missing here.

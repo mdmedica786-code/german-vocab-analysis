@@ -1,0 +1,100 @@
+B2699¦ps=macht frei¦pt=machte frei¦pf=hat freigemacht¦tp=T16¦m=to clear; to free up¦ex=Bitte machen Sie den Weg frei.¦en=Please clear the way.
+B2701¦ck=-¦tp=T04¦ex=Mein Lernhelfer erklärt mir die Grammatik.¦en=My tutor explains the grammar to me.
+B4953¦en=Access to this house is difficult.
+B2702¦ck=-¦tp=T04¦ex=Meine Lernhelferin kommt jeden Dienstag.¦en=My tutor comes every Tuesday.
+B2703¦en=A glass of mineral water, please.
+B2704¦tp=T14¦ex=Vor der Prüfung spürte ich große Nervosität.¦en=Before the exam I felt great nervousness.
+B5344¦m=sex; gender¦en=Please tick: "Sex: female/male".
+B2705¦en=I'll have a small portion of ice cream.
+B2706¦ck=-¦ef=der Prüfende; die Prüfende; die Prüfenden¦tp=T04¦ex=Die Prüfenden stellen Fragen.¦en=The examiners ask questions.
+B2707¦ex=Der Prüfer stellt schwierige Fragen.¦en=The examiner asks difficult questions.
+B3040¦pt=verging¦tp=T13¦ex=Die Zeit vergeht im Urlaub schnell.¦en=Time goes by quickly on holiday.
+B2708¦ex=Die Prüferin lächelt freundlich.¦en=The examiner smiles in a friendly way.
+B2710¦tp=T15¦ex=Hast du einen Trick, wie man Vokabeln schneller lernt?¦en=Do you have a trick for learning vocabulary faster?
+B2712¦pt=unternahm¦m=to do; to undertake¦en=Shall we do something this evening?
+B5345¦m=to transfer; to transmit; to broadcast¦en=Please don't forget to transfer your answers to the answer sheet.
+B2713¦ps=verplant¦pt=verplante¦pf=hat verplant¦tp=T13¦ex=Mein Wochenende ist schon komplett verplant.¦en=My weekend is already completely booked up.
+B2715¦en=I drink my tea with lemon.
+B2716¦en=Shall I help you? – Thanks. I can manage on my own.
+B4940¦rf=sich¦m=to determine; to commit oneself¦en=I don't want to commit myself yet.
+B2717¦en=Consultations for families are available every Tuesday between 2 and 4 p.m.
+B2721¦en=For the project we receive funding from the city.
+B2723¦en=This is Susanne König's voicemail.
+B3445¦ex=Die Nutzung der Bibliothek ist kostenlos.¦en=Use of the library is free of charge.
+B2724¦tp=T15¦ex=Ich habe eine Mitteilung vom Vermieter bekommen.¦en=I received a notice from the landlord.
+B2725¦pos=adjective¦en=The oral exam is only next week.
+B2726¦pos=adjective¦en=The neighbours are quite nosy.
+B3137¦pos=adjective¦tp=T16¦ex=Der Weltraum scheint unendlich zu sein.¦en=Space seems to be infinite.
+B2727¦pos=adjective¦en=You must register in writing.
+B2728¦m=secretary's office; administrative office¦ex=Das Sekretariat ist von acht bis zwölf Uhr geöffnet.¦en=The secretary's office is open from eight to twelve.
+B2729¦en=Dr Weiß has consulting hours from 9:00 to 12:30.
+B5346¦m=to approach¦ps=nähert¦pt=näherte¦pf=hat genähert¦en=He approaches the scene of the accident very slowly.
+B2730¦pos=adjective¦tp=T14¦ex=Der Urlaub war völlig stressfrei.¦en=The holiday was completely stress-free.
+B2731¦en=That was a great workshop. I learned a lot.
+B2732¦en=My daughter doesn't accept my advice.
+B5347¦pl=–¦m=sleep¦en=After lunch the child takes a short sleep every day.
+B2733¦ps=plant ein¦pt=plante ein¦pf=hat eingeplant¦tp=T13¦ex=Plane genug Zeit für die Fahrt ein.¦en=Allow enough time for the journey.
+B2734¦ck=-¦ef=der Angehörige; die Angehörige; die Angehörigen¦en=The doctor may only give information to family members.
+B2735¦tp=T03
+B4054¦en=A small glass of wine can't hurt.
+B2736¦tp=T03¦ex=Mein Arbeitgeber zahlt das Gehalt pünktlich.¦en=My employer pays the salary on time.
+B2740¦en=This author has already written two books this year.
+B2742¦ps=lernt dazu¦pt=lernte dazu¦pf=hat dazugelernt¦tp=T04¦ex=Im Beruf lernt man jeden Tag etwas dazu.¦en=In a job you learn something new every day.
+B4737¦en=Good German skills are supposed to help with integration.
+B2743¦ps=dolmetscht¦pt=dolmetschte¦pf=hat gedolmetscht¦tp=T15¦m=to interpret¦ex=Sie dolmetscht bei Gesprächen mit Patienten.¦en=She interprets in conversations with patients.
+B2744¦ps=fasziniert¦pt=faszinierte¦pf=hat fasziniert¦tp=T14¦ex=Das Gehirn fasziniert mich seit dem Studium.¦en=The brain has fascinated me since my studies.
+B2745¦ex=Danke für dein Feedback zu meinem Vortrag.¦en=Thank you for your feedback on my talk.
+B5348¦m=to get lost¦ps=verläuft¦pt=verlief¦pf=hat verlaufen¦en=Yesterday we got lost in the forest. We only found the right path an hour later.
+B2747¦pos=adjective¦tp=T03¦ex=Meine Schwester arbeitet freiberuflich als Ärztin.¦en=My sister works freelance as a doctor.
+B2748¦ck=-¦tp=T09¦ex=Der Gebärdendolmetscher übersetzt die Rede für Gehörlose.¦en=The sign language interpreter translates the speech for deaf people.
+B2749¦ck=-¦tp=T09¦ex=Die Gebärdendolmetscherin steht neben dem Redner.¦en=The sign language interpreter stands next to the speaker.
+B5349¦m=story; narrative¦en=This story is very famous. You must read it.
+B2750¦ck=-¦tp=T09¦ex=Mit dem Gebärdentelefon können Gehörlose telefonieren.¦en=With the sign language telephone deaf people can make calls.
+B2751¦pos=adjective¦tp=T05¦ex=Mein Onkel ist gehörlos und benutzt die Gebärdensprache.¦en=My uncle is deaf and uses sign language.
+B2752¦ck=-¦ef=der Gehörlose; die Gehörlose; die Gehörlosen¦tp=T05¦ex=Gehörlose kommunizieren oft mit Gebärdensprache.¦en=Deaf people often communicate with sign language.
+B5350¦art=das¦pl=Phänomene¦m=phenomenon¦lv=B2¦ex=Der Regenbogen ist ein schönes Naturphänomen.¦en=The rainbow is a beautiful natural phenomenon.
+B2753¦ex=Mein Gesprächspartner spricht sehr deutlich.¦en=My conversation partner speaks very clearly.
+B2754¦tp=T15¦ex=Meine Gesprächspartnerin hört aufmerksam zu.¦en=My conversation partner listens attentively.
+B2755¦en=I ordered a dress from the catalogue.
+B5351¦m=secret¦en=I can't tell you that. It's a secret.
+B2757¦ps=kommuniziert¦pt=kommunizierte¦pf=hat kommuniziert¦ex=Ärzte müssen klar mit Patienten kommunizieren.¦en=Doctors must communicate clearly with patients.
+B2758¦en=The conference takes place in room 19.
+B2759¦ck=-¦ef=der Lernende; die Lernende; die Lernenden¦tp=T04¦ex=Die Lernenden schreiben einen Test.¦en=The learners are writing a test.
+B2833¦m=health; bless you (after a sneeze)¦en=Bless you! Do you have a cold?
+B2760¦ex=Die Party endet um Mitternacht.¦en=The party ends at midnight.
+B2763¦tp=T04¦ex=Sprachenlernen braucht Geduld.¦en=Learning languages takes patience.
+B2764¦tp=T04¦ex=Meine Schwester studiert Sprachwissenschaft.¦en=My sister studies linguistics.
+B3106¦en=I'm doing without coffee today.
+B2765¦tp=T09¦ex=Wir heiraten im Standesamt.¦en=We are getting married at the registry office.
+B2766¦pos=adjective¦tp=T03¦ex=Ich arbeite nur stundenweise.¦en=I only work by the hour.
+B2767¦en=I'd like to work full-time.
+B4134¦ps=lautet¦pt=lautete¦pf=hat gelautet¦tp=T15¦ex=Der Titel des Buches lautet „Faust“.¦en=The title of the book is "Faust".
+B2768¦pt=gab weiter¦tp=T15¦ex=Bitte geben Sie die Nachricht an alle weiter.¦en=Please pass the message on to everyone.
+B2770¦ps=arbeitet zusammen¦pt=arbeitete zusammen¦pf=hat zusammengearbeitet¦tp=T03¦ex=Ärzte und Pfleger arbeiten eng zusammen.¦en=Doctors and nurses work closely together.
+B2771¦tp=T10¦ex=Wir planen ein Filmprojekt in der Schule.¦en=We are planning a film project at school.
+B5352¦art=das¦pl=Symptome¦m=symptom¦lv=B1¦tp=M2 Medizin: Symptome & Krankheiten¦ex=Fieber ist ein häufiges Symptom einer Infektion.¦en=Fever is a common symptom of an infection.¦col=typisches Symptom | Symptome treten auf | Symptome lindern | Symptome abklären
+B2772¦tp=T10¦ex=Am Sonntag sehen wir einen Kinderfilm.¦en=On Sunday we are watching a children's film.
+B2773¦tp=T10¦ex=Charlie Chaplin war berühmt für seine Stummfilme.¦en=Charlie Chaplin was famous for his silent films.
+B2774¦pt=übersetzte¦en=Can you translate the letter for me, please?
+B5353¦m=to represent; to cover for¦en=Who covers for you when you go on holiday?
+B2775¦en=I need a translation of my certificate.
+B2777¦m=campaign; action¦en=The city should plan a campaign for families.
+B2778¦en=My daughter works as a babysitter for a family with four children.
+B3573¦en=This bus driver caused the accident.
+B2779¦ex=Die Babysitterin bringt die Kinder um acht ins Bett.¦en=The babysitter puts the children to bed at eight.
+B2780¦tp=T10¦ex=In der Bücherei kann man Bücher ausleihen.¦en=In the library you can borrow books.
+B2782¦ck=-¦ef=der Freiwillige; die Freiwillige; die Freiwilligen¦tp=T12¦ex=Die Freiwilligen helfen im Krankenhaus.¦en=The volunteers help in the hospital.
+B2829¦m=gate; goal¦en=Behind the gate you get to the factory.
+B2783¦tp=T10¦ex=Mein PC ist schon zehn Jahre alt.¦en=My PC is already ten years old.
+B2784¦pt=putzte¦en=I still have to clean the bathroom today.
+B2788¦tp=T01¦ex=Senioren bekommen im Museum eine Ermäßigung.¦en=Senior citizens get a discount at the museum.
+B2789¦tp=T01¦ex=Die Seniorin geht jeden Tag spazieren.¦en=The senior citizen goes for a walk every day.
+B2790¦en=I'm very satisfied with the service at the garage.
+B2791¦m=to rinse; to wash up¦en=Did you wash the dishes?
+B3658¦tp=T07¦med=-¦en=Before the euro the currency in Germany was the Mark.
+B2792¦en=The plane took off on time.
+B2793¦en=We haven't heard from each other for a long time.
+B2794¦pt=warf weg¦tp=T02¦ex=Die alten Zeitungen kannst du wegwerfen.¦en=You can throw away the old newspapers.
+B5354¦pos=adjective¦m=naked¦lv=B2¦tp=T05¦ex=Beim Baden am See waren die Kinder nackt.¦en=While swimming in the lake the children were naked.
+B5355¦m=exempt¦en=Students are exempt from broadcasting fees.
+B2795¦en=We didn't have any tools with us for the repair.

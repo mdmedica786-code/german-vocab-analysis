@@ -1,0 +1,100 @@
+B1773¦tp=T16¦ps=benutzt¦pt=benutzte¦pf=hat benutzt¦en=Please do not use the lifts!
+B1774¦tp=T13¦en=You have room number twelve.
+B4210¦col=eine Forderung stellen | Forderungen erfüllen | berechtigte Forderung | eine Forderung ablehnen¦en=You can read all the employees' demands in this email.
+B1775¦tp=T08¦pt=fuhr ab¦en=We leave at twelve o'clock.
+B1776¦tp=T08¦en=I'll call before departure.
+B1777¦tp=T08¦en=This timetable only shows the arrival times of the trains.
+B5268¦m=furnishings; facility; institution¦en=Your flat is very cosy, I like the furnishings very much.¦col=die Einrichtung planen | moderne Einrichtung | soziale Einrichtung | öffentliche Einrichtung
+B1778¦tp=T08¦en=Where is the exit?
+B1779¦tp=T08¦pt=stieg aus¦en=Where do I have to get off?
+B1780¦tp=T08¦en=Which platform does the train leave from?
+B3499¦m=characteristic; feature¦ex=Ein typisches Merkmal dieser Krankheit ist Fieber.¦en=A typical feature of this illness is fever.
+B1781¦tp=T08¦en=At the next corner turn left.
+B1782¦tp=T08¦en=Can you take me to the airport?
+B1783¦tp=T08¦g=+ Dat.¦m=opposite; towards¦nt=Often after the noun: dem Bahnhof gegenüber.¦en=The post office is opposite the station.
+B2285¦tp=T09¦en=Call the police!
+B1784¦tp=T08¦en=The ICE to Berlin stops at platform 12 today.
+B1785¦en=Will you write me a postcard from Canada?
+B1786¦tp=T07¦rg=informal¦ps=geht shoppen¦pt=ging shoppen¦ex=Am Samstag gehen wir shoppen.¦en=On Saturday we're going shopping.
+B2746¦m=figure; character¦col=eine gute Figur haben | auf seine Figur achten | eine historische Figur | eine Figur im Spiel¦en=Lars has a good figure.
+B1787¦en=My mother's family is very big, so I have many aunts.
+B1788¦m=zoo¦en=On Sunday we're going to the zoo.
+B1789¦en=I don't understand anything about modern art.
+B3987¦col=Stress vermeiden | Fehler vermeiden | Kontakt vermeiden | vermeiden, dass ...¦en=The doctor says I should avoid stress.
+B1790¦tp=T08¦en=What sights are there in Frankfurt?
+B1791¦tp=T09
+B1792¦en=The flat is not in the city, it is a little outside.
+B5269¦art=die¦pl=Regelungen¦m=regulation; arrangement¦lv=B1¦ex=Für Notfälle gibt es eine besondere Regelung.¦en=There is a special arrangement for emergencies.¦col=eine Regelung treffen | gesetzliche Regelung | neue Regelung | die Regelung gilt
+B1793¦tp=T01¦ck=-¦ef=der Bekannte; die Bekannte; ein Bekannter¦en=An acquaintance of mine is called Klaus.
+B1794¦tp=T13¦col=erst morgen | erst recht | erst einmal | erst jetzt¦en=We can only come tomorrow.
+B1795¦pos=adjective¦en=I am glad that you can come.
+B4171¦col=bis dahin | dahin fahren | dahin gehen | dahin sein¦en=The train arrives in 30 minutes. Until then we can have a coffee.
+B1797¦en=We stay overnight in a youth hostel.
+B1798¦pos=adjective¦tp=T05¦rg=informal¦m=knocked out; exhausted¦ex=Nach der langen Reise bin ich k.o.¦en=After the long journey I'm exhausted.
+B1799¦ps=fährt los¦en=We leave at 8 o'clock. Please be on time.
+B3874¦ex=Das ist ohne Zweifel die beste Lösung.¦en=That is without doubt the best solution.
+B1800¦tp=T08¦en=On holiday we stayed in a small guesthouse.
+B1801¦tp=T08¦ex=Er schreibt einen Reisebericht über Italien.¦en=He is writing a travel report about Italy.
+B1802¦pos=adjective¦en=Please bring me a clean glass!
+B5270¦m=to blame; guilty¦nt=schuld sein an + Dat.¦en=I had an accident. But it wasn't my fault.¦col=schuld sein | selber schuld | schuld haben | keine Schuld
+B1803¦tp=T08¦ex=Der Schaffner kontrolliert die Fahrkarten.¦en=The conductor checks the tickets.
+B1804¦tp=T08¦ex=Die Schaffnerin ruft die nächste Station aus.¦en=The conductor announces the next station.
+B1805¦pos=adverb¦tp=T16¦en=The trousers really are too small, although they look so big.¦col=tatsächlich passieren | tatsächlich stimmen | die tatsächliche Zahl | tatsächlich nicht
+B2679¦en=Please share the chocolate. Everyone gets half.
+B1806¦tp=T08¦ps=übernachtet¦pt=übernachtete¦pf=hat übernachtet¦en=You can stay the night at my place.
+B1807¦pt=verpasste¦en=I missed the train.
+B1808¦pt=weckte¦en=Please wake me tomorrow at five in the morning.
+B4091¦tp=T16¦m=to plan to do; to undertake¦ex=Ich habe mir vorgenommen, mehr Sport zu treiben.¦en=I have resolved to do more sport.¦col=sich etwas vornehmen | Änderungen vornehmen | eine Untersuchung vornehmen | sich viel vornehmen
+B1809¦tp=T08¦pt=fuhr zurück¦ex=Wir fahren morgen nach Hause zurück.¦en=Tomorrow we're driving back home.
+B1810¦tp=T08¦pt=fand zurück¦ex=Ich finde allein nicht zurück.¦en=I can't find my way back alone.
+B1811¦pl=Arten¦tp=T16¦m=type; kind; way¦en=In the zoo they have 34 different kinds of birds.
+B5271¦m=as long as¦en=As long as you have a fever, you must not go to work.
+B1812¦tp=T15¦ck=-¦ex=„Wer“ ist ein Fragewort.¦en=“Wer” is an interrogative word.
+B1813¦tp=T16¦en=You gave up your job. For what reason?
+B1814¦pl=Weisen¦tp=T16¦ex=Auf diese Weise geht es schneller.¦en=This way it is quicker.
+B5272¦m=outside¦en=We only saw the castle from the outside.¦col=von außen | nach außen | außen vor | außen stehen
+B1815¦tp=T10¦rg=informal¦ps=chillt¦pt=chillte¦pf=hat gechillt¦ex=Am Sonntag chille ich zu Hause.¦en=On Sunday I chill at home.
+B1816¦tp=T16¦ps=gehört¦pt=gehörte¦pf=hat gehört¦g=+ Dat. | zu + Dat.¦en=Whose is this?
+B1817¦tp=T16¦ex=Meine Lieblingsfarbe ist Blau.¦en=My favourite colour is blue.
+B5273¦pos=preposition¦g=+ Gen. | + von¦m=on the basis of¦lv=B1¦ex=Anhand der Fotos kann man das erkennen.¦en=You can recognise that from the photos.
+B1818¦tp=T08¦en=We are going on a trip to Austria.
+B1819¦tp=T10¦ex=Skifahren macht mir viel Spaß.¦en=I really enjoy skiing.
+B1820¦en=I recorded the film on video.
+B5061¦tp=T15¦ex=Bedenken Sie bitte die Kosten.¦en=Please bear the costs in mind.¦col=die Folgen bedenken | zu bedenken geben | alles bedenken | bedenken, dass ...
+B1821¦pos=adjective¦tp=T14¦en=The food tastes wonderful.
+B1822¦tp=T04¦ex=Das Deutschbuch liegt auf dem Tisch.¦en=The German book is on the table.
+B1823¦en=I would like to book a flight to Canada.
+B5274¦pos=pronoun¦tp=T16¦m=each other¦lv=B1¦ex=Wir helfen einander.¦en=We help each other.
+B1824¦tp=T15¦ck=-¦ex=Die Wortliste steht am Ende des Buchs.¦en=The word list is at the end of the book.
+B1825¦tp=T08¦ex=Norden ist eine Himmelsrichtung.¦en=North is a cardinal direction.
+B1827¦tp=T08¦ex=Im Norden von Deutschland liegt das Meer.¦en=The sea is in the north of Germany.
+B2000¦ps=betont¦pt=betonte¦pf=hat betont¦ex=Der Arzt betont, wie wichtig Bewegung ist.¦en=The doctor stresses how important exercise is.¦col=etwas betonen | besonders betonen | die Silbe betonen | nochmals betonen
+B1828¦tp=T08¦ex=Im Osten geht die Sonne auf.¦en=The sun rises in the east.
+B1829¦tp=T08¦ex=Im Süden gibt es hohe Berge.¦en=In the south there are high mountains.
+B1830¦pos=adverb¦ex=Vorne rechts sitzt der Lehrer.¦en=The teacher sits at the front right.
+B2781¦tp=T16¦ps=existiert¦pt=existierte¦pf=hat existiert¦ex=Dieses Geschäft existiert nicht mehr.¦en=This shop no longer exists.¦col=nicht mehr existieren | weiterhin existieren | existieren können | noch existieren
+B1831¦tp=T08¦ex=Im Westen liegt der Rhein.¦en=The Rhine lies in the west.
+B1832¦en=The Zugspitze is the highest mountain in Germany.
+B1833¦pos=adjective¦en=It is cloudy today.
+B2298¦tp=T01¦ps=kümmert sich¦pt=kümmerte sich¦pf=hat sich gekümmert¦col=sich um etwas kümmern | sich um Kinder kümmern | sich um Patienten kümmern | kümmere dich darum¦en=Every mother takes care of her small children.
+B1834¦en=From the castle you have a nice view.
+B1835¦tp=T13¦en=Today it is thirty degrees.
+B1836¦en=It's raining. Unfortunately our picnic is cancelled. – What bad luck!
+B4539¦tp=T10¦ps=formt¦pt=formte¦pf=hat geformt¦m=to shape; to form¦ex=Sie formt eine Figur aus Ton.¦en=She shapes a figure out of clay.¦col=aus Ton formen | einen Menschen formen | Buchstaben formen | den Charakter formen
+B1837¦pt=schneite¦en=Tomorrow it will snow.
+B1838¦pos=adjective¦en=Tomorrow the weather will be warm and sunny again.
+B1839¦en=I'd like to have my own company, that is my dream.
+B4078¦col=irgendwann einmal | irgendwann später | irgendwann mal | irgendwann am Tag¦en=I have seen you somewhere at some point.
+B1840¦tp=T15¦ck=-¦ex=Ich schicke dir eine Urlaubsnachricht vom Strand.¦en=I'll send you a holiday message from the beach.
+B1841¦en=Have you heard the weather report yet?
+B1842¦tp=T11¦en=The wind is coming from the east.
+B5275¦m=to kiss¦en=He took her in his arms and kissed her.¦col=jemanden küssen | sich küssen | auf die Wange küssen | zum Abschied küssen
+B1843¦en=There are many clouds in the sky.
+B1845¦en=There is a lot of snow in the mountains.
+B3471¦col=eine ausgezeichnete Leistung | ausgezeichnet schmecken | ausgezeichnet Deutsch sprechen | ausgezeichnet sein¦en=Food and accommodation were excellent.
+B1846¦pos=adjective¦en=It is very windy today.
+B1847¦en=Yesterday it was terribly hot!
+B1848¦tp=T11¦rg=colloquial¦ck=-¦ex=Bei dem Mistwetter bleibe ich zu Hause.¦en=In this awful weather I'm staying at home.
+B2689¦m=material; fabric; substance¦en=What kind of material is this? – Wool.
+B1849¦tp=T11¦ps=schüttet¦pt=schüttete¦pf=hat geschüttet
+B1850¦pos=adverb¦col=selten vorkommen | sehr selten | nur selten | eine seltene Krankheit¦en=I very rarely go to the cinema.

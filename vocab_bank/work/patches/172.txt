@@ -1,0 +1,49 @@
+B5138¦m=every; each; everyone¦tp=T16
+B5139¦m=which¦tp=T16
+B5141¦m=away; gone¦tp=T16
+B5146¦m=great; super¦tp=T14
+B5169¦pos=adverb¦m=whereby; in doing which¦lv=C1¦ex=Er sprach lange, wobei er oft lachte.¦en=He talked for a long time, laughing often while doing so.
+B5418¦pos=adverb¦m=through which; whereby¦lv=C1¦ex=Er hat viel geübt, wodurch er besser geworden ist.¦en=He practised a lot, as a result of which he has improved.
+B5494¦pos=adverb¦m=what for; why¦lv=B2¦ex=Wozu brauchst du das Geld?¦en=What do you need the money for?
+B5730¦pos=adverb¦m=to what extent¦lv=C1¦ex=Inwieweit stimmt das?¦en=To what extent is that true?
+B5762¦pos=adverb¦m=in what; wherein¦lv=C1¦ex=Worin liegt der Unterschied?¦en=What is the difference?
+B5777¦m=chat message¦lv=B2¦tp=T10¦pl=Chat-Nachrichten¦ex=Ich habe eine Chat-Nachricht von ihr bekommen.¦en=I received a chat message from her.
+B5779¦m=cloud solution¦lv=C1¦tp=T10¦pl=Cloud-Lösungen¦ex=Die Firma nutzt eine Cloud-Lösung für die Daten.¦en=The company uses a cloud solution for the data.
+B5780¦m=you-message (accusatory statement)¦lv=B2¦tp=T15¦pl=Du-Botschaften¦ex=Eine Du-Botschaft klingt oft wie ein Vorwurf.¦en=A you-message often sounds like an accusation.
+B5781¦m=electric car¦lv=B2¦tp=T08¦pl=E-Autos¦ex=Mein Nachbar fährt ein E-Auto.¦en=My neighbour drives an electric car.
+B5785¦m=company campaign¦lv=C1¦tp=T03¦pl=Firmen-Kampagnen¦ex=Die Firmen-Kampagne startet im Mai.¦en=The company campaign starts in May.
+B5787¦m=game development¦lv=C1¦tp=T10¦pl=–¦ex=Er arbeitet in der Game-Entwicklung.¦en=He works in game development.
+B5791¦m=I-message¦lv=B2¦tp=T15¦pl=Ich-Botschaften¦ex=Mit einer Ich-Botschaft sagt man ruhig, was man fühlt.¦en=With an I-message you calmly say what you feel.
+B5797¦m=marketing agency¦lv=B2¦tp=T03¦pl=Marketing-Agenturen¦ex=Sie arbeitet in einer Marketing-Agentur.¦en=She works at a marketing agency.
+B5798¦m=marketing report¦lv=C1¦tp=T03¦pl=Marketing-Berichte¦ex=Der Marketing-Bericht liegt auf dem Tisch.¦en=The marketing report is on the table.
+B5800¦m=online conversation¦lv=B2¦tp=T10¦pl=Online-Gespräche¦ex=Wir führen das Online-Gespräch um zehn Uhr.¦en=We are holding the online conversation at ten o'clock.
+B5801¦m=online group¦lv=B2¦tp=T10¦pl=Online-Gruppen¦ex=Ich bin in einer Online-Gruppe für Eltern.¦en=I am in an online group for parents.
+B5802¦m=online concept¦lv=C1¦tp=T10¦pl=Online-Konzepte¦ex=Das Online-Konzept der Schule funktioniert gut.¦en=The school's online concept works well.
+B5803¦m=online network¦lv=B2¦tp=T10¦pl=Online-Netzwerke¦ex=Viele Jugendliche nutzen ein Online-Netzwerk.¦en=Many young people use an online network.
+B5804¦m=online addiction¦lv=C1¦tp=T05¦pl=–¦ex=Online-Sucht ist ein wachsendes Problem.¦en=Online addiction is a growing problem.
+B5806¦m=radio report¦lv=B2¦tp=T10¦pl=Radio-Beiträge¦ex=Ich habe einen Radio-Beitrag über Gesundheit gehört.¦en=I heard a radio report about health.
+B5808¦m=smartphone use¦lv=B2¦tp=T10¦pl=–¦ex=Die Smartphone-Nutzung nimmt zu.¦en=Smartphone use is increasing.
+B5811¦m=tech industry¦lv=C1¦tp=T03¦pl=Technik-Branchen¦ex=Sie arbeitet in der Technik-Branche.¦en=She works in the tech industry.
+B5813¦m=top staff¦lv=C1¦tp=T03¦pl=–¦ex=Die Klinik sucht Top-Personal.¦en=The clinic is looking for top staff.
+B5818¦m=weather app¦lv=B1¦tp=T11¦pl=Wetter-Apps¦ex=Die Wetter-App zeigt Regen an.¦en=The weather app shows rain.
+B5820¦m=sense of togetherness¦lv=C1¦tp=T01¦pl=–¦ex=Das Wir-Gefühl im Team ist stark.¦en=The sense of togetherness in the team is strong.
+B5928¦m=LED light¦lv=B2¦tp=T02¦pl=LED-Lichter¦ex=Das LED-Licht spart Strom.¦en=The LED light saves electricity.
+B5930¦m=medical jargon¦lv=C1¦tp=M4¦pl=–¦ex=Die Mediziner-Sprache ist für Patienten oft schwer.¦en=Medical jargon is often difficult for patients.
+B5972¦pos=adverb¦m=to what extent; in what way¦lv=C1¦ex=Inwiefern ist das ein Problem?¦en=In what way is that a problem?
+B6050¦m=e-mobility¦lv=C1¦tp=T08¦pl=–¦ex=Die E-Mobilität wird in Städten wichtiger.¦en=E-mobility is becoming more important in cities.
+B6060¦m=trade fair presentation¦lv=C1¦tp=T03¦pl=Messe-Präsentationen¦ex=Die Messe-Präsentation dauert zehn Minuten.¦en=The trade fair presentation lasts ten minutes.
+B6118¦m=fashion designer (m)¦lv=B2¦tp=T03¦pl=Mode-Designer¦ex=Der Mode-Designer zeigt seine neue Kollektion.¦en=The fashion designer shows his new collection.
+B6128¦m=online petition¦lv=C1¦tp=T12¦pl=Online-Petitionen¦ex=Über 10.000 Menschen unterschrieben die Online-Petition.¦en=Over 10,000 people signed the online petition.
+B6149¦m=Turkish¦tp=T08¦ex=Wir essen heute türkisch.¦en=Today we are eating Turkish food.
+B6153¦m=two hundred¦tp=T13¦ex=Das Buch kostet zweihundert Euro.¦en=The book costs two hundred euros.
+B6190¦m=CD player
+B6197¦m=piano experiment¦lv=C1¦tp=T10¦pl=Klavier-Experimente¦ex=Das Klavier-Experiment war ein großer Erfolg.¦en=The piano experiment was a great success.
+B6201¦m=GPS system¦lv=B2¦tp=T08¦pl=GPS-Systeme¦ex=Das GPS-System zeigt den Weg zur Klinik.¦en=The GPS system shows the way to the clinic.
+B6205¦m=yoga class¦lv=A2¦tp=T10¦pl=Yoga-Kurse¦ex=Ich besuche einen Yoga-Kurs am Abend.¦en=I attend a yoga class in the evening.
+B6252¦m=online meeting¦lv=B2¦tp=T03¦pl=Online-Meetings¦ex=Das Online-Meeting beginnt um neun Uhr.¦en=The online meeting begins at nine.
+B6372¦m=bank card (Austrian)¦rg=regional¦tp=T07¦en=You can also pay with a bank card.
+B6406¦m=e-card (Austrian health insurance card)¦rg=regional¦tp=T09¦pl=e-cards¦en=Do you have your e-card with you?
+B6416¦m=twenty-one¦tp=T13¦ex=Meine Tochter ist einundzwanzig Jahre alt.¦en=My daughter is twenty-one years old.
+B6515¦m=online meeting¦lv=B2¦tp=T03¦pl=Online-Besprechungen¦ex=Die Online-Besprechung dauert eine Stunde.¦en=The online meeting lasts one hour.
+B6540¦m=rhetoric competition¦lv=C1¦tp=T04¦pl=Rhetorik-Wettbewerbe¦ex=Sie hat den Rhetorik-Wettbewerb gewonnen.¦en=She won the rhetoric competition.
+B6631¦m=one hundred and one¦tp=T13¦ex=Die Zahl hunderteins hat drei Stellen.¦en=The number one hundred and one has three digits.

@@ -1,0 +1,42 @@
+B0714¦pos=adjective¦en=I had the flu. Now I'm healthy again.¦ef=gesünder – am gesündesten
+B0715¦pos=adjective¦tp=T13¦m=half; (halb neun) half past eight¦nt=halb neun = 8:30 (half way to nine).¦en=I have breakfast at half past seven.¦col=halb acht | ein halbes Jahr | halb so viel | halb voll
+B0716¦en=In our canteen you can eat cheaply.
+B5176¦pos=adjective¦lv=B1¦tp=T03¦m=busy; employed¦ex=Ich bin diese Woche sehr beschäftigt.¦en=I am very busy this week.¦col=beschäftigt sein | sehr beschäftigt | bei einer Firma beschäftigt | mit etwas beschäftigt sein
+B0717¦col=nur manchmal | manchmal ... manchmal ... | ab und zu und manchmal | manchmal schon¦en=Sometimes we eat at a restaurant.
+B0718¦tp=T13¦ex=Zu Mittag esse ich in der Kantine.¦en=At noon I eat in the canteen.
+B0719¦ex=Mittags esse ich meistens warm.¦en=At noon I usually eat a hot meal.
+B5177¦art=das¦pl=Völker¦m=people; nation¦lv=B1¦ex=Das Volk wählt das Parlament.¦en=The people elect the parliament.
+B0721¦tp=T13¦en=Tomorrow school starts at 10 a.m.
+B0722¦ex=Morgens trinke ich immer einen Kaffee.¦en=In the mornings I always drink a coffee.
+B0723¦m=in the afternoon¦ex=Nachmittags habe ich Unterricht.¦en=In the afternoons I have class.
+B3403¦pos=adverb¦en=Max's speaker doesn't work, so he's getting it repaired.¦nt=Also: darum bitten = to ask for it.
+B0724¦tp=T16¦en=That doesn't matter.
+B0725¦tp=T16¦en=I'd just like a glass of water.
+B0726¦tp=T06¦en=In summer fruit is cheap.
+B2762¦col=für die Kinder sorgen | für Ruhe sorgen | sich Sorgen machen | dafür sorgen, dass ...¦en=Who is looking after the children, then?
+B0727¦en=My favourite food is pizza.
+B0728¦tp=T05¦pt=schlief¦en=I usually sleep for eight hours.
+B0729¦tp=T06¦ex=Heute Abend essen wir Sushi.¦en=Tonight we are having sushi.
+B1939¦pos=adverb¦en=I'll probably do a German course in autumn.
+B0731¦ex=Vormittags bin ich im Büro.¦en=In the mornings I am in the office.
+B0732¦pos=adjective¦en=Have you been awake for long?
+B0733¦tp=T16¦m=little; few¦en=Unfortunately I only understood a little.
+B3857¦pos=adjective¦en=To make mistakes is human.
+B0734¦tp=T15¦ps=erzählt¦pt=erzählte¦pf=hat erzählt¦m=to tell; to narrate¦en=We have to tell you something!
+B0735¦tp=T13¦m=morning (before noon)¦ex=Am Vormittag habe ich einen Termin beim Arzt.¦en=In the morning I have a doctor's appointment.
+B0736¦tp=T15¦ck=-¦ex=Wir zeichnen eine Mindmap zum Thema Gesundheit.¦en=We are drawing a mind map on the topic of health.
+B3909¦en=The plants need new soil.¦m=earth; soil; ground
+B0737¦en=Romeo and Juliet are a couple.
+B0738¦tp=T15¦en=Today we are talking about the topic “Food and Drink”.
+B0739¦tp=T15¦ex=Welche Assoziationen haben Sie zu dem Wort „Gesundheit“?¦en=What associations do you have with the word “health”?
+B3249¦en=The weather is so great today: the sky is blue and there are no clouds.
+B0740¦en=I've remembered again what the book is called.¦gov=+ Dat.
+B0741¦pos=adjective¦tp=T16
+B0742¦en=Do you know a good method for learning German quickly?
+B5178¦pos=adjective¦m=serious¦en=The heavy traffic is a serious problem.¦col=ein ernstes Problem | ernst nehmen | ernst meinen | ernste Folgen
+B0743¦pos=adjective¦tp=T15¦ex=Der Text ist thematisch geordnet.¦en=The text is organised by topic.
+B0744¦tp=T15¦ck=-¦ex=Markieren Sie die Wortgruppen im Satz.¦en=Mark the word groups in the sentence.
+B5179¦pos=conjunction¦m=neither ... nor (weder ... noch)¦lv=B1¦ex=Er hat weder Zeit noch Geld.¦en=He has neither time nor money.¦col=weder ... noch ... | weder A noch B | weder gut noch schlecht
+B0747¦tp=T08¦m=old town; historic city centre¦ex=Die Altstadt ist für Autos gesperrt.¦en=The old town is closed to cars.
+B0748¦tp=T03¦ex=Meine Arbeitszeit beginnt um acht Uhr.¦en=My working hours begin at eight o'clock.
+B0749¦pt=beantwortete¦en=Can you please answer my question?

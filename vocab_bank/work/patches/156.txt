@@ -1,0 +1,97 @@
+B4751¦tp=T12¦ex=In Deutschland gibt es Meinungsfreiheit.¦en=There is freedom of opinion in Germany.
+B5675¦m=database¦lv=B2¦art=die¦pl=Datenbanken¦ex=Die Daten sind in einer Datenbank gespeichert.¦en=The data are stored in a database.
+B4753¦tp=T09¦ps=alarmiert¦pt=alarmierte¦pf=hat alarmiert¦ex=Der Nachbar hat sofort die Feuerwehr alarmiert.¦en=The neighbour alerted the fire brigade immediately.
+B4754¦tp=T03¦ex=Die Arbeitssuche kann lange dauern.¦en=The job search can take a long time.
+B4755¦tp=T04¦ps=bildet aus¦pt=bildete aus¦pf=hat ausgebildet¦ex=Die Firma bildet jedes Jahr zehn Lehrlinge aus.¦en=The company trains ten apprentices every year.
+B5676¦m=to take off; to lose weight; to decrease¦en=Tomorrow we can take the bandage off.
+B4756¦ck=-¦tp=T09¦ex=An der Ausgabestelle bekommen Sie Ihre Unterlagen.¦en=You will get your documents at the issuing counter.
+B4757¦pos=adjective¦tp=T12¦ex=Die Stadt hilft bedürftigen Familien.¦en=The city helps families in need.
+B4758¦ck=-¦tp=T09¦ex=Nach dem Umzug stehen viele Behördengänge an.¦en=After the move there are many visits to the authorities.
+B5677¦m=panic¦lv=B2¦art=die¦pl=–¦tp=M2¦ex=Bei Panik atmen manche Menschen sehr schnell.¦en=In a panic some people breathe very fast.
+B4759¦tp=T09¦ex=Die Berufsfeuerwehr war in fünf Minuten da.¦en=The professional fire brigade was there in five minutes.
+B4760¦tp=T14¦ps=bewältigt¦pt=bewältigte¦pf=hat bewältigt¦ex=Sie bewältigt den Stress im Beruf gut.¦en=She copes well with the stress at work.
+B4761¦pos=adjective¦tp=T12¦m=voluntary (unpaid)¦ex=Sie arbeitet ehrenamtlich im Tierheim.¦en=She works as a volunteer at the animal shelter.
+B5678¦pos=adjective¦m=operative; surgical¦lv=C1¦ex=Der Tumor wurde operativ entfernt.¦en=The tumour was removed surgically.
+B4763¦tp=M4¦ex=Beim Unfall hat er Erste Hilfe geleistet.¦en=He gave first aid at the accident.
+B4764¦tp=T09¦ex=Die Feuerwehrleute löschen das Feuer.¦en=The firefighters put out the fire.
+B4766¦tp=T11¦ex=Nach dem Regen gab es Hochwasser.¦en=After the rain there was flooding.
+B5120¦tp=T16¦m=concept; conception¦ex=Die Konzeption des Projekts ist abgeschlossen.¦en=The conception of the project is complete.
+B4767¦tp=T01¦ex=Die Jugendgruppe trifft sich jeden Freitag.¦en=The youth group meets every Friday.
+B4769¦m=private tutoring¦ex=Mein Sohn bekommt Nachhilfe in Mathe.¦en=My son gets tutoring in maths.
+B4770¦tp=T13¦ex=Zur Nachtzeit ist es in der Stadt ruhig.¦en=At night it is quiet in the city.
+B5679¦pos=adjective¦m=guilty; owing¦en=What do I owe you? – 50 euros, please.
+B4773¦tp=T01¦ex=Mein Pate schenkt mir jedes Jahr ein Buch.¦en=My godfather gives me a book every year.
+B4774¦tp=T01¦ex=Sie hat die Patenschaft für das Kind übernommen.¦en=She has taken on the godparenthood for the child.
+B4775¦tp=T01¦ex=Meine Patin wohnt in Wien.¦en=My godmother lives in Vienna.
+B5680¦m=hill¦en=We are taking a break on this hill.
+B4777¦tp=T12¦ps=spendet¦pt=spendete¦pf=hat gespendet¦ex=Viele Menschen spenden Geld für die Opfer.¦en=Many people donate money for the victims.
+B4779¦tp=T10¦ex=Jedes Vereinsmitglied zahlt einen kleinen Beitrag.¦en=Every club member pays a small fee.
+B4781¦ck=-¦tp=T06¦ex=Zum Frühstück esse ich eine Apfelsine.¦en=For breakfast I eat an orange.
+B5681¦pos=adjective¦m=diverse; various¦lv=C1¦ex=Wir bieten diverse Kurse an.¦en=We offer various courses.
+B4782¦en=Do you like the apricots?
+B4783¦tp=T06¦ex=Zum Frühstück esse ich ein Croissant.¦en=For breakfast I eat a croissant.
+B4784¦en=You get thirsty from hot spices.
+B5682¦m=caution; care¦tp=T16¦pl=–¦en=Careful! A car is coming.
+B4785¦en=Please give me 500 g of minced meat.
+B4786¦tp=T06¦ex=Ich möchte zwei Hörnchen, bitte.¦en=I would like two croissants, please.
+B4787¦tp=T06¦ex=Heute gibt es Hühnchen mit Reis.¦en=Today there is chicken with rice.
+B5683¦pos=adjective¦m=blond¦en=Lisa has blond hair.
+B4788¦ck=-¦ex=Möchtest du Ketchup zu den Pommes?¦en=Would you like ketchup with the chips?
+B4789¦tp=T06¦en=Please bring another jar of jam.
+B4790¦en=My wife only eats margarine and no butter.
+B5684¦m=dragon¦lv=B2¦art=der¦pl=Drachen¦ex=Im Märchen kämpft der Ritter gegen einen Drachen.¦en=In the fairy tale the knight fights a dragon.
+B4791¦ck=-¦tp=T06¦ex=Milchprodukte sind im Kühlregal.¦en=Dairy products are in the refrigerated section.
+B4793¦en=I like eating plums, and I like plum cake even more.
+B4794¦tp=T06¦ex=Zum Nachtisch gibt es Pudding.¦en=There is pudding for dessert.
+B5685¦m=fuse; securing¦lv=C1¦art=die¦pl=Sicherungen¦ex=Die Sicherung ist durchgebrannt.¦en=The fuse has blown.
+B4795¦tp=T06¦m=quark (fresh curd cheese)¦ex=Zum Frühstück esse ich Quark mit Obst.¦en=For breakfast I eat quark with fruit.
+B4796¦tp=T06¦ex=Der Kuchen wird mit Schlagsahne serviert.¦en=The cake is served with whipped cream.
+B4797¦en=Could you pass me the sauce, please?
+B5686¦m=to wipe; to mop¦lv=B2¦ps=wischt¦pt=wischte¦pf=hat gewischt¦ex=Ich wische den Boden jede Woche.¦en=I mop the floor every week.
+B4798¦tp=T06¦ex=Für den Kuchen brauche ich Vollmilch.¦en=For the cake I need whole milk.
+B4799¦tp=T06¦ps=würzt¦pt=würzte¦pf=hat gewürzt¦ex=Sie würzt die Suppe mit Salz und Pfeffer.¦en=She seasons the soup with salt and pepper.
+B4800¦ck=-¦tp=T06¦ex=Im Herbst backe ich Kuchen mit Zwetschgen.¦en=In autumn I bake cake with plums.
+B5687¦m=to rub; to grate¦lv=B2¦ps=reibt¦pt=rieb¦pf=hat gerieben¦ex=Reiben Sie bitte den Käse.¦en=Please grate the cheese.
+B4802¦tp=T15¦ex=Das Passiv bildet man mit werden und dem Partizip II.¦en=The passive is formed with werden and the past participle.
+B4803¦ck=-¦tp=T15¦ex=Der Passivsatz betont die Handlung.¦en=The passive sentence emphasises the action.
+B4804¦ck=-¦tp=T15¦ex=Welche Passivform ist richtig?¦en=Which passive form is correct?
+B5688¦m=camp¦ex=Im Sommer fahren die Kinder in ein Camp.¦en=In summer the children go to a camp.
+B4805¦tp=T09¦ex=Wir haben Ihre Anfrage erhalten.¦en=We have received your enquiry.
+B4806¦pos=adjective¦tp=T12¦m=nationwide¦ex=Das Gesetz gilt bundesweit.¦en=The law applies nationwide.
+B4808¦tp=T09¦rf=sich¦ps=meldet ab¦pt=meldete ab¦pf=hat abgemeldet¦m=to deregister; to sign off¦ex=Ich muss mich beim Einwohnermeldeamt abmelden.¦en=I have to deregister at the registration office.
+B5689¦pos=adjective¦m=illegal¦en=Working without a tax card is illegal. If it comes out you will have to pay a fine.
+B4809¦tp=T09¦ex=Im Einwohnermeldeamt melde ich meinen Wohnsitz an.¦en=At the registration office I register my place of residence.
+B4810¦ck=-¦tp=T09¦m=city information office¦ex=Die Stadtinformation gibt Stadtpläne aus.¦en=The city information office hands out city maps.
+B4812¦en=Let us vote on this point.
+B5690¦m=lawn¦tp=T11¦en=Please do not walk on the grass!
+B4813¦tp=T07¦m=to deduct; to pull off¦ex=Die Steuern werden vom Lohn abgezogen.¦en=Taxes are deducted from the wages.
+B4814¦tp=T03¦m=employment office (job centre)¦ex=Ich war gestern beim Arbeitsamt.¦en=I was at the employment office yesterday.
+B4815¦tp=T03¦ex=Sie arbeitet in einem Architekturbüro.¦en=She works in an architecture firm.
+B5691¦m=senior citizens; elderly people¦en=This computer course is for senior citizens.
+B4816¦tp=T06¦ex=Eine Brezel kostet einen Euro.¦en=A pretzel costs one euro.
+B4817¦tp=T12¦ex=Die Bürgerversammlung findet im Rathaus statt.¦en=The town meeting takes place in the town hall.
+B4819¦ck=-¦tp=T01¦m=parents' café¦ex=Im Elterncafé treffen sich Eltern zum Austausch.¦en=Parents meet in the parents' café to chat.
+B5692¦m=compulsion; coercion¦lv=C1¦tp=T12¦pl=Zwänge¦ex=Es gibt keinen Zwang, an dem Kurs teilzunehmen.¦en=There is no compulsion to take part in the course.
+B4820¦ck=-¦pos=adjective¦tp=T01¦m=without parents¦ex=Am Samstag ist die Party elternfrei.¦en=On Saturday the party is parent-free.
+B4821¦en=How can I dispose of my old coffee machine?
+B4823¦en=I do not know how I am supposed to finance the car.
+B5693¦m=scientist¦en=She is a scientist at the university.
+B4826¦tp=T06¦en=I will quickly fetch a few bread rolls for breakfast.
+B4828¦ck=-¦tp=T04¦ex=Das Sommerprojekt der Schule beginnt im Juli.¦en=The school's summer project begins in July.
+B4829¦ck=-¦tp=T10¦m=play city (children's mock town)¦ex=In der Spielstadt führen Kinder eine eigene Stadt.¦en=In the play city children run their own town.
+B5694¦m=processing; handling¦lv=B2¦art=die¦pl=Bearbeitungen¦ex=Die Bearbeitung des Antrags dauert zwei Wochen.¦en=Processing the application takes two weeks.
+B4830¦m=substitute; cover; representation¦en=Dr Meyer will cover for me.
+B4832¦tp=T10¦ex=Sie schreibt ein Weblog über ihre Reisen.¦en=She writes a weblog about her travels.
+B4833¦en=We cannot drive here. This is a pedestrian zone.
+B5695¦pos=adverb¦m=meanwhile; however¦lv=C1¦ex=Er wartete; indes wurde es dunkel.¦en=He waited; meanwhile it grew dark.
+B4836¦pos=adjective¦en=The colleague will surely come soon. He is always very reliable.
+B4837¦ck=-¦ps=organisiert mit¦pt=organisierte mit¦pf=hat mitorganisiert¦tp=T10¦ex=Ich organisiere das Fest mit.¦en=I am co-organising the party.
+B4838¦tp=T10¦ex=Der Organisator begrüßt die Gäste.¦en=The organiser welcomes the guests.
+B5696¦m=hall¦en=We rented a small hall for our family celebration.
+B4839¦tp=T10¦ex=Die Organisatorin plant das ganze Programm.¦en=The organiser plans the whole programme.
+B4840¦pos=particle¦tp=T15¦rg=regional¦m=right? isn't it? (South German tag question)¦ex=Das Wetter ist schön, gell?¦en=The weather is nice, isn't it?
+B4841¦tp=T08¦m=to go there¦ex=Gehst du auch hin?¦en=Are you going there too?
+B5697¦m=sociology¦lv=C1¦art=die¦pl=–¦ex=Sie studiert Soziologie.¦en=She studies sociology.
+B4842¦tp=T15¦pl=Partikeln¦ex=Ja und doch sind Partikeln.¦en=Ja and doch are particles.
+B4844¦tp=T06¦ps=räumt ab¦pt=räumte ab¦pf=hat abgeräumt¦ex=Kannst du bitte den Tisch abräumen?¦en=Can you clear the table, please?
+B4845¦en=You only pay on delivery.

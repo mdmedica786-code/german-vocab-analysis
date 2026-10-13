@@ -1,0 +1,100 @@
+P0760¦m=a second time¦lv=B1¦ex=Ich lese den Text ein zweites Mal.¦en=I read the text a second time.¦v=nochmals | erneut
+P0761¦ph=behaupten, dass ...¦m=to claim that ...¦lv=B2¦ex=Er behauptet, dass er nichts gewusst hat.¦en=He claims that he didn't know anything.¦gn=dass-Satz: Verb am Ende¦v=sagen, dass | vorgeben, dass
+P0762¦m=far away¦lv=A2¦ex=Meine Eltern wohnen weit weg.¦en=My parents live far away.¦v=entfernt | in der Ferne
+P0763¦ph=die meisten von ihnen¦m=most of them¦lv=B1¦ex=Die meisten von ihnen sprechen schon gut Deutsch.¦en=Most of them already speak German well.¦gn=von + Dat.¦v=die Mehrheit | fast alle
+P0764¦m=in autumn¦lv=A1¦ex=Im Herbst fallen die Blätter.¦en=In autumn the leaves fall.¦gn=im + Dat.: Jahreszeit¦v=herbsts | in den Herbstmonaten
+P0765¦ph=zum Beispiel in ...¦m=for example in ...¦lv=B1¦ex=Das gibt es überall, zum Beispiel in Deutschland.¦en=That exists everywhere, for example in Germany.¦v=etwa in | wie in
+P0766¦ph=es sieht aus, als ob ...¦m=it looks as if ...¦lv=B2¦ex=Es sieht aus, als ob es gleich regnet.¦en=It looks as if it's going to rain soon.¦gn=als ob + Konjunktiv II oder Indikativ¦v=es scheint, dass | anscheinend
+P0767¦ph=keinen Sinn machen¦m=to make no sense¦lv=B2¦ex=Das macht keinen Sinn.¦en=That makes no sense.¦gn=Anglizismus; besser: keinen Sinn haben¦v=keinen Sinn haben | sinnlos sein
+P0768¦m=not any more today¦lv=B1¦ex=Heute geht das nicht mehr.¦en=That doesn't work any more today.¦v=nicht mehr heute | heute leider nicht mehr
+P0769¦ph=werden in der Regel ...¦m=are usually ...¦lv=B2¦ex=Die Daten werden in der Regel anonym erhoben.¦en=The data are usually collected anonymously.¦gn=Passiv Plural: werden + Partizip II¦ck=dup:P0019
+P0770¦ph=die Frage ist, ob/wie ...¦m=the question is whether/how ...¦lv=B2¦ex=Die Frage ist, wie wir das bezahlen.¦en=The question is how we pay for that.¦gn=Nebensatz mit ob/wie: Verb am Ende¦v=es geht darum, ob | fraglich ist, ob
+P0771¦ph=weit von ... entfernt¦m=far from ...¦lv=B1¦ex=Das Krankenhaus ist weit von hier entfernt.¦en=The hospital is far from here.¦gn=von + Dat.¦v=nicht weit von | fern von
+P0772¦m=throughout the day¦lv=B2¦ex=Trinken Sie den ganzen Tag über Wasser.¦en=Drink water throughout the day.¦gn=Akk. der Zeit + über¦v=den ganzen Tag | tagsüber
+P0773¦m=to a certain extent¦lv=C1¦ex=Zu einem gewissen Grad stimmt das.¦en=To a certain extent that is true.¦v=teilweise | bis zu einem gewissen Punkt
+P0774¦m=hardly any more¦lv=B2¦ex=Ich habe kaum mehr Geld.¦en=I hardly have any money left.¦v=fast nichts mehr | nur noch wenig
+P0775¦m=as a first step¦lv=C1¦ex=In einem ersten Schritt prüfen wir die Blutwerte.¦en=As a first step we check the blood values.¦v=zuerst | zunächst
+P0776¦m=in this phase¦lv=B2¦ex=In dieser Phase ist Ruhe wichtig.¦en=In this phase rest is important.¦v=in diesem Stadium | zu diesem Zeitpunkt
+P0777¦fn=Sonstige¦m=hello; good day¦lv=A1¦ex=Guten Tag, ich habe einen Termin.¦en=Hello, I have an appointment.¦gn=Begrüßung, formell¦v=Hallo | Grüß Gott
+P0778¦fn=Sonstige¦ex=Bis bald, ich freue mich auf dich!¦en=See you soon, I'm looking forward to seeing you!¦gn=Verabschiedung¦v=bis demnächst | bis gleich
+P0779¦fn=Sonstige¦m=goodbye¦ex=Auf Wiedersehen, bis nächste Woche!¦en=Goodbye, until next week!¦gn=Verabschiedung, formell¦v=tschüs | bis bald
+P0780¦fn=Sonstige¦m=good night¦ex=Gute Nacht, schlaf gut!¦en=Good night, sleep well!¦gn=Verabschiedung am späten Abend¦v=schlaf gut | träum was Schönes
+P0781¦fn=Sonstige¦m=good evening¦ex=Guten Abend, was darf es sein?¦en=Good evening, what can I get you?¦gn=Begrüßung am Abend¦v=Hallo | Abend
+P0782¦fn=Sonstige¦m=good morning¦ex=Guten Morgen, haben Sie gut geschlafen?¦en=Good morning, did you sleep well?¦gn=Begrüßung am Morgen¦v=Morgen | Moin
+P0783¦ph=von ... bis ...¦fn=Zeit¦m=from ... to/until ...¦gn=von + Dat. ... bis + Zeit¦v=ab ... bis
+P0784¦fn=Sonstige¦rg=informal¦m=hello (southern German/Austrian)¦ex=Grüß Gott, Frau Huber!¦en=Hello, Mrs Huber!¦gn=süddeutsch und österreichisch¦v=Servus | Hallo
+P0785¦fn=Ort¦m=on foot
+P0786¦fn=Sonstige¦m=enjoy your meal¦ex=Guten Appetit, lasst es euch schmecken!¦en=Enjoy your meal, dig in!¦gn=vor dem Essen¦v=Mahlzeit | lasst es euch schmecken
+P0787¦fn=Sonstige¦m=see you later¦ex=Bis später, ich komme gegen acht.¦en=See you later, I'll come at about eight.¦v=bis nachher | bis gleich
+P0788¦fn=Sonstige¦m=cheers¦ex=Zum Wohl, auf deine Gesundheit!¦en=Cheers, to your health!¦gn=beim Anstoßen¦v=Prost | auf dein Wohl
+P0789¦fn=Zeit¦m=to have lunch¦ex=Wir essen heute zu Mittag in der Kantine.¦en=We are having lunch in the canteen today.¦gn=zu Mittag: feste Wendung¦v=Mittag essen | zu Mittag speisen
+P0790¦ph=zu Hause¦fn=Ort¦m=at home¦ex=Ich bin heute den ganzen Tag zu Hause.¦en=I'm at home all day today.¦gn=zu Hause = Ort; nach Hause = Richtung¦v=daheim | in der Wohnung
+P0791¦fn=Sonstige¦m=goodbye (on the phone)¦ex=Danke für den Anruf, auf Wiederhören!¦en=Thanks for calling, goodbye!¦gn=nur am Telefon/Radio¦v=tschüs | bis bald
+P0792¦fn=Sonstige¦m=thank you very much¦ex=Danke schön für die Einladung!¦en=Thank you very much for the invitation!¦v=vielen Dank | herzlichen Dank
+P0793¦fn=Sonstige¦ex=Wir sehen uns morgen. Bis dann!¦en=We'll see each other tomorrow. See you then!¦v=bis später | bis bald
+P0794¦fn=Zeit¦m=again (already)¦ex=Der Bus hat schon wieder Verspätung.¦en=The bus is late again.¦gn=drückt Ärger/Überraschung aus¦v=wieder einmal | erneut
+P0795¦fn=Sonstige¦ex=Gute Besserung! Bleib im Bett und ruh dich aus.¦en=Get well soon! Stay in bed and rest.¦gn=Wunsch an Kranke¦v=werde schnell gesund | alles Gute
+P0796¦m=no longer¦lv=A2¦ex=Ich arbeite nicht mehr in der Klinik.¦en=I no longer work in the clinic.¦v=nicht länger | nie wieder
+P0797¦m=a few; a couple¦lv=A2¦en=We're going to the seaside for a few days.¦gn=klein: ein paar = einige¦v=einige | wenige
+P0798¦fn=Höflich¦m=pardon? / excuse me?¦ex=Wie bitte? Können Sie das wiederholen?¦en=Pardon? Can you repeat that?¦gn=bei Nichtverstehen¦v=Entschuldigung? | Was haben Sie gesagt?
+P0799¦fn=Menge¦lv=A2
+P0800¦ph=nicht nur ...¦m=not only ...¦lv=B1¦ex=Er ist nicht nur nett, sondern auch klug.¦en=He is not only nice but also clever.¦gn=nicht nur ..., sondern auch ...¦v=sowohl ... als auch | außerdem
+P0801¦fn=Ort¦m=over there; up ahead¦ex=Da vorne ist die Haltestelle.¦en=The stop is up ahead.¦gn=da vorne = nicht weit weg¦v=dort vorn | vorn
+P0802¦ph=von ... nach ...¦fn=Ort¦m=from ... to ...¦ex=Der Zug fährt von Berlin nach München.¦en=The train goes from Berlin to Munich.¦gn=von + Dat. ... nach + Ort¦v=ab ... nach | zwischen ... und
+P0803¦ph=von ... zu ...¦fn=Ort¦m=from ... to ...¦ex=Ich gehe von meinem Büro zu dir.¦en=I'm going from my office to you.¦gn=von + Dat. ... zu + Dat. (Person/Gebäude)¦v=von ... nach | ab ... zu
+P0804¦fn=Zeit¦m=first (of all)¦ex=Ich trinke erst mal einen Kaffee.¦en=First I'll have a coffee.¦gn=umgangssprachlich für „erst einmal“¦v=zuerst | zunächst
+P0805¦ph=so ein ...¦fn=Menge¦m=such a ...¦ex=So ein Wetter hatten wir lange nicht!¦en=We haven't had weather like that for a long time!¦gn=so ein + Nomen: Ausruf¦v=solch ein | was für ein
+P0806¦fn=Sonstige¦m=all the best¦ex=Alles Gute zum Geburtstag!¦en=All the best for your birthday!¦v=viel Glück | herzlichen Glückwunsch
+P0807¦fn=Sonstige¦m=a thousand thanks¦ex=Tausend Dank für deine Hilfe!¦en=A thousand thanks for your help!¦gn=umgangssprachlich: starke Dankbarkeit¦v=vielen Dank | herzlichen Dank
+P0808¦fn=Ort¦m=there and back; return¦ex=Eine Fahrkarte nach Köln, hin und zurück, bitte.¦en=A ticket to Cologne, return, please.¦v=hin und zurück = Rückfahrkarte¦v=Hin- und Rückfahrt | retour
+P0809¦fn=Zustimmen¦m=all right then¦ex=Also gut, dann treffen wir uns um acht.¦en=All right then, we'll meet at eight.¦gn=Zustimmung nach Zögern¦v=na gut | meinetwegen
+P0810¦fn=Ort¦m=out (of the house)¦ex=Frau Mankel ist leider außer Haus.¦en=Mrs Mankel is out of the office, I'm afraid.¦gn=Büro: nicht anwesend¦v=nicht da | unterwegs
+P0811¦fn=Zeit¦m=ever; before¦ex=Warst du schon mal in Wien?¦en=Have you ever been to Vienna?¦gn=umgangssprachlich: schon einmal¦v=schon einmal | bereits
+P0812¦ph=an ... vorbei¦fn=Ort¦m=past ...¦gn=an + Dat. ... vorbei¦v=vorbei an | an ... entlang
+P0813¦ph=gegenüber von ...¦fn=Ort¦m=opposite ...¦ex=Die Apotheke liegt gegenüber von der Bank.¦en=The pharmacy is opposite the bank.¦gn=von + Dat.¦v=gegenüber + Dat. | auf der anderen Seite
+P0814¦ph=außerhalb von ...¦fn=Ort¦m=outside ...¦ex=Das Krankenhaus liegt außerhalb von Berlin.¦en=The hospital is outside Berlin.¦gn=von + Dat. oder Gen.¦v=außerhalb + Gen. | nicht in
+P0815¦ph=immer wenn ...¦fn=Zeit¦m=whenever ...¦ex=Immer wenn ich ihn sehe, lächelt er.¦en=Whenever I see him, he smiles.¦gn=wenn-Satz: Verb am Ende¦v=jedes Mal, wenn | sooft
+P0816¦fn=Zeit¦m=never again¦ex=Das mache ich nie mehr!¦en=I will never do that again!¦v=nie wieder | niemals mehr
+P0817¦ph=Acht geben¦fn=Sonstige¦m=to be careful¦ex=Gib Acht auf die Stufe!¦en=Watch out for the step!¦gn=Acht geben auf + Akk.¦v=aufpassen | achtgeben
+P0818¦lv=A2¦en=Give my regards to everyone, especially Mrs Meier.¦gn=vor allem = besonders¦v=besonders | insbesondere
+P0819¦fn=Ort¦ex=Meine Oma kommt am Wochenende zu Besuch.¦en=My grandma is coming to visit at the weekend.¦gn=Perfekt: ist zu Besuch gekommen¦v=vorbeikommen | besuchen
+P0820¦fn=Sonstige¦ex=Das Hemd muss man von Hand waschen.¦en=The shirt has to be washed by hand.¦v=manuell | mit der Hand
+P0821¦ph=von einem ... auf den anderen¦fn=Zeit¦gn=von einem Tag auf den anderen = plötzlich¦v=plötzlich | von heute auf morgen
+P0822¦fn=Sonstige¦gn=zu tun haben mit + Dat.¦v=zusammenhängen mit | betreffen
+P0823¦ph=von ... aus¦fn=Ort¦gn=von ... aus: Ausgangspunkt¦v=ab | aus
+P0824¦fn=Sonstige¦ex=Er hat einfach so die Tür zugemacht.¦en=He just closed the door, just like that.¦gn=umgangssprachlich¦v=ohne Grund | grundlos
+P0825¦lv=B2¦v=imstande sein | fähig sein
+P0826¦fn=Sonstige¦gn=aus den Augen verlieren + Akk.¦v=den Kontakt verlieren | aus dem Blick verlieren
+P0827¦fn=Sonstige¦gn=beim Alten bleiben = unverändert¦v=sich nichts ändern | alles beim Alten lassen
+P0828¦fn=Zeit¦ex=Der Film ist um zehn Uhr zu Ende.¦en=The film ends at ten o'clock.¦gn=zu Ende sein = beendet sein¦v=vorbei sein | aus sein
+P0829¦ph=einerseits ..., andererseits ...¦fn=Gegensatz¦ex=Einerseits möchte ich reisen, andererseits fehlt mir das Geld.¦en=On the one hand I'd like to travel, on the other hand I lack the money.¦gn=zweiteilig; Gegenüberstellung¦v=auf der einen Seite ..., auf der anderen Seite ...
+P0830¦fn=Sonstige¦m=heavy metal (music)¦ex=Mein Bruder hört gern Heavy Metal.¦en=My brother likes listening to heavy metal.¦gn=Anglizismus: Musikrichtung, kein Phraseologismus¦ck=drop?
+P0831¦ph=zwar ..., aber ...¦fn=Gegensatz¦m=indeed ..., but ...¦ex=Er ist zwar jung, aber sehr erfahren.¦en=He is young, but very experienced.¦gn=zwar ..., aber ... = Einräumung¦v=obwohl ..., | einerseits ...
+P0832¦ph=nicht ..., sondern ...¦fn=Gegensatz¦ex=Ich trinke nicht Kaffee, sondern Tee.¦en=I'm not drinking coffee but tea.¦gn=sondern nach Verneinung¦v=kein ..., sondern ... | statt ... | stattdessen
+P0833¦fn=Sonstige¦ex=Ich muss bald eine Entscheidung treffen.¦en=I must make a decision soon.¦gn=treffen + Akk.: eine Entscheidung treffen¦v=entscheiden | sich entscheiden
+P0834¦ph=im Lauf(e) der Zeit¦fn=Zeit¦gn=im Lauf(e) + Gen.¦v=im Laufe der Zeit | allmählich
+P0835¦fn=Sonstige¦ex=Das Gespräch kam ins Stocken.¦en=The conversation faltered.¦gn=Perfekt: ist ins Stocken gekommen¦v=stocken | stillstehen
+P0836¦ph=um ... herum¦fn=Ort¦ex=Um das Haus herum wachsen Rosen.¦en=Roses grow around the house.¦gn=um + Akk. ... herum¦v=rund um | ringsum
+P0837¦fn=Sonstige¦ex=Man darf diese Regel nicht außer Acht lassen.¦en=You must not disregard this rule.¦gn=lassen + Akk.¦v=nicht beachten | übersehen
+P0838¦ph=je ..., desto ...¦fn=Vergleichen¦ex=Je mehr ich lerne, desto besser verstehe ich.¦en=The more I study, the better I understand.¦gn=je + Komparativ, desto + Komparativ¦ck=dup:P0097
+P0839¦fn=Sonstige¦m=Switzerland (Latin name)¦lv=B2¦ex=Auf Schweizer Münzen steht „Confoederatio Helvetica“.¦en=On Swiss coins it says "Confoederatio Helvetica".¦ck=drop?
+P0840¦m=not at all¦lv=A2¦ex=Das stört mich gar nicht.¦en=That doesn't bother me at all.¦v=überhaupt nicht | keineswegs
+P0841¦m=but also¦lv=B1¦ex=Er ist nicht nur Arzt, aber auch Musiker.¦en=He is not only a doctor but also a musician.¦gn=nicht nur ..., sondern auch ...; „aber auch“ = zusätzlich¦v=und auch | ebenfalls
+P0842¦m=not yet¦lv=A1¦ex=Ich habe noch nicht gegessen.¦en=I haven't eaten yet.¦v=bis jetzt nicht | bislang nicht
+P0843¦ph=ich glaube nicht, dass ...¦m=I don't think that ...¦lv=B1¦ex=Ich glaube nicht, dass das stimmt.¦en=I don't think that's true.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0046
+P0844¦ph=ich weiß nicht, ob ...¦m=I don't know whether ...¦lv=B1¦ex=Ich weiß nicht, ob er zu Hause ist.¦en=I don't know whether he is at home.¦gn=ob-Satz: Verb am Ende¦ck=dup:P0387
+P0845¦ph=für den Fall, dass ...¦m=in case ...¦lv=B2¦ex=Ich lege dir einen Zettel hin, für den Fall, dass du mich suchst.¦en=I'll leave you a note, in case you look for me.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0107
+P0846¦ph=ich weiß nicht, was ...¦m=I don't know what ...¦lv=B1¦ex=Ich weiß nicht, was er will.¦en=I don't know what he wants.¦gn=was-Satz: Verb am Ende¦ck=dup:P0393
+P0847¦ph=ich weiß nicht, wie ...¦m=I don't know how ...¦lv=B1¦ex=Ich weiß nicht, wie spät es ist.¦en=I don't know what time it is.¦gn=wie-Satz: Verb am Ende¦ck=dup:P0442
+P0848¦ph=nichts anderes übrig bleiben, als ...¦m=to have no other choice but ...¦lv=B2¦ex=Mir bleibt nichts anderes übrig, als zu warten.¦en=I have no choice but to wait.¦gn=übrig bleiben + Dat.; als ... zu + Infinitiv¦v=keine andere Wahl haben, als | müssen
+P0849¦ph=es ist zu beachten, dass ...¦m=it must be noted that ...¦lv=B2¦ex=Es ist zu beachten, dass die Praxis montags geschlossen ist.¦en=It must be noted that the practice is closed on Mondays.¦gn=sein + zu + Infinitiv = Passiversatz¦ck=dup:P0111
+P0850¦ph=es tut mir leid, dass ...¦m=I'm sorry that ...¦lv=B1¦ex=Es tut mir leid, dass ich zu spät bin.¦en=I'm sorry that I'm late.¦gn=dass-Satz: Verb am Ende¦v=ich bedauere, dass | entschuldige, dass
+P0851¦ph=das erste Mal, dass ...¦m=the first time that ...¦lv=B1¦ex=Das ist das erste Mal, dass ich allein reise.¦en=This is the first time that I am travelling alone.¦gn=dass-Satz: Verb am Ende¦v=zum ersten Mal | erstmals
+P0852¦ph=geht davon aus, dass ...¦m=assumes that ...¦lv=B2¦ex=Der Arzt geht davon aus, dass die Wunde schnell heilt.¦en=The doctor assumes that the wound will heal quickly.¦gn=3. Person Singular; dass-Satz¦ck=dup:P0045
+P0853¦ph=ich bin froh, dass ...¦m=I'm glad that ...¦lv=B1¦ex=Ich bin froh, dass es dir wieder gut geht.¦en=I'm glad that you are well again.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0204
+P0854¦ph=zu dem Schluss kommen, dass ...¦m=to come to the conclusion that ...¦lv=C1¦ex=Er kam zu dem Schluss, dass es keinen Sinn hat.¦en=He came to the conclusion that it makes no sense.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0397
+P0855¦ph=darauf zu achten, dass ...¦m=to pay attention to ...¦lv=B2¦ex=Bitte vergessen Sie nicht, darauf zu achten, dass die Tür zu ist.¦en=Please don't forget to make sure the door is shut.¦gn=zu + Infinitiv; dass-Satz¦ck=dup:P0244
+P0856¦ph=darauf hinweisen, dass ...¦m=to point out that ...¦lv=B2¦ex=Der Arzt weist darauf hin, dass man viel trinken soll.¦en=The doctor points out that one should drink a lot.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0142
+P0857¦ph=davon auszugehen sein, dass ...¦m=it is to be assumed that ...¦lv=C1¦ex=Es ist davon auszugehen, dass die Zahlen steigen.¦en=It is to be assumed that the numbers will rise.¦gn=sein + zu + Infinitiv = Passiversatz¦ck=dup:P0271
+P0858¦ph=in der Hoffnung, dass ...¦m=in the hope that ...¦lv=B2¦ex=Ich rufe an, in der Hoffnung, dass du Zeit hast.¦en=I'm calling in the hope that you have time.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0191
+P0859¦ph=es stellte sich heraus, dass ...¦m=it turned out that ...¦lv=B2¦ex=Es stellte sich heraus, dass der Test falsch war.¦en=It turned out that the test was wrong.¦gn=Präteritum; dass-Satz: Verb am Ende¦v=es zeigte sich, dass | wie sich zeigte, ...

@@ -1,0 +1,99 @@
+B3912¦en=The harvest is good this year.
+B4854¦tp=T16¦m=special feature; peculiarity¦ex=Eine Besonderheit dieser Stadt ist ihre Lage am Fluss.¦en=A special feature of this city is its location on the river.
+B3913¦tp=T11¦ps=erntet¦pt=erntete¦pf=hat geerntet¦ex=Im Herbst ernten die Bauern die Äpfel.¦en=In autumn the farmers harvest the apples.
+B3916¦tp=T11¦ex=Die Klimaerwärmung bedroht viele Länder.¦en=Global warming threatens many countries.
+B3917¦tp=T11¦ex=Der Klimawandel verändert unser Leben.¦en=Climate change is changing our lives.
+B5515¦m=to wave¦en=Everyone stood on the platform and waved goodbye.
+B3920¦pos=adjective¦tp=T11¦m=ecological; organic¦ex=Die Familie lebt sehr ökologisch.¦en=The family lives very ecologically.
+B3923¦en=The police stopped me because I ran a red light.
+B3924¦en=The country has to spend more money on environmental protection.
+B5516¦m=hypothesis¦lv=C1¦art=die¦pl=Hypothesen¦ex=Die Hypothese muss noch überprüft werden.¦en=The hypothesis still has to be tested.
+B3925¦en=Environmental pollution continues to increase.
+B3928¦tp=T11¦ps=vernichtet¦pt=vernichtete¦pf=hat vernichtet¦ex=Das Feuer hat die ganze Ernte vernichtet.¦en=The fire destroyed the whole harvest.
+B3929¦ps=verringert¦pt=verringerte¦pf=hat verringert¦ex=Wir wollen den Stromverbrauch verringern.¦en=We want to reduce electricity consumption.
+B5517¦m=care; nursing¦lv=B1¦art=die¦pl=–¦tp=M4¦ex=Die Pflege der Patienten erfordert viel Geduld.¦en=The care of patients requires a lot of patience.¦col=häusliche Pflege | in der Pflege arbeiten | Pflege benötigen | Pflege der Haut
+B3930¦tp=T11¦ps=verschwendet¦pt=verschwendete¦pf=hat verschwendet¦ex=Wir sollten kein Wasser verschwenden.¦en=We should not waste water.
+B3934¦tp=T11¦ex=Mein ökologischer Fußabdruck ist zu groß.¦en=My ecological footprint is too big.
+B3935¦tp=T02¦ex=Der Geschirrspüler ist leider kaputt.¦en=The dishwasher is unfortunately broken.
+B5518¦pos=conjunction¦m=instead of¦lv=B1¦ex=Anstatt zu lernen, schaut er fern.¦en=Instead of studying, he watches TV.
+B3936¦m=glass bottle¦tp=T06¦ex=Wasser aus der Glasflasche schmeckt mir besser.¦en=Water from a glass bottle tastes better to me.
+B3938¦tp=T11¦ex=Plastikflaschen belasten die Umwelt.¦en=Plastic bottles burden the environment.
+B3941¦ck=-¦tp=T02¦ex=Meine Duschzeit beträgt nur fünf Minuten.¦en=My shower time is only five minutes.
+B5519¦pos=adjective¦m=integrated¦lv=B2¦tp=T12¦ex=Sie ist gut in die Gesellschaft integriert.¦en=She is well integrated into society.
+B3942¦pos=adjective¦tp=T16¦ex=Moderne Geräte arbeiten sehr effizient.¦en=Modern appliances work very efficiently.
+B3943¦ck=-¦tp=T11¦ex=Die Einwegflasche wird nach dem Gebrauch weggeworfen.¦en=The disposable bottle is thrown away after use.
+B3944¦pos=verb¦m=to warm; to heat¦tp=T11¦ps=erwärmt¦pt=erwärmte¦pf=hat erwärmt¦ex=Die Sonne erwärmt das Wasser im See.¦en=The sun warms the water in the lake.
+B5520¦pos=adjective¦m=living; alive¦lv=B2¦ex=Der Fisch wurde lebend gefangen.¦en=The fish was caught alive.
+B3946¦pos=adjective¦tp=T10¦ex=Ich lese lieber gedruckte Bücher.¦en=I prefer to read printed books.
+B3947¦pos=adjective¦en=I checked the bill. Everything is correct.
+B3948¦ck=-¦tp=T11¦ex=Eine Mehrwegflasche kann man oft wieder benutzen.¦en=A reusable bottle can be used many times.
+B5521¦m=information; education; enlightenment¦lv=C1¦art=die¦pl=–¦tp=M4¦ex=Vor der Operation erfolgt die Aufklärung des Patienten.¦en=Before the operation the patient is given the informed-consent briefing.
+B3949¦tp=T11¦ex=Die Ökobilanz von Elektroautos ist umstritten.¦en=The life-cycle assessment of electric cars is disputed.
+B3950¦ex=Das Resultat der Untersuchung kommt morgen.¦en=The result of the examination arrives tomorrow.
+B3952¦ck=-¦tp=T11¦ex=Der Ökovergleich zeigt, welche Tasche besser ist.¦en=The eco-comparison shows which bag is better.
+B5522¦m=smell; odour¦lv=B1¦art=der¦pl=Gerüche¦ex=Ein unangenehmer Geruch kam aus der Küche.¦en=An unpleasant smell came from the kitchen.
+B3954¦ck=-¦tp=T11¦ex=Die Pfandflasche bringe ich zum Supermarkt zurück.¦en=I take the deposit bottle back to the supermarket.
+B3955¦tp=T07¦ex=Die Energiekosten sind im Winter höher.¦en=Energy costs are higher in winter.
+B3956¦tp=T15¦ex=Ein Punkt und ein Komma sind Satzzeichen.¦en=A full stop and a comma are punctuation marks.
+B4726¦ck=-¦tp=T12¦m=member of parliament (MP)¦ex=Die Abgeordnete hält eine Rede im Bundestag.¦en=The member of parliament gives a speech in the Bundestag.
+B3957¦tp=T11¦m=rubbish problem¦ex=Unsere Stadt hat ein großes Müllproblem.¦en=Our city has a big rubbish problem.
+B3959¦tp=T16¦ex=Die Außenseite des Gebäudes ist grau.¦en=The outside of the building is grey.
+B3960¦pos=adjective¦tp=T16¦ex=Das Paket ist leider beschädigt.¦en=The parcel is unfortunately damaged.
+B4319¦m=concentration; (substance) level¦ex=Nach vier Stunden lässt meine Konzentration nach.¦en=After four hours my concentration drops.
+B3965¦tp=T03¦ex=Sie hat eine gute Geschäftsidee.¦en=She has a good business idea.
+B3966¦pos=adjective¦m=durable; long-lasting¦en=These tomatoes keep for at least 2 weeks.
+B3967¦en=You can call me at any time.
+B4831¦tp=T16¦m=plan; project¦ex=Das Vorhaben der Stadt kostet viel Geld.¦en=The city's project costs a lot of money.
+B3968¦tp=T06¦ex=Ich nehme meinen eigenen Kaffeebecher mit.¦en=I take my own coffee mug with me.
+B3969¦pos=adjective¦tp=T16¦ex=Die Gurke ist ganz krumm gewachsen.¦en=The cucumber has grown completely crooked.
+B3970¦en=The chair is made of plastic.
+B5523¦m=operator; owner¦lv=B2¦tp=T03¦pl=Betreiber¦ex=Der Betreiber des Restaurants ist sehr freundlich.¦en=The operator of the restaurant is very friendly.
+B3972¦tp=T11¦ex=Wir produzieren jedes Jahr einen riesigen Müllberg.¦en=Every year we produce a huge mountain of rubbish.
+B3973¦tp=T02¦ex=Wirf das bitte in den Mülleimer.¦en=Please throw that in the rubbish bin.
+B3974¦pos=adjective¦ex=Wir kaufen nur nachhaltige Produkte.¦en=We only buy sustainable products.
+B5524¦m=direction (film, theatre)¦lv=C1¦tp=T10¦pl=–¦ex=Die Regie bei diesem Film führt eine junge Frau.¦en=A young woman is directing this film.
+B3975¦tp=T03¦m=new foundation; start-up¦ex=Die Neugründung der Firma war nicht einfach.¦en=Founding the new company was not easy.
+B3976¦tp=T11¦ex=Wir beziehen nur Ökostrom.¦en=We only use green electricity.
+B3977¦tp=T07¦ex=Ich bestelle gern in einem Online-Shop.¦en=I like ordering from an online shop.
+B4191¦tp=T10¦ex=Der Film hat eine wichtige Auszeichnung bekommen.¦en=The film received an important award.
+B3978¦tp=T07¦ex=Auf der Flasche sind 25 Cent Pfand.¦en=There is a 25-cent deposit on the bottle.
+B3979¦ck=-¦pos=adjective¦tp=T11¦ex=Diese Verpackung ist leider nicht recycelbar.¦en=This packaging is unfortunately not recyclable.
+B3981¦ck=-¦tp=T11¦pl=Solarpanels¦ex=Wir haben ein Solarpanel auf dem Dach.¦en=We have a solar panel on the roof.
+B4325¦tp=T11¦ex=Ein Fuchs läuft über das Feld.¦en=A fox is running across the field.
+B3982¦tp=T11¦m=solar energy¦ex=Sonnenenergie ist umweltfreundlich.¦en=Solar energy is environmentally friendly.
+B3983¦en=There are three sockets in this room.
+B3984¦tp=T13¦m=tonne; bin¦ex=Ein Lastwagen kann viele Tonnen transportieren.¦en=A lorry can transport many tonnes.
+B5525¦m=trained; qualified¦en=For this job you have to be well trained.
+B3988¦tp=T11¦ex=Das ist eine Verschwendung von Wasser.¦en=That is a waste of water.
+B3990¦tp=T07¦ex=Ich bekomme mein Pfand zurück.¦en=I get my deposit back.
+B5526¦m=to enjoy oneself; to amuse oneself¦tp=T10¦en=At the party I enjoyed myself a lot.
+B3991¦tp=T07¦ex=Ich bringe die Flaschen zum Supermarkt zurück.¦en=I take the bottles back to the supermarket.
+B3992¦ck=-¦tp=T06¦ex=Den Pfandbecher gibt man am Stand zurück.¦en=You return the deposit cup at the stall.
+B3995¦ck=-¦tp=T11¦ex=Wegwerfbecher verursachen viel Müll.¦en=Disposable cups cause a lot of rubbish.
+B5527¦pos=adjective¦m=confused¦lv=B2¦tp=T14¦ex=Der alte Mann wirkte verwirrt und desorientiert.¦en=The old man seemed confused and disoriented.
+B3996¦pos=adjective¦en=We should process the data electronically, otherwise it takes too long.
+B3997¦tp=T02¦m=electricity consumption¦ex=Der Stromverbrauch ist im Winter höher.¦en=Electricity consumption is higher in winter.
+B3998¦ck=-¦tp=T11¦ex=Ein guter Umwelttipp ist, weniger Fleisch zu essen.¦en=A good environmental tip is to eat less meat.
+B4506¦ex=Am Wochenende hören wir gern Jazz.¦en=At the weekend we like listening to jazz.
+B3999¦en=The factory pollutes the river.
+B4000¦tp=T15¦ex=Am Satzanfang schreibt man groß.¦en=At the beginning of a sentence you write a capital letter.
+B4003¦en=From his point of view he is right.
+B4565¦tp=T08¦m=district; part of town¦ex=Mein Stadtteil ist ruhig und grün.¦en=My part of town is quiet and green.
+B4004¦tp=T14¦ps=ist überzeugt¦pt=war überzeugt¦pf=ist überzeugt gewesen¦ex=Ich bin von meiner Idee überzeugt.¦en=I am convinced of my idea.
+B4005¦en=I did not have to pay anything. The repair was free.
+B4008¦en=I must disagree with you there.
+B5528¦m=resignation¦lv=C1¦tp=T12¦pl=Rücktritte¦ex=Der Minister hat seinen Rücktritt erklärt.¦en=The minister announced his resignation.
+B4009¦en=What a thunderstorm, did you see the lightning?
+B4010¦en=Last night there was a thunderstorm. There was terrible lightning and thunder.
+B4011¦en=The thunder came a long time after the lightning.
+B5529¦m=perpetrator; culprit¦en=The police have finally caught the culprit.
+B4012¦en=Can you hear it thundering? The storm is getting closer.
+B4014¦en=During a thunderstorm it can also hail.
+B4015¦pos=adjective¦en=Would you like the sauce spicy? – No, please quite mild.
+B4970¦tp=T02¦m=conversion; renovation¦ex=Der Umbau des Hauses dauert drei Monate.¦en=The conversion of the house takes three months.
+B4017¦ck=-¦tp=T11¦ps=nieselt¦pt=nieselte¦pf=hat genieselt¦ex=Draußen nieselt es seit dem Morgen.¦en=It has been drizzling outside since the morning.
+B4018¦pos=adjective¦tp=T11¦ex=Der Herbst ist oft regnerisch.¦en=Autumn is often rainy.
+B4019¦pos=adjective¦tp=T11¦ex=Im Sommer ist es hier oft schwül.¦en=In summer it is often muggy here.
+B5530¦pos=adjective¦m=selected; chosen¦lv=B2¦tp=T16¦ex=Die Preise gelten für ausgewählte Produkte.¦en=The prices apply to selected products.
+B4020¦pos=adjective¦tp=T11¦ex=Heute ist das Wetter sehr stürmisch.¦en=Today the weather is very stormy.
+B4021¦tp=T11¦ex=Wir hatten Traumwetter im Urlaub.¦en=We had dream weather on holiday.

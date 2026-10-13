@@ -1,0 +1,114 @@
+B0001¦tp=T15
+B0002¦tp=T15
+B0003¦tp=T15
+B0006¦tp=T15
+B0007¦pos=adjective¦tp=T16
+B0008¦tp=T15
+B0009¦tp=T15
+B0010¦tp=T15
+B0011¦tp=T15
+B0012¦pos=pronoun¦tp=T16
+B0013¦tp=T15
+B0014¦tp=T15
+B0015¦tp=T16
+B0020¦pos=determiner¦tp=T16¦m=the (definite article, neuter)
+B0021¦tp=T16¦m=the (definite article, masculine)
+B0022¦pos=determiner¦tp=T16¦m=the (definite article, feminine and plural)
+B0030¦tp=T06¦rg=regional¦m=sausage (Austrian)
+B0031¦tp=T16¦m=on; onto; up
+B0033¦pos=determiner¦tp=T16
+B0034¦tp=T16¦m=in; into
+B0035¦tp=T15
+B0037¦pos=adverb¦tp=T16¦m=how; like; as
+B0041¦pos=determiner¦tp=T16¦m=a; an; one (indefinite article)
+B0046¦tp=T16
+B0051¦tp=T16
+B0052¦pos=pronoun¦tp=T16
+B0058¦tp=T16¦m=I
+B0062¦pt=war¦tp=T16
+B0064¦tp=T16
+B0069¦tp=T16
+B0071¦tp=T16
+B0077¦pos=pronoun¦tp=T16
+B0078¦tp=T16
+B0086¦tp=T16
+B0087¦tp=T08
+B0094¦pos=adverb¦tp=T16
+B0095¦tp=T16
+B0098¦pos=determiner¦tp=T16¦m=the (definite article, masculine accusative)
+B0101¦tp=T15
+B0102¦tp=T16
+B0104¦tp=T16
+B0137¦pos=determiner¦tp=T16
+B0139¦tp=T16¦m=to; after; according to
+B0146¦tp=T16
+B0157¦tp=T16
+B0160¦tp=T08
+B0161¦tp=T15
+B0162¦tp=T08¦m=Brazil
+B0163¦tp=T15
+B0164¦tp=T08
+B0165¦tp=T08¦pl=Länder¦m=country; land; countryside
+B0168¦tp=T15¦m=Portuguese
+B0171¦tp=T08
+B0172¦tp=T08
+B0174¦tp=T08
+B0175¦tp=T08
+B0176¦tp=T08
+B0177¦tp=T08
+B0178¦tp=T08
+B0179¦tp=T15
+B0180¦tp=T15¦m=Romansh
+B0181¦tp=T08
+B0182¦tp=T08
+B0183¦tp=T08
+B0185¦tp=T16¦m=to; at; too
+B0197¦tp=T16¦m=about; over; above
+B0199¦tp=T15
+B0222¦tp=T10
+B0227¦tp=T16
+B0228¦pos=preposition¦tp=T16¦m=at the; on the (an dem)
+B0231¦ck=-¦tp=T16¦m=you (pl.); her; their
+B0237¦tp=T16
+B0245¦tp=T16
+B0253¦pos=adverb¦tp=T16
+B0260¦tp=T16
+B0263¦tp=T16
+B0264¦tp=T15
+B0316¦tp=T16
+B0318¦tp=T16
+B0322¦pt=hatte¦tp=T16
+B0323¦tp=T16
+B0334¦tp=T08¦pl=Plätze¦m=room; space; square
+B0346¦pos=numeral¦tp=T13
+B0347¦tp=T13
+B0417¦tp=T10
+B0418¦tp=T16
+B0427¦tp=T10
+B0428¦tp=T10
+B0431¦pos=numeral¦tp=T13
+B0438¦tp=T13
+B0441¦ck=-¦tp=T08
+B0443¦tp=T08
+B0447¦tp=T16¦g=+ Akk.
+B0454¦tp=T10
+B0463¦tp=T16
+B0464¦pos=determiner¦tp=T16
+B0470¦pt=sah¦tp=T16
+B0472¦tp=T08
+B0479¦tp=T08
+B0481¦tp=T08¦m=taxi ride
+B0484¦tp=T10
+B0499¦tp=T02
+B0504¦tp=T16
+B0510¦tp=T08
+B0511¦tp=T08
+B0515¦tp=T08
+B0516¦tp=T08
+B0517¦tp=T08
+B0518¦tp=T16
+B0520¦tp=T08
+B0529¦tp=T08
+B0541¦tp=T16
+B0544¦pos=determiner¦tp=T16
+B0561¦tp=T10
