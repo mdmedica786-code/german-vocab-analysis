@@ -1,0 +1,100 @@
+B0829¦tp=T01¦en=My sister is coming on Tuesday.
+B0830¦ex=Der Techniker repariert die Heizung.¦en=The technician is repairing the heating.
+B4778¦pos=adjective¦m=left over; remaining¦nt=übrig sein / übrig bleiben.¦en=Is there any food left?
+B0831¦ex=Die Technikerin prüft die Maschine.¦en=The technician is checking the machine.
+B0832¦tp=T01¦en=I'm married and have three children.
+B0833¦tp=T01¦en=Unfortunately I have no siblings.
+B3166¦tp=T16¦en=one after the other
+B0834¦tp=T01¦en=My grandparents live in Japan.
+B0835¦tp=T01¦en=My grandmother is called Eva.
+B0836¦tp=T01¦en=My grandfather is already 80.
+B3451¦en=I'm putting the shelf on the right against the wall.
+B0837¦tp=T01¦rg=informal¦en=My grandpa is called Hans.
+B0838¦tp=T01¦ck=-¦ef=der Verwandte; die Verwandte; ein Verwandter¦en=Peter is visiting his relatives in Poland.
+B0839¦en=My son paints very well. He has a lot of imagination.
+B2409¦col=etwas erleben | viel erleben | eine Überraschung erleben | das Ende erleben¦en=On our holiday we experienced a lot of lovely things.
+B0840¦tp=T01¦en=My child is still a baby.
+B0841¦tp=T01¦ef=den/dem/des Jungen (n-declension)¦en=I have two children. A boy and a girl.
+B0842¦tp=T01¦en=The Kurz family is expecting a baby. – Boy or girl?
+B2303¦tp=T16¦m=order; tidiness¦en=to tidy up¦col=Ordnung machen | in Ordnung sein | Ordnung halten | alles in Ordnung
+B0843¦en=Many rules have to be observed in road traffic.
+B0844¦tp=T15¦ex=Am Wortende steht oft die Endung -en.¦en=At the end of a word there is often the ending -en.
+B0845¦en=My children like playing ball.
+B2808¦en=Put the contents of the packet into one litre of boiling water.
+B0846¦tp=T10¦ex=Bitte schreiben Sie etwas in unser Gästebuch.¦en=Please write something in our guestbook.
+B0847¦en=On the Freiburg homepage there is all the important information about the city.
+B0848¦tp=T11¦en=The dog is still young.
+B2924¦en=My table has the following dimensions: length 1.20 m, width 0.60 m, height 0.80 m.
+B0849¦en=Oskar rides his motorcycle to work every day.
+B0850¦tp=T10¦en=I do a lot of sport.
+B0852¦pos=adjective¦tp=T15¦en=A warm welcome!
+B3719¦col=sich mit einem Thema beschäftigen | Mitarbeiter beschäftigen | beschäftigt sein | sich mit Kindern beschäftigen¦en=What did you deal with in your job?
+B0853¦ex=Der neue Film ist echt cool.¦en=The new film is really cool.¦rg=informal
+B0854¦tp=T15¦ex=Der Eintrag im Gästebuch ist von gestern.¦en=The entry in the guestbook is from yesterday.
+B0856¦tp=T01¦ex=Auf dem Familienfoto sind alle Verwandten zu sehen.¦en=All the relatives can be seen in the family photo.
+B3386¦pos=adverb¦m=only; just; merely¦en=I don't want to buy anything. I just want to look around.¦col=bloß nicht | bloß weil | wie bloß | nicht bloß ..., sondern auch
+B0857¦tp=T11¦ex=Mein Hamster schläft den ganzen Tag.¦en=My hamster sleeps all day.
+B0858¦pos=interjection¦tp=T15¦rg=informal¦ex=Hey, wie geht's?¦en=Hey, how's it going?
+B0859
+B4102¦col=die Wahrheit sagen | die ganze Wahrheit | in Wahrheit | die Wahrheit herausfinden¦en=Please tell me the truth. Have you been smoking again?
+B0860¦tp=T10¦ex=Mein Bruder spielt Saxofon in einer Band.¦en=My brother plays the saxophone in a band.
+B0861¦en=We're going hiking at the weekend. I know a nice tour in the mountains.
+B0862¦tp=T16¦m=card; ticket; map¦os=-
+B2860¦col=trotzdem noch | und trotzdem | trotzdem gehen | trotzdem nicht¦en=It was quite cold. Still, I went swimming.
+B0863¦pos=conjunction¦tp=T13¦nt=Maths: drei plus vier. Weather: plus drei Grad.¦ex=Drei plus vier ist sieben.¦en=Three plus four is seven.
+B0864¦tp=T15¦ef=Pl. also Pronomina¦ex=„Er“ ist ein Pronomen.¦en=“Er” is a pronoun.
+B0865¦tp=T16¦m=pile; stack; deck¦ex=Auf dem Tisch liegt ein Stapel Bücher.¦en=There is a pile of books on the table.
+B4762¦tp=T16¦m=to fulfil; to meet; to fill¦en=to fulfil an important function¦col=eine Aufgabe erfüllen | Wünsche erfüllen | Bedingungen erfüllen | Erwartungen erfüllen
+B0866¦tp=T16¦nt=ist gezogen = moved (to a place): Wir sind nach Köln gezogen.¦col=an der Leine ziehen | eine Karte ziehen | in eine andere Stadt ziehen | eine Bilanz ziehen
+B0867¦tp=T15¦en=Kind regards.
+B0868¦tp=T04¦en=Can you help me with the homework?
+B2319¦pos=adjective¦en=The city centre of Frankfurt is very modern.¦col=modern eingerichtet | moderne Technik | moderne Kunst | modern denken
+B0870¦pos=adjective¦tp=T14¦ef=lieber – am liebsten¦m=kind; dear; sweet¦en=Kind regards.
+B0871¦tp=T15¦ck=-¦ex=„Können“ ist ein Modalverb.¦en=“Können” is a modal verb.
+B0873¦pos=adjective¦tp=T13¦m=next; nearest¦en=Shall we meet next week?¦col=nächste Woche | der Nächste, bitte | nächstes Jahr | als Nächstes
+B5190¦art=die¦pl=Anwendungen¦m=application; use¦lv=B1¦ex=Die Anwendung der Salbe ist einfach.¦en=Applying the ointment is easy.¦col=Anwendung finden | zur Anwendung kommen | Anwendung eines Medikaments | die richtige Anwendung
+B0874¦tp=T16¦en=My problem is the language.
+B0875¦tp=T13¦ex=Am Sonntagnachmittag gehen wir spazieren.¦en=On Sunday afternoon we go for a walk.
+B0876¦en=I have a lot of stress at work.
+B5134¦pos=adverb¦col=zusätzlich zu | zusätzliche Kosten | zusätzlich arbeiten | zusätzlich bekommen¦en=In future you will have to work an additional hour.
+B0878¦tp=T10¦en=Tonight we're having a party.
+B0879¦ex=Ich war schon dreimal in Berlin.¦en=I've already been to Berlin three times.
+B0880¦tp=T16
+B4620¦col=eine klare Darstellung | grafische Darstellung | Darstellung der Ergebnisse | eine falsche Darstellung¦en=Your book contains a clear presentation of these problems.
+B0881¦tp=T14¦pt=tat leid
+B0882¦pos=adjective¦en=It's a pity that you can't come.
+B0883¦tp=T04¦ex=Ich besuche abends einen Sprachkurs.¦en=In the evenings I attend a language course.
+B5191¦m=to bump; to knock; to push¦med=related¦en=How did you hurt yourself? – I bumped into the car door.¦col=sich den Kopf stoßen | gegen etwas stoßen | auf etwas stoßen | sich an etwas stoßen
+B0884¦pos=adjective¦tp=T16¦en=Our two children are very different.¦col=verschiedene Meinungen | ganz verschieden | verschiedene Möglichkeiten | verschieden aussehen
+B0886¦tp=T15¦en=Is the statement correct or wrong?
+B5192¦m=publisher; publishing house¦en=Which publisher is this book from?
+B0888¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦m=surgery; (doctor's) practice¦col=in die Praxis gehen | eine Praxis eröffnen | Praxis für Allgemeinmedizin | die Praxis ist geöffnet
+B0889¦tp=T16¦pt=tat
+B5193¦m=remedy; means; agent¦med=related¦en=Do you have a remedy for stomach ache?
+B0890¦pos=adjective¦en=Our neighbour is very polite. He is always the first to say hello.
+B0891¦tp=T14¦ex=Höflichkeit ist im Beruf sehr wichtig.¦en=Politeness is very important at work.
+B0892¦tp=T07¦ef=den/dem/des Kunden (n-declension)¦en=One moment, please. I have a customer.
+B3664¦col=die Struktur erklären | klare Struktur | Struktur des Textes | Strukturen verändern¦en=Explain the content and structure of your presentation.
+B0893¦en=One moment, please. I have a customer.
+B0894¦pos=adjective¦tp=T14¦nt=open (not closed) / open-minded.
+B0895¦tp=T04¦ck=-¦ex=Jeder Partner bekommt eine Rollenkarte.¦en=Each partner gets a role card.
+B2164¦pos=adjective¦tp=T05¦en=His father has been dead for a long time.¦col=tot aufgefunden werden | für tot erklären | schon lange tot
+B0896¦tp=T04¦ex=Die Sprachschule liegt in der Innenstadt.¦en=The language school is in the city centre.
+B0897¦tp=T15¦ex=Das Telefongespräch dauerte zehn Minuten.¦en=The phone call lasted ten minutes.
+B0898¦col=sich etwas überlegen | lange überlegen | hin und her überlegen | kurz überlegen¦en=I can't decide. I still have to think it over.
+B3918¦ex=Die Stadt plant neue Maßnahmen gegen den Lärm.¦en=The city is planning new measures against noise.
+B0899¦pos=adjective¦tp=T14¦ex=Es ist unhöflich, immer zu spät zu kommen.¦en=It is impolite always to arrive late.
+B0900¦pt=vereinbarte¦m=to arrange; to agree¦en=Can we arrange an appointment?
+B0901¦pt=bereitete vor¦en=Tomorrow I'm having a party. I still have a lot to prepare for it.
+B3462¦tp=T16¦g=+ Dat.¦ex=Das Ergebnis entspricht unseren Erwartungen.¦en=The result meets our expectations.¦col=den Erwartungen entsprechen | den Vorschriften entsprechen | der Wahrheit entsprechen | der Beschreibung entsprechen
+B0902¦col=vorher anrufen | kurz vorher | einen Tag vorher | wie vorher¦en=I'm coming along to the café. But first I have to go to the bank.
+B0903¦tp=T10¦en=Let's sit at the bar!
+B0904¦en=Sorry, Mr Schmidt is still in a meeting.
+B5194¦m=lip¦en=It is very cold. My lips are quite dry.
+B0905¦tp=T16¦ps=ist da¦pt=war da¦pf=ist da gewesen¦m=to be there; to be present¦ex=Ist Frau Müller schon da?¦en=Is Mrs Müller already here?
+B0906¦tp=T13¦ex=Der Bus kommt in fünf Minuten.¦en=The bus comes in five minutes.
+B0907¦tp=T14¦ex=Pünktlichkeit ist in Deutschland sehr wichtig.¦en=Punctuality is very important in Germany.
+B5195¦m=to shake¦en=The bottle must be shaken before opening.¦col=den Kopf schütteln | die Hand schütteln | vor Gebrauch schütteln | sich schütteln
+B0908¦tp=T16¦pt=saß¦en=Where are you sitting?
+B0909¦tp=T13¦ex=Der Bus braucht eine halbe Stunde.¦en=The bus takes half an hour.
+B0910¦tp=T13¦ex=Warten Sie bitte eine Sekunde.¦en=Please wait a second.

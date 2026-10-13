@@ -1,0 +1,100 @@
+B4178¦pos=adverb¦rg=colloquial¦m=myself/himself/etc.; on one's own¦en=She wants to do it herself.¦col=selber machen | selber schuld | von selber | selber sagen
+B0911¦en=Our train is unfortunately 15 minutes late.
+B0912¦tp=T15¦ex=„Um acht Uhr“ ist eine Zeitangabe.¦en=“At eight o'clock” is a time expression.
+B0913¦tp=T15¦ps=entschuldigt¦pt=entschuldigte¦pf=hat entschuldigt¦m=to excuse; to apologise (sich entschuldigen)
+B4339¦en=Where is my passport? I had put it into my handbag.¦col=den Schlüssel ins Schloss stecken | in Schwierigkeiten stecken | im Stau stecken | dahinter stecken
+B0914¦pos=adjective¦tp=T13¦en=The bus leaves at eight o'clock sharp.
+B0915¦tp=T15¦ex=Am Satzende steht ein Punkt.¦en=At the end of the sentence there is a full stop.
+B0916¦tp=T15¦ck=-¦ex=Das Verb bildet mit dem Partizip eine Satzklammer.¦en=The verb forms a sentence bracket with the participle.
+B2055¦col=ziemlich gut | ziemlich viel | ziemlich lange | ziemlich sicher¦en=I am already quite tired. I'm going to bed.
+B0917¦tp=T13¦ex=Zu welcher Tageszeit trainierst du?¦en=At what time of day do you train?
+B0918¦tp=T01¦ps=feiert¦pt=feierte¦pf=hat gefeiert¦en=Today we are celebrating my birthday.
+B0919¦tp=T10¦ex=Ich gehe zweimal pro Woche ins Fitness-Studio.¦en=I go to the gym twice a week.
+B4772¦col=die Organisation übernehmen | Organisation eines Festes | gute Organisation | internationale Organisation¦en=The organisation of the party was very good.
+B0920¦tp=T10¦ck=-¦ex=Wandern ist meine liebste Freizeitaktivität.¦en=Hiking is my favourite leisure activity.
+B0921¦tp=T15¦ps=glaubt¦pt=glaubte¦pf=hat geglaubt¦g=an + Akk. | + Dat.
+B0922¦en=The children climbed up the tree.
+B4863
+B0923¦ef=Pl. also Skier¦en=Shall we go skiing at the weekend?
+B0924¦tp=T10¦ps=wandert¦pt=wanderte¦pf=ist gewandert¦en=We are hiking around Lake Chiemsee.
+B0925¦tp=T10¦ex=Wir spielen ein Wort als Pantomime vor.¦en=We act out a word as a mime.
+B3994¦m=to demand; to ask for¦en=Overtime every day? You can't demand that.¦col=einen Preis verlangen | zu viel verlangen | Geld verlangen | von jemandem verlangen, dass ...
+B0926¦tp=T10¦ck=-¦ex=Wer kann das Ratebild lösen?¦en=Who can solve the picture puzzle?
+B0927¦tp=T16¦en=What is it, then?
+B0928¦tp=T01¦pt=lud ein¦g=zu + Dat.¦en=May I treat you to a coffee?
+B3530¦pos=adjective¦tp=T14¦m=conscious; deliberate¦ex=Sie hat sich bewusst für das Studium entschieden.¦en=She consciously decided to study.¦col=sich bewusst sein | bewusst machen | bewusst leben | bewusst entscheiden
+B0929¦tp=T10¦ex=Am Sonntag machen wir eine Fahrradtour am Rhein.¦en=On Sunday we are going on a bike ride along the Rhine.
+B0930¦pos=interjection¦tp=T15¦rg=informal¦ex=Hi, wie geht's dir?¦en=Hi, how are you?
+B0931¦pos=adjective¦tp=T16¦m=clear; of course (colloq.)
+B5135¦en=When we moved into the flat, it was in a very bad condition.
+B0932¦col=gut klingen | seltsam klingen | komisch klingen | wie klingt das
+B0933¦en=On Sunday we are having a picnic.
+B0934¦pt=schenkte¦col=jemandem Blumen schenken | zum Geburtstag schenken | Aufmerksamkeit schenken | Vertrauen schenken¦en=What shall we give Michael for his birthday?
+B2210¦en=Think of the future.
+B0935¦en=I have a surprise for you.
+B0938¦pos=adverb¦tp=T16¦en=What is special about a birthday?¦col=besonders gut | besonders wichtig | nicht besonders | besonders schön
+B0939¦tp=T13¦en=Please also write the date on the form.
+B5196¦art=das¦pl=Elemente¦m=element¦lv=B1¦ex=Wasser ist ein wichtiges Element der Natur.¦en=Water is an important element of nature.¦col=ein wichtiges Element | chemisches Element | Elemente kombinieren | Element der Überraschung
+B0940¦tp=T13¦ck=-¦ex=„Erste“ ist eine Ordinalzahl.¦en=“Erste” is an ordinal number.
+B0941¦tp=T16¦ps=stellt auf¦pt=stellte auf¦pf=hat aufgestellt¦m=to set up; to put up; to draw up¦ex=Wir stellen die Tische für das Fest auf.¦en=We are setting up the tables for the party.
+B0942¦tp=T08¦ps=holt ab¦pt=holte ab¦pf=hat abgeholt¦en=When can I pick up the wardrobe at your place?
+B5197¦pos=adjective¦m=available; present¦lv=B1¦ex=Ist noch ein Zimmer vorhanden?¦en=Is there still a room available?¦col=vorhanden sein | nicht mehr vorhanden | genug vorhanden | Platz ist vorhanden
+B0943¦art=die¦pl=–¦tp=T15¦m=attention; watch out; respect
+B0944¦tp=T13¦pt=fing an¦en=The Bahnhofstraße begins here.
+B0945¦tp=T15¦ps=ruft an¦pt=rief an¦pf=hat angerufen¦en=Can I call you?
+B5198¦pos=conjunction¦m=before¦nt=Formal/literary variant of bevor.¦ex=Ehe du gehst, ruf mich bitte an.¦en=Before you go, please call me.
+B0946¦en=Tomorrow we are going on an excursion to Heidelberg.
+B0947¦tp=T15¦ex=Bitte schreiben Sie einen Betreff in die E-Mail.¦en=Please write a subject in the email.
+B0948¦tp=T04¦ps=sammelt ein¦pt=sammelte ein¦pf=hat eingesammelt¦ex=Die Lehrerin sammelt die Hefte ein.¦en=The teacher collects the exercise books.
+B5057¦pos=adverb¦ex=Die Wohnung ist günstig, zudem liegt sie zentral.¦en=The flat is cheap, and in addition it is centrally located.
+B0949¦tp=T01¦en=Thanks for the lovely present.
+B0950¦en=Hopefully our train isn't late.
+B0951¦tp=T07¦pt=brachte mit¦en=I'm going shopping. Shall I bring you something?
+B2260¦col=jeweils montags | jeweils zwei | jeweils zum Monatsende | jeweils die Hälfte¦en=The course takes place on Mondays and Thursdays at 6 p.m. in each case.
+B0952¦tp=T10¦pt=kam mit¦m=to come along¦en=I'm going to the cinema. Are you coming along?
+B0953¦tp=T10¦ps=macht mit¦pt=machte mit¦pf=hat mitgemacht¦en=Why don't you join in?
+B0954¦tp=T11¦en=I'm not going out in this rain.
+B5199¦m=past; over¦en=Line 8 goes past the hospital.¦col=vorbei sein | vorbeigehen | an etwas vorbei | die Zeit ist vorbei
+B0955¦tp=T15¦ps=schickt¦pt=schickte¦pf=hat geschickt¦en=Please send me an email.
+B0956¦en=Our meeting point is at 5 p.m. at the main station.
+B0957¦tp=T01¦ck=-¦ex=Heute ist Überraschungstag in unserer Klasse.¦en=Today is surprise day in our class.
+B3619¦pos=adjective¦en=We went to the Historical Museum with our class.
+B0958¦tp=T15¦pt=wusste¦en=Careful: Sofia doesn't know anything!
+B0959¦pos=adjective¦tp=T15¦en=separable verbs
+B0960¦tp=T13¦ps=hört auf¦pt=hörte auf¦pf=hat aufgehört¦en=The course ends in a week.
+B2217¦pt=hoffte¦g=auf + Akk.¦col=auf etwas hoffen | auf Besserung hoffen | das Beste hoffen | hoffen, dass ...¦en=I hope you are well.
+B0961¦tp=T10¦en=Happy holidays!
+B0962¦tp=T15¦en=Also write a salutation and a closing.
+B0964¦pos=adjective¦tp=T14¦m=warm; cordial; heartfelt¦en=Warm regards
+B4843¦en=The employees are entitled to 30 days of holiday.
+B0965¦tp=T15¦rg=informal¦ex=Ich schicke dir die Infos per Mail.¦en=I'll send you the information by email.
+B0966¦tp=T06¦ck=-¦ex=Ich nehme eine Apfelsaftschorle, bitte.¦en=I'll have an apple juice spritzer, please.
+B0967¦tp=T06¦ps=bestellt¦pt=bestellte¦pf=hat bestellt¦en=We would like to order, please.
+B2832¦en=The film was a great success.
+B0968¦ex=Ihre Bestellung kommt in drei Tagen.¦en=Your order arrives in three days.
+B0969¦tp=T16¦pt=brachte¦en=Please bring me another coffee!
+B0974¦tp=T16¦en=Please also read the second part.
+B5200¦art=der¦pl=Ansätze¦m=approach; starting point¦lv=B1¦ex=Das ist ein guter Ansatz für eine Lösung.¦en=That is a good approach to a solution.
+B0975¦pt=passierte¦col=was passiert | ein Unfall passiert | zufällig passieren | passiert sein¦en=How did the accident happen?
+B0976¦tp=T09¦en=Smoking is forbidden here.
+B0977¦m=ice cream; ice¦en=Would you like an ice cream too?
+B5201¦pos=adverb¦m=out of it; from that¦lv=B1¦ex=Daraus kann man viel lernen.¦en=You can learn a lot from that.
+B0978¦tp=T06¦ex=Zum Schnitzel gibt es Pommes.¦en=Chips come with the schnitzel.
+B0979¦tp=T06¦ex=Ich esse gern Pizza mit Salami.¦en=I like eating pizza with salami.
+B0980¦en=A schnitzel with potatoes and salad, please.
+B3648¦pos=adverb¦ex=Das werde ich niemals vergessen.¦en=I will never forget that.
+B0981¦tp=T06¦en=Bring me the menu, please.
+B0982¦tp=T06¦ex=Die Tomatensuppe ist heute sehr gut.¦en=The tomato soup is very good today.
+B0983¦en=Can I have a fork, please?
+B3101¦pos=adjective¦ef=reicher – am reichsten¦en=Lotte is rich. She has a lot of money.¦col=reich an ... | ein reicher Mann | reiche Ernte | steinreich
+B0984¦en=Please bring me a spoon.
+B0985¦en=The knife doesn't cut well.
+B0986¦tp=T06¦ex=Haben Sie eine Serviette für mich?¦en=Do you have a napkin for me?
+B3048¦pf=ist/hat gebrochen¦med=related¦m=to break; to fracture¦en=He hurt himself skiing, his leg is broken.¦col=sich das Bein brechen | den Rekord brechen | das Schweigen brechen | sein Wort brechen
+B0987¦en=Would you like a cup of coffee?
+B0988¦en=Please put the plates on the table!
+B0989¦tp=T07¦ps=bezahlt¦pt=bezahlte¦pf=hat bezahlt¦en=Where do I have to pay?
+B2739¦ex=Der Autor hat in diesem Jahr schon zwei Bücher geschrieben.¦en=The author has already written two books this year.¦es=claude
+B0990¦pos=adjective¦ex=Wir zahlen getrennt, bitte.¦en=Separate bills, please.¦col=getrennt leben | getrennt zahlen | getrennt schreiben | getrennt fahren
+B0991
+B0992¦ps=zahlt¦pt=zahlte¦pf=hat gezahlt¦ex=Zahlen, bitte!¦en=The bill, please!¦col=bar zahlen | mit Karte zahlen | getrennt zahlen | Steuern zahlen

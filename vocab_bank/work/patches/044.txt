@@ -1,0 +1,100 @@
+B2012¦col=meine Meinung sagen | eine andere Meinung haben | meiner Meinung nach | die Meinung ändern
+B0993¦en=I gave the waiter two euros as a tip.
+B0995¦tp=T06¦en=Do you have something to drink? I'm very thirsty.
+B2259¦en=Mr Müller will be back in a moment. In the meantime you can wait in his office.¦col=inzwischen schon | inzwischen längst | inzwischen auch | inzwischen noch nicht
+B0996¦tp=T06¦en=I'm hungry! When will the food be ready?
+B0997¦tp=T13¦col=wieder einmal | immer wieder | wieder da sein | schon wieder¦en=Stefan can come to football training again.
+B0998¦en=We are having visitors at the weekend.
+B2379¦m=quiet; peace; rest¦en=Quiet, please! You mustn't speak loudly here in the library.
+B0999¦pos=adjective¦ef=kälter – am kältesten¦col=kaltes Wasser | ein kalter Winter | kalt duschen | mir ist kalt¦en=It is very cold today.
+B1000¦pl=Präterita¦tp=T15¦ex=„Er ging“ steht im Präteritum.¦en="Er ging" is in the simple past.
+B1001¦pos=adjective¦ef=wärmer – am wärmsten¦col=warmes Wasser | warm essen | warm anziehen | mir ist warm¦en=It is very warm here.
+B5202¦pl=–¦m=literature¦col=moderne Literatur | deutsche Literatur | Literatur lesen | Literatur studieren¦en=I am interested in literature.
+B1002¦tp=T07¦ef=Pl. Banken = financial institutions¦nt=Bank: bench (Bänke) or bank (Banken).
+B1003¦rg=regional¦tp=T06¦m=pub (Austria)¦pl=Beisln¦ck=?plural¦ex=In diesem Beisl gibt es gutes Essen.¦en=This pub serves good food.
+B1004¦rg=regional¦tp=T06¦m=pub (Switzerland)¦ex=Wir treffen uns in der Beiz um die Ecke.¦en=We're meeting in the pub around the corner.
+B3512¦col=Bedingungen erfüllen | unter der Bedingung, dass | gute Arbeitsbedingungen | zu diesen Bedingungen¦en=If you accept our terms, we can make a contract.
+B1005¦tp=T06¦ex=Im Sommer sitzen wir gern im Biergarten.¦en=In summer we like to sit in the beer garden.
+B1006¦tp=T16¦m=and the like (Co.)¦nt=Abbreviation of Compagnie/Company.
+B1007¦pos=adverb¦tp=T11¦en=Shall we sit outside?
+B3653¦tp=T16¦ex=Ein wichtiger Aspekt ist die Sicherheit.¦en=An important aspect is safety.
+B1008¦pos=adjective¦tp=T07¦m=open¦en=The shop is open until 4 p.m. on Saturdays.
+B1009¦tp=T06¦en=There is a coffee house near here.
+B1010¦rg=informal¦en=Shall we go to a pub for a beer?
+B4630¦col=laut schreien | um Hilfe schreien | vor Schmerz schreien | jemanden anschreien¦en=Children, please stop screaming so loudly. – I have to work.
+B1011¦tp=T06¦en=There is a new restaurant on our street.
+B1012¦ck=-¦ex=Zum Mittagessen esse ich ein Sandwich.¦en=For lunch I eat a sandwich.
+B1013¦pos=adverb¦tp=T16¦col=selbst machen | selbst wenn | von selbst | selbst schuld¦en=You don't have to help me, I'll do it myself.
+B3466¦en=Entering the building site is at your own risk.
+B1014¦tp=T07¦ex=In der Cafeteria gibt es Selbstbedienung.¦en=In the cafeteria there is self-service.
+B1015¦tp=T11¦en=The sun is shining.
+B1016¦en=The children are at the playground.
+B4096¦col=einen Entschluss fassen | Mut fassen | einen Dieb fassen | sich kurz fassen
+B1017¦tp=T10¦ex=Abends gehen wir in die Strandbar.¦en=In the evenings we go to the beach bar.
+B1018¦pos=adjective¦en=This music is typical of this country.
+B1019¦col=überall hin | überall suchen | fast überall | überall auf der Welt¦en=I looked everywhere, but I can't find my glasses.
+B4085¦col=die Verantwortung übernehmen | die Kosten übernehmen | eine Aufgabe übernehmen | ein Geschäft übernehmen¦en=I took over the business from my father.
+B1020¦pos=adjective¦tp=T16
+B1021¦tp=T11¦en=We had bad weather.
+B1022¦tp=T09¦m=registration; sign-up; application
+B2862¦en=The consequences of the accident were serious.
+B1023¦tp=T10¦en=I read your advertisement in the newspaper.
+B1024¦tp=T14¦ex=In diesem Café ist die Atmosphäre sehr gemütlich.¦en=In this café the atmosphere is very cosy.
+B1025¦pt=passte auf¦en=Watch out, the plate is about to fall on the floor!
+B3379¦g=sich einsetzen für + Akk.¦m=to insert; to use; to appoint¦os=sich einsetzen für: to stand up for¦col=Geld einsetzen | sich für etwas einsetzen | Personal einsetzen | ein Medikament einsetzen
+B1026¦en=At the beginning of the lesson the teacher greets her students.
+B1027¦tp=T13¦ps=beginnt¦pt=begann¦pf=hat begonnen¦en=The game starts at 3.30 p.m.
+B1028¦pos=adjective¦tp=T16¦ex=Heute ist ein besonderer Tag.¦en=Today is a special day.
+B2174¦en=A comparison is hardly possible.
+B1029¦tp=T10¦nt=English loanword.¦ex=Im Kino läuft heute ein Double Feature.¦en=A double feature is showing at the cinema today.
+B1030¦tp=T10¦m=admission; entrance fee¦en=The admission price is 5 euros.
+B1031¦tp=T13¦ps=endet¦pt=endete¦pf=hat geendet¦en=The street ends here.
+B3808¦col=Voraussetzungen erfüllen | die Voraussetzung dafür ist | unter der Voraussetzung, dass | notwendige Voraussetzung¦en=Healthy eating is the prerequisite for a long life.
+B1033¦tp=T16¦ps=fehlt¦pt=fehlte¦pf=hat gefehlt¦g=+ Dat.¦m=to be missing; to be absent; to miss¦en=Mr Müller is not here, he has been absent for three days.
+B1034¦m=Swiss franc¦ex=Das kostet zwanzig Franken.¦en=That costs twenty francs.
+B1035¦pos=adjective¦tp=T13¦m=early¦ef=früher – am frühesten¦en=Can it be later? Six o'clock is too early for me.¦col=früh aufstehen | am frühen Morgen | zu früh | früh genug
+B2680¦pos=adjective¦ef=härter – am härtesten¦en=I find the bed too hard.¦col=ein hartes Bett | hart arbeiten | hartes Brot | harte Zeiten
+B1036¦m=to enjoy; to savour¦en=Unfortunately he can't enjoy the food because it is too spicy.¦col=das Leben genießen | den Urlaub genießen | die Ruhe genießen | ein gutes Essen genießen
+B1037¦tp=T10¦ex=Im Herbst laufe ich einen Halbmarathon.¦en=In autumn I'm running a half marathon.
+B1038¦tp=T10¦ex=Der Konzertbeginn ist um 20 Uhr.¦en=The concert starts at 8 p.m.
+B3394¦pos=adjective¦col=technische Probleme | technischer Fortschritt | technische Daten | technisch möglich¦en=There was a technical problem.
+B1040¦tp=T10¦pt=lief¦m=to run; to walk; to work
+B1041¦tp=T16¦pt=war los
+B1042¦tp=T10¦ex=Er hat den Marathon in drei Stunden geschafft.¦en=He finished the marathon in three hours.
+B2720¦pos=adjective¦col=erforderliche Unterlagen | unbedingt erforderlich | erforderlich sein | wenn erforderlich¦en=Here is the list of the ingredients required for the cake.
+B1043¦tp=T10¦ex=Bei der Museumsnacht sind alle Museen bis Mitternacht geöffnet.¦en=On museum night all the museums are open until midnight.
+B1044¦tp=T13¦ex=Heute Nacht habe ich schlecht geschlafen.¦en=Last night I slept badly.
+B1045¦col=in der Natur | die Natur schützen | die Natur genießen | von Natur aus¦en=I like being outside in nature.
+B5203¦pos=adjective¦ef=dichter – am dichtesten¦m=tight; dense; sealed¦en=Our windows are not tight. There is always a draught.¦col=dichter Nebel | dicht halten | dicht besiedelt | dicht machen
+B1047¦en=I'm not interested in this radio programme.
+B1048¦col=sportliche Aktivität | körperliche Aktivität | Aktivitäten planen | Freizeitaktivitäten¦en=In the holidays the city offers various leisure activities for children.
+B1049¦tp=T10¦ex=Das Fußballspiel beginnt um 18 Uhr.¦en=The football match starts at 6 p.m.
+B2123¦pt=teilte¦col=sich etwas teilen | die Kosten teilen | mit jemandem teilen | geteilter Meinung sein¦en=Shall we share the pizza?
+B1050¦m=desire; inclination
+B1052¦m=event; incident¦col=ein besonderes Ereignis | über Ereignisse berichten | ein trauriges Ereignis | das Ereignis des Jahres¦en=All the newspapers reported on these events.
+B1053¦tp=T15¦ex=„In“ ist eine Präposition.¦en=“In” is a preposition.
+B5204¦m=to do (sport); to drive; to push¦col=Sport treiben | Handel treiben | jemanden zur Eile treiben | Unsinn treiben¦en=Which sport do you do?
+B1054¦tp=T03¦ex=Mein Arbeitsalltag beginnt um sieben Uhr.¦en=My working day starts at seven o'clock.
+B1055¦col=ein Angebot annehmen | eine Einladung annehmen | Hilfe annehmen | annehmen, dass ...¦en=I gladly accept your invitation.
+B1056¦tp=T08¦pt=nahm mit¦en=Shall we take my sister to the cinema?
+B2307¦m=security; safety; certainty¦col=für Sicherheit sorgen | in Sicherheit sein | soziale Sicherheit | Sicherheit geben¦en=Safety is very important to me.
+B1057¦en=Can you take the parcel to the post office, please?
+B1058¦tp=T08¦ex=Der Ticketkauf online ist sehr einfach.¦en=Buying tickets online is very easy.
+B4616¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦col=einen Patienten behandeln | eine Krankheit behandeln | jemanden gut behandeln | ein Thema behandeln¦en=Which doctor has treated you so far?
+B1060¦pos=particle¦tp=T16¦m=yes (to a negative question); but; after all¦en=Aren't you coming today? – Yes, I am.
+B1061¦en=Pay attention to the order of the content points.
+B1062¦pos=adverb¦tp=T13¦en=We can do that later.
+B1974¦col=in Erinnerung bleiben | eine schöne Erinnerung | Erinnerungen austauschen | zur Erinnerung
+B1063¦tp=T07¦ex=Ich gehe heute Nachmittag einkaufen.¦en=This afternoon I'm going shopping.
+B1064¦ef=den/dem/des Nachbarn (n-declension)¦en=My neighbour comes from Brazil and my neighbour (f) is Italian.
+B1065¦en=My neighbour comes from Brazil and my neighbour (f) is Italian.
+B3811¦en=I think there is no point in applying. The job is surely gone already.
+B1066¦pos=adverb¦tp=T16¦col=ganz anders | anders denken | anders aussehen | jemand anders¦en=Unfortunately it can't be done any other way.
+B1067¦tp=T15¦ps=bedeutet¦pt=bedeutete¦pf=hat bedeutet
+B1068¦en=I write a blog about fashion.
+B4947¦pos=adjective¦ex=Die jeweiligen Kosten stehen im Vertrag.¦en=The respective costs are in the contract.¦col=die jeweilige Situation | jeweilige Regeln | je nach jeweiliger Lage | der jeweilige Mitarbeiter
+B1069¦tp=T03¦ck=-¦ex=Computerarbeit kann sehr anstrengend sein.¦en=Computer work can be very tiring.
+B1070¦col=endlich fertig | endlich Ferien | endlich ankommen | endlich wieder¦tp=T13¦en=When are you finally coming? The film is about to start.
+B1071¦tp=T15¦ps=erklärt¦pt=erklärte¦pf=hat erklärt¦en=Can you explain that to me?
+B5205¦pos=adjective¦m=left¦ex=Mit der linken Hand schreibe ich nicht gut.¦en=I don't write well with my left hand.¦col=die linke Hand | der linke Fuß | auf der linken Seite | links abbiegen
+B1072¦tp=T15¦en=I always make this mistake.

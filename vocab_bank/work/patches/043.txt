@@ -1,0 +1,5 @@
+B0946¦tp=T10
+B5057¦col=zudem noch | zudem ist ... | und zudem | zudem kommt, dass ...
+B3619¦col=historische Gebäude | historisch gesehen | ein historisches Ereignis | historisches Zentrum
+B5201¦col=daraus folgen | daraus lernen | daraus entstehen | daraus ergibt sich
+B3648¦col=niemals aufgeben | niemals vergessen | fast niemals | jetzt oder niemals

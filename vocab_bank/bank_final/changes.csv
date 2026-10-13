@@ -296,3 +296,110 @@ redemittel,R0037,variants,"Meinst du wirklich, dass ...? | Bist du sicher, dass 
 redemittel,R0037,variants,Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?,"Meinst du wirklich, dass ...? | Bist du sicher, dass ...?"
 redemittel,R0038,variants,Ich hätte einen anderen Vorschlag: ... | Was hältst du von ... statt dessen?,Ich hätte einen anderen Vorschlag: ... | Was hältst du stattdessen von ...?
 redemittel,R0353,variants,Das ist wirklich schade für dich. | Mein herzliches Beileid.,"Das ist wirklich schade für dich. | Ich hoffe, es wird bald besser."
+vocab,B0751,example_de,Wir haben eine neue Chefin.,Mein Chef ist heute nicht im Büro.
+vocab,B0751,example_source,goethe,claude
+vocab,B0754,meaning_en,really,real; really (colloq.)
+vocab,B0754,register,neutral,colloquial
+vocab,B0755,check,ocr?,
+vocab,B0757,example_de,Ich bin Anwältin und oft — am Gericht.,Ich bin Anwältin und oft am Gericht.
+vocab,B0757,meaning_en,meal,dish; meal; court (of law)
+vocab,B0757,other_senses,court (of law),
+vocab,B0761,meaning_en,longer,longer (comparative of lang)
+vocab,B0767,topic,T05 Gesundheit & Körper,T06 Essen & Trinken
+vocab,B0770,register,neutral,informal
+vocab,B0772,example_en,I work from 6 o'clock am to 3 o'clock pm.,I work from 6 a.m. to 3 p.m.
+vocab,B0772,meaning_en,o'clock,o'clock; clock; watch
+vocab,B0778,meaning_en,to lead (to),to lead; to conduct; to run
+vocab,B0787,register,neutral,informal
+vocab,B0788,meaning_en,to meet,to meet; to hit; to make (a decision)
+vocab,B0789,register,neutral,informal
+vocab,B3815,meaning_en,to refer to,to refer (sich beziehen auf); to obtain; to move into
+vocab,B0804,check,ocr?,
+vocab,B0809,example_en,Florian has a game one Sunday.,Florian has a game on Sunday.
+vocab,B0810,meaning_en,practice,training; practice session
+vocab,B5188,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T15 Sprache, Kommunikation & Denken"
+vocab,B0818,meaning_en,"music school, conservatory",music school; conservatoire
+vocab,B3431,meaning_en,introduction,idea; introduction; performance
+vocab,B0822,check,ocr?,
+vocab,B2355,meaning_en,to ask for sth,to ask for; to request
+vocab,B0828,check,ocr?,
+vocab,B4778,pos,preposition,adjective
+vocab,B4778,meaning_en,remaining,left over; remaining
+vocab,B3166,topic,"T10 Freizeit, Sport, Kultur & Medien","T16 Allgemein (Funktionswörter, abstrakter Wortschatz)"
+vocab,B0837,register,neutral,informal
+vocab,B0838,check,article?,
+vocab,B2303,example_en,hier: to clean up,to tidy up
+vocab,B2303,meaning_en,order,order; tidiness
+vocab,B0853,register,neutral,informal
+vocab,B3386,meaning_en,only,only; just; merely
+vocab,B0858,register,neutral,informal
+vocab,B0862,meaning_en,card,card; ticket; map
+vocab,B0862,other_senses,ticket; map,
+vocab,B0863,pos,particle,conjunction
+vocab,B0865,meaning_en,deck of cards,pile; stack; deck
+vocab,B4762,example_en,to fulfill an important function,to fulfil an important function
+vocab,B4762,meaning_en,to fulfill,to fulfil; to meet; to fill
+vocab,B0867,example_en,Kind greetings.,Kind regards.
+vocab,B0870,example_en,Kind greetings.,Kind regards.
+vocab,B0870,meaning_en,kind,kind; dear; sweet
+vocab,B0871,check,ocr?,
+vocab,B0873,meaning_en,next,next; nearest
+vocab,B0888,meaning_en,surgery,surgery; (doctor's) practice
+vocab,B0895,check,ocr?,
+vocab,B0900,meaning_en,to make,to arrange; to agree
+vocab,B0905,meaning_en,to be there,to be there; to be present
+vocab,B5192,plural,Verlage | Verläge(A),Verlage
+vocab,B4178,register,neutral,colloquial
+vocab,B4178,meaning_en,self,myself/himself/etc.; on one's own
+vocab,B0913,meaning_en,to excuse,to excuse; to apologise (sich entschuldigen)
+vocab,B0916,check,ocr?,
+vocab,B0920,check,ocr?,
+vocab,B3994,meaning_en,to ask for,to demand; to ask for
+vocab,B0926,check,ocr?,
+vocab,B0927,example_en,What?,"What is it, then?"
+vocab,B3530,meaning_en,conscious,conscious; deliberate
+vocab,B0930,register,neutral,informal
+vocab,B0931,meaning_en,of course,clear; of course (colloq.)
+vocab,B0938,example_en,What's special on your birthday?,What is special about a birthday?
+vocab,B0940,check,ocr?,
+vocab,B0941,meaning_en,to arrange,to set up; to put up; to draw up
+vocab,B0943,meaning_en,careful,attention; watch out; respect
+vocab,B0952,meaning_en,to come,to come along
+vocab,B0957,check,ocr?,
+vocab,B0964,meaning_en,warm (Warm greetings),warm; cordial; heartfelt
+vocab,B4843,example_en,The employees are entitled to 30 holidays.,The employees are entitled to 30 days of holiday.
+vocab,B0965,register,neutral,informal
+vocab,B0966,check,ocr?,
+vocab,B0977,meaning_en,ice cream,ice cream; ice
+vocab,B3048,meaning_en,to break,to break; to fracture
+vocab,B3048,perfect,ist gebrochen,ist/hat gebrochen
+vocab,B2739,example_de,Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.,Der Autor hat in diesem Jahr schon zwei Bücher geschrieben.
+vocab,B2739,example_source,goethe,claude
+vocab,B2379,meaning_en,quiet,quiet; peace; rest
+vocab,B1000,plural,Praterita,Präterita
+vocab,B1003,meaning_en,pub,pub (Austria)
+vocab,B1003,plural,Beisl,Beisln
+vocab,B1003,register,neutral,regional
+vocab,B1004,meaning_en,pub,pub (Switzerland)
+vocab,B1004,register,neutral,regional
+vocab,B1006,meaning_en,co,and the like (Co.)
+vocab,B1008,meaning_en,opened,open
+vocab,B1010,register,neutral,informal
+vocab,B1012,check,article?,
+vocab,B1022,meaning_en,application,registration; sign-up; application
+vocab,B1024,topic,"T11 Natur, Umwelt, Wetter & Tiere","T14 Gefühle, Charakter & Meinungen"
+vocab,B3379,meaning_en,to insert,to insert; to use; to appoint
+vocab,B3379,other_senses,sich: to support,sich einsetzen für: to stand up for
+vocab,B1030,meaning_en,entrance,admission; entrance fee
+vocab,B1033,meaning_en,to miss,to be missing; to be absent; to miss
+vocab,B1035,meaning_en,morning,early
+vocab,B1036,meaning_en,to savor,to enjoy; to savour
+vocab,B1040,meaning_en,to run,to run; to walk; to work
+vocab,B1050,meaning_en,"to want, to feel like",desire; inclination
+vocab,B1052,meaning_en,result,event; incident
+vocab,B2307,meaning_en,security,security; safety; certainty
+vocab,B4616,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B1060,example_en,Are you not coming today? - On the contrary.,"Aren't you coming today? – Yes, I am."
+vocab,B1060,meaning_en,indeed,yes (to a negative question); but; after all
+vocab,B1060,pos,adverb,particle
+vocab,B1069,check,ocr?,
