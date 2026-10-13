@@ -1,5 +1,5 @@
 B5831¦m=discovery¦lv=B2¦art=die¦pl=Entdeckungen¦ex=Die Entdeckung des Penicillins rettete viele Leben.¦en=The discovery of penicillin saved many lives.
-B5832¦m=follower; supporter; pendant; trailer¦lv=B2¦art=der¦pl=Anhänger¦ex=Die Anhänger des Vereins feiern den Sieg.¦en=The club's supporters celebrate the victory.
+B5832¦m=follower; supporter; trailer¦lv=B2¦art=der¦pl=Anhänger¦ex=Die Anhänger des Vereins feiern den Sieg.¦en=The club's supporters celebrate the victory.
 B5833¦pos=preposition¦g=+ Gen.¦m=on the part of¦lv=C1¦ex=Seitens der Firma gibt es keine Einwände.¦en=There are no objections on the part of the company.
 B5834¦pos=adjective¦m=miserable; wretched¦lv=C1¦ex=Nach der Nacht fühlte ich mich elend.¦en=After the night I felt miserable.
 B5835¦m=to realise; to make come true¦lv=C1¦ps=verwirklicht¦pt=verwirklichte¦pf=hat verwirklicht¦ex=Er will seinen Traum verwirklichen.¦en=He wants to realise his dream.

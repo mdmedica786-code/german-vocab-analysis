@@ -1,0 +1,100 @@
+B6437¦m=lighter¦en=Is the lighter new?
+B6438¦m=Finn (m)¦tp=T08¦pl=Finnen¦ex=Der Finne spricht gut Deutsch.¦en=The Finnish man speaks good German.
+B6439¦m=Finn (f)¦tp=T08¦ex=Die Finnin wohnt in Helsinki.¦en=The Finnish woman lives in Helsinki.
+B6440¦m=Finnish¦tp=T08¦ex=Wir essen heute finnischen Fisch.¦en=Today we are eating Finnish fish.
+B6441¦m=butcher (Austrian)¦rg=regional¦en=This butcher makes very good sausage.
+B6442¦m=slide; transparency¦en=Here you will find five slides on this.
+B6443¦m=camera¦en=I would like to buy a camera.
+B6444¦m=Franconian (m)¦tp=T08¦pl=Franken¦ex=Der Franke kommt aus Nürnberg.¦en=The Franconian comes from Nuremberg.
+B6445¦m=to be cold; to freeze¦en=If you are cold, I will close the window again.
+B6446¦m=lost property¦en=Did you find my umbrella? – You can look at the lost property over there.
+B6447¦m=driving licence (Swiss)¦rg=regional¦tp=T08¦en=Do you have a driving licence?
+B6448¦m=cloakroom¦en=Please hand in the coats at the cloakroom.
+B6449¦m=year of birth¦tp=T09¦pl=Geburtsjahre¦en=The year of birth of your son, please?
+B6450¦m=pavement (Austrian, S. German)¦rg=regional¦pl=Gehsteige¦en=Cycling on the pavement is not allowed.
+B6451¦m=speed limit¦en=Please observe the speed limits.
+B6452¦m=office; branch¦lv=B2¦tp=T03¦pl=Geschäftsstellen¦ex=Die Geschäftsstelle ist von 9 bis 17 Uhr geöffnet.¦en=The office is open from 9 to 5.
+B6453¦art=die¦m=ice cream (Swiss)¦rg=regional¦tp=T06¦en=For dessert there is chocolate ice cream.
+B6454¦m=having equal rights¦en=Man and woman have equal rights.
+B6455¦m=game of golf¦pl=Golfspiele¦ex=Das Golfspiel dauert mehrere Stunden.¦en=A game of golf lasts several hours.
+B6456¦m=to google¦ex=Ich google den Namen der Ärztin.¦en=I am googling the doctor's name.
+B6457¦m=congratulations¦en=Congratulations! You have won!
+B6458¦m=Greek (f)¦ex=Die Griechin kocht sehr gut.¦en=The Greek woman cooks very well.
+B6459¦m=to grill (Swiss)¦rg=regional¦tp=T06¦en=Today we want to grill in the garden.
+B6460¦pos=adverb¦m=part-time¦en=That is why I would like to work part-time.
+B6461¦m=chicken (Austrian, Bavarian)¦rg=regional¦tp=T06¦en=For lunch there is chicken with rice.
+B6462¦m=to honk¦en=Here is a hospital. You may not honk here.
+B6463¦m=intensive course¦en=The intensive course takes place daily from 9 to 12.
+B6464¦pos=adjective¦m=intercultural¦en=We celebrated an intercultural festival at the language school.
+B6465¦m=millennium¦tp=T13¦ex=Das Gebäude ist fast ein Jahrtausend alt.¦en=The building is almost a thousand years old.
+B6466¦m=snack (Austrian)¦rg=regional¦tp=T06¦en=It is time for a little snack.
+B6467¦m=cocoa¦en=For breakfast I always drink a cocoa.
+B6468¦m=jug; pot¦en=That is a beautiful teapot. – Yes, it is from China.
+B6469¦ps=macht kaputt¦pt=machte kaputt¦pf=hat kaputtgemacht¦m=to break¦en=Who broke the lamp?
+B6470¦m=cassette¦en=My parents still own many music cassettes.
+B6471¦m=businesswoman; clerk (f)¦ex=Die Kauffrau leitet ein kleines Geschäft.¦en=The businesswoman runs a small shop.
+B6472¦m=killer (f)¦ex=Die Killerin wurde verhaftet.¦en=The killer was arrested.
+B6473¦m=class test¦en=My son always gets good marks in class tests.
+B6474¦tp=T02¦m=bell¦en=Please press the bell!
+B6475¦m=dumpling¦en=Would you like potatoes or dumplings with the meat? – Dumplings, please.
+B6476¦pos=verb¦m=to contact¦lv=B2¦tp=T15¦ps=kontaktiert¦pt=kontaktierte¦pf=hat kontaktiert¦ex=Bitte kontaktieren Sie uns per E-Mail.¦en=Please contact us by email.
+B6477¦m=photocopier¦en=The photocopier is broken again.
+B6478¦m=criminal investigation department¦pl=–¦ex=Die Kriminalpolizei untersucht den Fall.¦en=The criminal investigation department is investigating the case.
+B6479¦m=crèche; nursery¦pl=Krippen¦ex=Das Baby geht in die Krippe.¦en=The baby goes to the crèche.
+B6480¦m=spa treatment; cure¦lv=B2¦tp=M3¦pl=Kuren¦ex=Nach der Operation macht er eine Kur.¦en=After the operation he is going to a spa for treatment.
+B6481¦m=envelope (Austrian, Swiss)¦rg=regional¦tp=T09¦en=I would like 50 envelopes and stamps too.
+B6482¦m=lorry; truck¦en=There were so many lorries on the motorway. That is why it took so long.
+B6483¦m=drive¦en=I bought a new drive for my computer.
+B6484¦m=apprenticeship place¦en=There are still many apprenticeships available.
+B6485¦m=learner (m)¦ex=Er ist ein fleißiger Lerner.¦en=He is a diligent learner.
+B6486¦m=Luxembourger (m)¦tp=T08¦ex=Der Luxemburger spricht drei Sprachen.¦en=The Luxembourger speaks three languages.
+B6487¦m=Luxembourger (f)¦tp=T08¦ex=Die Luxemburgerin arbeitet in Trier.¦en=The Luxembourg woman works in Trier.
+B6488¦m=Luxembourgish¦tp=T08¦ex=Sie spricht luxemburgisch mit ihrer Familie.¦en=She speaks Luxembourgish with her family.
+B6489¦pos=adjective¦m=lean¦en=One kilo of lean meat, please.
+B6490¦m=manager (f)¦ex=Die Managerin leitet die Abteilung.¦en=The manager heads the department.
+B6491¦m=folder¦en=My passport is in this folder.
+B6492¦m=apricot (Austrian)¦rg=regional¦tp=T06¦en=Do you like the apricots?
+B6493¦m=school-leaving exam (A-levels, Austria and Switzerland)¦rg=regional¦tp=T04¦pl=–¦ex=Meine Tochter hat gerade die Matura gemacht.¦en=My daughter has just taken her school-leaving exams.
+B6494¦m=metropolis¦en=Berlin and Vienna are metropolises.
+B6495¦m=butcher¦en=This butcher has very good sausage.
+B6496¦m=Mexican (m)¦tp=T08¦pl=Mexikaner¦ex=Der Mexikaner kocht scharfes Essen.¦en=The Mexican man cooks spicy food.
+B6497¦m=Mexican (f)¦tp=T08¦ex=Die Mexikanerin tanzt sehr gut.¦en=The Mexican woman dances very well.
+B6498¦m=Mexican¦tp=T08¦ex=Wir essen heute mexikanisch.¦en=Today we are eating Mexican food.
+B6499¦m=secondary school (Switzerland, Austria)¦rg=regional¦pl=Mittelschulen¦ex=Nach der Mittelschule macht sie eine Lehre.¦en=After secondary school she does an apprenticeship.
+B6500¦m=on Wednesdays¦ex=Mittwochs habe ich frei.¦en=On Wednesdays I am off.
+B6501¦m=voicemail (Swiss, Austrian)¦rg=regional¦en=I have two messages on my voicemail.
+B6502¦m=scooter¦en=Oskar goes to work on a scooter.
+B6503¦m=carrot¦en=Rabbits like eating carrots.
+B6504¦m=muesli (Swiss spelling)¦rg=regional¦en=For breakfast there is muesli with fruit.
+B6505¦m=to look up¦en=I do not know the word. You have to look it up in the dictionary.
+B6506¦m=dessert¦ex=Nach dem Essen gab es noch eine leckere Nachspeise.¦en=After the meal there was a delicious dessert.
+B6507¦m=local transport¦lv=B2¦tp=T08¦pl=–¦ex=Der Nahverkehr in der Stadt ist gut ausgebaut.¦en=Local transport in the city is well developed.
+B6508¦m=national holiday¦pl=Nationalfeiertage¦ex=Der Nationalfeiertag in Deutschland ist am 3. Oktober.¦en=The national holiday in Germany is on 3 October.
+B6509¦m=National Council (Austria, Switzerland)¦tp=T12¦pl=–¦ex=Der Nationalrat ist Teil des Parlaments.¦en=The National Council is part of the parliament.
+B6511¦m=New Year¦pl=–¦ex=An Neujahr schlafen wir lange.¦en=On New Year's Day we sleep in.
+B6512¦m=non-smoker (m)¦en=In our family everyone is a non-smoker.
+B6513¦m=non-smoker (f)¦ex=Ich bin Nichtraucherin.¦en=I am a non-smoker.
+B6514¦art=das¦m=cream (Austrian)¦rg=regional¦tp=T06¦pl=–¦en=I would like a piece of cake with (whipped) cream.
+B6516¦m=doctor's surgery (Austrian)¦rg=regional¦tp=M4¦en=The surgery stays closed until 7 January.
+B6517¦m=orientation stage (school years 5 and 6)¦tp=T04¦pl=Orientierungsstufen¦ex=In der Orientierungsstufe entscheidet sich der weitere Schulweg.¦en=In the orientation stage the further educational path is decided.
+B6518¦m=tomato (Austrian)¦rg=regional¦tp=T06¦en=Please buy some more tomatoes at the market.
+B6520¦m=pensioner (m) (Austrian)¦rg=regional¦tp=T01¦ex=Der Pensionist geht jeden Tag spazieren.¦en=The pensioner goes for a walk every day.
+B6521¦m=pensioner (f) (Austrian)¦rg=regional¦tp=T01¦en=She is a pensioner.
+B6522¦m=platform (Swiss)¦rg=regional¦tp=T08¦en=Main stations usually have many platforms.
+B6523¦m=marital status¦pl=–¦en=Under marital status you have to tick single.
+B6524¦m=Pentecost¦pl=–¦ex=Zu Pfingsten fahren wir ans Meer.¦en=At Pentecost we go to the sea.
+B6525¦m=chicken (Swiss)¦rg=regional¦tp=T06¦en=For lunch there is chicken with rice.
+B6526¦m=prize winner¦lv=C1¦tp=T10¦pl=Preisträger¦ex=Der Preisträger bedankte sich bei seiner Familie.¦en=The prize winner thanked his family.
+B6527¦m=primary school (Swiss)¦rg=regional¦tp=T04¦pl=Primarschulen¦ex=Mein Sohn geht in die Primarschule.¦en=My son goes to primary school.
+B6528¦m=professional athlete (m)¦en=My son wants to become a professional athlete.
+B6529¦m=professional athlete (f)¦ex=Meine Tochter möchte Profisportlerin werden.¦en=My daughter wants to become a professional athlete.
+B6530¦m=jigsaw puzzle¦ex=Wir legen ein Puzzle mit 1.000 Teilen.¦en=We are doing a 1,000-piece jigsaw puzzle.
+B6532¦m=postman (Swiss)¦rg=regional¦tp=T09¦ex=Der Pöstler bringt die Briefe um zehn.¦en=The postman brings the letters at ten.
+B6533¦m=cream (Swiss, S. German)¦rg=regional¦tp=T06¦pl=–¦en=I would like a piece of cake with (whipped) cream.
+B6534¦m=centime (Swiss)¦rg=regional¦pl=Rappen¦ex=Ein Franken hat hundert Rappen.¦en=One franc has a hundred centimes.
+B6535¦m=to shave¦en=Your beard is long! You should shave again.
+B6536¦m=smoker (m)¦en=Is there a room for smokers here?
+B6537¦m=smoker (f)¦en=I am not a smoker. I am a non-smoker.
+B6538¦m=cantonal government member (Swiss)¦rg=regional¦tp=T12¦ex=Der Regierungsrat leitet den Kanton.¦en=The cantonal government member heads the canton.
+B6539¦m=cantonal government member (f) (Swiss)¦rg=regional¦tp=T12¦ex=Die Regierungsrätin eröffnet die Ausstellung.¦en=The cantonal government member opens the exhibition.
+B6541¦m=tour; walk round¦en=The tour of the castle begins in a few minutes.

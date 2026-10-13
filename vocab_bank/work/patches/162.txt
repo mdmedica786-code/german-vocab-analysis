@@ -1,0 +1,100 @@
+B2182¦en=We congratulate you on the birth of your child!
+B5052¦tp=T07
+B5925¦m=safe (strongbox)¦lv=B2¦tp=T07¦art=der¦pl=Safes¦nt=also das Safe¦ex=Das Geld liegt im Safe des Hotels.¦en=The money is in the hotel safe.
+B5926¦m=bacteria¦lv=B2¦tp=M2¦pl=(Pl.)¦ck=dup:B6004¦ex=Bakterien verursachen viele Infektionen.¦en=Bacteria cause many infections.
+B5927¦m=highlight¦lv=B2¦tp=T10¦pl=Highlights¦ex=Das Konzert war das Highlight des Jahres.¦en=The concert was the highlight of the year.
+B5929¦pos=adjective¦m=undecided; drawn (sport)¦en=The score between the two teams is level.
+B5931¦m=research; investigation¦en=A lot of research was needed for this report.
+B5932¦m=further training¦en=I would like to do further training.
+B5933¦m=bowl; shell; peel¦lv=B2¦art=die¦pl=Schalen¦ex=Auf dem Tisch steht eine Schale mit Obst.¦en=There is a bowl of fruit on the table.
+B5934¦m=to dine; to eat (formal)¦lv=B2¦ps=speist¦pt=speiste¦pf=hat gespeist¦ex=Wir speisen heute im Restaurant.¦en=Today we are dining at the restaurant.
+B5935¦m=landlord (pub, restaurant)¦en=I know the landlady of this pub.
+B5936¦pos=adjective¦m=analytical¦lv=C1¦ex=Sie hat ein analytisches Denken.¦en=She has an analytical mind.
+B5937¦m=drug¦en=Do you take drugs?
+B5938¦m=Greek man¦ex=Der Grieche aus dem Restaurant kocht sehr gut.¦en=The Greek man from the restaurant cooks very well.
+B5939¦m=hurry; haste¦pl=–¦ex=Ich bin sehr in Eile. Das hat keine Eile.¦en=I am in a great hurry. That is not urgent.
+B5940¦m=to visit; to go to see¦lv=B2¦sp=auf¦ps=sucht auf¦pt=suchte auf¦pf=hat aufgesucht¦ex=Bei Fieber sollten Sie einen Arzt aufsuchen.¦en=If you have a fever you should see a doctor.
+B5941¦m=point of view; perspective¦lv=C1¦art=die¦pl=Sichtweisen¦ex=Ich verstehe deine Sichtweise.¦en=I understand your point of view.
+B5942¦pos=adjective¦m=crooked; slanted¦en=The mirror is hanging completely crooked.
+B5943¦m=hamburger¦en=A hamburger without salad, please.
+B5944¦m=belt¦lv=B2¦art=der¦pl=Gürtel¦ex=Die Hose braucht einen Gürtel.¦en=The trousers need a belt.
+B5945¦pos=preposition¦g=+ Akk.¦m=via¦lv=C1¦ex=Wir fliegen via Frankfurt nach Rom.¦en=We fly to Rome via Frankfurt.
+B5946¦m=turnover; sales¦lv=B2¦art=der¦pl=Umsätze¦ex=Der Umsatz der Firma steigt.¦en=The company's turnover is rising.
+B5947¦m=mistake; error¦lv=B2¦art=der¦pl=Irrtümer¦ex=Das war ein Irrtum.¦en=That was a mistake.
+B5948¦m=board; executive board¦lv=C1¦art=der¦pl=Vorstände¦ex=Der Vorstand trifft sich einmal im Monat.¦en=The board meets once a month.
+B5949¦pos=adverb¦m=to/at each other¦lv=B2¦ex=Die Kinder denken oft aneinander.¦en=The children often think of each other.
+B5950¦m=stable; barn¦lv=B2¦art=der¦pl=Ställe¦ex=Die Kühe stehen im Stall.¦en=The cows are in the barn.
+B5951¦pos=adverb¦m=hereby; with this¦lv=B2¦ex=Hiermit bestätige ich den Empfang.¦en=I hereby confirm receipt.
+B5952¦m=merchant; businessman¦pl=Kaufleute¦ex=Mein Vater ist Kaufmann.¦en=My father is a merchant.
+B5953¦m=magic; spell¦lv=C1¦art=der¦pl=–¦ex=Der Zauber des Abends war vorbei.¦en=The magic of the evening was over.
+B5954¦pos=adverb¦m=upon this; to this¦lv=C1¦ex=Hierauf folgte eine lange Pause.¦en=A long pause followed.
+B5955¦m=to ripen; to mature¦ps=reift¦pt=reifte¦pf=ist gereift¦ex=Die Äpfel reifen im Herbst.¦en=The apples ripen in autumn.
+B5956¦m=user¦lv=B2¦art=der¦pl=Benutzer¦ex=Der Benutzer gibt sein Passwort ein.¦en=The user enters his password.
+B5957¦pos=adjective¦m=musical¦en=She is very musical: she plays piano, flute and violin.
+B5958¦m=to flee; to escape¦en=The burglar fled immediately.
+B5959¦m=oxygen¦lv=B1¦art=der¦pl=–¦tp=M3¦ex=Der Patient bekommt Sauerstoff.¦en=The patient is given oxygen.¦col=Sauerstoff geben | Sauerstoff verabreichen | zu wenig Sauerstoff | Sauerstoff im Blut
+B5960¦m=fracture; break¦lv=B1¦art=der¦pl=Brüche¦tp=M2¦ex=Der Röntgenbefund zeigt einen Bruch des Unterarms.¦en=The X-ray shows a fracture of the forearm.¦col=ein Bruch des Beins | ein offener Bruch | einen Bruch schienen | einen Bruch behandeln
+B5961¦en=A repeat of the exam is possible.
+B5962¦pl=–¦m=fright; shock¦en=I got a big fright.
+B5963¦m=pound¦tp=T13¦pl=Pfund¦ex=Ich brauche ein Pfund Mehl.¦en=I need a pound of flour.
+B5964¦m=oven¦ex=Der Kuchen kommt frisch aus dem Ofen.¦en=The cake is fresh out of the oven.
+B5965¦m=stain; spot¦en=You have a stain on your blouse.
+B5966¦m=to claim; to demand¦lv=C1¦ps=beansprucht¦pt=beanspruchte¦pf=hat beansprucht¦ex=Er beansprucht das Erbe für sich.¦en=He claims the inheritance for himself.
+B5967¦m=headache¦lv=A2¦art=der¦pl=Kopfschmerzen¦tp=M2¦ex=Der Patient klagt über Kopfschmerzen.¦en=The patient complains of headaches.¦col=Kopfschmerzen haben | starke Kopfschmerzen | chronische Kopfschmerzen | Kopfschmerzen behandeln
+B5968¦m=scar¦lv=B2¦art=die¦pl=Narben¦tp=M2¦ex=Die Narbe am Bauch ist gut verheilt.¦en=The scar on the abdomen has healed well.¦col=eine Narbe haben | Narbe am Bauch | die Narbe verheilt | Narbe nach der Operation
+B5969¦pos=adverb¦m=at home (S. German, Austrian, Swiss)¦lv=B2¦rg=regional¦ex=Ich bin heute den ganzen Tag daheim.¦en=I am at home all day today.
+B5970¦m=expert opinion; report¦lv=C1¦art=das¦pl=Gutachten¦ex=Ein Arzt erstellt das Gutachten.¦en=A doctor draws up the expert report.
+B5971¦m=equipment; furnishings¦lv=B2¦art=die¦pl=Ausstattungen¦ex=Die Ausstattung der Wohnung ist modern.¦en=The furnishings of the flat are modern.
+B5973¦m=ingredients¦en=Which ingredients do you need for this cake?
+B5974¦m=to criticise¦en=Do not criticise me so often.
+B5975¦pos=adjective¦m=immediate; without delay¦lv=C1¦ex=Bitte antworten Sie unverzüglich.¦en=Please reply without delay.
+B5976¦m=complication¦lv=B2¦art=die¦pl=Komplikationen¦tp=M2¦ex=Bei der Operation gab es keine Komplikationen.¦en=There were no complications during the operation.¦col=Komplikationen vermeiden | keine Komplikationen | mögliche Komplikationen | eine schwere Komplikation
+B5977¦m=sack¦en=I would like a sack of potatoes.
+B5978¦m=to impress¦lv=B2¦ps=beeindruckt¦pt=beeindruckte¦pf=hat beeindruckt¦ex=Das Konzert hat mich sehr beeindruckt.¦en=The concert impressed me a lot.
+B5979¦pos=adverb¦m=into/in each other¦lv=C1¦ex=Die beiden Teile greifen ineinander.¦en=The two parts fit into each other.
+B5980¦m=creativity¦lv=B2¦art=die¦pl=–¦ex=Für diesen Beruf braucht man Kreativität.¦en=You need creativity for this job.
+B5981¦m=belonging; membership¦lv=C1¦art=die¦pl=–¦ex=Die Zugehörigkeit zu einer Gruppe ist wichtig.¦en=A sense of belonging to a group is important.
+B5982¦m=website¦lv=B1¦art=die¦pl=Websites¦ex=Die Website der Klinik ist sehr übersichtlich.¦en=The clinic's website is very clear.
+B5983¦m=revelation¦lv=C1¦art=die¦pl=Offenbarungen¦ex=Das Buch war für mich eine Offenbarung.¦en=The book was a revelation for me.
+B5984¦pos=adjective¦m=unclear¦lv=B1¦ex=Die Situation ist noch unklar.¦en=The situation is still unclear.
+B5985¦pos=adjective¦m=vertical¦en=Please draw a vertical line.
+B5986¦m=responsibility; jurisdiction¦lv=C1¦art=die¦pl=Zuständigkeiten¦ex=Diese Frage fällt nicht in meine Zuständigkeit.¦en=This question does not fall within my responsibility.
+B5987¦pos=adjective¦m=eerie; incredibly (colloquial)¦en=I do not like this house. It looks eerie.
+B5988¦m=to accommodate; to put up¦lv=B2¦sp=unter¦ps=bringt unter¦pt=brachte unter¦pf=hat untergebracht¦ex=Wir bringen die Gäste im Hotel unter.¦en=We put the guests up at the hotel.
+B5989¦m=brain¦lv=B2¦art=das¦pl=Hirne¦tp=M1¦ex=Das Hirn steuert den ganzen Körper.¦en=The brain controls the whole body.¦col=Hirn und Nerven | das Hirn schützen | Blutung im Hirn | das Hirn untersuchen
+B5990¦pos=preposition¦g=+ Gen.¦m=away from; off to the side¦lv=C1¦ex=Abseits der Straße liegt ein kleines Haus.¦en=A small house lies away from the road.
+B5991¦m=poison¦nt=false friend: Gift = poison, not a gift¦en=Careful, the poison of this plant is dangerous to humans!
+B5992¦m=to punish¦en=Driving too fast is severely punished.
+B5993¦m=psychotherapy¦lv=C1¦art=die¦pl=Psychotherapien¦tp=M3¦ex=Sie macht eine Psychotherapie gegen ihre Angst.¦en=She is undergoing psychotherapy for her anxiety.¦col=eine Psychotherapie beginnen | ambulante Psychotherapie | Psychotherapie machen | einen Platz für Psychotherapie finden
+B5994¦m=circulation; cycle¦lv=B2¦art=der¦pl=Kreisläufe¦tp=M1¦ex=Der Kreislauf des Patienten ist stabil.¦en=The patient's circulation is stable.¦col=den Kreislauf stabilisieren | der Kreislauf kollabiert | den Kreislauf anregen | Herz und Kreislauf
+B5995¦m=vote; coordination¦lv=B2¦art=die¦pl=Abstimmungen¦ex=Die Abstimmung findet morgen statt.¦en=The vote takes place tomorrow.
+B5996¦m=aid; tool¦en=Aids such as mobile phones or dictionaries are not allowed.
+B5997¦pos=adverb¦m=one after the other¦lv=B1¦ex=Bitte kommen Sie nacheinander herein.¦en=Please come in one after the other.
+B5998¦m=defeat¦lv=B2¦art=die¦pl=Niederlagen¦ex=Die Mannschaft erlitt eine Niederlage.¦en=The team suffered a defeat.
+B5999¦pos=adverb¦m=from this¦lv=C1¦ex=Hieraus folgt, dass wir mehr Zeit brauchen.¦en=From this it follows that we need more time.
+B6000¦m=on the side; incidentally¦en=My friend studies history. And on the side he works in a pub.
+B6001¦m=side effect¦lv=B1¦art=die¦pl=Nebenwirkungen¦tp=M3¦ex=Dieses Medikament hat kaum Nebenwirkungen.¦en=This medicine has hardly any side effects.¦col=mögliche Nebenwirkungen | Nebenwirkungen haben | Nebenwirkungen treten auf | über Nebenwirkungen aufklären
+B6002¦m=widow¦lv=B2¦art=die¦pl=Witwen¦ex=Die Witwe lebt allein in dem Haus.¦en=The widow lives alone in the house.
+B6003¦m=salon; hairdresser's¦en=She works as a hairdresser in a salon.
+B6004¦m=bacterium¦lv=B2¦art=die¦pl=Bakterien¦tp=M2¦ex=Diese Bakterie verursacht eine Lungenentzündung.¦en=This bacterium causes pneumonia.¦col=Bakterien züchten | Bakterien abtöten | gegen Bakterien wirken | Bakterien im Blut
+B6005¦pos=adjective¦m=peaceful¦lv=B2¦ex=Die Demonstration blieb friedlich.¦en=The demonstration remained peaceful.
+B6006¦m=thigh; leg (of a limb)¦lv=C1¦art=der¦pl=Schenkel¦tp=M1¦ex=Der Patient hat eine Wunde am Schenkel.¦en=The patient has a wound on the thigh.¦col=der rechte Schenkel | Schmerzen im Schenkel | den Schenkel verletzen | Schenkel und Hüfte
+B6007¦m=validity¦lv=C1¦art=die¦pl=–¦ex=Die Gültigkeit des Tickets endet heute.¦en=The validity of the ticket ends today.
+B6008¦m=bowl¦en=Could you pass me a bowl for the salad, please?
+B6009¦m=expansion; extension¦lv=C1¦art=der¦pl=–¦ex=Der Ausbau der Straße dauert zwei Jahre.¦en=The expansion of the road takes two years.
+B6010¦pos=adverb¦m=for the time being¦en=I do not have a flat yet. For the time being I live with a friend.
+B6011¦m=tiredness¦lv=B2¦art=die¦pl=–¦tp=M2¦ex=Die Patientin klagt über starke Müdigkeit.¦en=The patient complains of severe tiredness.¦col=starke Müdigkeit | Müdigkeit und Schwäche | gegen die Müdigkeit kämpfen | ständige Müdigkeit
+B6012¦m=thigh¦lv=B2¦art=der¦pl=Oberschenkel¦tp=M1¦ex=Der Oberschenkel ist geschwollen.¦en=The thigh is swollen.¦col=Bruch des Oberschenkels | Schmerzen im Oberschenkel | den Oberschenkel anspannen | der rechte Oberschenkel
+B6013¦m=channel; station¦en=Which channel do you like watching best?
+B6014¦m=breathing; respiration¦lv=B2¦art=die¦pl=–¦tp=M1¦ex=Die Atmung des Patienten ist flach.¦en=The patient's breathing is shallow.¦col=flache Atmung | die Atmung überwachen | schwere Atmung | Atmung und Puls
+B6015¦m=diabetes¦lv=B2¦art=der¦pl=–¦tp=M2¦ex=Er hat seit Jahren Diabetes.¦en=He has had diabetes for years.¦col=Diabetes haben | Diabetes Typ 2 | an Diabetes leiden | Diabetes behandeln
+B6016¦tp=T12¦m=foreigner¦en=Many foreigners learn German at the adult education centre.
+B6017¦m=narrator; storyteller¦lv=B2¦art=der¦pl=Erzähler¦ex=Der Erzähler beginnt die Geschichte.¦en=The narrator begins the story.
+B6018¦pos=preposition¦g=+ Gen.¦m=for lack of¦lv=C1¦ex=Der Fall wurde mangels Beweisen eingestellt.¦en=The case was dropped for lack of evidence.
+B6019¦m=to bet¦en=We bet that she will be late again.
+B6020¦pos=preposition¦g=+ Gen.¦m=regardless of¦lv=C1¦ex=Ungeachtet der Warnung fuhr er weiter.¦en=Regardless of the warning he drove on.
+B6021¦m=fireplace; chimney¦lv=B2¦art=der¦pl=Kamine¦ex=Im Winter brennt ein Feuer im Kamin.¦en=In winter a fire burns in the fireplace.
+B6022¦m=witness¦en=The police are still looking for witnesses to the accident.
+B6023¦m=research; exploration¦lv=C1¦art=die¦pl=–¦ex=Die Erforschung des Weltraums ist teuer.¦en=The exploration of space is expensive.
+B6024¦m=command; order¦lv=C1¦art=das¦pl=Kommandos¦ex=Auf mein Kommando geht es los.¦en=It starts on my command.
+B6025¦m=migration¦pl=–¦en=Yesterday there was a discussion on migration on TV.

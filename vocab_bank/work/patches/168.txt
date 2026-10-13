@@ -1,0 +1,91 @@
+B6542¦m=to throw down¦en=Can you throw the key down to me, please? I forgot mine.
+B6543¦m=carrot (Swiss)¦rg=regional¦tp=T06¦en=Rabbits like eating carrots.
+B6544¦m=writer (f)¦en=Do you know this author? I love her books.
+B6545¦m=class test (Austrian)¦rg=regional¦tp=T04¦en=My son always gets good marks in class tests.
+B6546¦m=mushroom (Austrian, Bavarian)¦rg=regional¦tp=T06¦en=Do you have fresh mushrooms?
+B6547¦m=Swiss woman¦ex=Die Schweizerin arbeitet in Zürich.¦en=The Swiss woman works in Zurich.
+B6548¦m=Swiss¦ex=Ich mag schweizerische Schokolade.¦en=I like Swiss chocolate.
+B6550¦m=secondary school (Swiss)¦rg=regional¦tp=T04¦pl=Sekundarschulen¦ex=Nach der Primarschule besucht sie die Sekundarschule.¦en=After primary school she attends secondary school.
+B6551¦m=winner (f)¦en=Who won? What is the winner called?
+B6552¦m=sock¦en=In winter I need warm socks.
+B6553¦m=special school¦pl=Sonderschulen¦ex=Das Kind besucht eine Sonderschule.¦en=The child attends a special school.
+B6554¦m=on Saturdays (N. German)¦rg=regional¦ex=Sonnabends gehen wir auf den Markt.¦en=On Saturdays we go to the market.
+B6555¦m=dining car¦en=Where is the dining car?
+B6556¦m=player (f)¦ex=Die Spielerin hat zwei Tore geschossen.¦en=The player scored two goals.
+B6557¦m=playgroup (Swiss)¦rg=regional¦tp=T04¦pl=Spielgruppen¦ex=Die Kinder gehen einmal pro Woche in die Spielgruppe.¦en=The children go to the playgroup once a week.
+B6558¦m=sports ground¦en=The football training is at 5 pm on the sports ground.
+B6559¦m=mayor (Swiss)¦rg=regional¦tp=T12¦ex=Der Stadtpräsident eröffnet die Ausstellung.¦en=The mayor opens the exhibition.
+B6560¦m=mayor (f) (Swiss)¦rg=regional¦tp=T12¦ex=Die Stadtpräsidentin spricht zu den Bürgern.¦en=The mayor speaks to the citizens.
+B6561¦m=plug¦en=The plug does not fit in this socket.
+B6562¦m=flight attendant (m)¦ex=Der Steward bringt das Mittagessen.¦en=The flight attendant brings the lunch.
+B6563¦m=flight attendant (f)¦ex=Die Stewardess bringt das Mittagessen.¦en=The flight attendant brings the lunch.
+B6564¦m=staircase (Austrian)¦rg=regional¦tp=T02¦en=Where is the toilet? – Up the stairs and then left.
+B6565¦m=stairwell (Austrian)¦rg=regional¦tp=T02¦en=There is no light in the stairwell.
+B6566¦pos=adjective¦m=stylistic¦en=The text is very good stylistically.
+B6567¦pos=adjective¦m=punishable¦en=What you are doing there is punishable by law.
+B6568¦m=parking ticket; fine¦en=Such bad luck! I parked wrongly once and immediately got a ticket.
+B6569¦m=match¦en=I would like a box of matches.
+B6570¦m=stocking; sock¦en=Where are my red socks?
+B6571¦m=Council of States (Swiss)¦rg=regional¦tp=T12¦pl=Ständeräte¦ex=Der Ständerat ist die kleine Kammer des Parlaments.¦en=The Council of States is the small chamber of parliament.
+B6572¦pos=adjective¦m=hourly¦ex=Der Bus fährt stündlich.¦en=The bus runs hourly.
+B6573¦m=addictive substance¦en=Some medicines are also addictive substances.
+B6574¦m=swimming pool¦ex=Das Hotel hat einen großen Swimmingpool.¦en=The hotel has a large swimming pool.
+B6575¦pos=adjective¦m=addicted¦en=I am addicted to chocolate.
+B6576¦m=pocket money¦en=How much pocket money do your children get?
+B6577¦pos=adjective¦m=deaf¦en=She hears badly, she is almost deaf.
+B6578¦m=pavement (Swiss)¦rg=regional¦tp=T08¦en=Cycling on the pavement is not allowed.
+B6579¦m=to tweet¦ex=Der Minister twittert jeden Tag.¦en=The minister tweets every day.
+B6580¦m=perpetrator (f)¦ex=Die Täterin wurde von der Polizei gefasst.¦en=The perpetrator was caught by the police.
+B6581¦m=Turkish woman¦tp=T08¦ex=Die Türkin arbeitet als Ärztin.¦en=The Turkish woman works as a doctor.
+B6582¦m=Ukrainian (m)¦ex=Der Ukrainer lernt Deutsch.¦en=The Ukrainian man is learning German.
+B6583¦m=Ukrainian (f)¦ex=Die Ukrainerin arbeitet im Krankenhaus.¦en=The Ukrainian woman works in the hospital.
+B6584¦m=Ukrainian¦ex=Wir essen ukrainischen Borschtsch.¦en=We are eating Ukrainian borscht.
+B6585¦m=Ukrainian (language)¦pl=–¦ex=Sie spricht Ukrainisch und Deutsch.¦en=She speaks Ukrainian and German.
+B6586¦m=exchange¦en=An exchange is unfortunately not possible.
+B6587¦m=user (f)¦ex=Die Userin schreibt einen Kommentar.¦en=The user writes a comment.
+B6589¦m=criminal (f)¦ex=Die Verbrecherin wurde verhaftet.¦en=The criminal was arrested.
+B6590¦m=traffic sign¦en=My children are just learning the traffic signs at school.
+B6591¦m=loser (f)¦en=She is a good loser.
+B6592¦m=renting out; letting¦en=You can earn a lot of money by renting out flats.
+B6593¦m=to pack¦ex=Hast du die Pakete gut verpackt?¦en=Did you pack the parcels well?
+B6594¦m=to provide with food; to cater for¦en=We are very well catered for here.
+B6595¦m=deputy (f); substitute¦en=When Dr Müller was on holiday, I went to his deputy.
+B6596¦m=fourthly¦ex=Viertens ist das Zimmer zu laut.¦en=Fourthly, the room is too noisy.
+B6597¦m=purple; violet¦ex=Sie trägt ein violettes Kleid.¦en=She is wearing a purple dress.
+B6598¦m=business card¦en=May I give you my business card?
+B6599¦m=primary school (Austria)¦rg=regional¦tp=T04¦pl=Volksschulen¦ex=Mein Kind geht in die Volksschule.¦en=My child goes to primary school.
+B6600¦m=right of way¦pl=–¦en=Attention! The car on the right has right of way!
+B6601¦pos=adjective¦m=horizontal¦en=Please draw a horizontal line.
+B6602¦m=waiting time¦lv=B1¦tp=T09¦pl=Wartezeiten¦ex=Die Wartezeit beträgt etwa zehn Minuten.¦en=The waiting time is about ten minutes.
+B6603¦m=detergent¦en=You must not wash this blouse with just any detergent.
+B6604¦m=on weekdays¦ex=Werktags öffnet die Praxis um acht.¦en=On weekdays the practice opens at eight.
+B6605¦pos=adjective¦m=worthless¦en=These old banknotes are completely worthless today.
+B6606¦m=goodbye (on the phone)¦tp=T15¦pl=–¦en=Goodbye then!
+B6607¦m=landlady¦en=I know the landlady of this pub.
+B6608¦m=scientist (f)¦en=She is a scientist at the university.
+B6609¦m=on weekdays¦ex=Wochentags arbeite ich bis 17 Uhr.¦en=On weekdays I work until 5 pm.
+B6610¦m=toothpaste¦pl=Zahncremes¦en=The new toothpaste smells very good.
+B6611¦m=pliers¦en=To repair the bicycle you need pliers.
+B6612¦m=certificate¦en=If I pass the exam, I get a certificate.
+B6613¦m=witness (f)¦ex=Die Zeugin hat den Unfall gesehen.¦en=The witness saw the accident.
+B6614¦m=marital status (Swiss)¦rg=regional¦tp=T09¦pl=–¦en=Under marital status you have to tick single.
+B6615¦m=to close; to approach¦en=The door will not close. Can you help me?
+B6616¦m=surcharge¦en=For this train you have to pay a surcharge.
+B6617¦art=das¦m=afternoon snack (Swiss)¦rg=regional¦tp=T06¦pl=–¦en=It is time for a little afternoon snack.
+B6618¦m=twofold; double¦ex=Der Vertrag wird zweifach ausgedruckt.¦en=The contract is printed in duplicate.
+B6619¦m=two thousand and one¦ex=Das war im Jahr zweitausendeins.¦en=That was in the year two thousand and one.
+B6620¦m=second language¦en=German is his second language.
+B6621¦m=matches (Austrian)¦rg=regional¦tp=T07¦nt=Zünder (der) otherwise = fuse, detonator¦en=I would like a box of matches.
+B6622¦m=match¦en=I would like a box of matches.
+B6623¦m=Austrian (f)¦ex=Die Österreicherin wohnt in Wien.¦en=The Austrian woman lives in Vienna.
+B6624¦m=to run over¦en=Yesterday a driver ran over a dog.
+B6625¦m=to overtake¦en=Lorries may not overtake here.
+B6626¦m=caretaker (f) (Swiss)¦rg=regional¦tp=T02¦ex=Die Abwartin putzt das Treppenhaus.¦en=The caretaker cleans the staircase.
+B6627¦m=chief of a municipality (f) (Swiss)¦rg=regional¦tp=T12¦ex=Die Ammännin leitet die Gemeinde.¦en=The Ammännin heads the municipality.
+B6628¦m=vocational secondary school (Swiss)¦rg=regional¦tp=T04¦pl=Berufsmittelschulen¦ex=An der Berufsmittelschule macht er die Berufsmatura.¦en=At the vocational secondary school he takes the vocational baccalaureate.
+B6629¦m=diploma secondary school (Swiss)¦rg=regional¦tp=T04¦pl=Diplommittelschulen¦ex=Nach der Diplommittelschule arbeitet sie im Gesundheitswesen.¦en=After the diploma secondary school she works in healthcare.
+B6630¦m=butcher (f) (Austrian)¦rg=regional¦tp=T03¦ex=Diese Fleischhauerin macht sehr gute Wurst.¦en=This butcher makes very good sausage.
+B6632¦m=learner (f)¦en=She is a diligent learner.
+B6633¦m=postwoman (Swiss)¦rg=regional¦tp=T09¦en=Has the postwoman already been?
+B6634¦art=der/die¦m=service staff (Swiss)¦rg=regional¦tp=T03¦en=I am a waitress by profession.
+B6635¦m=text structure¦pl=–¦en=Pay attention to the structure of the text.

@@ -1,0 +1,100 @@
+B5961¦m=repetition; repeat
+B6026¦m=laundry; washing¦pl=–¦en=I still have to do the laundry.
+B6027¦pos=adjective¦m=external; outwardly¦en=You may only use the medicine externally.
+B6028¦m=consumption¦pl=–¦en=The consumption of food is rising.
+B6029¦pos=adjective¦m=front¦ex=Wir sitzen in der vorderen Reihe.¦en=We sit in the front row.
+B6030¦pos=adjective¦m=patient¦lv=B2¦ex=Die Lehrerin ist sehr geduldig.¦en=The teacher is very patient.
+B6031¦pos=preposition¦g=+ Dat.¦m=within¦lv=C1¦ex=Binnen einer Woche bekommen Sie Antwort.¦en=You will get an answer within a week.
+B6032¦pos=preposition¦g=+ Dat.¦m=together with¦lv=C1¦ex=Er kam nebst seiner Frau.¦en=He came together with his wife.
+B6033¦pos=adverb¦m=against each other¦lv=B2¦ex=Die beiden Teams spielen gegeneinander.¦en=The two teams play against each other.
+B6034¦m=overcoming; effort¦lv=C1¦art=die¦pl=–¦ex=Es kostet mich Überwindung, den Arzt anzurufen.¦en=It takes an effort for me to call the doctor.
+B6035¦m=to ask; to request¦en=She asked me to give my opinion.
+B6036¦m=ancestor¦lv=C1¦art=der¦pl=Vorfahren¦ex=Ein Vorfahr von mir war Bäcker.¦en=One of my ancestors was a baker.
+B6037¦pos=affix¦m=single; individual (prefix)¦nt=mostly a prefix (Einzelzimmer, Einzelkind)¦ex=Wir buchen ein Einzelzimmer.¦en=We are booking a single room.
+B6038¦m=helicopter¦lv=B2¦tp=T08¦pl=Hubschrauber¦ex=Der Hubschrauber landet auf dem Dach der Klinik.¦en=The helicopter lands on the roof of the clinic.
+B6039¦m=cancer; crab¦lv=B1¦art=der¦pl=–¦nt=plural Krebse only for the animal (crab)¦tp=M2¦ex=Der Arzt hat Krebs diagnostiziert.¦en=The doctor diagnosed cancer.¦col=an Krebs erkranken | Krebs im Frühstadium | Krebs diagnostizieren | Krebs behandeln
+B6040¦m=on Sundays¦ex=Sonntags schlafe ich lange.¦en=On Sundays I sleep in.
+B6041¦m=flour¦pl=–¦en=I want to bake a cake. Is there still enough flour?
+B6042¦m=to doubt¦en=I do not doubt that you are right.
+B6043¦m=intestine; bowel¦lv=B2¦art=der¦pl=Därme¦tp=M1¦ex=Der Darm nimmt Nährstoffe auf.¦en=The intestine absorbs nutrients.¦col=den Darm untersuchen | entzündeter Darm | Darm und Magen | den Darm entleeren
+B6044¦m=wrist¦lv=B2¦art=das¦pl=Handgelenke¦tp=M1¦ex=Er hat sich das Handgelenk gebrochen.¦en=He broke his wrist.¦col=das Handgelenk brechen | Schmerzen im Handgelenk | das Handgelenk verstauchen | das Handgelenk schienen
+B6045¦pos=adjective¦m=senseless; pointless¦en=I have not read such a pointless book for a long time.
+B6046¦m=labour market¦lv=B2¦art=der¦pl=Arbeitsmärkte¦ex=Der Arbeitsmarkt für Ärzte ist gut.¦en=The job market for doctors is good.
+B6047¦m=review¦lv=C1¦tp=T10¦pl=Rezensionen¦ex=Die Rezension des Buches war sehr positiv.¦en=The review of the book was very positive.
+B6048¦m=loser¦ex=Er ist ein guter Verlierer.¦en=He is a good loser.
+B6049¦pos=adjective¦m=weekly¦ex=Der Kurs findet wöchentlich statt.¦en=The course takes place weekly.
+B6051¦pos=adjective¦m=pink¦lv=A2¦tp=T07¦ex=Sie trägt einen pinken Pullover.¦en=She is wearing a pink jumper.
+B6052¦m=subscription¦ex=Mein Abo für die Zeitung läuft bald aus.¦en=My newspaper subscription is about to expire.
+B6053¦pos=adjective¦m=absurd¦lv=C1¦tp=T14¦ex=Diese Idee ist völlig absurd.¦en=This idea is completely absurd.
+B6054¦m=battery¦en=Can you bring batteries for the camera, please?
+B6055¦m=challenge¦lv=B2¦tp=T10¦pl=Challenges¦ex=Die Challenge im Internet wurde schnell beliebt.¦en=The challenge on the internet quickly became popular.
+B6056¦m=comedy (genre)¦lv=B2¦tp=T10¦pl=–¦ex=Ich sehe gern Comedy im Fernsehen.¦en=I like watching comedy on TV.
+B6057¦m=diploma¦en=Where can I pick up my diploma?
+B6059¦m=carnival¦en=My costume for the carnival parade hangs there.
+B6061¦m=bye¦tp=T01¦en=Young people mostly say tschüss and not auf Wiedersehen.
+B6062¦m=fainting; unconsciousness¦lv=B2¦art=die¦pl=Ohnmachten¦tp=M2¦ex=Die Patientin fiel in Ohnmacht.¦en=The patient fainted.¦col=in Ohnmacht fallen | aus der Ohnmacht erwachen | eine kurze Ohnmacht | kurz vor der Ohnmacht
+B6063¦m=register; index¦lv=C1¦art=das¦pl=Register¦ex=Der Name steht im Register.¦en=The name is in the register.
+B6064¦m=to insult¦en=I did not want to insult you.
+B6065¦pos=adjective¦m=stunned; speechless¦lv=C1¦ex=Er war fassungslos über die Nachricht.¦en=He was stunned by the news.
+B6066¦pos=adjective¦m=painful¦lv=B2¦ex=Die Untersuchung ist nicht schmerzhaft.¦en=The examination is not painful.
+B6067¦m=supervision¦lv=B2¦art=die¦pl=–¦ex=Die Kinder spielen unter Aufsicht.¦en=The children play under supervision.
+B6068¦m=fence¦lv=B2¦art=der¦pl=Zäune¦ex=Der Hund springt über den Zaun.¦en=The dog jumps over the fence.
+B6069¦m=to arrest¦en=The police arrested 23 people.
+B6070¦m=exhaustion¦lv=B2¦art=die¦pl=–¦tp=M2¦ex=Der Patient ist am Rande der Erschöpfung.¦en=The patient is on the verge of exhaustion.¦col=völlige Erschöpfung | vor Erschöpfung umfallen | körperliche Erschöpfung | Zeichen der Erschöpfung
+B6071¦m=to grow up¦lv=B2¦sp=auf¦ps=wächst auf¦pt=wuchs auf¦pf=ist aufgewachsen¦ex=Sie ist auf dem Land aufgewachsen.¦en=She grew up in the countryside.
+B6072¦m=bathroom¦lv=A2¦art=das¦pl=Badezimmer¦ex=Das Badezimmer ist im ersten Stock.¦en=The bathroom is on the first floor.
+B6073¦m=trade union¦en=The union represents the interests of the employees.
+B6074¦pos=adjective¦m=neighbouring¦lv=C1¦ex=Die benachbarten Häuser sind sehr alt.¦en=The neighbouring houses are very old.
+B6075¦m=marriage¦lv=B2¦art=die¦pl=Heiraten¦ex=Nach der Heirat zogen sie nach Köln.¦en=After the marriage they moved to Cologne.
+B6076¦m=lover; enthusiast¦lv=C1¦art=der¦pl=Liebhaber¦ex=Er ist ein Liebhaber alter Autos.¦en=He is an enthusiast of old cars.
+B6077¦m=encyclopaedia¦en=We could look it up in the encyclopaedia.
+B6078¦m=agreement; treaty¦lv=C1¦art=das¦pl=Abkommen¦ex=Die Länder unterzeichneten ein Abkommen.¦en=The countries signed an agreement.
+B6079¦m=consent¦lv=C1¦art=die¦pl=Einwilligungen¦tp=M4¦ex=Für die Operation braucht man die Einwilligung des Patienten.¦en=For the operation the patient's consent is needed.¦col=die Einwilligung erteilen | schriftliche Einwilligung | Einwilligung einholen | ohne Einwilligung
+B6080¦m=liberal¦ex=Seine Eltern sind sehr liberal.¦en=His parents are very liberal.
+B6081¦pos=adverb¦ck=spelling?¦m=too much¦lv=B1¦ex=Er hat zu viel gegessen.¦en=He ate too much.
+B6082¦m=income; merit¦lv=C1¦art=der¦pl=Verdienste¦ex=Sein Verdienst reicht für die Miete.¦en=His earnings are enough for the rent.
+B6083¦pos=adjective¦m=unbearable¦lv=C1¦ex=Die Hitze war unerträglich.¦en=The heat was unbearable.
+B6084¦m=hierarchy¦lv=C1¦art=die¦pl=Hierarchien¦ex=In der Klinik gibt es klare Hierarchien.¦en=There are clear hierarchies in the clinic.
+B6085¦m=show¦ex=Die Show im Fernsehen war sehr lustig.¦en=The show on TV was very funny.
+B6086¦m=partnership¦lv=B2¦art=die¦pl=Partnerschaften¦ex=Eine Partnerschaft braucht Vertrauen.¦en=A partnership needs trust.
+B6087¦m=dose¦lv=B2¦art=die¦pl=Dosen¦tp=M3¦ex=Nehmen Sie bitte nicht mehr als die empfohlene Dosis.¦en=Please do not take more than the recommended dose.¦col=die Dosis erhöhen | die empfohlene Dosis | eine tägliche Dosis | die Dosis anpassen
+B6088¦m=leather¦pl=–¦en=Is the bag made of leather?
+B6089¦m=musculature¦lv=C1¦art=die¦pl=–¦tp=M1¦ex=Eine starke Muskulatur schützt den Rücken.¦en=Strong musculature protects the back.¦col=die Muskulatur stärken | verspannte Muskulatur | schwache Muskulatur | die Muskulatur entspannen
+B6090¦m=to motivate¦lv=B2¦ps=motiviert¦pt=motivierte¦pf=hat motiviert¦ex=Der Trainer motiviert das Team.¦en=The coach motivates the team.
+B6091¦pos=adjective¦m=local¦lv=C1¦ex=Die örtliche Polizei untersucht den Fall.¦en=The local police are investigating the case.
+B6092¦m=criminal¦en=The police arrested the criminal.
+B6093¦m=entry; registration¦lv=C1¦art=die¦pl=Eintragungen¦ex=Die Eintragung im Register dauert eine Woche.¦en=The entry in the register takes a week.
+B6094¦m=judiciary; justice system¦lv=C1¦art=die¦pl=–¦ex=Die Justiz muss unabhängig sein.¦en=The judiciary must be independent.
+B6095¦m=investor¦lv=C1¦art=der¦pl=Investoren¦ex=Der Investor kauft das Grundstück.¦en=The investor buys the plot.
+B6096¦m=departure¦lv=B2¦art=die¦pl=Abreisen¦ex=Die Abreise ist für Montag geplant.¦en=The departure is planned for Monday.
+B6097¦m=thirdly¦ex=Drittens ist das Hotel zu teuer.¦en=Thirdly, the hotel is too expensive.
+B6098¦m=appetite¦pl=–¦en=Enjoy your meal!
+B6099¦m=nausea¦lv=B1¦art=die¦pl=–¦tp=M2¦ex=Der Patient klagt über Übelkeit.¦en=The patient complains of nausea.¦col=unter Übelkeit leiden | Übelkeit und Erbrechen | morgendliche Übelkeit | Übelkeit auslösen
+B6100¦m=fashion model¦pl=Models¦ex=Das Model läuft über den Laufsteg.¦en=The model walks down the catwalk.
+B6101¦m=reward¦lv=B2¦art=die¦pl=Belohnungen¦ex=Als Belohnung gibt es ein Eis.¦en=As a reward there is an ice cream.
+B6102¦m=vein; blood vessel¦lv=C1¦art=die¦pl=Adern¦tp=M1¦ex=Die Ader am Arm ist gut zu sehen.¦en=The vein on the arm is easy to see.¦col=eine Ader punktieren | die Adern verengen | eine verstopfte Ader | Blut aus der Ader
+B6103¦m=floor¦lv=B2¦art=der¦pl=Fußböden¦ex=Der Fußboden ist aus Holz.¦en=The floor is made of wood.
+B6104¦m=questionnaire¦lv=B2¦art=der¦pl=Fragebögen¦ex=Bitte füllen Sie den Fragebogen aus.¦en=Please fill in the questionnaire.
+B6105¦m=fellow human being¦lv=C1¦art=der¦pl=Mitmenschen¦ex=Wir sollten respektvoll mit unseren Mitmenschen umgehen.¦en=We should treat our fellow human beings with respect.
+B6106¦m=rib¦lv=B2¦art=die¦pl=Rippen¦tp=M1¦ex=Der Patient hat sich eine Rippe gebrochen.¦en=The patient has broken a rib.¦col=eine Rippe brechen | Schmerzen an der Rippe | die Rippe prellen | die Rippen abtasten
+B6107¦m=folder; file¦en=I bought myself a folder for my exercises in the German course.
+B6108¦m=counter; bar¦lv=B2¦art=der¦pl=Tresen¦ex=Er bestellt am Tresen ein Bier.¦en=He orders a beer at the counter.
+B6109¦m=darling; favourite¦lv=B2¦art=der¦pl=Lieblinge¦ex=Komm her, mein Liebling!¦en=Come here, my darling!
+B6110¦m=dough; batter¦lv=B2¦art=der¦pl=Teige¦ex=Der Teig muss eine Stunde ruhen.¦en=The dough has to rest for an hour.
+B6111¦m=improvement; recovery¦pl=–¦en=Get well soon!
+B6112¦m=move out; extract¦lv=B2¦art=der¦pl=Auszüge¦ex=Der Auszug aus der Wohnung ist am Monatsende.¦en=The move out of the flat is at the end of the month.
+B6113¦tp=T06¦m=pan¦en=Do you not have a bigger pan? I want to cook potatoes.
+B6114¦m=irony¦lv=C1¦art=die¦pl=–¦ex=In seiner Antwort lag viel Ironie.¦en=There was a lot of irony in his answer.
+B6115¦m=description; account¦lv=C1¦art=die¦pl=Schilderungen¦ex=Die Schilderung des Unfalls war genau.¦en=The account of the accident was precise.
+B6116¦m=indication¦lv=C1¦art=die¦pl=Indikationen¦tp=M3¦ex=Für die Operation besteht eine klare Indikation.¦en=There is a clear indication for the operation.¦col=eine Indikation stellen | klare Indikation | Indikation zur Operation | die Indikation prüfen
+B6117¦m=elbow¦lv=B2¦art=der¦pl=Ellbogen¦tp=M1¦ex=Er hat sich den Ellbogen gestoßen.¦en=He bumped his elbow.¦col=den Ellbogen stoßen | Schmerzen im Ellbogen | gebrochener Ellbogen | den Ellbogen beugen
+B6119¦m=petition¦lv=C1¦tp=T12¦pl=Petitionen¦ex=Viele Bürger unterschrieben die Petition.¦en=Many citizens signed the petition.
+B6120¦m=beam¦lv=B2¦art=der¦pl=Balken¦ex=Der Balken trägt das Dach.¦en=The beam supports the roof.
+B6121¦m=cult¦lv=C1¦tp=T10¦pl=Kulte¦ex=Der Film ist längst Kult.¦en=The film has long been a cult classic.
+B6122¦m=nature conservation¦lv=B2¦tp=T11¦pl=–¦ex=Naturschutz ist uns sehr wichtig.¦en=Nature conservation is very important to us.
+B6123¦m=way back¦lv=B2¦art=der¦pl=Rückwege¦ex=Auf dem Rückweg kaufe ich Brot.¦en=On the way back I buy bread.
+B6124¦pos=adjective¦m=specialised¦lv=B2¦tp=T03¦ex=Die Klinik ist auf Herzkrankheiten spezialisiert.¦en=The clinic specialises in heart diseases.
+B6125¦pos=adjective¦m=Bavarian¦lv=A2¦ex=Wir essen bayerische Weißwürste.¦en=We eat Bavarian white sausages.
+B6126¦m=care; welfare¦lv=C1¦art=die¦pl=–¦ex=Die Fürsorge für alte Menschen ist wichtig.¦en=Care for the elderly is important.
+B6127¦pos=verb¦m=to conquer¦lv=C1¦tp=T12¦ps=erobert¦pt=eroberte¦pf=hat erobert¦ex=Die Armee eroberte die Stadt.¦en=The army conquered the city.
+B6129¦pos=adjective¦m=confident; sovereign¦lv=C1¦tp=T14¦ex=Sie hielt einen souveränen Vortrag.¦en=She gave a confident talk.
