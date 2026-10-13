@@ -1,0 +1,100 @@
+B0195¦tp=T15¦ck=-¦m=useful phrase (for speaking and writing)¦ex=Mit diesen Redemitteln können Sie Ihre Meinung sagen.¦en=With these phrases you can state your opinion.
+B4587¦tp=T16¦col=mit etwas handeln | schnell handeln | von etwas handeln | es handelt sich um ...¦en=Mr Huber has a small shop. He deals in fruit and vegetables.
+B0196¦tp=T15¦ex=Das Subjekt steht oft am Satzanfang.¦en=The subject often comes at the start of the sentence.
+B0198¦en=I was given a very kind send-off by my friends.
+B0200¦tp=T14¦m=gladly; with pleasure¦ef=lieber – am liebsten¦nt=Used with verbs of liking: Ich esse gern Fisch.¦en=I like going shopping.
+B3066¦tp=T13¦m=mostly; most of the time¦en=How well can you speak German? – I understand most of it.¦col=meist am Wochenende | die meisten Leute | meistens | am meisten
+B0201¦tp=T01¦en=There are a lot of people at the club.
+B0202¦pt=fotografierte¦en=I like taking photos.
+B0203¦tp=T01¦en=That's a friend of mine.
+B3812¦pos=adverb¦m=about that; over it; above it¦ex=Darüber möchte ich gern mit dir sprechen.¦en=I'd like to talk to you about that.¦col=darüber sprechen | sich darüber freuen | darüber nachdenken | darüber hinaus
+B0204¦en=This is my friend Susanne.
+B0205¦pt=joggte¦en=I like jogging in the park.
+B0206¦tp=T03¦en=I have good contact with my colleagues.
+B1920¦tp=T15¦pt=rief¦col=um Hilfe rufen | die Polizei rufen | den Arzt rufen | nach jemandem rufen¦en=Please call the children. The meal is ready.
+B0207¦en=What's the new colleague called?
+B0208¦col=Musik hören | laute Musik | klassische Musik | Musik machen¦en=What do you think of the music?
+B0209¦pt=sang¦en=He likes singing.
+B2330¦tp=T15¦ef=den Gedanken; des Gedankens (mixed declension)
+B0210¦tp=T10¦ps=tanzt¦pt=tanzte¦pf=hat getanzt¦en=Do you like dancing?
+B0211¦tp=T15¦ps=kreuzt an¦pt=kreuzte an¦pf=hat angekreuzt¦m=to tick; to mark with a cross¦en=On the form you have to tick something in several places.
+B0212¦tp=T10¦m=cinema; movie theater¦en=Tonight we're watching a nice film at the cinema.
+B3570¦tp=T16¦col=schließlich doch | und schließlich | schließlich und endlich¦en=I had to wait a long time. But in the end I did get the job.
+B0213¦tp=T06¦ps=kocht¦pt=kochte¦pf=hat gekocht¦en=Mr Georgi can cook well.
+B0214¦tp=T08¦ps=reist¦pt=reiste¦pf=ist gereist¦en=I like travelling.
+B0215¦tp=T10¦pt=schwamm¦en=I swim a kilometre every day.
+B3493¦ex=Das Unternehmen hat zweihundert Mitarbeiter.¦en=The company has two hundred employees.
+B0216¦tp=T15¦ps=antwortet¦pt=antwortete¦pf=hat geantwortet¦g=auf + Akk. | + Dat.¦en=He doesn't answer.
+B0217¦tp=T03¦ps=arbeitet¦pt=arbeitete¦pf=hat gearbeitet
+B0218¦tp=T15¦m=yes; (modal particle) indeed
+B2633¦pos=adjective¦tp=T16¦en=We only talked about general problems.
+B0219¦tp=T15¦en=Are you also going to Munich? – No, I don't have time.
+B0220¦tp=T16¦ck=-
+B0221¦tp=T10¦en=Good books are often very expensive.
+B3286¦pos=adverb¦tp=T13¦nt=Abbreviation of circa; read aloud: zirka.¦ex=Der Weg dauert ca. zehn Minuten.¦en=The way takes approx. ten minutes.¦col=ca. zehn Minuten | ca. 20 Euro | ca. 50 Prozent
+B0223¦tp=T14¦ps=liebt¦pt=liebte¦pf=hat geliebt¦en=I love you!
+B0224¦tp=T10¦ex=Die Nachricht war eine echte Sensation.¦en=The news was a real sensation.
+B0225¦pos=adjective¦rg=colloquial¦m=super; great
+B2584¦tp=T08¦pt=erreichte¦en=If we hurry, we'll still catch the eight o'clock train.¦col=den Zug erreichen | ein Ziel erreichen | jemanden telefonisch erreichen | das Alter von ... erreichen
+B0226¦pos=adjective¦rg=informal¦en=The holiday was great.
+B0229¦tp=T15¦ex=Die Endung des Verbs ändert sich.¦en=The ending of the verb changes.
+B0230¦tp=T10¦en=May I take a photo?
+B3402¦tp=T16¦m=therefore; from there¦en=I have a cold, so I can't come today.¦col=daher kommen | von daher | daher auch
+B0232¦en=You are reading comments on an article.
+B0233¦pos=adjective¦tp=T14¦en=Mrs Mertens is funny. She is always laughing.
+B0234¦tp=T13
+B2009¦pos=adjective¦tp=T12¦en=The system is not socially fair.¦col=soziale Probleme | soziale Netzwerke | sozialer Wohnungsbau | soziales Verhalten
+B0235¦pos=adverb¦tp=T13¦nt=der Morgen = morning (noun); morgen = tomorrow.¦ex=Morgen habe ich einen Arzttermin.¦en=Tomorrow I have a doctor's appointment.
+B0236¦tp=T06¦ex=Heute Abend koche ich Spaghetti mit Tomatensoße.¦en=Tonight I'm cooking spaghetti with tomato sauce.
+B0238¦pos=adverb¦tp=T16¦col=wirklich wichtig | wirklich gut | nicht wirklich | wirklich so
+B4822¦tp=T10¦m=to appear; to be published; to seem¦en=The magazine is published once a month.¦col=pünktlich erscheinen | eine Zeitschrift erscheint | vor Gericht erscheinen | es erscheint mir wichtig
+B0239¦tp=T13¦ex=Am Wochenende fahre ich zu meiner Familie.¦en=At the weekend I'm visiting my family.
+B0240¦pos=numeral¦tp=T13¦en=Work in threes.
+B0241¦tp=T16¦m=form; shape; mould¦os=-¦en=These shoes have a nice shape.
+B3153¦tp=T09¦col=einen Brief erhalten | eine Antwort erhalten | Informationen erhalten | erhalten bleiben¦en=We have received your letter of 3 January.
+B0242¦tp=T15¦ex=„Gehen“ ist der Infinitiv von „ich gehe“.¦en=“Gehen” is the infinitive of “ich gehe”.
+B0243¦tp=T15¦pt=nannte¦col=einen Grund nennen | den Namen nennen | jemanden Chef nennen | etwas beim Namen nennen¦en=My friend is called Alexander, but everyone calls him Alex.
+B0244¦tp=T10¦en=My hobbies are hiking and swimming.
+B1979¦tp=T13¦m=each; per; ever¦en=Depending on the quality, the sweaters cost between 40 and 60 euros.¦col=je nach | je ... desto ... | je zwei | je nachdem
+B0246¦tp=T13¦ex=Am Dienstag habe ich Deutschkurs.¦en=On Tuesday I have German class.
+B0247¦tp=T13¦ex=Am Donnerstag gehe ich zum Arzt.¦en=On Thursday I'm going to the doctor.
+B0248¦tp=T13¦ex=Freitags arbeite ich nur bis zwölf Uhr.¦en=On Fridays I only work until twelve.
+B3599¦pos=adjective¦tp=T12¦en=I often discuss political problems with my husband.¦col=politische Probleme | politisch aktiv | eine politische Entscheidung | politisch korrekt
+B0249¦tp=T13¦ex=Am Mittwoch fahre ich nach Hamburg.¦en=On Wednesday I'm going to Hamburg.
+B0250¦tp=T13¦ex=Am Montag beginnt die Arbeitswoche.¦en=The working week starts on Monday.
+B0251¦tp=T13¦ex=Am Samstag gehen wir ins Kino.¦en=On Saturday we're going to the cinema.
+B3747¦pos=adverb¦m=on it; at it; of it¦ex=Ich denke oft daran.¦en=I often think about it.¦col=daran denken | sich daran erinnern | daran glauben | daran liegen
+B0252¦tp=T13¦ex=Am Sonntag schlafe ich lange.¦en=On Sunday I sleep in.
+B0254¦tp=T13¦ex=Welcher Wochentag ist heute?¦en=What day of the week is it today?
+B0255¦tp=T15
+B5147¦pos=numeral¦tp=T13¦m=second (ordinal)¦ex=Wir wohnen im zweiten Stock.¦en=We live on the second floor.
+B0256¦tp=T14¦en=Unfortunately I can't come. I have to see the doctor.
+B0257¦tp=T15¦pt=sprach nach¦m=to repeat (after sb.)¦ex=Sprechen Sie die Wörter bitte langsam nach.¦en=Please repeat the words slowly after me.
+B0258¦tp=T15¦ck=-¦ex=Die Satzmelodie einer Frage geht am Ende nach oben.¦en=The intonation of a question rises at the end.
+B2919¦tp=T13¦m=just; just now; exactly¦en=I've only just arrived.¦col=eben erst | eben noch | eben nicht | na eben
+B0259¦g=auf + Akk.¦m=to pay attention to; to respect¦en=Please make sure that you lock up when you leave.
+B0261¦tp=T13¦ef=öfter – am häufigsten¦en=I often see Petra.
+B0262¦lemma=Café¦pl=Cafés¦tp=T06¦ex=Wir treffen uns im Café am Marktplatz.¦en=We're meeting at the café on the market square.
+B2483¦pos=adjective¦tp=T15¦m=clear; distinct¦en=Please speak clearly!
+B0265¦pos=determiner¦tp=T13¦m=every; each¦nt=Declines: jeder, jede, jedes.¦ex=Jede Woche gehe ich einmal schwimmen.¦en=Every week I go swimming once.
+B0266¦tp=T04¦ck=-¦m=classroom; course room¦ex=Der Kursraum ist im zweiten Stock.¦en=The classroom is on the second floor.
+B0267¦en=We went to the museum with our class.
+B2856¦tp=T16¦en=I'm ill. That's why I'm not coming to the office today.¦col=gerade deshalb | deshalb auch | und deshalb ...
+B0268¦tp=T06¦en=We're eating in a restaurant today.
+B0269¦tp=T10¦en=Are you coming along to the swimming pool?
+B0270¦en=I'd like to go to the stadium on Saturday. My team is playing there.
+B2681¦tp=M1 Medizin: Anatomie & Körpersysteme¦med=core¦ef=des Herzens; dem Herzen (mixed declension)¦en=I'm really nervous. My heart is pounding.¦col=das Herz schlägt | Herzklopfen haben | ein schwaches Herz | Herz-Kreislauf-System
+B0271¦tp=T13¦ex=Wir fahren für drei Tage nach Berlin.¦en=We're going to Berlin for three days.
+B0272¦tp=T09¦en=It's best if we make an appointment right away.
+B0273¦en=I don't like going to the theatre.
+B4906¦pos=adjective¦tp=T16¦m=corresponding; appropriate; accordingly¦nt=Also prep. + Dat.: entsprechend dem Plan.¦ex=Bitte füllen Sie das Formular entsprechend aus.¦en=Please fill in the form accordingly.¦col=entsprechende Maßnahmen | entsprechend der Anleitung | sich entsprechend verhalten
+B0274¦en=I have an appointment with Klaus at 3 p.m.
+B0275¦en=In German there are three articles: der, die and das.
+B0276¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ef=des Arztes¦en=I have to see the doctor today.¦col=zum Arzt gehen | einen Arzt aufsuchen | praktischer Arzt | den Arzt rufen
+B2183¦tp=T14¦en=I think I'll pass the exam. I have a good feeling.
+B0277¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ex=Die Ärztin untersucht den Patienten.¦en=The doctor examines the patient.¦es=claude¦col=zur Ärztin gehen | die Ärztin fragen | Fachärztin für Innere Medizin
+B0278¦tp=T08¦en=He's coming by car.
+B0279¦tp=T03¦en=What do you do for a living?
+B4685¦pos=adjective¦tp=T16¦m=only; sole; single¦ex=Das ist der einzige Weg.¦en=That is the only way.¦col=der einzige Weg | das einzige Problem | kein einziges Mal | einzig und allein
+B0280¦m=certain; definite
+B0281¦tp=T10¦en=When are you getting your new computer?

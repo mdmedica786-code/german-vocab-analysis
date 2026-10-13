@@ -1,0 +1,100 @@
+B0082¦tp=T15¦ex=Das Wort „ich“ ist ein Personalpronomen.¦en=The word “ich” is a personal pronoun.
+B0083¦tp=T15¦ex=Das Verb steht im Satz an zweiter Stelle.¦en=The verb is in second position in the sentence.
+B0084¦tp=T01¦en=My surname is Müller, my first name is Eva.
+B2230¦tp=T16¦pt=fiel¦en=Watch out, the glass is about to fall off the table.¦col=vom Tisch fallen | in Ohnmacht fallen | jemandem schwerfallen | ins Wasser fallen
+B0085¦tp=T15¦en=Unfortunately, he doesn't give an answer.
+B0088¦tp=T16¦g=-¦m=to come; to come from¦os=-¦ex=Woher kommst du?¦en=Where are you from?¦es=claude
+B0089¦tp=T08¦m=tour guide (m); guidebook¦os=-¦nt=Der Reiseführer is also the book.
+B2769¦tp=T16¦col=sich wohlfühlen | wohl kaum | wohl oder übel
+B0090¦tp=T03¦m=tour guide (f)¦ex=Meine Schwester arbeitet als Reiseführerin in Wien.¦en=My sister works as a tour guide in Vienna.¦ck=-
+B0091¦tp=T15¦pt=sprach¦en=Can I speak to Mr Klein?
+B0092¦tp=T15¦en=Do you have a telephone?
+B5142¦tp=T12¦m=God; god¦en=Do you believe in God?
+B0093¦pos=determiner¦tp=T16¦m=which; some¦nt=Declines: welcher, welche, welches.¦ex=Welche Farbe gefällt dir am besten?¦en=Which colour do you like best?
+B0096¦tp=T02¦ps=wohnt¦pt=wohnte¦pf=hat gewohnt¦en=I live in Munich.
+B0097¦tp=T15¦ck=-¦ex=Ein Aussagesatz endet mit einem Punkt.¦en=A declarative sentence ends with a full stop.
+B2456¦pos=adjective¦tp=T16¦en=With this ticket, the journey is possible from 9 a.m.¦col=so schnell wie möglich | wenn möglich | es ist möglich, dass ...
+B0099¦en=Come quickly! There's an interview with your favourite singer on the radio.
+B0100¦tp=T16¦ps=variiert¦pt=variierte¦pf=hat variiert¦ex=Die Preise variieren von Geschäft zu Geschäft.¦en=Prices vary from shop to shop.
+B0103¦m=to complete; to supplement¦en=Please complete the missing information.
+B2177¦tp=T04¦g=aus + Dat. | auf + Dat.¦m=to pass; to consist; to exist¦os=-¦en=I passed the exam!¦col=eine Prüfung bestehen | aus drei Teilen bestehen | auf etwas bestehen | ein Problem besteht
+B0105¦pt=notierte¦en=Please note down all important information.
+B0106¦tp=T13¦ex=Ich habe zwei Geschwister.¦en=I have two siblings.
+B0107¦tp=T01¦en=We are partners.
+B2866¦pos=adjective¦tp=T16¦ef=stärker – am stärksten¦col=starker Regen | starke Schmerzen | stark erkältet | ein starker Kaffee
+B0108¦tp=T01¦en=She is my partner.
+B0109¦g=+ Dat.¦m=to guess; to advise
+B0110¦tp=T01¦ps=stellt vor¦pt=stellte vor¦pf=hat vorgestellt¦m=to introduce; to present¦os=sich (Dat.) vorstellen: to imagine
+B3476¦pos=adverb¦ex=Davon habe ich nichts gewusst.¦en=I didn't know anything about that.¦col=davon ausgehen | davon abhängen | nichts davon wissen | davon haben
+B0111¦tp=T13¦ex=Wir treffen uns um acht Uhr.¦en=We are meeting at eight o'clock.
+B0112¦tp=T13¦ex=Meine Schwester ist achtzehn Jahre alt.¦en=My sister is eighteen years old.
+B0113¦tp=T15¦en=This letter does not exist in my language.
+B2639¦tp=T13¦en=It's about twenty kilometres from here.¦col=etwa zwei Stunden | in etwa | wie etwa | nicht etwa
+B0114¦tp=T13
+B0115¦tp=T13¦ex=Ich habe drei Katzen.¦en=I have three cats.
+B0116¦tp=T13¦ex=Der Kurs beginnt am dreizehnten Mai.¦en=The course starts on the thirteenth of May.
+B2963¦tp=T16¦ps=legt¦pt=legte¦pf=hat gelegt¦m=to lay; to put (down)¦os=sich legen: to lie down¦en=Put the book on the table.¦col=etwas auf den Tisch legen | sich ins Bett legen | Wert auf etwas legen | die Hand auf etwas legen¦nt=legen = lay (Akk.); liegen = lie (Dat.).
+B0117¦tp=T13¦ex=Eins plus eins ist zwei.¦en=One plus one is two.¦nt=Before nouns: ein/eine.
+B0118¦tp=T13¦ex=Der Zug fährt um elf Uhr ab.¦en=The train leaves at eleven o'clock.
+B0119¦tp=T13¦ex=Das Kind ist fünf Jahre alt.¦en=The child is five years old.
+B3308¦pos=determiner¦tp=T16¦m=such; such a¦ex=Solche Fehler passieren jedem.¦en=Such mistakes happen to everyone.¦col=solche Leute | in solchen Fällen | solche wie du
+B0120¦tp=T13¦ex=Der Kurs dauert fünfzehn Wochen.¦en=The course lasts fifteen weeks.
+B0121¦pos=adjective¦tp=T15¦m=loud; (prep.) according to¦nt=Prep.: laut + Gen./Dat. = according to.¦en=Not so loud! The baby is sleeping.
+B0122¦tp=T15¦pt=sprach mit¦m=to speak along; to join in¦ex=Sprechen Sie den Satz leise mit.¦en=Say the sentence along quietly.
+B5143¦tp=T16¦m=admittedly; indeed¦nt=zwar ..., aber ...; und zwar = namely.¦en=These shoes are expensive, to be sure, but good.¦col=zwar ..., aber ... | und zwar | zwar nicht ..., aber ...
+B0123¦tp=T13¦ex=Wir treffen uns um neun Uhr.¦en=We are meeting at nine o'clock.
+B0124¦tp=T13¦ex=Er ist neunzehn Jahre alt.¦en=He is nineteen years old.
+B0125¦pos=numeral¦tp=T13¦ex=Heute ist es null Grad.¦en=It is zero degrees today.
+B2986¦tp=T09¦g=für + Akk.¦m=to apply; to be valid¦en=My passport is valid for another year.¦col=das gilt auch für dich | als Experte gelten | die Regel gilt nicht | ein Gesetz gilt
+B0126¦tp=T13¦ex=Wir haben sechs Stunden Unterricht.¦en=We have six hours of lessons.
+B0127¦tp=T13¦ex=Mein Bruder ist sechzehn Jahre alt.¦en=My brother is sixteen years old.
+B0128¦tp=T13¦ex=Die Woche hat sieben Tage.¦en=The week has seven days.
+B1936¦tp=T16¦g=+ Dat.¦en=The news follows.¦col=jemandem folgen | einem Rat folgen | auf etwas folgen | daraus folgt, dass ...
+B0129¦tp=T13¦ex=Die Wohnung hat siebzehn Fenster.¦en=The flat has seventeen windows.
+B0130¦tp=T13¦ex=Wir sind zu viert.¦en=There are four of us.
+B0131¦tp=T13¦ex=Der Kurs beginnt in vierzehn Tagen.¦en=The course starts in two weeks.
+B5144¦tp=T08¦m=there; to there; away¦nt=Direction away from the speaker; her = towards the speaker.¦en=Where are you going?¦col=hin und her | hin und zurück | hin und wieder | vor sich hin
+B0132¦en=Could you please repeat the number?
+B0133¦tp=T13¦ex=Ich warte schon zehn Minuten.¦en=I have been waiting for ten minutes.
+B0134¦tp=T13¦ex=Zwanzig Euro sind zu viel.¦en=Twenty euros is too much.
+B1915¦tp=T16¦en=The film is almost over.¦col=fast immer | fast nie | fast fertig | fast alle
+B0135¦tp=T13¦ex=Das Jahr hat zwölf Monate.¦en=The year has twelve months.
+B0136¦tp=T09¦ex=Kann ich Ihre Handynummer haben?¦en=May I have your mobile number?
+B0138¦tp=T15¦ps=fragt¦pt=fragte¦pf=hat gefragt¦g=nach + Dat.¦en=He would like to ask you something. When are you coming?
+B1912¦tp=T16¦en=My sister is interested in politics. I'm not interested in it.¦col=dafür sein | dafür sorgen | dafür können | etwas dafür tun
+B0140¦ex=Wie ist Ihre Telefonnummer?¦en=What is your telephone number?
+B0141¦en=How many letters does the alphabet in your language have?
+B0142¦tp=T15¦pt=las mit¦ex=Lesen Sie den Text leise mit.¦en=Read the text along quietly.
+B3939¦tp=T16¦m=however; though; admittedly¦en=We can meet tomorrow, though I only have time from noon.¦col=allerdings nur | allerdings erst später | allerdings schon
+B0143¦en=First you have to do your homework, then you can play.¦col=zuerst einmal | zuerst ... dann ... | zuerst kommen
+B0144¦tp=T09¦ex=Meine E-Mail-Adresse steht auf der Karte.¦en=My email address is on the card.
+B0145¦tp=T15¦m=conversation; talk
+B2719¦pos=adjective¦tp=T07¦m=single; individual¦en=This mineral water is only sold as a six-pack, not individually.
+B0147¦pos=conjunction¦tp=T13¦nt=Maths: fünf minus drei. Weather: minus fünf Grad.¦ex=Zehn minus drei ist sieben.¦en=Ten minus three is seven.
+B0148¦tp=T15¦m=period (full stop); point; dot¦os=-
+B0149¦tp=T15¦ps=sagt¦pt=sagte¦pf=hat gesagt¦en=Tell me, how are you doing?
+B2510¦pos=adjective¦tp=T16¦m=fixed; firm; solid¦col=fest angestellt | ein fester Termin | fest schlafen | fest versprechen
+B0150¦tp=T15¦pt=schrieb¦en=He writes fifty emails every day.
+B0151¦tp=T15¦ex=Meine E-Mail-Adresse enthält einen Unterstrich.¦en=My email address contains an underscore.
+B0152¦tp=T15¦m=please; you're welcome¦en=A cup of coffee, please!
+B1921¦tp=T16¦m=sense; meaning; point¦en=There's no point in starting another game. It's already late.
+B0153¦tp=T15¦ps=buchstabiert¦pt=buchstabierte¦pf=hat buchstabiert¦en=Please spell your name.
+B0154¦en=You will now hear a dialogue.
+B5145¦tp=T16¦m=to step; to kick; to tread¦nt=ist getreten = step (movement); hat getreten = kick.¦en=I stepped on a piece of glass.¦col=in etwas treten | gegen den Ball treten | in Kraft treten | zur Seite treten
+B0156¦pos=adjective¦tp=T16¦en=Could you please speak a little more slowly?
+B0159¦tp=T15¦pt=verstand
+B2236¦tp=T16¦m=to recognise; to realise¦en=I recognised Roberto straight away by his voice.¦col=jemanden an der Stimme erkennen | einen Fehler erkennen | erkennen, dass ... | die Situation erkennen
+B0166¦tp=T04¦ps=lernt¦pt=lernte¦pf=hat gelernt
+B0170¦en=Fill in the correct information in the table.
+B0186¦pos=numeral¦tp=T13
+B1927¦pos=adjective¦tp=T16¦en=More information on the following pages.¦col=im Folgenden | die folgenden Seiten | folgendes Beispiel
+B0187¦pos=adjective¦tp=T16¦ef=kürzer – am kürzesten
+B0188¦tp=T08¦en=Heidelberg is an old city.
+B0189¦tp=T15¦en=Please read this text.
+B2644¦tp=T16¦en=It is very cold today. In the mountains it even snows.¦col=nicht nur ..., sondern sogar ... | sogar noch mehr | sogar schon
+B0190¦tp=T05¦med=related¦m=condition; state of health; well-being¦nt=Wie ist Ihr Befinden? = How are you feeling?¦ex=Wie ist das Befinden des Patienten heute?¦en=How is the patient's condition today?
+B0191¦pos=adverb¦m=on it; on that; after that¦ex=Ich freue mich darauf.¦en=I'm looking forward to it.¦col=sich darauf freuen | darauf warten | darauf achten | kurz darauf
+B0192¦tp=T15¦ex=Die deutsche Grammatik ist nicht immer leicht.¦en=German grammar is not always easy.
+B2709¦pos=adjective¦tp=T16¦en=Careful, the water is deep!¦col=tief atmen | ein tiefer See | tief schlafen | tief in Gedanken
+B0193¦m=to greet¦en=Who was the woman you just greeted?
+B0194¦g=auf + Akk.¦en=I wrote to the landlord, but he hasn't responded yet.¦col=auf etwas reagieren | schnell reagieren | allergisch reagieren | gelassen reagieren

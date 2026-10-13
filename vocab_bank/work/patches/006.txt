@@ -1,0 +1,100 @@
+B0282¦pos=adjective¦tp=T15¦ex=„Die Frau“ ist ein feminines Nomen.¦en="Die Frau" is a feminine noun.
+B3212¦tp=T15¦en=I recognised you straight away by your voice.
+B0283¦tp=T16¦pt=gab¦m=to give; (es gibt) there is/are¦nt=es gibt + Akk. = there is/are.
+B0284¦tp=T07¦nt=Mostly singular; Gelder = sums of money, funds.¦en=Do you still have money?
+B0285¦tp=T06¦en=Another glass of wine, please!
+B3226¦tp=T15¦col=die Bedeutung eines Wortes | von großer Bedeutung | an Bedeutung gewinnen | keine Bedeutung haben¦en=The word “Maus” now has two meanings.
+B0286¦tp=T03¦ex=Der Kellner bringt uns die Speisekarte.¦en=The waiter brings us the menu.¦es=claude
+B0287¦tp=T03¦en=I'm a waitress by profession.
+B0288¦pos=adjective¦tp=T15¦ex=„Der Mann“ ist ein maskulines Nomen.¦en="Der Mann" is a masculine noun.
+B4265¦tp=T01¦col=sich auf einen Preis einigen | sich mit jemandem einigen | sich nicht einigen können | sich über etwas einigen¦en=Unfortunately, we can't agree.
+B0289¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦en=Take this medicine three times a day!¦col=ein Medikament einnehmen | ein Medikament verschreiben | Medikamente absetzen | ein Medikament vertragen
+B0290¦tp=T16¦en=I asked several people. But nobody could help me.
+B0291¦tp=T16¦col=eine Möglichkeit haben | die Möglichkeit bieten | keine andere Möglichkeit | alle Möglichkeiten nutzen¦en=You want to go to the seaside? There are several options.
+B3748¦tp=T16¦col=die Entwicklung fördern | eine positive Entwicklung | in der Entwicklung sein | die Entwicklung eines Kindes¦en=Enough sleep is important for your child's development.
+B0292¦lemma=Neutrum¦pos=noun¦art=das¦pl=Neutra¦ef=Pl. also Neutren¦tp=T15¦ex=„Das Kind“ ist ein Neutrum.¦en="Das Kind" is a neuter noun.
+B0293¦tp=T16¦pt=passte¦g=zu + Dat. | + Dat.¦m=to fit; to match; to suit¦os=-¦en=Which photo matches the text?¦col=gut passen | zu etwas passen | jemandem passen | auf das Kind passen
+B0294¦tp=T15¦ex=Der Plural von „Kind“ ist „Kinder“.¦en=The plural of “Kind” is “Kinder”.
+B5148¦tp=T16¦m=system¦en=I don't know your system. Can you explain it to me?
+B0295¦tp=T07¦en=The bill, please.
+B0296¦tp=T02¦en=I can't find my key.
+B0297¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦m=injection; syringe¦en=Today the doctor gave me an injection against the pain.¦col=eine Spritze geben | eine Spritze bekommen | eine Spritze gegen Schmerzen | die Spritze aufziehen
+B2154¦pos=adverb¦tp=T13¦en=Suddenly the light went out.¦col=ganz plötzlich | plötzlich und unerwartet | plötzlich aufhören | ein plötzlicher Schmerz
+B0298¦en=Can you give me a pen, please? – What do you need? A coloured pencil, a pencil or a ballpoint pen?
+B0299¦tp=T08¦en=Which street do you live on?
+B0300¦tp=T04¦ef=den/dem/des Studenten (n-declension)¦en=Pupils and students pay half.
+B2170¦tp=T16¦en=I don't like the soup at all.¦col=überhaupt nicht | überhaupt kein | überhaupt nichts | wenn überhaupt
+B0301¦en=I am a student.
+B0302¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦en=You should take two tablets in the evening.¦col=eine Tablette einnehmen | Tabletten schlucken | eine Tablette gegen Schmerzen | Tabletten verschreiben
+B0303¦tp=T03¦ex=Der Taxifahrer hilft mir mit dem Koffer.¦en=The taxi driver helps me with my suitcase.
+B3962¦tp=T16¦m=to arise; to come into being; to be built¦en=A new shopping centre is being built here.¦col=neu entstehen | Kosten entstehen | ein Schaden entsteht | daraus entsteht ...
+B0304¦tp=T03¦ck=-¦ex=Die Taxifahrerin kennt jede Straße in der Stadt.¦en=The taxi driver knows every street in the city.
+B0305¦en=Here is our hotel. I'll mark the way to the station on the map for you.
+B0306¦tp=T15¦ef=Pl. also Nomina¦ex=Nomen schreibt man im Deutschen groß.¦en=In German, nouns are written with a capital letter.
+B3121¦tp=T12¦col=die Gesellschaft verändern | in der Gesellschaft leben | jemandem Gesellschaft leisten¦en=He wants to change society.
+B0307¦tp=T04¦en=The teacher said we should revise two chapters in the book.
+B0308¦tp=T04¦en=The German course lasts until summer.
+B0309¦tp=T04¦ck=-¦ex=Der Lernwortschatz steht am Ende des Kapitels.¦en=The learning vocabulary is at the end of the chapter.
+B3831¦tp=T03¦en=Which area would you like to work in?
+B0310¦tp=T16
+B0311¦tp=T16¦ps=sucht¦pt=suchte¦pf=hat gesucht¦g=nach + Dat.¦m=to search; to look for¦en=Are you looking for something?
+B0312¦tp=T04¦ex=Die Hausaufgaben stehen im Übungsbuch.¦en=The homework is in the exercise book.
+B2486¦tp=T14¦col=freundlich lächeln | über etwas lächeln | in die Kamera lächeln | müde lächeln¦en=Look into the camera. Smile, please!
+B0313¦pt=verglich¦g=mit + Dat.¦col=Preise vergleichen | A mit B vergleichen | Angebote vergleichen | sich vergleichen mit¦en=Compare the offers!
+B0314¦pos=adjective¦tp=T16¦ex=Haben Sie noch weitere Fragen?¦en=Do you have any further questions?
+B0315¦tp=T13¦ex=Heute Abend bleibe ich zu Hause.¦en=This evening I'm staying at home.
+B4303¦pos=adjective¦tp=T07¦ef=ärmer – am ärmsten¦en=They don't have much money; they are poor.¦col=arm und reich | arm an ... | arme Leute | ein armes Land
+B0317¦pos=adjective¦tp=T13¦ef=älter – am ältesten
+B0319¦tp=T08¦ps=fährt¦pt=fuhr¦pf=ist gefahren¦m=to drive; to go (by vehicle)¦nt=hat gefahren if sb. drives a vehicle: Er hat den Wagen gefahren.¦en=I drive to work by car.
+B0320¦tp=T03¦ck=-¦pt=hatte frei¦m=to have time off; to have a day off¦nt=Newer spelling: frei haben (two words).¦ex=Am Mittwoch habe ich frei.¦en=I have Wednesday off.
+B2020¦tp=T16¦col=den Mut verlieren | Zeit verlieren | ein Spiel verlieren | den Schlüssel verlieren
+B0321¦pos=adjective¦tp=T13¦ef=größer – am größten¦en=My brother and I are the same height.
+B0324¦tp=T13¦en=I drive 68,000 kilometres per year.
+B0325¦tp=T13¦m=kilometre¦ex=Bis zum Bahnhof sind es drei Kilometer.¦en=It's three kilometres to the station.
+B2478¦tp=T16
+B0326¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦en=My aunt is in hospital.¦col=ins Krankenhaus kommen | im Krankenhaus liegen | aus dem Krankenhaus entlassen | ins Krankenhaus einweisen
+B0327¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦en=My brother works as a nurse in the hospital.¦col=als Krankenpfleger arbeiten | Ausbildung zum Krankenpfleger | den Krankenpfleger rufen
+B0328¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ex=Die Krankenpflegerin misst den Blutdruck.¦en=The nurse is taking the blood pressure.¦col=als Krankenpflegerin arbeiten | Ausbildung zur Krankenpflegerin | die Krankenpflegerin rufen
+B4871¦tp=T13¦m=first of all; initially¦en=First of all, I'd like to welcome everyone!¦col=zunächst einmal | zunächst nicht | zunächst ... dann ... | zunächst nur
+B0329¦en=Most of the time I only have a coffee for breakfast.
+B0330¦tp=T13¦ex=Am Nachmittag habe ich Unterricht.¦en=In the afternoon I have class.
+B0331¦ex=Nachts schlafe ich tief.¦en=At night I sleep deeply.
+B3486¦tp=T15¦col=ebenfalls danke | ebenfalls gut | ebenfalls möglich | ebenfalls betroffen¦en=I wish you a nice weekend. – Thanks, you too.
+B0332¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦ef=den/dem/des Patienten (n-declension)¦ex=Der Patient klagt über starke Schmerzen.¦en=The patient complains of severe pain.¦es=claude¦col=einen Patienten aufnehmen | den Patienten untersuchen | Patienten aufklären | Patient mit ...
+B0333¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=core¦en=I'm a patient of Dr Hausner. I'd like an appointment, please.¦col=die Patientin aufklären | die Patientin untersuchen | die Patientin aufnehmen | Patientin mit ...
+B0335¦g=+ Akk.¦nt=pro Tag/Jahr = per day/year.¦en=Are you for or against globalisation?
+B5149¦tp=T05¦m=strength; force; power¦en=This work takes a lot of strength.
+B0336¦en=I definitely want to attend this seminar.
+B0337¦tp=T13¦en=I'll be back in an hour.
+B0338¦col=an der Universität studieren | an die Universität gehen | die Universität besuchen | Universität Heidelberg¦en=He studies at the University of Freiburg.
+B4323¦tp=T05¦pl=–¦nt=Plural rare; Todesfälle = deaths.¦en=I saw him once more before his death.
+B0339¦tp=T13¦ef=mehr – am meisten¦m=a lot; much¦en=It rains a lot here.
+B0341¦tp=T16¦ps=wartet¦pt=wartete¦pf=hat gewartet¦g=auf + Akk.¦en=Can you wait a few minutes?
+B0342¦tp=T13¦ex=Der Kurs dauert vier Wochen.¦en=The course lasts four weeks.
+B2591¦pos=adjective¦tp=T16¦en=My brother and I are very different. He is interested in maths, I in languages.
+B0343¦tp=T02¦en=The room is big.
+B0344¦tp=T13
+B0345¦pos=determiner¦tp=T16¦m=all; every¦os=-
+B5150¦tp=T10¦m=to hit; to beat; to strike¦en=Who beat the world champion?¦col=den Weltmeister schlagen | an die Tür schlagen | Alarm schlagen | das Herz schlägt
+B0348¦en=We are supposed to underline all the important words.
+B0349¦tp=T15¦en=If you have any questions, go to the information desk.
+B0350¦ps=präsentiert¦pt=präsentierte¦pf=hat präsentiert¦en=Please present your results in the course.
+B3475¦tp=T16¦col=gut wirken | auf jemanden wirken | müde wirken | Medikamente wirken¦en=The tablets didn't work.
+B0351¦tp=T15¦ex=Was ist die Pluralform von „Kind“?¦en=What is the plural form of “Kind”?
+B0352¦tp=T15¦ex=Das Wort steht im Singular.¦en=The word is in the singular.
+B0353¦tp=T13
+B2476¦pos=adverb¦tp=T13¦ef=häufiger – am häufigsten¦col=häufig vorkommen | sehr häufig | häufig Kopfschmerzen haben | häufig besuchen¦en=Do you often have headaches?
+B0354¦tp=T15¦ck=-¦ex=Die Pluralendung von „Frau“ ist -en.¦en=The plural ending of “Frau” is -en.
+B0355¦pos=adjective¦tp=T01¦m=mutual; each other¦ex=Wir helfen uns gegenseitig.¦en=We help each other.
+B0356¦tp=T04¦ck=-¦m=flashcard; learning card¦ex=Ich schreibe die neuen Wörter auf Lernkarten.¦en=I write the new words on flashcards.
+B2676¦tp=T16¦ps=blickt¦pt=blickte¦pf=hat geblickt¦g=auf + Akk.¦ex=Er blickt kurz auf die Uhr.¦en=He glances briefly at the clock.¦col=auf die Uhr blicken | aus dem Fenster blicken | in die Zukunft blicken
+B0357¦tp=T16¦ps=tauscht¦pt=tauschte¦pf=hat getauscht¦m=to swap; to exchange¦en=Can we swap seats, please?
+B0358¦ef=den/dem/des Architekten (n-declension)¦ex=Der Architekt zeichnet den Plan für das neue Haus.¦en=The architect draws the plan for the new house.¦es=claude
+B0359¦en=A famous woman architect built this house.
+B4121¦tp=T08¦col=sich in der Mitte befinden | sich im Krankenhaus befinden | sich in einer schwierigen Lage befinden¦en=The bistro car is in the middle of the train.
+B0360¦en=You look great! Who is your hairdresser?
+B0361¦en=My daughter wants to become a hairdresser.
+B0362¦tp=T03¦ex=Der Informatiker repariert den Computer im Büro.¦en=The computer scientist repairs the computer in the office.
+B2142¦tp=T14¦ps=lacht¦pt=lachte¦pf=hat gelacht¦col=laut lachen | über etwas lachen | zusammen lachen | jemanden zum Lachen bringen¦en=The children laugh a lot.
+B0363¦tp=T03¦ex=Die Informatikerin entwickelt neue Programme.¦en=The computer scientist develops new programs.
+B0364¦en=Hans wants to become a civil engineer.

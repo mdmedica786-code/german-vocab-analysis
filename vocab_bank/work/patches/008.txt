@@ -1,0 +1,100 @@
+B0365¦tp=T03¦ex=Die Ingenieurin plant eine neue Brücke.¦en=The engineer is planning a new bridge.
+B3339¦tp=T16¦col=eher selten | eher nicht | eher klein | eher als erwartet¦en=All in all, it's rather lonely up here on the alp.
+B0366¦tp=T04¦ex=Der Lehrer erklärt die Aufgabe noch einmal.¦en=The teacher explains the task once more.¦es=claude
+B0367¦en=The teacher gave a lot of homework today.
+B0368¦tp=T16
+B2880¦tp=T10¦col=einen Stein werfen | den Ball werfen | einen Blick auf etwas werfen | Schatten werfen¦en=The children threw stones into the water.
+B0369¦tp=T03¦en=My mother is a saleswoman in the department store.
+B0370¦en=The shop assistant will help you in a moment.
+B0371¦tp=T03¦ex=Der Elektriker repariert die Lampe.¦en=The electrician is repairing the lamp.
+B1909¦tp=T14¦en=Don't be afraid!
+B0372¦tp=T03¦ck=-¦ex=Die Elektrikerin kommt morgen um acht Uhr.¦en=The electrician is coming tomorrow at eight o'clock.
+B0373¦tp=T03¦ex=Der Erzieher spielt mit den Kindern.¦en=The nursery teacher is playing with the children.
+B0374¦tp=T03¦ex=Die Erzieherin liest den Kindern eine Geschichte vor.¦en=The nursery teacher reads the children a story.
+B2953¦tp=T02¦en=The books were all lying on the floor.
+B0375¦m=tradesman; craftsman¦en=The tradespeople are coming to our place tomorrow.
+B0376¦m=tradeswoman; craftswoman¦ex=Die Handwerkerin repariert das Dach.¦en=The craftswoman is repairing the roof.¦es=claude
+B0377¦ex=Der Journalist schreibt einen Artikel über die Wahl.¦en=The journalist is writing an article about the election.¦es=claude¦ef=den/dem/des Journalisten (n-declension)
+B2120¦pos=determiner¦tp=T16¦m=some; many a¦ex=Manche Leute trinken schon morgens Kaffee.¦en=Some people drink coffee as early as the morning.¦col=manche Leute | in manchen Fällen | so manche(r)
+B0378¦en=My daughter would like to become a journalist.
+B0379¦tp=T12¦m=lawyer; legal expert¦ef=den/dem/des Juristen (n-declension)¦ex=Der Jurist berät die Firma bei dem Vertrag.¦en=The lawyer advises the company on the contract.
+B0380¦tp=T12¦m=lawyer; legal expert¦ex=Die Juristin arbeitet in einer großen Kanzlei.¦en=The lawyer works at a large law firm.
+B4259¦tp=T13¦en=Before we go, I'd like to eat something.
+B0381¦ef=den/dem/des Koch(e)s¦en=A friend of mine is a cook at an expensive restaurant.
+B0382¦ex=Die Köchin bereitet das Mittagessen vor.¦en=The cook is preparing lunch.¦es=claude
+B0383¦en=Only a mechanic can repair that.
+B2718¦tp=T07¦m=to offer; to bid¦en=He offered me another 800 euros for the old car.¦col=Hilfe bieten | eine Chance bieten | einen Preis bieten | sich bieten
+B0384¦ex=Die Mechanikerin wechselt die Reifen.¦en=The mechanic is changing the tyres.¦es=claude
+B0385¦ef=den/dem/des Polizisten (n-declension)¦en=The traffic light was broken. A police officer directed the traffic.
+B0386¦ex=Die Polizistin stoppt das Auto.¦en=The police officer stops the car.¦es=claude
+B4748¦tp=T08¦en=I left the party at 3 a.m.¦col=das Haus verlassen | den Raum verlassen | jemanden verlassen | sich auf jemanden verlassen
+B0387¦pt=berichtete¦g=über + Akk. | von + Dat.¦col=über etwas berichten | von etwas berichten | ausführlich berichten | Neues berichten¦en=All the newspapers report on the accident.
+B0388¦en=Please write me a note.
+B0389¦tp=T04¦ps=studiert¦pt=studierte¦pf=hat studiert¦en=I study in Mainz.
+B4249¦tp=T13¦nt=nachdem-Satz: Verb am Ende; often Plusquamperfekt.¦en=After we had eaten, we went for a walk.
+B0390¦pt=sah an¦col=sich einen Film ansehen | sich etwas ansehen | jemanden ansehen | genau ansehen¦en=May I look at your holiday photos?
+B0391¦tp=T15¦en=for example
+B0392¦tp=T16¦en=I like the colour.
+B5151¦tp=T16¦m=by (doing sth.); while¦nt=indem-Satz: Verb am Ende.¦en=You can open the file by clicking here.
+B0393¦tp=T16
+B0394¦en=I have to look the word up in the dictionary.
+B0395¦tp=T10¦ck=-¦m=picture with an article¦ex=Das Artikelbild zeigt eine alte Brücke.¦en=The picture with the article shows an old bridge.
+B3306¦tp=T16¦en=Although my colleague is ill, she goes to work.
+B0396¦tp=T16¦ex=Der Himmel ist heute blau.¦en=The sky is blue today.
+B0397¦tp=T16¦ex=Die Ampel ist grün.¦en=The traffic light is green.
+B0398¦pt=merkte¦m=to notice; to remember (sich merken)¦os=-¦col=sich etwas merken | etwas merken | nichts merken | sich den Namen merken
+B5152¦pos=adverb¦tp=T16¦m=in it; in there; in that¦lv=B1¦ex=Der Koffer ist schwer. Was ist darin?¦en=The suitcase is heavy. What is in it?¦col=darin enthalten | darin bestehen, dass ... | darin liegen | darin sehen
+B0399¦tp=T16¦ex=Sie trägt heute einen roten Mantel.¦en=She is wearing a red coat today.
+B0400¦tp=T08¦en=There's no bus any more today. He's taking a taxi.
+B0401¦en=That is a nice drawing.
+B2093¦tp=T16¦col=sich gut entwickeln | ein Programm entwickeln | Ideen entwickeln | Fotos entwickeln¦en=Our son is doing well at school.
+B0402¦pos=adjective¦tp=T16¦ex=Jeder Student braucht einen eigenen Schlüssel.¦en=Every student needs their own key.
+B0403¦tp=T09¦en=Can you tell me his address?
+B0404
+B5153¦pos=adverb¦tp=T16¦m=through it; thereby; as a result¦lv=B1¦ex=Dadurch hat sich vieles verbessert.¦en=As a result, a lot has improved.¦col=dadurch dass ... | dadurch entstehen | dadurch ermöglichen | dadurch wird ...
+B0405¦en=I'd like to go dancing. Where is there a club with good music here?
+B0406¦tp=T01¦en=My family names are García González.
+B0407¦tp=T09¦ex=Bitte tragen Sie Ihr Geburtsdatum ein.¦en=Please enter your date of birth.
+B3674¦tp=T01¦col=eine Beziehung haben | gute Beziehungen pflegen | in einer Beziehung leben | Beziehung zu jemandem¦en=We have good relations with our neighbours.
+B0408¦tp=T09¦en=Please write your place of birth on the form.
+B0409¦pos=adjective¦tp=T16¦en=My car is still brand new.
+B0410¦pos=adjective¦tp=T16¦m=personal; personally¦en=There are too many cars here. That is my personal opinion.¦col=persönliche Daten | persönlich kennen | persönlich nehmen | persönliche Meinung
+B2643¦tp=T08¦en=The train towards Cologne is delayed.¦col=in Richtung ... | die Richtung ändern | in die falsche Richtung fahren | aus der Richtung kommen
+B0411¦tp=T16¦ps=passt zusammen¦pt=passte zusammen¦pf=hat zusammengepasst¦m=to match; to go together¦ex=Die beiden Farben passen gut zusammen.¦en=The two colours go well together.
+B0413¦tp=T15¦en=I didn't receive your email.
+B0414¦tp=T03¦en=He now works for another company.
+B2437¦pos=determiner¦tp=T16¦ex=Einige Kollegen sind schon im Urlaub.¦en=Some colleagues are already on holiday.¦col=einige Male | einige Zeit | einige Leute | vor einigen Tagen
+B0415¦tp=T09¦en=You have to fill in this form.
+B0416¦tp=T09¦ex=Welche Hausnummer hat die Praxis?¦en=What is the house number of the practice?
+B0419¦pos=adjective¦tp=T01¦en=Please tick: “female” or “male”.
+B3123¦pos=adverb¦ex=Ich interessiere mich für Medizin, insbesondere für Chirurgie.¦en=I'm interested in medicine, especially surgery.¦col=insbesondere für | insbesondere dann, wenn ... | insbesondere bei
+B0420¦tp=T09¦m=postcode; zip code¦en=What is your postcode?
+B0421¦tp=T04¦en=My daughter already goes to school.
+B0422¦tp=T10¦ex=Ich bin seit einem Jahr im Sportclub.¦en=I have been a member of the sports club for a year.
+B3458¦tp=T16¦col=es geschieht etwas | gern geschehen | was auch geschieht | ein Unfall geschieht¦en=Thank you very much for your help. – You're welcome.
+B0424¦pt=wählte¦m=to choose; to dial; to vote¦col=eine Nummer wählen | den Notruf wählen | einen Kandidaten wählen | ein Gericht wählen¦en=You have to dial a zero first.
+B0425¦pos=adjective¦tp=T01¦en=Please tick: “female” or “male”.
+B0426¦en=Please also enter your place of residence.
+B5154¦tp=T15¦m=to depict; to present; to represent¦col=ein Problem darstellen | grafisch darstellen | eine Gefahr darstellen | die Situation darstellen¦en=He was able to present the problem very well.
+B0429¦tp=T13¦ex=Mein Großvater ist achtzig Jahre alt.¦en=My grandfather is eighty years old.
+B0430¦tp=T13¦ex=Der Kurs hat dreißig Teilnehmer.¦en=The course has thirty participants.
+B0432¦tp=T13¦ex=Das Buch kostet fünfzig Euro.¦en=The book costs fifty euros.
+B2216¦tp=T15¦pt=erinnerte¦col=sich an jemanden erinnern | sich gut erinnern | sich nicht erinnern | an einen Termin erinnern¦en=Do you remember José? – No, I don't remember him, sorry.
+B0433¦tp=T13¦ex=Die Erde hat über acht Milliarden Einwohner.¦en=The Earth has more than eight billion inhabitants.
+B0434¦tp=T13¦ex=Deutschland hat über achtzig Millionen Einwohner.¦en=Germany has more than eighty million inhabitants.
+B0435¦tp=T13¦ex=Die alte Dame ist neunzig Jahre alt.¦en=The old lady is ninety years old.
+B2902¦tp=T12¦ef=des Staates¦ex=Der Staat unterstützt Familien mit Kindern.¦en=The state supports families with children.
+B0436¦tp=T13¦ex=Eine Stunde hat sechzig Minuten.¦en=An hour has sixty minutes.
+B0437¦tp=T13¦ex=Mein Onkel ist siebzig Jahre alt.¦en=My uncle is seventy years old.
+B0439¦en=We've arranged to meet friends. We want to eat together.
+B2513¦tp=T13¦ex=Das Haus ist aus dem neunzehnten Jahrhundert.¦en=The house is from the nineteenth century.
+B0440¦tp=T13¦m=forty¦ex=Mein Vater ist vierzig Jahre alt.¦en=My father is forty years old.
+B0444¦tp=T03¦ex=Die Bauzeit des Hauses war zwei Jahre.¦en=The construction period of the house was two years.
+B0445¦ex=Die Besucher warten vor dem Museum.¦en=The visitors are waiting in front of the museum.
+B5039¦pos=adjective¦tp=T16¦m=small; slight; low¦en=Our team only had a slim chance.¦col=geringe Chancen | ein geringer Unterschied | eine geringe Menge | nicht im Geringsten
+B0446¦tp=T08¦ex=Die Besucherin fragt nach dem Weg.¦en=The visitor asks for directions.
+B0448¦pos=adjective¦tp=T13¦ef=breiter – am breitesten¦en=How wide is the wardrobe?
+B0449¦pos=numeral¦tp=T13¦m=first (ordinal)¦ex=Mein erster Tag im Krankenhaus war aufregend.¦en=My first day at the hospital was exciting.
+B2229¦pos=adjective¦tp=T16¦en=That is (not) true!¦col=wahr sein | eine wahre Geschichte | wahr werden | nicht wahr?
+B0450¦tp=T07¦nt=After numbers usually singular: zehn Euro.¦ex=Das Buch kostet zwölf Euro.¦en=The book costs twelve euros.
+B0451¦pos=adjective¦tp=T13¦ef=hoher/hohe/hohes (before nouns); höher – am höchsten¦en=Mount Everest is 8,880 metres high.

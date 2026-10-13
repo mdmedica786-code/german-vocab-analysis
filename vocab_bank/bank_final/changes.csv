@@ -1,0 +1,194 @@
+﻿bank,id,column,old,new
+vocab,B2700,meaning_en,to leave,to leave; to let
+vocab,B0017,meaning_en,to fit together,to belong together; to fit together
+vocab,B0018,meaning_en,highway,motorway; freeway
+vocab,B0018,example_de,Wo geht‘s hier bitte zur Autobahn?,Wo geht's hier bitte zur Autobahn?
+vocab,B0019,meaning_en,sandwich,bread and butter; sandwich
+vocab,B2694,pos,conjunction,adverb
+vocab,B0027,meaning_en,sick person,sick person; patient
+vocab,B0027,check,article?,
+vocab,B0029,meaning_en,sausage,small sausage; frankfurter
+vocab,B0032,example_en,"“Sausage” in Italian is called ""wurstel”.","In Italian, “Würstchen” is called “wurstel”."
+vocab,B0032,meaning_en,to be called,to be called; to mean
+vocab,B0032,example_de,„Würstchen” heißt auf Italienisch „wurstel”.,„Würstchen“ heißt auf Italienisch „wurstel“.
+vocab,B2534,meaning_en,to stop,to hold; to stop; to keep
+vocab,B2534,other_senses,to hold,
+vocab,B0039,meaning_en,other,other; different
+vocab,B3485,example_en,Advertisements help that customers buy certain products.,I was there when that happened.
+vocab,B3485,example_de,"Werbung hilft dabei, dass Kunden bestimmte Produkte kaufen.","Ich war dabei, als das passiert ist."
+vocab,B3485,example_source,netzwerk,claude
+vocab,B0043,check,ocr?,
+vocab,B0044,meaning_en,to make,to make; to do
+vocab,B0044,gov,zu + Dat.,
+vocab,B2589,meaning_en,if,if; whether
+vocab,B0047,meaning_en,also,also; too
+vocab,B3945,meaning_en,case,case; instance; fall
+vocab,B0049,register,neutral,informal
+vocab,B0053,example_en,"I'm sorry, what is your name?","Excuse me, what's your name?"
+vocab,B0054,meaning_en,whole,quite; entirely; whole
+vocab,B0055,meaning_en,to go,to go; to walk
+vocab,B0057,meaning_en,to hear,to hear; to listen
+vocab,B0061,example_en,"How are you? Thank you, very well.","How are you? – Thanks, very well."
+vocab,B0063,register,neutral,informal
+vocab,B0067,meaning_en,well-known,well-known; famous
+vocab,B2627,meaning_en,to sit,to sit down; to put; to set
+vocab,B0072,example_en,"Good morning, Miss I Mrs I Ms Weber","Good morning, Ms Weber."
+vocab,B0072,meaning_en,"Miss, Mrs, Ms",Ms; Mrs (title)
+vocab,B0072,other_senses,woman,woman; wife
+vocab,B2602,meaning_en,to determine,to determine; to decide
+vocab,B0076,example_en,"Good day, Mr Hansen","Good day, Mr Hansen."
+vocab,B0076,meaning_en,Mr,Mr; Sir (title)
+vocab,B2010,meaning_en,further,further; on; onward
+vocab,B4950,meaning_en,as well as,as well as; as soon as
+vocab,B0088,example_de,Das Theaterstück kommt auf die Bühne.,Woher kommst du?
+vocab,B0088,example_en,The play is coming to stage.,Where are you from?
+vocab,B0088,example_source,netzwerk,claude
+vocab,B0088,gov,zu + Dat.,
+vocab,B0088,meaning_en,to come from,to come; to come from
+vocab,B0088,other_senses,to come,
+vocab,B0089,meaning_en,travel guide (m),tour guide (m); guidebook
+vocab,B0089,other_senses,travel guide,
+vocab,B0090,meaning_en,travel guide (f),tour guide (f)
+vocab,B0090,check,ocr?,
+vocab,B0093,meaning_en,which,which; some
+vocab,B0097,check,ocr?,
+vocab,B0103,meaning_en,to complete,to complete; to supplement
+vocab,B2177,gov,aus + Dat.,aus + Dat. | auf + Dat.
+vocab,B2177,meaning_en,to pass,to pass; to consist; to exist
+vocab,B2177,other_senses,to consist,
+vocab,B0109,gov,zu + Dat.,+ Dat.
+vocab,B0109,meaning_en,to guess,to guess; to advise
+vocab,B0110,meaning_en,to introduce,to introduce; to present
+vocab,B0110,other_senses,sich: to imagine,sich (Dat.) vorstellen: to imagine
+vocab,B2963,meaning_en,to lie,to lay; to put (down)
+vocab,B3308,meaning_en,such,such; such a
+vocab,B0121,meaning_en,loud,loud; (prep.) according to
+vocab,B0121,pos,preposition,adjective
+vocab,B0122,meaning_en,to speak along,to speak along; to join in
+vocab,B2986,meaning_en,to apply,to apply; to be valid
+vocab,B3939,meaning_en,though,however; though; admittedly
+vocab,B0145,meaning_en,conversation,conversation; talk
+vocab,B2719,meaning_en,single,single; individual
+vocab,B0147,pos,particle,conjunction
+vocab,B0148,meaning_en,period,period (full stop); point; dot
+vocab,B0148,other_senses,point,
+vocab,B2510,meaning_en,fixed,fixed; firm; solid
+vocab,B0152,meaning_en,please,please; you're welcome
+vocab,B1921,meaning_en,sense,sense; meaning; point
+vocab,B2236,meaning_en,to recognize,to recognise; to realise
+vocab,B0190,meaning_en,condition,condition; state of health; well-being
+vocab,B0191,meaning_en,upon,on it; on that; after that
+vocab,B0193,meaning_en,to great,to greet
+vocab,B0195,check,ocr?,
+vocab,B0195,meaning_en,useful phrases,useful phrase (for speaking and writing)
+vocab,B0200,meaning_en,glad,gladly; with pleasure
+vocab,B3066,meaning_en,most,mostly; most of the time
+vocab,B3812,meaning_en,about that,about that; over it; above it
+vocab,B0211,meaning_en,to mark,to tick; to mark with a cross
+vocab,B0212,meaning_en,movie theater,cinema; movie theater
+vocab,B0218,meaning_en,yes,yes; (modal particle) indeed
+vocab,B0220,check,paren?,
+vocab,B0225,meaning_en,super,super; great
+vocab,B0225,register,neutral,colloquial
+vocab,B0226,register,neutral,informal
+vocab,B3402,meaning_en,therefore,therefore; from there
+vocab,B4822,meaning_en,to be released,to appear; to be published; to seem
+vocab,B4822,example_en,The magazine is released once a month.,The magazine is published once a month.
+vocab,B0240,example_en,Work in threes,Work in threes.
+vocab,B0241,meaning_en,"form, shape, mold",form; shape; mould
+vocab,B0241,other_senses,form,
+vocab,B1979,meaning_en,each,each; per; ever
+vocab,B3747,meaning_en,about that,on it; at it; of it
+vocab,B5147,pos,adjective,numeral
+vocab,B0257,meaning_en,to repeat,to repeat (after sb.)
+vocab,B0258,check,ocr?,
+vocab,B2919,meaning_en,just,just; just now; exactly
+vocab,B0259,meaning_en,to pay attention to sth,to pay attention to; to respect
+vocab,B0259,gov,auf,auf + Akk.
+vocab,B0262,lemma,Cafe,Café
+vocab,B0262,plural,Cafes,Cafés
+vocab,B2483,meaning_en,distinct,clear; distinct
+vocab,B0265,meaning_en,every,every; each
+vocab,B0266,check,ocr?,
+vocab,B0266,meaning_en,course room,classroom; course room
+vocab,B4906,meaning_en,equivalent,corresponding; appropriate; accordingly
+vocab,B0277,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B0277,example_de,Ich muss heute zum Arzt.,Die Ärztin untersucht den Patienten.
+vocab,B0277,example_source,goethe,claude
+vocab,B4685,meaning_en,only,only; sole; single
+vocab,B0280,meaning_en,certain,certain; definite
+vocab,B0283,preterite,es hat gegeben,gab
+vocab,B0283,meaning_en,to give,to give; (es gibt) there is/are
+vocab,B0286,example_de,Ich bin Kellnerin von Beruf.,Der Kellner bringt uns die Speisekarte.
+vocab,B0286,example_source,goethe,claude
+vocab,B0289,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B0292,lemma,neutrum,Neutrum
+vocab,B0293,topic,"T07 Einkaufen, Kleidung & Geld","T16 Allgemein (Funktionswörter, abstrakter Wortschatz)"
+vocab,B0293,example_en,which picture matched to which text?,Which photo matches the text?
+vocab,B0293,meaning_en,to match,to fit; to match; to suit
+vocab,B0293,other_senses,to fit,
+vocab,B0297,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B0297,meaning_en,injection,injection; syringe
+vocab,B0302,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3962,meaning_en,to originate,to arise; to come into being; to be built
+vocab,B0304,check,ocr?,
+vocab,B0309,check,ocr?,
+vocab,B0311,meaning_en,to search,to search; to look for
+vocab,B0319,meaning_en,to drive,to drive; to go (by vehicle)
+vocab,B0319,pres_3sg,fahrt,fährt
+vocab,B0320,meaning_en,to have a holiday,to have time off; to have a day off
+vocab,B0320,check,ocr?,
+vocab,B0324,example_en,I drive 68.000 kilometres per year.,"I drive 68,000 kilometres per year."
+vocab,B0325,meaning_en,kilometre (=km),kilometre
+vocab,B0326,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B0327,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B4871,meaning_en,initially,first of all; initially
+vocab,B0332,example_de,Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.,Der Patient klagt über starke Schmerzen.
+vocab,B0332,example_source,goethe,claude
+vocab,B0333,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B0335,example_en,Are you pro or con globalization?,Are you for or against globalisation?
+vocab,B4323,plural,Tode,–
+vocab,B0339,meaning_en,a lot,a lot; much
+vocab,B0345,meaning_en,all,all; every
+vocab,B0345,other_senses,every,
+vocab,B0354,check,ocr?,
+vocab,B0355,meaning_en,mutual,mutual; each other
+vocab,B0356,meaning_en,learning cards,flashcard; learning card
+vocab,B0356,check,ocr?,
+vocab,B0357,meaning_en,to switch,to swap; to exchange
+vocab,B0357,pres_3sg,tauscht (aus),tauscht
+vocab,B0357,perfect,hat (aus)getauscht,hat getauscht
+vocab,B0358,example_de,Dieses Haus hat eine berühmte Architektin gebaut.,Der Architekt zeichnet den Plan für das neue Haus.
+vocab,B0358,example_source,goethe,claude
+vocab,B3339,example_en,"All in all, it's more lonely here on the alp.","All in all, it's rather lonely up here on the alp."
+vocab,B0366,example_de,Unsere Deutschlehrerin heißt Frau Müller.,Der Lehrer erklärt die Aufgabe noch einmal.
+vocab,B0366,example_source,goethe,claude
+vocab,B0372,check,ocr?,
+vocab,B0375,meaning_en,craftsman,tradesman; craftsman
+vocab,B0376,example_de,Morgen sind bei uns die Handwerker.,Die Handwerkerin repariert das Dach.
+vocab,B0376,example_source,goethe,claude
+vocab,B0376,meaning_en,craftswoman,tradeswoman; craftswoman
+vocab,B0377,example_de,Meine Tochter möchte Journalistin werden.,Der Journalist schreibt einen Artikel über die Wahl.
+vocab,B0377,example_source,goethe,claude
+vocab,B2120,meaning_en,some,some; many a
+vocab,B0379,meaning_en,solicitor (m),lawyer; legal expert
+vocab,B0380,meaning_en,solicitor (f),lawyer; legal expert
+vocab,B0382,example_de,Ein Freund von mir ist Koch in einem teuren Restaurant.,Die Köchin bereitet das Mittagessen vor.
+vocab,B0382,example_source,goethe,claude
+vocab,B2718,meaning_en,to offer,to offer; to bid
+vocab,B0384,example_de,Das kann nur ein Mechaniker reparieren.,Die Mechanikerin wechselt die Reifen.
+vocab,B0384,example_source,goethe,claude
+vocab,B0386,example_de,Die Ampel war kaputt. Ein Polizist hat den Verkehr geregelt.,Die Polizistin stoppt das Auto.
+vocab,B0386,example_source,goethe,claude
+vocab,B0395,check,ocr?,
+vocab,B0395,meaning_en,article picture,picture with an article
+vocab,B0398,meaning_en,to remember,to notice; to remember (sich merken)
+vocab,B0398,other_senses,to notice,
+vocab,B0410,meaning_en,personally,personal; personally
+vocab,B0411,meaning_en,to fit together,to match; to go together
+vocab,B0420,meaning_en,zip code,postcode; zip code
+vocab,B0424,meaning_en,to choose,to choose; to dial; to vote
+vocab,B0440,meaning_en,fourty,forty
+vocab,B5039,meaning_en,small,small; slight; low
+vocab,B0449,meaning_en,first,first (ordinal)
+vocab,B0449,pos,adjective,numeral
