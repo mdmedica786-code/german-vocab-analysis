@@ -1,0 +1,100 @@
+B0635¦tp=T07¦en=The shops close at 6.30 p.m.
+B4036¦g=+ Dat. | als + Nom.¦m=to serve; to be used¦en=Such contacts serve to improve international relations.¦col=als Beispiel dienen | dem Zweck dienen | zur Information dienen | als Vorbild dienen
+B0636¦tp=T07¦ps=kauft¦pt=kaufte¦pf=hat gekauft¦en=Tim is buying himself a new car.
+B0638¦tp=T01¦en=Thanks for the invitation!
+B2955¦pt=hing¦m=to hang; to be attached¦nt=Weak, transitive: hängen, hängte, hat gehängt = to hang sth. up.¦en=A poster is hanging on the garden house.¦col=an der Wand hängen | an jemandem hängen | im Stau hängen | in der Luft hängen
+B0639¦tp=T06¦m=food; meal¦en=The food is very good today.
+B0640¦pos=adjective¦tp=T16¦m=finished; ready¦en=Are you finished?
+B0641¦pos=adverb¦tp=T13¦m=same; equal; right away¦os=-¦en=The food will be ready in a moment.
+B3283¦m=to learn; to find out; to experience¦os=-¦col=etwas erfahren | Neuigkeiten erfahren | aus der Zeitung erfahren | Liebe erfahren¦en=When will we find out the result of the exam?
+B0642¦tp=T06¦ps=grillt¦pt=grillte¦pf=hat gegrillt¦en=Today we're having a barbecue in the garden.
+B0643¦m=message; news
+B0645¦tp=T16¦en=Maybe I'll come by bus.
+B4370¦tp=T14¦m=mind; spirit; ghost¦ex=Sie hat einen wachen Geist.¦en=She has a sharp mind.¦es=claude
+B0646¦tp=T13
+B0647¦pos=pronoun¦tp=T16¦ex=Ich habe alles verstanden.¦en=I understood everything.
+B0648¦tp=T16¦ps=braucht¦pt=brauchte¦pf=hat gebraucht
+B2107¦tp=T10¦pt=gewann¦col=ein Spiel gewinnen | Zeit gewinnen | einen Preis gewinnen | die Wahl gewinnen¦en=Who is winning the game?
+B0649¦tp=T07¦m=shopping list¦ex=Ich schreibe einen Einkaufszettel für morgen.¦en=I'm writing a shopping list for tomorrow.
+B0650¦tp=T06¦en=Can you get the drinks, please?
+B0651¦tp=T10¦ex=Am Samstag machen wir eine Grillparty im Garten.¦en=On Saturday we're having a barbecue party in the garden.
+B2136¦pos=adjective¦en=Be quiet for a moment!¦col=still sein | still stehen | still halten | still und leise
+B0652¦tp=T13¦m=more; any more
+B0653¦pt=plante¦en=We're supposed to plan a class party together.
+B0654¦m=to be correct; to tune; to vote¦col=das stimmt | stimmt so | stimmt nicht | für jemanden stimmen
+B5170¦ps=wagt¦pt=wagte¦pf=hat gewagt¦m=to dare; to risk¦lv=B1¦nt=≠ der Wagen (car).¦ex=Sie wagt es nicht, ihm die Wahrheit zu sagen.¦en=She doesn't dare to tell him the truth.¦col=es wagen, etwas zu tun | den Sprung wagen | einen Versuch wagen | sich nicht wagen
+B0655¦pos=adjective¦tp=T07¦ef=teurer – am teuersten (teure/teurer before nouns)¦en=That is too expensive for me.
+B0656¦en=Look out for special offers when shopping.
+B0657¦tp=T06¦os=light bulb¦en=A kilo of pears, please!
+B5171¦g=+ Gen. | + Dat.¦m=instead of¦en=Can I come on Friday instead of Thursday this week?
+B0658¦tp=T06¦en=I like eating fish. I don't like meat.
+B0659¦tp=T06¦en=A chicken with chips, please!
+B0660¦tp=T06¦ex=Zur Pizza esse ich gern Oliven.¦en=With pizza I like to eat olives.
+B2157¦pt=starb¦col=an einer Krankheit sterben | jung sterben | im Krankenhaus sterben | vor Angst sterben¦en=Mr Müller isn't coming today. His father died yesterday.
+B0661¦tp=T06¦nt=Colloquial: Pommes.¦en=The children eat chicken with chips.
+B0662¦tp=T06¦en=I like rice.
+B0663¦tp=T06¦ps=schmeckt¦pt=schmeckte¦pf=hat geschmeckt¦g=+ Dat.¦en=Does that taste good?
+B5172¦pos=determiner¦m=some; many a¦ex=Manch einer hat das schon erlebt.¦en=Many a person has already experienced that.¦col=manch einer | manch anderer | so manches Mal
+B0664¦pos=adjective
+B0665¦tp=T15¦ex=Nach „sehen“ steht der Akkusativ.¦en=After “sehen” comes the accusative.
+B0666¦tp=T15¦ex=Das Subjekt steht im Nominativ.¦en=The subject is in the nominative.
+B3850¦pos=adjective¦m=whole; entire; total¦en=I gave away all my books.¦col=die gesamte Familie | gesamt gesehen | der gesamte Betrag | im Gesamten
+B0667¦tp=T06¦pt=aß¦en=What is there to eat?
+B0668¦tp=T16¦en=Shall we go out to eat together?
+B0669¦tp=T06
+B5110¦pos=adverb¦tp=T08¦m=away; gone; onwards¦ex=Er ist schon fort.¦en=He is already gone.¦col=fortfahren | fort sein | und so fort | in einem fort
+B0670¦tp=T15¦ex=Das Wort „Mütter“ hat einen Umlaut.¦en=The word “Mütter” has an umlaut.
+B0671¦tp=T07¦ex=Das kostet neunundneunzig Cent.¦en=That costs ninety-nine cents.
+B0672¦tp=T08¦en=Our house is over there.
+B3867¦col=eine direkte Verbindung | in Verbindung stehen | Verbindung aufnehmen | eine Verbindung herstellen¦en=The connection is very good. I can take this train directly and don't have to change.
+B0673¦tp=T13¦pt=kam dran¦ex=Wer kommt als Nächstes dran?¦en=Who is next?
+B0674¦tp=T07¦ex=Ich brauche einen Einkaufswagen.¦en=I need a shopping trolley.
+B0675¦tp=T06¦ex=Ich nehme zweihundert Gramm Emmentaler.¦en=I'll take two hundred grams of Emmental.
+B2255¦pos=adjective¦tp=T16¦col=eine fremde Sprache | in einem fremden Land | jemandem fremd sein | fremd klingen¦en=I don't know that; I'm a stranger here.
+B0676¦tp=T16¦m=something; a bit
+B0677¦tp=T13¦ex=Ich brauche zweihundert Gramm Butter.¦en=I need two hundred grams of butter.
+B0678¦tp=T07¦ex=Bitte vergessen Sie den Kassenzettel nicht.¦en=Please don't forget your receipt.
+B4499¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=related¦en=What effects does this medicine have? Do I have to be careful?¦col=eine Wirkung haben | die Wirkung des Medikaments | die Wirkung lässt nach | die Wirkung entfalten
+B0679¦tp=T07¦ps=kostet¦pt=kostete¦pf=hat gekostet¦m=to cost; to taste¦en=How much is it? – 10 euros.
+B0680¦tp=T16¦ps=möchte¦pt=– (use wollte)¦pf=– (use hat gewollt)¦nt=Konjunktiv II of mögen; no past forms of its own.¦en=What would you like to drink?
+B0681¦tp=T07¦pt=nahm¦en=I'll take one bread roll, please.
+B3438¦pos=adverb¦m=at the same time; simultaneous¦en=I can't do everything at the same time.¦col=gleichzeitig stattfinden | zwei Dinge gleichzeitig | gleichzeitig machen | nicht gleichzeitig
+B0682¦tp=T07¦m=price; prize¦os=-¦en=The prices are high.
+B0683¦tp=T16¦en=Is there anything else you'd like? – No thanks, that's all.¦col=sonst noch etwas | sonst nichts | wie sonst | sonst jemand
+B0684
+B2668¦pos=adjective¦en=Do I have to come again? – No, that isn't necessary.¦col=notwendig sein | unbedingt notwendig | notwendige Maßnahmen | nicht notwendig
+B0685¦en=Do you need a bag for the salad?
+B0686¦ps=wechselt¦pt=wechselte¦pf=hat gewechselt¦m=to change; to swap; to exchange¦en=We have to change the tyre.
+B0688¦en=The lemonade is very sweet.
+B3434¦col=einen Fehler bemerken | nichts bemerken | zu spät bemerken | am Rande bemerken¦en=I didn't notice that the window is open.
+B0689¦tp=T15¦ps=recherchiert¦pt=recherchierte¦pf=hat recherchiert¦m=to research; to look up¦ex=Ich recherchiere im Internet für mein Referat.¦en=I'm researching on the internet for my presentation.
+B0690¦m=mug; cup; tub¦ex=Ich trinke den Tee aus einem Becher.¦en=I drink the tea from a mug.
+B0691¦m=tin; can¦en=I still have a tin of beans.
+B5173¦art=das¦pl=Verfahren¦m=procedure; method; (legal) proceedings¦lv=B1¦ex=Das Verfahren dauert mehrere Monate.¦en=The procedure takes several months.
+B0692¦tp=T06¦en=You shouldn't eat so much fat.
+B0693¦tp=T13¦ex=Ich brauche ein Kilo Äpfel.¦en=I need a kilo of apples.
+B0694¦ex=Das Paket wiegt zwei Kilogramm.¦en=The parcel weighs two kilograms.
+B2215¦col=sich für etwas entscheiden | über etwas entscheiden | allein entscheiden | schnell entscheiden¦en=I can't decide that on my own, I have to ask first.
+B0695¦tp=T13¦ex=Ich trinke zwei Liter Wasser am Tag.¦en=I drink two litres of water a day.
+B0696¦tp=T13¦m=measure; measurement; dimension¦ex=Welche Maße hat der Tisch?¦en=What are the dimensions of the table?
+B0697¦tp=T07¦ex=Ich kaufe eine Packung Nudeln.¦en=I'm buying a packet of pasta.
+B5174¦m=illustration; figure; picture¦en=In the figure you can see how to switch on the device.¦col=eine Abbildung zeigen | siehe Abbildung | in der Abbildung | die Abbildung erklären
+B0698¦tp=T07¦ex=Die Verpackung ist aus Papier.¦en=The packaging is made of paper.
+B0699¦pos=adverb¦tp=T14¦ex=Ich helfe dir gerne.¦en=I'm happy to help you.
+B0700¦en=Happy holidays! – Thanks, you too.
+B3951¦g=von + Dat.¦col=sich unterscheiden | A von B unterscheiden | zwischen A und B unterscheiden | deutlich unterscheiden¦en=You look very much alike. In the photo one can't tell the two of you apart.
+B0701¦pos=adjective¦en=The food was very tasty.
+B0702¦pos=adjective¦en=Would you like anything else? – No thanks, I'm full.
+B0703¦m=meal; (lunchtime greeting)
+B2315¦tp=T16¦ps=drückt¦pt=drückte¦pf=hat gedrückt¦col=den Knopf drücken | die Daumen drücken | auf die Taste drücken | die Hand drücken
+B0704¦pos=interjection¦tp=T15¦ex=Prost! Auf dein Wohl!¦en=Cheers! To your health!
+B0706¦tp=T01
+B2667¦en=We still have plenty of time.
+B0707¦tp=T06¦pt=trank¦en=Would you like something to drink?
+B0708¦ex=Abends gehe ich oft spazieren.¦en=In the evenings I often go for a walk.
+B0709¦pos=adverb¦tp=T01¦m=alone; on one's own
+B5175¦m=to remove¦en=The rubbish must be removed urgently.¦col=Flecken entfernen | einen Fehler entfernen | aus dem Raum entfernen | sich vom Ort entfernen
+B0711¦pos=adjective¦tp=T06¦ex=Wir essen heute in einem asiatischen Restaurant.¦en=Today we're eating in an Asian restaurant.
+B0712¦tp=T06¦m=doner kebab¦ex=Ich esse mittags oft einen Döner.¦en=At lunchtime I often eat a doner kebab.
+B0713¦tp=T06¦ps=frühstückt¦pt=frühstückte¦pf=hat gefrühstückt¦en=On Sundays I like to have breakfast in bed.
+B3823¦pos=adjective¦tp=T03¦m=wanted; sought¦ex=Ein Mechaniker wird dringend gesucht.¦en=A mechanic is urgently wanted.¦col=dringend gesucht | gesucht werden | gesucht und gefunden | polizeilich gesucht

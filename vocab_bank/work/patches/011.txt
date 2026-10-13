@@ -1,0 +1,100 @@
+B0558¦ex=Die Schauspielerin spielt die Hauptrolle.¦en=The actress plays the leading role.¦es=claude
+B0559¦tp=T10¦ef=den/dem/des Solisten (n-declension)¦ex=Der Solist spielt ein Stück von Bach.¦en=The soloist plays a piece by Bach.
+B3017¦tp=T16¦col=ich habe nämlich ... | das liegt nämlich daran, dass ... | nämlich dann, wenn ...¦en=Unfortunately I have to go. I have a dentist appointment, you see.
+B0560¦tp=T10¦ex=Die Solistin singt die Arie.¦en=The soloist sings the aria.
+B0562¦tp=T08¦en=How much does the ticket cost?
+B0563¦tp=T12¦en=There are many problems in the world.
+B3639¦tp=T01¦m=relationship; ratio; (pl.) conditions¦col=ein gutes Verhältnis haben | im Verhältnis zu | das Verhältnis zwischen ... | in einfachen Verhältnissen¦en=I have a good relationship with my parents.
+B0564¦pos=adjective¦tp=T16¦g=+ Dat.¦col=ähnlich aussehen | eine ähnliche Situation | ähnlich wie | jemandem ähnlich sehen¦en=Emilia is in a very similar situation to mine.
+B0565¦tp=T16¦pt=fand
+B0566¦tp=T13¦ex=Im April regnet es oft.¦en=It often rains in April.
+B3142¦tp=T03¦m=factory; plant; work (of art)¦en=We visited the factory yesterday.
+B0567¦tp=T13¦ex=Im August fahren wir in den Urlaub.¦en=In August we are going on holiday.
+B0568¦tp=T13¦ex=Im Dezember schneit es oft.¦en=It often snows in December.
+B0569¦tp=T13¦ex=Der Februar hat achtundzwanzig Tage.¦en=February has twenty-eight days.
+B4007¦pos=adverb¦tp=T16¦en=I consider that completely out of the question.¦col=völlig anders | völlig falsch | völlig ausgeschlossen | völlig durcheinander
+B0570¦tp=T11¦ex=Im Frühling blühen die Blumen.¦en=In spring the flowers bloom.
+B0571¦tp=T11¦ex=Im Herbst fallen die Blätter.¦en=In autumn the leaves fall.
+B0572¦tp=T13¦ex=Im Januar ist es sehr kalt.¦en=It is very cold in January.
+B3421¦pos=adjective¦tp=T16¦m=pure; clean; sheer¦en=It was pure luck that I found my mobile phone again.¦col=reines Wasser | reines Glück | rein zufällig | etwas ins Reine bringen
+B0573¦tp=T13¦ex=Im Juli ist es oft heiß.¦en=It is often hot in July.
+B0574¦tp=T13¦ex=Im Juni beginnen die Sommerferien.¦en=The summer holidays begin in June.
+B0575¦tp=T13¦ex=Am ersten Mai ist Feiertag.¦en=The first of May is a public holiday.
+B2631¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦med=core¦en=I have an examination at the hospital tomorrow.¦col=eine Untersuchung durchführen | zur Untersuchung gehen | körperliche Untersuchung | eine Untersuchung anordnen
+B0576¦tp=T13¦ex=Im März beginnt der Frühling.¦en=Spring begins in March.
+B0577¦tp=T13¦ex=Der Kurs dauert drei Monate.¦en=The course lasts three months.
+B0578¦tp=T13¦ex=Im November wird es früh dunkel.¦en=It gets dark early in November.
+B2459¦tp=T16¦col=die Chance nutzen | die Zeit nutzen | das Angebot nutzen | den Computer nutzen
+B0579¦tp=T13¦ex=Im Oktober ist das Oktoberfest in München.¦en=The Oktoberfest takes place in Munich in October.
+B0580¦tp=T13¦ex=Im September beginnt das neue Semester.¦en=The new semester begins in September.
+B0581¦tp=T13¦ex=Im Sommer gehen wir oft schwimmen.¦en=In summer we often go swimming.
+B4999¦tp=T16¦m=to rise; to climb¦en=The prices for milk and vegetables have risen again.¦col=auf einen Berg steigen | in den Zug steigen | die Preise steigen | im Preis steigen
+B0582¦tp=T13¦ex=Im Winter ist es kalt und dunkel.¦en=In winter it is cold and dark.
+B0583¦ex=Der Winter ist meine liebste Jahreszeit.¦en=Winter is my favourite season.
+B0584¦en=In class we are making a poster on the topic “Food and Drink”.
+B5162¦pt=nickte¦ps=nickt¦pf=hat genickt¦m=to nod¦lv=A2¦ex=Er nickt zustimmend.¦en=He nods in agreement.¦col=zustimmend nicken | mit dem Kopf nicken | jemandem zunicken | kurz nicken
+B0585¦tp=T15¦ex=Das Wort „schön“ ist ein Adjektiv.¦en=The word “schön” is an adjective.
+B0586¦tp=T16¦en=Helping in times of need is my thing.
+B0587¦tp=T16¦ex=Welche Position haben Sie in der Firma?¦en=What position do you have in the company?
+B2284¦pos=adjective¦tp=T12¦col=öffentliche Verkehrsmittel | öffentlicher Dienst | öffentlich bekannt | in der Öffentlichkeit¦en=In the city I always use public transport.
+B0588¦tp=T16¦ps=stellt¦pt=stellte¦pf=hat gestellt¦m=to put (upright); to set; to ask (a question)
+B0589¦tp=T06¦ex=Ich trinke gern Apfelsaft mit Wasser.¦en=I like drinking apple juice with water.
+B0590¦tp=T06¦en=Three bananas, please!
+B3746¦tp=T13¦en=I was just about to park. At that moment a car came out of the exit.
+B0591¦tp=T06¦en=Would you like rolls for breakfast?
+B0592¦tp=T06¦en=For me a roll with butter and cheese, please.
+B0593¦ck=-¦ex=Ich trinke gern Cola mit Eis.¦en=I like drinking cola with ice.
+B5163¦tp=T16¦g=nach + Dat.¦m=to grab; to reach; to seize¦en=Please help yourself!¦col=nach etwas greifen | zu den Waffen greifen | in die Tasche greifen | zugreifen
+B0594¦tp=T06¦en=Would you like an egg for breakfast?
+B0595¦en=The salad still needs a little vinegar.
+B0596¦tp=T06¦en=I don't like meat.
+B5164¦tp=T07¦g=+ Akk.¦m=worth¦ex=Das Auto ist vielleicht noch 1000 Euro wert.¦en=The car is perhaps still worth 1,000 euros.¦col=viel wert sein | nichts wert sein | der Mühe wert | sehenswert
+B0597¦tp=T06¦en=Would you like an egg for breakfast?
+B0598¦tp=T06¦en=We also need vegetables.
+B2371¦tp=T12¦en=Parliament has passed a new law.
+B0600¦tp=T06¦ck=-¦ex=Zum Frühstück esse ich Joghurt mit Obst.¦en=For breakfast I eat yoghurt with fruit.
+B0601¦tp=T06¦en=You need potatoes for chips.
+B0602¦en=Do you prefer cheese or sausage?
+B5165¦tp=T16¦m=to lift; to raise¦en=Can you help me? I can't lift the parcel on my own.¦col=die Hand heben | das Gewicht heben | den Blick heben | eine Last heben
+B0603¦tp=T06¦en=You can get groceries at the supermarket.
+B0604¦m=jam; marmalade¦en=Please bring a jar of jam as well.
+B0605¦tp=T06¦en=The milk is in the fridge.
+B4936¦ex=Diese Regel betrifft alle Mitarbeiter.¦en=This rule affects all employees.¦col=alle betreffen | davon betroffen sein | was ... betrifft | direkt betreffen
+B0606¦m=lunch¦en=Lunch is at twelve o'clock.
+B0607¦tp=T06¦ex=Zum Frühstück esse ich Müsli mit Milch.¦en=For breakfast I eat muesli with milk.
+B0608¦lemma=Öl¦pl=Öle¦tp=T06¦ex=Zum Braten nehme ich Olivenöl.¦en=For frying I use olive oil.
+B3085¦tp=T07¦col=ein Auto besitzen | ein Haus besitzen | die Fähigkeit besitzen | nichts besitzen¦en=Does your wife own a car of her own?
+B0609¦tp=T06¦ex=Ein Glas Orangensaft, bitte.¦en=A glass of orange juice, please.
+B0610¦en=Please bring us pepper and salt.
+B0611¦tp=T06¦en=Waiter, may I have some salt, please?
+B4402¦tp=M1 Medizin: Anatomie & Körpersysteme¦med=core¦en=I have pain in my right shoulder.¦col=Schmerzen in der Schulter | die Schulter verletzen | die Schulter hochziehen | die Schulter röntgen
+B0612¦tp=T06¦en=I always drink tea in the morning.
+B0613¦tp=T16¦g=mit + Dat.¦m=to connect; to link; to bandage (med.)¦col=Wörter verbinden | eine Wunde verbinden | zwei Orte verbinden | etwas mit etwas verbinden
+B0614¦tp=T06¦en=A glass of water, please.
+B3906¦col=genau beobachten | einen Unfall beobachten | Vögel beobachten | den Patienten beobachten¦en=Who witnessed the accident?
+B0615¦en=What is your mother tongue?
+B0616¦tp=T07¦en=I'll just pop over to the bakery.
+B0617¦tp=T07¦ps=kauft ein¦pt=kaufte ein¦pf=hat eingekauft¦en=I still have to do the shopping for tomorrow.
+B5166¦m=out (towards the speaker)¦en=Don't you want to come out? The weather is so nice.¦col=herauskommen | herausfinden | herausnehmen | heraus aus dem Haus
+B0618¦tp=T07¦m=butcher's shop¦ex=Das Fleisch kaufe ich in der Metzgerei.¦en=I buy meat at the butcher's.
+B0619¦en=I often shop at the supermarket.
+B0620¦m=dinner; supper¦ex=Zum Abendessen gibt es Suppe.¦en=For dinner there is soup.
+B3961¦col=dagegen sein | etwas dagegen haben | nichts dagegen tun | dagegen sprechen¦en=Careful, there's a tree! Don't drive into it!
+B0621¦tp=T06¦en=Take a few sandwiches with you for the journey.
+B0622¦tp=T06¦ex=Ich schneide eine Gurke für den Salat.¦en=I'm cutting a cucumber for the salad.
+B0623¦tp=T06¦en=I always drink coffee with breakfast.
+B5167¦pos=numeral¦tp=T13¦m=third (ordinal)¦ex=Mein Büro ist im dritten Stock.¦en=My office is on the third floor.
+B0624¦tp=T06¦ck=-¦m=biscuit; cookie¦ex=Zum Tee esse ich gern einen Keks.¦en=With tea I like to eat a biscuit.
+B0625¦tp=T06¦en=I'll have a piece of cake.
+B0626¦en=I'd like a slice of gateau with cream.
+B2879¦pos=adverb¦tp=T15¦m=etc. (and so on)¦nt=Abbreviation of und so weiter.¦col=Obst, Gemüse usw. | und so weiter und so fort
+B0627¦tp=T06¦en=How do you like the salad?
+B0628¦tp=T06¦en=A roll with ham, please.
+B0629¦en=Julia loves chocolate.
+B5168¦pos=adverb¦m=thus; therefore; consequently¦lv=B1¦ex=Der Vertrag ist unterschrieben, somit ist alles geregelt.¦en=The contract is signed, so everything is settled.¦col=und somit | somit ist ... | somit steht fest | somit gilt
+B0630¦en=Do you like the soup?
+B0631¦tp=T06¦en=The tomato is still green.
+B0632¦en=A sausage with chips, please.
+B3786¦col=enthalten sein | Mehrwertsteuer enthalten | Informationen enthalten | sich enthalten¦en=This chocolate contains very little sugar.
+B0633¦en=Do you take your tea with or without sugar?
+B0634¦tp=T06¦en=A pound of apples, please.

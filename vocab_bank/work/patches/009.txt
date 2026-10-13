@@ -1,0 +1,100 @@
+B0455¦tp=T07¦m=costs; expenses¦en=The company pays the costs of the trip.
+B5155¦tp=T16¦m=connection; context¦en=In this context I'd like to draw your attention to two books.
+B0456¦tp=T13¦ex=Das Zimmer ist fünf Meter lang.¦en=The room is five metres long.
+B0457¦tp=T08¦en=The teacher is standing in the middle of the classroom.
+B0459¦en=This singer is a star in Germany.
+B2016¦tp=T03¦col=Erfahrung haben | Erfahrungen sammeln | Erfahrungen machen | über Erfahrung verfügen¦en=I have ten years of experience in this profession.
+B0462¦tp=T13¦en=From Mainz to Frankfurt it is about fifty kilometres.
+B0465¦en=The Rhine is a big river.
+B3490¦tp=T16¦m=to be enough; to hand; to reach¦col=das reicht | die Zeit reicht nicht | jemandem etwas reichen | bis zum Boden reichen
+B0466¦en=When you're in Hamburg, you absolutely have to see the harbour.
+B0467¦tp=T11¦en=We're spending our holiday by the sea.
+B0468¦tp=T01¦ef=den/dem/des Menschen (n-declension)¦m=person; human being¦en=People here are different from where we come from.
+B2620¦tp=T11¦en=Oh, the air in here is bad.
+B0471¦en=The heart is a symbol of love.
+B0475¦pos=adjective¦tp=T13¦ef=länger – am längsten
+B0476¦tp=T08¦en=The village is by the sea.
+B3574¦pos=adjective¦ex=Das ist ein wesentlicher Unterschied.¦en=That is a significant difference.¦col=wesentlicher Unterschied | im Wesentlichen | wesentlich besser | wesentlich beitragen
+B0477¦pos=interjection¦tp=T15¦rg=regional¦m=hello (Swiss German)¦nt=Swiss German greeting.¦ex=Grüezi, wie geht es Ihnen?¦en=Hello, how are you?
+B0480¦pos=interjection¦tp=T15¦rg=regional¦m=hello; good morning (northern Germany)¦nt=Used at any time of day in northern Germany.¦ex=Moin! Schönes Wetter heute.¦en=Hi! Nice weather today.
+B2326¦tp=T16¦col=einen Anruf erwarten | ein Kind erwarten | Hilfe erwarten | etwas von jemandem erwarten¦en=I'm expecting a call from Berlin.
+B0483¦pos=adjective¦col=ein interessantes Angebot | interessant klingen | interessant finden | sehr interessant¦en=I'm reading an interesting book at the moment.
+B0485¦tp=T16¦en=The solution is quite simple.
+B0486¦pos=interjection¦rg=colloquial¦ex=Okay, dann treffen wir uns um acht.¦en=Okay, then let's meet at eight.
+B4202¦tp=T15¦ps=bezeichnet¦pt=bezeichnete¦pf=hat bezeichnet¦g=als + Akk.¦m=to describe; to call; to designate¦ex=Er bezeichnet sich als Künstler.¦en=He calls himself an artist.¦col=als etwas bezeichnen | sich als ... bezeichnen | jemanden als Freund bezeichnen | genau bezeichnen
+B0487¦tp=T16¦en=What are you doing in the summer? – I don't know yet, we don't have any plans yet.
+B0488¦pos=adverb¦tp=T08¦en=Schillerstraße is on the right here.
+B0489¦pos=adjective¦tp=T16¦m=correct; right¦os=really¦en=Is the sentence correct or wrong?
+B3552¦tp=T12¦m=trial; process¦en=The trial is broadcast live on TV from the courtroom.
+B0490¦tp=T13¦nt=Also a modal particle: Das ist schon richtig.
+B0491¦pos=adjective¦tp=T14¦m=beautiful; nice; pretty
+B0492¦tp=T11¦nt=die See = the sea.¦en=Come on, let's go to Lake Starnberg.
+B3117¦tp=T12¦en=The Spanish king is visiting Germany.
+B0493¦pt=zeichnete¦en=Caterina can draw well. Look at this picture.
+B0494¦tp=T13¦pt=stand auf¦m=to get up; to stand up¦en=I always have to get up at four.
+B0495¦tp=T16¦ps=bildet¦pt=bildete¦pf=hat gebildet¦m=to form; to educate
+B4379¦tp=T05¦med=related¦col=Schmerzen spüren | die Kälte spüren | nichts spüren | einen Druck spüren¦en=Where does it hurt? Can you feel this here?
+B0496¦tp=T16¦en=The first group starts at 4 p.m.
+B0497¦pos=adjective¦tp=T16¦ex=Suchen Sie das passende Bild.¦en=Find the matching picture.
+B0498¦pos=adjective¦tp=T15¦m=indefinite; vague¦en=the indefinite article
+B4172¦pos=adverb¦tp=T13¦rg=colloquial¦m=just; at the moment¦nt=Colloquial short form of gerade.¦ex=Ich habe grad keine Zeit.¦en=I don't have time right now.¦col=grad eben | grad jetzt | grad noch | grad erst
+B0500¦tp=T15¦en=This sentence is very simple.
+B0501¦pos=adjective¦en=I have this book twice.
+B0502¦tp=T15¦ef=den/dem/des Konsonanten (n-declension)¦ex=Das Wort „Haus“ beginnt mit einem Konsonanten.¦en=The word “Haus” begins with a consonant.
+B5156¦pos=preposition¦g=+ Gen.¦m=because of; due to¦lv=B1¦ex=Aufgrund des Wetters fällt das Fest aus.¦en=The party is cancelled because of the weather.
+B0503¦tp=T15¦ex=Das Wort „Auto“ beginnt mit einem Vokal.¦en=The word “Auto” begins with a vowel.
+B0505¦tp=T05¦en=My arm hurts.
+B0506¦en=Someone is knocking at the window.
+B4037¦tp=T16¦col=den Schalter drehen | einen Film drehen | sich im Kreis drehen | am Rad drehen¦en=To switch it on, turn the switch to the right.
+B0507¦tp=T16¦ps=kreist¦pt=kreiste¦pf=hat gekreist¦ex=Der Hubschrauber kreist über der Stadt.¦en=The helicopter is circling above the city.
+B0508¦tp=T02¦en=The photos are on the table.
+B0509¦tp=T15¦ck=-¦m=picture story; comic strip¦ex=Die Kinder erzählen eine Bildgeschichte.¦en=The children tell a story from the pictures.
+B3695¦tp=T14¦col=sich ruhig verhalten | sich richtig verhalten | sich korrekt verhalten | sich merkwürdig verhalten¦en=The man behaved strangely towards us.
+B0513¦tp=T16¦pt=zeigte¦g=auf + Akk. (to point)¦m=to show; to point¦os=-¦col=auf etwas zeigen | den Weg zeigen | Interesse zeigen | Gefühle zeigen
+B0519¦tp=T10¦en=Do you have a picture of your son?
+B5157¦m=frame; framework; scope¦art=der¦pl=Rahmen¦lv=B1¦ex=Im Rahmen des Projekts arbeiten wir mit mehreren Firmen.¦en=As part of the project we work with several companies.
+B0521¦tp=T14¦m=luck; happiness
+B0522¦tp=T13
+B0523¦tp=T13¦en=Now let's take a break.
+B2237¦tp=T16¦m=besides; in addition¦col=und außerdem | außerdem noch | außerdem kommt hinzu | wir brauchen außerdem ...¦en=Four rolls – would you like anything else?
+B0524¦pos=adjective¦tp=T13¦en=He drives fast.
+B0525¦tp=T04¦en=The test was easy.
+B0526¦tp=T10¦ck=-¦ex=Ich habe zwei Konzertkarten für Samstag gekauft.¦en=I bought two concert tickets for Saturday.
+B3632¦tp=T16¦col=spurlos verschwinden | aus dem Blickfeld verschwinden | plötzlich verschwinden | verschwinden lassen¦en=My ID has disappeared. Have you seen it by any chance?
+B0527¦tp=T15¦ck=-¦ex=„Kein“ ist ein Negationsartikel.¦en=“Kein” is a negative article.
+B0528¦pos=adverb¦tp=T08¦en=Take the next street on the left.
+B0530¦tp=T08¦en=Keep going straight ahead!
+B2886¦pos=adjective¦tp=T08¦ex=Die Haltestelle ist nur zwei Minuten entfernt.¦en=The stop is only two minutes away.¦col=weit entfernt | nicht weit entfernt | zwei Kilometer entfernt | entfernt verwandt
+B0531¦tp=T15¦m=thanks; gratitude
+B0532¦pos=adjective¦tp=T16
+B0533¦pos=adverb¦tp=T16¦col=genau so | genau genommen | genau wissen | auf die Minute genau
+B2722¦tp=T14¦en=I have many interests: sport, reading, culture, travelling.
+B0534¦tp=T15¦ex=„Komm!“ ist ein Imperativ.¦en=“Komm!” is an imperative.
+B0535¦tp=T13¦m=time (occasion)¦nt=zum ersten Mal = for the first time.
+B0536¦en=I'm going to the market today.
+B3086¦tp=T13¦col=damals und heute | damals wie heute | schon damals | damals war alles anders¦en=But back then I had no money.
+B0537¦en=I like going for walks in the park.
+B0538¦m=start; take-off¦en=Please remain seated during take-off.
+B0539¦tp=T10¦ps=würfelt¦pt=würfelte¦pf=hat gewürfelt¦ex=Wer würfelt als Erster?¦en=Who rolls the dice first?
+B5158¦pos=adverb¦tp=T16¦m=go!; loose; free¦nt=Was ist los? = What's the matter? Los! = Come on!¦en=Go! Hurry up!¦col=was ist los | los sein | los geht's | etwas los werden
+B0540¦tp=T08¦en=John runs very fast. He was the first at the finish.
+B0542¦tp=T10¦ex=Meine Schwester singt in einem Chor.¦en=My sister sings in a choir.
+B0543¦pos=adjective¦tp=T15¦ex=In der Schweiz gibt es einen deutschsprachigen Teil.¦en=In Switzerland there is a German-speaking part.
+B5159¦lemma=veröffentlichen¦pos=verb¦ps=veröffentlicht¦pt=veröffentlichte¦pf=hat veröffentlicht¦tp=T15¦m=to publish; to release¦lv=B1¦ex=Der Verlag veröffentlicht im Herbst ein neues Buch.¦en=The publisher is releasing a new book in autumn.¦col=ein Buch veröffentlichen | einen Artikel veröffentlichen | Ergebnisse veröffentlichen | ein Foto veröffentlichen
+B0545¦tp=T10¦ps=dirigiert¦pt=dirigierte¦pf=hat dirigiert¦ex=Er dirigiert das Orchester seit zehn Jahren.¦en=He has been conducting the orchestra for ten years.
+B0546¦tp=T10¦ex=Das Event beginnt um zwanzig Uhr.¦en=The event starts at eight p.m.
+B0547¦en=There is a music festival in the city at the weekend.
+B2104¦pos=adjective¦tp=T08¦ef=näher – am nächsten¦en=How far is it to the station? – It's very near, only two minutes from here.¦col=nah beieinander | nah dran | nah am Wasser | nahe liegen
+B0548¦tp=T10¦en=I'd like to see this film.
+B0549¦tp=T10¦ck=-¦ex=Mein Bruder ist ein großer Filmfan.¦en=My brother is a big film fan.
+B0550¦tp=T01¦en=At the weekend we have several guests.
+B5160¦tp=T08¦m=to turn (a vehicle); to turn over¦os=sich wenden an: to turn to¦nt=Formal forms: wandte, gewandt (sich wenden).¦en=You have to drive back, but you aren't allowed to turn round here.¦col=ein Auto wenden | die Seite wenden | sich an jemanden wenden | das Blatt wenden
+B0551¦en=A small orchestra played at our wedding.
+B0552¦en=Cheese production often takes many weeks.
+B0553¦en=It was a great concert. The audience was thrilled.
+B5161¦pos=conjunction¦m=both ... and (sowohl ... als auch)¦lv=B1¦ex=Sie spricht sowohl Deutsch als auch Englisch.¦en=She speaks both German and English.¦col=sowohl ... als auch ... | sowohl im Beruf als auch privat
+B0554¦tp=T10¦ex=Der Regisseur dreht einen neuen Film.¦en=The director is shooting a new film.
+B0555¦tp=T10¦ex=Die Regisseurin gewinnt einen Preis.¦en=The director wins a prize.
+B0556¦tp=T10¦ex=Mozarts Requiem wird heute Abend aufgeführt.¦en=Mozart's Requiem is being performed this evening.
+B4765¦col=eine Funktion erfüllen | außer Funktion | die Funktion eines Geräts | in Funktion treten¦en=to fulfil an important function
+B0557¦en=The film was great. The actors were very good.

@@ -192,3 +192,103 @@ vocab,B0440,meaning_en,fourty,forty
 vocab,B5039,meaning_en,small,small; slight; low
 vocab,B0449,meaning_en,first,first (ordinal)
 vocab,B0449,pos,adjective,numeral
+vocab,B0455,meaning_en,to cost,costs; expenses
+vocab,B3490,meaning_en,to be enough,to be enough; to hand; to reach
+vocab,B0468,meaning_en,person,person; human being
+vocab,B0477,meaning_en,Swiss word for: hello,hello (Swiss German)
+vocab,B0477,register,neutral,regional
+vocab,B0480,meaning_en,good morning,hello; good morning (northern Germany)
+vocab,B0480,register,neutral,regional
+vocab,B0486,register,neutral,colloquial
+vocab,B4202,meaning_en,to mean,to describe; to call; to designate
+vocab,B0489,meaning_en,true,correct; right
+vocab,B0489,example_en,Is the sentence true or false?,Is the sentence correct or wrong?
+vocab,B3552,meaning_en,process,trial; process
+vocab,B0491,meaning_en,pretty,beautiful; nice; pretty
+vocab,B0494,meaning_en,to stand up,to get up; to stand up
+vocab,B0495,meaning_en,to form,to form; to educate
+vocab,B0498,meaning_en,indeterminate,indefinite; vague
+vocab,B0498,example_en,the indeterminate article,the indefinite article
+vocab,B4172,meaning_en,at the moment,just; at the moment
+vocab,B4172,register,neutral,colloquial
+vocab,B0509,meaning_en,comic strip,picture story; comic strip
+vocab,B0509,check,ocr?,
+vocab,B0513,meaning_en,to point,to show; to point
+vocab,B0513,other_senses,to show,
+vocab,B0521,meaning_en,luck,luck; happiness
+vocab,B2237,meaning_en,besides,besides; in addition
+vocab,B0526,check,ocr?,
+vocab,B0527,check,ocr?,
+vocab,B0531,meaning_en,thanks,thanks; gratitude
+vocab,B0535,meaning_en,time,time (occasion)
+vocab,B0538,meaning_en,starting line,start; take-off
+vocab,B5159,lemma,veröffentlicht,veröffentlichen
+vocab,B0549,check,ocr?,
+vocab,B4765,example_en,to fulfill an important function,to fulfil an important function
+vocab,B0558,example_de,Der Film war toll. Die Schauspieler waren sehr gut.,Die Schauspielerin spielt die Hauptrolle.
+vocab,B0558,example_source,goethe,claude
+vocab,B3639,meaning_en,relationship,relationship; ratio; (pl.) conditions
+vocab,B3142,meaning_en,piece,factory; plant; work (of art)
+vocab,B3421,example_en,"It was pure luck, that I found my mobile phone again.",It was pure luck that I found my mobile phone again.
+vocab,B3421,meaning_en,pure,pure; clean; sheer
+vocab,B4999,meaning_en,to climb,to rise; to climb
+vocab,B0586,example_en,To help during times of need is my thing,Helping in times of need is my thing.
+vocab,B0588,meaning_en,to put,to put (upright); to set; to ask (a question)
+vocab,B0593,check,article?,
+vocab,B0600,check,article?,
+vocab,B0604,meaning_en,"jam, marmelade",jam; marmalade
+vocab,B0608,lemma,Ol,Öl
+vocab,B0608,plural,Ole,Öle
+vocab,B4402,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B0613,meaning_en,to connect,to connect; to link; to bandage (med.)
+vocab,B0618,meaning_en,butcher,butcher's shop
+vocab,B0620,meaning_en,dinner,dinner; supper
+vocab,B5167,pos,adjective,numeral
+vocab,B0624,meaning_en,cookie,biscuit; cookie
+vocab,B0624,check,article?,
+vocab,B2879,meaning_en,ASO,etc. (and so on)
+vocab,B4036,gov,als + N.,+ Dat. | als + Nom.
+vocab,B4036,meaning_en,to serve,to serve; to be used
+vocab,B2955,example_en,A poster is attached to the summer house.,A poster is hanging on the garden house.
+vocab,B2955,meaning_en,to be attached to sth,to hang; to be attached
+vocab,B0639,meaning_en,"meal, food",food; meal
+vocab,B0640,meaning_en,ready,finished; ready
+vocab,B0641,example_en,The food is nearly ready.,The food will be ready in a moment.
+vocab,B0641,meaning_en,nearly,same; equal; right away
+vocab,B0641,other_senses,the same,
+vocab,B3283,meaning_en,to learn,to learn; to find out; to experience
+vocab,B3283,other_senses,experienced,
+vocab,B0643,meaning_en,message,message; news
+vocab,B4370,meaning_en,soul,mind; spirit; ghost
+vocab,B0649,meaning_en,grocery list,shopping list
+vocab,B0652,meaning_en,longer,more; any more
+vocab,B0654,meaning_en,to be correct,to be correct; to tune; to vote
+vocab,B3850,meaning_en,whole,whole; entire; total
+vocab,B5110,meaning_en,gone,away; gone; onwards
+vocab,B0676,meaning_en,a bit,something; a bit
+vocab,B4499,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B0679,meaning_en,to cost,to cost; to taste
+vocab,B0680,perfect,hat gemocht,– (use hat gewollt)
+vocab,B0681,example_en,"/'l/ take one bread roll, please.","I'll take one bread roll, please."
+vocab,B3438,meaning_en,simultaneous,at the same time; simultaneous
+vocab,B0682,meaning_en,price,price; prize
+vocab,B0682,other_senses,prize,
+vocab,B0686,meaning_en,to change,to change; to swap; to exchange
+vocab,B0689,meaning_en,to research,to research; to look up
+vocab,B0690,meaning_en,cup,mug; cup; tub
+vocab,B0691,meaning_en,jar,tin; can
+vocab,B0696,meaning_en,measure,measure; measurement; dimension
+vocab,B0703,meaning_en,enjoy your meal,meal; (lunchtime greeting)
+vocab,B0709,meaning_en,alone,alone; on one's own
+vocab,B0712,meaning_en,kebab,doner kebab
+vocab,B3823,meaning_en,wanted,wanted; sought
+vocab,B0715,example_en,l eat breakfast at half past eight.,I have breakfast at half past seven.
+vocab,B0723,meaning_en,afternoon,in the afternoon
+vocab,B3403,example_en,"Max's speaker doesn't work anymore, that's why he's getting it repaired.","Max's speaker doesn't work, so he's getting it repaired."
+vocab,B0733,meaning_en,a bit,little; few
+vocab,B0734,meaning_en,to tell,to tell; to narrate
+vocab,B0735,meaning_en,before noon,morning (before noon)
+vocab,B0736,check,ocr?,
+vocab,B3909,meaning_en,earth,earth; soil; ground
+vocab,B0744,check,ocr?,
+vocab,B0747,meaning_en,historic city,old town; historic city centre

@@ -33,6 +33,10 @@ for line in sys.stdin.read().splitlines():
     src.append(line)
     if line.startswith("@"):
         c = plan[line[1:]]; dflt = {"wave": c["wave"], "cat_id": c["cat_id"], "category": c["category_de"]}; continue
+    if line.startswith("%"):  # defaults for following NEW rows: %sp=Beide¦au=Alle¦lv=B1
+        for p_ in line[1:].split("¦"):
+            k_, _, v_ = p_.partition("="); dflt[AL.get(k_.strip(), k_.strip())] = v_.strip()
+        continue
     parts = line.split("¦"); rid = parts[0].strip()
     d = {}
     if bank == "redemittel":
