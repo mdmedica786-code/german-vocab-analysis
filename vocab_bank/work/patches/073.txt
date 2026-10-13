@@ -1,0 +1,100 @@
+P0060¦m=not necessarily¦lv=B1¦ex=Ein teures Auto ist nicht unbedingt ein gutes Auto.¦en=An expensive car is not necessarily a good car.¦v=nicht zwingend | nicht immer
+P0061¦ph=der Grund für ...¦m=the reason for ...¦lv=B1¦ex=Was ist der Grund für Ihre Verspätung?¦en=What is the reason for your delay?¦gn=Grund für + Akk.¦v=die Ursache für | der Anlass für
+P0062¦ph=im Gegensatz zu ...¦m=in contrast to ...¦lv=B2¦ex=Im Gegensatz zu mir trinkt mein Bruder gern Kaffee.¦en=Unlike me, my brother likes drinking coffee.¦gn=zu + Dat.¦v=anders als | verglichen mit
+P0063¦fn=Zeit¦rg=informal¦m=in the morning¦lv=B2¦ex=Ich stehe in der Früh um sechs Uhr auf.¦en=I get up at six in the morning.¦gn=süddeutsch/österreichisch für „morgens“¦v=am Morgen | morgens
+P0064¦m=for this reason¦lv=B1¦ex=Ich bin erkältet, aus diesem Grund bleibe ich heute zu Hause.¦en=I have a cold, for this reason I'm staying at home today.¦gn=nach der Wendung: Verb auf Position 2¦v=deshalb | deswegen
+P0065¦ph=du solltest ...¦m=you should ...¦lv=A2¦ex=Wenn du Fieber hast, du solltest zum Arzt gehen.¦en=If you have a fever, you should see a doctor.¦gn=sollen im Konjunktiv II = freundlicher Rat¦v=ich würde dir raten, ... | an deiner Stelle würde ich ...
+P0066¦ph=je nach ...¦m=depending on ...¦lv=B2¦ex=Die Dosis ist je nach Alter des Patienten unterschiedlich.¦en=The dose varies depending on the patient's age.¦gn=je nach + Dat.¦v=abhängig von | entsprechend
+P0067¦ph=ich wollte ... fragen¦m=I wanted to ask ...¦lv=B1¦ex=Guten Tag, ich wollte Sie fragen, ob der Termin noch frei ist.¦en=Hello, I wanted to ask you whether the appointment is still free.¦gn=Präteritum von wollen = höflicher¦v=ich würde gern fragen, ... | ich möchte fragen, ...
+P0068¦m=not easy¦lv=B1¦ex=Es ist nicht leicht, in einer fremden Stadt Freunde zu finden.¦en=It's not easy to find friends in a strange city.¦v=nicht einfach | schwierig
+P0069¦ph=im Hinblick auf ...¦m=with regard to ...¦lv=C1¦ex=Im Hinblick auf die Kosten müssen wir noch sprechen.¦en=With regard to the costs, we still have to talk.¦gn=auf + Akk.¦v=in Bezug auf | hinsichtlich
+P0070¦ph=ich freue mich auf/über ...¦m=I'm looking forward to / pleased about ...¦lv=A2¦ex=Ich freue mich auf den Urlaub.¦en=I'm looking forward to the holiday.¦gn=auf + Akk. (Zukunft); über + Akk. (Gegenwart)¦v=ich bin froh über ... | ich bin gespannt auf ...
+P0071¦m=as quickly as possible¦lv=B1¦ex=Bitte antworten Sie so schnell wie möglich.¦en=Please reply as quickly as possible.¦v=baldmöglichst | umgehend
+P0072¦m=is everything all right?¦lv=A2¦ex=Ist alles in Ordnung mit Ihnen?¦en=Is everything all right with you?¦gn=Frage ohne Fragewort: Verb an Position 1¦ck=dup:P0023
+P0073¦m=so bad¦lv=B1¦ex=Keine Sorge, es ist nicht so schlimm.¦en=Don't worry, it's not so bad.¦v=nicht so tragisch | halb so wild
+P0074¦ph=nicht in der Lage sein, ... zu ...¦m=not able to ...¦lv=B2¦ex=Er ist nicht in der Lage, das zu verstehen.¦en=He is not able to understand that.¦gn=in der Lage sein + zu + Infinitiv¦ck=dup:P0020
+P0075¦fn=Probleme¦m=to hurt¦lv=A1¦en=I have to see a doctor. My leg hurts.¦gn=trennbar: Mein Bein tut weh¦v=schmerzen
+P0076¦ph=ich glaube, dass ...¦m=I think that ...¦lv=B1¦ex=Ich glaube, dass es bald regnet.¦en=I think it will rain soon.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0001
+P0077¦m=no problem¦lv=A2¦ex=Kannst du mir helfen? – Kein Problem!¦en=Can you help me? – No problem!¦v=gern | das mache ich
+P0078¦ph=was ist mit ...?¦m=what about ...?¦lv=A2¦ex=Was ist mit dem Termin am Montag?¦en=What about the appointment on Monday?¦gn=mit + Dat.¦v=wie wäre es mit ...? | und was ist mit ...?
+P0079¦ph=im Vergleich zum ...¦m=in comparison to the ...¦lv=B1¦ex=Im Vergleich zum letzten Jahr ist es wärmer.¦en=Compared to last year, it is warmer.¦gn=zum = zu dem + Dat. (maskulin/neutral)¦ck=dup:P0017
+P0080¦m=how are you?¦lv=A1¦ex=Hallo Tom, wie geht es dir heute?¦en=Hello Tom, how are you today?¦v=wie geht's? | wie läuft's?¦ck=dup:P0030
+P0081¦m=at first glance¦lv=B1¦ex=Auf den ersten Blick sieht die Wohnung gut aus.¦en=At first glance the flat looks good.¦v=zunächst | im ersten Moment
+P0082¦ph=dadurch, dass ...¦m=because of the fact that ...¦lv=B2¦ex=Dadurch, dass er viel übt, wird er immer besser.¦en=Because he practises a lot, he is getting better and better.¦gn=dass-Satz: Verb am Ende¦v=weil | indem
+P0083¦m=on the contrary¦lv=B1¦ex=Er ist nicht faul, im Gegenteil, er arbeitet sehr viel.¦en=He is not lazy, on the contrary, he works a lot.¦v=ganz im Gegenteil | umgekehrt
+P0084¦ph=dazu führen, dass ...¦m=to lead to ... (the result that)¦lv=B2¦ex=Rauchen kann dazu führen, dass man krank wird.¦en=Smoking can lead to people getting ill.¦gn=dass-Satz: Verb am Ende¦v=zur Folge haben, dass | bewirken, dass
+P0085¦ph=nur dann, wenn ...¦m=only if ...¦lv=B2¦ex=Ich komme nur dann, wenn du auch kommst.¦en=I'll only come if you come too.¦gn=wenn-Satz: Verb am Ende¦v=nur wenn | ausschließlich wenn
+P0086¦lv=B1¦ex=Er ruft mich immer wieder an.¦en=He calls me again and again.¦v=ständig | wiederholt
+P0087¦m=in this case¦lv=B1¦ex=In diesem Fall brauchen Sie keinen Termin.¦en=In this case you don't need an appointment.¦v=in dem Fall | dann
+P0088¦ph=mein Name ist ...¦m=my name is ...¦lv=A1¦ex=Guten Tag, mein Name ist Meier.¦en=Hello, my name is Meier.¦v=ich heiße ... | ich bin ...
+P0089¦ph=der Meinung sein, dass ...¦m=to be of the opinion that ...¦lv=B2¦ex=Ich bin der Meinung, dass wir mehr Ärzte brauchen.¦en=I am of the opinion that we need more doctors.¦gn=dass-Satz: Verb am Ende¦v=meinen, dass | der Ansicht sein, dass
+P0090¦m=you are right¦lv=A2¦ex=Ich glaube, du hast recht.¦en=I think you are right.¦gn=recht haben (kleingeschrieben)¦v=das stimmt | genau
+P0091¦fn=Berichten¦m=to let someone know¦lv=B1¦en=Can you let me know by tomorrow?¦gn=Bescheid geben + Dat.¦v=Bescheid sagen | informieren
+P0092¦m=best; it's best to ...¦lv=B1¦ex=Am besten gehen Sie gleich zum Arzt.¦en=It's best to go to the doctor straight away.¦v=es ist ratsam, ... | ich empfehle, ...
+P0093¦ph=dort, wo ...¦m=there where ...¦lv=B1¦ex=Wir treffen uns dort, wo wir uns das letzte Mal gesehen haben.¦en=We'll meet where we saw each other last time.¦gn=wo-Satz: Verb am Ende¦v=an dem Ort, an dem
+P0094¦m=just a moment¦lv=B1¦ex=Einen Augenblick, bitte, ich bin gleich bei Ihnen.¦en=Just a moment please, I'll be with you right away.¦v=einen Moment | gleich¦ck=dup:P0009
+P0095¦m=not possible¦lv=A2¦ex=Heute ist es leider nicht möglich.¦en=Unfortunately it is not possible today.¦v=unmöglich | geht nicht
+P0096¦ph=ich fühle mich ...¦m=I feel ...¦lv=A2¦ex=Ich fühle mich heute nicht gut.¦en=I don't feel well today.¦gn=sich fühlen + Adjektiv¦v=mir geht es ... | ich bin ...
+P0097¦ph=je ..., desto ...¦fn=Vergleichen¦m=the more ..., the more ...¦lv=B1¦ex=Je mehr ich übe, desto besser spreche ich.¦en=The more I practise, the better I speak.¦gn=je + Komparativ, desto + Komparativ¦v=je ..., umso ...
+P0098¦ph=... gesagt, dass ...¦m=said that ...¦lv=B1¦ex=Der Arzt hat gesagt, dass ich viel trinken soll.¦en=The doctor said that I should drink a lot.¦gn=dass-Satz: Verb am Ende¦v=erklärt, dass | mitgeteilt, dass
+P0099¦m=from the start¦lv=B1¦ex=Ich habe von Anfang an gewusst, dass es schwierig wird.¦en=I knew from the start that it would be difficult.¦v=von vornherein | seit Beginn
+P0100¦m=in this context¦lv=B2¦ex=In diesem Zusammenhang möchte ich etwas sagen.¦en=In this context I would like to say something.¦v=in dieser Hinsicht | hierzu
+P0101¦ph=ich möchte, dass ...¦m=I would like it if ...¦lv=B1¦ex=Ich möchte, dass du mir ehrlich antwortest.¦en=I want you to answer me honestly.¦gn=dass-Satz: Verb am Ende¦v=ich wünsche mir, dass | ich will, dass
+P0102¦lv=A1¦en=How much milk do you take?¦v=wie viele (bei Zählbarem)
+P0103¦m=I don't know (it)¦lv=A1¦ex=Wo er wohnt? Ich weiß es nicht.¦en=Where does he live? I don't know.¦v=keine Ahnung | das weiß ich nicht
+P0104¦ph=aufgrund von ...¦m=because of ...¦lv=B2¦ex=Aufgrund von Krankheit bleibt die Praxis heute geschlossen.¦en=Due to illness the practice stays closed today.¦gn=von + Dat. oder + Gen.¦v=wegen | infolge
+P0105¦ph=unabhängig davon, ob ...¦m=regardless of whether ...¦lv=C1¦ex=Unabhängig davon, ob es regnet, findet das Fest statt.¦en=Regardless of whether it rains, the party takes place.¦gn=ob-Satz: Verb am Ende¦v=egal, ob | gleichgültig, ob
+P0106¦ph=führt dazu, dass ...¦m=leads to ...¦lv=B2¦ex=Zu wenig Schlaf führt dazu, dass man sich schlecht konzentriert.¦en=Too little sleep leads to poor concentration.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0084
+P0107¦ph=für den Fall, dass ...¦m=in case ...¦lv=B2¦ex=Nimm einen Schirm mit, für den Fall, dass es regnet.¦en=Take an umbrella, in case it rains.¦gn=dass-Satz: Verb am Ende¦v=falls | im Fall, dass
+P0108¦fn=Berichten¦m=to let someone know¦lv=B1¦en=I'll find out about the dates and then let you know.¦gn=Bescheid sagen + Dat.¦v=Bescheid geben | mitteilen
+P0109¦ph=ich denke, dass ...¦m=I think that ...¦lv=B1¦ex=Ich denke, dass das eine gute Idee ist.¦en=I think that is a good idea.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0026
+P0110¦m=under no circumstances¦lv=B1¦ex=Das mache ich auf gar keinen Fall.¦en=I will not do that under any circumstances.¦v=auf keinen Fall | niemals
+P0111¦ph=zu beachten ist, dass ...¦m=it should be noted that ...¦lv=B2¦ex=Bitte beachten Sie: Es ist zu beachten, dass die Praxis montags geschlossen ist.¦en=Please note: it must be noted that the practice is closed on Mondays.¦gn=dass-Satz: Verb am Ende¦v=man muss beachten, dass | wichtig ist, dass
+P0112¦ph=der Unterschied zwischen ...¦m=the difference between ...¦lv=B1¦ex=Was ist der Unterschied zwischen Viren und Bakterien?¦en=What is the difference between viruses and bacteria?¦gn=zwischen + Dat. ... und ...¦v=der Gegensatz zwischen | worin unterscheiden sich ...?
+P0113¦ph=wie lange ...?¦m=how long ...?¦lv=A1¦ex=Wie lange dauert der Kurs?¦en=How long does the course last?¦v=wie viel Zeit | bis wann
+P0114¦fn=Zeit¦m=to retire¦lv=B1¦en=I retire at the end of the year.¦gn=Pension: Österreich/Süddeutschland, sonst „Rente“¦v=in Rente gehen | in den Ruhestand gehen
+P0115¦ph=in der Lage ist, ... zu ...¦m=is able to ...¦lv=B2¦ex=Wer in der Lage ist, selbst zu denken, braucht keine Anweisung.¦en=Anyone who is able to think for themselves needs no instruction.¦gn=in der Lage sein + zu + Infinitiv¦ck=dup:P0020
+P0116¦m=only (just) ...¦lv=B1¦ex=Wir haben nur noch zehn Minuten.¦en=We only have ten minutes left.¦v=lediglich | nur mehr
+P0117¦m=primarily¦lv=B2¦ex=Ich arbeite in erster Linie in der Notaufnahme.¦en=I work primarily in the emergency room.¦v=vor allem | hauptsächlich
+P0118¦m=in my opinion¦lv=B1¦ex=Meiner Meinung nach ist der Plan gut.¦en=In my opinion the plan is good.¦gn=feste Wendung im Dativ¦v=ich finde | aus meiner Sicht
+P0119¦m=indeed¦lv=C1¦ex=Das ist in der Tat ein großes Problem.¦en=That is indeed a big problem.¦v=tatsächlich | in der Wirklichkeit
+P0120¦fn=Zeit¦m=to retire¦lv=B1¦en=I retire at the end of the year.¦v=in Pension gehen | in den Ruhestand gehen
+P0121¦ph=gehen wir ...?¦m=shall we go ...?¦lv=A2¦ex=Gehen wir heute Abend essen?¦en=Shall we go out for dinner tonight?¦gn=Frage ohne Fragewort: Verb an Position 1¦v=wollen wir ... gehen? | lass uns ... gehen
+P0122¦ph=lassen Sie mich ...¦m=let me ...¦lv=B1¦ex=Bitte lassen Sie mich kurz nachdenken.¦en=Please let me think for a moment.¦gn=lassen + Akk. + Infinitiv¦v=erlauben Sie mir, ... | darf ich ...?
+P0123¦m=in any case¦lv=B1¦ex=Ich komme in jedem Fall pünktlich.¦en=I will in any case come on time.¦v=auf jeden Fall | unbedingt
+P0124¦ph=auf der Grundlage von ...¦m=on the basis of ...¦lv=C1¦ex=Auf der Grundlage von Laborwerten stellt der Arzt die Diagnose.¦en=On the basis of lab results the doctor makes the diagnosis.¦gn=von + Dat. oder + Gen.¦v=auf der Basis von | anhand von
+P0125¦ph=abgesehen von ...¦m=apart from ...¦lv=B2¦ex=Abgesehen von einem Husten geht es mir gut.¦en=Apart from a cough I'm fine.¦gn=von + Dat.¦v=außer | bis auf
+P0126¦m=every time¦lv=B1¦en=Inge tells the story differently every time.¦v=jedes einzelne Mal | stets
+P0127¦ph=... ergibt sich ...¦m=... results from ...¦lv=C1¦ex=Aus dem Test ergibt sich ein klares Bild.¦en=A clear picture results from the test.¦gn=sich ergeben aus + Dat.¦v=folgt aus | resultiert aus
+P0128¦ph=im Falle ...¦m=in the event of ...¦lv=B2¦ex=Im Falle eines Feuers bitte den Ausgang benutzen.¦en=In the event of a fire, please use the exit.¦gn=Genitiv: im Falle eines/einer ...¦v=falls | bei
+P0129¦m=thank God¦lv=B1¦ex=Gott sei Dank ist nichts Schlimmes passiert.¦en=Thank God nothing bad happened.¦gn=feste Wendung (Konjunktiv I)¦v=zum Glück | glücklicherweise
+P0130¦m=at the moment¦lv=A1¦ex=Ich habe im Moment keine Zeit.¦en=I have no time at the moment.¦v=gerade | zurzeit
+P0131¦ph=auf dem Weg zu ...¦m=on the way to ...¦lv=A2¦ex=Ich bin gerade auf dem Weg zur Arbeit.¦en=I'm on my way to work right now.¦gn=zu + Dat.¦v=unterwegs zu | auf der Fahrt zu
+P0132¦fn=Zeit¦m=to be retired¦lv=B2¦en=I will retire at the end of the year.¦gn=Passiv: werden + Partizip II¦v=in Rente gehen | in den Ruhestand treten
+P0133¦ph=meinst du, dass ...?¦m=do you think that ...?¦lv=B1¦ex=Meinst du, dass er pünktlich kommt?¦en=Do you think he will arrive on time?¦gn=dass-Satz: Verb am Ende¦v=glaubst du, dass | denkst du, dass
+P0134¦ph=schwer zu ...¦m=hard to ...¦lv=B2¦ex=Das ist schwer zu verstehen.¦en=That is hard to understand.¦gn=schwer + zu + Infinitiv¦v=nicht leicht zu ... | kaum zu ...
+P0135¦m=in addition; moreover¦lv=C1¦ex=Darüber hinaus gibt es noch weitere Probleme.¦en=In addition there are further problems.¦v=außerdem | zudem
+P0136¦ph=wichtig ist, dass ...¦m=what matters is that ...¦lv=B1¦ex=Wichtig ist, dass du genug schläfst.¦en=What matters is that you get enough sleep.¦gn=dass-Satz: Verb am Ende¦v=es ist wichtig, dass | entscheidend ist, dass
+P0137¦m=I don't think so¦lv=B1¦ex=Er kommt morgen? Das glaube ich nicht.¦en=He's coming tomorrow? I don't think so.¦v=ich glaube nicht | kann ich mir nicht vorstellen
+P0138¦ph=zum Beispiel¦lv=A1¦en=My friend has many hobbies, for example cooking, reading and dancing.¦v=beispielsweise | z. B.
+P0139¦ph=weißt du, was ...?¦m=do you know what ...?¦lv=A2¦ex=Weißt du, was ich gerade gehört habe?¦en=Do you know what I've just heard?¦gn=Einleitung eines Vorschlags/einer Neuigkeit¦v=stell dir vor, ... | hör mal, ...
+P0140¦ph=mehr als ...¦m=more than ...¦lv=A2¦ex=Ich habe mehr als zehn Bücher gelesen.¦en=I have read more than ten books.¦gn=mehr als + Zahl/Nomen¦v=über | größer als
+P0141¦ph=ich brauche ...¦m=I need ...¦lv=A1¦ex=Ich brauche einen Termin beim Arzt.¦en=I need an appointment with the doctor.¦gn=brauchen + Akk.¦v=ich benötige ... | ich möchte ...
+P0142¦ph=darauf hinweisen, dass ...¦m=to point out that ...¦lv=B2¦ex=Ich möchte darauf hinweisen, dass die Frist morgen endet.¦en=I would like to point out that the deadline ends tomorrow.¦gn=hinweisen auf + Akk.; dass-Satz¦v=aufmerksam machen auf | betonen, dass
+P0143¦ph=fragen, ob ...¦m=to ask whether ...¦lv=B1¦ex=Ich möchte Sie fragen, ob der Termin noch frei ist.¦en=I would like to ask you whether the appointment is still free.¦gn=ob-Satz: Verb am Ende¦v=wissen wollen, ob | sich erkundigen, ob
+P0144¦ph=in der Lage sind, ... zu ...¦m=are able to ...¦lv=B2¦ex=Die Mitarbeiter sind in der Lage, schnell zu helfen.¦en=The employees are able to help quickly.¦gn=in der Lage sein + zu + Infinitiv¦ck=dup:P0020
+P0145¦ph=keine Ahnung, was ...¦m=no idea what ...¦lv=B1¦ex=Ich habe keine Ahnung, was er will.¦en=I have no idea what he wants.¦gn=Nebensatz: Verb am Ende¦v=ich weiß nicht, was | keinen Schimmer, was
+P0146¦ph=auf der Basis von ...¦m=on the basis of ...¦lv=C1¦ex=Wir arbeiten auf der Basis von Vertrauen.¦en=We work on the basis of trust.¦gn=von + Dat. oder + Gen.¦v=auf der Grundlage von | anhand von
+P0147¦ph=abgesehen davon, dass ...¦m=apart from the fact that ...¦lv=B2¦ex=Abgesehen davon, dass es teuer ist, gefällt mir das Auto.¦en=Apart from the fact that it's expensive, I like the car.¦gn=dass-Satz: Verb am Ende¦v=außer dass | bis auf die Tatsache, dass
+P0148¦ph=so sehr, dass ...¦m=so much that ...¦lv=B2¦ex=Er hat so sehr gelacht, dass ihm die Tränen kamen.¦en=He laughed so much that tears came to his eyes.¦gn=Folgesatz: dass-Satz mit Verb am Ende¦v=so stark, dass | derart, dass
+P0149¦ph=für den Fall, dass ...¦m=in case ...¦lv=B2¦ex=Ruf mich an, für den Fall, dass etwas passiert.¦en=Call me in case something happens.¦gn=dass-Satz: Verb am Ende¦ck=dup:P0107
+P0150¦m=a little; a bit¦lv=A2¦ex=Ich möchte ein wenig Zucker im Tee.¦en=I'd like a little sugar in my tea.¦v=ein bisschen | etwas
+P0151¦fn=Menge¦m=kilometres per hour¦lv=A2¦ex=Auf der Landstraße darf man hundert Kilometer pro Stunde fahren.¦en=On country roads you may drive a hundred kilometres per hour.¦gn=Abkürzung: km/h¦v=Stundenkilometer | km/h
+P0152¦ph=im Zusammenhang mit ...¦m=in connection with ...¦lv=B2¦ex=Im Zusammenhang mit der Studie gibt es neue Ergebnisse.¦en=In connection with the study there are new results.¦gn=mit + Dat.¦v=in Verbindung mit | bezüglich
+P0153¦ph=was ist denn los?¦m=what on earth is the matter?¦lv=A2¦ex=Warum weinst du? Was ist denn los?¦en=Why are you crying? What on earth is the matter?¦gn=denn = Interesse/Überraschung¦v=was ist passiert? | was hast du denn?
+P0154¦ph=ich meine, dass ...¦m=I mean / I think that ...¦lv=B1¦ex=Ich meine, dass das ein Fehler war.¦en=I think that was a mistake.¦gn=dass-Satz: Verb am Ende¦v=ich finde, dass | ich denke, dass
+P0155¦ph=nicht wahr?¦m=isn't it? / right?¦lv=B1¦ex=Das Essen war gut, nicht wahr?¦en=The food was good, wasn't it?¦gn=Bestätigungsfrage am Satzende¦v=oder? | stimmt's?
+P0156¦ph=nehmen Sie ...¦m=take ...¦lv=A2¦ex=Nehmen Sie dreimal täglich eine Tablette.¦en=Take one tablet three times a day.¦gn=Imperativ Höflichkeitsform: nehmen Sie + Akk.¦v=nehmen Sie bitte ... | Sie sollten ... nehmen
+P0157¦m=don't be afraid¦lv=A2¦ex=Keine Angst, die Spritze tut kaum weh.¦en=Don't be afraid, the injection hardly hurts.¦v=keine Sorge | nur keine Panik
+P0158¦m=lately¦lv=B1¦ex=In letzter Zeit schlafe ich schlecht.¦en=Lately I've been sleeping badly.¦v=neuerdings | seit Kurzem
+P0159¦ph=kommen Sie ...¦m=come ...¦lv=A1¦ex=Kommen Sie bitte morgen um acht Uhr zur Untersuchung.¦en=Please come to the examination tomorrow at eight o'clock.¦gn=Imperativ Höflichkeitsform¦v=bitte kommen Sie ... | Sie können ... kommen

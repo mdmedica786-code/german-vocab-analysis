@@ -20,6 +20,10 @@ AL = {"vocab": dict(pl="plural", art="article", ps="pres_3sg", pt="preterite", p
                          en="example_en", gn="grammar_note", v="variants", eu="exam_use", pr="priority", ck="check", cat="cat_id")}[bank]
 FILES = {"vocab": "vocabulary_bank.csv", "phrase": "phrase_bank.csv", "redemittel": "redemittel_bank.csv"}
 cur = {}
+PFN = []
+if bank == "phrase":
+    with open(ROOT / "bank_final" / "phrase_bank.csv", encoding="utf-8-sig", newline="") as f_:
+        PFN = sorted({r_["function"] for r_ in csv.DictReader(f_) if r_["function"]})
 if bank != "redemittel":
     with open(ROOT / "bank_final" / FILES[bank], encoding="utf-8-sig", newline="") as f:
         cur = {r["id"]: r for r in csv.DictReader(f)}
@@ -46,6 +50,9 @@ for line in sys.stdin.read().splitlines():
         k, _, v = p.partition("=")
         k = AL.get(k.strip(), k.strip()); v = v.strip()
         d[k] = "__CLEAR__" if v == "-" else v
+        if bank == "phrase" and k == "function" and v != "-":
+            m_ = [f for f in PFN if f.split(" (")[0].lower().startswith(v.lower())]
+            if len(m_) == 1: d[k] = m_[0]
     if bank == "vocab" and rid in cur:
         r = cur[rid]
         if d.get("example_de") and not r["example_de"] and "example_source" not in d: d["example_source"] = "claude"

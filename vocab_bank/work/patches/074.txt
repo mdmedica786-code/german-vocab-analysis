@@ -1,0 +1,2 @@
+P0065¦ex=Du solltest zum Arzt gehen, wenn du Fieber hast.¦en=You should see a doctor if you have a fever.
+P0064¦gn=Inversion: Verb direkt nach der Wendung
