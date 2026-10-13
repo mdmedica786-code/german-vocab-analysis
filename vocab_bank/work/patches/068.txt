@@ -1,0 +1,96 @@
+B2088¦tp=T10¦ex=Meine Schwester bloggt über ihre Reisen.¦en=My sister blogs about her trips.
+B2089¦tp=T10¦ex=Ich maile dir die Unterlagen noch heute.¦en=I'll email you the documents today.
+B2090¦tp=T15¦ex=Der Komparativ von „gut“ ist „besser“.¦en=The comparative of "gut" is "besser".
+B4389¦en=He has a cold and can't breathe through his nose.
+B2095¦ps=programmiert¦pt=programmierte¦pf=hat programmiert¦tp=T10¦ex=Mein Bruder programmiert gern Apps.¦en=My brother likes programming apps.
+B2097¦m=photo shoot¦tp=T10¦ex=Das Model hat heute ein Shooting für eine Zeitschrift.¦en=The model has a photo shoot for a magazine today.
+B4247¦en=That is an old conflict.
+B2099¦tp=T03¦ex=Mein Bruder hat ein eigenes Start-up gegründet.¦en=My brother has founded his own start-up.¦ck=spelling?
+B2100¦ck=-¦ef=der Studierende; die Studierende; die Studierenden¦en=Ten students attend the seminar.
+B2102¦en=We are doing a survey on environmental protection.
+B4215¦ex=Mein Bruder arbeitet an einem Institut für Physik.¦en=My brother works at an institute of physics.
+B2105¦tp=T15¦ex=Der Superlativ von „gut“ ist „am besten“.¦en=The superlative of "gut" is "am besten".
+B2106¦tp=T15¦rg=informal¦m=thingamajig¦ex=Gib mir mal das Dings dort!¦en=Pass me that thingamajig over there!
+B2108¦ck=-¦tp=T04¦ex=Die Grammatikaufgabe war heute sehr schwer.¦en=The grammar exercise was very difficult today.
+B3958¦m=paragraph; heel; sales¦tp=T16¦ex=Lesen Sie bitte den ersten Absatz des Textes.¦en=Please read the first paragraph of the text.
+B2109¦en=How fast can you type?
+B2111¦pos=adjective¦rg=informal¦en=I think it's stupid that you have to leave tomorrow.
+B2113¦pos=adjective¦en=I think the film is stupid.
+B2114¦m=grandson; grandchild¦en=All my grandchildren already go to school.
+B2115¦m=granddaughter¦ex=Meine Enkelin ist drei Jahre alt.¦en=My granddaughter is three years old.
+B2116¦en=Can you please upload the file for the homework?
+B5294¦m=to limit; to restrict¦ps=beschränkt¦pt=beschränkte¦pf=hat beschränkt¦en=The number of participants for the course is limited.
+B2117¦m=cheese sandwich¦tp=T06¦ex=Zum Frühstück esse ich ein Käsebrot.¦en=I eat a cheese sandwich for breakfast.
+B2119¦tp=T10¦ex=Dein Foto hat schon hundert Likes bekommen.¦en=Your photo has already got a hundred likes.¦ck=article?
+B2121¦m=to inform; to notify¦en=We will let you know the exam date later.
+B5295¦m=illness; disease¦lv=B2¦art=die¦pl=Erkrankungen¦tp=M2 Medizin: Symptome & Krankheiten¦ex=Bei dieser Erkrankung sind Husten und Fieber typisch.¦en=Cough and fever are typical for this illness.¦col=schwere Erkrankung | chronische Erkrankung | Erkrankung der Atemwege | an einer Erkrankung leiden
+B2122¦pos=adjective¦en=You don't need to feel embarrassed.
+B2125¦en=This detail is unimportant.
+B2126¦pos=adverb¦m=several times¦tp=T13¦ex=Ich habe ihn mehrmals angerufen, aber er geht nicht ran.¦en=I called him several times, but he doesn't pick up.
+B5296¦pos=adverb¦m=underneath; among them¦lv=B1¦ex=Im Regal stehen viele Bücher, darunter auch Romane.¦en=There are many books on the shelf, including novels.
+B2127¦pos=adverb¦en=Can I speak to Mr Meier? – What is it about?
+B2129¦pos=adjective¦tp=T16¦ex=Die Gefahr ist real.¦en=The danger is real.
+B2131¦m=blog post¦tp=T10¦ex=Sie hat einen Blogbeitrag über ihre Reise geschrieben.¦en=She wrote a blog post about her trip.
+B5297¦pos=preposition¦g=mittels + Gen.¦m=by means of¦lv=B2¦ex=Der Patient wurde mittels Ultraschall untersucht.¦en=The patient was examined by means of ultrasound.
+B2132¦m=first letter; initial¦tp=T15¦ex=Der Anfangsbuchstabe deines Namens ist ein M.¦en=The first letter of your name is an M.
+B2134¦ck=-¦m=last one; last person¦ef=der Letzte; die Letzte; die Letzten¦tp=T16¦ex=Die Letzte in der Reihe bekommt keine Karte mehr.¦en=The last person in the line doesn't get a ticket any more.
+B2135¦ck=-¦m=lap; round¦tp=T10¦en=I run five laps in the park every day.
+B5298¦m=individual¦lv=C1¦art=das¦pl=Individuen¦ex=Jedes Individuum hat eigene Rechte.¦en=Every individual has their own rights.
+B2137¦ck=-¦m=to pass on in a whisper¦ps=flüstert weiter¦pt=flüsterte weiter¦pf=hat weitergeflüstert¦tp=T15¦ex=Flüster die Nachricht an den Nächsten weiter!¦en=Whisper the message on to the next person!
+B2138¦tp=T10¦ex=Am Wochenende sehen wir einen Actionfilm.¦en=At the weekend we're watching an action film.
+B2140¦tp=T10¦ex=Ich mag Komödien, weil ich gern lache.¦en=I like comedies because I like laughing.
+B2929¦en=We have a flat right in the middle of the town.
+B2141¦m=detective story; crime novel¦en=Miriam likes reading exciting crime novels.
+B2143¦tp=T10¦ex=Meine Freundin sieht gern Liebesfilme.¦en=My girlfriend likes watching romantic films.
+B2144¦tp=T10¦ex=Der Thriller war so spannend, dass ich nicht schlafen konnte.¦en=The thriller was so exciting that I couldn't sleep.
+B4235¦m=expense; edition¦os=-¦en=How high are your expenses in a month?
+B2145¦pt=weinte¦en=Why is the baby crying?
+B2146¦tp=T10¦ex=Er hat seine Autobiografie mit achtzig Jahren geschrieben.¦en=He wrote his autobiography at the age of eighty.
+B2148¦tp=T10¦ex=Der Entertainer begrüßt das Publikum.¦en=The entertainer welcomes the audience.
+B4962¦m=to respond to; to go into¦ex=Der Lehrer geht auf die Fragen der Schüler ein.¦en=The teacher responds to the students' questions.
+B2149¦tp=T10¦ex=Die Entertainerin singt und tanzt auf der Bühne.¦en=The entertainer sings and dances on stage.
+B2150¦ck=-¦tp=T10¦ex=Die Filmbeschreibung steht im Programmheft.¦en=The film description is in the programme.
+B2151¦pos=adjective¦m=cheerful; happy¦en=The music sounds cheerful.
+B4294¦m=to fear; to be afraid¦rf=sich¦g=vor + Dat.¦en=She is afraid of snakes.
+B2152¦en=Take the situation with humour and just carry on.
+B2153¦en=In my childhood I was often in the country with my grandparents.
+B2155¦m=fate; destiny¦tp=T14¦ex=Sein Schicksal hat uns alle sehr berührt.¦en=His fate has touched us all deeply.
+B3239¦en=What is the film called? – I don't remember the title any more.
+B2158¦en=She has great talent for music.
+B2160¦en=We told jokes and laughed a lot.
+B5066¦pos=adverb¦ex=Ich habe meinen Schlüssel irgendwo verloren.¦en=I lost my key somewhere.
+B2161¦en=Your friendship is very important to me.
+B2162¦m=main character¦tp=T10¦ex=Die Hauptperson in dem Roman ist ein junger Arzt.¦en=The main character in the novel is a young doctor.
+B2163¦m=short description; summary¦tp=T15¦ex=Die Kurzbeschreibung steht auf der Rückseite des Buches.¦en=The short description is on the back of the book.
+B4131¦pos=adjective¦nt=Only used before a noun.
+B2165¦tp=T10¦ex=Nach dem Kinobesuch gehen wir noch essen.¦en=After the visit to the cinema we're going out to eat.
+B2166¦tp=T10¦ex=Die Filmmusik hat mir besonders gut gefallen.¦en=I particularly liked the film music.
+B2167¦m=wording; phrasing¦tp=T15¦ex=Die Formulierung in der E-Mail ist sehr höflich.¦en=The wording in the email is very polite.
+B2711¦en=By the way, do you already know the new neighbours?
+B2169¦pos=adjective¦tp=T15¦ex=Deine Erklärung klingt logisch.¦en=Your explanation sounds logical.
+B2171¦ps=kommentiert¦pt=kommentierte¦pf=hat kommentiert¦tp=T15¦ex=Der Reporter kommentiert das Spiel.¦en=The reporter comments on the match.
+B2173¦tp=T10¦ex=Hast du den Trailer zum neuen Film schon gesehen?¦en=Have you already seen the trailer for the new film?
+B5299¦m=state; state-run¦ex=Diese Schule ist staatlich.¦en=This school is state-run.
+B2175¦pos=adjective¦m=excited; nervous¦tp=T14¦ex=Vor der Prüfung bin ich immer sehr aufgeregt.¦en=Before an exam I'm always very nervous.
+B2176¦tp=T07¦ex=Wir kaufen Babykleidung in dem kleinen Laden.¦en=We buy baby clothes in the small shop.
+B2178¦tp=T07¦ex=Das Brautkleid ist weiß und sehr lang.¦en=The wedding dress is white and very long.
+B4164¦pos=adverb¦tp=T16¦ex=Möglicherweise komme ich etwas später.¦en=I may come a little later.
+B2179¦en=Do you have a driving licence?
+B2180¦tp=T08¦ex=Morgen habe ich meine Führerscheinprüfung.¦en=Tomorrow I have my driving test.
+B2181¦en=The pastries are really fresh.
+B3474¦pos=adjective¦en=It's odd that my brother isn't here yet.
+B2185¦tp=T10¦ex=Sie hat bei den Spielen eine Medaille gewonnen.¦en=She won a medal at the Games.
+B2186¦pos=adjective¦en=I'm always very nervous in exams.
+B5129¦en=I come from a small town on the Danube.
+B2188¦ps=schmückt¦pt=schmückte¦pf=hat geschmückt¦tp=T02¦ex=Wir schmücken den Weihnachtsbaum.¦en=We are decorating the Christmas tree.
+B2189¦tp=T04¦ex=Mein Sohn trägt seinen Schulranzen auf dem Rücken.¦en=My son carries his school bag on his back.
+B3058¦en=May I keep the magazine?
+B2190¦tp=T04¦ex=Der erste Schultag ist für Kinder aufregend.¦en=The first day of school is exciting for children.
+B2191¦m=school cone (sweets given on the first day of school)¦tp=T04¦ex=Zur Einschulung bekommt jedes Kind eine Schultüte.¦en=Every child gets a school cone at the start of school.
+B2192¦en=Our team won. We're happy about the victory.
+B2737¦m=order; commission; assignment¦en=I'm coming on behalf of Mrs Müller and am to give you this letter.
+B2194¦tp=T11¦ex=Auf dem Dach des Hauses sitzt ein Storch.¦en=A stork is sitting on the roof of the house.
+B2196¦pos=adjective¦m=annoyed; irritated¦tp=T14¦ex=Ich bin genervt, weil der Bus schon wieder Verspätung hat.¦en=I'm annoyed because the bus is late again.
+B2197¦pos=adjective¦en=I'm very sad. My cat has run away.
+B3772¦en=Excuse me, please. My daughter didn't do that on purpose.
+B2198¦pos=adjective¦tp=T14¦ex=Er ist unglücklich, weil er seinen Job verloren hat.¦en=He is unhappy because he lost his job.

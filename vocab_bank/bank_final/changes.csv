@@ -636,3 +636,134 @@ vocab,B1684,check,ocr?,
 vocab,B1689,check,ocr?,
 vocab,B1690,check,ocr?,
 vocab,B1692,meaning_en,around,round; around
+vocab,B4232,meaning_en,sympathy,understanding; sympathy
+vocab,B1694,check,ocr?,
+vocab,B1700,check,ocr?,
+vocab,B1703,plural,Saisonen,Saisons
+vocab,B1704,check,ocr?,
+vocab,B1715,meaning_en,courtyard,courtyard; farm
+vocab,B1718,check,ocr?,
+vocab,B1721,check,ocr?,
+vocab,B1722,check,ocr?,
+vocab,B1723,check,ocr?,
+vocab,B1729,check,ocr?,
+vocab,B4493,meaning_en,tone,sound; tone; clay
+vocab,B1753,meaning_en,files,data; dates
+vocab,B5265,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B4001,example_en,"I'm of the opinion, that...",I am of the opinion that we have to do more.
+vocab,B4001,meaning_en,opinion,opinion; view
+vocab,B4001,example_de,"Ich bin der Ansicht, dass we","Ich bin der Ansicht, dass wir mehr tun müssen."
+vocab,B4001,other_senses,prospect,
+vocab,B1764,check,article?,
+vocab,B5267,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1767,meaning_en,end,end; conclusion
+vocab,B1770,meaning_en,station,stop; station
+vocab,B2404,meaning_en,aisle,aisle; corridor; gait
+vocab,B2404,topic,T02 Wohnen,"T08 Reisen, Verkehr & Orte"
+vocab,B3499,meaning_en,characteristic,characteristic; feature
+vocab,B1783,meaning_en,across from,opposite; towards
+vocab,B1786,register,neutral,informal
+vocab,B2746,meaning_en,character,figure; character
+vocab,B1788,meaning_en,ZOO,zoo
+vocab,B1793,check,article?,
+vocab,B1798,meaning_en,tired,knocked out; exhausted
+vocab,B1798,register,neutral,informal
+vocab,B1799,pres_3sg,fahrt los,fährt los
+vocab,B3874,example_de,Da ist ohne Zweifel die beste Lösung.,Das ist ohne Zweifel die beste Lösung.
+vocab,B4091,meaning_en,to plan to do sth,to plan to do; to undertake
+vocab,B1811,meaning_en,type,type; kind; way
+vocab,B1811,plural,–,Arten
+vocab,B1812,check,ocr?,
+vocab,B1814,plural,–,Weisen
+vocab,B1815,register,neutral,informal
+vocab,B1816,gov,zu + Dat.,+ Dat. | zu + Dat.
+vocab,B1824,check,ocr?,
+vocab,B4539,meaning_en,to form,to shape; to form
+vocab,B1840,check,ocr?,
+vocab,B1848,register,neutral,colloquial
+vocab,B1848,check,ocr?,
+vocab,B2689,meaning_en,material,material; fabric; substance
+vocab,B1854,meaning_en,"exercise, movement",exercise; movement
+vocab,B2516,meaning_en,machine,machine; aeroplane
+vocab,B2395,meaning_en,train,railway; train
+vocab,B2290,meaning_en,official (m),civil servant; official
+vocab,B2453,meaning_en,truck,lorry; truck
+vocab,B2339,meaning_en,to submit,to hand in; to submit; to give
+vocab,B3744,meaning_en,verdict,judgement; verdict
+vocab,B2465,meaning_en,independent,independent; self-employed
+vocab,B2400,meaning_en,counter,counter; switch
+vocab,B2931,meaning_en,square meter (=sq m I m?),square metre
+vocab,B2931,note,= qm / m?,Abbreviation: qm or m².
+vocab,B3645,meaning_en,customs,customs; inch
+vocab,B3529,meaning_en,exclusive,exclusively
+vocab,B2366,register,neutral,informal
+vocab,B2546,meaning_en,departing flight,take-off; departure (flight)
+vocab,B3398,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)",T02 Wohnen
+vocab,B3398,meaning_en,to paint,to paint; to cross out; to cancel
+vocab,B3050,meaning_en,homemaker (m),housewife; homemaker (f)
+vocab,B3051,meaning_en,homemaker (f),househusband; homemaker (m)
+vocab,B1928,check,ocr?,
+vocab,B1934,meaning_en,sour,sour; angry (colloq.)
+vocab,B1935,meaning_en,spicy,spicy; sharp
+vocab,B3846,meaning_en,"approach, attitude",attitude; setting; employment
+vocab,B1951,register,neutral,informal
+vocab,B1952,topic,T03 Arbeit & Beruf,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B1953,topic,T05 Gesundheit & Körper,"M4 Medizin: Klinik, Pflege & Recht"
+vocab,B1953,meaning_en,medicine,medicine (drug); medicine (subject)
+vocab,B4608,meaning_en,position,position; job; stance
+vocab,B1959,check,article?,
+vocab,B3699,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B1982,register,neutral,informal
+vocab,B5287,register,neutral,colloquial
+vocab,B1996,check,ocr?,
+vocab,B5288,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T13 Zeit, Zahlen, Maße & Mengen"
+vocab,B2045,check,ocr?,
+vocab,B2048,register,neutral,informal
+vocab,B2059,meaning_en,schedule,timetable; schedule
+vocab,B2065,register,neutral,informal
+vocab,B2071,register,neutral,informal
+vocab,B2079,meaning_en,Screen,screen
+vocab,B2080,meaning_en,cabel,cable
+vocab,B2097,meaning_en,shooting (film),photo shoot
+vocab,B2100,check,article?,
+vocab,B4215,example_de,Ich besuche einen Sprachkurs in einem kleinen Sprachinstitut.,Mein Bruder arbeitet an einem Institut für Physik.
+vocab,B2106,meaning_en,thing,thingamajig
+vocab,B2106,register,neutral,informal
+vocab,B2108,check,ocr?,
+vocab,B3958,meaning_en,sales,paragraph; heel; sales
+vocab,B2111,register,neutral,informal
+vocab,B2114,meaning_en,grandchild (m),grandson; grandchild
+vocab,B2115,example_de,Alle meine Enkel gehen schon zur Schule.,Meine Enkelin ist drei Jahre alt.
+vocab,B2115,meaning_en,grandchild (f),granddaughter
+vocab,B2117,meaning_en,cheese bread,cheese sandwich
+vocab,B2121,meaning_en,to share,to inform; to notify
+vocab,B5295,topic,T05 Gesundheit & Körper,M2 Medizin: Symptome & Krankheiten
+vocab,B2126,meaning_en,repeatedly,several times
+vocab,B2127,pos,conjunction,adverb
+vocab,B2131,meaning_en,blog entry,blog post
+vocab,B2132,meaning_en,first letter,first letter; initial
+vocab,B2134,meaning_en,last,last one; last person
+vocab,B2134,check,article?,
+vocab,B2135,meaning_en,round,lap; round
+vocab,B2137,meaning_en,to pass on quietly,to pass on in a whisper
+vocab,B2137,check,ocr?,
+vocab,B2141,meaning_en,crime novel,detective story; crime novel
+vocab,B4235,meaning_en,edition,expense; edition
+vocab,B4235,other_senses,expense,
+vocab,B4962,example_de,auf einen Standpunkt eingehen,Der Lehrer geht auf die Fragen der Schüler ein.
+vocab,B4962,example_en,to react to a point of view,The teacher responds to the students' questions.
+vocab,B4962,meaning_en,to react to,to respond to; to go into
+vocab,B2150,check,ocr?,
+vocab,B2151,meaning_en,happy,cheerful; happy
+vocab,B4294,meaning_en,to be scared,to fear; to be afraid
+vocab,B2152,example_en,Laugh away the situation and just continue.,Take the situation with humour and just carry on.
+vocab,B2155,meaning_en,destiny,fate; destiny
+vocab,B2162,meaning_en,protagonist,main character
+vocab,B2163,meaning_en,abstract,short description; summary
+vocab,B2167,meaning_en,phrasing,wording; phrasing
+vocab,B2175,meaning_en,excited,excited; nervous
+vocab,B2191,meaning_en,etwa: candy cone,school cone (sweets given on the first day of school)
+vocab,B2737,meaning_en,contract,order; commission; assignment
+vocab,B2196,meaning_en,annoyed,annoyed; irritated
+vocab,B3126,meaning_en,scarce; tight; just; barely,scarce; tight; barely
+vocab,B3661,meaning_en,"to release, to publish",to publish; to release

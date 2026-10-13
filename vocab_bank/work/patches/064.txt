@@ -1,0 +1,100 @@
+B1851¦tp=T13¦en=I'm not taking this exam again.
+B4221¦en=As a driver you must have insurance. That is compulsory.
+B1852¦tp=T08¦ex=Unser Reiseziel ist Italien.¦en=Our destination is Italy.
+B1853¦en=Please read the second section.
+B1854¦tp=T05¦med=related¦m=exercise; movement¦en=You need more exercise. You must go for regular walks.¦col=mehr Bewegung | in Bewegung bleiben | körperliche Bewegung | sich Bewegung verschaffen
+B5276¦m=disturbance; interruption; disorder¦en=Please excuse the interruption.¦col=eine Störung beheben | technische Störung | eine Störung melden | psychische Störung
+B1855¦tp=T08¦en=My family lives in a village.
+B1856¦en=In summer I'd like to go on holiday on an island.
+B1857¦col=eine fremde Kultur | Kulturen kennenlernen | Kultur fördern | Kultur und Politik¦en=I find foreign countries and cultures very interesting.
+B4613¦med=related¦col=eine Methode anwenden | eine Salbe anwenden | Gewalt anwenden | richtig anwenden¦en=This ointment has to be applied three times a day.
+B1858¦en=The landscape is very beautiful.
+B1859¦pos=adjective¦en=This music is popular with young people.
+B1860¦en=On holiday I like being on the beach best.
+B3691¦pos=adjective¦col=üblich sein | wie üblich | allgemein üblich | die übliche Zeit¦en=In Germany it is usual to have dinner early.
+B1861¦tp=T08¦ex=Mein Traumurlaub wäre eine Reise nach Neuseeland.¦en=My dream holiday would be a trip to New Zealand.
+B1862¦pos=adjective¦en=We went on an outing. It was wonderful.
+B1863¦tp=T08¦ex=Der Urlaubsort liegt direkt am Meer.¦en=The holiday resort is right by the sea.
+B2646¦tp=T08¦col=hinten sitzen | nach hinten | von hinten | ganz hinten¦en=The door for getting off is at the back.
+B2516¦tp=T08¦m=machine; aeroplane¦en=Our plane is due to take off at 7:10.
+B2250¦tp=T01¦pt=bot an¦en=What can I offer you?
+B3593¦pos=adjective¦ex=Die lokale Zeitung berichtet darüber.¦en=The local newspaper reports on it.
+B3039¦col=Zeit verbringen | den Urlaub verbringen | die Nacht verbringen | viel Zeit mit Kindern verbringen¦en=How did you spend your holiday?
+B2951¦tp=T06¦en=No thank you, I don't want any wine.
+B1917¦tp=T10¦en=Please switch off mobile phones in school!
+B2395¦tp=T08¦m=railway; train¦en=We prefer to travel by train.
+B5277¦art=die¦pl=Gemeinden¦m=municipality; community; parish¦ex=Die Gemeinde baut ein neues Schwimmbad.¦en=The municipality is building a new swimming pool.
+B3144¦tp=T10¦en=The guided tour of the house starts in 3 minutes.
+B1913¦tp=T08¦en=The entrance is around the corner.
+B2290¦tp=T09¦ef=der Beamte; ein Beamter; die Beamtin¦m=civil servant; official¦en=Ask the official at counter eight!
+B3417¦pos=adverb¦col=gratis bekommen | gratis anbieten | völlig gratis | gratis testen¦en=This repair costs you nothing at all, we are doing it for you free of charge.
+B2385¦tp=T06¦en=Another beer, please.
+B2453¦tp=T08¦m=lorry; truck¦nt=Abbreviation of Lastkraftwagen.¦en=This lorry is very big.
+B3483¦pos=adjective¦tp=T10¦en=You don't have to do anything. It happens automatically.
+B1988¦pos=adjective¦col=witzig sein | eine witzige Geschichte | witzig finden | sehr witzig¦en=Why are you laughing? I don't find that funny.
+B2339¦tp=T09¦pt=gab ab¦m=to hand in; to submit; to give¦en=I have to hand in my keys.
+B1925¦tp=T07¦en=How much are the cigarettes?
+B2738¦pos=adjective¦tp=T12¦en=Unfortunately I only have foreign money.
+B5278¦pos=adverb¦m=at least; after all¦lv=B1¦ex=Es regnet, aber immerhin ist es warm.¦en=It's raining, but at least it's warm.¦col=immerhin ein Anfang | immerhin besser | immerhin noch | immerhin habe ich
+B2295¦tp=T08¦en=Please do not talk to the driver!
+B2110¦tp=T16¦ps=ist an¦pt=war an¦pf=ist an gewesen¦en=Last night the light was on.
+B5279¦g=+ Akk. (die Straße entlang)¦m=along¦en=Go along this street. Then you will come straight to the station.
+B1910¦tp=T16¦ps=ist aus¦pt=war aus¦pf=ist aus gewesen¦en=The light is off.
+B5280¦pos=adjective¦m=complex¦lv=B1¦ex=Das Problem ist sehr komplex.¦en=The problem is very complex.¦col=komplexe Zusammenhänge | ein komplexes Thema | komplex sein | eine komplexe Aufgabe
+B2359¦tp=T16¦ps=ist weg¦pt=war weg¦pf=ist weg gewesen¦en=Mr Meier is already gone.
+B3744¦m=judgement; verdict¦en=Your judgement is very important to me.
+B2256¦tp=T13¦ex=Im Frühjahr blühen die Bäume.¦en=In spring the trees blossom.
+B1932¦pos=adjective¦tp=T06¦en=The coffee tastes bitter.
+B2465¦pos=adjective¦tp=T03¦m=independent; self-employed¦nt=Also spelled selbständig.¦en=He is self-employed.
+B2601¦col=eine genaue Beschreibung | eine Beschreibung geben | nach der Beschreibung | die Beschreibung des Geräts¦en=A description of the device is enclosed.
+B2400¦m=counter; switch
+B2787¦tp=T02¦ps=repariert¦pt=reparierte¦pf=hat repariert¦en=He repaired the bicycle.
+B2786¦tp=T07¦en=The repair is very expensive.
+B5281¦pos=adjective¦m=empirical¦lv=B1¦ex=Die Studie beruht auf empirischen Daten.¦en=The study is based on empirical data.¦col=empirische Studie | empirische Daten | empirisch belegt | empirische Forschung
+B2351¦pos=adjective¦tp=T09¦en=The passport is no longer valid.
+B2931¦tp=T13¦m=square metre¦nt=Abbreviation: qm or m².¦ex=Die Wohnung hat siebzig Quadratmeter.¦en=The flat has seventy square metres.
+B3645¦tp=T09¦m=customs; inch¦en=We still have to go through customs.
+B3529¦pos=adverb¦m=exclusively¦col=ausschließlich für | ausschließlich online | ausschließlich Frauen | ausschließlich privat¦en=I'm sorry. We have non-smoking rooms only.
+B2366¦tp=T10¦rg=informal¦en=Tonight we're going dancing at the disco.
+B2545¦tp=T08¦pt=flog ab¦en=When are you flying out?
+B2546¦tp=T08¦m=take-off; departure (flight)¦en=The departure is at 11:20.
+B3398¦tp=T02¦m=to paint; to cross out; to cancel¦ex=Wir streichen die Wände weiß.¦en=We are painting the walls white.¦col=die Wand streichen | einen Satz streichen | Butter aufs Brot streichen | einen Termin streichen
+B2084¦tp=T10¦ps=klickt an¦pt=klickte an¦pf=hat angeklickt¦en=You have to click on this word.
+B2480¦tp=T10¦en=We are not here at the moment. Please leave a message on the answering machine.
+B4669¦tp=T09¦en=Please buy stamps at the post office.
+B5282¦pos=pronoun¦tp=T16¦m=both¦lv=B1¦ex=Möchten Sie Tee oder Kaffee? – Beides, bitte.¦en=Would you like tea or coffee? – Both, please.
+B2397¦tp=T08¦en=I didn't understand the announcement.
+B2184¦tp=T15¦ps=gratuliert¦pt=gratulierte¦pf=hat gratuliert¦g=+ Dat. | zu + Dat.¦en=Congratulations to you!
+B3290¦tp=T08¦en=Would you like full board or half board?
+B5283¦pos=adjective¦tp=T16¦m=needed; required¦lv=B1¦ck=dup:B3367¦ex=Die benötigten Unterlagen liegen bei.¦en=The required documents are enclosed.¦col=benötigte Unterlagen | benötigte Zeit | benötigtes Material | die benötigte Menge
+B3050¦tp=T01¦m=housewife; homemaker (f)¦en=The housewife/househusband does the washing, cooks and goes shopping.
+B3051¦tp=T01¦m=househusband; homemaker (m)¦en=The housewife/househusband does the washing, cooks and goes shopping.
+B4153¦tp=T07¦en=At the kiosk you can get drinks, cigarettes and newspapers.
+B5284¦pos=adverb¦m=inside¦en=The light switch is inside on the left.¦col=von innen | nach innen | innen und außen | innen liegen
+B2761¦tp=T08¦en=Please send me a brochure of your hotel.
+B1981¦tp=T08¦en=My husband works at a travel agency.
+B3177¦tp=T15¦en=What is the dialling code for Munich?
+B3539¦pos=adjective¦tp=T07¦col=ökologisch produziert | regional produziert | in Deutschland produziert | billig produziert
+B1911¦en=For the task you can choose from three topics.
+B1914¦en=With our TV we can receive more than 30 channels.
+B1918¦pt=informierte¦en=Before the trip I want to find out about the country.
+B5286¦ps=betritt¦pt=betrat¦pf=hat betreten¦m=to enter; to step onto¦lv=B1¦ex=Bitte betreten Sie den Raum nicht.¦en=Please do not enter the room.¦col=den Raum betreten | verbotenes Gebiet betreten | Neuland betreten | die Bühne betreten
+B1919¦en=How much does a reservation cost?
+B1922¦en=I have to be at work by 9 o'clock at the latest.
+B1923¦tp=T02¦ex=Das WC ist am Ende des Flurs.¦en=The toilet is at the end of the hallway.
+B3606¦med=related¦col=von der Leiter stürzen | zu Boden stürzen | schwer stürzen | in die Tiefe stürzen¦en=I fell in the street and broke my foot.
+B1924¦tp=T01¦pt=half weiter¦ex=Können Sie mir bitte weiterhelfen?¦en=Can you help me further, please?
+B1926¦en=The train only has a 20-minute stop in Munich.
+B1928¦tp=T04¦ck=-¦ex=Der Sprachkurs war eine gute Lernerfahrung.¦en=The language course was a good learning experience.
+B5109¦pos=adjective¦tp=T16¦ex=Das ist unmöglich zu schaffen.¦en=That is impossible to manage.¦col=unmöglich sein | fast unmöglich | unmöglich machen | etwas Unmögliches
+B1931¦pt=hörte zu¦en=Do listen to me! I'm talking to you.
+B1933¦pos=adjective¦en=This food is too salty for me.
+B1934¦pos=adjective¦ef=saurer – am sauersten¦m=sour; angry (colloq.)
+B2909¦en=In the surroundings of Berlin you can make nice excursions.
+B1935¦pos=adjective¦ef=schärfer – am schärfsten¦m=spicy; sharp
+B1937¦pos=adjective¦tp=T15¦ex=Das Verb ist im Satz konjugiert.¦en=The verb is conjugated in the sentence.
+B1940¦en=What are you laughing about?
+B3846¦m=attitude; setting; employment¦ex=Seine Einstellung zur Arbeit ist sehr positiv.¦en=His attitude to work is very positive.
+B1941¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ex=Der Altenpfleger hilft den Bewohnern beim Waschen.¦en=The geriatric nurse helps the residents with washing.
+B1942¦tp=M4 Medizin: Klinik, Pflege & Recht¦med=related¦ex=Die Altenpflegerin arbeitet im Pflegeheim.¦en=The geriatric nurse works in the care home.
+B1943¦tp=T01¦ex=Mein Au-pair kommt aus Spanien.¦en=My au pair comes from Spain.
