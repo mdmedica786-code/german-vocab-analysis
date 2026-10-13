@@ -1,0 +1,98 @@
+B5628¦tp=M2¦col=akute Erkrankung | akuter Notfall | akute Bauchschmerzen | akut auftreten
+B5630¦m=fruits¦tp=T06¦en=I like buying fruit best at the market.
+B4556¦ck=-¦tp=T02¦m=espresso pot (moka pot)¦ex=Die Espressokanne steht auf dem Herd.¦en=The espresso pot is on the stove.
+B4557¦tp=T10¦m=graffito (single graffiti)¦ex=An der Mauer ist ein großes Graffito.¦en=There is a large graffito on the wall.
+B4558¦tp=T02¦ex=Jemand hat die Hauswand bemalt.¦en=Someone has painted the wall of the house.
+B5631¦m=club¦en=Is there a tennis club here?
+B4560¦tp=T10¦m=installation (art, software)¦ex=Die Installation im Museum besteht aus vielen Spiegeln.¦en=The installation in the museum consists of many mirrors.
+B4561¦en=Europeans consumed more meat last year.
+B4562¦ck=-¦tp=T10¦ex=Auf einem Kunstblog schreibt sie über Ausstellungen.¦en=On an art blog she writes about exhibitions.
+B5632¦pos=adjective¦m=psychological¦lv=B2¦ex=Der Patient braucht psychologische Hilfe.¦en=The patient needs psychological help.
+B4563¦tp=T10¦ex=Dieses Kunstwerk ist sehr berühmt.¦en=This artwork is very famous.
+B4564¦tp=T06¦m=skewer; spit¦ex=Auf dem Grill liegen Spieße mit Fleisch.¦en=There are skewers of meat on the grill.
+B4566¦tp=T10¦ex=Auf dem Platz steht eine alte Statue.¦en=There is an old statue on the square.
+B5633¦m=to disappoint¦en=Unfortunately his behaviour disappointed me.
+B4568¦tp=T16¦ps=entwickelt weiter¦pt=entwickelte weiter¦pf=hat weiterentwickelt¦m=to develop further¦ex=Die Firma entwickelt ihr Produkt ständig weiter.¦en=The company is constantly developing its product further.
+B4569¦pos=adjective¦en=The road to our house is very steep.
+B4570¦ck=-¦tp=T10¦ex=In der Radioumfrage ging es um Musik.¦en=The radio survey was about music.
+B5634¦m=throat¦lv=B2¦art=die¦pl=Kehlen¦tp=M1¦ex=Ich habe Schmerzen in der Kehle.¦en=I have pain in my throat.
+B4571¦tp=T10¦ex=Das Kunstobjekt steht mitten im Park.¦en=The art object stands in the middle of the park.
+B4572¦tp=T03¦ex=Die Putzfrau kommt zweimal pro Woche.¦en=The cleaner comes twice a week.
+B4573¦tp=T03¦ex=Der Putzmann reinigt die Fenster.¦en=The cleaner cleans the windows.
+B5635¦m=sale; selling¦lv=B2¦art=der¦pl=Verkäufe¦ex=Der Verkauf der Wohnung dauerte lange.¦en=The sale of the flat took a long time.
+B4574¦pos=adjective¦tp=T11¦m=animal; animal-based¦ex=Tierische Fette sind nicht für alle geeignet.¦en=Animal fats are not suitable for everyone.
+B4575¦ck=-¦tp=T10¦ex=Der Zeitungstext ist leicht zu verstehen.¦en=The newspaper text is easy to understand.
+B4576¦tp=T07¦ex=Das Bild wird auf einer Auktion verkauft.¦en=The picture is sold at an auction.
+B5636¦pos=adverb¦m=accordingly¦lv=C1¦ex=Es hat stark geregnet, dementsprechend nass sind die Straßen.¦en=It rained heavily, so the streets are correspondingly wet.
+B4577¦ck=-¦tp=T07¦ex=Die Auktionsbesucher warten auf das erste Bild.¦en=The auction visitors are waiting for the first picture.
+B4578¦ck=-¦tp=T07¦ex=Eine Auktionsbesucherin hat das Bild gekauft.¦en=A woman at the auction bought the picture.
+B4580¦en=Please make a list of what the burglars damaged.
+B5637¦m=table of contents¦lv=B2¦art=das¦pl=Inhaltsverzeichnisse¦ex=Das Inhaltsverzeichnis steht auf Seite drei.¦en=The table of contents is on page three.
+B4581¦pos=adjective¦tp=T14¦ex=Das war eine clevere Idee.¦en=That was a clever idea.
+B4582¦tp=T15¦ex=Kannst du erraten, was ich gekauft habe?¦en=Can you guess what I bought?
+B4583¦tp=T04¦ex=Der Ethnologe erforscht fremde Kulturen.¦en=The ethnologist studies foreign cultures.
+B5638¦pos=adverb¦m=at home¦ex=Ich bin heute den ganzen Tag zuhause.¦en=I am at home all day today.
+B4584¦ck=-¦tp=T04¦ex=Die Ethnologin lebte ein Jahr bei einem Volk in Afrika.¦en=The ethnologist lived for a year with a people in Africa.
+B4585¦en=This gallery is very interesting.
+B4586¦ck=-¦tp=T02¦ex=Die Gummiwanne steht im Hof.¦en=The rubber tub is in the yard.
+B5639¦m=grief; mourning¦lv=B2¦art=die¦pl=–¦tp=M2¦ex=Sie spürt große Trauer nach dem Tod ihres Vaters.¦en=She feels great grief after her father's death.
+B4588¦tp=T08¦m=to get close to; to reach¦ex=Ich komme an das Buch nicht heran.¦en=I cannot reach the book.
+B4589¦tp=T08¦m=home country; domestic¦ex=Die Preise im Inland sind niedriger.¦en=Prices in the domestic market are lower.
+B4590¦en=I already have a buyer for the old table.
+B5640¦m=to defend oneself; to resist¦lv=B2¦rf=sich¦g=gegen + Akk.¦ps=wehrt sich¦pt=wehrte sich¦pf=hat sich gewehrt¦ex=Er wehrt sich gegen die Kündigung.¦en=He is fighting against the dismissal.
+B4591¦ex=Die Käuferin hat den Tisch schon bezahlt.¦en=The buyer has already paid for the table.
+B4592¦tp=T10¦ex=Der Kunsthistoriker hält einen Vortrag über Rembrandt.¦en=The art historian gives a lecture about Rembrandt.
+B4593¦tp=T10¦ex=Die Kunsthistorikerin führt uns durch das Museum.¦en=The art historian shows us through the museum.
+B5641¦pos=preposition¦m=below¦lv=C1¦g=+ Gen.¦ex=Unterhalb des Knies hat er eine Narbe.¦en=He has a scar below the knee.
+B4594¦ck=-¦tp=T10¦ex=Im Kunstsupermarkt kann man Bilder günstig kaufen.¦en=In the art supermarket you can buy pictures cheaply.
+B4595¦tp=T16¦ex=Mir ist ein kleines Missgeschick passiert.¦en=A small mishap happened to me.
+B5642¦pos=preposition¦m=according to¦lv=C1¦g=+ Dat.¦nt=follows its noun (dem Bericht zufolge)¦ex=Dem Bericht zufolge steigen die Preise.¦en=According to the report prices are rising.
+B4597¦pos=adjective¦en=I have to hand in the original document.
+B4599¦tp=T07¦ex=Die Zimmer gibt es in drei Preiskategorien.¦en=The rooms come in three price categories.
+B4600¦tp=T03¦ex=Die Reinigungsfirma putzt jede Woche das Büro.¦en=The cleaning company cleans the office every week.
+B5643¦m=to unfold; to develop¦lv=C1¦ps=entfaltet¦pt=entfaltete¦pf=hat entfaltet¦ex=Die Blume entfaltet ihre Blätter.¦en=The flower unfolds its leaves.
+B4601¦tp=T03¦ex=Das Reinigungspersonal beginnt um fünf Uhr.¦en=The cleaning staff start at five o'clock.
+B4603¦tp=T07¦ex=Im Verkaufsraum stehen viele neue Autos.¦en=Many new cars are in the showroom.
+B4604¦tp=T03¦ex=Der Zoodirektor zeigt uns die neuen Pinguine.¦en=The zoo director shows us the new penguins.
+B5644¦m=procedure; intervention¦lv=B2¦art=der¦pl=Eingriffe¦tp=M3¦ex=Der Eingriff dauert etwa eine Stunde.¦en=The procedure takes about an hour.¦col=ein operativer Eingriff | ein kleiner Eingriff | Eingriff unter Narkose | einen Eingriff vornehmen
+B4605¦ck=-¦tp=T03¦ex=Die Zoodirektorin leitet den Tierpark seit zehn Jahren.¦en=The zoo director has run the zoo for ten years.
+B4606¦ck=-¦tp=T15¦m=prepositional complement¦ex=Das Verb warten braucht eine Präpositionalergänzung mit auf.¦en=The verb warten needs a prepositional complement with auf.
+B4607¦ck=-¦tp=T15¦ex=Bei der Satzverneinung benutzt man nicht.¦en=In sentence negation you use nicht.
+B5031¦en=Please state the invoice number when paying.
+B4609¦ck=-¦tp=T15¦ex=Bei trennbaren Verben steht ein Verbteil am Satzende.¦en=With separable verbs one part of the verb is at the end of the sentence.
+B4610¦tp=T15¦ps=verneint¦pt=verneinte¦pf=hat verneint¦ex=Er verneinte die Frage.¦en=He answered the question in the negative.
+B4611¦ck=-¦tp=T03¦ex=Wir haben eine Putzfirma für das Treppenhaus.¦en=We have a cleaning company for the staircase.
+B5645¦m=decision; resolution¦lv=C1¦art=der¦pl=Beschlüsse¦ex=Der Gemeinderat fasste einen Beschluss.¦en=The local council passed a resolution.
+B4612¦pos=adjective¦en=All my things are in a mess.
+B4614¦en=The children are performing a play at Christmas.
+B4618¦en=In the brochure you will find the latest information.
+B4920¦pos=adjective¦tp=T15¦m=concentrated; focused¦ex=Er arbeitet sehr konzentriert.¦en=He works in a very focused way.
+B4619¦tp=T06¦ex=Das Büfett im Hotel ist sehr gut.¦en=The buffet at the hotel is very good.
+B4621¦en=The opening of the new opera house is on 1 June.
+B4624¦tp=T10¦ex=Die Kinder springen im Garten herum.¦en=The children jump around in the garden.
+B5646¦m=asylum¦pl=–¦en=The people are fleeing and are asking for asylum.
+B4625¦en=In the film the people wear colourful costumes.
+B4626¦ck=-¦tp=T04¦ex=Nach dem Kursabschluss gibt es ein Zertifikat.¦en=After completing the course there is a certificate.
+B4627¦en=You have good qualifications for this work.
+B5647¦m=to give; to grant¦lv=C1¦ps=erteilt¦pt=erteilte¦pf=hat erteilt¦ex=Die Behörde erteilt Ihnen die Erlaubnis.¦en=The authority grants you permission.
+B4629¦en=You are very nicely made up today.
+B4631¦ex=Als Snack nehme ich einen Apfel mit.¦en=I take an apple with me as a snack.
+B4632¦ck=-¦tp=T10¦ex=Das Theaterabenteuer begann mit einer Probe.¦en=The theatre adventure began with a rehearsal.
+B5017¦tp=T07¦m=instalment; rate¦ex=Ich zahle das Auto in zwölf Raten.¦en=I am paying for the car in twelve instalments.
+B4633¦en=At the school she attends, people wear uniforms.
+B4634¦tp=T10¦ex=Sie malt gern Aquarelle.¦en=She likes painting watercolours.
+B4635¦pos=adjective¦tp=T08¦m=Brazilian¦ex=Ich mag brasilianischen Kaffee.¦en=I like Brazilian coffee.
+B5648¦m=coach¦lv=C1¦tp=T10¦pl=Coaches¦ex=Mein Coach hilft mir bei der Karriere.¦en=My coach helps me with my career.
+B4636¦ps=erarbeitet¦pt=erarbeitete¦pf=hat erarbeitet¦m=to work out; to develop¦ex=Wir erarbeiten gemeinsam eine Lösung.¦en=Together we are working out a solution.
+B4637¦pos=adjective¦tp=T10¦ex=Sie hat ein künstlerisches Talent.¦en=She has an artistic talent.
+B4638¦tp=T10¦ex=Das Bild ist mit Ölfarbe gemalt.¦en=The picture is painted with oil paint.
+B5649¦m=regulation; prescription¦lv=C1¦art=die¦pl=Verordnungen¦tp=M4¦ex=Die Verordnung von Medikamenten ist Aufgabe der Ärzte.¦en=Prescribing medicines is the doctors' job.
+B4639¦tp=T10¦ex=Der Maler mischt Farben auf der Palette.¦en=The painter mixes colours on the palette.
+B4641¦tp=T10¦ex=Der Theatermacher plant ein neues Stück.¦en=The theatre maker is planning a new play.
+B4642¦ck=-¦tp=T10¦ex=Die Theatermacherin leitet ein kleines Theater.¦en=The theatre maker runs a small theatre.
+B4989¦ex=Die Initiative hilft älteren Menschen im Alltag.¦en=The initiative helps older people in everyday life.
+B4644¦tp=T11¦ex=Beim Upcycling macht man aus Müll etwas Neues.¦en=With upcycling you make something new out of rubbish.
+B4645¦en=Do you have a vase for the flowers?
+B4646¦ck=-¦tp=T15¦m=adjective ending¦ex=Die Adjektivendung hängt vom Artikel ab.¦en=The adjective ending depends on the article.
+B5650¦pos=preposition¦m=in favour of¦lv=C1¦g=+ Gen.¦ex=Er verzichtete zugunsten seiner Kinder auf das Erbe.¦en=He gave up the inheritance in favour of his children.
+B4648¦ck=-¦tp=T04¦ex=Das Lernplakat hängt an der Wand.¦en=The revision poster hangs on the wall.

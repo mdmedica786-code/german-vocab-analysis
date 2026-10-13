@@ -1,0 +1,99 @@
+B5533¦tp=M2¦col=chronische Erkrankung | chronische Schmerzen | chronisch krank sein | chronische Bronchitis
+B5550¦m=employment; occupation¦pl=Beschäftigungen¦en=I am looking for part-time work because I have a small child.
+B4129¦ck=-¦tp=T02¦m=resident (of a building) (f)¦ex=Die Hausbewohnerin im ersten Stock grüßt immer freundlich.¦en=The resident on the first floor always greets us kindly.
+B4130¦tp=T02¦ex=Die Hausfassade wird neu gestrichen.¦en=The front of the house is being repainted.
+B4132¦tp=T03¦ex=Zwei Tage pro Woche arbeite ich im Homeoffice.¦en=I work from home two days a week.
+B5551¦pos=adjective¦m=sore; painful¦lv=B1¦ex=Mir tut der Rücken weh.¦en=My back hurts.
+B4135¦tp=T14¦ex=Die Lebensqualität in dieser Stadt ist hoch.¦en=The quality of life in this city is high.
+B4136¦pos=adjective¦tp=T14¦m=worth living in; liveable¦ex=Wir wollen eine lebenswerte Stadt für alle.¦en=We want a liveable city for everyone.
+B4140¦ck=-¦tp=T08¦ex=Viele Menschen fahren lieber mit dem Privatauto.¦en=Many people prefer to travel by private car.
+B4945¦m=university; institution of higher education¦ex=Meine Schwester studiert an einer Hochschule in Berlin.¦en=My sister studies at a university in Berlin.
+B4141¦tp=T11¦ex=Solarzellen wandeln Licht in Strom um.¦en=Solar cells convert light into electricity.
+B4142¦tp=T08¦m=district; neighbourhood¦ex=Unser Stadtviertel ist sehr ruhig.¦en=Our neighbourhood is very quiet.
+B4143¦en=Can you enlarge the photo?
+B5552¦m=recommendation¦en=I am calling on the recommendation of Mr Weber.
+B4144¦pos=adverb¦m=probably; expected¦en=The train is expected to be 20 minutes late.
+B4146¦ck=-¦tp=T11¦ex=Die Windturbine liefert Strom für 500 Haushalte.¦en=The wind turbine supplies electricity for 500 households.
+B4147¦tp=T04¦ex=Sie besucht eine Akademie für Kunst.¦en=She attends an art academy.
+B5553¦m=supply; care (provision)¦lv=C1¦art=die¦pl=–¦tp=M4¦ex=Die medizinische Versorgung auf dem Land ist schwierig.¦en=Medical care in rural areas is difficult.
+B4148¦en=Our neighbours' grandparents are in a care home.
+B4149¦en=You have lost your umbrella. It is best to ask at the lost-property office.
+B4150¦en=We will meet at 3 pm in the pedestrian zone.
+B5554¦m=democratic¦ex=Deutschland ist ein demokratischer Staat.¦en=Germany is a democratic state.
+B4151¦en=She goes swimming in the indoor pool every day.
+B4152¦m=day-care centre (Kita)¦ex=Mein Sohn geht in die Kindertagesstätte.¦en=My son goes to day care.
+B4155¦en=Shall we go to the zoo with the children on Saturday?
+B4156¦m=adult education centre¦ex=Ich besuche einen Deutschkurs an der Volkshochschule.¦en=I attend a German course at the adult education centre.
+B4159¦tp=T15¦ps=formuliert um¦pt=formulierte um¦pf=hat umformuliert¦ex=Bitte formulieren Sie den Satz um.¦en=Please rephrase the sentence.
+B4160¦tp=T15¦m=case (grammar)¦ex=Im Deutschen gibt es vier Kasus.¦en=In German there are four cases.
+B5555¦m=debate¦lv=B2¦art=die¦pl=Debatten¦ex=Die Debatte im Parlament dauerte drei Stunden.¦en=The debate in parliament lasted three hours.
+B4161¦ex=Der Bürgermeister eröffnet das Stadtfest.¦en=The mayor opens the town festival.
+B4162¦ex=Die Bürgermeisterin besucht die Schule.¦en=The mayor visits the school.
+B4165¦tp=T08¦ex=Die Verkehrssituation in der Innenstadt ist schwierig.¦en=The traffic situation in the city centre is difficult.
+B5556¦m=apart¦en=We do not live far apart.
+B4166¦tp=T02¦ex=In großen Städten ist Wohnraum knapp.¦en=In big cities living space is scarce.
+B4167¦tp=T14¦m=anticipation; joyful expectation¦ex=Die Vorfreude auf den Urlaub ist groß.¦en=The anticipation of the holiday is great.
+B4168¦tp=T10¦ex=Die Melodie dieses Liedes ist sehr schön.¦en=The melody of this song is very beautiful.
+B4281¦pos=adverb¦tp=T15¦m=allegedly; supposedly¦ex=Er ist angeblich krank.¦en=He is supposedly ill.
+B4169¦tp=T10¦ex=Der Rhythmus des Liedes ist schnell.¦en=The rhythm of the song is fast.
+B4173¦tp=T16¦m=hurdle; obstacle¦ex=Die erste Hürde ist die Sprache.¦en=The first hurdle is the language.
+B4214¦en=I hate driving.
+B4175¦ck=-¦tp=T10¦m=line of a song¦ex=Diese Liedzeile kenne ich auswendig.¦en=I know this line of the song by heart.
+B4177¦tp=T11¦ps=schwebt¦pt=schwebte¦pf=hat geschwebt¦ex=Der Ballon schwebt über der Stadt.¦en=The balloon floats above the city.
+B4179¦tp=T02¦ps=stapelt¦pt=stapelte¦pf=hat gestapelt¦ex=Sie stapelt die Bücher auf dem Tisch.¦en=She stacks the books on the table.
+B5557¦pos=adverb¦m=about; into being (zustande kommen = to come about)¦lv=C1¦ex=Der Vertrag ist nicht zustande gekommen.¦en=The contract did not come about.
+B4181¦tp=T15¦ex=Für dieses Wort brauche ich eine Umschreibung.¦en=I need a paraphrase for this word.
+B4183¦pos=adjective¦tp=T10¦m=kitschy; tacky¦ex=Das Lied ist mir zu kitschig.¦en=The song is too kitschy for me.
+B4184¦pos=adjective¦en=After eight hours of school the children do not feel like doing homework any more. I find that understandable.
+B5558¦m=formulation of a question; issue¦lv=C1¦art=die¦pl=Fragestellungen¦ex=Die Fragestellung der Studie ist klar.¦en=The research question of the study is clear.
+B4185¦tp=T10¦ex=Er spielt Bass in einer Band.¦en=He plays bass in a band.
+B4186¦en=She plays the flute very nicely.
+B4187¦tp=T10¦ex=Welches Musikinstrument spielst du?¦en=Which musical instrument do you play?
+B5559¦pos=adjective¦m=statistical¦en=The statistical results show good development.
+B4188¦tp=T10¦ex=Meine Tochter spielt Piano.¦en=My daughter plays the piano.
+B4189¦tp=T10¦m=drums; drum kit¦ex=Das Schlagzeug ist sehr laut.¦en=The drums are very loud.
+B4190¦tp=T10¦ex=Sie lernt seit drei Jahren Violine.¦en=She has been learning the violin for three years.
+B4324¦ex=Er hat eine große Sammlung alter Münzen.¦en=He has a large collection of old coins.
+B4192¦tp=T10¦ex=Ich lese gerade eine Biografie über Goethe.¦en=I am currently reading a biography of Goethe.
+B4194¦tp=T10¦ex=Das Lied ist auf Platz eins der Charts.¦en=The song is number one in the charts.
+B4195¦ck=-¦tp=T10¦ex=Der Coversong ist bekannter als das Original.¦en=The cover song is better known than the original.
+B4516¦ex=Ohne Motivation lernt man schlecht.¦en=Without motivation one learns badly.
+B4196¦tp=T10¦ex=Die Jury wählt den Gewinner aus.¦en=The jury selects the winner.
+B4197¦tp=T10¦ex=Der Songwriter schreibt Texte für bekannte Sänger.¦en=The songwriter writes lyrics for famous singers.
+B4198¦tp=T10¦ex=Die Songwriterin hat einen Preis gewonnen.¦en=The songwriter won a prize.
+B5560¦pos=adjective¦m=targeted; specific¦lv=C1¦ex=Wir suchen gezielt nach neuen Mitarbeitern.¦en=We are searching specifically for new employees.
+B4199¦tp=T10¦ex=Alle singen bei dem Lied mit.¦en=Everyone sings along to the song.
+B4200¦ex=Dieser Song gefällt mir sehr.¦en=I like this song a lot.
+B4201¦tp=T10¦ex=Wie lautet der Songtitel?¦en=What is the song title?
+B5561¦m=firstly; first of all¦ex=Erstens habe ich keine Zeit, zweitens keine Lust.¦en=Firstly I have no time, secondly no desire.
+B4204¦tp=T04¦ex=Der Doktorand schreibt an seiner Dissertation.¦en=The doctoral student is writing his dissertation.
+B4205¦tp=T04¦ex=Die Doktorandin forscht in einem Labor.¦en=The doctoral student does research in a laboratory.
+B4206¦tp=T15¦m=internationalism; international word¦ex=Das Wort Computer ist ein Internationalismus.¦en=The word Computer is an internationalism (a word used in many languages).
+B5562¦m=transmission; transfer; broadcast¦lv=C1¦art=die¦pl=Übertragungen¦tp=M2¦ex=Die Übertragung des Virus erfolgt durch Tröpfchen.¦en=The virus is transmitted by droplets.
+B4207¦pos=adjective¦tp=T01¦ex=Zwischenmenschliche Beziehungen sind wichtig.¦en=Interpersonal relationships are important.
+B4209¦en=We are striking for a pay rise.
+B4211¦tp=T08¦m=site; grounds; terrain¦ex=Das Gelände der Klinik ist sehr groß.¦en=The grounds of the clinic are very large.
+B5563¦m=bend; curve¦en=Please do not drive so fast into the bends.
+B4213¦en=Can you lend me your grill? We want to have a picnic at the weekend.
+B4216¦m=booth; cabin¦en=To vote, please go into this booth.
+B4219¦tp=T10¦ex=Am Lagerfeuer singen wir Lieder.¦en=We sing songs around the campfire.
+B5564¦m=limb; link; member¦lv=C1¦art=das¦pl=Glieder¦tp=M1¦ex=Mir tun alle Glieder weh.¦en=All my limbs ache.
+B4220¦en=If you do not pay the bill on time, you will get a reminder.
+B4223¦tp=T12¦ex=Die Präsidentin hält eine Rede.¦en=The president gives a speech.
+B4225¦m=treasure; darling¦en=Hello, my darling!
+B4956¦tp=T15¦ps=wertet¦pt=wertete¦pf=hat gewertet¦m=to assess; to rate¦ex=Die Jury wertet den Sprung mit neun Punkten.¦en=The jury rates the jump with nine points.
+B4227¦tp=T03¦ex=Diese Woche arbeite ich in der Spätschicht.¦en=This week I work the late shift.
+B4228¦en=The workers are striking for higher wages.
+B4229¦en=Taking part in the prize draw is free.
+B5565¦m=to introduce; to import¦en=May we import these goods into the country?
+B4230¦en=The minister gave a speech at the assembly.
+B4231¦tp=T13¦ps=verspätet sich¦pt=verspätete sich¦pf=hat sich verspätet¦ex=Entschuldigung, ich habe mich leider verspätet.¦en=Sorry, I am unfortunately late.
+B4233¦tp=T15¦ex=Der Lehrer hebt die wichtigsten Punkte hervor.¦en=The teacher highlights the most important points.
+B5566¦m=moon¦en=I cannot sleep when there is a full moon.
+B4237¦pos=adjective¦m=employed; working¦en=Are you employed?
+B5567¦pos=adjective¦m=artificial¦en=I do not like artificial light.
+B4239¦tp=T01¦ex=Er gehört zu einer Clique aus der Schule.¦en=He belongs to a clique from school.
+B4240¦tp=T03¦ps=ist eingespannt¦pt=war eingespannt¦pf=ist eingespannt gewesen
+B4243¦tp=T13¦m=eternity; ages¦ex=Wir haben uns seit einer Ewigkeit nicht gesehen.¦en=We have not seen each other for ages.
+B5568¦m=access¦lv=C1¦art=der¦pl=Zugriffe¦ex=Nur Ärzte haben Zugriff auf die Patientendaten.¦en=Only doctors have access to the patient data.
+B4245¦ck=-¦tp=T01¦m=story of a friendship¦ex=Das Buch erzählt eine schöne Freundschaftsgeschichte.¦en=The book tells a lovely story of a friendship.

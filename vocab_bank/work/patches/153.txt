@@ -1,0 +1,97 @@
+B4448¦tp=T07¦ex=Ich ziehe abends meinen Schlafanzug an.¦en=In the evening I put on my pyjamas.
+B5608¦pos=adverb¦m=home; homewards¦en=I want to go home now.
+B4449¦tp=T09¦m=locker; safe-deposit box¦ex=Die Wertsachen liegen im Schließfach.¦en=The valuables are in the locker.
+B4450¦tp=T05¦ex=Ich brauche ein neues Shampoo.¦en=I need a new shampoo.
+B4452¦tp=T07¦m=tracksuit¦ex=Zum Sport ziehe ich einen Trainingsanzug an.¦en=I wear a tracksuit for sport.
+B5609¦m=to entitle; to authorise¦lv=C1¦ps=berechtigt¦pt=berechtigte¦pf=hat berechtigt¦ex=Die Karte berechtigt zum freien Eintritt.¦en=The card entitles you to free admission.
+B4453¦tp=T12¦ps=ist untersagt¦pt=war untersagt¦pf=ist untersagt gewesen¦ex=Rauchen ist hier untersagt.¦en=Smoking is prohibited here.
+B4454¦en=I need a new toothbrush.
+B4455¦tp=T05¦ex=Die Zahnpasta ist fast leer.¦en=The toothpaste is almost empty.
+B5610¦pos=adjective¦m=pedagogical; educational¦lv=C1¦ex=Das Konzept hat einen pädagogischen Ansatz.¦en=The concept has an educational approach.
+B4456¦ck=-¦tp=T05¦m=neighbour in the same room (m)¦ex=Mein Zimmernachbar im Krankenhaus schnarcht.¦en=My roommate in the hospital snores.
+B4457¦ck=-¦tp=T05¦m=neighbour in the same room (f)¦ex=Meine Zimmernachbarin hat Besuch bekommen.¦en=My roommate had a visitor.
+B5611¦m=food; nourishment¦lv=B2¦art=die¦pl=–¦ex=Nach der Operation darf er keine feste Nahrung zu sich nehmen.¦en=After the operation he must not take solid food.
+B4460¦tp=T06¦ex=Als Zwischenmahlzeit esse ich einen Apfel.¦en=As a snack I eat an apple.
+B4461¦tp=T05¦ex=Der Krankenbesuch dauert nur eine halbe Stunde.¦en=The hospital visit lasts only half an hour.
+B4462¦tp=M2¦m=Alzheimer's disease¦ex=Mein Großvater hat Alzheimer.¦en=My grandfather has Alzheimer's.
+B5612¦m=growth¦lv=B2¦art=das¦pl=–¦ex=Das Wachstum des Kindes ist normal.¦en=The child's growth is normal.
+B4466¦tp=T01¦ex=Zur Beerdigung kamen viele Menschen.¦en=Many people came to the funeral.
+B4467¦pos=adjective¦tp=T05¦ex=Die Musik wirkt beruhigend.¦en=The music has a calming effect.
+B4468¦tp=T10¦m=major (key)¦ex=Dieses Lied steht in Dur.¦en=This song is in a major key.
+B5613¦m=to stroke; to pet¦lv=B2¦ps=streichelt¦pt=streichelte¦pf=hat gestreichelt¦ex=Das Kind streichelt die Katze.¦en=The child strokes the cat.
+B4472¦pos=adjective¦tp=T14¦ex=Die Eröffnung war sehr feierlich.¦en=The opening was very festive.
+B5614¦pos=adjective¦m=methodical¦lv=C1¦ex=Sie arbeitet sehr methodisch.¦en=She works very methodically.
+B4473¦tp=T10¦ex=Er arbeitet in der Filmbranche.¦en=He works in the film industry.
+B4474¦ex=Der Forscher arbeitet an einem neuen Medikament.¦en=The researcher is working on a new medicine.
+B4475¦tp=T04¦ex=Die Forscherin hat einen Preis gewonnen.¦en=The researcher won a prize.
+B5615¦m=distance¦en=This company transports goods over great distances too.
+B4478¦tp=T06¦ex=Zum Kaffee gibt es Käsekuchen.¦en=There is cheesecake with coffee.
+B4479¦tp=T10¦m=classical music¦ex=Ich höre gern Klassik.¦en=I like listening to classical music.
+B4983¦en=This river flows into the North Sea.
+B4481¦tp=T10¦ex=Die Liebesszene im Film ist sehr romantisch.¦en=The love scene in the film is very romantic.
+B4482¦tp=T10
+B4484¦tp=T10¦m=minor (key)¦ex=Moll klingt oft traurig.¦en=Minor often sounds sad.
+B5616¦m=infection¦en=You have an infection. You have to take tablets.
+B4485¦tp=T10¦ex=Unser Musikgeschmack ist sehr verschieden.¦en=Our taste in music is very different.
+B4486¦tp=T04¦ex=Sie beginnt ein Musikstudium in Wien.¦en=She is starting a music degree in Vienna.
+B4488¦tp=M3¦ex=Der Arzt misst den Puls.¦en=The doctor takes the pulse.¦col=den Puls messen | ein schneller Puls | der Puls ist unregelmäßig | den Puls fühlen
+B4869¦ex=Der Zweite Weltkrieg endete 1945.¦en=The Second World War ended in 1945.
+B4489¦m=advertising; advertisement¦en=I do not want any advertising in my letterbox.
+B4490¦tp=T10¦ex=Am Samstag tanzen wir Salsa.¦en=On Saturday we dance salsa.
+B5028¦m=banknote; certificate¦en=Can you change a note into small change?
+B4494¦tp=T10¦ex=Das Lied steht in einer anderen Tonart.¦en=The song is in a different key.
+B4495¦pos=adjective¦tp=T14¦ex=Der Unfall war wirklich tragisch.¦en=The accident was really tragic.
+B4496¦tp=T14¦m=to process; to cope with¦ps=verarbeitet¦pt=verarbeitete¦pf=hat verarbeitet¦ex=Er muss die Nachricht erst verarbeiten.¦en=He first has to process the news.
+B5617¦m=sip; gulp¦lv=B2¦art=der¦pl=Schlucke¦ex=Trinken Sie nach der Tablette einen Schluck Wasser.¦en=Drink a sip of water after the tablet.
+B4500¦pos=adjective¦tp=T06¦m=spicy; aromatic¦ex=Der Käse schmeckt sehr würzig.¦en=The cheese tastes very flavourful.
+B4730¦pos=adjective¦en=He has been blind since birth.
+B4502¦tp=M3¦m=cure; healing¦ex=Die Heilung der Wunde dauert Wochen.¦en=The healing of the wound takes weeks.¦col=zur Heilung beitragen | Chance auf Heilung | Heilung der Wunde | auf Heilung hoffen
+B4504¦ck=-¦tp=T15¦m=connector (grammar); connective¦ex=Weil und obwohl sind Konnektoren.¦en=Weil and obwohl are connectors.
+B4505¦pos=adjective¦tp=T15¦ex=Entweder oder ist ein zweiteiliger Konnektor.¦en=Entweder oder is a two-part connector.
+B5618¦m=touch; contact¦lv=C1¦art=die¦pl=Berührungen¦ex=Bei der Berührung zuckte sie zusammen.¦en=She flinched at the touch.
+B4508¦en=The demand for this product is high.
+B4509¦ex=Die Unsicherheit vor der Prüfung ist normal.¦en=Uncertainty before the exam is normal.
+B4510¦tp=T15¦m=memory performance¦ex=Mit dem Alter lässt die Gedächtnisleistung nach.¦en=Memory performance declines with age.
+B5619¦m=to name; to designate¦lv=C1¦ps=benennt¦pt=benannte¦pf=hat benannt¦ex=Können Sie die Ursache klar benennen?¦en=Can you clearly name the cause?
+B4511¦ck=-¦tp=T04¦ex=Die Kursstunde dauert 90 Minuten.¦en=The class lasts 90 minutes.
+B4512¦tp=T15¦ps=ist überfragt¦pt=war überfragt¦pf=ist überfragt gewesen¦ex=Da bin ich leider überfragt.¦en=I am afraid I have no idea about that.
+B4515¦ck=-¦tp=T04¦ex=Mein Lerncoach hilft mir bei der Prüfungsvorbereitung.¦en=My learning coach helps me prepare for the exam.
+B5620¦m=ethics¦lv=C1¦art=die¦pl=–¦tp=M4¦ex=Die Ethik spielt in der Medizin eine große Rolle.¦en=Ethics plays a big role in medicine.
+B4517¦ck=-¦tp=T10¦ex=Die Programmankündigung steht in der Zeitung.¦en=The programme announcement is in the newspaper.
+B4518¦tp=T10¦ex=Der Studiogast erzählt von seinem neuen Buch.¦en=The studio guest talks about his new book.
+B4520¦ck=-¦tp=T04¦ex=Ein guter Lerntipp ist, jeden Tag zu wiederholen.¦en=A good study tip is to revise every day.
+B5621¦m=grass¦pl=Gräser¦en=We lay in the grass all day.
+B4521¦ck=-¦tp=T04¦ex=Welcher Lerntyp bist du?¦en=What type of learner are you?
+B4522¦tp=T04¦ex=Die beste Lernzeit ist am Morgen.¦en=The best learning time is in the morning.
+B4523¦m=presenter (m); moderator¦ex=Der Moderator der Radiosendung diskutiert mit zwei Gästen.¦en=The presenter of the radio programme is discussing with two guests.
+B4524¦m=presenter (f); moderator¦en=The presenter of the radio programme is discussing with two guests.
+B5622¦m=misfortune; accident¦en=There were many injured in the accident.
+B4525¦pos=adjective¦tp=T14¦ex=Die Schüler sind sehr motiviert.¦en=The pupils are very motivated.
+B4526¦tp=T15¦m=to think up; to invent¦ex=Ich denke mir eine Geschichte aus.¦en=I am thinking up a story.
+B5623¦m=prison¦en=He was sentenced to five years in prison.
+B4527¦pos=adjective¦tp=T14¦ex=Das Kind malt sehr fantasievolle Bilder.¦en=The child paints very imaginative pictures.
+B4530¦pos=adjective¦en=Everyday life is sometimes boring.
+B4531¦tp=T01¦m=age group¦ex=Der Kurs ist für alle Altersgruppen.¦en=The course is for all age groups.
+B4532¦tp=T11¦rf=sich¦ps=breitet sich aus¦pt=breitete sich aus¦pf=hat sich ausgebreitet¦ex=Das Feuer breitet sich schnell aus.¦en=The fire spreads quickly.
+B4533¦ck=-¦tp=T08¦ex=Hast du einen Ausflugstipp für das Wochenende?¦en=Do you have an excursion tip for the weekend?
+B4534¦tp=T08¦m=observation tower¦ex=Vom Aussichtsturm sieht man die ganze Stadt.¦en=From the observation tower you can see the whole city.
+B5625¦m=despair¦lv=C1¦art=die¦pl=–¦tp=M2¦ex=Die Patientin war in tiefer Verzweiflung.¦en=The patient was in deep despair.
+B4535¦ck=-¦pos=adjective¦tp=T08¦m=with few barriers; partly accessible¦ex=Das Museum ist barrierearm gestaltet.¦en=The museum is designed with few barriers.
+B4536¦pos=adjective¦tp=T06¦ex=Sind diese Pilze essbar?¦en=Are these mushrooms edible?
+B4537¦pos=adjective¦tp=T01¦ex=Das Hotel ist sehr familienfreundlich.¦en=The hotel is very family-friendly.
+B5626¦m=stimulus; charm; irritation¦lv=C1¦art=der¦pl=Reize¦tp=M2¦ex=Der Reiz löst eine Reaktion im Nerv aus.¦en=The stimulus triggers a reaction in the nerve.
+B4538¦tp=T08¦ex=In der Ferne sieht man die Berge.¦en=In the distance you can see the mountains.
+B4540¦tp=T10¦ex=Das Museum hat ein großes Freigelände.¦en=The museum has a large open-air area.
+B4542¦pos=adjective¦tp=T10¦ex=Die Ausstellung ist sehr interaktiv.¦en=The exhibition is very interactive.
+B5627¦m=employee¦lv=B2¦art=der/die¦pl=Beschäftigten¦tp=T03¦ex=Die Beschäftigten bekommen mehr Lohn.¦en=The employees will get more pay.
+B4544¦ck=-¦tp=T10¦m=person interested in music¦ex=Für Musikinteressierte gibt es einen Kurs.¦en=There is a course for people interested in music.
+B4545¦tp=T08¦m=path; trail¦ex=Der Pfad führt durch den Wald.¦en=The path leads through the forest.
+B4548¦pos=adjective¦tp=T14¦m=dreamlike; wonderful¦ex=Wir hatten einen traumhaften Urlaub.¦en=We had a wonderful, dreamlike holiday.
+B5628¦pos=adjective¦m=acute¦lv=B2¦ex=Der Patient hat akute Bauchschmerzen.¦en=The patient has acute abdominal pain.
+B4549¦ex=Sie wohnen in einer großen Villa am See.¦en=They live in a large villa by the lake.
+B4550¦pos=adjective¦tp=T10¦ex=Ich bin ein visueller Lerntyp.¦en=I am a visual learner.
+B4552¦tp=T10¦m=feat; trick; work of art¦ex=Der Zauberer zeigt ein Kunststück.¦en=The magician performs a trick.
+B5629¦m=determined¦en=I am firmly determined to finish this training.
+B4553¦tp=T15¦ps=regt an¦pt=regte an¦pf=hat angeregt¦m=to stimulate; to inspire¦ex=Der Kaffee regt den Kreislauf an.¦en=Coffee stimulates the circulation.
+B4554¦tp=T02¦ex=Die Betonwand ist grau und kalt.¦en=The concrete wall is grey and cold.
+B4555¦tp=T08¦m=fountain; well¦ex=Auf dem Marktplatz steht ein alter Brunnen.¦en=There is an old fountain on the market square.

@@ -1,0 +1,97 @@
+B4649¦pos=adjective¦tp=T15¦ex=Nominale Ausdrücke sind in Texten sehr häufig.¦en=Nominal expressions are very common in texts.
+B4650¦ck=-¦tp=T04¦ex=Die Teilnehmenden bekommen ein Zertifikat.¦en=The participants receive a certificate.
+B5651¦pos=adjective¦m=physical¦lv=C1¦ex=Der Beruf ist physisch anstrengend.¦en=The job is physically demanding.
+B4652¦ck=-¦tp=T04¦m=coloured pencil; crayon¦ex=Die Kinder malen mit Farbstiften.¦en=The children draw with coloured pencils.
+B4653¦en=You have a great hairstyle! Were you at the hairdresser?
+B4654¦en=Do you have a pen for me?
+B5652¦pos=adjective¦m=legal; juridical¦lv=C1¦ex=Er braucht juristische Beratung.¦en=He needs legal advice.
+B4655¦tp=T02¦ex=Deine Sachen liegen überall rum.¦en=Your things are lying around everywhere.
+B4656¦pos=adjective¦tp=T14¦ex=In meinem Zimmer sieht es chaotisch aus.¦en=My room looks chaotic.
+B4657¦tp=T10¦ex=Wir sehen heute ein Theaterstück.¦en=We are seeing a play today.
+B5653¦m=myth¦lv=C1¦art=der¦pl=Mythen¦ex=Das ist ein alter Mythos.¦en=That is an old myth.
+B4658¦en=The wheel was invented about 6000 years ago.
+B4660¦ck=-¦tp=T10¦ex=Unser Sportteam trainiert zweimal pro Woche.¦en=Our sports team trains twice a week.
+B4661¦tp=T10¦ps=veranstaltet¦pt=veranstaltete¦pf=hat veranstaltet¦ex=Die Stadt veranstaltet ein großes Fest.¦en=The city is organising a big festival.
+B5654¦m=extension; expansion¦lv=C1¦art=die¦pl=Erweiterungen¦ex=Die Erweiterung der Klinik beginnt im Frühjahr.¦en=The extension of the clinic begins in spring.
+B4663¦tp=T10¦ps=improvisiert¦pt=improvisierte¦pf=hat improvisiert¦ex=Die Schauspieler improvisieren die Szene.¦en=The actors improvise the scene.
+B4664¦en=Thank you very much for this interesting presentation.
+B4665¦tp=T03¦ex=Der Gründer der Firma ist schon 80 Jahre alt.¦en=The founder of the company is already 80 years old.
+B5655¦m=universe¦lv=C1¦art=das¦pl=Universen¦ex=Das Universum ist unendlich groß.¦en=The universe is infinitely large.
+B4666¦tp=T03¦ex=Die Gründerin hat die Firma vor zehn Jahren gegründet.¦en=The founder established the company ten years ago.
+B4668¦ex=Die Biene sammelt Nektar.¦en=The bee collects nectar.
+B4670¦en=We bought ourselves a couch and new armchairs.
+B5656¦pos=adverb¦m=what for/after; after which¦lv=C1¦ex=Wonach suchst du?¦en=What are you looking for?
+B4671¦tp=T12¦ex=Der Detektiv beobachtet das Haus.¦en=The detective is watching the house.
+B4672¦tp=T12¦ex=Die Detektivin löst den Fall.¦en=The detective solves the case.
+B4673¦en=A thief stole my bag at the market.
+B5657¦m=feather; spring¦lv=B2¦art=die¦pl=Federn¦ex=Die Feder des Vogels ist blau.¦en=The bird's feather is blue.
+B4678¦en=There is no light in the stairwell.
+B4679¦en=There is a diversion because of the accident.
+B4680¦tp=T07¦ex=Der Autoverkauf läuft in diesem Jahr gut.¦en=Car sales are going well this year.
+B5658¦m=pink¦ex=Das Mädchen trägt ein rosa Kleid.¦en=The girl is wearing a pink dress.
+B4681¦tp=T02¦ex=Der Kuchen ist im Backofen.¦en=The cake is in the oven.
+B4682¦tp=T10¦ex=Der Kunstsammler kauft ein Bild von Picasso.¦en=The art collector buys a picture by Picasso.
+B4683¦ck=-¦tp=T10¦ex=Die Kunstsammlerin besitzt viele Skulpturen.¦en=The art collector owns many sculptures.
+B5659¦pos=adjective¦m=Spanish¦lv=A2¦ex=Ich esse gern spanische Tapas.¦en=I like eating Spanish tapas.
+B4684¦tp=T15¦ex=Das war nur ein Missverständnis.¦en=That was just a misunderstanding.
+B4686¦pos=adjective¦en=Yesterday I heard that my son smokes secretly.
+B4687¦tp=T13¦ps=ist her¦pt=war her¦pf=ist her gewesen¦m=to be (so long) ago¦en=It is a long time since I sang in a choir.
+B5660¦m=player¦en=You need two to four players for this game.
+B4689¦tp=T03¦m=master craftswoman; champion (f)¦ex=Die Meisterin bildet drei Lehrlinge aus.¦en=The master craftswoman trains three apprentices.
+B4690¦tp=T10¦ps=musiziert¦pt=musizierte¦pf=hat musiziert¦ex=Am Sonntag musiziert die Familie gemeinsam.¦en=On Sundays the family makes music together.
+B4691¦ex=In unserer Nachbarschaft wohnen viele Familien.¦en=Many families live in our neighbourhood.
+B5661¦m=third¦pl=Drittel¦ex=Ein Drittel der Schüler fehlt.¦en=A third of the pupils are absent.
+B4692¦en=My nephews are three and five years old.
+B4693¦tp=T04¦ex=Im Schulchor singen über fünfzig Kinder.¦en=More than fifty children sing in the school choir.
+B4694¦pos=adjective¦tp=T14¦ex=Sie ist eine talentierte Malerin.¦en=She is a talented painter.
+B5662¦m=requirement; guideline¦lv=C1¦art=die¦pl=Vorgaben¦ex=Wir müssen die Vorgaben des Chefs beachten.¦en=We have to observe the boss's guidelines.
+B4698¦pos=adjective¦tp=T14¦ex=Das finde ich ziemlich uncool.¦en=I find that rather uncool.
+B4699¦en=Once again I have a virus on my computer.
+B4700¦tp=T10¦ex=Wir singen im Chor ein altes Volkslied.¦en=We sing an old folk song in the choir.
+B4885¦m=thread; (den Faden verlieren = to lose the thread)¦tp=T15¦ex=Ich habe beim Vortrag den Faden verloren.¦en=I lost the thread during the talk.
+B4701¦pos=adjective¦tp=T10¦ex=Das Design ist zeitlos schön.¦en=The design is timelessly beautiful.
+B4702¦tp=T10¦ex=Ich sehe den Kindern beim Spielen zu.¦en=I watch the children playing.
+B4703¦tp=T12¦ps=sperrt ein¦pt=sperrte ein¦pf=hat eingesperrt¦ex=Die Polizei sperrt den Dieb ein.¦en=The police lock up the thief.
+B5664¦m=manager; executive¦lv=C1¦art=die¦pl=Führungskräfte¦ex=Als Führungskraft trägt sie viel Verantwortung.¦en=As a manager she carries a lot of responsibility.
+B4704¦pos=adverb¦tp=T16¦ex=Die Tasse ist entzwei.¦en=The cup is broken in two.
+B4705¦tp=T12¦ex=Der Soldat hat den Feind erschossen.¦en=The soldier shot the enemy dead.
+B4706¦pos=adjective¦tp=T14¦m=dark; gloomy¦ex=Im Keller ist es finster.¦en=It is dark in the cellar.
+B5665¦m=horizon¦lv=B2¦art=der¦pl=Horizonte¦ex=Die Sonne geht am Horizont unter.¦en=The sun sets on the horizon.
+B4707¦ex=Der Jäger geht in den Wald.¦en=The hunter goes into the forest.
+B4708¦tp=T11¦ex=Die Jägerin hat einen Hirsch gesehen.¦en=The hunter saw a stag.
+B4709¦tp=T12¦ex=Im Mittelalter saßen Gefangene im Kerker.¦en=In the Middle Ages prisoners were kept in the dungeon.
+B5666¦pos=adverb¦m=among themselves; one below the other¦lv=C1¦ex=Die Kinder verstehen sich untereinander gut.¦en=The children get on well with each other.
+B4711¦pos=adjective¦tp=T13¦m=nocturnal; nightly¦ex=Die nächtliche Ruhe wurde gestört.¦en=The nighttime quiet was disturbed.
+B4712¦tp=T08¦ex=Die Schranke am Bahnübergang ist geschlossen.¦en=The barrier at the level crossing is closed.
+B4713¦pos=adjective¦m=in vain; futile¦en=I tried in vain to call you.
+B5667¦pos=adverb¦m=in between¦lv=B2¦ex=Die Bücher stehen eng, da passt nichts dazwischen.¦en=The books are close together, nothing fits in between.
+B4714¦tp=T08¦ex=Ein Vogel fliegt am Fenster vorbei.¦en=A bird flies past the window.
+B4715¦tp=T16¦ex=Er zerreißt den Brief.¦en=He tears the letter apart.
+B4716¦tp=T15¦ps=relativiert¦pt=relativierte¦pf=hat relativiert¦m=to put into perspective; to qualify¦ex=Er relativiert seine Aussage.¦en=He qualifies his statement.
+B5668¦m=scent; fragrance¦lv=B2¦art=der¦pl=Düfte¦ex=Der Duft der Blumen ist schön.¦en=The scent of the flowers is lovely.
+B4718¦tp=T14¦ex=Ehrlichkeit ist mir sehr wichtig.¦en=Honesty is very important to me.
+B4720¦tp=T14¦ex=Im Sport ist Fairness wichtig.¦en=Fairness is important in sport.
+B4722¦tp=T12¦ex=Die Gleichberechtigung von Frauen und Männern ist ein Ziel.¦en=Equal rights for women and men is a goal.
+B5669¦m=related¦en=Are you related to Mrs Meyer?
+B4723¦tp=T14¦ex=Die Hilfsbereitschaft der Nachbarn war groß.¦en=The neighbours' willingness to help was great.
+B4724¦en=I have great respect for my teacher.
+B4725¦tp=T12¦ex=Zivilcourage bedeutet, anderen in Gefahr zu helfen.¦en=Moral courage means helping others in danger.
+B5670¦pos=adverb¦m=to each other¦lv=C1¦ex=Wir passen gut zueinander.¦en=We suit each other well.
+B4727¦en=My wife found a new job.
+B4731¦ck=-¦tp=T05¦ex=Der Blinde überquert die Straße mit einem Stock.¦en=The blind man crosses the street with a stick.
+B4732¦ex=Der Bundeskanzler hält eine Rede.¦en=The Federal Chancellor gives a speech.
+B5671¦m=wing; grand piano¦lv=B2¦art=der¦pl=Flügel¦ex=Der Vogel breitet die Flügel aus.¦en=The bird spreads its wings.
+B4733¦ex=Die Bundeskanzlerin trifft sich mit dem Präsidenten.¦en=The Federal Chancellor meets the president.
+B4734¦ex=Der Bundestag beschließt ein neues Gesetz.¦en=The Bundestag passes a new law.
+B4736¦pos=adjective¦tp=T14¦m=humorous¦ex=Unser Lehrer ist sehr humorvoll.¦en=Our teacher is very humorous.
+B5672¦m=writer; author¦en=Do you know this author? I love her books.
+B4738¦en=How many candidates are coming to the exam?
+B4739¦tp=T04¦ex=Die Kandidatin beantwortet alle Fragen.¦en=The candidate answers all the questions.
+B4741¦en=Many migrants come from Eastern Europe.
+B5673¦pos=adjective¦m=slim¦en=You look very slim in this dress.
+B4742¦ex=Die Migrantin lernt schnell Deutsch.¦en=The migrant is learning German quickly.
+B4743¦en=Women are in the minority in our company.
+B4744¦ex=Der Minister besucht das Krankenhaus.¦en=The minister visits the hospital.
+B5674¦pos=adverb¦m=to that extent; in that respect¦lv=C1¦ex=Insoweit stimme ich Ihnen zu.¦en=To that extent I agree with you.
+B4745¦ex=Die Ministerin spricht im Fernsehen.¦en=The minister speaks on television.
+B4750¦ex=Ein Vorurteil ist eine Meinung ohne Beweis.¦en=A prejudice is an opinion without proof.
