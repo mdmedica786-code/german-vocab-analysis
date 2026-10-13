@@ -1,0 +1,100 @@
+B3260¦pos=adjective¦tp=T14¦ex=Das Wetter ist herrlich.¦en=The weather is glorious.
+B3261¦en=Our village is right on the coast.
+B3262¦pos=adjective¦en=You can't eat the banana. It isn't ripe yet.
+B4182¦ps=bewertet¦pt=bewertete¦pf=hat bewertet¦ex=Die Lehrerin bewertet den Test.¦en=The teacher marks the test.
+B3263¦en=The children like playing in the sand.
+B3264¦tp=T06¦ex=Zum Nachtisch gibt es Trauben.¦en=For dessert there are grapes.
+B3265¦ck=-¦tp=T08¦ex=Ich habe einen Urlaubsgruß aus Italien bekommen.¦en=I received holiday greetings from Italy.
+B5421¦pos=adverb¦m=thereupon; as a result¦lv=C1¦ex=Er wurde krank und ging daraufhin zum Arzt.¦en=He fell ill and thereupon went to the doctor.
+B3266¦tp=T16¦en=My friend and I go to the same school.
+B3268¦tp=T08¦ex=Wir mieten ein Ferienhaus am See.¦en=We are renting a holiday house by the lake.
+B3269¦pos=adjective¦en=I want to clean the flat thoroughly before the visitors come.
+B3881¦en=I bought a digital watch. It is more accurate than my old watch.
+B3270¦pos=adjective¦en=Please wake me on time. I have to be punctual.
+B3271¦pos=adjective¦tp=T07¦ex=Du siehst heute sehr schick aus.¦en=You look very smart today.
+B3273¦ck=-¦tp=T08¦ex=Was für ein Urlaubstyp bist du, Strand oder Berge?¦en=What type of holidaymaker are you, beach or mountains?
+B3903¦m=brand; stamp¦en=I need five one-euro stamps, please.
+B3274¦tp=T08¦ex=Unser Urlaubsziel ist Spanien.¦en=Our holiday destination is Spain.
+B3275¦ex=Im Chat habe ich neue Leute kennengelernt.¦en=In the chat I got to know new people.
+B3276¦m=to recover; to relax¦en=On holiday I recovered very well.
+B4217¦en=I hope we can settle this problem soon.
+B3277¦en=Everyone wants something different. We have to find a compromise.
+B3278¦tp=T15¦en=Fine with me, you can have the car today.
+B3280¦tp=T08¦ex=Die Urlaubsplanung macht uns Spaß.¦en=We enjoy holiday planning.
+B5422¦art=die¦pl=Begegnungen¦m=encounter; meeting¦lv=B2¦ex=Die Begegnung mit ihr war sehr herzlich.¦en=The encounter with her was very warm.
+B3282¦pos=adjective¦en=The holiday was very relaxing.
+B3284¦tp=T08¦ex=Wir machen eine Schifffahrt auf dem Rhein.¦en=We are taking a boat trip on the Rhine.
+B3285¦tp=T08¦ex=Wir übernachten in einem Wellnesshotel.¦en=We are staying in a spa hotel.
+B5423¦pos=adverb¦m=mainly¦lv=B2¦ex=Ich arbeite hauptsächlich in der Notaufnahme.¦en=I work mainly in the emergency department.
+B3287¦ps=ist enthalten¦pt=war enthalten¦pf=ist enthalten gewesen¦tp=T07¦ex=Das Frühstück ist im Preis enthalten.¦en=Breakfast is included in the price.
+B3288¦tp=T08¦ex=Die Fahrtzeit beträgt zwei Stunden.¦en=The travel time is two hours.
+B3289¦tp=T08¦ex=Wir übernachten im Gästehaus der Universität.¦en=We stay in the university guest house.
+B5424¦art=die¦pl=–¦m=production; manufacture¦lv=B2¦ex=Die Herstellung des Medikaments dauert lange.¦en=The production of the medicine takes a long time.
+B3291¦en=I have little time. I can stay a quarter of an hour at most.
+B3294¦ck=-¦tp=T10¦ex=Der Skibus fährt jede halbe Stunde.¦en=The ski bus runs every half hour.
+B3295¦tp=T10¦ex=Das Skigebiet ist im Winter sehr voll.¦en=The ski area is very crowded in winter.
+B5425¦pos=adverb¦m=in general¦lv=B2¦ex=Generell sollte man viel Wasser trinken.¦en=In general one should drink a lot of water.
+B3296¦tp=T10¦ex=Der Skilift bringt uns auf den Berg.¦en=The ski lift takes us up the mountain.
+B3297¦tp=T08¦ex=Im Hotel buchen wir Vollpension.¦en=At the hotel we book full board.
+B3299¦tp=T08¦ex=Im Winterurlaub fahren wir in die Berge.¦en=On winter holiday we go to the mountains.
+B5426¦m=to hire; to stop; to adjust¦en=This year the company will hire three new people.
+B3300¦en=After a long working day she sat down in the bathtub.
+B3302¦en=Just ask my girlfriend. She always has good ideas.
+B3304¦ck=-¦tp=T10¦ex=Ich habe deinen Forumstext gelesen.¦en=I have read your forum text.
+B3349¦en=I often come here. In this café there is good cake.
+B3309¦ps=spaziert¦pt=spazierte¦pf=ist spaziert¦tp=T10¦ex=Am Sonntag spazieren wir durch den Park.¦en=On Sunday we stroll through the park.
+B3310¦ck=-¦tp=T08¦ex=Ich mag die Stadtatmosphäre am Abend.¦en=I like the city atmosphere in the evening.
+B3311¦tp=T08¦ex=Wir gehen abends auf der Strandpromenade spazieren.¦en=In the evening we go for a walk on the beach promenade.
+B5427¦art=der¦pl=–¦m=board (of a ship or plane)¦lv=B2¦ck=?article¦ex=Willkommen an Bord!¦en=Welcome on board!¦nt=Mostly in: an Bord. Das Bord = shelf.
+B3312¦tp=T08¦ex=Wir machen dieses Jahr Strandurlaub.¦en=This year we are having a beach holiday.
+B3313¦en=Our holiday was a great adventure.
+B3316¦tp=T14¦rg=informal¦ex=Ich habe keinen Bock auf Hausaufgaben.¦en=I don't feel like doing homework.
+B5428¦m=poem¦en=Do you know a nice poem?
+B3318¦ck=-
+B3319¦tp=T08¦ex=Die Koffer passen nicht in den Kofferraum.¦en=The suitcases don't fit in the boot.
+B3320¦pos=adjective¦tp=T13¦ex=Ich habe mehrfach angerufen.¦en=I called several times.
+B5429¦art=der¦pl=Befunde¦m=finding; result¦lv=B2¦tp=M3 Medizin: Untersuchung, Diagnostik & Therapie¦ex=Der Befund der Untersuchung war unauffällig.¦en=The finding of the examination was unremarkable.¦col=unauffälliger Befund | Befund erheben | Befund besprechen | pathologischer Befund
+B3321¦tp=T16¦ex=Hoffentlich geht nichts schief.¦en=Hopefully nothing goes wrong.
+B3322¦pos=adjective¦ex=Er ist verzweifelt, weil er keine Arbeit findet.¦en=He is desperate because he can't find work.
+B3323¦en=In front of our house there is a meadow with trees.
+B5430¦art=die¦pl=Richtlinien¦m=guideline; directive¦lv=B2¦ex=Die Ärzte folgen den aktuellen Richtlinien.¦en=The doctors follow the current guidelines.
+B3324¦en=What did you do with my things? – I put all your stuff in your room.
+B3325¦ps=macht fest¦pt=machte fest¦pf=hat festgemacht¦tp=T08¦ex=Wir machen das Boot am Steg fest.¦en=We tie up the boat at the jetty.
+B3327¦ps=diktiert¦pt=diktierte¦pf=hat diktiert¦tp=T15¦ex=Der Arzt diktiert den Brief.¦en=The doctor dictates the letter.
+B5431¦art=das¦pl=–¦m=capital¦lv=B2¦ex=Die Firma braucht mehr Kapital.¦en=The company needs more capital.
+B3328¦tp=T08¦ex=Der ICE fährt nach München.¦en=The ICE goes to Munich.
+B3329¦tp=T08¦ex=Wie ist die Zugnummer?¦en=What is the train number?
+B3330¦tp=T08¦ex=Die Bushaltestelle ist um die Ecke.¦en=The bus stop is around the corner.
+B3816¦tp=T03¦ex=Arbeitnehmer haben Anspruch auf Urlaub.¦en=Employees are entitled to holiday.
+B3331¦tp=T08¦ex=Am Gepäckband warten viele Reisende.¦en=Many travellers are waiting at the baggage belt.
+B3332¦m=zoo¦tp=T10¦ex=Am Sonntag gehen wir in den Tiergarten.¦en=On Sunday we go to the zoo.
+B3333¦en=Shall we meet at the central station?
+B5432¦pos=adverb¦m=down (towards the speaker)¦tp=T08¦ex=Kommen Sie bitte von der Leiter herunter!¦en=Please come down from the ladder!
+B3334¦tp=T11¦ex=Im Sommer weiden die Kühe auf der Alm.¦en=In summer the cows graze on the alpine pasture.
+B3335¦ck=-¦tp=T08¦ex=Der Almsommer beginnt im Juni.¦en=The alpine summer begins in June.
+B3336¦ck=-¦tp=T08¦ex=Beim Almurlaub schlafen wir in einer Hütte.¦en=On an alpine holiday we sleep in a hut.
+B4013¦pos=adjective¦en=The washing is still damp.
+B3337¦pos=adjective¦en=It was a great concert. I'm thrilled.
+B3340¦ex=Die Einsamkeit macht ihm zu schaffen.¦en=Loneliness troubles him.
+B3341¦ck=-
+B5433¦art=die¦pl=Verpflichtungen¦m=obligation; commitment¦lv=B2¦ex=Ich habe heute eine berufliche Verpflichtung.¦en=I have a work commitment today.
+B3342¦en=My neighbour has now decided to sell his car after all.
+B3343¦pos=adjective¦tp=T05¦ex=Nach dem Urlaub bin ich gut erholt.¦en=After the holiday I am well rested.
+B3344¦en=The boy caught a cold while swimming.
+B3725¦pos=adjective¦en=Let's divide the cake fairly.
+B3346¦en=We spent our holiday in the mountains.
+B3347¦tp=T08¦ex=Nach der Arbeit fahre ich heim.¦en=After work I drive home.
+B3348¦en=I often feel homesick for my family.
+B5434¦m=reason; justification¦en=The rent was raised without justification.
+B3350¦m=hut; lodge¦en=We're staying overnight in the hut on the mountain.
+B3351¦tp=T06¦ex=In der Käserei sehen wir, wie Käse gemacht wird.¦en=At the cheese dairy we see how cheese is made.
+B3352¦ps=melkt¦pt=melkte¦pf=hat gemolken¦tp=T11¦ex=Die Bäuerin melkt die Kühe am Morgen.¦en=The farmer milks the cows in the morning.
+B5435¦art=die¦pl=Verhandlungen¦m=negotiation; hearing¦lv=B2¦ex=Die Verhandlungen dauern schon Wochen.¦en=The negotiations have been going on for weeks.
+B3353¦pos=adverb¦tp=T13¦ex=Momentan habe ich keine Zeit.¦en=At the moment I have no time.
+B3354¦en=There is no news in this matter.
+B3355¦tp=T15¦ex=Im Rückblick war die Reise ein Erfolg.¦en=In retrospect the trip was a success.
+B4855¦ex=Die Bank bietet viele Dienstleistungen an.¦en=The bank offers many services.
+B3356¦tp=T11¦ex=Wir sehen den Sonnenaufgang vom Berg aus.¦en=We watch the sunrise from the mountain.
+B3357¦m=diary; appointment calendar¦en=Have you already entered our meeting in your diary?
+B3359¦ck=-¦tp=T08¦ex=Der Almaufenthalt war sehr erholsam.¦en=The stay in the alpine pasture was very restful.
+B5436¦pos=adjective¦m=external¦lv=B2¦ex=Wir arbeiten mit einer externen Firma zusammen.¦en=We work with an external company.

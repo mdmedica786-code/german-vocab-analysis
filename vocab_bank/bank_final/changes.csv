@@ -1733,3 +1733,80 @@ vocab,B3890,meaning_en,beef,cattle; beef
 vocab,B3986,meaning_en,to lend,to lend; to award
 vocab,B4899,meaning_en,apparent,apparently
 vocab,B3252,meaning_en,mushroom,mushroom; fungus
+vocab,B3265,check,ocr?,
+vocab,B3273,check,ocr?,
+vocab,B3903,meaning_en,brand,brand; stamp
+vocab,B3276,meaning_en,to relax,to recover; to relax
+vocab,B3294,check,ocr?,
+vocab,B3304,check,ocr?,
+vocab,B3310,check,ocr?,
+vocab,B3316,example_de,"Sg. ohne Artikel, ugs.",Ich habe keinen Bock auf Hausaufgaben.
+vocab,B3316,example_en,to not feel like something,I don't feel like doing homework.
+vocab,B3316,register,neutral,informal
+vocab,B5429,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3332,meaning_en,ZOO,zoo
+vocab,B5432,topic,"T16 Allgemein (Funktionswörter, abstrakter Wortschatz)","T08 Reisen, Verkehr & Orte"
+vocab,B3335,check,ocr?,
+vocab,B3336,check,ocr?,
+vocab,B3350,meaning_en,hut/lodge,hut; lodge
+vocab,B3357,meaning_en,diary,diary; appointment calendar
+vocab,B3359,check,ocr?,
+vocab,B3278,pos,noun,adverb
+vocab,B3361,check,ocr?,
+vocab,B3365,check,ocr?,
+vocab,B3366,check,ocr?,
+vocab,B3369,check,ocr?,
+vocab,B3371,check,ocr?,
+vocab,B3382,topic,T02 Wohnen,"T10 Freizeit, Sport, Kultur & Medien"
+vocab,B3382,example_de,das Handy stumm schalten,Bitte schalte das Handy stumm.
+vocab,B3382,example_en,In etwa: to mute the phone,Please put the phone on silent.
+vocab,B3383,example_de,das Handy stumm schalten,Mein Handy ist stumm geschaltet.
+vocab,B3383,example_en,to mute the phone,My phone is on silent.
+vocab,B3387,check,ocr?,
+vocab,B3400,meaning_en,charger,charging cable
+vocab,B3405,check,ocr?,
+vocab,B3622,example_de,wieder der/die Alte sein,Nach der Erkältung bin ich wieder der Alte.
+vocab,B3622,example_en,to be oneself again,After the cold I'm my old self again.
+vocab,B3622,check,article?,
+vocab,B3450,check,ocr?,
+vocab,B4224,register,neutral,informal
+vocab,B3477,check,ocr?,
+vocab,B3479,check,ocr?,
+vocab,B4746,meaning_en,law,law; right
+vocab,B3481,meaning_en,handkerchief,handkerchief; tissue
+vocab,B3496,check,ocr?,
+vocab,B3497,check,ocr?,
+vocab,B3502,check,ocr?,
+vocab,B3504,preterite,verbat,verbot
+vocab,B3507,check,ocr?,
+vocab,B3769,example_de,aus Versehen,Ich habe aus Versehen den falschen Knopf gedrückt.
+vocab,B3509,example_de,Maria ist seit zwei Jahren Arbeiterin bei Siemens.,Der Arbeiter repariert die Maschine.
+vocab,B3514,topic,T05 Gesundheit & Körper,"M3 Medizin: Untersuchung, Diagnostik & Therapie"
+vocab,B3516,meaning_en,handiwork,handicraft; manual work
+vocab,B3611,plural,Weltmeistere,Weltmeister
+vocab,B3517,meaning_en,hygene,hygiene
+vocab,B5446,pos,noun,interjection
+vocab,B3526,check,ocr?,
+vocab,B5448,register,neutral,informal
+vocab,B5452,level,B1,B2
+vocab,B3559,meaning_en,issue,concern; request
+vocab,B3561,check,ocr?,
+vocab,B3564,check,ocr?,
+vocab,B3566,check,ocr?,
+vocab,B3571,check,ocr?,
+vocab,B3576,check,ocr?,
+vocab,B3578,check,ocr?,
+vocab,B3580,check,ocr?,
+vocab,B5446,pos,interjection,noun
+vocab,B5446,meaning_en,attention!; watch out!,attention; respect
+vocab,B3582,check,ocr?,
+vocab,B3583,check,ocr?,
+vocab,B5466,example_de,Ich wohne in einer Neubauwohnung.,Der Bau des Krankenhauses dauert zwei Jahre.
+vocab,B3607,meaning_en,to take an active part,to work; to be active
+vocab,B3613,topic,T05 Gesundheit & Körper,M1 Medizin: Anatomie & Körpersysteme
+vocab,B4273,meaning_en,arguement,argument; quarrel
+vocab,B3650,check,article?,
+vocab,B3659,example_en,"Before the cent existed, the currency in Germany was pennies.","Before the cent, the currency in Germany was the pfennig."
+vocab,B3665,check,ocr?,
+vocab,B3673,check,ocr?,
+vocab,B5477,example_de,Ich habe bei einem Ratespiel mitge - macht. Der Hauptgewinn ist ein Auto.,Der Gewinn des Spiels ist ein Auto.

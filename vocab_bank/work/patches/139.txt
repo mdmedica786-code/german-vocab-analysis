@@ -1,0 +1,100 @@
+B3360¦ps=arbeitet mit¦pt=arbeitete mit¦pf=hat mitgearbeitet¦tp=T03¦ex=Alle Kollegen arbeiten an dem Projekt mit.¦en=All colleagues are working on the project.
+B3361¦ck=-¦tp=T08¦ex=Im Ferienclub gibt es viele Angebote für Kinder.¦en=At the holiday club there are many activities for children.
+B3362¦tp=T11¦ex=Im Garten steht ein alter Olivenbaum.¦en=An old olive tree stands in the garden.
+B5437¦art=die¦pl=Messungen¦m=measurement¦lv=B2¦ex=Die Messung des Blutdrucks dauert eine Minute.¦en=Measuring blood pressure takes a minute.
+B3363¦tp=T13¦ex=In den Weihnachtsferien besuche ich meine Familie.¦en=In the Christmas holidays I visit my family.
+B3364¦tp=T14¦ex=Er hat eine Abneigung gegen Fisch.¦en=He has a dislike of fish.
+B3365¦ck=-¦tp=T15¦ex=Ein Kausalsatz beginnt oft mit „weil“.¦en=A causal clause often begins with "weil".
+B3589¦en=He likes playing the hero.
+B3366¦ck=-¦tp=T15¦ex=Ein Konzessivsatz beginnt oft mit „obwohl“.¦en=A concessive clause often begins with "obwohl".
+B3368¦tp=T09¦ex=Beim Visumantrag nimmt man Ihren Fingerabdruck.¦en=When applying for a visa, your fingerprint is taken.
+B3369¦ck=-¦tp=T10¦ex=Mit Funkkopfhörern kann man sich frei bewegen.¦en=With wireless headphones you can move freely.
+B5438¦pos=adjective¦m=Russian¦lv=B1¦ex=Meine Nachbarin spricht russisch.¦en=My neighbour speaks Russian.
+B3370¦tp=T08¦ex=Mit dem Lastenfahrrad transportiert er die Einkäufe.¦en=He transports the shopping with the cargo bike.
+B3371¦ck=-¦tp=T10¦ex=Der Sprachassistent spielt Musik auf Zuruf.¦en=The voice assistant plays music on request.
+B3373¦tp=T02¦ex=Der Türöffner summt, und die Tür geht auf.¦en=The door opener buzzes and the door opens.
+B5439¦m=to assess; to judge¦lv=B2¦ps=beurteilt¦pt=beurteilte¦pf=hat beurteilt¦ex=Der Arzt beurteilt den Zustand des Patienten.¦en=The doctor assesses the patient's condition.
+B3374¦tp=T10¦ex=Der Slogan der Firma ist leicht zu merken.¦en=The company's slogan is easy to remember.
+B3375¦en=A key on the remote control is broken.
+B3376¦en=How much does the transport cost?
+B3579¦pos=adjective¦en=We met by chance at the station.
+B3377¦ck=-
+B3378¦en=I have to charge my phone. The battery is empty.
+B3380¦ps=steckt ein¦pt=steckte ein¦pf=hat eingesteckt¦tp=T02¦ex=Bitte steck das Kabel ein.¦en=Please plug in the cable.
+B5440¦art=die¦pl=Bindungen¦m=bond; attachment¦lv=B2¦ex=Zwischen Mutter und Kind besteht eine enge Bindung.¦en=There is a close bond between mother and child.
+B3381¦en=Can you help me install my computer?
+B3382¦tp=T10¦ex=Bitte schalte das Handy stumm.¦en=Please put the phone on silent.
+B3383¦pos=adjective¦ex=Mein Handy ist stumm geschaltet.¦en=My phone is on silent.
+B5441¦pos=adjective¦m=linguistic¦lv=B2¦ex=Sprachlich ist der Text sehr gut.¦en=Linguistically the text is very good.
+B3384¦en=The instructions say that in this game the oldest starts.
+B3385¦en=We bought new furniture.
+B3387¦ck=-¦tp=T07¦ex=Im Handyladen kaufe ich eine neue Hülle.¦en=In the phone shop I buy a new case.
+B5442¦art=die¦pl=Verteilungen¦m=distribution¦lv=B2¦ex=Die Verteilung der Aufgaben ist fair.¦en=The distribution of tasks is fair.
+B3388¦tp=T16¦ex=Das Glas ist vom Tisch heruntergefallen.¦en=The glass fell off the table.
+B3390¦en=Please be careful with this glass. It breaks easily.
+B3391¦en=Travelling to my parents for three days is not worth it. It's too far.
+B4430¦g=+ Gen.¦en=Altogether it costs 200 euros including travel costs.
+B3392¦en=This is a special offer: 25% off.
+B3393¦tp=T02¦ex=Der Staubsauger ist sehr laut.¦en=The vacuum cleaner is very loud.
+B3395¦en=A button is missing on my jacket.
+B4409¦pos=adjective¦en=Drive carefully! It's slippery.
+B3396¦en=My mother sews her dresses herself.
+B3397¦en=I'd like to have this suit cleaned.
+B3399¦tp=T10¦ex=Ich höre Musik mit Kopfhörern.¦en=I listen to music with headphones.
+B5443¦art=die¦pl=Kommissionen¦m=commission; committee¦lv=B2¦ex=Eine Kommission prüft den Antrag.¦en=A committee is examining the application.
+B3400¦m=charging cable¦tp=T10¦ex=Ich habe mein Ladekabel vergessen.¦en=I forgot my charging cable.
+B3401¦tp=T10¦ex=Mit der Powerbank lade ich unterwegs das Handy.¦en=With the power bank I charge my phone on the go.
+B3405¦ck=-¦tp=T10¦ex=Mein Handyakku ist schnell leer.¦en=My phone battery runs out quickly.
+B5444¦m=muscle¦en=In the gym we train our muscles.
+B3407¦tp=T10¦ex=Ich speichere die Datei auf einem Stick.¦en=I save the file on a stick.
+B3408¦en=Yesterday Julia was wearing a red dress.
+B3409¦ps=schaltet an¦pt=schaltete an¦pf=hat angeschaltet¦tp=T10¦ex=Schalte bitte das Licht an.¦en=Please turn on the light.
+B5445¦m=once more¦en=Many thanks once again!
+B3410¦ps=hat dabei¦pt=hatte dabei¦pf=hat dabeigehabt¦tp=T16¦ex=Hast du Geld dabei?¦en=Do you have money with you?
+B3412¦en=Do you pay in cash? You can also pay with a debit card.
+B3413¦en=Please read the instructions for use first.
+B3455¦ps=passt an¦pt=passte an¦pf=hat angepasst¦tp=T16¦ex=Wir passen den Plan an die Situation an.¦en=We adapt the plan to the situation.
+B3414¦tp=T07¦ex=Geben Sie bitte Ihre Geheimzahl ein.¦en=Please enter your PIN.
+B3415¦en=I'm just getting some money from the cash machine.
+B3416¦en=My current account costs nothing at all.
+B4801¦tp=T15¦ex=Das Aktiv ist leichter als das Passiv.¦en=The active is easier than the passive.
+B3418¦tp=T16¦ex=Ich sehe kurz im Kalender nach.¦en=I'll quickly check the calendar.
+B3419¦en=I only have small change in my wallet.
+B3420¦en=You get ten percent discount.
+B3622¦ck=-¦ef=der Alte; die Alte; die Alten¦tp=T01¦ex=Nach der Erkältung bin ich wieder der Alte.¦en=After the cold I'm my old self again.
+B3423¦tp=T08¦ex=Wir gehen denselben Weg zurück.¦en=We go back the same way.
+B3424¦ps=zahlt zurück¦pt=zahlte zurück¦pf=hat zurückgezahlt¦tp=T07¦ex=Ich zahle dir das Geld nächste Woche zurück.¦en=I'll pay you the money back next week.
+B3425¦en=You have a one-year guarantee on the washing machine.
+B3953¦tp=T16
+B3427¦en=Do you need a receipt?
+B3428¦ps=reklamiert¦pt=reklamierte¦pf=hat reklamiert¦tp=T07¦ex=Ich möchte die defekte Ware reklamieren.¦en=I would like to return the defective goods.
+B3429¦en=Test our offers for free.
+B3841¦tp=T10¦en=After the performance the musicians celebrate.
+B3430¦en=There was great progress in technology.
+B3432¦tp=T02¦ex=Die Alarmanlage geht nachts an.¦en=The alarm system switches on at night.
+B3437¦en=In the holiday season there are many burglaries.
+B3940¦tp=T07¦en=There is a great need for this product.
+B3439¦ex=Die Haustür ist abgeschlossen.¦en=The front door is locked.
+B3440¦ps=sieht hin¦pt=sah hin¦pf=hat hingesehen¦tp=T16¦ex=Sieh bitte genau hin.¦en=Please look closely.
+B3441¦tp=T02¦ex=Abends ziehen wir die Jalousien herunter.¦en=In the evening we pull down the blinds.
+B4910¦ps=erwacht¦pt=erwachte¦pf=ist erwacht¦tp=T05¦ex=Der Patient erwachte aus der Narkose.¦en=The patient awoke from the anaesthetic.
+B3442¦en=Young people like reading this magazine.
+B3443¦en=I bought a bigger monitor. That's better for my eyes.
+B3444¦tp=T02¦ex=Wir wohnen in einem Neubau.¦en=We live in a new building.
+B4849¦tp=T12¦ex=Deutschland gehört zur EU.¦en=Germany belongs to the EU.
+B3446¦pos=adjective¦tp=T10¦ex=Das Gerät ist smart und lässt sich per App steuern.¦en=The device is smart and can be controlled by app.
+B3447¦tp=T02¦ex=Im Smart Home kann man das Licht per App steuern.¦en=In a smart home you can control the lights by app.
+B3449¦en=What is your daily routine?
+B5096¦tp=T14¦en=I have a very guilty conscience.
+B3450¦ck=-¦tp=T15¦ex=Er schickt mir eine Videonachricht.¦en=He sends me a video message.
+B3452¦tp=T03¦ex=Die Zentrale der Firma ist in Frankfurt.¦en=The company's headquarters are in Frankfurt.
+B4543¦tp=T10¦ex=Der Klang der Geige ist wunderschön.¦en=The sound of the violin is beautiful.
+B3456¦en=Could you please switch on the heating?
+B3457¦tp=T10¦ex=In der Klinik gibt es modernste Hightech.¦en=In the clinic there is state-of-the-art high tech.
+B3460¦en=Despite the flu I went to work.
+B4771¦tp=T12¦ex=In der Not helfen sich die Nachbarn.¦en=In times of need the neighbours help each other.
+B3463¦tp=T07¦ex=Ich schreibe eine Einkaufsliste.¦en=I'm writing a shopping list.
+B3464¦pos=adjective¦en=We have five children. We have to be very economical.
+B4598¦tp=T10¦en=The original is for you. We get the copy.
+B3467¦tp=T10¦ex=Die Werbeanzeige steht in der Zeitung.¦en=The advertisement is in the newspaper.
+B3468¦pos=adjective¦tp=T07¦ex=Die Verpackung ist sehr ansprechend.¦en=The packaging is very appealing.
