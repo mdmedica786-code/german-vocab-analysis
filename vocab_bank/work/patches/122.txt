@@ -1,0 +1,3 @@
+@FSP-21
+%sp=Arzt¦au=Angehörige¦lv=B2¦rg=formal¦eu=FSP; Berufsalltag
+NEW¦fn=Angehörige einbeziehen¦de=Wir würden Sie gern in die Pflege Ihres Angehörigen einbeziehen.¦m=We would like to involve you in caring for your relative.¦ex=Wir würden Sie gern in die Pflege Ihres Angehörigen einbeziehen, wenn Sie dazu bereit sind.¦en=We would like to involve you in caring for your relative if you are willing.¦gn=einbeziehen in + Akkusativ; Konjunktiv II¦v=Können Sie uns bei der Betreuung unterstützen? | Ihre Hilfe wäre wertvoll.¦pr=extra

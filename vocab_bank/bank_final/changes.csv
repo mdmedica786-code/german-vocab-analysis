@@ -1455,3 +1455,11 @@ redemittel,R0469,example_de,"Aus eigener Erfahrung weiß ich, dass man in Gruppe
 redemittel,R0469,example_en,From my own experience I know that one learns better in groups.,Personally I have found from experience that asking questions prevents problems.
 redemittel,R0469,grammar_note,aus + Dativ; wissen + dass-Satz,Erfahrung machen; dass-Satz: Verb am Ende
 redemittel,R0469,variants,"Ich habe selbst die Erfahrung gemacht, dass ... | Persönlich habe ich erlebt, dass ...","Ich habe selbst erlebt, dass ... | Aus meiner eigenen Praxis weiß ich, dass ..."
+redemittel,R1026,redemittel_de,Ich wiederhole: einen Milligramm Adrenalin intravenös.,Ich wiederhole: ein Milligramm Adrenalin intravenös.
+redemittel,R1031,grammar_note,fasse zusammen: Doppelpunkt¶v=Kurze Lagebeschreibung: ... | Zur Situation: ...,Lagebeschreibung im Präsens
+redemittel,R0699,redemittel_de,"Habe ich Sie richtig verstanden, dass ...?",Habe ich das richtig verstanden: Seit wann bestehen die Beschwerden?
+redemittel,R0699,meaning_en,Have I understood you correctly that ...?,Have I understood correctly: since when have the complaints existed?
+redemittel,R0699,example_de,"Habe ich Sie richtig verstanden, dass die Beschwerden vor einer Woche begonnen haben?","Habe ich das richtig verstanden: Seit wann bestehen die Beschwerden, seit Montag?"
+redemittel,R0699,example_en,Have I understood you correctly that the complaints began a week ago?,"Have I understood correctly: since when have the complaints existed, since Monday?"
+redemittel,R0699,grammar_note,dass-Satz: Verb am Ende,Rückfrage zur Bestätigung
+redemittel,R0699,variants,"Ich fasse kurz zusammen: ... | Sie sagen also, dass ...","Sie sagen also, die Beschwerden begannen am Montag? | Ich fasse kurz zusammen: ..."
