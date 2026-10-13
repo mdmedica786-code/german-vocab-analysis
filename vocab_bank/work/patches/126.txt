@@ -1,0 +1,100 @@
+B2499¦pt=rief zurück¦tp=T15¦ex=Ich rufe Sie morgen zurück.¦en=I'll call you back tomorrow.
+B2501¦tp=T03¦ex=Im Arbeitsleben ist Teamarbeit wichtig.¦en=In working life teamwork is important.
+B2502¦ex=Mein Arbeitstag beginnt um acht Uhr.¦en=My working day starts at eight o'clock.
+B5328¦pos=preposition¦g=+ Gen.¦m=regarding¦lv=C1¦ex=Bezüglich Ihrer Anfrage melden wir uns morgen.¦en=Regarding your enquiry, we will get back to you tomorrow.
+B2503¦tp=T15¦ex=Der Austausch mit Kollegen ist wichtig.¦en=The exchange with colleagues is important.
+B2504¦pos=adjective¦tp=T03¦ex=Mein Vertrag ist auf ein Jahr befristet.¦en=My contract is limited to one year.
+B2505¦m=company; business¦en=Ten people work in this company.
+B5329¦m=generation¦en=Three generations live together in this house.
+B2506¦pt=kam dazu¦tp=T16¦ex=Zu den Kosten kommen noch die Gebühren dazu.¦en=Fees are added to the costs.
+B2507¦ex=Die Digitalisierung verändert die Medizin.¦en=Digitisation is changing medicine.
+B2508¦pos=adjective¦tp=T15¦ex=Sind Sie morgen telefonisch erreichbar?¦en=Can you be reached by phone tomorrow?
+B2636¦pos=adjective¦en=It just doesn't work. It makes sense to try again.
+B2509¦en=I work in a car factory.
+B2511¦tp=T12¦ex=Manche Leute fordern ein bedingungsloses Grundeinkommen.¦en=Some people demand an unconditional basic income.
+B2512¦m=housework; term paper¦tp=T02¦ex=Die Hausarbeit teilen wir uns gerecht.¦en=We share the housework fairly.
+B3791¦ex=Das Krankenhaus ist eine wichtige Institution.¦en=The hospital is an important institution.
+B2515¦pos=adjective¦tp=T16¦ex=Lernen ist ein lebenslanger Prozess.¦en=Learning is a lifelong process.
+B2517¦pos=adjective¦en=With a bicycle I'm very mobile in the city.
+B2518¦pos=adjective¦tp=T16¦ex=Die Anmeldung hat problemlos funktioniert.¦en=The registration worked without any problems.
+B5330¦art=die¦pl=Wellen¦m=wave¦lv=B1¦ex=Die Wellen am Strand sind heute hoch.¦en=The waves on the beach are high today.
+B2519¦ex=Der Roboter hilft in der Fabrik bei der Montage.¦en=The robot helps with assembly in the factory.
+B2520¦tp=T03¦ex=Wir haben heute eine Telefonkonferenz mit dem Team.¦en=Today we have a conference call with the team.
+B2521¦pos=adjective¦tp=T16¦ex=Das ist unnötig, du musst nichts mitbringen.¦en=That is unnecessary; you don't have to bring anything.
+B4662¦m=to replace; to reimburse¦en=We will reimburse you for the costs.
+B2522¦tp=T10¦ex=Die Vernetzung der Krankenhäuser verbessert die Versorgung.¦en=Networking between hospitals improves care.
+B2523¦tp=T03¦ex=Das Meeting findet als Videokonferenz statt.¦en=The meeting takes place as a video conference.
+B2524¦pos=adjective¦en=On this website you can take part in a virtual city tour.
+B3964¦m=area; region¦en=The Black Forest is a very beautiful area.
+B2525¦ex=Sie hat ein großes Wissen über Pflanzen.¦en=She has great knowledge of plants.
+B2526¦m=to increase; to put on weight¦en=I put on 1 kilo on holiday.
+B2527¦en=You are the new colleague? Here's to good cooperation!
+B4459¦pos=adjective¦en=We have a problem with the heating. Who is responsible for that?
+B2528¦tp=T15¦ex=Unterstreichen Sie die Schlüsselwörter im Text.¦en=Underline the keywords in the text.
+B2530¦tp=T10¦ex=Der Konzertsaal bietet Platz für tausend Zuhörer.¦en=The concert hall has room for a thousand listeners.
+B2532¦pt=hatte vor¦en=Do you already have plans for tomorrow evening?
+B5331¦m=representative; substitute (m)¦ex=Während Dr. Müller im Urlaub war, hat sein Vertreter die Praxis geleitet.¦en=While Dr Müller was on holiday, his locum ran the practice.
+B2533¦en=You can go, the traffic light is green.
+B2535¦m=engine; motor¦en=The engine is broken. The car won't run any more.
+B2536¦m=breakdown¦en=Shortly before Munich we had a breakdown with the car.
+B4780¦ex=Das Geschäft bietet eine große Auswahl an Obst.¦en=The shop offers a wide selection of fruit.
+B2537¦ex=Ich finde keinen freien Parkplatz.¦en=I can't find a free parking space.
+B2538¦m=tyre¦tp=T08¦en=I need new tyres for my car.
+B2539¦en=On the A3 there is a 5 km traffic jam because of an accident.
+B3488¦pos=adjective¦g=an + Dat.¦en=My neighbour is moving out next month. Are you still interested in the flat?
+B2540¦tp=T08¦ex=Mein Navi zeigt den schnellsten Weg.¦en=My satnav shows the fastest route.
+B2541¦m=multi-storey car park¦tp=T08¦ex=Wir parken im Parkhaus am Bahnhof.¦en=We park in the car park at the station.
+B2542¦tp=T15¦en=You are (not) right.
+B3921¦m=resource¦ex=Wasser ist eine wertvolle Ressource.¦en=Water is a valuable resource.
+B2543¦pos=adjective¦en=My working hours are flexible.
+B2544¦m=to fill up; to refuel¦en=We absolutely must fill up. We've almost no petrol left.
+B2547¦en=Petrol is supposed to get more expensive again.
+B3487¦en=How many rooms do you need? – A two-room flat is enough for me.
+B2548¦en=The man suddenly walked across the street. I had to brake hard.
+B2549¦pt=buchte¦tp=T08¦en=Tomorrow I'm booking our holiday trip.
+B2550¦tp=T08¦ex=Mein Auto fährt mit Diesel.¦en=My car runs on diesel.
+B4362¦pos=adjective¦en=The money is sufficient for the trip.
+B2551¦en=Here is a garage for your car.
+B2552¦m=number plate¦en=The car has a Swiss number plate.
+B2553¦en=Motor vehicles are not allowed on this road.
+B5332¦art=der¦pl=Kerle¦m=guy; bloke¦rg=informal¦lv=B2¦ex=Der Kerl hat mir geholfen, mein Auto zu starten.¦en=The guy helped me start my car.
+B2554¦ck=-
+B2555¦tp=T08¦ex=Mit der Monatskarte fahre ich günstiger.¦en=With the monthly ticket I travel more cheaply.
+B2556¦pt=parkte¦en=May I park here?
+B4675¦en=I'd like to see how my dress fits. Do you have a mirror?
+B2557¦tp=T08¦ex=Der Pkw steht auf dem Parkplatz.¦en=The car is in the car park.
+B2558¦en=I reversed out of the garage.
+B2559¦en=Where is the nearest petrol station?
+B5333¦m=proof; evidence¦en=Do you have proof of that?
+B2560¦tp=T08¦nt=Technical inspection of vehicles; roughly MOT.¦ex=Mein Auto muss nächste Woche zum TÜV.¦en=My car has to go for its inspection next week.
+B2561¦en=You should take out insurance for your luggage.
+B2562¦en=Please drive forward a bit.
+B4248¦pos=adjective¦m=strong; hearty¦en=The man is strong. He does a lot of sport and eats a lot.
+B2564¦ck=-¦tp=T08¦ex=Im Zug gibt es ein Kinderabteil mit Spielzeug.¦en=On the train there is a children's compartment with toys.
+B2565¦ex=Meine Mama kocht am besten.¦en=My mum cooks best.
+B2566¦pos=adjective¦rg=informal¦tp=T14¦ex=Das ständige Klingeln ist nervig.¦en=The constant ringing is annoying.
+B5334¦art=der¦pl=Widerstände¦m=resistance¦lv=B2¦ex=Die Bevölkerung leistet Widerstand gegen den Plan.¦en=The population is putting up resistance to the plan.
+B2567¦pos=adjective¦ex=Das Kind wird ungeduldig, wenn es warten muss.¦en=The child becomes impatient when it has to wait.
+B2568¦pt=fuhr weiter¦tp=T08¦ex=Nach der Pause fahren wir weiter.¦en=After the break we drive on.
+B2569¦pt=ging weiter¦tp=T08¦ex=Gehen Sie bitte weiter, hier ist kein Platz.¦en=Please move on, there is no room here.
+B4242¦tp=T14¦ex=Meine Erwartungen an den Kurs sind hoch.¦en=My expectations of the course are high.
+B2570¦ck=-¦tp=T15¦ex=Ein Fragesatz endet mit einem Fragezeichen.¦en=An interrogative clause ends with a question mark.
+B2571¦pos=adjective¦tp=T15
+B2572¦ck=-¦m=reported speech¦tp=T15¦ex=Die Redewiedergabe steht oft im Konjunktiv I.¦en=Reported speech is often in the subjunctive I.
+B3448¦m=to steer; to control¦ps=steuert¦pt=steuerte¦pf=hat gesteuert¦ex=Der Pilot steuert das Flugzeug sicher.¦en=The pilot steers the plane safely.
+B2573¦ck=-¦tp=T08¦ex=Im Bordbistro gibt es Kaffee und belegte Brötchen.¦en=In the on-board bistro there is coffee and sandwiches.
+B2574¦tp=T01¦ex=Sie schiebt den Kinderwagen durch den Park.¦en=She pushes the pram through the park.
+B2575¦tp=T08¦ex=Der Bordcomputer zeigt den Benzinverbrauch an.¦en=The on-board computer shows the petrol consumption.
+B4807¦ps=verbreitet¦pt=verbreitete¦pf=hat verbreitet¦tp=T15¦ex=Die Zeitung verbreitet die Nachricht schnell.¦en=The newspaper spreads the news quickly.
+B2577¦en=Whose vehicle is that?
+B2578¦tp=T07¦ex=Geben Sie bitte Ihre PIN ein.¦en=Please enter your PIN.
+B2579¦ps=registriert¦pt=registrierte¦pf=hat registriert¦ex=Ich muss mich noch bei der Plattform registrieren.¦en=I still have to register on the platform.
+B5335¦pos=conjunction¦m=provided that; if¦lv=B2¦ex=Wir kommen, sofern das Wetter gut ist.¦en=We'll come, provided the weather is good.
+B2580¦tp=T07¦ex=Dieser Handytarif ist sehr günstig.¦en=This mobile phone tariff is very cheap.
+B2581¦en=I like watching advertising on television.
+B2583¦ps=stellt ab¦pt=stellte ab¦pf=hat abgestellt¦tp=T08¦m=to park; to turn off¦ex=Du kannst das Auto vor dem Haus abstellen.¦en=You can park the car in front of the house.
+B3132¦en=You don't like that? But that is reality.
+B2585¦ex=Die Fahrt nach Köln dauert zwei Stunden.¦en=The journey to Cologne takes two hours.
+B2586¦tp=T02¦ex=Für die Wohnung muss ich drei Monatsmieten Kaution zahlen.¦en=For the flat I have to pay a deposit of three months' rent.
+B2587¦tp=T07¦ex=Der Kundenservice hilft Ihnen bei Problemen.¦en=Customer service helps you with problems.
+B5336¦art=der¦pl=–¦m=structure; assembly¦lv=B2¦ex=Der Aufbau des Textes ist logisch.¦en=The structure of the text is logical.

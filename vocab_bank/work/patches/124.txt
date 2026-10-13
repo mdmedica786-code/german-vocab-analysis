@@ -1,0 +1,99 @@
+B4859¦ex=Die Gemeinschaft der Nachbarn hilft sich gegenseitig.¦en=The community of neighbours helps each other.
+B2281¦ck=-
+B4728¦ex=Die Aufnahme in das Team war sehr herzlich.¦en=The welcome into the team was very warm.
+B4971¦en=We are interrupting the broadcast for an important announcement.
+B2302¦en=Since the operation I can no longer move my knee.
+B2304¦pt=pflegte¦en=My mother is very ill. I have to care for her.
+B2305¦pt=prüfte¦en=Please check the invoice immediately.
+B4507¦pos=adjective¦ex=Sie hört gern klassische Musik.¦en=She likes listening to classical music.
+B2306¦ps=serviert¦pt=servierte¦pf=hat serviert¦ex=Der Kellner serviert das Essen.¦en=The waiter serves the food.
+B2308¦en=How do you want to transport the furniture?
+B2309¦m=fire brigade¦en=Quick! Call the fire brigade! The number is 112.
+B4695¦en=A big wedding with many people is a tradition with us.
+B2310¦pt=gab aus¦en=Agata spends a lot of money on books.
+B2311¦en=We are looking for a friendly temporary worker for our shop.
+B2312¦ex=Ich habe mir den Daumen in der Tür eingeklemmt.¦en=I trapped my thumb in the door.¦col=den Daumen drücken | Daumen und Zeigefinger | der Daumen schmerzt | sich den Daumen verstauchen
+B3594¦en=At first the work was hard. By now I have got used to it.
+B2313¦tp=T10¦ex=Der Dom ist das Wahrzeichen der Stadt.¦en=The cathedral is the landmark of the city.
+B2314¦pos=adjective¦en=Please come quickly. It is urgent.
+B2316¦en=Could you take care of that for me?
+B3075¦tp=T16¦ex=Die Produkte sind in drei Kategorien eingeteilt.¦en=The products are divided into three categories.
+B2317¦en=My neighbour opened a shop last month.
+B2318¦en=You always get your wages at the end of the month.
+B2320¦en=When is your job interview?
+B5307¦art=der¦pl=Befehle¦m=order; command¦lv=B2¦ex=Der Offizier gab den Befehl zum Rückzug.¦en=The officer gave the order to withdraw.
+B2321¦pt=bewarb¦en=I would like to apply for this position.
+B2323¦m=job advertisement¦tp=T03¦ex=Ich habe deine Stellenanzeige in der Zeitung gelesen.¦en=I read your job advertisement in the newspaper.
+B2324¦en=At the moment I only work part-time.
+B5308¦m=to return¦lv=B2¦ps=kehrt zurück¦pt=kehrte zurück¦pf=ist zurückgekehrt¦sp=zurück¦ex=Nach dem Urlaub kehrt sie nach Berlin zurück.¦en=After the holiday she returns to Berlin.
+B2325¦en=I'll send you all the documents by post.
+B2327¦tp=T07¦ex=Die Bezahlung in diesem Beruf ist gut.¦en=The pay in this job is good.
+B2328¦pos=adjective¦en=Anna likes wearing colourful dresses.
+B3426¦m=to load; to charge
+B2329¦pos=adjective¦tp=T14¦ex=Wir sind spontan ins Kino gegangen.¦en=We went to the cinema spontaneously.
+B2331¦m=notice; decision¦nt=Bescheid geben/sagen = to let someone know; Bescheid wissen = to know about it.¦ex=Ich gebe Ihnen Bescheid, sobald der Termin feststeht.¦en=I'll let you know as soon as the date is fixed.
+B2332¦ef=das Beste¦tp=T16¦ex=Ich wünsche dir das Beste.¦en=I wish you all the best.
+B5309¦art=die¦pl=Auseinandersetzungen¦m=argument; debate; confrontation¦lv=B2¦ex=Es gab eine heftige Auseinandersetzung im Gemeinderat.¦en=There was a heated argument in the local council.
+B2333¦tp=T06¦ex=Im Feinkostgeschäft gibt es viele Delikatessen.¦en=In the delicatessen there are many delicacies.
+B2334¦en=To be continued.
+B2335¦ck=-¦tp=T03¦ex=Morgen habe ich meinen Probetag in der Bäckerei.¦en=Tomorrow I have my trial day at the bakery.
+B2336¦en=I fell off my bike. It was a miracle that nothing bad happened.
+B2337¦tp=T06¦ex=Für den Kuchen brauchst du nur vier Zutaten.¦en=For the cake you only need four ingredients.
+B2338¦pt=sah um¦tp=T08¦ex=Ich sehe mich im Geschäft ein bisschen um.¦en=I'm having a little look around the shop.
+B5310¦pos=adverb¦m=the ... (the more ...)¦lv=B1¦ex=Je mehr ich übe, desto besser werde ich.¦en=The more I practise, the better I get.
+B2340¦en=Have you already applied for a new passport?
+B2341¦en=Please transfer the amount to our account.
+B2342¦ex=Der Diebstahl wurde der Polizei gemeldet.¦en=The theft was reported to the police.
+B2806¦en=Please note the announcements on the platform.
+B2343¦tp=T09¦ex=Nach acht Jahren kann man die Einbürgerung beantragen.¦en=After eight years one can apply for naturalisation.
+B2344¦m=purse; wallet¦tp=T07¦en=She lost her purse.
+B2345¦en=I need a loan from the bank.
+B3914¦en=The city promotes many sports projects.
+B2346¦tp=T09¦ex=Bitte zeigen Sie Ihren Personalausweis.¦en=Please show your ID card.
+B2347¦ex=Ich muss meinen Pass verlängern lassen.¦en=I have to get my passport renewed.
+B2348¦tp=T07¦ex=Meine Bankkarte funktioniert im Ausland nicht.¦en=My bank card doesn't work abroad.
+B5311¦m=to frighten; to startle¦ps=erschreckt¦pt=erschreckte¦pf=hat erschreckt¦nt=Intransitive (to be startled): erschrickt – erschrak – ist erschrocken.¦en=You really scared me!
+B2349¦ex=Ich muss noch Geld am Automaten abheben.¦en=I still have to withdraw money from the cash machine.
+B2352¦en=The visa is valid for three months.
+B2353¦ps=sperrt¦pt=sperrte¦pf=hat gesperrt¦tp=T07¦m=to block; to close¦ex=Ich muss sofort meine Bankkarte sperren lassen.¦en=I have to have my bank card blocked immediately.
+B4811¦pos=adjective¦en=You are responsible for your children.
+B2354¦en=Can I print that on your printer?
+B2357¦tp=T15¦ex=Im Deutschkurs lernen wir den Konjunktiv II.¦en=In the German course we are learning the subjunctive II.
+B2358¦pt=lieh¦m=to borrow; to lend¦en=Can you lend me five euros?
+B4622¦ex=Alle Menschen wünschen sich Frieden.¦en=Everyone wishes for peace.
+B2360¦ck=-¦m=next one¦ef=der Nächste; die Nächste; die Nächsten¦tp=T16¦ex=Der Nächste, bitte!¦en=Next, please!
+B2361¦en=Do you have a city map of Salzburg?
+B2363¦ck=-¦ef=der Angestellte; die Angestellte; die Angestellten¦tp=T03¦en=Björn is an employee at a travel agency.
+B5312¦pos=adverb¦m=alone¦lv=A2¦ex=Ich wohne alleine in einer kleinen Wohnung.¦en=I live alone in a small flat.
+B2364¦ck=-¦tp=T10¦ex=Am Samstag gehen wir in die Clubdisco.¦en=On Saturday we're going to the club disco.
+B2367¦tp=T10¦ex=Im Theater sehen wir ein Drama von Goethe.¦en=At the theatre we are watching a drama by Goethe.
+B2368¦tp=T14¦ex=Yoga hilft mir bei der Entspannung.¦en=Yoga helps me to relax.
+B5313¦pos=adjective¦m=time-related; temporal¦lv=B2¦ex=Zeitlich passt der Termin leider nicht.¦en=Time-wise the appointment unfortunately doesn't suit.
+B2369¦en=Bella is a fan of Rammstein.
+B2373¦tp=T12¦ex=Die Kaiserin regierte viele Jahre lang das Land.¦en=The empress ruled the country for many years.
+B2374¦ex=Der Maler streicht die Wände in unserer Wohnung neu.¦en=The painter is repainting the walls in our flat.
+B4285¦en=We can prove that you went through a red light.
+B2375¦ex=Die Malerin streicht die Wände in unserer Wohnung neu.¦en=The painter is repainting the walls in our flat.
+B2376¦ex=Das Parlament stimmt heute über das Gesetz ab.¦en=Parliament is voting on the law today.
+B2377¦en=Do you know what this politician is called?
+B5314¦m=to rule out; to exclude¦en=You can't completely rule that out.
+B2378¦ex=Weißt du, wie diese Politikerin heißt?¦en=Do you know what this politician is called?
+B2380¦en=In summer many tourists come to this city.
+B2381¦ex=Die Touristin fragt nach dem Weg zum Dom.¦en=The tourist asks for directions to the cathedral.
+B4176¦en=I don't know what to do. I have to think.
+B2382¦en=Please speak to the administration.
+B2383¦en=I had trouble at the office today. I argued with a colleague.
+B2384¦pt=beeilte¦en=Can you hurry up, please? The bus is leaving soon!
+B3010¦en=We buy our vegetables from the farmer.
+B2386¦pt=klappte¦en=Can we meet at noon today? – Yes, that works.
+B2387¦en=On the way back I'll visit my parents.
+B2388¦pt=beriet¦en=Our secretary will gladly advise you if you have questions.
+B5315¦pos=preposition¦g=+ Gen.¦m=in view of¦lv=C1¦ex=Angesichts der hohen Kosten verzichten wir auf das Projekt.¦en=In view of the high costs we are dropping the project.
+B2389¦pt=hielt ein¦m=to keep to; to comply with¦tp=T03¦ex=Bitte halten Sie den Termin ein.¦en=Please keep to the appointment.
+B2391¦m=vocabulary word¦tp=T04¦ex=Ich lerne jeden Tag zehn neue Vokabeln.¦en=I learn ten new vocabulary words every day.
+B2392¦tp=T03¦ex=Nächste Woche habe ich eine Geschäftsreise nach Wien.¦en=Next week I have a business trip to Vienna.
+B4559¦pos=adverb¦tp=T08¦ex=Wir gehen den Berg hinauf.¦en=We are walking up the mountain.
+B2393¦pt=kam zurück¦ex=Wann kommst du aus dem Urlaub zurück?¦en=When are you coming back from holiday?
+B2394¦tp=T08¦ex=Auf der Hinfahrt haben wir im Stau gestanden.¦en=On the way there we were stuck in a traffic jam.
+B2396¦tp=T08¦ex=In der Bahnhofshalle gibt es einen kleinen Kiosk.¦en=In the station hall there is a small kiosk.
+B5316¦pl=–¦m=breath¦en=Please hold your breath.

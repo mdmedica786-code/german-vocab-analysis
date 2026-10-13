@@ -1,0 +1,100 @@
+B4226¦ck=-
+B2398¦tp=T08¦ex=Die Fahrgäste steigen am Hauptbahnhof aus.¦en=The passengers get off at the main station.
+B2399¦en=Is that the new timetable?
+B2401¦en=Where is your car parked?
+B4170¦en=Today you can see many stars in the sky.
+B2402¦tp=T08¦ex=Gibt es eine direkte Zugverbindung nach Hamburg?¦en=Is there a direct train connection to Hamburg?
+B2403¦ck=-¦m=ticket office¦tp=T08¦ex=Am Fahrkartenschalter kaufe ich eine Fahrkarte.¦en=I buy a ticket at the ticket office.
+B3803¦pos=adjective¦ex=Diese Information ist für die Diagnose relevant.¦en=This information is relevant for the diagnosis.
+B2406¦pos=adverb¦ex=Wir sitzen im Kino nebeneinander.¦en=We sit next to each other in the cinema.
+B2408¦tp=T10¦ex=Die Band hat ein neues Album veröffentlicht.¦en=The band has released a new album.
+B2410¦en=There is a discount for pupils, students and pensioners.
+B3896¦en=The milk is from the region.
+B2411¦m=public holiday¦en=Monday is a public holiday.
+B2412¦tp=T10¦ex=„Faust“ ist ein Klassiker der deutschen Literatur.¦en="Faust" is a classic of German literature.
+B2413¦en=My brother wants to become a musician.
+B5317¦art=die¦pl=Normen¦m=norm; standard¦lv=B2¦ex=Die Werte liegen im Bereich der Norm.¦en=The values are within the normal range.
+B2414¦ex=Meine Schwester möchte Musikerin werden.¦en=My sister wants to become a musician.
+B2415¦ex=Der Sänger hat eine tolle Stimme.¦en=The singer has a great voice.
+B2416¦ex=Die Sängerin tritt heute Abend im Stadttheater auf.¦en=The singer is performing at the municipal theatre this evening.
+B3911¦m=to seize; to take (measures)¦tp=T16¦ex=Wir müssen sofort Maßnahmen ergreifen.¦en=We must take measures immediately.
+B2417¦ck=-¦tp=T10¦ex=Im Stadtprogramm stehen viele Veranstaltungen.¦en=The city programme lists many events.
+B2418¦ck=-¦tp=T10¦ex=Tagesgäste zahlen einen niedrigeren Preis.¦en=Day visitors pay a lower price.
+B2419¦m=coach; trainer¦en=I think our coach is very nice.
+B4266¦m=to make easier; to relieve¦ex=Ein guter Plan erleichtert die Arbeit.¦en=A good plan makes the work easier.
+B2420¦ex=Unsere Trainerin ist sehr motivierend.¦en=Our coach is very motivating.
+B2421¦tp=T06¦ex=Wir essen heute in einer Trattoria.¦en=We are eating in a trattoria today.
+B2422¦pos=adverb¦m=what for; for what¦en=What are you opting for?
+B2823¦en=I'd like to go diving again on holiday.
+B2423¦ck=-¦tp=T15¦ex=„Der“ und „ein“ sind Artikelwörter.¦en="Der" and "ein" are determiners.
+B2424¦pos=adjective¦tp=T03¦ex=Die Fotos sind sehr professionell.¦en=The photos are very professional.
+B2425¦pos=adjective¦en=Your new dress looks fantastic!
+B2944¦ck=-
+B2426¦tp=T10¦ex=Am Sonntag besuchen wir das Kunstmuseum.¦en=On Sunday we are visiting the art museum.
+B2427¦ck=-¦tp=T04¦ex=Der Kursort ist das Gemeindehaus.¦en=The course venue is the community centre.
+B2428¦pos=adjective¦m=inexpensive; good value¦en=The jacket is very good value. It costs only 15 euros.
+B4768¦en=Thank you very much for your effort.
+B2429¦ck=-¦m=doctor's clothing¦tp=T03¦ex=Die Arztkleidung ist weiß und wird täglich gewaschen.¦en=The doctor's clothing is white and washed daily.
+B2431¦ps=bereut¦pt=bereute¦pf=hat bereut¦tp=T14¦ex=Ich bereue meine Entscheidung nicht.¦en=I don't regret my decision.
+B5318¦m=to hold on; to record¦rf=sich¦g=an + Dat.¦en=Hold on tight.
+B2432¦pos=adverb¦en=What do you do for a living?
+B2433¦tp=T03¦ex=Nach zehn Jahren plant er einen Berufswechsel.¦en=After ten years he is planning a career change.
+B2434¦tp=T03¦ex=Der Busfahrer hält an jeder Haltestelle.¦en=The bus driver stops at every stop.
+B2487¦pt=störte¦en=Am I disturbing you?
+B2435¦tp=T03¦ex=Die Busfahrerin ist immer freundlich.¦en=The bus driver is always friendly.
+B2440¦tp=T03¦ex=Fernfahrer sind oft wochenlang unterwegs.¦en=Long-distance lorry drivers are often away for weeks.
+B2441¦ck=-¦tp=T03¦ex=Die Fernfahrerin fährt jede Woche nach Italien.¦en=The long-distance lorry driver drives to Italy every week.
+B5319¦art=das¦pl=Geräusche¦m=noise; sound¦lv=B1¦ex=Nachts höre ich ein seltsames Geräusch.¦en=At night I hear a strange noise.
+B2442¦pos=adjective¦en=Financially my nephew is doing better now.
+B2444¦en=She is satisfied with her salary.
+B2445¦tp=T03¦ex=Der Herzchirurg operiert seit sechs Stunden.¦en=The heart surgeon has been operating for six hours.
+B5320¦m=ahead; in advance¦en=Go ahead.
+B2446¦ck=-¦tp=T03¦ex=Die Herzchirurgin hat über tausend Operationen durchgeführt.¦en=The heart surgeon has performed over a thousand operations.
+B2447¦tp=T05¦ex=Der Patient wurde ins Herzzentrum verlegt.¦en=The patient was transferred to the cardiac centre.
+B2448¦tp=T03¦ex=Ein Jobwechsel kann neue Chancen bringen.¦en=A job change can bring new opportunities.
+B4097¦en=The readers are satisfied with the newspaper.
+B2449¦pos=adjective¦nt=Often used as an adverb.¦en=I completely forgot the appointment.
+B2450¦tp=T08¦ex=Der Lastwagen blockiert die Straße.¦en=The lorry is blocking the road.
+B2451¦m=manager; head (m)¦nt=Die Leiter = ladder (plural Leitern).¦ex=Der Leiter der Abteilung ist heute nicht da.¦en=The head of the department is not here today.
+B5321¦m=to lead; to manage¦en=Who is leading the course?
+B2452¦en=What is the head of the school called?
+B2454¦m=doctor (m); physician (m)¦tp=T03¦ex=Mein Onkel ist Mediziner.¦en=My uncle is a doctor.
+B2455¦m=doctor (f); physician (f)¦tp=T03¦ex=Meine Tante ist Medizinerin.¦en=My aunt is a doctor.
+B5322¦pos=adjective¦m=mental; psychological¦lv=B2¦ex=Psychische Belastung kann krank machen.¦en=Mental strain can make you ill.
+B2457¦tp=T03¦ex=Nach dem Umzug beginnt sie einen Neuanfang.¦en=After the move she is making a fresh start.
+B2460¦m=senior physician (m)¦tp=T03¦ex=Der Oberarzt leitet die Visite.¦en=The senior physician leads the ward round.
+B2461¦m=senior physician (f)¦tp=T03¦ex=Die Oberärztin bespricht den Fall mit uns.¦en=The senior physician discusses the case with us.
+B2616¦tp=T16¦ex=Dein Verhalten hat Konsequenzen.¦en=Your behaviour has consequences.
+B2462¦pl=Operationssäle¦tp=M4 Medizin: Klinik, Pflege & Recht¦ex=Der Patient wird in den Operationssaal gebracht.¦en=The patient is taken to the operating theatre.
+B2463¦en=Made of plastic or wood?
+B2466¦ex=Der Übersetzer arbeitet für einen Verlag.¦en=The translator works for a publishing house.
+B5323¦m=to hide¦en=I hid the money behind the shelf.
+B2467¦ex=Die Übersetzerin arbeitet für einen Verlag.¦en=The translator works for a publishing house.
+B2468¦en=Old cars are a problem for the environment.
+B2469¦pos=adjective¦m=funny; strange¦en=The film was very funny. We laughed a lot.
+B5324¦art=der¦pl=Abstände¦m=distance; gap¦lv=B1¦ex=Bitte halten Sie eineinhalb Meter Abstand.¦en=Please keep a distance of one and a half metres.
+B2470¦tp=T09¦ex=Bitte machen Sie auf dem Formular eine Altersangabe.¦en=Please state your age on the form.
+B2471¦tp=T15¦ex=„Ich gehe“ steht im Präsens.¦en="Ich gehe" is in the present tense.
+B2472¦pos=adjective¦en=Lena is pregnant. She is having a baby in July.
+B2842¦ps=verstärkt¦pt=verstärkte¦pf=hat verstärkt¦ex=Wir müssen die Sicherheit verstärken.¦en=We must reinforce security.
+B2473¦tp=T03¦ex=Mein Berufswunsch war immer Ärztin.¦en=My career goal has always been to be a doctor.
+B2474¦ck=-¦tp=T03¦ex=Der Tiertrainer arbeitet im Zirkus.¦en=The animal trainer works in the circus.
+B2475¦ck=-¦tp=T03¦ex=Die Tiertrainerin übt mit den Delfinen.¦en=The animal trainer practises with the dolphins.
+B5325¦pos=adverb¦m=instead¦lv=B1¦ex=Ich nehme keinen Kaffee, stattdessen trinke ich Tee.¦en=I'm not having coffee; instead I'll drink tea.
+B2477¦pos=adverb¦tp=T13¦ex=Wir sind zwei Tage hintereinander gewandert.¦en=We hiked two days in a row.
+B2479¦pt=half mit¦tp=T03¦ex=Alle Kinder helfen im Haushalt mit.¦en=All the children help with the housework.
+B2481¦ck=-¦ps=legt bereit¦pt=legte bereit¦pf=hat bereitgelegt¦tp=T03¦ex=Bitte legen Sie die Unterlagen bereit.¦en=Please have the documents ready.
+B3314¦ps=baut auf¦pt=baute auf¦pf=hat aufgebaut¦ex=Wir bauen das Zelt am See auf.¦en=We are putting up the tent by the lake.
+B2484¦pos=adjective¦tp=T14¦ex=Heute war ein hektischer Tag.¦en=Today was a hectic day.
+B2488¦m=phone call¦tp=T15¦ex=Nach dem Telefonat rufe ich dich zurück.¦en=After the phone call I'll call you back.
+B2489¦ck=-¦tp=T04¦ex=Mein Kurspartner hilft mir bei den Hausaufgaben.¦en=My course partner helps me with the homework.
+B4628¦en=I ran very fast, but the bus was already gone.
+B2490¦ck=-¦tp=T04¦ex=Meine Kurspartnerin kommt aus Spanien.¦en=My course partner comes from Spain.
+B2492¦tp=T15¦ex=Der Anrufer hat keine Nachricht hinterlassen.¦en=The caller didn't leave a message.
+B4519¦ps=vermittelt¦pt=vermittelte¦pf=hat vermittelt¦tp=T04
+B2493¦tp=T15¦ex=Die Anruferin möchte mit dem Chef sprechen.¦en=The caller wants to speak to the boss.
+B2494¦en=My husband isn't here. Shall I pass anything on to him?
+B5326¦art=die¦pl=Auffassungen¦m=view; opinion¦lv=B2¦ex=Ich bin der Auffassung, dass wir mehr Zeit brauchen.¦en=I am of the view that we need more time.
+B2496¦en=Would you like to leave a message?
+B2498¦m=feedback; response¦en=Respond to the feedback.
+B5327¦pos=adverb¦m=accordingly; according to this¦lv=C1¦ex=Demnach hat sich die Lage verbessert.¦en=According to this, the situation has improved.
