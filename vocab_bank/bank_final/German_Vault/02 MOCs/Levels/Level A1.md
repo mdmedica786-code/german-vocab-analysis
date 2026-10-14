@@ -1,0 +1,1826 @@
+---
+title: "Level A1"
+type: "moc"
+tags: ["moc", "level/A1"]
+---
+<!-- bank:start -->
+# Level A1
+
+1751 words to study: 1751 from the main bank.
+
+Back to [[00 Home]]
+
+## M1 Medizin: Anatomie & Körpersysteme (1)
+
+- [[Blut]] — blood
+
+## M2 Medizin: Symptome & Krankheiten (9)
+
+- [[Bauchschmerzen]] — stomach pain
+- [[Fieber]] — fever
+- [[Halsschmerzen]] — sore throat
+- [[husten (verb)]] — cough
+- [[Kopfschmerzen]] — headache
+- [[Krankheit]] — illness
+- [[Rückenschmerzen]] — back pain
+- [[Schmerz]] — pain
+- [[Wunde]] — wound
+
+## M3 Medizin: Untersuchung, Diagnostik & Therapie (13)
+
+- [[Hustensaft]] — cough syrup
+- [[Labor]] — laboratory
+- [[Medikament]] — medicine
+- [[Physiotherapeut]] — physical therapist (m)
+- [[Physiotherapeutin]] — physical therapist (f)
+- [[Physiotherapie]] — physical therapy
+- [[Schlaftablette]] — sleeping pill
+- [[Spritze]] — injection; syringe
+- [[Tablette]] — pill
+- [[Therapeut]] — therapist (m)
+- [[Therapeutin]] — therapist (f)
+- [[untersuchen]] — to examine
+- [[Verband]] — bandage
+
+## M4 Medizin: Klinik, Pflege & Recht (14)
+
+- [[Arzt]] — doctor (m)
+- [[Krankenhaus]] — hospital
+- [[Krankenpfleger]] — nurse (m)
+- [[Krankenpflegerin]] — nurse (f)
+- [[Laborant]] — lab assistant (m)
+- [[Laborantin]] — lab assistant (f)
+- [[Notarzt]] — emergency doctor (m)
+- [[Notärztin]] — emergency doctor (f)
+- [[Patient]] — patient (m)
+- [[Patientin]] — patient (f)
+- [[Praxis]] — surgery; (doctor's) practice
+- [[Zahnarzt]] — dentist (m)
+- [[Zahnärztin]] — dentist (f)
+- [[Ärztin]] — doctor (f)
+
+## T01 Person, Familie & Beziehungen (86)
+
+- [[abwechseln]] — to take turns
+- [[allein]] — alone; on one's own
+- [[Alter]] — age
+- [[anbieten]] — to offer
+- [[argentinisch]] — Argentinian
+- [[Baby]] — baby
+- [[Bekannte]] — acquaintance
+- [[Besuch]] — visit
+- [[betreuen]] — to supervise
+- [[Bruder]] — brother
+- [[Dame]] — lady; madam
+- [[dazugehören]] — to belong to it; to be part of it
+- [[Ehefrau]] — wife
+- [[Ehemann]] — husband
+- [[einladen]] — to invite
+- [[Einladung]] — invitation
+- [[Einweihungsfeier]] — house warming
+- [[Eltern]] — parents
+- [[Erwachsene]] — adult
+- [[Familie]] — family
+- [[Familienfoto]] — family photograph
+- [[Familienname]] — family name
+- [[feiern]] — to celebrate
+- [[Frau]] — Ms; Mrs (title)
+- [[Freund]] — friend
+- [[Freundin]] — female friend, girlfriend
+- [[Gast]] — guest
+- [[Geburtstag]] — birthday
+- [[Gefallen]] — favour
+- [[gegenseitig]] — mutual; each other
+- [[Geschenk]] — present
+- [[Geschwister]] — siblings
+- [[getrennt]] — separate
+- [[Glückwunsch]] — congratulations
+- [[Großeltern]] — grandparents
+- [[Großmutter]] — grandmother
+- [[Großvater]] — grandfather
+- [[Hausfrau]] — housewife; homemaker (f)
+- [[Hausmann]] — househusband; homemaker (m)
+- [[Heimat]] — home
+- [[helfen]] — to help
+- [[Herr]] — Mr; Sir (title)
+- [[Hilfe]] — help
+- [[jugendlich]] — youthful; juvenile
+- [[Jugendliche]] — teenager
+- [[jung]] — young
+- [[Junge]] — boy
+- [[kennen]] — to know
+- [[kennenlernen]] — to get to know
+- [[Kind]] — child
+- [[Kontakt]] — contact
+- [[kümmern]] — to take care of
+- [[leben (verb)]] — to live
+- [[ledig]] — single
+- [[Leute]] — people
+- [[Mann]] — man
+- [[Mensch]] — person; human being
+- [[Mutter]] — mother
+- [[Mädchen]] — girl
+- [[männlich]] — male
+- [[Nachname]] — last name
+- [[Name]] — name
+- [[Oma]] — grandma
+- [[Onkel]] — uncle
+- [[Opa]] — grandpa
+- [[Paar]] — pair
+- [[Partner]] — partner (m)
+- [[Partnerin]] — partner (f)
+- [[Person]] — person
+- [[schenken]] — to give (as a gift)
+- [[Schwester]] — sister
+- [[Sohn]] — son
+- [[Tante]] — aunt
+- [[Tochter]] — daughter
+- [[tschüss]] — bye
+- [[Vater]] — father
+- [[verabreden]] — to make plans
+- [[Verabredung]] — appointment
+- [[verheiratet]] — married
+- [[Verwandte]] — relative
+- [[Vorname]] — first name
+- [[vorstellen]] — to introduce; to present
+- [[weiblich]] — female
+- [[Wiedersehen]] — meeting again; goodbye
+- [[wiedersehen (verb)]] — to see again
+- [[Überraschungstag]] — surprise day
+
+## T02 Wohnen (90)
+
+- [[Altbauwohnung]] — flat in an old building
+- [[anmachen]] — to turn on
+- [[Apartment]] — apartment
+- [[Arbeitszimmer]] — study; home office
+- [[Architektur]] — architecture
+- [[aufhängen]] — to hang up
+- [[Aufzug]] — elevator
+- [[ausmachen]] — to turn off; to arrange
+- [[Bad]] — bathroom; bath
+- [[Balkon]] — balcony
+- [[bequem]] — comfortable
+- [[Bett]] — bed
+- [[Bewohner]] — resident (m)
+- [[Bewohnerin]] — resident (f)
+- [[Decke]] — ceiling; blanket
+- [[Deckel]] — lid
+- [[Dusche]] — shower
+- [[Erdgeschoss]] — ground level
+- [[Fachwerkhaus]] — half-timber house
+- [[Fenster]] — window
+- [[Flur]] — hallway
+- [[Garten]] — garden
+- [[gemütlich]] — comfortable
+- [[Geschirr]] — dishes
+- [[Handtuch]] — towel
+- [[Haushalt]] — household
+- [[Hausmeister]] — caretaker (m)
+- [[Hausmeisterin]] — caretaker (f)
+- [[hell]] — light; bright
+- [[Herd]] — stove
+- [[Hochhaus]] — skyscraper
+- [[Hof]] — courtyard; farm
+- [[Kaffeemaschine]] — coffee machine
+- [[Kinderzimmer]] — nursery
+- [[klopfen]] — to knock
+- [[Küche]] — kitchen
+- [[Kühlschrank]] — refridgerator
+- [[Lage]] — location; situation
+- [[Lampe]] — lamp
+- [[Licht]] — light
+- [[Lieblingszimmer]] — favourite room
+- [[Loft]] — loft
+- [[Miete]] — rent
+- [[Möbel]] — furniture
+- [[Nachbar]] — neighbour (m)
+- [[Nachbarin]] — neighbour (f)
+- [[oben]] — above; at the top; upstairs
+- [[Raum]] — room
+- [[Regal]] — shelf
+- [[Reihenhaus]] — townhouse
+- [[renoviert]] — refurbished
+- [[reparieren]] — to repair
+- [[sauber]] — clean
+- [[sauber machen]] — to clean sth
+- [[Schlafzimmer]] — bedroom
+- [[Schlüssel]] — key
+- [[Schrank]] — wardrobe, cupboard
+- [[Schreibtisch]] — desk
+- [[Seife]] — soap
+- [[Sessel]] — armchair
+- [[Sofa]] — sofa, couch
+- [[Spülmaschine]] — dishwasher
+- [[Stock]] — floor; stick
+- [[Stuhl]] — chair
+- [[Teppich]] — carpet
+- [[Terrasse]] — patio
+- [[Tisch]] — table
+- [[Toilette]] — toilet
+- [[Treppe]] — stairs
+- [[Tür]] — door
+- [[umziehen]] — to move
+- [[Umzug]] — move
+- [[unten]] — below
+- [[Untergeschoss]] — basement
+- [[vermieten]] — to let sth
+- [[Vermieter]] — landlord
+- [[Vermieterin]] — landlady
+- [[waschen]] — to wash
+- [[Waschmaschine]] — washing machine
+- [[wegräumen]] — to put away
+- [[WG]] — flat share
+- [[wohnen]] — to live
+- [[Wohnfläche]] — living space
+- [[Wohnform]] — form of housing
+- [[Wohnung]] — flat
+- [[Wohnungsanzeige]] — advertisement for a flat
+- [[Wohnungssuche]] — flat search
+- [[Wohnzimmer]] — living room
+- [[zentral]] — central
+- [[Zimmer]] — room
+
+## T03 Arbeit & Beruf (89)
+
+- [[arbeiten]] — to work
+- [[Arbeitsalltag]] — workday
+- [[arbeitslos]] — unemployed
+- [[Arbeitsplatz]] — workplace
+- [[Arbeitszeit]] — working hours
+- [[Architekt]] — architect (m)
+- [[Architektin]] — architect (f)
+- [[Bauzeit]] — construction period
+- [[Beruf]] — occupation
+- [[Besprechung]] — meeting
+- [[Bewerbung]] — application
+- [[Bäcker]] — baker
+- [[Büro]] — office
+- [[Chef]] — boss (m)
+- [[Chefin]] — boss (f)
+- [[Computerarbeit]] — computer work
+- [[Computerfirma]] — computer company
+- [[Designer]] — designer (m)
+- [[Designerin]] — designer (f)
+- [[Doktorin]] — doctor (f)
+- [[Elektriker]] — electrician (m)
+- [[Elektrikerin]] — electrician (f)
+- [[Erzieher]] — kindergarten teacher (m)
+- [[Erzieherin]] — kindergarten teacher (f)
+- [[Feierabend]] — closing time, home time
+- [[Fernsehproduktion]] — TV production
+- [[Filmproduktion]] — film production
+- [[Firma]] — company
+- [[Fotograf]] — photographer (m)
+- [[Fotografin]] — photographer (f)
+- [[freihaben]] — to have time off; to have a day off
+- [[Friseur]] — hairdresser (m)
+- [[Friseurin]] — hairdresser (f)
+- [[Handwerker]] — tradesman; craftsman
+- [[Handwerkerin]] — tradeswoman; craftswoman
+- [[Hotelchef]] — hotel boss (m)
+- [[Hotelchefin]] — hotel boss (f)
+- [[Händler]] — merchant (m)
+- [[Händlerin]] — merchant (f)
+- [[Informatiker]] — computer scientist (m)
+- [[Informatikerin]] — computer scientist (f)
+- [[Ingenieur]] — engineer (m)
+- [[Ingenieurin]] — engineer (f)
+- [[Job]] — job
+- [[Journalist]] — journalist (m)
+- [[Journalistin]] — journalist (f)
+- [[Karriere]] — career
+- [[Kellner]] — waiter
+- [[Kellnerin]] — waitress
+- [[Koch]] — cook (m)
+- [[Kollege]] — colleague (m)
+- [[Kollegin]] — colleague (f)
+- [[Kundenbesuch]] — customer visit
+- [[Köchin]] — cook (f)
+- [[Künstler]] — artist (m)
+- [[Künstlerin]] — artist (f)
+- [[Lehrerin]] — teacher (f)
+- [[Mechaniker]] — mechanic (m)
+- [[Mechanikerin]] — mechanic (f)
+- [[Mitarbeiter]] — employee; colleague (m)
+- [[Mitarbeiterin]] — employee; colleague (f)
+- [[Mittagspause]] — lunch break
+- [[Modedesigner]] — fashion designer (m)
+- [[Modedesignerin]] — fashion designer (f)
+- [[Pause]] — break
+- [[Polizist]] — police officer (m)
+- [[Polizistin]] — police officer (f)
+- [[Produktion]] — production
+- [[Reiseführerin]] — tour guide (f)
+- [[Schauspieler]] — actor
+- [[Schauspielerin]] — actress
+- [[Segellehrer]] — sailing instructor (m)
+- [[Segellehrerin]] — sailing instructor (f)
+- [[Sekretär]] — secretary (m)
+- [[Sekretärin]] — secretary (f)
+- [[selbstständig]] — independent; self-employed
+- [[Stelle]] — position; place; job
+- [[Strategie]] — strategy
+- [[Stress]] — stress
+- [[stressig]] — stressful
+- [[Taxifahrer]] — taxi driver (m)
+- [[Taxifahrerin]] — taxi driver (f)
+- [[Team]] — team
+- [[Techniker]] — technician (m)
+- [[Technikerin]] — technician (f)
+- [[Urlaub]] — holiday
+- [[verdienen]] — to earn
+- [[Verkäufer]] — salesperson (m)
+- [[Verkäuferin]] — salesperson (f)
+
+## T04 Ausbildung, Schule & Studium (53)
+
+- [[Aufgabe]] — task; assignment
+- [[auswendig]] — by heart (auswendig lernen)
+- [[Bibliothek]] — library
+- [[Bleistift]] — pencil
+- [[Bogen]] — sheet (of paper); bow; curve
+- [[Deutschbuch]] — German book
+- [[einsammeln]] — to collect
+- [[Experiment]] — experiment
+- [[Hausaufgabe]] — homework
+- [[Heft]] — exercise book
+- [[Kapitel]] — chapter
+- [[Kindergarten]] — kindergarten
+- [[Kugelschreiber]] — ballpoint pen
+- [[Kurs]] — course
+- [[Kursplakat]] — course poster
+- [[Kursraum]] — classroom; course room
+- [[Kursstatistik]] — course statistic
+- [[Lehrer]] — teacher (m)
+- [[lernen]] — to learn
+- [[Lernkarte]] — flashcard; learning card
+- [[Lernwortschatz]] — learning vocabulary
+- [[Mensa]] — canteen
+- [[Modeschule]] — fashion school
+- [[Musikschule]] — music school; conservatoire
+- [[Papier]] — paper
+- [[Plakat]] — poster
+- [[Praktikum]] — internship
+- [[Professor]] — professor (m)
+- [[Professorin]] — professor (f)
+- [[Projekt]] — project
+- [[Prüfung]] — test, exam
+- [[Rollenkarte]] — role card
+- [[Schule]] — school
+- [[Semester]] — semester
+- [[Seminar]] — seminar
+- [[Sprachinstitut]] — language institute
+- [[Sprachkurs]] — language class
+- [[Sprachschule]] — language school
+- [[Stift]] — pencil
+- [[Student]] — student (m)
+- [[Studentin]] — student (f)
+- [[studieren]] — to study
+- [[Studium]] — studies
+- [[Tafel]] — blackboard
+- [[Test]] — test
+- [[Uni]] — university
+- [[Unicafé]] — uni café
+- [[Universität]] — university
+- [[Unterricht]] — lessons
+- [[unterstreichen]] — to underline
+- [[wiederholen]] — to repeat
+- [[Übung]] — exercise
+- [[Übungsbuch]] — exercise book
+
+## T05 Gesundheit & Körper (54)
+
+- [[Apotheke]] — pharmacy
+- [[Arm]] — arm
+- [[Arztbesuch]] — visit to the doctor
+- [[Auge]] — eye
+- [[baden]] — to bath
+- [[Bauch]] — stomach; belly; abdomen
+- [[Befinden]] — condition; state of health; well-being
+- [[Bein]] — leg
+- [[bewegen]] — to move
+- [[Bewegung]] — exercise; movement
+- [[Doktor]] — doctor (m)
+- [[duschen]] — to shower
+- [[einschlafen]] — to fall asleep
+- [[erkältet]] — having a cold
+- [[Finger]] — finger
+- [[fit]] — fit
+- [[Fuß]] — foot
+- [[Gesicht]] — face
+- [[gestorben]] — died; deceased
+- [[gesund]] — healthy
+- [[Gewicht]] — weight
+- [[Haar]] — hair
+- [[Hals]] — neck; throat
+- [[Hand]] — hand
+- [[Hausmittel]] — home remedy
+- [[hinlegen]] — to lie down
+- [[inhalieren]] — to inhale
+- [[k.o]] — knocked out; exhausted
+- [[Knie]] — knee
+- [[Kopf]] — head
+- [[krank]] — sick
+- [[Kranke]] — sick person; patient
+- [[Körper]] — body
+- [[Körperteil]] — body part
+- [[Mund]] — mouth
+- [[müde]] — tired
+- [[Nase]] — nose
+- [[Ohr]] — ear
+- [[Pflaster]] — plaster
+- [[rauchen]] — to smoke
+- [[riechen]] — to smell
+- [[Rücken]] — back
+- [[Salbe]] — ointment
+- [[schlafen]] — to sleep
+- [[Schnupfen]] — common cold
+- [[tot]] — dead
+- [[Tropfen]] — drop; drops
+- [[Unfall]] — accident
+- [[verletzt]] — injured
+- [[Verletzte]] — casualty
+- [[wach]] — awake
+- [[wehtun]] — to hurt
+- [[Zahn]] — tooth
+- [[Zahnschmerzen]] — toothache
+
+## T06 Essen & Trinken (127)
+
+- [[Abendessen]] — dinner; supper
+- [[Apfel]] — apple
+- [[Apfelsaft]] — apple juice
+- [[Apfelsaftschorle]] — apple juice spritzer
+- [[Apfelschorle]] — apple juice spritzer
+- [[Appetit]] — appetite
+- [[asiatisch]] — Asian
+- [[Banane]] — banana
+- [[Becher]] — mug; cup; tub
+- [[Beisl]] — pub (Austria)
+- [[Beiz]] — pub (Switzerland)
+- [[bestellen]] — to order
+- [[Bier]] — beer
+- [[Biergarten]] — beer garden
+- [[Birne]] — pear
+- [[bitter]] — bitter
+- [[Brot]] — bread
+- [[Brötchen]] — bread roll
+- [[Butter]] — butter
+- [[Butterbrot]] — bread and butter; sandwich
+- [[Café]] — cafe
+- [[Café (noun)]] — café
+- [[Champignon]] — mushroom
+- [[Chips]] — crisps
+- [[Cola]] — cola
+- [[Dessert]] — dessert
+- [[Dose]] — tin; can
+- [[Durst]] — thirst
+- [[Döner]] — doner kebab
+- [[Ei]] — egg
+- [[Eis]] — ice cream; ice
+- [[Emmentaler]] — Emmentaler cheese
+- [[Essen]] — food; meal
+- [[essen (verb)]] — to eat
+- [[Essig]] — vinegar
+- [[Fett]] — fat
+- [[Fisch]] — fish
+- [[Fischgericht]] — fish dish
+- [[Flasche]] — bottle
+- [[Fleisch]] — meat
+- [[frisch]] — fresh
+- [[Frühstück]] — breakfast
+- [[frühstücken]] — to eat breakfast
+- [[Gabel]] — fork
+- [[Gemüse]] — vegetable
+- [[Gericht]] — dish; meal; court (of law)
+- [[Getränk]] — drink
+- [[Glas]] — glass
+- [[grillen]] — to barbecue
+- [[Gurke]] — cucumber
+- [[Honig]] — honey
+- [[Hunger]] — hunger
+- [[hungrig]] — hungry
+- [[Hähnchen]] — chicken
+- [[Hühnersuppe]] — chicken soup
+- [[Joghurt]] — yogurt
+- [[Kaffee]] — coffee
+- [[Kaffeehaus]] — coffee shop
+- [[Kantine]] — canteen
+- [[Kartoffel]] — potato
+- [[Keks]] — biscuit; cookie
+- [[kochen]] — to cook
+- [[Kuchen]] — cake
+- [[Käse]] — cheese
+- [[Lebensmittel]] — groceries
+- [[lecker]] — tasty
+- [[Limonade]] — lemonade
+- [[Lokal]] — restaurant
+- [[Löffel]] — spoon
+- [[Mahlzeit]] — meal; (lunchtime greeting)
+- [[Marmelade]] — jam; marmalade
+- [[Messer]] — knife
+- [[Milch]] — milk
+- [[mischen]] — to mix
+- [[Mittagessen]] — lunch
+- [[Müsli]] — muesli
+- [[Nudel]] — noodle
+- [[Obst]] — fruit
+- [[Olive]] — olive
+- [[Orangensaft]] — orange juice
+- [[Pfeffer]] — pepper
+- [[Pizza]] — pizza
+- [[Pommes]] — chips
+- [[Pommes frites]] — chips
+- [[probieren]] — to try
+- [[Reis]] — rice
+- [[Restaurant]] — restaurant
+- [[Rezept]] — recipe; prescription
+- [[Saft]] — juice
+- [[Sahne]] — cream
+- [[Salami]] — salami
+- [[Salat]] — salad
+- [[Salz]] — salt
+- [[Sandwich]] — sandwich
+- [[satt]] — full
+- [[Schinken]] — ham
+- [[schmecken]] — to taste
+- [[schneiden]] — to cut
+- [[Schnitzel]] — schnitzel
+- [[Schokolade]] — chocolate
+- [[schälen]] — to peel
+- [[Serviette]] — napkin
+- [[Spaghetti]] — spaghetti
+- [[Speisekarte]] — menu
+- [[Spezialität]] — specialty
+- [[Stollen]] — Christmas stollen (fruit loaf); tunnel
+- [[Suppe]] — soup
+- [[Suppenhuhn]] — chicken for soup
+- [[Sushi]] — sushi
+- [[süß]] — sweet
+- [[Süßigkeit]] — sweet
+- [[Tasse]] — cup
+- [[Tee]] — tea
+- [[Teller]] — plate
+- [[Tomate]] — tomato
+- [[Tomatensuppe]] — tomato soup
+- [[trinken]] — to drink
+- [[Trinkgeld]] — tip
+- [[Wasser]] — water
+- [[Wein]] — wine
+- [[Wurst]] — sausage
+- [[Würstchen]] — small sausage; frankfurter
+- [[zubereiten]] — to prepare
+- [[Zucker]] — sugar
+- [[Zwiebel]] — onion
+- [[Öl]] — oil
+- [[Öl (noun)]] — oil
+
+## T07 Einkaufen, Kleidung & Geld (126)
+
+- [[Abendkleidung]] — evening wear
+- [[Angebot]] — offer
+- [[anprobieren]] — to try on
+- [[anziehen]] — to get dressed
+- [[Anzug]] — suit
+- [[ausziehen]] — to take off
+- [[Automat]] — vending machine
+- [[Badeanzug]] — swimsuit
+- [[Badehose]] — swimming trunks
+- [[Bademode]] — swimwear
+- [[Bank]] — bench
+- [[bar (adjective)]] — in cash
+- [[Bestellung]] — order
+- [[bezahlen]] — to pay
+- [[Bikini]] — bikini
+- [[billig]] — cheap
+- [[Bluse]] — blouse
+- [[Buchladen]] — bookstore
+- [[Bäckerei]] — bakery
+- [[Cent]] — cent
+- [[Damenmode]] — women's fashion
+- [[Duschgel]] — shower gel
+- [[Einkauf]] — shopping
+- [[einkaufen]] — to shop
+- [[einkaufen gehen]] — to go shopping
+- [[Einkaufswagen]] — shopping cart
+- [[Einkaufszettel]] — shopping list
+- [[elegant]] — elegant
+- [[Elektrogerät]] — electronic device
+- [[empfehlen]] — to recommend
+- [[eng]] — tight
+- [[Euro]] — euro
+- [[Fotozubehör]] — photographic accessories
+- [[Freizeitkleidung]] — leisure clothes
+- [[Geld]] — money
+- [[Gerät]] — device, appliance
+- [[geschlossen]] — closed
+- [[Geschäft]] — shop
+- [[geöffnet]] — open
+- [[günstig]] — low-priced
+- [[Handschuh]] — glove
+- [[Handtasche]] — handbag
+- [[Haushaltswaren]] — homewares
+- [[Hemd]] — shirt
+- [[Herrenmode]] — men's fashion
+- [[Hose]] — trousers
+- [[Hut]] — hat
+- [[Jacke]] — jacket
+- [[Jeans]] — jeans
+- [[Kasse]] — cashier
+- [[Kassenzettel]] — receipt
+- [[kaufen]] — to buy
+- [[Kaufhaus]] — department store
+- [[Kiosk]] — kiosk
+- [[Kiste]] — box
+- [[Klamotten]] — clothes
+- [[Kleid]] — dress
+- [[Kleidergeschäft]] — clothes shop
+- [[Kleiderkauf]] — clothes shopping
+- [[Kleidung]] — clothes
+- [[Konto]] — account
+- [[Kontonummer]] — account number
+- [[Kosmetik]] — cosmetics
+- [[Kosten]] — costs; expenses
+- [[kosten (verb)]] — to cost; to taste
+- [[Krawatte]] — tie
+- [[Kreditkarte]] — credit card
+- [[Kunde]] — customer (m)
+- [[Kundin]] — customer (f)
+- [[Label]] — brand
+- [[Laden]] — shop
+- [[Mantel]] — coat
+- [[Markt]] — market
+- [[Metzgerei]] — butcher's shop
+- [[mitbringen]] — to bring
+- [[Mode]] — fashion
+- [[Modefan]] — fashionista
+- [[Modell]] — model
+- [[Mütze]] — hat; cap
+- [[nehmen]] — to take
+- [[Packung]] — packet
+- [[Parfüm]] — perfume
+- [[Parfümerie]] — perfumery
+- [[Preis]] — price; prize
+- [[Produkt]] — product
+- [[Pulli]] — pullover
+- [[Pullover]] — jumper
+- [[Rechnung]] — bill
+- [[Regenjacke]] — rain coat
+- [[Reparatur]] — repair
+- [[Rock]] — skirt; rock (music)
+- [[Schal]] — scarf
+- [[Schmuck]] — jewelry
+- [[Schreibwaren]] — stationary
+- [[Schuh]] — shoe
+- [[Schuhfan]] — shoe fan
+- [[Schuhladen]] — shoe shop
+- [[Selbstbedienung]] — self-service
+- [[Shop]] — shop
+- [[shoppen]] — to shop
+- [[shoppen gehen]] — to go shopping
+- [[Sonnenbrille]] — sunglasses
+- [[Sonnencreme]] — sunscreen
+- [[Spielwaren]] — toys
+- [[Sportkleidung]] — sportswear
+- [[Sportschuh]] — sports shoe; trainer
+- [[Stiefel]] — boot
+- [[Supermarkt]] — supermarket
+- [[Sweatshirt]] — sweatshirt
+- [[T-Shirt]] — t-shirt
+- [[Tasche]] — bag
+- [[teuer]] — expensive
+- [[tragen]] — to wear
+- [[Tuch]] — scarf; shawl; cloth
+- [[Tüte]] — bag
+- [[umtauschen]] — to change
+- [[verkaufen]] — to sell
+- [[Verpackung]] — packaging
+- [[Ware]] — goods, merchandise
+- [[Winterjacke]] — winter coat
+- [[zahlen]] — to pay
+- [[Zigarette]] — cigarette
+- [[zuhaben]] — to be closed
+- [[zurückschicken]] — to send back
+- [[Öffnungszeiten]] — opening hours
+- [[überweisen]] — to transfer; to refer (a patient)
+
+## T08 Reisen, Verkehr & Orte (138)
+
+- [[abfahren]] — to depart
+- [[Abfahrt]] — departure
+- [[abfliegen]] — to depart
+- [[Abflug]] — take-off; departure (flight)
+- [[abholen]] — to pick up
+- [[Altstadt]] — old town; historic city centre
+- [[ankommen]] — to arrive; to depend on (es kommt darauf an)
+- [[Ankunft]] — arrival
+- [[Anschluss]] — connection
+- [[Ausgang]] — exit
+- [[Ausland]] — abroad
+- [[aussteigen]] — to get off
+- [[Auto]] — car
+- [[Autobahn]] — motorway; freeway
+- [[Badeurlaub]] — beach holiday
+- [[Bahn]] — railway; train
+- [[Bahnsteig]] — train platform
+- [[Baustelle]] — construction site
+- [[besichtigen]] — to view
+- [[Besucher]] — visitor (m)
+- [[Besucherin]] — visitor (f)
+- [[Blick]] — view
+- [[Burg]] — castle
+- [[Campingurlaub]] — camping holiday
+- [[daneben]] — beside
+- [[Doppelzimmer]] — twin room
+- [[Dorf]] — village
+- [[dort]] — there
+- [[Durchsage]] — announcement
+- [[Ecke]] — corner
+- [[Eingang]] — entrance
+- [[einpacken]] — to pack
+- [[einsteigen]] — to board
+- [[Einzelzimmer]] — single room
+- [[Europäer]] — European (man)
+- [[fahren]] — to drive; to go (by vehicle)
+- [[Fahrer]] — driver (m)
+- [[Finne]] — Finn (m)
+- [[Finnin]] — Finn (f)
+- [[finnisch]] — Finnish
+- [[fliegen]] — to fly
+- [[Flug]] — flight
+- [[Flughafen]] — airport
+- [[gegenüber]] — opposite; towards
+- [[gehen]] — to go; to walk
+- [[Gepäck]] — luggage
+- [[geradeaus]] — straight ahead
+- [[Gleis]] — track
+- [[Hafen]] — harbour
+- [[Halbpension]] — half board
+- [[Halle]] — hall; large building
+- [[Haltestelle]] — stop; station
+- [[Hauptstadt]] — capital city
+- [[her]] — here (towards the speaker); ago
+- [[Himmelsrichtung]] — cardinal direction
+- [[hinten]] — behind
+- [[hinter]] — behind
+- [[Insel]] — island
+- [[Jugendherberge]] — youth hostel
+- [[Koffer]] — suitcase
+- [[Kofferpacken]] — to pack one's suitcase
+- [[kontrollieren]] — to check
+- [[links]] — left
+- [[Lkw]] — lorry; truck
+- [[lokal (adjective)]] — local
+- [[losfahren]] — to leave
+- [[Maschine]] — machine; aeroplane
+- [[Mexikaner]] — Mexican (m)
+- [[Mexikanerin]] — Mexican (f)
+- [[mexikanisch]] — Mexican
+- [[mitnehmen]] — to take along
+- [[Mitte]] — middle
+- [[Motorrad]] — motorcycle
+- [[neben]] — next to
+- [[Norden]] — North
+- [[Nähe]] — proximity
+- [[Ort]] — place; location; village/town
+- [[Ortsveränderung]] — change of location
+- [[Osten]] — East
+- [[packen]] — to pack
+- [[Pension]] — guesthouse
+- [[Prospekt]] — brochure
+- [[rausgehen]] — to go outside
+- [[rechts]] — right
+- [[Regenschirm]] — umbrella
+- [[Reise]] — trip
+- [[Reisebericht]] — travelogue
+- [[Reisebüro]] — travel agency
+- [[Reiseführer]] — tour guide (m); guidebook
+- [[reisen]] — to travel
+- [[Reisetasche]] — holdall
+- [[Reiseziel]] — destination (travel)
+- [[reservieren]] — to book
+- [[Rezeption]] — reception
+- [[Route]] — route
+- [[Saison]] — season
+- [[Schaffner]] — conductor (m)
+- [[Schaffnerin]] — conductor (f)
+- [[Schild]] — sign
+- [[Schlafsack]] — sleeping bag
+- [[Sehenswürdigkeit]] — tourist attraction
+- [[Souvenir]] — souvenir
+- [[Stadt]] — city
+- [[Stadtführung]] — tour of the city
+- [[Stadturlaub]] — city trip
+- [[Start]] — start; take-off
+- [[Strand]] — beach
+- [[Straße]] — street
+- [[Städtereise]] — city trip
+- [[Süden]] — South
+- [[Taxi]] — taxi
+- [[Ticket]] — ticket
+- [[Ticketkauf]] — ticket purchase
+- [[Tour]] — tour
+- [[Tram]] — tram
+- [[Traumurlaub]] — dream holiday
+- [[Treffpunkt]] — meeting point
+- [[Trendstadt]] — trendy city
+- [[Türke]] — Turkish man
+- [[Türkin]] — Turkish woman
+- [[umsteigen]] — to transfer
+- [[unter]] — under
+- [[unterwegs]] — on the way
+- [[Urlaubsort]] — holiday resort
+- [[verpassen]] — to miss
+- [[Verspätung]] — delay
+- [[vorne]] — in front, over there
+- [[weit]] — far; wide; loose
+- [[Werkstatt]] — workshop
+- [[Westen]] — West
+- [[Zelt]] — tent
+- [[Zentrum]] — centre
+- [[Ziel]] — goal
+- [[zurück]] — back
+- [[zurückfahren]] — to drive back
+- [[zurückfinden]] — to find back
+- [[zwischen]] — between
+- [[übernachten]] — to sleep over, to stay at
+
+## T09 Behörden, Post & Dienstleistungen (48)
+
+- [[abgeben]] — to hand in; to submit; to give
+- [[Absender]] — sender
+- [[Adresse]] — address
+- [[Agentur für Arbeit]] — employment office
+- [[Angabe]] — information; statement; detail
+- [[Anmeldung]] — registration; sign-up; application
+- [[Anweisung]] — instruction
+- [[Aufforderung]] — request
+- [[ausfüllen]] — to fill in
+- [[Auskunft]] — information
+- [[Ausweis]] — ID card
+- [[Beamte]] — civil servant; official
+- [[Briefmarke]] — postage stamp
+- [[Durchwahl]] — extension; direct dial
+- [[E-Mail-Adresse]] — email address
+- [[erlauben]] — to allow; to permit
+- [[Erlaubnis]] — permission
+- [[erlaubt sein]] — to be allowed
+- [[Familienstand]] — marital status
+- [[Fax]] — fax
+- [[Formular]] — form
+- [[Geburtsdatum]] — date of birth
+- [[Geburtsjahr]] — year of birth
+- [[Geburtsort]] — birth place
+- [[gültig]] — valid
+- [[Handynummer]] — mobile phone number
+- [[Hausnummer]] — house number
+- [[Kontrolle]] — check
+- [[Netz]] — network; reception; net
+- [[offiziell]] — official
+- [[Paket]] — package
+- [[Papiere]] — documents
+- [[Pass]] — passport
+- [[Polizei]] — police
+- [[Post]] — post; post office; mail
+- [[Postkarte]] — postcard
+- [[Postleitzahl]] — postcode; zip code
+- [[Schalter]] — counter; switch
+- [[Telefonnummer]] — telephone number
+- [[Termin]] — appointment
+- [[unterschreiben]] — to sign
+- [[Unterschrift]] — signature
+- [[verboten]] — forbidden
+- [[vereinbaren]] — to arrange; to agree
+- [[Vertrag]] — contract
+- [[Wohnort]] — place of residence
+- [[wählen]] — to choose; to dial; to vote
+- [[Zoll]] — customs; inch
+
+## T10 Freizeit, Sport, Kultur & Medien (178)
+
+- [[Akku]] — battery
+- [[Aktivität]] — activity
+- [[anklicken]] — to click
+- [[Anrufbeantworter]] — answering machine
+- [[ansehen]] — to look at
+- [[Anzeige]] — advertisement
+- [[App]] — app
+- [[Artikelbild]] — picture with an article
+- [[Atelier]] — studio
+- [[Attraktion]] — attraction
+- [[Ausflug]] — excursion
+- [[ausgehen]] — to go out; to assume
+- [[automatisch]] — automatic
+- [[Ball]] — ball
+- [[Bar]] — bar
+- [[Bergtour]] — mountain tour
+- [[Bericht]] — report
+- [[berühmt]] — famous
+- [[Bild]] — picture
+- [[Blog]] — blog
+- [[Buch]] — book
+- [[Bühne]] — stage
+- [[CD]] — CD
+- [[chillen]] — to chill
+- [[Chor]] — choir
+- [[Club]] — club
+- [[Comic]] — comic book
+- [[Computer]] — computer
+- [[Computerproblem]] — computer problem
+- [[Datei]] — file
+- [[Daten]] — data; dates
+- [[Design]] — design
+- [[Designfan]] — design fan
+- [[dirigieren]] — to conduct
+- [[Disco]] — disco
+- [[Double Feature]] — double feature
+- [[drucken]] — to print
+- [[Drucker]] — printer
+- [[eingeben]] — to enter
+- [[Eintritt]] — admission; entrance fee
+- [[Event]] — event
+- [[Fahrradtour]] — bike ride
+- [[Feier]] — celebration
+- [[Fernsehen]] — television
+- [[fernsehen (verb)]] — to watch television
+- [[Fernseher]] — television
+- [[Fest]] — festival
+- [[Festival]] — festival
+- [[Festspiel]] — festival production
+- [[Film]] — film
+- [[Filmfan]] — film fan
+- [[Fitness-Studio]] — gym
+- [[Fitnessgerät]] — fitness equipment
+- [[Forumsbeitrag]] — forum post
+- [[Foto]] — photo
+- [[fotografieren]] — to photograph
+- [[Freizeit]] — free time
+- [[Freizeitaktivität]] — extracurricular activity
+- [[Fußballspiel]] — football game
+- [[Führung]] — guided tour
+- [[Gadget]] — gadget
+- [[Geige]] — violin
+- [[Geigenunterricht]] — violin lessons
+- [[gewinnen]] — to win
+- [[Grillparty]] — barbecue
+- [[Gästebuch]] — guestbook
+- [[Halbmarathon]] — half-marathon
+- [[Handy]] — mobile phone
+- [[Helm]] — helmet
+- [[Hobby]] — hobby
+- [[hochfahren]] — to start up
+- [[Homepage]] — homepage
+- [[Internet]] — internet
+- [[Interview]] — interview
+- [[Jahrestreffen]] — yearly meeting
+- [[joggen]] — to jog
+- [[Kamera]] — camera
+- [[Karussell]] — merry-go-round
+- [[Kino]] — cinema; movie theater
+- [[klettern]] — to climb
+- [[Kneipe]] — bar
+- [[Konzertbeginn]] — beginning of the concert
+- [[Konzertkarte]] — concert ticket
+- [[Kultur]] — culture
+- [[kulturell]] — cultural
+- [[Kulturfestival]] — culture festival
+- [[Kunst]] — art
+- [[laufen]] — to run; to walk; to work
+- [[lesen]] — to read
+- [[Lieblingsort]] — favourite place
+- [[Lied]] — song
+- [[malen]] — to paint
+- [[Marathon]] — marathon
+- [[Medien]] — media
+- [[Mitglied]] — member
+- [[mitkommen]] — to come along
+- [[mitmachen]] — to join in, to participate
+- [[Museum]] — museum
+- [[Museumsnacht]] — museum night
+- [[Musik]] — music
+- [[Musikgruppe]] — music group
+- [[Musikproduktion]] — music production
+- [[Nachricht]] — message; news
+- [[Nachrichten]] — news
+- [[offline]] — offline
+- [[online]] — online
+- [[Oper]] — opera
+- [[Orchester]] — orchestra
+- [[Pantomime]] — pantomime
+- [[Park]] — park
+- [[Party]] — party
+- [[Passwort]] — password
+- [[Picknick]] — picnic
+- [[populär]] — popular
+- [[Profil]] — profile
+- [[Programm]] — program
+- [[Publikum]] — audience
+- [[Radiosendung]] — radio programme
+- [[Ratebild]] — picture puzzle
+- [[Regisseur]] — director (m)
+- [[Regisseurin]] — director (f)
+- [[Requiem]] — requiem
+- [[sammeln]] — to collect
+- [[Saxofon]] — saxophone
+- [[schauen]] — to look
+- [[Schwimmbad]] — swimming pool
+- [[schwimmen]] — to swim
+- [[segeln]] — to sail
+- [[Sensation]] — sensation
+- [[Serie]] — series
+- [[singen]] — to sing
+- [[Ski]] — ski
+- [[Skifahren]] — to ski
+- [[Solist]] — soloist (m)
+- [[Solistin]] — soloist (f)
+- [[Sommerfest]] — summer festival
+- [[spazieren gehen]] — to go for a walk
+- [[Spaziergang]] — walk
+- [[speichern]] — to save
+- [[Spiel]] — game
+- [[spielen]] — to play
+- [[Spielplatz]] — playground
+- [[Sport]] — sport
+- [[Sportclub]] — sports club
+- [[Sportler]] — athlete (m)
+- [[Sportlerin]] — athlete (f)
+- [[sportlich]] — athletic
+- [[Stadion]] — stadium
+- [[Stadtpark]] — city park
+- [[Star]] — star
+- [[Statist]] — extra (m)
+- [[Statistin]] — extra (f)
+- [[Strandbar]] — beach bar
+- [[Studio]] — studio
+- [[Szene]] — scene
+- [[tanzen]] — to dance
+- [[Tennisplatz]] — tennis court
+- [[Theater]] — theatre
+- [[topaktuell]] — cutting-edge
+- [[trainieren]] — to train
+- [[Training]] — training; practice session
+- [[Trompete]] — trumpet
+- [[Trompetenunterricht]] — trumpet lessons
+- [[Veranstaltung]] — event
+- [[Video]] — video
+- [[vorlesen]] — to read aloud
+- [[vorspielen]] — to act out
+- [[wandern]] — to hike
+- [[Weihnachtsmarkt]] — Christmas market
+- [[WLAN]] — Wi-Fi
+- [[würfeln]] — to roll (the dice)
+- [[zeichnen]] — to draw
+- [[Zeichnung]] — drawing
+- [[Zeitschrift]] — magazine
+- [[Zeitung]] — newspaper
+- [[Zoo]] — zoo
+- [[Zuschauer]] — spectator (m)
+- [[Zuschauerin]] — spectator (f)
+
+## T11 Natur, Umwelt, Wetter & Tiere (38)
+
+- [[Baum]] — tree
+- [[Berg]] — mountain
+- [[bewölkt]] — cloudy
+- [[Blume]] — flower
+- [[draußen]] — outside
+- [[Feuer]] — fire; light (for a cigarette)
+- [[Fluss]] — river
+- [[Frühling]] — spring
+- [[Hamster]] — hamster
+- [[heiß]] — hot
+- [[Herbst]] — autumn
+- [[Hitze]] — heat
+- [[Hund]] — dog
+- [[Jahreszeit]] — season
+- [[kalt]] — cold
+- [[Landschaft]] — landscape
+- [[lebendig]] — living
+- [[Maus]] — mouse
+- [[Meer]] — sea
+- [[Mistwetter]] — bad weather
+- [[Natur]] — nature
+- [[Nelke]] — carnation; clove
+- [[Pflanze]] — plant
+- [[Regen]] — rain
+- [[regnen]] — to rain
+- [[scheinen]] — to shine; to seem
+- [[Schnee]] — snow
+- [[schneien]] — to snow
+- [[schütten]] — to pour
+- [[See]] — lake
+- [[Sonne]] — sun
+- [[sonnig]] — sunny
+- [[warm]] — warm
+- [[Wetter]] — weather
+- [[Wetterbericht]] — weather report
+- [[Wind]] — wind
+- [[windig]] — windy
+- [[Wolke]] — cloud
+
+## T12 Gesellschaft, Politik, Recht & Geschichte (12)
+
+- [[Ausländer]] — foreigner
+- [[ausländisch]] — foreign
+- [[Erfindung]] — invention
+- [[europäisch]] — European
+- [[Gebot]] — commandment; rule; requirement
+- [[Jurist]] — lawyer; legal expert
+- [[Juristin]] — lawyer; legal expert
+- [[Politik]] — politics
+- [[Religion]] — religion
+- [[Statistik]] — statistics
+- [[Verbot]] — prohibition
+- [[Welt]] — world
+
+## T13 Zeit, Zahlen, Maße & Mengen (193)
+
+- [[ab]] — from
+- [[Abend]] — evening
+- [[abends]] — in the evening
+- [[abwechselnd]] — alternating
+- [[acht]] — eight
+- [[achtzehn]] — eighteen
+- [[achtzig]] — eighty
+- [[alt]] — old
+- [[Anfang]] — beginning
+- [[anfangen]] — to start
+- [[April]] — April
+- [[aufhören]] — to stop
+- [[aufstehen]] — to get up; to stand up
+- [[August]] — August
+- [[bald]] — soon
+- [[Beginn]] — beginning
+- [[beginnen]] — to begin
+- [[bisschen]] — a little; a bit
+- [[breit]] — wide
+- [[circa]] — approximately (= approx.)
+- [[danach]] — after
+- [[dann]] — then
+- [[Datum]] — date
+- [[dauern]] — to last
+- [[Dezember]] — December
+- [[Dienstag]] — Tuesday
+- [[Donnerstag]] — Thursday
+- [[doppelt]] — double
+- [[drankommen]] — to have one's turn
+- [[drei]] — three
+- [[dreimal]] — three times
+- [[dreizehn]] — thirteen
+- [[dreißig]] — thirty
+- [[dritt]] — third; (zu dritt) in threes, as three
+- [[dritte]] — third (ordinal)
+- [[dunkel]] — dark
+- [[einmal]] — once
+- [[eins]] — one
+- [[elf]] — eleven
+- [[Ende]] — end
+- [[enden]] — to end
+- [[endlich]] — finally
+- [[erst]] — first; only; not until
+- [[erste (numeral)]] — first (ordinal)
+- [[Erste]] — first
+- [[Februar]] — February
+- [[Franken]] — Swiss franc
+- [[Freitag]] — Friday
+- [[früh]] — early
+- [[früher]] — formerly, in the past
+- [[Frühjahr]] — spring
+- [[fünf]] — five
+- [[fünfzehn]] — fifteen
+- [[fünfzig]] — fifty
+- [[gerade]] — just; right now; straight
+- [[gestern]] — yesterday
+- [[gleich]] — same; equal; right away
+- [[Grad]] — degree
+- [[Gramm]] — gram
+- [[groß]] — large
+- [[Größe]] — size; height; greatness
+- [[halb]] — half; (halb neun) half past eight
+- [[halbe Stunde]] — half an hour
+- [[heute]] — today
+- [[hoch]] — high
+- [[immer]] — always
+- [[Jahr]] — year
+- [[Januar]] — January
+- [[jede]] — every; each
+- [[jetzt]] — now
+- [[Juli]] — July
+- [[Juni]] — June
+- [[Kalender]] — calendar
+- [[kaum]] — barely
+- [[Kilo]] — kilo
+- [[Kilogramm]] — kilogram
+- [[Kilometer]] — kilometre
+- [[klein]] — small
+- [[lang]] — long
+- [[lange]] — long
+- [[letzte (adjective)]] — last
+- [[Liter]] — litre
+- [[losgehen]] — to start
+- [[länger]] — longer (comparative of lang)
+- [[Mai]] — May
+- [[Mal]] — time (occasion)
+- [[manchmal]] — sometimes
+- [[maximal]] — maximally
+- [[Maß]] — measure; measurement; dimension
+- [[mehr]] — more; any more
+- [[meist]] — mostly; most of the time
+- [[meisten]] — most
+- [[meistens]] — mostly
+- [[Meter]] — metre
+- [[Milliarde]] — billion
+- [[Million]] — million
+- [[mindestens]] — at least
+- [[minus]] — minus
+- [[Minute]] — minute
+- [[Mittag]] — noon
+- [[mittags]] — at noon
+- [[Mittwoch]] — Wednesday
+- [[Moment]] — moment
+- [[Monat]] — month
+- [[Montag]] — Monday
+- [[morgen (adverb)]] — tomorrow
+- [[Morgen]] — morning
+- [[morgens]] — in the morning
+- [[März]] — March
+- [[Nachmittag]] — afternoon
+- [[nachmittags]] — in the afternoon
+- [[Nacht]] — night
+- [[nachts]] — at night
+- [[neun]] — nine
+- [[neunzehn]] — nineteen
+- [[neunzig]] — ninety
+- [[nie]] — never
+- [[normalerweise]] — normally
+- [[November]] — November
+- [[null]] — zero
+- [[Nummer]] — number
+- [[nächste (adjective)]] — next; nearest
+- [[oft]] — often
+- [[Oktober]] — October
+- [[Ordinalzahl]] — ordinal number
+- [[Pfund]] — pound
+- [[plus]] — plus
+- [[Prozent]] — percent
+- [[pünktlich]] — on time, punctual
+- [[qm]] — sq m (= square metre)
+- [[Quadratmeter]] — square metre
+- [[regelmäßig]] — regularly
+- [[Reihenfolge]] — sequence
+- [[Samstag]] — Saturday
+- [[Samstagabend]] — Saturday night
+- [[samstags]] — on Saturday
+- [[Schluss]] — end; conclusion
+- [[schnell]] — quick
+- [[schon]] — already
+- [[sechs]] — six
+- [[sechzehn]] — sixteen
+- [[sechzig]] — sixty
+- [[seit]] — since, for
+- [[Sekunde]] — second
+- [[selten]] — rarely
+- [[September]] — September
+- [[sieben]] — seven
+- [[siebzehn]] — seventeen
+- [[siebzig]] — seventy
+- [[sofort]] — immediately
+- [[Sommer]] — summer
+- [[Sonntag]] — Sunday
+- [[Sonntagnachmittag]] — Sunday afternoon
+- [[spät]] — late
+- [[später]] — later
+- [[Stunde]] — hour
+- [[Stück]] — piece
+- [[Tag]] — day
+- [[Tageszeit]] — time of day
+- [[täglich]] — daily
+- [[Uhr]] — o'clock; clock; watch
+- [[Uhrzeit]] — time of day
+- [[ungefähr]] — approximately
+- [[viel]] — a lot; much
+- [[vier]] — four
+- [[vierte]] — fourth
+- [[Viertel]] — quarter
+- [[vierzehn]] — fourteen
+- [[vierzig]] — forty
+- [[vorbei sein]] — to be over
+- [[vorgestern]] — day before yesterday
+- [[vorher]] — before
+- [[Vormittag]] — morning (before noon)
+- [[vormittags]] — before noon
+- [[weitermachen]] — to continue
+- [[wieder]] — again
+- [[wiegen]] — to weigh
+- [[Winter]] — winter
+- [[Woche]] — week
+- [[Wochenende]] — weekend
+- [[Wochentag]] — day of the week
+- [[Zahl]] — number
+- [[zehn]] — ten
+- [[Zeit]] — time
+- [[Zentimeter]] — centimetre
+- [[zuerst]] — at first
+- [[zurzeit]] — currently
+- [[zwanzig]] — twenty
+- [[zwei]] — two
+- [[zweimal]] — twice
+- [[zweit]] — second; (zu zweit) in pairs, as two
+- [[zweite]] — second (ordinal)
+- [[zwölf]] — twelve
+
+## T14 Gefühle, Charakter & Meinungen (72)
+
+- [[aktiv (adjective)]] — active
+- [[Atmosphäre]] — atmosphere
+- [[attraktiv]] — attractive
+- [[aussehen]] — to look
+- [[Begeisterung]] — enthusiasm
+- [[beliebt]] — popular
+- [[böse]] — angry; evil; bad
+- [[cool]] — cool
+- [[doof]] — stupid
+- [[egal]] — whatever
+- [[eilig]] — hurried
+- [[Fantasie]] — fantasy, imagination
+- [[faul]] — lazy
+- [[fleißig]] — hardworking
+- [[freuen]] — to be glad; to look forward to (sich freuen)
+- [[freundlich]] — friendly
+- [[froh]] — glad
+- [[gefallen (verb)]] — to please; to be liked
+- [[genießen]] — to enjoy; to savour
+- [[gern]] — gladly; with pleasure
+- [[gerne]] — with pleasure
+- [[Glück]] — luck; happiness
+- [[glücklich]] — happy
+- [[herzlich]] — warm; cordial; heartfelt
+- [[hurra]] — hooray
+- [[hässlich]] — ugly
+- [[höflich]] — polite
+- [[Höflichkeit]] — politeness, courtesy
+- [[Individualist]] — individualist (m)
+- [[Individualistin]] — individualist (f)
+- [[interessant]] — interesting
+- [[interessieren]] — to interest
+- [[kreativ]] — creative
+- [[lachen]] — to laugh
+- [[langweilig]] — boring
+- [[leider]] — unfortunately
+- [[leidtun]] — to be sorry
+- [[lieb]] — kind; dear; sweet
+- [[lieben]] — to love
+- [[lieber]] — rather; preferably
+- [[Lust]] — desire; inclination
+- [[lustig]] — funny
+- [[Missfallen]] — displeasure; disapproval
+- [[Mist]] — rubbish; (colloq.) damn!
+- [[negativ]] — negative
+- [[nerven]] — to annoy
+- [[nett]] — nice
+- [[offen]] — open
+- [[Pech]] — bad luck
+- [[perfekt (adjective)]] — perfect
+- [[positiv]] — positive
+- [[Pünktlichkeit]] — punctuality
+- [[Reaktion]] — reaction
+- [[ruhig]] — quiet; calm
+- [[schade]] — pity
+- [[schrecklich]] — terrible
+- [[schön]] — beautiful; nice; pretty
+- [[Spaß]] — fun
+- [[super]] — super; great
+- [[supernett]] — super nice
+- [[toll]] — great
+- [[top]] — great; top (colloq.)
+- [[Traum]] — dream
+- [[unhöflich]] — impolite
+- [[vermissen]] — to miss
+- [[Vorliebe]] — preference
+- [[wunderbar]] — wonderful
+- [[wunderschön]] — beautiful
+- [[Wunsch]] — wish
+- [[wünschen]] — to wish
+- [[zufrieden]] — satisfied
+- [[Überraschung]] — surprise
+
+## T15 Sprache, Kommunikation & Denken (207)
+
+- [[Abschnitt]] — section, paragraph
+- [[Achtung]] — attention; watch out; respect
+- [[Adjektiv]] — adjective
+- [[Akkusativ]] — accusative
+- [[Alphabet]] — alphabet
+- [[Anhang]] — attachment; appendix
+- [[ankreuzen]] — to tick; to mark with a cross
+- [[Anrede]] — salutation
+- [[Anredeformel]] — salutation
+- [[Anruf]] — call
+- [[anrufen]] — to call
+- [[Ansage]] — announcement
+- [[Antwort]] — answer
+- [[antworten]] — to answer
+- [[Artikel]] — article
+- [[Assoziation]] — association
+- [[aufschreiben]] — to write down
+- [[Ausdruck]] — expression
+- [[ausdrücken]] — to express
+- [[Aussage]] — statement
+- [[Aussagesatz]] — declarative sentence
+- [[Aussprache]] — pronunciation
+- [[beantworten]] — to answer
+- [[bedeuten]] — to mean
+- [[Beispiel]] — example (for example)
+- [[berichten]] — to report
+- [[beschreiben]] — to describe
+- [[besetzt]] — busy
+- [[betont]] — stressed
+- [[Betonung]] — stress
+- [[Betreff]] — subject
+- [[Bildgeschichte]] — picture story; comic strip
+- [[bitte (interjection)]] — please; you're welcome
+- [[Bitte]] — request
+- [[bitten]] — to ask for; to request
+- [[Brief]] — letter
+- [[Briefstandard]] — letter template; standard letter format
+- [[Buchstabe]] — letter
+- [[buchstabieren]] — to spell
+- [[ciao]] — bye
+- [[Dank]] — thanks; gratitude
+- [[danke]] — thank you
+- [[danken]] — to thank
+- [[Dativ]] — dative
+- [[Demonstrativartikel]] — demonstrative article
+- [[denken (verb)]] — to think
+- [[deutsch (adjective)]] — German
+- [[Deutsche]] — German
+- [[deutschsprachig]] — German-speaking
+- [[Dialog]] — dialogue
+- [[diskutieren]] — to discuss
+- [[E-Mail]] — e-mail
+- [[einfallen]] — to think of
+- [[Eintrag]] — entry
+- [[Empfänger]] — recipient (m)
+- [[Empfängerin]] — recipient (f)
+- [[Endung]] — ending
+- [[entschuldigen]] — to excuse; to apologise (sich entschuldigen)
+- [[Entschuldigung]] — apology; excuse; Excuse me!
+- [[ergänzen]] — to complete; to supplement
+- [[erklären]] — to explain
+- [[erschließen]] — to infer; to open up
+- [[erzählen]] — to tell; to narrate
+- [[Fehler]] — mistake
+- [[feminin]] — feminine
+- [[formell]] — formal
+- [[formulieren]] — to phrase
+- [[Frage]] — question
+- [[fragen]] — to ask
+- [[Fragewort]] — interrogative
+- [[geehrt]] — honoured
+- [[Gespräch]] — conversation; talk
+- [[Gesprächsthema]] — conversational topic
+- [[glauben]] — to believe
+- [[Grammatik]] — grammar
+- [[gratulieren]] — to congratulate
+- [[Gruß]] — greeting
+- [[Grußformel]] — greeting formula (e.g. complimentary close)
+- [[grüezi]] — hello (Swiss German)
+- [[grüßen]] — to greet
+- [[hallo]] — hello
+- [[heißen]] — to be called; to mean
+- [[hey]] — hey
+- [[hi]] — hi
+- [[hören]] — to hear; to listen
+- [[Imperativ]] — imperative
+- [[Infinitiv]] — infinitive
+- [[Information]] — information
+- [[informell]] — informal
+- [[Infotext]] — informational text
+- [[Interrogativartikel]] — interrogative article
+- [[ja]] — yes; (modal particle) indeed
+- [[klingen]] — to sound
+- [[Kommentar]] — commentary
+- [[Kompositum]] — compound
+- [[Konsonant]] — consonant
+- [[Kontext]] — context
+- [[korrigieren]] — to correct
+- [[Kurzform]] — shortened form
+- [[laut]] — loud; (prep.) according to
+- [[leise]] — quiet
+- [[Mail]] — mail
+- [[markieren]] — to highlight
+- [[maskulin]] — masculine
+- [[meinen]] — to mean
+- [[melden]] — to report; to answer (sich melden)
+- [[merken]] — to notice; to remember (sich merken)
+- [[Mindmap]] — mind map
+- [[mitlesen]] — to read along
+- [[mitsprechen]] — to speak along; to join in
+- [[Modalverb]] — modal verb
+- [[moin]] — hello; good morning (northern Germany)
+- [[Muttersprache]] — mother tongue
+- [[nachfragen]] — to ask again
+- [[nachsprechen]] — to repeat (after sb.)
+- [[Negationsartikel]] — negative article
+- [[nein]] — no
+- [[nennen]] — to name
+- [[neutral]] — neutral
+- [[Neutrum]] — neuter
+- [[Nomen]] — noun
+- [[Nominativ]] — nominative
+- [[notieren]] — to note
+- [[Notiz]] — note
+- [[nummerieren]] — to number
+- [[Ortsangabe]] — location
+- [[Partizip]] — participle
+- [[Perfekt]] — perfect
+- [[Personalpronomen]] — personal pronoun
+- [[Plural]] — plural
+- [[Pluralendung]] — plural ending
+- [[Pluralform]] — plural form
+- [[Possessivartikel]] — possessive article
+- [[Pronomen]] — pronoun
+- [[prost]] — cheers
+- [[Präfix]] — prefix
+- [[Präposition]] — preposition
+- [[Präsentation]] — presentation
+- [[präsentieren]] — to present
+- [[Präteritum]] — simple past
+- [[Punkt]] — period (full stop); point; dot
+- [[Quatsch]] — nonsense
+- [[raten]] — to guess; to advise
+- [[reagieren]] — to react
+- [[recherchieren]] — to research; to look up
+- [[Redemittel]] — useful phrase (for speaking and writing)
+- [[reden]] — to talk
+- [[Rolle]] — role
+- [[sagen]] — to say
+- [[Satz]] — sentence
+- [[Satzende]] — ending of the sentence
+- [[Satzklammer]] — sentence bracket
+- [[Satzmelodie]] — intonation
+- [[schicken]] — to send
+- [[schreiben (verb)]] — to write
+- [[Silbenanfang]] — beginning of the syllable
+- [[Singular]] — singular
+- [[Small Talk]] — small talk
+- [[Sprache]] — language
+- [[Sprachnachricht]] — voice message
+- [[sprechen]] — to speak
+- [[Stichpunkt]] — bullet point
+- [[Subjekt]] — subject
+- [[Telefon]] — telephone
+- [[Telefongespräch]] — telephone call
+- [[telefonieren]] — to telephone
+- [[Text]] — text
+- [[Textbaustein]] — text block
+- [[Thema]] — topic
+- [[thematisch]] — topical
+- [[Tipp]] — tip
+- [[trennbar]] — separable (separable verbs)
+- [[tschüs]] — bye
+- [[Umlaut]] — umlaut
+- [[unbestimmt]] — indefinite; vague
+- [[unregelmäßig]] — irregular (irregular verbs)
+- [[Unterstrich]] — underscore
+- [[Urlaubsnachricht]] — holiday message
+- [[verabschieden]] — to say goodbye
+- [[Verb]] — verb
+- [[vergessen]] — to forget
+- [[vergleichen]] — to compare
+- [[vermuten]] — to suspect; to assume
+- [[verstehen]] — to understand
+- [[Vokal]] — vowel
+- [[Vorschlag]] — suggestion, recommendation
+- [[Vorwahl]] — dialling code
+- [[Wechselpräposition]] — two-case preposition
+- [[weiterhören]] — to continue to listen
+- [[wiedergeben]] — to reproduce; to recite; to give back
+- [[Wiederhören]] — goodbye (on the phone)
+- [[willkommen]] — welcome
+- [[wissen (verb)]] — to know
+- [[Wort]] — word
+- [[Wortanfang]] — beginning of the word
+- [[Wortende]] — ending of the word
+- [[Wortgruppe]] — word group
+- [[Wortinnere]] — inside of the word
+- [[Wortliste]] — word list
+- [[Wortteil]] — part of the word
+- [[Wörterbuch]] — dictionary
+- [[Zeitangabe]] — time designation
+- [[zerlegen]] — to disassemble
+- [[zuordnen]] — to assign, to match
+- [[Äußerung]] — remark; statement
+- [[überlegen]] — to think about
+- [[Überschrift]] — heading
+
+## T16 Allgemein (Funktionswörter, abstrakter Wortschatz) (203)
+
+- [[achten]] — to pay attention to; to respect
+- [[aktuell]] — current
+- [[alle]] — all; every
+- [[alles]] — everything
+- [[Alltag]] — everyday life
+- [[an sein]] — to be on
+- [[andere]] — other; different
+- [[anders]] — different
+- [[annehmen]] — to accept
+- [[anstrengend]] — exhausting
+- [[Art]] — type; kind; way
+- [[auch]] — also; too
+- [[auf sein]] — to be open
+- [[aufmachen]] — to open
+- [[aufpassen]] — to pay attention
+- [[aufstellen]] — to set up; to put up; to draw up
+- [[aus sein]] — to be off
+- [[außerhalb]] — outside of
+- [[beide]] — both
+- [[bekannt]] — well-known; famous
+- [[bekommen]] — to get
+- [[benutzen]] — to use
+- [[besondere]] — special
+- [[besonders]] — special
+- [[besser]] — better
+- [[bestimmt]] — certain; definite
+- [[besuchen]] — to visit
+- [[bilden]] — to form; to educate
+- [[blau]] — blue
+- [[bleiben]] — to stay
+- [[brauchen]] — to need
+- [[braun]] — brown
+- [[bringen]] — to bring
+- [[Co]] — and the like (Co.)
+- [[da sein]] — to be there; to be present
+- [[dank (preposition)]] — thanks to
+- [[darauf]] — on it; on that; after that
+- [[denn]] — then (here: modal particle)
+- [[Ding]] — thing
+- [[direkt]] — direct
+- [[doch]] — yes (to a negative question); but; after all
+- [[drücken]] — to press; to push; to squeeze
+- [[ebenso]] — also
+- [[echt]] — real; really (colloq.)
+- [[eigene]] — own
+- [[eigentlich]] — actually
+- [[einfach]] — easy
+- [[entdecken]] — to find
+- [[Entscheidung]] — decision
+- [[Ereignis]] — event; incident
+- [[Ergebnis]] — result
+- [[etwas]] — something; a bit
+- [[falsch]] — wrong
+- [[Farbe]] — colour
+- [[fehlen]] — to be missing; to be absent; to miss
+- [[fehlend]] — missing
+- [[fertig]] — finished; ready
+- [[finden]] — to find
+- [[Form]] — form; shape; mould
+- [[frei]] — free
+- [[fremd]] — foreign; strange; unfamiliar
+- [[führen]] — to lead; to conduct; to run
+- [[ganz]] — quite; entirely; whole
+- [[gar]] — at all; done (cooked)
+- [[geben]] — to give; (es gibt) there is/are
+- [[gefährlich]] — dangerous
+- [[gegen]] — against
+- [[gehören]] — to belong
+- [[gelb]] — yellow
+- [[genau]] — exactly
+- [[genug]] — enough
+- [[gleichfalls]] — likewise
+- [[grau]] — gray
+- [[Grund]] — reason
+- [[Gruppe]] — group
+- [[grün]] — green
+- [[gut (adjective)]] — good
+- [[halten]] — to hold; to stop; to keep
+- [[hoffentlich]] — hopefully
+- [[holen]] — to get
+- [[Holz]] — wood
+- [[ideal]] — ideal
+- [[Idee]] — idea
+- [[individuell]] — individual
+- [[insgesamt]] — all together
+- [[jemand]] — someone
+- [[kaputt]] — broken
+- [[Karte]] — card; ticket; map
+- [[klar]] — clear; of course (colloq.)
+- [[kommen]] — to come; to come from
+- [[kreisen]] — to circle
+- [[kriegen]] — to get
+- [[kurz]] — short
+- [[langsam]] — slow
+- [[Leben]] — life
+- [[leer]] — empty
+- [[legen]] — to lay; to put (down)
+- [[leicht]] — easy; light
+- [[Lieblingsfarbe]] — favourite colour
+- [[lila]] — purple
+- [[Liste]] — list
+- [[los sein]] — to be up
+- [[Lösung]] — solution
+- [[machen]] — to make; to do
+- [[mal (particle)]] — once; just (modal particle)
+- [[mehrere]] — several
+- [[Methode]] — method
+- [[möchten]] — to want
+- [[möglich]] — possible
+- [[Möglichkeit]] — possibility
+- [[Nachteil]] — disadvantage
+- [[natürlich]] — of course
+- [[neu]] — new
+- [[nichts]] — nothing
+- [[noch]] — yet, even, here: any
+- [[normal]] — normal
+- [[nur]] — only
+- [[ohne]] — without
+- [[okay]] — okay
+- [[orange (adjective)]] — orange
+- [[ordnen]] — to arrange
+- [[Ordnung]] — order; tidiness
+- [[orientieren]] — to orient
+- [[originell]] — original
+- [[passen]] — to fit; to match; to suit
+- [[passend]] — matching
+- [[passieren]] — to happen
+- [[persönlich]] — personal; personally
+- [[Plan]] — plan
+- [[planen]] — to plan
+- [[Position]] — position
+- [[praktisch]] — practical
+- [[pro]] — per
+- [[Problem]] — problem
+- [[Regel]] — rule
+- [[richtig]] — correct; right
+- [[rot]] — red
+- [[rund]] — round; around
+- [[Sache]] — thing
+- [[schaffen]] — to manage
+- [[schlecht]] — bad
+- [[schließen]] — to close; to conclude; to lock
+- [[schwarz]] — black
+- [[schwer]] — difficult; heavy; severe
+- [[sehr]] — very
+- [[Seite]] — page
+- [[selbst]] — oneself
+- [[sicher]] — sure; safe; certain
+- [[Situation]] — situation
+- [[sitzen]] — to sit
+- [[so]] — so
+- [[sonst]] — otherwise
+- [[Stapel]] — pile; stack; deck
+- [[stattfinden]] — to take place
+- [[stehen]] — to stand
+- [[stellen]] — to put (upright); to set; to ask (a question)
+- [[stimmen]] — to be correct; to tune; to vote
+- [[suchen]] — to search; to look for
+- [[Symbol]] — symbol
+- [[Tabelle]] — table, chart
+- [[tatsächlich]] — actually
+- [[tauschen]] — to swap; to exchange
+- [[Technik]] — technology
+- [[Teil]] — part
+- [[total]] — totally
+- [[treffen (verb)]] — to meet; to hit; to make (a decision)
+- [[tun]] — to do
+- [[typisch]] — typical
+- [[Variation]] — variation
+- [[variieren]] — to vary
+- [[verbinden]] — to connect; to link; to bandage (med.)
+- [[verschieden]] — different
+- [[versuchen]] — to attempt
+- [[verwenden]] — to use
+- [[vielleicht]] — maybe
+- [[voll]] — full
+- [[vorbereiten]] — to prepare
+- [[Vorsicht]] — caution; care
+- [[Vorteil]] — advantage
+- [[warten]] — to wait
+- [[wechseln]] — to change; to swap; to exchange
+- [[wecken]] — to wake up
+- [[weg sein]] — to be gone
+- [[Weise]] — manner
+- [[weiter]] — further; on; onward
+- [[weitere]] — further
+- [[weiß]] — white
+- [[welche]] — which; some
+- [[wenig]] — little; few
+- [[wichtig]] — important
+- [[wirklich]] — really
+- [[zeigen]] — to show; to point
+- [[Zettel]] — slip of paper; note
+- [[ziehen]] — to pull; to draw; (ist) to move
+- [[zu sein]] — to be closed
+- [[Zufall]] — coincidence
+- [[zumachen]] — to close
+- [[zusammen]] — together
+- [[zusammengehören]] — to belong together; to fit together
+- [[zusammenpassen]] — to match; to go together
+- [[ähnlich]] — similar
+- [[öffnen]] — to open
+- [[überall]] — everywhere
+<!-- bank:end -->
+
+## My notes
+

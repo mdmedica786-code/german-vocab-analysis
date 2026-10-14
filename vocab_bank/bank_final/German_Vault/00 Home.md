@@ -17,6 +17,10 @@ tags: ["moc"]
 - [[Properties and tags]]
 - [[Dashboards]]
 
+## Words by level
+
+[[Level A1]] (1751) · [[Level A2]] (1296) · [[Level B1]] (2480) · [[Level B2]] (2740) · [[Level C1]] (252)
+
 ## Maps
 
 - [[MOC Phrases]] · [[MOC Redemittel]] · [[MOC Medical vocabulary]]
@@ -43,10 +47,6 @@ tags: ["moc"]
 - [[T14 Gefühle, Charakter & Meinungen]] (795)
 - [[T15 Sprache, Kommunikation & Denken]] (827)
 - [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] (1307)
-
-## Levels (main bank)
-
-A1: 1936 · A2: 1413 · B1: 2526 · B2: 377 · C1: 272
 <!-- bank:end -->
 
 ## My notes

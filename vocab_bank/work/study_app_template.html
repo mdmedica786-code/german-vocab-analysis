@@ -67,11 +67,11 @@ kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;paddi
     </div>
     <div class="row chips" style="margin-top:10px">
       <span class="muted">Level:</span>
-      <label><input type="checkbox" class="lv" value="A1" checked> A1</label>
-      <label><input type="checkbox" class="lv" value="A2" checked> A2</label>
-      <label><input type="checkbox" class="lv" value="B1" checked> B1</label>
-      <label><input type="checkbox" class="lv" value="B2" checked> B2</label>
-      <label><input type="checkbox" class="lv" value="C1" checked> C1</label>
+      <label><input type="checkbox" class="lv" value="A1" checked> A1 <span class="muted" data-lv="A1"></span></label>
+      <label><input type="checkbox" class="lv" value="A2" checked> A2 <span class="muted" data-lv="A2"></span></label>
+      <label><input type="checkbox" class="lv" value="B1" checked> B1 <span class="muted" data-lv="B1"></span></label>
+      <label><input type="checkbox" class="lv" value="B2" checked> B2 <span class="muted" data-lv="B2"></span></label>
+      <label><input type="checkbox" class="lv" value="C1" checked> C1 <span class="muted" data-lv="C1"></span></label>
       <label><input type="checkbox" id="fMed" checked> include medical words</label>
       <label><input type="checkbox" id="fSpeak"> speak German automatically</label>
     </div>
@@ -167,7 +167,13 @@ function esc(t){return String(t==null?'':t).replace(/[&<>"]/g,m=>({'&':'&amp;','
 
 /* ---------- queue ---------- */
 let queue=[], cur=null, shown=false;
+function lvCounts(){
+  const s=S.set, n={};
+  DB.forEach(c=>{ if(s.kind.includes(c.k)&&!c.s&&(s.med||!c.md)&&(!s.group||c.g===s.group)){const l=c.l||'B1'; n[l]=(n[l]||0)+1;} });
+  $$('[data-lv]').forEach(x=>x.textContent=(n[x.dataset.lv]||0).toLocaleString('en'));
+}
 function build(){
+  lvCounts();
   const d=deck(), t=today(), L=log();
   const due=[], fresh=[];
   d.forEach(c=>{const st=S.cards[c.i]; if(!st) fresh.push(c); else if(st.d<=t) due.push(c);});

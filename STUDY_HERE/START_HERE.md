@@ -23,13 +23,26 @@ Tip: bookmark it, or copy the file to your phone and open it there.
 
 A simple plan: now to December: Main words (levels A2 and B1) plus Redemittel (B1). Then: B2 words plus Redemittel (B2).
 
-## 4. Search
+## 4. Which levels are in it? All of them
+| Level | Words |
+|---|---|
+| A1 | 1,751 |
+| A2 | 1,296 |
+| B1 | 2,480 |
+| B2 | 361 core words + 2,379 extra B2 words (deck "B2 words") = 2,740 |
+| C1 | 252 |
+
+(These are the words in the study list. 384 more words, such as country names, are left out on purpose. They are in the sheet "Not in list".)
+In the study page you choose the level with the tick boxes; the number next to each level shows how many cards it has.
+If you prefer a table: open `Word_Lists_by_Level.xlsx` (same folder). It has **one sheet per level** (A1, A2, B1, B2, B2 plus, C1), plus Phrases and Redemittel.
+
+## 5. Search
 Tab **Search**: type any German word, plural or English meaning. It searches all four decks.
 
-## 5. Save your progress
+## 6. Save your progress
 Your progress lives in the browser. Tab **Progress** → **Save backup file** once a week, and keep the file safe. You can load it on another computer with **Load backup file**.
 
 ## Other files (optional, you can ignore them)
-- `vocab_bank/bank_final/German_Bank.xlsx` and `German_B2_Bank.xlsx`: the same words as Excel tables.
-- `vocab_bank/bank_final/German_Vault`: the same words as notes for Obsidian (see `vocab_bank/README.md`).
+- `vocab_bank/bank_final/German_Bank.xlsx` and `German_B2_Bank.xlsx`: the complete data (all columns) as Excel tables. The main file has all levels A1 to C1 in one sheet called Vocabulary.
+- `vocab_bank/bank_final/German_Vault`: the same words as notes for Obsidian, in folders A1, A2, B1, B2, C1 (see `vocab_bank/README.md`).
 - Everything else in the repository is old working material. You do not need it for studying.

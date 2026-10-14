@@ -26,7 +26,8 @@ USER_KEYS = ["status", "next_review", "last_review", "mnemonic"]
 MANAGED_TAG_PREFIX = ("vocab", "level/", "topic/", "pos/", "bank/", "exam/", "medical", "skipped", "phrase", "redemittel", "moc")
 NO_LINK_POS = {"preposition", "determiner", "pronoun", "conjunction", "particle", "numeral", "affix", "interjection", "adverb"}
 
-D_VOCAB, D_B2, D_PHR, D_RED = "10 Vocabulary", "20 B2 Vocabulary", "30 Phrases", "40 Redemittel"
+D_VOCAB, D_B2, D_PHR, D_RED = "10 Words by level", "20 B2 extra words", "30 Phrases", "40 Redemittel"
+OLD_VOCAB, OLD_B2 = "10 Vocabulary", "20 B2 Vocabulary"  # earlier layout, migrated automatically
 D_MOC, D_GUIDE, D_TPL, D_DASH = "02 MOCs", "01 Guide", "90 Templates", "03 Dashboards"
 
 
@@ -100,10 +101,13 @@ class Vault:
         self.written = set()
         self.stats = Counter()
 
-    def put(self, rel, fm, body, preserve=True):
+    def put(self, rel, fm, body, preserve=True, old_rel=None):
         """fm: ordered list of (key, value) ; body: generated body (string, no trailing marker handling)"""
         path = self.root / rel
         path.parent.mkdir(parents=True, exist_ok=True)
+        if old_rel and not path.exists() and (self.root / old_rel).exists():
+            (self.root / old_rel).rename(path)  # keep the user's edits when the folder layout changes
+            self.stats["moved"] += 1
         old_fm, old_user = {}, ""
         if preserve and path.exists():
             old = path.read_text(encoding="utf-8")
@@ -306,8 +310,12 @@ def build(root):
             if r.get("goethe_level"):
                 ref.append(f"Goethe word list {r['goethe_level']}")
             b += ["", "**Source:** " + " · ".join(ref)]
-        sub = D_B2 if bank == "b2" else D_VOCAB
-        V.put(f"{sub}/{topic_files[topic_c]}/{e['fname']}.md", fm, "\n".join(b))
+        if bank == "b2":
+            V.put(f"{D_B2}/{topic_files[topic_c]}/{e['fname']}.md", fm, "\n".join(b),
+                  old_rel=f"{OLD_B2}/{topic_files[topic_c]}/{e['fname']}.md")
+        else:
+            V.put(f"{D_VOCAB}/{r['level']}/{topic_files[topic_c]}/{e['fname']}.md", fm, "\n".join(b),
+                  old_rel=f"{OLD_VOCAB}/{topic_files[topic_c]}/{e['fname']}.md")
 
     # ---- topic MOCs
     by_topic = defaultdict(lambda: defaultdict(list))
@@ -334,6 +342,23 @@ def build(root):
                 body.append("")
         V.put(f"{D_MOC}/Topics/{topic_files[c]}.md",
               [("title", t), ("type", "moc"), ("tags", ["moc", f"topic/{c}"])], "\n".join(body))
+
+    # ---- level MOCs
+    for lv in LEVELS:
+        idx = [i for i, e in enumerate(entries) if e["r"]["level"] == lv and not e["r"].get("skip")]
+        n_main = sum(1 for i in idx if entries[i]["bank"] == "main")
+        body = [f"# Level {lv}", "", f"{len(idx)} words to study: {n_main} from the main bank" +
+                (f" and {len(idx) - n_main} from the B2 extra bank." if lv == "B2" else "."),
+                "", "Back to [[00 Home]]", ""]
+        for c in sorted(topics):
+            sel = [i for i in idx if topic_code(entries[i]["r"]["topic"]) == c]
+            if not sel:
+                continue
+            body += [f"## {topics[c]} ({len(sel)})", ""]
+            for i in sorted(sel, key=lambda k: entries[k]["lemma"].lower()):
+                body.append(f"- {link(i)} — {entries[i]['r']['meaning_en']}")
+            body.append("")
+        V.put(f"{D_MOC}/Levels/Level {lv}.md", [("title", f"Level {lv}"), ("type", "moc"), ("tags", ["moc", f"level/{lv}"])], "\n".join(body))
 
     # ---- medical MOC
     med = [i for i, e in enumerate(entries) if e["r"].get("medical") or topic_code(e["r"]["topic"]).startswith("M")]
@@ -427,12 +452,13 @@ def build(root):
             f"- Redemittel: **{len(red)}** in {len(cats)} sets", "",
             "## Start here", "",
             "- [[How to use this vault]]", "- [[Properties and tags]]", "- [[Dashboards]]", "",
+            "## Words by level", "",
+            " · ".join(f"[[Level {l}]] ({sum(1 for e in entries if e['r']['level'] == l and not e['r'].get('skip'))})" for l in LEVELS), "",
             "## Maps", "",
             "- [[MOC Phrases]] · [[MOC Redemittel]] · [[MOC Medical vocabulary]]", "", "### Topics", ""]
     for c in sorted(topics):
         n = len(by_topic[c]["main"]) + len(by_topic[c]["b2"])
         body.append(f"- [[{topic_files[c]}]] ({n})")
-    body += ["", "## Levels (main bank)", "", " · ".join(f"{l}: {lv_main[l]}" for l in LEVELS), ""]
     V.put("00 Home.md", [("title", "Home"), ("type", "moc"), ("tags", ["moc"])], "\n".join(body), preserve=True)
 
     # ---- guides
@@ -457,10 +483,10 @@ This vault is generated from the CSV banks in `bank_final/`. Open the folder `ba
 |---|---|
 | `00 Home` | Entry point with counts and links |
 | `01 Guide` | These help notes |
-| `02 MOCs` | Maps of content: one per topic (T01-T16, M1-M4), phrases, Redemittel, medical |
+| `02 MOCs` | Maps of content: one per level (A1 to C1), one per topic (T01-T16, M1-M4), phrases, Redemittel, medical |
 | `03 Dashboards` | Dataview queries and `.base` files (tables you can filter and edit) |
-| `10 Vocabulary` | Main bank, one note per word, sorted by topic |
-| `20 B2 Vocabulary` | B2 bank, one note per word, sorted by topic |
+| `10 Words by level` | Main bank, one note per word, in folders A1, A2, B1, B2, C1 and then by topic |
+| `20 B2 extra words` | the 2,379 extra B2 words (no medical), sorted by topic |
 | `30 Phrases` | 1,016 phrases grouped by function (agree, give reasons, ...) |
 | `40 Redemittel` | 1,176 speaking and writing expressions, one note per category |
 | `90 Templates` | Template for your own new word notes |
@@ -471,7 +497,7 @@ This vault is generated from the CSV banks in `bank_final/`. Open the folder `ba
 2. In your own notes write `[[Prüfung]]` to link to the word. Hover to preview, or open the backlinks pane to see where you used it.
 3. Change the property `status` to `learning` or `known` while you study. The dashboards use it.
 4. Write your own text under `## My notes` in a word note. It is kept when the vault is rebuilt.
-5. Use the graph view filtered by `tag:#level/B2` or `path:"20 B2 Vocabulary"` to see clusters.
+5. Use the graph view filtered by `tag:#level/B2` or `path:"20 B2 extra words"` to see clusters.
 
 ## Rebuilding after the banks change
 
@@ -720,7 +746,13 @@ if __name__ == "__main__":
         shutil.rmtree(tmp)
         sys.exit(0 if ok else 1)
     V, entries = build(VAULT)
-    print("written", V.stats["written"], "unchanged", V.stats["unchanged"])
+    for d in (OLD_VOCAB, OLD_B2):  # remove only EMPTY folders left over from the earlier layout
+        for sub in sorted((VAULT / d).rglob("*"), reverse=True) if (VAULT / d).exists() else []:
+            if sub.is_dir() and not any(sub.iterdir()):
+                sub.rmdir()
+        if (VAULT / d).exists() and not any((VAULT / d).iterdir()):
+            (VAULT / d).rmdir()
+    print("moved", V.stats["moved"], "written", V.stats["written"], "unchanged", V.stats["unchanged"])
     existing = {p for p in VAULT.rglob("*") if p.is_file()}
     extra = sorted(str(p.relative_to(VAULT)) for p in existing - V.written)
     if extra:

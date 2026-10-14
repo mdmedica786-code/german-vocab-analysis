@@ -7,7 +7,8 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | Goal | Open |
 |---|---|
 | Study with flashcards (easiest) | `../STUDY_HERE/German_Study.html` (double-click) |
-| Study and take notes in Obsidian | folder `bank_final/German_Vault` (Obsidian: "Open folder as vault"), start with `00 Home` |
+| Word lists as a table, one sheet per level | `../STUDY_HERE/Word_Lists_by_Level.xlsx` |
+| Study and take notes in Obsidian | folder `bank_final/German_Vault` (Obsidian: "Open folder as vault"), start with `00 Home`; words are in folders A1, A2, B1, B2, C1 |
 | Look at the data in Excel | `bank_final/German_Bank.xlsx` (main banks), `bank_final/German_B2_Bank.xlsx` (B2 bank) |
 | Use the data in other tools | the CSV files in `bank_final/` (UTF-8 with BOM) |
 
@@ -15,7 +16,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 
 | File | Rows | Content |
 |---|---|---|
-| `vocabulary_bank.csv` | 6,524 | main vocabulary A1 to C1, including about 290 medical-tagged words |
+| `vocabulary_bank.csv` | 6,524 | main vocabulary, all levels in one file (column `level`: A1 1,936 · A2 1,413 · B1 2,526 · B2 377 · C1 272), including about 290 medical-tagged words |
 | `b2_vocabulary_bank.csv` | 2,379 | new B2 words, no medical, none that are in the main bank |
 | `phrase_bank.csv` | 1,016 | useful phrases grouped by function |
 | `redemittel_bank.csv` | 1,176 | speaking and writing expressions in 55 sets |
@@ -31,6 +32,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | `b2.py` | B2 bank: add, edit, validate, export to `German_B2_Bank.xlsx` |
 | `b2chk.py` | check a list of candidate words against both vocabulary banks |
 | `make_vault.py` | rebuild the Obsidian vault from the CSV files (keeps your own notes) |
+| `make_level_workbook.py` | rebuild `STUDY_HERE/Word_Lists_by_Level.xlsx` (one sheet per level) |
 | `make_study_app.py` | rebuild `STUDY_HERE/German_Study.html` from the CSV files |
 
 Folders `work/audit`, `work/b2_patches` and `work/patches` keep the review samples and the saved input of every batch.
@@ -42,4 +44,5 @@ Folders `work/audit`, `work/b2_patches` and `work/patches` keep the review sampl
 python3 work/b2.py validate        # or: python3 work/bank_tools.py validate --final
 python3 work/make_vault.py         # refresh the Obsidian notes
 python3 work/make_study_app.py     # refresh the flashcard page
+python3 work/make_level_workbook.py  # refresh the Excel file with one sheet per level
 ```
