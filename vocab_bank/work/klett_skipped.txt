@@ -6,3 +6,6 @@ irgend-|prefix; covered by irgendwie, irgendwo, irgendwann, irgendjemand
 lesefreundlichen|variant / inflected form / prefix covered elsewhere
 Nationalfond|variant / inflected form / prefix covered elsewhere
 nirgend-|variant / inflected form / prefix covered elsewhere
+sowohl … als auch|covered by phrase entry / OCR fragment
+Tellerand hinaus|covered by phrase entry / OCR fragment
+und her|covered by phrase entry / OCR fragment
