@@ -9,3 +9,7 @@ nirgend-|variant / inflected form / prefix covered elsewhere
 sowohl … als auch|covered by phrase entry / OCR fragment
 Tellerand hinaus|covered by phrase entry / OCR fragment
 und her|covered by phrase entry / OCR fragment
+StartupUnternehmen|gedeckt durch Startup-Unternehmen (Schreibung)
+Wissenschaftsfond|gedeckt durch Wissenschaftsfonds (Schreibung)
+weder … noch|im Bank als 'weder ... noch ...' / 'zwar ... aber ...' (Schreibung der Auslassungspunkte)
+zwar … aber|im Bank als 'weder ... noch ...' / 'zwar ... aber ...' (Schreibung der Auslassungspunkte)
