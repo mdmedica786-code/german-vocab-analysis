@@ -67,3 +67,16 @@ Heer|historical or too rare
 minder|historical or too rare
 Gunst|historical or too rare
 vornherein|covered by the phrase von vornherein
+Baron|old-fashioned, historical or too rare
+Narr|old-fashioned, historical or too rare
+breiten|old-fashioned, historical or too rare
+Majestät|old-fashioned, historical or too rare
+erblicken|old-fashioned, historical or too rare
+Hauptmann|old-fashioned, historical or too rare
+bibliografisch|old-fashioned, historical or too rare
+Gefährte|old-fashioned, historical or too rare
+Finsternis|old-fashioned, historical or too rare
+Segen|old-fashioned, historical or too rare
+gedenken|old-fashioned, historical or too rare
+potentiell|spelling variant of a word already covered
+Flecken|spelling variant of a word already covered
