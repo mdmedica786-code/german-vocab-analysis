@@ -39,3 +39,16 @@ Ritter|old-fashioned, historical or too rare
 schreiten|old-fashioned, historical or too rare
 irgend|old-fashioned, historical or too rare
 Theologie|old-fashioned, historical or too rare
+scheißen|vulgar, old-fashioned or too rare
+gleichsam|vulgar, old-fashioned or too rare
+Diener|vulgar, old-fashioned or too rare
+Knabe|vulgar, old-fashioned or too rare
+Bursche|vulgar, old-fashioned or too rare
+Haupt|vulgar, old-fashioned or too rare
+geistlich|vulgar, old-fashioned or too rare
+detaillieren|vulgar, old-fashioned or too rare
+Krieger|vulgar, old-fashioned or too rare
+Tugend|vulgar, old-fashioned or too rare
+irgendwelch|vulgar, old-fashioned or too rare
+Dasein|vulgar, old-fashioned or too rare
+Journal|vulgar, old-fashioned or too rare
