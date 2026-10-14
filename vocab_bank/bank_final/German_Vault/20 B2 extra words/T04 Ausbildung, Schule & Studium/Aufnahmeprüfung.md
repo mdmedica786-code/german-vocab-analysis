@@ -33,7 +33,7 @@ status: "new"
 - zur Aufnahmeprüfung antreten
 - die Aufnahmeprüfung ablegen
 
-**Related:** [[antreten]]
+**Related:** [[antreten]] · [[ablegen]]
 
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->

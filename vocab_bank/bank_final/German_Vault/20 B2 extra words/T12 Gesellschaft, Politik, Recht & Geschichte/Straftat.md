@@ -33,7 +33,7 @@ status: "new"
 - schwere Straftat
 - Straftat aufklären
 
-**Related:** [[aufklären]]
+**Related:** [[begehen]] · [[aufklären]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

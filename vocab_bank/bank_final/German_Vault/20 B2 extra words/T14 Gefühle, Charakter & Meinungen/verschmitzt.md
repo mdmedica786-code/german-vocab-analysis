@@ -29,6 +29,8 @@ status: "new"
 - verschmitzt grinsen
 - verschmitzt blicken
 
+**Related:** [[grinsen]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

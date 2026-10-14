@@ -6,7 +6,7 @@ tags: ["moc", "topic/T05"]
 <!-- bank:start -->
 # T05 Gesundheit & Körper
 
-Map of content. 214 words in the main bank, 7 in the B2 bank.
+Map of content. 214 words in the main bank, 17 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -243,15 +243,25 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (7)
+### B2 (17)
 
+- [[Auslöser]] — trigger; cause; shutter release
+- [[Beeinträchtigung]] — impairment; restriction; disruption
+- [[Beweglichkeit]] — mobility; flexibility
+- [[bücken]] — to bend down; to stoop
 - [[erkranken]] — to fall ill
+- [[genetisch]] — genetic
 - [[kratzen]] — to scratch
+- [[Lebensweise]] — way of life; lifestyle
+- [[Meditation]] — meditation
 - [[rissig]] — cracked; chapped
 - [[schnarchen]] — to snore
 - [[spritzen]] — to spray; to splash; to inject
 - [[spröde]] — brittle; chapped; aloof
+- [[Taille]] — waist
 - [[verfroren]] — chilly; sensitive to cold
+- [[vertragen]] — to tolerate; to bear; to get on (sich vertragen)
+- [[Wohlbefinden]] — well-being; comfort
 <!-- bank:end -->
 
 ## My notes

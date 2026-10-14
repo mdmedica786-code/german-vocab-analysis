@@ -33,6 +33,8 @@ status: "new"
 - Trauzeuge sein
 - Trauzeugin und Trauzeuge
 
+**Related:** [[fungieren]]
+
 **Exam use:** Alltag, Sprechen
 <!-- bank:end -->
 

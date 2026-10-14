@@ -29,6 +29,8 @@ status: "new"
 - eine spöttische Bemerkung
 - spöttisch sein
 
+**Related:** [[Bemerkung]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

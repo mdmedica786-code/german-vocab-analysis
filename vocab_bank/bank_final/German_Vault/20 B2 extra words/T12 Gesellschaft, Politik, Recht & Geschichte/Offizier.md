@@ -1,0 +1,42 @@
+---
+title: "Offizier"
+type: "word"
+aliases: ["der Offizier", "Offiziere"]
+lemma: "Offizier"
+meaning: "officer"
+pos: "noun"
+article: "der"
+plural: "Offiziere"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2554"
+exam_use: ["Lesen", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
+---
+<!-- bank:start -->
+# der Offizier
+
+**Meaning:** officer
+**Plural:** Offiziere
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Offizier gab seinen Soldaten den Befehl.
+> *The officer gave his soldiers the order.*
+
+**Collocations**
+- ein hoher Offizier
+- Offizier bei der Marine
+- Offizier der Armee
+
+**Related:** [[Armee]]
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

@@ -28,7 +28,7 @@ status: "new"
 - Rechenschaft ablegen über + Akk.
 - Rechenschaft verlangen
 
-**Related:** [[verlangen]]
+**Related:** [[ablegen]] · [[verlangen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

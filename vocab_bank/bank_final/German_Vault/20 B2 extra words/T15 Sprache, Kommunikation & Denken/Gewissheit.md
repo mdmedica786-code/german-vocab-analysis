@@ -33,6 +33,8 @@ status: "new"
 - sich Gewissheit verschaffen
 - mit Gewissheit sagen
 
+**Related:** [[verschaffen]]
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

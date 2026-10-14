@@ -29,6 +29,8 @@ status: "new"
 - gelassen reagieren
 - eine gelassene Haltung
 
+**Related:** [[Haltung]]
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

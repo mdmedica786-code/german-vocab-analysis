@@ -33,7 +33,7 @@ status: "new"
 - Speicher erweitern
 - interner Speicher
 
-**Related:** [[voll]]
+**Related:** [[voll]] · [[erweitern]]
 
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->

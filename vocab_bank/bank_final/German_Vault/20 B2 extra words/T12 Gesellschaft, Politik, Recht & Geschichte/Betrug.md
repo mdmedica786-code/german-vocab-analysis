@@ -33,6 +33,8 @@ status: "new"
 - wegen Betrugs angeklagt
 - Versicherungsbetrug
 
+**Related:** [[begehen]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

@@ -28,7 +28,7 @@ status: "new"
 - Zeit totschlagen
 - sich die Zeit vertreiben
 
-**Related:** [[Zeit]]
+**Related:** [[Zeit]] · [[vertreiben]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

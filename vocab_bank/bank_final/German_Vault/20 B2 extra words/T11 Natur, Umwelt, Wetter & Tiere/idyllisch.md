@@ -29,7 +29,7 @@ status: "new"
 - ein idyllischer Ort
 - eine idyllische Landschaft
 
-**Related:** [[Landschaft]]
+**Related:** [[gelegen]] · [[Landschaft]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

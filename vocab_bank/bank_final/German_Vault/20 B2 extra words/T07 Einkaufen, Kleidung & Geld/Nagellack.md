@@ -33,7 +33,7 @@ status: "new"
 - Nagellack entfernen
 - roter Nagellack
 
-**Related:** [[entfernen]]
+**Related:** [[auftragen]] · [[entfernen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

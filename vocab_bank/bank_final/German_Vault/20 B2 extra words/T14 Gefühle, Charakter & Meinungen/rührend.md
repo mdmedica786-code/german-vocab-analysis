@@ -29,7 +29,7 @@ status: "new"
 - rührend besorgt
 - sich rührend kümmern
 
-**Related:** [[besorgt]]
+**Related:** [[Geste]] · [[besorgt]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->

@@ -33,6 +33,8 @@ status: "new"
 - eine Verfügung erlassen
 - einstweilige Verfügung
 
+**Related:** [[erlassen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

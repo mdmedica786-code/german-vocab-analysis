@@ -33,7 +33,7 @@ status: "new"
 - eine Heftklammer entfernen
 - mit einer Heftklammer befestigen
 
-**Related:** [[entfernen]]
+**Related:** [[entfernen]] · [[befestigen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

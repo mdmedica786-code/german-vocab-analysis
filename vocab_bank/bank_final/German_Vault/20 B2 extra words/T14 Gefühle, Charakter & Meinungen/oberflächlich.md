@@ -29,7 +29,7 @@ status: "new"
 - ein oberflächlicher Mensch
 - oberflächlich kennen
 
-**Related:** [[Mensch]]
+**Related:** [[betrachten]] · [[Mensch]]
 
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->

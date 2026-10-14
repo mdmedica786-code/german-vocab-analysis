@@ -6,7 +6,7 @@ tags: ["moc", "topic/T08"]
 <!-- bank:start -->
 # T08 Reisen, Verkehr & Orte
 
-Map of content. 539 words in the main bank, 51 in the B2 bank.
+Map of content. 539 words in the main bank, 77 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -568,39 +568,57 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (51)
+### B2 (77)
 
 - [[Abschleppdienst]] — towing service
+- [[Amerikaner]] — American
+- [[Anker]] — anchor
 - [[aufbrechen]] — to set off; to break open
+- [[Aufbruch]] — departure; start; new beginning
 - [[ausrutschen]] — to slip
 - [[Aussichtspunkt]] — viewpoint; vantage point
 - [[ausweichen]] — to dodge; to evade
 - [[Ballungsraum]] — conurbation; densely populated area
 - [[Berufsverkehr]] — rush-hour traffic
 - [[Besichtigung]] — visit; viewing; tour
+- [[Beton]] — concrete
+- [[Bezirk]] — district; borough
 - [[biegen]] — to bend; to turn (a corner)
+- [[britisch]] — British
 - [[Buchung]] — booking; entry
 - [[Bürgersteig]] — pavement; sidewalk
+- [[Deck]] — deck
 - [[diesseits]] — on this side of
+- [[eintreffen]] — to arrive; to come true
 - [[Elektroauto]] — electric car
+- [[Engländer]] — Englishman
+- [[Expedition]] — expedition
 - [[Fahrgemeinschaft]] — carpool
 - [[Fahrkartenautomat]] — ticket machine
 - [[Fahrlehrer]] — driving instructor
 - [[Fernverkehr]] — long-distance transport
 - [[Fernweh]] — wanderlust; longing for faraway places
+- [[Franzose]] — Frenchman
 - [[Fremdenverkehr]] — tourism
+- [[Friedhof]] — cemetery
+- [[gelegen]] — situated; convenient
 - [[Gepäckaufbewahrung]] — left-luggage office
 - [[Geschwindigkeitsbegrenzung]] — speed limit
 - [[Getriebe]] — gearbox; transmission
 - [[Gipfel]] — summit; peak
 - [[Handgepäck]] — hand luggage
 - [[Hauptverkehrszeit]] — peak traffic hours
+- [[Heimweg]] — way home
+- [[hüten]] — to guard; to look after; to tend
+- [[indisch]] — Indian
+- [[Kapitän]] — captain
 - [[Kreisverkehr]] — roundabout
 - [[Ladestation]] — charging station
 - [[Leuchtturm]] — lighthouse
 - [[mit Sack und Pack]] — with bag and baggage
 - [[Mitfahrer]] — fellow passenger; passenger
 - [[Mitfahrgelegenheit]] — lift; ride share
+- [[Mühle]] — mill
 - [[Nachbarland]] — neighbouring country
 - [[Naturpark]] — nature park
 - [[Pannenhilfe]] — breakdown assistance
@@ -608,15 +626,23 @@ Back to [[00 Home]]
 - [[Pauschalreise]] — package holiday
 - [[Pendler]] — commuter
 - [[Pilot]] — pilot
+- [[Provinz]] — province; the sticks
 - [[Raststätte]] — motorway service area
 - [[Reiseveranstalter]] — tour operator
+- [[Ruine]] — ruin; ruins
 - [[rutschen]] — to slip; to slide
+- [[Segel]] — sail
 - [[Sperrung]] — closure; blocking
 - [[Stadtrundfahrt]] — city sightseeing tour
+- [[Tunnel]] — tunnel
 - [[umkehren]] — to turn back; to reverse
 - [[Unterführung]] — underpass; subway
+- [[Untergrund]] — underground; subsoil; base
 - [[unweit]] — not far from
+- [[verkehren]] — to run (public transport); to associate (with)
+- [[Verwalter]] — administrator; manager (property)
 - [[verweilen]] — to linger; to stay
+- [[Verzögerung]] — delay
 - [[Wochenkarte]] — weekly ticket
 - [[Zebrastreifen]] — zebra crossing
 - [[Zwischenstopp]] — stopover; stop on the way

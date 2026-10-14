@@ -1,0 +1,38 @@
+---
+title: "vielfältig"
+type: "word"
+lemma: "vielfältig"
+meaning: "diverse; varied"
+pos: "adjective"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2581"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# vielfältig
+
+**Meaning:** diverse; varied
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Stadt bietet ein vielfältiges Kulturangebot.
+> *The city offers a diverse cultural programme.*
+
+**Collocations**
+- ein vielfältiges Angebot
+- vielfältige Möglichkeiten
+- vielfältig einsetzbar
+
+**Related:** [[Angebot]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

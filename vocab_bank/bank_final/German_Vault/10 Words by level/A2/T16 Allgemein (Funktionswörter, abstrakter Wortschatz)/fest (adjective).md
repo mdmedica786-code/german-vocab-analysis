@@ -32,7 +32,7 @@ status: "new"
 - fest schlafen
 - fest versprechen
 
-**Related:** [[Termin]]
+**Related:** [[angestellt]] · [[Termin]]
 
 **Source:** Netzwerk neu A2 K6 13b (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->

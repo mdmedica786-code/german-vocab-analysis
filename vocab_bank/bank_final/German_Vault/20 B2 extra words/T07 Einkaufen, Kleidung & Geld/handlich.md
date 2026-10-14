@@ -29,6 +29,8 @@ status: "new"
 - handlich sein
 - handlich verpackt
 
+**Related:** [[Format]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

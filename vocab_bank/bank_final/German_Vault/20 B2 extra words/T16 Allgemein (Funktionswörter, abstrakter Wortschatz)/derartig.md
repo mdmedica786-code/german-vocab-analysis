@@ -1,0 +1,38 @@
+---
+title: "derartig"
+type: "word"
+lemma: "derartig"
+meaning: "such; of that kind"
+pos: "adjective"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2468"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# derartig
+
+**Meaning:** such; of that kind
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Derartige Probleme habe ich noch nie gehabt.
+> *I have never had such problems before.*
+
+**Collocations**
+- derartige Probleme
+- in derartigen Fällen
+- derartig groß
+
+**Related:** [[groß]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

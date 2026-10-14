@@ -33,7 +33,7 @@ status: "new"
 - ein Klebstoff für Holz
 - mit Klebstoff befestigen
 
-**Related:** [[Holz]]
+**Related:** [[auftragen]] · [[Holz]] · [[befestigen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

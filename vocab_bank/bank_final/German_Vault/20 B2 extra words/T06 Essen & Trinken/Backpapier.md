@@ -33,7 +33,7 @@ status: "new"
 - ein Blatt Backpapier
 - Backpapier verwenden
 
-**Related:** [[Blatt]]
+**Related:** [[auslegen]] · [[Blatt]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

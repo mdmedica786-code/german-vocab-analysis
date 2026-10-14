@@ -33,6 +33,8 @@ status: "new"
 - ein großer Wortschatz
 - aktiver und passiver Wortschatz
 
+**Related:** [[erweitern]]
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

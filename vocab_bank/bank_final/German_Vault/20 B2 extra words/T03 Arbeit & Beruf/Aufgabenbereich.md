@@ -33,6 +33,8 @@ status: "new"
 - Aufgabenbereich erweitern
 - zum Aufgabenbereich gehören
 
+**Related:** [[erweitern]]
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

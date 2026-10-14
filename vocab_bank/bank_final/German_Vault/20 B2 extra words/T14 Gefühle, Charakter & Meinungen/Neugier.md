@@ -33,6 +33,8 @@ status: "new"
 - aus Neugier
 - Neugier wecken
 
+**Related:** [[platzen]]
+
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->
 

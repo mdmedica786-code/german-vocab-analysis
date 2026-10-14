@@ -33,7 +33,7 @@ status: "new"
 - Anschreiben und Lebenslauf
 - individuelles Anschreiben
 
-**Related:** [[Lebenslauf]]
+**Related:** [[verfassen]] · [[Lebenslauf]]
 
 **Exam use:** Schreiben, Alltag
 <!-- bank:end -->

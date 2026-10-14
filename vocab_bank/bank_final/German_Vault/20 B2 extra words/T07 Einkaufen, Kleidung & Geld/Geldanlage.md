@@ -33,7 +33,7 @@ status: "new"
 - in eine Geldanlage investieren
 - Geldanlage mit Risiko
 
-**Related:** [[Risiko]]
+**Related:** [[investieren]] · [[Risiko]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

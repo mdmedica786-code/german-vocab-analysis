@@ -6,7 +6,7 @@ tags: ["moc", "topic/T06"]
 <!-- bank:start -->
 # T06 Essen & Trinken
 
-Map of content. 288 words in the main bank, 95 in the B2 bank.
+Map of content. 288 words in the main bank, 96 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -314,7 +314,7 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (95)
+### B2 (96)
 
 - [[Alufolie]] — aluminium foil
 - [[appetitlich]] — appetising
@@ -407,6 +407,7 @@ Back to [[00 Home]]
 - [[verschütten]] — to spill
 - [[Vollkornbrot]] — wholemeal bread
 - [[Vorspeise]] — starter; appetiser
+- [[vorzüglich]] — excellent; superb
 - [[Walnuss]] — walnut
 - [[Wasserkocher]] — electric kettle
 - [[zartbitter]] — dark (chocolate); bittersweet

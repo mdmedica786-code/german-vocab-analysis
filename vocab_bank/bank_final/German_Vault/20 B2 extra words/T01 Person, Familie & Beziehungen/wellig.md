@@ -29,7 +29,7 @@ status: "new"
 - wellig sein
 - eine wellige Oberfläche
 
-**Related:** [[Haar]]
+**Related:** [[Haar]] · [[Oberfläche]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

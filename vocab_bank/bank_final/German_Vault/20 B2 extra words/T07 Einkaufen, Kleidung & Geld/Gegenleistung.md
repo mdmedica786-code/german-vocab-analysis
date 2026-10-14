@@ -33,6 +33,8 @@ status: "new"
 - als Gegenleistung
 - ohne Gegenleistung
 
+**Related:** [[erbringen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

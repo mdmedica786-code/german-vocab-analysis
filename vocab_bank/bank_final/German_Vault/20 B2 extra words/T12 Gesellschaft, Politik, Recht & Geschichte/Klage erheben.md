@@ -29,7 +29,7 @@ status: "new"
 - Klage einreichen
 - Klage abweisen
 
-**Related:** [[erheben]] · [[einreichen]]
+**Related:** [[Klage]] · [[erheben]] · [[einreichen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

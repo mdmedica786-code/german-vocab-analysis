@@ -6,7 +6,7 @@ tags: ["moc", "topic/T04"]
 <!-- bank:start -->
 # T04 Ausbildung, Schule & Studium
 
-Map of content. 262 words in the main bank, 76 in the B2 bank.
+Map of content. 262 words in the main bank, 87 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -291,12 +291,13 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (76)
+### B2 (87)
 
 - [[Abendkurs]] — evening class
 - [[Abschlussarbeit]] — final thesis; degree dissertation
 - [[abschneiden]] — to cut off; to perform (in a test)
 - [[Akademiker]] — university graduate; academic
+- [[akademisch]] — academic
 - [[Aufnahmeprüfung]] — entrance exam
 - [[Ausbilder]] — trainer; instructor (in vocational training)
 - [[Ausbildungsplatz]] — training place; apprenticeship position
@@ -304,12 +305,14 @@ Back to [[00 Home]]
 - [[Auswendiglernen]] — learning by heart; rote learning
 - [[Bachelorstudium]] — bachelor's degree programme
 - [[Begabung]] — talent; gift
+- [[beibringen]] — to teach; to impart; to produce (evidence)
 - [[Berufsberatung]] — careers advice
 - [[Berufsorientierung]] — career orientation
 - [[Bibliothekar]] — librarian
 - [[Bildungsabschluss]] — educational qualification
 - [[Bildungsweg]] — educational path
 - [[blau machen]] — to skip work or school
+- [[Campus]] — campus
 - [[Dissertation]] — doctoral thesis
 - [[Dozent]] — lecturer
 - [[durchfallen]] — to fail (an exam); to fall through
@@ -318,21 +321,27 @@ Back to [[00 Home]]
 - [[einen Vortrag halten]] — to give a lecture
 - [[Einschreibung]] — enrolment; registration
 - [[Erfinder]] — inventor
+- [[erlernen]] — to learn (thoroughly); to master
 - [[Erstsemester]] — first-semester student
 - [[Exmatrikulation]] — de-registration from university
 - [[Fachbuch]] — specialist book
 - [[Fachhochschule]] — university of applied sciences
 - [[Fachliteratur]] — specialist literature
+- [[Fakultät]] — faculty (university)
 - [[Fernstudium]] — distance learning degree
 - [[Fortschritte machen]] — to make progress
 - [[Fußnote]] — footnote
 - [[Förderunterricht]] — supplementary tuition; remedial classes
 - [[Gasthörer]] — guest student; auditor
+- [[gebildet]] — educated; cultured
 - [[Geisteswissenschaft]] — humanities (discipline)
 - [[Hörsaal]] — lecture hall
 - [[Immatrikulation]] — university enrolment
+- [[Jahrgang]] — year group; birth year; vintage
 - [[Kolloquium]] — colloquium; academic discussion
+- [[Korrektur]] — correction
 - [[Lehrbuch]] — textbook
+- [[Lehrkraft]] — teacher; member of teaching staff
 - [[Lehrplan]] — curriculum; syllabus
 - [[Lehrstuhl]] — university chair; professorship
 - [[Leihfrist]] — loan period
@@ -349,6 +358,7 @@ Back to [[00 Home]]
 - [[Promotion]] — doctorate; doctoral degree
 - [[Prüfungsangst]] — exam anxiety
 - [[Prüfungsordnung]] — examination regulations
+- [[Pädagogik]] — education; pedagogy
 - [[Radiergummi]] — rubber; eraser
 - [[Regelstudienzeit]] — standard period of study
 - [[Schulpflicht]] — compulsory schooling
@@ -368,6 +378,7 @@ Back to [[00 Home]]
 - [[vertiefen]] — to deepen; to intensify
 - [[Wahlfach]] — elective subject
 - [[Weiterbildungsangebot]] — further education offering
+- [[weiterführend]] — further; advanced; secondary
 - [[Werkstudent]] — working student
 <!-- bank:end -->
 

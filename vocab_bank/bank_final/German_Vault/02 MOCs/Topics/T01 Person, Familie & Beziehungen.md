@@ -6,7 +6,7 @@ tags: ["moc", "topic/T01"]
 <!-- bank:start -->
 # T01 Person, Familie & Beziehungen
 
-Map of content. 234 words in the main bank, 44 in the B2 bank.
+Map of content. 234 words in the main bank, 51 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -263,18 +263,21 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (44)
+### B2 (51)
 
 - [[abgemagert]] — emaciated; very thin
 - [[Abschied nehmen]] — to say goodbye
+- [[Affäre]] — affair; scandal
 - [[anfreunden]] — to make friends; to get used to (an idea)
 - [[anstoßen]] — to clink glasses; to bump; to initiate
 - [[beaufsichtigen]] — to supervise; to look after
 - [[befreunden]] — to make friends; to become friends
 - [[Beileid]] — condolences
+- [[Bekanntschaft]] — acquaintance; getting to know someone
 - [[bleich]] — pale; pallid
 - [[buschig]] — bushy
 - [[Familienplanung]] — family planning
+- [[familiär]] — family-related; familial; familiar
 - [[Freundeskreis]] — circle of friends
 - [[Gastfreundschaft]] — hospitality
 - [[gebräunt]] — tanned
@@ -286,6 +289,7 @@ Back to [[00 Home]]
 - [[in Streit geraten]] — to get into an argument
 - [[kahl]] — bald; bare
 - [[Krippenplatz]] — nursery place
+- [[Kumpel]] — mate; buddy (colloquial)
 - [[Lebensabend]] — old age; twilight years
 - [[Lebensgefährte]] — life partner
 - [[mollig]] — plump; chubby
@@ -294,12 +298,15 @@ Back to [[00 Home]]
 - [[Pflegekind]] — foster child
 - [[quengeln]] — to whine; to grizzle
 - [[rundlich]] — roundish; plump
+- [[scheiden]] — to part; to depart; to divorce (sich scheiden lassen)
+- [[Schwager]] — brother-in-law
 - [[sommersprossig]] — freckled
 - [[stämmig]] — stocky; sturdy
 - [[Taufe]] — baptism; christening
 - [[Trauzeuge]] — best man; witness at a wedding
 - [[untersetzt]] — thickset; stocky
 - [[Verwandtschaft]] — relatives; kinship
+- [[Vetter]] — (male) cousin
 - [[wellig]] — wavy
 - [[wickeln]] — to wrap; to change a nappy
 - [[zappeln]] — to fidget; to wriggle

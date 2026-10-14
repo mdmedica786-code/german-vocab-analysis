@@ -1,0 +1,42 @@
+---
+title: "Amerikaner"
+type: "word"
+aliases: ["der Amerikaner"]
+lemma: "Amerikaner"
+meaning: "American"
+pos: "noun"
+article: "der"
+plural: "Amerikaner"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D2826"
+exam_use: ["Alltag", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Medien"]
+---
+<!-- bank:start -->
+# der Amerikaner
+
+**Meaning:** American
+**Plural:** Amerikaner
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er ist Amerikaner und lebt in Berlin.
+> *He is American and lives in Berlin.*
+
+**Collocations**
+- ein Amerikaner
+- Amerikaner und Europäer
+- die Amerikaner wählen
+
+**Related:** [[Europäer]]
+
+**Exam use:** Alltag, Medien
+<!-- bank:end -->
+
+## My notes
+

@@ -6,7 +6,7 @@ tags: ["moc", "topic/T13"]
 <!-- bank:start -->
 # T13 Zeit, Zahlen, Maße & Mengen
 
-Map of content. 375 words in the main bank, 65 in the B2 bank.
+Map of content. 375 words in the main bank, 142 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -404,9 +404,10 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (65)
+### B2 (142)
 
 - [[ablaufen]] — to expire; to run its course
+- [[Abnahme]] — decrease; acceptance (of work)
 - [[allmählich]] — gradually; little by little
 - [[annähernd]] — approximately; almost
 - [[ansteigen]] — to rise; to go up
@@ -415,61 +416,137 @@ Back to [[00 Home]]
 - [[aufrunden]] — to round up
 - [[aufschieben]] — to postpone; to put off
 - [[augenblicklich]] — immediate; current; immediately
+- [[Ausdehnung]] — expansion; extent
+- [[ausnahmsweise]] — as an exception; for once
 - [[Berechnung]] — calculation
+- [[bevorstehend]] — upcoming; imminent
+- [[bisherig]] — previous; so far
 - [[bislang]] — so far; until now
 - [[bisweilen]] — at times; occasionally
+- [[Bruchteil]] — fraction; tiny part
 - [[Brückentag]] — bridge day (day off between holiday and weekend)
 - [[dauerhaft]] — permanently; lasting
+- [[demnächst]] — soon; shortly
 - [[derzeit]] — currently; at present
+- [[Diagramm]] — diagram; chart; graph
+- [[Dichte]] — density
 - [[die Zeit totschlagen]] — to kill time
+- [[Dreieck]] — triangle
+- [[Durchmesser]] — diameter
+- [[Dutzend]] — dozen
+- [[ehemalig]] — former
 - [[ehemals]] — formerly; once
+- [[eingangs]] — at the beginning; initially
+- [[einst]] — once; formerly
 - [[einstweilen]] — for the time being; meanwhile
+- [[erneut]] — again; anew
+- [[erstmals]] — for the first time
 - [[etwas auf die lange Bank schieben]] — to put something off
+- [[Formel]] — formula
 - [[fortan]] — from now on; henceforth
+- [[Frequenz]] — frequency
+- [[frühzeitig]] — early; in good time
 - [[gegenwärtig]] — present; current
+- [[gelegentlich]] — occasionally
 - [[gemächlich]] — leisurely; unhurried
+- [[Gleichung]] — equation
+- [[Großteil]] — major part; majority
 - [[größtenteils]] — for the most part; mostly
 - [[Hals über Kopf]] — headlong; in a rush
+- [[heutzutage]] — nowadays
 - [[hin und wieder]] — now and then
+- [[Häufigkeit]] — frequency
 - [[im Nu]] — in no time
 - [[in der Regel]] — as a rule; usually
 - [[Jahrestag]] — anniversary
+- [[Kennzahl]] — key figure; indicator; code
+- [[kommend]] — coming; next
+- [[kontinuierlich]] — continuous
+- [[Korrelation]] — correlation
 - [[kurzfristig]] — short-term; at short notice
+- [[künftig]] — future; in future
 - [[langfristig]] — long-term
+- [[laufend]] — current; ongoing; regular
+- [[Laufzeit]] — term; duration; running time
+- [[Lebensjahr]] — year of life
+- [[linear]] — linear
+- [[Masse]] — mass; crowd; bulk
+- [[Maximum]] — maximum; highest level
+- [[Meile]] — mile
+- [[Minimum]] — minimum; lowest level
+- [[Mittelwert]] — mean; average (value)
 - [[mitunter]] — occasionally; at times
 - [[nach und nach]] — little by little; gradually
+- [[Nachhinein]] — hindsight (only in "im Nachhinein")
 - [[nachträglich]] — subsequent; belated; afterwards
 - [[nahezu]] — almost; nearly
 - [[neuerdings]] — recently; lately
+- [[nochmal]] — once more; again
 - [[nunmehr]] — now; from now on
+- [[oftmals]] — often; frequently
+- [[Parameter]] — parameter
+- [[Periode]] — period
+- [[permanent]] — permanent; constant
+- [[proportional]] — proportional
 - [[Prozentsatz]] — percentage; rate
+- [[rasch]] — quick; swift
 - [[reichlich]] — ample; plentiful
 - [[Rückgang]] — decline; decrease
+- [[schlagartig]] — sudden; abrupt
+- [[Schnelligkeit]] — speed; swiftness
 - [[schrumpfen]] — to shrink
 - [[schwanken]] — to fluctuate; to waver
 - [[Schwankung]] — fluctuation
+- [[Schätzung]] — estimate; estimation
 - [[seinerzeit]] — at that time; back then
 - [[seither]] — since then
 - [[sich auf die Socken machen]] — to get going
+- [[Skala]] — scale
+- [[soeben]] — just now; a moment ago
 - [[sogleich]] — at once; immediately
 - [[stagnieren]] — to stagnate
+- [[stetig]] — steady; constant
 - [[stets]] — always; at all times
+- [[stundenlang]] — for hours; lasting hours
 - [[Tag für Tag]] — day after day
 - [[trödeln]] — to dawdle; to dither
+- [[umfangreich]] — extensive; comprehensive
 - [[unterdessen]] — meanwhile; in the meantime
+- [[ununterbrochen]] — continuous; non-stop
+- [[unvermittelt]] — sudden; abrupt
+- [[unzählig]] — countless
+- [[vergangen]] — past; last
 - [[Verlauf]] — course; progress
 - [[Verschiebung]] — shift; postponement
+- [[vielfach]] — often; many times over
+- [[Vielzahl]] — large number; multitude
+- [[Viertelstunde]] — quarter of an hour
+- [[Volumen]] — volume
+- [[von vornherein]] — from the start; from the outset
 - [[vorab]] — in advance; beforehand
 - [[vorerst]] — for the time being; for now
+- [[vorherig]] — previous; prior
+- [[vorig]] — previous; last
+- [[Vorzeichen]] — sign (maths); omen; indication
 - [[vorzeitig]] — premature; early
+- [[vorüber]] — past; over
 - [[vorübergehend]] — temporarily
+- [[Wahrscheinlichkeit]] — probability; likelihood
 - [[wiederholt]] — repeated; repeatedly
+- [[Winkel]] — angle; corner
+- [[währenddessen]] — meanwhile; in the meantime
+- [[zeitgleich]] — simultaneous; at the same time
+- [[Zeitlang]] — while; period (only in "eine Zeitlang")
 - [[zeitweise]] — at times; temporarily
 - [[zu Ende gehen]] — to come to an end
+- [[zumeist]] — mostly; usually
 - [[Zunahme]] — increase; growth
 - [[zuvor]] — before; previously
 - [[zuweilen]] — at times; now and then
+- [[Zwischenzeit]] — meantime (only in "in der Zwischenzeit")
 - [[zwischenzeitlich]] — in the meantime; meanwhile
+- [[öfter]] — more often; several times
+- [[öfters]] — often; repeatedly
 - [[über kurz oder lang]] — sooner or later
 <!-- bank:end -->
 

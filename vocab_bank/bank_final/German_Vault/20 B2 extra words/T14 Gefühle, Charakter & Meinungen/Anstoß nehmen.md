@@ -29,6 +29,8 @@ status: "new"
 - Anstoß erregen
 - keinen Anstoß nehmen
 
+**Related:** [[erregen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

@@ -33,7 +33,7 @@ status: "new"
 - Anerkennungsverfahren beantragen
 - Dauer des Anerkennungsverfahrens
 
-**Related:** [[Dauer]]
+**Related:** [[durchlaufen]] · [[Dauer]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

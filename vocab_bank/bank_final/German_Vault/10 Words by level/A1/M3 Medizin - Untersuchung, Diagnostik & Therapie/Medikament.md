@@ -36,7 +36,7 @@ status: "new"
 - Medikamente absetzen
 - ein Medikament vertragen
 
-**Related:** [[einnehmen]] · [[verschreiben]]
+**Related:** [[einnehmen]] · [[verschreiben]] · [[absetzen]] · [[vertragen]]
 
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->

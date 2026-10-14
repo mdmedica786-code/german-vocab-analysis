@@ -33,7 +33,7 @@ status: "new"
 - die Existenz bedrohen
 - Existenzgründung
 
-**Related:** [[aufbauen]]
+**Related:** [[aufbauen]] · [[bedrohen]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

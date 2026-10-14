@@ -31,7 +31,7 @@ status: "new"
 - einen Entschluss bekräftigen
 - die Forderung bekräftigen
 
-**Related:** [[Aussage]] · [[Forderung]]
+**Related:** [[Aussage]] · [[Entschluss]] · [[Forderung]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

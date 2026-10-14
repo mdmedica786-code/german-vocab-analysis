@@ -1,0 +1,36 @@
+---
+title: "unrecht"
+type: "word"
+lemma: "unrecht"
+meaning: "wrong; unjust"
+pos: "adjective"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2602"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
+---
+<!-- bank:start -->
+# unrecht
+
+**Meaning:** wrong; unjust
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mit dieser Behauptung tust du ihm unrecht.
+> *With this claim you do him an injustice.*
+
+**Collocations**
+- unrecht haben
+- jemandem unrecht tun
+- zu Unrecht
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

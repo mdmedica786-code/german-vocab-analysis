@@ -1,0 +1,38 @@
+---
+title: "militärisch"
+type: "word"
+lemma: "militärisch"
+meaning: "military"
+pos: "adjective"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2568"
+exam_use: ["Lesen", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
+---
+<!-- bank:start -->
+# militärisch
+
+**Meaning:** military
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Land verstärkt seine militärische Präsenz.
+> *The country is strengthening its military presence.*
+
+**Collocations**
+- militärische Gewalt
+- ein militärischer Einsatz
+- militärisch eingreifen
+
+**Related:** [[Gewalt]] · [[Einsatz]] · [[eingreifen]]
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

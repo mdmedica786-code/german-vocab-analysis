@@ -33,7 +33,7 @@ status: "new"
 - jemanden zur Eile treiben
 - Unsinn treiben
 
-**Related:** [[Sport]] · [[Handel]] · [[Eile]]
+**Related:** [[Sport]] · [[Handel]] · [[Eile]] · [[Unsinn]]
 
 **Source:** Goethe word list B1
 <!-- bank:end -->

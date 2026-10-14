@@ -29,7 +29,7 @@ status: "new"
 - eine unvermeidliche Folge
 - sich als unvermeidlich erweisen
 
-**Related:** [[Folge]]
+**Related:** [[Folge]] · [[erweisen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

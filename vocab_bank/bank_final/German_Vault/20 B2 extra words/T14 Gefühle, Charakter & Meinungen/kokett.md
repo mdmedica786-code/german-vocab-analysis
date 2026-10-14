@@ -29,7 +29,7 @@ status: "new"
 - kokett wirken
 - eine kokette Geste
 
-**Related:** [[wirken]]
+**Related:** [[wirken]] · [[Geste]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

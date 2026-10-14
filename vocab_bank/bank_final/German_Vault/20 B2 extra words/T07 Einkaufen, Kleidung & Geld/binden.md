@@ -31,6 +31,8 @@ status: "new"
 - die Schuhe binden
 - sich binden
 
+**Related:** [[Knoten]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

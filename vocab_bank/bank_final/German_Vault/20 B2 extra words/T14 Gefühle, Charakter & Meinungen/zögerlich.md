@@ -29,6 +29,8 @@ status: "new"
 - eine zögerliche Haltung
 - zögerlich zustimmen
 
+**Related:** [[Haltung]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

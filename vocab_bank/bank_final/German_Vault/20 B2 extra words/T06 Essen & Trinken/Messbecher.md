@@ -33,7 +33,7 @@ status: "new"
 - ein Messbecher mit Skala
 - Milch im Messbecher
 
-**Related:** [[Milch]]
+**Related:** [[Skala]] · [[Milch]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

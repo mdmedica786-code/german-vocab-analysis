@@ -31,7 +31,7 @@ status: "new"
 - eine Einigung erzielen
 - einen Gewinn erzielen
 
-**Related:** [[Ergebnis]] · [[Gewinn]]
+**Related:** [[Ergebnis]] · [[Einigung]] · [[Gewinn]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

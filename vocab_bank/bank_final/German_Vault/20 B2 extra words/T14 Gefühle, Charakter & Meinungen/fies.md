@@ -29,6 +29,8 @@ status: "new"
 - fies sein
 - fies grinsen
 
+**Related:** [[grinsen]]
+
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->
 

@@ -29,7 +29,7 @@ status: "new"
 - ansatzweise erkennbar
 - ansatzweise vorhanden
 
-**Related:** [[vorhanden]]
+**Related:** [[erkennbar]] · [[vorhanden]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

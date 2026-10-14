@@ -29,6 +29,8 @@ status: "new"
 - schadenfroh sein
 - schadenfroh grinsen
 
+**Related:** [[grinsen]]
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

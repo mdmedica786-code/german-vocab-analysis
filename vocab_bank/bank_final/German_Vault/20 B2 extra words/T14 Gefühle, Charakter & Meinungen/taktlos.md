@@ -29,7 +29,7 @@ status: "new"
 - eine taktlose Bemerkung
 - sich taktlos verhalten
 
-**Related:** [[verhalten (verb)|verhalten]]
+**Related:** [[Bemerkung]] · [[verhalten (verb)|verhalten]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->

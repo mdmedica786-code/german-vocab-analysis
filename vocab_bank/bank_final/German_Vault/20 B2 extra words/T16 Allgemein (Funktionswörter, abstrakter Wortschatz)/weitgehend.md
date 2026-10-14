@@ -28,7 +28,7 @@ status: "new"
 - weitgehend unbekannt
 - weitgehend zufrieden
 
-**Related:** [[zufrieden]]
+**Related:** [[unbekannt]] · [[zufrieden]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

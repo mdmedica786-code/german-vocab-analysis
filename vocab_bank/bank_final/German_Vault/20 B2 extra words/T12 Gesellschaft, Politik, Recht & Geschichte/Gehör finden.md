@@ -28,7 +28,7 @@ status: "new"
 - kein Gehör finden
 - sich Gehör verschaffen
 
-**Related:** [[Gehör]]
+**Related:** [[Gehör]] · [[verschaffen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

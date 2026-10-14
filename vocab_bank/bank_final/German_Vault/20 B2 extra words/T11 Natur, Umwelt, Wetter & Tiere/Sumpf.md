@@ -33,6 +33,8 @@ status: "new"
 - ein Sumpf voller Mücken
 - den Sumpf trockenlegen
 
+**Related:** [[versinken]]
+
 **Exam use:** Lesen, Medien
 <!-- bank:end -->
 

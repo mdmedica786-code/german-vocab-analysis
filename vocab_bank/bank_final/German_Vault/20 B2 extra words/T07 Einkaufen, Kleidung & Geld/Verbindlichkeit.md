@@ -33,6 +33,8 @@ status: "new"
 - seinen Verbindlichkeiten nachkommen
 - offene Verbindlichkeiten
 
+**Related:** [[nachkommen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

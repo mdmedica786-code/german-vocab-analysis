@@ -34,7 +34,7 @@ status: "new"
 - Elemente kombinieren
 - Element der Überraschung
 
-**Related:** [[Überraschung]]
+**Related:** [[kombinieren]] · [[Überraschung]]
 <!-- bank:end -->
 
 ## My notes

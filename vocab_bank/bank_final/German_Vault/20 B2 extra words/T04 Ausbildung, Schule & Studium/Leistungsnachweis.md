@@ -33,6 +33,8 @@ status: "new"
 - Leistungsnachweise sammeln
 - ein benoteter Leistungsnachweis
 
+**Related:** [[erbringen]]
+
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->
 

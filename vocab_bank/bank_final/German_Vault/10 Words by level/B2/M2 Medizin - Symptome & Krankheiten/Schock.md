@@ -34,7 +34,7 @@ status: "new"
 - anaphylaktischer Schock
 - einen Schock behandeln
 
-**Related:** [[behandeln]]
+**Related:** [[erleiden]] · [[behandeln]]
 <!-- bank:end -->
 
 ## My notes

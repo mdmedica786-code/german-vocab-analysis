@@ -28,7 +28,7 @@ status: "new"
 - eine Möglichkeit in Betracht ziehen
 - alle Umstände in Betracht ziehen
 
-**Related:** [[Möglichkeit]]
+**Related:** [[Möglichkeit]] · [[Betracht]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

@@ -1,0 +1,41 @@
+---
+title: "auftragen"
+type: "word"
+aliases: ["trägt auf", "trug auf", "hat aufgetragen"]
+lemma: "auftragen"
+meaning: "to apply; to spread on; to serve"
+pos: "verb"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D3485"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# auftragen
+
+**Meaning:** to apply; to spread on; to serve
+**Forms:** trägt auf · trug auf · hat aufgetragen
+**Grammar:** separable (auf-)
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sie trägt jeden Morgen eine Creme auf.
+> *She applies a cream every morning.*
+
+**Collocations**
+- Creme auftragen
+- Farbe auftragen
+- jemandem etwas auftragen
+
+**Related:** [[Creme]] · [[Farbe]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

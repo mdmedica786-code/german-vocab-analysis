@@ -35,7 +35,7 @@ status: "new"
 - das Bedürfnis nach Ruhe
 - menschliche Bedürfnisse
 
-**Related:** [[Ruhe]]
+**Related:** [[befriedigen]] · [[Ruhe]]
 
 **Source:** Netzwerk neu B1 K10 1c ÜB (Miteinander)
 <!-- bank:end -->

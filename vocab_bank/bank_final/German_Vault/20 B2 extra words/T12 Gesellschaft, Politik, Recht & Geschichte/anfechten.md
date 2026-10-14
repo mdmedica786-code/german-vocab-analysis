@@ -32,7 +32,7 @@ status: "new"
 - eine Entscheidung anfechten
 - ein Testament anfechten
 
-**Related:** [[Urteil]] · [[Entscheidung]]
+**Related:** [[Urteil]] · [[Entscheidung]] · [[Testament]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

@@ -28,6 +28,8 @@ status: "new"
 - keine Berücksichtigung finden
 - berücksichtigt werden
 
+**Related:** [[Berücksichtigung]]
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

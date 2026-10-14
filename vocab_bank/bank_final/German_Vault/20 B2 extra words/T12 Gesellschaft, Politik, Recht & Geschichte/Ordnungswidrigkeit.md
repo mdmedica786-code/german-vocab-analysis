@@ -33,7 +33,7 @@ status: "new"
 - Bußgeld für Ordnungswidrigkeit
 - geringfügige Ordnungswidrigkeit
 
-**Related:** [[Bußgeld]]
+**Related:** [[begehen]] · [[Bußgeld]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

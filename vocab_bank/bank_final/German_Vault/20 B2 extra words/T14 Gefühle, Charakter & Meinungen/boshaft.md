@@ -29,6 +29,8 @@ status: "new"
 - boshaft lächeln
 - boshaft sein
 
+**Related:** [[Bemerkung]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

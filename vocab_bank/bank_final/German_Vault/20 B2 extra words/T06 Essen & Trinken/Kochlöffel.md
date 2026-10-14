@@ -33,7 +33,7 @@ status: "new"
 - ein Kochlöffel aus Holz
 - den Kochlöffel schwingen
 
-**Related:** [[rühren]] · [[Holz]]
+**Related:** [[rühren]] · [[Holz]] · [[schwingen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

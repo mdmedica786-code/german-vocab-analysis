@@ -33,6 +33,8 @@ status: "new"
 - Regeln der Wortbildung
 - zur Wortbildung
 
+**Related:** [[Ableitung]]
+
 **Exam use:** Grammatik, Wissenschaft
 <!-- bank:end -->
 

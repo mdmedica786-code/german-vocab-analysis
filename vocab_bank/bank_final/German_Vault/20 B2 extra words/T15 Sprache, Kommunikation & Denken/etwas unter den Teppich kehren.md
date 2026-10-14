@@ -29,7 +29,7 @@ status: "new"
 - Fehler unter den Teppich kehren
 - etwas vertuschen
 
-**Related:** [[Teppich]] · [[Fehler]]
+**Related:** [[Teppich]] · [[kehren]] · [[Fehler]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

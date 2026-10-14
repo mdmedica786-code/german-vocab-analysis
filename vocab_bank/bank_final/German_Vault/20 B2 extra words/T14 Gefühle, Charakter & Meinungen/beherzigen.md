@@ -31,6 +31,8 @@ status: "new"
 - eine Warnung beherzigen
 - Lehren beherzigen
 
+**Related:** [[Warnung]]
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

@@ -33,6 +33,8 @@ status: "new"
 - den Korkenzieher ansetzen
 - einen Korkenzieher brauchen
 
+**Related:** [[ansetzen]]
+
 **Exam use:** Alltag, Hören
 <!-- bank:end -->
 

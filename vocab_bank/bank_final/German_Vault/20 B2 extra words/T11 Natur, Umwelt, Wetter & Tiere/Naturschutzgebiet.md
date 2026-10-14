@@ -33,7 +33,7 @@ status: "new"
 - im Naturschutzgebiet
 - Naturschutzgebiet ausweisen
 
-**Related:** [[betreten]]
+**Related:** [[betreten]] · [[ausweisen]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

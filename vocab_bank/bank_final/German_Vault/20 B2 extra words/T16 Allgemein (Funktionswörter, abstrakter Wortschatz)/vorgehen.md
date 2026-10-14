@@ -32,7 +32,7 @@ status: "new"
 - systematisch vorgehen
 - Vorrang haben
 
-**Related:** [[Vorrang]]
+**Related:** [[systematisch]] · [[Vorrang]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

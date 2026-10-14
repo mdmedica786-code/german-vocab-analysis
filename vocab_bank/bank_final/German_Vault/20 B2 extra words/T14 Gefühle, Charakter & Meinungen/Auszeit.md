@@ -33,7 +33,7 @@ status: "new"
 - sich eine Auszeit gönnen
 - Auszeit vom Alltag
 
-**Related:** [[Alltag]]
+**Related:** [[gönnen]] · [[Alltag]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

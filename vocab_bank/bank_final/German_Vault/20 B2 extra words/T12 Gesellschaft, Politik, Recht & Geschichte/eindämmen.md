@@ -31,7 +31,7 @@ status: "new"
 - die Ausbreitung eindämmen
 - Kosten eindämmen
 
-**Related:** [[Kosten]]
+**Related:** [[Ausbreitung]] · [[Kosten]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

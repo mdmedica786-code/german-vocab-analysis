@@ -33,7 +33,7 @@ status: "new"
 - Trinkwasserversorgung gefährden
 - öffentliche Trinkwasserversorgung
 
-**Related:** [[sichern]]
+**Related:** [[sichern]] · [[gefährden]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

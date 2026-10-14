@@ -34,7 +34,7 @@ status: "new"
 - die Diagnostik erweitern
 - invasive Diagnostik
 
-**Related:** [[Therapie]]
+**Related:** [[Therapie]] · [[erweitern]]
 <!-- bank:end -->
 
 ## My notes

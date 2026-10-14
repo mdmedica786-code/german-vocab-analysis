@@ -1,0 +1,40 @@
+---
+title: "verkehren"
+type: "word"
+aliases: ["verkehrt", "verkehrte", "hat verkehrt"]
+lemma: "verkehren"
+meaning: "to run (public transport); to associate (with)"
+pos: "verb"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D3537"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# verkehren
+
+**Meaning:** to run (public transport); to associate (with)
+**Forms:** verkehrt · verkehrte · hat verkehrt
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Busse verkehren alle zehn Minuten.
+> *The buses run every ten minutes.*
+
+**Collocations**
+- regelmäßig verkehren
+- mit jemandem verkehren
+- der Zug verkehrt täglich
+
+**Related:** [[regelmäßig]] · [[verkehrt]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

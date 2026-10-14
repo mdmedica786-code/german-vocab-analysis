@@ -29,7 +29,7 @@ status: "new"
 - anderweitig verwenden
 - anderweitig beschäftigt
 
-**Related:** [[beschäftigt]]
+**Related:** [[vergeben]] · [[beschäftigt]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

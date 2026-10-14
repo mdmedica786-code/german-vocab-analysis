@@ -32,7 +32,7 @@ status: "new"
 - jemanden von der Arbeit abhalten
 - eine Prüfung abhalten
 
-**Related:** [[Arbeit]] · [[Prüfung]]
+**Related:** [[Sitzung]] · [[Arbeit]] · [[Prüfung]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

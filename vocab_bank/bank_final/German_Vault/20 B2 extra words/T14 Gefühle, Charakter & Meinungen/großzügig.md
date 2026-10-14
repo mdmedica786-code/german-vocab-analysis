@@ -29,7 +29,7 @@ status: "new"
 - eine großzügige Geste
 - großzügig geplant
 
-**Related:** [[spenden]]
+**Related:** [[spenden]] · [[Geste]]
 
 **Exam use:** Alltag, Sprechen
 <!-- bank:end -->

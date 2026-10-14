@@ -1,0 +1,38 @@
+---
+title: "längs"
+type: "word"
+lemma: "längs"
+meaning: "lengthways; along"
+pos: "adverb"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D3325"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# längs
+
+**Meaning:** lengthways; along
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Brett wurde längs durchgesägt.
+> *The board was sawn through lengthways.*
+
+**Collocations**
+- längs der Straße
+- längs liegen
+- längs des Flusses
+
+**Related:** [[Straße]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

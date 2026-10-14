@@ -33,7 +33,7 @@ status: "new"
 - einen Versuch wagen
 - sich nicht wagen
 
-**Related:** [[Versuch]]
+**Related:** [[Sprung]] · [[Versuch]]
 <!-- bank:end -->
 
 ## My notes

@@ -1,0 +1,40 @@
+---
+title: "Verstoß"
+type: "word"
+aliases: ["der Verstoß", "Verstöße"]
+lemma: "Verstoß"
+meaning: "violation; breach; offence"
+pos: "noun"
+article: "der"
+plural: "Verstöße"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D3370"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# der Verstoß
+
+**Meaning:** violation; breach; offence
+**Plural:** Verstöße
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Verstoß gegen die Regeln wurde bestraft.
+> *The violation of the rules was punished.*
+
+**Collocations**
+- ein Verstoß gegen
+- einen Verstoß melden
+- bei einem Verstoß
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

@@ -27,7 +27,7 @@ status: "new"
 **Collocations**
 - zu einer Einigung gelangen
 
-**Related:** [[gelangen]]
+**Related:** [[Einigung]] · [[gelangen]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

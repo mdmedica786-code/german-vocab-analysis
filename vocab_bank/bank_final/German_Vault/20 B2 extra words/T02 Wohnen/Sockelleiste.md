@@ -33,7 +33,7 @@ status: "new"
 - die Sockelleiste streichen
 - weiße Sockelleisten
 
-**Related:** [[streichen]]
+**Related:** [[anbringen]] · [[streichen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

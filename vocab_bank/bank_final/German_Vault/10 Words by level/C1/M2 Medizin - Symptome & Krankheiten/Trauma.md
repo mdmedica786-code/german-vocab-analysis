@@ -34,7 +34,7 @@ status: "new"
 - ein Trauma verarbeiten
 - ein schweres Trauma
 
-**Related:** [[verarbeiten]]
+**Related:** [[erleiden]] · [[verarbeiten]]
 <!-- bank:end -->
 
 ## My notes

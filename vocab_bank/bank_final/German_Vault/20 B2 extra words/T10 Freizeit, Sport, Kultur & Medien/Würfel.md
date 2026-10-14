@@ -1,0 +1,42 @@
+---
+title: "Würfel"
+type: "word"
+aliases: ["der Würfel"]
+lemma: "Würfel"
+meaning: "dice; cube"
+pos: "noun"
+article: "der"
+plural: "Würfel"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D3466"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# der Würfel
+
+**Meaning:** dice; cube
+**Plural:** Würfel
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wer den Würfel wirft, darf beginnen.
+> *Whoever throws the dice may begin.*
+
+**Collocations**
+- den Würfel werfen
+- ein Würfel aus Holz
+- Würfel spielen
+
+**Related:** [[Holz]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

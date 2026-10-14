@@ -29,7 +29,7 @@ status: "new"
 - die ehemalige Hauptstadt
 - ehemals bekannt als
 
-**Related:** [[Hauptstadt]] · [[bekannt]]
+**Related:** [[Kloster]] · [[Hauptstadt]] · [[bekannt]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

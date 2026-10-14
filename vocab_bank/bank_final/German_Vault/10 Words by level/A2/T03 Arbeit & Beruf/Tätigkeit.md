@@ -36,6 +36,8 @@ status: "new"
 - eine Tätigkeit beenden
 - freiberufliche Tätigkeit
 
+**Related:** [[ausüben]]
+
 **Source:** Netzwerk neu A2 K6 2a (Arbeitswelten) · Goethe word list B1
 <!-- bank:end -->
 

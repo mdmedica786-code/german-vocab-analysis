@@ -1,0 +1,40 @@
+---
+title: "Zusammensetzung"
+type: "word"
+aliases: ["die Zusammensetzung", "Zusammensetzungen"]
+lemma: "Zusammensetzung"
+meaning: "composition; make-up"
+pos: "noun"
+article: "die"
+plural: "Zusammensetzungen"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2728"
+exam_use: ["Schreiben", "Wissenschaft"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
+---
+<!-- bank:start -->
+# die Zusammensetzung
+
+**Meaning:** composition; make-up
+**Plural:** Zusammensetzungen
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Zusammensetzung der Gruppe hat sich geändert.
+> *The make-up of the group has changed.*
+
+**Collocations**
+- die Zusammensetzung des Teams
+- chemische Zusammensetzung
+- in neuer Zusammensetzung
+
+**Exam use:** Schreiben, Wissenschaft
+<!-- bank:end -->
+
+## My notes
+

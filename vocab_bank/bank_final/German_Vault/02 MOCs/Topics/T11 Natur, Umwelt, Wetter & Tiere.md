@@ -6,7 +6,7 @@ tags: ["moc", "topic/T11"]
 <!-- bank:start -->
 # T11 Natur, Umwelt, Wetter & Tiere
 
-Map of content. 249 words in the main bank, 209 in the B2 bank.
+Map of content. 249 words in the main bank, 254 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -278,19 +278,24 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (209)
+### B2 (254)
 
 - [[abgelegen]] — remote; secluded
+- [[Abgrund]] — abyss; precipice
 - [[Abholzung]] — deforestation; felling
 - [[Abwasser]] — wastewater; sewage
 - [[Acker]] — field (arable); ploughed land
+- [[Adler]] — eagle
 - [[Ahorn]] — maple
 - [[Altpapier]] — waste paper
 - [[Ameise]] — ant
 - [[Amsel]] — blackbird
 - [[Artenschutz]] — species protection
 - [[Artensterben]] — species extinction
+- [[Asche]] — ash; ashes
+- [[Ast]] — branch
 - [[Aufforstung]] — reforestation; afforestation
+- [[Ausbreitung]] — spread; expansion
 - [[ausgetrocknet]] — dried out; parched
 - [[Aussterben]] — extinction; dying out
 - [[Bach]] — brook; stream
@@ -310,6 +315,7 @@ Back to [[00 Home]]
 - [[brütend]] — sweltering; brooding
 - [[Buche]] — beech
 - [[Bucht]] — bay; cove
+- [[Busch]] — bush; shrub
 - [[Dachbegrünung]] — green roof
 - [[Dachs]] — badger
 - [[Damm]] — dam; embankment
@@ -318,6 +324,7 @@ Back to [[00 Home]]
 - [[Dickicht]] — thicket; undergrowth
 - [[diesig]] — hazy; misty
 - [[drückend]] — oppressive; sultry
+- [[Dämmerung]] — dusk; dawn; twilight
 - [[Düne]] — dune
 - [[Düngemittel]] — fertiliser
 - [[Dürre]] — drought
@@ -333,9 +340,15 @@ Back to [[00 Home]]
 - [[Erderwärmung]] — global warming
 - [[Erdrutsch]] — landslide
 - [[Ernährungssicherheit]] — food security
+- [[erzeugen]] — to produce; to generate
 - [[Eule]] — owl
+- [[Evolution]] — evolution
+- [[Explosion]] — explosion
 - [[Farn]] — fern
 - [[Feinstaub]] — fine dust; particulate matter
+- [[Fell]] — fur; coat; hide
+- [[Fels]] — rock; cliff; boulder
+- [[Feuchtigkeit]] — moisture; humidity; dampness
 - [[Fichte]] — spruce
 - [[Fledermaus]] — bat
 - [[Flut]] — high tide; flood
@@ -346,8 +359,10 @@ Back to [[00 Home]]
 - [[Frosch]] — frog
 - [[Frost]] — frost
 - [[frostig]] — frosty; chilly
+- [[Gattung]] — genus; genre; kind
 - [[gedeihen]] — to thrive; to flourish
 - [[gefährdet]] — endangered; at risk
+- [[Gestank]] — stench; bad smell
 - [[Gewässer]] — body of water; waters
 - [[Gezeiten]] — tides
 - [[Gletscher]] — glacier
@@ -355,6 +370,8 @@ Back to [[00 Home]]
 - [[Grundwasser]] — groundwater
 - [[Hagel]] — hail
 - [[Halbinsel]] — peninsula
+- [[Hang]] — slope; tendency
+- [[Hauch]] — breath; hint; touch
 - [[Heide]] — heath
 - [[Herde]] — herd; flock
 - [[Hitzewelle]] — heatwave
@@ -367,22 +384,29 @@ Back to [[00 Home]]
 - [[Insektensterben]] — insect decline
 - [[karg]] — meagre; barren
 - [[Kastanie]] — chestnut
+- [[Kater]] — tomcat; hangover
 - [[Kernkraft]] — nuclear power
 - [[Klimaschutz]] — climate protection
 - [[Klimaziel]] — climate target
 - [[Kläranlage]] — sewage treatment plant
+- [[Knall]] — bang; crack; pop
+- [[Kohle]] — coal
 - [[Kohlendioxid]] — carbon dioxide
 - [[Kompost]] — compost
 - [[Komposthaufen]] — compost heap
 - [[Kreislaufwirtschaft]] — circular economy
 - [[Kröte]] — toad
+- [[Kupfer]] — copper
 - [[Käfer]] — beetle
 - [[Käfig]] — cage
 - [[Kälteeinbruch]] — sudden cold spell
 - [[Landschaftsschutz]] — landscape conservation
+- [[Laub]] — foliage; fallen leaves
 - [[Lawine]] — avalanche
 - [[Lebensraum]] — habitat; living space
+- [[Lebewesen]] — living being; creature
 - [[Leine]] — lead; leash; line
+- [[leuchtend]] — bright; glowing; vivid
 - [[Libelle]] — dragonfly
 - [[Lichtung]] — clearing
 - [[Linde]] — lime tree; linden
@@ -415,6 +439,7 @@ Back to [[00 Home]]
 - [[Qualle]] — jellyfish
 - [[Raubtier]] — predator; beast of prey
 - [[Raureif]] — hoarfrost
+- [[rauschen]] — to rustle; to roar; to rush
 - [[Regenwald]] — rainforest
 - [[Reh]] — roe deer
 - [[Revier]] — territory; district
@@ -423,8 +448,12 @@ Back to [[00 Home]]
 - [[Rohstoff]] — raw material
 - [[Rudel]] — pack
 - [[Schadstoff]] — pollutant; harmful substance
+- [[Schauer]] — shower; shudder
+- [[Scheune]] — barn
 - [[schimmern]] — to shimmer; to glimmer
+- [[Schlamm]] — mud
 - [[Schlucht]] — gorge; ravine
+- [[schlüpfen]] — to slip; to hatch
 - [[schmelzen]] — to melt
 - [[Schmetterling]] — butterfly
 - [[Schnecke]] — snail; slug
@@ -437,23 +466,33 @@ Back to [[00 Home]]
 - [[Solaranlage]] — solar power system; solar panels
 - [[Sondermüll]] — hazardous waste
 - [[Sonnenblume]] — sunflower
+- [[Sonnenlicht]] — sunlight
+- [[Sonnenschein]] — sunshine
+- [[Sonnenuntergang]] — sunset
 - [[Spatz]] — sparrow
 - [[spiegelglatt]] — smooth as glass; icy
 - [[Stadtklima]] — urban climate
+- [[Stahl]] — steel
 - [[Stausee]] — reservoir
 - [[stellenweise]] — in places; here and there
+- [[Strahl]] — ray; beam; jet
+- [[Strahlung]] — radiation
 - [[Stromnetz]] — power grid
+- [[strömen]] — to stream; to flow; to pour
 - [[Sturmflut]] — storm surge
 - [[Sumpf]] — swamp; marsh
+- [[Tageslicht]] — daylight
 - [[Tanne]] — fir
 - [[Tau]] — dew
 - [[Taube]] — pigeon; dove
 - [[Tauwetter]] — thaw
 - [[Teich]] — pond
+- [[Teilchen]] — particle; small piece
 - [[Tiefdruck]] — low pressure
 - [[Tierhaltung]] — keeping of animals; animal husbandry
 - [[Tierheim]] — animal shelter
 - [[Tierschutz]] — animal protection
+- [[Tiger]] — tiger
 - [[Treibhauseffekt]] — greenhouse effect
 - [[Treibhausgas]] — greenhouse gas
 - [[Trinkwasserversorgung]] — drinking water supply
@@ -462,9 +501,12 @@ Back to [[00 Home]]
 - [[Umweltbelastung]] — environmental pollution; burden on the environment
 - [[Umweltbewusstsein]] — environmental awareness
 - [[Unwetter]] — storm; severe weather
+- [[Verbrauch]] — consumption; use
 - [[Verkehrswende]] — transport transition (to sustainable mobility)
+- [[Vermehrung]] — increase; multiplication; reproduction
 - [[verschmutzt]] — dirty; polluted
 - [[verwittert]] — weathered
+- [[Vieh]] — cattle; livestock
 - [[Viehzucht]] — livestock farming
 - [[Vulkan]] — volcano
 - [[Wal]] — whale
@@ -474,6 +516,7 @@ Back to [[00 Home]]
 - [[Watt]] — tidal flats; mudflats
 - [[wechselhaft]] — changeable; variable
 - [[Wegwerfgesellschaft]] — throwaway society
+- [[wehen]] — to blow; to flutter
 - [[Weide]] — pasture; willow
 - [[Welpe]] — puppy
 - [[Wespe]] — wasp
@@ -483,7 +526,9 @@ Back to [[00 Home]]
 - [[Windpark]] — wind farm
 - [[Winterschlaf]] — hibernation
 - [[Wirbelsturm]] — cyclone; hurricane
+- [[Wolf]] — wolf
 - [[wolkenlos]] — cloudless
+- [[Wüste]] — desert
 - [[Zersiedelung]] — urban sprawl
 - [[Zugvogel]] — migratory bird
 - [[Ökolandbau]] — organic farming

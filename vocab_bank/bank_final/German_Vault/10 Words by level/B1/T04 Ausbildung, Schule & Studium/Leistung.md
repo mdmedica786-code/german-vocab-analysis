@@ -35,7 +35,7 @@ status: "new"
 - Leistungen erbringen
 - Leistungen der Krankenkasse
 
-**Related:** [[Krankenkasse]]
+**Related:** [[erbringen]] · [[Krankenkasse]]
 
 **Source:** Goethe word list B1
 <!-- bank:end -->

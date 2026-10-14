@@ -1,0 +1,42 @@
+---
+title: "Erfassung"
+type: "word"
+aliases: ["die Erfassung", "Erfassungen"]
+lemma: "Erfassung"
+meaning: "recording; registration"
+pos: "noun"
+article: "die"
+plural: "Erfassungen"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2739"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Erfassung
+
+**Meaning:** recording; registration
+**Plural:** Erfassungen
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Erfassung der Daten ist abgeschlossen.
+> *The recording of the data is complete.*
+
+**Collocations**
+- die Erfassung von Daten
+- statistische Erfassung
+- zur Erfassung
+
+**Related:** [[Daten]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

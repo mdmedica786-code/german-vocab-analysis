@@ -33,7 +33,7 @@ status: "new"
 - berührt werden
 - Gefühle berühren
 
-**Related:** [[Haut]]
+**Related:** [[Haut]] · [[sanft]]
 
 **Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
 <!-- bank:end -->

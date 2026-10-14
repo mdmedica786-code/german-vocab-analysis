@@ -31,7 +31,7 @@ status: "new"
 - jemanden um Hilfe anflehen
 - flehend bitten
 
-**Related:** [[Hilfe]]
+**Related:** [[Gnade]] · [[Hilfe]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

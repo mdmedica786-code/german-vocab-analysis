@@ -6,7 +6,7 @@ tags: ["moc", "topic/T14"]
 <!-- bank:start -->
 # T14 Gefühle, Charakter & Meinungen
 
-Map of content. 367 words in the main bank, 428 in the B2 bank.
+Map of content. 367 words in the main bank, 574 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -396,15 +396,17 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (428)
+### B2 (574)
 
 - [[abbringen]] — to dissuade; to talk out of
 - [[abfinden]] — to come to terms with; to put up with
 - [[ablenken]] — to distract; to divert
 - [[abschalten]] — to switch off; to unwind
+- [[absichtlich]] — deliberate; intentional
 - [[Abstand halten]] — to keep one's distance
 - [[abstoßend]] — repulsive; repellent
 - [[achtlos]] — careless; heedless
+- [[Aggression]] — aggression
 - [[albern]] — silly; childish
 - [[am Ball bleiben]] — to keep at it; to stay on the ball
 - [[anpöbeln]] — to harass verbally; to abuse
@@ -417,6 +419,7 @@ Back to [[00 Home]]
 - [[Anteil nehmen]] — to sympathise; to take an interest
 - [[Anteilnahme]] — sympathy; concern
 - [[antreiben]] — to drive; to urge on
+- [[antun]] — to do to someone; to inflict
 - [[anvertrauen]] — to entrust; to confide
 - [[auf der Hut sein]] — to be on one's guard
 - [[auf die Probe stellen]] — to put to the test
@@ -441,17 +444,26 @@ Back to [[00 Home]]
 - [[ausharren]] — to hold out; to wait it out
 - [[ausnutzen]] — to take advantage of; to exploit
 - [[ausrasten]] — to lose it; to flip out
+- [[Ausstrahlung]] — charisma; presence; broadcast
 - [[Auszeit]] — time out; break
+- [[Außenwelt]] — outside world
+- [[bedrohlich]] — threatening; ominous
 - [[bedrückt]] — depressed; dejected
 - [[befangen]] — biased; self-conscious
+- [[befriedigen]] — to satisfy
+- [[Befriedigung]] — satisfaction; gratification
 - [[begnügen]] — to content oneself (with)
 - [[beharren]] — to insist; to persist
 - [[beharrlich]] — persistent; tenacious
 - [[Beharrlichkeit]] — persistence; tenacity
+- [[Beherrschung]] — control; mastery; self-control
 - [[beherzigen]] — to take to heart
+- [[behutsam]] — careful; gentle
 - [[Behutsamkeit]] — gentleness; caution
 - [[beklommen]] — uneasy; anxious
 - [[beleidigt]] — offended; sulking
+- [[Bereitschaft]] — readiness; willingness; standby duty
+- [[bereitwillig]] — willing; readily
 - [[bescheiden]] — modest; humble
 - [[beschimpfen]] — to insult; to abuse
 - [[Beschwichtigung]] — appeasement; soothing
@@ -459,22 +471,29 @@ Back to [[00 Home]]
 - [[besessen]] — obsessed; possessed
 - [[besinnen]] — to reflect; to remember
 - [[besonnen]] — level-headed; prudent
+- [[Besorgnis]] — concern; worry
 - [[Beständigkeit]] — constancy; stability; durability
 - [[bestärken]] — to reinforce; to encourage
 - [[bestürzt]] — dismayed; shocked
 - [[Betroffenheit]] — dismay; being affected
 - [[betrübt]] — saddened; sad
 - [[betteln]] — to beg
+- [[beunruhigen]] — to worry; to alarm
+- [[bevorzugen]] — to prefer; to favour
 - [[bewahren]] — to preserve; to keep; to protect
 - [[Beweggrund]] — motive; reason
+- [[Bewunderung]] — admiration
 - [[bewusstlos]] — unconscious
+- [[Bewältigung]] — coping; mastering
 - [[bezaubernd]] — charming; enchanting
 - [[bissig]] — snappy; biting
 - [[blamieren]] — to embarrass; to make a fool of
 - [[bockig]] — stubborn; sulky (colloquial)
 - [[bodenständig]] — down-to-earth; grounded
 - [[boshaft]] — malicious; spiteful
+- [[brav]] — well-behaved; good; obedient
 - [[Charakterzug]] — character trait
+- [[Charme]] — charm
 - [[Dankbarkeit]] — gratitude
 - [[das Eis brechen]] — to break the ice
 - [[das Handtuch werfen]] — to throw in the towel
@@ -487,11 +506,19 @@ Back to [[00 Home]]
 - [[Druck ausüben]] — to put pressure on
 - [[drängen]] — to push; to urge
 - [[dulden]] — to tolerate; to put up with
+- [[Dummheit]] — stupidity; foolish act
 - [[durchaus]] — quite; perfectly
 - [[durchhalten]] — to hold out; to persevere
 - [[Durchhaltevermögen]] — staying power; perseverance
+- [[düster]] — gloomy; dark; bleak
+- [[edel]] — noble; fine
+- [[Ehre]] — honour
+- [[Ehrfurcht]] — awe; reverence
 - [[ehrgeizig]] — ambitious
+- [[Eifer]] — zeal; eagerness
 - [[Eifersucht]] — jealousy
+- [[eifersüchtig]] — jealous
+- [[eifrig]] — eager; keen
 - [[Eigenart]] — peculiarity; characteristic
 - [[Eigennutz]] — self-interest
 - [[eigensinnig]] — headstrong; obstinate
@@ -499,27 +526,35 @@ Back to [[00 Home]]
 - [[eigenwillig]] — individualistic; wilful
 - [[ein Auge zudrücken]] — to turn a blind eye
 - [[ein Dorn im Auge sein]] — to be a thorn in one's side
+- [[eindringlich]] — urgent; insistent; forceful
 - [[Eindruck machen]] — to make an impression
 - [[einen Narren an jemandem gefressen haben]] — to be completely taken with someone
 - [[einfallsreich]] — inventive; imaginative
 - [[einfühlsam]] — empathetic; sensitive
 - [[Einfühlungsvermögen]] — empathy; sensitivity
 - [[eingestehen]] — to admit; to confess
+- [[einlassen]] — to get involved in; to let in
 - [[einmischen]] — to interfere; to meddle
 - [[Einmischung]] — interference; meddling
 - [[einschüchtern]] — to intimidate
 - [[einsehen]] — to realise; to see (the point); to inspect
+- [[eisern]] — iron; unyielding
 - [[eitel]] — vain
 - [[empfindlich]] — sensitive; delicate; severe
 - [[empören]] — to outrage; to be indignant
 - [[empört]] — indignant; outraged
 - [[Empörung]] — outrage; indignation
+- [[energisch]] — energetic; firm; vigorous
 - [[Entfaltung]] — development; unfolding
 - [[entmutigen]] — to discourage
 - [[Entrüstung]] — indignation
 - [[entsagen]] — to renounce; to forgo
 - [[Entschleunigung]] — slowing down; deceleration of life
 - [[Entschlossenheit]] — determination
+- [[Entschluss]] — decision; resolution
+- [[Entsetzen]] — horror; dismay
+- [[entsetzlich]] — terrible; dreadful; appalling
+- [[entsetzt]] — horrified; appalled
 - [[erbärmlich]] — pathetic; wretched
 - [[erdulden]] — to endure; to suffer
 - [[erfinderisch]] — inventive; resourceful
@@ -528,58 +563,86 @@ Back to [[00 Home]]
 - [[ermahnen]] — to admonish; to warn
 - [[ermutigen]] — to encourage
 - [[Ernüchterung]] — disillusionment; sobering
+- [[erregen]] — to arouse; to excite; to cause
+- [[Erregung]] — excitement; agitation
+- [[erschüttern]] — to shake; to shock; to shatter
 - [[erstaunen]] — to astonish; to amaze
 - [[ertappen]] — to catch (in the act)
 - [[ertragen]] — to bear; to tolerate
+- [[erwartungsvoll]] — expectant; full of anticipation
 - [[etwas auf die leichte Schulter nehmen]] — to take something lightly
 - [[Faulheit]] — laziness
 - [[fies]] — nasty; mean (colloquial)
 - [[flehen]] — to beg; to implore
 - [[Fleiß]] — diligence; hard work
+- [[Fluch]] — curse
 - [[fluchen]] — to swear; to curse
 - [[forsch]] — brisk; assertive
 - [[Freiraum]] — freedom; space (to act)
+- [[freudig]] — joyful; happy
+- [[Freundlichkeit]] — friendliness; kindness
 - [[fürsorglich]] — caring; solicitous
+- [[Gabe]] — gift; talent; donation
 - [[Geborgenheit]] — security; feeling of safety
 - [[gefasst]] — composed; calm
 - [[Gegenseitigkeit]] — reciprocity; mutuality
 - [[gehetzt]] — harried; rushed
 - [[gehorchen]] — to obey
+- [[gehorsam]] — obedient
 - [[gelangweilt]] — bored
 - [[gelassen]] — calm; composed
 - [[Gelassenheit]] — composure; calmness
+- [[geliebt]] — beloved
+- [[Gelächter]] — laughter
+- [[gemein]] — mean; nasty; common
 - [[Gemütszustand]] — state of mind
+- [[Genie]] — genius
 - [[genügsam]] — frugal; undemanding
 - [[Gereiztheit]] — irritability; tetchiness
 - [[Geringschätzung]] — disdain; low regard
 - [[gerührt]] — moved; touched
 - [[gesellig]] — sociable
 - [[gewissenhaft]] — conscientious
+- [[Gier]] — greed
 - [[gierig]] — greedy
 - [[glaubwürdig]] — credible; trustworthy
 - [[gleichgültig]] — indifferent; unconcerned
 - [[glänzen]] — to shine; to gleam; to excel
+- [[glücklicherweise]] — fortunately; luckily
 - [[gnadenlos]] — merciless; ruthless
+- [[grausam]] — cruel; terrible
+- [[grinsen]] — to grin
 - [[großspurig]] — pompous; boastful
 - [[großzügig]] — generous; spacious
 - [[grübeln]] — to brood; to ponder
 - [[Gründlichkeit]] — thoroughness
 - [[gutgläubig]] — gullible; credulous
 - [[gutmütig]] — good-natured
+- [[gönnen]] — to not begrudge; to treat (oneself)
+- [[Güte]] — kindness; quality
+- [[Haltung]] — attitude; posture; keeping (of animals)
 - [[hartnäckig]] — stubborn; persistent
+- [[Hass]] — hatred; hate
+- [[hastig]] — hasty; hurried
+- [[heftig]] — violent; intense; fierce
 - [[Hemmung]] — inhibition; reservation
 - [[hemmungslos]] — unrestrained; without inhibition
 - [[hetzen]] — to rush; to incite
+- [[heulen]] — to howl; to cry (colloquial)
 - [[Hilfe suchen]] — to seek help
 - [[hineinversetzen]] — to put oneself in someone's position
+- [[Hingabe]] — devotion; dedication
 - [[hinnehmen]] — to accept; to put up with
 - [[Hintergedanke]] — ulterior motive
 - [[hochmütig]] — arrogant; haughty
 - [[hoffnungslos]] — hopeless
 - [[Hoffnungsschimmer]] — glimmer of hope
 - [[hänseln]] — to tease; to bully
+- [[Härte]] — hardness; harshness; severity
+- [[Identität]] — identity
 - [[ignorant]] — ignorant; indifferent
 - [[Ignoranz]] — ignorance; disregard
+- [[Illusion]] — illusion
 - [[imponieren]] — to impress
 - [[Impuls]] — impulse; stimulus
 - [[in der Klemme sitzen]] — to be in a fix
@@ -589,9 +652,15 @@ Back to [[00 Home]]
 - [[in Schutz nehmen]] — to defend; to stand up for
 - [[in Verlegenheit bringen]] — to embarrass
 - [[in Verruf geraten]] — to get a bad name
+- [[Individualität]] — individuality
 - [[ins Fettnäpfchen treten]] — to put one's foot in it
+- [[insgeheim]] — secretly; privately
+- [[Instinkt]] — instinct
+- [[instinktiv]] — instinctive; by instinct
 - [[Integrität]] — integrity
 - [[Intention]] — intention
+- [[Intuition]] — intuition
+- [[irritieren]] — to irritate; to confuse
 - [[jemandem ans Herz wachsen]] — to grow fond of someone
 - [[jemandem auf die Nerven gehen]] — to get on someone's nerves
 - [[jemandem das Herz brechen]] — to break someone's heart
@@ -602,21 +671,30 @@ Back to [[00 Home]]
 - [[jähzornig]] — quick-tempered
 - [[keinesfalls]] — under no circumstances
 - [[keineswegs]] — by no means; not at all
+- [[kichern]] — to giggle; to titter
+- [[kindlich]] — childlike; childish
 - [[klammern]] — to cling
 - [[kleinlich]] — petty; stingy
 - [[knausern]] — to be stingy
 - [[kokett]] — coquettish; flirty
+- [[Konfrontation]] — confrontation
 - [[kopflos]] — panicky; rash; without thinking
 - [[kränken]] — to offend; to hurt someone's feelings
 - [[Kränkung]] — insult; hurt feelings
+- [[Kummer]] — grief; sorrow; worry
 - [[launisch]] — moody
 - [[lauschen]] — to listen (closely); to eavesdrop
 - [[lebhaft]] — lively; vivid
+- [[Leichtigkeit]] — ease; lightness
 - [[Leichtsinn]] — recklessness; carelessness
 - [[leichtsinnig]] — reckless; careless
+- [[leid]] — sorry; tired (of)
+- [[Leidenschaft]] — passion
 - [[Liebeskummer]] — heartache; lovesickness
+- [[Lob]] — praise
 - [[Loyalität]] — loyalty
 - [[lustlos]] — listless; unenthusiastic
+- [[lächerlich]] — ridiculous
 - [[lässig]] — casual; relaxed
 - [[lästern]] — to gossip maliciously; to badmouth
 - [[Macke]] — quirk; foible (colloquial)
@@ -624,11 +702,15 @@ Back to [[00 Home]]
 - [[Maß halten]] — to be moderate
 - [[meckern]] — to moan; to grumble
 - [[melancholisch]] — melancholic
+- [[mental]] — mental
 - [[Mentalität]] — mentality; attitude
+- [[Miene]] — facial expression; look
 - [[Misstrauen]] — distrust; suspicion
 - [[misstrauisch]] — suspicious; distrustful
 - [[Mitgefühl]] — compassion; sympathy
 - [[Motiv]] — motive; motif
+- [[munter]] — cheerful; lively; awake
+- [[mustern]] — to look over; to scrutinise
 - [[Mut fassen]] — to take heart; to pluck up courage
 - [[Mut machen]] — to encourage
 - [[Mäßigung]] — moderation; restraint
@@ -643,11 +725,13 @@ Back to [[00 Home]]
 - [[neigen]] — to tend; to tilt
 - [[Neigung]] — inclination; tendency; slope
 - [[Neugier]] — curiosity
+- [[Neugierde]] — curiosity
 - [[niedergeschlagen]] — downcast; dejected
 - [[nörgeln]] — to carp; to nag
 - [[nüchtern]] — sober; matter-of-fact; on an empty stomach
 - [[oberflächlich]] — superficial
 - [[Offenheit]] — openness; frankness
+- [[opfern]] — to sacrifice
 - [[panisch]] — panic-stricken
 - [[pedantisch]] — pedantic
 - [[pessimistisch]] — pessimistic
@@ -656,19 +740,27 @@ Back to [[00 Home]]
 - [[pingelig]] — fussy; nitpicky
 - [[plump]] — clumsy; crude
 - [[pochen]] — to insist on; to knock; to throb
+- [[Pracht]] — splendour; magnificence
 - [[prahlen]] — to boast; to brag
 - [[protzen]] — to show off
+- [[Präferenz]] — preference
+- [[Psyche]] — psyche; mind
+- [[Qual]] — torment; agony; ordeal
+- [[quälen]] — to torment; to torture; to pester
+- [[Rache]] — revenge
 - [[ratlos]] — at a loss; helpless
 - [[rebellieren]] — to rebel
 - [[rechthaberisch]] — opinionated; always wanting to be right
 - [[redselig]] — talkative; garrulous
 - [[Reife]] — maturity; ripeness
+- [[Reinheit]] — purity; cleanliness
 - [[reizbar]] — irritable
 - [[resignieren]] — to give up; to resign oneself
 - [[resolut]] — resolute; firm
 - [[Reue]] — remorse; regret
 - [[ringen]] — to wrestle; to struggle
 - [[ruhelos]] — restless
+- [[Ruhm]] — fame; glory
 - [[rächen]] — to take revenge
 - [[Rücksicht nehmen]] — to show consideration
 - [[Rücksichtnahme]] — consideration for others
@@ -676,19 +768,27 @@ Back to [[00 Home]]
 - [[rücksichtsvoll]] — considerate
 - [[rügen]] — to reprimand; to criticise
 - [[rührend]] — touching; moving
+- [[sanft]] — gentle; soft
 - [[sanftmütig]] — gentle; meek
 - [[Sarkasmus]] — sarcasm
 - [[schadenfroh]] — gloating; malicious
 - [[Scham]] — shame
+- [[Schande]] — shame; disgrace
 - [[scharfsinnig]] — astute; sharp-witted
 - [[scheu]] — shy; timid
 - [[schlagfertig]] — quick-witted
 - [[schlampig]] — sloppy; careless
 - [[schlau]] — clever; smart
+- [[schluchzen]] — to sob
 - [[schmeicheln]] — to flatter
+- [[schmunzeln]] — to smile (amused); to grin quietly
+- [[Schrecken]] — fright; terror
+- [[Schrei]] — scream; cry
 - [[schroff]] — curt; abrupt
 - [[Schuldgefühl]] — feeling of guilt
 - [[schwärmen]] — to rave (about); to swarm
+- [[schämen]] — to be ashamed
+- [[Seele]] — soul
 - [[sehnen]] — to long (for)
 - [[selbstbewusst]] — self-confident
 - [[Selbstbewusstsein]] — self-confidence
@@ -700,6 +800,7 @@ Back to [[00 Home]]
 - [[sensibel]] — sensitive
 - [[Sensibilität]] — sensitivity
 - [[seufzen]] — to sigh
+- [[Seufzer]] — sigh
 - [[sich aus dem Staub machen]] — to slip away; to make oneself scarce
 - [[sich die Haare raufen]] — to tear one's hair out
 - [[sich etwas zu Herzen nehmen]] — to take something to heart
@@ -715,12 +816,17 @@ Back to [[00 Home]]
 - [[sprachlos]] — speechless
 - [[spöttisch]] — mocking; derisive
 - [[standhaft]] — steadfast; firm
+- [[starren]] — to stare
 - [[Staunen]] — astonishment; wonder
+- [[strahlend]] — radiant; beaming; brilliant
+- [[streben]] — to strive; to aspire
+- [[strikt]] — strict
 - [[sträuben]] — to resist; to bristle
 - [[stur]] — stubborn; obstinate
 - [[Sturheit]] — stubbornness
 - [[Stärke]] — strength; starch
 - [[stöhnen]] — to groan; to moan
+- [[Sympathie]] — liking; sympathy; goodwill
 - [[tadeln]] — to reprimand; to criticise
 - [[Takt]] — tact; beat; bar (music)
 - [[Taktgefühl]] — tact; sensitivity
@@ -728,17 +834,30 @@ Back to [[00 Home]]
 - [[tapfer]] — brave; valiant
 - [[Tomaten auf den Augen haben]] — to be blind to what is obvious
 - [[tratschen]] — to gossip
+- [[trauen]] — to trust; to dare; to marry
 - [[trauern]] — to mourn; to grieve
+- [[Traurigkeit]] — sadness
 - [[Treue]] — loyalty; faithfulness
+- [[Triumph]] — triumph; great success
 - [[Trost]] — comfort; consolation
 - [[trotzig]] — defiant; sulky
+- [[träge]] — sluggish; lazy; slow
+- [[trösten]] — to comfort; to console
+- [[Täuschung]] — deception; illusion; fraud
+- [[Umarmung]] — hug; embrace
 - [[Umgangsformen]] — manners; etiquette
+- [[unauffällig]] — inconspicuous; unobtrusive
+- [[Unbehagen]] — unease; discomfort
 - [[unbeholfen]] — clumsy; awkward
 - [[unentschlossen]] — undecided; irresolute
+- [[unfähig]] — incapable; unable; incompetent
 - [[Ungeduld]] — impatience
+- [[ungerecht]] — unfair; unjust
 - [[Ungewissheit]] — uncertainty
+- [[ungläubig]] — incredulous; disbelieving
 - [[Unhöflichkeit]] — rudeness; impoliteness
 - [[unnahbar]] — unapproachable; aloof
+- [[Unschuld]] — innocence
 - [[unter Druck setzen]] — to put under pressure
 - [[unter Druck stehen]] — to be under pressure
 - [[unverschämt]] — impertinent; outrageous
@@ -747,13 +866,17 @@ Back to [[00 Home]]
 - [[Verachtung]] — contempt; disdain
 - [[Verantwortung tragen]] — to bear responsibility
 - [[verantwortungsbewusst]] — responsible; conscientious
+- [[verbergen]] — to hide; to conceal
 - [[verbissen]] — dogged; grim
 - [[verbittert]] — embittered; bitter
+- [[verblüffen]] — to astonish; to baffle
 - [[verblüfft]] — astonished; baffled
 - [[Verblüffung]] — amazement; bewilderment
 - [[Verbundenheit]] — attachment; solidarity
 - [[Verdacht schöpfen]] — to become suspicious
+- [[verdammen]] — to condemn; to damn
 - [[verdrossen]] — sullen; disgruntled
+- [[Verehrung]] — admiration; veneration
 - [[verfluchen]] — to curse
 - [[vergöttern]] — to idolise; to worship
 - [[verheimlichen]] — to conceal; to keep secret
@@ -764,22 +887,32 @@ Back to [[00 Home]]
 - [[verlogen]] — lying; hypocritical
 - [[verlässlich]] — reliable; dependable
 - [[Vernunft]] — reason; common sense
+- [[Verrat]] — betrayal; treason
+- [[Verräter]] — traitor
 - [[verschmitzt]] — mischievous; roguish
 - [[verspotten]] — to mock; to ridicule
+- [[verspüren]] — to feel; to sense
 - [[verstockt]] — obstinate; stubborn
 - [[Versuchung]] — temptation
 - [[versöhnlich]] — conciliatory
+- [[Versöhnung]] — reconciliation
 - [[Vertrauen fassen]] — to gain confidence (in)
 - [[Vertrauen schenken]] — to trust; to place trust in
 - [[Vertrautheit]] — familiarity; intimacy
+- [[Verwirrung]] — confusion
+- [[verwundern]] — to astonish; to surprise
+- [[Verwunderung]] — astonishment; surprise
 - [[verwöhnen]] — to spoil; to pamper
+- [[verziehen]] — to distort; to move away; to spoil
 - [[verzweifeln]] — to despair
+- [[verächtlich]] — contemptuous; scornful
 - [[verärgern]] — to annoy; to anger
 - [[Vorbehalt]] — reservation; reserve
 - [[Vorbildfunktion]] — role-model function
 - [[vorlaut]] — cheeky; forward
 - [[wachsam]] — vigilant; watchful
 - [[Wachsamkeit]] — vigilance
+- [[wahrhaftig]] — truthful; real; truly
 - [[wehleidig]] — whiny; self-pitying
 - [[weinerlich]] — tearful; whiny
 - [[Weitsicht]] — foresight
@@ -788,11 +921,14 @@ Back to [[00 Home]]
 - [[Wertschätzung]] — appreciation; esteem
 - [[Wesen]] — nature; being; creature
 - [[wettern]] — to rail; to fulminate
+- [[widerstehen]] — to resist; to withstand
 - [[widmen]] — to devote oneself; to dedicate
+- [[Wille]] — will; intention
 - [[wimmern]] — to whimper
 - [[Wort halten]] — to keep one's word
 - [[Wut]] — rage; anger
 - [[wählerisch]] — picky; choosy
+- [[würdig]] — worthy; dignified
 - [[würdigen]] — to recognise; to pay tribute to
 - [[zanken]] — to squabble; to quarrel
 - [[zart]] — tender; delicate; gentle
@@ -800,6 +936,7 @@ Back to [[00 Home]]
 - [[zickig]] — bitchy; moody (colloquial)
 - [[zielstrebig]] — determined; purposeful
 - [[zimperlich]] — squeamish; overly delicate
+- [[Zorn]] — anger; wrath
 - [[zu kurz kommen]] — to get a raw deal; to be neglected
 - [[Zufriedenheit]] — satisfaction; contentment
 - [[zumuten]] — to expect of; to impose
@@ -807,25 +944,34 @@ Back to [[00 Home]]
 - [[zur Einsicht kommen]] — to come to one's senses; to realise
 - [[zur Ruhe kommen]] — to calm down; to find peace
 - [[zur Schau stellen]] — to display; to flaunt
+- [[zurückhalten]] — to hold back; to restrain; (sich) to hold oneself back
 - [[zurückhaltend]] — reserved; restrained
 - [[Zurückhaltung]] — restraint; reserve
 - [[zurückschrecken]] — to shrink back; to shy away from
+- [[zutiefst]] — deeply; profoundly
 - [[Zuverlässigkeit]] — reliability
 - [[Zuversicht]] — confidence; optimism
 - [[zuvorkommend]] — obliging; courteous
+- [[Zuwendung]] — attention; affection; grant
 - [[zweifellos]] — undoubtedly
 - [[Zwiespalt]] — dilemma; conflict (inner)
 - [[zwiespältig]] — ambivalent; mixed
 - [[zwinkern]] — to wink
+- [[zärtlich]] — tender; affectionate
+- [[Zärtlichkeit]] — tenderness; affection
 - [[zögerlich]] — hesitant
 - [[zögern]] — to hesitate
+- [[zögernd]] — hesitant; hesitating
 - [[ätzend]] — caustic; awful (colloquial)
 - [[Öl ins Feuer gießen]] — to add fuel to the fire
+- [[übel]] — bad; nasty; sick
 - [[über seinen Schatten springen]] — to overcome one's own reluctance
 - [[überfordern]] — to overtax; to overwhelm
 - [[Überforderung]] — excessive demands; overload
 - [[überheblich]] — arrogant; overbearing
 - [[übermütig]] — high-spirited; cocky
+- [[überstehen]] — to survive; to get through; to endure
+- [[überwältigen]] — to overwhelm; to overpower
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,8 @@ status: "new"
 - den Handlungsspielraum erweitern
 - begrenzter Handlungsspielraum
 
+**Related:** [[erweitern]]
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

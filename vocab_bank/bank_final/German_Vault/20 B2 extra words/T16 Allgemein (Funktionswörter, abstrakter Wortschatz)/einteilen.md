@@ -1,0 +1,41 @@
+---
+title: "einteilen"
+type: "word"
+aliases: ["teilt ein", "teilte ein", "hat eingeteilt"]
+lemma: "einteilen"
+meaning: "to divide; to schedule; to assign"
+pos: "verb"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D3644"
+exam_use: ["Alltag", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# einteilen
+
+**Meaning:** to divide; to schedule; to assign
+**Forms:** teilt ein · teilte ein · hat eingeteilt
+**Grammar:** reflexive · separable (ein-)
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sie teilt sich ihre Zeit gut ein.
+> *She manages her time well.*
+
+**Collocations**
+- sich die Zeit einteilen
+- in Gruppen einteilen
+- jemanden für etwas einteilen
+
+**Related:** [[Zeit]]
+
+**Exam use:** Alltag, Schreiben
+<!-- bank:end -->
+
+## My notes
+

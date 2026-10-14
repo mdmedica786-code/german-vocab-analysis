@@ -31,6 +31,8 @@ status: "new"
 - über etwas spekulieren
 - an der Börse spekulieren
 
+**Related:** [[Börse]]
+
 **Exam use:** Lesen, Medien
 <!-- bank:end -->
 

@@ -33,7 +33,7 @@ status: "new"
 - ein Defizit aufweisen
 - Defizite abbauen
 
-**Related:** [[ausgleichen]]
+**Related:** [[ausgleichen]] · [[aufweisen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

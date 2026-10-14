@@ -27,7 +27,7 @@ status: "new"
 **Collocations**
 - einen festen Entschluss fassen
 
-**Related:** [[fassen]]
+**Related:** [[Entschluss]] · [[fassen]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

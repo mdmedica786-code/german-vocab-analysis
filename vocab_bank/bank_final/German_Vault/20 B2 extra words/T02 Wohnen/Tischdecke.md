@@ -33,6 +33,8 @@ status: "new"
 - die Tischdecke wechseln
 - eine bestickte Tischdecke
 
+**Related:** [[auflegen]]
+
 **Exam use:** Alltag, Hören
 <!-- bank:end -->
 

@@ -1,0 +1,40 @@
+---
+title: "Tageslicht"
+type: "word"
+aliases: ["das Tageslicht"]
+lemma: "Tageslicht"
+meaning: "daylight"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D3337"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# das Tageslicht
+
+**Meaning:** daylight
+**Plural:** –
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Büro gibt es viel Tageslicht.
+> *There is a lot of daylight in the office.*
+
+**Collocations**
+- bei Tageslicht
+- ans Tageslicht kommen
+- helles Tageslicht
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

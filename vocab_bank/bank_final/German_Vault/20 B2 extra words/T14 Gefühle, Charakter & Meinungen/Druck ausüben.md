@@ -28,7 +28,7 @@ status: "new"
 - Druck auf jemanden ausüben
 - unter Druck setzen
 
-**Related:** [[Druck]]
+**Related:** [[Druck]] · [[ausüben]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

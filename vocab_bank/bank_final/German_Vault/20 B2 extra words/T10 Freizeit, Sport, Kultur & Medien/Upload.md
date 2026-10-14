@@ -33,7 +33,7 @@ status: "new"
 - Upload und Download
 - Upload abbrechen
 
-**Related:** [[Download]]
+**Related:** [[Download]] · [[abbrechen]]
 
 **Exam use:** Alltag
 <!-- bank:end -->

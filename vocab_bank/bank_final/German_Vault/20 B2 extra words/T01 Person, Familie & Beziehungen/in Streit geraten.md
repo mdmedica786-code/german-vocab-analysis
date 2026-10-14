@@ -29,7 +29,7 @@ status: "new"
 - wegen einer Kleinigkeit in Streit geraten
 - miteinander in Streit geraten
 
-**Related:** [[Streit]] · [[geraten]]
+**Related:** [[Streit]] · [[geraten]] · [[Kleinigkeit]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

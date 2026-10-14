@@ -28,6 +28,8 @@ status: "new"
 - jemandem etwas zur Last legen
 - zur Last fallen
 
+**Related:** [[Last]]
+
 **Exam use:** Lesen
 <!-- bank:end -->
 

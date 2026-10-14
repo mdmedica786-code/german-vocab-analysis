@@ -6,7 +6,7 @@ tags: ["moc", "topic/T03"]
 <!-- bank:start -->
 # T03 Arbeit & Beruf
 
-Map of content. 424 words in the main bank, 120 in the B2 bank.
+Map of content. 424 words in the main bank, 165 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -453,14 +453,17 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (120)
+### B2 (165)
 
 - [[Abfindung]] — severance pay; compensation
 - [[Abmahnung]] — formal warning
 - [[Abteilungsleiter]] — head of department
+- [[Agentur]] — agency
 - [[Anforderungen stellen]] — to set requirements
+- [[angestellt]] — employed
 - [[Anschreiben]] — cover letter
 - [[ansiedeln]] — to settle; to attract (businesses)
+- [[anweisen]] — to instruct; to transfer (money)
 - [[Arbeitskampf]] — industrial action
 - [[Arbeitslosenquote]] — unemployment rate
 - [[Arbeitsrecht]] — employment law
@@ -472,35 +475,49 @@ Back to [[00 Home]]
 - [[auf der Tagesordnung stehen]] — to be on the agenda
 - [[Aufgabenbereich]] — area of responsibility
 - [[Aufhebungsvertrag]] — termination agreement
+- [[Aufsichtsrat]] — supervisory board
 - [[aufsteigen]] — to rise; to be promoted
 - [[Auftraggeber]] — client; commissioning party
 - [[ausarbeiten]] — to work out; to draw up
+- [[ausüben]] — to practise (a profession); to exercise
+- [[Ausübung]] — practice; exercise
 - [[Automatisierung]] — automation
 - [[Außendienst]] — field service; sales force (outside the office)
 - [[befristen]] — to limit in time; to give a fixed term
 - [[Befristung]] — time limit; fixed term
+- [[befördern]] — to transport; to promote
 - [[Beförderung]] — promotion
 - [[belastbar]] — resilient; able to cope with pressure
 - [[Belegschaft]] — workforce; staff
+- [[Berater]] — adviser; consultant
 - [[Bergwerk]] — mine
+- [[betrieblich]] — company; operational
 - [[Betriebsausflug]] — company outing
 - [[Betriebsklima]] — working atmosphere
 - [[Bewerbungsgespräch]] — job interview
 - [[Bewerbungsmappe]] — application folder
 - [[Bildungsurlaub]] — educational leave
+- [[Boss]] — boss (colloquial)
 - [[Buchhalter]] — bookkeeper; accountant
 - [[Businessplan]] — business plan
 - [[Büroklammer]] — paper clip
+- [[Controlling]] — controlling (business)
 - [[Dienstleister]] — service provider
 - [[Dienstreise]] — business trip
+- [[Effizienz]] — efficiency
 - [[Eigeninitiative]] — own initiative; self-motivation
+- [[Eignung]] — suitability; aptitude
 - [[einarbeiten]] — to familiarise oneself; to train (on the job)
 - [[einen Auftrag erteilen]] — to place an order; to commission
 - [[entwerfen]] — to design; to draft
+- [[etablieren]] — to establish
 - [[Existenzgründer]] — start-up founder; business founder
+- [[Expansion]] — expansion
 - [[Facharbeiter]] — skilled worker
 - [[Fachkraft]] — skilled worker; specialist
 - [[Fachkräftemangel]] — shortage of skilled workers
+- [[fachlich]] — professional; technical
+- [[Fertigkeit]] — skill; proficiency
 - [[Fertigung]] — production; manufacturing
 - [[Feuerwehrmann]] — firefighter
 - [[Firmengründung]] — founding of a company
@@ -511,41 +528,60 @@ Back to [[00 Home]]
 - [[Gehaltsabrechnung]] — salary statement
 - [[Gehaltserhöhung]] — pay rise (salary)
 - [[Gehaltsverhandlung]] — salary negotiation
+- [[Geschick]] — skill; dexterity
 - [[Geschäftsführer]] — managing director
+- [[Gesellschafter]] — shareholder; partner
+- [[Gewerbe]] — trade; business; commerce
 - [[Gewinnspanne]] — profit margin
 - [[Gleitzeit]] — flexible working hours
 - [[Großraumbüro]] — open-plan office
+- [[Gründung]] — founding; foundation
 - [[Heftklammer]] — staple
 - [[Hilfskraft]] — assistant; auxiliary worker
+- [[Historiker]] — historian
 - [[in Auftrag geben]] — to commission; to order
 - [[in Betrieb nehmen]] — to put into operation
+- [[industriell]] — industrial
+- [[Inhaber]] — owner; holder
 - [[Innendienst]] — office-based service
 - [[Insolvenz]] — insolvency; bankruptcy
 - [[Inventur]] — stocktaking
 - [[Kaffeepause]] — coffee break
+- [[Kapazität]] — capacity; expert
 - [[Klempner]] — plumber
 - [[Kollegium]] — staff; body of colleagues
+- [[Konkurrent]] — competitor; rival
 - [[Konzern]] — corporation; group
 - [[kooperieren]] — to cooperate
 - [[Krankmeldung]] — notification of sick leave
 - [[Kundenstamm]] — customer base
 - [[Kündigungsfrist]] — notice period
 - [[Kündigungsschutz]] — protection against dismissal
+- [[Laie]] — layperson; amateur
 - [[Landwirt]] — farmer
+- [[Laufbahn]] — career; career path
+- [[Leistungsfähigkeit]] — performance; capacity
 - [[Locher]] — hole punch
+- [[Logistik]] — logistics
 - [[Lohnabrechnung]] — pay slip; wage statement
 - [[Lohnerhöhung]] — pay rise (wages)
+- [[Marketing]] — marketing
 - [[Maurer]] — bricklayer
 - [[Mindestlohn]] — minimum wage
 - [[Minijob]] — mini job (low-paid part-time job)
 - [[Mittelstand]] — medium-sized businesses; middle class
+- [[Mitwirkung]] — participation; cooperation
 - [[Monteur]] — fitter; installation technician
+- [[Nachfolger]] — successor
 - [[Nachschub]] — fresh supplies; reinforcements
 - [[Nebenjob]] — side job; part-time job
 - [[Niederlassung]] — branch; subsidiary office
+- [[Praktik]] — practice; method
 - [[Probezeit]] — probation period
+- [[Produktivität]] — productivity
 - [[Prototyp]] — prototype
 - [[Quereinsteiger]] — career changer; lateral entrant
+- [[Redaktion]] — editorial office; editorial staff
 - [[Referenz]] — reference; testimonial
 - [[Reinigungskraft]] — cleaner
 - [[Rentenalter]] — retirement age
@@ -555,18 +591,27 @@ Back to [[00 Home]]
 - [[Schornsteinfeger]] — chimney sweep
 - [[schuften]] — to slave away; to toil
 - [[Sektor]] — sector
+- [[selbständig]] — independent; self-employed
+- [[Sitzung]] — meeting; session
 - [[spezialisieren]] — to specialise
+- [[Stellvertreter]] — deputy; substitute
+- [[Tagung]] — conference; meeting; session
 - [[Tarifverhandlung]] — collective bargaining (talks)
 - [[Tarifvertrag]] — collective agreement
 - [[Teamarbeit]] — teamwork
 - [[Tischler]] — carpenter; joiner
 - [[Umsatzrückgang]] — decline in sales
+- [[Unternehmensführung]] — corporate management
+- [[Unternehmung]] — undertaking; outing
 - [[Urlaubsanspruch]] — holiday entitlement
 - [[Vergütung]] — remuneration; compensation
 - [[verhandeln]] — to negotiate; to hear (a case)
 - [[Verschwiegenheit]] — discretion; confidentiality
 - [[Versetzung]] — transfer; promotion to next class
 - [[Versicherungsvertreter]] — insurance agent
+- [[Vorgesetzter]] — superior; boss
+- [[Vorgänger]] — predecessor
+- [[Vorsitzende]] — chairperson; chair
 - [[Wartung]] — maintenance; servicing
 - [[Werdegang]] — career; development (path)
 - [[Zeitarbeit]] — temporary agency work

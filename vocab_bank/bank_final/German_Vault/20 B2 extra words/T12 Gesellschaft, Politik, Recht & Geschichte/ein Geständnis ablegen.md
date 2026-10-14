@@ -27,6 +27,8 @@ status: "new"
 **Collocations**
 - ein umfassendes Geständnis ablegen
 
+**Related:** [[Geständnis]] · [[ablegen]]
+
 **Exam use:** Lesen
 <!-- bank:end -->
 

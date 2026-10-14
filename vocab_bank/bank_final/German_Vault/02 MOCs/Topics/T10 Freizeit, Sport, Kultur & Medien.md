@@ -6,7 +6,7 @@ tags: ["moc", "topic/T10"]
 <!-- bank:start -->
 # T10 Freizeit, Sport, Kultur & Medien
 
-Map of content. 734 words in the main bank, 122 in the B2 bank.
+Map of content. 734 words in the main bank, 174 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -763,23 +763,32 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (122)
+### B2 (174)
 
+- [[abdrucken]] — to print; to publish (in print)
+- [[abrufbar]] — retrievable; available on demand
 - [[Abspann]] — closing credits
 - [[Abstieg]] — relegation; descent; decline
+- [[Abwechslung]] — variety; change
+- [[aktivieren]] — to activate
 - [[Algorithmus]] — algorithm
 - [[Applaus]] — applause
 - [[Aufstieg]] — promotion; ascent; rise
 - [[aufzeichnen]] — to record; to note down
+- [[Ausrüstung]] — equipment; gear
 - [[ausscheiden]] — to drop out; to retire; to be eliminated
 - [[auswechseln]] — to replace; to substitute
 - [[auszeichnen]] — to distinguish; to award
 - [[Beifall]] — applause
 - [[Benutzeroberfläche]] — user interface
 - [[Berichterstattung]] — reporting; coverage
+- [[Besetzung]] — occupation; cast; staffing
 - [[besiegen]] — to defeat; to overcome
+- [[Betrachter]] — viewer; observer
 - [[Betriebssystem]] — operating system
 - [[Bilderkennung]] — image recognition
+- [[Biographie]] — biography
+- [[blättern]] — to leaf through; to flick through
 - [[Boulevardpresse]] — tabloid press
 - [[Brauchtum]] — customs; folk traditions
 - [[Browser]] — browser
@@ -791,36 +800,50 @@ Back to [[00 Home]]
 - [[Datensicherung]] — data backup
 - [[Dauerbrenner]] — perennial favourite; long-running topic
 - [[Desinformation]] — disinformation
+- [[Dichter]] — poet
+- [[Dichtung]] — poetry; seal
+- [[Display]] — display; screen
 - [[Dokumentarfilm]] — documentary
 - [[Dokumentation]] — documentary; documentation
 - [[Drehbuch]] — screenplay; script
+- [[Echo]] — echo; response
 - [[Einschaltquote]] — viewing figures; ratings
 - [[Eintrittskarte]] — admission ticket
 - [[Elfmeter]] — penalty kick
 - [[Endgerät]] — end device; terminal device
 - [[enthüllen]] — to reveal; to unveil
 - [[Entwurf]] — draft; design; sketch
+- [[Episode]] — episode
 - [[ergreifend]] — moving; touching
 - [[Falschmeldung]] — false report; fake news item
 - [[fesseln]] — to tie up; to captivate
 - [[fesselnd]] — gripping; captivating
 - [[Feuilleton]] — arts section; culture pages
+- [[Fiktion]] — fiction
+- [[filmen]] — to film; to record on video
 - [[Firewall]] — firewall
 - [[Fitnessstudio]] — gym; fitness studio
 - [[Follower]] — follower (social media)
+- [[Funk]] — radio; radio communication
 - [[Funkloch]] — dead zone (no signal)
 - [[Gegendarstellung]] — right of reply; counter-statement
 - [[geheimnisvoll]] — mysterious
 - [[gelungen]] — successful; well done
+- [[Gemälde]] — painting
+- [[Gesang]] — singing; song
 - [[Glaubwürdigkeit]] — credibility
+- [[Glocke]] — bell
 - [[Grillkohle]] — charcoal (for barbecue)
 - [[Hacker]] — hacker
 - [[Hardware]] — hardware
 - [[Hashtag]] — hashtag
+- [[herausgeben]] — to publish; to hand over; to give change
+- [[Herausgeber]] — publisher; editor
 - [[Hotspot]] — Wi-Fi hotspot
 - [[Hörfunk]] — radio (broadcasting)
 - [[Impressum]] — imprint; legal notice
 - [[Influencer]] — influencer
+- [[Inszenierung]] — staging; production
 - [[Intendant]] — director (of a theatre or broadcaster)
 - [[Internetanschluss]] — internet connection
 - [[Journalismus]] — journalism
@@ -829,32 +852,51 @@ Back to [[00 Home]]
 - [[Klappentext]] — blurb
 - [[knien]] — to kneel
 - [[Kolumne]] — column (newspaper)
+- [[Kritiker]] — critic
 - [[Ladegerät]] — charger
 - [[Laufband]] — treadmill
+- [[Legende]] — legend; key (of a map)
+- [[Leinwand]] — screen (cinema); canvas
 - [[Leitartikel]] — editorial; leading article
+- [[Lektüre]] — reading; reading matter
 - [[Leserbrief]] — letter to the editor
 - [[Liegestuhl]] — deckchair; sun lounger
 - [[Livestream]] — livestream
 - [[Lokalzeitung]] — local newspaper
 - [[Lustspiel]] — comedy (play)
+- [[Lyrik]] — poetry; lyric poetry
+- [[Magie]] — magic
+- [[magisch]] — magical
+- [[Manuskript]] — manuscript; typescript
+- [[Maske]] — mask
 - [[Mediathek]] — online media library
 - [[Medienkompetenz]] — media literacy
 - [[Meinungsbildung]] — formation of opinion
 - [[Meisterschaft]] — championship
 - [[Mitgliedsbeitrag]] — membership fee
+- [[Monster]] — monster
 - [[Nachrichtenagentur]] — news agency
 - [[Nachrichtensendung]] — news programme
 - [[Nebenrolle]] — supporting role
 - [[Newsletter]] — newsletter
 - [[pfeifen]] — to whistle
 - [[Podcast]] — podcast
+- [[Poesie]] — poetry
+- [[Pool]] — pool (swimming; shared resource)
+- [[Portal]] — portal; (web) platform
+- [[Porträt]] — portrait
 - [[Pressemitteilung]] — press release
+- [[Protagonist]] — protagonist; main character
 - [[Resonanz]] — response; echo
+- [[Ritual]] — ritual
+- [[Romantik]] — Romanticism; romance
 - [[Rundfunk]] — broadcasting; radio
 - [[Sauna]] — sauna
+- [[Schauspiel]] — play; drama; spectacle
 - [[Schiedsrichter]] — referee; umpire
 - [[Server]] — server
 - [[Shitstorm]] — online outrage; storm of criticism
+- [[Skizze]] — sketch; outline
 - [[Sonnenschirm]] — parasol
 - [[Spam]] — spam
 - [[Speicher]] — memory; storage; store
@@ -867,26 +909,36 @@ Back to [[00 Home]]
 - [[Streaming]] — streaming
 - [[Suchmaschine]] — search engine
 - [[summen]] — to hum; to buzz
+- [[Tagebuch]] — diary; journal
 - [[Talkshow]] — talk show
+- [[Tragödie]] — tragedy
 - [[Trainingsplan]] — training plan
 - [[Trauerspiel]] — tragedy (play)
 - [[unscharf]] — blurred; out of focus
 - [[Untertitel]] — subtitle
 - [[Upload]] — upload
 - [[Vereinsleben]] — club life; life of clubs
+- [[Verfasser]] — author; writer
 - [[verkleiden]] — to dress up; to disguise oneself
 - [[Verleger]] — publisher
+- [[Vers]] — verse; line of poetry
 - [[Verschlüsselung]] — encryption
 - [[Volksfest]] — public festival; fair
 - [[Vorspann]] — opening credits; title sequence
+- [[Vorwort]] — foreword; preface
 - [[Wanderschuh]] — hiking boot
 - [[werben]] — to advertise; to recruit
 - [[Werbepause]] — commercial break
 - [[Werbespot]] — advertisement; commercial
 - [[wetteifern]] — to compete; to vie
+- [[Wiedergabe]] — reproduction; playback; rendering
+- [[Würfel]] — dice; cube
+- [[zeitgenössisch]] — contemporary; of the present day
 - [[zischen]] — to hiss; to fizz
 - [[Zugangsdaten]] — login details; access data
 - [[Zwei-Faktor-Authentifizierung]] — two-factor authentication
+- [[Ästhetik]] — aesthetics
+- [[ästhetisch]] — aesthetic
 <!-- bank:end -->
 
 ## My notes

@@ -29,7 +29,7 @@ status: "new"
 - ein fragwürdiger Vorschlag
 - moralisch fragwürdig
 
-**Related:** [[Methode]] · [[Vorschlag]]
+**Related:** [[Methode]] · [[Vorschlag]] · [[moralisch]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

@@ -33,7 +33,7 @@ status: "new"
 - die Fahrerlaubnis erwerben
 - Fahrerlaubnis der Klasse B
 
-**Related:** [[erwerben]] · [[Klasse]]
+**Related:** [[entziehen]] · [[erwerben]] · [[Klasse]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

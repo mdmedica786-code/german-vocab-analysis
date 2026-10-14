@@ -33,6 +33,8 @@ status: "new"
 - inklusive Umsatzsteuer
 - Umsatzsteuer abführen
 
+**Related:** [[ausweisen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

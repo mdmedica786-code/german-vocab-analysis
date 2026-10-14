@@ -33,6 +33,8 @@ status: "new"
 - das Gefäß verschließen
 - das Gefäß erweitern
 - ein verstopftes Gefäß
+
+**Related:** [[verschließen]] · [[erweitern]]
 <!-- bank:end -->
 
 ## My notes

@@ -32,7 +32,7 @@ status: "new"
 - plötzlich aufhören
 - ein plötzlicher Schmerz
 
-**Related:** [[Schmerz]]
+**Related:** [[unerwartet]] · [[Schmerz]]
 
 **Source:** Netzwerk neu A2 K3 12b (Immer online?) · Goethe word list A2
 <!-- bank:end -->

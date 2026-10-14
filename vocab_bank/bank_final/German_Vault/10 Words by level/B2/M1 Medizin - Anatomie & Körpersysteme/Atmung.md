@@ -34,7 +34,7 @@ status: "new"
 - schwere Atmung
 - Atmung und Puls
 
-**Related:** [[Puls]]
+**Related:** [[überwachen]] · [[Puls]]
 <!-- bank:end -->
 
 ## My notes

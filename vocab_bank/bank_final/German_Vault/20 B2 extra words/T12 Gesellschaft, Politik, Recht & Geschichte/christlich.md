@@ -1,0 +1,36 @@
+---
+title: "christlich"
+type: "word"
+lemma: "christlich"
+meaning: "Christian"
+pos: "adjective"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2419"
+exam_use: ["Lesen", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
+---
+<!-- bank:start -->
+# christlich
+
+**Meaning:** Christian
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Fest hat christliche Wurzeln.
+> *The festival has Christian roots.*
+
+**Collocations**
+- christliche Werte
+- der christliche Glaube
+- christlich erzogen
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

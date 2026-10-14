@@ -35,6 +35,8 @@ status: "new"
 - die Aufmerksamkeit lenken
 - volle Aufmerksamkeit
 
+**Related:** [[erregen]] · [[lenken]]
+
 **Source:** Netzwerk neu B1 K4 13b (Arbeitswelt)
 <!-- bank:end -->
 

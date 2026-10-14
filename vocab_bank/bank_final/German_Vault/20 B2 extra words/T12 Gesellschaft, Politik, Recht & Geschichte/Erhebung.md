@@ -1,0 +1,42 @@
+---
+title: "Erhebung"
+type: "word"
+aliases: ["die Erhebung", "Erhebungen"]
+lemma: "Erhebung"
+meaning: "survey; elevation; uprising"
+pos: "noun"
+article: "die"
+plural: "Erhebungen"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2752"
+exam_use: ["Wissenschaft", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Erhebung
+
+**Meaning:** survey; elevation; uprising
+**Plural:** Erhebungen
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Erhebung der Daten dauerte drei Monate.
+> *Collecting the data took three months.*
+
+**Collocations**
+- eine statistische Erhebung
+- die Erhebung von Gebühren
+- eine Erhebung durchführen
+
+**Related:** [[durchführen]]
+
+**Exam use:** Wissenschaft, Lesen
+<!-- bank:end -->
+
+## My notes
+

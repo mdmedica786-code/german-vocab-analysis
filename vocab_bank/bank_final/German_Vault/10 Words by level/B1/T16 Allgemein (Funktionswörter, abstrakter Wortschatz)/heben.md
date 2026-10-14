@@ -33,7 +33,7 @@ status: "new"
 - den Blick heben
 - eine Last heben
 
-**Related:** [[Hand]] · [[Gewicht]] · [[Blick]]
+**Related:** [[Hand]] · [[Gewicht]] · [[Blick]] · [[Last]]
 
 **Source:** Goethe word list B1
 <!-- bank:end -->

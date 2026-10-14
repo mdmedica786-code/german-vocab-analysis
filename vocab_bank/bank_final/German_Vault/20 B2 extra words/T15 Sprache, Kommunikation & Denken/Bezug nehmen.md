@@ -28,6 +28,8 @@ status: "new"
 - Bezug nehmen auf + Akk.
 - unter Bezug auf
 
+**Related:** [[Bezug]]
+
 **Exam use:** Schreiben
 <!-- bank:end -->
 

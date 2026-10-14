@@ -29,7 +29,7 @@ status: "new"
 - ein alberner Witz
 - albern kichern
 
-**Related:** [[Witz]]
+**Related:** [[Witz]] · [[kichern]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

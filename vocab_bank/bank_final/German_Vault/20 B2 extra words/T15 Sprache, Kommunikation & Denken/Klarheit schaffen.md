@@ -28,6 +28,8 @@ status: "new"
 - Klarheit gewinnen
 - für Klarheit sorgen
 
+**Related:** [[Klarheit]]
+
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->
 

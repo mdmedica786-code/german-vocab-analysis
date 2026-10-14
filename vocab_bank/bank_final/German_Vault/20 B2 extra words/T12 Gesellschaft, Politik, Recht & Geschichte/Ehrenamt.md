@@ -33,7 +33,7 @@ status: "new"
 - im Ehrenamt tätig sein
 - Ehrenamt ausüben
 
-**Related:** [[übernehmen]] · [[tätig]]
+**Related:** [[übernehmen]] · [[tätig]] · [[ausüben]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

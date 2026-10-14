@@ -35,7 +35,7 @@ status: "new"
 - Wirbelsäule belasten
 - gekrümmte Wirbelsäule
 
-**Related:** [[Verletzung]]
+**Related:** [[Verletzung]] · [[belasten]]
 
 **Source:** Netzwerk neu B1 K3 3c (Veränderungen)
 <!-- bank:end -->

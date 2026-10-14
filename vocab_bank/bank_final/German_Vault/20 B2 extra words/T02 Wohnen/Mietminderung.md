@@ -33,7 +33,7 @@ status: "new"
 - Anspruch auf Mietminderung
 - Mietminderung fordern
 
-**Related:** [[Anspruch]] · [[fordern]]
+**Related:** [[geltend]] · [[Anspruch]] · [[fordern]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

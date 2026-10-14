@@ -35,6 +35,8 @@ status: "new"
 - ambulante Behandlung
 - die Behandlung abbrechen
 
+**Related:** [[abbrechen]]
+
 **Source:** Netzwerk neu B1 K3 1a (Veränderungen)
 <!-- bank:end -->
 

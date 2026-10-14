@@ -29,6 +29,8 @@ status: "new"
 - jemandem gleichgültig sein
 - eine gleichgültige Haltung
 
+**Related:** [[Haltung]]
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

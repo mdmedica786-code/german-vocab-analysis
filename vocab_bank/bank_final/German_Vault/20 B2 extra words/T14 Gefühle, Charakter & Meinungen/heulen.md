@@ -1,0 +1,40 @@
+---
+title: "heulen"
+type: "word"
+aliases: ["heult", "heulte", "hat geheult"]
+lemma: "heulen"
+meaning: "to howl; to cry (colloquial)"
+pos: "verb"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D3383"
+exam_use: ["Alltag", "Sprechen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+---
+<!-- bank:start -->
+# heulen
+
+**Meaning:** to howl; to cry (colloquial)
+**Forms:** heult · heulte · hat geheult
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Kind heulte vor Wut.
+> *The child howled with rage.*
+
+**Collocations**
+- vor Wut heulen
+- laut heulen
+- der Wind heult
+
+**Related:** [[laut]] · [[Wind]]
+
+**Exam use:** Alltag, Sprechen
+<!-- bank:end -->
+
+## My notes
+

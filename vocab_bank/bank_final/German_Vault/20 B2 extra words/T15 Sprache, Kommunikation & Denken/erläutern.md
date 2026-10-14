@@ -31,7 +31,7 @@ status: "new"
 - näher erläutern
 - ausführlich erläutern
 
-**Related:** [[ausführlich]]
+**Related:** [[Sachverhalt]] · [[ausführlich]]
 
 **Exam use:** Schreiben, Hören
 <!-- bank:end -->

@@ -29,7 +29,7 @@ status: "new"
 - eindrucksvoll schildern
 - ein eindrucksvolles Bild
 
-**Related:** [[Leistung]] · [[Bild]]
+**Related:** [[Leistung]] · [[schildern]] · [[Bild]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

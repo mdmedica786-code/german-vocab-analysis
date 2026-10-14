@@ -34,7 +34,7 @@ status: "new"
 - Schweigen brechen
 - schweigen wie ein Grab
 
-**Related:** [[beharrlich]]
+**Related:** [[beharrlich]] · [[Grab]]
 
 **Source:** Netzwerk neu B1 K7 8a (Zwischenmenschliches) · Goethe word list B1
 <!-- bank:end -->

@@ -32,7 +32,7 @@ status: "new"
 - sich der Festnahme widersetzen
 - sich widersetzen
 
-**Related:** [[Festnahme]]
+**Related:** [[Anordnung]] · [[Festnahme]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

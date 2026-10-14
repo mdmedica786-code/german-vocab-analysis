@@ -33,7 +33,7 @@ status: "new"
 - den Spaten in die Erde stechen
 - Spaten und Schaufel
 
-**Related:** [[Erde]] · [[stechen]]
+**Related:** [[graben]] · [[Erde]] · [[stechen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

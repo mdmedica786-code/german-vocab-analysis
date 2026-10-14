@@ -1,0 +1,40 @@
+---
+title: "Friedhof"
+type: "word"
+aliases: ["der Friedhof", "Friedhöfe"]
+lemma: "Friedhof"
+meaning: "cemetery"
+pos: "noun"
+article: "der"
+plural: "Friedhöfe"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D2990"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# der Friedhof
+
+**Meaning:** cemetery
+**Plural:** Friedhöfe
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sie besucht jede Woche den Friedhof.
+> *She visits the cemetery every week.*
+
+**Collocations**
+- auf den Friedhof gehen
+- ein alter Friedhof
+- der jüdische Friedhof
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

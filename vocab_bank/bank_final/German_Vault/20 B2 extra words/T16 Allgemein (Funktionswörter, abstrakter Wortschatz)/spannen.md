@@ -31,7 +31,7 @@ status: "new"
 - sich spannen
 - gespannt warten
 
-**Related:** [[gespannt]]
+**Related:** [[Seil]] · [[gespannt]]
 
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->

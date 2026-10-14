@@ -29,7 +29,7 @@ status: "new"
 - die Fassung verlieren
 - die Fassung bewahren
 
-**Related:** [[geraten]] · [[bewahren]]
+**Related:** [[Fassung]] · [[geraten]] · [[bewahren]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

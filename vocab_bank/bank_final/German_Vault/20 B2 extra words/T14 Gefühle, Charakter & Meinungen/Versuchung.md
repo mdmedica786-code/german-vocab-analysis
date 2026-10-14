@@ -33,7 +33,7 @@ status: "new"
 - in Versuchung geraten
 - in Versuchung führen
 
-**Related:** [[geraten]]
+**Related:** [[widerstehen]] · [[geraten]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->

@@ -33,7 +33,7 @@ status: "new"
 - Deo auftragen
 - Deo und Parfüm
 
-**Related:** [[Parfüm]]
+**Related:** [[auftragen]] · [[Parfüm]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

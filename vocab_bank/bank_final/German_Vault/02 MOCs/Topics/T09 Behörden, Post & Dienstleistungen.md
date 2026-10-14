@@ -6,7 +6,7 @@ tags: ["moc", "topic/T09"]
 <!-- bank:start -->
 # T09 Behörden, Post & Dienstleistungen
 
-Map of content. 197 words in the main bank, 85 in the B2 bank.
+Map of content. 197 words in the main bank, 87 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -226,7 +226,7 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (85)
+### B2 (87)
 
 - [[Ablesung]] — meter reading
 - [[Abmeldung]] — de-registration; cancellation
@@ -242,6 +242,7 @@ Back to [[00 Home]]
 - [[Aufenthaltstitel]] — residence permit
 - [[Auskunft erteilen]] — to give information
 - [[Auskunft geben]] — to give information
+- [[ausweisen]] — to expel; to identify; (sich) to prove one's identity
 - [[beanstanden]] — to complain about; to object to
 - [[Bearbeitungsgebühr]] — processing fee
 - [[Bedingungen stellen]] — to impose conditions
@@ -269,6 +270,7 @@ Back to [[00 Home]]
 - [[Integrationskurs]] — integration course
 - [[Kindergeld]] — child benefit
 - [[Klient]] — client (of a lawyer, counsellor)
+- [[Korrespondenz]] — correspondence
 - [[Kurier]] — courier
 - [[Mahnbescheid]] — payment order; court demand for payment
 - [[mahnen]] — to remind; to warn; to demand payment

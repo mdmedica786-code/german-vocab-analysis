@@ -1,0 +1,40 @@
+---
+title: "Dichter"
+type: "word"
+aliases: ["der Dichter"]
+lemma: "Dichter"
+meaning: "poet"
+pos: "noun"
+article: "der"
+plural: "Dichter"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D3671"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# der Dichter
+
+**Meaning:** poet
+**Plural:** Dichter
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Goethe ist ein berühmter deutscher Dichter.
+> *Goethe is a famous German poet.*
+
+**Collocations**
+- ein berühmter Dichter
+- Dichter und Denker
+- der Dichter schreibt
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

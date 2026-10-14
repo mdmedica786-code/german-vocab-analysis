@@ -33,7 +33,7 @@ status: "new"
 - laut Pressemitteilung
 - Pressemitteilung verschicken
 
-**Related:** [[laut]]
+**Related:** [[herausgeben]] · [[laut]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

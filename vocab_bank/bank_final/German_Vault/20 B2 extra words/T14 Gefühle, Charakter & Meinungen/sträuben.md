@@ -32,6 +32,8 @@ status: "new"
 - sich heftig sträuben
 - sträuben sich die Haare
 
+**Related:** [[heftig]]
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

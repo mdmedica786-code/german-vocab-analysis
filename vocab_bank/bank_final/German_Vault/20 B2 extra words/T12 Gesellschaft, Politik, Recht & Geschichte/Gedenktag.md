@@ -33,7 +33,7 @@ status: "new"
 - nationaler Gedenktag
 - Gedenktag für die Opfer
 
-**Related:** [[Opfer]]
+**Related:** [[begehen]] · [[Opfer]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

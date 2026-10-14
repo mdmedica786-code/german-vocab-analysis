@@ -28,7 +28,7 @@ status: "new"
 - sich in Bewegung setzen
 - Himmel und Hölle in Bewegung setzen
 
-**Related:** [[Bewegung]] · [[Himmel]]
+**Related:** [[Bewegung]] · [[Himmel]] · [[Hölle]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

@@ -33,6 +33,8 @@ status: "new"
 - ein treuer Kundenstamm
 - Kundenstamm pflegen
 
+**Related:** [[erweitern]]
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

@@ -1,0 +1,38 @@
+---
+title: "kontinuierlich"
+type: "word"
+lemma: "kontinuierlich"
+meaning: "continuous"
+pos: "adjective"
+level: "B2"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "b2"
+id: "D2683"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# kontinuierlich
+
+**Meaning:** continuous
+**Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Preise steigen kontinuierlich.
+> *Prices are rising continuously.*
+
+**Collocations**
+- kontinuierlich steigen
+- kontinuierliche Verbesserung
+- kontinuierlich arbeiten
+
+**Related:** [[steigen]] · [[Verbesserung]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

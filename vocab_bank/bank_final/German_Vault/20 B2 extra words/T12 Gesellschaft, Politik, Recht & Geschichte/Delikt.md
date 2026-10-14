@@ -33,7 +33,7 @@ status: "new"
 - schweres Delikt
 - Delikte aufklären
 
-**Related:** [[aufklären]]
+**Related:** [[begehen]] · [[aufklären]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

@@ -32,7 +32,7 @@ status: "new"
 - den Verbrauch einschränken
 - die Freiheit einschränken
 
-**Related:** [[Freiheit]]
+**Related:** [[Verbrauch]] · [[Freiheit]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

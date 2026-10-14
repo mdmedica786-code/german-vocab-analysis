@@ -28,7 +28,7 @@ status: "new"
 - Beachtung schenken
 - Aufmerksamkeit schenken + Dat.
 
-**Related:** [[Aufmerksamkeit]]
+**Related:** [[Beachtung]] · [[Aufmerksamkeit]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

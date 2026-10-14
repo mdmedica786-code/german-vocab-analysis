@@ -28,7 +28,7 @@ status: "new"
 - Gebrauch machen von + Dat.
 - von der Möglichkeit Gebrauch machen
 
-**Related:** [[Möglichkeit]]
+**Related:** [[Gebrauch]] · [[Möglichkeit]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

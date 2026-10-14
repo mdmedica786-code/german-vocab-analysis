@@ -34,7 +34,7 @@ status: "new"
 - eine Beule an der Stirn
 - die Stirn abtasten
 
-**Related:** [[Schweiß]]
+**Related:** [[runzeln]] · [[Schweiß]]
 <!-- bank:end -->
 
 ## My notes

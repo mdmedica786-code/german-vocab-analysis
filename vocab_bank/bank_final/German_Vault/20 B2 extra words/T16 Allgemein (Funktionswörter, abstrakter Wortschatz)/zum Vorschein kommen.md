@@ -29,7 +29,7 @@ status: "new"
 - zum Vorschein bringen
 - Fehler kommen zum Vorschein
 
-**Related:** [[Licht]] · [[Fehler]]
+**Related:** [[Licht]] · [[Vorschein]] · [[Fehler]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

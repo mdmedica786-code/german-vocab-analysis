@@ -33,7 +33,7 @@ status: "new"
 - den Gesetzentwurf ablehnen
 - Gesetzentwurf vorlegen
 
-**Related:** [[vorlegen]]
+**Related:** [[einbringen]] · [[vorlegen]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

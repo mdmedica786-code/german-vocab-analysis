@@ -1,0 +1,40 @@
+---
+title: "Beweglichkeit"
+type: "word"
+aliases: ["die Beweglichkeit"]
+lemma: "Beweglichkeit"
+meaning: "mobility; flexibility"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "b2"
+id: "D3607"
+exam_use: ["Alltag", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# die Beweglichkeit
+
+**Meaning:** mobility; flexibility
+**Plural:** –
+**Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Regelmäßiges Training verbessert die Beweglichkeit.
+> *Regular training improves mobility.*
+
+**Collocations**
+- die Beweglichkeit verbessern
+- eingeschränkte Beweglichkeit
+- geistige Beweglichkeit
+
+**Exam use:** Alltag, Schreiben
+<!-- bank:end -->
+
+## My notes
+

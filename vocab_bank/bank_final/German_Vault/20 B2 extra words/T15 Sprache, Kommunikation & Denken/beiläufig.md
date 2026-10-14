@@ -29,7 +29,7 @@ status: "new"
 - eine beiläufige Bemerkung
 - beiläufig fragen
 
-**Related:** [[erwähnen]]
+**Related:** [[erwähnen]] · [[Bemerkung]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

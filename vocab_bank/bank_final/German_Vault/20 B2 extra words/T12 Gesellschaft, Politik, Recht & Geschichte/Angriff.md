@@ -1,0 +1,42 @@
+---
+title: "Angriff"
+type: "word"
+aliases: ["der Angriff", "Angriffe"]
+lemma: "Angriff"
+meaning: "attack"
+pos: "noun"
+article: "der"
+plural: "Angriffe"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2473"
+exam_use: ["Lesen", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
+---
+<!-- bank:start -->
+# der Angriff
+
+**Meaning:** attack
+**Plural:** Angriffe
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Angriff kam völlig überraschend.
+> *The attack came completely by surprise.*
+
+**Collocations**
+- einen Angriff abwehren
+- zum Angriff übergehen
+- ein Angriff auf jemanden
+
+**Related:** [[abwehren]] · [[übergehen]]
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

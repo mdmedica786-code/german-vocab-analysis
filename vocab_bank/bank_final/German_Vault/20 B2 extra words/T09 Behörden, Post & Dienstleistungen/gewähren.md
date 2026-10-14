@@ -31,7 +31,7 @@ status: "new"
 - Einblick gewähren
 - Rabatt gewähren
 
-**Related:** [[Kredit]] · [[Rabatt]]
+**Related:** [[Kredit]] · [[Einblick]] · [[Rabatt]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

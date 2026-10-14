@@ -33,6 +33,8 @@ status: "new"
 - aus der Konserve
 - Konserven lagern
 
+**Related:** [[lagern]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

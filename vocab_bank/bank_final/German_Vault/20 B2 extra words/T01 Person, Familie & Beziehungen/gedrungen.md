@@ -29,7 +29,7 @@ status: "new"
 - gedrungen wirken
 - ein gedrungener Körperbau
 
-**Related:** [[wirken]]
+**Related:** [[Gestalt]] · [[wirken]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

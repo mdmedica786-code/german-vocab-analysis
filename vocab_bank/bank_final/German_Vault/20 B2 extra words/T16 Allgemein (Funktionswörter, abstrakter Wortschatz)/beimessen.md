@@ -32,7 +32,7 @@ status: "new"
 - Wert beimessen
 - große Wichtigkeit beimessen
 
-**Related:** [[Bedeutung]] · [[Wert]]
+**Related:** [[Bedeutung]] · [[Wert]] · [[Wichtigkeit]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

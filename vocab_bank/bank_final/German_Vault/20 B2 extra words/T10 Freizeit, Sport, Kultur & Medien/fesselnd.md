@@ -29,7 +29,7 @@ status: "new"
 - fesselnd erzählen
 - fesselnde Spannung
 
-**Related:** [[Roman]]
+**Related:** [[Roman]] · [[Spannung]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

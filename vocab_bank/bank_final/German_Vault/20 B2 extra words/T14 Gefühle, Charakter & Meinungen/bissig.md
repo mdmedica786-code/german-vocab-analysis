@@ -29,7 +29,7 @@ status: "new"
 - eine bissige Bemerkung
 - bissig kommentieren
 
-**Related:** [[Hund]]
+**Related:** [[Hund]] · [[Bemerkung]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->

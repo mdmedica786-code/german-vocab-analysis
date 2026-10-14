@@ -34,7 +34,7 @@ status: "new"
 - einen Anfall auslösen
 - ein plötzlicher Anfall
 
-**Related:** [[auslösen]]
+**Related:** [[erleiden]] · [[auslösen]]
 <!-- bank:end -->
 
 ## My notes

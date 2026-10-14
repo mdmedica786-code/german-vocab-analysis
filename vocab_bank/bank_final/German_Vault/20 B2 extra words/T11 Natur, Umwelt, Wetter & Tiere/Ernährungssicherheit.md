@@ -33,7 +33,7 @@ status: "new"
 - die Ernährungssicherheit gefährden
 - Fragen der Ernährungssicherheit
 
-**Related:** [[gewährleisten]]
+**Related:** [[gewährleisten]] · [[gefährden]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

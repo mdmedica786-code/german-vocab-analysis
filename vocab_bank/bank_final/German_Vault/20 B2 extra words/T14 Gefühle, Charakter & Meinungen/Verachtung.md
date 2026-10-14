@@ -33,6 +33,8 @@ status: "new"
 - voller Verachtung
 - mit Verachtung strafen
 
+**Related:** [[strafen]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

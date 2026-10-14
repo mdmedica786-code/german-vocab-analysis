@@ -1,0 +1,42 @@
+---
+title: "Allgemeinheit"
+type: "word"
+aliases: ["die Allgemeinheit"]
+lemma: "Allgemeinheit"
+meaning: "the public; general public; generality"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D3303"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Allgemeinheit
+
+**Meaning:** the public; general public; generality
+**Plural:** –
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Kosten trägt die Allgemeinheit.
+> *The costs are borne by the general public.*
+
+**Collocations**
+- im Interesse der Allgemeinheit
+- der Allgemeinheit dienen
+- die breite Allgemeinheit
+
+**Related:** [[Interesse]] · [[dienen]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

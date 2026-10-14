@@ -29,7 +29,7 @@ status: "new"
 - ein scharfsinniger Beobachter
 - scharfsinnig kombinieren
 
-**Related:** [[Analyse]]
+**Related:** [[Analyse]] · [[Beobachter]] · [[kombinieren]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

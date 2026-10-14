@@ -29,7 +29,7 @@ status: "new"
 - großen Einfluss ausüben
 - Einfluss nehmen
 
-**Related:** [[Einfluss]]
+**Related:** [[Einfluss]] · [[ausüben]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

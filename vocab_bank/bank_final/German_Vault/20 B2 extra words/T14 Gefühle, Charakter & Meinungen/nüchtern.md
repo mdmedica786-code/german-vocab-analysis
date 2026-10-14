@@ -29,7 +29,7 @@ status: "new"
 - nüchtern bleiben
 - auf nüchternen Magen
 
-**Related:** [[Magen]]
+**Related:** [[betrachten]] · [[Magen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

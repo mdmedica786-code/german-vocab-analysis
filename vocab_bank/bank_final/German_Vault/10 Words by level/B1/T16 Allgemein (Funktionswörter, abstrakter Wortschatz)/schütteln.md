@@ -33,7 +33,7 @@ status: "new"
 - vor Gebrauch schütteln
 - sich schütteln
 
-**Related:** [[Kopf]] · [[Hand]]
+**Related:** [[Kopf]] · [[Hand]] · [[Gebrauch]]
 
 **Source:** Goethe word list B1
 <!-- bank:end -->

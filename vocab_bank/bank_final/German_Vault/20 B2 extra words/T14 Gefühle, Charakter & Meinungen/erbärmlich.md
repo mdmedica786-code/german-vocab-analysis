@@ -29,7 +29,7 @@ status: "new"
 - erbärmlich frieren
 - ein erbärmlicher Anblick
 
-**Related:** [[frieren]]
+**Related:** [[frieren]] · [[Anblick]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

@@ -33,6 +33,8 @@ status: "new"
 - Einbürgerungstest ablegen
 - Fragen im Einbürgerungstest
 
+**Related:** [[ablegen]]
+
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->
 

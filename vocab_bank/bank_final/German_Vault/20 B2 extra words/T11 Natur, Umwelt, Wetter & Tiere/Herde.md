@@ -33,6 +33,8 @@ status: "new"
 - die Herde hüten
 - Herdentrieb
 
+**Related:** [[hüten]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

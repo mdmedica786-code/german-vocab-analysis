@@ -32,7 +32,7 @@ status: "new"
 - eine Gefahr abwehren
 - Vorwürfe abwehren
 
-**Related:** [[Gefahr]]
+**Related:** [[Angriff]] · [[Gefahr]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

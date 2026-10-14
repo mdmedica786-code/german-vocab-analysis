@@ -32,6 +32,8 @@ status: "new"
 - bisher unbekannt
 - wie bisher
 
+**Related:** [[unbekannt]]
+
 **Source:** Netzwerk neu B1 K8 1b (Rund um Körper und Geist) · Goethe word list B1
 <!-- bank:end -->
 

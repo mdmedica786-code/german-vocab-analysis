@@ -29,7 +29,7 @@ status: "new"
 - sprachlos zurücklassen
 - vor Staunen sprachlos
 
-**Related:** [[Staunen]]
+**Related:** [[zurücklassen]] · [[Staunen]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->

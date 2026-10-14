@@ -20,7 +20,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | `b2_vocabulary_bank.csv` | 3,683 | extra B2 words (the first 2,379 chosen by frequency and topic, the rest added from the source list `beyond_goethe_B2.csv`), no medical, none that are in the main bank |
 | `phrase_bank.csv` | 1,016 | useful phrases grouped by function |
 | `redemittel_bank.csv` | 1,176 | speaking and writing expressions in 55 sets |
-| `German_Vault/` | 9,007 notes | the same content as Obsidian notes (generated) |
+| `German_Vault/` | 10,316 notes | the same content as Obsidian notes (generated) |
 | `QA_report.md`, `B2_QA_report.md` | | what was checked and what is left |
 | `progress.md`, `B2_progress.md`, `changes.csv` | | build history |
 

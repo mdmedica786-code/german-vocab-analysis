@@ -36,7 +36,7 @@ status: "new"
 - Religion und Politik
 - die Religionsfreiheit
 
-**Related:** [[Politik]] · [[Religionsfreiheit]]
+**Related:** [[ausüben]] · [[Politik]] · [[Religionsfreiheit]]
 
 **Source:** Netzwerk neu A1 K7 9a (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->

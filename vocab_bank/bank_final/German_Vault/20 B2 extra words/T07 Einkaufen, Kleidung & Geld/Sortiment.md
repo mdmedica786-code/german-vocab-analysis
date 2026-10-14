@@ -33,6 +33,8 @@ status: "new"
 - ein breites Sortiment
 - im Sortiment haben
 
+**Related:** [[erweitern]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

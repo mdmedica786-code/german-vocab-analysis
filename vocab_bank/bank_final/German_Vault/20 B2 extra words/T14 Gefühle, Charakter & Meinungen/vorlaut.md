@@ -29,7 +29,7 @@ status: "new"
 - eine vorlaute Bemerkung
 - ein vorlautes Kind
 
-**Related:** [[Kind]]
+**Related:** [[Bemerkung]] · [[Kind]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

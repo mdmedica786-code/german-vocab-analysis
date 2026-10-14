@@ -33,7 +33,7 @@ status: "new"
 - Verblüffung auslösen
 - in Verblüffung versetzen
 
-**Related:** [[auslösen]]
+**Related:** [[auslösen]] · [[versetzen]]
 
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->

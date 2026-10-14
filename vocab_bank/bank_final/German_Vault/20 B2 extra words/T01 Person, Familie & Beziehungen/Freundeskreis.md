@@ -33,6 +33,8 @@ status: "new"
 - ein großer Freundeskreis
 - den Freundeskreis erweitern
 
+**Related:** [[erweitern]]
+
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->
 

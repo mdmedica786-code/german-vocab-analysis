@@ -33,7 +33,7 @@ status: "new"
 - auf dem Backblech verteilen
 - ein Backblech mit Papier auslegen
 
-**Related:** [[verteilen]] · [[Papier]]
+**Related:** [[verteilen]] · [[Papier]] · [[auslegen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

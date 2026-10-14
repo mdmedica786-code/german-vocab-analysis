@@ -1,0 +1,42 @@
+---
+title: "Schema"
+type: "word"
+aliases: ["das Schema", "Schemata"]
+lemma: "Schema"
+meaning: "scheme; pattern"
+pos: "noun"
+article: "das"
+plural: "Schemata"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2782"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# das Schema
+
+**Meaning:** scheme; pattern
+**Plural:** Schemata
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er arbeitet immer nach demselben Schema.
+> *He always works according to the same pattern.*
+
+**Collocations**
+- nach Schema F
+- ein festes Schema
+- in ein Schema pressen
+
+**Related:** [[pressen]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

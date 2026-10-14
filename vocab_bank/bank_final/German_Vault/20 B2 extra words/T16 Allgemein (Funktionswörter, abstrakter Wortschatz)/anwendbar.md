@@ -1,0 +1,38 @@
+---
+title: "anwendbar"
+type: "word"
+lemma: "anwendbar"
+meaning: "applicable"
+pos: "adjective"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D3170"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# anwendbar
+
+**Meaning:** applicable
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Regel ist hier nicht anwendbar.
+> *The rule is not applicable here.*
+
+**Collocations**
+- anwendbar sein
+- nicht anwendbar
+- praktisch anwendbar
+
+**Related:** [[praktisch]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

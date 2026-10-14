@@ -31,6 +31,8 @@ status: "new"
 - wohl kaum
 - wohl oder übel
 
+**Related:** [[übel]]
+
 **Source:** Netzwerk neu A2 K8 6b (Gelernt ist gelernt!) · Goethe word list B1
 <!-- bank:end -->
 

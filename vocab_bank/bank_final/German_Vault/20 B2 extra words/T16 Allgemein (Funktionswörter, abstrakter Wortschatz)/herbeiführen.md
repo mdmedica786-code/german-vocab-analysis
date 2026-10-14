@@ -31,7 +31,7 @@ status: "new"
 - eine Entscheidung herbeiführen
 - eine Wende herbeiführen
 
-**Related:** [[Entscheidung]]
+**Related:** [[Entscheidung]] · [[Wende]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

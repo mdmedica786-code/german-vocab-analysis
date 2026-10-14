@@ -33,6 +33,8 @@ status: "new"
 - Spracherkennung nutzen
 - Spracherkennung aktivieren
 
+**Related:** [[aktivieren]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

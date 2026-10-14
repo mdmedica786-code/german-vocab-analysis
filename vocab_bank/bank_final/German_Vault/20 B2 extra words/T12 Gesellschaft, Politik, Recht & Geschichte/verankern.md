@@ -1,0 +1,40 @@
+---
+title: "verankern"
+type: "word"
+aliases: ["verankert", "verankerte", "hat verankert"]
+lemma: "verankern"
+meaning: "to anchor; to enshrine"
+pos: "verb"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D3127"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# verankern
+
+**Meaning:** to anchor; to enshrine
+**Forms:** verankert · verankerte · hat verankert
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Recht ist im Grundgesetz verankert.
+> *The right is enshrined in the Basic Law.*
+
+**Collocations**
+- im Gesetz verankern
+- fest verankert
+- ein Schiff verankern
+
+**Related:** [[Gesetz]] · [[fest (adjective)|fest]] · [[Schiff]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

@@ -30,7 +30,7 @@ status: "new"
 - klinisch unauffällig
 - klinische Studie
 
-**Related:** [[Untersuchung]] · [[Verlauf]] · [[Studie]]
+**Related:** [[Untersuchung]] · [[Verlauf]] · [[unauffällig]] · [[Studie]]
 <!-- bank:end -->
 
 ## My notes

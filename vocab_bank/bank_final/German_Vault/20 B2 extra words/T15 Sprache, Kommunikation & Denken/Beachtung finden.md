@@ -28,6 +28,8 @@ status: "new"
 - große Beachtung finden
 - Beachtung schenken
 
+**Related:** [[Beachtung]]
+
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->
 

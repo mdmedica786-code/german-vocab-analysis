@@ -28,7 +28,7 @@ status: "new"
 - Abstand wahren
 - genügend Abstand halten
 
-**Related:** [[Abstand]]
+**Related:** [[Abstand]] · [[genügend]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

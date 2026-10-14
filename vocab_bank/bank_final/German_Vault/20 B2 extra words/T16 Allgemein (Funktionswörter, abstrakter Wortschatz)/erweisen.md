@@ -1,0 +1,41 @@
+---
+title: "erweisen"
+type: "word"
+aliases: ["erweist", "erwies", "hat erwiesen"]
+lemma: "erweisen"
+meaning: "to prove; to show (oneself)"
+pos: "verb"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2414"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# erweisen
+
+**Meaning:** to prove; to show (oneself)
+**Forms:** erweist · erwies · hat erwiesen
+**Grammar:** reflexive
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Methode hat sich als sehr nützlich erwiesen.
+> *The method has proved very useful.*
+
+**Collocations**
+- sich als etwas erweisen
+- sich als falsch erweisen
+- einen Dienst erweisen
+
+**Related:** [[falsch]] · [[Dienst]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

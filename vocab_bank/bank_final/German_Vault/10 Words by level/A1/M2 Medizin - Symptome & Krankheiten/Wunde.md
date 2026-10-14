@@ -36,7 +36,7 @@ status: "new"
 - die Wunde reinigen
 - die Wunde nähen
 
-**Related:** [[reinigen]] · [[nähen]]
+**Related:** [[versorgen]] · [[reinigen]] · [[nähen]]
 
 **Source:** Netzwerk neu A1 K8 8b (Fit und gesund) · Goethe word list B1
 <!-- bank:end -->

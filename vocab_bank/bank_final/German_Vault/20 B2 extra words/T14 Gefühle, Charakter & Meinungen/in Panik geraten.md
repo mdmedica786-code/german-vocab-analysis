@@ -29,7 +29,7 @@ status: "new"
 - keine Panik machen
 - in Panik versetzen
 
-**Related:** [[Panik]] · [[ausbrechen]]
+**Related:** [[Panik]] · [[ausbrechen]] · [[versetzen]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

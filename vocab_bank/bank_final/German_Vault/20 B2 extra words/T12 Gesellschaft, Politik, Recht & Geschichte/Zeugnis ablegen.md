@@ -28,7 +28,7 @@ status: "new"
 - Zeugnis ablegen von + Dat.
 - Zeugnis ablegen für + Akk.
 
-**Related:** [[Zeugnis]]
+**Related:** [[Zeugnis]] · [[ablegen]]
 
 **Exam use:** Lesen
 <!-- bank:end -->

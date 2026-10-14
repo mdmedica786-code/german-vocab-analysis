@@ -33,6 +33,8 @@ status: "new"
 - Verschlüsselung aktivieren
 - sichere Verschlüsselung
 
+**Related:** [[aktivieren]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

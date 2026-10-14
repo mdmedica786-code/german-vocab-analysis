@@ -1,0 +1,40 @@
+---
+title: "Täuschung"
+type: "word"
+aliases: ["die Täuschung", "Täuschungen"]
+lemma: "Täuschung"
+meaning: "deception; illusion; fraud"
+pos: "noun"
+article: "die"
+plural: "Täuschungen"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D3296"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# die Täuschung
+
+**Meaning:** deception; illusion; fraud
+**Plural:** Täuschungen
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Verdacht auf Täuschung führte zu einer Überprüfung.
+> *The suspicion of deception led to an investigation.*
+
+**Collocations**
+- eine optische Täuschung
+- sich einer Täuschung hingeben
+- Täuschung im Prüfungsfall
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

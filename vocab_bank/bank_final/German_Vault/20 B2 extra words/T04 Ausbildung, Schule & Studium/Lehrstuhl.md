@@ -33,7 +33,7 @@ status: "new"
 - Lehrstuhl für Physik
 - Inhaber eines Lehrstuhls
 
-**Related:** [[Physik]]
+**Related:** [[Physik]] · [[Inhaber]]
 
 **Exam use:** Lesen, Wissenschaft
 <!-- bank:end -->

@@ -33,7 +33,7 @@ status: "new"
 - an der Spitze der Nahrungskette
 - Glied der Nahrungskette
 
-**Related:** [[Glied]]
+**Related:** [[Spitze]] · [[Glied]]
 
 **Exam use:** Wissenschaft, Lesen
 <!-- bank:end -->

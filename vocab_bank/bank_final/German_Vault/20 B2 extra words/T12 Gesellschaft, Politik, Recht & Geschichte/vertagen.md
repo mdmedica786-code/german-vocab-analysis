@@ -31,7 +31,7 @@ status: "new"
 - auf später vertagen
 - die Entscheidung vertagen
 
-**Related:** [[Entscheidung]]
+**Related:** [[Sitzung]] · [[Entscheidung]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

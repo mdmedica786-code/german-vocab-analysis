@@ -29,7 +29,7 @@ status: "new"
 - Wasser auf die Mühlen der Kritiker
 - Argumente liefern
 
-**Related:** [[Wasser]]
+**Related:** [[Wasser]] · [[Kritiker]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

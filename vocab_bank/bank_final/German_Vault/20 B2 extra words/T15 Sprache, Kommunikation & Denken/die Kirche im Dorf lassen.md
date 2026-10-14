@@ -28,7 +28,7 @@ status: "new"
 - nicht übertreiben
 - sachlich bleiben
 
-**Related:** [[übertreiben]]
+**Related:** [[übertreiben]] · [[sachlich]]
 
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->

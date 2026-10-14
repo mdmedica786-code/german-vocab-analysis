@@ -6,7 +6,7 @@ tags: ["moc", "topic/T02"]
 <!-- bank:start -->
 # T02 Wohnen
 
-Map of content. 266 words in the main bank, 110 in the B2 bank.
+Map of content. 266 words in the main bank, 116 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -295,17 +295,19 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (110)
+### B2 (116)
 
 - [[Abfluss]] — drain; outflow
 - [[Abstellraum]] — storage room; box room
 - [[Adapter]] — adapter
+- [[Anwesen]] — estate; property
 - [[Aschenbecher]] — ashtray
 - [[aussortieren]] — to sort out; to weed out
 - [[ausstatten]] — to equip; to furnish
 - [[Bilderrahmen]] — picture frame
 - [[Biotonne]] — organic waste bin
 - [[Bohrmaschine]] — drill
+- [[Brett]] — board; plank; shelf
 - [[bügeln]] — to iron
 - [[bürsten]] — to brush
 - [[Dachboden]] — attic; loft
@@ -314,9 +316,11 @@ Back to [[00 Home]]
 - [[Eigenbedarf]] — own use (landlord's need to occupy)
 - [[Eigenheim]] — owner-occupied house; own home
 - [[Eigentumswohnung]] — owner-occupied flat; condominium
+- [[Eingangstür]] — front door; entrance door
 - [[Fliese]] — tile
 - [[Gartenschlauch]] — garden hose
 - [[Gegensprechanlage]] — intercom
+- [[Geländer]] — railing; banister
 - [[geräumig]] — spacious; roomy
 - [[Gießkanne]] — watering can
 - [[Glascontainer]] — bottle bank
@@ -329,7 +333,9 @@ Back to [[00 Home]]
 - [[Heizkörper]] — radiator
 - [[hämmern]] — to hammer; to pound
 - [[Instandhaltung]] — maintenance; upkeep
+- [[isolieren]] — to insulate; to isolate
 - [[Kaltmiete]] — basic rent (excluding utilities)
+- [[kehren]] — to sweep; to turn
 - [[kippen]] — to tip; to tilt; to topple
 - [[Klebeband]] — adhesive tape
 - [[Klebstoff]] — glue; adhesive

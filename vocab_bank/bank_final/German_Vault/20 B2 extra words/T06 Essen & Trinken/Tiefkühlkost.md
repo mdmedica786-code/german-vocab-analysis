@@ -33,6 +33,8 @@ status: "new"
 - Tiefkühlkost auftauen
 - Tiefkühlkost lagern
 
+**Related:** [[lagern]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

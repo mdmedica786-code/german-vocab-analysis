@@ -34,7 +34,7 @@ status: "new"
 - einen Dieb fassen
 - sich kurz fassen
 
-**Related:** [[Dieb]] · [[kurz]]
+**Related:** [[Entschluss]] · [[Dieb]] · [[kurz]]
 
 **Source:** Netzwerk neu B1 K6 3b (Blick nach vorn) · Goethe word list B1
 <!-- bank:end -->

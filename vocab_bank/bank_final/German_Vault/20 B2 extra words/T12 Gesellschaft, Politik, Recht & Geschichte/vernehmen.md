@@ -1,0 +1,40 @@
+---
+title: "vernehmen"
+type: "word"
+aliases: ["vernimmt", "vernahm", "hat vernommen"]
+lemma: "vernehmen"
+meaning: "to hear; to question (formally)"
+pos: "verb"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2548"
+exam_use: ["Lesen", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
+---
+<!-- bank:start -->
+# vernehmen
+
+**Meaning:** to hear; to question (formally)
+**Forms:** vernimmt · vernahm · hat vernommen
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Polizei vernahm den Zeugen drei Stunden lang.
+> *The police questioned the witness for three hours.*
+
+**Collocations**
+- einen Zeugen vernehmen
+- ein Geräusch vernehmen
+- sich vernehmen lassen
+
+**Related:** [[Geräusch]]
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

@@ -28,7 +28,7 @@ status: "new"
 - wenig Beachtung schenken
 - Aufmerksamkeit schenken
 
-**Related:** [[Aufmerksamkeit]]
+**Related:** [[Beachtung]] · [[Aufmerksamkeit]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

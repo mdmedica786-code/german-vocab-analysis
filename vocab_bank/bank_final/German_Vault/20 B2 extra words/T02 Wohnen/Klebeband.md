@@ -33,7 +33,7 @@ status: "new"
 - doppelseitiges Klebeband
 - mit Klebeband befestigen
 
-**Related:** [[Stück]]
+**Related:** [[Stück]] · [[befestigen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

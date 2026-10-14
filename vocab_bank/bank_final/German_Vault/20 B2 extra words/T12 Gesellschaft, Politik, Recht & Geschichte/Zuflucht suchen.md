@@ -28,6 +28,8 @@ status: "new"
 - Zuflucht finden
 - in etwas Zuflucht suchen
 
+**Related:** [[Zuflucht]]
+
 **Exam use:** Lesen, Medien
 <!-- bank:end -->
 

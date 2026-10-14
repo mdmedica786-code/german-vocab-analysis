@@ -36,6 +36,8 @@ status: "new"
 - körperliche Bewegung
 - sich Bewegung verschaffen
 
+**Related:** [[verschaffen]]
+
 **Source:** Netzwerk neu A1 K12 12b (Ab in den Urlaub!) · Goethe word list B1
 <!-- bank:end -->
 

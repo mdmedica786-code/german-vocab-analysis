@@ -29,7 +29,7 @@ status: "new"
 - ratlos wirken
 - jemanden ratlos zurücklassen
 
-**Related:** [[wirken]]
+**Related:** [[wirken]] · [[zurücklassen]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->

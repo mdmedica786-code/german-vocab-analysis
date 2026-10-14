@@ -6,7 +6,7 @@ tags: ["moc", "topic/T15"]
 <!-- bank:start -->
 # T15 Sprache, Kommunikation & Denken
 
-Map of content. 572 words in the main bank, 255 in the B2 bank.
+Map of content. 572 words in the main bank, 357 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -601,18 +601,22 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (255)
+### B2 (357)
 
 - [[abgrenzen]] — to distinguish; to set apart
 - [[Abgrenzung]] — distinction; demarcation
+- [[Abhandlung]] — treatise; essay; paper
 - [[abkürzen]] — to abbreviate; to shorten
 - [[ableiten]] — to derive; to deduce
 - [[abraten]] — to advise against
 - [[abweichen]] — to deviate; to differ
 - [[abwägen]] — to weigh up; to consider carefully
 - [[Abwägung]] — weighing up; consideration
+- [[Adressat]] — addressee; recipient; target audience
+- [[ahnen]] — to suspect; to have a feeling
 - [[Aktualität]] — topicality; up-to-dateness
 - [[Amtsdeutsch]] — officialese; bureaucratic German
+- [[Analogie]] — analogy
 - [[andeuten]] — to hint at; to indicate
 - [[Anerkennung finden]] — to gain recognition
 - [[Anglizismus]] — anglicism
@@ -621,9 +625,12 @@ Back to [[00 Home]]
 - [[anknüpfen]] — to link up; to build on
 - [[anmerken]] — to remark; to notice (in someone)
 - [[Anmerkung]] — note; remark
+- [[Annahme]] — assumption; acceptance
 - [[ans Licht bringen]] — to bring to light
 - [[anschaulich]] — vivid; illustrative
+- [[Anschauung]] — view; opinion; observation
 - [[anspielen]] — to allude (to); to hint at
+- [[Ansprache]] — speech; address
 - [[anzweifeln]] — to doubt; to question
 - [[appellieren]] — to appeal
 - [[Argumentation]] — line of argument; argumentation
@@ -633,34 +640,45 @@ Back to [[00 Home]]
 - [[auf den Punkt bringen]] — to put succinctly; to sum up
 - [[aufgreifen]] — to take up; to pick up (a topic)
 - [[Aufmerksamkeit schenken]] — to pay attention
+- [[Aufruf]] — appeal; call; summons
 - [[aufschlagen]] — to open (a book); to hit; to increase (prices)
 - [[aufschlussreich]] — revealing; informative
+- [[Aufzeichnung]] — record; notes; recording
 - [[Ausdruck verleihen]] — to give expression to
 - [[Ausdrucksweise]] — manner of expression; wording
 - [[ausdrücklich]] — explicit; expressly
+- [[auseinandersetzen]] — to discuss in detail; (sich) to deal with; to come to terms with
 - [[ausfragen]] — to question; to grill
 - [[Ausgewogenheit]] — balance; fairness
 - [[ausklammern]] — to exclude; to leave out
 - [[auslassen]] — to omit; to skip; to vent
 - [[ausloten]] — to sound out; to explore
 - [[auswerten]] — to evaluate; to analyse
+- [[beabsichtigen]] — to intend; to plan
 - [[Beachtung finden]] — to receive attention
 - [[Beachtung schenken]] — to pay attention
+- [[Beantwortung]] — answering; reply
 - [[Bedenken äußern]] — to voice concerns
 - [[Bedeutung beimessen]] — to attach importance
 - [[befassen]] — to deal with; to concern oneself
+- [[begreifen]] — to grasp; to understand
 - [[beiläufig]] — casual; in passing
 - [[beipflichten]] — to agree with; to concur
 - [[bekanntlich]] — as is well known; as we know
 - [[bekräftigen]] — to reaffirm; to confirm
 - [[belegen]] — to prove; to document; to occupy
 - [[beleuchten]] — to light up; to examine (a topic)
+- [[Bemerkung]] — remark; comment
 - [[bemängeln]] — to find fault with; to criticise
+- [[Beobachter]] — observer
 - [[Beobachtung]] — observation
 - [[Bericht erstatten]] — to report; to give a report
 - [[berichtigen]] — to correct; to rectify
 - [[beruhen]] — to be based (on)
+- [[besagen]] — to state; to say; to mean
 - [[Bescheid geben]] — to let someone know
+- [[Bestrebung]] — effort; endeavour
+- [[betrachten]] — to look at; to consider
 - [[Betrachtung]] — consideration; contemplation
 - [[Betrachtungsweise]] — way of looking at things; approach
 - [[beugen]] — to bend; to inflect; to yield
@@ -668,17 +686,30 @@ Back to [[00 Home]]
 - [[Bezug nehmen]] — to refer
 - [[bezweifeln]] — to doubt
 - [[billigen]] — to approve; to sanction
+- [[Blickwinkel]] — angle; point of view
+- [[brummen]] — to hum; to growl; to grumble
 - [[charakterisieren]] — to characterise
+- [[Charakterisierung]] — characterisation; description
+- [[Charakteristikum]] — characteristic; distinctive feature
+- [[darlegen]] — to explain; to set out; to present
 - [[das Wort ergreifen]] — to take the floor
 - [[das Wort erteilen]] — to give the floor
+- [[definieren]] — to define
 - [[demzufolge]] — accordingly; according to this
 - [[den Faden verlieren]] — to lose the thread
 - [[den Nagel auf den Kopf treffen]] — to hit the nail on the head
+- [[denkbar]] — conceivable
+- [[Deutung]] — interpretation
 - [[die Kirche im Dorf lassen]] — to keep things in proportion
 - [[diesbezüglich]] — in this regard; concerning this
+- [[Differenzierung]] — differentiation
+- [[Dilemma]] — dilemma
+- [[Diskurs]] — discourse
 - [[Dolmetscher]] — interpreter
 - [[Durchblick]] — overview; grasp of things
+- [[Durchbruch]] — breakthrough
 - [[durchschauen]] — to see through
+- [[ebenda]] — in the same place; ibid.
 - [[ein Fazit ziehen]] — to draw a conclusion; to sum up
 - [[Eindeutigkeit]] — clarity; unambiguity
 - [[einen Vergleich ziehen]] — to draw a comparison
@@ -703,14 +734,20 @@ Back to [[00 Home]]
 - [[Ergänzung]] — addition; supplement
 - [[Erkenntnis]] — insight; realisation; finding
 - [[erläutern]] — to explain; to elucidate
+- [[Erläuterung]] — explanation
 - [[erwidern]] — to reply; to return (a feeling)
 - [[erwägen]] — to consider; to contemplate
 - [[Erwägung]] — consideration; deliberation
 - [[erwähnen]] — to mention
+- [[Erwähnung]] — mention
+- [[erörtern]] — to discuss; to debate; to examine
+- [[Erörterung]] — discussion; examination (also essay type)
 - [[etwas unter den Teppich kehren]] — to sweep something under the carpet
+- [[explizit]] — explicit
 - [[Fachbegriff]] — technical term
 - [[Fachsprache]] — technical language; jargon
 - [[Fazit]] — conclusion; summary verdict
+- [[Feststellung]] — finding; statement; establishing
 - [[folgern]] — to conclude; to deduce
 - [[Folgerung]] — inference; conclusion
 - [[Fragen stellen]] — to ask questions
@@ -718,15 +755,22 @@ Back to [[00 Home]]
 - [[Fremdwort]] — foreign word; loanword
 - [[fußen]] — to be based on
 - [[gegenüberstellen]] — to compare; to juxtapose
+- [[Gegenüberstellung]] — comparison; juxtaposition
+- [[Geschrei]] — shouting; screaming; cries
 - [[Gesetzmäßigkeit]] — regularity; law (of nature)
+- [[Gesichtsausdruck]] — facial expression
 - [[Gesichtspunkt]] — point of view; aspect
+- [[Geste]] — gesture
 - [[Gewicht legen]] — to place weight (on)
 - [[Gewicht legen auf]] — to put emphasis on
 - [[Gewichtung]] — weighting; emphasis
 - [[gewissermaßen]] — so to speak; in a way
 - [[Gewissheit]] — certainty
 - [[Glauben schenken]] — to believe; to give credence
+- [[gliedern]] — to divide; to structure; to organise
 - [[Hand und Fuß haben]] — to make sense; to be well thought out
+- [[Handbewegung]] — hand gesture; wave of the hand
+- [[Handschrift]] — handwriting; manuscript
 - [[Herangehensweise]] — approach; way of tackling
 - [[hindeuten]] — to point to; to indicate
 - [[hinterfragen]] — to question; to scrutinise
@@ -735,6 +779,9 @@ Back to [[00 Home]]
 - [[Hörverstehen]] — listening comprehension
 - [[im Großen und Ganzen]] — by and large; on the whole
 - [[im Grunde genommen]] — basically; at bottom
+- [[Implikation]] — implication
+- [[implizieren]] — to imply; to involve
+- [[implizit]] — implicit
 - [[in den Hintergrund treten]] — to take a back seat
 - [[in den Vordergrund stellen]] — to put in the foreground; to emphasise
 - [[in Erfahrung bringen]] — to find out; to learn
@@ -748,6 +795,9 @@ Back to [[00 Home]]
 - [[in Zweifel ziehen]] — to call into question
 - [[ins Gespräch kommen]] — to get into conversation
 - [[ins Schwarze treffen]] — to hit the bull's eye; to get it exactly right
+- [[intellektuell]] — intellectual
+- [[Interpretation]] — interpretation
+- [[interpretieren]] — to interpret
 - [[jemandem auf den Zahn fühlen]] — to sound someone out; to quiz someone
 - [[jemandem einen Bären aufbinden]] — to pull someone's leg; to tell someone a tall story
 - [[jemandem etwas ans Herz legen]] — to recommend something warmly to someone
@@ -758,17 +808,28 @@ Back to [[00 Home]]
 - [[Kernpunkt]] — crux; main point
 - [[Klarheit schaffen]] — to clear things up
 - [[Klischee]] — cliché; stereotype
+- [[Klärung]] — clarification
+- [[knurren]] — to growl; to grumble
+- [[konfrontieren]] — to confront
 - [[Kontakt aufnehmen]] — to get in touch
 - [[Kritik üben]] — to criticise
 - [[Kritikpunkt]] — point of criticism
+- [[lateinisch]] — Latin
 - [[Lehnwort]] — loanword
+- [[Leitfaden]] — guide; manual; guideline
 - [[Leitgedanke]] — guiding principle; central idea
 - [[Leseverstehen]] — reading comprehension
+- [[leugnen]] — to deny; to disavow
+- [[Logik]] — logic
 - [[lückenhaft]] — patchy; incomplete
 - [[Mehrsprachigkeit]] — multilingualism
+- [[Mehrzahl]] — majority; plural
 - [[Merkfähigkeit]] — ability to remember; retentiveness
+- [[Metapher]] — metaphor
 - [[mit der Tür ins Haus fallen]] — to blurt something out; to get straight to the point (tactlessly)
+- [[Motto]] — motto; theme; slogan
 - [[Mundart]] — dialect
+- [[murmeln]] — to mumble; to murmur
 - [[mutmaßen]] — to speculate; to surmise
 - [[Muttersprachler]] — native speaker
 - [[Nachdruck]] — emphasis; insistence
@@ -779,19 +840,34 @@ Back to [[00 Home]]
 - [[nichtsdestotrotz]] — nevertheless; all the same
 - [[Notiz nehmen]] — to take notice
 - [[Nuance]] — nuance; shade
+- [[objektiv]] — objective
 - [[Objektivität]] — objectivity
+- [[offenbaren]] — to reveal; to disclose
 - [[offenkundig]] — obvious; evident
+- [[plausibel]] — plausible; convincing
 - [[plädieren]] — to plead; to advocate
 - [[Position beziehen]] — to take a position
+- [[publizieren]] — to publish
 - [[Quelle]] — source; spring
+- [[rational]] — rational
+- [[Rationalität]] — rationality
 - [[Rechtfertigung]] — justification; excuse
 - [[Rechtschreibung]] — spelling; orthography
 - [[Rede und Antwort stehen]] — to answer for oneself; to be held to account
 - [[Redewendung]] — idiom; expression
+- [[Redner]] — speaker; orator
+- [[reflektieren]] — to reflect; to think about
+- [[Reflexion]] — reflection; consideration
 - [[resultieren]] — to result (from)
+- [[Rhetorik]] — rhetoric
 - [[richten]] — to direct; to address; to fix
+- [[Ruf]] — call; reputation
+- [[runzeln]] — to wrinkle; to frown
+- [[sachlich]] — objective; factual
 - [[Sachlichkeit]] — objectivity; matter-of-factness
 - [[Satzbau]] — sentence structure
+- [[Scherz]] — joke
+- [[schildern]] — to describe; to depict
 - [[Schimpfwort]] — swear word; insult
 - [[schlussfolgern]] — to conclude; to infer
 - [[Schlussfolgerung]] — conclusion; inference
@@ -800,44 +876,67 @@ Back to [[00 Home]]
 - [[sich den Kopf zerbrechen]] — to rack one's brains
 - [[sich Gedanken machen]] — to think about; to give thought to
 - [[sinngemäß]] — in essence; roughly in meaning
+- [[skizzieren]] — to sketch; to outline
 - [[sodann]] — then; thereupon
 - [[sozusagen]] — so to speak; as it were
 - [[spekulieren]] — to speculate
+- [[Sprachgebrauch]] — language use; usage
 - [[Sprachniveau]] — language level
 - [[Stellung beziehen]] — to take a stand
 - [[Stellung nehmen]] — to comment; to take a position
+- [[Stellungnahme]] — statement; opinion
 - [[stichhaltig]] — sound; valid
 - [[stillschweigend]] — tacit; silently
 - [[stützen]] — to support; to base on
+- [[subjektiv]] — subjective
+- [[synonym]] — synonymous
 - [[tendieren]] — to tend; to incline
 - [[Textverständnis]] — text comprehension
+- [[Thematik]] — subject matter; theme
+- [[thematisieren]] — to address; to make a subject of discussion
 - [[These]] — thesis; hypothesis
+- [[Tonfall]] — tone (of voice)
 - [[tuscheln]] — to whisper; to mutter
 - [[Umdenken]] — rethink; change of thinking
 - [[Umgangssprache]] — colloquial language
 - [[unmissverständlich]] — unmistakable; unambiguous
+- [[Unsinn]] — nonsense
 - [[unter vier Augen]] — in private; face to face
 - [[unterbreiten]] — to submit; to put forward
 - [[untermauern]] — to back up; to substantiate
+- [[Unterscheidung]] — distinction; differentiation
 - [[unterstellen]] — to insinuate; to assume
 - [[Untertreibung]] — understatement
 - [[Ursprung]] — origin; source
+- [[urteilen]] — to judge
+- [[verdeutlichen]] — to make clear; to illustrate
+- [[verfassen]] — to write; to compose; to draft
 - [[verharmlosen]] — to play down; to trivialise
 - [[verknüpfen]] — to link; to connect
+- [[verkünden]] — to announce; to proclaim
 - [[verplappern]] — to let something slip
 - [[verstummen]] — to fall silent
+- [[verständigen]] — to notify; (sich) to come to an understanding
 - [[Verständigung]] — communication; understanding
+- [[Verweis]] — reference; cross-reference; reprimand
 - [[verweisen]] — to refer; to point out
+- [[Vorgeschichte]] — background; previous history
 - [[vorwerfen]] — to reproach; to accuse
+- [[wahrnehmen]] — to perceive; to take up (an appointment)
 - [[Wasser auf jemandes Mühlen sein]] — to be grist to someone's mill
+- [[Weisheit]] — wisdom
 - [[widerlegen]] — to refute; to disprove
 - [[widerspiegeln]] — to reflect; to mirror
 - [[widersprüchlich]] — contradictory
 - [[wiederum]] — again; in turn; on the other hand
 - [[wohlgemerkt]] — mind you; please note
 - [[Wortbildung]] — word formation
+- [[Wortlaut]] — wording; text
+- [[wortlos]] — wordless; silent
 - [[Wortschatz]] — vocabulary
+- [[wörtlich]] — literal; word for word
 - [[Zeichensetzung]] — punctuation
+- [[zitieren]] — to quote; to cite
 - [[zu dem Schluss kommen]] — to come to the conclusion
 - [[zu Wort kommen]] — to get a chance to speak
 - [[zugeben]] — to admit; to confess
@@ -849,12 +948,15 @@ Back to [[00 Home]]
 - [[zur Sache kommen]] — to get to the point
 - [[zur Sprache bringen]] — to bring up; to raise
 - [[zurückführen]] — to trace back (to); to attribute
+- [[zusammenfassend]] — summarising; in summary
 - [[Zusammenfassung]] — summary
 - [[zusammenhängen]] — to be connected; to be related
 - [[zweifelhaft]] — doubtful; dubious
 - [[zwischen den Zeilen lesen]] — to read between the lines
 - [[überdenken]] — to reconsider; to think over
 - [[übereinstimmen]] — to agree; to match
+- [[Überlegenheit]] — superiority
+- [[Überlegung]] — consideration; reflection
 - [[überleiten]] — to lead over; to make a transition
 - [[Übertreibung]] — exaggeration
 - [[Überzeugungskraft]] — persuasiveness

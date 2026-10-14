@@ -33,6 +33,8 @@ status: "new"
 - Wandlung vollziehen
 - Wandlung zum Besseren
 
+**Related:** [[vollziehen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

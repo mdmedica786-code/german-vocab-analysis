@@ -32,6 +32,8 @@ status: "new"
 - etwas heftig abstreiten
 - nicht abzustreiten
 
+**Related:** [[heftig]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

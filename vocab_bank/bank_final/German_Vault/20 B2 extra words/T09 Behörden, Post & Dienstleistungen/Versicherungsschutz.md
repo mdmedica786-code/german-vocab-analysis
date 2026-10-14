@@ -33,6 +33,8 @@ status: "new"
 - ohne Versicherungsschutz
 - den Versicherungsschutz erweitern
 
+**Related:** [[erweitern]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

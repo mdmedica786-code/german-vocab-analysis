@@ -33,7 +33,7 @@ status: "new"
 - durch Zwei-Faktor-Authentifizierung schützen
 - Zwei-Faktor-Authentifizierung einrichten
 
-**Related:** [[schützen]]
+**Related:** [[aktivieren]] · [[schützen]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

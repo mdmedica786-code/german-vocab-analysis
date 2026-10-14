@@ -33,7 +33,7 @@ status: "new"
 - eine reichhaltige Feuchtigkeitscreme
 - die Haut mit Feuchtigkeitscreme pflegen
 
-**Related:** [[Haut]]
+**Related:** [[auftragen]] · [[Haut]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

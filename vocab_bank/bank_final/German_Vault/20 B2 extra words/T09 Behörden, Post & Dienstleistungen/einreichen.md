@@ -32,7 +32,7 @@ status: "new"
 - Unterlagen einreichen
 - eine Klage einreichen
 
-**Related:** [[Antrag]] · [[Unterlagen]]
+**Related:** [[Antrag]] · [[Unterlagen]] · [[Klage]]
 
 **Exam use:** Schreiben, Alltag
 <!-- bank:end -->

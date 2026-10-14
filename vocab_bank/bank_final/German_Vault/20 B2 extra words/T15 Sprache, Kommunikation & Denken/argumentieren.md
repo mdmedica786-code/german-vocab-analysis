@@ -30,6 +30,8 @@ status: "new"
 - sachlich argumentieren
 - dagegen argumentieren
 
+**Related:** [[sachlich]]
+
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->
 

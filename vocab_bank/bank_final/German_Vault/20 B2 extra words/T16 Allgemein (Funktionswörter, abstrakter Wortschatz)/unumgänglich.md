@@ -29,7 +29,7 @@ status: "new"
 - eine unumgängliche Maßnahme
 - sich als unumgänglich erweisen
 
-**Related:** [[Maßnahme]]
+**Related:** [[Maßnahme]] · [[erweisen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

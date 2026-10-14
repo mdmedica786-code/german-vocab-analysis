@@ -1,0 +1,42 @@
+---
+title: "Stich"
+type: "word"
+aliases: ["der Stich", "Stiche"]
+lemma: "Stich"
+meaning: "sting; stitch; prick"
+pos: "noun"
+article: "der"
+plural: "Stiche"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2768"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# der Stich
+
+**Meaning:** sting; stitch; prick
+**Plural:** Stiche
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sie hat einen Stich von einer Wespe bekommen.
+> *She got a sting from a wasp.*
+
+**Collocations**
+- ein Stich in der Seite
+- im Stich lassen
+- ein Stich ins Herz
+
+**Related:** [[Seite]] · [[Herz]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

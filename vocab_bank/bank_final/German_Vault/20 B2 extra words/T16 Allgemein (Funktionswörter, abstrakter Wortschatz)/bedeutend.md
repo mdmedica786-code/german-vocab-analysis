@@ -1,0 +1,38 @@
+---
+title: "bedeutend"
+type: "word"
+lemma: "bedeutend"
+meaning: "significant; important"
+pos: "adjective"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D2523"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# bedeutend
+
+**Meaning:** significant; important
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das ist ein bedeutender Fortschritt für die Forschung.
+> *That is a significant advance for research.*
+
+**Collocations**
+- ein bedeutender Künstler
+- bedeutend besser
+- bedeutende Veränderungen
+
+**Related:** [[Künstler]] · [[besser]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

@@ -34,7 +34,7 @@ status: "new"
 - den Oberschenkel anspannen
 - der rechte Oberschenkel
 
-**Related:** [[Bruch]]
+**Related:** [[Bruch]] · [[anspannen]]
 <!-- bank:end -->
 
 ## My notes

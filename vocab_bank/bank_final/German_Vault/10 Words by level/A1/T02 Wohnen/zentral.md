@@ -32,7 +32,7 @@ status: "new"
 - ein zentrales Thema
 - zentral wohnen
 
-**Related:** [[Lage]] · [[Thema]]
+**Related:** [[gelegen]] · [[Lage]] · [[Thema]]
 
 **Source:** Netzwerk neu A1 K9 3c (Meine Wohnung) · Goethe word list B1
 <!-- bank:end -->

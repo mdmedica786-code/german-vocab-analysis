@@ -1,0 +1,40 @@
+---
+title: "Schätzung"
+type: "word"
+aliases: ["die Schätzung", "Schätzungen"]
+lemma: "Schätzung"
+meaning: "estimate; estimation"
+pos: "noun"
+article: "die"
+plural: "Schätzungen"
+level: "B2"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "b2"
+id: "D3358"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Schätzung
+
+**Meaning:** estimate; estimation
+**Plural:** Schätzungen
+**Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Nach Schätzungen leben hier zwei Millionen Menschen.
+> *According to estimates two million people live here.*
+
+**Collocations**
+- nach Schätzungen
+- eine grobe Schätzung
+- eine Schätzung abgeben
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

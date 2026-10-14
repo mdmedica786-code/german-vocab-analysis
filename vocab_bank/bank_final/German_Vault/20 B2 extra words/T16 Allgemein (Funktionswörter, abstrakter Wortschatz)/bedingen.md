@@ -31,7 +31,7 @@ status: "new"
 - witterungsbedingt
 - bedingt durch
 
-**Related:** [[gegenseitig]]
+**Related:** [[gegenseitig]] · [[bedingt]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

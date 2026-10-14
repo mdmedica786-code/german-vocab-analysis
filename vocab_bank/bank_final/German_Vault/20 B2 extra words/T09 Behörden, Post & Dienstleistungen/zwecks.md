@@ -29,7 +29,7 @@ status: "new"
 - zwecks Klärung
 - zwecks Prüfung
 
-**Related:** [[Prüfung]]
+**Related:** [[Klärung]] · [[Prüfung]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

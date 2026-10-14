@@ -33,6 +33,8 @@ status: "new"
 - den Geschäftsführer sprechen
 - der geschäftsführende Gesellschafter
 
+**Related:** [[Gesellschafter]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

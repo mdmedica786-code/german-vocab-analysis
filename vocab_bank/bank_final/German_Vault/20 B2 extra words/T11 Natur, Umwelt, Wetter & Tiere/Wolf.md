@@ -1,0 +1,42 @@
+---
+title: "Wolf"
+type: "word"
+aliases: ["der Wolf", "Wölfe"]
+lemma: "Wolf"
+meaning: "wolf"
+pos: "noun"
+article: "der"
+plural: "Wölfe"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D3555"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# der Wolf
+
+**Meaning:** wolf
+**Plural:** Wölfe
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Wald leben wieder Wölfe.
+> *Wolves are living in the forest again.*
+
+**Collocations**
+- ein Rudel Wölfe
+- der Wolf heult
+- ein Wolf im Schafspelz
+
+**Related:** [[Rudel]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

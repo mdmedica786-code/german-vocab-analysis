@@ -28,6 +28,8 @@ status: "new"
 - gut zur Geltung kommen
 - zur Geltung bringen
 
+**Related:** [[Geltung]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

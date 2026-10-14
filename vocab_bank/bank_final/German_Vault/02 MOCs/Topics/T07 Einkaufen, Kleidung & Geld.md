@@ -6,7 +6,7 @@ tags: ["moc", "topic/T07"]
 <!-- bank:start -->
 # T07 Einkaufen, Kleidung & Geld
 
-Map of content. 360 words in the main bank, 127 in the B2 bank.
+Map of content. 360 words in the main bank, 142 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -389,10 +389,11 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (127)
+### B2 (142)
 
 - [[Abbuchung]] — debit; withdrawal from an account
 - [[abgenutzt]] — worn; worn out
+- [[Abrechnung]] — bill; statement; settlement
 - [[Abschlag]] — discount; advance payment
 - [[Absicherung]] — safeguarding; security
 - [[Abzug]] — deduction; withdrawal
@@ -410,27 +411,35 @@ Back to [[00 Home]]
 - [[Auszahlung]] — payout; disbursement
 - [[begleichen]] — to settle (a bill); to pay
 - [[belaufen]] — to amount to
+- [[beschaffen]] — to obtain; to procure
 - [[Beschaffung]] — procurement; obtaining
 - [[Bestand]] — stock; inventory; existence
+- [[Besteuerung]] — taxation
 - [[binden]] — to tie; to bind
 - [[Bonität]] — creditworthiness
+- [[Börse]] — stock exchange; market
 - [[bürgen]] — to vouch; to guarantee
 - [[Darlehen]] — loan
 - [[Daunenjacke]] — down jacket
 - [[die Kosten tragen]] — to bear the costs
 - [[Dispokredit]] — overdraft facility
+- [[Eigenkapital]] — equity; own capital
+- [[Einkünfte]] — income; earnings
 - [[Einlage]] — deposit; contribution; insert
 - [[einlösen]] — to cash (in); to redeem; to keep (a promise)
 - [[einsparen]] — to save; to cut back
+- [[Entschädigung]] — compensation
 - [[Ersatzteil]] — spare part
 - [[Ersparnis]] — saving; savings
 - [[Erzeugnis]] — product; produce
 - [[Etat]] — budget
 - [[Etikett]] — label; tag
+- [[Faser]] — fibre
 - [[fehlerhaft]] — faulty; defective
 - [[feilschen]] — to haggle; to bargain
 - [[Feuchtigkeitscreme]] — moisturiser
 - [[flauschig]] — fluffy; soft
+- [[Fonds]] — fund (financial)
 - [[Freibetrag]] — tax-free allowance
 - [[Gegenleistung]] — something in return; consideration
 - [[Geldanlage]] — investment
@@ -444,12 +453,16 @@ Back to [[00 Home]]
 - [[Handyvertrag]] — mobile phone contract
 - [[Haushaltsplan]] — budget plan
 - [[Honorar]] — fee (for freelance work)
+- [[Hosentasche]] — trouser pocket
 - [[Hypothek]] — mortgage
 - [[in Rechnung stellen]] — to charge; to bill
 - [[Inflation]] — inflation
+- [[investieren]] — to invest
 - [[Kalkulation]] — calculation; costing
 - [[kariert]] — checked; squared
 - [[Kassenbon]] — till receipt
+- [[Klamotte]] — clothes (colloquial, usually plural)
+- [[kleiden]] — to dress; to clothe
 - [[Kleiderbügel]] — clothes hanger
 - [[Konfektionsgröße]] — clothing size
 - [[Konjunktur]] — economic situation; boom
@@ -491,6 +504,7 @@ Back to [[00 Home]]
 - [[schäbig]] — shabby
 - [[seidig]] — silky
 - [[sich über Wasser halten]] — to keep one's head above water
+- [[Silber]] — silver
 - [[Skonto]] — cash discount
 - [[Sortiment]] — range of goods; assortment
 - [[Sparbuch]] — savings book; savings account
@@ -500,6 +514,7 @@ Back to [[00 Home]]
 - [[stoßfest]] — shockproof
 - [[Subvention]] — subsidy
 - [[Teuerung]] — rise in prices
+- [[Transaktion]] — transaction
 - [[Turnschuh]] — trainer; gym shoe
 - [[Umkleidekabine]] — changing cubicle
 - [[Umsatzsteuer]] — value-added tax; sales tax

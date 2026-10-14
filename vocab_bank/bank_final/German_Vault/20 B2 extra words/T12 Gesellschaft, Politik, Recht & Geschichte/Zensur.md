@@ -33,7 +33,7 @@ status: "new"
 - der Zensur unterliegen
 - Zensur der Presse
 
-**Related:** [[unterliegen]] · [[Presse]]
+**Related:** [[ausüben]] · [[unterliegen]] · [[Presse]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

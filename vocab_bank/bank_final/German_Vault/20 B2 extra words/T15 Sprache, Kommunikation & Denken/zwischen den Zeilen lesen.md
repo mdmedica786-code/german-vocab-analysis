@@ -28,6 +28,8 @@ status: "new"
 - zwischen den Zeilen stehen
 - Zwischentöne wahrnehmen
 
+**Related:** [[wahrnehmen]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

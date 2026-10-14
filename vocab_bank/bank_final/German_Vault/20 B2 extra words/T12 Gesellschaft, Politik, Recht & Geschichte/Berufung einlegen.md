@@ -29,7 +29,7 @@ status: "new"
 - Widerspruch einlegen
 - Revision einlegen
 
-**Related:** [[Berufung]] · [[einlegen]] · [[Widerspruch]]
+**Related:** [[Berufung]] · [[einlegen]] · [[Widerspruch]] · [[Revision]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

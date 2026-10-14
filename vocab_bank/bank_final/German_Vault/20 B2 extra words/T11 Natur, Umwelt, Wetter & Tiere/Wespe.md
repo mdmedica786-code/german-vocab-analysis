@@ -33,6 +33,8 @@ status: "new"
 - Wespen vertreiben
 - ein Wespennest
 
+**Related:** [[vertreiben]]
+
 **Exam use:** Alltag, Hören
 <!-- bank:end -->
 

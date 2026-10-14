@@ -33,6 +33,8 @@ status: "new"
 - einen Haftbefehl beantragen
 - Haftbefehl vollstrecken
 
+**Related:** [[erlassen]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

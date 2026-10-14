@@ -29,7 +29,7 @@ status: "new"
 - lässig auftreten
 - eine lässige Haltung
 
-**Related:** [[auftreten]]
+**Related:** [[auftreten]] · [[Haltung]]
 
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
