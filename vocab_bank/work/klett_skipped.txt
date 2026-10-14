@@ -1,2 +1,4 @@
 anstellen geschickt anstellen)|already in the main bank as anstellen
 berufen werden|covered by berufen
+einerseits … andererseits …|covered by phrase / participle form
+hin- und hergefahren|covered by phrase / participle form
