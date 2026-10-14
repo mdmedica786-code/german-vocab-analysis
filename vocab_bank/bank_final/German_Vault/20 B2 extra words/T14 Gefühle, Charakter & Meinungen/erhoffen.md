@@ -1,7 +1,7 @@
 ---
 title: "erhoffen"
 type: "word"
-aliases: ["erhofft", "erhoffte", "hat erhofft"]
+aliases: ["erhofft sich", "erhoffte sich", "hat sich erhofft"]
 lemma: "erhoffen"
 meaning: "to hope for; to expect"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # erhoffen
 
 **Meaning:** to hope for; to expect
-**Forms:** erhofft · erhoffte · hat erhofft
+**Forms:** erhofft sich · erhoffte sich · hat sich erhofft
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

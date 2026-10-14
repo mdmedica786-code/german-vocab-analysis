@@ -27,8 +27,12 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> ins Gespräch kommen
-> *to start a conversation*
+> Im Kurs sind wir schnell ins Gespräch gekommen.
+> *In the course we quickly got into conversation.*
+
+**Collocations**
+- ins Gespräch kommen
+- ein Gespräch führen
 
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A1
 <!-- bank:end -->

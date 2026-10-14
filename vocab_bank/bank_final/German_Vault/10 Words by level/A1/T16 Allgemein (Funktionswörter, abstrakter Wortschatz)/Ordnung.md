@@ -27,8 +27,8 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> Ordnung machen
-> *to tidy up*
+> Räum bitte dein Zimmer auf und mach Ordnung!
+> *Please clear up your room and tidy up!*
 
 **Collocations**
 - Ordnung machen

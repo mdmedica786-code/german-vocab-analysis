@@ -6,7 +6,7 @@ tags: ["moc"]
 <!-- bank:start -->
 # German vocabulary vault
 
-- Main vocabulary: **6524** notes (6140 to study, 384 marked as skipped)
+- Main vocabulary: **6524** notes (6068 to study, 456 marked as skipped)
 - B2 vocabulary: **3683** notes (new words, no medical)
 - Phrases: **1016** in 21 groups
 - Redemittel: **1176** in 55 sets
@@ -19,7 +19,7 @@ tags: ["moc"]
 
 ## Words by level
 
-[[Level A1]] (1751) · [[Level A2]] (1296) · [[Level B1]] (2480) · [[Level B2]] (4044) · [[Level C1]] (252)
+[[Level A1]] (1746) · [[Level A2]] (1293) · [[Level B1]] (2418) · [[Level B2]] (4042) · [[Level C1]] (252)
 
 ## Maps
 

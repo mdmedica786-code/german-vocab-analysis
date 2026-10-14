@@ -27,8 +27,13 @@ status: "new"
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> in jedem Fall
-> *in any case*
+> In jedem Fall rufe ich dich morgen an.
+> *In any case, I will call you tomorrow.*
+
+**Collocations**
+- in jedem Fall
+- auf keinen Fall
+- im schlimmsten Fall
 
 **Source:** Netzwerk neu B1 K5 4b (Umweltfreundlich?) · Goethe word list B1
 <!-- bank:end -->

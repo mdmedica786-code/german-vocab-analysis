@@ -13,9 +13,10 @@ register: "neutral"
 bank: "main"
 id: "B6323"
 freq_rank: 5609
-skip: false
+skip: true
+skip_reason: "duplicate of B6117 (learn that entry)"
 check: "dup:B6117"
-tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
+tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +25,9 @@ status: "new"
 **Meaning:** elbow
 **Plural:** Ellenbogen
 **Level:** B2 · **Topic:** [[M1 Medizin - Anatomie & Körpersysteme]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B6117 (learn that entry)
 
 > [!warning] Check
 > dup:B6117

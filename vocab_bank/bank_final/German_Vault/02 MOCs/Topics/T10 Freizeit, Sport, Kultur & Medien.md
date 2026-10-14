@@ -157,7 +157,7 @@ Back to [[00 Home]]
 - [[Serie]] — series
 - [[singen]] — to sing
 - [[Ski]] — ski
-- [[Skifahren]] — to ski
+- [[Skifahren]] — skiing
 - [[Solist]] — soloist (m)
 - [[Solistin]] — soloist (f)
 - [[Sommerfest]] — summer festival

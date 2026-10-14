@@ -1,7 +1,7 @@
 ---
 title: "etablieren"
 type: "word"
-aliases: ["etabliert", "etablierte", "hat etabliert"]
+aliases: ["etabliert sich", "etablierte sich", "hat sich etabliert"]
 lemma: "etablieren"
 meaning: "to establish"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # etablieren
 
 **Meaning:** to establish
-**Forms:** etabliert · etablierte · hat etabliert
+**Forms:** etabliert sich · etablierte sich · hat sich etabliert
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 

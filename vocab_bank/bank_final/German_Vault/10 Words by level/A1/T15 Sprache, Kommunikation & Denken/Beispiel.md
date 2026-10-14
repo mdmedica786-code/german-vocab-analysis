@@ -27,8 +27,12 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> zum Beispiel
-> *for example*
+> Er mag viele Sportarten, zum Beispiel Tennis und Fußball.
+> *He likes many sports, for example tennis and football.*
+
+**Collocations**
+- zum Beispiel
+- ein gutes Beispiel geben
 
 **Source:** Netzwerk neu A1 K2 10a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->

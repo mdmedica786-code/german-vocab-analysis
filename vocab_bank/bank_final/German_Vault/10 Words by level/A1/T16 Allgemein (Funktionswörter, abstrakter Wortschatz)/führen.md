@@ -26,8 +26,8 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> ein Gespräch führen
-> *to have a conversation*
+> Wir haben gestern ein langes Gespräch geführt.
+> *We had a long conversation yesterday.*
 
 **Collocations**
 - ein Gespräch führen

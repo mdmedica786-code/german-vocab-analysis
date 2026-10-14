@@ -24,8 +24,15 @@ status: "new"
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 
 > [!example] Beispiel
-> die Produktion ins Ausland verlegen
-> *to move production abroad*
+> Die Firma will die Produktion ins Ausland verlegen.
+> *The company wants to move production abroad.*
+
+**Collocations**
+- die Produktion verlegen
+- ins Ausland verlegen
+- einen Termin verlegen
+
+**Related:** [[Produktion]] · [[Ausland]] · [[Termin]]
 
 **Source:** Netzwerk neu B1 K12 7a (Geld regiert die Welt?)
 <!-- bank:end -->

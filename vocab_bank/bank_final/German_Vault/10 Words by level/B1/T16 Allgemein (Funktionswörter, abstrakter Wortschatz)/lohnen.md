@@ -1,7 +1,7 @@
 ---
 title: "lohnen"
 type: "word"
-aliases: ["lohnt sich", "lohnte sich", "hat gelohnt"]
+aliases: ["lohnt sich", "lohnte sich", "hat sich gelohnt"]
 lemma: "lohnen"
 meaning: "to be worth it"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # lohnen
 
 **Meaning:** to be worth it
-**Forms:** lohnt sich · lohnte sich · hat gelohnt
+**Forms:** lohnt sich · lohnte sich · hat sich gelohnt
 **Grammar:** reflexive
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

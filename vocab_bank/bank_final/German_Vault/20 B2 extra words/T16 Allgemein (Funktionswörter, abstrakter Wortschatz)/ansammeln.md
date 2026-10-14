@@ -1,7 +1,7 @@
 ---
 title: "ansammeln"
 type: "word"
-aliases: ["sammelt an", "sammelte an", "hat angesammelt"]
+aliases: ["sammelt sich an", "sammelte sich an", "hat sich angesammelt"]
 lemma: "ansammeln"
 meaning: "to accumulate; to gather"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # ansammeln
 
 **Meaning:** to accumulate; to gather
-**Forms:** sammelt an · sammelte an · hat angesammelt
+**Forms:** sammelt sich an · sammelte sich an · hat sich angesammelt
 **Grammar:** reflexive · separable (an-)
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

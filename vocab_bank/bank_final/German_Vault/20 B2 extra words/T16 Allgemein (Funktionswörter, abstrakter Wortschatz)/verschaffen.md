@@ -1,7 +1,7 @@
 ---
 title: "verschaffen"
 type: "word"
-aliases: ["verschafft", "verschaffte", "hat verschafft"]
+aliases: ["verschafft sich", "verschaffte sich", "hat sich verschafft"]
 lemma: "verschaffen"
 meaning: "to procure; to obtain; to give"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # verschaffen
 
 **Meaning:** to procure; to obtain; to give
-**Forms:** verschafft · verschaffte · hat verschafft
+**Forms:** verschafft sich · verschaffte sich · hat sich verschafft
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

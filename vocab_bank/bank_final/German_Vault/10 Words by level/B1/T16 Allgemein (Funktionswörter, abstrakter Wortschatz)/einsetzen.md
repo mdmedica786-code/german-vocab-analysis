@@ -27,8 +27,8 @@ status: "new"
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine Batterie ins Handy einsetzen
-> *to insert a battery into the mobile phone*
+> Du musst zuerst die Batterie ins Handy einsetzen.
+> *First you have to insert the battery into the phone.*
 
 **Collocations**
 - Geld einsetzen

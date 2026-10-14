@@ -444,7 +444,7 @@ Lieber Tim,
 
 hier ist das **Rezept**, das du wolltest. Das Essen ist einfach und schmeckt sehr gut. Für zwei **Portionen** brauchst du zwei **Schnitzel**, **Mehl**, ein Ei, Salz und **Pfeffer**. Du kannst alles im Supermarkt kaufen.
 
-Zuerst **mischst** du das Mehl mit Salz und Pfeffer. Dann legst du das Fleisch in das Mehl und danach in das Ei. Jetzt **brätst** du das Fleisch zehn Minuten auf dem Herd. Dazu machst du eine **Soße**. Das geht schnell und ist nicht schwer. Mit Kartoffeln schmeckt es am besten. Wenn du Fragen hast, kannst du mich anrufen.
+Zuerst **mischst** du das Mehl mit Salz und Pfeffer. Dann legst du das Fleisch in das Mehl und danach in das Ei. Jetzt **brätst** du das Fleisch zehn Minuten in der Pfanne. Dazu machst du eine **Soße**. Das geht schnell und ist nicht schwer. Mit Kartoffeln schmeckt es am besten. Wenn du Fragen hast, kannst du mich anrufen.
 
 **Ich bin mir sicher**, dass es dir **lecker** schmeckt. **Wir sehen uns** am Samstag! Ich freue mich schon sehr auf den Abend. Bring auch gern einen Freund mit, wenn du möchtest.
 

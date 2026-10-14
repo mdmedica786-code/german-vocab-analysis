@@ -13,9 +13,10 @@ id: "B3661"
 goethe_level: "B1"
 netzwerk: "B1 K3 9a"
 freq_rank: 1506
-skip: false
+skip: true
+skip_reason: "duplicate of B5159 (learn that entry)"
 check: "dup:B5159"
-tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
+tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +25,9 @@ status: "new"
 **Meaning:** to publish; to release
 **Forms:** veröffentlicht · veröffentlichte · hat veröffentlicht
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B5159 (learn that entry)
 
 > [!warning] Check
 > dup:B5159

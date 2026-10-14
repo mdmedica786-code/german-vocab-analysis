@@ -25,8 +25,8 @@ status: "new"
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine wichtige Funktion erfüllen
-> *to fulfil an important function*
+> Sie hat alle Bedingungen für das Visum erfüllt.
+> *She has met all the conditions for the visa.*
 
 **Collocations**
 - eine Aufgabe erfüllen

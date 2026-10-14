@@ -32,3 +32,12 @@ Because about 5% of the sampled vocab rows had a real error, expect roughly 200�
 1. **Second full proof-read of the vocab bank (about 5% error rate in the sample).** Start with the medical topics M1–M4 and the C1 rows that were filled last (ids B5xxx–B6xxx), then the rest.
 2. **Native check of the FSP Redemittel (FSP-01 to FSP-22)** by a German doctor or an FSP trainer. Medical wording, register toward patients and the Arzt-Arzt tone matter most there.
 3. **Prune and prioritise phrases.** Decide for the 224 `dup:` and 2 `drop?` phrase rows which one to keep. Mark about 300 phrases as core, so the study load per week stays realistic for B1 in Dec 2026 and B2 in spring 2027.
+
+## External review (second round)
+An outside review of the original input files was checked line by line against the final banks. Most findings (wrong plurals such as *Angestelltere, das Safe, wrong word types, wrong meanings, OCR typos) were already fixed in the final banks. What was still open was fixed now:
+- 3 nouns with two plurals in one cell (Karneval, Abonnement, Creme): the first plural is now in `plural`, the other in `extra_forms`.
+- 15 reflexive verbs now show `sich` in all forms (hat sich geeinigt ...); `sich etwas gefallen lassen`, `sich scheiden lassen` got their `sich`; `diätisch` is now `diätetisch`.
+- 46 entries had a word group instead of a sentence as the example; each now has a full example sentence.
+- 3 wrong English meanings (Kofferpacken, Skifahren, husten).
+- 58 Austrian/Swiss-only words are flagged `check = drop?` and 6 more duplicates `check = dup:<id>`; the study page, the Excel lists and the vault leave them out of the study list (456 words in total are now "Not in list").
+- 14 reflexive verbs in the B2 bank got the same `sich` treatment.

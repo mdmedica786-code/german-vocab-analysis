@@ -14,8 +14,10 @@ bank: "main"
 id: "B6634"
 goethe_level: "B1"
 freq_rank: 9999
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
+skip: true
+skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
+check: "drop?"
+tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +26,12 @@ status: "new"
 **Meaning:** service staff (Swiss)
 **Plural:** Serviceangestellten
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** regional
+
+> [!info] Not in the study list
+> Austrian/Swiss word: recognise it, but Germany uses the standard word
+
+> [!warning] Check
+> drop?
 
 > [!example] Beispiel
 > Ich bin Serviceangestellte von Beruf.

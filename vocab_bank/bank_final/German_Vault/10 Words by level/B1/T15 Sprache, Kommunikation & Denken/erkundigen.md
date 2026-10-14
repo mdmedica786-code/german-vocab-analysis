@@ -1,7 +1,7 @@
 ---
 title: "erkundigen"
 type: "word"
-aliases: ["erkundigt sich", "erkundigte sich", "hat erkundigt"]
+aliases: ["erkundigt sich", "erkundigte sich", "hat sich erkundigt"]
 lemma: "erkundigen"
 meaning: "to inquire"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # erkundigen
 
 **Meaning:** to inquire
-**Forms:** erkundigt sich · erkundigte sich · hat erkundigt
+**Forms:** erkundigt sich · erkundigte sich · hat sich erkundigt
 **Grammar:** reflexive · + nach + Dat.
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

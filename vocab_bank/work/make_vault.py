@@ -18,6 +18,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from audio_util import AUDIO_DIR, EXTS, AudioLookup  # noqa: E402
+from studylist import mark_not_in_list  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BANKS = ROOT / "bank_final"
@@ -178,7 +179,7 @@ def lvl_key(l):
 def build(root, copy_audio=True):
     V = Vault(root)
     audio = AudioLookup()
-    main = read_csv("vocabulary_bank.csv")
+    main = mark_not_in_list(read_csv("vocabulary_bank.csv"))
     b2 = read_csv("b2_vocabulary_bank.csv")
     phr = read_csv("phrase_bank.csv")
     red = read_csv("redemittel_bank.csv")

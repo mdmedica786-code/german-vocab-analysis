@@ -26,8 +26,8 @@ status: "new"
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 
 > [!example] Beispiel
-> Gepäck zum Auto tragen
-> *to carry luggage to the car*
+> Kannst du mir helfen, das Gepäck zum Auto zu tragen?
+> *Can you help me carry the luggage to the car?*
 
 **Collocations**
 - Kleidung tragen

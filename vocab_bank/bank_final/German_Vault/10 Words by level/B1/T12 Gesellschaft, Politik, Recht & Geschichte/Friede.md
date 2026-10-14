@@ -14,8 +14,10 @@ bank: "main"
 id: "B6222"
 goethe_level: "B1"
 freq_rank: 4951
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
+skip: true
+skip_reason: "duplicate of B4622 (learn that entry)"
+check: "dup:B4622"
+tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +26,12 @@ status: "new"
 **Meaning:** peace
 **Plural:** –
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B4622 (learn that entry)
+
+> [!warning] Check
+> dup:B4622
 
 > [!example] Beispiel
 > Endlich ist hier Frieden!

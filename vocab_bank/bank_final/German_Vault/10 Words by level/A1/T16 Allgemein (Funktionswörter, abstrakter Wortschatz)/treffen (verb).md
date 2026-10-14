@@ -25,8 +25,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine Wahl treffen
-> *to make a choice*
+> Du musst jetzt eine Wahl treffen.
+> *You have to make a choice now.*
+
+**Collocations**
+- eine Wahl treffen
+- eine Entscheidung treffen
+- Freunde treffen
+
+**Related:** [[Wahl]] · [[Entscheidung]]
 
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->

@@ -1,8 +1,8 @@
 ---
-title: "scheiden lassen"
+title: "sich scheiden lassen"
 type: "word"
 aliases: ["lässt sich scheiden", "ließ sich scheiden", "hat sich scheiden lassen"]
-lemma: "scheiden lassen"
+lemma: "sich scheiden lassen"
 meaning: "to get divorced"
 pos: "verb"
 level: "B1"
@@ -17,7 +17,7 @@ tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
-# scheiden lassen
+# sich scheiden lassen
 
 **Meaning:** to get divorced
 **Forms:** lässt sich scheiden · ließ sich scheiden · hat sich scheiden lassen

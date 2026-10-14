@@ -14,8 +14,10 @@ bank: "main"
 id: "B5446"
 goethe_level: "B1"
 freq_rank: 2000
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
+skip: true
+skip_reason: "duplicate of B0943 (learn that entry)"
+check: "dup:B0943"
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -25,6 +27,12 @@ status: "new"
 **Plural:** –
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 **Note:** Interjection: Achtung! = watch out!
+
+> [!info] Not in the study list
+> duplicate of B0943 (learn that entry)
+
+> [!warning] Check
+> dup:B0943
 
 > [!example] Beispiel
 > Achtung, hier endet die Straße!

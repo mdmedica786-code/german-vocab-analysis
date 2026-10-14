@@ -6,7 +6,7 @@ tags: ["moc", "level/B1"]
 <!-- bank:start -->
 # Level B1
 
-2480 words to study: 2480 from the main bank.
+2418 words to study: 2418 from the main bank.
 
 Back to [[00 Home]]
 
@@ -60,7 +60,7 @@ Back to [[00 Home]]
 - [[Therapie]] — therapy; treatment
 - [[Wirkung]] — effect
 
-## M4 Medizin: Klinik, Pflege & Recht (10)
+## M4 Medizin: Klinik, Pflege & Recht (9)
 
 - [[Alarmknopf]] — alarm button
 - [[aufklären]] — to inform; to clarify; to educate
@@ -70,10 +70,9 @@ Back to [[00 Home]]
 - [[Klinikaufenthalt]] — hospital stay
 - [[Krankenversicherung]] — health insurance
 - [[krankschreiben]] — to sign sb off work, to take sick leave
-- [[Ordination]] — doctor's surgery (Austrian)
 - [[Pflege]] — care; nursing
 
-## T01 Person, Familie & Beziehungen (79)
+## T01 Person, Familie & Beziehungen (77)
 
 - [[Abschied]] — farewell; parting
 - [[Alte]] — old man/woman (wieder der/die Alte sein: to be one's old self again)
@@ -124,15 +123,13 @@ Back to [[00 Home]]
 - [[Pate]] — godfather
 - [[Patenschaft]] — sponsorship, godparenthood
 - [[Patin]] — godmother
-- [[Pensionist]] — pensioner (m) (Austrian)
-- [[Pensionistin]] — pensioner (f) (Austrian)
 - [[Personenstand]] — marital status
 - [[Privatleben]] — private life
 - [[Schatz]] — treasure; darling
-- [[scheiden lassen]] — to get divorced
 - [[Scheidung]] — divorce
 - [[Schwiegereltern]] — parents-in-law
 - [[Senioren]] — senior citizens; elderly people
+- [[sich scheiden lassen]] — to get divorced
 - [[Stadtmensch]] — townie
 - [[stammen]] — to originate (from)
 - [[Streit]] — argument; quarrel
@@ -155,11 +152,9 @@ Back to [[00 Home]]
 - [[zusammensitzen]] — to sit with
 - [[zwischenmenschlich]] — interpersonal
 
-## T02 Wohnen (95)
+## T02 Wohnen (90)
 
 - [[Abfalleimer]] — waste bin
-- [[Abwart]] — caretaker (Swiss)
-- [[Abwartin]] — caretaker (f) (Swiss)
 - [[abwaschen]] — to wash up
 - [[Alarmanlage]] — alarm (system)
 - [[Altenheim]] — care home/ care facility
@@ -182,7 +177,6 @@ Back to [[00 Home]]
 - [[Espressokanne]] — espresso pot (moka pot)
 - [[Etage]] — floor; storey
 - [[Fassade]] — facade
-- [[Fauteuil]] — armchair
 - [[Garagentor]] — garage door
 - [[Geschirrspüler]] — dishwasher
 - [[Grundstück]] — plot; property
@@ -225,8 +219,6 @@ Back to [[00 Home]]
 - [[Staubsauger]] — vacuum cleaner
 - [[Steckdose]] — power outlet, socket
 - [[Stecker]] — plug
-- [[Stiege]] — staircase (Austrian)
-- [[Stiegenhaus]] — stairwell (Austrian)
 - [[streichen]] — to paint; to cross out; to cancel
 - [[Streichholz]] — match
 - [[Stromverbrauch]] — electricity consumption
@@ -253,7 +245,7 @@ Back to [[00 Home]]
 - [[zuhause (adverb)]] — at home
 - [[zusammenwohnen]] — to live together
 
-## T03 Arbeit & Beruf (175)
+## T03 Arbeit & Beruf (170)
 
 - [[Absprache]] — arrangement; agreement
 - [[Abteilung]] — department
@@ -305,8 +297,6 @@ Back to [[00 Home]]
 - [[Bürogebäude]] — office building
 - [[Chemiker]] — chemist (m)
 - [[Chemikerin]] — chemist (f)
-- [[Coiffeur]] — hairdresser (m) (Swiss)
-- [[Coiffeuse]] — hairdresser (f) (Swiss)
 - [[Dienst]] — duty; service; shift
 - [[Dienstleistungsbereich]] — service industry
 - [[eingespannt sein]] — to be very busy
@@ -321,8 +311,6 @@ Back to [[00 Home]]
 - [[Fachfrau]] — expert (f)
 - [[Fachleute]] — specialists
 - [[Fachmann]] — expert (m)
-- [[Fleischhauer]] — butcher (Austrian)
-- [[Fleischhauerin]] — butcher (f) (Austrian)
 - [[Forderung]] — demand
 - [[Fortbildung]] — further training
 - [[freinehmen]] — to take time off
@@ -393,7 +381,6 @@ Back to [[00 Home]]
 - [[Schülerjob]] — pupil's part-time job
 - [[Selbstständigkeit]] — independence
 - [[seriös]] — respectable; reputable; serious
-- [[Serviceangestellte]] — service staff (Swiss)
 - [[Sozialarbeiter]] — social worker (m)
 - [[Sozialarbeiterin]] — social worker (f)
 - [[Spätschicht]] — late shift
@@ -431,7 +418,7 @@ Back to [[00 Home]]
 - [[Zoodirektorin]] — zoo director (f)
 - [[übernehmen]] — to take on
 
-## T04 Ausbildung, Schule & Studium (92)
+## T04 Ausbildung, Schule & Studium (82)
 
 - [[abgeschlossen]] — completed; locked
 - [[abschreiben]] — to copy
@@ -443,12 +430,9 @@ Back to [[00 Home]]
 - [[Auswertung]] — evaluation
 - [[befriedigend]] — satisfactory; satisfying
 - [[Berufsbildende Höhere Schule]] — Austrian vocational secondary school (BHS)
-- [[Berufsmittelschule]] — vocational secondary school (Swiss)
-- [[Bezirksschule]] — district school (Swiss secondary school)
 - [[Bildung]] — education
 - [[biologisch]] — biological
 - [[Diplom]] — diploma
-- [[Diplommittelschule]] — diploma secondary school (Swiss)
 - [[Doktorand]] — PhD student (m)
 - [[Doktorandin]] — PhD student (f)
 - [[durchstreichen]] — to cross out
@@ -485,28 +469,22 @@ Back to [[00 Home]]
 - [[Lernzeit]] — learning time
 - [[Lexikon]] — encyclopaedia
 - [[loben]] — to praise
-- [[Matura]] — school-leaving exam (A-levels, Austria and Switzerland)
-- [[Mittelschule]] — secondary school (Switzerland, Austria)
 - [[Musikstudium]] — study of music
 - [[Nachhilfe]] — private tutoring
 - [[Neue Mittelschule]] — Austrian lower secondary school (NMS)
 - [[Ordner]] — folder; file
 - [[Orientierungsstufe]] — orientation stage (school years 5 and 6)
 - [[Philosophie]] — philosophy
-- [[Primarschule]] — primary school (Swiss)
 - [[Prof]] — professor
 - [[Pädagoge]] — educator; teacher (m)
 - [[Pädagogin]] — educator; teacher (f)
 - [[Pädagogische Hochschule]] — university of teacher education
 - [[Recherche]] — research; investigation
 - [[Referat]] — presentation
-- [[Schularbeit]] — class test (Austrian)
 - [[Schulbildung]] — education
 - [[Schulchor]] — school choir
-- [[Sekundarschule]] — secondary school (Swiss)
 - [[Sommerprojekt]] — summer project
 - [[Sonderschule]] — special school
-- [[Spielgruppe]] — playgroup (Swiss)
 - [[Studie]] — study; survey
 - [[Studienplatz]] — place to study
 - [[Teilnehmende]] — participant
@@ -518,7 +496,6 @@ Back to [[00 Home]]
 - [[vermitteln]] — to convey
 - [[Versuch]] — attempt; experiment
 - [[Volkshochschule]] — adult education centre
-- [[Volksschule]] — primary school (Austria)
 - [[Vortrag]] — lecture
 - [[Weiterbildung]] — further training
 - [[Wiederholung]] — repetition; repeat
@@ -637,7 +614,7 @@ Back to [[00 Home]]
 - [[äußerlich]] — external; outwardly
 - [[überleben]] — to survive
 
-## T06 Essen & Trinken (112)
+## T06 Essen & Trinken (98)
 
 - [[abräumen]] — to clear
 - [[Apfelmus]] — apple sauce
@@ -650,19 +627,16 @@ Back to [[00 Home]]
 - [[Bioprodukt]] — organic product
 - [[Braten]] — roast
 - [[Brezel]] — pretzel
-- [[Brötli]] — bread roll (Swiss)
 - [[Buffet]] — buffet
 - [[Büchse]] — tin; can
 - [[Büfett]] — buffet
 - [[Croissant]] — croissant
 - [[decken]] — to cover; to lay (the table)
-- [[diätisch]] — dietary (dietary food)
+- [[diätetisch]] — dietary (dietary food)
 - [[durstig]] — thirsty
-- [[Erdapfel]] — potato (Austrian)
 - [[ernähren]] — to eat, to nourish
 - [[Ernährung]] — nutrition
 - [[essbar]] — edible
-- [[Faschierte]] — minced meat (Austrian)
 - [[Fleischkonsum]] — meat consumption
 - [[Frucht]] — fruit
 - [[Fruchtsaft]] — fruit juice
@@ -671,10 +645,8 @@ Back to [[00 Home]]
 - [[Genuss]] — enjoyment; pleasure; consumption
 - [[Geschmack]] — flavour
 - [[Gewürz]] — spice
-- [[Glace]] — ice cream (Swiss)
 - [[Glasflasche]] — glass bottle
 - [[Grill]] — grill
-- [[grillieren]] — to grill (Swiss)
 - [[Hackfleisch]] — ground meat
 - [[haltbar]] — durable; long-lasting
 - [[Hauptmahlzeit]] — main meal
@@ -683,7 +655,6 @@ Back to [[00 Home]]
 - [[Hörnchen]] — croissant
 - [[Hühnchen]] — chicken
 - [[Imbiss]] — takeaway
-- [[Jause]] — snack (Austrian)
 - [[Kaffeebecher]] — coffee cup
 - [[Kakao]] — cocoa
 - [[Kanne]] — jug; pot
@@ -697,33 +668,26 @@ Back to [[00 Home]]
 - [[Küchenteam]] — kitchen staff
 - [[mager]] — lean
 - [[Margarine]] — margarine
-- [[Marille]] — apricot (Austrian)
 - [[Mehl]] — flour
 - [[Menü]] — menu
 - [[Metzger]] — butcher
 - [[Milchprodukt]] — milk product
 - [[mild]] — mild
 - [[Möhre]] — carrot
-- [[Müesli]] — muesli (Swiss spelling)
 - [[Nachspeise]] — dessert
 - [[Nachtisch]] — dessert
 - [[Nahrungsmittel]] — food
 - [[Ober]] — waiter
-- [[Obers]] — cream (Austrian)
-- [[Paradeiser]] — tomato (Austrian)
 - [[Pfandbecher]] — deposit cup
 - [[Pfanne]] — pan
 - [[Pfannkuchen]] — pancake
 - [[Pflaume]] — plum
 - [[Pilz]] — mushroom; fungus
-- [[Poulet]] — chicken (Swiss)
-- [[Prost (interjection)]] — cheers
 - [[Pudding]] — pudding
 - [[Quark]] — quark (fresh curd cheese)
 - [[Rahm]] — cream (Swiss, S. German)
 - [[reif]] — ripe
 - [[roh]] — raw
-- [[Rüebli]] — carrot (Swiss)
 - [[Scheibe]] — slice; pane (of glass)
 - [[Schlagsahne]] — whipped cream
 - [[Schwammerl]] — mushroom (Austrian, Bavarian)
@@ -748,11 +712,10 @@ Back to [[00 Home]]
 - [[würzen]] — to season
 - [[würzig]] — spicy; aromatic
 - [[Zutaten]] — ingredients
-- [[Zvieri]] — afternoon snack (Swiss)
 - [[Zwetschge-Zwetschke]] — plum
 - [[Zwischenmahlzeit]] — snack
 
-## T07 Einkaufen, Kleidung & Geld (136)
+## T07 Einkaufen, Kleidung & Geld (134)
 
 - [[Abo]] — subscription
 - [[abziehen]] — to deduct; to pull off
@@ -766,7 +729,6 @@ Back to [[00 Home]]
 - [[Ausgabe]] — expense; edition
 - [[Autoverkauf]] — car sale
 - [[Bademantel]] — bathrobe
-- [[Bancomat]] — cash machine (Swiss)
 - [[Bankgeschäft]] — banking
 - [[Bargeld]] — cash
 - [[Bedarf]] — need
@@ -887,11 +849,10 @@ Back to [[00 Home]]
 - [[zurückbekommen]] — to get back
 - [[zurückbringen]] — to bring back
 - [[zurückzahlen]] — to pay back
-- [[Zünder]] — matches (Austrian)
 - [[Zündholz]] — match
 - [[überziehen]] — to overdraw
 
-## T08 Reisen, Verkehr & Orte (180)
+## T08 Reisen, Verkehr & Orte (177)
 
 - [[abbiegen]] — to turn
 - [[abwärts]] — downwards
@@ -945,7 +906,6 @@ Back to [[00 Home]]
 - [[Fußgängerzone]] — pedestrian zone
 - [[Fußweg]] — footpath; walk
 - [[Fähre]] — ferry
-- [[Führerausweis]] — driving licence (Swiss)
 - [[Gasse]] — alley
 - [[Gegend]] — area; region
 - [[Gehsteig]] — pavement (Austrian, S. German)
@@ -996,7 +956,6 @@ Back to [[00 Home]]
 - [[Passagier]] — passenger (m)
 - [[Passagierin]] — passenger (f)
 - [[pauschal]] — across-the-board
-- [[Perron]] — platform (Swiss)
 - [[Pfad]] — path; trail
 - [[Privatauto]] — private car
 - [[Rand]] — edge
@@ -1038,7 +997,6 @@ Back to [[00 Home]]
 - [[Transport]] — transport
 - [[Transportweg]] — transport route
 - [[Trendviertel]] — trending district
-- [[Trottoir]] — pavement (Swiss)
 - [[Ukrainer]] — Ukrainian (m)
 - [[Ukrainerin]] — Ukrainian (f)
 - [[ukrainisch (adjective)]] — Ukrainian
@@ -1074,7 +1032,7 @@ Back to [[00 Home]]
 - [[überholen]] — to overtake
 - [[überqueren]] — to cross
 
-## T09 Behörden, Post & Dienstleistungen (69)
+## T09 Behörden, Post & Dienstleistungen (63)
 
 - [[abmelden]] — to deregister; to sign off
 - [[Absenderin]] — sender (f)
@@ -1097,7 +1055,6 @@ Back to [[00 Home]]
 - [[Briefträgerin]] — postal carrier (f)
 - [[Briefumschlag]] — envelope
 - [[Chipkarte]] — keycard
-- [[Couvert]] — envelope (Swiss)
 - [[Dienstleistung]] — service
 - [[Einschreiben]] — registered mail
 - [[einwerfen]] — to insert
@@ -1115,15 +1072,11 @@ Back to [[00 Home]]
 - [[kleben]] — to stick
 - [[Konsulat]] — consulate
 - [[Kriminalpolizei]] — criminal investigation department
-- [[Kuvert]] — envelope (Austrian, Swiss)
 - [[Mahnung]] — reminder
 - [[Marke]] — brand; stamp
-- [[Mobilbox]] — voicemail (Swiss, Austrian)
 - [[Notruf]] — SOS, emergency call
 - [[original (adjective)]] — original
 - [[Personalien]] — personal details; personal data
-- [[Pöstler]] — postman (Swiss)
-- [[Pöstlerin]] — postwoman (Swiss)
 - [[Reinigungsfahrzeug]] — street cleaning vehicle
 - [[Reisepass]] — passport
 - [[Salon]] — salon; hairdresser's
@@ -1141,12 +1094,11 @@ Back to [[00 Home]]
 - [[versäumen]] — to miss
 - [[Vorschrift]] — regulation
 - [[Wartezeit]] — waiting time
-- [[Zivilstand]] — marital status (Swiss)
 - [[zustellen]] — to deliver (mail); to block off
 - [[zuständig]] — responsible
 - [[Übergabe]] — handover
 
-## T10 Freizeit, Sport, Kultur & Medien (272)
+## T10 Freizeit, Sport, Kultur & Medien (271)
 
 - [[Abenteuer]] — adventure
 - [[Abonnement]] — subscription
@@ -1396,7 +1348,6 @@ Back to [[00 Home]]
 - [[Verlag]] — publisher; publishing house
 - [[Verlierer]] — loser
 - [[Verliererin]] — loser (f)
-- [[veröffentlichen (verb)]] — to publish; to release
 - [[Violine]] — violin
 - [[Virus]] — virus
 - [[visuell]] — visual
@@ -1558,12 +1509,10 @@ Back to [[00 Home]]
 - [[Ökostrom]] — green electricity
 - [[Ökovergleich]] — eco-comparison
 
-## T12 Gesellschaft, Politik, Recht & Geschichte (184)
+## T12 Gesellschaft, Politik, Recht & Geschichte (176)
 
 - [[Abgeordnete]] — member of parliament (MP)
 - [[abstimmen]] — to vote
-- [[Ammann]] — chief of a municipality (Swiss)
-- [[Ammännin]] — chief of a municipality (f) (Swiss)
 - [[Angeklagte]] — defendant
 - [[Anspruch]] — entitlement
 - [[anzeigen]] — to report (to the police); to display
@@ -1620,7 +1569,6 @@ Back to [[00 Home]]
 - [[Flucht]] — escape
 - [[Flüchtling]] — refugee
 - [[fortschrittlich]] — progressive
-- [[Friede]] — peace
 - [[Frieden]] — peace
 - [[fördern]] — to promote
 - [[Gefängnis]] — prison
@@ -1689,8 +1637,6 @@ Back to [[00 Home]]
 - [[Regelung]] — regulation; arrangement
 - [[regieren]] — to rule
 - [[Regierung]] — government
-- [[Regierungsrat]] — cantonal government member (Swiss)
-- [[Regierungsrätin]] — cantonal government member (f) (Swiss)
 - [[religiös]] — religious
 - [[Republik Österreich]] — Republic of Austria
 - [[Richter]] — judge (m)
@@ -1701,15 +1647,12 @@ Back to [[00 Home]]
 - [[Solidarität]] — solidarity
 - [[spenden]] — to donate
 - [[staatlich]] — state; state-run
-- [[Stadtpräsident]] — mayor (Swiss)
-- [[Stadtpräsidentin]] — mayor (f) (Swiss)
 - [[Stadtrat]] — city council
 - [[Stadträtin]] — city council member (f)
 - [[statistisch]] — statistical
 - [[stehlen]] — to steal
 - [[strafbar]] — punishable
 - [[Strafe]] — punishment, penalty
-- [[Ständerat]] — Council of States (Swiss)
 - [[Tat]] — deed; act
 - [[Technologie]] — technology
 - [[Tote]] — dead person
@@ -1745,7 +1688,7 @@ Back to [[00 Home]]
 - [[Zivilcourage]] — moral courage
 - [[Öffentlichkeit]] — public
 
-## T13 Zeit, Zahlen, Maße & Mengen (95)
+## T13 Zeit, Zahlen, Maße & Mengen (93)
 
 - [[Abstand]] — distance; gap
 - [[anfangs]] — at first; initially
@@ -1773,7 +1716,6 @@ Back to [[00 Home]]
 - [[Entstehungszeit]] — time of origin
 - [[Ewigkeit]] — eternity; ages
 - [[Fasnacht]] — carnival (Swiss, S. German)
-- [[Feber]] — February (Austrian)
 - [[frühere]] — previous
 - [[Fünftel]] — fifth
 - [[Gegenwart]] — present
@@ -1791,7 +1733,6 @@ Back to [[00 Home]]
 - [[jederzeit]] — at any time
 - [[jemals]] — ever
 - [[jetzig]] — current
-- [[Jänner]] — January (Austrian)
 - [[kürzlich]] — recently
 - [[längst]] — for a long time
 - [[mehrfach]] — repeatedly
@@ -1886,7 +1827,6 @@ Back to [[00 Home]]
 - [[ernsthaft]] — serious; earnest
 - [[erschrecken]] — to frighten; to startle
 - [[Erwartung]] — expectation
-- [[etwas gefallen lassen]] — to put up with something
 - [[fair]] — fair
 - [[Fairness]] — fairness
 - [[fantasievoll]] — imaginative
@@ -1943,6 +1883,7 @@ Back to [[00 Home]]
 - [[Schönheit]] — beauty
 - [[Sehnsucht]] — longing, desire
 - [[seltsam]] — odd
+- [[sich etwas gefallen lassen]] — to put up with something
 - [[sinnlos]] — senseless; pointless
 - [[Skeptiker]] — sceptic (m)
 - [[Skeptikerin]] — sceptic (f)
@@ -2172,7 +2113,7 @@ Back to [[00 Home]]
 - [[überzeugen]] — to convince
 - [[überzeugend]] — convincing
 
-## T16 Allgemein (Funktionswörter, abstrakter Wortschatz) (375)
+## T16 Allgemein (Funktionswörter, abstrakter Wortschatz) (372)
 
 - [[Abbildung]] — illustration; figure; picture
 - [[abhängen]] — to be dependent on
@@ -2181,7 +2122,6 @@ Back to [[00 Home]]
 - [[abschließend]] — finally; in conclusion
 - [[Absicht]] — intention
 - [[absolut]] — absolutely
-- [[Achtung!]] — attention; respect
 - [[akzeptieren]] — to accept
 - [[allerdings]] — however; though; admittedly
 - [[alltäglich]] — ordinary
@@ -2232,7 +2172,6 @@ Back to [[00 Home]]
 - [[bemerken]] — to notice
 - [[bemühen]] — to make an effort; to try hard
 - [[benötigen]] — to need
-- [[benötigt]] — needed; required
 - [[beobachten]] — to observe
 - [[berücksichtigen]] — to consider
 - [[beschränken]] — to limit; to restrict
@@ -2344,7 +2283,6 @@ Back to [[00 Home]]
 - [[geraten]] — to get (into); to end up
 - [[gering]] — small; slight; low
 - [[gesamt]] — whole; entire; total
-- [[geschaffen]] — created; made (participle of schaffen)
 - [[geschehen]] — to happen
 - [[Gewohnheit]] — habit
 - [[gewohnt]] — usual

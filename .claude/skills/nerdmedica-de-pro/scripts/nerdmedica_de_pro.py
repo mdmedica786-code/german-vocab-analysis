@@ -293,13 +293,21 @@ def _make_models():
 # ==============================================================
 
 _POS_TAG = {
-    "der": "NOUN", "die": "NOUN", "das": "NOUN",
-    "verb": "VERB", "adj": "WORD", "prep": "PREPOSITION",
+    "der": "NOUN", "die": "NOUN", "das": "NOUN", "pl": "NOUN (PL.)",
+    "verb": "VERB", "adj": "WORD", "adv": "ADVERB", "pron": "PRONOUN / DET",
+    "conj": "CONJUNCTION", "prep": "PREPOSITION",
 }
 _POS_SLUG = {
-    "der": "noun", "die": "noun", "das": "noun",
-    "verb": "verb", "adj": "other", "prep": "prep",
+    "der": "noun", "die": "noun", "das": "noun", "pl": "noun",
+    "verb": "verb", "adj": "other", "adv": "adv", "pron": "pron",
+    "conj": "conj", "prep": "prep",
 }
+_PRONOUN_RE = re.compile(r"^(?:ich|du|er/sie/es|er/sie|er|sie|es|wir|ihr)\s+", re.I)
+
+
+def _strip_pron(form: str) -> str:
+    """'ich baue' -> 'baue' (the card adds the pronoun itself, outside the cloze)."""
+    return _PRONOUN_RE.sub("", (form or "").strip())
 
 def _base_tags(word: dict) -> list[str]:
     """Preserve user-supplied tags + add our filter tags."""
@@ -339,8 +347,9 @@ def build_cloze_sentence(word: dict) -> dict | None:
         return None
     text = re.sub(r"<b>(.*?)</b>", r"{{c1::\1}}", de)
     gc = word.get("gender_class", "")
-    hint = {"der": "noun", "die": "noun", "das": "noun",
-            "verb": "verb", "adj": "adjective / expression",
+    hint = {"der": "noun", "die": "noun", "das": "noun", "pl": "plural noun",
+            "verb": "verb", "adj": "adjective / expression", "adv": "adverb",
+            "pron": "pronoun / determiner", "conj": "conjunction",
             "prep": "preposition"}.get(gc, "")
     return {
         "model": "cloze_sentence",
@@ -377,7 +386,12 @@ def build_cloze_grammar(word: dict) -> dict | None:
 
     # ---------------- NOUNS ----------------
     if gc in ("der", "die", "das"):
-        decl = word.get("declension", {}) or {}
+        decl = dict(word.get("declension", {}) or {})
+        # Accusative equals nominative for plural, and for feminine/neuter singular: fill it when the source omits it
+        if decl.get("nom_plur") and not decl.get("akk_plur"):
+            decl["akk_plur"] = decl["nom_plur"]
+        if gc in ("die", "das") and decl.get("nom_sing") and not decl.get("akk_sing"):
+            decl["akk_sing"] = decl["nom_sing"]
         # Detect "no plural" nouns
         no_plur_marker = False
         plur_check = (decl.get("nom_plur") or "").lower()
@@ -437,7 +451,8 @@ def build_cloze_grammar(word: dict) -> dict | None:
         cidx = 0
 
         # Present tense — one cloze covering both ich + er when both exist
-        ich = conj.get("praesens_ich"); er = conj.get("praesens_er")
+        ich = _strip_pron(conj.get("praesens_ich", "")); er = _strip_pron(conj.get("praesens_er", ""))
+        if ich in ("—", "-"): ich = ""
         if ich and er:
             cidx += 1
             rows_html.append(
@@ -451,7 +466,8 @@ def build_cloze_grammar(word: dict) -> dict | None:
             cidx += 1
             rows_html.append(f"<tr><td>Präsens er:</td><td>{{{{c{cidx}::{er}}}}}</td></tr>")
 
-        prt = conj.get("praeteritum")
+        prt = _strip_pron(conj.get("praeteritum", ""))
+        if prt in ("—", "-"): prt = ""
         if prt:
             cidx += 1
             rows_html.append(f"<tr><td>Präteritum:</td><td>{{{{c{cidx}::{prt}}}}}</td></tr>")

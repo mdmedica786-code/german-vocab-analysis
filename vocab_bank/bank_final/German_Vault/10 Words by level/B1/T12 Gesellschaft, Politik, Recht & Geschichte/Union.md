@@ -26,8 +26,13 @@ status: "new"
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 
 > [!example] Beispiel
-> die Europäische Union
-> *the European Union*
+> Deutschland ist Mitglied der Europäischen Union.
+> *Germany is a member of the European Union.*
+
+**Collocations**
+- die Europäische Union
+- in der Union
+- eine Union bilden
 
 **Source:** Netzwerk neu B1 K10 10a (Miteinander)
 <!-- bank:end -->

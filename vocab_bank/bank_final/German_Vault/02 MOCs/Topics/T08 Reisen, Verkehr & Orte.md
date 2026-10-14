@@ -91,7 +91,7 @@ Back to [[00 Home]]
 - [[Jugendherberge]] — youth hostel
 - [[Kirche]] — church
 - [[Koffer]] — suitcase
-- [[Kofferpacken]] — to pack one's suitcase
+- [[Kofferpacken]] — packing one's suitcase
 - [[kontrollieren]] — to check
 - [[Land]] — country; land; countryside
 - [[liegen]] — to lie; to be located

@@ -14,9 +14,10 @@ bank: "main"
 id: "B5290"
 goethe_level: "A2"
 freq_rank: 1227
-skip: false
+skip: true
+skip_reason: "duplicate of B2322 (learn that entry)"
 check: "dup:B2322"
-tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
+tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -25,6 +26,9 @@ status: "new"
 **Meaning:** knowledge; skills
 **Plural:** (Pl.)
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B2322 (learn that entry)
 
 > [!warning] Check
 > dup:B2322

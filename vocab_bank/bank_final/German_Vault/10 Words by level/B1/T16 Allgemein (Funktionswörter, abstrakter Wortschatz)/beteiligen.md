@@ -1,7 +1,7 @@
 ---
 title: "beteiligen"
 type: "word"
-aliases: ["beteiligt sich", "beteiligte sich", "hat beteiligt"]
+aliases: ["beteiligt sich", "beteiligte sich", "hat sich beteiligt"]
 lemma: "beteiligen"
 meaning: "to participate"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # beteiligen
 
 **Meaning:** to participate
-**Forms:** beteiligt sich · beteiligte sich · hat beteiligt
+**Forms:** beteiligt sich · beteiligte sich · hat sich beteiligt
 **Grammar:** reflexive · + an + Dat.
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

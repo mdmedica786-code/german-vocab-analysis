@@ -89,7 +89,7 @@ Back to [[00 Home]]
 - [[Erschöpfung]] — exhaustion
 - [[Fieber]] — fever
 - [[Halsschmerzen]] — sore throat
-- [[husten (verb)]] — cough
+- [[husten (verb)]] — to cough
 - [[Husten]] — cough
 - [[Komplikation]] — complication
 - [[Kopfschmerz]] — headache

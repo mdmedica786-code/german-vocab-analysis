@@ -23,8 +23,12 @@ status: "new"
 **Note:** Abbreviation of Compagnie/Company.
 
 > [!example] Beispiel
-> Kneipen & Co
-> *Bars & co*
+> Er ist ein Fan von Kneipen & Co.
+> *He is a fan of pubs and the like.*
+
+**Collocations**
+- Kneipen & Co
+- und Co.
 
 **Source:** Netzwerk neu A1 K6 14a (Zeit mit Freunden)
 <!-- bank:end -->

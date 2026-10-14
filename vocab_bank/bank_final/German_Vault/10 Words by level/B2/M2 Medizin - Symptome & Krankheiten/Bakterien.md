@@ -13,9 +13,10 @@ register: "neutral"
 bank: "main"
 id: "B5926"
 freq_rank: 3536
-skip: false
+skip: true
+skip_reason: "duplicate of B6004 (learn that entry)"
 check: "dup:B6004"
-tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
+tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +25,9 @@ status: "new"
 **Meaning:** bacteria
 **Plural:** (Pl.)
 **Level:** B2 · **Topic:** [[M2 Medizin - Symptome & Krankheiten]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B6004 (learn that entry)
 
 > [!warning] Check
 > dup:B6004

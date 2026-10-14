@@ -22,8 +22,14 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> der unbestimmte Artikel
-> *the indefinite article*
+> Hier braucht man den unbestimmten Artikel.
+> *Here you need the indefinite article.*
+
+**Collocations**
+- der unbestimmte Artikel
+- auf unbestimmte Zeit
+
+**Related:** [[Artikel]] · [[Zeit]]
 
 **Source:** Netzwerk neu A1 K3 4a (In Hamburg)
 <!-- bank:end -->

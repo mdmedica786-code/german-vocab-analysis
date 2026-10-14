@@ -14,8 +14,10 @@ bank: "main"
 id: "B6504"
 goethe_level: "B1"
 freq_rank: 5759
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
+skip: true
+skip_reason: "duplicate of B0607 (learn that entry)"
+check: "dup:B0607"
+tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +26,12 @@ status: "new"
 **Meaning:** muesli (Swiss spelling)
 **Plural:** Müesli
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional
+
+> [!info] Not in the study list
+> duplicate of B0607 (learn that entry)
+
+> [!warning] Check
+> dup:B0607
 
 > [!example] Beispiel
 > Zum Frühstück gibt es Müsli mit Obst.

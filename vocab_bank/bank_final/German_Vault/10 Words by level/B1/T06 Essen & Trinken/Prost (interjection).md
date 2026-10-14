@@ -11,9 +11,10 @@ bank: "main"
 id: "B6307"
 goethe_level: "B1"
 freq_rank: 5512
-skip: false
+skip: true
+skip_reason: "duplicate of B0704 (learn that entry)"
 check: "dup:B0704"
-tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/interjection"]
+tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/interjection", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -21,6 +22,9 @@ status: "new"
 
 **Meaning:** cheers
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B0704 (learn that entry)
 
 > [!warning] Check
 > dup:B0704

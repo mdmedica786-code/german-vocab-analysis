@@ -26,8 +26,8 @@ status: "new"
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine wichtige Funktion erfüllen
-> *to fulfil an important function*
+> Die Taste hat mehrere Funktionen.
+> *The button has several functions.*
 
 **Collocations**
 - eine Funktion erfüllen

@@ -1,7 +1,7 @@
 ---
 title: "verschlechtern"
 type: "word"
-aliases: ["verschlechtert", "verschlechterte", "hat verschlechtert"]
+aliases: ["verschlechtert sich", "verschlechterte sich", "hat sich verschlechtert"]
 lemma: "verschlechtern"
 meaning: "to worsen; to make worse"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # verschlechtern
 
 **Meaning:** to worsen; to make worse
-**Forms:** verschlechtert · verschlechterte · hat verschlechtert
+**Forms:** verschlechtert sich · verschlechterte sich · hat sich verschlechtert
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

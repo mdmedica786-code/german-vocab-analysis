@@ -1,7 +1,7 @@
 ---
 title: "erweisen"
 type: "word"
-aliases: ["erweist", "erwies", "hat erwiesen"]
+aliases: ["erweist sich", "erwies sich", "hat sich erwiesen"]
 lemma: "erweisen"
 meaning: "to prove; to show (oneself)"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # erweisen
 
 **Meaning:** to prove; to show (oneself)
-**Forms:** erweist · erwies · hat erwiesen
+**Forms:** erweist sich · erwies sich · hat sich erwiesen
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

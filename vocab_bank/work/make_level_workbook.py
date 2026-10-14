@@ -6,6 +6,9 @@
 import csv
 from collections import Counter
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from studylist import mark_not_in_list  # noqa: E402
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
@@ -76,7 +79,7 @@ def sheet(wb, title, cols, rows):
 
 
 def main():
-    main_rows = rd("vocabulary_bank.csv")
+    main_rows = mark_not_in_list(rd("vocabulary_bank.csv"))
     main_rows.sort(key=lambda r: int(r["study_order"]) if r.get("study_order", "").isdigit() else 10**9)
     b2 = rd("b2_vocabulary_bank.csv")
     b2.sort(key=lambda r: (r["topic"], r["lemma"].lower()))

@@ -1,12 +1,12 @@
 ---
 title: "Karneval"
 type: "word"
-aliases: ["der Karneval", "Karnevals | Karnevale"]
+aliases: ["der Karneval", "Karnevale"]
 lemma: "Karneval"
 meaning: "carnival"
 pos: "noun"
 article: "der"
-plural: "Karnevals | Karnevale"
+plural: "Karnevale"
 level: "A2"
 topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
 register: "neutral"
@@ -22,7 +22,8 @@ status: "new"
 # der Karneval
 
 **Meaning:** carnival
-**Plural:** Karnevals | Karnevale
+**Plural:** Karnevale
+**Forms:** auch: Karnevals
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 
 > [!example] Beispiel

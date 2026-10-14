@@ -27,8 +27,14 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> der Punkt am Satzende
-> *the period at the end of a sentence*
+> Am Ende des Satzes steht ein Punkt.
+> *There is a period at the end of the sentence.*
+
+**Collocations**
+- der Punkt am Satzende
+- einen Punkt setzen
+
+**Related:** [[Satzende]]
 
 **Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A2
 <!-- bank:end -->

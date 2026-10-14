@@ -3,7 +3,7 @@ title: "husten"
 type: "word"
 aliases: ["hustet", "hustete", "hat gehustet"]
 lemma: "husten"
-meaning: "cough"
+meaning: "to cough"
 pos: "verb"
 level: "A1"
 topic: "[[M2 Medizin - Symptome & Krankheiten]]"
@@ -20,7 +20,7 @@ status: "new"
 <!-- bank:start -->
 # husten
 
-**Meaning:** cough
+**Meaning:** to cough
 **Forms:** hustet · hustete · hat gehustet
 **Level:** A1 · **Topic:** [[M2 Medizin - Symptome & Krankheiten]] · **Register:** neutral
 

@@ -1,7 +1,7 @@
 ---
 title: "amüsieren"
 type: "word"
-aliases: ["amüsiert sich", "amüsierte sich", "hat amüsiert"]
+aliases: ["amüsiert sich", "amüsierte sich", "hat sich amüsiert"]
 lemma: "amüsieren"
 meaning: "to enjoy oneself; to amuse"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # amüsieren
 
 **Meaning:** to enjoy oneself; to amuse
-**Forms:** amüsiert sich · amüsierte sich · hat amüsiert
+**Forms:** amüsiert sich · amüsierte sich · hat sich amüsiert
 **Grammar:** reflexive · + über + Akk.
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

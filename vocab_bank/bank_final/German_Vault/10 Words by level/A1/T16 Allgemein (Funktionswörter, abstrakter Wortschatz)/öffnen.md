@@ -25,8 +25,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine Datei öffnen
-> *to open a file*
+> Ich kann die Datei leider nicht öffnen.
+> *Unfortunately I cannot open the file.*
+
+**Collocations**
+- eine Datei öffnen
+- die Tür öffnen
+- ein Konto öffnen
+
+**Related:** [[Datei]] · [[Konto]]
 
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag) · Goethe word list A1
 <!-- bank:end -->

@@ -23,8 +23,8 @@ status: "new"
 **Note:** Abbreviation of und so weiter.
 
 > [!example] Beispiel
-> und so weiter
-> *and so on*
+> Auf dem Markt gibt es Obst, Gemüse, Käse usw.
+> *At the market there are fruit, vegetables, cheese etc.*
 
 **Collocations**
 - Obst, Gemüse usw.

@@ -14,8 +14,10 @@ bank: "main"
 id: "B6516"
 goethe_level: "B1"
 freq_rank: 5759
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical"]
+skip: true
+skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
+check: "drop?"
+tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +26,12 @@ status: "new"
 **Meaning:** doctor's surgery (Austrian)
 **Plural:** Ordinationen
 **Level:** B1 · **Topic:** [[M4 Medizin - Klinik, Pflege & Recht]] · **Register:** regional
+
+> [!info] Not in the study list
+> Austrian/Swiss word: recognise it, but Germany uses the standard word
+
+> [!warning] Check
+> drop?
 
 > [!example] Beispiel
 > Die Ordination bleibt bis zum 7. Jänner geschlossen.

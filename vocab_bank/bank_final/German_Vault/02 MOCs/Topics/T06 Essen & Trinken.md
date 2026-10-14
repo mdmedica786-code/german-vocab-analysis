@@ -193,7 +193,7 @@ Back to [[00 Home]]
 - [[Büfett]] — buffet
 - [[Croissant]] — croissant
 - [[decken]] — to cover; to lay (the table)
-- [[diätisch]] — dietary (dietary food)
+- [[diätetisch]] — dietary (dietary food)
 - [[durstig]] — thirsty
 - [[Erdapfel]] — potato (Austrian)
 - [[ernähren]] — to eat, to nourish

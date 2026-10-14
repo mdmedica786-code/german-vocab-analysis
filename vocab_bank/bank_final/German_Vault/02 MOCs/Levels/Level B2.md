@@ -6,11 +6,11 @@ tags: ["moc", "level/B2"]
 <!-- bank:start -->
 # Level B2
 
-4044 words to study: 361 from the main bank and 3683 from the B2 extra bank.
+4042 words to study: 359 from the main bank and 3683 from the B2 extra bank.
 
 Back to [[00 Home]]
 
-## M1 Medizin: Anatomie & Körpersysteme (20)
+## M1 Medizin: Anatomie & Körpersysteme (19)
 
 - [[Anatomie]] — anatomy
 - [[Atmung]] — breathing; respiration
@@ -20,7 +20,6 @@ Back to [[00 Home]]
 - [[Brustkorb]] — chest; thorax
 - [[Darm]] — intestine; bowel
 - [[Ellbogen]] — elbow
-- [[Ellenbogen]] — elbow
 - [[Gefäß]] — vessel; container
 - [[Gehör]] — hearing
 - [[Handgelenk]] — wrist
@@ -33,13 +32,12 @@ Back to [[00 Home]]
 - [[Schädel]] — skull
 - [[Zeigefinger]] — index finger
 
-## M2 Medizin: Symptome & Krankheiten (27)
+## M2 Medizin: Symptome & Krankheiten (26)
 
 - [[akut]] — acute
 - [[Anfall]] — attack; seizure; fit
 - [[Anzeichen]] — sign; indication
 - [[Bakterie]] — bacterium
-- [[Bakterien]] — bacteria
 - [[Blutung]] — bleeding
 - [[chronisch]] — chronic
 - [[Depression]] — depression

@@ -1,7 +1,7 @@
 ---
 title: "wundern"
 type: "word"
-aliases: ["wundert sich", "wunderte sich", "hat gewundert"]
+aliases: ["wundert sich", "wunderte sich", "hat sich gewundert"]
 lemma: "wundern"
 meaning: "to be surprised; to wonder"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # wundern
 
 **Meaning:** to be surprised; to wonder
-**Forms:** wundert sich · wunderte sich · hat gewundert
+**Forms:** wundert sich · wunderte sich · hat sich gewundert
 **Grammar:** reflexive · + über + Akk.
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

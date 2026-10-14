@@ -536,6 +536,9 @@ def cmd_export():
         put(f"W{p['wave']} {p['cat_id']} {p['category_de']}", sum(1 for r in rr if r["cat_id"] == p["cat_id"]), int(p["min_count"]))
     ws.column_dimensions["A"].width = 60
     wb.move_sheet("Summary", offset=0)
+    sys.path.insert(0, str(WORK))
+    from readme_sheet import add_readme_sheet
+    add_readme_sheet(wb, "all")
     tmp = OUT / "German_Bank.xlsx.tmp"
     wb.save(tmp); os.replace(tmp, OUT / "German_Bank.xlsx")
     print("exported German_Bank.xlsx:", {NAMES[b][0]: len(data[b][1]) for b in data})

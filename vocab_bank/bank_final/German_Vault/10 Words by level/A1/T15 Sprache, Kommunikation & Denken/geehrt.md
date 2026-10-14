@@ -23,8 +23,14 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> Sehr geehrte Damen und Herren,
-> *Dear Sir or Madam, ...*
+> Der Brief beginnt mit „Sehr geehrte Damen und Herren“.
+> *The letter begins with 'Dear Sir or Madam'.*
+
+**Collocations**
+- Sehr geehrte Damen und Herren
+- sehr geehrter Herr Müller
+
+**Related:** [[Herr]]
 
 **Source:** Netzwerk neu A1 K7 8b (Arbeitsalltag) · Goethe word list A2
 <!-- bank:end -->

@@ -237,7 +237,6 @@ Back to [[00 Home]]
 - [[ernsthaft]] — serious; earnest
 - [[erschrecken]] — to frighten; to startle
 - [[Erwartung]] — expectation
-- [[etwas gefallen lassen]] — to put up with something
 - [[fair]] — fair
 - [[Fairness]] — fairness
 - [[fantasievoll]] — imaginative
@@ -295,6 +294,7 @@ Back to [[00 Home]]
 - [[Schönheit]] — beauty
 - [[Sehnsucht]] — longing, desire
 - [[seltsam]] — odd
+- [[sich etwas gefallen lassen]] — to put up with something
 - [[sinnlos]] — senseless; pointless
 - [[Skeptiker]] — sceptic (m)
 - [[Skeptikerin]] — sceptic (f)

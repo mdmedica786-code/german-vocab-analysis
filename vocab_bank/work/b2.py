@@ -250,6 +250,9 @@ def cmd_export():
     ws.freeze_panes = "C2"; ws.auto_filter.ref = ws.dimensions
     for row in ws.iter_rows(min_row=2):
         for c in row: c.alignment = Alignment(wrap_text=True, vertical="top")
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from readme_sheet import add_readme_sheet
+    add_readme_sheet(wb, "vocab")
     wb.save(XLSX)
     print("exported", XLSX.name, len(rows))
 

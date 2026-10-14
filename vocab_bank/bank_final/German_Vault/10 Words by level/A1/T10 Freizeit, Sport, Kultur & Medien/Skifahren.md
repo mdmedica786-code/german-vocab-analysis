@@ -3,7 +3,7 @@ title: "Skifahren"
 type: "word"
 aliases: ["das Skifahren"]
 lemma: "Skifahren"
-meaning: "to ski"
+meaning: "skiing"
 pos: "noun"
 article: "das"
 plural: "–"
@@ -21,7 +21,7 @@ status: "new"
 <!-- bank:start -->
 # das Skifahren
 
-**Meaning:** to ski
+**Meaning:** skiing
 **Plural:** –
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

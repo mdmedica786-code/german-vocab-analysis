@@ -27,8 +27,8 @@ status: "new"
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 
 > [!example] Beispiel
-> in Erinnerung bleiben
-> *to stay in sb's memory*
+> Dieser Urlaub wird mir lange in Erinnerung bleiben.
+> *I will remember this holiday for a long time.*
 
 **Collocations**
 - in Erinnerung bleiben

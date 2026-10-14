@@ -14,8 +14,10 @@ bank: "main"
 id: "B6351"
 goethe_level: "B1"
 freq_rank: 5759
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
+skip: true
+skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
+check: "drop?"
+tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +26,12 @@ status: "new"
 **Meaning:** caretaker (Swiss)
 **Plural:** Abwarte
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** regional
+
+> [!info] Not in the study list
+> Austrian/Swiss word: recognise it, but Germany uses the standard word
+
+> [!warning] Check
+> drop?
 
 > [!example] Beispiel
 > Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.

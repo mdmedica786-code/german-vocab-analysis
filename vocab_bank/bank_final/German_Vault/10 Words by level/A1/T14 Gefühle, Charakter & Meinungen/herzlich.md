@@ -23,8 +23,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 
 > [!example] Beispiel
-> Herzliche Grüße
-> *Warm regards*
+> Wir senden Ihnen herzliche Grüße aus Berlin.
+> *We send you warm regards from Berlin.*
+
+**Collocations**
+- Herzliche Grüße
+- herzlich willkommen
+- herzlichen Glückwunsch
+
+**Related:** [[willkommen]] · [[Glückwunsch]]
 
 **Source:** Netzwerk neu A1 K6 8 (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->

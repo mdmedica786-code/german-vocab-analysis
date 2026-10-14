@@ -22,8 +22,15 @@ status: "new"
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> ein indirekter Fragesatz
-> *an indirect interrogative clause*
+> Dieser Satz ist ein indirekter Fragesatz.
+> *This sentence is an indirect question clause.*
+
+**Collocations**
+- ein indirekter Fragesatz
+- indirekt fragen
+- eine indirekte Rede
+
+**Related:** [[Fragesatz]] · [[Rede]]
 
 **Source:** Netzwerk neu A2 K7 4b (Ganz schön mobil)
 <!-- bank:end -->

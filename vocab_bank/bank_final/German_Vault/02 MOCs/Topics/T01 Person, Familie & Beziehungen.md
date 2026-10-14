@@ -201,10 +201,10 @@ Back to [[00 Home]]
 - [[Personenstand]] — marital status
 - [[Privatleben]] — private life
 - [[Schatz]] — treasure; darling
-- [[scheiden lassen]] — to get divorced
 - [[Scheidung]] — divorce
 - [[Schwiegereltern]] — parents-in-law
 - [[Senioren]] — senior citizens; elderly people
+- [[sich scheiden lassen]] — to get divorced
 - [[Stadtmensch]] — townie
 - [[stammen]] — to originate (from)
 - [[Streit]] — argument; quarrel

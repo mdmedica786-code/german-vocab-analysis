@@ -4,6 +4,7 @@ You only need **one file**: `German_Study.html`.
 
 ## 1. Open it
 Double-click `German_Study.html`. It opens in your browser (Chrome, Edge, Safari or Firefox). No internet, no installation.
+If you see lines of code with letters like `t`, `m`, `p`, you opened it in a text editor (Notepad, VS Code). Close it, right-click the file and choose **Open with > your browser**. The letters are internal and you never need them.
 Tip: bookmark it, or copy the file to your phone and open it there.
 
 ## 2. Study for 20 minutes a day
@@ -26,13 +27,13 @@ A simple plan: now to December: Main words (levels A2 and B1) plus Redemittel (B
 ## 4. Which levels are in it? All of them
 | Level | Words |
 |---|---|
-| A1 | 1,751 |
-| A2 | 1,296 |
-| B1 | 2,480 |
-| B2 | 361 core words + 3,683 extra B2 words (deck "B2 words") = 4,044 |
+| A1 | 1,746 |
+| A2 | 1,293 |
+| B1 | 2,418 |
+| B2 | 359 core words + 3,683 extra B2 words (deck "B2 words") = 4,042 |
 | C1 | 252 |
 
-(These are the words in the study list. 384 more words, such as country names, are left out on purpose. They are in the sheet "Not in list".)
+(These are the words in the study list. 456 more words are left out on purpose: country names, duplicates and Austrian/Swiss-only words. They are in the sheet "Not in list".)
 In the study page you choose the level with the tick boxes; the number next to each level shows how many cards it has.
 If you prefer a table: open `Word_Lists_by_Level.xlsx` (same folder). It has **one sheet per level** (A1, A2, B1, B2, B2 plus, C1), plus Phrases and Redemittel.
 

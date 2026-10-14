@@ -1,7 +1,7 @@
 ---
 title: "auswirken"
 type: "word"
-aliases: ["wirkt aus", "wirkte aus", "hat ausgewirkt"]
+aliases: ["wirkt sich aus", "wirkte sich aus", "hat sich ausgewirkt"]
 lemma: "auswirken"
 meaning: "to affect; to have an effect"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # auswirken
 
 **Meaning:** to affect; to have an effect
-**Forms:** wirkt aus · wirkte aus · hat ausgewirkt
+**Forms:** wirkt sich aus · wirkte sich aus · hat sich ausgewirkt
 **Grammar:** reflexive · separable (aus-) · + auf + Akk.
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -27,8 +27,13 @@ status: "new"
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 
 > [!example] Beispiel
-> Auskunft geben
-> *to provide information*
+> Am Schalter gibt man Ihnen gern Auskunft.
+> *At the counter they will gladly give you information.*
+
+**Collocations**
+- Auskunft geben
+- eine Auskunft bekommen
+- um Auskunft bitten
 
 **Source:** Netzwerk neu A1 K12 7a (Ab in den Urlaub!) · Goethe word list A1
 <!-- bank:end -->

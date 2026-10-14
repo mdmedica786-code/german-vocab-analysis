@@ -27,8 +27,13 @@ status: "new"
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 
 > [!example] Beispiel
-> aus der Mode kommen
-> *to go out of fashion*
+> Diese Schuhe sind aus der Mode gekommen.
+> *These shoes have gone out of fashion.*
+
+**Collocations**
+- aus der Mode kommen
+- in Mode sein
+- nach der neuesten Mode
 
 **Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list A2
 <!-- bank:end -->

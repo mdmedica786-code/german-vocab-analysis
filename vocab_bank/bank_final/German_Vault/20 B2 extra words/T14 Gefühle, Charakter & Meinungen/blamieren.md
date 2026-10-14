@@ -1,7 +1,7 @@
 ---
 title: "blamieren"
 type: "word"
-aliases: ["blamiert", "blamierte", "hat blamiert"]
+aliases: ["blamiert sich", "blamierte sich", "hat sich blamiert"]
 lemma: "blamieren"
 meaning: "to embarrass; to make a fool of"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # blamieren
 
 **Meaning:** to embarrass; to make a fool of
-**Forms:** blamiert · blamierte · hat blamiert
+**Forms:** blamiert sich · blamierte sich · hat sich blamiert
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

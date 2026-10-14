@@ -27,8 +27,12 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> vor einer Frage stehen
-> *to be confronted with a question*
+> Ich stehe vor einer schwierigen Frage.
+> *I am facing a difficult question.*
+
+**Collocations**
+- vor einer Frage stehen
+- eine Frage stellen
 
 **Source:** Netzwerk neu A1 K2 4a (Freunde, Kollegen und ich) · Goethe word list A1
 <!-- bank:end -->

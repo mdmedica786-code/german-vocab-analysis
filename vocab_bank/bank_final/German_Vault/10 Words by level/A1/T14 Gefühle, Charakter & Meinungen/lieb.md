@@ -24,8 +24,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 
 > [!example] Beispiel
-> Liebe Grüße
-> *Kind regards.*
+> Meine Nachbarin ist wirklich lieb.
+> *My neighbour is really kind.*
+
+**Collocations**
+- Liebe Grüße
+- lieb sein
+- ein lieber Mensch
+
+**Related:** [[Liebe]] · [[Mensch]]
 
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->

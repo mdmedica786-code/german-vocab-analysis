@@ -1,7 +1,7 @@
 ---
 title: "einarbeiten"
 type: "word"
-aliases: ["arbeitet ein", "arbeitete ein", "hat eingearbeitet"]
+aliases: ["arbeitet sich ein", "arbeitete sich ein", "hat sich eingearbeitet"]
 lemma: "einarbeiten"
 meaning: "to familiarise oneself; to train (on the job)"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # einarbeiten
 
 **Meaning:** to familiarise oneself; to train (on the job)
-**Forms:** arbeitet ein · arbeitete ein · hat eingearbeitet
+**Forms:** arbeitet sich ein · arbeitete sich ein · hat sich eingearbeitet
 **Grammar:** reflexive · separable (ein-)
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 

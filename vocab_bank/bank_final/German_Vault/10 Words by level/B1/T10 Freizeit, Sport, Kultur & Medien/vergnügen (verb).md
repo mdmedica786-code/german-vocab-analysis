@@ -1,7 +1,7 @@
 ---
 title: "vergnügen"
 type: "word"
-aliases: ["vergnügt sich", "vergnügte sich", "hat vergnügt"]
+aliases: ["vergnügt sich", "vergnügte sich", "hat sich vergnügt"]
 lemma: "vergnügen"
 meaning: "to enjoy oneself; to amuse oneself"
 pos: "verb"
@@ -20,7 +20,7 @@ status: "new"
 # vergnügen
 
 **Meaning:** to enjoy oneself; to amuse oneself
-**Forms:** vergnügt sich · vergnügte sich · hat vergnügt
+**Forms:** vergnügt sich · vergnügte sich · hat sich vergnügt
 **Grammar:** reflexive
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

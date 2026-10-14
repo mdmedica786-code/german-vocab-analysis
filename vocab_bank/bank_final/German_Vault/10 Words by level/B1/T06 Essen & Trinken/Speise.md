@@ -27,7 +27,7 @@ status: "new"
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
 
 > [!example] Beispiel
-> Als Vorspeise nehme ich eine Suppe, aber dafür nehme ich keine Nachspeise. (D, A)
+> Als Vorspeise nehme ich eine Suppe, aber dafür nehme ich keine Nachspeise.
 > *As a starter I'll take a soup, but I won't have a dessert.*
 
 **Source:** Netzwerk neu B1 K3 2 ÜB (Veränderungen) · Goethe word list B1

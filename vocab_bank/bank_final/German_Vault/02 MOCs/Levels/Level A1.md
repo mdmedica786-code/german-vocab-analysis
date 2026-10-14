@@ -6,7 +6,7 @@ tags: ["moc", "level/A1"]
 <!-- bank:start -->
 # Level A1
 
-1751 words to study: 1751 from the main bank.
+1746 words to study: 1746 from the main bank.
 
 Back to [[00 Home]]
 
@@ -19,7 +19,7 @@ Back to [[00 Home]]
 - [[Bauchschmerzen]] — stomach pain
 - [[Fieber]] — fever
 - [[Halsschmerzen]] — sore throat
-- [[husten (verb)]] — cough
+- [[husten (verb)]] — to cough
 - [[Kopfschmerzen]] — headache
 - [[Krankheit]] — illness
 - [[Rückenschmerzen]] — back pain
@@ -389,7 +389,7 @@ Back to [[00 Home]]
 - [[Übung]] — exercise
 - [[Übungsbuch]] — exercise book
 
-## T05 Gesundheit & Körper (54)
+## T05 Gesundheit & Körper (53)
 
 - [[Apotheke]] — pharmacy
 - [[Arm]] — arm
@@ -409,7 +409,6 @@ Back to [[00 Home]]
 - [[fit]] — fit
 - [[Fuß]] — foot
 - [[Gesicht]] — face
-- [[gestorben]] — died; deceased
 - [[gesund]] — healthy
 - [[Gewicht]] — weight
 - [[Haar]] — hair
@@ -446,7 +445,7 @@ Back to [[00 Home]]
 - [[Zahn]] — tooth
 - [[Zahnschmerzen]] — toothache
 
-## T06 Essen & Trinken (127)
+## T06 Essen & Trinken (124)
 
 - [[Abendessen]] — dinner; supper
 - [[Apfel]] — apple
@@ -458,7 +457,6 @@ Back to [[00 Home]]
 - [[Banane]] — banana
 - [[Becher]] — mug; cup; tub
 - [[Beisl]] — pub (Austria)
-- [[Beiz]] — pub (Switzerland)
 - [[bestellen]] — to order
 - [[Bier]] — beer
 - [[Biergarten]] — beer garden
@@ -469,7 +467,6 @@ Back to [[00 Home]]
 - [[Butter]] — butter
 - [[Butterbrot]] — bread and butter; sandwich
 - [[Café]] — cafe
-- [[Café (noun)]] — café
 - [[Champignon]] — mushroom
 - [[Chips]] — crisps
 - [[Cola]] — cola
@@ -574,7 +571,6 @@ Back to [[00 Home]]
 - [[Zucker]] — sugar
 - [[Zwiebel]] — onion
 - [[Öl]] — oil
-- [[Öl (noun)]] — oil
 
 ## T07 Einkaufen, Kleidung & Geld (126)
 
@@ -767,7 +763,7 @@ Back to [[00 Home]]
 - [[Insel]] — island
 - [[Jugendherberge]] — youth hostel
 - [[Koffer]] — suitcase
-- [[Kofferpacken]] — to pack one's suitcase
+- [[Kofferpacken]] — packing one's suitcase
 - [[kontrollieren]] — to check
 - [[links]] — left
 - [[Lkw]] — lorry; truck
@@ -1031,7 +1027,7 @@ Back to [[00 Home]]
 - [[Serie]] — series
 - [[singen]] — to sing
 - [[Ski]] — ski
-- [[Skifahren]] — to ski
+- [[Skifahren]] — skiing
 - [[Solist]] — soloist (m)
 - [[Solistin]] — soloist (f)
 - [[Sommerfest]] — summer festival
@@ -1405,7 +1401,7 @@ Back to [[00 Home]]
 - [[zufrieden]] — satisfied
 - [[Überraschung]] — surprise
 
-## T15 Sprache, Kommunikation & Denken (207)
+## T15 Sprache, Kommunikation & Denken (206)
 
 - [[Abschnitt]] — section, paragraph
 - [[Achtung]] — attention; watch out; respect
@@ -1485,7 +1481,6 @@ Back to [[00 Home]]
 - [[gratulieren]] — to congratulate
 - [[Gruß]] — greeting
 - [[Grußformel]] — greeting formula (e.g. complimentary close)
-- [[grüezi]] — hello (Swiss German)
 - [[grüßen]] — to greet
 - [[hallo]] — hello
 - [[heißen]] — to be called; to mean

@@ -10,9 +10,10 @@ register: "neutral"
 bank: "main"
 id: "B5283"
 freq_rank: 1194
-skip: false
+skip: true
+skip_reason: "duplicate of B3367 (learn that entry)"
 check: "dup:B3367"
-tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -20,6 +21,9 @@ status: "new"
 
 **Meaning:** needed; required
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B3367 (learn that entry)
 
 > [!warning] Check
 > dup:B3367

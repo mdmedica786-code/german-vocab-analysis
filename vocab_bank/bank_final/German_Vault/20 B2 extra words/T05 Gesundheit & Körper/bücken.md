@@ -1,7 +1,7 @@
 ---
 title: "bücken"
 type: "word"
-aliases: ["bückt", "bückte", "hat gebückt"]
+aliases: ["bückt sich", "bückte sich", "hat sich gebückt"]
 lemma: "bücken"
 meaning: "to bend down; to stoop"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # bücken
 
 **Meaning:** to bend down; to stoop
-**Forms:** bückt · bückte · hat gebückt
+**Forms:** bückt sich · bückte sich · hat sich gebückt
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
 

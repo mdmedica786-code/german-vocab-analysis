@@ -1,7 +1,7 @@
 ---
 title: "eignen"
 type: "word"
-aliases: ["eignet sich", "eignete sich", "hat geeignet"]
+aliases: ["eignet sich", "eignete sich", "hat sich geeignet"]
 lemma: "eignen"
 meaning: "to be suitable for"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # eignen
 
 **Meaning:** to be suitable for
-**Forms:** eignet sich · eignete sich · hat geeignet
+**Forms:** eignet sich · eignete sich · hat sich geeignet
 **Grammar:** reflexive · + für + Akk.
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

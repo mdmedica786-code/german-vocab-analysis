@@ -13,8 +13,10 @@ register: "neutral"
 bank: "main"
 id: "B5967"
 freq_rank: 3658
-skip: false
-tags: ["vocab", "bank/main", "level/A2", "topic/M2", "pos/noun", "medical"]
+skip: true
+skip_reason: "duplicate of B1287 (learn that entry)"
+check: "dup:B1287"
+tags: ["vocab", "bank/main", "level/A2", "topic/M2", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -23,6 +25,12 @@ status: "new"
 **Meaning:** headache
 **Plural:** Kopfschmerzen
 **Level:** A2 · **Topic:** [[M2 Medizin - Symptome & Krankheiten]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B1287 (learn that entry)
+
+> [!warning] Check
+> dup:B1287
 
 > [!example] Beispiel
 > Der Patient klagt über Kopfschmerzen.

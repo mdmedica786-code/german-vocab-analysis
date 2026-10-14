@@ -27,8 +27,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 
 > [!example] Beispiel
-> ein Formular ausfüllen
-> *to fill in a form*
+> Bitte füllen Sie das Formular vollständig aus.
+> *Please fill in the form completely.*
+
+**Collocations**
+- ein Formular ausfüllen
+- einen Antrag ausfüllen
+- ein Kästchen ausfüllen
+
+**Related:** [[Formular]] · [[Antrag]]
 
 **Source:** Netzwerk neu A1 K9 4f ÜB (Meine Wohnung) · Goethe word list A1
 <!-- bank:end -->

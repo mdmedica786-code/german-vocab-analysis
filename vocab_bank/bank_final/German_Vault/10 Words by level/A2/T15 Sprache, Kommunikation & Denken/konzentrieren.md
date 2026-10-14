@@ -1,7 +1,7 @@
 ---
 title: "konzentrieren"
 type: "word"
-aliases: ["konzentriert sich", "konzentrierte sich", "hat konzentriert"]
+aliases: ["konzentriert sich", "konzentrierte sich", "hat sich konzentriert"]
 lemma: "konzentrieren"
 meaning: "to concentrate"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # konzentrieren
 
 **Meaning:** to concentrate
-**Forms:** konzentriert sich · konzentrierte sich · hat konzentriert
+**Forms:** konzentriert sich · konzentrierte sich · hat sich konzentriert
 **Grammar:** reflexive · + auf + Akk.
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

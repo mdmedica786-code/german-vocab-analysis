@@ -25,8 +25,14 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> in Kontakt bleiben
-> *to stay in contact*
+> Wir bleiben auch nach dem Kurs in Kontakt.
+> *We will stay in contact after the course as well.*
+
+**Collocations**
+- in Kontakt bleiben
+- zu Hause bleiben
+
+**Related:** [[Kontakt]]
 
 **Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->

@@ -25,8 +25,14 @@ status: "new"
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine Zeit lang
-> *for a time*
+> Wir haben eine Zeit lang in Wien gewohnt.
+> *We lived in Vienna for a while.*
+
+**Collocations**
+- eine Zeit lang
+- zwei Stunden lang
+
+**Related:** [[Zeit]]
 
 **Source:** Netzwerk neu A1 K3 1d (In Hamburg) · Goethe word list A1
 <!-- bank:end -->

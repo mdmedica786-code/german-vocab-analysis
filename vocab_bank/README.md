@@ -33,6 +33,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | `b2chk.py` | check a list of candidate words against both vocabulary banks |
 | `make_vault.py` | rebuild the Obsidian vault from the CSV files (keeps your own notes) |
 | `make_level_workbook.py` | rebuild `STUDY_HERE/Word_Lists_by_Level.xlsx` (one sheet per level) |
+| `studylist.py`, `readme_sheet.py` | helpers: which words are not in the study list; the "READ ME FIRST" sheet in the Excel files |
 | `download_audio.py` | native audio: `--test 50`, `--level A1`, `--all` (Lingua Libre, fallback Wikimedia Commons) into `bank_final/audio/`; then re-run make_vault.py and make_study_app.py |
 | `audio_util.py` | helpers shared by the audio tools |
 | `make_study_app.py` | rebuild `STUDY_HERE/German_Study.html` from the CSV files |

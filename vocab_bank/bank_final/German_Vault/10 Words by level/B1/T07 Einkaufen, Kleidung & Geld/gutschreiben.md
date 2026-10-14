@@ -25,8 +25,15 @@ status: "new"
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 
 > [!example] Beispiel
-> einen Betrag auf dem Konto gutschreiben
-> *to credit an amount on the account*
+> Die Bank schreibt den Betrag dem Konto gut.
+> *The bank credits the amount to the account.*
+
+**Collocations**
+- einen Betrag gutschreiben
+- dem Konto gutschreiben
+- eine Gutschrift
+
+**Related:** [[Betrag]] · [[Konto]]
 
 **Source:** Netzwerk neu B1 K12 5c (Geld regiert die Welt?)
 <!-- bank:end -->

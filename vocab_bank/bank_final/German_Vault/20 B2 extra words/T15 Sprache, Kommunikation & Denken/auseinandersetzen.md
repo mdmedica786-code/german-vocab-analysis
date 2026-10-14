@@ -1,7 +1,7 @@
 ---
 title: "auseinandersetzen"
 type: "word"
-aliases: ["setzt auseinander", "setzte auseinander", "hat auseinandergesetzt"]
+aliases: ["setzt sich auseinander", "setzte sich auseinander", "hat sich auseinandergesetzt"]
 lemma: "auseinandersetzen"
 meaning: "to discuss in detail; (sich) to deal with; to come to terms with"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # auseinandersetzen
 
 **Meaning:** to discuss in detail; (sich) to deal with; to come to terms with
-**Forms:** setzt auseinander · setzte auseinander · hat auseinandergesetzt
+**Forms:** setzt sich auseinander · setzte sich auseinander · hat sich auseinandergesetzt
 **Grammar:** reflexive · separable (auseinander-) · + mit + Dat.
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

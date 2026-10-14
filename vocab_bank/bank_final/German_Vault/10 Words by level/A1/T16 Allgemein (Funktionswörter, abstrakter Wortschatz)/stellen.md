@@ -26,8 +26,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine Frage stellen
-> *to ask a question*
+> Darf ich Ihnen eine Frage stellen?
+> *May I ask you a question?*
+
+**Collocations**
+- eine Frage stellen
+- den Wecker stellen
+- eine Bedingung stellen
+
+**Related:** [[Frage]] · [[Wecker]] · [[Bedingung]]
 
 **Source:** Netzwerk neu A1 K3 10d (In Hamburg) · Goethe word list A1
 <!-- bank:end -->

@@ -26,8 +26,13 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> Ich glaube, der Mann klettert
-> *I believe the man is climbing.*
+> Ich glaube, es regnet bald.
+> *I think it will rain soon.*
+
+**Collocations**
+- das glaube ich nicht
+- an etwas glauben
+- jemandem glauben
 
 **Source:** Netzwerk neu A1 K6 1a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->

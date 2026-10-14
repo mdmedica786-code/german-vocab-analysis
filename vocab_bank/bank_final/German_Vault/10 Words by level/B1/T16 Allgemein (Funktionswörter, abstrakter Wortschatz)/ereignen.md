@@ -1,7 +1,7 @@
 ---
 title: "ereignen"
 type: "word"
-aliases: ["ereignet sich", "ereignete sich", "hat ereignet"]
+aliases: ["ereignet sich", "ereignete sich", "hat sich ereignet"]
 lemma: "ereignen"
 meaning: "to happen"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # ereignen
 
 **Meaning:** to happen
-**Forms:** ereignet sich · ereignete sich · hat ereignet
+**Forms:** ereignet sich · ereignete sich · hat sich ereignet
 **Grammar:** reflexive
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

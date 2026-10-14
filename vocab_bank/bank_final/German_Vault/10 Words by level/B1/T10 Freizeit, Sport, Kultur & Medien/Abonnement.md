@@ -1,12 +1,12 @@
 ---
 title: "Abonnement"
 type: "word"
-aliases: ["das Abonnement", "Abonnements | Abonnemente"]
+aliases: ["das Abonnement", "Abonnements"]
 lemma: "Abonnement"
 meaning: "subscription"
 pos: "noun"
 article: "das"
-plural: "Abonnements | Abonnemente"
+plural: "Abonnements"
 level: "B1"
 topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
 register: "neutral"
@@ -22,7 +22,8 @@ status: "new"
 # das Abonnement
 
 **Meaning:** subscription
-**Plural:** Abonnements | Abonnemente
+**Plural:** Abonnements
+**Forms:** auch: Abonnemente
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 
 > [!example] Beispiel

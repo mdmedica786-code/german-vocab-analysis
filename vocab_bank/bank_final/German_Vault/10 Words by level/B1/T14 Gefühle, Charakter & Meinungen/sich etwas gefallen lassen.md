@@ -1,8 +1,8 @@
 ---
-title: "etwas gefallen lassen"
+title: "sich etwas gefallen lassen"
 type: "word"
 aliases: ["lässt sich gefallen", "ließ sich gefallen", "hat sich gefallen lassen"]
-lemma: "etwas gefallen lassen"
+lemma: "sich etwas gefallen lassen"
 meaning: "to put up with something"
 pos: "verb"
 level: "B1"
@@ -17,7 +17,7 @@ tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
-# etwas gefallen lassen
+# sich etwas gefallen lassen
 
 **Meaning:** to put up with something
 **Forms:** lässt sich gefallen · ließ sich gefallen · hat sich gefallen lassen

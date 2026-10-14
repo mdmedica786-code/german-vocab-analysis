@@ -22,8 +22,12 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> trennbare Verben
-> *separable verbs*
+> „Aufstehen“ ist ein trennbares Verb.
+> *'Aufstehen' is a separable verb.*
+
+**Collocations**
+- trennbare Verben
+- trennbar sein
 
 **Source:** Netzwerk neu A1 K6 6c (Zeit mit Freunden)
 <!-- bank:end -->

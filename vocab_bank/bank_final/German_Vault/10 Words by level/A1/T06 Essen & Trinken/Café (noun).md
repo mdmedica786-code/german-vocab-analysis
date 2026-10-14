@@ -14,9 +14,10 @@ bank: "main"
 id: "B5851"
 goethe_level: "A1"
 freq_rank: 3146
-skip: false
+skip: true
+skip_reason: "duplicate of B0262 (learn that entry)"
 check: "dup:B0262"
-tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -25,6 +26,9 @@ status: "new"
 **Meaning:** café
 **Plural:** Cafés
 **Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B0262 (learn that entry)
 
 > [!warning] Check
 > dup:B0262

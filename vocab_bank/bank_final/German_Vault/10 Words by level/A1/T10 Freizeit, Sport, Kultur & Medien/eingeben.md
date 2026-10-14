@@ -25,8 +25,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 
 > [!example] Beispiel
-> das Passwort eingeben
-> *to enter the password*
+> Bitte geben Sie hier Ihr Passwort ein.
+> *Please enter your password here.*
+
+**Collocations**
+- das Passwort eingeben
+- Daten eingeben
+- den Code eingeben
+
+**Related:** [[Passwort]] · [[Daten]] · [[Code]]
 
 **Source:** Netzwerk neu A1 K7 6a (Arbeitsalltag)
 <!-- bank:end -->

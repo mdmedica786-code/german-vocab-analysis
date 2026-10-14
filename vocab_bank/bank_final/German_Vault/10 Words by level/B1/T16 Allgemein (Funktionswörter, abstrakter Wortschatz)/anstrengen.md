@@ -1,7 +1,7 @@
 ---
 title: "anstrengen"
 type: "word"
-aliases: ["strengt sich an", "strengte sich an", "hat angestrengt"]
+aliases: ["strengt sich an", "strengte sich an", "hat sich angestrengt"]
 lemma: "anstrengen"
 meaning: "to tire; to make an effort"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # anstrengen
 
 **Meaning:** to tire; to make an effort
-**Forms:** strengt sich an · strengte sich an · hat angestrengt
+**Forms:** strengt sich an · strengte sich an · hat sich angestrengt
 **Grammar:** reflexive · separable (an-)
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

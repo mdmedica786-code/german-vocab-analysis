@@ -1,7 +1,7 @@
 ---
 title: "herausstellen"
 type: "word"
-aliases: ["stellt heraus", "stellte heraus", "hat herausgestellt"]
+aliases: ["stellt sich heraus", "stellte sich heraus", "hat sich herausgestellt"]
 lemma: "herausstellen"
 meaning: "to emphasise; (sich) to turn out"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # herausstellen
 
 **Meaning:** to emphasise; (sich) to turn out
-**Forms:** stellt heraus · stellte heraus · hat herausgestellt
+**Forms:** stellt sich heraus · stellte sich heraus · hat sich herausgestellt
 **Grammar:** reflexive · separable (heraus-)
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -1,7 +1,7 @@
 ---
 title: "erkälten"
 type: "word"
-aliases: ["erkältet sich", "erkältete sich", "hat erkältet"]
+aliases: ["erkältet sich", "erkältete sich", "hat sich erkältet"]
 lemma: "erkälten"
 meaning: "to have a cold"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # erkälten
 
 **Meaning:** to have a cold
-**Forms:** erkältet sich · erkältete sich · hat erkältet
+**Forms:** erkältet sich · erkältete sich · hat sich erkältet
 **Grammar:** reflexive
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
 

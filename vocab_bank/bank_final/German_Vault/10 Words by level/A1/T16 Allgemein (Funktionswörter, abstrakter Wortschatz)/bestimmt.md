@@ -24,8 +24,14 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> der bestimmte Artikel
-> *the definite article*
+> Vor dem Nomen steht hier der bestimmte Artikel.
+> *Here the definite article stands before the noun.*
+
+**Collocations**
+- der bestimmte Artikel
+- ein bestimmter Tag
+
+**Related:** [[Artikel]]
 
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list B1
 <!-- bank:end -->

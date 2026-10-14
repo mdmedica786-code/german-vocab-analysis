@@ -3,7 +3,7 @@ title: "Kofferpacken"
 type: "word"
 aliases: ["das Kofferpacken"]
 lemma: "Kofferpacken"
-meaning: "to pack one's suitcase"
+meaning: "packing one's suitcase"
 pos: "noun"
 article: "das"
 plural: "–"
@@ -21,7 +21,7 @@ status: "new"
 <!-- bank:start -->
 # das Kofferpacken
 
-**Meaning:** to pack one's suitcase
+**Meaning:** packing one's suitcase
 **Plural:** –
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

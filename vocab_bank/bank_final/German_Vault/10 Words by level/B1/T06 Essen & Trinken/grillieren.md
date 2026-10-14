@@ -12,8 +12,10 @@ bank: "main"
 id: "B6459"
 goethe_level: "B1"
 freq_rank: 5759
-skip: false
-tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/verb"]
+skip: true
+skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
+check: "drop?"
+tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/verb", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -22,6 +24,12 @@ status: "new"
 **Meaning:** to grill (Swiss)
 **Forms:** grilliert · grillierte · hat grilliert
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional
+
+> [!info] Not in the study list
+> Austrian/Swiss word: recognise it, but Germany uses the standard word
+
+> [!warning] Check
+> drop?
 
 > [!example] Beispiel
 > Heute wollen wir im Garten grillieren.

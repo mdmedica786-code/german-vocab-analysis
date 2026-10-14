@@ -25,8 +25,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> eine Vorlesung besuchen
-> *to attend a lecture*
+> Er besucht jeden Dienstag eine Vorlesung an der Uni.
+> *He attends a lecture at the university every Tuesday.*
+
+**Collocations**
+- eine Vorlesung besuchen
+- Freunde besuchen
+- einen Kurs besuchen
+
+**Related:** [[Vorlesung]] · [[Kurs]]
 
 **Source:** Netzwerk neu A1 K5 1a (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->

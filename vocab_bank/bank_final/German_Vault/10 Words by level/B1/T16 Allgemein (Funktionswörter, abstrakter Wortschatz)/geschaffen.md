@@ -10,9 +10,10 @@ register: "neutral"
 bank: "main"
 id: "B5240"
 freq_rank: 1010
-skip: false
+skip: true
+skip_reason: "duplicate of B1198 (learn that entry)"
 check: "dup:B1198"
-tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -20,6 +21,9 @@ status: "new"
 
 **Meaning:** created; made (participle of schaffen)
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!info] Not in the study list
+> duplicate of B1198 (learn that entry)
 
 > [!warning] Check
 > dup:B1198

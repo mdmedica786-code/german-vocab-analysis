@@ -6,17 +6,13 @@ tags: ["moc", "level/A2"]
 <!-- bank:start -->
 # Level A2
 
-1296 words to study: 1296 from the main bank.
+1293 words to study: 1293 from the main bank.
 
 Back to [[00 Home]]
 
 ## M1 Medizin: Anatomie & Körpersysteme (1)
 
 - [[Herz]] — heart
-
-## M2 Medizin: Symptome & Krankheiten (1)
-
-- [[Kopfschmerz]] — headache
 
 ## M3 Medizin: Untersuchung, Diagnostik & Therapie (1)
 
@@ -234,7 +230,7 @@ Back to [[00 Home]]
 - [[Übersetzer]] — translator (m)
 - [[Übersetzerin]] — translator (f)
 
-## T04 Ausbildung, Schule & Studium (46)
+## T04 Ausbildung, Schule & Studium (45)
 
 - [[Abschlussprüfung]] — final exam
 - [[AG]] — work group
@@ -245,7 +241,6 @@ Back to [[00 Home]]
 - [[Ferien]] — holidays
 - [[Grammatikaufgabe]] — grammar exercise
 - [[Kenntnis]] — knowledge
-- [[Kenntnisse]] — knowledge; skills
 - [[Klassenzimmer]] — classroom
 - [[Kunstgeschichte]] — art history
 - [[Kursfest]] — course party
@@ -893,7 +888,7 @@ Back to [[00 Home]]
 - [[Widerspruch]] — contradiction; objection; (legal) appeal
 - [[öffentlich]] — public
 
-## T13 Zeit, Zahlen, Maße & Mengen (71)
+## T13 Zeit, Zahlen, Maße & Mengen (70)
 
 - [[anschließend]] — afterwards; subsequently
 - [[Arbeitstag]] — workday
@@ -941,7 +936,6 @@ Back to [[00 Home]]
 - [[paar (determiner)]] — couple
 - [[Phase]] — phase
 - [[plötzlich]] — suddenly
-- [[Rappen]] — centime (Swiss)
 - [[rechnen]] — to calculate; to count; to expect
 - [[Rest]] — rest
 - [[riesig]] — vast

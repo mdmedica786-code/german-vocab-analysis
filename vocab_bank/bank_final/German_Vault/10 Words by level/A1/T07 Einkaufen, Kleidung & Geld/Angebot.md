@@ -27,8 +27,13 @@ status: "new"
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 
 > [!example] Beispiel
-> ein Angebot schreiben
-> *to write an offer*
+> Die Firma hat mir ein gutes Angebot geschickt.
+> *The company sent me a good offer.*
+
+**Collocations**
+- ein Angebot schreiben
+- ein Angebot machen
+- ein Angebot annehmen
 
 **Source:** Netzwerk neu A1 K10 9a (Studium und Beruf) · Goethe word list A1
 <!-- bank:end -->

@@ -17,7 +17,7 @@ Back to [[00 Home]]
 - [[Bauchschmerzen]] — stomach pain
 - [[Fieber]] — fever
 - [[Halsschmerzen]] — sore throat
-- [[husten (verb)]] — cough
+- [[husten (verb)]] — to cough
 - [[Kopfschmerzen]] — headache
 - [[Krankheit]] — illness
 - [[Rückenschmerzen]] — back pain

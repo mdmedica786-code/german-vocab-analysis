@@ -1,7 +1,7 @@
 ---
 title: "erholen"
 type: "word"
-aliases: ["erholt sich", "erholte sich", "hat erholt"]
+aliases: ["erholt sich", "erholte sich", "hat sich erholt"]
 lemma: "erholen"
 meaning: "to recover; to relax"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # erholen
 
 **Meaning:** to recover; to relax
-**Forms:** erholt sich · erholte sich · hat erholt
+**Forms:** erholt sich · erholte sich · hat sich erholt
 **Grammar:** reflexive
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
 

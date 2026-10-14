@@ -27,8 +27,13 @@ status: "new"
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> der Reihe nach
-> *one after the other*
+> Bitte stellen Sie sich der Reihe nach an.
+> *Please line up one after the other.*
+
+**Collocations**
+- der Reihe nach
+- in der ersten Reihe
+- eine Reihe von
 
 **Source:** Netzwerk neu A2 K12 3a ÜB (Gute Unterhaltung!) · Goethe word list A2
 <!-- bank:end -->

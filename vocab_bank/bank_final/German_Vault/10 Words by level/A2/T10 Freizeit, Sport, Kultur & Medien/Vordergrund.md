@@ -26,8 +26,15 @@ status: "new"
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 
 > [!example] Beispiel
-> im Vordergrund stehen
-> *to be in the foreground*
+> Bei diesem Projekt steht die Sicherheit im Vordergrund.
+> *In this project safety comes first.*
+
+**Collocations**
+- im Vordergrund stehen
+- in den Vordergrund rücken
+- im Vordergrund
+
+**Related:** [[rücken (verb)|rücken]]
 
 **Source:** Netzwerk neu A2 K12 11a (Gute Unterhaltung!)
 <!-- bank:end -->

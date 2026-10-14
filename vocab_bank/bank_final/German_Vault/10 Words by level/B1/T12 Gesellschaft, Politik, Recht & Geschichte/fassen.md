@@ -25,8 +25,8 @@ status: "new"
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 
 > [!example] Beispiel
-> einen Vorsatz fassen
-> *to make a resolution*
+> Für das neue Jahr habe ich einen guten Vorsatz gefasst.
+> *For the new year I have made a good resolution.*
 
 **Collocations**
 - einen Entschluss fassen

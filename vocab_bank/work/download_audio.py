@@ -28,6 +28,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from audio_util import AUDIO_DIR, MANIFEST, ROOT, clean_word, file_stem  # noqa: E402
+from studylist import mark_not_in_list  # noqa: E402
 
 UA = "MedicaGermanStudy/1.0 (educational)"
 SPARQL = "https://lingualibre.org/bigdata/namespace/wdq/sparql"
@@ -77,6 +78,8 @@ def read_words(levels=None, include_skipped=False):
     for name in ("vocabulary_bank.csv", "b2_vocabulary_bank.csv"):
         with open(BANKS / name, encoding="utf-8-sig", newline="") as f:
             part = list(csv.DictReader(f))
+        if name == "vocabulary_bank.csv":
+            mark_not_in_list(part)
         if name == "vocabulary_bank.csv":
             part.sort(key=lambda r: int(r["study_order"]) if r.get("study_order", "").isdigit() else 10**9)
         rows += part

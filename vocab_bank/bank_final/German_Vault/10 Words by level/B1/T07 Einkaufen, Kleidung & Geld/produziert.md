@@ -22,8 +22,8 @@ status: "new"
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 
 > [!example] Beispiel
-> ökologisch produzierte Ware
-> *ecologically produced products*
+> Wir kaufen nur ökologisch produzierte Ware.
+> *We only buy ecologically produced goods.*
 
 **Collocations**
 - ökologisch produziert

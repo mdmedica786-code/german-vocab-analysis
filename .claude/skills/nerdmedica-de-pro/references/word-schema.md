@@ -50,7 +50,7 @@ optional and drives which of the 4 non-mandatory card types get generated.
 |---|---|---|---|
 | `en_meaning`     | str  | ✓  | Core front, all cloze identifiers |
 | `de_word`        | str  | ✓  | Core back (word after article), tag basis |
-| `gender_class`   | str  | ✓  | Color, POS tag. One of: `der`, `die`, `das`, `verb`, `adj`, `prep` |
+| `gender_class`   | str  | ✓  | Color, POS tag. One of: `der`, `die`, `das`, `pl`, `verb`, `adj`, `adv`, `pron`, `conj`, `prep` |
 | `article`        | str  | opt | Core back. `""` for non-nouns |
 | `pronunciation`  | str  | opt | Core back — plain phonetic like `VOH-nung`, no IPA |
 | `de_sentence`    | str  | opt | Core back **and** Cloze-Sentence. Must wrap the target in `<b>…</b>` for Cloze-Sentence to trigger |

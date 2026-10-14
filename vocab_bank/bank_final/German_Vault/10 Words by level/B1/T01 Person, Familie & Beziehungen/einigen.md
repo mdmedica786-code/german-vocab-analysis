@@ -1,7 +1,7 @@
 ---
 title: "einigen"
 type: "word"
-aliases: ["einigt sich", "einigte sich", "hat geeinigt"]
+aliases: ["einigt sich", "einigte sich", "hat sich geeinigt"]
 lemma: "einigen"
 meaning: "to agree"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # einigen
 
 **Meaning:** to agree
-**Forms:** einigt sich · einigte sich · hat geeinigt
+**Forms:** einigt sich · einigte sich · hat sich geeinigt
 **Grammar:** reflexive · + auf + Akk.
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

@@ -1,7 +1,7 @@
 ---
 title: "irren"
 type: "word"
-aliases: ["irrt sich", "irrte sich", "hat geirrt"]
+aliases: ["irrt sich", "irrte sich", "hat sich geirrt"]
 lemma: "irren"
 meaning: "to be wrong, to confuse"
 pos: "verb"
@@ -21,7 +21,7 @@ status: "new"
 # irren
 
 **Meaning:** to be wrong, to confuse
-**Forms:** irrt sich · irrte sich · hat geirrt
+**Forms:** irrt sich · irrte sich · hat sich geirrt
 **Grammar:** reflexive · + in + Dat.
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

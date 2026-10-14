@@ -27,8 +27,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> Liebe Grüße
-> *Kind regards.*
+> Einen schönen Gruß an deine Eltern!
+> *Best wishes to your parents!*
+
+**Collocations**
+- Liebe Grüße
+- viele Grüße
+- einen Gruß ausrichten
+
+**Related:** [[Liebe]]
 
 **Source:** Netzwerk neu A1 K5 10c (Alltag und Familie) · Goethe word list A1
 <!-- bank:end -->

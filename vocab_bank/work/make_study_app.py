@@ -9,6 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from audio_util import AudioLookup  # noqa: E402
+from studylist import mark_not_in_list  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BANKS = ROOT / "bank_final"
@@ -52,7 +53,7 @@ def word_rec(r, kind):
 
 def main():
     recs = []
-    m = rd("vocabulary_bank.csv")
+    m = mark_not_in_list(rd("vocabulary_bank.csv"))
     m.sort(key=lambda r: int(r["study_order"]) if r.get("study_order", "").isdigit() else 10**9)
     recs += [word_rec(r, "M") for r in m]
     recs += [word_rec(r, "B") for r in rd("b2_vocabulary_bank.csv")]

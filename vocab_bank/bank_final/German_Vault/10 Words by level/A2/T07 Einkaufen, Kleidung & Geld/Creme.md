@@ -1,12 +1,12 @@
 ---
 title: "Creme"
 type: "word"
-aliases: ["die Creme", "Cremes | Cremen"]
+aliases: ["die Creme", "Cremes"]
 lemma: "Creme"
 meaning: "cream"
 pos: "noun"
 article: "die"
-plural: "Cremes | Cremen"
+plural: "Cremes"
 level: "A2"
 topic: "[[T07 Einkaufen, Kleidung & Geld]]"
 register: "neutral"
@@ -22,7 +22,8 @@ status: "new"
 # die Creme
 
 **Meaning:** cream
-**Plural:** Cremes | Cremen
+**Plural:** Cremes
+**Forms:** auch: Cremen
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 
 > [!example] Beispiel

@@ -14,8 +14,10 @@ bank: "main"
 id: "B6534"
 goethe_level: "A2"
 freq_rank: 5759
-skip: false
-tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
+skip: true
+skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
+check: "drop?"
+tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
@@ -24,6 +26,12 @@ status: "new"
 **Meaning:** centime (Swiss)
 **Plural:** Rappen
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** regional
+
+> [!info] Not in the study list
+> Austrian/Swiss word: recognise it, but Germany uses the standard word
+
+> [!warning] Check
+> drop?
 
 > [!example] Beispiel
 > Ein Franken hat hundert Rappen.

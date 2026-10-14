@@ -1,7 +1,7 @@
 ---
 title: "schämen"
 type: "word"
-aliases: ["schämt", "schämte", "hat geschämt"]
+aliases: ["schämt sich", "schämte sich", "hat sich geschämt"]
 lemma: "schämen"
 meaning: "to be ashamed"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # schämen
 
 **Meaning:** to be ashamed
-**Forms:** schämt · schämte · hat geschämt
+**Forms:** schämt sich · schämte sich · hat sich geschämt
 **Grammar:** reflexive · + für + Akk.
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -1,7 +1,7 @@
 ---
 title: "verlaufen"
 type: "word"
-aliases: ["verläuft", "verlief", "hat verlaufen"]
+aliases: ["verläuft sich", "verlief sich", "hat sich verlaufen"]
 lemma: "verlaufen"
 meaning: "to get lost"
 pos: "verb"
@@ -20,7 +20,7 @@ status: "new"
 # verlaufen
 
 **Meaning:** to get lost
-**Forms:** verläuft · verlief · hat verlaufen
+**Forms:** verläuft sich · verlief sich · hat sich verlaufen
 **Grammar:** reflexive
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

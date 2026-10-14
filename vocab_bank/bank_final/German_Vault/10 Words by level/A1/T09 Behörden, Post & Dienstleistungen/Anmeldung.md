@@ -28,8 +28,15 @@ status: "new"
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 
 > [!example] Beispiel
-> die Anmeldung zum Marathon
-> *the application for the marathon*
+> Die Anmeldung zum Marathon ist bis Freitag möglich.
+> *Registration for the marathon is possible until Friday.*
+
+**Collocations**
+- die Anmeldung zum Marathon
+- die Anmeldung ausfüllen
+- sich zur Anmeldung melden
+
+**Related:** [[Marathon]]
 
 **Source:** Netzwerk neu A1 K6 15a (Zeit mit Freunden) · Goethe word list A1
 <!-- bank:end -->

@@ -27,8 +27,12 @@ status: "new"
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 
 > [!example] Beispiel
-> auf eine Idee kommen
-> *to get an idea*
+> Plötzlich bin ich auf eine gute Idee gekommen.
+> *Suddenly I came up with a good idea.*
+
+**Collocations**
+- auf eine Idee kommen
+- eine gute Idee
 
 **Source:** Netzwerk neu A1 K5 12 (Alltag und Familie) · Goethe word list A2
 <!-- bank:end -->

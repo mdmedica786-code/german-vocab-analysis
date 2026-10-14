@@ -22,8 +22,12 @@ status: "new"
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 
 > [!example] Beispiel
-> unregelmäßige Verben
-> *irregular verbs*
+> Im Deutschen gibt es viele unregelmäßige Verben.
+> *There are many irregular verbs in German.*
+
+**Collocations**
+- unregelmäßige Verben
+- unregelmäßig schlafen
 
 **Source:** Netzwerk neu A1 K4 11 (Guten Appetit!)
 <!-- bank:end -->

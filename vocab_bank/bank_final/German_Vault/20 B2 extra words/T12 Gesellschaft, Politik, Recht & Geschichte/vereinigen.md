@@ -1,7 +1,7 @@
 ---
 title: "vereinigen"
 type: "word"
-aliases: ["vereinigt", "vereinigte", "hat vereinigt"]
+aliases: ["vereinigt sich", "vereinigte sich", "hat sich vereinigt"]
 lemma: "vereinigen"
 meaning: "to unite; to combine"
 pos: "verb"
@@ -19,7 +19,7 @@ status: "new"
 # vereinigen
 
 **Meaning:** to unite; to combine
-**Forms:** vereinigt · vereinigte · hat vereinigt
+**Forms:** vereinigt sich · vereinigte sich · hat sich vereinigt
 **Grammar:** reflexive
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

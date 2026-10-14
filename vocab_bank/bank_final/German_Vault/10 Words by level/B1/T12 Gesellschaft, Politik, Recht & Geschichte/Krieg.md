@@ -27,8 +27,13 @@ status: "new"
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 
 > [!example] Beispiel
-> Krieg führen
-> *to wage war*
+> Die beiden Länder wollen keinen Krieg führen.
+> *The two countries do not want to wage war.*
+
+**Collocations**
+- Krieg führen
+- im Krieg
+- den Krieg beenden
 
 **Source:** Netzwerk neu B1 K10 10b (Miteinander) · Goethe word list B1
 <!-- bank:end -->
