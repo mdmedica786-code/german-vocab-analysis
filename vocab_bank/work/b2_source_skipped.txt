@@ -32,3 +32,10 @@ inner|form or prefix, not a learning word
 nieder|form or prefix, not a learning word
 Graf|historical title, low priority
 Fürst|historical title, low priority
+Weib|old-fashioned, historical or too rare
+Fräulein|old-fashioned, historical or too rare
+Schwert|old-fashioned, historical or too rare
+Ritter|old-fashioned, historical or too rare
+schreiten|old-fashioned, historical or too rare
+irgend|old-fashioned, historical or too rare
+Theologie|old-fashioned, historical or too rare
