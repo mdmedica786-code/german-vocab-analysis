@@ -52,3 +52,13 @@ Tugend|vulgar, old-fashioned or too rare
 irgendwelch|vulgar, old-fashioned or too rare
 Dasein|vulgar, old-fashioned or too rare
 Journal|vulgar, old-fashioned or too rare
+theologisch|historical, religious or too rare
+preußisch|historical, religious or too rare
+Dämon|historical, religious or too rare
+empor|historical, religious or too rare
+abermals|historical, religious or too rare
+gebieten|historical, religious or too rare
+Reiter|historical, religious or too rare
+Mönch|historical, religious or too rare
+Bischof|historical, religious or too rare
+fünft|ordinal stem, not a word to learn
