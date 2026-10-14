@@ -5,11 +5,11 @@ Start with the folder you need. Each folder has one job.
 | Folder | What is in it | Open this first |
 |---|---|---|
 | `analysis_and_plan/` | **Your daily study plan** and the analysis behind it. | `anki/README_anki.md`, then `anki/words/W01_words.txt` and `anki/chunks/W01_chunks.txt` |
-| `anki_cards/` | Card-generation prompt and the `.apkg` backup (German PRO v3). The old 1-gram deck is in `archive/old_1grams_deck/`. | `prompt-for-other-models.md` |
+| `anki_cards/` | Card-generation prompt and the `.apkg` backup (German PRO v3). | `prompt-for-other-models.md` |
 | `vocab_bank/` | The long-running bank build (vocabulary, phrases, Redemittel). **Used by your agent; do not rename.** | `CLAUDE.md` |
 | `audio/` | Audio files for each vocabulary item. | `README.md` in that folder |
 | `data/` | Raw inputs, read-only: n-gram counts, n-gram batch text files, Goethe/Klett/Netzwerk word lists (PDF/CSV). | – |
-| `archive/` | Old 1-gram deck (`old_1grams_deck/`) and old one-off scripts. Kept for history only. | – |
+| `archive/` | Old one-off scripts. Kept for history only. | – |
 
 ## Inside `analysis_and_plan/`
 
