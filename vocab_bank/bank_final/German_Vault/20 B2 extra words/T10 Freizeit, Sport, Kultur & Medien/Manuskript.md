@@ -33,7 +33,7 @@ status: "new"
 - ein Manuskript lesen
 - das Manuskript überarbeiten
 
-**Related:** [[einreichen]]
+**Related:** [[einreichen]] · [[überarbeiten]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

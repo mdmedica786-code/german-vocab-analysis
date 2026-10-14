@@ -1,0 +1,41 @@
+---
+title: "verbreitern"
+type: "word"
+aliases: ["verbreitert", "verbreiterte", "hat verbreitert"]
+lemma: "verbreitern"
+meaning: "to widen; to broaden"
+pos: "verb"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D4563"
+exam_use: ["Lesen", "Alltag"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Lesen", "exam/Alltag"]
+---
+<!-- bank:start -->
+# verbreitern
+
+**Meaning:** to widen; to broaden
+**Forms:** verbreitert · verbreiterte · hat verbreitert
+**Grammar:** reflexive
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Stadt will die Straße verbreitern.
+> *The city wants to widen the road.*
+
+**Collocations**
+- eine Straße verbreitern
+- den Radweg verbreitern
+- sich verbreitern
+
+**Related:** [[Straße]] · [[Radweg]]
+
+**Exam use:** Lesen, Alltag
+<!-- bank:end -->
+
+## My notes
+

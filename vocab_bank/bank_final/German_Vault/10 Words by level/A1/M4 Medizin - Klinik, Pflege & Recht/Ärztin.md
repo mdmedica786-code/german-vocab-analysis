@@ -35,7 +35,7 @@ status: "new"
 - die Ärztin fragen
 - Fachärztin für Innere Medizin
 
-**Related:** [[Medizin]]
+**Related:** [[Fachärztin]] · [[Medizin]]
 
 **Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list A2
 <!-- bank:end -->

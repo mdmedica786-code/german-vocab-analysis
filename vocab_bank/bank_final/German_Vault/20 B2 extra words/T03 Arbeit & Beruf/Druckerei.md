@@ -1,0 +1,42 @@
+---
+title: "Druckerei"
+type: "word"
+aliases: ["die Druckerei", "Druckereien"]
+lemma: "Druckerei"
+meaning: "print shop; printing company"
+pos: "noun"
+article: "die"
+plural: "Druckereien"
+level: "B2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "b2"
+id: "D3874"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Druckerei
+
+**Meaning:** print shop; printing company
+**Plural:** Druckereien
+**Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Druckerei liefert die Flyer morgen früh.
+> *The print shop delivers the flyers tomorrow morning.*
+
+**Collocations**
+- in der Druckerei
+- eine Druckerei beauftragen
+- bei einer Druckerei arbeiten
+
+**Related:** [[beauftragen]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

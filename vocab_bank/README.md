@@ -17,7 +17,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | File | Rows | Content |
 |---|---|---|
 | `vocabulary_bank.csv` | 6,524 | main vocabulary, all levels in one file (column `level`: A1 1,936 · A2 1,413 · B1 2,526 · B2 377 · C1 272), including about 290 medical-tagged words |
-| `b2_vocabulary_bank.csv` | 3,683 | extra B2 words (the first 2,379 chosen by frequency and topic, the rest added from the source list `beyond_goethe_B2.csv`), no medical, none that are in the main bank |
+| `b2_vocabulary_bank.csv` | 4,684 | extra B2 words (the first 2,379 chosen by frequency and topic, then the rest of `beyond_goethe_B2.csv`, then the Klett Kontext B2 glossary), no medical, none that are in the main bank |
 | `phrase_bank.csv` | 1,016 | useful phrases grouped by function |
 | `redemittel_bank.csv` | 1,176 | speaking and writing expressions in 55 sets |
 | `German_Vault/` | 10,316 notes | the same content as Obsidian notes (generated) |

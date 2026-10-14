@@ -4,7 +4,7 @@ Skill saved here: `.claude/skills/nerdmedica-de-pro/` (unpacked, so Claude Code 
 
 Goal: build NerdMedica DE PRO `.apkg` decks (6 sub-decks: Core, Production, Grammar, Chunks, Breadth, Family) from
 - the main vocabulary bank (`bank_final/vocabulary_bank.csv`, 6,524 rows, levels A1-C1)
-- the B2 bank (`bank_final/b2_vocabulary_bank.csv`, 3,683 rows)
+- the B2 bank (`bank_final/b2_vocabulary_bank.csv`, 4,684 rows)
 - the phrase bank (`bank_final/phrase_bank.csv`, 1,016 rows)
 
 How the bank columns map to the skill's `words.json` (see `.claude/skills/nerdmedica-de-pro/references/word-schema.md`):

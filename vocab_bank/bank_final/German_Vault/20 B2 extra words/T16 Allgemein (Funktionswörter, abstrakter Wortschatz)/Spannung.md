@@ -33,7 +33,7 @@ status: "new"
 - elektrische Spannung
 - Spannungen abbauen
 
-**Related:** [[versetzen]]
+**Related:** [[versetzen]] · [[abbauen]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

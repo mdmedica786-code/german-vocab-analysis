@@ -1,0 +1,40 @@
+---
+title: "S-Bahn-Station"
+type: "word"
+aliases: ["die S-Bahn-Station", "S-Bahn-Stationen"]
+lemma: "S-Bahn-Station"
+meaning: "suburban train station"
+pos: "noun"
+article: "die"
+plural: "S-Bahn-Stationen"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D4366"
+exam_use: ["Alltag", "Hören"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+---
+<!-- bank:start -->
+# die S-Bahn-Station
+
+**Meaning:** suburban train station
+**Plural:** S-Bahn-Stationen
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die nächste S-Bahn-Station ist nur fünf Minuten entfernt.
+> *The nearest suburban train station is only five minutes away.*
+
+**Collocations**
+- an der S-Bahn-Station
+- zur S-Bahn-Station laufen
+- die S-Bahn-Station erreichen
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

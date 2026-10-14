@@ -6,7 +6,7 @@ tags: ["moc", "topic/T09"]
 <!-- bank:start -->
 # T09 Behörden, Post & Dienstleistungen
 
-Map of content. 197 words in the main bank, 87 in the B2 bank.
+Map of content. 197 words in the main bank, 105 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -226,15 +226,17 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (87)
+### B2 (105)
 
 - [[Ablesung]] — meter reading
 - [[Abmeldung]] — de-registration; cancellation
 - [[absichern]] — to secure; to safeguard
+- [[Amtsbescheid]] — official notice; official decision
 - [[Anerkennungsverfahren]] — recognition procedure
 - [[Angaben machen]] — to give information; to state
 - [[Anlaufstelle]] — point of contact; support centre
 - [[anmahnen]] — to demand; to send a reminder about
+- [[Anmeldeschluss]] — registration deadline
 - [[Antragsteller]] — applicant
 - [[Arbeitslosengeld]] — unemployment benefit
 - [[Aufenthaltserlaubnis]] — residence permit
@@ -242,11 +244,13 @@ Back to [[00 Home]]
 - [[Aufenthaltstitel]] — residence permit
 - [[Auskunft erteilen]] — to give information
 - [[Auskunft geben]] — to give information
+- [[auslaufen]] — to run out; to leak; to expire
 - [[ausweisen]] — to expel; to identify; (sich) to prove one's identity
 - [[beanstanden]] — to complain about; to object to
 - [[Bearbeitungsgebühr]] — processing fee
 - [[Bedingungen stellen]] — to impose conditions
 - [[Beglaubigung]] — certification (of a document)
+- [[Behördengespräch]] — conversation with an authority; official meeting
 - [[benachrichtigen]] — to notify; to inform
 - [[Beratungsstelle]] — advice centre
 - [[Beschwerde einlegen]] — to lodge a complaint
@@ -261,6 +265,9 @@ Back to [[00 Home]]
 - [[ersuchen]] — to request; to ask formally
 - [[Fahrerlaubnis]] — driving licence; permission to drive
 - [[Fahrverbot]] — driving ban
+- [[Festnetztelefon]] — landline phone
+- [[Formalität]] — formality
+- [[freigeben]] — to release; to approve; to open (for use)
 - [[Führungszeugnis]] — certificate of good conduct
 - [[Geburtsurkunde]] — birth certificate
 - [[gewähren]] — to grant; to give
@@ -272,18 +279,23 @@ Back to [[00 Home]]
 - [[Klient]] — client (of a lawyer, counsellor)
 - [[Korrespondenz]] — correspondence
 - [[Kurier]] — courier
+- [[Kurznachricht]] — short message; text message
 - [[Mahnbescheid]] — payment order; court demand for payment
 - [[mahnen]] — to remind; to warn; to demand payment
 - [[Meldebescheinigung]] — registration certificate
 - [[Mängelrüge]] — notice of defect; complaint about defects
 - [[Müllentsorgung]] — waste disposal
 - [[Nachsendeauftrag]] — mail forwarding order
+- [[Niederschrift]] — written record; minutes; transcript
 - [[Paketdienst]] — parcel service
+- [[Papierfach]] — paper tray
 - [[Pflegeversicherung]] — long-term care insurance
 - [[Postbote]] — postman; postie
 - [[Postfach]] — PO box
+- [[Rechtsbehelfsbelehrung]] — notice of right of appeal; information on legal remedies
 - [[Rentenversicherung]] — pension insurance
 - [[Sachbearbeiter]] — case worker; clerk in charge
+- [[Servicezeit]] — service hours
 - [[Sozialhilfe]] — social assistance
 - [[Sozialversicherung]] — social insurance
 - [[Staatsbürgerschaft]] — citizenship
@@ -292,11 +304,15 @@ Back to [[00 Home]]
 - [[Stromanbieter]] — electricity provider
 - [[Stromzähler]] — electricity meter
 - [[Suchtberatung]] — addiction counselling
+- [[Telefonkabine]] — telephone box; phone booth
 - [[Terminvergabe]] — appointment scheduling
+- [[Unfallbericht]] — accident report
+- [[Unfallzeitpunkt]] — time of the accident
 - [[unter Aufsicht stehen]] — to be supervised
 - [[verbindlich]] — binding; firm
 - [[Vereinbarungen treffen]] — to make arrangements; to come to agreements
 - [[Verfügung]] — disposal; order; decree
+- [[Versicherungsnummer]] — insurance number
 - [[Versicherungsschutz]] — insurance coverage
 - [[Vertragsabschluss]] — conclusion of a contract
 - [[Vertragspartner]] — contracting party
@@ -310,11 +326,13 @@ Back to [[00 Home]]
 - [[Widerspruch einlegen]] — to lodge an objection
 - [[Wohngeld]] — housing benefit
 - [[Zusage]] — acceptance; promise; confirmation
+- [[zuschicken]] — to send (to someone); to mail
 - [[zustehen]] — to be entitled to
 - [[Zustellung]] — delivery; service (of documents)
 - [[zuweisen]] — to assign; to allocate
 - [[zwecks]] — for the purpose of
 - [[Zweitwohnsitz]] — second home; secondary residence
+- [[übermitteln]] — to transmit; to convey; to send
 <!-- bank:end -->
 
 ## My notes

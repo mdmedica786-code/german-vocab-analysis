@@ -33,7 +33,7 @@ status: "new"
 - die Buchung stornieren
 - Buchung bestätigen
 
-**Related:** [[vornehmen]]
+**Related:** [[vornehmen]] · [[stornieren]]
 
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->

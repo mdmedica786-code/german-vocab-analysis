@@ -6,7 +6,7 @@ tags: ["moc", "topic/T04"]
 <!-- bank:start -->
 # T04 Ausbildung, Schule & Studium
 
-Map of content. 262 words in the main bank, 87 in the B2 bank.
+Map of content. 262 words in the main bank, 151 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -291,32 +291,45 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (87)
+### B2 (151)
 
 - [[Abendkurs]] — evening class
+- [[abfragen]] — to quiz; to test (orally); to query
 - [[Abschlussarbeit]] — final thesis; degree dissertation
 - [[abschneiden]] — to cut off; to perform (in a test)
+- [[Abstract]] — abstract; summary (of a paper)
 - [[Akademiker]] — university graduate; academic
 - [[akademisch]] — academic
 - [[Aufnahmeprüfung]] — entrance exam
 - [[Ausbilder]] — trainer; instructor (in vocational training)
+- [[Ausbildungsinhalt]] — training content; subject of the training
 - [[Ausbildungsplatz]] — training place; apprenticeship position
+- [[Ausbildungstag]] — training day
 - [[Ausleihe]] — lending; loan desk
 - [[Auswendiglernen]] — learning by heart; rote learning
 - [[Bachelorstudium]] — bachelor's degree programme
+- [[Basiskenntnis]] — basic knowledge
+- [[Beamer]] — projector (for presentations)
 - [[Begabung]] — talent; gift
 - [[beibringen]] — to teach; to impart; to produce (evidence)
 - [[Berufsberatung]] — careers advice
 - [[Berufsorientierung]] — career orientation
 - [[Bibliothekar]] — librarian
 - [[Bildungsabschluss]] — educational qualification
+- [[Bildungschance]] — educational opportunity
+- [[Bildungsprojekt]] — education project
 - [[Bildungsweg]] — educational path
+- [[Biologe]] — biologist (male)
+- [[Biologin]] — biologist (female)
 - [[blau machen]] — to skip work or school
 - [[Campus]] — campus
+- [[Computerklasse]] — computer class; computer room
 - [[Dissertation]] — doctoral thesis
+- [[Doktorat]] — doctorate (Austria/Switzerland)
 - [[Dozent]] — lecturer
 - [[durchfallen]] — to fail (an exam); to fall through
 - [[durchkommen]] — to get through; to pass
+- [[Ehrendoktorwürde]] — honorary doctorate
 - [[eine Prüfung ablegen]] — to take an exam
 - [[einen Vortrag halten]] — to give a lecture
 - [[Einschreibung]] — enrolment; registration
@@ -324,62 +337,113 @@ Back to [[00 Home]]
 - [[erlernen]] — to learn (thoroughly); to master
 - [[Erstsemester]] — first-semester student
 - [[Exmatrikulation]] — de-registration from university
+- [[experimentieren]] — to experiment
 - [[Fachbuch]] — specialist book
+- [[Fachdisziplin]] — academic discipline; field of expertise
 - [[Fachhochschule]] — university of applied sciences
 - [[Fachliteratur]] — specialist literature
 - [[Fakultät]] — faculty (university)
 - [[Fernstudium]] — distance learning degree
+- [[Forscherteam]] — research team
+- [[Forschungsansatz]] — research approach
+- [[Forschungsinstitut]] — research institute
+- [[Forschungsrichtung]] — line of research; research direction
+- [[fortgeschritten]] — advanced
 - [[Fortschritte machen]] — to make progress
 - [[Fußnote]] — footnote
 - [[Förderunterricht]] — supplementary tuition; remedial classes
+- [[Förderwerk]] — funding organisation; scholarship foundation
 - [[Gasthörer]] — guest student; auditor
 - [[gebildet]] — educated; cultured
 - [[Geisteswissenschaft]] — humanities (discipline)
+- [[habilitieren]] — to qualify as a university lecturer (Habilitation)
 - [[Hörsaal]] — lecture hall
+- [[Hörtext]] — listening text; listening comprehension text
 - [[Immatrikulation]] — university enrolment
+- [[Ingenieurwesen]] — engineering (as a field)
 - [[Jahrgang]] — year group; birth year; vintage
+- [[Kapitelthema]] — chapter topic
 - [[Kolloquium]] — colloquium; academic discussion
+- [[Kommunikationswissenschaftler]] — communication scientist (male)
+- [[Kommunikationswissenschaftlerin]] — communication scientist (female)
+- [[Konfliktforschung]] — conflict research
 - [[Korrektur]] — correction
+- [[kunstpädagogisch]] — relating to art education
 - [[Lehrbuch]] — textbook
 - [[Lehrkraft]] — teacher; member of teaching staff
 - [[Lehrplan]] — curriculum; syllabus
 - [[Lehrstuhl]] — university chair; professorship
+- [[leichtfallen]] — to come easily; to be easy (for someone)
 - [[Leihfrist]] — loan period
 - [[Leistungsnachweis]] — proof of academic achievement; credit
+- [[Lerngruppe]] — study group; learning group
+- [[Lernplattform]] — learning platform
+- [[Lernprogramm]] — learning programme; tutorial software
+- [[Lernschwierigkeit]] — learning difficulty
 - [[Lernstrategie]] — learning strategy
+- [[Lernthema]] — learning topic
+- [[Lernumgebung]] — learning environment
 - [[Lernziel]] — learning objective
+- [[Lesehund]] — reading dog (dog that children read aloud to)
 - [[Lesesaal]] — reading room
 - [[Lineal]] — ruler
 - [[Literaturverzeichnis]] — bibliography
+- [[Master-Studiengang]] — master's degree programme
+- [[Medienwissenschaften]] — media studies
 - [[Meisterbrief]] — master craftsman's certificate
 - [[Methodik]] — methodology
 - [[Nachschlagewerk]] — reference work
+- [[naturwissenschaftlich]] — scientific; relating to the natural sciences
 - [[Notizbuch]] — notebook
+- [[Oberschule]] — secondary school (in some German states)
+- [[Politikunterricht]] — politics lessons; social studies (as a school subject)
+- [[Projektfest]] — project celebration; project party
+- [[Projekttag]] — project day
 - [[Promotion]] — doctorate; doctoral degree
 - [[Prüfungsangst]] — exam anxiety
 - [[Prüfungsordnung]] — examination regulations
 - [[Pädagogik]] — education; pedagogy
 - [[Radiergummi]] — rubber; eraser
 - [[Regelstudienzeit]] — standard period of study
+- [[Rollenspiel]] — role play; role-playing game
+- [[Schauspielakademie]] — acting academy; drama school
+- [[Schauspielausbildung]] — acting training
+- [[Schauspielstudium]] — acting studies; drama degree
+- [[Schreibstift]] — pen or pencil; writing instrument
 - [[Schulpflicht]] — compulsory schooling
 - [[schwänzen]] — to skip (school, class)
+- [[Schülerhilfe]] — tutoring for pupils; homework help
 - [[Semesterferien]] — semester break
 - [[Semesterticket]] — semester ticket (student travel pass)
 - [[Seminararbeit]] — seminar paper; term paper
 - [[Sozialwissenschaft]] — social science
+- [[spielerisch]] — playful; in a playful way
+- [[Sportwissenschaftler]] — sports scientist (male)
+- [[Sportwissenschaftlerin]] — sports scientist (female)
 - [[Sprachzertifikat]] — language certificate
 - [[Stichprobe]] — sample; spot check
 - [[Studiengang]] — degree programme; course of study
 - [[Studiengebühr]] — tuition fee
+- [[Systembiologie]] — systems biology
 - [[Taschenrechner]] — calculator
 - [[Tutor]] — tutor; student teaching assistant
 - [[Umschulung]] — retraining
 - [[Unterrichtsstunde]] — lesson; class period
 - [[vertiefen]] — to deepen; to intensify
+- [[Vertiefung]] — deepening; specialisation; hollow
+- [[Vorkenntnis]] — prior knowledge; previous knowledge
+- [[Völkerkunde]] — ethnology; cultural anthropology
 - [[Wahlfach]] — elective subject
+- [[Wahrnehmungsübung]] — perception exercise
+- [[weiterbilden]] — to continue one's education; to undertake further training; (sich) to do further training
 - [[Weiterbildungsangebot]] — further education offering
+- [[Weiterbildungsmöglichkeit]] — opportunity for further training
 - [[weiterführend]] — further; advanced; secondary
 - [[Werkstudent]] — working student
+- [[Wissenschaftsfonds]] — science fund (research funding body)
+- [[Wissenschaftspreis]] — science prize
+- [[Wörterlernen]] — learning words; vocabulary learning
+- [[Zukunftspreis]] — future award; prize for innovation
 <!-- bank:end -->
 
 ## My notes

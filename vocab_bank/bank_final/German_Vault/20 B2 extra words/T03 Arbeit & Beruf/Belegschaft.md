@@ -33,6 +33,8 @@ status: "new"
 - Belegschaft abbauen
 - Belegschaft informieren
 
+**Related:** [[abbauen]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

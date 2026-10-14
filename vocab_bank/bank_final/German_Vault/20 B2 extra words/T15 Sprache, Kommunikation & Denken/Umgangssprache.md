@@ -33,6 +33,8 @@ status: "new"
 - umgangssprachlich
 - Umgangssprache und Schriftsprache
 
+**Related:** [[umgangssprachlich]] · [[Schriftsprache]]
+
 **Exam use:** Sprechen, Lesen
 <!-- bank:end -->
 

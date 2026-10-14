@@ -28,7 +28,7 @@ status: "new"
 - dringend Abhilfe schaffen
 - für Abhilfe sorgen
 
-**Related:** [[dringend]]
+**Related:** [[dringend]] · [[Abhilfe]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

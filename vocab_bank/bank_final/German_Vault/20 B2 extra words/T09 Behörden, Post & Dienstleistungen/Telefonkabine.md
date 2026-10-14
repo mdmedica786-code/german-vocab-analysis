@@ -1,0 +1,40 @@
+---
+title: "Telefonkabine"
+type: "word"
+aliases: ["die Telefonkabine", "Telefonkabinen"]
+lemma: "Telefonkabine"
+meaning: "telephone box; phone booth"
+pos: "noun"
+article: "die"
+plural: "Telefonkabinen"
+level: "B2"
+topic: "[[T09 Behörden, Post & Dienstleistungen]]"
+register: "neutral"
+bank: "b2"
+id: "D4479"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Telefonkabine
+
+**Meaning:** telephone box; phone booth
+**Plural:** Telefonkabinen
+**Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die alte Telefonkabine am Bahnhof wird kaum noch genutzt.
+> *The old phone box at the station is hardly used any more.*
+
+**Collocations**
+- in der Telefonkabine
+- eine Telefonkabine benutzen
+- eine rote Telefonkabine
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

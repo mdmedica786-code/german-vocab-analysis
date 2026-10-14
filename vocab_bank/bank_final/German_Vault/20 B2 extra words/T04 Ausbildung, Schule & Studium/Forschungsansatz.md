@@ -1,0 +1,40 @@
+---
+title: "Forschungsansatz"
+type: "word"
+aliases: ["der Forschungsansatz", "Forschungsansätze"]
+lemma: "Forschungsansatz"
+meaning: "research approach"
+pos: "noun"
+article: "der"
+plural: "Forschungsansätze"
+level: "B2"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "b2"
+id: "D3956"
+exam_use: ["Wissenschaft", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# der Forschungsansatz
+
+**Meaning:** research approach
+**Plural:** Forschungsansätze
+**Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Forschungsansatz der Studie ist neu.
+> *The research approach of the study is new.*
+
+**Collocations**
+- ein neuer Forschungsansatz
+- ein innovativer Forschungsansatz
+- den Forschungsansatz erklären
+
+**Exam use:** Wissenschaft, Schreiben
+<!-- bank:end -->
+
+## My notes
+

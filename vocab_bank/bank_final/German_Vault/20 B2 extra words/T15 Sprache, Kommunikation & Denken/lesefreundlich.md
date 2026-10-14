@@ -1,0 +1,38 @@
+---
+title: "lesefreundlich"
+type: "word"
+lemma: "lesefreundlich"
+meaning: "easy to read; reader-friendly"
+pos: "adjective"
+level: "B2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "b2"
+id: "D4188"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# lesefreundlich
+
+**Meaning:** easy to read; reader-friendly
+**Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Text ist in großer Schrift besonders lesefreundlich.
+> *The text is particularly easy to read in large print.*
+
+**Collocations**
+- lesefreundlich gestaltet
+- ein lesefreundlicher Text
+- lesefreundlich schreiben
+
+**Related:** [[Text]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,42 @@
+---
+title: "Denker"
+type: "word"
+aliases: ["der Denker"]
+lemma: "Denker"
+meaning: "thinker"
+pos: "noun"
+article: "der"
+plural: "Denker"
+level: "B2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "b2"
+id: "D3860"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# der Denker
+
+**Meaning:** thinker
+**Plural:** Denker
+**Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Kant gilt als einer der größten Denker Europas.
+> *Kant is regarded as one of the greatest thinkers of Europe.*
+
+**Collocations**
+- ein großer Denker
+- ein kritischer Denker
+- die Denker der Aufklärung
+
+**Related:** [[Aufklärung]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

@@ -29,7 +29,7 @@ status: "new"
 - Eingang in die Alltagssprache finden
 - Eingang in etwas finden
 
-**Related:** [[Eingang]]
+**Related:** [[Eingang]] · [[Alltagssprache]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

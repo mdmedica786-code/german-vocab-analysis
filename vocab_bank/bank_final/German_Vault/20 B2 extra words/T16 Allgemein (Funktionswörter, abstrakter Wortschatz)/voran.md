@@ -29,7 +29,7 @@ status: "new"
 - nur langsam voran
 - Schritt für Schritt voran
 
-**Related:** [[langsam]] · [[Schritt]]
+**Related:** [[vorangehen]] · [[langsam]] · [[Schritt]]
 
 **Exam use:** Lesen, Alltag
 <!-- bank:end -->

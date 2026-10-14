@@ -29,7 +29,7 @@ status: "new"
 - die zulässige Höchstgeschwindigkeit
 - rechtlich zulässig
 
-**Related:** [[rechtlich]]
+**Related:** [[Höchstgeschwindigkeit]] · [[rechtlich]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

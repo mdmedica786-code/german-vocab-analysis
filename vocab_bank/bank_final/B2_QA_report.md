@@ -3,7 +3,7 @@
 Files: `b2_vocabulary_bank.csv` (UTF-8 with BOM) and `German_B2_Bank.xlsx`.
 
 ## Content
-- 3,683 rows, all level B2, topics T01-T16 (no medical topics). The first 2,379 were chosen by frequency and topic; the other 1,304 were added from the source list `beyond_goethe_B2.csv` (every useful lemma in it that was not yet in a bank; skipped items are in `work/b2_source_skipped.txt`: medical, archaic, vulgar, participle forms and very rare words).
+- 4,684 rows (3,683 after the beyond_goethe step, then 1,001 more from the Klett Kontext B2 glossary, see COVERAGE_REPORT.md), all level B2, topics T01-T16 (no medical topics). The first 2,379 were chosen by frequency and topic; the other 1,304 were added from the source list `beyond_goethe_B2.csv` (every useful lemma in it that was not yet in a bank; skipped items are in `work/b2_source_skipped.txt`: medical, archaic, vulgar, participle forms and very rare words).
 - Words: 1,221 nouns, 421 verbs, 337 adjectives, 323 phrases (Nomen-Verb-Verbindungen, idioms, fixed expressions), 65 adverbs, 7 prepositions, 5 conjunctions.
 - Every row has an English meaning, a German example with an English translation, 2-3 collocations and exam-use tags.
 - Only words that are NOT in the main `vocabulary_bank.csv` were added (lemma check is automatic), so the two banks do not overlap.

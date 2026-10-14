@@ -33,7 +33,7 @@ status: "new"
 - eine Pauschalreise stornieren
 - Pauschalreise mit Flug
 
-**Related:** [[Flug]]
+**Related:** [[stornieren]] · [[Flug]]
 
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->

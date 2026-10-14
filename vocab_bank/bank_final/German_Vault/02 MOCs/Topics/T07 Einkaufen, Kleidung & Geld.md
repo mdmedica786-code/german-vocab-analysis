@@ -6,7 +6,7 @@ tags: ["moc", "topic/T07"]
 <!-- bank:start -->
 # T07 Einkaufen, Kleidung & Geld
 
-Map of content. 360 words in the main bank, 142 in the B2 bank.
+Map of content. 360 words in the main bank, 175 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -389,16 +389,18 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (142)
+### B2 (175)
 
 - [[Abbuchung]] — debit; withdrawal from an account
 - [[abgenutzt]] — worn; worn out
 - [[Abrechnung]] — bill; statement; settlement
 - [[Abschlag]] — discount; advance payment
 - [[Absicherung]] — safeguarding; security
+- [[Abwärtstrend]] — downward trend
 - [[Abzug]] — deduction; withdrawal
 - [[abzüglich]] — minus; less
 - [[Altersvorsorge]] — retirement provision
+- [[anheben]] — to raise; to lift; to increase
 - [[anlegen]] — to invest; to create; to put on
 - [[Anleger]] — investor
 - [[Anprobe]] — fitting; trying on
@@ -409,21 +411,30 @@ Back to [[00 Home]]
 - [[auskommen]] — to get by; to get along
 - [[Ausverkauf]] — clearance sale
 - [[Auszahlung]] — payout; disbursement
+- [[Autohändler]] — car dealer (male)
+- [[Autohändlerin]] — car dealer (female)
+- [[Bankdaten]] — bank details
+- [[bargeldlos]] — cashless
 - [[begleichen]] — to settle (a bill); to pay
+- [[Bekleidung]] — clothing; clothes
 - [[belaufen]] — to amount to
 - [[beschaffen]] — to obtain; to procure
 - [[Beschaffung]] — procurement; obtaining
+- [[Besorgung]] — errand; purchase
 - [[Bestand]] — stock; inventory; existence
 - [[Besteuerung]] — taxation
 - [[binden]] — to tie; to bind
 - [[Bonität]] — creditworthiness
 - [[Börse]] — stock exchange; market
+- [[börsennotiert]] — listed on the stock exchange
 - [[bürgen]] — to vouch; to guarantee
+- [[dahaben]] — to have in stock; to have at home
 - [[Darlehen]] — loan
 - [[Daunenjacke]] — down jacket
 - [[die Kosten tragen]] — to bear the costs
 - [[Dispokredit]] — overdraft facility
 - [[Eigenkapital]] — equity; own capital
+- [[einbehalten]] — to withhold; to retain (money)
 - [[Einkünfte]] — income; earnings
 - [[Einlage]] — deposit; contribution; insert
 - [[einlösen]] — to cash (in); to redeem; to keep (a promise)
@@ -444,7 +455,9 @@ Back to [[00 Home]]
 - [[Gegenleistung]] — something in return; consideration
 - [[Geldanlage]] — investment
 - [[gemustert]] — patterned
+- [[Gesamtschaden]] — total damage
 - [[gestreift]] — striped
+- [[Gewinnsteigerung]] — increase in profits
 - [[Gewährleistung]] — warranty; guarantee
 - [[Guthaben]] — credit balance; credit
 - [[Halskette]] — necklace
@@ -452,12 +465,14 @@ Back to [[00 Home]]
 - [[handlich]] — handy; easy to handle
 - [[Handyvertrag]] — mobile phone contract
 - [[Haushaltsplan]] — budget plan
+- [[hochwertig]] — high-quality; premium
 - [[Honorar]] — fee (for freelance work)
 - [[Hosentasche]] — trouser pocket
 - [[Hypothek]] — mortgage
 - [[in Rechnung stellen]] — to charge; to bill
 - [[Inflation]] — inflation
 - [[investieren]] — to invest
+- [[Investorin]] — investor (female)
 - [[Kalkulation]] — calculation; costing
 - [[kariert]] — checked; squared
 - [[Kassenbon]] — till receipt
@@ -466,13 +481,16 @@ Back to [[00 Home]]
 - [[Kleiderbügel]] — clothes hanger
 - [[Konfektionsgröße]] — clothing size
 - [[Konjunktur]] — economic situation; boom
+- [[Konsumausgaben]] — consumer spending
 - [[Konsumverhalten]] — consumer behaviour
+- [[kostbar]] — precious; valuable
 - [[Kostenvoranschlag]] — cost estimate
 - [[kostspielig]] — expensive; costly
 - [[Kragen]] — collar
 - [[kratzig]] — scratchy
 - [[Kulanz]] — goodwill (accommodating treatment)
 - [[Kundenkarte]] — loyalty card; customer card
+- [[Kundschaft]] — customers; clientele
 - [[kürzen]] — to shorten; to cut
 - [[Lastschrift]] — direct debit
 - [[Lebensmittelgeschäft]] — grocery shop
@@ -480,13 +498,20 @@ Back to [[00 Home]]
 - [[Lieferant]] — supplier
 - [[Lieferfrist]] — delivery period
 - [[luftig]] — airy; light
+- [[Markenzeichen]] — trademark; hallmark
 - [[Mehrwert]] — added value; benefit
+- [[Mode-Designerin]] — fashion designer (female)
 - [[Nachzahlung]] — additional payment; back payment
 - [[Nagellack]] — nail varnish
+- [[Nationalfonds]] — national fund
+- [[Nutzungsdauer]] — period of use; useful life
 - [[Ohrring]] — earring
 - [[Optiker]] — optician
 - [[Pauschale]] — flat rate; lump sum
+- [[Pelzmantel]] — fur coat
 - [[Pfandsystem]] — deposit system
+- [[Portmonee]] — wallet; purse (variant of Portemonnaie)
+- [[Preisrabatt]] — price discount
 - [[Preisvergleich]] — price comparison
 - [[Prepaidkarte]] — prepaid card
 - [[Rechnungsbetrag]] — invoice amount
@@ -498,6 +523,7 @@ Back to [[00 Home]]
 - [[Rückgabe]] — return; handing back
 - [[Rücklage]] — reserve; savings put aside
 - [[Rückzahlung]] — repayment; refund
+- [[Sachschaden]] — property damage; material damage
 - [[samtig]] — velvety
 - [[Saum]] — hem
 - [[Schuldner]] — debtor
@@ -512,6 +538,7 @@ Back to [[00 Home]]
 - [[Steuerlast]] — tax burden
 - [[stopfen]] — to stuff; to darn; to plug
 - [[stoßfest]] — shockproof
+- [[Strähnchen]] — highlights; small strand of hair
 - [[Subvention]] — subsidy
 - [[Teuerung]] — rise in prices
 - [[Transaktion]] — transaction
@@ -522,16 +549,22 @@ Back to [[00 Home]]
 - [[Verbindlichkeit]] — liability; obligation
 - [[Verbraucherschutz]] — consumer protection
 - [[Verbraucherzentrale]] — consumer advice centre
+- [[Verkaufszahlen]] — sales figures
 - [[Vermögen]] — fortune; assets
+- [[Versanddienst]] — shipping service; courier service
 - [[verschwenderisch]] — lavish; wasteful
+- [[Verwendungszweck]] — intended use; payment reference
+- [[Warenverkehr]] — movement of goods; trade in goods
 - [[wasserdicht]] — waterproof
 - [[Wechselkurs]] — exchange rate
+- [[Werbematerial]] — promotional material; advertising material
 - [[Windjacke]] — windcheater; light jacket
 - [[Zahlungsfrist]] — payment deadline
 - [[zerbrechlich]] — fragile
 - [[zerknittert]] — crumpled; creased
 - [[zur Auswahl stehen]] — to be available to choose from
 - [[Zuschuss]] — grant; subsidy; contribution
+- [[zuzahlen]] — to pay extra; to make an additional payment
 - [[Ärmel]] — sleeve
 <!-- bank:end -->
 

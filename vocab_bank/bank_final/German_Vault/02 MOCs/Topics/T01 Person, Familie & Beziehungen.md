@@ -6,7 +6,7 @@ tags: ["moc", "topic/T01"]
 <!-- bank:start -->
 # T01 Person, Familie & Beziehungen
 
-Map of content. 234 words in the main bank, 51 in the B2 bank.
+Map of content. 234 words in the main bank, 65 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -263,7 +263,7 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (51)
+### B2 (65)
 
 - [[abgemagert]] — emaciated; very thin
 - [[Abschied nehmen]] — to say goodbye
@@ -276,11 +276,15 @@ Back to [[00 Home]]
 - [[Bekanntschaft]] — acquaintance; getting to know someone
 - [[bleich]] — pale; pallid
 - [[buschig]] — bushy
+- [[einleben]] — to settle in; to get used to a new place
+- [[Familienmitglied]] — family member
 - [[Familienplanung]] — family planning
 - [[familiär]] — family-related; familial; familiar
 - [[Freundeskreis]] — circle of friends
 - [[Gastfreundschaft]] — hospitality
 - [[gebräunt]] — tanned
+- [[Geburtsstadt]] — city of birth; home town
+- [[Geburtstagsfeier]] — birthday party
 - [[gedrungen]] — stocky; squat
 - [[Generationenkonflikt]] — generation gap; conflict between generations
 - [[Gesellschaft leisten]] — to keep company
@@ -288,14 +292,23 @@ Back to [[00 Home]]
 - [[Hochzeitsfeier]] — wedding celebration
 - [[in Streit geraten]] — to get into an argument
 - [[kahl]] — bald; bare
+- [[Kennenlernparty]] — get-to-know-you party; icebreaker party
+- [[Kinderwunsch]] — desire to have children
+- [[knüpfen]] — to tie; to knot; to make (contacts)
 - [[Krippenplatz]] — nursery place
 - [[Kumpel]] — mate; buddy (colloquial)
 - [[Lebensabend]] — old age; twilight years
 - [[Lebensgefährte]] — life partner
 - [[mollig]] — plump; chubby
 - [[Nachbarschaftshilfe]] — neighbourly help
+- [[Neuankömmling]] — newcomer; new arrival
+- [[Neuling]] — newcomer; beginner; novice
+- [[Partnersuche]] — search for a partner
+- [[Partygeplauder]] — party chat; small talk at a party
 - [[Patchworkfamilie]] — blended family
 - [[Pflegekind]] — foster child
+- [[plaudern]] — to chat; to have a chat
+- [[quatschen]] — to chat; to chatter (colloquial)
 - [[quengeln]] — to whine; to grizzle
 - [[rundlich]] — roundish; plump
 - [[scheiden]] — to part; to depart; to divorce (sich scheiden lassen)
@@ -307,6 +320,7 @@ Back to [[00 Home]]
 - [[untersetzt]] — thickset; stocky
 - [[Verwandtschaft]] — relatives; kinship
 - [[Vetter]] — (male) cousin
+- [[weiterschlafen]] — to go on sleeping; to sleep on
 - [[wellig]] — wavy
 - [[wickeln]] — to wrap; to change a nappy
 - [[zappeln]] — to fidget; to wriggle

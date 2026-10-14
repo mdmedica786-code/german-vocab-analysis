@@ -35,6 +35,8 @@ status: "new"
 - eine Störung melden
 - psychische Störung
 
+**Related:** [[beheben]]
+
 **Source:** Goethe word list B1
 <!-- bank:end -->
 

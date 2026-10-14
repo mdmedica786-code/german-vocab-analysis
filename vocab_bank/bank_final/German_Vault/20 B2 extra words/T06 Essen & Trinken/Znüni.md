@@ -1,0 +1,41 @@
+---
+title: "Znüni"
+type: "word"
+aliases: ["das Znüni"]
+lemma: "Znüni"
+meaning: "mid-morning snack (Swiss)"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "b2"
+id: "D4684"
+exam_use: ["Alltag", "Sprechen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+---
+<!-- bank:start -->
+# das Znüni
+
+**Meaning:** mid-morning snack (Swiss)
+**Plural:** –
+**Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+**Note:** schweizerisch (CH)
+
+> [!example] Beispiel
+> In der Pause esse ich mein Znüni.
+> *During the break I eat my mid-morning snack.*
+
+**Collocations**
+- das Znüni essen
+- ein Znüni mitnehmen
+- zum Znüni
+
+**Exam use:** Alltag, Sprechen
+<!-- bank:end -->
+
+## My notes
+

@@ -35,7 +35,7 @@ status: "new"
 - allergisch reagieren
 - gelassen reagieren
 
-**Related:** [[schnell]] · [[gelassen]]
+**Related:** [[schnell]] · [[allergisch]] · [[gelassen]]
 
 **Source:** Netzwerk neu A1 K1 8e (Guten Tag!) · Goethe word list B1
 <!-- bank:end -->

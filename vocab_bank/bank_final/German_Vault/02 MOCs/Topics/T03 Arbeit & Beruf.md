@@ -6,7 +6,7 @@ tags: ["moc", "topic/T03"]
 <!-- bank:start -->
 # T03 Arbeit & Beruf
 
-Map of content. 424 words in the main bank, 165 in the B2 bank.
+Map of content. 424 words in the main bank, 302 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -453,36 +453,60 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (165)
+### B2 (302)
 
 - [[Abfindung]] — severance pay; compensation
 - [[Abmahnung]] — formal warning
 - [[Abteilungsleiter]] — head of department
+- [[Abteilungsleiterin]] — head of department (female)
 - [[Agentur]] — agency
 - [[Anforderungen stellen]] — to set requirements
 - [[angestellt]] — employed
+- [[anleiten]] — to instruct; to guide; to train
 - [[Anschreiben]] — cover letter
 - [[ansiedeln]] — to settle; to attract (businesses)
 - [[anweisen]] — to instruct; to transfer (money)
+- [[Arbeitgeberverband]] — employers' association
+- [[Arbeitsausfall]] — loss of work; absence from work
+- [[Arbeitsbelastung]] — workload; work stress
+- [[Arbeitsbereich]] — area of work; work area
+- [[Arbeitsfeld]] — field of work
+- [[Arbeitsform]] — form of work; working method
 - [[Arbeitskampf]] — industrial action
+- [[Arbeitslage]] — employment situation; work situation
 - [[Arbeitslosenquote]] — unemployment rate
+- [[Arbeitsorganisation]] — work organisation
+- [[Arbeitsprozess]] — work process; workflow
 - [[Arbeitsrecht]] — employment law
+- [[Arbeitsrhythmus]] — work rhythm
 - [[Arbeitsschutz]] — occupational safety
 - [[Arbeitssicherheit]] — safety at work
+- [[Arbeitsumfeld]] — work environment
 - [[Arbeitsunfähigkeitsbescheinigung]] — sick note; certificate of incapacity for work
 - [[Arbeitsvertrag]] — employment contract
+- [[Arbeitsweg]] — way to work; commute
 - [[Arbeitszeugnis]] — employment reference
+- [[Arbeitszufriedenheit]] — job satisfaction
 - [[auf der Tagesordnung stehen]] — to be on the agenda
 - [[Aufgabenbereich]] — area of responsibility
+- [[Aufgabengebiet]] — area of responsibility; field of duties
 - [[Aufhebungsvertrag]] — termination agreement
 - [[Aufsichtsrat]] — supervisory board
 - [[aufsteigen]] — to rise; to be promoted
+- [[Aufstiegsmöglichkeit]] — opportunity for advancement; promotion prospect
 - [[Auftraggeber]] — client; commissioning party
+- [[Auftragsbearbeitung]] — order processing
 - [[ausarbeiten]] — to work out; to draw up
+- [[Auslandserfahrung]] — experience abroad
+- [[ausschreiben]] — to write out; to advertise (a job); to announce
 - [[ausüben]] — to practise (a profession); to exercise
 - [[Ausübung]] — practice; exercise
+- [[Autokonzern]] — car company; car corporation
 - [[Automatisierung]] — automation
+- [[Autoproduktion]] — car production
 - [[Außendienst]] — field service; sales force (outside the office)
+- [[Bauingenieur]] — civil engineer (male)
+- [[Bauingenieurin]] — civil engineer (female)
 - [[befristen]] — to limit in time; to give a fixed term
 - [[Befristung]] — time limit; fixed term
 - [[befördern]] — to transport; to promote
@@ -490,50 +514,93 @@ Back to [[00 Home]]
 - [[belastbar]] — resilient; able to cope with pressure
 - [[Belegschaft]] — workforce; staff
 - [[Berater]] — adviser; consultant
+- [[Beratungskompetenz]] — advisory competence; counselling skills
 - [[Bergwerk]] — mine
+- [[Berufsanfänger]] — career starter (male); newcomer to a profession
+- [[Berufsanfängerin]] — career starter (female)
+- [[Berufsbezeichnung]] — job title; professional title
+- [[Berufseinstieg]] — start of one's career; entry into working life
+- [[Berufsperspektive]] — career prospect
+- [[Beschäftigungsmöglichkeit]] — employment opportunity
+- [[Besprechungsraum]] — meeting room
+- [[Betreiberin]] — operator (female); owner (of a business)
 - [[betrieblich]] — company; operational
 - [[Betriebsausflug]] — company outing
 - [[Betriebsklima]] — working atmosphere
 - [[Bewerbungsgespräch]] — job interview
 - [[Bewerbungsmappe]] — application folder
 - [[Bildungsurlaub]] — educational leave
+- [[Biotechnologie-Unternehmen]] — biotechnology company
 - [[Boss]] — boss (colloquial)
 - [[Buchhalter]] — bookkeeper; accountant
 - [[Businessplan]] — business plan
 - [[Büroklammer]] — paper clip
+- [[Büroraum]] — office space; office room
+- [[Bürotag]] — day in the office
+- [[Bürozeit]] — office hours
+- [[Chefetage]] — executive floor; top management
+- [[Coachin]] — coach (female)
+- [[Coaching]] — coaching
+- [[Coachingkompetenz]] — coaching skills
 - [[Controlling]] — controlling (business)
 - [[Dienstleister]] — service provider
 - [[Dienstreise]] — business trip
+- [[Druckerei]] — print shop; printing company
+- [[EDV-Kenntnis]] — IT skills; computer skills
 - [[Effizienz]] — efficiency
 - [[Eigeninitiative]] — own initiative; self-motivation
+- [[eigenverantwortlich]] — on one's own responsibility; self-reliant
 - [[Eignung]] — suitability; aptitude
 - [[einarbeiten]] — to familiarise oneself; to train (on the job)
 - [[einen Auftrag erteilen]] — to place an order; to commission
+- [[Eintrittstermin]] — start date (at a company); date of joining
 - [[entwerfen]] — to design; to draft
+- [[Entwicklungsmöglichkeit]] — opportunity for development; prospects
+- [[Erfolgskonzept]] — recipe for success; successful concept
+- [[Erwerbstätige]] — employed person; gainfully employed person
 - [[etablieren]] — to establish
+- [[Eventmanager]] — event manager (male)
+- [[Eventmanagerin]] — event manager (female)
 - [[Existenzgründer]] — start-up founder; business founder
 - [[Expansion]] — expansion
 - [[Facharbeiter]] — skilled worker
 - [[Fachkraft]] — skilled worker; specialist
 - [[Fachkräftemangel]] — shortage of skilled workers
 - [[fachlich]] — professional; technical
+- [[Feedbacksystem]] — feedback system
 - [[Fertigkeit]] — skill; proficiency
+- [[fertigstellen]] — to finish; to complete
 - [[Fertigung]] — production; manufacturing
 - [[Feuerwehrmann]] — firefighter
+- [[Firmenauftritt]] — corporate appearance; company's public image
+- [[Firmenbindung]] — loyalty to the company
 - [[Firmengründung]] — founding of a company
+- [[firmenintern]] — in-house; within the company
+- [[Firmenwebseite]] — company website
 - [[Flexibilität]] — flexibility
 - [[Fließband]] — assembly line; conveyor belt
 - [[Freiberufler]] — freelancer; self-employed professional
+- [[Freizeitausgleich]] — time off in lieu; compensatory time off
+- [[Fremdsprachensekretär]] — foreign-language secretary (male)
+- [[Fremdsprachensekretärin]] — foreign-language secretary (female)
+- [[Fräser]] — milling cutter; milling machine operator
+- [[Fräsmotor]] — milling motor
+- [[Frässpindel]] — milling spindle
 - [[Fusion]] — merger
+- [[Führungsstil]] — leadership style; management style
 - [[Gehaltsabrechnung]] — salary statement
 - [[Gehaltserhöhung]] — pay rise (salary)
 - [[Gehaltsverhandlung]] — salary negotiation
 - [[Geschick]] — skill; dexterity
 - [[Geschäftsführer]] — managing director
+- [[Geschäftsmodell]] — business model
+- [[Geschäftszweig]] — branch of business; line of business
 - [[Gesellschafter]] — shareholder; partner
 - [[Gewerbe]] — trade; business; commerce
 - [[Gewinnspanne]] — profit margin
 - [[Gleitzeit]] — flexible working hours
+- [[Großkunde]] — major customer; key client (male)
+- [[Großkundin]] — major customer; key client (female)
 - [[Großraumbüro]] — open-plan office
 - [[Gründung]] — founding; foundation
 - [[Heftklammer]] — staple
@@ -544,31 +611,55 @@ Back to [[00 Home]]
 - [[industriell]] — industrial
 - [[Inhaber]] — owner; holder
 - [[Innendienst]] — office-based service
+- [[innovativ]] — innovative
 - [[Insolvenz]] — insolvency; bankruptcy
 - [[Inventur]] — stocktaking
+- [[Jobangebot]] — job offer
+- [[Jobantritt]] — starting a job; start of a job
+- [[Jobmesse]] — job fair
+- [[Jobportal]] — job portal; job website
 - [[Kaffeepause]] — coffee break
 - [[Kapazität]] — capacity; expert
+- [[Karrierechance]] — career opportunity
 - [[Klempner]] — plumber
+- [[Knowhow]] — know-how; expertise
 - [[Kollegium]] — staff; body of colleagues
+- [[Kommunikationskompetenz]] — communication skills; communicative competence
+- [[Kommunikationsstärke]] — communication skills; strength in communicating
 - [[Konkurrent]] — competitor; rival
 - [[Konzern]] — corporation; group
 - [[kooperieren]] — to cooperate
+- [[Koordinator]] — coordinator (male)
+- [[Koordinatorin]] — coordinator (female)
+- [[krankmelden]] — to report sick; to call in sick
 - [[Krankmeldung]] — notification of sick leave
 - [[Kundenstamm]] — customer base
+- [[Kundenverhalten]] — customer behaviour
 - [[Kündigungsfrist]] — notice period
 - [[Kündigungsschutz]] — protection against dismissal
 - [[Laie]] — layperson; amateur
 - [[Landwirt]] — farmer
 - [[Laufbahn]] — career; career path
+- [[Launchen]] — launching; launch process
 - [[Leistungsfähigkeit]] — performance; capacity
+- [[Leistungsspektrum]] — range of services
 - [[Locher]] — hole punch
 - [[Logistik]] — logistics
 - [[Lohnabrechnung]] — pay slip; wage statement
 - [[Lohnerhöhung]] — pay rise (wages)
 - [[Marketing]] — marketing
+- [[Marketingaktion]] — marketing campaign; promotion
 - [[Maurer]] — bricklayer
+- [[Mentoringprogramm]] — mentoring programme
+- [[Messebau]] — trade fair construction; exhibition stand building
+- [[Messebeginn]] — start of the fair
+- [[Metallverarbeitung]] — metalworking; metal processing
 - [[Mindestlohn]] — minimum wage
 - [[Minijob]] — mini job (low-paid part-time job)
+- [[Mitarbeitermotivation]] — employee motivation
+- [[Mitbestimmung]] — co-determination; having a say
+- [[mitdenken]] — to think along; to follow the thought process
+- [[mitentwickeln]] — to co-develop; to help develop
 - [[Mittelstand]] — medium-sized businesses; middle class
 - [[Mitwirkung]] — participation; cooperation
 - [[Monteur]] — fitter; installation technician
@@ -576,48 +667,94 @@ Back to [[00 Home]]
 - [[Nachschub]] — fresh supplies; reinforcements
 - [[Nebenjob]] — side job; part-time job
 - [[Niederlassung]] — branch; subsidiary office
+- [[optimieren]] — to optimise
+- [[Personaler]] — HR manager (male); personnel officer
+- [[Personalerin]] — HR manager (female); personnel officer
+- [[personell]] — relating to staff; personnel (adj.)
+- [[Pharmakonzern]] — pharmaceutical company
 - [[Praktik]] — practice; method
 - [[Probezeit]] — probation period
+- [[Produktionsbranche]] — manufacturing industry
 - [[Produktivität]] — productivity
+- [[Projektleiter]] — project manager (male)
+- [[Projektleiterin]] — project manager (female)
+- [[Projektleitung]] — project management; project leadership
+- [[Projektmanagement]] — project management
 - [[Prototyp]] — prototype
 - [[Quereinsteiger]] — career changer; lateral entrant
 - [[Redaktion]] — editorial office; editorial staff
 - [[Referenz]] — reference; testimonial
 - [[Reinigungskraft]] — cleaner
 - [[Rentenalter]] — retirement age
+- [[Routinearbeit]] — routine work; routine task
+- [[routiniert]] — experienced; practised; skilful
+- [[Ruhezeit]] — rest period; quiet hours
 - [[Sanierung]] — renovation; restructuring
+- [[Schauspielberuf]] — acting profession
 - [[Schichtarbeit]] — shift work
 - [[Schlüsselqualifikation]] — key skill; transferable skill
 - [[Schornsteinfeger]] — chimney sweep
 - [[schuften]] — to slave away; to toil
 - [[Sektor]] — sector
 - [[selbständig]] — independent; self-employed
+- [[Sicherheitsbeauftragte]] — safety officer
 - [[Sitzung]] — meeting; session
+- [[Social-Media-Manager]] — social media manager (male)
+- [[Social-Media-Managerin]] — social media manager (female)
+- [[Social-Media-Marketing]] — social media marketing
+- [[Sozialpädagoge]] — social education worker (male); social pedagogue
+- [[Sozialpädagogin]] — social education worker (female); social pedagogue
 - [[spezialisieren]] — to specialise
+- [[Stammsitz]] — headquarters; registered office; ancestral seat
+- [[Startup]] — start-up (company)
+- [[Startup-Unternehmen]] — start-up company
 - [[Stellvertreter]] — deputy; substitute
 - [[Tagung]] — conference; meeting; session
 - [[Tarifverhandlung]] — collective bargaining (talks)
 - [[Tarifvertrag]] — collective agreement
 - [[Teamarbeit]] — teamwork
+- [[Teambüro]] — team office
 - [[Tischler]] — carpenter; joiner
+- [[Tätigkeitsfeld]] — field of activity; area of work
 - [[Umsatzrückgang]] — decline in sales
+- [[unbefristet]] — permanent; for an unlimited period
+- [[unproduktiv]] — unproductive
 - [[Unternehmensführung]] — corporate management
+- [[Unternehmenszentrale]] — company headquarters
 - [[Unternehmung]] — undertaking; outing
 - [[Urlaubsanspruch]] — holiday entitlement
+- [[Urlaubsantrag]] — leave request; holiday application
+- [[Urlaubstag]] — day of leave; holiday day
+- [[Verdienstmöglichkeit]] — earning opportunity; way of earning money
 - [[Vergütung]] — remuneration; compensation
 - [[verhandeln]] — to negotiate; to hear (a case)
+- [[verhandlungssicher]] — fluent enough for negotiations; skilled in negotiating
+- [[Verhandlungsziel]] — negotiation goal
+- [[Verkaufsleiter]] — sales manager (male)
+- [[Verkaufsleiterin]] — sales manager (female)
 - [[Verschwiegenheit]] — discretion; confidentiality
 - [[Versetzung]] — transfer; promotion to next class
 - [[Versicherungsvertreter]] — insurance agent
+- [[Versicherungsvertreterin]] — insurance agent (female)
+- [[Verwaltungschef]] — head of administration (male)
+- [[Verwaltungschefin]] — head of administration (female)
 - [[Vorgesetzter]] — superior; boss
 - [[Vorgänger]] — predecessor
 - [[Vorsitzende]] — chairperson; chair
+- [[Vorstandsvorsitzende]] — chair of the board; CEO
 - [[Wartung]] — maintenance; servicing
+- [[wechselbereit]] — ready to switch; willing to change
+- [[Wechselwillige]] — person willing to switch (provider, job)
 - [[Werdegang]] — career; development (path)
+- [[Werkstudentenvertrag]] — working-student contract
 - [[Zeitarbeit]] — temporary agency work
+- [[Zeiterfassungssystem]] — time-recording system; time clock
 - [[Zeitmanagement]] — time management
+- [[Zukunftschance]] — future opportunity; prospects
+- [[Zukunftsperspektive]] — future prospect; outlook for the future
 - [[Zweig]] — branch; sector
 - [[Zweigstelle]] — branch office
+- [[überlastet]] — overloaded; overburdened
 - [[Übernahme]] — takeover; acceptance
 - [[Überstunden]] — overtime
 <!-- bank:end -->

@@ -6,7 +6,7 @@ tags: ["moc", "topic/T06"]
 <!-- bank:start -->
 # T06 Essen & Trinken
 
-Map of content. 288 words in the main bank, 96 in the B2 bank.
+Map of content. 288 words in the main bank, 120 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -314,8 +314,9 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (96)
+### B2 (120)
 
+- [[alkoholfrei]] — alcohol-free; non-alcoholic
 - [[Alufolie]] — aluminium foil
 - [[appetitlich]] — appetising
 - [[Auflauf]] — casserole; bake
@@ -323,6 +324,7 @@ Back to [[00 Home]]
 - [[Aufschnitt]] — sliced cold meats and cheese
 - [[Backblech]] — baking tray
 - [[Backpapier]] — baking paper
+- [[Backpulver]] — baking powder
 - [[Beilage]] — side dish; supplement (newspaper)
 - [[bekömmlich]] — easily digestible; wholesome
 - [[Bio-Siegel]] — organic label
@@ -335,18 +337,24 @@ Back to [[00 Home]]
 - [[deftig]] — hearty; substantial
 - [[Dosenöffner]] — tin opener
 - [[duften]] — to smell good; to be fragrant
+- [[Eierkuchen]] — pancake (esp. in eastern/northern Germany)
 - [[Eintopf]] — stew; one-pot meal
 - [[Erdbeere]] — strawberry
 - [[erfrischen]] — to refresh
+- [[erntefrisch]] — freshly harvested
 - [[fade]] — bland; insipid
 - [[Feinkost]] — delicatessen; gourmet food
 - [[Fertiggericht]] — ready meal
 - [[fettig]] — greasy; oily
 - [[Flaschenöffner]] — bottle opener
 - [[Fleischer]] — butcher
+- [[fleischlos]] — meatless; vegetarian
+- [[Fleischverbrauch]] — meat consumption
+- [[Foodtruck]] — food truck
 - [[Forelle]] — trout
 - [[Frischhaltefolie]] — cling film
 - [[Gefrierbeutel]] — freezer bag
+- [[Gemüsehandel]] — vegetable trade; greengrocer's business
 - [[Glühwein]] — mulled wine
 - [[Haselnuss]] — hazelnut
 - [[Hausmannskost]] — plain home cooking
@@ -367,43 +375,56 @@ Back to [[00 Home]]
 - [[Konserve]] — tinned food
 - [[Korkenzieher]] — corkscrew
 - [[kross]] — crispy
+- [[Kräutertee]] — herbal tea
 - [[Kuchenform]] — cake tin
 - [[köstlich]] — delicious
 - [[Lachs]] — salmon
 - [[lauwarm]] — lukewarm
 - [[Lebkuchen]] — gingerbread
+- [[Leitungswasser]] — tap water
 - [[Maultasche]] — Swabian stuffed pasta (Maultasche)
 - [[Messbecher]] — measuring jug
 - [[Mindesthaltbarkeitsdatum]] — best-before date
 - [[Mixer]] — blender; mixer
 - [[Nudelholz]] — rolling pin
 - [[Nährstoff]] — nutrient
+- [[Obsthandel]] — fruit trade; fruit business
 - [[pikant]] — spicy; piquant
+- [[Protein]] — protein
 - [[Pürierstab]] — hand blender
 - [[Quitte]] — quince
 - [[Radler]] — shandy (beer and lemonade)
 - [[Reibe]] — grater
+- [[Restaurantbesuch]] — visit to a restaurant
 - [[rühren]] — to stir; to move (emotionally)
+- [[Rührgerät]] — hand mixer; electric whisk
 - [[saftig]] — juicy
 - [[salzen]] — to salt
+- [[Salzstreuer]] — salt shaker
 - [[Sauerkraut]] — sauerkraut; pickled cabbage
 - [[schmackhaft]] — tasty; palatable
 - [[schmieren]] — to spread; to smear; to grease
+- [[Schneebesen]] — whisk
 - [[Schneidebrett]] — chopping board
 - [[Schöpflöffel]] — ladle
 - [[Sieb]] — sieve; strainer
+- [[Smoothie]] — smoothie
+- [[Spinat]] — spinach
 - [[Spätzle]] — Swabian egg noodles
+- [[Stammgast]] — regular (customer); regular guest
 - [[streuen]] — to scatter; to sprinkle
 - [[säuerlich]] — slightly sour
 - [[süßlich]] — sweetish; cloying
 - [[Tagesgericht]] — dish of the day
 - [[Thermoskanne]] — thermos flask
+- [[tiefgekühlt]] — frozen; deep-frozen
 - [[Tiefkühlkost]] — frozen food
 - [[Toaster]] — toaster
 - [[Trinkflasche]] — drinking bottle; water bottle
 - [[umrühren]] — to stir
 - [[ungenießbar]] — inedible; unpalatable
 - [[Untersetzer]] — coaster; mat (under a pot)
+- [[Vanillezucker]] — vanilla sugar
 - [[verschütten]] — to spill
 - [[Vollkornbrot]] — wholemeal bread
 - [[Vorspeise]] — starter; appetiser
@@ -411,6 +432,9 @@ Back to [[00 Home]]
 - [[Walnuss]] — walnut
 - [[Wasserkocher]] — electric kettle
 - [[zartbitter]] — dark (chocolate); bittersweet
+- [[Zartbitterschokolade]] — dark chocolate (plain)
+- [[zerschneiden]] — to cut up; to cut into pieces
+- [[Znüni]] — mid-morning snack (Swiss)
 - [[zäh]] — tough; tenacious
 <!-- bank:end -->
 

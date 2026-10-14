@@ -6,7 +6,7 @@ tags: ["moc", "topic/T05"]
 <!-- bank:start -->
 # T05 Gesundheit & Körper
 
-Map of content. 214 words in the main bank, 17 in the B2 bank.
+Map of content. 214 words in the main bank, 114 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -243,25 +243,122 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (17)
+### B2 (114)
 
+- [[abfühlen]] — to feel (with the hands); to sense
+- [[Allergie]] — allergy
+- [[allergisch]] — allergic
+- [[anfällig]] — susceptible; prone
+- [[ansteckend]] — contagious; infectious
+- [[Anti-Stress-Workshop]] — anti-stress workshop
+- [[Arztbrief]] — doctor's letter; medical report
+- [[Arztgespräch]] — consultation with a doctor
+- [[Asthma]] — asthma
+- [[Atemluft]] — air for breathing; breathing air
+- [[ausatmen]] — to breathe out; to exhale
 - [[Auslöser]] — trigger; cause; shutter release
 - [[Beeinträchtigung]] — impairment; restriction; disruption
+- [[Bestrahlung]] — radiation treatment; irradiation
+- [[beweglich]] — movable; flexible; agile
 - [[Beweglichkeit]] — mobility; flexibility
+- [[biopharmazeutisch]] — biopharmaceutical
 - [[bücken]] — to bend down; to stoop
+- [[Checkup]] — check-up; medical examination
+- [[Chemotherapie]] — chemotherapy
+- [[Corona-Impfstoff]] — coronavirus vaccine
+- [[Corona-Pandemie]] — coronavirus pandemic
+- [[Corona-Virus]] — coronavirus
+- [[dosieren]] — to dose; to measure out
+- [[durchschlafen]] — to sleep through (the night)
+- [[Einschlafhilfe]] — sleep aid; help for falling asleep
+- [[Entspannungstechnik]] — relaxation technique
+- [[erholsam]] — restful; relaxing
 - [[erkranken]] — to fall ill
+- [[ersticken]] — to suffocate; to choke
+- [[Essverhalten]] — eating habits; eating behaviour
+- [[Facharzt]] — specialist doctor (male)
+- [[Facharztpraxis]] — specialist's practice
+- [[Fachärztin]] — specialist doctor (female)
+- [[Gehirnbereich]] — brain area; region of the brain
 - [[genetisch]] — genetic
+- [[geschwollen]] — swollen
+- [[gesundheitlich]] — health-related; regarding health
+- [[Gesundheits-App]] — health app
+- [[Gesundheits-Forum]] — health forum
+- [[Gesundheitsbereich]] — health sector; health field
+- [[Gesundheitsmanagement]] — health management
+- [[Gesundheitsproblem]] — health problem
+- [[Hals-Nasen-Ohrenarzt]] — ear, nose and throat doctor (male)
+- [[Hausarzt]] — family doctor; GP (male)
+- [[Hausärztin]] — family doctor; GP (female)
+- [[heilbar]] — curable; treatable
+- [[Hospital]] — hospital (older/formal word)
+- [[Humanmedizin]] — human medicine
+- [[hundemüde]] — dog-tired; exhausted (colloquial)
+- [[Hörschaden]] — hearing damage
+- [[Immunabwehr]] — immune defence
+- [[Impfstoff]] — vaccine
+- [[Implantat]] — implant
+- [[implantieren]] — to implant
+- [[Karies]] — tooth decay; caries
+- [[Knieproblem]] — knee problem
+- [[Kontrolltermin]] — follow-up appointment; check-up appointment
+- [[Krankentransport]] — patient transport; ambulance transport
+- [[krankhaft]] — pathological; morbid
+- [[Krankheitserreger]] — pathogen; disease-causing agent
 - [[kratzen]] — to scratch
+- [[Krebsforschung]] — cancer research
+- [[Krebsmedikament]] — cancer drug; cancer medication
+- [[Krebspatient]] — cancer patient (male)
+- [[Krebspatientin]] — cancer patient (female)
+- [[Kreislaufproblem]] — circulatory problem
+- [[Kribbeln]] — tingling; pins and needles
 - [[Lebensweise]] — way of life; lifestyle
+- [[Lungenkrankheit]] — lung disease
 - [[Meditation]] — meditation
+- [[Medizintechniker]] — medical technician (male); biomedical engineer
+- [[Medizintechnikerin]] — medical technician (female); biomedical engineer
+- [[Migräne]] — migraine
+- [[Nasenspitze]] — tip of the nose
+- [[Neurophysiologe]] — neurophysiologist (male)
+- [[Neurophysiologin]] — neurophysiologist (female)
+- [[Online-Behandlungsmethode]] — online treatment method
+- [[Pandemie]] — pandemic
+- [[Psychoanalyse]] — psychoanalysis
 - [[rissig]] — cracked; chapped
+- [[Rückenübung]] — back exercise
+- [[Schlafengehen]] — going to bed; bedtime
+- [[Schlafmangel]] — lack of sleep; sleep deprivation
+- [[Schlafphase]] — sleep phase; stage of sleep
+- [[schlapp]] — limp; weak; run-down
 - [[schnarchen]] — to snore
+- [[schonen]] — to spare; to protect; (sich) to take it easy
+- [[Schönheits-OP]] — cosmetic surgery
+- [[Schönheitsschlaf]] — beauty sleep
+- [[Sehbehinderung]] — visual impairment
+- [[Seniorenheim]] — retirement home; care home
+- [[Sonnenbrand]] — sunburn
+- [[Sportverletzung]] — sports injury
 - [[spritzen]] — to spray; to splash; to inject
 - [[spröde]] — brittle; chapped; aloof
+- [[Tagesrhythmus]] — daily rhythm; daily routine
 - [[Taille]] — waist
+- [[Tiefschlaf]] — deep sleep
+- [[Tiefschlafphase]] — deep-sleep phase
+- [[todmüde]] — dead tired; exhausted
+- [[Traumphase]] — dream phase; REM phase
+- [[unausgeschlafen]] — sleep-deprived; not well rested
+- [[Universitätsklinikum]] — university hospital
+- [[Untersuchungsergebnis]] — examination result; test result
 - [[verfroren]] — chilly; sensitive to cold
 - [[vertragen]] — to tolerate; to bear; to get on (sich vertragen)
+- [[verträglich]] — well tolerated; compatible; good-natured
+- [[Wartezimmer]] — waiting room
+- [[Widerstandsfähigkeit]] — resilience; resistance
 - [[Wohlbefinden]] — well-being; comfort
+- [[Zuzahlung]] — additional payment; co-payment
+- [[übermüdet]] — overtired; exhausted
+- [[übertragbar]] — transferable; transmissible; contagious
 <!-- bank:end -->
 
 ## My notes

@@ -33,6 +33,8 @@ status: "new"
 - reiner Eigennutz
 - Eigennutz und Gemeinwohl
 
+**Related:** [[Gemeinwohl]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

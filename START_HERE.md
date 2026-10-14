@@ -17,4 +17,4 @@ Your vocabulary is in the folder **WORD_LISTS**. Open `WORD_LISTS/README.md` fir
 | `vocab_bank/` | the finished banks (`bank_final/`, CSV + Excel + vault folder) and the programs that build everything (`work/`). Only needed to edit or rebuild. |
 | `.claude/skills/` | the Anki skill |
 
-Numbers: main bank 6,524 words (6,068 in the study list) + 3,683 extra B2 words + 1,016 phrases + 1,176 Redemittel.
+Numbers: main bank 6,524 words (6,068 in the study list) + 4,684 extra B2 words + 1,016 phrases + 1,176 Redemittel.

@@ -33,7 +33,7 @@ status: "new"
 - den Kreisverkehr verlassen
 - im Kreisverkehr blinken
 
-**Related:** [[verlassen]]
+**Related:** [[verlassen]] · [[blinken]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

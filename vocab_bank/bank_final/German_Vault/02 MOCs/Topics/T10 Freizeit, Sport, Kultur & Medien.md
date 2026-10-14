@@ -6,7 +6,7 @@ tags: ["moc", "topic/T10"]
 <!-- bank:start -->
 # T10 Freizeit, Sport, Kultur & Medien
 
-Map of content. 734 words in the main bank, 174 in the B2 bank.
+Map of content. 734 words in the main bank, 312 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -763,42 +763,62 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (174)
+### B2 (312)
 
 - [[abdrucken]] — to print; to publish (in print)
+- [[Abendkasse]] — box office (on the evening); tickets at the door
+- [[abenteuerlich]] — adventurous; risky; wild
 - [[abrufbar]] — retrievable; available on demand
 - [[Abspann]] — closing credits
 - [[Abstieg]] — relegation; descent; decline
 - [[Abwechslung]] — variety; change
+- [[adaptieren]] — to adapt; to modify
 - [[aktivieren]] — to activate
 - [[Algorithmus]] — algorithm
 - [[Applaus]] — applause
+- [[architektonisch]] — architectural
 - [[Aufstieg]] — promotion; ascent; rise
 - [[aufzeichnen]] — to record; to note down
 - [[Ausrüstung]] — equipment; gear
 - [[ausscheiden]] — to drop out; to retire; to be eliminated
+- [[Ausstellungsbereich]] — exhibition area
+- [[Ausstellungsfläche]] — exhibition space
 - [[auswechseln]] — to replace; to substitute
 - [[auszeichnen]] — to distinguish; to award
+- [[Automesse]] — car show; motor show
+- [[Avatar]] — avatar
 - [[Beifall]] — applause
 - [[Benutzeroberfläche]] — user interface
+- [[Bergtour-App]] — hiking app (for mountain tours)
 - [[Berichterstattung]] — reporting; coverage
 - [[Besetzung]] — occupation; cast; staffing
 - [[besiegen]] — to defeat; to overcome
+- [[Besucherzahl]] — number of visitors; attendance
 - [[Betrachter]] — viewer; observer
 - [[Betriebssystem]] — operating system
 - [[Bilderkennung]] — image recognition
+- [[Bilderrätsel]] — picture puzzle; rebus
 - [[Biographie]] — biography
 - [[blättern]] — to leaf through; to flick through
 - [[Boulevardpresse]] — tabloid press
 - [[Brauchtum]] — customs; folk traditions
 - [[Browser]] — browser
+- [[Buchhandel]] — book trade; bookselling
+- [[Buchprojekt]] — book project
+- [[Bühnencharakter]] — stage character; stage persona
 - [[Chefredakteur]] — editor-in-chief
+- [[chillig]] — relaxed; chilled-out (colloquial)
+- [[Comedian]] — comedian
+- [[Comedyserie]] — comedy series
+- [[Computerspiel]] — computer game
+- [[Computersprache]] — programming language; computer language
 - [[Cyberangriff]] — cyber attack
 - [[Cybermobbing]] — cyberbullying
 - [[Datenleck]] — data leak
 - [[Datenschutzerklärung]] — privacy policy
 - [[Datensicherung]] — data backup
 - [[Dauerbrenner]] — perennial favourite; long-running topic
+- [[Dauerlauf]] — endurance run; long-distance jog
 - [[Desinformation]] — disinformation
 - [[Dichter]] — poet
 - [[Dichtung]] — poetry; seal
@@ -806,8 +826,11 @@ Back to [[00 Home]]
 - [[Dokumentarfilm]] — documentary
 - [[Dokumentation]] — documentary; documentation
 - [[Drehbuch]] — screenplay; script
+- [[Drehtag]] — shooting day (film)
 - [[Echo]] — echo; response
+- [[einblenden]] — to fade in; to show (on screen); to display
 - [[Einschaltquote]] — viewing figures; ratings
+- [[Einsendung]] — entry; submission; sending in
 - [[Eintrittskarte]] — admission ticket
 - [[Elfmeter]] — penalty kick
 - [[Endgerät]] — end device; terminal device
@@ -815,115 +838,229 @@ Back to [[00 Home]]
 - [[Entwurf]] — draft; design; sketch
 - [[Episode]] — episode
 - [[ergreifend]] — moving; touching
+- [[Erzählerin]] — narrator (female); storyteller
+- [[Exponat]] — exhibit
 - [[Falschmeldung]] — false report; fake news item
+- [[Familienfilm]] — family film
 - [[fesseln]] — to tie up; to captivate
 - [[fesselnd]] — gripping; captivating
 - [[Feuilleton]] — arts section; culture pages
 - [[Fiktion]] — fiction
+- [[Filmemacher]] — filmmaker (male)
+- [[Filmemacherin]] — filmmaker (female)
 - [[filmen]] — to film; to record on video
 - [[Firewall]] — firewall
 - [[Fitnessstudio]] — gym; fitness studio
 - [[Follower]] — follower (social media)
+- [[Freizeitbeschäftigung]] — leisure activity; hobby
+- [[Freizeitpark]] — amusement park; theme park
 - [[Funk]] — radio; radio communication
 - [[Funkloch]] — dead zone (no signal)
+- [[Fußballtraining]] — football training
+- [[gamen]] — to game; to play video games
+- [[Gamer]] — gamer
+- [[Gamerin]] — gamer (female)
+- [[Gamification]] — gamification
+- [[Gamifizierung]] — gamification (turning something into a game)
 - [[Gegendarstellung]] — right of reply; counter-statement
+- [[Gegnerin]] — opponent (female); adversary
 - [[geheimnisvoll]] — mysterious
 - [[gelungen]] — successful; well done
 - [[Gemälde]] — painting
 - [[Gesang]] — singing; song
+- [[Gesellschaftsspiel]] — board game; parlour game
+- [[Gewinnerin]] — winner (female)
+- [[Gewinnerprojekt]] — winning project
+- [[Glasvitrine]] — glass display case
 - [[Glaubwürdigkeit]] — credibility
 - [[Glocke]] — bell
 - [[Grillkohle]] — charcoal (for barbecue)
+- [[Großdruck]] — large print
 - [[Hacker]] — hacker
 - [[Hardware]] — hardware
 - [[Hashtag]] — hashtag
 - [[herausgeben]] — to publish; to hand over; to give change
 - [[Herausgeber]] — publisher; editor
+- [[Highscore]] — high score
 - [[Hotspot]] — Wi-Fi hotspot
+- [[Hörbuch]] — audiobook
+- [[Hörbuch-Award]] — audiobook award
+- [[Hörbuchpreis]] — audiobook prize
 - [[Hörfunk]] — radio (broadcasting)
+- [[Imitation]] — imitation; copy
 - [[Impressum]] — imprint; legal notice
+- [[indoor]] — indoor (inside buildings)
 - [[Influencer]] — influencer
+- [[Influencerin]] — influencer (female)
+- [[inszenieren]] — to stage; to direct (a play); to orchestrate
 - [[Inszenierung]] — staging; production
 - [[Intendant]] — director (of a theatre or broadcaster)
 - [[Internetanschluss]] — internet connection
+- [[Internetnutzung]] — internet use
 - [[Journalismus]] — journalism
 - [[jubeln]] — to cheer; to rejoice
+- [[Jugendclub]] — youth club
+- [[Jugendzentrum]] — youth centre
 - [[Kabarett]] — political cabaret; satirical show
+- [[Kabarett-Bühne]] — cabaret stage
+- [[Kabarett-Stück]] — cabaret piece; cabaret show
+- [[Kabarettist]] — cabaret artist (male); satirist
+- [[Kabarettistin]] — cabaret artist (female); satirist
+- [[Kabarettpreis]] — cabaret prize
+- [[Kinderbuchreihe]] — children's book series
 - [[Klappentext]] — blurb
+- [[Kleinkünstler]] — cabaret performer; small-stage artist (male)
+- [[Kleinkünstlerin]] — cabaret performer; small-stage artist (female)
 - [[knien]] — to kneel
 - [[Kolumne]] — column (newspaper)
+- [[Komiker]] — comedian (male)
+- [[Komikerin]] — comedian (female)
+- [[Kreuzworträtsel]] — crossword puzzle
 - [[Kritiker]] — critic
+- [[Kulturfabrik]] — arts centre in a former factory; cultural factory
+- [[Kulturschaffende]] — person working in the arts; cultural worker
+- [[Kulturzentrum]] — cultural centre
+- [[Kunstbranche]] — art industry; art business
+- [[Kunstbühne]] — art stage; stage for the arts
 - [[Ladegerät]] — charger
 - [[Laufband]] — treadmill
+- [[Lautstärke]] — volume; loudness
 - [[Legende]] — legend; key (of a map)
 - [[Leinwand]] — screen (cinema); canvas
 - [[Leitartikel]] — editorial; leading article
 - [[Lektüre]] — reading; reading matter
 - [[Leserbrief]] — letter to the editor
+- [[Lieblingssport]] — favourite sport
+- [[Liedermacher]] — singer-songwriter (male)
+- [[Liedermacherin]] — singer-songwriter (female)
 - [[Liegestuhl]] — deckchair; sun lounger
+- [[Literaturklassiker]] — literary classic
 - [[Livestream]] — livestream
 - [[Lokalzeitung]] — local newspaper
 - [[Lustspiel]] — comedy (play)
 - [[Lyrik]] — poetry; lyric poetry
+- [[Lyriker]] — poet; lyric poet (male)
+- [[Lyrikerin]] — poet; lyric poet (female)
 - [[Magie]] — magic
 - [[magisch]] — magical
 - [[Manuskript]] — manuscript; typescript
 - [[Maske]] — mask
 - [[Mediathek]] — online media library
 - [[Medienkompetenz]] — media literacy
+- [[Medienkonsum]] — media consumption
 - [[Meinungsbildung]] — formation of opinion
 - [[Meisterschaft]] — championship
+- [[Mikrochip]] — microchip
+- [[Mikrofon]] — microphone
 - [[Mitgliedsbeitrag]] — membership fee
 - [[Monster]] — monster
+- [[Museumsbibliothek]] — museum library
+- [[Museumsgebäude]] — museum building
+- [[Museumsinsel]] — Museum Island; island of museums
+- [[Museumslandschaft]] — museum landscape; range of museums
+- [[Musikgröße]] — music great; star of the music world
+- [[Musikveranstaltung]] — music event
 - [[Nachrichtenagentur]] — news agency
 - [[Nachrichtensendung]] — news programme
 - [[Nebenrolle]] — supporting role
 - [[Newsletter]] — newsletter
+- [[Nobelpreis]] — Nobel Prize
+- [[nominieren]] — to nominate
+- [[Nutzerin]] — user (female)
+- [[parodieren]] — to parody
+- [[performen]] — to perform (on stage); to perform (financially)
 - [[pfeifen]] — to whistle
+- [[Planetarium]] — planetarium
 - [[Podcast]] — podcast
 - [[Poesie]] — poetry
+- [[Poetry-Slam]] — poetry slam
+- [[Poetry-Slam-Bühne]] — poetry slam stage
 - [[Pool]] — pool (swimming; shared resource)
 - [[Portal]] — portal; (web) platform
 - [[Porträt]] — portrait
+- [[Preisgeld]] — prize money
+- [[Preisträgerin]] — prizewinner (female)
 - [[Pressemitteilung]] — press release
 - [[Protagonist]] — protagonist; main character
+- [[Quantenprozessor]] — quantum processor
+- [[Radionachricht]] — radio news item; radio news
+- [[Radiosender]] — radio station
+- [[Rangliste]] — ranking; league table
+- [[Rechenmaschine]] — calculating machine; calculator (historical)
+- [[renommiert]] — renowned; well-known
 - [[Resonanz]] — response; echo
 - [[Ritual]] — ritual
 - [[Romantik]] — Romanticism; romance
 - [[Rundfunk]] — broadcasting; radio
+- [[satirisch]] — satirical
 - [[Sauna]] — sauna
+- [[scannen]] — to scan
+- [[Schachclub]] — chess club
+- [[Schaltung]] — circuit; gear system; wiring
 - [[Schauspiel]] — play; drama; spectacle
+- [[Schauspielen]] — acting
 - [[Schiedsrichter]] — referee; umpire
+- [[Screenreader]] — screen reader
 - [[Server]] — server
 - [[Shitstorm]] — online outrage; storm of criticism
+- [[Signalton]] — signal tone; beep
+- [[Sketch]] — sketch; comedy skit
 - [[Skizze]] — sketch; outline
+- [[Social Media]] — social media
+- [[Social-Media-Kampagne]] — social media campaign
+- [[Social-Media-Kanal]] — social media channel
+- [[Softwareprogramm]] — software program
+- [[Solokünstler]] — solo artist (male)
+- [[Solokünstlerin]] — solo artist (female)
 - [[Sonnenschirm]] — parasol
 - [[Spam]] — spam
 - [[Speicher]] — memory; storage; store
 - [[Speicherkarte]] — memory card
 - [[Speicherplatz]] — storage space
+- [[Spieleabend]] — games night
+- [[Spielelement]] — game element; gaming element
+- [[Spielesystem]] — gaming system; game console
+- [[Spielform]] — form of play; type of game
+- [[spielfremd]] — unrelated to the game; extraneous (in sport)
+- [[Spielleitung]] — game management; refereeing; game master
+- [[Sportaktivität]] — sports activity
+- [[Sportereignis]] — sporting event
 - [[Spracherkennung]] — speech recognition
 - [[Staffel]] — season (of a series); relay
 - [[Stammtisch]] — regulars' table; regular meeting
+- [[stilvoll]] — stylish; tasteful
 - [[Straßenfest]] — street party
+- [[streamen]] — to stream (video or audio)
 - [[Streaming]] — streaming
 - [[Suchmaschine]] — search engine
 - [[summen]] — to hum; to buzz
 - [[Tagebuch]] — diary; journal
 - [[Talkshow]] — talk show
+- [[Theaterensemble]] — theatre ensemble
+- [[Theaterstudio]] — theatre studio
+- [[Tournee]] — tour (of a band or theatre)
 - [[Tragödie]] — tragedy
 - [[Trainingsplan]] — training plan
+- [[Transistor]] — transistor
 - [[Trauerspiel]] — tragedy (play)
+- [[Tutorial]] — tutorial
 - [[unscharf]] — blurred; out of focus
 - [[Untertitel]] — subtitle
+- [[updaten]] — to update
 - [[Upload]] — upload
+- [[uploaden]] — to upload
+- [[Vereinsbüro]] — club office
 - [[Vereinsleben]] — club life; life of clubs
 - [[Verfasser]] — author; writer
+- [[verfilmen]] — to adapt for film; to film (a book)
 - [[verkleiden]] — to dress up; to disguise oneself
 - [[Verleger]] — publisher
+- [[vernetzt]] — networked; connected
 - [[Vers]] — verse; line of poetry
 - [[Verschlüsselung]] — encryption
+- [[Video-Tutorial]] — video tutorial
 - [[Volksfest]] — public festival; fair
+- [[vollautomatisiert]] — fully automated
 - [[Vorspann]] — opening credits; title sequence
 - [[Vorwort]] — foreword; preface
 - [[Wanderschuh]] — hiking boot
@@ -934,6 +1071,7 @@ Back to [[00 Home]]
 - [[Wiedergabe]] — reproduction; playback; rendering
 - [[Würfel]] — dice; cube
 - [[zeitgenössisch]] — contemporary; of the present day
+- [[Zeitungsüberschrift]] — newspaper headline
 - [[zischen]] — to hiss; to fizz
 - [[Zugangsdaten]] — login details; access data
 - [[Zwei-Faktor-Authentifizierung]] — two-factor authentication

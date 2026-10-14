@@ -33,6 +33,8 @@ status: "new"
 - verbale Aggression
 - die Aggression steigt
 
+**Related:** [[abbauen]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

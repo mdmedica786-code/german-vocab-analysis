@@ -1,12 +1,12 @@
 # WORD_LISTS - your vocabulary, ready to use
 
-All of it is the same vocabulary, in the shape you need. **9,751 study words** (6,068 main-bank words A1-C1 + 3,683 extra B2 words), **1,016 phrases**, **1,176 Redemittel**.
+All of it is the same vocabulary, in the shape you need. **10,752 study words** (6,068 main-bank words A1-C1 + 4,684 extra B2 words), **1,016 phrases**, **1,176 Redemittel**.
 
 | File | Use it for |
 |---|---|
 | `Word_Lists_by_Level.xlsx` | **see the whole bank in Excel**: sheet "All words" (filter by level, topic, type), then one sheet per level, Phrases, Redemittel, "Not in list" |
 | `ALL_WORDS.csv` | the same list as one plain file (UTF-8). Give it to any AI model or import it anywhere. Columns: id, level, topic, type, german, word, article, plural, forms, grammar, meaning_en, example_de, example_en, collocations, exam_use, register, medical, bank, note |
-| `by_level/A1.csv` ... `C1.csv`, `B2_extra.csv` | one file per level (smaller files are easier for an AI model; B2 = the 359 B2 words of the main bank, B2_extra = 3,683 extra B2 words) |
+| `by_level/A1.csv` ... `C1.csv`, `B2_extra.csv` | one file per level (smaller files are easier for an AI model; B2 = the 359 B2 words of the main bank, B2_extra = 4,684 extra B2 words) |
 | `anki_json/A1.json` ... | **for Anki**: the same words in the input format of your `nerdmedica-de-pro` skill (see below) |
 | `phrases.csv`, `redemittel.csv` | the phrases and the speaking/writing expressions |
 | `not_in_study_list.csv` | 456 words left out on purpose (country names, duplicates, Austrian/Swiss-only words) with the reason |

@@ -1,0 +1,40 @@
+---
+title: "Marketingaktion"
+type: "word"
+aliases: ["die Marketingaktion", "Marketingaktionen"]
+lemma: "Marketingaktion"
+meaning: "marketing campaign; promotion"
+pos: "noun"
+article: "die"
+plural: "Marketingaktionen"
+level: "B2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "b2"
+id: "D4209"
+exam_use: ["Schreiben", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Medien"]
+---
+<!-- bank:start -->
+# die Marketingaktion
+
+**Meaning:** marketing campaign; promotion
+**Plural:** Marketingaktionen
+**Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Marketingaktion hat viele neue Kunden gebracht.
+> *The marketing campaign brought many new customers.*
+
+**Collocations**
+- eine Marketingaktion starten
+- eine Marketingaktion planen
+- eine erfolgreiche Marketingaktion
+
+**Exam use:** Schreiben, Medien
+<!-- bank:end -->
+
+## My notes
+

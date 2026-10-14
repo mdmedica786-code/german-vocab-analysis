@@ -29,7 +29,7 @@ status: "new"
 - merklich nachlassen
 - sich merklich verändern
 
-**Related:** [[besser]]
+**Related:** [[besser]] · [[nachlassen]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

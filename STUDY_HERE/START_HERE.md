@@ -32,7 +32,7 @@ A simple plan: now to December: Main words (levels A2 and B1) plus Redemittel (B
 | A1 | 1,746 |
 | A2 | 1,293 |
 | B1 | 2,418 |
-| B2 | 359 core words + 3,683 extra B2 words (deck "B2 words") = 4,042 |
+| B2 | 359 core words + 4,684 extra B2 words (deck "B2 words") = 5,043 |
 | C1 | 252 |
 
 (These are the words in the study list. 456 more words are left out on purpose: country names, duplicates and Austrian/Swiss-only words. They are in the sheet "Not in list".)

@@ -1,0 +1,36 @@
+---
+title: "unproduktiv"
+type: "word"
+lemma: "unproduktiv"
+meaning: "unproductive"
+pos: "adjective"
+level: "B2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "b2"
+id: "D4546"
+exam_use: ["Sprechen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# unproduktiv
+
+**Meaning:** unproductive
+**Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Nach dem langen Meeting war der Tag unproduktiv.
+> *After the long meeting the day was unproductive.*
+
+**Collocations**
+- unproduktiv sein
+- ein unproduktiver Tag
+- unproduktiv arbeiten
+
+**Exam use:** Sprechen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

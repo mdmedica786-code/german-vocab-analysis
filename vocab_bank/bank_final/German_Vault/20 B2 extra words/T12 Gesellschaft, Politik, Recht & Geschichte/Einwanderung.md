@@ -33,7 +33,7 @@ status: "new"
 - Einwanderung begrenzen
 - die Einwanderung nach Deutschland
 
-**Related:** [[fördern]] · [[Deutschland]]
+**Related:** [[fördern]] · [[begrenzen]] · [[Deutschland]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

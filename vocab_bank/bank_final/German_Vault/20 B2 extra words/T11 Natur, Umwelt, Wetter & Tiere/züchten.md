@@ -1,0 +1,40 @@
+---
+title: "züchten"
+type: "word"
+aliases: ["züchtet", "züchtete", "hat gezüchtet"]
+lemma: "züchten"
+meaning: "to breed; to grow (plants)"
+pos: "verb"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D4668"
+exam_use: ["Lesen", "Alltag"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Alltag"]
+---
+<!-- bank:start -->
+# züchten
+
+**Meaning:** to breed; to grow (plants)
+**Forms:** züchtet · züchtete · hat gezüchtet
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er züchtet seit Jahren Pferde.
+> *He has been breeding horses for years.*
+
+**Collocations**
+- Pferde züchten
+- Rosen züchten
+- Bakterien züchten
+
+**Related:** [[Bakterien]]
+
+**Exam use:** Lesen, Alltag
+<!-- bank:end -->
+
+## My notes
+

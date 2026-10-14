@@ -5,7 +5,7 @@ If you only want to learn: go to `STUDY_HERE` (one level up, then `STUDY_HERE`).
 | File | What it is |
 |---|---|
 | `vocabulary_bank.csv` | main vocabulary, 6,524 words, levels A1-C1 (some medical) |
-| `b2_vocabulary_bank.csv` | 3,683 extra B2 words (no medical), not in the main bank |
+| `b2_vocabulary_bank.csv` | 4,684 extra B2 words (no medical), not in the main bank |
 | `phrase_bank.csv` | 1,016 useful phrases |
 | `redemittel_bank.csv` | 1,176 expressions for speaking and writing |
 | `German_Bank.xlsx`, `German_B2_Bank.xlsx` | the same data as Excel. First sheet "READ ME FIRST" explains every column. |

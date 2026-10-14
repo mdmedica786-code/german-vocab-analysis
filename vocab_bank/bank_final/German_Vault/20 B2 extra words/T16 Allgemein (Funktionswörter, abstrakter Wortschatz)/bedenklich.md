@@ -29,7 +29,7 @@ status: "new"
 - gesundheitlich bedenklich
 - bedenklich stimmen
 
-**Related:** [[Entwicklung]]
+**Related:** [[Entwicklung]] · [[gesundheitlich]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

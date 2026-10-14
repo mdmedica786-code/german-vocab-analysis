@@ -34,7 +34,7 @@ status: "new"
 - gegen Bakterien wirken
 - Bakterien im Blut
 
-**Related:** [[Bakterien]] · [[wirken]] · [[Blut]]
+**Related:** [[Bakterien]] · [[züchten]] · [[wirken]] · [[Blut]]
 <!-- bank:end -->
 
 ## My notes

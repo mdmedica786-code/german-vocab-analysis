@@ -1,0 +1,42 @@
+---
+title: "Lenkrad"
+type: "word"
+aliases: ["das Lenkrad", "Lenkräder"]
+lemma: "Lenkrad"
+meaning: "steering wheel"
+pos: "noun"
+article: "das"
+plural: "Lenkräder"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D4180"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# das Lenkrad
+
+**Meaning:** steering wheel
+**Plural:** Lenkräder
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er hielt das Lenkrad mit beiden Händen fest.
+> *He held the steering wheel firmly with both hands.*
+
+**Collocations**
+- am Lenkrad sitzen
+- das Lenkrad festhalten
+- das Lenkrad drehen
+
+**Related:** [[festhalten]] · [[drehen]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

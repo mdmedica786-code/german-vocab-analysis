@@ -33,6 +33,8 @@ status: "new"
 - die Fachsprache lernen
 - Fachsprache und Alltagssprache
 
+**Related:** [[Alltagssprache]]
+
 **Exam use:** Wissenschaft, Lesen
 <!-- bank:end -->
 

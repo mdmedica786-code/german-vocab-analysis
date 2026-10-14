@@ -6,7 +6,7 @@ tags: ["moc", "topic/T11"]
 <!-- bank:start -->
 # T11 Natur, Umwelt, Wetter & Tiere
 
-Map of content. 249 words in the main bank, 254 in the B2 bank.
+Map of content. 249 words in the main bank, 309 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -278,11 +278,12 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (254)
+### B2 (309)
 
 - [[abgelegen]] — remote; secluded
 - [[Abgrund]] — abyss; precipice
 - [[Abholzung]] — deforestation; felling
+- [[abkühlen]] — to cool down; to cool (something) down
 - [[Abwasser]] — wastewater; sewage
 - [[Acker]] — field (arable); ploughed land
 - [[Adler]] — eagle
@@ -303,7 +304,9 @@ Back to [[00 Home]]
 - [[Begrünung]] — greening; planting vegetation
 - [[bergen]] — to rescue; to salvage; to conceal
 - [[Bestäubung]] — pollination
+- [[Bio-Plantage]] — organic plantation
 - [[Biodiversität]] — biodiversity
+- [[Bioengineering]] — bioengineering
 - [[Biomüll]] — organic waste
 - [[Biotop]] — biotope; habitat
 - [[Birke]] — birch
@@ -332,12 +335,15 @@ Back to [[00 Home]]
 - [[Efeu]] — ivy
 - [[Eiche]] — oak
 - [[Eichhörnchen]] — squirrel
+- [[einpflanzen]] — to plant; to implant
 - [[Einwegplastik]] — single-use plastic
+- [[Elektrizität]] — electricity
 - [[Emission]] — emission
 - [[Energiewende]] — energy transition
 - [[entlegen]] — remote; out-of-the-way
 - [[Erdbeben]] — earthquake
 - [[Erderwärmung]] — global warming
+- [[Erdmännchen]] — meerkat
 - [[Erdrutsch]] — landslide
 - [[Ernährungssicherheit]] — food security
 - [[erzeugen]] — to produce; to generate
@@ -352,6 +358,7 @@ Back to [[00 Home]]
 - [[Fichte]] — spruce
 - [[Fledermaus]] — bat
 - [[Flut]] — high tide; flood
+- [[Flutkatastrophe]] — flood disaster
 - [[Flächenbrand]] — large-scale fire; wildfire
 - [[Flächenverbrauch]] — land consumption
 - [[Flächenversiegelung]] — soil sealing
@@ -362,6 +369,7 @@ Back to [[00 Home]]
 - [[Gattung]] — genus; genre; kind
 - [[gedeihen]] — to thrive; to flourish
 - [[gefährdet]] — endangered; at risk
+- [[Gemeinschaftsgarten]] — community garden
 - [[Gestank]] — stench; bad smell
 - [[Gewässer]] — body of water; waters
 - [[Gezeiten]] — tides
@@ -374,14 +382,18 @@ Back to [[00 Home]]
 - [[Hauch]] — breath; hint; touch
 - [[Heide]] — heath
 - [[Herde]] — herd; flock
+- [[herumfliegen]] — to fly around
 - [[Hitzewelle]] — heatwave
 - [[Hochdruck]] — high pressure
 - [[Hochwasserschutz]] — flood protection
 - [[Hummel]] — bumblebee
+- [[Hundeschule]] — dog school; dog training school
 - [[idyllisch]] — idyllic
 - [[Igel]] — hedgehog
 - [[Imker]] — beekeeper
+- [[Indoor Farming]] — indoor farming
 - [[Insektensterben]] — insect decline
+- [[Jungtier]] — young animal; cub
 - [[karg]] — meagre; barren
 - [[Kastanie]] — chestnut
 - [[Kater]] — tomcat; hangover
@@ -403,19 +415,26 @@ Back to [[00 Home]]
 - [[Landschaftsschutz]] — landscape conservation
 - [[Laub]] — foliage; fallen leaves
 - [[Lawine]] — avalanche
+- [[Lebensmittelanbau]] — food cultivation; growing of food
 - [[Lebensraum]] — habitat; living space
 - [[Lebewesen]] — living being; creature
 - [[Leine]] — lead; leash; line
 - [[leuchtend]] — bright; glowing; vivid
 - [[Libelle]] — dragonfly
 - [[Lichtung]] — clearing
+- [[Lichtverhältnis]] — lighting conditions
 - [[Linde]] — lime tree; linden
 - [[Luftfeuchtigkeit]] — humidity
+- [[Luftqualität]] — air quality
 - [[Luftverschmutzung]] — air pollution
 - [[Löwenzahn]] — dandelion
+- [[Löwin]] — lioness
 - [[Marienkäfer]] — ladybird
 - [[Massentierhaltung]] — factory farming
 - [[Maulwurf]] — mole
+- [[mehrjährig]] — perennial; lasting several years
+- [[Menschenaffe]] — great ape
+- [[Mikroorganismus]] — microorganism
 - [[Mikroplastik]] — microplastics
 - [[Monokultur]] — monoculture
 - [[Moor]] — bog; moor
@@ -426,20 +445,33 @@ Back to [[00 Home]]
 - [[Müllverbrennung]] — waste incineration
 - [[Nachhaltigkeit]] — sustainability
 - [[Nahrungskette]] — food chain
+- [[Naturerscheinung]] — natural phenomenon
 - [[Naturkatastrophe]] — natural disaster
 - [[Naturschutzgebiet]] — nature reserve
 - [[Nest]] — nest
 - [[Niederschlag]] — precipitation (rain, snow)
 - [[Niedrigwasser]] — low water
+- [[Nutzpflanze]] — useful plant; crop
 - [[Nutztier]] — farm animal; livestock
 - [[Orkan]] — hurricane; violent storm
 - [[Ozonschicht]] — ozone layer
+- [[Papagei]] — parrot
 - [[Pestizid]] — pesticide
+- [[Pflanzenbewässerung]] — plant watering; irrigation
+- [[Pfütze]] — puddle
 - [[Photovoltaik]] — photovoltaics
+- [[Plastikabfall]] — plastic waste
+- [[Plastikberg]] — mountain of plastic
+- [[Pollen]] — pollen
+- [[Pottwal]] — sperm whale
+- [[Pudel]] — poodle
 - [[Qualle]] — jellyfish
 - [[Raubtier]] — predator; beast of prey
 - [[Raureif]] — hoarfrost
 - [[rauschen]] — to rustle; to roar; to rush
+- [[recycelt]] — recycled
+- [[regenerativ]] — renewable; regenerative
+- [[Regenprognose]] — rain forecast
 - [[Regenwald]] — rainforest
 - [[Reh]] — roe deer
 - [[Revier]] — territory; district
@@ -448,9 +480,11 @@ Back to [[00 Home]]
 - [[Rohstoff]] — raw material
 - [[Rudel]] — pack
 - [[Schadstoff]] — pollutant; harmful substance
+- [[schadstoffarm]] — low in pollutants
 - [[Schauer]] — shower; shudder
 - [[Scheune]] — barn
 - [[schimmern]] — to shimmer; to glimmer
+- [[Schimpanse]] — chimpanzee
 - [[Schlamm]] — mud
 - [[Schlucht]] — gorge; ravine
 - [[schlüpfen]] — to slip; to hatch
@@ -472,6 +506,7 @@ Back to [[00 Home]]
 - [[Spatz]] — sparrow
 - [[spiegelglatt]] — smooth as glass; icy
 - [[Stadtklima]] — urban climate
+- [[Stadtluft]] — city air
 - [[Stahl]] — steel
 - [[Stausee]] — reservoir
 - [[stellenweise]] — in places; here and there
@@ -489,9 +524,15 @@ Back to [[00 Home]]
 - [[Teich]] — pond
 - [[Teilchen]] — particle; small piece
 - [[Tiefdruck]] — low pressure
+- [[Tierart]] — animal species; kind of animal
+- [[Tierfreund]] — animal lover (male)
+- [[Tierfreundin]] — animal lover (female)
 - [[Tierhaltung]] — keeping of animals; animal husbandry
 - [[Tierheim]] — animal shelter
+- [[Tierpension]] — animal boarding home; pet hotel
 - [[Tierschutz]] — animal protection
+- [[Tiersprache]] — animal language; animal communication
+- [[Tierwohl]] — animal welfare
 - [[Tiger]] — tiger
 - [[Treibhauseffekt]] — greenhouse effect
 - [[Treibhausgas]] — greenhouse gas
@@ -500,19 +541,29 @@ Back to [[00 Home]]
 - [[Tulpe]] — tulip
 - [[Umweltbelastung]] — environmental pollution; burden on the environment
 - [[Umweltbewusstsein]] — environmental awareness
+- [[Umweltnutzung]] — use of the environment
+- [[Umweltprojekt]] — environmental project
+- [[umweltschonend]] — environmentally friendly; eco-friendly
+- [[Umweltverband]] — environmental association; environmental organisation
 - [[Unwetter]] — storm; severe weather
 - [[Verbrauch]] — consumption; use
 - [[Verkehrswende]] — transport transition (to sustainable mobility)
 - [[Vermehrung]] — increase; multiplication; reproduction
 - [[verschmutzt]] — dirty; polluted
+- [[Verschmutzung]] — pollution; dirt
 - [[verwittert]] — weathered
 - [[Vieh]] — cattle; livestock
 - [[Viehzucht]] — livestock farming
 - [[Vulkan]] — volcano
 - [[Wal]] — whale
+- [[Wal-Laut]] — whale sound; whale call
 - [[Waldbrand]] — forest fire
+- [[Walfamilie]] — whale family; pod of whales
+- [[Warnsystem]] — warning system
 - [[Wasserfall]] — waterfall
 - [[Wasserknappheit]] — water scarcity
+- [[Wasserkraft]] — hydropower; water power
+- [[Wasserversorgung]] — water supply
 - [[Watt]] — tidal flats; mudflats
 - [[wechselhaft]] — changeable; variable
 - [[Wegwerfgesellschaft]] — throwaway society
@@ -521,16 +572,20 @@ Back to [[00 Home]]
 - [[Welpe]] — puppy
 - [[Wespe]] — wasp
 - [[Wetterlage]] — weather situation
+- [[Wetterverhältnis]] — weather condition
 - [[Wiederverwertung]] — recycling; reuse
 - [[Windkraft]] — wind power
 - [[Windpark]] — wind farm
+- [[Windprognose]] — wind forecast
 - [[Winterschlaf]] — hibernation
 - [[Wirbelsturm]] — cyclone; hurricane
 - [[Wolf]] — wolf
 - [[wolkenlos]] — cloudless
 - [[Wüste]] — desert
+- [[zersetzen]] — to decompose; to break down; (sich) to decay
 - [[Zersiedelung]] — urban sprawl
 - [[Zugvogel]] — migratory bird
+- [[züchten]] — to breed; to grow (plants)
 - [[Ökolandbau]] — organic farming
 - [[Ökosystem]] — ecosystem
 - [[Überschwemmung]] — flood

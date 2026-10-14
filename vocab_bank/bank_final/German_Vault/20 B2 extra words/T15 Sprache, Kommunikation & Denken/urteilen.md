@@ -32,6 +32,8 @@ status: "new"
 - vorschnell urteilen
 - nach dem Aussehen urteilen
 
+**Related:** [[vorschnell]]
+
 **Exam use:** Sprechen, Schreiben
 <!-- bank:end -->
 

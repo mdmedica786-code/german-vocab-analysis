@@ -33,7 +33,7 @@ status: "new"
 - die Zuwanderung begrenzen
 - Zuwanderung und Integration
 
-**Related:** [[steuern]] · [[Integration]]
+**Related:** [[steuern]] · [[begrenzen]] · [[Integration]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

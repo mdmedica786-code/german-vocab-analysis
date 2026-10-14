@@ -20,7 +20,7 @@ Steps:
      - (and the folder WORD_LISTS: German_Vault.zip for Obsidian, Word_Lists_by_Level.xlsx, ALL_WORDS.csv, anki_json/)
      - START_HERE.md                (how to use everything)
 4. Copy WORD_LISTS/German_Vault.zip to my Desktop (or a folder I tell you) so I can send it to my phone.
-5. Check that the numbers are right and tell me: the B2 extra bank should have 3,683 words (vocab_bank/bank_final/b2_vocabulary_bank.csv, 3,684 lines including the header), and the study page should say 12,399 cards in total.
+5. Check that the numbers are right and tell me: the B2 extra bank should have 4,684 words (vocab_bank/bank_final/b2_vocabulary_bank.csv, 4,685 lines including the header), and the study page should say 13,400 cards in total.
 6. Finish with a short list of what you did, in simple words. No technical talk.
 ```
 

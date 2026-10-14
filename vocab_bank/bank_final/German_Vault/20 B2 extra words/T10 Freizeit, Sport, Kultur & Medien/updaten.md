@@ -1,0 +1,40 @@
+---
+title: "updaten"
+type: "word"
+aliases: ["updatet", "updatete", "hat geupdatet"]
+lemma: "updaten"
+meaning: "to update"
+pos: "verb"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D4555"
+exam_use: ["Medien", "Alltag"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Alltag"]
+---
+<!-- bank:start -->
+# updaten
+
+**Meaning:** to update
+**Forms:** updatet · updatete · hat geupdatet
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich muss die App noch updaten.
+> *I still have to update the app.*
+
+**Collocations**
+- eine App updaten
+- die Software updaten
+- den Computer updaten
+
+**Related:** [[Software]] · [[Computer]]
+
+**Exam use:** Medien, Alltag
+<!-- bank:end -->
+
+## My notes
+

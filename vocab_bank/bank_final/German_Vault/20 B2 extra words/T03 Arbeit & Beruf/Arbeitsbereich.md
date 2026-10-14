@@ -1,0 +1,40 @@
+---
+title: "Arbeitsbereich"
+type: "word"
+aliases: ["der Arbeitsbereich", "Arbeitsbereiche"]
+lemma: "Arbeitsbereich"
+meaning: "area of work; work area"
+pos: "noun"
+article: "der"
+plural: "Arbeitsbereiche"
+level: "B2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "b2"
+id: "D3720"
+exam_use: ["Schreiben", "Alltag"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+---
+<!-- bank:start -->
+# der Arbeitsbereich
+
+**Meaning:** area of work; work area
+**Plural:** Arbeitsbereiche
+**Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> In meinem Arbeitsbereich gibt es viele neue Aufgaben.
+> *In my area of work there are many new tasks.*
+
+**Collocations**
+- im Arbeitsbereich
+- ein neuer Arbeitsbereich
+- den Arbeitsbereich wechseln
+
+**Exam use:** Schreiben, Alltag
+<!-- bank:end -->
+
+## My notes
+

@@ -33,7 +33,7 @@ status: "new"
 - Toilettenpapier kaufen
 - Toilettenpapier nachfüllen
 
-**Related:** [[Rolle]]
+**Related:** [[Rolle]] · [[nachfüllen]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

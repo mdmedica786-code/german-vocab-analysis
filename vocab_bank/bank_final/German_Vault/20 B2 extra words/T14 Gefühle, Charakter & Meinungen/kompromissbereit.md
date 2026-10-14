@@ -1,0 +1,38 @@
+---
+title: "kompromissbereit"
+type: "word"
+lemma: "kompromissbereit"
+meaning: "willing to compromise"
+pos: "adjective"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D4119"
+exam_use: ["Sprechen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# kompromissbereit
+
+**Meaning:** willing to compromise
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Beide Seiten sind kompromissbereit.
+> *Both sides are willing to compromise.*
+
+**Collocations**
+- kompromissbereit sein
+- sich kompromissbereit zeigen
+- ein kompromissbereiter Partner
+
+**Related:** [[Partner]]
+
+**Exam use:** Sprechen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

@@ -33,6 +33,8 @@ status: "new"
 - Wasserschaden beheben
 - durch einen Wasserschaden
 
+**Related:** [[beheben]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

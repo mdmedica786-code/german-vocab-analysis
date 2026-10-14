@@ -1,0 +1,40 @@
+---
+title: "Autoverkehr"
+type: "word"
+aliases: ["der Autoverkehr"]
+lemma: "Autoverkehr"
+meaning: "car traffic; motor traffic"
+pos: "noun"
+article: "der"
+plural: "–"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D3768"
+exam_use: ["Lesen", "Medien"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+---
+<!-- bank:start -->
+# der Autoverkehr
+
+**Meaning:** car traffic; motor traffic
+**Plural:** –
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Autoverkehr in der Innenstadt soll reduziert werden.
+> *Car traffic in the city centre is to be reduced.*
+
+**Collocations**
+- dichter Autoverkehr
+- der Autoverkehr nimmt zu
+- den Autoverkehr reduzieren
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

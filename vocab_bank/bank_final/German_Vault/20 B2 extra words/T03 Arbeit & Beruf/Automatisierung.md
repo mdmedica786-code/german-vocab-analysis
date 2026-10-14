@@ -33,6 +33,8 @@ status: "new"
 - durch Automatisierung
 - fortschreitende Automatisierung
 
+**Related:** [[voranbringen]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

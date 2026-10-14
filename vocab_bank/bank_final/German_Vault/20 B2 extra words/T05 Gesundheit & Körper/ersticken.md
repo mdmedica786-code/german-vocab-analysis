@@ -1,0 +1,38 @@
+---
+title: "ersticken"
+type: "word"
+aliases: ["erstickt", "erstickte", "ist erstickt"]
+lemma: "ersticken"
+meaning: "to suffocate; to choke"
+pos: "verb"
+level: "B2"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "b2"
+id: "D3913"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# ersticken
+
+**Meaning:** to suffocate; to choke
+**Forms:** erstickt · erstickte · ist erstickt
+**Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im verrauchten Raum wäre er fast erstickt.
+> *In the smoke-filled room he almost suffocated.*
+
+**Collocations**
+- an etwas ersticken
+- fast ersticken
+- vor Lachen ersticken
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

@@ -6,7 +6,7 @@ tags: ["moc", "topic/T16"]
 <!-- bank:start -->
 # T16 Allgemein (Funktionswörter, abstrakter Wortschatz)
 
-Map of content. 960 words in the main bank, 899 in the B2 bank.
+Map of content. 960 words in the main bank, 971 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -989,23 +989,27 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (899)
+### B2 (971)
 
 - [[Abbau]] — dismantling; reduction; mining
+- [[abbauen]] — to dismantle; to reduce; to break down
 - [[abbilden]] — to depict; to reproduce
 - [[abbrechen]] — to break off; to cancel; to abort
 - [[Abfolge]] — sequence; order
 - [[abhalten]] — to hold (a meeting); to keep (from)
+- [[Abhilfe]] — remedy; relief
 - [[Abhilfe schaffen]] — to remedy; to put right
 - [[Ablauf]] — course; process; expiry
 - [[ablegen]] — to put down; to take off; to file
 - [[Ableitung]] — derivation; deduction
 - [[ablösen]] — to replace; to take over from; to detach
+- [[Abmachung]] — agreement; arrangement
 - [[abrufen]] — to retrieve; to call up
 - [[abrupt]] — abrupt; sudden
 - [[absehen]] — to refrain from; to foresee
 - [[absetzen]] — to drop off; to remove (from office); to deduct
 - [[Abstand nehmen]] — to refrain; to distance oneself
+- [[abstürzen]] — to crash; to fall (from a height)
 - [[abwarten]] — to wait and see; to wait for
 - [[abwechslungsreich]] — varied; full of variety
 - [[abwehren]] — to ward off; to fend off
@@ -1017,6 +1021,7 @@ Back to [[00 Home]]
 - [[Acht geben]] — to be careful; to pay attention
 - [[agieren]] — to act; to operate
 - [[Aktivierung]] — activation
+- [[algorithmenbasiert]] — algorithm-based
 - [[allemal]] — in any case; definitely; at any rate
 - [[allenfalls]] — at most; at best; possibly
 - [[allerlei]] — all sorts of; various
@@ -1057,11 +1062,13 @@ Back to [[00 Home]]
 - [[anwendbar]] — applicable
 - [[Anwender]] — user (of software)
 - [[Anwesenheit]] — presence; attendance
+- [[arrangieren]] — to arrange; (sich) to come to terms with
 - [[auf dem Spiel stehen]] — to be at stake
 - [[auf den Weg bringen]] — to initiate; to set in motion
 - [[auf der Strecke bleiben]] — to fall by the wayside
 - [[auf keinen Fall]] — under no circumstances; definitely not
 - [[auf Teufel komm raus]] — like crazy; at all costs
+- [[aufeinanderstoßen]] — to collide; to clash
 - [[aufeinandertreffen]] — to meet; to clash
 - [[auffallend]] — striking; conspicuous
 - [[auffällig]] — conspicuous; striking
@@ -1071,6 +1078,8 @@ Back to [[00 Home]]
 - [[Auflösung]] — dissolution; resolution; solution
 - [[aufrechterhalten]] — to maintain; to uphold
 - [[Aufrechterhaltung]] — maintenance; upholding
+- [[aufreißen]] — to tear open; to rip open; to throw open
+- [[Aufräumarbeiten]] — clean-up work; tidying up
 - [[Aufstellung]] — list; line-up; setting up
 - [[auftauchen]] — to appear; to surface
 - [[Aufteilung]] — division; distribution; allocation
@@ -1094,6 +1103,7 @@ Back to [[00 Home]]
 - [[ausgiebig]] — extensive; lavish; thorough
 - [[Ausgleich]] — balance; compensation; equalisation
 - [[ausgleichen]] — to balance out; to compensate
+- [[ausleeren]] — to empty out
 - [[auslegen]] — to interpret; to lay out; to design
 - [[Ausmaß]] — extent; scale
 - [[ausnahmslos]] — without exception
@@ -1106,6 +1116,7 @@ Back to [[00 Home]]
 - [[Ausschluss]] — exclusion; expulsion
 - [[Ausschnitt]] — excerpt; extract; cut-out
 - [[ausschöpfen]] — to exhaust; to make full use of
+- [[ausschütten]] — to pour out; to distribute (money)
 - [[aussetzen]] — to suspend; to expose; to stop
 - [[Ausweg]] — way out; solution
 - [[Ausweitung]] — expansion; extension
@@ -1132,8 +1143,10 @@ Back to [[00 Home]]
 - [[befestigen]] — to fasten; to fix; to attach
 - [[begehrt]] — in demand; sought after
 - [[Begleiterscheinung]] — side effect; accompanying phenomenon
+- [[begrenzen]] — to limit; to restrict; to border
 - [[Begrenzung]] — limitation; restriction
 - [[begünstigen]] — to favour; to facilitate
+- [[beheben]] — to fix; to remedy; to eliminate
 - [[Behälter]] — container; receptacle
 - [[beibehalten]] — to keep; to maintain; to retain
 - [[beimessen]] — to attach (importance)
@@ -1158,11 +1171,13 @@ Back to [[00 Home]]
 - [[bestehend]] — existing
 - [[bestenfalls]] — at best
 - [[Bestimmung]] — regulation; determination; purpose
+- [[bestmöglich]] — best possible
 - [[Bestreben]] — endeavour; aim
 - [[beständig]] — constant; stable; resistant
 - [[Betracht]] — consideration (only in "in Betracht")
 - [[betreffend]] — concerned; in question
 - [[beträchtlich]] — considerably; substantially
+- [[betätigen]] — to operate; to press; (sich) to be active
 - [[bewerkstelligen]] — to manage; to bring about
 - [[bewähren]] — to prove its worth
 - [[Bezug]] — reference; relation; cover (of a pillow)
@@ -1179,6 +1194,8 @@ Back to [[00 Home]]
 - [[charakteristisch]] — characteristic; typical
 - [[dahingehend]] — to the effect; in this regard
 - [[das A und O sein]] — to be the be-all and end-all; to be essential
+- [[Datenanalyse]] — data analysis
+- [[dazugehörig]] — associated; related; belonging to it
 - [[Deckung]] — cover; coverage; collateral
 - [[definitiv]] — definite; final
 - [[Defizit]] — deficit; shortfall
@@ -1194,6 +1211,7 @@ Back to [[00 Home]]
 - [[dominieren]] — to dominate; to prevail
 - [[Drehung]] — turn; rotation
 - [[dringen]] — to penetrate; to press (for)
+- [[dringlich]] — urgent; pressing
 - [[Dringlichkeit]] — urgency
 - [[drum]] — therefore; around it (colloquial)
 - [[durchlaufen]] — to pass through; to go through (stages)
@@ -1206,6 +1224,7 @@ Back to [[00 Home]]
 - [[ebenbürtig]] — equal; on a par
 - [[Ebene]] — level; plane; plain
 - [[Echtheit]] — authenticity
+- [[Echtzeit]] — real time
 - [[Effekt]] — effect
 - [[Effektivität]] — effectiveness
 - [[eigens]] — specially; expressly
@@ -1238,12 +1257,14 @@ Back to [[00 Home]]
 - [[einschränken]] — to restrict; to limit
 - [[einseitig]] — one-sided; unilateral
 - [[Einstieg]] — entry; start; way in
+- [[eintauchen]] — to dive in; to immerse oneself
 - [[einteilen]] — to divide; to schedule; to assign
 - [[Einteilung]] — division; classification; scheduling
 - [[eintönig]] — monotonous
 - [[Einwirkung]] — influence; effect
 - [[Einzelfall]] — isolated case; individual case
 - [[Einzug]] — moving in; entry; arrival
+- [[elementar]] — elementary; fundamental
 - [[empfehlenswert]] — recommendable; worth recommending
 - [[endlos]] — endless; infinite
 - [[Engpass]] — bottleneck; shortage
@@ -1273,6 +1294,7 @@ Back to [[00 Home]]
 - [[erneuern]] — to renew; to renovate
 - [[Erneuerung]] — renewal; renovation
 - [[erproben]] — to test; to try out
+- [[Erprobungsphase]] — testing phase; trial period
 - [[Erreichung]] — achievement; attainment
 - [[errichten]] — to erect; to build; to set up
 - [[Errichtung]] — erection; establishment
@@ -1298,11 +1320,13 @@ Back to [[00 Home]]
 - [[Exemplar]] — copy; specimen
 - [[exemplarisch]] — exemplary; representative
 - [[Existenz]] — existence; livelihood
+- [[exzellent]] — excellent; outstanding
 - [[faktisch]] — actual; de facto
 - [[Faktum]] — fact
 - [[falten]] — to fold
 - [[farbenfroh]] — colourful
 - [[Fassung]] — version; composure; mount
+- [[Fehlermeldung]] — error message
 - [[fein]] — fine; delicate; refined
 - [[Festigkeit]] — firmness; strength; stability
 - [[Festlegung]] — determination; fixing; stipulation
@@ -1335,6 +1359,7 @@ Back to [[00 Home]]
 - [[Gegebenheit]] — circumstance; condition
 - [[Gegenstück]] — counterpart; opposite
 - [[gegenüberliegend]] — opposite; facing
+- [[gegenüberstehen]] — to face; to be opposed to; to stand opposite
 - [[Genauigkeit]] — accuracy; precision
 - [[generieren]] — to generate
 - [[genügend]] — sufficient; enough
@@ -1380,6 +1405,8 @@ Back to [[00 Home]]
 - [[heran]] — up to; towards (the speaker)
 - [[heranziehen]] — to consult; to draw on; to use for comparison
 - [[herauf]] — up (towards the speaker)
+- [[herausfordern]] — to challenge; to provoke
+- [[herausragen]] — to stand out; to protrude
 - [[herausstellen]] — to emphasise; (sich) to turn out
 - [[herbeiführen]] — to bring about; to cause
 - [[herkömmlich]] — conventional; traditional
@@ -1397,10 +1424,13 @@ Back to [[00 Home]]
 - [[hinderlich]] — obstructive; a hindrance
 - [[hindurch]] — through; throughout
 - [[hinein]] — in; into
+- [[hinhalten]] — to hold out; to keep waiting; to put off
 - [[hinreichend]] — sufficient
 - [[Hinsicht]] — respect; regard
 - [[hinweg]] — away; over (time or obstacles)
+- [[hinziehen]] — to attract; (sich) to drag on
 - [[hinzu]] — in addition; to it
+- [[hinzukommen]] — to be added; to join; to come along
 - [[hinzuziehen]] — to consult; to bring in
 - [[hinüber]] — over; across
 - [[hocken]] — to squat; to crouch; to sit around
@@ -1408,6 +1438,7 @@ Back to [[00 Home]]
 - [[höchst]] — highly; extremely
 - [[hörbar]] — audible
 - [[Hülle]] — cover; case; sleeve
+- [[idealerweise]] — ideally
 - [[Identifizierung]] — identification
 - [[identisch]] — identical
 - [[ihrerseits]] — for her part; on their part
@@ -1461,6 +1492,7 @@ Back to [[00 Home]]
 - [[Komplexität]] — complexity
 - [[Komponente]] — component
 - [[Konfiguration]] — configuration; setup
+- [[konfigurieren]] — to configure; to set up
 - [[konsequent]] — consistent; resolute
 - [[Konsequenzen ziehen]] — to draw the consequences
 - [[konstant]] — constant
@@ -1468,11 +1500,13 @@ Back to [[00 Home]]
 - [[konstruieren]] — to construct; to design
 - [[Konstruktion]] — construction; structure
 - [[Kontinuität]] — continuity
+- [[kontrollierbar]] — controllable; verifiable
 - [[konventionell]] — conventional
 - [[konzipieren]] — to design; to conceive; to draft
 - [[Koordination]] — coordination
 - [[kriechen]] — to crawl; to creep
 - [[Kriterium]] — criterion
+- [[kucken]] — to look; to watch (variant of gucken)
 - [[Kugel]] — ball; sphere; scoop
 - [[kurios]] — odd; curious
 - [[Kurs halten]] — to hold one's course
@@ -1517,18 +1551,23 @@ Back to [[00 Home]]
 - [[misslingen]] — to fail; to go wrong
 - [[mit dem Feuer spielen]] — to play with fire
 - [[mitbekommen]] — to notice; to catch (what is going on)
+- [[mitkriegen]] — to notice; to catch (colloquial)
 - [[mitsamt]] — together with; including
 - [[mitwirken]] — to participate; to contribute
+- [[modernisieren]] — to modernise
 - [[Modernisierung]] — modernisation
 - [[Modus]] — mode; mood (grammar)
 - [[mühelos]] — effortless; easy
 - [[mühsam]] — laborious; arduous
 - [[nach Strich und Faden]] — thoroughly (usually negative)
 - [[nachfolgend]] — following; below
+- [[nachfüllen]] — to refill; to top up
 - [[nachkommen]] — to comply with; to follow later
+- [[nachlassen]] — to subside; to decrease; to diminish
 - [[nachweisbar]] — provable; detectable
 - [[namentlich]] — especially; by name
 - [[naturgemäß]] — naturally; inevitably
+- [[Nebensache]] — minor matter; side issue
 - [[notfalls]] — if need be; if necessary
 - [[notwendigerweise]] — necessarily
 - [[Notwendigkeit]] — necessity
@@ -1542,6 +1581,8 @@ Back to [[00 Home]]
 - [[Orientierung]] — orientation; guidance
 - [[Passage]] — passage
 - [[Pfeil]] — arrow
+- [[piepen]] — to beep; to chirp; to squeak
+- [[planbar]] — predictable; possible to plan
 - [[platt]] — flat; trite
 - [[Platte]] — plate; slab; record
 - [[Platz nehmen]] — to take a seat
@@ -1551,6 +1592,7 @@ Back to [[00 Home]]
 - [[Positionierung]] — positioning
 - [[Potenzial]] — potential
 - [[potenziell]] — potential
+- [[praktikabel]] — practicable; workable
 - [[prall]] — plump; full to bursting
 - [[pressen]] — to press; to squeeze
 - [[primär]] — primary
@@ -1565,6 +1607,8 @@ Back to [[00 Home]]
 - [[Querschnitt]] — cross-section; overview
 - [[Rahmenbedingung]] — general condition; framework
 - [[rau]] — rough; hoarse; harsh
+- [[rauskommen]] — to come out; to get out; to be revealed (colloquial)
+- [[rausspringen]] — to jump out (colloquial)
 - [[Realisierung]] — realisation; implementation
 - [[Rechnung tragen]] — to take into account
 - [[Reduzierung]] — reduction; cutting back
@@ -1583,6 +1627,8 @@ Back to [[00 Home]]
 - [[Ruck]] — jerk; jolt
 - [[ruhen]] — to rest; to lie dormant
 - [[runter]] — down; downwards
+- [[runterfahren]] — to shut down; to power down; to scale down (colloquial)
+- [[runterfallen]] — to fall down; to drop (colloquial)
 - [[räumlich]] — spatial; of space
 - [[rüber]] — over; across (colloquial for hinüber)
 - [[Rückgriff]] — recourse; falling back (on)
@@ -1619,9 +1665,12 @@ Back to [[00 Home]]
 - [[sichtlich]] — visibly; obviously
 - [[signifikant]] — significant
 - [[Simulation]] — simulation
+- [[solch]] — such
 - [[sonderlich]] — particular; special
+- [[Sondersituation]] — special situation; exceptional circumstances
 - [[sonstig]] — other; further
 - [[Sorte]] — kind; sort; variety
+- [[sortieren]] — to sort; to arrange
 - [[Spalt]] — gap; crack
 - [[Spalte]] — column; crack
 - [[spalten]] — to split; to divide
@@ -1664,6 +1713,8 @@ Back to [[00 Home]]
 - [[Szenario]] — scenario
 - [[Säule]] — column; pillar
 - [[tasten]] — to feel; to grope
+- [[Technikfehler]] — technical error; technical fault
+- [[Technisierung]] — mechanisation; increasing use of technology
 - [[teils]] — partly
 - [[Tendenz]] — tendency; trend
 - [[tendenziell]] — tending to; as a trend
@@ -1672,10 +1723,12 @@ Back to [[00 Home]]
 - [[Transformation]] — transformation
 - [[transparent]] — transparent; clear
 - [[Transparenz]] — transparency
+- [[tricky]] — tricky; difficult
 - [[Träger]] — carrier; bearer; sponsor (of an institution)
 - [[typischerweise]] — typically
 - [[Typus]] — type
 - [[täuschen]] — to deceive; to be mistaken
+- [[Tücke]] — pitfall; trap; difficulty
 - [[um jeden Preis]] — at all costs
 - [[umfassend]] — comprehensive; extensive
 - [[umgeben]] — to surround
@@ -1697,6 +1750,7 @@ Back to [[00 Home]]
 - [[unerwartet]] — unexpected
 - [[ungeheuer]] — tremendous; enormous
 - [[ungemein]] — immensely; extremely
+- [[ungenau]] — inaccurate; imprecise
 - [[ungestört]] — undisturbed; uninterrupted
 - [[ungleich]] — unequal; uneven
 - [[unmittelbar]] — direct; immediate
@@ -1707,10 +1761,12 @@ Back to [[00 Home]]
 - [[unterschätzen]] — to underestimate
 - [[unterteilen]] — to divide; to subdivide
 - [[unumgänglich]] — unavoidable; essential
+- [[unvermeidbar]] — unavoidable
 - [[unvermeidlich]] — unavoidable; inevitable
 - [[unverzichtbar]] — indispensable
 - [[unwahrscheinlich]] — improbable; unlikely
 - [[unweigerlich]] — inevitably; unavoidably
+- [[unwesentlich]] — insignificant; minor
 - [[unzureichend]] — insufficient; inadequate
 - [[vage]] — vague; unclear
 - [[variabel]] — variable; flexible
@@ -1739,6 +1795,7 @@ Back to [[00 Home]]
 - [[verhältnismäßig]] — relative; comparatively
 - [[Verknüpfung]] — link; connection
 - [[vermehrt]] — increased
+- [[vermeidbar]] — avoidable
 - [[Vermeidung]] — avoidance; prevention
 - [[vermeintlich]] — supposed; alleged
 - [[vermindern]] — to reduce; to decrease
@@ -1768,6 +1825,7 @@ Back to [[00 Home]]
 - [[vielfältig]] — diverse; varied
 - [[vielmehr]] — rather; on the contrary
 - [[vielseitig]] — versatile; varied
+- [[vielzählig]] — numerous
 - [[Vision]] — vision
 - [[vollenden]] — to complete; to finish; to perfect
 - [[vollends]] — completely; entirely
@@ -1780,12 +1838,15 @@ Back to [[00 Home]]
 - [[von Nutzen sein]] — to be useful
 - [[von Vorteil sein]] — to be an advantage
 - [[voran]] — ahead; forward; on
+- [[voranbringen]] — to advance; to move forward; to further
+- [[vorangehen]] — to go ahead; to lead the way; to progress
 - [[vorausgesetzt]] — provided that
 - [[voraussetzen]] — to presuppose; to require
 - [[Voraussetzungen schaffen]] — to create the conditions
 - [[vorbehalten]] — reserved
 - [[Vorbereitungen treffen]] — to make preparations
 - [[vorbeugen]] — to prevent; to guard against
+- [[Vorderseite]] — front; front side
 - [[Vorfall]] — incident; occurrence
 - [[Vorfeld]] — run-up; preliminary stage (only in "im Vorfeld")
 - [[Vorgang]] — process; procedure; incident
@@ -1807,8 +1868,12 @@ Back to [[00 Home]]
 - [[wachen]] — to keep watch; to stay awake
 - [[wahlweise]] — optionally; as you choose
 - [[wahrhaft]] — truly; genuinely; real
+- [[wandeln]] — to change; to transform
 - [[Wandlung]] — change; transformation
 - [[Warnung]] — warning
+- [[wegdenken]] — to imagine away; to think away
+- [[wegfallen]] — to be dropped; to no longer apply; to cease
+- [[wegweisend]] — pioneering; groundbreaking; trend-setting
 - [[weichen]] — to give way; to yield
 - [[weisen]] — to point; to show (the way)
 - [[weitaus]] — far; by far
@@ -1825,9 +1890,12 @@ Back to [[00 Home]]
 - [[winzig]] — tiny
 - [[wirbeln]] — to whirl; to swirl
 - [[Wirksamkeit]] — effectiveness
+- [[wirkungslos]] — ineffective; without effect
 - [[womöglich]] — possibly; perhaps
 - [[woraufhin]] — whereupon; after which
 - [[Wucht]] — force; impact; power
+- [[Zahlencode]] — number code; numerical code
+- [[Zahlenschloss]] — combination lock
 - [[zerren]] — to drag; to tug
 - [[zielen]] — to aim
 - [[Zielsetzung]] — objective; goal-setting
@@ -1852,16 +1920,19 @@ Back to [[00 Home]]
 - [[zur Geltung kommen]] — to show to advantage
 - [[zur Verfügung stehen]] — to be available
 - [[zur Verfügung stellen]] — to provide; to make available
+- [[zurückdrehen]] — to turn back; to reverse; to wind back
 - [[zurückgreifen]] — to fall back on; to resort to
 - [[zurücklassen]] — to leave behind
 - [[zurückziehen]] — to withdraw; to retreat
 - [[Zusammenbruch]] — collapse; breakdown
+- [[zusammensetzen]] — to put together; to assemble; (sich) to consist of
 - [[Zusammensetzung]] — composition; make-up
 - [[Zusammenspiel]] — interplay; teamwork
 - [[Zusammenstellung]] — compilation; selection; composition
 - [[zusammentreffen]] — to meet; to coincide
 - [[zusammenwirken]] — to work together; to interact
 - [[Zusatz]] — addition; additive
+- [[zuschlagen]] — to slam shut; to strike; to hit
 - [[zuschreiben]] — to attribute; to ascribe
 - [[zusehends]] — visibly; noticeably
 - [[zutreffend]] — correct; applicable
@@ -1883,6 +1954,7 @@ Back to [[00 Home]]
 - [[überlassen]] — to leave to; to let have
 - [[überliefern]] — to hand down; to pass on
 - [[Überprüfung]] — check; review
+- [[überrumpeln]] — to take by surprise; to catch off guard
 - [[überschreiten]] — to exceed; to cross
 - [[übersehen]] — to overlook; to miss
 - [[Übersicht]] — overview

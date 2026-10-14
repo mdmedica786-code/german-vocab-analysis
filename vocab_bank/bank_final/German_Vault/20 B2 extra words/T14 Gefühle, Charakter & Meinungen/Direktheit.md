@@ -1,0 +1,42 @@
+---
+title: "Direktheit"
+type: "word"
+aliases: ["die Direktheit"]
+lemma: "Direktheit"
+meaning: "directness"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D3867"
+exam_use: ["Sprechen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# die Direktheit
+
+**Meaning:** directness
+**Plural:** –
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ihre Direktheit schätzen viele Kollegen.
+> *Many colleagues appreciate her directness.*
+
+**Collocations**
+- mit Direktheit
+- die Direktheit der Sprache
+- kulturelle Unterschiede in der Direktheit
+
+**Related:** [[Sprache]]
+
+**Exam use:** Sprechen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

@@ -33,7 +33,7 @@ status: "new"
 - mit Kohle heizen
 - der Ausstieg aus der Kohle
 
-**Related:** [[Ausstieg]]
+**Related:** [[abbauen]] · [[Ausstieg]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

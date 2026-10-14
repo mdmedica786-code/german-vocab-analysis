@@ -1,0 +1,38 @@
+---
+title: "vollautomatisiert"
+type: "word"
+lemma: "vollautomatisiert"
+meaning: "fully automated"
+pos: "adjective"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D4600"
+exam_use: ["Lesen", "Wissenschaft"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
+---
+<!-- bank:start -->
+# vollautomatisiert
+
+**Meaning:** fully automated
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Fabrik arbeitet vollautomatisiert.
+> *The factory works in a fully automated way.*
+
+**Collocations**
+- eine vollautomatisierte Produktion
+- vollautomatisiert arbeiten
+- ein vollautomatisierter Prozess
+
+**Related:** [[Produktion]] · [[Prozess]]
+
+**Exam use:** Lesen, Wissenschaft
+<!-- bank:end -->
+
+## My notes
+

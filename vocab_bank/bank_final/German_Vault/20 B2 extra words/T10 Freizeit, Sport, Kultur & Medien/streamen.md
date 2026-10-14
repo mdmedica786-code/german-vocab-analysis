@@ -1,0 +1,40 @@
+---
+title: "streamen"
+type: "word"
+aliases: ["streamt", "streamte", "hat gestreamt"]
+lemma: "streamen"
+meaning: "to stream (video or audio)"
+pos: "verb"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D4466"
+exam_use: ["Medien", "Alltag"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Alltag"]
+---
+<!-- bank:start -->
+# streamen
+
+**Meaning:** to stream (video or audio)
+**Forms:** streamt · streamte · hat gestreamt
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Am Abend streamen wir gern Serien.
+> *In the evening we like to stream series.*
+
+**Collocations**
+- einen Film streamen
+- Musik streamen
+- live streamen
+
+**Related:** [[Film]] · [[Musik]]
+
+**Exam use:** Medien, Alltag
+<!-- bank:end -->
+
+## My notes
+

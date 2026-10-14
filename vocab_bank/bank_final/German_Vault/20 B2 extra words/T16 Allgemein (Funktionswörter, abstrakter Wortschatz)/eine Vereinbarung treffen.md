@@ -29,7 +29,7 @@ status: "new"
 - Vereinbarungen einhalten
 - sich an eine Vereinbarung halten
 
-**Related:** [[Vereinbarung]]
+**Related:** [[Abmachung]] · [[Vereinbarung]]
 
 **Exam use:** Schreiben, Sprechen
 <!-- bank:end -->

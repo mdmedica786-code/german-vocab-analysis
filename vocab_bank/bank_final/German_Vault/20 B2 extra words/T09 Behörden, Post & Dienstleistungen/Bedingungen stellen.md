@@ -28,7 +28,7 @@ status: "new"
 - Bedingungen an etwas knüpfen
 - eine Bedingung stellen
 
-**Related:** [[Bedingung]]
+**Related:** [[knüpfen]] · [[Bedingung]]
 
 **Exam use:** Schreiben, Lesen
 <!-- bank:end -->

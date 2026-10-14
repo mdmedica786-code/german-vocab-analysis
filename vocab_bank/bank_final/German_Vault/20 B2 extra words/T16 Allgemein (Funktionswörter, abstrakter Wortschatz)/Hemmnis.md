@@ -33,7 +33,7 @@ status: "new"
 - Hemmnisse abbauen
 - ein ernstes Hemmnis
 
-**Related:** [[darstellen]]
+**Related:** [[darstellen]] · [[abbauen]]
 
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->

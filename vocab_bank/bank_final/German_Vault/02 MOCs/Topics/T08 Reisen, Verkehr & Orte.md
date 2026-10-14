@@ -6,7 +6,7 @@ tags: ["moc", "topic/T08"]
 <!-- bank:start -->
 # T08 Reisen, Verkehr & Orte
 
-Map of content. 539 words in the main bank, 77 in the B2 bank.
+Map of content. 539 words in the main bank, 160 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -568,82 +568,165 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (77)
+### B2 (160)
 
+- [[abbremsen]] — to slow down; to brake
 - [[Abschleppdienst]] — towing service
 - [[Amerikaner]] — American
 - [[Anker]] — anchor
+- [[Assistenzsystem]] — assistance system; driver-assistance system
 - [[aufbrechen]] — to set off; to break open
 - [[Aufbruch]] — departure; start; new beginning
+- [[auffahren]] — to drive into the back (of); to drive up
 - [[ausrutschen]] — to slip
 - [[Aussichtspunkt]] — viewpoint; vantage point
 - [[ausweichen]] — to dodge; to evade
+- [[autofrei]] — car-free
+- [[Automobil]] — automobile; car
+- [[Autoverkehr]] — car traffic; motor traffic
+- [[Außenspiegel]] — wing mirror; exterior mirror
+- [[Bahnlinie]] — railway line
 - [[Ballungsraum]] — conurbation; densely populated area
+- [[barrierefrei]] — barrier-free; accessible
+- [[Barrierefreiheit]] — accessibility; barrier-free access
+- [[bebaut]] — built-up; developed
+- [[Benzinverbrauch]] — petrol consumption; fuel consumption
 - [[Berufsverkehr]] — rush-hour traffic
 - [[Besichtigung]] — visit; viewing; tour
 - [[Beton]] — concrete
+- [[Betriebsstörung]] — operational disruption; service disruption
 - [[Bezirk]] — district; borough
 - [[biegen]] — to bend; to turn (a corner)
+- [[blinken]] — to flash; to indicate (with a car); to blink
 - [[britisch]] — British
 - [[Buchung]] — booking; entry
+- [[Buslinie]] — bus route; bus line
 - [[Bürgersteig]] — pavement; sidewalk
+- [[Carbonbeton]] — carbon concrete
+- [[Carsharing]] — car sharing
 - [[Deck]] — deck
 - [[diesseits]] — on this side of
 - [[eintreffen]] — to arrive; to come true
 - [[Elektroauto]] — electric car
 - [[Engländer]] — Englishman
 - [[Expedition]] — expedition
+- [[fahrerlos]] — driverless
 - [[Fahrgemeinschaft]] — carpool
 - [[Fahrkartenautomat]] — ticket machine
 - [[Fahrlehrer]] — driving instructor
+- [[Fahrradschnellweg]] — cycle superhighway; fast cycle route
+- [[Fahrradstellplatz]] — bicycle parking space
+- [[Fahrradunfall]] — bicycle accident
+- [[Fahrsicherheit]] — driving safety; road safety
+- [[Fahrtdauer]] — journey time; duration of the trip
+- [[Fahrzeit]] — travel time; driving time
 - [[Fernverkehr]] — long-distance transport
 - [[Fernweh]] — wanderlust; longing for faraway places
+- [[Flugwerft]] — aircraft maintenance base; aircraft hangar
 - [[Franzose]] — Frenchman
 - [[Fremdenverkehr]] — tourism
 - [[Friedhof]] — cemetery
+- [[gegenüberliegen]] — to be opposite; to lie across from
 - [[gelegen]] — situated; convenient
 - [[Gepäckaufbewahrung]] — left-luggage office
 - [[Geschwindigkeitsbegrenzung]] — speed limit
 - [[Getriebe]] — gearbox; transmission
 - [[Gipfel]] — summit; peak
+- [[Handbremse]] — handbrake
 - [[Handgepäck]] — hand luggage
 - [[Hauptverkehrszeit]] — peak traffic hours
 - [[Heimweg]] — way home
+- [[hin- und herfahren]] — to travel back and forth
+- [[hinfahren]] — to go there; to drive there
+- [[hinkommen]] — to get there; to arrive; to work out (colloquial)
+- [[Hupe]] — horn (of a car)
+- [[Häuserblock]] — block of houses; city block
+- [[Höchstgeschwindigkeit]] — top speed; maximum speed
 - [[hüten]] — to guard; to look after; to tend
 - [[indisch]] — Indian
 - [[Kapitän]] — captain
+- [[kilometerweit]] — for kilometres; many kilometres
+- [[Kraftstoff]] — fuel
 - [[Kreisverkehr]] — roundabout
+- [[Kupplung]] — clutch; coupling
+- [[Kurzurlaub]] — short holiday; short break
 - [[Ladestation]] — charging station
+- [[Lenkrad]] — steering wheel
+- [[Leuchtsignal]] — light signal
 - [[Leuchtturm]] — lighthouse
+- [[Lieferwagen]] — delivery van
+- [[Lokomotive]] — locomotive; engine
+- [[Luftfahrtgeschichte]] — aviation history; history of aviation
+- [[Luftfilter]] — air filter
+- [[menschenleer]] — deserted; empty of people
 - [[mit Sack und Pack]] — with bag and baggage
 - [[Mitfahrer]] — fellow passenger; passenger
 - [[Mitfahrgelegenheit]] — lift; ride share
+- [[Mobilitätsbranche]] — mobility industry
 - [[Mühle]] — mill
 - [[Nachbarland]] — neighbouring country
 - [[Naturpark]] — nature park
+- [[Navigationssystem]] — navigation system; sat nav
 - [[Pannenhilfe]] — breakdown assistance
+- [[Park-Assist-Programm]] — park assist programme
 - [[Parkgebühr]] — parking fee
+- [[Passant]] — passer-by (male)
+- [[Passantin]] — passer-by (female)
 - [[Pauschalreise]] — package holiday
+- [[Pedal]] — pedal
 - [[Pendler]] — commuter
+- [[Pendlerin]] — commuter (female)
+- [[Personentransport]] — passenger transport
 - [[Pilot]] — pilot
+- [[Privatverkehr]] — private transport; private traffic
 - [[Provinz]] — province; the sticks
 - [[Raststätte]] — motorway service area
 - [[Reiseveranstalter]] — tour operator
 - [[Ruine]] — ruin; ruins
 - [[rutschen]] — to slip; to slide
+- [[S-Bahn-Station]] — suburban train station
+- [[Scheibenwischer]] — windscreen wiper
 - [[Segel]] — sail
+- [[selbstfahrend]] — self-driving
+- [[Sicherheitsgurt]] — seat belt
 - [[Sperrung]] — closure; blocking
+- [[Stadtführer]] — city guide (person; male); city guidebook
+- [[Stadtführerin]] — city guide (female)
 - [[Stadtrundfahrt]] — city sightseeing tour
+- [[Stahlbeton]] — reinforced concrete
+- [[stehenbleiben]] — to stop; to remain standing
+- [[stornieren]] — to cancel (a booking, an order)
+- [[Superblock]] — superblock (traffic-calmed city block)
+- [[Superblock-Konzept]] — superblock concept (traffic-calmed city blocks)
 - [[Tunnel]] — tunnel
+- [[Uferweg]] — riverside path; path along the shore
 - [[umkehren]] — to turn back; to reverse
+- [[umleiten]] — to divert; to redirect
+- [[Unfallsituation]] — accident situation; situation at the accident
+- [[Unfallstelle]] — scene of the accident
 - [[Unterführung]] — underpass; subway
 - [[Untergrund]] — underground; subsoil; base
 - [[unweit]] — not far from
+- [[Urlaubsregion]] — holiday region
+- [[Urlaubszeit]] — holiday period; holiday season
+- [[verbreitern]] — to widen; to broaden
 - [[verkehren]] — to run (public transport); to associate (with)
+- [[Verkehrsanbindung]] — transport connections; access to public transport
+- [[verkehrsberuhigt]] — traffic-calmed
+- [[Verkehrschaos]] — traffic chaos
+- [[Verkehrskonzept]] — transport concept; traffic plan
+- [[Verkehrsnetz]] — transport network
+- [[Verkehrsreduzierung]] — reduction of traffic
+- [[Verkehrssicherheit]] — road safety
+- [[Verkehrssystem]] — transport system
+- [[Verkehrszentrum]] — transport hub
 - [[Verwalter]] — administrator; manager (property)
 - [[verweilen]] — to linger; to stay
 - [[Verzögerung]] — delay
+- [[Vollbremsung]] — emergency stop; full braking
+- [[Wegstrecke]] — distance; route; stretch
 - [[Wochenkarte]] — weekly ticket
+- [[Zapfsäule]] — petrol pump; fuel pump
 - [[Zebrastreifen]] — zebra crossing
 - [[Zwischenstopp]] — stopover; stop on the way
 - [[Überfahrt]] — crossing (by ferry)

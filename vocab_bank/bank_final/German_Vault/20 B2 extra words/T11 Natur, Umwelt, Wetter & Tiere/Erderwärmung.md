@@ -33,7 +33,7 @@ status: "new"
 - Folgen der Erderwärmung
 - Erderwärmung bekämpfen
 
-**Related:** [[bekämpfen]]
+**Related:** [[begrenzen]] · [[bekämpfen]]
 
 **Exam use:** Lesen, Hören
 <!-- bank:end -->

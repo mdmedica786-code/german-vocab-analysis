@@ -28,7 +28,7 @@ status: "new"
 - ein Fettnäpfchen vermeiden
 - in ein Fettnäpfchen treten
 
-**Related:** [[vermeiden]] · [[treten]]
+**Related:** [[Fettnäpfchen]] · [[vermeiden]] · [[treten]]
 
 **Exam use:** Sprechen, Alltag
 <!-- bank:end -->

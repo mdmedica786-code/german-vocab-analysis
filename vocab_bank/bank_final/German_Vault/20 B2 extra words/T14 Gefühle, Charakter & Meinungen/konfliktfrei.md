@@ -1,0 +1,36 @@
+---
+title: "konfliktfrei"
+type: "word"
+lemma: "konfliktfrei"
+meaning: "conflict-free; without conflict"
+pos: "adjective"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D4125"
+exam_use: ["Sprechen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# konfliktfrei
+
+**Meaning:** conflict-free; without conflict
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Zusammenleben in der Familie ist nicht immer konfliktfrei.
+> *Living together in the family is not always free of conflict.*
+
+**Collocations**
+- konfliktfrei lösen
+- ein konfliktfreies Miteinander
+- nicht konfliktfrei sein
+
+**Exam use:** Sprechen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

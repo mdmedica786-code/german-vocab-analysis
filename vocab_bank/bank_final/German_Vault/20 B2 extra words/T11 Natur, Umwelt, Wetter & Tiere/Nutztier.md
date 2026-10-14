@@ -33,7 +33,7 @@ status: "new"
 - artgerechte Haltung von Nutztieren
 - Nutztiere züchten
 
-**Related:** [[Haltung]]
+**Related:** [[Haltung]] · [[züchten]]
 
 **Exam use:** Lesen, Medien
 <!-- bank:end -->

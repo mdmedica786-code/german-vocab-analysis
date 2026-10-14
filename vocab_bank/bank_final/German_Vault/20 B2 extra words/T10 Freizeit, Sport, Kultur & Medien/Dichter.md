@@ -33,6 +33,8 @@ status: "new"
 - Dichter und Denker
 - der Dichter schreibt
 
+**Related:** [[Denker]]
+
 **Exam use:** Lesen, Schreiben
 <!-- bank:end -->
 

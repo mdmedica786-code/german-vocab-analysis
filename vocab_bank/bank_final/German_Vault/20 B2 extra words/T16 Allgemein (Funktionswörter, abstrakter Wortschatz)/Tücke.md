@@ -1,0 +1,40 @@
+---
+title: "Tücke"
+type: "word"
+aliases: ["die Tücke", "Tücken"]
+lemma: "Tücke"
+meaning: "pitfall; trap; difficulty"
+pos: "noun"
+article: "die"
+plural: "Tücken"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D4504"
+exam_use: ["Sprechen", "Schreiben"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+---
+<!-- bank:start -->
+# die Tücke
+
+**Meaning:** pitfall; trap; difficulty
+**Plural:** Tücken
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Technik hat ihre Tücken.
+> *Technology has its pitfalls.*
+
+**Collocations**
+- die Tücken des Alltags
+- seine Tücken haben
+- voller Tücken
+
+**Exam use:** Sprechen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

@@ -6,7 +6,7 @@ tags: ["moc", "level/B2"]
 <!-- bank:start -->
 # Level B2
 
-4042 words to study: 359 from the main bank and 3683 from the B2 extra bank.
+5043 words to study: 359 from the main bank and 4684 from the B2 extra bank.
 
 Back to [[00 Home]]
 
@@ -82,7 +82,7 @@ Back to [[00 Home]]
 - [[stationär]] — inpatient
 - [[ärztlich]] — medical; by a doctor
 
-## T01 Person, Familie & Beziehungen (69)
+## T01 Person, Familie & Beziehungen (83)
 
 - [[abgemagert]] — emaciated; very thin
 - [[Abschied nehmen]] — to say goodbye
@@ -104,12 +104,16 @@ Back to [[00 Home]]
 - [[Braut]] — bride
 - [[buschig]] — bushy
 - [[Date]] — date (romantic meeting)
+- [[einleben]] — to settle in; to get used to a new place
+- [[Familienmitglied]] — family member
 - [[Familienplanung]] — family planning
 - [[familiär]] — family-related; familial; familiar
 - [[Fremde]] — stranger
 - [[Freundeskreis]] — circle of friends
 - [[Gastfreundschaft]] — hospitality
 - [[gebräunt]] — tanned
+- [[Geburtsstadt]] — city of birth; home town
+- [[Geburtstagsfeier]] — birthday party
 - [[gedrungen]] — stocky; squat
 - [[Generationenkonflikt]] — generation gap; conflict between generations
 - [[Gesellschaft leisten]] — to keep company
@@ -118,7 +122,10 @@ Back to [[00 Home]]
 - [[Hochzeitsfeier]] — wedding celebration
 - [[in Streit geraten]] — to get into an argument
 - [[kahl]] — bald; bare
+- [[Kennenlernparty]] — get-to-know-you party; icebreaker party
 - [[Kerl]] — guy; bloke
+- [[Kinderwunsch]] — desire to have children
+- [[knüpfen]] — to tie; to knot; to make (contacts)
 - [[Krippenplatz]] — nursery place
 - [[Kumpel]] — mate; buddy (colloquial)
 - [[Lebensabend]] — old age; twilight years
@@ -126,9 +133,15 @@ Back to [[00 Home]]
 - [[Liebling]] — darling; favourite
 - [[mollig]] — plump; chubby
 - [[Nachbarschaftshilfe]] — neighbourly help
+- [[Neuankömmling]] — newcomer; new arrival
+- [[Neuling]] — newcomer; beginner; novice
 - [[Partnerschaft]] — partnership
+- [[Partnersuche]] — search for a partner
+- [[Partygeplauder]] — party chat; small talk at a party
 - [[Patchworkfamilie]] — blended family
 - [[Pflegekind]] — foster child
+- [[plaudern]] — to chat; to have a chat
+- [[quatschen]] — to chat; to chatter (colloquial)
 - [[quengeln]] — to whine; to grizzle
 - [[rundlich]] — roundish; plump
 - [[scheiden]] — to part; to depart; to divorce (sich scheiden lassen)
@@ -143,6 +156,7 @@ Back to [[00 Home]]
 - [[versammeln]] — to gather; to assemble
 - [[Verwandtschaft]] — relatives; kinship
 - [[Vetter]] — (male) cousin
+- [[weiterschlafen]] — to go on sleeping; to sleep on
 - [[wellig]] — wavy
 - [[wickeln]] — to wrap; to change a nappy
 - [[Witwe]] — widow
@@ -154,7 +168,7 @@ Back to [[00 Home]]
 - [[zur Welt kommen]] — to be born
 - [[Zusammenhalt]] — cohesion; solidarity
 
-## T02 Wohnen (133)
+## T02 Wohnen (154)
 
 - [[Abfluss]] — drain; outflow
 - [[Abstellraum]] — storage room; box room
@@ -174,6 +188,7 @@ Back to [[00 Home]]
 - [[bügeln]] — to iron
 - [[bürsten]] — to brush
 - [[Dachboden]] — attic; loft
+- [[Dachterrassenwohnung]] — apartment with a roof terrace
 - [[daheim]] — at home (S. German, Austrian, Swiss)
 - [[defekt]] — defective
 - [[Deo]] — deodorant
@@ -183,9 +198,12 @@ Back to [[00 Home]]
 - [[Eigentumswohnung]] — owner-occupied flat; condominium
 - [[Eingangstür]] — front door; entrance door
 - [[eingeschaltet]] — switched on
+- [[Einrichtungsfrage]] — question of furnishing; interior design matter
 - [[Fliese]] — tile
 - [[Fußboden]] — floor
+- [[Gartenmöbel]] — garden furniture
 - [[Gartenschlauch]] — garden hose
+- [[Gefrierfach]] — freezer compartment
 - [[Gegensprechanlage]] — intercom
 - [[Geländer]] — railing; banister
 - [[geräumig]] — spacious; roomy
@@ -204,6 +222,7 @@ Back to [[00 Home]]
 - [[isolieren]] — to insulate; to isolate
 - [[Kaltmiete]] — basic rent (excluding utilities)
 - [[Kamin]] — fireplace; chimney
+- [[Katzenklo]] — cat litter tray; cat toilet
 - [[kehren]] — to sweep; to turn
 - [[kippen]] — to tip; to tilt; to topple
 - [[Klebeband]] — adhesive tape
@@ -212,7 +231,10 @@ Back to [[00 Home]]
 - [[Kurzschluss]] — short circuit
 - [[Küchenpapier]] — kitchen roll
 - [[Laminat]] — laminate flooring
+- [[LED-Lampe]] — LED lamp
 - [[lüften]] — to air; to ventilate
+- [[Lüftung]] — ventilation; ventilation system
+- [[Maklerbüro]] — estate agent's office; brokerage office
 - [[Maklergebühr]] — estate agent's fee
 - [[Matratze]] — mattress
 - [[Mehrgenerationenhaus]] — multigenerational house
@@ -225,20 +247,27 @@ Back to [[00 Home]]
 - [[mähen]] — to mow; to cut (grass)
 - [[Möbelpacker]] — furniture mover; removal man
 - [[Mülltüte]] — bin bag
+- [[Nachbarhaus]] — neighbouring house
 - [[Nachmieter]] — subsequent tenant
 - [[Nagelschere]] — nail scissors
 - [[Nebenkostenabrechnung]] — utilities statement
+- [[Netzstecker]] — mains plug; power plug
 - [[Parkett]] — parquet
 - [[Pinsel]] — brush; paintbrush
 - [[Pinzette]] — tweezers
 - [[Platz schaffen]] — to make room
+- [[Platzproblem]] — space problem; lack of space
+- [[platzsparend]] — space-saving
+- [[Polster]] — cushion; padding
 - [[Putzmittel]] — cleaning product
 - [[Rasenmäher]] — lawnmower
 - [[Rasierer]] — razor; shaver
+- [[Raumsituation]] — space situation; availability of rooms
 - [[Rohrbruch]] — burst pipe
 - [[Rollladen]] — roller shutter
 - [[Ruhestörung]] — disturbance of the peace; noise nuisance
 - [[räumen]] — to clear; to vacate; to tidy
+- [[saubermachen]] — to clean (up)
 - [[saugen]] — to suck; to vacuum
 - [[scheuern]] — to scrub; to chafe
 - [[schleppen]] — to drag; to haul
@@ -248,6 +277,8 @@ Back to [[00 Home]]
 - [[Schraubenzieher]] — screwdriver
 - [[Schublade]] — drawer
 - [[Schönheitsreparatur]] — cosmetic repairs (e.g. painting)
+- [[Seitentür]] — side door
+- [[Sicherungskasten]] — fuse box
 - [[Sockelleiste]] — skirting board
 - [[Sozialwohnung]] — social housing flat
 - [[Spachtel]] — putty knife; filling knife
@@ -266,6 +297,7 @@ Back to [[00 Home]]
 - [[Thermostat]] — thermostat
 - [[Tischdecke]] — tablecloth
 - [[Toilettenpapier]] — toilet paper
+- [[Umbauarbeiten]] — renovation work; conversion work
 - [[Umzugskarton]] — moving box
 - [[Ungeziefer]] — vermin; pests
 - [[unterbringen]] — to accommodate; to put up
@@ -275,14 +307,17 @@ Back to [[00 Home]]
 - [[Wackelkontakt]] — loose connection
 - [[wackeln]] — to wobble; to shake
 - [[Warmmiete]] — rent including heating and utilities
+- [[Warmwasserversorgung]] — hot water supply
 - [[Waschbecken]] — washbasin; sink
 - [[Waschlappen]] — flannel; washcloth
 - [[Wasserschaden]] — water damage
 - [[Werkzeugkasten]] — toolbox
 - [[wischen]] — to wipe; to mop
 - [[Wohngemeinschaft]] — shared flat
+- [[Wohntrend]] — interior trend; living trend
 - [[Wohnungsbesichtigung]] — flat viewing
 - [[Wohnungsübergabe]] — handover of the flat
+- [[Wohnviertel]] — residential area; neighbourhood
 - [[Wärmepumpe]] — heat pump
 - [[Wäscheleine]] — clothesline
 - [[Wäscheständer]] — clothes airer
@@ -290,39 +325,63 @@ Back to [[00 Home]]
 - [[Zimmerpflanze]] — houseplant
 - [[Übergabeprotokoll]] — handover protocol (for a flat)
 
-## T03 Arbeit & Beruf (180)
+## T03 Arbeit & Beruf (317)
 
 - [[Abfindung]] — severance pay; compensation
 - [[Abmahnung]] — formal warning
 - [[Abteilungsleiter]] — head of department
+- [[Abteilungsleiterin]] — head of department (female)
 - [[Agentur]] — agency
 - [[Anforderungen stellen]] — to set requirements
 - [[angestellt]] — employed
+- [[anleiten]] — to instruct; to guide; to train
 - [[Anschreiben]] — cover letter
 - [[ansiedeln]] — to settle; to attract (businesses)
 - [[anweisen]] — to instruct; to transfer (money)
+- [[Arbeitgeberverband]] — employers' association
+- [[Arbeitsausfall]] — loss of work; absence from work
 - [[Arbeitsbedingung]] — working condition
+- [[Arbeitsbelastung]] — workload; work stress
+- [[Arbeitsbereich]] — area of work; work area
+- [[Arbeitsfeld]] — field of work
+- [[Arbeitsform]] — form of work; working method
 - [[Arbeitsgruppe]] — working group
 - [[Arbeitskampf]] — industrial action
+- [[Arbeitslage]] — employment situation; work situation
 - [[Arbeitslosenquote]] — unemployment rate
 - [[Arbeitsmarkt]] — labour market
+- [[Arbeitsorganisation]] — work organisation
+- [[Arbeitsprozess]] — work process; workflow
 - [[Arbeitsrecht]] — employment law
+- [[Arbeitsrhythmus]] — work rhythm
 - [[Arbeitsschutz]] — occupational safety
 - [[Arbeitssicherheit]] — safety at work
+- [[Arbeitsumfeld]] — work environment
 - [[Arbeitsunfähigkeitsbescheinigung]] — sick note; certificate of incapacity for work
 - [[Arbeitsvertrag]] — employment contract
+- [[Arbeitsweg]] — way to work; commute
 - [[Arbeitszeugnis]] — employment reference
+- [[Arbeitszufriedenheit]] — job satisfaction
 - [[auf der Tagesordnung stehen]] — to be on the agenda
 - [[Aufgabenbereich]] — area of responsibility
+- [[Aufgabengebiet]] — area of responsibility; field of duties
 - [[Aufhebungsvertrag]] — termination agreement
 - [[Aufsichtsrat]] — supervisory board
 - [[aufsteigen]] — to rise; to be promoted
+- [[Aufstiegsmöglichkeit]] — opportunity for advancement; promotion prospect
 - [[Auftraggeber]] — client; commissioning party
+- [[Auftragsbearbeitung]] — order processing
 - [[ausarbeiten]] — to work out; to draw up
+- [[Auslandserfahrung]] — experience abroad
+- [[ausschreiben]] — to write out; to advertise (a job); to announce
 - [[ausüben]] — to practise (a profession); to exercise
 - [[Ausübung]] — practice; exercise
+- [[Autokonzern]] — car company; car corporation
 - [[Automatisierung]] — automation
+- [[Autoproduktion]] — car production
 - [[Außendienst]] — field service; sales force (outside the office)
+- [[Bauingenieur]] — civil engineer (male)
+- [[Bauingenieurin]] — civil engineer (female)
 - [[Bearbeitung]] — processing; handling
 - [[befristen]] — to limit in time; to give a fixed term
 - [[Befristung]] — time limit; fixed term
@@ -331,53 +390,96 @@ Back to [[00 Home]]
 - [[belastbar]] — resilient; able to cope with pressure
 - [[Belegschaft]] — workforce; staff
 - [[Berater]] — adviser; consultant
+- [[Beratungskompetenz]] — advisory competence; counselling skills
 - [[Bergwerk]] — mine
+- [[Berufsanfänger]] — career starter (male); newcomer to a profession
+- [[Berufsanfängerin]] — career starter (female)
+- [[Berufsbezeichnung]] — job title; professional title
+- [[Berufseinstieg]] — start of one's career; entry into working life
+- [[Berufsperspektive]] — career prospect
 - [[Beschäftigte]] — employee
+- [[Beschäftigungsmöglichkeit]] — employment opportunity
+- [[Besprechungsraum]] — meeting room
 - [[Betreiber]] — operator; owner
+- [[Betreiberin]] — operator (female); owner (of a business)
 - [[betrieblich]] — company; operational
 - [[Betriebsausflug]] — company outing
 - [[Betriebsklima]] — working atmosphere
 - [[Bewerbungsgespräch]] — job interview
 - [[Bewerbungsmappe]] — application folder
 - [[Bildungsurlaub]] — educational leave
+- [[Biotechnologie-Unternehmen]] — biotechnology company
 - [[Boss]] — boss (colloquial)
 - [[Buchhalter]] — bookkeeper; accountant
 - [[Businessplan]] — business plan
 - [[Büroklammer]] — paper clip
+- [[Büroraum]] — office space; office room
+- [[Bürotag]] — day in the office
+- [[Bürozeit]] — office hours
+- [[Chefetage]] — executive floor; top management
+- [[Coachin]] — coach (female)
+- [[Coaching]] — coaching
+- [[Coachingkompetenz]] — coaching skills
 - [[Controlling]] — controlling (business)
 - [[Dienstleister]] — service provider
 - [[Dienstreise]] — business trip
+- [[Druckerei]] — print shop; printing company
+- [[EDV-Kenntnis]] — IT skills; computer skills
 - [[Effizienz]] — efficiency
 - [[Eigeninitiative]] — own initiative; self-motivation
+- [[eigenverantwortlich]] — on one's own responsibility; self-reliant
 - [[Eignung]] — suitability; aptitude
 - [[einarbeiten]] — to familiarise oneself; to train (on the job)
 - [[einen Auftrag erteilen]] — to place an order; to commission
+- [[Eintrittstermin]] — start date (at a company); date of joining
 - [[entwerfen]] — to design; to draft
+- [[Entwicklungsmöglichkeit]] — opportunity for development; prospects
+- [[Erfolgskonzept]] — recipe for success; successful concept
+- [[Erwerbstätige]] — employed person; gainfully employed person
 - [[etablieren]] — to establish
+- [[Eventmanager]] — event manager (male)
+- [[Eventmanagerin]] — event manager (female)
 - [[Existenzgründer]] — start-up founder; business founder
 - [[Expansion]] — expansion
 - [[Facharbeiter]] — skilled worker
 - [[Fachkraft]] — skilled worker; specialist
 - [[Fachkräftemangel]] — shortage of skilled workers
 - [[fachlich]] — professional; technical
+- [[Feedbacksystem]] — feedback system
 - [[Fertigkeit]] — skill; proficiency
+- [[fertigstellen]] — to finish; to complete
 - [[Fertigung]] — production; manufacturing
 - [[Feuerwehrmann]] — firefighter
+- [[Firmenauftritt]] — corporate appearance; company's public image
+- [[Firmenbindung]] — loyalty to the company
 - [[Firmengründung]] — founding of a company
+- [[firmenintern]] — in-house; within the company
+- [[Firmenwebseite]] — company website
 - [[Flexibilität]] — flexibility
 - [[Fließband]] — assembly line; conveyor belt
 - [[Freiberufler]] — freelancer; self-employed professional
+- [[Freizeitausgleich]] — time off in lieu; compensatory time off
+- [[Fremdsprachensekretär]] — foreign-language secretary (male)
+- [[Fremdsprachensekretärin]] — foreign-language secretary (female)
+- [[Fräser]] — milling cutter; milling machine operator
+- [[Fräsmotor]] — milling motor
+- [[Frässpindel]] — milling spindle
 - [[Fusion]] — merger
+- [[Führungsstil]] — leadership style; management style
 - [[Gehaltsabrechnung]] — salary statement
 - [[Gehaltserhöhung]] — pay rise (salary)
 - [[Gehaltsverhandlung]] — salary negotiation
 - [[Geschick]] — skill; dexterity
 - [[Geschäftsführer]] — managing director
+- [[Geschäftsmodell]] — business model
 - [[Geschäftsstelle]] — office; branch
+- [[Geschäftszweig]] — branch of business; line of business
 - [[Gesellschafter]] — shareholder; partner
 - [[Gewerbe]] — trade; business; commerce
 - [[Gewinnspanne]] — profit margin
 - [[Gleitzeit]] — flexible working hours
+- [[Großkunde]] — major customer; key client (male)
+- [[Großkundin]] — major customer; key client (female)
 - [[Großraumbüro]] — open-plan office
 - [[Gründung]] — founding; foundation
 - [[Heftklammer]] — staple
@@ -389,33 +491,57 @@ Back to [[00 Home]]
 - [[industriell]] — industrial
 - [[Inhaber]] — owner; holder
 - [[Innendienst]] — office-based service
+- [[innovativ]] — innovative
 - [[Insolvenz]] — insolvency; bankruptcy
 - [[intern]] — internal
 - [[Inventur]] — stocktaking
+- [[Jobangebot]] — job offer
+- [[Jobantritt]] — starting a job; start of a job
+- [[Jobmesse]] — job fair
+- [[Jobportal]] — job portal; job website
 - [[Kaffeepause]] — coffee break
 - [[Kapazität]] — capacity; expert
+- [[Karrierechance]] — career opportunity
 - [[Klempner]] — plumber
+- [[Knowhow]] — know-how; expertise
 - [[Kollegium]] — staff; body of colleagues
+- [[Kommunikationskompetenz]] — communication skills; communicative competence
+- [[Kommunikationsstärke]] — communication skills; strength in communicating
 - [[Konkurrent]] — competitor; rival
 - [[Konzern]] — corporation; group
 - [[kooperieren]] — to cooperate
+- [[Koordinator]] — coordinator (male)
+- [[Koordinatorin]] — coordinator (female)
+- [[krankmelden]] — to report sick; to call in sick
 - [[Krankmeldung]] — notification of sick leave
 - [[Kundenstamm]] — customer base
+- [[Kundenverhalten]] — customer behaviour
 - [[Kündigungsfrist]] — notice period
 - [[Kündigungsschutz]] — protection against dismissal
 - [[Laie]] — layperson; amateur
 - [[Landwirt]] — farmer
 - [[Laufbahn]] — career; career path
+- [[Launchen]] — launching; launch process
 - [[Leistungsfähigkeit]] — performance; capacity
+- [[Leistungsspektrum]] — range of services
 - [[Locher]] — hole punch
 - [[Logistik]] — logistics
 - [[Lohnabrechnung]] — pay slip; wage statement
 - [[Lohnerhöhung]] — pay rise (wages)
 - [[Marketing]] — marketing
+- [[Marketingaktion]] — marketing campaign; promotion
 - [[Maurer]] — bricklayer
+- [[Mentoringprogramm]] — mentoring programme
+- [[Messebau]] — trade fair construction; exhibition stand building
+- [[Messebeginn]] — start of the fair
+- [[Metallverarbeitung]] — metalworking; metal processing
 - [[Mindestlohn]] — minimum wage
 - [[Minijob]] — mini job (low-paid part-time job)
 - [[Mitarbeit]] — cooperation; participation
+- [[Mitarbeitermotivation]] — employee motivation
+- [[Mitbestimmung]] — co-determination; having a say
+- [[mitdenken]] — to think along; to follow the thought process
+- [[mitentwickeln]] — to co-develop; to help develop
 - [[Mittelstand]] — medium-sized businesses; middle class
 - [[Mitwirkung]] — participation; cooperation
 - [[Monteur]] — fitter; installation technician
@@ -423,70 +549,122 @@ Back to [[00 Home]]
 - [[Nachschub]] — fresh supplies; reinforcements
 - [[Nebenjob]] — side job; part-time job
 - [[Niederlassung]] — branch; subsidiary office
+- [[optimieren]] — to optimise
 - [[organisatorisch]] — organisational
+- [[Personaler]] — HR manager (male); personnel officer
+- [[Personalerin]] — HR manager (female); personnel officer
+- [[personell]] — relating to staff; personnel (adj.)
+- [[Pharmakonzern]] — pharmaceutical company
 - [[Praktik]] — practice; method
 - [[Probezeit]] — probation period
+- [[Produktionsbranche]] — manufacturing industry
 - [[Produktivität]] — productivity
+- [[Projektleiter]] — project manager (male)
+- [[Projektleiterin]] — project manager (female)
+- [[Projektleitung]] — project management; project leadership
+- [[Projektmanagement]] — project management
 - [[Prototyp]] — prototype
 - [[Quereinsteiger]] — career changer; lateral entrant
 - [[Redaktion]] — editorial office; editorial staff
 - [[Referenz]] — reference; testimonial
 - [[Reinigungskraft]] — cleaner
 - [[Rentenalter]] — retirement age
+- [[Routinearbeit]] — routine work; routine task
+- [[routiniert]] — experienced; practised; skilful
+- [[Ruhezeit]] — rest period; quiet hours
 - [[Sanierung]] — renovation; restructuring
+- [[Schauspielberuf]] — acting profession
 - [[Schichtarbeit]] — shift work
 - [[Schlüsselqualifikation]] — key skill; transferable skill
 - [[Schornsteinfeger]] — chimney sweep
 - [[schuften]] — to slave away; to toil
 - [[Sektor]] — sector
 - [[selbständig]] — independent; self-employed
+- [[Sicherheitsbeauftragte]] — safety officer
 - [[Sitzung]] — meeting; session
+- [[Social-Media-Manager]] — social media manager (male)
+- [[Social-Media-Managerin]] — social media manager (female)
+- [[Social-Media-Marketing]] — social media marketing
+- [[Sozialpädagoge]] — social education worker (male); social pedagogue
+- [[Sozialpädagogin]] — social education worker (female); social pedagogue
 - [[spezialisieren]] — to specialise
 - [[spezialisiert]] — specialised
+- [[Stammsitz]] — headquarters; registered office; ancestral seat
+- [[Startup]] — start-up (company)
+- [[Startup-Unternehmen]] — start-up company
 - [[Stellvertreter]] — deputy; substitute
 - [[strategisch]] — strategic
 - [[Tagung]] — conference; meeting; session
 - [[Tarifverhandlung]] — collective bargaining (talks)
 - [[Tarifvertrag]] — collective agreement
 - [[Teamarbeit]] — teamwork
+- [[Teambüro]] — team office
 - [[Tischler]] — carpenter; joiner
 - [[tätig]] — active; employed
+- [[Tätigkeitsfeld]] — field of activity; area of work
 - [[Umsatzrückgang]] — decline in sales
+- [[unbefristet]] — permanent; for an unlimited period
+- [[unproduktiv]] — unproductive
 - [[Unternehmensführung]] — corporate management
+- [[Unternehmenszentrale]] — company headquarters
 - [[Unternehmung]] — undertaking; outing
 - [[Urlaubsanspruch]] — holiday entitlement
+- [[Urlaubsantrag]] — leave request; holiday application
+- [[Urlaubstag]] — day of leave; holiday day
+- [[Verdienstmöglichkeit]] — earning opportunity; way of earning money
 - [[Vergütung]] — remuneration; compensation
 - [[verhandeln]] — to negotiate; to hear (a case)
+- [[verhandlungssicher]] — fluent enough for negotiations; skilled in negotiating
+- [[Verhandlungsziel]] — negotiation goal
+- [[Verkaufsleiter]] — sales manager (male)
+- [[Verkaufsleiterin]] — sales manager (female)
 - [[Verschwiegenheit]] — discretion; confidentiality
 - [[Versetzung]] — transfer; promotion to next class
 - [[Versicherungsvertreter]] — insurance agent
+- [[Versicherungsvertreterin]] — insurance agent (female)
+- [[Verwaltungschef]] — head of administration (male)
+- [[Verwaltungschefin]] — head of administration (female)
 - [[Vorgesetzter]] — superior; boss
 - [[Vorgänger]] — predecessor
 - [[Vorsitzende]] — chairperson; chair
+- [[Vorstandsvorsitzende]] — chair of the board; CEO
 - [[Wartung]] — maintenance; servicing
+- [[wechselbereit]] — ready to switch; willing to change
+- [[Wechselwillige]] — person willing to switch (provider, job)
 - [[Werdegang]] — career; development (path)
+- [[Werkstudentenvertrag]] — working-student contract
 - [[Zeitarbeit]] — temporary agency work
+- [[Zeiterfassungssystem]] — time-recording system; time clock
 - [[Zeitmanagement]] — time management
 - [[Zielgruppe]] — target group
+- [[Zukunftschance]] — future opportunity; prospects
+- [[Zukunftsperspektive]] — future prospect; outlook for the future
 - [[Zweig]] — branch; sector
 - [[Zweigstelle]] — branch office
+- [[überlastet]] — overloaded; overburdened
 - [[Übernahme]] — takeover; acceptance
 - [[Überstunden]] — overtime
 
-## T04 Ausbildung, Schule & Studium (99)
+## T04 Ausbildung, Schule & Studium (163)
 
 - [[Abendkurs]] — evening class
+- [[abfragen]] — to quiz; to test (orally); to query
 - [[Abschlussarbeit]] — final thesis; degree dissertation
 - [[abschneiden]] — to cut off; to perform (in a test)
+- [[Abstract]] — abstract; summary (of a paper)
 - [[Akademiker]] — university graduate; academic
 - [[akademisch]] — academic
 - [[Aufnahmeprüfung]] — entrance exam
 - [[Aufsatz]] — essay
 - [[Ausbilder]] — trainer; instructor (in vocational training)
+- [[Ausbildungsinhalt]] — training content; subject of the training
 - [[Ausbildungsplatz]] — training place; apprenticeship position
+- [[Ausbildungstag]] — training day
 - [[Ausleihe]] — lending; loan desk
 - [[Auswendiglernen]] — learning by heart; rote learning
 - [[Bachelorstudium]] — bachelor's degree programme
+- [[Basiskenntnis]] — basic knowledge
+- [[Beamer]] — projector (for presentations)
 - [[Befragung]] — survey; questioning
 - [[Begabung]] — talent; gift
 - [[beibringen]] — to teach; to impart; to produce (evidence)
@@ -494,14 +672,21 @@ Back to [[00 Home]]
 - [[Berufsorientierung]] — career orientation
 - [[Bibliothekar]] — librarian
 - [[Bildungsabschluss]] — educational qualification
+- [[Bildungschance]] — educational opportunity
+- [[Bildungsprojekt]] — education project
 - [[Bildungsweg]] — educational path
+- [[Biologe]] — biologist (male)
+- [[Biologin]] — biologist (female)
 - [[blau machen]] — to skip work or school
 - [[Campus]] — campus
 - [[chemisch]] — chemical
+- [[Computerklasse]] — computer class; computer room
 - [[Dissertation]] — doctoral thesis
+- [[Doktorat]] — doctorate (Austria/Switzerland)
 - [[Dozent]] — lecturer
 - [[durchfallen]] — to fail (an exam); to fall through
 - [[durchkommen]] — to get through; to pass
+- [[Ehrendoktorwürde]] — honorary doctorate
 - [[eine Prüfung ablegen]] — to take an exam
 - [[einen Vortrag halten]] — to give a lecture
 - [[Einschreibung]] — enrolment; registration
@@ -510,43 +695,74 @@ Back to [[00 Home]]
 - [[erlernen]] — to learn (thoroughly); to master
 - [[Erstsemester]] — first-semester student
 - [[Exmatrikulation]] — de-registration from university
+- [[experimentieren]] — to experiment
 - [[Fachbuch]] — specialist book
+- [[Fachdisziplin]] — academic discipline; field of expertise
 - [[Fachhochschule]] — university of applied sciences
 - [[Fachliteratur]] — specialist literature
 - [[Fakultät]] — faculty (university)
 - [[Fernstudium]] — distance learning degree
+- [[Forscherteam]] — research team
+- [[Forschungsansatz]] — research approach
+- [[Forschungsinstitut]] — research institute
+- [[Forschungsrichtung]] — line of research; research direction
+- [[fortgeschritten]] — advanced
 - [[Fortschritte machen]] — to make progress
 - [[Fußnote]] — footnote
 - [[Förderunterricht]] — supplementary tuition; remedial classes
+- [[Förderwerk]] — funding organisation; scholarship foundation
 - [[Gasthörer]] — guest student; auditor
 - [[gebildet]] — educated; cultured
 - [[Geisteswissenschaft]] — humanities (discipline)
+- [[habilitieren]] — to qualify as a university lecturer (Habilitation)
 - [[Handbuch]] — manual; handbook
 - [[Hörsaal]] — lecture hall
+- [[Hörtext]] — listening text; listening comprehension text
 - [[Immatrikulation]] — university enrolment
+- [[Ingenieurwesen]] — engineering (as a field)
 - [[Inhaltsverzeichnis]] — table of contents
 - [[Jahrgang]] — year group; birth year; vintage
+- [[Kapitelthema]] — chapter topic
 - [[Kolloquium]] — colloquium; academic discussion
+- [[Kommunikationswissenschaftler]] — communication scientist (male)
+- [[Kommunikationswissenschaftlerin]] — communication scientist (female)
+- [[Konfliktforschung]] — conflict research
 - [[Korrektur]] — correction
+- [[kunstpädagogisch]] — relating to art education
 - [[Lehrbuch]] — textbook
 - [[lehren]] — to teach
 - [[Lehrkraft]] — teacher; member of teaching staff
 - [[Lehrplan]] — curriculum; syllabus
 - [[Lehrstuhl]] — university chair; professorship
+- [[leichtfallen]] — to come easily; to be easy (for someone)
 - [[Leihfrist]] — loan period
 - [[Leistungsnachweis]] — proof of academic achievement; credit
+- [[Lerngruppe]] — study group; learning group
+- [[Lernplattform]] — learning platform
+- [[Lernprogramm]] — learning programme; tutorial software
+- [[Lernschwierigkeit]] — learning difficulty
 - [[Lernstrategie]] — learning strategy
+- [[Lernthema]] — learning topic
+- [[Lernumgebung]] — learning environment
 - [[Lernziel]] — learning objective
+- [[Lesehund]] — reading dog (dog that children read aloud to)
 - [[Lesesaal]] — reading room
 - [[Lineal]] — ruler
 - [[Literaturverzeichnis]] — bibliography
+- [[Master-Studiengang]] — master's degree programme
 - [[mathematisch]] — mathematical
+- [[Medienwissenschaften]] — media studies
 - [[Meisterbrief]] — master craftsman's certificate
 - [[Methodik]] — methodology
 - [[Nachschlagewerk]] — reference work
 - [[Naturwissenschaft]] — natural science
+- [[naturwissenschaftlich]] — scientific; relating to the natural sciences
 - [[Niveau]] — level; standard
 - [[Notizbuch]] — notebook
+- [[Oberschule]] — secondary school (in some German states)
+- [[Politikunterricht]] — politics lessons; social studies (as a school subject)
+- [[Projektfest]] — project celebration; project party
+- [[Projekttag]] — project day
 - [[Promotion]] — doctorate; doctoral degree
 - [[Prüfungsangst]] — exam anxiety
 - [[Prüfungsordnung]] — examination regulations
@@ -555,57 +771,175 @@ Back to [[00 Home]]
 - [[Pädagogik]] — education; pedagogy
 - [[Radiergummi]] — rubber; eraser
 - [[Regelstudienzeit]] — standard period of study
+- [[Rollenspiel]] — role play; role-playing game
+- [[Schauspielakademie]] — acting academy; drama school
+- [[Schauspielausbildung]] — acting training
+- [[Schauspielstudium]] — acting studies; drama degree
+- [[Schreibstift]] — pen or pencil; writing instrument
 - [[Schulpflicht]] — compulsory schooling
 - [[schwänzen]] — to skip (school, class)
+- [[Schülerhilfe]] — tutoring for pupils; homework help
 - [[Semesterferien]] — semester break
 - [[Semesterticket]] — semester ticket (student travel pass)
 - [[Seminararbeit]] — seminar paper; term paper
 - [[Sozialwissenschaft]] — social science
+- [[spielerisch]] — playful; in a playful way
+- [[Sportwissenschaftler]] — sports scientist (male)
+- [[Sportwissenschaftlerin]] — sports scientist (female)
 - [[Sprachzertifikat]] — language certificate
 - [[Stichprobe]] — sample; spot check
 - [[Studiengang]] — degree programme; course of study
 - [[Studiengebühr]] — tuition fee
+- [[Systembiologie]] — systems biology
 - [[Taschenrechner]] — calculator
 - [[Tutor]] — tutor; student teaching assistant
 - [[Umschulung]] — retraining
 - [[Unterrichtsstunde]] — lesson; class period
 - [[vertiefen]] — to deepen; to intensify
+- [[Vertiefung]] — deepening; specialisation; hollow
+- [[Vorkenntnis]] — prior knowledge; previous knowledge
+- [[Völkerkunde]] — ethnology; cultural anthropology
 - [[Wahlfach]] — elective subject
+- [[Wahrnehmungsübung]] — perception exercise
+- [[weiterbilden]] — to continue one's education; to undertake further training; (sich) to do further training
 - [[Weiterbildungsangebot]] — further education offering
+- [[Weiterbildungsmöglichkeit]] — opportunity for further training
 - [[weiterführend]] — further; advanced; secondary
 - [[Werkstudent]] — working student
+- [[Wissenschaftsfonds]] — science fund (research funding body)
+- [[Wissenschaftspreis]] — science prize
+- [[Wörterlernen]] — learning words; vocabulary learning
+- [[Zukunftspreis]] — future award; prize for innovation
 
-## T05 Gesundheit & Körper (26)
+## T05 Gesundheit & Körper (123)
 
+- [[abfühlen]] — to feel (with the hands); to sense
+- [[Allergie]] — allergy
+- [[allergisch]] — allergic
+- [[anfällig]] — susceptible; prone
+- [[ansteckend]] — contagious; infectious
+- [[Anti-Stress-Workshop]] — anti-stress workshop
+- [[Arztbrief]] — doctor's letter; medical report
+- [[Arztgespräch]] — consultation with a doctor
+- [[Asthma]] — asthma
+- [[Atemluft]] — air for breathing; breathing air
+- [[ausatmen]] — to breathe out; to exhale
 - [[Auslöser]] — trigger; cause; shutter release
 - [[Beeinträchtigung]] — impairment; restriction; disruption
 - [[Belastung]] — strain; burden
+- [[Bestrahlung]] — radiation treatment; irradiation
+- [[beweglich]] — movable; flexible; agile
 - [[Beweglichkeit]] — mobility; flexibility
+- [[biopharmazeutisch]] — biopharmaceutical
 - [[bücken]] — to bend down; to stoop
+- [[Checkup]] — check-up; medical examination
+- [[Chemotherapie]] — chemotherapy
+- [[Corona-Impfstoff]] — coronavirus vaccine
+- [[Corona-Pandemie]] — coronavirus pandemic
+- [[Corona-Virus]] — coronavirus
+- [[dosieren]] — to dose; to measure out
+- [[durchschlafen]] — to sleep through (the night)
+- [[Einschlafhilfe]] — sleep aid; help for falling asleep
+- [[Entspannungstechnik]] — relaxation technique
+- [[erholsam]] — restful; relaxing
 - [[erkranken]] — to fall ill
+- [[ersticken]] — to suffocate; to choke
+- [[Essverhalten]] — eating habits; eating behaviour
+- [[Facharzt]] — specialist doctor (male)
+- [[Facharztpraxis]] — specialist's practice
+- [[Fachärztin]] — specialist doctor (female)
 - [[Faust]] — fist
+- [[Gehirnbereich]] — brain area; region of the brain
 - [[genetisch]] — genetic
+- [[geschwollen]] — swollen
+- [[gesundheitlich]] — health-related; regarding health
+- [[Gesundheits-App]] — health app
+- [[Gesundheits-Forum]] — health forum
+- [[Gesundheitsbereich]] — health sector; health field
+- [[Gesundheitsmanagement]] — health management
+- [[Gesundheitsproblem]] — health problem
+- [[Hals-Nasen-Ohrenarzt]] — ear, nose and throat doctor (male)
+- [[Hausarzt]] — family doctor; GP (male)
+- [[Hausärztin]] — family doctor; GP (female)
+- [[heilbar]] — curable; treatable
+- [[Hospital]] — hospital (older/formal word)
+- [[Humanmedizin]] — human medicine
+- [[hundemüde]] — dog-tired; exhausted (colloquial)
+- [[Hörschaden]] — hearing damage
+- [[Immunabwehr]] — immune defence
+- [[Impfstoff]] — vaccine
+- [[Implantat]] — implant
+- [[implantieren]] — to implant
+- [[Karies]] — tooth decay; caries
+- [[Knieproblem]] — knee problem
+- [[Kontrolltermin]] — follow-up appointment; check-up appointment
+- [[Krankentransport]] — patient transport; ambulance transport
+- [[krankhaft]] — pathological; morbid
+- [[Krankheitserreger]] — pathogen; disease-causing agent
 - [[kratzen]] — to scratch
+- [[Krebsforschung]] — cancer research
+- [[Krebsmedikament]] — cancer drug; cancer medication
+- [[Krebspatient]] — cancer patient (male)
+- [[Krebspatientin]] — cancer patient (female)
+- [[Kreislaufproblem]] — circulatory problem
+- [[Kribbeln]] — tingling; pins and needles
 - [[Lebensweise]] — way of life; lifestyle
+- [[Lungenkrankheit]] — lung disease
 - [[Meditation]] — meditation
+- [[Medizintechniker]] — medical technician (male); biomedical engineer
+- [[Medizintechnikerin]] — medical technician (female); biomedical engineer
+- [[Migräne]] — migraine
 - [[nackt]] — naked
+- [[Nasenspitze]] — tip of the nose
+- [[Neurophysiologe]] — neurophysiologist (male)
+- [[Neurophysiologin]] — neurophysiologist (female)
 - [[ohnmächtig]] — unconscious; fainted
+- [[Online-Behandlungsmethode]] — online treatment method
+- [[Pandemie]] — pandemic
 - [[psychisch]] — mental; psychological
+- [[Psychoanalyse]] — psychoanalysis
 - [[rissig]] — cracked; chapped
+- [[Rückenübung]] — back exercise
+- [[Schlafengehen]] — going to bed; bedtime
+- [[Schlafmangel]] — lack of sleep; sleep deprivation
+- [[Schlafphase]] — sleep phase; stage of sleep
+- [[schlapp]] — limp; weak; run-down
 - [[schmerzhaft]] — painful
 - [[schnarchen]] — to snore
+- [[schonen]] — to spare; to protect; (sich) to take it easy
+- [[Schönheits-OP]] — cosmetic surgery
+- [[Schönheitsschlaf]] — beauty sleep
+- [[Sehbehinderung]] — visual impairment
+- [[Seniorenheim]] — retirement home; care home
 - [[Sex]] — sex
 - [[sexuell]] — sexual
+- [[Sonnenbrand]] — sunburn
+- [[Sportverletzung]] — sports injury
 - [[spritzen]] — to spray; to splash; to inject
 - [[spröde]] — brittle; chapped; aloof
+- [[Tagesrhythmus]] — daily rhythm; daily routine
 - [[Taille]] — waist
 - [[Tattoo]] — tattoo
+- [[Tiefschlaf]] — deep sleep
+- [[Tiefschlafphase]] — deep-sleep phase
+- [[todmüde]] — dead tired; exhausted
+- [[Traumphase]] — dream phase; REM phase
+- [[unausgeschlafen]] — sleep-deprived; not well rested
+- [[Universitätsklinikum]] — university hospital
+- [[Untersuchungsergebnis]] — examination result; test result
 - [[verfroren]] — chilly; sensitive to cold
 - [[vertragen]] — to tolerate; to bear; to get on (sich vertragen)
+- [[verträglich]] — well tolerated; compatible; good-natured
+- [[Wartezimmer]] — waiting room
+- [[Widerstandsfähigkeit]] — resilience; resistance
 - [[Wohlbefinden]] — well-being; comfort
+- [[Zuzahlung]] — additional payment; co-payment
+- [[übermüdet]] — overtired; exhausted
+- [[übertragbar]] — transferable; transmissible; contagious
 
-## T06 Essen & Trinken (116)
+## T06 Essen & Trinken (140)
 
+- [[alkoholfrei]] — alcohol-free; non-alcoholic
 - [[Alufolie]] — aluminium foil
 - [[appetitlich]] — appetising
 - [[Auflauf]] — casserole; bake
@@ -613,6 +947,7 @@ Back to [[00 Home]]
 - [[Aufschnitt]] — sliced cold meats and cheese
 - [[Backblech]] — baking tray
 - [[Backpapier]] — baking paper
+- [[Backpulver]] — baking powder
 - [[Bedienung]] — service; waiter or waitress
 - [[Beilage]] — side dish; supplement (newspaper)
 - [[bekömmlich]] — easily digestible; wholesome
@@ -627,20 +962,26 @@ Back to [[00 Home]]
 - [[deftig]] — hearty; substantial
 - [[Dosenöffner]] — tin opener
 - [[duften]] — to smell good; to be fragrant
+- [[Eierkuchen]] — pancake (esp. in eastern/northern Germany)
 - [[einlegen]] — to insert; to pickle
 - [[Eintopf]] — stew; one-pot meal
 - [[Erdbeere]] — strawberry
 - [[erfrischen]] — to refresh
 - [[erhitzen]] — to heat
+- [[erntefrisch]] — freshly harvested
 - [[fade]] — bland; insipid
 - [[Feinkost]] — delicatessen; gourmet food
 - [[Fertiggericht]] — ready meal
 - [[fettig]] — greasy; oily
 - [[Flaschenöffner]] — bottle opener
 - [[Fleischer]] — butcher
+- [[fleischlos]] — meatless; vegetarian
+- [[Fleischverbrauch]] — meat consumption
+- [[Foodtruck]] — food truck
 - [[Forelle]] — trout
 - [[Frischhaltefolie]] — cling film
 - [[Gefrierbeutel]] — freezer bag
+- [[Gemüsehandel]] — vegetable trade; greengrocer's business
 - [[Getreide]] — grain; cereal
 - [[Glühwein]] — mulled wine
 - [[Haselnuss]] — hazelnut
@@ -666,11 +1007,13 @@ Back to [[00 Home]]
 - [[Kraut]] — herb; cabbage
 - [[kross]] — crispy
 - [[Krug]] — jug; mug
+- [[Kräutertee]] — herbal tea
 - [[Kuchenform]] — cake tin
 - [[köstlich]] — delicious
 - [[Lachs]] — salmon
 - [[lauwarm]] — lukewarm
 - [[Lebkuchen]] — gingerbread
+- [[Leitungswasser]] — tap water
 - [[Maultasche]] — Swabian stuffed pasta (Maultasche)
 - [[Messbecher]] — measuring jug
 - [[Mindesthaltbarkeitsdatum]] — best-before date
@@ -678,26 +1021,35 @@ Back to [[00 Home]]
 - [[Nahrung]] — food; nourishment
 - [[Nudelholz]] — rolling pin
 - [[Nährstoff]] — nutrient
+- [[Obsthandel]] — fruit trade; fruit business
 - [[Olivenöl]] — olive oil
 - [[pikant]] — spicy; piquant
+- [[Protein]] — protein
 - [[Pürierstab]] — hand blender
 - [[Quitte]] — quince
 - [[Radler]] — shandy (beer and lemonade)
 - [[Reibe]] — grater
+- [[Restaurantbesuch]] — visit to a restaurant
 - [[Rotwein]] — red wine
 - [[rühren]] — to stir; to move (emotionally)
+- [[Rührgerät]] — hand mixer; electric whisk
 - [[saftig]] — juicy
 - [[salzen]] — to salt
+- [[Salzstreuer]] — salt shaker
 - [[Sauerkraut]] — sauerkraut; pickled cabbage
 - [[Schale]] — bowl; shell; peel
 - [[Schluck]] — sip; gulp
 - [[schmackhaft]] — tasty; palatable
 - [[schmieren]] — to spread; to smear; to grease
+- [[Schneebesen]] — whisk
 - [[Schneidebrett]] — chopping board
 - [[Schöpflöffel]] — ladle
 - [[Sieb]] — sieve; strainer
+- [[Smoothie]] — smoothie
 - [[speisen]] — to dine; to eat (formal)
+- [[Spinat]] — spinach
 - [[Spätzle]] — Swabian egg noodles
+- [[Stammgast]] — regular (customer); regular guest
 - [[streuen]] — to scatter; to sprinkle
 - [[säuerlich]] — slightly sour
 - [[süßlich]] — sweetish; cloying
@@ -706,6 +1058,7 @@ Back to [[00 Home]]
 - [[Teig]] — dough; batter
 - [[Theke]] — counter; bar
 - [[Thermoskanne]] — thermos flask
+- [[tiefgekühlt]] — frozen; deep-frozen
 - [[Tiefkühlkost]] — frozen food
 - [[Toaster]] — toaster
 - [[Tresen]] — counter; bar
@@ -713,6 +1066,7 @@ Back to [[00 Home]]
 - [[umrühren]] — to stir
 - [[ungenießbar]] — inedible; unpalatable
 - [[Untersetzer]] — coaster; mat (under a pot)
+- [[Vanillezucker]] — vanilla sugar
 - [[verschütten]] — to spill
 - [[Vollkornbrot]] — wholemeal bread
 - [[Vorspeise]] — starter; appetiser
@@ -720,20 +1074,25 @@ Back to [[00 Home]]
 - [[Walnuss]] — walnut
 - [[Wasserkocher]] — electric kettle
 - [[zartbitter]] — dark (chocolate); bittersweet
+- [[Zartbitterschokolade]] — dark chocolate (plain)
+- [[zerschneiden]] — to cut up; to cut into pieces
+- [[Znüni]] — mid-morning snack (Swiss)
 - [[Zubereitung]] — preparation (of food)
 - [[zäh]] — tough; tenacious
 
-## T07 Einkaufen, Kleidung & Geld (156)
+## T07 Einkaufen, Kleidung & Geld (189)
 
 - [[Abbuchung]] — debit; withdrawal from an account
 - [[abgenutzt]] — worn; worn out
 - [[Abrechnung]] — bill; statement; settlement
 - [[Abschlag]] — discount; advance payment
 - [[Absicherung]] — safeguarding; security
+- [[Abwärtstrend]] — downward trend
 - [[Abzug]] — deduction; withdrawal
 - [[abzüglich]] — minus; less
 - [[Aktie]] — share; stock
 - [[Altersvorsorge]] — retirement provision
+- [[anheben]] — to raise; to lift; to increase
 - [[anlegen]] — to invest; to create; to put on
 - [[Anleger]] — investor
 - [[Anprobe]] — fitting; trying on
@@ -745,18 +1104,26 @@ Back to [[00 Home]]
 - [[auskommen]] — to get by; to get along
 - [[Ausverkauf]] — clearance sale
 - [[Auszahlung]] — payout; disbursement
+- [[Autohändler]] — car dealer (male)
+- [[Autohändlerin]] — car dealer (female)
+- [[Bankdaten]] — bank details
+- [[bargeldlos]] — cashless
 - [[begleichen]] — to settle (a bill); to pay
+- [[Bekleidung]] — clothing; clothes
 - [[belaufen]] — to amount to
 - [[beschaffen]] — to obtain; to procure
 - [[Beschaffung]] — procurement; obtaining
 - [[Besitz]] — possession; property
+- [[Besorgung]] — errand; purchase
 - [[Bestand]] — stock; inventory; existence
 - [[Besteuerung]] — taxation
 - [[Beutel]] — bag; pouch
 - [[binden]] — to tie; to bind
 - [[Bonität]] — creditworthiness
 - [[Börse]] — stock exchange; market
+- [[börsennotiert]] — listed on the stock exchange
 - [[bürgen]] — to vouch; to guarantee
+- [[dahaben]] — to have in stock; to have at home
 - [[Darlehen]] — loan
 - [[Daunenjacke]] — down jacket
 - [[die Kosten tragen]] — to bear the costs
@@ -764,6 +1131,7 @@ Back to [[00 Home]]
 - [[Eigenkapital]] — equity; own capital
 - [[Eigentum]] — property
 - [[Eigentümer]] — owner
+- [[einbehalten]] — to withhold; to retain (money)
 - [[Einkünfte]] — income; earnings
 - [[Einlage]] — deposit; contribution; insert
 - [[einlösen]] — to cash (in); to redeem; to keep (a promise)
@@ -785,7 +1153,9 @@ Back to [[00 Home]]
 - [[Gegenleistung]] — something in return; consideration
 - [[Geldanlage]] — investment
 - [[gemustert]] — patterned
+- [[Gesamtschaden]] — total damage
 - [[gestreift]] — striped
+- [[Gewinnsteigerung]] — increase in profits
 - [[Gewährleistung]] — warranty; guarantee
 - [[Gut]] — good; property; estate
 - [[Guthaben]] — credit balance; credit
@@ -795,12 +1165,14 @@ Back to [[00 Home]]
 - [[handlich]] — handy; easy to handle
 - [[Handyvertrag]] — mobile phone contract
 - [[Haushaltsplan]] — budget plan
+- [[hochwertig]] — high-quality; premium
 - [[Honorar]] — fee (for freelance work)
 - [[Hosentasche]] — trouser pocket
 - [[Hypothek]] — mortgage
 - [[in Rechnung stellen]] — to charge; to bill
 - [[Inflation]] — inflation
 - [[investieren]] — to invest
+- [[Investorin]] — investor (female)
 - [[Kalkulation]] — calculation; costing
 - [[Kapital]] — capital
 - [[kariert]] — checked; squared
@@ -810,13 +1182,16 @@ Back to [[00 Home]]
 - [[Kleiderbügel]] — clothes hanger
 - [[Konfektionsgröße]] — clothing size
 - [[Konjunktur]] — economic situation; boom
+- [[Konsumausgaben]] — consumer spending
 - [[Konsumverhalten]] — consumer behaviour
+- [[kostbar]] — precious; valuable
 - [[Kostenvoranschlag]] — cost estimate
 - [[kostspielig]] — expensive; costly
 - [[Kragen]] — collar
 - [[kratzig]] — scratchy
 - [[Kulanz]] — goodwill (accommodating treatment)
 - [[Kundenkarte]] — loyalty card; customer card
+- [[Kundschaft]] — customers; clientele
 - [[kürzen]] — to shorten; to cut
 - [[Lastschrift]] — direct debit
 - [[Lebensmittelgeschäft]] — grocery shop
@@ -824,13 +1199,20 @@ Back to [[00 Home]]
 - [[Lieferant]] — supplier
 - [[Lieferfrist]] — delivery period
 - [[luftig]] — airy; light
+- [[Markenzeichen]] — trademark; hallmark
 - [[Mehrwert]] — added value; benefit
+- [[Mode-Designerin]] — fashion designer (female)
 - [[Nachzahlung]] — additional payment; back payment
 - [[Nagellack]] — nail varnish
+- [[Nationalfonds]] — national fund
+- [[Nutzungsdauer]] — period of use; useful life
 - [[Ohrring]] — earring
 - [[Optiker]] — optician
 - [[Pauschale]] — flat rate; lump sum
+- [[Pelzmantel]] — fur coat
 - [[Pfandsystem]] — deposit system
+- [[Portmonee]] — wallet; purse (variant of Portemonnaie)
+- [[Preisrabatt]] — price discount
 - [[Preisvergleich]] — price comparison
 - [[Prepaidkarte]] — prepaid card
 - [[Rechnungsbetrag]] — invoice amount
@@ -843,6 +1225,7 @@ Back to [[00 Home]]
 - [[Rückgabe]] — return; handing back
 - [[Rücklage]] — reserve; savings put aside
 - [[Rückzahlung]] — repayment; refund
+- [[Sachschaden]] — property damage; material damage
 - [[Safe]] — safe (strongbox)
 - [[samtig]] — velvety
 - [[Saum]] — hem
@@ -858,6 +1241,7 @@ Back to [[00 Home]]
 - [[Steuerlast]] — tax burden
 - [[stopfen]] — to stuff; to darn; to plug
 - [[stoßfest]] — shockproof
+- [[Strähnchen]] — highlights; small strand of hair
 - [[Subvention]] — subsidy
 - [[Teuerung]] — rise in prices
 - [[Transaktion]] — transaction
@@ -870,42 +1254,65 @@ Back to [[00 Home]]
 - [[Verbraucherschutz]] — consumer protection
 - [[Verbraucherzentrale]] — consumer advice centre
 - [[Verkauf]] — sale; selling
+- [[Verkaufszahlen]] — sales figures
 - [[Vermögen]] — fortune; assets
+- [[Versanddienst]] — shipping service; courier service
 - [[verschwenderisch]] — lavish; wasteful
+- [[Verwendungszweck]] — intended use; payment reference
+- [[Warenverkehr]] — movement of goods; trade in goods
 - [[wasserdicht]] — waterproof
 - [[Wechselkurs]] — exchange rate
+- [[Werbematerial]] — promotional material; advertising material
 - [[Windjacke]] — windcheater; light jacket
 - [[Zahlungsfrist]] — payment deadline
 - [[zerbrechlich]] — fragile
 - [[zerknittert]] — crumpled; creased
 - [[zur Auswahl stehen]] — to be available to choose from
 - [[Zuschuss]] — grant; subsidy; contribution
+- [[zuzahlen]] — to pay extra; to make an additional payment
 - [[Ärmel]] — sleeve
 
-## T08 Reisen, Verkehr & Orte (92)
+## T08 Reisen, Verkehr & Orte (175)
 
+- [[abbremsen]] — to slow down; to brake
 - [[Abreise]] — departure
 - [[Abschleppdienst]] — towing service
 - [[Amerikaner]] — American
 - [[anhalten]] — to stop; to last
 - [[Anker]] — anchor
+- [[Assistenzsystem]] — assistance system; driver-assistance system
 - [[aufbrechen]] — to set off; to break open
 - [[Aufbruch]] — departure; start; new beginning
+- [[auffahren]] — to drive into the back (of); to drive up
 - [[aufsuchen]] — to visit; to go to see
 - [[ausrutschen]] — to slip
 - [[Aussichtspunkt]] — viewpoint; vantage point
 - [[ausweichen]] — to dodge; to evade
+- [[autofrei]] — car-free
+- [[Automobil]] — automobile; car
+- [[Autoverkehr]] — car traffic; motor traffic
+- [[Außenspiegel]] — wing mirror; exterior mirror
+- [[Bahnlinie]] — railway line
 - [[Ballungsraum]] — conurbation; densely populated area
+- [[barrierefrei]] — barrier-free; accessible
+- [[Barrierefreiheit]] — accessibility; barrier-free access
+- [[bebaut]] — built-up; developed
 - [[beleuchtet]] — lit; illuminated
+- [[Benzinverbrauch]] — petrol consumption; fuel consumption
 - [[Berufsverkehr]] — rush-hour traffic
 - [[Besichtigung]] — visit; viewing; tour
 - [[Beton]] — concrete
+- [[Betriebsstörung]] — operational disruption; service disruption
 - [[Bezirk]] — district; borough
 - [[biegen]] — to bend; to turn (a corner)
+- [[blinken]] — to flash; to indicate (with a car); to blink
 - [[Bord]] — board (of a ship or plane)
 - [[britisch]] — British
 - [[Buchung]] — booking; entry
+- [[Buslinie]] — bus route; bus line
 - [[Bürgersteig]] — pavement; sidewalk
+- [[Carbonbeton]] — carbon concrete
+- [[Carsharing]] — car sharing
 - [[Deck]] — deck
 - [[diesseits]] — on this side of
 - [[eintreffen]] — to arrive; to come true
@@ -913,14 +1320,23 @@ Back to [[00 Home]]
 - [[Engländer]] — Englishman
 - [[erkunden]] — to explore
 - [[Expedition]] — expedition
+- [[fahrerlos]] — driverless
 - [[Fahrgemeinschaft]] — carpool
 - [[Fahrkartenautomat]] — ticket machine
 - [[Fahrlehrer]] — driving instructor
+- [[Fahrradschnellweg]] — cycle superhighway; fast cycle route
+- [[Fahrradstellplatz]] — bicycle parking space
+- [[Fahrradunfall]] — bicycle accident
+- [[Fahrsicherheit]] — driving safety; road safety
+- [[Fahrtdauer]] — journey time; duration of the trip
+- [[Fahrzeit]] — travel time; driving time
 - [[Fernverkehr]] — long-distance transport
 - [[Fernweh]] — wanderlust; longing for faraway places
+- [[Flugwerft]] — aircraft maintenance base; aircraft hangar
 - [[Franzose]] — Frenchman
 - [[Fremdenverkehr]] — tourism
 - [[Friedhof]] — cemetery
+- [[gegenüberliegen]] — to be opposite; to lie across from
 - [[gelegen]] — situated; convenient
 - [[Gepäckaufbewahrung]] — left-luggage office
 - [[Geschwindigkeitsbegrenzung]] — speed limit
@@ -928,67 +1344,126 @@ Back to [[00 Home]]
 - [[Gipfel]] — summit; peak
 - [[GPS]] — GPS
 - [[Halt]] — stop; hold
+- [[Handbremse]] — handbrake
 - [[Handgepäck]] — hand luggage
 - [[Hauptverkehrszeit]] — peak traffic hours
 - [[Heimweg]] — way home
+- [[hin- und herfahren]] — to travel back and forth
+- [[hinfahren]] — to go there; to drive there
+- [[hinkommen]] — to get there; to arrive; to work out (colloquial)
 - [[Hubschrauber]] — helicopter
+- [[Hupe]] — horn (of a car)
+- [[Häuserblock]] — block of houses; city block
+- [[Höchstgeschwindigkeit]] — top speed; maximum speed
 - [[hüten]] — to guard; to look after; to tend
 - [[indisch]] — Indian
 - [[Kapitän]] — captain
+- [[kilometerweit]] — for kilometres; many kilometres
+- [[Kraftstoff]] — fuel
 - [[Kreisverkehr]] — roundabout
+- [[Kupplung]] — clutch; coupling
+- [[Kurzurlaub]] — short holiday; short break
 - [[Ladestation]] — charging station
+- [[Lenkrad]] — steering wheel
+- [[Leuchtsignal]] — light signal
 - [[Leuchtturm]] — lighthouse
+- [[Lieferwagen]] — delivery van
+- [[Lokomotive]] — locomotive; engine
+- [[Luftfahrtgeschichte]] — aviation history; history of aviation
+- [[Luftfilter]] — air filter
+- [[menschenleer]] — deserted; empty of people
 - [[mit Sack und Pack]] — with bag and baggage
 - [[Mitfahrer]] — fellow passenger; passenger
 - [[Mitfahrgelegenheit]] — lift; ride share
+- [[Mobilitätsbranche]] — mobility industry
 - [[Mühle]] — mill
 - [[Nachbarland]] — neighbouring country
 - [[Nahverkehr]] — local transport
 - [[Naturpark]] — nature park
+- [[Navigationssystem]] — navigation system; sat nav
 - [[Pannenhilfe]] — breakdown assistance
+- [[Park-Assist-Programm]] — park assist programme
 - [[Parkgebühr]] — parking fee
+- [[Passant]] — passer-by (male)
+- [[Passantin]] — passer-by (female)
 - [[Pauschalreise]] — package holiday
+- [[Pedal]] — pedal
 - [[Pendler]] — commuter
+- [[Pendlerin]] — commuter (female)
+- [[Personentransport]] — passenger transport
 - [[Pilot]] — pilot
+- [[Privatverkehr]] — private transport; private traffic
 - [[Provinz]] — province; the sticks
 - [[Raststätte]] — motorway service area
 - [[Reiseveranstalter]] — tour operator
 - [[Ruine]] — ruin; ruins
 - [[rutschen]] — to slip; to slide
 - [[Rückweg]] — way back
+- [[S-Bahn-Station]] — suburban train station
+- [[Scheibenwischer]] — windscreen wiper
 - [[Segel]] — sail
+- [[selbstfahrend]] — self-driving
+- [[Sicherheitsgurt]] — seat belt
 - [[Sperrung]] — closure; blocking
+- [[Stadtführer]] — city guide (person; male); city guidebook
+- [[Stadtführerin]] — city guide (female)
 - [[Stadtrundfahrt]] — city sightseeing tour
+- [[Stahlbeton]] — reinforced concrete
 - [[Standort]] — location; site
+- [[stehenbleiben]] — to stop; to remain standing
 - [[Stopp]] — stop
+- [[stornieren]] — to cancel (a booking, an order)
+- [[Superblock]] — superblock (traffic-calmed city block)
+- [[Superblock-Konzept]] — superblock concept (traffic-calmed city blocks)
 - [[Tunnel]] — tunnel
+- [[Uferweg]] — riverside path; path along the shore
 - [[umkehren]] — to turn back; to reverse
+- [[umleiten]] — to divert; to redirect
+- [[Unfallsituation]] — accident situation; situation at the accident
+- [[Unfallstelle]] — scene of the accident
 - [[Unterführung]] — underpass; subway
 - [[Untergrund]] — underground; subsoil; base
 - [[unweit]] — not far from
+- [[Urlaubsregion]] — holiday region
+- [[Urlaubszeit]] — holiday period; holiday season
+- [[verbreitern]] — to widen; to broaden
 - [[verkehren]] — to run (public transport); to associate (with)
+- [[Verkehrsanbindung]] — transport connections; access to public transport
+- [[verkehrsberuhigt]] — traffic-calmed
+- [[Verkehrschaos]] — traffic chaos
+- [[Verkehrskonzept]] — transport concept; traffic plan
+- [[Verkehrsnetz]] — transport network
+- [[Verkehrsreduzierung]] — reduction of traffic
+- [[Verkehrssicherheit]] — road safety
+- [[Verkehrssystem]] — transport system
+- [[Verkehrszentrum]] — transport hub
 - [[Verwalter]] — administrator; manager (property)
 - [[verweilen]] — to linger; to stay
 - [[Verzögerung]] — delay
+- [[Vollbremsung]] — emergency stop; full braking
+- [[Wegstrecke]] — distance; route; stretch
 - [[woanders]] — elsewhere
 - [[Wochenkarte]] — weekly ticket
+- [[Zapfsäule]] — petrol pump; fuel pump
 - [[Zebrastreifen]] — zebra crossing
 - [[zurückkehren]] — to return
 - [[Zwischenstopp]] — stopover; stop on the way
 - [[Überfahrt]] — crossing (by ferry)
 
-## T09 Behörden, Post & Dienstleistungen (102)
+## T09 Behörden, Post & Dienstleistungen (120)
 
 - [[Abgabe]] — submission; handing in
 - [[Ablesung]] — meter reading
 - [[Abmeldung]] — de-registration; cancellation
 - [[absichern]] — to secure; to safeguard
+- [[Amtsbescheid]] — official notice; official decision
 - [[Anerkennung]] — recognition; appreciation
 - [[Anerkennungsverfahren]] — recognition procedure
 - [[Angaben machen]] — to give information; to state
 - [[Angelegenheit]] — matter; affair
 - [[Anlaufstelle]] — point of contact; support centre
 - [[anmahnen]] — to demand; to send a reminder about
+- [[Anmeldeschluss]] — registration deadline
 - [[Antragsteller]] — applicant
 - [[Arbeitslosengeld]] — unemployment benefit
 - [[Archiv]] — archive
@@ -998,11 +1473,13 @@ Back to [[00 Home]]
 - [[Aufsicht]] — supervision
 - [[Auskunft erteilen]] — to give information
 - [[Auskunft geben]] — to give information
+- [[auslaufen]] — to run out; to leak; to expire
 - [[ausweisen]] — to expel; to identify; (sich) to prove one's identity
 - [[beanstanden]] — to complain about; to object to
 - [[Bearbeitungsgebühr]] — processing fee
 - [[Bedingungen stellen]] — to impose conditions
 - [[Beglaubigung]] — certification (of a document)
+- [[Behördengespräch]] — conversation with an authority; official meeting
 - [[benachrichtigen]] — to notify; to inform
 - [[Beratungsstelle]] — advice centre
 - [[Beschwerde einlegen]] — to lodge a complaint
@@ -1018,7 +1495,10 @@ Back to [[00 Home]]
 - [[ersuchen]] — to request; to ask formally
 - [[Fahrerlaubnis]] — driving licence; permission to drive
 - [[Fahrverbot]] — driving ban
+- [[Festnetztelefon]] — landline phone
+- [[Formalität]] — formality
 - [[Fragebogen]] — questionnaire
+- [[freigeben]] — to release; to approve; to open (for use)
 - [[Führungszeugnis]] — certificate of good conduct
 - [[Geburtsurkunde]] — birth certificate
 - [[Genehmigung]] — permit; approval
@@ -1032,6 +1512,7 @@ Back to [[00 Home]]
 - [[Klient]] — client (of a lawyer, counsellor)
 - [[Korrespondenz]] — correspondence
 - [[Kurier]] — courier
+- [[Kurznachricht]] — short message; text message
 - [[Landkreis]] — district
 - [[Mahnbescheid]] — payment order; court demand for payment
 - [[mahnen]] — to remind; to warn; to demand payment
@@ -1040,13 +1521,17 @@ Back to [[00 Home]]
 - [[Mängelrüge]] — notice of defect; complaint about defects
 - [[Müllentsorgung]] — waste disposal
 - [[Nachsendeauftrag]] — mail forwarding order
+- [[Niederschrift]] — written record; minutes; transcript
 - [[Paketdienst]] — parcel service
+- [[Papierfach]] — paper tray
 - [[Pflegeversicherung]] — long-term care insurance
 - [[Postbote]] — postman; postie
 - [[Postfach]] — PO box
 - [[Protokoll]] — minutes; record
+- [[Rechtsbehelfsbelehrung]] — notice of right of appeal; information on legal remedies
 - [[Rentenversicherung]] — pension insurance
 - [[Sachbearbeiter]] — case worker; clerk in charge
+- [[Servicezeit]] — service hours
 - [[Sozialhilfe]] — social assistance
 - [[Sozialversicherung]] — social insurance
 - [[Staatsbürgerschaft]] — citizenship
@@ -1055,13 +1540,17 @@ Back to [[00 Home]]
 - [[Stromanbieter]] — electricity provider
 - [[Stromzähler]] — electricity meter
 - [[Suchtberatung]] — addiction counselling
+- [[Telefonkabine]] — telephone box; phone booth
 - [[Terminvergabe]] — appointment scheduling
+- [[Unfallbericht]] — accident report
+- [[Unfallzeitpunkt]] — time of the accident
 - [[unter Aufsicht stehen]] — to be supervised
 - [[verbindlich]] — binding; firm
 - [[Vereinbarung]] — agreement; arrangement
 - [[Vereinbarungen treffen]] — to make arrangements; to come to agreements
 - [[Verfügung]] — disposal; order; decree
 - [[Verlängerung]] — extension
+- [[Versicherungsnummer]] — insurance number
 - [[Versicherungsschutz]] — insurance coverage
 - [[Vertragsabschluss]] — conclusion of a contract
 - [[Vertragspartner]] — contracting party
@@ -1076,50 +1565,71 @@ Back to [[00 Home]]
 - [[Widerspruch einlegen]] — to lodge an objection
 - [[Wohngeld]] — housing benefit
 - [[Zusage]] — acceptance; promise; confirmation
+- [[zuschicken]] — to send (to someone); to mail
 - [[zustehen]] — to be entitled to
 - [[Zustellung]] — delivery; service (of documents)
 - [[zuweisen]] — to assign; to allocate
 - [[zwecks]] — for the purpose of
 - [[Zweitwohnsitz]] — second home; secondary residence
+- [[übermitteln]] — to transmit; to convey; to send
 
-## T10 Freizeit, Sport, Kultur & Medien (196)
+## T10 Freizeit, Sport, Kultur & Medien (334)
 
 - [[abdrucken]] — to print; to publish (in print)
+- [[Abendkasse]] — box office (on the evening); tickets at the door
+- [[abenteuerlich]] — adventurous; risky; wild
 - [[Ablenkung]] — distraction
 - [[abrufbar]] — retrievable; available on demand
 - [[Abspann]] — closing credits
 - [[Abstieg]] — relegation; descent; decline
 - [[Abwechslung]] — variety; change
+- [[adaptieren]] — to adapt; to modify
 - [[aktivieren]] — to activate
 - [[Algorithmus]] — algorithm
 - [[Applaus]] — applause
+- [[architektonisch]] — architectural
 - [[Aufführung]] — performance
 - [[Aufstieg]] — promotion; ascent; rise
 - [[aufzeichnen]] — to record; to note down
 - [[Ausrüstung]] — equipment; gear
 - [[ausscheiden]] — to drop out; to retire; to be eliminated
+- [[Ausstellungsbereich]] — exhibition area
+- [[Ausstellungsfläche]] — exhibition space
 - [[auswechseln]] — to replace; to substitute
 - [[auszeichnen]] — to distinguish; to award
+- [[Automesse]] — car show; motor show
+- [[Avatar]] — avatar
 - [[Beifall]] — applause
 - [[Benutzer]] — user
 - [[Benutzeroberfläche]] — user interface
+- [[Bergtour-App]] — hiking app (for mountain tours)
 - [[Berichterstattung]] — reporting; coverage
 - [[Besetzung]] — occupation; cast; staffing
 - [[besiegen]] — to defeat; to overcome
 - [[Bestseller]] — bestseller
+- [[Besucherzahl]] — number of visitors; attendance
 - [[Betrachter]] — viewer; observer
 - [[Betriebssystem]] — operating system
 - [[Bilderkennung]] — image recognition
+- [[Bilderrätsel]] — picture puzzle; rebus
 - [[Biographie]] — biography
 - [[blättern]] — to leaf through; to flick through
 - [[Boulevardpresse]] — tabloid press
 - [[Brauchtum]] — customs; folk traditions
 - [[Browser]] — browser
+- [[Buchhandel]] — book trade; bookselling
+- [[Buchprojekt]] — book project
+- [[Bühnencharakter]] — stage character; stage persona
 - [[Challenge]] — challenge
 - [[Chefredakteur]] — editor-in-chief
+- [[chillig]] — relaxed; chilled-out (colloquial)
 - [[Cloud]] — cloud (computing)
 - [[Code]] — code
+- [[Comedian]] — comedian
 - [[Comedy]] — comedy (genre)
+- [[Comedyserie]] — comedy series
+- [[Computerspiel]] — computer game
+- [[Computersprache]] — programming language; computer language
 - [[Cyberangriff]] — cyber attack
 - [[Cybermobbing]] — cyberbullying
 - [[Datenbank]] — database
@@ -1127,6 +1637,7 @@ Back to [[00 Home]]
 - [[Datenschutzerklärung]] — privacy policy
 - [[Datensicherung]] — data backup
 - [[Dauerbrenner]] — perennial favourite; long-running topic
+- [[Dauerlauf]] — endurance run; long-distance jog
 - [[Desinformation]] — disinformation
 - [[Dichter]] — poet
 - [[Dichtung]] — poetry; seal
@@ -1134,8 +1645,11 @@ Back to [[00 Home]]
 - [[Dokumentarfilm]] — documentary
 - [[Dokumentation]] — documentary; documentation
 - [[Drehbuch]] — screenplay; script
+- [[Drehtag]] — shooting day (film)
 - [[Echo]] — echo; response
+- [[einblenden]] — to fade in; to show (on screen); to display
 - [[Einschaltquote]] — viewing figures; ratings
+- [[Einsendung]] — entry; submission; sending in
 - [[Eintrittskarte]] — admission ticket
 - [[Elfmeter]] — penalty kick
 - [[Endgerät]] — end device; terminal device
@@ -1144,126 +1658,240 @@ Back to [[00 Home]]
 - [[Episode]] — episode
 - [[ergreifend]] — moving; touching
 - [[Erzähler]] — narrator; storyteller
+- [[Erzählerin]] — narrator (female); storyteller
+- [[Exponat]] — exhibit
 - [[Falschmeldung]] — false report; fake news item
+- [[Familienfilm]] — family film
 - [[fesseln]] — to tie up; to captivate
 - [[fesselnd]] — gripping; captivating
 - [[Feuilleton]] — arts section; culture pages
 - [[Fiktion]] — fiction
+- [[Filmemacher]] — filmmaker (male)
+- [[Filmemacherin]] — filmmaker (female)
 - [[filmen]] — to film; to record on video
 - [[Firewall]] — firewall
 - [[Fitnessstudio]] — gym; fitness studio
 - [[Follower]] — follower (social media)
+- [[Freizeitbeschäftigung]] — leisure activity; hobby
+- [[Freizeitpark]] — amusement park; theme park
 - [[Funk]] — radio; radio communication
 - [[Funkloch]] — dead zone (no signal)
+- [[Fußballtraining]] — football training
 - [[Game]] — game (video game)
+- [[gamen]] — to game; to play video games
+- [[Gamer]] — gamer
+- [[Gamerin]] — gamer (female)
+- [[Gamification]] — gamification
+- [[Gamifizierung]] — gamification (turning something into a game)
 - [[Gegendarstellung]] — right of reply; counter-statement
+- [[Gegnerin]] — opponent (female); adversary
 - [[geheimnisvoll]] — mysterious
 - [[gelungen]] — successful; well done
 - [[Gemälde]] — painting
 - [[Gesang]] — singing; song
+- [[Gesellschaftsspiel]] — board game; parlour game
 - [[Gewinner]] — winner
+- [[Gewinnerin]] — winner (female)
+- [[Gewinnerprojekt]] — winning project
+- [[Glasvitrine]] — glass display case
 - [[Glaubwürdigkeit]] — credibility
 - [[Glocke]] — bell
 - [[Golf]] — golf
 - [[Grillkohle]] — charcoal (for barbecue)
+- [[Großdruck]] — large print
 - [[Hacker]] — hacker
 - [[Hardware]] — hardware
 - [[Hashtag]] — hashtag
 - [[herausgeben]] — to publish; to hand over; to give change
 - [[Herausgeber]] — publisher; editor
 - [[Highlight]] — highlight
+- [[Highscore]] — high score
 - [[Hotspot]] — Wi-Fi hotspot
+- [[Hörbuch]] — audiobook
+- [[Hörbuch-Award]] — audiobook award
+- [[Hörbuchpreis]] — audiobook prize
 - [[Hörfunk]] — radio (broadcasting)
+- [[Imitation]] — imitation; copy
 - [[Impressum]] — imprint; legal notice
+- [[indoor]] — indoor (inside buildings)
 - [[Influencer]] — influencer
+- [[Influencerin]] — influencer (female)
+- [[inszenieren]] — to stage; to direct (a play); to orchestrate
 - [[Inszenierung]] — staging; production
 - [[Intendant]] — director (of a theatre or broadcaster)
 - [[Internetanschluss]] — internet connection
+- [[Internetnutzung]] — internet use
 - [[Journalismus]] — journalism
 - [[jubeln]] — to cheer; to rejoice
+- [[Jugendclub]] — youth club
+- [[Jugendzentrum]] — youth centre
 - [[Kabarett]] — political cabaret; satirical show
+- [[Kabarett-Bühne]] — cabaret stage
+- [[Kabarett-Stück]] — cabaret piece; cabaret show
+- [[Kabarettist]] — cabaret artist (male); satirist
+- [[Kabarettistin]] — cabaret artist (female); satirist
+- [[Kabarettpreis]] — cabaret prize
+- [[Kinderbuchreihe]] — children's book series
 - [[Klappentext]] — blurb
+- [[Kleinkünstler]] — cabaret performer; small-stage artist (male)
+- [[Kleinkünstlerin]] — cabaret performer; small-stage artist (female)
 - [[knien]] — to kneel
 - [[Kolumne]] — column (newspaper)
+- [[Komiker]] — comedian (male)
+- [[Komikerin]] — comedian (female)
+- [[Kreuzworträtsel]] — crossword puzzle
 - [[Kritiker]] — critic
+- [[Kulturfabrik]] — arts centre in a former factory; cultural factory
+- [[Kulturschaffende]] — person working in the arts; cultural worker
+- [[Kulturzentrum]] — cultural centre
+- [[Kunstbranche]] — art industry; art business
+- [[Kunstbühne]] — art stage; stage for the arts
 - [[Ladegerät]] — charger
 - [[Lauf]] — run; course
 - [[Laufband]] — treadmill
+- [[Lautstärke]] — volume; loudness
 - [[Legende]] — legend; key (of a map)
 - [[Leinwand]] — screen (cinema); canvas
 - [[Leitartikel]] — editorial; leading article
 - [[Lektüre]] — reading; reading matter
 - [[Leserbrief]] — letter to the editor
 - [[Level]] — level
+- [[Lieblingssport]] — favourite sport
+- [[Liedermacher]] — singer-songwriter (male)
+- [[Liedermacherin]] — singer-songwriter (female)
 - [[Liegestuhl]] — deckchair; sun lounger
+- [[Literaturklassiker]] — literary classic
 - [[Livestream]] — livestream
 - [[Lokalzeitung]] — local newspaper
 - [[Lustspiel]] — comedy (play)
 - [[Lyrik]] — poetry; lyric poetry
+- [[Lyriker]] — poet; lyric poet (male)
+- [[Lyrikerin]] — poet; lyric poet (female)
 - [[Magie]] — magic
 - [[magisch]] — magical
 - [[Manuskript]] — manuscript; typescript
 - [[Maske]] — mask
 - [[Mediathek]] — online media library
 - [[Medienkompetenz]] — media literacy
+- [[Medienkonsum]] — media consumption
 - [[Meinungsbildung]] — formation of opinion
 - [[Meisterschaft]] — championship
+- [[Mikrochip]] — microchip
+- [[Mikrofon]] — microphone
 - [[Mitgliedsbeitrag]] — membership fee
 - [[Monster]] — monster
+- [[Museumsbibliothek]] — museum library
+- [[Museumsgebäude]] — museum building
+- [[Museumsinsel]] — Museum Island; island of museums
+- [[Museumslandschaft]] — museum landscape; range of museums
+- [[Musikgröße]] — music great; star of the music world
+- [[Musikveranstaltung]] — music event
 - [[Nachrichtenagentur]] — news agency
 - [[Nachrichtensendung]] — news programme
 - [[Nebenrolle]] — supporting role
 - [[Newsletter]] — newsletter
+- [[Nobelpreis]] — Nobel Prize
+- [[nominieren]] — to nominate
 - [[Nutzer]] — user
+- [[Nutzerin]] — user (female)
+- [[parodieren]] — to parody
+- [[performen]] — to perform (on stage); to perform (financially)
 - [[pfeifen]] — to whistle
+- [[Planetarium]] — planetarium
 - [[Podcast]] — podcast
 - [[Poesie]] — poetry
+- [[Poetry-Slam]] — poetry slam
+- [[Poetry-Slam-Bühne]] — poetry slam stage
 - [[Pokal]] — trophy; cup
 - [[Pool]] — pool (swimming; shared resource)
 - [[Portal]] — portal; (web) platform
 - [[Porträt]] — portrait
+- [[Preisgeld]] — prize money
+- [[Preisträgerin]] — prizewinner (female)
 - [[Pressemitteilung]] — press release
 - [[Protagonist]] — protagonist; main character
+- [[Quantenprozessor]] — quantum processor
+- [[Radionachricht]] — radio news item; radio news
+- [[Radiosender]] — radio station
+- [[Rangliste]] — ranking; league table
+- [[Rechenmaschine]] — calculating machine; calculator (historical)
+- [[renommiert]] — renowned; well-known
 - [[Resonanz]] — response; echo
 - [[Ritual]] — ritual
 - [[Romantik]] — Romanticism; romance
 - [[Router]] — router
 - [[Rundfunk]] — broadcasting; radio
+- [[satirisch]] — satirical
 - [[Sauna]] — sauna
+- [[scannen]] — to scan
+- [[Schachclub]] — chess club
+- [[Schaltung]] — circuit; gear system; wiring
 - [[Schauspiel]] — play; drama; spectacle
+- [[Schauspielen]] — acting
 - [[Schiedsrichter]] — referee; umpire
+- [[Screenreader]] — screen reader
 - [[Server]] — server
 - [[Shitstorm]] — online outrage; storm of criticism
+- [[Signalton]] — signal tone; beep
+- [[Sketch]] — sketch; comedy skit
 - [[Skizze]] — sketch; outline
+- [[Social Media]] — social media
+- [[Social-Media-Kampagne]] — social media campaign
+- [[Social-Media-Kanal]] — social media channel
+- [[Softwareprogramm]] — software program
+- [[Solokünstler]] — solo artist (male)
+- [[Solokünstlerin]] — solo artist (female)
 - [[Sonnenschirm]] — parasol
 - [[Spam]] — spam
 - [[Speicher]] — memory; storage; store
 - [[Speicherkarte]] — memory card
 - [[Speicherplatz]] — storage space
+- [[Spieleabend]] — games night
+- [[Spielelement]] — game element; gaming element
+- [[Spielesystem]] — gaming system; game console
+- [[Spielform]] — form of play; type of game
+- [[spielfremd]] — unrelated to the game; extraneous (in sport)
+- [[Spielleitung]] — game management; refereeing; game master
+- [[Sportaktivität]] — sports activity
+- [[Sportereignis]] — sporting event
 - [[Spracherkennung]] — speech recognition
 - [[Staffel]] — season (of a series); relay
 - [[Stammtisch]] — regulars' table; regular meeting
+- [[stilvoll]] — stylish; tasteful
 - [[Straßenfest]] — street party
+- [[streamen]] — to stream (video or audio)
 - [[Streaming]] — streaming
 - [[Suchmaschine]] — search engine
 - [[summen]] — to hum; to buzz
 - [[Tagebuch]] — diary; journal
 - [[Talkshow]] — talk show
+- [[Theaterensemble]] — theatre ensemble
+- [[Theaterstudio]] — theatre studio
+- [[Tournee]] — tour (of a band or theatre)
 - [[Tragödie]] — tragedy
 - [[Trainingsplan]] — training plan
+- [[Transistor]] — transistor
 - [[Trauerspiel]] — tragedy (play)
+- [[Tutorial]] — tutorial
 - [[unscharf]] — blurred; out of focus
 - [[unterhaltsam]] — entertaining
 - [[Untertitel]] — subtitle
 - [[Update]] — update
+- [[updaten]] — to update
 - [[Upload]] — upload
+- [[uploaden]] — to upload
+- [[Vereinsbüro]] — club office
 - [[Vereinsleben]] — club life; life of clubs
 - [[Verfasser]] — author; writer
+- [[verfilmen]] — to adapt for film; to film (a book)
 - [[verkleiden]] — to dress up; to disguise oneself
 - [[Verleger]] — publisher
+- [[vernetzt]] — networked; connected
 - [[Vers]] — verse; line of poetry
 - [[Verschlüsselung]] — encryption
+- [[Video-Tutorial]] — video tutorial
 - [[Volksfest]] — public festival; fair
+- [[vollautomatisiert]] — fully automated
 - [[Vorspann]] — opening credits; title sequence
 - [[Vorwort]] — foreword; preface
 - [[Wanderschuh]] — hiking boot
@@ -1275,17 +1903,19 @@ Back to [[00 Home]]
 - [[Wiedergabe]] — reproduction; playback; rendering
 - [[Würfel]] — dice; cube
 - [[zeitgenössisch]] — contemporary; of the present day
+- [[Zeitungsüberschrift]] — newspaper headline
 - [[zischen]] — to hiss; to fizz
 - [[Zugangsdaten]] — login details; access data
 - [[Zwei-Faktor-Authentifizierung]] — two-factor authentication
 - [[Ästhetik]] — aesthetics
 - [[ästhetisch]] — aesthetic
 
-## T11 Natur, Umwelt, Wetter & Tiere (277)
+## T11 Natur, Umwelt, Wetter & Tiere (332)
 
 - [[abgelegen]] — remote; secluded
 - [[Abgrund]] — abyss; precipice
 - [[Abholzung]] — deforestation; felling
+- [[abkühlen]] — to cool down; to cool (something) down
 - [[Abwasser]] — wastewater; sewage
 - [[Acker]] — field (arable); ploughed land
 - [[Adler]] — eagle
@@ -1306,7 +1936,9 @@ Back to [[00 Home]]
 - [[Begrünung]] — greening; planting vegetation
 - [[bergen]] — to rescue; to salvage; to conceal
 - [[Bestäubung]] — pollination
+- [[Bio-Plantage]] — organic plantation
 - [[Biodiversität]] — biodiversity
+- [[Bioengineering]] — bioengineering
 - [[Biomüll]] — organic waste
 - [[Biotop]] — biotope; habitat
 - [[Birke]] — birch
@@ -1339,13 +1971,16 @@ Back to [[00 Home]]
 - [[Efeu]] — ivy
 - [[Eiche]] — oak
 - [[Eichhörnchen]] — squirrel
+- [[einpflanzen]] — to plant; to implant
 - [[Einwegplastik]] — single-use plastic
 - [[Eisen]] — iron
+- [[Elektrizität]] — electricity
 - [[Emission]] — emission
 - [[Energiewende]] — energy transition
 - [[entlegen]] — remote; out-of-the-way
 - [[Erdbeben]] — earthquake
 - [[Erderwärmung]] — global warming
+- [[Erdmännchen]] — meerkat
 - [[Erdrutsch]] — landslide
 - [[Ernährungssicherheit]] — food security
 - [[erzeugen]] — to produce; to generate
@@ -1364,6 +1999,7 @@ Back to [[00 Home]]
 - [[Flamme]] — flame
 - [[Fledermaus]] — bat
 - [[Flut]] — high tide; flood
+- [[Flutkatastrophe]] — flood disaster
 - [[Flächenbrand]] — large-scale fire; wildfire
 - [[Flächenverbrauch]] — land consumption
 - [[Flächenversiegelung]] — soil sealing
@@ -1375,6 +2011,7 @@ Back to [[00 Home]]
 - [[Gattung]] — genus; genre; kind
 - [[gedeihen]] — to thrive; to flourish
 - [[gefährdet]] — endangered; at risk
+- [[Gemeinschaftsgarten]] — community garden
 - [[Gestank]] — stench; bad smell
 - [[Gewässer]] — body of water; waters
 - [[Gezeiten]] — tides
@@ -1387,16 +2024,20 @@ Back to [[00 Home]]
 - [[Hauch]] — breath; hint; touch
 - [[Heide]] — heath
 - [[Herde]] — herd; flock
+- [[herumfliegen]] — to fly around
 - [[Hitzewelle]] — heatwave
 - [[Hochdruck]] — high pressure
 - [[Hochwasserschutz]] — flood protection
 - [[Horizont]] — horizon
 - [[Hummel]] — bumblebee
+- [[Hundeschule]] — dog school; dog training school
 - [[idyllisch]] — idyllic
 - [[Igel]] — hedgehog
 - [[Imker]] — beekeeper
+- [[Indoor Farming]] — indoor farming
 - [[Insektensterben]] — insect decline
 - [[jagen]] — to hunt; to chase
+- [[Jungtier]] — young animal; cub
 - [[Kaninchen]] — rabbit
 - [[karg]] — meagre; barren
 - [[Kastanie]] — chestnut
@@ -1421,19 +2062,26 @@ Back to [[00 Home]]
 - [[Laub]] — foliage; fallen leaves
 - [[Lawine]] — avalanche
 - [[lebend]] — living; alive
+- [[Lebensmittelanbau]] — food cultivation; growing of food
 - [[Lebensraum]] — habitat; living space
 - [[Lebewesen]] — living being; creature
 - [[Leine]] — lead; leash; line
 - [[leuchtend]] — bright; glowing; vivid
 - [[Libelle]] — dragonfly
 - [[Lichtung]] — clearing
+- [[Lichtverhältnis]] — lighting conditions
 - [[Linde]] — lime tree; linden
 - [[Luftfeuchtigkeit]] — humidity
+- [[Luftqualität]] — air quality
 - [[Luftverschmutzung]] — air pollution
 - [[Löwenzahn]] — dandelion
+- [[Löwin]] — lioness
 - [[Marienkäfer]] — ladybird
 - [[Massentierhaltung]] — factory farming
 - [[Maulwurf]] — mole
+- [[mehrjährig]] — perennial; lasting several years
+- [[Menschenaffe]] — great ape
+- [[Mikroorganismus]] — microorganism
 - [[Mikroplastik]] — microplastics
 - [[Monokultur]] — monoculture
 - [[Moor]] — bog; moor
@@ -1444,22 +2092,35 @@ Back to [[00 Home]]
 - [[Müllverbrennung]] — waste incineration
 - [[Nachhaltigkeit]] — sustainability
 - [[Nahrungskette]] — food chain
+- [[Naturerscheinung]] — natural phenomenon
 - [[Naturkatastrophe]] — natural disaster
 - [[Naturschutz]] — nature conservation
 - [[Naturschutzgebiet]] — nature reserve
 - [[Nest]] — nest
 - [[Niederschlag]] — precipitation (rain, snow)
 - [[Niedrigwasser]] — low water
+- [[Nutzpflanze]] — useful plant; crop
 - [[Nutztier]] — farm animal; livestock
 - [[Orkan]] — hurricane; violent storm
 - [[Ozonschicht]] — ozone layer
+- [[Papagei]] — parrot
 - [[Pestizid]] — pesticide
+- [[Pflanzenbewässerung]] — plant watering; irrigation
+- [[Pfütze]] — puddle
 - [[Photovoltaik]] — photovoltaics
+- [[Plastikabfall]] — plastic waste
+- [[Plastikberg]] — mountain of plastic
+- [[Pollen]] — pollen
+- [[Pottwal]] — sperm whale
+- [[Pudel]] — poodle
 - [[Qualle]] — jellyfish
 - [[Raubtier]] — predator; beast of prey
 - [[Rauch]] — smoke
 - [[Raureif]] — hoarfrost
 - [[rauschen]] — to rustle; to roar; to rush
+- [[recycelt]] — recycled
+- [[regenerativ]] — renewable; regenerative
+- [[Regenprognose]] — rain forecast
 - [[Regenwald]] — rainforest
 - [[Reh]] — roe deer
 - [[Revier]] — territory; district
@@ -1468,9 +2129,11 @@ Back to [[00 Home]]
 - [[Rohstoff]] — raw material
 - [[Rudel]] — pack
 - [[Schadstoff]] — pollutant; harmful substance
+- [[schadstoffarm]] — low in pollutants
 - [[Schauer]] — shower; shudder
 - [[Scheune]] — barn
 - [[schimmern]] — to shimmer; to glimmer
+- [[Schimpanse]] — chimpanzee
 - [[Schlamm]] — mud
 - [[Schlucht]] — gorge; ravine
 - [[schlüpfen]] — to slip; to hatch
@@ -1493,6 +2156,7 @@ Back to [[00 Home]]
 - [[Spatz]] — sparrow
 - [[spiegelglatt]] — smooth as glass; icy
 - [[Stadtklima]] — urban climate
+- [[Stadtluft]] — city air
 - [[Stahl]] — steel
 - [[Stall]] — stable; barn
 - [[Stamm]] — trunk; stem; tribe
@@ -1512,9 +2176,15 @@ Back to [[00 Home]]
 - [[Teich]] — pond
 - [[Teilchen]] — particle; small piece
 - [[Tiefdruck]] — low pressure
+- [[Tierart]] — animal species; kind of animal
+- [[Tierfreund]] — animal lover (male)
+- [[Tierfreundin]] — animal lover (female)
 - [[Tierhaltung]] — keeping of animals; animal husbandry
 - [[Tierheim]] — animal shelter
+- [[Tierpension]] — animal boarding home; pet hotel
 - [[Tierschutz]] — animal protection
+- [[Tiersprache]] — animal language; animal communication
+- [[Tierwohl]] — animal welfare
 - [[Tiger]] — tiger
 - [[Treibhauseffekt]] — greenhouse effect
 - [[Treibhausgas]] — greenhouse gas
@@ -1523,20 +2193,30 @@ Back to [[00 Home]]
 - [[Tulpe]] — tulip
 - [[Umweltbelastung]] — environmental pollution; burden on the environment
 - [[Umweltbewusstsein]] — environmental awareness
+- [[Umweltnutzung]] — use of the environment
+- [[Umweltprojekt]] — environmental project
+- [[umweltschonend]] — environmentally friendly; eco-friendly
+- [[Umweltverband]] — environmental association; environmental organisation
 - [[Unwetter]] — storm; severe weather
 - [[Verbrauch]] — consumption; use
 - [[Verkehrswende]] — transport transition (to sustainable mobility)
 - [[Vermehrung]] — increase; multiplication; reproduction
 - [[verschmutzt]] — dirty; polluted
+- [[Verschmutzung]] — pollution; dirt
 - [[verwittert]] — weathered
 - [[Vieh]] — cattle; livestock
 - [[Viehzucht]] — livestock farming
 - [[Vulkan]] — volcano
 - [[Wachstum]] — growth
 - [[Wal]] — whale
+- [[Wal-Laut]] — whale sound; whale call
 - [[Waldbrand]] — forest fire
+- [[Walfamilie]] — whale family; pod of whales
+- [[Warnsystem]] — warning system
 - [[Wasserfall]] — waterfall
 - [[Wasserknappheit]] — water scarcity
+- [[Wasserkraft]] — hydropower; water power
+- [[Wasserversorgung]] — water supply
 - [[Watt]] — tidal flats; mudflats
 - [[wechselhaft]] — changeable; variable
 - [[Wegwerfgesellschaft]] — throwaway society
@@ -1546,22 +2226,26 @@ Back to [[00 Home]]
 - [[Welpe]] — puppy
 - [[Wespe]] — wasp
 - [[Wetterlage]] — weather situation
+- [[Wetterverhältnis]] — weather condition
 - [[Wiederverwertung]] — recycling; reuse
 - [[Windkraft]] — wind power
 - [[Windpark]] — wind farm
+- [[Windprognose]] — wind forecast
 - [[Winterschlaf]] — hibernation
 - [[Wirbelsturm]] — cyclone; hurricane
 - [[Wolf]] — wolf
 - [[wolkenlos]] — cloudless
 - [[Wurzel]] — root
 - [[Wüste]] — desert
+- [[zersetzen]] — to decompose; to break down; (sich) to decay
 - [[Zersiedelung]] — urban sprawl
 - [[Zugvogel]] — migratory bird
+- [[züchten]] — to breed; to grow (plants)
 - [[Ökolandbau]] — organic farming
 - [[Ökosystem]] — ecosystem
 - [[Überschwemmung]] — flood
 
-## T12 Gesellschaft, Politik, Recht & Geschichte (476)
+## T12 Gesellschaft, Politik, Recht & Geschichte (520)
 
 - [[Abschiebung]] — deportation
 - [[Abstimmung]] — vote; coordination
@@ -1569,11 +2253,13 @@ Back to [[00 Home]]
 - [[Abwehr]] — defence; resistance
 - [[Agent]] — agent
 - [[Akteur]] — actor; player; participant
+- [[Aktionstag]] — day of action; awareness day
 - [[Akzeptanz]] — acceptance
 - [[Alleingang]] — solo effort; going it alone
 - [[Allgemeinheit]] — the public; general public; generality
 - [[Allianz]] — alliance
 - [[Amtsgericht]] — local court
+- [[Amtssprache]] — official language
 - [[anerkannt]] — recognised; accepted; established
 - [[anfechten]] — to contest; to challenge
 - [[Anführer]] — leader; ringleader
@@ -1588,6 +2274,7 @@ Back to [[00 Home]]
 - [[Anstalt]] — institution
 - [[antik]] — ancient; antique
 - [[Anzeige erstatten]] — to report (a crime); to file a complaint
+- [[Arbeitsgericht]] — labour court
 - [[Armee]] — army
 - [[Armut]] — poverty
 - [[Asylantrag]] — asylum application
@@ -1597,6 +2284,7 @@ Back to [[00 Home]]
 - [[aufrufen]] — to call upon; to call up; to open (a page)
 - [[aufrütteln]] — to shake up; to stir
 - [[Aufstand]] — uprising; revolt
+- [[ausbeuten]] — to exploit
 - [[ausbrechen]] — to break out; to erupt
 - [[Ausbruch]] — outbreak; eruption; escape
 - [[Auseinandersetzung]] — argument; debate; confrontation
@@ -1609,6 +2297,7 @@ Back to [[00 Home]]
 - [[Autorität]] — authority
 - [[außer Kraft setzen]] — to repeal; to suspend
 - [[Bande]] — gang; band
+- [[Banküberfall]] — bank robbery
 - [[bedrohen]] — to threaten
 - [[Bedrohung]] — threat
 - [[Bedürftigkeit]] — neediness; need
@@ -1617,8 +2306,11 @@ Back to [[00 Home]]
 - [[befehlen]] — to order; to command
 - [[befolgen]] — to follow; to obey
 - [[Befreiung]] — liberation; exemption
+- [[Befürwortung]] — support; advocacy
 - [[begehen]] — to commit; to celebrate
 - [[begraben]] — to bury
+- [[Begründer]] — founder; originator
+- [[Begründerin]] — founder (female); originator
 - [[bekennen]] — to profess; to admit to
 - [[Bekenntnis]] — confession; commitment; declaration
 - [[benachteiligen]] — to disadvantage; to discriminate against
@@ -1640,6 +2332,7 @@ Back to [[00 Home]]
 - [[Beweislast]] — burden of proof
 - [[Bewährung]] — probation
 - [[Bibel]] — Bible
+- [[Blindenschrift]] — Braille; writing for the blind
 - [[Botschafter]] — ambassador
 - [[Brauch]] — custom; tradition
 - [[Brennpunkt]] — focal point; trouble spot
@@ -1649,11 +2342,13 @@ Back to [[00 Home]]
 - [[Bundesregierung]] — federal government
 - [[Bundesrepublik]] — Federal Republic
 - [[Bundestagswahl]] — federal election
+- [[Bundesverdienstkreuz]] — Federal Cross of Merit
 - [[Bundesverfassungsgericht]] — Federal Constitutional Court
 - [[Bündnis]] — alliance
 - [[Bürgerinitiative]] — citizens' initiative
 - [[bürgerlich]] — civil; middle-class
 - [[Bürgerrecht]] — civil right
+- [[Bürgerzentrum]] — community centre; civic centre
 - [[Chancengleichheit]] — equal opportunities
 - [[Christ]] — Christian
 - [[Christentum]] — Christianity
@@ -1679,6 +2374,7 @@ Back to [[00 Home]]
 - [[einen Beschluss fassen]] — to pass a resolution
 - [[Einfluss ausüben]] — to exert influence
 - [[Einfluss nehmen]] — to exert influence
+- [[einflussreich]] — influential
 - [[eingreifen]] — to intervene; to step in
 - [[Einhaltung]] — compliance; observance
 - [[einheimisch]] — local; native
@@ -1687,9 +2383,11 @@ Back to [[00 Home]]
 - [[einschreiten]] — to intervene; to take action
 - [[Einspruch erheben]] — to lodge an objection
 - [[Einwanderer]] — immigrant
+- [[Einwanderin]] — immigrant (female)
 - [[einwandern]] — to immigrate
 - [[Einwanderung]] — immigration
 - [[einwilligen]] — to consent; to agree
+- [[Einzelperson]] — individual person
 - [[Elite]] — elite
 - [[Ellbogengesellschaft]] — dog-eat-dog society
 - [[Embargo]] — embargo
@@ -1697,6 +2395,7 @@ Back to [[00 Home]]
 - [[entbinden]] — to release (from); to give birth
 - [[entführen]] — to kidnap; to abduct
 - [[entkommen]] — to escape; to get away
+- [[Entscheidungsfreiheit]] — freedom of choice; freedom to decide
 - [[Entwicklungshilfe]] — development aid
 - [[Entwicklungsland]] — developing country
 - [[entziehen]] — to withdraw; to deprive; to evade
@@ -1710,7 +2409,9 @@ Back to [[00 Home]]
 - [[ermorden]] — to murder; to assassinate
 - [[Eroberung]] — conquest; capture
 - [[erpressen]] — to blackmail; to extort
+- [[Errungenschaft]] — achievement; accomplishment
 - [[erwirken]] — to obtain; to secure
+- [[ethnologisch]] — ethnological
 - [[evangelisch]] — Protestant; Lutheran
 - [[Exil]] — exile
 - [[Existenzminimum]] — subsistence level
@@ -1742,11 +2443,14 @@ Back to [[00 Home]]
 - [[geltend]] — valid; applicable
 - [[Geltung]] — validity; recognition
 - [[Gemeinderat]] — municipal council
+- [[Gemeinwohl]] — common good; public interest
 - [[Gender]] — gender (social)
 - [[General]] — general
 - [[Generationenvertrag]] — intergenerational contract (pension system)
 - [[Gerichtsvollzieher]] — bailiff
+- [[Geschehnis]] — event; occurrence
 - [[geschichtlich]] — historical
+- [[gesellschaftskritisch]] — critical of society; socially critical
 - [[Gesetzentwurf]] — draft law; bill
 - [[Gesetzesänderung]] — amendment of a law
 - [[Gesetzgeber]] — legislator; legislature
@@ -1785,6 +2489,7 @@ Back to [[00 Home]]
 - [[in Sicherheit bringen]] — to bring to safety
 - [[in Verhandlungen treten]] — to enter into negotiations
 - [[Infrastruktur]] — infrastructure
+- [[Inklusionshotel]] — inclusive hotel (employing people with disabilities)
 - [[ins Leben rufen]] — to found; to set up
 - [[Instanz]] — authority; instance (court)
 - [[institutionell]] — institutional
@@ -1792,6 +2497,7 @@ Back to [[00 Home]]
 - [[Interessenkonflikt]] — conflict of interest
 - [[Islam]] — Islam
 - [[islamisch]] — Islamic
+- [[jemandem den Kampf ansagen]] — to declare war on someone or something; to take up the fight against
 - [[Jude]] — Jew
 - [[jüdisch]] — Jewish
 - [[Kammer]] — chamber; association
@@ -1816,13 +2522,17 @@ Back to [[00 Home]]
 - [[kommunistisch]] — communist
 - [[Konsens]] — consensus
 - [[Korruption]] — corruption
+- [[Kreisausschuss]] — district committee
+- [[Krisengebiet]] — crisis area; conflict zone
 - [[Krone]] — crown; krone (currency)
 - [[Kämpfer]] — fighter; combatant
 - [[königlich]] — royal
 - [[Königreich]] — kingdom
 - [[Landflucht]] — rural exodus
 - [[Landtag]] — state parliament
+- [[Lebensbedingung]] — living condition
 - [[Lebenserwartung]] — life expectancy
+- [[Lebensumstände]] — living conditions; circumstances (of life)
 - [[Lebenswelt]] — world of experience; living environment
 - [[Legitimation]] — legitimation; authorization
 - [[Macht]] — power; might; force
@@ -1841,6 +2551,7 @@ Back to [[00 Home]]
 - [[Missbrauch]] — misuse; abuse
 - [[Mission]] — mission
 - [[Missstand]] — grievance; abuse; problem
+- [[mitgestalten]] — to help shape; to co-design
 - [[Mitgliedstaat]] — member state
 - [[Mittelalter]] — Middle Ages
 - [[mittelalterlich]] — medieval
@@ -1851,7 +2562,9 @@ Back to [[00 Home]]
 - [[Muslim]] — Muslim
 - [[mächtig]] — powerful; mighty
 - [[Mörder]] — murderer
+- [[Nachbarschaftsverein]] — neighbourhood association
 - [[Nachlass]] — estate (of a deceased person); discount
+- [[Nationalität]] — nationality
 - [[Nationalsozialismus]] — National Socialism
 - [[nationalsozialistisch]] — National Socialist; Nazi
 - [[Nazi]] — Nazi
@@ -1875,6 +2588,7 @@ Back to [[00 Home]]
 - [[Parteivorsitzende]] — party leader
 - [[Partizipation]] — participation; involvement
 - [[Pfarrer]] — priest; pastor
+- [[Pfarrerin]] — pastor; vicar (female)
 - [[Pflegebedürftigkeit]] — need of care
 - [[Pflegeheim]] — nursing home
 - [[Pistole]] — pistol
@@ -1896,6 +2610,7 @@ Back to [[00 Home]]
 - [[Regime]] — regime
 - [[Regulierung]] — regulation; control; settlement
 - [[Religionsfreiheit]] — freedom of religion
+- [[Religionszugehörigkeit]] — religious affiliation
 - [[Renaissance]] — Renaissance
 - [[Repräsentation]] — representation
 - [[repräsentieren]] — to represent
@@ -1913,11 +2628,13 @@ Back to [[00 Home]]
 - [[Schaden anrichten]] — to cause damage
 - [[Schlacht]] — battle
 - [[Schritte unternehmen]] — to take steps
+- [[Schuldfrage]] — question of guilt; question of blame
 - [[Schuss]] — shot; dash (of liquid)
 - [[Schwellenland]] — emerging economy; newly industrialised country
 - [[Schöpfung]] — creation
 - [[Selbstbestimmung]] — self-determination; autonomy
 - [[Senat]] — senate; governing council
+- [[sensibilisieren]] — to raise awareness; to sensitise
 - [[Sitte]] — custom; habit
 - [[Sklave]] — slave
 - [[Souveränität]] — sovereignty
@@ -1936,14 +2653,18 @@ Back to [[00 Home]]
 - [[Strafrecht]] — criminal law
 - [[Straftat]] — criminal offence
 - [[Strafvollzug]] — prison system; execution of sentence
+- [[Streikrecht]] — right to strike
 - [[Streitigkeit]] — dispute; quarrel
 - [[Strömung]] — current; trend (movement)
 - [[Sturz]] — fall; overthrow
+- [[systemrelevant]] — system-relevant; essential to the system
 - [[Sünde]] — sin
+- [[tagespolitisch]] — relating to current politics; of the day's politics
 - [[Tatbestand]] — facts of the case; offence (legal)
 - [[tatenlos]] — idle; passive
 - [[Tatort]] — crime scene; scene of the crime
 - [[Teilhabe]] — participation; inclusion
+- [[teilhaben]] — to share in; to participate in
 - [[Teilung]] — division; partition
 - [[Tempel]] — temple
 - [[Testament]] — will; testament
@@ -1951,9 +2672,12 @@ Back to [[00 Home]]
 - [[Truppe]] — troop; group; company
 - [[töten]] — to kill
 - [[umbringen]] — to kill; to murder
+- [[Umbruch]] — upheaval; radical change
 - [[ums Leben kommen]] — to lose one's life; to die
 - [[umstritten]] — controversial; disputed
+- [[UN-Klimakonferenz]] — UN climate conference
 - [[Unabhängigkeit]] — independence
+- [[ungeklärt]] — unclear; unresolved
 - [[Ungleichheit]] — inequality
 - [[unrecht]] — wrong; unjust
 - [[unschuldig]] — innocent
@@ -1998,11 +2722,13 @@ Back to [[00 Home]]
 - [[verwickeln]] — to involve; to entangle
 - [[vorsehen]] — to provide for; to plan
 - [[Völkerrecht]] — international law
+- [[Wahl-O-Mat]] — Wahl-O-Mat (online tool comparing voters' views with party positions)
 - [[Wahlkampf]] — election campaign
 - [[Wahlkreis]] — constituency
 - [[Wahlprogramm]] — election manifesto
 - [[Wahlrecht]] — right to vote; electoral law
 - [[Wandel]] — change
+- [[Weltgeschehen]] — world events; goings-on in the world
 - [[Weltmacht]] — world power; superpower
 - [[Wende]] — turn; turning point
 - [[widersetzen]] — to resist; to oppose
@@ -2010,6 +2736,7 @@ Back to [[00 Home]]
 - [[Widerstand leisten]] — to put up resistance
 - [[Willkür]] — arbitrariness; despotism
 - [[Wähler]] — voter
+- [[Wählerin]] — voter (female)
 - [[Zeitalter]] — era; age
 - [[Zeitgenosse]] — contemporary; (sometimes humorous) character; person
 - [[Zensur]] — censorship
@@ -2022,6 +2749,7 @@ Back to [[00 Home]]
 - [[zu Protokoll geben]] — to put on record; to state officially
 - [[Zuflucht]] — refuge; shelter
 - [[Zuflucht suchen]] — to seek refuge
+- [[Zugänglichkeit]] — accessibility
 - [[zulässig]] — permissible; admissible
 - [[zur Anzeige bringen]] — to report (to the police)
 - [[zur Debatte stehen]] — to be under discussion
@@ -2040,7 +2768,7 @@ Back to [[00 Home]]
 - [[Überlieferung]] — tradition; handing down
 - [[Überwachung]] — surveillance; monitoring
 
-## T13 Zeit, Zahlen, Maße & Mengen (147)
+## T13 Zeit, Zahlen, Maße & Mengen (159)
 
 - [[ablaufen]] — to expire; to run its course
 - [[Abnahme]] — decrease; acceptance (of work)
@@ -2065,9 +2793,11 @@ Back to [[00 Home]]
 - [[dauerhaft]] — permanently; lasting
 - [[demnächst]] — soon; shortly
 - [[derzeit]] — currently; at present
+- [[Dezibel]] — decibel
 - [[Diagramm]] — diagram; chart; graph
 - [[Dichte]] — density
 - [[die Zeit totschlagen]] — to kill time
+- [[diesjährig]] — this year's
 - [[Differenz]] — difference
 - [[Dreieck]] — triangle
 - [[Durchmesser]] — diameter
@@ -2087,6 +2817,8 @@ Back to [[00 Home]]
 - [[gegenwärtig]] — present; current
 - [[gelegentlich]] — occasionally
 - [[gemächlich]] — leisurely; unhurried
+- [[geraum]] — considerable (of time; only in "seit geraumer Zeit")
+- [[getaktet]] — timed; scheduled in fixed intervals
 - [[Gleichung]] — equation
 - [[Großteil]] — major part; majority
 - [[größtenteils]] — for the most part; mostly
@@ -2108,15 +2840,19 @@ Back to [[00 Home]]
 - [[Laufzeit]] — term; duration; running time
 - [[Lebensjahr]] — year of life
 - [[linear]] — linear
+- [[Lösungszahl]] — solution number; answer number
 - [[Masse]] — mass; crowd; bulk
 - [[Maximum]] — maximum; highest level
+- [[Maßeinheit]] — unit of measurement
 - [[Meile]] — mile
 - [[Messung]] — measurement
+- [[millionenfach]] — millions of times; in their millions
 - [[Minimum]] — minimum; lowest level
 - [[Mittelwert]] — mean; average (value)
 - [[mitunter]] — occasionally; at times
 - [[nach und nach]] — little by little; gradually
 - [[Nachhinein]] — hindsight (only in "im Nachhinein")
+- [[Nachthälfte]] — half of the night
 - [[nachträglich]] — subsequent; belated; afterwards
 - [[nahezu]] — almost; nearly
 - [[neuerdings]] — recently; lately
@@ -2131,6 +2867,7 @@ Back to [[00 Home]]
 - [[rasch]] — quick; swift
 - [[reichlich]] — ample; plentiful
 - [[Rückgang]] — decline; decrease
+- [[Schaubild]] — diagram; chart; graphic
 - [[schlagartig]] — sudden; abrupt
 - [[Schnelligkeit]] — speed; swiftness
 - [[schrumpfen]] — to shrink
@@ -2143,6 +2880,7 @@ Back to [[00 Home]]
 - [[Skala]] — scale
 - [[soeben]] — just now; a moment ago
 - [[sogleich]] — at once; immediately
+- [[Spitzenwert]] — peak value; top value
 - [[stagnieren]] — to stagnate
 - [[stetig]] — steady; constant
 - [[stets]] — always; at all times
@@ -2173,7 +2911,9 @@ Back to [[00 Home]]
 - [[vorübergehend]] — temporarily
 - [[Wahrscheinlichkeit]] — probability; likelihood
 - [[wiederholt]] — repeated; repeatedly
+- [[wiederkehrend]] — recurring
 - [[Winkel]] — angle; corner
+- [[Wochenplan]] — weekly plan; weekly schedule
 - [[währenddessen]] — meanwhile; in the meantime
 - [[zeitgleich]] — simultaneous; at the same time
 - [[Zeitlang]] — while; period (only in "eine Zeitlang")
@@ -2190,7 +2930,7 @@ Back to [[00 Home]]
 - [[öfters]] — often; repeatedly
 - [[über kurz oder lang]] — sooner or later
 
-## T14 Gefühle, Charakter & Meinungen (599)
+## T14 Gefühle, Charakter & Meinungen (674)
 
 - [[abbringen]] — to dissuade; to talk out of
 - [[abfinden]] — to come to terms with; to put up with
@@ -2199,10 +2939,13 @@ Back to [[00 Home]]
 - [[absichtlich]] — deliberate; intentional
 - [[Abstand halten]] — to keep one's distance
 - [[abstoßend]] — repulsive; repellent
+- [[abweisend]] — dismissive; cold; unfriendly
 - [[achtlos]] — careless; heedless
 - [[Aggression]] — aggression
 - [[albern]] — silly; childish
 - [[am Ball bleiben]] — to keep at it; to stay on the ball
+- [[Anderssein]] — being different; otherness
+- [[anlächeln]] — to smile at
 - [[anpöbeln]] — to harass verbally; to abuse
 - [[Anspannung]] — tension; strain
 - [[anspornen]] — to spur on; to motivate
@@ -2215,6 +2958,8 @@ Back to [[00 Home]]
 - [[antreiben]] — to drive; to urge on
 - [[antun]] — to do to someone; to inflict
 - [[anvertrauen]] — to entrust; to confide
+- [[arrogant]] — arrogant
+- [[Arroganz]] — arrogance
 - [[auf der Hut sein]] — to be on one's guard
 - [[auf die Probe stellen]] — to put to the test
 - [[auf eigenen Füßen stehen]] — to stand on one's own two feet
@@ -2255,9 +3000,11 @@ Back to [[00 Home]]
 - [[beherzigen]] — to take to heart
 - [[behutsam]] — careful; gentle
 - [[Behutsamkeit]] — gentleness; caution
+- [[Bekanntheit]] — fame; popularity; being well known
 - [[beklommen]] — uneasy; anxious
 - [[beleidigt]] — offended; sulking
 - [[Beliebtheit]] — popularity
+- [[belohnen]] — to reward
 - [[Belohnung]] — reward
 - [[Bereitschaft]] — readiness; willingness; standby duty
 - [[bereitwillig]] — willing; readily
@@ -2289,15 +3036,20 @@ Back to [[00 Home]]
 - [[bodenständig]] — down-to-earth; grounded
 - [[boshaft]] — malicious; spiteful
 - [[brav]] — well-behaved; good; obedient
+- [[Bravo]] — bravo; well done
+- [[Charaktereigenschaft]] — character trait
 - [[Charakterzug]] — character trait
 - [[Charme]] — charm
 - [[Dankbarkeit]] — gratitude
 - [[das Eis brechen]] — to break the ice
 - [[das Handtuch werfen]] — to throw in the towel
 - [[den Kopf in den Sand stecken]] — to bury one's head in the sand
+- [[Desinteresse]] — lack of interest; indifference
 - [[die Flinte ins Korn werfen]] — to give up too soon
 - [[die Nase voll haben]] — to be fed up
+- [[Direktheit]] — directness
 - [[diskret]] — discreet
+- [[diszipliniert]] — disciplined
 - [[Doppelmoral]] — double standards
 - [[dreist]] — brazen; cheeky
 - [[Druck ausüben]] — to put pressure on
@@ -2344,9 +3096,11 @@ Back to [[00 Home]]
 - [[energisch]] — energetic; firm; vigorous
 - [[engagiert]] — committed; dedicated
 - [[Entfaltung]] — development; unfolding
+- [[enthusiastisch]] — enthusiastic
 - [[entmutigen]] — to discourage
 - [[Entrüstung]] — indignation
 - [[entsagen]] — to renounce; to forgo
+- [[Entscheidungskrise]] — crisis of indecision; difficult decision-making crisis
 - [[Entschleunigung]] — slowing down; deceleration of life
 - [[Entschlossenheit]] — determination
 - [[Entschluss]] — decision; resolution
@@ -2374,6 +3128,7 @@ Back to [[00 Home]]
 - [[erwartungsvoll]] — expectant; full of anticipation
 - [[etwas auf die leichte Schulter nehmen]] — to take something lightly
 - [[Faulheit]] — laziness
+- [[Fettnäpfchen]] — faux pas; social blunder (ins Fettnäpfchen treten)
 - [[fies]] — nasty; mean (colloquial)
 - [[flehen]] — to beg; to implore
 - [[Fleiß]] — diligence; hard work
@@ -2383,6 +3138,7 @@ Back to [[00 Home]]
 - [[Freiraum]] — freedom; space (to act)
 - [[freudig]] — joyful; happy
 - [[Freundlichkeit]] — friendliness; kindness
+- [[frustrieren]] — to frustrate; to discourage
 - [[Furcht]] — fear
 - [[fürsorglich]] — caring; solicitous
 - [[Gabe]] — gift; talent; donation
@@ -2399,6 +3155,7 @@ Back to [[00 Home]]
 - [[geliebt]] — beloved
 - [[Gelächter]] — laughter
 - [[gemein]] — mean; nasty; common
+- [[Gemeinschaftssinn]] — sense of community; community spirit
 - [[Gemütszustand]] — state of mind
 - [[Genie]] — genius
 - [[genügsam]] — frugal; undemanding
@@ -2410,6 +3167,7 @@ Back to [[00 Home]]
 - [[Gier]] — greed
 - [[gierig]] — greedy
 - [[glaubwürdig]] — credible; trustworthy
+- [[Gleichgesinnte]] — like-minded person
 - [[gleichgültig]] — indifferent; unconcerned
 - [[glänzen]] — to shine; to gleam; to excel
 - [[glücklicherweise]] — fortunately; luckily
@@ -2421,6 +3179,7 @@ Back to [[00 Home]]
 - [[grübeln]] — to brood; to ponder
 - [[Gründlichkeit]] — thoroughness
 - [[gutgläubig]] — gullible; credulous
+- [[Gutmensch]] — do-gooder (often ironic)
 - [[gutmütig]] — good-natured
 - [[gönnen]] — to not begrudge; to treat (oneself)
 - [[Güte]] — kindness; quality
@@ -2430,18 +3189,23 @@ Back to [[00 Home]]
 - [[Hass]] — hatred; hate
 - [[hastig]] — hasty; hurried
 - [[heftig]] — violent; intense; fierce
+- [[Heiterkeit]] — cheerfulness; merriment
 - [[Hemmung]] — inhibition; reservation
 - [[hemmungslos]] — unrestrained; without inhibition
 - [[hetzen]] — to rush; to incite
 - [[heulen]] — to howl; to cry (colloquial)
 - [[Hilfe suchen]] — to seek help
+- [[hinblicken]] — to look (at something/in a direction)
 - [[hineinversetzen]] — to put oneself in someone's position
 - [[Hingabe]] — devotion; dedication
 - [[hinnehmen]] — to accept; to put up with
 - [[Hintergedanke]] — ulterior motive
+- [[hochmotiviert]] — highly motivated
 - [[hochmütig]] — arrogant; haughty
 - [[hoffnungslos]] — hopeless
 - [[Hoffnungsschimmer]] — glimmer of hope
+- [[humorlos]] — humourless; without a sense of humour
+- [[Händedruck]] — handshake; grip of the hand
 - [[hänseln]] — to tease; to bully
 - [[Härte]] — hardness; harshness; severity
 - [[Identität]] — identity
@@ -2465,15 +3229,18 @@ Back to [[00 Home]]
 - [[instinktiv]] — instinctive; by instinct
 - [[Integrität]] — integrity
 - [[Intention]] — intention
+- [[intolerant]] — intolerant
 - [[Intuition]] — intuition
 - [[irritieren]] — to irritate; to confuse
 - [[jemandem ans Herz wachsen]] — to grow fond of someone
+- [[jemandem auf den Keks gehen]] — to get on someone's nerves (colloquial)
 - [[jemandem auf die Nerven gehen]] — to get on someone's nerves
 - [[jemandem das Herz brechen]] — to break someone's heart
 - [[jemandem den Rücken stärken]] — to back someone up
 - [[jemandem die Daumen drücken]] — to keep one's fingers crossed for someone
 - [[jemandem fällt ein Stein vom Herzen]] — to feel a great weight lifted off one's mind
 - [[jemandem unter die Arme greifen]] — to give someone a helping hand
+- [[jemanden zur Schnecke machen]] — to give someone a dressing-down; to tear someone to pieces (colloquial)
 - [[jähzornig]] — quick-tempered
 - [[keinesfalls]] — under no circumstances
 - [[keineswegs]] — by no means; not at all
@@ -2481,8 +3248,15 @@ Back to [[00 Home]]
 - [[kindlich]] — childlike; childish
 - [[klammern]] — to cling
 - [[kleinlich]] — petty; stingy
+- [[knallhart]] — extremely tough; ruthless (colloquial)
 - [[knausern]] — to be stingy
 - [[kokett]] — coquettish; flirty
+- [[kompromissbereit]] — willing to compromise
+- [[Konfliktbearbeitung]] — conflict management; handling of conflicts
+- [[konfliktfrei]] — conflict-free; without conflict
+- [[Konfliktlösung]] — conflict resolution
+- [[Konfliktpartner]] — party to a conflict (male); person in the conflict
+- [[Konfliktpartnerin]] — party to a conflict (female)
 - [[Konfrontation]] — confrontation
 - [[kopflos]] — panicky; rash; without thinking
 - [[krass]] — extreme; crass
@@ -2492,6 +3266,7 @@ Back to [[00 Home]]
 - [[Kummer]] — grief; sorrow; worry
 - [[launisch]] — moody
 - [[lauschen]] — to listen (closely); to eavesdrop
+- [[Lebenseinstellung]] — attitude to life; outlook on life
 - [[lebhaft]] — lively; vivid
 - [[Leichtigkeit]] — ease; lightness
 - [[Leichtsinn]] — recklessness; carelessness
@@ -2505,19 +3280,25 @@ Back to [[00 Home]]
 - [[lächerlich]] — ridiculous
 - [[lässig]] — casual; relaxed
 - [[lästern]] — to gossip maliciously; to badmouth
+- [[lästig]] — annoying; troublesome
 - [[Macke]] — quirk; foible (colloquial)
 - [[Marotte]] — quirk; habit
 - [[Maß halten]] — to be moderate
 - [[meckern]] — to moan; to grumble
+- [[megacool]] — super cool; awesome (informal)
+- [[Meinungsverschiedenheit]] — difference of opinion; disagreement
 - [[melancholisch]] — melancholic
 - [[mental]] — mental
 - [[Mentalität]] — mentality; attitude
+- [[messerscharf]] — razor-sharp; very sharp
 - [[Miene]] — facial expression; look
+- [[Miesepeter]] — grump; killjoy (colloquial)
 - [[Misstrauen]] — distrust; suspicion
 - [[misstrauisch]] — suspicious; distrustful
 - [[Mitgefühl]] — compassion; sympathy
 - [[Motiv]] — motive; motif
 - [[motivieren]] — to motivate
+- [[motzen]] — to grumble; to moan (colloquial)
 - [[munter]] — cheerful; lively; awake
 - [[mustern]] — to look over; to scrutinise
 - [[Mut fassen]] — to take heart; to pluck up courage
@@ -2529,6 +3310,7 @@ Back to [[00 Home]]
 - [[nachlässig]] — careless; negligent
 - [[Nachsicht]] — leniency; indulgence
 - [[naiv]] — naive
+- [[namenlos]] — nameless; anonymous
 - [[Neid]] — envy
 - [[neidisch]] — envious; jealous
 - [[neigen]] — to tend; to tilt
@@ -2543,9 +3325,11 @@ Back to [[00 Home]]
 - [[opfern]] — to sacrifice
 - [[panisch]] — panic-stricken
 - [[pedantisch]] — pedantic
+- [[Persönlichkeitstest]] — personality test
 - [[pessimistisch]] — pessimistic
 - [[Pflichtbewusstsein]] — sense of duty
 - [[Pflichtgefühl]] — sense of duty
+- [[phantasievoll]] — imaginative; full of imagination
 - [[pingelig]] — fussy; nitpicky
 - [[plump]] — clumsy; crude
 - [[pochen]] — to insist on; to knock; to throb
@@ -2565,13 +3349,16 @@ Back to [[00 Home]]
 - [[Reinheit]] — purity; cleanliness
 - [[reizbar]] — irritable
 - [[reizen]] — to irritate; to attract
+- [[reizvoll]] — attractive; appealing; tempting
 - [[resignieren]] — to give up; to resign oneself
 - [[resolut]] — resolute; firm
+- [[respektlos]] — disrespectful
 - [[Reue]] — remorse; regret
 - [[ringen]] — to wrestle; to struggle
 - [[ruhelos]] — restless
 - [[Ruhm]] — fame; glory
 - [[rächen]] — to take revenge
+- [[rätselhaft]] — mysterious; puzzling
 - [[Rücksicht nehmen]] — to show consideration
 - [[Rücksichtnahme]] — consideration for others
 - [[rücksichtslos]] — inconsiderate; ruthless
@@ -2581,12 +3368,14 @@ Back to [[00 Home]]
 - [[sanft]] — gentle; soft
 - [[sanftmütig]] — gentle; meek
 - [[Sarkasmus]] — sarcasm
+- [[satthaben]] — to be fed up with; to have had enough of
 - [[schadenfroh]] — gloating; malicious
 - [[Scham]] — shame
 - [[Schande]] — shame; disgrace
 - [[scharfsinnig]] — astute; sharp-witted
 - [[scheu]] — shy; timid
 - [[schlagfertig]] — quick-witted
+- [[Schlagfertigkeit]] — quick wit; repartee
 - [[schlampig]] — sloppy; careless
 - [[schlau]] — clever; smart
 - [[schluchzen]] — to sob
@@ -2602,15 +3391,18 @@ Back to [[00 Home]]
 - [[Seele]] — soul
 - [[seelisch]] — mental; emotional
 - [[sehnen]] — to long (for)
+- [[selbstbestimmt]] — self-determined; independent
 - [[selbstbewusst]] — self-confident
 - [[Selbstbewusstsein]] — self-confidence
 - [[Selbstkritik]] — self-criticism
 - [[selbstlos]] — selfless
+- [[Selbstoptimierung]] — self-optimisation; self-improvement
 - [[selbstsicher]] — self-assured
 - [[Selbstverständnis]] — self-image; self-perception
 - [[Selbstvertrauen]] — self-assurance; confidence in oneself
 - [[sensibel]] — sensitive
 - [[Sensibilität]] — sensitivity
+- [[Seriosität]] — seriousness; reliability
 - [[seufzen]] — to sigh
 - [[Seufzer]] — sigh
 - [[sich aus dem Staub machen]] — to slip away; to make oneself scarce
@@ -2620,6 +3412,8 @@ Back to [[00 Home]]
 - [[sich Sorgen machen]] — to worry
 - [[Skepsis]] — scepticism
 - [[skeptisch]] — sceptical
+- [[Smalltalk]] — small talk
+- [[sorgenfrei]] — carefree; worry-free
 - [[Sorgfalt]] — care; diligence
 - [[sorgfältig]] — careful; thorough
 - [[spießig]] — stuffy; narrow-minded (colloquial)
@@ -2644,6 +3438,8 @@ Back to [[00 Home]]
 - [[Taktgefühl]] — tact; sensitivity
 - [[taktlos]] — tactless
 - [[tapfer]] — brave; valiant
+- [[Tellerrand]] — rim of the plate (über den Tellerrand blicken: to look beyond one's own limited view)
+- [[Teufelskreis]] — vicious circle
 - [[Tomaten auf den Augen haben]] — to be blind to what is obvious
 - [[tratschen]] — to gossip
 - [[trauen]] — to trust; to dare; to marry
@@ -2657,26 +3453,37 @@ Back to [[00 Home]]
 - [[trösten]] — to comfort; to console
 - [[Täuschung]] — deception; illusion; fraud
 - [[Umarmung]] — hug; embrace
+- [[umeinander]] — about each other; around each other
 - [[Umgangsformen]] — manners; etiquette
+- [[unattraktiv]] — unattractive
 - [[unauffällig]] — inconspicuous; unobtrusive
 - [[Unbehagen]] — unease; discomfort
 - [[unbeholfen]] — clumsy; awkward
+- [[undiszipliniert]] — undisciplined
 - [[unentschlossen]] — undecided; irresolute
+- [[unersetzlich]] — irreplaceable
 - [[unfähig]] — incapable; unable; incompetent
 - [[Ungeduld]] — impatience
 - [[ungerecht]] — unfair; unjust
 - [[ungern]] — reluctantly
+- [[ungeschickt]] — clumsy; awkward
 - [[Ungewissheit]] — uncertainty
+- [[ungewohnt]] — unusual; unaccustomed
 - [[ungläubig]] — incredulous; disbelieving
 - [[Unhöflichkeit]] — rudeness; impoliteness
+- [[unkompliziert]] — uncomplicated; easy-going
+- [[unmotiviert]] — unmotivated; for no reason
 - [[unnahbar]] — unapproachable; aloof
 - [[Unruhe]] — restlessness; unrest
 - [[Unschuld]] — innocence
+- [[unschön]] — unpleasant; unattractive
 - [[unter Druck setzen]] — to put under pressure
 - [[unter Druck stehen]] — to be under pressure
 - [[unverschämt]] — impertinent; outrageous
+- [[Unverständnis]] — lack of understanding; incomprehension
 - [[unzufrieden]] — dissatisfied
 - [[Unzufriedenheit]] — dissatisfaction
+- [[unzuverlässig]] — unreliable
 - [[verabscheuen]] — to detest; to abhor
 - [[Verachtung]] — contempt; disdain
 - [[Verantwortung tragen]] — to bear responsibility
@@ -2693,7 +3500,9 @@ Back to [[00 Home]]
 - [[verdrossen]] — sullen; disgruntled
 - [[Verehrung]] — admiration; veneration
 - [[verfluchen]] — to curse
+- [[vergesslich]] — forgetful
 - [[vergöttern]] — to idolise; to worship
+- [[Verhaltensveränderung]] — change in behaviour
 - [[verheimlichen]] — to conceal; to keep secret
 - [[verkraften]] — to cope with; to get over
 - [[verkrampft]] — tense; strained
@@ -2720,13 +3529,16 @@ Back to [[00 Home]]
 - [[verwundern]] — to astonish; to surprise
 - [[Verwunderung]] — astonishment; surprise
 - [[verwöhnen]] — to spoil; to pamper
+- [[verzaubert]] — enchanted; spellbound
 - [[verziehen]] — to distort; to move away; to spoil
 - [[verzweifeln]] — to despair
 - [[verächtlich]] — contemptuous; scornful
 - [[verärgern]] — to annoy; to anger
 - [[Vorbehalt]] — reservation; reserve
 - [[Vorbildfunktion]] — role-model function
+- [[vorbildlich]] — exemplary; model
 - [[vorlaut]] — cheeky; forward
+- [[vorschnell]] — hasty; rash; premature
 - [[wachsam]] — vigilant; watchful
 - [[Wachsamkeit]] — vigilance
 - [[wahrhaftig]] — truthful; real; truly
@@ -2740,6 +3552,7 @@ Back to [[00 Home]]
 - [[wettern]] — to rail; to fulminate
 - [[widerstehen]] — to resist; to withstand
 - [[widmen]] — to devote oneself; to dedicate
+- [[wiedererkennen]] — to recognise (again)
 - [[Wille]] — will; intention
 - [[wimmern]] — to whimper
 - [[Wort halten]] — to keep one's word
@@ -2769,6 +3582,7 @@ Back to [[00 Home]]
 - [[Zuverlässigkeit]] — reliability
 - [[Zuversicht]] — confidence; optimism
 - [[zuvorkommend]] — obliging; courteous
+- [[zuwenden]] — to turn to; (sich) to turn towards; to devote oneself to
 - [[Zuwendung]] — attention; affection; grant
 - [[zweifellos]] — undoubtedly
 - [[Zwiespalt]] — dilemma; conflict (inner)
@@ -2786,13 +3600,14 @@ Back to [[00 Home]]
 - [[überfordern]] — to overtax; to overwhelm
 - [[Überforderung]] — excessive demands; overload
 - [[überheblich]] — arrogant; overbearing
+- [[Überheblichkeit]] — arrogance; conceit
 - [[übermütig]] — high-spirited; cocky
 - [[überraschend]] — surprising
 - [[überstehen]] — to survive; to get through; to endure
 - [[übertrieben]] — exaggerated; excessive
 - [[überwältigen]] — to overwhelm; to overpower
 
-## T15 Sprache, Kommunikation & Denken (369)
+## T15 Sprache, Kommunikation & Denken (483)
 
 - [[abgrenzen]] — to distinguish; to set apart
 - [[Abgrenzung]] — distinction; demarcation
@@ -2804,8 +3619,11 @@ Back to [[00 Home]]
 - [[abwägen]] — to weigh up; to consider carefully
 - [[Abwägung]] — weighing up; consideration
 - [[Adressat]] — addressee; recipient; target audience
+- [[Agens]] — agent (grammar: the one who acts)
 - [[ahnen]] — to suspect; to have a feeling
+- [[aktivisch]] — in the active voice
 - [[Aktualität]] — topicality; up-to-dateness
+- [[Alltagssprache]] — everyday language; colloquial speech
 - [[Amtsdeutsch]] — officialese; bureaucratic German
 - [[Analogie]] — analogy
 - [[andeuten]] — to hint at; to indicate
@@ -2835,6 +3653,7 @@ Back to [[00 Home]]
 - [[Aufruf]] — appeal; call; summons
 - [[aufschlagen]] — to open (a book); to hit; to increase (prices)
 - [[aufschlussreich]] — revealing; informative
+- [[aufschnappen]] — to pick up (words, information)
 - [[Aufzeichnung]] — record; notes; recording
 - [[Ausdruck verleihen]] — to give expression to
 - [[Ausdrucksweise]] — manner of expression; wording
@@ -2845,8 +3664,10 @@ Back to [[00 Home]]
 - [[Ausgewogenheit]] — balance; fairness
 - [[ausklammern]] — to exclude; to leave out
 - [[auslassen]] — to omit; to skip; to vent
+- [[Auslautverhärtung]] — final devoicing (of consonants)
 - [[ausloten]] — to sound out; to explore
 - [[auswerten]] — to evaluate; to analyse
+- [[bahnbrechend]] — groundbreaking; pioneering
 - [[beabsichtigen]] — to intend; to plan
 - [[Beachtung finden]] — to receive attention
 - [[Beachtung schenken]] — to pay attention
@@ -2857,6 +3678,7 @@ Back to [[00 Home]]
 - [[begreifen]] — to grasp; to understand
 - [[beiläufig]] — casual; in passing
 - [[beipflichten]] — to agree with; to concur
+- [[Bekanntgabe]] — announcement; publication
 - [[bekanntlich]] — as is well known; as we know
 - [[bekräftigen]] — to reaffirm; to confirm
 - [[belegen]] — to prove; to document; to occupy
@@ -2885,29 +3707,41 @@ Back to [[00 Home]]
 - [[charakterisieren]] — to characterise
 - [[Charakterisierung]] — characterisation; description
 - [[Charakteristikum]] — characteristic; distinctive feature
+- [[Chronologie]] — chronology; order of events
+- [[Contra-Argument]] — counter-argument; argument against
 - [[darlegen]] — to explain; to set out; to present
 - [[das Wort ergreifen]] — to take the floor
 - [[das Wort erteilen]] — to give the floor
 - [[definieren]] — to define
+- [[demonstrativ]] — demonstrative; pointed; ostentatious
+- [[Demonstrativpronomen]] — demonstrative pronoun
 - [[demzufolge]] — accordingly; according to this
 - [[den Faden verlieren]] — to lose the thread
 - [[den Nagel auf den Kopf treffen]] — to hit the nail on the head
 - [[denkbar]] — conceivable
 - [[Denken]] — thinking
+- [[Denker]] — thinker
+- [[Denkerin]] — thinker (female)
+- [[Denkweise]] — way of thinking; mentality
 - [[Deutung]] — interpretation
+- [[Dialogteil]] — dialogue part; part of a dialogue
+- [[dicht gefolgt von]] — closely followed by
 - [[die Kirche im Dorf lassen]] — to keep things in proportion
 - [[diesbezüglich]] — in this regard; concerning this
 - [[Differenzierung]] — differentiation
 - [[Dilemma]] — dilemma
 - [[Diskurs]] — discourse
 - [[Dolmetscher]] — interpreter
+- [[Dolmetscherin]] — interpreter (female)
 - [[Durchblick]] — overview; grasp of things
+- [[durchblicken]] — to understand; to get the hang of (colloquial); to look through
 - [[Durchbruch]] — breakthrough
 - [[durchschauen]] — to see through
 - [[ebenda]] — in the same place; ibid.
 - [[ein Fazit ziehen]] — to draw a conclusion; to sum up
 - [[Eindeutigkeit]] — clarity; unambiguity
 - [[einen Vergleich ziehen]] — to draw a comparison
+- [[einerseits ... andererseits]] — on the one hand ... on the other hand ...
 - [[Eingang finden]] — to find its way (into); to be incorporated
 - [[einleuchten]] — to make sense; to be plausible
 - [[einordnen]] — to classify; to put in order
@@ -2922,6 +3756,9 @@ Back to [[00 Home]]
 - [[einwirken]] — to influence; to act upon
 - [[entgegnen]] — to reply; to retort
 - [[entnehmen]] — to take from; to gather (from)
+- [[Entscheidungsfindung]] — decision-making
+- [[entschlüsseln]] — to decode; to decipher
+- [[Erachten]] — opinion; view (only in "meines Erachtens")
 - [[erbitten]] — to request; to ask for (formal)
 - [[Erfahrungswert]] — empirical value; figure based on experience
 - [[erfassen]] — to record; to grasp; to cover
@@ -2930,6 +3767,8 @@ Back to [[00 Home]]
 - [[Erkenntnis]] — insight; realisation; finding
 - [[erläutern]] — to explain; to elucidate
 - [[Erläuterung]] — explanation
+- [[Ersatzform]] — substitute form; alternative form
+- [[erschließbar]] — inferable; can be worked out (e.g. from context)
 - [[erwidern]] — to reply; to return (a feeling)
 - [[erwägen]] — to consider; to contemplate
 - [[Erwägung]] — consideration; deliberation
@@ -2937,10 +3776,12 @@ Back to [[00 Home]]
 - [[Erwähnung]] — mention
 - [[erörtern]] — to discuss; to debate; to examine
 - [[Erörterung]] — discussion; examination (also essay type)
+- [[et cetera]] — and so on; etc.
 - [[etwas unter den Teppich kehren]] — to sweep something under the carpet
 - [[explizit]] — explicit
 - [[Fachbegriff]] — technical term
 - [[Fachsprache]] — technical language; jargon
+- [[Fachwort]] — technical term
 - [[Fakt]] — fact
 - [[Fazit]] — conclusion; summary verdict
 - [[Feststellung]] — finding; statement; establishing
@@ -2949,15 +3790,25 @@ Back to [[00 Home]]
 - [[Fragen stellen]] — to ask questions
 - [[freilich]] — admittedly; of course
 - [[Fremdwort]] — foreign word; loanword
+- [[fundiert]] — well-founded; sound; solid
 - [[fußen]] — to be based on
+- [[Gebärde]] — sign; gesture (in sign language)
+- [[Gebärdendialekt]] — sign language dialect
+- [[Gebärdensprache]] — sign language
 - [[gegenüberstellen]] — to compare; to juxtapose
 - [[Gegenüberstellung]] — comparison; juxtaposition
+- [[Geheimschrift]] — secret code; cipher
+- [[gendern]] — to use gender-inclusive language
+- [[generisch]] — generic
 - [[Gerücht]] — rumour
 - [[Geschrei]] — shouting; screaming; cries
 - [[Gesetzmäßigkeit]] — regularity; law (of nature)
 - [[Gesichtsausdruck]] — facial expression
 - [[Gesichtspunkt]] — point of view; aspect
+- [[Gesprächsstil]] — conversational style
+- [[Gesprächsstrategie]] — conversation strategy
 - [[Geste]] — gesture
+- [[Gestik]] — gestures; use of gestures
 - [[Gewicht legen]] — to place weight (on)
 - [[Gewicht legen auf]] — to put emphasis on
 - [[Gewichtung]] — weighting; emphasis
@@ -2965,14 +3816,21 @@ Back to [[00 Home]]
 - [[Gewissheit]] — certainty
 - [[Glauben schenken]] — to believe; to give credence
 - [[gliedern]] — to divide; to structure; to organise
+- [[Grundidee]] — basic idea
+- [[Grundwort]] — base word (of a compound); head noun
 - [[Hand und Fuß haben]] — to make sense; to be well thought out
 - [[Handbewegung]] — hand gesture; wave of the hand
 - [[Handschrift]] — handwriting; manuscript
 - [[Herangehensweise]] — approach; way of tackling
+- [[heraushören]] — to detect (by listening); to hear (in a voice)
+- [[herunterspielen]] — to play down; to downplay
 - [[hindeuten]] — to point to; to indicate
 - [[hinterfragen]] — to question; to scrutinise
+- [[hinterherrufen]] — to call after (someone)
 - [[hinzufügen]] — to add
 - [[Hochdeutsch]] — standard German
+- [[Hochsprache]] — standard language; standard German
+- [[Höflichkeitsform]] — polite form; form of politeness
 - [[Hörverstehen]] — listening comprehension
 - [[identifizieren]] — to identify
 - [[im Großen und Ganzen]] — by and large; on the whole
@@ -2991,11 +3849,17 @@ Back to [[00 Home]]
 - [[in Vergessenheit geraten]] — to be forgotten; to fall into oblivion
 - [[in Zusammenhang stehen]] — to be connected; to be related
 - [[in Zweifel ziehen]] — to call into question
+- [[Informationssuche]] — search for information
+- [[Informationstext]] — informational text
+- [[Inhaltspunkt]] — content point; key point
 - [[ins Gespräch kommen]] — to get into conversation
 - [[ins Schwarze treffen]] — to hit the bull's eye; to get it exactly right
 - [[intellektuell]] — intellectual
+- [[Interjektion]] — interjection
+- [[Internettext]] — internet text; online text
 - [[Interpretation]] — interpretation
 - [[interpretieren]] — to interpret
+- [[Interviewfrage]] — interview question
 - [[Irrtum]] — mistake; error
 - [[jemandem auf den Zahn fühlen]] — to sound someone out; to quiz someone
 - [[jemandem einen Bären aufbinden]] — to pull someone's leg; to tell someone a tall story
@@ -3006,27 +3870,43 @@ Back to [[00 Home]]
 - [[Kernaussage]] — central message; key statement
 - [[Kernpunkt]] — crux; main point
 - [[Klarheit schaffen]] — to clear things up
+- [[Klartext]] — plain speaking; plain language (Klartext reden)
 - [[Klischee]] — cliché; stereotype
 - [[Klärung]] — clarification
 - [[knurren]] — to growl; to grumble
+- [[konditional]] — conditional
+- [[Konditionalsatz]] — conditional clause
 - [[konfrontieren]] — to confront
+- [[konjugieren]] — to conjugate
 - [[Kontakt aufnehmen]] — to get in touch
 - [[kontaktieren]] — to contact
+- [[kontrovers]] — controversial; contentious
+- [[Korrektheit]] — correctness
 - [[Kritik üben]] — to criticise
 - [[Kritikpunkt]] — point of criticism
+- [[Kurzübersicht]] — short overview; summary
 - [[lateinisch]] — Latin
+- [[Lautfolge]] — sequence of sounds
 - [[Lehnwort]] — loanword
+- [[Leichte Sprache]] — plain language (simplified German for easy reading)
 - [[Leitfaden]] — guide; manual; guideline
 - [[Leitgedanke]] — guiding principle; central idea
+- [[Leitpunkt]] — guiding point; key point
+- [[lesbar]] — legible; readable
+- [[lesefreundlich]] — easy to read; reader-friendly
 - [[Leseverstehen]] — reading comprehension
 - [[leugnen]] — to deny; to disavow
 - [[Logik]] — logic
 - [[lückenhaft]] — patchy; incomplete
+- [[mehrsprachig]] — multilingual; bilingual
 - [[Mehrsprachigkeit]] — multilingualism
 - [[Mehrzahl]] — majority; plural
 - [[Merkfähigkeit]] — ability to remember; retentiveness
 - [[Metapher]] — metaphor
+- [[Mimik]] — facial expression
+- [[missverstehen]] — to misunderstand
 - [[mit der Tür ins Haus fallen]] — to blurt something out; to get straight to the point (tactlessly)
+- [[modal]] — modal
 - [[Motto]] — motto; theme; slogan
 - [[Mundart]] — dialect
 - [[murmeln]] — to mumble; to murmur
@@ -3037,13 +3917,19 @@ Back to [[00 Home]]
 - [[Nachdruck verleihen]] — to lend emphasis
 - [[nachweisen]] — to prove; to demonstrate; to detect
 - [[naheliegend]] — obvious; natural
+- [[Negation]] — negation
+- [[Negationssilbe]] — negation syllable (e.g. un-)
+- [[Negationswort]] — negation word (e.g. nicht, kein)
 - [[nichtsdestotrotz]] — nevertheless; all the same
+- [[nonverbal]] — non-verbal
 - [[Notiz nehmen]] — to take notice
 - [[Nuance]] — nuance; shade
 - [[objektiv]] — objective
 - [[Objektivität]] — objectivity
 - [[offenbaren]] — to reveal; to disclose
 - [[offenkundig]] — obvious; evident
+- [[Philosophin]] — philosopher (female)
+- [[Phrase]] — phrase; empty phrase
 - [[plausibel]] — plausible; convincing
 - [[plädieren]] — to plead; to advocate
 - [[Position beziehen]] — to take a position
@@ -3073,34 +3959,57 @@ Back to [[00 Home]]
 - [[schlussfolgern]] — to conclude; to infer
 - [[Schlussfolgerung]] — conclusion; inference
 - [[schlüssig]] — conclusive; coherent
+- [[Schriftsprache]] — written language; standard written language
 - [[schwammig]] — spongy; vague
 - [[sich den Kopf zerbrechen]] — to rack one's brains
 - [[sich Gedanken machen]] — to think about; to give thought to
+- [[Silbenende]] — end of a syllable
 - [[sinngemäß]] — in essence; roughly in meaning
 - [[skizzieren]] — to sketch; to outline
 - [[sodann]] — then; thereupon
+- [[sowohl ... als auch]] — both ... and ...; as well as
 - [[sozusagen]] — so to speak; as it were
 - [[spekulieren]] — to speculate
 - [[Sprachgebrauch]] — language use; usage
 - [[sprachlich]] — linguistic
 - [[Sprachniveau]] — language level
+- [[Sprachstil]] — language style; style of speech
+- [[Sprachsystem]] — language system
+- [[Sprachtyp]] — type of language; language type
+- [[Sprechpause]] — pause in speech
+- [[Sprechtempo]] — speaking speed; speech rate
+- [[Sprechweise]] — way of speaking; manner of speech
+- [[Standardsprache]] — standard language
 - [[Stellung beziehen]] — to take a stand
 - [[Stellung nehmen]] — to comment; to take a position
 - [[Stellungnahme]] — statement; opinion
 - [[stichhaltig]] — sound; valid
 - [[stillschweigend]] — tacit; silently
+- [[Stilmittel]] — stylistic device
 - [[stützen]] — to support; to base on
 - [[subjektiv]] — subjective
 - [[synonym]] — synonymous
+- [[temporal]] — temporal; relating to time
 - [[tendieren]] — to tend; to incline
+- [[Textabschnitt]] — section of text; paragraph
+- [[Textsorte]] — type of text; genre
 - [[Textverständnis]] — text comprehension
+- [[Textverweis]] — cross-reference (in a text)
+- [[Textzusammenhang]] — context (of a text); coherence
 - [[Thematik]] — subject matter; theme
 - [[thematisieren]] — to address; to make a subject of discussion
+- [[Themenfeld]] — subject area; topic area
 - [[These]] — thesis; hypothesis
 - [[Tonfall]] — tone (of voice)
 - [[tuscheln]] — to whisper; to mutter
 - [[Umdenken]] — rethink; change of thinking
 - [[Umgangssprache]] — colloquial language
+- [[umgangssprachlich]] — colloquial; informal (language)
+- [[umschreiben]] — to paraphrase; to describe in other words
+- [[unbeantwortet]] — unanswered
+- [[unbegründet]] — unfounded; groundless
+- [[ungebräuchlich]] — uncommon; not in common use
+- [[unkonkret]] — vague; not concrete
 - [[unmissverständlich]] — unmistakable; unambiguous
 - [[Unsinn]] — nonsense
 - [[unter vier Augen]] — in private; face to face
@@ -3109,13 +4018,17 @@ Back to [[00 Home]]
 - [[Unterscheidung]] — distinction; differentiation
 - [[unterstellen]] — to insinuate; to assume
 - [[Untertreibung]] — understatement
+- [[unvollständig]] — incomplete
 - [[Ursprung]] — origin; source
 - [[urteilen]] — to judge
+- [[verbal]] — verbal
 - [[verdeutlichen]] — to make clear; to illustrate
 - [[verfassen]] — to write; to compose; to draft
+- [[Vergleichssatz]] — comparative clause; sentence of comparison
 - [[verharmlosen]] — to play down; to trivialise
 - [[verknüpfen]] — to link; to connect
 - [[verkünden]] — to announce; to proclaim
+- [[Verneinung]] — negation
 - [[verplappern]] — to let something slip
 - [[verstummen]] — to fall silent
 - [[verständigen]] — to notify; (sich) to come to an understanding
@@ -3123,22 +4036,35 @@ Back to [[00 Home]]
 - [[Verweis]] — reference; cross-reference; reprimand
 - [[verweisen]] — to refer; to point out
 - [[Vorgeschichte]] — background; previous history
+- [[Vorsilbe]] — prefix
 - [[vorwerfen]] — to reproach; to accuse
+- [[wahrheitsgemäß]] — truthful; truthfully
+- [[wahrnehmbar]] — perceptible; noticeable
 - [[wahrnehmen]] — to perceive; to take up (an appointment)
 - [[Wahrnehmung]] — perception
 - [[Wasser auf jemandes Mühlen sein]] — to be grist to someone's mill
+- [[weder ... noch]] — neither ... nor ...
 - [[Weisheit]] — wisdom
 - [[widerlegen]] — to refute; to disprove
 - [[widerspiegeln]] — to reflect; to mirror
 - [[widersprüchlich]] — contradictory
 - [[wiederum]] — again; in turn; on the other hand
+- [[wogegen]] — against what; whereas
 - [[wohlgemerkt]] — mind you; please note
+- [[woraus]] — from what; out of which
 - [[Wortbildung]] — word formation
+- [[Wortkette]] — word chain
 - [[Wortlaut]] — wording; text
 - [[wortlos]] — wordless; silent
+- [[Wortpaar]] — word pair
+- [[Wortposition]] — word position; position of a word
 - [[Wortschatz]] — vocabulary
+- [[Wortschlange]] — word snake (run-together string of words)
+- [[Wortwiederholung]] — repetition of words
 - [[wörtlich]] — literal; word for word
 - [[Zeichensetzung]] — punctuation
+- [[Zeichensprache]] — gestures; sign-based communication (not formal sign language, which is Gebärdensprache)
+- [[Zeilennummer]] — line number
 - [[zitieren]] — to quote; to cite
 - [[zu dem Schluss kommen]] — to come to the conclusion
 - [[zu Wort kommen]] — to get a chance to speak
@@ -3154,34 +4080,41 @@ Back to [[00 Home]]
 - [[zusammenfassend]] — summarising; in summary
 - [[Zusammenfassung]] — summary
 - [[zusammenhängen]] — to be connected; to be related
+- [[zwar ... aber]] — admittedly ... but ...; it is true that ... but ...
 - [[zweifelhaft]] — doubtful; dubious
 - [[zwischen den Zeilen lesen]] — to read between the lines
+- [[überarbeiten]] — to revise; to rework; (sich) to overwork
 - [[überdenken]] — to reconsider; to think over
 - [[übereinstimmen]] — to agree; to match
+- [[überfliegen]] — to skim (a text); to fly over
 - [[Überlegenheit]] — superiority
 - [[Überlegung]] — consideration; reflection
 - [[überleiten]] — to lead over; to make a transition
 - [[Übertreibung]] — exaggeration
 - [[Überzeugungskraft]] — persuasiveness
 
-## T16 Allgemein (Funktionswörter, abstrakter Wortschatz) (945)
+## T16 Allgemein (Funktionswörter, abstrakter Wortschatz) (1017)
 
 - [[Abbau]] — dismantling; reduction; mining
+- [[abbauen]] — to dismantle; to reduce; to break down
 - [[abbilden]] — to depict; to reproduce
 - [[abbrechen]] — to break off; to cancel; to abort
 - [[Abfolge]] — sequence; order
 - [[abhalten]] — to hold (a meeting); to keep (from)
+- [[Abhilfe]] — remedy; relief
 - [[Abhilfe schaffen]] — to remedy; to put right
 - [[Abhängigkeit]] — dependence; addiction
 - [[Ablauf]] — course; process; expiry
 - [[ablegen]] — to put down; to take off; to file
 - [[Ableitung]] — derivation; deduction
 - [[ablösen]] — to replace; to take over from; to detach
+- [[Abmachung]] — agreement; arrangement
 - [[abrufen]] — to retrieve; to call up
 - [[abrupt]] — abrupt; sudden
 - [[absehen]] — to refrain from; to foresee
 - [[absetzen]] — to drop off; to remove (from office); to deduct
 - [[Abstand nehmen]] — to refrain; to distance oneself
+- [[abstürzen]] — to crash; to fall (from a height)
 - [[abwarten]] — to wait and see; to wait for
 - [[abwechslungsreich]] — varied; full of variety
 - [[abwehren]] — to ward off; to fend off
@@ -3193,6 +4126,7 @@ Back to [[00 Home]]
 - [[Acht geben]] — to be careful; to pay attention
 - [[agieren]] — to act; to operate
 - [[Aktivierung]] — activation
+- [[algorithmenbasiert]] — algorithm-based
 - [[allemal]] — in any case; definitely; at any rate
 - [[allenfalls]] — at most; at best; possibly
 - [[allerlei]] — all sorts of; various
@@ -3238,6 +4172,7 @@ Back to [[00 Home]]
 - [[anwendbar]] — applicable
 - [[Anwender]] — user (of software)
 - [[Anwesenheit]] — presence; attendance
+- [[arrangieren]] — to arrange; (sich) to come to terms with
 - [[auf dem Spiel stehen]] — to be at stake
 - [[auf den Weg bringen]] — to initiate; to set in motion
 - [[auf der Strecke bleiben]] — to fall by the wayside
@@ -3245,6 +4180,7 @@ Back to [[00 Home]]
 - [[auf Teufel komm raus]] — like crazy; at all costs
 - [[Aufbau]] — structure; assembly
 - [[aufeinander]] — on top of each other; one another
+- [[aufeinanderstoßen]] — to collide; to clash
 - [[aufeinandertreffen]] — to meet; to clash
 - [[auffallend]] — striking; conspicuous
 - [[auffällig]] — conspicuous; striking
@@ -3254,6 +4190,8 @@ Back to [[00 Home]]
 - [[Auflösung]] — dissolution; resolution; solution
 - [[aufrechterhalten]] — to maintain; to uphold
 - [[Aufrechterhaltung]] — maintenance; upholding
+- [[aufreißen]] — to tear open; to rip open; to throw open
+- [[Aufräumarbeiten]] — clean-up work; tidying up
 - [[Aufstellung]] — list; line-up; setting up
 - [[auftauchen]] — to appear; to surface
 - [[Aufteilung]] — division; distribution; allocation
@@ -3278,6 +4216,7 @@ Back to [[00 Home]]
 - [[ausgiebig]] — extensive; lavish; thorough
 - [[Ausgleich]] — balance; compensation; equalisation
 - [[ausgleichen]] — to balance out; to compensate
+- [[ausleeren]] — to empty out
 - [[auslegen]] — to interpret; to lay out; to design
 - [[Ausmaß]] — extent; scale
 - [[ausnahmslos]] — without exception
@@ -3290,6 +4229,7 @@ Back to [[00 Home]]
 - [[Ausschluss]] — exclusion; expulsion
 - [[Ausschnitt]] — excerpt; extract; cut-out
 - [[ausschöpfen]] — to exhaust; to make full use of
+- [[ausschütten]] — to pour out; to distribute (money)
 - [[aussetzen]] — to suspend; to expose; to stop
 - [[Ausweg]] — way out; solution
 - [[Ausweitung]] — expansion; extension
@@ -3316,8 +4256,10 @@ Back to [[00 Home]]
 - [[befestigen]] — to fasten; to fix; to attach
 - [[begehrt]] — in demand; sought after
 - [[Begleiterscheinung]] — side effect; accompanying phenomenon
+- [[begrenzen]] — to limit; to restrict; to border
 - [[Begrenzung]] — limitation; restriction
 - [[begünstigen]] — to favour; to facilitate
+- [[beheben]] — to fix; to remedy; to eliminate
 - [[beherrschen]] — to master; to control
 - [[Behälter]] — container; receptacle
 - [[beibehalten]] — to keep; to maintain; to retain
@@ -3347,11 +4289,13 @@ Back to [[00 Home]]
 - [[bestehend]] — existing
 - [[bestenfalls]] — at best
 - [[Bestimmung]] — regulation; determination; purpose
+- [[bestmöglich]] — best possible
 - [[Bestreben]] — endeavour; aim
 - [[beständig]] — constant; stable; resistant
 - [[Betracht]] — consideration (only in "in Betracht")
 - [[betreffend]] — concerned; in question
 - [[beträchtlich]] — considerably; substantially
+- [[betätigen]] — to operate; to press; (sich) to be active
 - [[bewerkstelligen]] — to manage; to bring about
 - [[bewähren]] — to prove its worth
 - [[Bezug]] — reference; relation; cover (of a pillow)
@@ -3368,6 +4312,8 @@ Back to [[00 Home]]
 - [[charakteristisch]] — characteristic; typical
 - [[dahingehend]] — to the effect; in this regard
 - [[das A und O sein]] — to be the be-all and end-all; to be essential
+- [[Datenanalyse]] — data analysis
+- [[dazugehörig]] — associated; related; belonging to it
 - [[dazwischen]] — in between
 - [[Deckung]] — cover; coverage; collateral
 - [[definitiv]] — definite; final
@@ -3385,6 +4331,7 @@ Back to [[00 Home]]
 - [[drauf]] — on it; on top of it (colloquial)
 - [[Drehung]] — turn; rotation
 - [[dringen]] — to penetrate; to press (for)
+- [[dringlich]] — urgent; pressing
 - [[Dringlichkeit]] — urgency
 - [[drohen]] — to threaten
 - [[drum]] — therefore; around it (colloquial)
@@ -3399,6 +4346,7 @@ Back to [[00 Home]]
 - [[ebenbürtig]] — equal; on a par
 - [[Ebene]] — level; plane; plain
 - [[Echtheit]] — authenticity
+- [[Echtzeit]] — real time
 - [[Effekt]] — effect
 - [[Effektivität]] — effectiveness
 - [[eigens]] — specially; expressly
@@ -3431,12 +4379,14 @@ Back to [[00 Home]]
 - [[einschränken]] — to restrict; to limit
 - [[einseitig]] — one-sided; unilateral
 - [[Einstieg]] — entry; start; way in
+- [[eintauchen]] — to dive in; to immerse oneself
 - [[einteilen]] — to divide; to schedule; to assign
 - [[Einteilung]] — division; classification; scheduling
 - [[eintönig]] — monotonous
 - [[Einwirkung]] — influence; effect
 - [[Einzelfall]] — isolated case; individual case
 - [[Einzug]] — moving in; entry; arrival
+- [[elementar]] — elementary; fundamental
 - [[empfehlenswert]] — recommendable; worth recommending
 - [[endlos]] — endless; infinite
 - [[Engpass]] — bottleneck; shortage
@@ -3467,6 +4417,7 @@ Back to [[00 Home]]
 - [[erneuern]] — to renew; to renovate
 - [[Erneuerung]] — renewal; renovation
 - [[erproben]] — to test; to try out
+- [[Erprobungsphase]] — testing phase; trial period
 - [[Erreichung]] — achievement; attainment
 - [[errichten]] — to erect; to build; to set up
 - [[Errichtung]] — erection; establishment
@@ -3493,11 +4444,13 @@ Back to [[00 Home]]
 - [[exemplarisch]] — exemplary; representative
 - [[Existenz]] — existence; livelihood
 - [[extern]] — external
+- [[exzellent]] — excellent; outstanding
 - [[faktisch]] — actual; de facto
 - [[Faktum]] — fact
 - [[falten]] — to fold
 - [[farbenfroh]] — colourful
 - [[Fassung]] — version; composure; mount
+- [[Fehlermeldung]] — error message
 - [[fein]] — fine; delicate; refined
 - [[Festigkeit]] — firmness; strength; stability
 - [[Festlegung]] — determination; fixing; stipulation
@@ -3532,6 +4485,7 @@ Back to [[00 Home]]
 - [[gegeneinander]] — against each other
 - [[Gegenstück]] — counterpart; opposite
 - [[gegenüberliegend]] — opposite; facing
+- [[gegenüberstehen]] — to face; to be opposed to; to stand opposite
 - [[Genauigkeit]] — accuracy; precision
 - [[generell]] — in general
 - [[generieren]] — to generate
@@ -3581,6 +4535,8 @@ Back to [[00 Home]]
 - [[heran]] — up to; towards (the speaker)
 - [[heranziehen]] — to consult; to draw on; to use for comparison
 - [[herauf]] — up (towards the speaker)
+- [[herausfordern]] — to challenge; to provoke
+- [[herausragen]] — to stand out; to protrude
 - [[herausstellen]] — to emphasise; (sich) to turn out
 - [[herbeiführen]] — to bring about; to cause
 - [[herkömmlich]] — conventional; traditional
@@ -3601,10 +4557,13 @@ Back to [[00 Home]]
 - [[Hindernis]] — obstacle
 - [[hindurch]] — through; throughout
 - [[hinein]] — in; into
+- [[hinhalten]] — to hold out; to keep waiting; to put off
 - [[hinreichend]] — sufficient
 - [[Hinsicht]] — respect; regard
 - [[hinweg]] — away; over (time or obstacles)
+- [[hinziehen]] — to attract; (sich) to drag on
 - [[hinzu]] — in addition; to it
+- [[hinzukommen]] — to be added; to join; to come along
 - [[hinzuziehen]] — to consult; to bring in
 - [[hinüber]] — over; across
 - [[hocken]] — to squat; to crouch; to sit around
@@ -3612,6 +4571,7 @@ Back to [[00 Home]]
 - [[höchst]] — highly; extremely
 - [[hörbar]] — audible
 - [[Hülle]] — cover; case; sleeve
+- [[idealerweise]] — ideally
 - [[Identifizierung]] — identification
 - [[identisch]] — identical
 - [[ihrerseits]] — for her part; on their part
@@ -3667,6 +4627,7 @@ Back to [[00 Home]]
 - [[Komplexität]] — complexity
 - [[Komponente]] — component
 - [[Konfiguration]] — configuration; setup
+- [[konfigurieren]] — to configure; to set up
 - [[konsequent]] — consistent; resolute
 - [[Konsequenzen ziehen]] — to draw the consequences
 - [[konstant]] — constant
@@ -3674,11 +4635,13 @@ Back to [[00 Home]]
 - [[konstruieren]] — to construct; to design
 - [[Konstruktion]] — construction; structure
 - [[Kontinuität]] — continuity
+- [[kontrollierbar]] — controllable; verifiable
 - [[konventionell]] — conventional
 - [[konzipieren]] — to design; to conceive; to draft
 - [[Koordination]] — coordination
 - [[kriechen]] — to crawl; to creep
 - [[Kriterium]] — criterion
+- [[kucken]] — to look; to watch (variant of gucken)
 - [[Kugel]] — ball; sphere; scoop
 - [[kurios]] — odd; curious
 - [[Kurs halten]] — to hold one's course
@@ -3724,19 +4687,24 @@ Back to [[00 Home]]
 - [[misslingen]] — to fail; to go wrong
 - [[mit dem Feuer spielen]] — to play with fire
 - [[mitbekommen]] — to notice; to catch (what is going on)
+- [[mitkriegen]] — to notice; to catch (colloquial)
 - [[mitsamt]] — together with; including
 - [[mittels]] — by means of
 - [[mitwirken]] — to participate; to contribute
+- [[modernisieren]] — to modernise
 - [[Modernisierung]] — modernisation
 - [[Modus]] — mode; mood (grammar)
 - [[mühelos]] — effortless; easy
 - [[mühsam]] — laborious; arduous
 - [[nach Strich und Faden]] — thoroughly (usually negative)
 - [[nachfolgend]] — following; below
+- [[nachfüllen]] — to refill; to top up
 - [[nachkommen]] — to comply with; to follow later
+- [[nachlassen]] — to subside; to decrease; to diminish
 - [[nachweisbar]] — provable; detectable
 - [[namentlich]] — especially; by name
 - [[naturgemäß]] — naturally; inevitably
+- [[Nebensache]] — minor matter; side issue
 - [[notfalls]] — if need be; if necessary
 - [[notwendigerweise]] — necessarily
 - [[Notwendigkeit]] — necessity
@@ -3752,6 +4720,8 @@ Back to [[00 Home]]
 - [[Passage]] — passage
 - [[Pfeil]] — arrow
 - [[Phänomen]] — phenomenon
+- [[piepen]] — to beep; to chirp; to squeak
+- [[planbar]] — predictable; possible to plan
 - [[platt]] — flat; trite
 - [[Platte]] — plate; slab; record
 - [[Platz nehmen]] — to take a seat
@@ -3761,6 +4731,7 @@ Back to [[00 Home]]
 - [[Positionierung]] — positioning
 - [[Potenzial]] — potential
 - [[potenziell]] — potential
+- [[praktikabel]] — practicable; workable
 - [[prall]] — plump; full to bursting
 - [[pressen]] — to press; to squeeze
 - [[primär]] — primary
@@ -3775,6 +4746,8 @@ Back to [[00 Home]]
 - [[Querschnitt]] — cross-section; overview
 - [[Rahmenbedingung]] — general condition; framework
 - [[rau]] — rough; hoarse; harsh
+- [[rauskommen]] — to come out; to get out; to be revealed (colloquial)
+- [[rausspringen]] — to jump out (colloquial)
 - [[Realisierung]] — realisation; implementation
 - [[Rechnung tragen]] — to take into account
 - [[Reduzierung]] — reduction; cutting back
@@ -3794,6 +4767,8 @@ Back to [[00 Home]]
 - [[Ruck]] — jerk; jolt
 - [[ruhen]] — to rest; to lie dormant
 - [[runter]] — down; downwards
+- [[runterfahren]] — to shut down; to power down; to scale down (colloquial)
+- [[runterfallen]] — to fall down; to drop (colloquial)
 - [[räumlich]] — spatial; of space
 - [[rüber]] — over; across (colloquial for hinüber)
 - [[Rückgriff]] — recourse; falling back (on)
@@ -3832,9 +4807,12 @@ Back to [[00 Home]]
 - [[signifikant]] — significant
 - [[Simulation]] — simulation
 - [[sofern]] — provided that; if
+- [[solch]] — such
 - [[sonderlich]] — particular; special
+- [[Sondersituation]] — special situation; exceptional circumstances
 - [[sonstig]] — other; further
 - [[Sorte]] — kind; sort; variety
+- [[sortieren]] — to sort; to arrange
 - [[Spalt]] — gap; crack
 - [[Spalte]] — column; crack
 - [[spalten]] — to split; to divide
@@ -3877,6 +4855,8 @@ Back to [[00 Home]]
 - [[Szenario]] — scenario
 - [[Säule]] — column; pillar
 - [[tasten]] — to feel; to grope
+- [[Technikfehler]] — technical error; technical fault
+- [[Technisierung]] — mechanisation; increasing use of technology
 - [[teils]] — partly
 - [[Tendenz]] — tendency; trend
 - [[tendenziell]] — tending to; as a trend
@@ -3885,10 +4865,12 @@ Back to [[00 Home]]
 - [[Transformation]] — transformation
 - [[transparent]] — transparent; clear
 - [[Transparenz]] — transparency
+- [[tricky]] — tricky; difficult
 - [[Träger]] — carrier; bearer; sponsor (of an institution)
 - [[typischerweise]] — typically
 - [[Typus]] — type
 - [[täuschen]] — to deceive; to be mistaken
+- [[Tücke]] — pitfall; trap; difficulty
 - [[um jeden Preis]] — at all costs
 - [[umfassend]] — comprehensive; extensive
 - [[umgeben]] — to surround
@@ -3910,6 +4892,7 @@ Back to [[00 Home]]
 - [[unerwartet]] — unexpected
 - [[ungeheuer]] — tremendous; enormous
 - [[ungemein]] — immensely; extremely
+- [[ungenau]] — inaccurate; imprecise
 - [[ungestört]] — undisturbed; uninterrupted
 - [[ungleich]] — unequal; uneven
 - [[unmittelbar]] — direct; immediate
@@ -3920,10 +4903,12 @@ Back to [[00 Home]]
 - [[unterschätzen]] — to underestimate
 - [[unterteilen]] — to divide; to subdivide
 - [[unumgänglich]] — unavoidable; essential
+- [[unvermeidbar]] — unavoidable
 - [[unvermeidlich]] — unavoidable; inevitable
 - [[unverzichtbar]] — indispensable
 - [[unwahrscheinlich]] — improbable; unlikely
 - [[unweigerlich]] — inevitably; unavoidably
+- [[unwesentlich]] — insignificant; minor
 - [[unzureichend]] — insufficient; inadequate
 - [[vage]] — vague; unclear
 - [[variabel]] — variable; flexible
@@ -3953,6 +4938,7 @@ Back to [[00 Home]]
 - [[verhältnismäßig]] — relative; comparatively
 - [[Verknüpfung]] — link; connection
 - [[vermehrt]] — increased
+- [[vermeidbar]] — avoidable
 - [[Vermeidung]] — avoidance; prevention
 - [[vermeintlich]] — supposed; alleged
 - [[vermindern]] — to reduce; to decrease
@@ -3984,6 +4970,7 @@ Back to [[00 Home]]
 - [[vielfältig]] — diverse; varied
 - [[vielmehr]] — rather; on the contrary
 - [[vielseitig]] — versatile; varied
+- [[vielzählig]] — numerous
 - [[Vision]] — vision
 - [[vollenden]] — to complete; to finish; to perfect
 - [[vollends]] — completely; entirely
@@ -3996,12 +4983,15 @@ Back to [[00 Home]]
 - [[von Nutzen sein]] — to be useful
 - [[von Vorteil sein]] — to be an advantage
 - [[voran]] — ahead; forward; on
+- [[voranbringen]] — to advance; to move forward; to further
+- [[vorangehen]] — to go ahead; to lead the way; to progress
 - [[vorausgesetzt]] — provided that
 - [[voraussetzen]] — to presuppose; to require
 - [[Voraussetzungen schaffen]] — to create the conditions
 - [[vorbehalten]] — reserved
 - [[Vorbereitungen treffen]] — to make preparations
 - [[vorbeugen]] — to prevent; to guard against
+- [[Vorderseite]] — front; front side
 - [[Vorfall]] — incident; occurrence
 - [[Vorfeld]] — run-up; preliminary stage (only in "im Vorfeld")
 - [[Vorgang]] — process; procedure; incident
@@ -4023,9 +5013,13 @@ Back to [[00 Home]]
 - [[wachen]] — to keep watch; to stay awake
 - [[wahlweise]] — optionally; as you choose
 - [[wahrhaft]] — truly; genuinely; real
+- [[wandeln]] — to change; to transform
 - [[Wandlung]] — change; transformation
 - [[Warnung]] — warning
 - [[Wechsel]] — change; switch; exchange
+- [[wegdenken]] — to imagine away; to think away
+- [[wegfallen]] — to be dropped; to no longer apply; to cease
+- [[wegweisend]] — pioneering; groundbreaking; trend-setting
 - [[wehren]] — to defend oneself; to resist
 - [[weichen]] — to give way; to yield
 - [[weisen]] — to point; to show (the way)
@@ -4044,9 +5038,12 @@ Back to [[00 Home]]
 - [[wirbeln]] — to whirl; to swirl
 - [[wirksam]] — effective
 - [[Wirksamkeit]] — effectiveness
+- [[wirkungslos]] — ineffective; without effect
 - [[womöglich]] — possibly; perhaps
 - [[woraufhin]] — whereupon; after which
 - [[Wucht]] — force; impact; power
+- [[Zahlencode]] — number code; numerical code
+- [[Zahlenschloss]] — combination lock
 - [[zerren]] — to drag; to tug
 - [[zielen]] — to aim
 - [[Zielsetzung]] — objective; goal-setting
@@ -4071,16 +5068,19 @@ Back to [[00 Home]]
 - [[zur Geltung kommen]] — to show to advantage
 - [[zur Verfügung stehen]] — to be available
 - [[zur Verfügung stellen]] — to provide; to make available
+- [[zurückdrehen]] — to turn back; to reverse; to wind back
 - [[zurückgreifen]] — to fall back on; to resort to
 - [[zurücklassen]] — to leave behind
 - [[zurückziehen]] — to withdraw; to retreat
 - [[Zusammenbruch]] — collapse; breakdown
+- [[zusammensetzen]] — to put together; to assemble; (sich) to consist of
 - [[Zusammensetzung]] — composition; make-up
 - [[Zusammenspiel]] — interplay; teamwork
 - [[Zusammenstellung]] — compilation; selection; composition
 - [[zusammentreffen]] — to meet; to coincide
 - [[zusammenwirken]] — to work together; to interact
 - [[Zusatz]] — addition; additive
+- [[zuschlagen]] — to slam shut; to strike; to hit
 - [[zuschreiben]] — to attribute; to ascribe
 - [[zusehends]] — visibly; noticeably
 - [[zutreffend]] — correct; applicable
@@ -4103,6 +5103,7 @@ Back to [[00 Home]]
 - [[überlassen]] — to leave to; to let have
 - [[überliefern]] — to hand down; to pass on
 - [[Überprüfung]] — check; review
+- [[überrumpeln]] — to take by surprise; to catch off guard
 - [[überschreiten]] — to exceed; to cross
 - [[übersehen]] — to overlook; to miss
 - [[Übersicht]] — overview

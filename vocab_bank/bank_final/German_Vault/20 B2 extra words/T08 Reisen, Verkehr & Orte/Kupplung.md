@@ -1,0 +1,42 @@
+---
+title: "Kupplung"
+type: "word"
+aliases: ["die Kupplung", "Kupplungen"]
+lemma: "Kupplung"
+meaning: "clutch; coupling"
+pos: "noun"
+article: "die"
+plural: "Kupplungen"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D4162"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+status: "new"
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+---
+<!-- bank:start -->
+# die Kupplung
+
+**Meaning:** clutch; coupling
+**Plural:** Kupplungen
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Beim Anfahren muss man die Kupplung langsam kommen lassen.
+> *When pulling away you have to release the clutch slowly.*
+
+**Collocations**
+- die Kupplung treten
+- die Kupplung kommen lassen
+- eine defekte Kupplung
+
+**Related:** [[treten]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

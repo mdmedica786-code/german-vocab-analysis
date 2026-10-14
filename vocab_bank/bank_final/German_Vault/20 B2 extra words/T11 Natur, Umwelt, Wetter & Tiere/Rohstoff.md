@@ -33,6 +33,8 @@ status: "new"
 - nachwachsende Rohstoffe
 - Rohstoffe importieren
 
+**Related:** [[abbauen]]
+
 **Exam use:** Lesen, Hören
 <!-- bank:end -->
 

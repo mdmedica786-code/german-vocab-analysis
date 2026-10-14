@@ -29,7 +29,7 @@ status: "new"
 - zartbitter schmecken
 - Zartbitterschokolade
 
-**Related:** [[Schokolade]]
+**Related:** [[Schokolade]] · [[Zartbitterschokolade]]
 
 **Exam use:** Alltag, Hören
 <!-- bank:end -->

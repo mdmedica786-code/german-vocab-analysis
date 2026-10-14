@@ -6,7 +6,7 @@ tags: ["moc", "topic/T02"]
 <!-- bank:start -->
 # T02 Wohnen
 
-Map of content. 266 words in the main bank, 116 in the B2 bank.
+Map of content. 266 words in the main bank, 137 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -295,7 +295,7 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (116)
+### B2 (137)
 
 - [[Abfluss]] — drain; outflow
 - [[Abstellraum]] — storage room; box room
@@ -311,14 +311,18 @@ Back to [[00 Home]]
 - [[bügeln]] — to iron
 - [[bürsten]] — to brush
 - [[Dachboden]] — attic; loft
+- [[Dachterrassenwohnung]] — apartment with a roof terrace
 - [[Deo]] — deodorant
 - [[Dübel]] — wall plug
 - [[Eigenbedarf]] — own use (landlord's need to occupy)
 - [[Eigenheim]] — owner-occupied house; own home
 - [[Eigentumswohnung]] — owner-occupied flat; condominium
 - [[Eingangstür]] — front door; entrance door
+- [[Einrichtungsfrage]] — question of furnishing; interior design matter
 - [[Fliese]] — tile
+- [[Gartenmöbel]] — garden furniture
 - [[Gartenschlauch]] — garden hose
+- [[Gefrierfach]] — freezer compartment
 - [[Gegensprechanlage]] — intercom
 - [[Geländer]] — railing; banister
 - [[geräumig]] — spacious; roomy
@@ -335,6 +339,7 @@ Back to [[00 Home]]
 - [[Instandhaltung]] — maintenance; upkeep
 - [[isolieren]] — to insulate; to isolate
 - [[Kaltmiete]] — basic rent (excluding utilities)
+- [[Katzenklo]] — cat litter tray; cat toilet
 - [[kehren]] — to sweep; to turn
 - [[kippen]] — to tip; to tilt; to topple
 - [[Klebeband]] — adhesive tape
@@ -343,7 +348,10 @@ Back to [[00 Home]]
 - [[Kurzschluss]] — short circuit
 - [[Küchenpapier]] — kitchen roll
 - [[Laminat]] — laminate flooring
+- [[LED-Lampe]] — LED lamp
 - [[lüften]] — to air; to ventilate
+- [[Lüftung]] — ventilation; ventilation system
+- [[Maklerbüro]] — estate agent's office; brokerage office
 - [[Maklergebühr]] — estate agent's fee
 - [[Mehrgenerationenhaus]] — multigenerational house
 - [[Mieterhöhung]] — rent increase
@@ -355,19 +363,26 @@ Back to [[00 Home]]
 - [[mähen]] — to mow; to cut (grass)
 - [[Möbelpacker]] — furniture mover; removal man
 - [[Mülltüte]] — bin bag
+- [[Nachbarhaus]] — neighbouring house
 - [[Nachmieter]] — subsequent tenant
 - [[Nagelschere]] — nail scissors
 - [[Nebenkostenabrechnung]] — utilities statement
+- [[Netzstecker]] — mains plug; power plug
 - [[Parkett]] — parquet
 - [[Pinsel]] — brush; paintbrush
 - [[Pinzette]] — tweezers
 - [[Platz schaffen]] — to make room
+- [[Platzproblem]] — space problem; lack of space
+- [[platzsparend]] — space-saving
+- [[Polster]] — cushion; padding
 - [[Putzmittel]] — cleaning product
 - [[Rasenmäher]] — lawnmower
 - [[Rasierer]] — razor; shaver
+- [[Raumsituation]] — space situation; availability of rooms
 - [[Rohrbruch]] — burst pipe
 - [[Rollladen]] — roller shutter
 - [[Ruhestörung]] — disturbance of the peace; noise nuisance
+- [[saubermachen]] — to clean (up)
 - [[saugen]] — to suck; to vacuum
 - [[scheuern]] — to scrub; to chafe
 - [[schleppen]] — to drag; to haul
@@ -376,6 +391,8 @@ Back to [[00 Home]]
 - [[schrauben]] — to screw; to tinker
 - [[Schraubenzieher]] — screwdriver
 - [[Schönheitsreparatur]] — cosmetic repairs (e.g. painting)
+- [[Seitentür]] — side door
+- [[Sicherungskasten]] — fuse box
 - [[Sockelleiste]] — skirting board
 - [[Sozialwohnung]] — social housing flat
 - [[Spachtel]] — putty knife; filling knife
@@ -394,6 +411,7 @@ Back to [[00 Home]]
 - [[Thermostat]] — thermostat
 - [[Tischdecke]] — tablecloth
 - [[Toilettenpapier]] — toilet paper
+- [[Umbauarbeiten]] — renovation work; conversion work
 - [[Umzugskarton]] — moving box
 - [[Ungeziefer]] — vermin; pests
 - [[Untermiete]] — subletting
@@ -401,13 +419,16 @@ Back to [[00 Home]]
 - [[Wackelkontakt]] — loose connection
 - [[wackeln]] — to wobble; to shake
 - [[Warmmiete]] — rent including heating and utilities
+- [[Warmwasserversorgung]] — hot water supply
 - [[Waschbecken]] — washbasin; sink
 - [[Waschlappen]] — flannel; washcloth
 - [[Wasserschaden]] — water damage
 - [[Werkzeugkasten]] — toolbox
 - [[Wohngemeinschaft]] — shared flat
+- [[Wohntrend]] — interior trend; living trend
 - [[Wohnungsbesichtigung]] — flat viewing
 - [[Wohnungsübergabe]] — handover of the flat
+- [[Wohnviertel]] — residential area; neighbourhood
 - [[Wärmepumpe]] — heat pump
 - [[Wäscheleine]] — clothesline
 - [[Wäscheständer]] — clothes airer

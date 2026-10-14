@@ -33,6 +33,8 @@ status: "new"
 - wenig Speicherplatz
 - zusätzlichen Speicherplatz kaufen
 
+**Related:** [[freigeben]]
+
 **Exam use:** Alltag, Lesen
 <!-- bank:end -->
 

@@ -6,7 +6,7 @@ tags: ["moc", "topic/T13"]
 <!-- bank:start -->
 # T13 Zeit, Zahlen, Maße & Mengen
 
-Map of content. 375 words in the main bank, 142 in the B2 bank.
+Map of content. 375 words in the main bank, 154 in the B2 bank.
 
 Back to [[00 Home]]
 
@@ -404,7 +404,7 @@ Back to [[00 Home]]
 
 ## B2 bank
 
-### B2 (142)
+### B2 (154)
 
 - [[ablaufen]] — to expire; to run its course
 - [[Abnahme]] — decrease; acceptance (of work)
@@ -428,9 +428,11 @@ Back to [[00 Home]]
 - [[dauerhaft]] — permanently; lasting
 - [[demnächst]] — soon; shortly
 - [[derzeit]] — currently; at present
+- [[Dezibel]] — decibel
 - [[Diagramm]] — diagram; chart; graph
 - [[Dichte]] — density
 - [[die Zeit totschlagen]] — to kill time
+- [[diesjährig]] — this year's
 - [[Dreieck]] — triangle
 - [[Durchmesser]] — diameter
 - [[Dutzend]] — dozen
@@ -449,6 +451,8 @@ Back to [[00 Home]]
 - [[gegenwärtig]] — present; current
 - [[gelegentlich]] — occasionally
 - [[gemächlich]] — leisurely; unhurried
+- [[geraum]] — considerable (of time; only in "seit geraumer Zeit")
+- [[getaktet]] — timed; scheduled in fixed intervals
 - [[Gleichung]] — equation
 - [[Großteil]] — major part; majority
 - [[größtenteils]] — for the most part; mostly
@@ -470,14 +474,18 @@ Back to [[00 Home]]
 - [[Laufzeit]] — term; duration; running time
 - [[Lebensjahr]] — year of life
 - [[linear]] — linear
+- [[Lösungszahl]] — solution number; answer number
 - [[Masse]] — mass; crowd; bulk
 - [[Maximum]] — maximum; highest level
+- [[Maßeinheit]] — unit of measurement
 - [[Meile]] — mile
+- [[millionenfach]] — millions of times; in their millions
 - [[Minimum]] — minimum; lowest level
 - [[Mittelwert]] — mean; average (value)
 - [[mitunter]] — occasionally; at times
 - [[nach und nach]] — little by little; gradually
 - [[Nachhinein]] — hindsight (only in "im Nachhinein")
+- [[Nachthälfte]] — half of the night
 - [[nachträglich]] — subsequent; belated; afterwards
 - [[nahezu]] — almost; nearly
 - [[neuerdings]] — recently; lately
@@ -492,6 +500,7 @@ Back to [[00 Home]]
 - [[rasch]] — quick; swift
 - [[reichlich]] — ample; plentiful
 - [[Rückgang]] — decline; decrease
+- [[Schaubild]] — diagram; chart; graphic
 - [[schlagartig]] — sudden; abrupt
 - [[Schnelligkeit]] — speed; swiftness
 - [[schrumpfen]] — to shrink
@@ -504,6 +513,7 @@ Back to [[00 Home]]
 - [[Skala]] — scale
 - [[soeben]] — just now; a moment ago
 - [[sogleich]] — at once; immediately
+- [[Spitzenwert]] — peak value; top value
 - [[stagnieren]] — to stagnate
 - [[stetig]] — steady; constant
 - [[stets]] — always; at all times
@@ -533,7 +543,9 @@ Back to [[00 Home]]
 - [[vorübergehend]] — temporarily
 - [[Wahrscheinlichkeit]] — probability; likelihood
 - [[wiederholt]] — repeated; repeatedly
+- [[wiederkehrend]] — recurring
 - [[Winkel]] — angle; corner
+- [[Wochenplan]] — weekly plan; weekly schedule
 - [[währenddessen]] — meanwhile; in the meantime
 - [[zeitgleich]] — simultaneous; at the same time
 - [[Zeitlang]] — while; period (only in "eine Zeitlang")

@@ -29,6 +29,8 @@ status: "new"
 - ein schlaffer Händedruck
 - schlaffe Muskeln
 
+**Related:** [[Händedruck]]
+
 **Exam use:** Lesen, Sprechen
 <!-- bank:end -->
 

@@ -33,6 +33,8 @@ status: "new"
 - Klischees abbauen
 - ein altes Klischee
 
+**Related:** [[abbauen]]
+
 **Exam use:** Lesen, Medien
 <!-- bank:end -->
 
