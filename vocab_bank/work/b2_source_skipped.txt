@@ -62,3 +62,8 @@ Reiter|historical, religious or too rare
 Mönch|historical, religious or too rare
 Bischof|historical, religious or too rare
 fünft|ordinal stem, not a word to learn
+Gräfin|historical or too rare
+Heer|historical or too rare
+minder|historical or too rare
+Gunst|historical or too rare
+vornherein|covered by the phrase von vornherein
