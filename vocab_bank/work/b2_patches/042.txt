@@ -38,7 +38,7 @@ N¦Vorschein¦der¦–¦appearance (only in "zum Vorschein kommen")¦T16¦Beim U
 N¦Stoß¦der¦Stöße¦push; shock; pile¦T16¦Er gab ihm einen leichten Stoß.¦He gave him a light push.¦ein Stoß Papier | einen Stoß bekommen | sich einen Stoß geben¦Alltag; Lesen
 A¦absichtlich¦deliberate; intentional¦T14¦Er hat das absichtlich getan.¦He did that on purpose.¦absichtlich übersehen | nicht absichtlich | absichtlich falsch machen¦Sprechen; Schreiben
 N¦Scherz¦der¦Scherze¦joke¦T15¦Das war nur ein Scherz.¦That was only a joke.¦einen Scherz machen | Scherz beiseite | im Scherz¦Sprechen; Alltag
-A¦energisch¦energetic; firm; vigorous¦T14¦Sie widersprach energisch.¦She objected firmly.¦energisch widersprechen | energisch eingreifen | ein energischer Schritt¦Lesen; Sprechen
+A¦energisch¦energetic; firm; vigorous¦T14¦Sie widersprach dem Vorschlag energisch.¦She objected to the proposal firmly.¦energisch widersprechen | energisch eingreifen | ein energischer Schritt¦Lesen; Sprechen
 N¦Seufzer¦der¦Seufzer¦sigh¦T14¦Er stieß einen tiefen Seufzer aus.¦He let out a deep sigh.¦einen Seufzer ausstoßen | ein tiefer Seufzer | ein Seufzer der Erleichterung¦Lesen; Hören
 N¦Illusion¦die¦Illusionen¦illusion¦T14¦Ich habe keine Illusionen mehr.¦I have no illusions any more.¦sich Illusionen machen | eine Illusion zerstören | der Illusion erliegen¦Sprechen; Lesen
 N¦Historiker¦der¦Historiker¦historian¦T03¦Historiker streiten über die Ursachen des Krieges.¦Historians argue about the causes of the war.¦ein bekannter Historiker | Historiker und Archäologen | als Historiker arbeiten¦Lesen; Medien
