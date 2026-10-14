@@ -96,7 +96,7 @@ def main():
              ["Sheet", "Words", "What it is"]]
     for lv in LEVELS:
         lines.append([lv, cnt[lv], "main bank, in study order" + (" (core B2 words)" if lv == "B2" else "")])
-    lines += [["B2 plus", len(b2), "2,379 extra B2 words for exams and daily life, no medical, none of them in the sheets above"],
+    lines += [["B2 plus", len(b2), f"{len(b2):,} extra B2 words for exams and daily life, no medical, none of them in the sheets above"],
               ["Phrases", len(phr), "useful phrases grouped by purpose"],
               ["Redemittel", len(red), "sentences for the speaking and writing exam"],
               ["Not in list", len(skipped), "words left out of the study list (country names, words you already know)"]]

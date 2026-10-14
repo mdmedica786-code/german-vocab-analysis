@@ -17,7 +17,7 @@ Tip: bookmark it, or copy the file to your phone and open it there.
 | Deck | What it is | When to use it |
 |---|---|---|
 | Main words | about 6,500 words A1 to C1, with some medical words | the base for everything |
-| B2 words | about 2,400 more words for B2 and daily life | after you are comfortable with B1 |
+| B2 words | about 3,700 more words for B2 and daily life | after you are comfortable with B1 |
 | Phrases | about 1,000 useful phrases (opinion, agreeing, reasons) | with any level |
 | Redemittel | about 1,200 sentences for the speaking and writing exam | before the exam |
 
@@ -29,7 +29,7 @@ A simple plan: now to December: Main words (levels A2 and B1) plus Redemittel (B
 | A1 | 1,751 |
 | A2 | 1,296 |
 | B1 | 2,480 |
-| B2 | 361 core words + 2,379 extra B2 words (deck "B2 words") = 2,740 |
+| B2 | 361 core words + 3,683 extra B2 words (deck "B2 words") = 4,044 |
 | C1 | 252 |
 
 (These are the words in the study list. 384 more words, such as country names, are left out on purpose. They are in the sheet "Not in list".)

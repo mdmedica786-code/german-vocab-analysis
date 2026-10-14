@@ -486,7 +486,7 @@ This vault is generated from the CSV banks in `bank_final/`. Open the folder `ba
 | `02 MOCs` | Maps of content: one per level (A1 to C1), one per topic (T01-T16, M1-M4), phrases, Redemittel, medical |
 | `03 Dashboards` | Dataview queries and `.base` files (tables you can filter and edit) |
 | `10 Words by level` | Main bank, one note per word, in folders A1, A2, B1, B2, C1 and then by topic |
-| `20 B2 extra words` | the 2,379 extra B2 words (no medical), sorted by topic |
+| `20 B2 extra words` | the extra B2 words (no medical, more than 3,600), sorted by topic |
 | `30 Phrases` | 1,016 phrases grouped by function (agree, give reasons, ...) |
 | `40 Redemittel` | 1,176 speaking and writing expressions, one note per category |
 | `90 Templates` | Template for your own new word notes |
