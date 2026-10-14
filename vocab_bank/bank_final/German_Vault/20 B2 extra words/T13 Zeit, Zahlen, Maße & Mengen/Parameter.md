@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2605"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Parameter

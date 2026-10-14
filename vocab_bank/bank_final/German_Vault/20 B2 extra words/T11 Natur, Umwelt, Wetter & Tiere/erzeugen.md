@@ -12,8 +12,8 @@ bank: "b2"
 id: "D2408"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # erzeugen

@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3649"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # entsetzlich

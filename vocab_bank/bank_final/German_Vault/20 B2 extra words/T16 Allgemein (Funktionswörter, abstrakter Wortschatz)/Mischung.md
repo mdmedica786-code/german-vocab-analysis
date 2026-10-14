@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2622"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Mischung

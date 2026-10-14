@@ -4,7 +4,11 @@
   python3 work/make_study_app.py
 """
 import csv, json
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from audio_util import AudioLookup  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BANKS = ROOT / "bank_final"
@@ -18,6 +22,9 @@ def rd(name):
 
 def topic(t):
     return t.split(" ", 1)[1] if t and " " in t else t
+
+
+AUDIO = AudioLookup()  # native recordings from download_audio.py (empty if none were downloaded)
 
 
 def word_rec(r, kind):
@@ -40,7 +47,7 @@ def word_rec(r, kind):
         f.append(r["note"])
     return dict(i=r["id"], k=kind, t=t, m=r["meaning_en"], p=pos, f=" · ".join(f), d=r.get("example_de", ""), e=r.get("example_en", ""),
                 c=r.get("collocations", ""), l=r.get("level", ""), g=topic(r["topic"]), s=1 if r.get("skip") else 0,
-                md=1 if (r.get("medical") or r["topic"].startswith("M")) else 0)
+                md=1 if (r.get("medical") or r["topic"].startswith("M")) else 0, a=AUDIO.get(r["lemma"]))
 
 
 def main():
@@ -63,6 +70,7 @@ def main():
     html = (ROOT / "work" / "study_app_template.html").read_text(encoding="utf-8").replace("__DATA__", data)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
+    print(f"{sum(1 for c in recs if c.get('a'))} cards with native audio")
     print(f"{len(recs)} cards -> {OUT} ({OUT.stat().st_size / 1e6:.1f} MB)")
 
 

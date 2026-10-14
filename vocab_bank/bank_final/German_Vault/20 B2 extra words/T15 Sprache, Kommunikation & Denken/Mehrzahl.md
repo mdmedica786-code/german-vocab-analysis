@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2933"
 exam_use: ["Schreiben", "Grammatik"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Grammatik"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Mehrzahl

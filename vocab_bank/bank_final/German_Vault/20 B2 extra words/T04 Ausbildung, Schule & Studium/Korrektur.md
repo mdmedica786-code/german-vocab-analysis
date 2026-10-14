@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3096"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Korrektur

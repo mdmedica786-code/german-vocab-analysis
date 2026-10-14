@@ -11,8 +11,8 @@ bank: "b2"
 id: "D2886"
 exam_use: ["Schreiben", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # üblicherweise

@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3650"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # transparent

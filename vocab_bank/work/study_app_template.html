@@ -189,9 +189,19 @@ function stats(due,nw,total,fresh){
 function next(){
   cur=queue.shift()||null; shown=false; render();
 }
-function speak(t){
+const AUDIO_DIR='../vocab_bank/bank_final/audio/';  // native recordings (download_audio.py); optional
+let nativeAudio=null;
+function tts(t){
   if(!('speechSynthesis' in window)) return;
   speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(t); u.lang='de-DE'; u.rate=.9; speechSynthesis.speak(u);
+}
+function speak(t,file){
+  if(nativeAudio){nativeAudio.pause();nativeAudio=null;}
+  if(!file){tts(t);return;}
+  // play the native recording; if the file is not on this computer/phone, fall back to the browser voice
+  let done=false; const fb=()=>{if(!done){done=true;tts(t);}};
+  const a=new Audio(AUDIO_DIR+encodeURIComponent(file)); nativeAudio=a;
+  a.onerror=fb; a.play().catch(fb);
 }
 function front(c){return c.k==='M'||c.k==='B'?c.t:c.t;}
 function render(){
@@ -201,13 +211,13 @@ function render(){
   let h='';
   if(de){
     h+=`<div class="muted">${esc(KINDS[c.k])} · ${esc(c.l||'')} ${c.p?'· '+esc(c.p):''}</div><div class="big">${esc(c.t)}</div>`;
-    h+=`<button class="spk" style="position:absolute;top:10px;right:10px" data-say="${esc(c.t)}" title="Listen">🔊</button>`;
+    h+=`<button class="spk" style="position:absolute;top:10px;right:10px" data-say="${esc(c.t)}"${c.a?` data-aud="${esc(c.a)}"`:''} title="Listen">🔊</button>`;
   }else{
     h+=`<div class="muted">${esc(KINDS[c.k])} · ${esc(c.l||'')}</div><div class="big">${esc(c.m)}</div>`;
   }
   if(shown){
     h+='<div class="ans">';
-    if(!de) h+=`<p class="big" style="font-size:26px">${esc(c.t)} <button class="spk" data-say="${esc(c.t)}">🔊</button></p>`;
+    if(!de) h+=`<p class="big" style="font-size:26px">${esc(c.t)} <button class="spk" data-say="${esc(c.t)}"${c.a?` data-aud="${esc(c.a)}"`:''}>🔊</button></p>`;
     if(de) h+=`<p><b>${esc(c.m)}</b></p>`;
     if(c.f) h+=`<p class="muted">${esc(c.f)}</p>`;
     if(c.d) h+=`<div class="ex">${esc(c.d)}<br><i>${esc(c.e)}</i> <button class="spk" data-say="${esc(c.d)}">🔊</button></div>`;
@@ -220,7 +230,7 @@ function render(){
     rb.classList.add('hide');
   }
   b.innerHTML=h;
-  if(!shown && de && S.set.speak) speak(c.t);
+  if(!shown && de && S.set.speak) speak(c.t,c.a);
 }
 function reveal(){ if(cur && !shown){shown=true; render();} }
 function rate(r){
@@ -248,7 +258,7 @@ function search(){
   $('#qInfo').textContent=res.length+' results'+(res.length>100?' (showing 100)':'');
   $('#qTable').innerHTML=res.slice(0,100).map((c,n)=>`<tr class="item" data-n="${n}"><td><b>${esc(c.t)}</b><div class="muted">${esc(KINDS[c.k])} ${c.l?'· '+esc(c.l):''}</div></td><td>${esc(c.m)}</td></tr><tr class="hide" id="d${n}"><td colspan="2">${detail(c)}</td></tr>`).join('');
   $$('#qTable tr.item').forEach(tr=>tr.onclick=()=>{$('#d'+tr.dataset.n).classList.toggle('hide');});
-  $$('#qTable [data-say]').forEach(b=>b.onclick=e=>{e.stopPropagation();speak(b.dataset.say);});
+  $$('#qTable [data-say]').forEach(b=>b.onclick=e=>{e.stopPropagation();speak(b.dataset.say,b.dataset.aud);});
 }
 function detail(c){
   let h='';
@@ -283,7 +293,7 @@ fillKinds(); applyUI(); fillGroups(); build();
 $('#fKind').onchange=()=>{S.set.kind=$('#fKind').value;S.set.group='';fillGroups();readUI();build();};
 ['#fGroup','#fDir','#fNew','#fMed','#fSpeak'].forEach(s=>$(s).onchange=()=>{readUI();build();});
 $$('.lv').forEach(x=>x.onchange=()=>{readUI();build();});
-$('#card').onclick=e=>{if(e.target.closest('[data-say]')){speak(e.target.closest('[data-say]').dataset.say);return;} reveal();};
+$('#card').onclick=e=>{if(e.target.closest('[data-say]')){const el=e.target.closest('[data-say]');speak(el.dataset.say,el.dataset.aud);return;} reveal();};
 $$('#rateBox button').forEach(b=>b.onclick=()=>rate(+b.dataset.r));
 document.addEventListener('keydown',e=>{
   if(e.target.matches('input,select,textarea')) return;

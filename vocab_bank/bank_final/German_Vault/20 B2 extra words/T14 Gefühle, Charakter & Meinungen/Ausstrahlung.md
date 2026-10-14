@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3552"
 exam_use: ["Sprechen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Ausstrahlung

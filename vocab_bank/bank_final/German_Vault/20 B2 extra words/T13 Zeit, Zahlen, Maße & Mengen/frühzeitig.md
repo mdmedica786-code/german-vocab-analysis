@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3027"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # frühzeitig

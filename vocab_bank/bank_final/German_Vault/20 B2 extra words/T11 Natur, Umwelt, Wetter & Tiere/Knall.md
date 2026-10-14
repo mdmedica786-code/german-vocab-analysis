@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3556"
 exam_use: ["Hören", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Knall

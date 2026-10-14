@@ -11,8 +11,8 @@ bank: "b2"
 id: "D2480"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # vergangen

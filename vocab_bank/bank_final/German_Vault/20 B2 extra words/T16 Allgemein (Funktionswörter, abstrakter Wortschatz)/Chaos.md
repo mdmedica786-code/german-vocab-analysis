@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2725"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Chaos

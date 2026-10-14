@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3087"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # lateinisch

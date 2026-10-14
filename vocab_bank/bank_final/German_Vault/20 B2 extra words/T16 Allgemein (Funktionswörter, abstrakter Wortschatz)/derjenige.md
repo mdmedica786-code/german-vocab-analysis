@@ -11,8 +11,8 @@ bank: "b2"
 id: "D2390"
 exam_use: ["Lesen", "Grammatik"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/pronoun", "exam/Lesen", "exam/Grammatik"]
+status: "new"
 ---
 <!-- bank:start -->
 # derjenige

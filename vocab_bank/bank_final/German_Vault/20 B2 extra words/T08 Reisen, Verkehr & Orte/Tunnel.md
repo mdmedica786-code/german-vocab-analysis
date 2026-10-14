@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3118"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Tunnel

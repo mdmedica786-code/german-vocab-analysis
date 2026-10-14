@@ -12,8 +12,8 @@ bank: "b2"
 id: "D2973"
 exam_use: ["Hören", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Hören", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ertönen

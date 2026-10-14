@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3268"
 exam_use: ["Medien", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Medien", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Affäre

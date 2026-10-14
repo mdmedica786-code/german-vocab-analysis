@@ -12,8 +12,8 @@ bank: "b2"
 id: "D3209"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # erlernen

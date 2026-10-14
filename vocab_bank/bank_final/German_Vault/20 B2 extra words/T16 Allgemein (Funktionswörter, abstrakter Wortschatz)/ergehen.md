@@ -12,8 +12,8 @@ bank: "b2"
 id: "D3340"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ergehen

@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3230"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Viertelstunde

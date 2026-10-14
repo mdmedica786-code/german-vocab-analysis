@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2826"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Amerikaner

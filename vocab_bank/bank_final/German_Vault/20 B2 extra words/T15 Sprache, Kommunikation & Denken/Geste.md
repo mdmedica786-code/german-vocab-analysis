@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2553"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Geste

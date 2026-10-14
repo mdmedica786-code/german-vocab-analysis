@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3167"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Handbewegung

@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3634"
 exam_use: ["Alltag", "Grammatik"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Alltag", "exam/Grammatik"]
+status: "new"
 ---
 <!-- bank:start -->
 # übereinander

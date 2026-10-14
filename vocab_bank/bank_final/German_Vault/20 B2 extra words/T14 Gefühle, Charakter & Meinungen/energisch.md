@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3048"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # energisch

@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3133"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Besatzung

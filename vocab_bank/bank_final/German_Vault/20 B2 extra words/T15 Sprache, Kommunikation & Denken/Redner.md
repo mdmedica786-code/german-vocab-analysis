@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3604"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Redner

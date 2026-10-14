@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3125"
 exam_use: ["Alltag", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Faser

@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3044"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Vorschein

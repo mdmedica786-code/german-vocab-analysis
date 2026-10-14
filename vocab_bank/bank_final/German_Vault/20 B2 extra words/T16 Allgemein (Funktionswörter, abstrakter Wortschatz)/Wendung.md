@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3064"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Wendung

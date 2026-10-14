@@ -16,6 +16,9 @@ import csv, json, re, sys, shutil, tempfile
 from collections import Counter, defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from audio_util import AUDIO_DIR, EXTS, AudioLookup  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 BANKS = ROOT / "bank_final"
 VAULT = BANKS / "German_Vault"
@@ -29,6 +32,7 @@ NO_LINK_POS = {"preposition", "determiner", "pronoun", "conjunction", "particle"
 D_VOCAB, D_B2, D_PHR, D_RED = "10 Words by level", "20 B2 extra words", "30 Phrases", "40 Redemittel"
 OLD_VOCAB, OLD_B2 = "10 Vocabulary", "20 B2 Vocabulary"  # earlier layout, migrated automatically
 D_MOC, D_GUIDE, D_TPL, D_DASH = "02 MOCs", "01 Guide", "90 Templates", "03 Dashboards"
+D_AUDIO = "95 Audio"  # native audio copied here when bank_final/audio exists (see download_audio.py)
 
 
 # ---------------------------------------------------------------- helpers
@@ -142,6 +146,15 @@ class Vault:
             self.stats["unchanged"] += 1
         self.written.add(path)
 
+    def copy_file(self, src, rel):
+        """Copy a binary file (audio) into the vault if it is missing or changed."""
+        dst = self.root / rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        if not dst.exists() or dst.stat().st_size != Path(src).stat().st_size:
+            shutil.copy2(src, dst)
+            self.stats["audio copied"] += 1
+        self.written.add(dst)
+
     def put_plain(self, rel, text):
         path = self.root / rel
         path.parent.mkdir(parents=True, exist_ok=True)
@@ -162,8 +175,9 @@ def lvl_key(l):
 
 
 # ---------------------------------------------------------------- build
-def build(root):
+def build(root, copy_audio=True):
     V = Vault(root)
+    audio = AudioLookup()
     main = read_csv("vocabulary_bank.csv")
     b2 = read_csv("b2_vocabulary_bank.csv")
     phr = read_csv("phrase_bank.csv")
@@ -259,11 +273,18 @@ def build(root):
             fm.append(("skip_reason", r.get("skip_reason", "")))
         if r.get("check"):
             fm.append(("check", r["check"]))
+        afile = audio.get(lemma)
+        if afile:
+            fm.append(("audio", afile))
         fm += [("status", "new"), ("tags", tags)]
 
         # ---- body
         head = f"{art} {lemma}" if (pos == "noun" and art in ("der", "die", "das")) else lemma
         b = [f"# {head}", ""]
+        if afile:
+            b += [f"![[{afile}]]", ""]
+            if copy_audio:
+                V.copy_file(AUDIO_DIR / afile, f"{D_AUDIO}/{afile}")
         b.append(f"**Meaning:** {r['meaning_en']}")
         if r.get("other_senses"):
             b.append(f"**Other senses:** {r['other_senses']}")
@@ -710,7 +731,8 @@ def check(vault_root):
     for p in notes:
         names[p.stem.lower()].append(p)
     dup = {k: v for k, v in names.items() if len(v) > 1}
-    stems = {p.stem for p in notes} | {p.name for p in root.rglob("*.base")}
+    stems = {p.stem for p in notes} | {p.name for p in root.rglob("*.base")} | {p.name for p in root.rglob("*") if p.suffix.lower() in EXTS}
+    stems |= {p.name for p in AUDIO_DIR.glob("*")} if AUDIO_DIR.is_dir() else set()  # audio embeds ![[word.wav]]
     broken, bad_yaml = [], []
     try:
         import yaml
@@ -741,7 +763,7 @@ def check(vault_root):
 if __name__ == "__main__":
     if "--check" in sys.argv:
         tmp = Path(tempfile.mkdtemp())
-        V, _ = build(tmp)
+        V, _ = build(tmp, copy_audio=False)  # no audio copies in the temp check build
         ok = check(tmp)
         shutil.rmtree(tmp)
         sys.exit(0 if ok else 1)

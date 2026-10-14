@@ -14,8 +14,8 @@ bank: "b2"
 id: "D3151"
 exam_use: ["Medien", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Redaktion

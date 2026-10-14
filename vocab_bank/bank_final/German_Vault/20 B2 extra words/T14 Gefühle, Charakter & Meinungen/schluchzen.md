@@ -12,8 +12,8 @@ bank: "b2"
 id: "D2851"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # schluchzen

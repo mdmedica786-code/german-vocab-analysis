@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2970"
 exam_use: ["Hören", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Hören", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Tonfall

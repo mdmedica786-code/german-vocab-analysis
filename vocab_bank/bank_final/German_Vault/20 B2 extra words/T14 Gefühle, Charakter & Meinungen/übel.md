@@ -11,8 +11,8 @@ bank: "b2"
 id: "D2542"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # übel

@@ -11,8 +11,8 @@ bank: "b2"
 id: "D3000"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adverb", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # glücklicherweise

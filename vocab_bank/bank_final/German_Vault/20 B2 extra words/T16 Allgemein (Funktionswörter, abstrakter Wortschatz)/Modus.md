@@ -14,8 +14,8 @@ bank: "b2"
 id: "D2976"
 exam_use: ["Grammatik", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Grammatik", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Modus
