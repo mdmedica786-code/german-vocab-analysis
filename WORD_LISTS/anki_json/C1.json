@@ -1,0 +1,5477 @@
+[
+ {
+  "en_meaning": "individual",
+  "de_word": "Individuum",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Jedes <b>Individuum</b> hat eigene Rechte.",
+  "en_sentence": "Every individual has their own rights.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B5298"
+  ],
+  "declension": {
+   "nom_sing": "das Individuum",
+   "akk_sing": "das Individuum",
+   "dat_sing": "dem Individuum",
+   "nom_plur": "die Individuen",
+   "akk_plur": "die Individuen",
+   "dat_plur": "den Individuen"
+  }
+ },
+ {
+  "en_meaning": "edition; print run; condition",
+  "de_word": "Auflage",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Das Buch erscheint in einer neuen <b>Auflage</b>.",
+  "en_sentence": "The book is being published in a new edition.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5303"
+  ],
+  "declension": {
+   "nom_sing": "die Auflage",
+   "akk_sing": "die Auflage",
+   "dat_sing": "der Auflage",
+   "gen_sing": "der Auflage",
+   "nom_plur": "die Auflagen",
+   "akk_plur": "die Auflagen",
+   "dat_plur": "den Auflagen",
+   "gen_plur": "der Auflagen"
+  }
+ },
+ {
+  "en_meaning": "in view of",
+  "de_word": "angesichts",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Angesichts</b> der hohen Kosten verzichten wir auf das Projekt.",
+  "en_sentence": "In view of the high costs we are dropping the project.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5315"
+  ]
+ },
+ {
+  "en_meaning": "accordingly; according to this",
+  "de_word": "demnach",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Demnach</b> hat sich die Lage verbessert.",
+  "en_sentence": "According to this, the situation has improved.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5327"
+  ]
+ },
+ {
+  "en_meaning": "regarding",
+  "de_word": "bezüglich",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Bezüglich</b> Ihrer Anfrage melden wir uns morgen.",
+  "en_sentence": "Regarding your enquiry, we will get back to you tomorrow.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5328"
+  ]
+ },
+ {
+  "en_meaning": "body",
+  "de_word": "Leib",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Er zitterte am ganzen <b>Leib</b>.",
+  "en_sentence": "He trembled all over.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesundheit-koerper",
+   "bank::main",
+   "id::B5340"
+  ]
+ },
+ {
+  "en_meaning": "at the basis (of)",
+  "de_word": "zugrunde",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Dem Bericht liegen genaue Zahlen <b>zugrunde</b>.",
+  "en_sentence": "Exact figures form the basis of the report.",
+  "note": "Used in: zugrunde liegen, zugrunde gehen.",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5366"
+  ]
+ },
+ {
+  "en_meaning": "as a result of",
+  "de_word": "infolge",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Infolge</b> des Sturms fiel der Strom aus.",
+  "en_sentence": "As a result of the storm the power failed.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5381"
+  ]
+ },
+ {
+  "en_meaning": "to shape; to influence",
+  "de_word": "prägen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Diese Erfahrung hat ihn sehr <b>geprägt</b>.",
+  "en_sentence": "This experience shaped him greatly.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5387"
+  ],
+  "conjugation": {
+   "praesens_er": "prägt",
+   "praeteritum": "prägte",
+   "perfekt": "hat geprägt"
+  }
+ },
+ {
+  "en_meaning": "to bring about; to cause",
+  "de_word": "bewirken",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Medikamente <b>bewirken</b> eine schnelle Besserung.",
+  "en_sentence": "The medicines bring about a quick improvement.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5409"
+  ],
+  "conjugation": {
+   "praesens_er": "bewirkt",
+   "praeteritum": "bewirkte",
+   "perfekt": "hat bewirkt"
+  }
+ },
+ {
+  "en_meaning": "beyond; on the other side of",
+  "de_word": "jenseits",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Jenseits</b> der Grenze beginnt ein anderes Land.",
+  "en_sentence": "Beyond the border another country begins.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5413"
+  ]
+ },
+ {
+  "en_meaning": "corpse",
+  "de_word": "Leiche",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Leiche</b> wurde in die Pathologie gebracht.",
+  "en_sentence": "The body was taken to the pathology department.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesundheit-koerper",
+   "bank::main",
+   "id::B5419"
+  ],
+  "declension": {
+   "nom_sing": "die Leiche",
+   "akk_sing": "die Leiche",
+   "dat_sing": "der Leiche",
+   "gen_sing": "der Leiche",
+   "nom_plur": "die Leichen",
+   "akk_plur": "die Leichen",
+   "dat_plur": "den Leichen",
+   "gen_plur": "der Leichen"
+  }
+ },
+ {
+  "en_meaning": "thereupon; as a result",
+  "de_word": "daraufhin",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Er wurde krank und ging <b>daraufhin</b> zum Arzt.",
+  "en_sentence": "He fell ill and thereupon went to the doctor.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5421"
+  ]
+ },
+ {
+  "en_meaning": "to obtain; to gain",
+  "de_word": "erlangen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Sie hat große Bekanntheit <b>erlangt</b>.",
+  "en_sentence": "She has gained great fame.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5476"
+  ],
+  "conjugation": {
+   "praesens_er": "erlangt",
+   "praeteritum": "erlangte",
+   "perfekt": "hat erlangt"
+  }
+ },
+ {
+  "en_meaning": "act (of a play); nude (art)",
+  "de_word": "Akt",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Das Stück hat drei <b>Akte</b>.",
+  "en_sentence": "The play has three acts.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5478"
+  ]
+ },
+ {
+  "en_meaning": "against; contrary to",
+  "de_word": "wider",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Er hat das <b>wider</b> besseres Wissen getan.",
+  "en_sentence": "He did that against his better judgement.",
+  "note": "takes the accusative; mostly in set phrases (wider Willen, wider Erwarten)",
+  "case_government": "+ Akk.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5487"
+  ]
+ },
+ {
+  "en_meaning": "interaction",
+  "de_word": "Interaktion",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Interaktion</b> zwischen Arzt und Patient ist wichtig.",
+  "en_sentence": "The interaction between doctor and patient is important.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B5493"
+  ],
+  "declension": {
+   "nom_sing": "die Interaktion",
+   "akk_sing": "die Interaktion",
+   "dat_sing": "der Interaktion",
+   "gen_sing": "der Interaktion",
+   "nom_plur": "die Interaktionen",
+   "akk_plur": "die Interaktionen",
+   "dat_plur": "den Interaktionen",
+   "gen_plur": "der Interaktionen"
+  }
+ },
+ {
+  "en_meaning": "especially since; all the more so as",
+  "de_word": "zumal",
+  "article": "",
+  "gender_class": "conj",
+  "de_sentence": "Ich gehe heute nicht aus, <b>zumal</b> es regnet.",
+  "en_sentence": "I am not going out today, especially since it is raining.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5496"
+  ]
+ },
+ {
+  "en_meaning": "comparable",
+  "de_word": "vergleichbar",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die beiden Preise sind nicht <b>vergleichbar</b>.",
+  "en_sentence": "The two prices are not comparable.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5500"
+  ]
+ },
+ {
+  "en_meaning": "on behalf of; by the name of",
+  "de_word": "namens",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Ich spreche <b>namens</b> der ganzen Familie.",
+  "en_sentence": "I am speaking on behalf of the whole family.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5501"
+  ]
+ },
+ {
+  "en_meaning": "power; energy (colloquial)",
+  "de_word": "Power",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Er hat richtig <b>Power</b> beim Sport.",
+  "en_sentence": "He has real energy when doing sport.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5503"
+  ],
+  "declension": {
+   "nom_sing": "die Power",
+   "akk_sing": "die Power",
+   "dat_sing": "der Power",
+   "gen_sing": "der Power",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "to guarantee; to ensure",
+  "de_word": "gewährleisten",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Wir <b>gewährleisten</b> die Sicherheit der Patienten.",
+  "en_sentence": "We ensure the safety of the patients.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5505"
+  ],
+  "conjugation": {
+   "praesens_er": "gewährleistet",
+   "praeteritum": "gewährleistete",
+   "perfekt": "hat gewährleistet"
+  }
+ },
+ {
+  "en_meaning": "philosophical",
+  "de_word": "philosophisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Wir führten ein <b>philosophisches</b> Gespräch über das Leben.",
+  "en_sentence": "We had a philosophical conversation about life.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5510"
+  ]
+ },
+ {
+  "en_meaning": "participation; involvement; share",
+  "de_word": "Beteiligung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Beteiligung</b> an der Wahl war hoch.",
+  "en_sentence": "Participation in the election was high.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5513"
+  ],
+  "declension": {
+   "nom_sing": "die Beteiligung",
+   "akk_sing": "die Beteiligung",
+   "dat_sing": "der Beteiligung",
+   "gen_sing": "der Beteiligung",
+   "nom_plur": "die Beteiligungen",
+   "akk_plur": "die Beteiligungen",
+   "dat_plur": "den Beteiligungen",
+   "gen_plur": "der Beteiligungen"
+  }
+ },
+ {
+  "en_meaning": "hypothesis",
+  "de_word": "Hypothese",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Hypothese</b> muss noch überprüft werden.",
+  "en_sentence": "The hypothesis still has to be tested.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5516"
+  ],
+  "declension": {
+   "nom_sing": "die Hypothese",
+   "akk_sing": "die Hypothese",
+   "dat_sing": "der Hypothese",
+   "gen_sing": "der Hypothese",
+   "nom_plur": "die Hypothesen",
+   "akk_plur": "die Hypothesen",
+   "dat_plur": "den Hypothesen",
+   "gen_plur": "der Hypothesen"
+  }
+ },
+ {
+  "en_meaning": "information; education; enlightenment",
+  "de_word": "Aufklärung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Vor der Operation erfolgt die <b>Aufklärung</b> des Patienten.",
+  "en_sentence": "Before the operation the patient is given the informed-consent briefing.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B5521",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Aufklärung",
+   "akk_sing": "die Aufklärung",
+   "dat_sing": "der Aufklärung",
+   "gen_sing": "der Aufklärung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "direction (film, theatre)",
+  "de_word": "Regie",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Regie</b> bei diesem Film führt eine junge Frau.",
+  "en_sentence": "A young woman is directing this film.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5524"
+  ],
+  "declension": {
+   "nom_sing": "die Regie",
+   "akk_sing": "die Regie",
+   "dat_sing": "der Regie",
+   "gen_sing": "der Regie",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "resignation",
+  "de_word": "Rücktritt",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Minister hat seinen <b>Rücktritt</b> erklärt.",
+  "en_sentence": "The minister announced his resignation.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5528"
+  ]
+ },
+ {
+  "en_meaning": "to go; to proceed",
+  "de_word": "begeben",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Gäste <b>begeben</b> sich in den Speisesaal.",
+  "en_sentence": "The guests proceed to the dining room.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::reisen-verkehr-orte",
+   "bank::main",
+   "id::B5534"
+  ],
+  "conjugation": {
+   "praesens_er": "begibt sich",
+   "praeteritum": "begab sich",
+   "perfekt": "hat sich begeben"
+  }
+ },
+ {
+  "en_meaning": "to acquire; to purchase",
+  "de_word": "erwerben",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Sie hat in Deutschland ihren Abschluss <b>erworben</b>.",
+  "en_sentence": "She acquired her degree in Germany.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5535"
+  ],
+  "conjugation": {
+   "praesens_er": "erwirbt",
+   "praeteritum": "erwarb",
+   "perfekt": "hat erworben"
+  }
+ },
+ {
+  "en_meaning": "publication",
+  "de_word": "Veröffentlichung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Veröffentlichung</b> der Studie ist für Mai geplant.",
+  "en_sentence": "The publication of the study is planned for May.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5543"
+  ],
+  "declension": {
+   "nom_sing": "die Veröffentlichung",
+   "akk_sing": "die Veröffentlichung",
+   "dat_sing": "der Veröffentlichung",
+   "gen_sing": "der Veröffentlichung",
+   "nom_plur": "die Veröffentlichungen",
+   "akk_plur": "die Veröffentlichungen",
+   "dat_plur": "den Veröffentlichungen",
+   "gen_plur": "der Veröffentlichungen"
+  }
+ },
+ {
+  "en_meaning": "although",
+  "de_word": "obgleich",
+  "article": "",
+  "gender_class": "conj",
+  "de_sentence": "<b>Obgleich</b> es regnete, gingen wir spazieren.",
+  "en_sentence": "Although it was raining, we went for a walk.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5548"
+  ]
+ },
+ {
+  "en_meaning": "supply; care (provision)",
+  "de_word": "Versorgung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die medizinische <b>Versorgung</b> auf dem Land ist schwierig.",
+  "en_sentence": "Medical care in rural areas is difficult.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B5553",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Versorgung",
+   "akk_sing": "die Versorgung",
+   "dat_sing": "der Versorgung",
+   "gen_sing": "der Versorgung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "about; into being (zustande kommen = to come about)",
+  "de_word": "zustande",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Der Vertrag ist nicht <b>zustande</b> gekommen.",
+  "en_sentence": "The contract did not come about.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5557"
+  ]
+ },
+ {
+  "en_meaning": "formulation of a question; issue",
+  "de_word": "Fragestellung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Fragestellung</b> der Studie ist klar.",
+  "en_sentence": "The research question of the study is clear.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5558"
+  ],
+  "declension": {
+   "nom_sing": "die Fragestellung",
+   "akk_sing": "die Fragestellung",
+   "dat_sing": "der Fragestellung",
+   "gen_sing": "der Fragestellung",
+   "nom_plur": "die Fragestellungen",
+   "akk_plur": "die Fragestellungen",
+   "dat_plur": "den Fragestellungen",
+   "gen_plur": "der Fragestellungen"
+  }
+ },
+ {
+  "en_meaning": "targeted; specific",
+  "de_word": "gezielt",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Wir suchen <b>gezielt</b> nach neuen Mitarbeitern.",
+  "en_sentence": "We are searching specifically for new employees.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5560"
+  ]
+ },
+ {
+  "en_meaning": "transmission; transfer; broadcast",
+  "de_word": "Übertragung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Übertragung</b> des Virus erfolgt durch Tröpfchen.",
+  "en_sentence": "The virus is transmitted by droplets.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B5562",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Übertragung",
+   "akk_sing": "die Übertragung",
+   "dat_sing": "der Übertragung",
+   "gen_sing": "der Übertragung",
+   "nom_plur": "die Übertragungen",
+   "akk_plur": "die Übertragungen",
+   "dat_plur": "den Übertragungen",
+   "gen_plur": "der Übertragungen"
+  }
+ },
+ {
+  "en_meaning": "limb; link; member",
+  "de_word": "Glied",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Mir tun alle <b>Glieder</b> weh.",
+  "en_sentence": "All my limbs ache.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B5564",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "das Glied",
+   "akk_sing": "das Glied",
+   "dat_sing": "dem Glied",
+   "nom_plur": "die Glieder",
+   "akk_plur": "die Glieder",
+   "dat_plur": "den Gliedern"
+  }
+ },
+ {
+  "en_meaning": "access",
+  "de_word": "Zugriff",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Nur Ärzte haben <b>Zugriff</b> auf die Patientendaten.",
+  "en_sentence": "Only doctors have access to the patient data.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5568"
+  ]
+ },
+ {
+  "en_meaning": "investment",
+  "de_word": "Investition",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Investition</b> in neue Geräte lohnt sich.",
+  "en_sentence": "The investment in new equipment is worthwhile.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B5578"
+  ],
+  "declension": {
+   "nom_sing": "die Investition",
+   "akk_sing": "die Investition",
+   "dat_sing": "der Investition",
+   "gen_sing": "der Investition",
+   "nom_plur": "die Investitionen",
+   "akk_plur": "die Investitionen",
+   "dat_plur": "den Investitionen",
+   "gen_plur": "der Investitionen"
+  }
+ },
+ {
+  "en_meaning": "cooperation",
+  "de_word": "Kooperation",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Kooperation</b> zwischen den Kliniken funktioniert gut.",
+  "en_sentence": "The cooperation between the clinics works well.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B5584"
+  ],
+  "declension": {
+   "nom_sing": "die Kooperation",
+   "akk_sing": "die Kooperation",
+   "dat_sing": "der Kooperation",
+   "gen_sing": "der Kooperation",
+   "nom_plur": "die Kooperationen",
+   "akk_plur": "die Kooperationen",
+   "dat_plur": "den Kooperationen",
+   "gen_plur": "der Kooperationen"
+  }
+ },
+ {
+  "en_meaning": "cognitive",
+  "de_word": "kognitiv",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die Krankheit schränkt die <b>kognitiven</b> Fähigkeiten ein.",
+  "en_sentence": "The disease limits cognitive abilities.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B5587"
+  ]
+ },
+ {
+  "en_meaning": "to justify",
+  "de_word": "rechtfertigen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er konnte sein Verhalten nicht <b>rechtfertigen</b>.",
+  "en_sentence": "He could not justify his behaviour.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5588"
+  ],
+  "conjugation": {
+   "praesens_er": "rechtfertigt",
+   "praeteritum": "rechtfertigte",
+   "perfekt": "hat gerechtfertigt"
+  }
+ },
+ {
+  "en_meaning": "publication",
+  "de_word": "Publikation",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Seine <b>Publikation</b> wurde in einer Fachzeitschrift veröffentlicht.",
+  "en_sentence": "His publication was published in a specialist journal.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5590"
+  ],
+  "declension": {
+   "nom_sing": "die Publikation",
+   "akk_sing": "die Publikation",
+   "dat_sing": "der Publikation",
+   "gen_sing": "der Publikation",
+   "nom_plur": "die Publikationen",
+   "akk_plur": "die Publikationen",
+   "dat_plur": "den Publikationen",
+   "gen_plur": "der Publikationen"
+  }
+ },
+ {
+  "en_meaning": "sensation; feeling",
+  "de_word": "Empfindung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Der Patient beschreibt eine <b>Empfindung</b> von Taubheit.",
+  "en_sentence": "The patient describes a sensation of numbness.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B5592",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Empfindung",
+   "akk_sing": "die Empfindung",
+   "dat_sing": "der Empfindung",
+   "gen_sing": "der Empfindung",
+   "nom_plur": "die Empfindungen",
+   "akk_plur": "die Empfindungen",
+   "dat_plur": "den Empfindungen",
+   "gen_plur": "der Empfindungen"
+  }
+ },
+ {
+  "en_meaning": "to differentiate",
+  "de_word": "differenzieren",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Man muss zwischen beiden Fällen <b>differenzieren</b>.",
+  "en_sentence": "One has to differentiate between the two cases.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B5596"
+  ],
+  "conjugation": {
+   "praesens_er": "differenziert",
+   "praeteritum": "differenzierte",
+   "perfekt": "hat differenziert"
+  }
+ },
+ {
+  "en_meaning": "mechanism",
+  "de_word": "Mechanismus",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Mechanismus</b> der Krankheit ist noch unklar.",
+  "en_sentence": "The mechanism of the disease is still unclear.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5597"
+  ]
+ },
+ {
+  "en_meaning": "proof; evidence; certificate",
+  "de_word": "Nachweis",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Nachweis</b> des Virus gelang im Labor.",
+  "en_sentence": "The virus was detected in the laboratory.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B5599",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "philosopher",
+  "de_word": "Philosoph",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Kant war ein bekannter <b>Philosoph</b>.",
+  "en_sentence": "Kant was a famous philosopher.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5604"
+  ]
+ },
+ {
+  "en_meaning": "innovation",
+  "de_word": "Innovation",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die Firma lebt von <b>Innovationen</b>.",
+  "en_sentence": "The company lives on innovations.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B5606"
+  ],
+  "declension": {
+   "nom_sing": "die Innovation",
+   "akk_sing": "die Innovation",
+   "dat_sing": "der Innovation",
+   "gen_sing": "der Innovation",
+   "nom_plur": "die Innovationen",
+   "akk_plur": "die Innovationen",
+   "dat_plur": "den Innovationen",
+   "gen_plur": "der Innovationen"
+  }
+ },
+ {
+  "en_meaning": "to move; to shift",
+  "de_word": "rücken",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "<b>Rück</b> bitte ein Stück zur Seite.",
+  "en_sentence": "Please move over a bit.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5607"
+  ],
+  "conjugation": {
+   "praesens_er": "rückt",
+   "praeteritum": "rückte",
+   "perfekt": "ist gerückt"
+  }
+ },
+ {
+  "en_meaning": "to entitle; to authorise",
+  "de_word": "berechtigen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Karte <b>berechtigt</b> zum freien Eintritt.",
+  "en_sentence": "The card entitles you to free admission.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5609"
+  ],
+  "conjugation": {
+   "praesens_er": "berechtigt",
+   "praeteritum": "berechtigte",
+   "perfekt": "hat berechtigt"
+  }
+ },
+ {
+  "en_meaning": "pedagogical; educational",
+  "de_word": "pädagogisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das Konzept hat einen <b>pädagogischen</b> Ansatz.",
+  "en_sentence": "The concept has an educational approach.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5610"
+  ]
+ },
+ {
+  "en_meaning": "methodical",
+  "de_word": "methodisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Sie arbeitet sehr <b>methodisch</b>.",
+  "en_sentence": "She works very methodically.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5614"
+  ]
+ },
+ {
+  "en_meaning": "touch; contact",
+  "de_word": "Berührung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Bei der <b>Berührung</b> zuckte sie zusammen.",
+  "en_sentence": "She flinched at the touch.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B5618"
+  ],
+  "declension": {
+   "nom_sing": "die Berührung",
+   "akk_sing": "die Berührung",
+   "dat_sing": "der Berührung",
+   "gen_sing": "der Berührung",
+   "nom_plur": "die Berührungen",
+   "akk_plur": "die Berührungen",
+   "dat_plur": "den Berührungen",
+   "gen_plur": "der Berührungen"
+  }
+ },
+ {
+  "en_meaning": "to name; to designate",
+  "de_word": "benennen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Können Sie die Ursache klar <b>benennen</b>?",
+  "en_sentence": "Can you clearly name the cause?",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B5619"
+  ],
+  "conjugation": {
+   "praesens_er": "benennt",
+   "praeteritum": "benannte",
+   "perfekt": "hat benannt"
+  }
+ },
+ {
+  "en_meaning": "ethics",
+  "de_word": "Ethik",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Ethik</b> spielt in der Medizin eine große Rolle.",
+  "en_sentence": "Ethics plays a big role in medicine.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B5620",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Ethik",
+   "akk_sing": "die Ethik",
+   "dat_sing": "der Ethik",
+   "gen_sing": "der Ethik",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "despair",
+  "de_word": "Verzweiflung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die Patientin war in tiefer <b>Verzweiflung</b>.",
+  "en_sentence": "The patient was in deep despair.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B5625",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Verzweiflung",
+   "akk_sing": "die Verzweiflung",
+   "dat_sing": "der Verzweiflung",
+   "gen_sing": "der Verzweiflung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "stimulus; charm; irritation",
+  "de_word": "Reiz",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Reiz</b> löst eine Reaktion im Nerv aus.",
+  "en_sentence": "The stimulus triggers a reaction in the nerve.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B5626",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "accordingly",
+  "de_word": "dementsprechend",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Es hat stark geregnet, <b>dementsprechend</b> nass sind die Straßen.",
+  "en_sentence": "It rained heavily, so the streets are correspondingly wet.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5636"
+  ]
+ },
+ {
+  "en_meaning": "below",
+  "de_word": "unterhalb",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Unterhalb</b> des Knies hat er eine Narbe.",
+  "en_sentence": "He has a scar below the knee.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5641"
+  ]
+ },
+ {
+  "en_meaning": "according to",
+  "de_word": "zufolge",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Dem Bericht <b>zufolge</b> steigen die Preise.",
+  "en_sentence": "According to the report prices are rising.",
+  "note": "follows its noun (dem Bericht zufolge)",
+  "case_government": "+ Dat.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5642"
+  ]
+ },
+ {
+  "en_meaning": "to unfold; to develop",
+  "de_word": "entfalten",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Blume <b>entfaltet</b> ihre Blätter.",
+  "en_sentence": "The flower unfolds its leaves.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5643"
+  ],
+  "conjugation": {
+   "praesens_er": "entfaltet",
+   "praeteritum": "entfaltete",
+   "perfekt": "hat entfaltet"
+  }
+ },
+ {
+  "en_meaning": "decision; resolution",
+  "de_word": "Beschluss",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Gemeinderat fasste einen <b>Beschluss</b>.",
+  "en_sentence": "The local council passed a resolution.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5645"
+  ]
+ },
+ {
+  "en_meaning": "to give; to grant",
+  "de_word": "erteilen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Behörde <b>erteilt</b> Ihnen die Erlaubnis.",
+  "en_sentence": "The authority grants you permission.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B5647"
+  ],
+  "conjugation": {
+   "praesens_er": "erteilt",
+   "praeteritum": "erteilte",
+   "perfekt": "hat erteilt"
+  }
+ },
+ {
+  "en_meaning": "coach",
+  "de_word": "Coach",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Mein <b>Coach</b> hilft mir bei der Karriere.",
+  "en_sentence": "My coach helps me with my career.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5648"
+  ]
+ },
+ {
+  "en_meaning": "regulation; prescription",
+  "de_word": "Verordnung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Verordnung</b> von Medikamenten ist Aufgabe der Ärzte.",
+  "en_sentence": "Prescribing medicines is the doctors' job.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B5649",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Verordnung",
+   "akk_sing": "die Verordnung",
+   "dat_sing": "der Verordnung",
+   "gen_sing": "der Verordnung",
+   "nom_plur": "die Verordnungen",
+   "akk_plur": "die Verordnungen",
+   "dat_plur": "den Verordnungen",
+   "gen_plur": "der Verordnungen"
+  }
+ },
+ {
+  "en_meaning": "in favour of",
+  "de_word": "zugunsten",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Er verzichtete <b>zugunsten</b> seiner Kinder auf das Erbe.",
+  "en_sentence": "He gave up the inheritance in favour of his children.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5650"
+  ]
+ },
+ {
+  "en_meaning": "physical",
+  "de_word": "physisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Der Beruf ist <b>physisch</b> anstrengend.",
+  "en_sentence": "The job is physically demanding.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesundheit-koerper",
+   "bank::main",
+   "id::B5651"
+  ]
+ },
+ {
+  "en_meaning": "legal; juridical",
+  "de_word": "juristisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Er braucht <b>juristische</b> Beratung.",
+  "en_sentence": "He needs legal advice.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5652"
+  ]
+ },
+ {
+  "en_meaning": "myth",
+  "de_word": "Mythos",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Das ist ein alter <b>Mythos</b>.",
+  "en_sentence": "That is an old myth.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5653"
+  ]
+ },
+ {
+  "en_meaning": "extension; expansion",
+  "de_word": "Erweiterung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Erweiterung</b> der Klinik beginnt im Frühjahr.",
+  "en_sentence": "The extension of the clinic begins in spring.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5654"
+  ],
+  "declension": {
+   "nom_sing": "die Erweiterung",
+   "akk_sing": "die Erweiterung",
+   "dat_sing": "der Erweiterung",
+   "gen_sing": "der Erweiterung",
+   "nom_plur": "die Erweiterungen",
+   "akk_plur": "die Erweiterungen",
+   "dat_plur": "den Erweiterungen",
+   "gen_plur": "der Erweiterungen"
+  }
+ },
+ {
+  "en_meaning": "universe",
+  "de_word": "Universum",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Das <b>Universum</b> ist unendlich groß.",
+  "en_sentence": "The universe is infinitely large.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::natur-umwelt-wetter-tiere",
+   "bank::main",
+   "id::B5655"
+  ],
+  "declension": {
+   "nom_sing": "das Universum",
+   "akk_sing": "das Universum",
+   "dat_sing": "dem Universum",
+   "nom_plur": "die Universen",
+   "akk_plur": "die Universen",
+   "dat_plur": "den Universen"
+  }
+ },
+ {
+  "en_meaning": "what for/after; after which",
+  "de_word": "wonach",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Wonach</b> suchst du?",
+  "en_sentence": "What are you looking for?",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5656"
+  ]
+ },
+ {
+  "en_meaning": "requirement; guideline",
+  "de_word": "Vorgabe",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Wir müssen die <b>Vorgaben</b> des Chefs beachten.",
+  "en_sentence": "We have to observe the boss's guidelines.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5662"
+  ],
+  "declension": {
+   "nom_sing": "die Vorgabe",
+   "akk_sing": "die Vorgabe",
+   "dat_sing": "der Vorgabe",
+   "gen_sing": "der Vorgabe",
+   "nom_plur": "die Vorgaben",
+   "akk_plur": "die Vorgaben",
+   "dat_plur": "den Vorgaben",
+   "gen_plur": "der Vorgaben"
+  }
+ },
+ {
+  "en_meaning": "manager; executive",
+  "de_word": "Führungskraft",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Als <b>Führungskraft</b> trägt sie viel Verantwortung.",
+  "en_sentence": "As a manager she carries a lot of responsibility.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B5664"
+  ],
+  "declension": {
+   "nom_sing": "die Führungskraft",
+   "akk_sing": "die Führungskraft",
+   "dat_sing": "der Führungskraft",
+   "gen_sing": "der Führungskraft",
+   "nom_plur": "die Führungskräfte",
+   "akk_plur": "die Führungskräfte",
+   "dat_plur": "den Führungskräften",
+   "gen_plur": "der Führungskräfte"
+  }
+ },
+ {
+  "en_meaning": "among themselves; one below the other",
+  "de_word": "untereinander",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Die Kinder verstehen sich <b>untereinander</b> gut.",
+  "en_sentence": "The children get on well with each other.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5666"
+  ]
+ },
+ {
+  "en_meaning": "to each other",
+  "de_word": "zueinander",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Wir passen gut <b>zueinander</b>.",
+  "en_sentence": "We suit each other well.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5670"
+  ]
+ },
+ {
+  "en_meaning": "to that extent; in that respect",
+  "de_word": "insoweit",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Insoweit</b> stimme ich Ihnen zu.",
+  "en_sentence": "To that extent I agree with you.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5674"
+  ]
+ },
+ {
+  "en_meaning": "operative; surgical",
+  "de_word": "operativ",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Der Tumor wurde <b>operativ</b> entfernt.",
+  "en_sentence": "The tumour was removed surgically.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "operativer Eingriff",
+   "operative Therapie",
+   "operativ entfernen",
+   "operative Behandlung"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B5678",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "diverse; various",
+  "de_word": "divers",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Wir bieten <b>diverse</b> Kurse an.",
+  "en_sentence": "We offer various courses.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5681"
+  ]
+ },
+ {
+  "en_meaning": "fuse; securing",
+  "de_word": "Sicherung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Sicherung</b> ist durchgebrannt.",
+  "en_sentence": "The fuse has blown.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5685"
+  ],
+  "declension": {
+   "nom_sing": "die Sicherung",
+   "akk_sing": "die Sicherung",
+   "dat_sing": "der Sicherung",
+   "gen_sing": "der Sicherung",
+   "nom_plur": "die Sicherungen",
+   "akk_plur": "die Sicherungen",
+   "dat_plur": "den Sicherungen",
+   "gen_plur": "der Sicherungen"
+  }
+ },
+ {
+  "en_meaning": "compulsion; coercion",
+  "de_word": "Zwang",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Es gibt keinen <b>Zwang</b>, an dem Kurs teilzunehmen.",
+  "en_sentence": "There is no compulsion to take part in the course.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5692"
+  ]
+ },
+ {
+  "en_meaning": "meanwhile; however",
+  "de_word": "indes",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Er wartete; <b>indes</b> wurde es dunkel.",
+  "en_sentence": "He waited; meanwhile it grew dark.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5695"
+  ]
+ },
+ {
+  "en_meaning": "sociology",
+  "de_word": "Soziologie",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Sie studiert <b>Soziologie</b>.",
+  "en_sentence": "She studies sociology.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5697"
+  ],
+  "declension": {
+   "nom_sing": "die Soziologie",
+   "akk_sing": "die Soziologie",
+   "dat_sing": "der Soziologie",
+   "gen_sing": "der Soziologie",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "syndrome",
+  "de_word": "Syndrom",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Der Patient hat ein seltenes <b>Syndrom</b>.",
+  "en_sentence": "The patient has a rare syndrome.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "ein seltenes Syndrom",
+   "metabolisches Syndrom",
+   "ein Syndrom diagnostizieren",
+   "Symptome eines Syndroms"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B5698",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "das Syndrom",
+   "akk_sing": "das Syndrom",
+   "dat_sing": "dem Syndrom",
+   "nom_plur": "die Syndrome",
+   "akk_plur": "die Syndrome",
+   "dat_plur": "den Syndromen"
+  }
+ },
+ {
+  "en_meaning": "nevertheless",
+  "de_word": "gleichwohl",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Es regnete, <b>gleichwohl</b> gingen wir spazieren.",
+  "en_sentence": "It was raining, nevertheless we went for a walk.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5701"
+  ]
+ },
+ {
+  "en_meaning": "to cite; to lead",
+  "de_word": "anführen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er <b>führt</b> mehrere Gründe für seine Entscheidung an.",
+  "en_sentence": "He cites several reasons for his decision.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B5706"
+  ],
+  "conjugation": {
+   "praesens_er": "führt an",
+   "praeteritum": "führte an",
+   "perfekt": "hat angeführt"
+  }
+ },
+ {
+  "en_meaning": "to record; to register",
+  "de_word": "verzeichnen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Klinik <b>verzeichnet</b> mehr Patienten als im Vorjahr.",
+  "en_sentence": "The clinic records more patients than in the previous year.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5713"
+  ],
+  "conjugation": {
+   "praesens_er": "verzeichnet",
+   "praeteritum": "verzeichnete",
+   "perfekt": "hat verzeichnet"
+  }
+ },
+ {
+  "en_meaning": "to start (a job); to line up",
+  "de_word": "antreten",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er <b>tritt</b> nächste Woche seine neue Stelle <b>an</b>.",
+  "en_sentence": "He starts his new job next week.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B5715"
+  ],
+  "conjugation": {
+   "praesens_er": "tritt an",
+   "praeteritum": "trat an",
+   "perfekt": "ist angetreten"
+  }
+ },
+ {
+  "en_meaning": "to compel; to urge",
+  "de_word": "nötigen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er <b>nötigte</b> seinen Gast, noch länger zu bleiben.",
+  "en_sentence": "He urged his guest to stay longer.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5718"
+  ],
+  "conjugation": {
+   "praesens_er": "nötigt",
+   "praeteritum": "nötigte",
+   "perfekt": "hat genötigt"
+  }
+ },
+ {
+  "en_meaning": "diagnostics",
+  "de_word": "Diagnostik",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Diagnostik</b> umfasst Blutuntersuchungen und Röntgen.",
+  "en_sentence": "Diagnostics include blood tests and X-rays.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "bildgebende Diagnostik",
+   "Diagnostik und Therapie",
+   "die Diagnostik erweitern",
+   "invasive Diagnostik"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B5720",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Diagnostik",
+   "akk_sing": "die Diagnostik",
+   "dat_sing": "der Diagnostik",
+   "gen_sing": "der Diagnostik",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "intervention",
+  "de_word": "Intervention",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Eine frühe <b>Intervention</b> verbessert die Prognose.",
+  "en_sentence": "An early intervention improves the prognosis.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B5725",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Intervention",
+   "akk_sing": "die Intervention",
+   "dat_sing": "der Intervention",
+   "gen_sing": "der Intervention",
+   "nom_plur": "die Interventionen",
+   "akk_plur": "die Interventionen",
+   "dat_plur": "den Interventionen",
+   "gen_plur": "der Interventionen"
+  }
+ },
+ {
+  "en_meaning": "therapeutic",
+  "de_word": "therapeutisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die <b>therapeutische</b> Behandlung dauert sechs Wochen.",
+  "en_sentence": "The therapeutic treatment lasts six weeks.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "therapeutische Maßnahme",
+   "therapeutischer Ansatz",
+   "therapeutisch wirksam",
+   "therapeutische Dosis"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::gesundheit-koerper",
+   "bank::main",
+   "id::B5729"
+  ]
+ },
+ {
+  "en_meaning": "rejection; refusal",
+  "de_word": "Ablehnung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Ablehnung</b> seines Antrags hat ihn enttäuscht.",
+  "en_sentence": "The rejection of his application disappointed him.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5732"
+  ],
+  "declension": {
+   "nom_sing": "die Ablehnung",
+   "akk_sing": "die Ablehnung",
+   "dat_sing": "der Ablehnung",
+   "gen_sing": "der Ablehnung",
+   "nom_plur": "die Ablehnungen",
+   "akk_plur": "die Ablehnungen",
+   "dat_plur": "den Ablehnungen",
+   "gen_plur": "der Ablehnungen"
+  }
+ },
+ {
+  "en_meaning": "together with",
+  "de_word": "samt",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Er kam <b>samt</b> seiner Familie.",
+  "en_sentence": "He came together with his family.",
+  "note": "",
+  "case_government": "+ Dat.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5733"
+  ]
+ },
+ {
+  "en_meaning": "liability",
+  "de_word": "Haftung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Haftung</b> für Schäden übernimmt die Versicherung.",
+  "en_sentence": "The insurance covers liability for damage.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5734"
+  ],
+  "declension": {
+   "nom_sing": "die Haftung",
+   "akk_sing": "die Haftung",
+   "dat_sing": "der Haftung",
+   "gen_sing": "der Haftung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "problem; set of issues",
+  "de_word": "Problematik",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Problematik</b> ist uns bekannt.",
+  "en_sentence": "We are aware of the issue.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5738"
+  ],
+  "declension": {
+   "nom_sing": "die Problematik",
+   "akk_sing": "die Problematik",
+   "dat_sing": "der Problematik",
+   "gen_sing": "der Problematik",
+   "nom_plur": "die Problematiken",
+   "akk_plur": "die Problematiken",
+   "dat_plur": "den Problematiken",
+   "gen_plur": "der Problematiken"
+  }
+ },
+ {
+  "en_meaning": "meanwhile; however",
+  "de_word": "indessen",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Sie kochte; er deckte <b>indessen</b> den Tisch.",
+  "en_sentence": "She cooked; meanwhile he set the table.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5740"
+  ]
+ },
+ {
+  "en_meaning": "ethical",
+  "de_word": "ethisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das ist eine <b>ethische</b> Frage.",
+  "en_sentence": "That is an ethical question.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5741"
+  ]
+ },
+ {
+  "en_meaning": "if necessary; where applicable",
+  "de_word": "gegebenenfalls",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Bringen Sie <b>gegebenenfalls</b> Ihre Unterlagen mit.",
+  "en_sentence": "If necessary, bring your documents.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5744"
+  ]
+ },
+ {
+  "en_meaning": "involuntary",
+  "de_word": "unwillkürlich",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Der Patient hat <b>unwillkürliche</b> Bewegungen der Hand.",
+  "en_sentence": "The patient has involuntary movements of the hand.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B5747",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "satire",
+  "de_word": "Satire",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Satire</b> kritisiert die Politik.",
+  "en_sentence": "The satire criticises politics.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5751"
+  ],
+  "declension": {
+   "nom_sing": "die Satire",
+   "akk_sing": "die Satire",
+   "dat_sing": "der Satire",
+   "gen_sing": "der Satire",
+   "nom_plur": "die Satiren",
+   "akk_plur": "die Satiren",
+   "dat_plur": "den Satiren",
+   "gen_plur": "der Satiren"
+  }
+ },
+ {
+  "en_meaning": "upright",
+  "de_word": "aufrecht",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Er sitzt <b>aufrecht</b> auf dem Stuhl.",
+  "en_sentence": "He sits upright on the chair.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5752"
+  ]
+ },
+ {
+  "en_meaning": "behaviour; way of behaving",
+  "de_word": "Verhaltensweise",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Diese <b>Verhaltensweise</b> ist typisch für Kinder.",
+  "en_sentence": "This behaviour is typical of children.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5756"
+  ],
+  "declension": {
+   "nom_sing": "die Verhaltensweise",
+   "akk_sing": "die Verhaltensweise",
+   "dat_sing": "der Verhaltensweise",
+   "gen_sing": "der Verhaltensweise",
+   "nom_plur": "die Verhaltensweisen",
+   "akk_plur": "die Verhaltensweisen",
+   "dat_plur": "den Verhaltensweisen",
+   "gen_plur": "der Verhaltensweisen"
+  }
+ },
+ {
+  "en_meaning": "union; association",
+  "de_word": "Vereinigung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Er ist in einer <b>Vereinigung</b> für Naturschutz.",
+  "en_sentence": "He is in an association for nature conservation.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5757"
+  ],
+  "declension": {
+   "nom_sing": "die Vereinigung",
+   "akk_sing": "die Vereinigung",
+   "dat_sing": "der Vereinigung",
+   "gen_sing": "der Vereinigung",
+   "nom_plur": "die Vereinigungen",
+   "akk_plur": "die Vereinigungen",
+   "dat_plur": "den Vereinigungen",
+   "gen_plur": "der Vereinigungen"
+  }
+ },
+ {
+  "en_meaning": "physical (physics)",
+  "de_word": "physikalisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das ist ein <b>physikalisches</b> Experiment.",
+  "en_sentence": "That is a physics experiment.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5758"
+  ]
+ },
+ {
+  "en_meaning": "procedure; approach",
+  "de_word": "Vorgehensweise",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Vorgehensweise</b> ist klar festgelegt.",
+  "en_sentence": "The procedure is clearly defined.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5766"
+  ],
+  "declension": {
+   "nom_sing": "die Vorgehensweise",
+   "akk_sing": "die Vorgehensweise",
+   "dat_sing": "der Vorgehensweise",
+   "gen_sing": "der Vorgehensweise",
+   "nom_plur": "die Vorgehensweisen",
+   "akk_plur": "die Vorgehensweisen",
+   "dat_plur": "den Vorgehensweisen",
+   "gen_plur": "der Vorgehensweisen"
+  }
+ },
+ {
+  "en_meaning": "suggestion; stimulation",
+  "de_word": "Anregung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Danke für die <b>Anregung</b>.",
+  "en_sentence": "Thank you for the suggestion.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5821"
+  ],
+  "declension": {
+   "nom_sing": "die Anregung",
+   "akk_sing": "die Anregung",
+   "dat_sing": "der Anregung",
+   "gen_sing": "der Anregung",
+   "nom_plur": "die Anregungen",
+   "akk_plur": "die Anregungen",
+   "dat_plur": "den Anregungen",
+   "gen_plur": "der Anregungen"
+  }
+ },
+ {
+  "en_meaning": "in the middle of",
+  "de_word": "inmitten",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Inmitten</b> der Stadt liegt ein ruhiger Park.",
+  "en_sentence": "A quiet park lies in the middle of the city.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5822"
+  ]
+ },
+ {
+  "en_meaning": "to point out; to show",
+  "de_word": "aufzeigen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Studie <b>zeigt</b> neue Möglichkeiten <b>auf</b>.",
+  "en_sentence": "The study points out new possibilities.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B5825"
+  ],
+  "conjugation": {
+   "praesens_er": "zeigt auf",
+   "praeteritum": "zeigte auf",
+   "perfekt": "hat aufgezeigt"
+  }
+ },
+ {
+  "en_meaning": "organism",
+  "de_word": "Organismus",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der menschliche <b>Organismus</b> braucht Wasser.",
+  "en_sentence": "The human organism needs water.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B5826",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "to cause; to evoke",
+  "de_word": "hervorrufen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Das Medikament kann Übelkeit <b>hervorrufen</b>.",
+  "en_sentence": "The medicine can cause nausea.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5827"
+  ],
+  "conjugation": {
+   "praesens_er": "ruft hervor",
+   "praeteritum": "rief hervor",
+   "perfekt": "hat hervorgerufen"
+  }
+ },
+ {
+  "en_meaning": "on the part of",
+  "de_word": "seitens",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Seitens</b> der Firma gibt es keine Einwände.",
+  "en_sentence": "There are no objections on the part of the company.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5833"
+  ]
+ },
+ {
+  "en_meaning": "miserable; wretched",
+  "de_word": "elend",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Nach der Nacht fühlte ich mich <b>elend</b>.",
+  "en_sentence": "After the night I felt miserable.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5834"
+  ]
+ },
+ {
+  "en_meaning": "to realise; to make come true",
+  "de_word": "verwirklichen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er will seinen Traum <b>verwirklichen</b>.",
+  "en_sentence": "He wants to realise his dream.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5835"
+  ],
+  "conjugation": {
+   "praesens_er": "verwirklicht",
+   "praeteritum": "verwirklichte",
+   "perfekt": "hat verwirklicht"
+  }
+ },
+ {
+  "en_meaning": "unconscious; unaware",
+  "de_word": "unbewusst",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Er hat die Regel <b>unbewusst</b> gebrochen.",
+  "en_sentence": "He broke the rule unconsciously.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5840"
+  ]
+ },
+ {
+  "en_meaning": "tissue",
+  "de_word": "Gewebe",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Das <b>Gewebe</b> wird im Labor untersucht.",
+  "en_sentence": "The tissue is examined in the laboratory.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "entzündetes Gewebe",
+   "Gewebe untersuchen",
+   "totes Gewebe",
+   "gesundes Gewebe"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B5841",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "das Gewebe",
+   "akk_sing": "das Gewebe",
+   "dat_sing": "dem Gewebe",
+   "nom_plur": "die Gewebe",
+   "akk_plur": "die Gewebe",
+   "dat_plur": "den Geweben"
+  }
+ },
+ {
+  "en_meaning": "above",
+  "de_word": "oberhalb",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Oberhalb</b> des Dorfes liegt eine Burg.",
+  "en_sentence": "A castle lies above the village.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5850"
+  ]
+ },
+ {
+  "en_meaning": "organic",
+  "de_word": "organisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die Beschwerden haben keine <b>organische</b> Ursache.",
+  "en_sentence": "The complaints have no organic cause.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::natur-umwelt-wetter-tiere",
+   "bank::main",
+   "id::B5853"
+  ]
+ },
+ {
+  "en_meaning": "creditor",
+  "de_word": "Gläubiger",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Gläubiger</b> fordert sein Geld zurück.",
+  "en_sentence": "The creditor demands his money back.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B5855"
+  ]
+ },
+ {
+  "en_meaning": "to suppress; to displace",
+  "de_word": "verdrängen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er <b>verdrängt</b> seine Angst.",
+  "en_sentence": "He suppresses his fear.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5857"
+  ],
+  "conjugation": {
+   "praesens_er": "verdrängt",
+   "praeteritum": "verdrängte",
+   "perfekt": "hat verdrängt"
+  }
+ },
+ {
+  "en_meaning": "although",
+  "de_word": "wenngleich",
+  "article": "",
+  "gender_class": "conj",
+  "de_sentence": "<b>Wenngleich</b> er müde war, arbeitete er weiter.",
+  "en_sentence": "Although he was tired, he carried on working.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5859"
+  ]
+ },
+ {
+  "en_meaning": "reduction",
+  "de_word": "Reduktion",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Reduktion</b> der Kosten ist unser Ziel.",
+  "en_sentence": "The reduction of costs is our goal.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5861"
+  ],
+  "declension": {
+   "nom_sing": "die Reduktion",
+   "akk_sing": "die Reduktion",
+   "dat_sing": "der Reduktion",
+   "gen_sing": "der Reduktion",
+   "nom_plur": "die Reduktionen",
+   "akk_plur": "die Reduktionen",
+   "dat_plur": "den Reduktionen",
+   "gen_plur": "der Reduktionen"
+  }
+ },
+ {
+  "en_meaning": "creation; drawing up",
+  "de_word": "Erstellung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Erstellung</b> des Berichts dauert zwei Tage.",
+  "en_sentence": "Drawing up the report takes two days.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5863"
+  ],
+  "declension": {
+   "nom_sing": "die Erstellung",
+   "akk_sing": "die Erstellung",
+   "dat_sing": "der Erstellung",
+   "gen_sing": "der Erstellung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "deceased",
+  "de_word": "verstorben",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Seine <b>verstorbene</b> Mutter war Ärztin.",
+  "en_sentence": "His late mother was a doctor.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesundheit-koerper",
+   "bank::main",
+   "id::B5869"
+  ]
+ },
+ {
+  "en_meaning": "instead of",
+  "de_word": "anstelle",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Anstelle</b> des Chefs kommt seine Vertreterin.",
+  "en_sentence": "His deputy is coming instead of the boss.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5879"
+  ]
+ },
+ {
+  "en_meaning": "acquisition; purchase",
+  "de_word": "Erwerb",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Erwerb</b> des Hauses war teuer.",
+  "en_sentence": "The purchase of the house was expensive.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B5881"
+  ]
+ },
+ {
+  "en_meaning": "yield; profit",
+  "de_word": "Ertrag",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Ertrag</b> der Ernte war gut.",
+  "en_sentence": "The yield of the harvest was good.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B5883"
+  ]
+ },
+ {
+  "en_meaning": "in contrast; on the other hand",
+  "de_word": "demgegenüber",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Demgegenüber</b> steht ein hoher Aufwand.",
+  "en_sentence": "In contrast there is a high cost.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5891"
+  ]
+ },
+ {
+  "en_meaning": "consequently; therefore",
+  "de_word": "mithin",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Er ist <b>mithin</b> nicht verantwortlich.",
+  "en_sentence": "He is consequently not responsible.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5894"
+  ]
+ },
+ {
+  "en_meaning": "inevitable; inevitably",
+  "de_word": "zwangsläufig",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das führt <b>zwangsläufig</b> zu Problemen.",
+  "en_sentence": "That inevitably leads to problems.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5897"
+  ]
+ },
+ {
+  "en_meaning": "expense; expenditure",
+  "de_word": "Aufwendung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Aufwendungen</b> für die Reise sind hoch.",
+  "en_sentence": "The expenses for the trip are high.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B5898"
+  ],
+  "declension": {
+   "nom_sing": "die Aufwendung",
+   "akk_sing": "die Aufwendung",
+   "dat_sing": "der Aufwendung",
+   "gen_sing": "der Aufwendung",
+   "nom_plur": "die Aufwendungen",
+   "akk_plur": "die Aufwendungen",
+   "dat_plur": "den Aufwendungen",
+   "gen_plur": "der Aufwendungen"
+  }
+ },
+ {
+  "en_meaning": "comrade",
+  "de_word": "Kamerad",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Die <b>Kameraden</b> halten zusammen.",
+  "en_sentence": "The comrades stick together.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B5902"
+  ]
+ },
+ {
+  "en_meaning": "identification",
+  "de_word": "Identifikation",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Identifikation</b> des Patienten erfolgt über das Armband.",
+  "en_sentence": "The patient is identified by the wristband.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5903"
+  ],
+  "declension": {
+   "nom_sing": "die Identifikation",
+   "akk_sing": "die Identifikation",
+   "dat_sing": "der Identifikation",
+   "gen_sing": "der Identifikation",
+   "nom_plur": "die Identifikationen",
+   "akk_plur": "die Identifikationen",
+   "dat_plur": "den Identifikationen",
+   "gen_plur": "der Identifikationen"
+  }
+ },
+ {
+  "en_meaning": "balance sheet; outcome",
+  "de_word": "Bilanz",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Bilanz</b> des Jahres ist positiv.",
+  "en_sentence": "The balance sheet for the year is positive.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B5906"
+  ],
+  "declension": {
+   "nom_sing": "die Bilanz",
+   "akk_sing": "die Bilanz",
+   "dat_sing": "der Bilanz",
+   "gen_sing": "der Bilanz",
+   "nom_plur": "die Bilanzen",
+   "akk_plur": "die Bilanzen",
+   "dat_plur": "den Bilanzen",
+   "gen_plur": "der Bilanzen"
+  }
+ },
+ {
+  "en_meaning": "further development",
+  "de_word": "Weiterentwicklung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Weiterentwicklung</b> des Produkts dauert lange.",
+  "en_sentence": "The further development of the product takes a long time.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B5908"
+  ],
+  "declension": {
+   "nom_sing": "die Weiterentwicklung",
+   "akk_sing": "die Weiterentwicklung",
+   "dat_sing": "der Weiterentwicklung",
+   "gen_sing": "der Weiterentwicklung",
+   "nom_plur": "die Weiterentwicklungen",
+   "akk_plur": "die Weiterentwicklungen",
+   "dat_plur": "den Weiterentwicklungen",
+   "gen_plur": "der Weiterentwicklungen"
+  }
+ },
+ {
+  "en_meaning": "to please; to delight",
+  "de_word": "erfreuen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Blumen <b>erfreuen</b> mich jeden Tag.",
+  "en_sentence": "The flowers delight me every day.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B5909"
+  ],
+  "conjugation": {
+   "praesens_er": "erfreut",
+   "praeteritum": "erfreute",
+   "perfekt": "hat erfreut"
+  }
+ },
+ {
+  "en_meaning": "functional",
+  "de_word": "funktional",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das Büro ist modern und <b>funktional</b> eingerichtet.",
+  "en_sentence": "The office is furnished in a modern and functional way.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5913"
+  ]
+ },
+ {
+  "en_meaning": "moreover; besides",
+  "de_word": "überdies",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Er ist klug und <b>überdies</b> fleißig.",
+  "en_sentence": "He is clever and, moreover, hard-working.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5914"
+  ]
+ },
+ {
+  "en_meaning": "interface",
+  "de_word": "Schnittstelle",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Schnittstelle</b> verbindet beide Programme.",
+  "en_sentence": "The interface connects both programmes.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5919"
+  ],
+  "declension": {
+   "nom_sing": "die Schnittstelle",
+   "akk_sing": "die Schnittstelle",
+   "dat_sing": "der Schnittstelle",
+   "gen_sing": "der Schnittstelle",
+   "nom_plur": "die Schnittstellen",
+   "akk_plur": "die Schnittstellen",
+   "dat_plur": "den Schnittstellen",
+   "gen_plur": "der Schnittstellen"
+  }
+ },
+ {
+  "en_meaning": "through this; hereby",
+  "de_word": "hierdurch",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Hierdurch</b> sparen wir viel Zeit.",
+  "en_sentence": "This way we save a lot of time.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5921"
+  ]
+ },
+ {
+  "en_meaning": "proven; established",
+  "de_word": "erwiesen",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Es ist <b>erwiesen</b>, dass Rauchen schadet.",
+  "en_sentence": "It is proven that smoking is harmful.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5924"
+  ]
+ },
+ {
+  "en_meaning": "analytical",
+  "de_word": "analytisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Sie hat ein <b>analytisches</b> Denken.",
+  "en_sentence": "She has an analytical mind.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B5936"
+  ]
+ },
+ {
+  "en_meaning": "point of view; perspective",
+  "de_word": "Sichtweise",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Ich verstehe deine <b>Sichtweise</b>.",
+  "en_sentence": "I understand your point of view.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B5941"
+  ],
+  "declension": {
+   "nom_sing": "die Sichtweise",
+   "akk_sing": "die Sichtweise",
+   "dat_sing": "der Sichtweise",
+   "gen_sing": "der Sichtweise",
+   "nom_plur": "die Sichtweisen",
+   "akk_plur": "die Sichtweisen",
+   "dat_plur": "den Sichtweisen",
+   "gen_plur": "der Sichtweisen"
+  }
+ },
+ {
+  "en_meaning": "via",
+  "de_word": "via",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Wir fliegen <b>via</b> Frankfurt nach Rom.",
+  "en_sentence": "We fly to Rome via Frankfurt.",
+  "note": "",
+  "case_government": "+ Akk.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5945"
+  ]
+ },
+ {
+  "en_meaning": "board; executive board",
+  "de_word": "Vorstand",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Vorstand</b> trifft sich einmal im Monat.",
+  "en_sentence": "The board meets once a month.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B5948"
+  ]
+ },
+ {
+  "en_meaning": "magic; spell",
+  "de_word": "Zauber",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Zauber</b> des Abends war vorbei.",
+  "en_sentence": "The magic of the evening was over.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B5953"
+  ]
+ },
+ {
+  "en_meaning": "upon this; to this",
+  "de_word": "hierauf",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Hierauf</b> folgte eine lange Pause.",
+  "en_sentence": "A long pause followed.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5954"
+  ]
+ },
+ {
+  "en_meaning": "to claim; to demand",
+  "de_word": "beanspruchen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er <b>beansprucht</b> das Erbe für sich.",
+  "en_sentence": "He claims the inheritance for himself.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5966"
+  ],
+  "conjugation": {
+   "praesens_er": "beansprucht",
+   "praeteritum": "beanspruchte",
+   "perfekt": "hat beansprucht"
+  }
+ },
+ {
+  "en_meaning": "expert opinion; report",
+  "de_word": "Gutachten",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Ein Arzt erstellt das <b>Gutachten</b>.",
+  "en_sentence": "A doctor draws up the expert report.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B5970"
+  ],
+  "declension": {
+   "nom_sing": "das Gutachten",
+   "akk_sing": "das Gutachten",
+   "dat_sing": "dem Gutachten",
+   "nom_plur": "die Gutachten",
+   "akk_plur": "die Gutachten",
+   "dat_plur": "den Gutachten"
+  }
+ },
+ {
+  "en_meaning": "immediate; without delay",
+  "de_word": "unverzüglich",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Bitte antworten Sie <b>unverzüglich</b>.",
+  "en_sentence": "Please reply without delay.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B5975"
+  ]
+ },
+ {
+  "en_meaning": "into/in each other",
+  "de_word": "ineinander",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "Die beiden Teile greifen <b>ineinander</b>.",
+  "en_sentence": "The two parts fit into each other.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5979"
+  ]
+ },
+ {
+  "en_meaning": "belonging; membership",
+  "de_word": "Zugehörigkeit",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Zugehörigkeit</b> zu einer Gruppe ist wichtig.",
+  "en_sentence": "A sense of belonging to a group is important.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B5981"
+  ],
+  "declension": {
+   "nom_sing": "die Zugehörigkeit",
+   "akk_sing": "die Zugehörigkeit",
+   "dat_sing": "der Zugehörigkeit",
+   "gen_sing": "der Zugehörigkeit",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "revelation",
+  "de_word": "Offenbarung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Das Buch war für mich eine <b>Offenbarung</b>.",
+  "en_sentence": "The book was a revelation for me.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B5983"
+  ],
+  "declension": {
+   "nom_sing": "die Offenbarung",
+   "akk_sing": "die Offenbarung",
+   "dat_sing": "der Offenbarung",
+   "gen_sing": "der Offenbarung",
+   "nom_plur": "die Offenbarungen",
+   "akk_plur": "die Offenbarungen",
+   "dat_plur": "den Offenbarungen",
+   "gen_plur": "der Offenbarungen"
+  }
+ },
+ {
+  "en_meaning": "responsibility; jurisdiction",
+  "de_word": "Zuständigkeit",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Diese Frage fällt nicht in meine <b>Zuständigkeit</b>.",
+  "en_sentence": "This question does not fall within my responsibility.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B5986"
+  ],
+  "declension": {
+   "nom_sing": "die Zuständigkeit",
+   "akk_sing": "die Zuständigkeit",
+   "dat_sing": "der Zuständigkeit",
+   "gen_sing": "der Zuständigkeit",
+   "nom_plur": "die Zuständigkeiten",
+   "akk_plur": "die Zuständigkeiten",
+   "dat_plur": "den Zuständigkeiten",
+   "gen_plur": "der Zuständigkeiten"
+  }
+ },
+ {
+  "en_meaning": "away from; off to the side",
+  "de_word": "abseits",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Abseits</b> der Straße liegt ein kleines Haus.",
+  "en_sentence": "A small house lies away from the road.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5990"
+  ]
+ },
+ {
+  "en_meaning": "psychotherapy",
+  "de_word": "Psychotherapie",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Sie macht eine <b>Psychotherapie</b> gegen ihre Angst.",
+  "en_sentence": "She is undergoing psychotherapy for her anxiety.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "eine Psychotherapie beginnen",
+   "ambulante Psychotherapie",
+   "Psychotherapie machen",
+   "einen Platz für Psychotherapie finden"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B5993",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Psychotherapie",
+   "akk_sing": "die Psychotherapie",
+   "dat_sing": "der Psychotherapie",
+   "gen_sing": "der Psychotherapie",
+   "nom_plur": "die Psychotherapien",
+   "akk_plur": "die Psychotherapien",
+   "dat_plur": "den Psychotherapien",
+   "gen_plur": "der Psychotherapien"
+  }
+ },
+ {
+  "en_meaning": "from this",
+  "de_word": "hieraus",
+  "article": "",
+  "gender_class": "adv",
+  "de_sentence": "<b>Hieraus</b> folgt, dass wir mehr Zeit brauchen.",
+  "en_sentence": "From this it follows that we need more time.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B5999"
+  ]
+ },
+ {
+  "en_meaning": "thigh; leg (of a limb)",
+  "de_word": "Schenkel",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Patient hat eine Wunde am <b>Schenkel</b>.",
+  "en_sentence": "The patient has a wound on the thigh.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "der rechte Schenkel",
+   "Schmerzen im Schenkel",
+   "den Schenkel verletzen",
+   "Schenkel und Hüfte"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6006",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "validity",
+  "de_word": "Gültigkeit",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Gültigkeit</b> des Tickets endet heute.",
+  "en_sentence": "The validity of the ticket ends today.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6007"
+  ],
+  "declension": {
+   "nom_sing": "die Gültigkeit",
+   "akk_sing": "die Gültigkeit",
+   "dat_sing": "der Gültigkeit",
+   "gen_sing": "der Gültigkeit",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "expansion; extension",
+  "de_word": "Ausbau",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Ausbau</b> der Straße dauert zwei Jahre.",
+  "en_sentence": "The expansion of the road takes two years.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6009"
+  ]
+ },
+ {
+  "en_meaning": "for lack of",
+  "de_word": "mangels",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Der Fall wurde <b>mangels</b> Beweisen eingestellt.",
+  "en_sentence": "The case was dropped for lack of evidence.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B6018"
+  ]
+ },
+ {
+  "en_meaning": "regardless of",
+  "de_word": "ungeachtet",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Ungeachtet</b> der Warnung fuhr er weiter.",
+  "en_sentence": "Regardless of the warning he drove on.",
+  "note": "",
+  "case_government": "+ Gen.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B6020"
+  ]
+ },
+ {
+  "en_meaning": "research; exploration",
+  "de_word": "Erforschung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Erforschung</b> des Weltraums ist teuer.",
+  "en_sentence": "The exploration of space is expensive.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B6023"
+  ],
+  "declension": {
+   "nom_sing": "die Erforschung",
+   "akk_sing": "die Erforschung",
+   "dat_sing": "der Erforschung",
+   "gen_sing": "der Erforschung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "command; order",
+  "de_word": "Kommando",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Auf mein <b>Kommando</b> geht es los.",
+  "en_sentence": "It starts on my command.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6024"
+  ],
+  "declension": {
+   "nom_sing": "das Kommando",
+   "akk_sing": "das Kommando",
+   "dat_sing": "dem Kommando",
+   "nom_plur": "die Kommandos",
+   "akk_plur": "die Kommandos",
+   "dat_plur": "den Kommandos"
+  }
+ },
+ {
+  "en_meaning": "within",
+  "de_word": "binnen",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "<b>Binnen</b> einer Woche bekommen Sie Antwort.",
+  "en_sentence": "You will get an answer within a week.",
+  "note": "",
+  "case_government": "+ Dat.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::zeit-zahlen-masse-mengen",
+   "bank::main",
+   "id::B6031"
+  ]
+ },
+ {
+  "en_meaning": "together with",
+  "de_word": "nebst",
+  "article": "",
+  "gender_class": "prep",
+  "de_sentence": "Er kam <b>nebst</b> seiner Frau.",
+  "en_sentence": "He came together with his wife.",
+  "note": "",
+  "case_government": "+ Dat.",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B6032"
+  ]
+ },
+ {
+  "en_meaning": "overcoming; effort",
+  "de_word": "Überwindung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Es kostet mich <b>Überwindung</b>, den Arzt anzurufen.",
+  "en_sentence": "It takes an effort for me to call the doctor.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6034"
+  ],
+  "declension": {
+   "nom_sing": "die Überwindung",
+   "akk_sing": "die Überwindung",
+   "dat_sing": "der Überwindung",
+   "gen_sing": "der Überwindung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "ancestor",
+  "de_word": "Vorfahr",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Ein <b>Vorfahr</b> von mir war Bäcker.",
+  "en_sentence": "One of my ancestors was a baker.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B6036"
+  ]
+ },
+ {
+  "en_meaning": "review",
+  "de_word": "Rezension",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Rezension</b> des Buches war sehr positiv.",
+  "en_sentence": "The review of the book was very positive.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B6047"
+  ],
+  "declension": {
+   "nom_sing": "die Rezension",
+   "akk_sing": "die Rezension",
+   "dat_sing": "der Rezension",
+   "gen_sing": "der Rezension",
+   "nom_plur": "die Rezensionen",
+   "akk_plur": "die Rezensionen",
+   "dat_plur": "den Rezensionen",
+   "gen_plur": "der Rezensionen"
+  }
+ },
+ {
+  "en_meaning": "absurd",
+  "de_word": "absurd",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Diese Idee ist völlig <b>absurd</b>.",
+  "en_sentence": "This idea is completely absurd.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6053"
+  ]
+ },
+ {
+  "en_meaning": "register; index",
+  "de_word": "Register",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Der Name steht im <b>Register</b>.",
+  "en_sentence": "The name is in the register.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6063"
+  ],
+  "declension": {
+   "nom_sing": "das Register",
+   "akk_sing": "das Register",
+   "dat_sing": "dem Register",
+   "nom_plur": "die Register",
+   "akk_plur": "die Register",
+   "dat_plur": "den Registern"
+  }
+ },
+ {
+  "en_meaning": "stunned; speechless",
+  "de_word": "fassungslos",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Er war <b>fassungslos</b> über die Nachricht.",
+  "en_sentence": "He was stunned by the news.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6065"
+  ]
+ },
+ {
+  "en_meaning": "neighbouring",
+  "de_word": "benachbart",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die <b>benachbarten</b> Häuser sind sehr alt.",
+  "en_sentence": "The neighbouring houses are very old.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::wohnen",
+   "bank::main",
+   "id::B6074"
+  ]
+ },
+ {
+  "en_meaning": "lover; enthusiast",
+  "de_word": "Liebhaber",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Er ist ein <b>Liebhaber</b> alter Autos.",
+  "en_sentence": "He is an enthusiast of old cars.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B6076"
+  ]
+ },
+ {
+  "en_meaning": "agreement; treaty",
+  "de_word": "Abkommen",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Die Länder unterzeichneten ein <b>Abkommen</b>.",
+  "en_sentence": "The countries signed an agreement.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6078"
+  ],
+  "declension": {
+   "nom_sing": "das Abkommen",
+   "akk_sing": "das Abkommen",
+   "dat_sing": "dem Abkommen",
+   "nom_plur": "die Abkommen",
+   "akk_plur": "die Abkommen",
+   "dat_plur": "den Abkommen"
+  }
+ },
+ {
+  "en_meaning": "consent",
+  "de_word": "Einwilligung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Für die Operation braucht man die <b>Einwilligung</b> des Patienten.",
+  "en_sentence": "For the operation the patient's consent is needed.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "die Einwilligung erteilen",
+   "schriftliche Einwilligung",
+   "Einwilligung einholen",
+   "ohne Einwilligung"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B6079",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Einwilligung",
+   "akk_sing": "die Einwilligung",
+   "dat_sing": "der Einwilligung",
+   "gen_sing": "der Einwilligung",
+   "nom_plur": "die Einwilligungen",
+   "akk_plur": "die Einwilligungen",
+   "dat_plur": "den Einwilligungen",
+   "gen_plur": "der Einwilligungen"
+  }
+ },
+ {
+  "en_meaning": "income; merit",
+  "de_word": "Verdienst",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Sein <b>Verdienst</b> reicht für die Miete.",
+  "en_sentence": "His earnings are enough for the rent.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B6082"
+  ]
+ },
+ {
+  "en_meaning": "unbearable",
+  "de_word": "unerträglich",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die Hitze war <b>unerträglich</b>.",
+  "en_sentence": "The heat was unbearable.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6083"
+  ]
+ },
+ {
+  "en_meaning": "hierarchy",
+  "de_word": "Hierarchie",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "In der Klinik gibt es klare <b>Hierarchien</b>.",
+  "en_sentence": "There are clear hierarchies in the clinic.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6084"
+  ],
+  "declension": {
+   "nom_sing": "die Hierarchie",
+   "akk_sing": "die Hierarchie",
+   "dat_sing": "der Hierarchie",
+   "gen_sing": "der Hierarchie",
+   "nom_plur": "die Hierarchien",
+   "akk_plur": "die Hierarchien",
+   "dat_plur": "den Hierarchien",
+   "gen_plur": "der Hierarchien"
+  }
+ },
+ {
+  "en_meaning": "musculature",
+  "de_word": "Muskulatur",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Eine starke <b>Muskulatur</b> schützt den Rücken.",
+  "en_sentence": "Strong musculature protects the back.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "die Muskulatur stärken",
+   "verspannte Muskulatur",
+   "schwache Muskulatur",
+   "die Muskulatur entspannen"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6089",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Muskulatur",
+   "akk_sing": "die Muskulatur",
+   "dat_sing": "der Muskulatur",
+   "gen_sing": "der Muskulatur",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "local",
+  "de_word": "örtlich",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die <b>örtliche</b> Polizei untersucht den Fall.",
+  "en_sentence": "The local police are investigating the case.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::reisen-verkehr-orte",
+   "bank::main",
+   "id::B6091"
+  ]
+ },
+ {
+  "en_meaning": "entry; registration",
+  "de_word": "Eintragung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Eintragung</b> im Register dauert eine Woche.",
+  "en_sentence": "The entry in the register takes a week.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6093"
+  ],
+  "declension": {
+   "nom_sing": "die Eintragung",
+   "akk_sing": "die Eintragung",
+   "dat_sing": "der Eintragung",
+   "gen_sing": "der Eintragung",
+   "nom_plur": "die Eintragungen",
+   "akk_plur": "die Eintragungen",
+   "dat_plur": "den Eintragungen",
+   "gen_plur": "der Eintragungen"
+  }
+ },
+ {
+  "en_meaning": "judiciary; justice system",
+  "de_word": "Justiz",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Justiz</b> muss unabhängig sein.",
+  "en_sentence": "The judiciary must be independent.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6094"
+  ],
+  "declension": {
+   "nom_sing": "die Justiz",
+   "akk_sing": "die Justiz",
+   "dat_sing": "der Justiz",
+   "gen_sing": "der Justiz",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "investor",
+  "de_word": "Investor",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Investor</b> kauft das Grundstück.",
+  "en_sentence": "The investor buys the plot.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B6095"
+  ]
+ },
+ {
+  "en_meaning": "vein; blood vessel",
+  "de_word": "Ader",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Ader</b> am Arm ist gut zu sehen.",
+  "en_sentence": "The vein on the arm is easy to see.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "eine Ader punktieren",
+   "die Adern verengen",
+   "eine verstopfte Ader",
+   "Blut aus der Ader"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6102",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Ader",
+   "akk_sing": "die Ader",
+   "dat_sing": "der Ader",
+   "gen_sing": "der Ader",
+   "nom_plur": "die Adern",
+   "akk_plur": "die Adern",
+   "dat_plur": "den Adern",
+   "gen_plur": "der Adern"
+  }
+ },
+ {
+  "en_meaning": "fellow human being",
+  "de_word": "Mitmensch",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Wir sollten respektvoll mit unseren <b>Mitmenschen</b> umgehen.",
+  "en_sentence": "We should treat our fellow human beings with respect.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::person-familie-beziehungen",
+   "bank::main",
+   "id::B6105"
+  ]
+ },
+ {
+  "en_meaning": "irony",
+  "de_word": "Ironie",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "In seiner Antwort lag viel <b>Ironie</b>.",
+  "en_sentence": "There was a lot of irony in his answer.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B6114"
+  ],
+  "declension": {
+   "nom_sing": "die Ironie",
+   "akk_sing": "die Ironie",
+   "dat_sing": "der Ironie",
+   "gen_sing": "der Ironie",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "description; account",
+  "de_word": "Schilderung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Schilderung</b> des Unfalls war genau.",
+  "en_sentence": "The account of the accident was precise.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B6115"
+  ],
+  "declension": {
+   "nom_sing": "die Schilderung",
+   "akk_sing": "die Schilderung",
+   "dat_sing": "der Schilderung",
+   "gen_sing": "der Schilderung",
+   "nom_plur": "die Schilderungen",
+   "akk_plur": "die Schilderungen",
+   "dat_plur": "den Schilderungen",
+   "gen_plur": "der Schilderungen"
+  }
+ },
+ {
+  "en_meaning": "indication",
+  "de_word": "Indikation",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Für die Operation besteht eine klare <b>Indikation</b>.",
+  "en_sentence": "There is a clear indication for the operation.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "eine Indikation stellen",
+   "klare Indikation",
+   "Indikation zur Operation",
+   "die Indikation prüfen"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B6116",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Indikation",
+   "akk_sing": "die Indikation",
+   "dat_sing": "der Indikation",
+   "gen_sing": "der Indikation",
+   "nom_plur": "die Indikationen",
+   "akk_plur": "die Indikationen",
+   "dat_plur": "den Indikationen",
+   "gen_plur": "der Indikationen"
+  }
+ },
+ {
+  "en_meaning": "petition",
+  "de_word": "Petition",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Viele Bürger unterschrieben die <b>Petition</b>.",
+  "en_sentence": "Many citizens signed the petition.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6119"
+  ],
+  "declension": {
+   "nom_sing": "die Petition",
+   "akk_sing": "die Petition",
+   "dat_sing": "der Petition",
+   "gen_sing": "der Petition",
+   "nom_plur": "die Petitionen",
+   "akk_plur": "die Petitionen",
+   "dat_plur": "den Petitionen",
+   "gen_plur": "der Petitionen"
+  }
+ },
+ {
+  "en_meaning": "cult",
+  "de_word": "Kult",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Film ist längst <b>Kult</b>.",
+  "en_sentence": "The film has long been a cult classic.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B6121"
+  ]
+ },
+ {
+  "en_meaning": "care; welfare",
+  "de_word": "Fürsorge",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Fürsorge</b> für alte Menschen ist wichtig.",
+  "en_sentence": "Care for the elderly is important.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6126"
+  ],
+  "declension": {
+   "nom_sing": "die Fürsorge",
+   "akk_sing": "die Fürsorge",
+   "dat_sing": "der Fürsorge",
+   "gen_sing": "der Fürsorge",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "to conquer",
+  "de_word": "erobern",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Armee <b>eroberte</b> die Stadt.",
+  "en_sentence": "The army conquered the city.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6127"
+  ],
+  "conjugation": {
+   "praesens_er": "erobert",
+   "praeteritum": "eroberte",
+   "perfekt": "hat erobert"
+  }
+ },
+ {
+  "en_meaning": "confident; sovereign",
+  "de_word": "souverän",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Sie hielt einen <b>souveränen</b> Vortrag.",
+  "en_sentence": "She gave a confident talk.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6129"
+  ]
+ },
+ {
+  "en_meaning": "linked; connected",
+  "de_word": "verknüpft",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Beide Themen sind eng miteinander <b>verknüpft</b>.",
+  "en_sentence": "Both topics are closely linked.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B6130"
+  ]
+ },
+ {
+  "en_meaning": "locked; reserved",
+  "de_word": "verschlossen",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die Tür ist <b>verschlossen</b>.",
+  "en_sentence": "The door is locked.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6131"
+  ]
+ },
+ {
+  "en_meaning": "symptoms; symptomatology",
+  "de_word": "Symptomatik",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Symptomatik</b> begann vor drei Tagen.",
+  "en_sentence": "The symptoms began three days ago.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "typische Symptomatik",
+   "akute Symptomatik",
+   "die Symptomatik beschreiben",
+   "die Symptomatik verschlechtert sich"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B6132",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Symptomatik",
+   "akk_sing": "die Symptomatik",
+   "dat_sing": "der Symptomatik",
+   "gen_sing": "der Symptomatik",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "to deliver; to extradite",
+  "de_word": "ausliefern",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Der Händler <b>liefert</b> die Ware morgen <b>aus</b>.",
+  "en_sentence": "The dealer delivers the goods tomorrow.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6133"
+  ],
+  "conjugation": {
+   "praesens_er": "liefert aus",
+   "praeteritum": "lieferte aus",
+   "perfekt": "hat ausgeliefert"
+  }
+ },
+ {
+  "en_meaning": "foundation",
+  "de_word": "Fundament",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Das Haus hat ein stabiles <b>Fundament</b>.",
+  "en_sentence": "The house has a stable foundation.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::wohnen",
+   "bank::main",
+   "id::B6135"
+  ],
+  "declension": {
+   "nom_sing": "das Fundament",
+   "akk_sing": "das Fundament",
+   "dat_sing": "dem Fundament",
+   "nom_plur": "die Fundamente",
+   "akk_plur": "die Fundamente",
+   "dat_plur": "den Fundamenten"
+  }
+ },
+ {
+  "en_meaning": "to commission; to instruct",
+  "de_word": "beauftragen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Die Firma <b>beauftragt</b> einen Anwalt.",
+  "en_sentence": "The company instructs a lawyer.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6138"
+  ],
+  "conjugation": {
+   "praesens_er": "beauftragt",
+   "praeteritum": "beauftragte",
+   "perfekt": "hat beauftragt"
+  }
+ },
+ {
+  "en_meaning": "prevention",
+  "de_word": "Prävention",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "<b>Prävention</b> ist besser als Therapie.",
+  "en_sentence": "Prevention is better than therapy.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "Prävention betreiben",
+   "primäre Prävention",
+   "Prävention von Krankheiten",
+   "gezielte Prävention"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B6142",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Prävention",
+   "akk_sing": "die Prävention",
+   "dat_sing": "der Prävention",
+   "gen_sing": "der Prävention",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "stipulation; condition",
+  "de_word": "Maßgabe",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die Hilfe erfolgt nach <b>Maßgabe</b> der vorhandenen Mittel.",
+  "en_sentence": "Help is given according to the available funds.",
+  "note": "mostly in nach Maßgabe von",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6144"
+  ],
+  "declension": {
+   "nom_sing": "die Maßgabe",
+   "akk_sing": "die Maßgabe",
+   "dat_sing": "der Maßgabe",
+   "gen_sing": "der Maßgabe",
+   "nom_plur": "die Maßgaben",
+   "akk_plur": "die Maßgaben",
+   "dat_plur": "den Maßgaben",
+   "gen_plur": "der Maßgaben"
+  }
+ },
+ {
+  "en_meaning": "trauma",
+  "de_word": "Trauma",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Der Patient hat ein <b>Trauma</b> erlitten.",
+  "en_sentence": "The patient has suffered a trauma.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "ein psychisches Trauma",
+   "ein Trauma erleiden",
+   "ein Trauma verarbeiten",
+   "ein schweres Trauma"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B6148",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "das Trauma",
+   "akk_sing": "das Trauma",
+   "dat_sing": "dem Trauma",
+   "nom_plur": "die Traumata",
+   "akk_plur": "die Traumata",
+   "dat_plur": "den Traumatan"
+  }
+ },
+ {
+  "en_meaning": "damage",
+  "de_word": "Schädigung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Alkohol kann zu einer <b>Schädigung</b> der Leber führen.",
+  "en_sentence": "Alcohol can lead to damage to the liver.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "eine Schädigung der Leber",
+   "bleibende Schädigung",
+   "Schädigung vermeiden",
+   "Schädigung des Gehirns"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B6154",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Schädigung",
+   "akk_sing": "die Schädigung",
+   "dat_sing": "der Schädigung",
+   "gen_sing": "der Schädigung",
+   "nom_plur": "die Schädigungen",
+   "akk_plur": "die Schädigungen",
+   "dat_plur": "den Schädigungen",
+   "gen_plur": "der Schädigungen"
+  }
+ },
+ {
+  "en_meaning": "statutes; rules",
+  "de_word": "Satzung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Satzung</b> des Vereins regelt die Mitgliedschaft.",
+  "en_sentence": "The club's statutes regulate membership.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6155"
+  ],
+  "declension": {
+   "nom_sing": "die Satzung",
+   "akk_sing": "die Satzung",
+   "dat_sing": "der Satzung",
+   "gen_sing": "der Satzung",
+   "nom_plur": "die Satzungen",
+   "akk_plur": "die Satzungen",
+   "dat_plur": "den Satzungen",
+   "gen_plur": "der Satzungen"
+  }
+ },
+ {
+  "en_meaning": "comprehensible",
+  "de_word": "nachvollziehbar",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Seine Entscheidung ist gut <b>nachvollziehbar</b>.",
+  "en_sentence": "His decision is easy to understand.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B6156"
+  ]
+ },
+ {
+  "en_meaning": "to deny; to dispute",
+  "de_word": "bestreiten",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Der Angeklagte <b>bestreitet</b> die Tat.",
+  "en_sentence": "The accused denies the offence.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B6160"
+  ],
+  "conjugation": {
+   "praesens_er": "bestreitet",
+   "praeteritum": "bestritt",
+   "perfekt": "hat bestritten"
+  }
+ },
+ {
+  "en_meaning": "visual; optical",
+  "de_word": "optisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "<b>Optisch</b> gefällt mir das Auto sehr.",
+  "en_sentence": "Visually I like the car a lot.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B6162"
+  ]
+ },
+ {
+  "en_meaning": "to carry out; to make (a purchase)",
+  "de_word": "tätigen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Er <b>tätigt</b> einen großen Einkauf.",
+  "en_sentence": "He makes a large purchase.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::einkaufen-kleidung-geld",
+   "bank::main",
+   "id::B6166"
+  ],
+  "conjugation": {
+   "praesens_er": "tätigt",
+   "praeteritum": "tätigte",
+   "perfekt": "hat getätigt"
+  }
+ },
+ {
+  "en_meaning": "inadmissible; not permitted",
+  "de_word": "unzulässig",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Dieser Antrag ist <b>unzulässig</b>.",
+  "en_sentence": "This application is inadmissible.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6169"
+  ]
+ },
+ {
+  "en_meaning": "interaction",
+  "de_word": "Wechselwirkung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Zwischen den beiden Medikamenten gibt es eine <b>Wechselwirkung</b>.",
+  "en_sentence": "There is an interaction between the two medicines.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "Wechselwirkungen beachten",
+   "gefährliche Wechselwirkung",
+   "Wechselwirkungen mit Medikamenten",
+   "eine Wechselwirkung ausschließen"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B6173",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Wechselwirkung",
+   "akk_sing": "die Wechselwirkung",
+   "dat_sing": "der Wechselwirkung",
+   "gen_sing": "der Wechselwirkung",
+   "nom_plur": "die Wechselwirkungen",
+   "akk_plur": "die Wechselwirkungen",
+   "dat_plur": "den Wechselwirkungen",
+   "gen_plur": "der Wechselwirkungen"
+  }
+ },
+ {
+  "en_meaning": "scope; area of application",
+  "de_word": "Anwendungsbereich",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Anwendungsbereich</b> des Gesetzes ist begrenzt.",
+  "en_sentence": "The scope of the law is limited.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::behoerden-post-dienstleistungen",
+   "bank::main",
+   "id::B6176"
+  ]
+ },
+ {
+  "en_meaning": "know-how",
+  "de_word": "Know-how",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Dafür braucht man viel <b>Know-how</b>.",
+  "en_sentence": "You need a lot of know-how for that.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6180"
+  ],
+  "declension": {
+   "nom_sing": "das Know-how",
+   "akk_sing": "das Know-how",
+   "dat_sing": "dem Know-how",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "voter turnout",
+  "de_word": "Wahlbeteiligung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Wahlbeteiligung</b> war niedrig.",
+  "en_sentence": "Voter turnout was low.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6183"
+  ],
+  "declension": {
+   "nom_sing": "die Wahlbeteiligung",
+   "akk_sing": "die Wahlbeteiligung",
+   "dat_sing": "der Wahlbeteiligung",
+   "gen_sing": "der Wahlbeteiligung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "dementia",
+  "de_word": "Demenz",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Demenz</b> schreitet langsam fort.",
+  "en_sentence": "The dementia is progressing slowly.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "an Demenz leiden",
+   "beginnende Demenz",
+   "Demenz diagnostizieren",
+   "Demenz im Alter"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B6189",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Demenz",
+   "akk_sing": "die Demenz",
+   "dat_sing": "der Demenz",
+   "gen_sing": "der Demenz",
+   "nom_plur": "die Demenzen",
+   "akk_plur": "die Demenzen",
+   "dat_plur": "den Demenzen",
+   "gen_plur": "der Demenzen"
+  }
+ },
+ {
+  "en_meaning": "penis",
+  "de_word": "Penis",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Bei der Untersuchung wird auch der <b>Penis</b> kontrolliert.",
+  "en_sentence": "The penis is also checked during the examination.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "den Penis untersuchen",
+   "Schwellung am Penis",
+   "Schmerzen am Penis",
+   "Entzündung am Penis"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6206",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "to understand; to follow",
+  "de_word": "nachvollziehen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Ich kann deine Entscheidung gut <b>nachvollziehen</b>.",
+  "en_sentence": "I can easily understand your decision.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B6212"
+  ],
+  "conjugation": {
+   "praesens_er": "vollzieht nach",
+   "praeteritum": "vollzog nach",
+   "perfekt": "hat nachvollzogen"
+  }
+ },
+ {
+  "en_meaning": "school-related",
+  "de_word": "schulisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Seine <b>schulischen</b> Leistungen sind gut.",
+  "en_sentence": "His school performance is good.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B6214"
+  ]
+ },
+ {
+  "en_meaning": "management",
+  "de_word": "Geschäftsführung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Geschäftsführung</b> entscheidet morgen.",
+  "en_sentence": "The management decides tomorrow.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6215"
+  ],
+  "declension": {
+   "nom_sing": "die Geschäftsführung",
+   "akk_sing": "die Geschäftsführung",
+   "dat_sing": "der Geschäftsführung",
+   "gen_sing": "der Geschäftsführung",
+   "nom_plur": "die Geschäftsführungen",
+   "akk_plur": "die Geschäftsführungen",
+   "dat_plur": "den Geschäftsführungen",
+   "gen_plur": "der Geschäftsführungen"
+  }
+ },
+ {
+  "en_meaning": "to complete (a course)",
+  "de_word": "absolvieren",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Sie <b>absolviert</b> ein Praktikum in einer Klinik.",
+  "en_sentence": "She is completing an internship at a clinic.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B6216"
+  ],
+  "conjugation": {
+   "praesens_er": "absolviert",
+   "praeteritum": "absolvierte",
+   "perfekt": "hat absolviert"
+  }
+ },
+ {
+  "en_meaning": "shortened",
+  "de_word": "verkürzt",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Die Arbeitszeit wurde <b>verkürzt</b>.",
+  "en_sentence": "The working hours were shortened.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::zeit-zahlen-masse-mengen",
+   "bank::main",
+   "id::B6221"
+  ]
+ },
+ {
+  "en_meaning": "jaw; pine tree (die Kiefer)",
+  "de_word": "Kiefer",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Patient hat Schmerzen im <b>Kiefer</b>.",
+  "en_sentence": "The patient has pain in the jaw.",
+  "note": "die Kiefer = pine tree (pl. Kiefern)",
+  "case_government": "",
+  "collocations": [
+   "Schmerzen im Kiefer",
+   "der Kiefer ist gebrochen",
+   "den Kiefer öffnen",
+   "Kiefer und Zähne"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6233",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "enrichment",
+  "de_word": "Bereicherung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die neue Kollegin ist eine <b>Bereicherung</b> für das Team.",
+  "en_sentence": "The new colleague is an asset to the team.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6234"
+  ],
+  "declension": {
+   "nom_sing": "die Bereicherung",
+   "akk_sing": "die Bereicherung",
+   "dat_sing": "der Bereicherung",
+   "gen_sing": "der Bereicherung",
+   "nom_plur": "die Bereicherungen",
+   "akk_plur": "die Bereicherungen",
+   "dat_plur": "den Bereicherungen",
+   "gen_plur": "der Bereicherungen"
+  }
+ },
+ {
+  "en_meaning": "merger; union",
+  "de_word": "Zusammenschluss",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Zusammenschluss</b> der beiden Firmen wurde beschlossen.",
+  "en_sentence": "The merger of the two companies was decided.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6237"
+  ]
+ },
+ {
+  "en_meaning": "dosage",
+  "de_word": "Dosierung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Dosierung</b> hängt vom Gewicht ab.",
+  "en_sentence": "The dosage depends on weight.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "die Dosierung anpassen",
+   "richtige Dosierung",
+   "die Dosierung beachten",
+   "die Dosierung reduzieren"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B6238",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Dosierung",
+   "akk_sing": "die Dosierung",
+   "dat_sing": "der Dosierung",
+   "gen_sing": "der Dosierung",
+   "nom_plur": "die Dosierungen",
+   "akk_plur": "die Dosierungen",
+   "dat_plur": "den Dosierungen",
+   "gen_plur": "der Dosierungen"
+  }
+ },
+ {
+  "en_meaning": "ambition",
+  "de_word": "Ehrgeiz",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Sie hat viel <b>Ehrgeiz</b> im Studium.",
+  "en_sentence": "She has a lot of ambition in her studies.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6247"
+  ]
+ },
+ {
+  "en_meaning": "proven; tried and tested",
+  "de_word": "bewährt",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das ist ein <b>bewährtes</b> Mittel gegen Husten.",
+  "en_sentence": "That is a tried-and-tested remedy for a cough.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B6251"
+  ]
+ },
+ {
+  "en_meaning": "to spin; to be crazy (colloquial)",
+  "de_word": "spinnen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Du <b>spinnst</b> wohl!",
+  "en_sentence": "You must be crazy!",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6253"
+  ],
+  "conjugation": {
+   "praesens_er": "spinnt",
+   "praeteritum": "spann",
+   "perfekt": "hat gesponnen"
+  }
+ },
+ {
+  "en_meaning": "media (adj.)",
+  "de_word": "medial",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das Thema bekommt viel <b>mediale</b> Aufmerksamkeit.",
+  "en_sentence": "The topic receives a lot of media attention.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B6258"
+  ]
+ },
+ {
+  "en_meaning": "to lament; to complain about",
+  "de_word": "beklagen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Viele Bürger <b>beklagen</b> den Lärm.",
+  "en_sentence": "Many citizens complain about the noise.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6260"
+  ],
+  "conjugation": {
+   "praesens_er": "beklagt",
+   "praeteritum": "beklagte",
+   "perfekt": "hat beklagt"
+  }
+ },
+ {
+  "en_meaning": "torso; trunk",
+  "de_word": "Rumpf",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Verband wird um den <b>Rumpf</b> gewickelt.",
+  "en_sentence": "The bandage is wound around the torso.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "Rumpf und Gliedmaßen",
+   "den Rumpf beugen",
+   "den Rumpf stabilisieren",
+   "Verletzung am Rumpf"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6268",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "cheerful; fair (weather)",
+  "de_word": "heiter",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Morgen wird es <b>heiter</b> bis wolkig.",
+  "en_sentence": "Tomorrow it will be fair to cloudy.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6270"
+  ]
+ },
+ {
+  "en_meaning": "to appoint",
+  "de_word": "ernennen",
+  "article": "",
+  "gender_class": "verb",
+  "de_sentence": "Der Präsident <b>ernennt</b> den neuen Minister.",
+  "en_sentence": "The president appoints the new minister.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6272"
+  ],
+  "conjugation": {
+   "praesens_er": "ernennt",
+   "praeteritum": "ernannte",
+   "perfekt": "hat ernannt"
+  }
+ },
+ {
+  "en_meaning": "division of labour",
+  "de_word": "Arbeitsteilung",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Arbeitsteilung</b> im Team funktioniert gut.",
+  "en_sentence": "The division of labour in the team works well.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::arbeit-beruf",
+   "bank::main",
+   "id::B6283"
+  ],
+  "declension": {
+   "nom_sing": "die Arbeitsteilung",
+   "akk_sing": "die Arbeitsteilung",
+   "dat_sing": "der Arbeitsteilung",
+   "gen_sing": "der Arbeitsteilung",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "antibody",
+  "de_word": "Antikörper",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der Körper bildet <b>Antikörper</b> gegen das Virus.",
+  "en_sentence": "The body forms antibodies against the virus.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "Antikörper bilden",
+   "Antikörper nachweisen",
+   "Antikörper gegen das Virus",
+   "Antikörper im Blut"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B6288",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "pathogen",
+  "de_word": "Erreger",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Erreger</b> der Krankheit ist ein Virus.",
+  "en_sentence": "The pathogen of the disease is a virus.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "einen Erreger nachweisen",
+   "ansteckender Erreger",
+   "Erreger identifizieren",
+   "Erreger übertragen"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-symptome-krankheiten",
+   "bank::main",
+   "id::B6291",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "guideline",
+  "de_word": "Leitlinie",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die Behandlung folgt den aktuellen <b>Leitlinien</b>.",
+  "en_sentence": "The treatment follows the current guidelines.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "aktuelle Leitlinie",
+   "Leitlinien beachten",
+   "nach den Leitlinien behandeln",
+   "Leitlinie der Fachgesellschaft"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B6298",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Leitlinie",
+   "akk_sing": "die Leitlinie",
+   "dat_sing": "der Leitlinie",
+   "gen_sing": "der Leitlinie",
+   "nom_plur": "die Leitlinien",
+   "akk_plur": "die Leitlinien",
+   "dat_plur": "den Leitlinien",
+   "gen_plur": "der Leitlinien"
+  }
+ },
+ {
+  "en_meaning": "medical history",
+  "de_word": "Anamnese",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Zuerst erhebt der Arzt die <b>Anamnese</b>.",
+  "en_sentence": "First the doctor takes the medical history.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "die Anamnese erheben",
+   "eine ausführliche Anamnese",
+   "Anamnese und Untersuchung",
+   "die Anamnese dokumentieren"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B6303",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Anamnese",
+   "akk_sing": "die Anamnese",
+   "dat_sing": "der Anamnese",
+   "gen_sing": "der Anamnese",
+   "nom_plur": "die Anamnesen",
+   "akk_plur": "die Anamnesen",
+   "dat_plur": "den Anamnesen",
+   "gen_plur": "der Anamnesen"
+  }
+ },
+ {
+  "en_meaning": "midfield",
+  "de_word": "Mittelfeld",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Er spielt im <b>Mittelfeld</b>.",
+  "en_sentence": "He plays in midfield.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B6313"
+  ],
+  "declension": {
+   "nom_sing": "das Mittelfeld",
+   "akk_sing": "das Mittelfeld",
+   "dat_sing": "dem Mittelfeld",
+   "nom_plur": "die Mittelfelder",
+   "akk_plur": "die Mittelfelder",
+   "dat_plur": "den Mittelfeldern"
+  }
+ },
+ {
+  "en_meaning": "rehabilitation",
+  "de_word": "Rehabilitation",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Nach der Operation folgt die <b>Rehabilitation</b>.",
+  "en_sentence": "After the operation comes rehabilitation.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "Rehabilitation beginnen",
+   "stationäre Rehabilitation",
+   "eine Rehabilitation verordnen",
+   "Rehabilitation nach Schlaganfall"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-untersuchung-diagnostik-therapie",
+   "bank::main",
+   "id::B6317",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "die Rehabilitation",
+   "akk_sing": "die Rehabilitation",
+   "dat_sing": "der Rehabilitation",
+   "gen_sing": "der Rehabilitation",
+   "nom_plur": "die Rehabilitationen",
+   "akk_plur": "die Rehabilitationen",
+   "dat_plur": "den Rehabilitationen",
+   "gen_plur": "der Rehabilitationen"
+  }
+ },
+ {
+  "en_meaning": "coalition",
+  "de_word": "Koalition",
+  "article": "die",
+  "gender_class": "die",
+  "de_sentence": "Die <b>Koalition</b> hat sich geeinigt.",
+  "en_sentence": "The coalition has reached an agreement.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6318"
+  ],
+  "declension": {
+   "nom_sing": "die Koalition",
+   "akk_sing": "die Koalition",
+   "dat_sing": "der Koalition",
+   "gen_sing": "der Koalition",
+   "nom_plur": "die Koalitionen",
+   "akk_plur": "die Koalitionen",
+   "dat_plur": "den Koalitionen",
+   "gen_plur": "der Koalitionen"
+  }
+ },
+ {
+  "en_meaning": "consent; agreement",
+  "de_word": "Einverständnis",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Wir brauchen Ihr <b>Einverständnis</b> für die Behandlung.",
+  "en_sentence": "We need your consent for the treatment.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "sein Einverständnis geben",
+   "schriftliches Einverständnis",
+   "Einverständnis einholen",
+   "im Einverständnis mit"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-klinik-pflege-recht",
+   "bank::main",
+   "id::B6328",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "das Einverständnis",
+   "akk_sing": "das Einverständnis",
+   "dat_sing": "dem Einverständnis",
+   "nom_plur": "—"
+  }
+ },
+ {
+  "en_meaning": "radius (bone); radius (circle)",
+  "de_word": "Radius",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Radius</b> ist am Handgelenk gebrochen.",
+  "en_sentence": "The radius is broken at the wrist.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "Bruch des Radius",
+   "distaler Radius",
+   "Radius und Elle",
+   "der Radius ist gebrochen"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6329",
+   "medical"
+  ]
+ },
+ {
+  "en_meaning": "eyelid",
+  "de_word": "Lid",
+  "article": "das",
+  "gender_class": "das",
+  "de_sentence": "Das <b>Lid</b> ist geschwollen.",
+  "en_sentence": "The eyelid is swollen.",
+  "note": "",
+  "case_government": "",
+  "collocations": [
+   "das obere Lid",
+   "das Lid schließen",
+   "geschwollenes Lid",
+   "das Lid heben"
+  ],
+  "tags": [
+   "level::C1",
+   "thema::medizin-anatomie-koerpersysteme",
+   "bank::main",
+   "id::B6330",
+   "medical"
+  ],
+  "declension": {
+   "nom_sing": "das Lid",
+   "akk_sing": "das Lid",
+   "dat_sing": "dem Lid",
+   "nom_plur": "die Lider",
+   "akk_plur": "die Lider",
+   "dat_plur": "den Lidern"
+  }
+ },
+ {
+  "en_meaning": "department; field of study",
+  "de_word": "Fachbereich",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Fachbereich</b> Medizin hat 2.000 Studierende.",
+  "en_sentence": "The medical department has 2,000 students.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::ausbildung-schule-studium",
+   "bank::main",
+   "id::B6341"
+  ]
+ },
+ {
+  "en_meaning": "ironic",
+  "de_word": "ironisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Das hat er <b>ironisch</b> gemeint.",
+  "en_sentence": "He meant that ironically.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::sprache-kommunikation-denken",
+   "bank::main",
+   "id::B6342"
+  ]
+ },
+ {
+  "en_meaning": "ready; at hand",
+  "de_word": "parat",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Hast du die Unterlagen <b>parat</b>?",
+  "en_sentence": "Do you have the documents ready?",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::allgemein-funktionswoerter-abstrakter-wortschatz",
+   "bank::main",
+   "id::B6343"
+  ]
+ },
+ {
+  "en_meaning": "authentic",
+  "de_word": "authentisch",
+  "article": "",
+  "gender_class": "adj",
+  "de_sentence": "Der Film wirkt sehr <b>authentisch</b>.",
+  "en_sentence": "The film seems very authentic.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gefuehle-charakter-meinungen",
+   "bank::main",
+   "id::B6368"
+  ]
+ },
+ {
+  "en_meaning": "person involved; participant",
+  "de_word": "Beteiligte",
+  "article": "der/die",
+  "gender_class": "der",
+  "de_sentence": "Alle <b>Beteiligten</b> wurden informiert.",
+  "en_sentence": "All parties involved were informed.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::gesellschaft-politik-recht-geschichte",
+   "bank::main",
+   "id::B6374"
+  ]
+ },
+ {
+  "en_meaning": "prize winner",
+  "de_word": "Preisträger",
+  "article": "der",
+  "gender_class": "der",
+  "de_sentence": "Der <b>Preisträger</b> bedankte sich bei seiner Familie.",
+  "en_sentence": "The prize winner thanked his family.",
+  "note": "",
+  "case_government": "",
+  "collocations": [],
+  "tags": [
+   "level::C1",
+   "thema::freizeit-sport-kultur-medien",
+   "bank::main",
+   "id::B6526"
+  ]
+ }
+]

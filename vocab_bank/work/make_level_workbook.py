@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""make_level_workbook.py - builds STUDY_HERE/Word_Lists_by_Level.xlsx (one sheet per level) from the CSV banks.
+"""make_level_workbook.py - builds WORD_LISTS/Word_Lists_by_Level.xlsx (one sheet per level) from the CSV banks.
 
   python3 work/make_level_workbook.py
 """
@@ -15,7 +15,7 @@ from openpyxl.utils import get_column_letter
 
 ROOT = Path(__file__).resolve().parent.parent
 BANKS = ROOT / "bank_final"
-OUT = ROOT.parent / "STUDY_HERE" / "Word_Lists_by_Level.xlsx"
+OUT = ROOT.parent / "WORD_LISTS" / "Word_Lists_by_Level.xlsx"
 LEVELS = ["A1", "A2", "B1", "B2", "C1"]
 HEAD = PatternFill("solid", fgColor="2F6FED")
 
@@ -93,7 +93,7 @@ def main():
     cnt = Counter(r["level"] for r in study)
 
     info = wb.create_sheet("Start here")
-    lines = [["Word lists by level"], [""],
+    lines = [["Word lists by level"], [""], ["Sheet 'All words' = every study word in one filterable list; then one sheet per level."],
              ["One sheet per level. Use the filter arrows in the header row to filter by topic or type."],
              ["Type the status (new / learning / known) in the last column to track yourself."], [""],
              ["Sheet", "Words", "What it is"]]
@@ -106,12 +106,17 @@ def main():
     for ln in lines:
         info.append(ln)
     info["A1"].font = Font(bold=True, size=14)
-    for c in info[6]:
+    for c in info[7]:
         c.font = Font(bold=True)
     info.column_dimensions["A"].width = 16
     info.column_dimensions["B"].width = 10
     info.column_dimensions["C"].width = 90
 
+    allrows = [[r["level"], "main"] + word_row(n, r)[:-1] for n, r in enumerate(
+        sorted(study, key=lambda r: (LEVELS.index(r["level"]) if r["level"] in LEVELS else 9)), 1)]
+    allrows += [[r["level"], "B2 extra"] + word_row(n, r)[:-1] for n, r in enumerate(b2, len(allrows) + 1)]
+    allrows.sort(key=lambda x: LEVELS.index(x[0]) if x[0] in LEVELS else 9)
+    sheet(wb, "All words", [("Level", 7), ("Bank", 9)] + WORD_COLS[:-1], allrows)
     for lv in LEVELS:
         rows = [word_row(n, r) for n, r in enumerate([r for r in study if r["level"] == lv], 1)]
         sheet(wb, lv, WORD_COLS, rows)

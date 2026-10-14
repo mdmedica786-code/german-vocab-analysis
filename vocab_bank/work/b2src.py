@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""b2src.py - work list for the B2 bank taken from Medica's own source file beyond_goethe_B2.csv (repo root).
+"""b2src.py - work list for the B2 bank taken from Medica's own source file beyond_goethe_B2.csv (source_lists/ at the repo top level).
 
   python3 work/b2src.py next [N]          next N source lemmas that are not yet in the main bank, the B2 bank or the skip list
   python3 work/b2src.py skip "w1, w2" [reason]    put lemmas on the skip list (work/b2_source_skipped.txt)
@@ -9,7 +9,7 @@ import csv, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT.parent / "beyond_goethe_B2.csv"
+SRC = ROOT.parent / "source_lists" / "beyond_goethe_B2.csv"
 SKIP = ROOT / "work" / "b2_source_skipped.txt"
 
 

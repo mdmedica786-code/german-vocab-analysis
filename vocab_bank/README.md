@@ -7,7 +7,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | Goal | Open |
 |---|---|
 | Study with flashcards (easiest) | `../STUDY_HERE/German_Study.html` (double-click) |
-| Word lists as a table, one sheet per level | `../STUDY_HERE/Word_Lists_by_Level.xlsx` |
+| Word lists (Excel, CSV, Anki JSON, Obsidian zip) | `../WORD_LISTS/` |
 | Study and take notes in Obsidian | folder `bank_final/German_Vault` (Obsidian: "Open folder as vault"), start with `00 Home`; words are in folders A1, A2, B1, B2, C1 |
 | Look at the data in Excel | `bank_final/German_Bank.xlsx` (main banks), `bank_final/German_B2_Bank.xlsx` (B2 bank) |
 | Use the data in other tools | the CSV files in `bank_final/` (UTF-8 with BOM) |
@@ -32,7 +32,8 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | `b2.py` | B2 bank: add, edit, validate, export to `German_B2_Bank.xlsx` |
 | `b2chk.py` | check a list of candidate words against both vocabulary banks |
 | `make_vault.py` | rebuild the Obsidian vault from the CSV files (keeps your own notes) |
-| `make_level_workbook.py` | rebuild `STUDY_HERE/Word_Lists_by_Level.xlsx` (one sheet per level) |
+| `make_level_workbook.py` | rebuild `WORD_LISTS/Word_Lists_by_Level.xlsx` (all words + one sheet per level) |
+| `make_word_lists.py` | rebuild `WORD_LISTS/` (ALL_WORDS.csv, by_level, anki_json, vault zip) |
 | `studylist.py`, `readme_sheet.py` | helpers: which words are not in the study list; the "READ ME FIRST" sheet in the Excel files |
 | `download_audio.py` | native audio: `--test 50`, `--level A1`, `--all` (Lingua Libre, fallback Wikimedia Commons) into `bank_final/audio/`; then re-run make_vault.py and make_study_app.py |
 | `audio_util.py` | helpers shared by the audio tools |

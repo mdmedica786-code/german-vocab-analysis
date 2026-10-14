@@ -388,7 +388,7 @@ def build_cloze_grammar(word: dict) -> dict | None:
     if gc in ("der", "die", "das"):
         decl = dict(word.get("declension", {}) or {})
         # Accusative equals nominative for plural, and for feminine/neuter singular: fill it when the source omits it
-        if decl.get("nom_plur") and not decl.get("akk_plur"):
+        if decl.get("nom_plur") and decl["nom_plur"].lower() not in ("—", "-", "kein plural") and not decl.get("akk_plur"):
             decl["akk_plur"] = decl["nom_plur"]
         if gc in ("die", "das") and decl.get("nom_sing") and not decl.get("akk_sing"):
             decl["akk_sing"] = decl["nom_sing"]

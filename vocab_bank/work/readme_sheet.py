@@ -27,7 +27,7 @@ OTHER = {
 }
 HOW = ["HOW TO USE THIS FILE",
        "1. Use the filter arrows in the first row (Data > Filter) to look at one level, one topic or one word type.",
-       "2. To STUDY, do not use this file. Open STUDY_HERE/German_Study.html (flashcards) or STUDY_HERE/Word_Lists_by_Level.xlsx (clean lists, one sheet per level).",
+       "2. To STUDY, do not use this file. Open STUDY_HERE/German_Study.html (flashcards) or WORD_LISTS/Word_Lists_by_Level.xlsx (clean lists, one sheet per level).",
        "3. This file is the complete data with every column. Do not sort and save over it: it is rebuilt by the tools."]
 
 

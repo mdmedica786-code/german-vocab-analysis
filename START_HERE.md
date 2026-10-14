@@ -1,22 +1,20 @@
-# START HERE (3 steps)
+# START HERE
 
-**Step 1. Study.** Open the folder `STUDY_HERE` and double-click **German_Study.html**. It opens in your web browser and works offline. Press "Study" and answer the cards. That is all you need to start.
+Your vocabulary is in the folder **WORD_LISTS**. Open `WORD_LISTS/README.md` first (it is short).
 
-**Step 2. Look at the lists (optional).** In `STUDY_HERE`, open **Word_Lists_by_Level.xlsx**. Sheets A1, A2, B1, B2, C1 hold the words of each level, "B2 plus" the extra B2 words, "Phrases" and "Redemittel" the sentences for the exam.
+| I want to ... | Open |
+|---|---|
+| **see the whole bank** in Excel (all words, one sheet per level, phrases, Redemittel) | `WORD_LISTS/Word_Lists_by_Level.xlsx` |
+| give the words to **my AI model** | `WORD_LISTS/ALL_WORDS.csv` (everything) or `WORD_LISTS/by_level/A1.csv` ... (one level) |
+| make **Anki cards** | `WORD_LISTS/anki_json/A1.json` ... with the skill in `.claude/skills/nerdmedica-de-pro` |
+| use **Obsidian** | unzip `WORD_LISTS/German_Vault.zip`, open the folder as a vault, start with `00 Home` |
+| study with flashcards in the browser (optional) | `STUDY_HERE/German_Study.html` |
 
-**Step 3. Notes in Obsidian (optional).** On the phone: unzip `STUDY_HERE/German_Vault.zip` and open the folder as a vault in Obsidian; start with the note `00 Home`.
+## The other folders
+| Folder | What it is |
+|---|---|
+| `source_lists/` | your original word lists and the PDFs (Netzwerk, Goethe, Klett), the n-gram lists, your old Anki backup |
+| `vocab_bank/` | the finished banks (`bank_final/`, CSV + Excel + vault folder) and the programs that build everything (`work/`). Only needed to edit or rebuild. |
+| `.claude/skills/` | the Anki skill |
 
-## What is what
-
-| Folder / file | What it is | Do I need it? |
-|---|---|---|
-| `STUDY_HERE/` | everything for learning: flashcards, Excel lists, Obsidian zip, guides | **yes** |
-| `STUDY_HERE/START_HERE.md` | the plain guide to the flashcard page | read once |
-| `vocab_bank/bank_final/` | the finished data: `vocabulary_bank.csv`, `b2_vocabulary_bank.csv`, `phrase_bank.csv`, `redemittel_bank.csv`, the full Excel files (first sheet "READ ME FIRST" explains every column) and the Obsidian vault folder | only for editing or other tools |
-| `vocab_bank/work/` | the programs that build everything | no |
-| `vocab_bank/input/` | the original source lists (read-only) | no |
-| `.claude/skills/` | the Anki skill for later | no |
-| all other files in this top folder (`append_batches*.py`, `W01_*.txt`, `study_order_*.csv`, `matched.csv`, `1grams_*`, PDFs ...) | old working material from the analysis. The final banks replace it. | **no, ignore** |
-
-## Numbers (current)
-Main bank 6,524 words (6,068 in the study list) + 3,683 extra B2 words + 1,016 phrases + 1,176 Redemittel.
+Numbers: main bank 6,524 words (6,068 in the study list) + 3,683 extra B2 words + 1,016 phrases + 1,176 Redemittel.

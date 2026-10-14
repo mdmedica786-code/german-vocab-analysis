@@ -15,19 +15,18 @@ Steps:
      git clone --branch claude/intelligent-maxwell-ubz9a4 https://github.com/mdmedica786-code/german-vocab-analysis.git
    If git asks for a login, tell me what to do; do not guess a password.
 2. Do not delete or overwrite anything outside this repo folder. If I have my own edits in my Obsidian vault, do not overwrite that vault; copy the new one next to it instead.
-3. After the download, open the folder STUDY_HERE and show me these files:
+3. After the download, open the folders WORD_LISTS and STUDY_HERE and show me these files:
      - German_Study.html            (flashcards; double-click to open in the browser, works offline)
-     - German_Vault.zip             (the Obsidian vault, ready for my phone)
-     - Word_Lists_by_Level.xlsx     (Excel, one sheet per level)
+     - (and the folder WORD_LISTS: German_Vault.zip for Obsidian, Word_Lists_by_Level.xlsx, ALL_WORDS.csv, anki_json/)
      - START_HERE.md                (how to use everything)
-4. Copy German_Vault.zip to my Desktop (or a folder I tell you) so I can send it to my phone.
+4. Copy WORD_LISTS/German_Vault.zip to my Desktop (or a folder I tell you) so I can send it to my phone.
 5. Check that the numbers are right and tell me: the B2 extra bank should have 3,683 words (vocab_bank/bank_final/b2_vocabulary_bank.csv, 3,684 lines including the header), and the study page should say 12,399 cards in total.
 6. Finish with a short list of what you did, in simple words. No technical talk.
 ```
 
 # Put the vault on my phone (Obsidian mobile)
 
-1. Get `German_Vault.zip` onto the phone: the easiest is to download it directly from GitHub on the phone (open the repo, branch `claude/intelligent-maxwell-ubz9a4`, folder `STUDY_HERE`, tap `German_Vault.zip`, then Download), or send it from the computer by cloud drive / USB / email to yourself.
+1. Get `German_Vault.zip` onto the phone: the easiest is to download it directly from GitHub on the phone (open the repo, branch `claude/intelligent-maxwell-ubz9a4`, folder `WORD_LISTS`, tap `German_Vault.zip`, then Download), or send it from the computer by cloud drive / USB / email to yourself.
 2. Unzip it on the phone (Files app on Android, Files app on iPhone; tap the zip). You get a folder called `German_Vault`.
 3. Android: move the folder to Documents (or any normal folder). iPhone: keep it in "On My iPhone" > Obsidian, or in iCloud Drive > Obsidian.
 4. Open Obsidian, tap "Open folder as vault" (Android) or "Create new vault" and pick the existing folder (iPhone), and choose the `German_Vault` folder.

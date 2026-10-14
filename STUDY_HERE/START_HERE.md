@@ -1,5 +1,7 @@
 # START HERE
 
+(The plain word lists for Excel, AI models, Anki and Obsidian are in the folder `WORD_LISTS`. This page is only the optional flashcard app.)
+
 You only need **one file**: `German_Study.html`.
 
 ## 1. Open it
