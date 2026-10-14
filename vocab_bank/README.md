@@ -6,6 +6,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 
 | Goal | Open |
 |---|---|
+| Study with flashcards (easiest) | `../STUDY_HERE/German_Study.html` (double-click) |
 | Study and take notes in Obsidian | folder `bank_final/German_Vault` (Obsidian: "Open folder as vault"), start with `00 Home` |
 | Look at the data in Excel | `bank_final/German_Bank.xlsx` (main banks), `bank_final/German_B2_Bank.xlsx` (B2 bank) |
 | Use the data in other tools | the CSV files in `bank_final/` (UTF-8 with BOM) |
@@ -30,6 +31,7 @@ Everything for Medica's German study banks. The finished data is in `bank_final/
 | `b2.py` | B2 bank: add, edit, validate, export to `German_B2_Bank.xlsx` |
 | `b2chk.py` | check a list of candidate words against both vocabulary banks |
 | `make_vault.py` | rebuild the Obsidian vault from the CSV files (keeps your own notes) |
+| `make_study_app.py` | rebuild `STUDY_HERE/German_Study.html` from the CSV files |
 
 Folders `work/audit`, `work/b2_patches` and `work/patches` keep the review samples and the saved input of every batch.
 `input/` holds the original source files and must not be changed. `anki/` is not part of this project.
@@ -39,4 +41,5 @@ Folders `work/audit`, `work/b2_patches` and `work/patches` keep the review sampl
 ```
 python3 work/b2.py validate        # or: python3 work/bank_tools.py validate --final
 python3 work/make_vault.py         # refresh the Obsidian notes
+python3 work/make_study_app.py     # refresh the flashcard page
 ```

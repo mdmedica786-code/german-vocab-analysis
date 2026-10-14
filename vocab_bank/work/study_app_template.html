@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>German Study</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2330;--mute:#667085;--line:#e2e5eb;--acc:#2f6fed;--acc2:#e8f0ff;--good:#1f9d55;--bad:#d64545;--warn:#e0a100}
+@media (prefers-color-scheme:dark){:root{--bg:#14171c;--card:#1d2128;--ink:#e8ebf0;--mute:#9aa3b2;--line:#2c323c;--acc:#6b9bff;--acc2:#20304f;--good:#3ec27a;--bad:#ff7b7b;--warn:#f2c14e}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+.bar{display:flex;gap:6px;align-items:center;padding:10px 0;flex-wrap:wrap}
+.bar h1{font-size:18px;margin:0 12px 0 0}
+.tab{border:1px solid var(--line);background:transparent;color:var(--ink);padding:7px 14px;border-radius:999px;cursor:pointer;font-size:15px}
+.tab.on{background:var(--acc);border-color:var(--acc);color:#fff}
+main{padding:18px 0 60px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:14px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+label{font-size:14px;color:var(--mute)}
+select,input[type=text],input[type=number]{background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:7px 9px;font-size:15px}
+input[type=text]{width:100%}
+button.btn{background:var(--acc);color:#fff;border:0;border-radius:10px;padding:10px 18px;font-size:16px;cursor:pointer}
+button.btn.sec{background:transparent;color:var(--ink);border:1px solid var(--line)}
+button.btn.good{background:var(--good)} button.btn.bad{background:var(--bad)}
+.chips label{display:inline-flex;gap:5px;align-items:center;border:1px solid var(--line);border-radius:999px;padding:3px 10px;color:var(--ink);cursor:pointer}
+.stats{display:flex;gap:10px;flex-wrap:wrap}
+.stat{flex:1 1 110px;background:var(--acc2);border-radius:12px;padding:10px 12px}
+.stat b{display:block;font-size:24px}
+.card{position:relative;min-height:260px;display:flex;flex-direction:column;justify-content:center;text-align:center;cursor:pointer}
+.big{font-size:32px;font-weight:650;line-height:1.25;margin:6px 0}
+.tag{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:999px;padding:1px 9px;color:var(--mute);margin:2px}
+.ans{text-align:left;margin-top:14px;border-top:1px dashed var(--line);padding-top:12px}
+.ans p{margin:6px 0}
+.ex{background:var(--acc2);border-radius:10px;padding:8px 12px;margin:8px 0}
+.ex i{color:var(--mute)}
+.muted{color:var(--mute);font-size:14px}
+.rate{display:flex;gap:10px;margin-top:14px}.rate button{flex:1}
+table{width:100%;border-collapse:collapse;font-size:15px}
+td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+tr.item{cursor:pointer}tr.item:hover{background:var(--acc2)}
+.hide{display:none}
+.spk{background:none;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:2px 9px;cursor:pointer}
+h2{font-size:18px;margin:4px 0 10px}
+kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:0 6px;font-size:13px}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div class="bar">
+<h1>German Study</h1>
+<button class="tab on" data-tab="study">Study</button>
+<button class="tab" data-tab="browse">Search</button>
+<button class="tab" data-tab="progress">Progress</button>
+<button class="tab" data-tab="help">Help</button>
+</div></div></header>
+<main class="wrap">
+
+<section id="study">
+  <details class="panel" id="settings">
+    <summary style="cursor:pointer;font-weight:600">⚙ Deck and settings</summary>
+    <div class="row" style="margin-top:12px">
+      <div><label>Deck<br><select id="fKind"></select></label></div>
+      <div><label>Topic / group<br><select id="fGroup"></select></label></div>
+      <div><label>Direction<br><select id="fDir"><option value="de">German → English</option><option value="en">English → German</option></select></label></div>
+      <div><label>New cards per day<br><input id="fNew" type="number" min="0" max="200" style="width:90px"></label></div>
+    </div>
+    <div class="row chips" style="margin-top:10px">
+      <span class="muted">Level:</span>
+      <label><input type="checkbox" class="lv" value="A1" checked> A1</label>
+      <label><input type="checkbox" class="lv" value="A2" checked> A2</label>
+      <label><input type="checkbox" class="lv" value="B1" checked> B1</label>
+      <label><input type="checkbox" class="lv" value="B2" checked> B2</label>
+      <label><input type="checkbox" class="lv" value="C1" checked> C1</label>
+      <label><input type="checkbox" id="fMed" checked> include medical words</label>
+      <label><input type="checkbox" id="fSpeak"> speak German automatically</label>
+    </div>
+  </details>
+  <div class="stats" id="sStats"></div>
+  <div class="panel card" id="card" style="margin-top:14px">
+    <div id="cardBody"></div>
+  </div>
+  <div id="rateBox" class="rate hide">
+    <button class="btn bad" data-r="0">Again <span class="muted" style="color:#fff">(1)</span></button>
+    <button class="btn" data-r="1">Good <span class="muted" style="color:#fff">(2)</span></button>
+    <button class="btn good" data-r="2">Easy <span class="muted" style="color:#fff">(3)</span></button>
+  </div>
+  <p class="muted" style="text-align:center">Click the card or press <kbd>Space</kbd> to show the answer, then <kbd>1</kbd> Again · <kbd>2</kbd> Good · <kbd>3</kbd> Easy</p>
+</section>
+
+<section id="browse" class="hide">
+  <div class="panel">
+    <input type="text" id="q" placeholder="Search a German word, a plural or an English meaning ...">
+    <div class="row" style="margin-top:8px"><span class="muted" id="qInfo"></span></div>
+  </div>
+  <div class="panel"><table id="qTable"></table></div>
+</section>
+
+<section id="progress" class="hide">
+  <div class="panel"><h2>Your progress</h2><div class="stats" id="pStats"></div>
+    <p class="muted" id="pDays"></p></div>
+  <div class="panel"><h2>Back up your progress</h2>
+    <p class="muted">Progress is saved in this browser only. If you clear the browser data or use another computer, it is lost. Save a backup file now and then.</p>
+    <div class="row"><button class="btn" id="bExport">Save backup file</button>
+    <label class="btn sec" style="cursor:pointer">Load backup file<input type="file" id="bImport" accept=".json" class="hide"></label>
+    <button class="btn sec" id="bReset">Reset all progress</button></div></div>
+</section>
+
+<section id="help" class="hide">
+  <div class="panel"><h2>How to study (5 minutes to learn, 20 minutes a day)</h2>
+  <ol>
+   <li>Open the tab <b>Study</b>. Choose a deck, for example <b>B2 words</b>, and the levels you want.</li>
+   <li>You see a German word. Try to remember the meaning, then click the card (or press Space).</li>
+   <li>Press <b>Again</b> if you did not know it, <b>Good</b> if you knew it after a short think, <b>Easy</b> if it was effortless.</li>
+   <li>The program shows hard words again soon and easy words after days or weeks. Do your <b>due</b> cards first every day; then new cards.</li>
+   <li>Use the tab <b>Search</b> to look up any word, plural or meaning in all four banks.</li>
+   <li>Open the tab <b>Progress</b> and save a backup file every week.</li>
+  </ol></div>
+  <div class="panel"><h2>The four decks</h2>
+  <ul>
+   <li><b>Main words</b>: about 6,500 words from A1 to C1 (includes medical words).</li>
+   <li><b>B2 words</b>: about 2,400 extra words for B2 and daily life (no medical).</li>
+   <li><b>Phrases</b>: about 1,000 useful phrases grouped by purpose (give an opinion, agree, give reasons).</li>
+   <li><b>Redemittel</b>: about 1,200 sentences for the speaking and writing parts of the exam.</li>
+  </ul>
+  <p class="muted">Tip: 20 new cards a day is a good start. If due cards pile up, lower the number of new cards.</p></div>
+</section>
+</main>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+"use strict";
+const DB = JSON.parse(document.getElementById('data').textContent);
+const KINDS = {M:'Main words', B:'B2 words', P:'Phrases', R:'Redemittel'};
+const INTERVALS = [0,1,3,7,14,30,60,120];
+const KEY = 'german_study_v1';
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+let S = load();
+
+function load(){
+  try{const x = JSON.parse(localStorage.getItem(KEY)); if(x && x.cards) return x;}catch(e){}
+  return {cards:{}, set:{kind:'MB', group:'', dir:'de', nw:20, lv:['A1','A2','B1','B2','C1'], med:true, speak:false}, log:{}};
+}
+function save(){try{localStorage.setItem(KEY, JSON.stringify(S));}catch(e){}}
+function today(){const d=new Date();return Math.floor((d.getTime()-d.getTimezoneOffset()*60000)/86400000);}
+function dayStr(n){return new Date(n*86400000).toISOString().slice(0,10);}
+function log(){const k=dayStr(today());return S.log[k]||(S.log[k]={n:0,r:0});}
+
+/* ---------- filters ---------- */
+function fillKinds(){
+  const o=[['MB','Main + B2 words'],['M','Main words'],['B','B2 words'],['P','Phrases'],['R','Redemittel'],['MBPR','Everything']];
+  $('#fKind').innerHTML=o.map(x=>`<option value="${x[0]}">${x[1]}</option>`).join('');
+}
+function fillGroups(){
+  const kinds=S.set.kind, gs=new Set();
+  DB.forEach(c=>{if(kinds.includes(c.k)&&c.g) gs.add(c.g);});
+  const arr=[...gs].sort();
+  $('#fGroup').innerHTML='<option value="">All</option>'+arr.map(g=>`<option>${esc(g)}</option>`).join('');
+  $('#fGroup').value=arr.includes(S.set.group)?S.set.group:'';
+  S.set.group=$('#fGroup').value;
+}
+function deck(){
+  const s=S.set;
+  return DB.filter(c=>s.kind.includes(c.k) && !c.s && s.lv.includes(c.l||'B1') && (s.med||!c.md) && (!s.group||c.g===s.group));
+}
+function esc(t){return String(t==null?'':t).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+
+/* ---------- queue ---------- */
+let queue=[], cur=null, shown=false;
+function build(){
+  const d=deck(), t=today(), L=log();
+  const due=[], fresh=[];
+  d.forEach(c=>{const st=S.cards[c.i]; if(!st) fresh.push(c); else if(st.d<=t) due.push(c);});
+  due.sort((a,b)=>S.cards[a.i].d-S.cards[b.i].d);
+  const room=Math.max(0,S.set.nw-L.n);
+  queue=due.concat(fresh.slice(0,room));
+  stats(due.length, Math.min(room,fresh.length), d.length, fresh.length);
+  next();
+}
+function stats(due,nw,total,fresh){
+  $('#sStats').innerHTML=`<div class="stat"><b>${due}</b>due today</div><div class="stat"><b>${nw}</b>new today</div><div class="stat"><b>${total-fresh}</b>started of ${total}</div><div class="stat"><b>${log().r}</b>done today</div>`;
+}
+function next(){
+  cur=queue.shift()||null; shown=false; render();
+}
+function speak(t){
+  if(!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(t); u.lang='de-DE'; u.rate=.9; speechSynthesis.speak(u);
+}
+function front(c){return c.k==='M'||c.k==='B'?c.t:c.t;}
+function render(){
+  const b=$('#cardBody'), rb=$('#rateBox');
+  if(!cur){b.innerHTML='<div class="big">All done for today 🎉</div><p class="muted">No more due or new cards in this deck. Change the deck or the number of new cards, or come back tomorrow.</p>';rb.classList.add('hide');return;}
+  const c=cur, de=S.set.dir==='de';
+  let h='';
+  if(de){
+    h+=`<div class="muted">${esc(KINDS[c.k])} · ${esc(c.l||'')} ${c.p?'· '+esc(c.p):''}</div><div class="big">${esc(c.t)}</div>`;
+    h+=`<button class="spk" style="position:absolute;top:10px;right:10px" data-say="${esc(c.t)}" title="Listen">🔊</button>`;
+  }else{
+    h+=`<div class="muted">${esc(KINDS[c.k])} · ${esc(c.l||'')}</div><div class="big">${esc(c.m)}</div>`;
+  }
+  if(shown){
+    h+='<div class="ans">';
+    if(!de) h+=`<p class="big" style="font-size:26px">${esc(c.t)} <button class="spk" data-say="${esc(c.t)}">🔊</button></p>`;
+    if(de) h+=`<p><b>${esc(c.m)}</b></p>`;
+    if(c.f) h+=`<p class="muted">${esc(c.f)}</p>`;
+    if(c.d) h+=`<div class="ex">${esc(c.d)}<br><i>${esc(c.e)}</i> <button class="spk" data-say="${esc(c.d)}">🔊</button></div>`;
+    if(c.c) h+=`<p class="muted">${c.k==='M'||c.k==='B'?'Collocations':'Variants'}: ${esc(c.c)}</p>`;
+    if(c.g) h+=`<p><span class="tag">${esc(c.g)}</span></p>`;
+    h+='</div>';
+    rb.classList.remove('hide');
+  }else{
+    h+='<p class="muted" style="margin-top:20px">Click to show the answer</p>';
+    rb.classList.add('hide');
+  }
+  b.innerHTML=h;
+  if(!shown && de && S.set.speak) speak(c.t);
+}
+function reveal(){ if(cur && !shown){shown=true; render();} }
+function rate(r){
+  if(!cur||!shown) return;
+  const t=today(), L=log(), isNew=!S.cards[cur.i];
+  let st=S.cards[cur.i]||{b:0,d:t,n:0};
+  if(r===0){st.b=0; st.d=t; queue.push(cur);}
+  else{st.b=Math.min(INTERVALS.length-1, st.b+(r===2?2:1)); st.d=t+INTERVALS[st.b];}
+  st.n++;
+  S.cards[cur.i]=st;
+  if(isNew) L.n++;
+  L.r++;
+  save();
+  const d=deck(); // refresh counters cheaply
+  const due=d.filter(c=>S.cards[c.i]&&S.cards[c.i].d<=t).length;
+  stats(due, Math.max(0,S.set.nw-L.n), d.length, d.filter(c=>!S.cards[c.i]).length);
+  next();
+}
+
+/* ---------- browse ---------- */
+function search(){
+  const q=$('#q').value.trim().toLowerCase();
+  if(q.length<2){$('#qInfo').textContent='Type at least 2 letters.';$('#qTable').innerHTML='';return;}
+  const res=DB.filter(c=>(c.t+' '+(c.x||'')+' '+c.m+' '+(c.f||'')).toLowerCase().includes(q));
+  $('#qInfo').textContent=res.length+' results'+(res.length>100?' (showing 100)':'');
+  $('#qTable').innerHTML=res.slice(0,100).map((c,n)=>`<tr class="item" data-n="${n}"><td><b>${esc(c.t)}</b><div class="muted">${esc(KINDS[c.k])} ${c.l?'· '+esc(c.l):''}</div></td><td>${esc(c.m)}</td></tr><tr class="hide" id="d${n}"><td colspan="2">${detail(c)}</td></tr>`).join('');
+  $$('#qTable tr.item').forEach(tr=>tr.onclick=()=>{$('#d'+tr.dataset.n).classList.toggle('hide');});
+  $$('#qTable [data-say]').forEach(b=>b.onclick=e=>{e.stopPropagation();speak(b.dataset.say);});
+}
+function detail(c){
+  let h='';
+  if(c.f) h+=`<p class="muted">${esc(c.f)}</p>`;
+  if(c.d) h+=`<div class="ex">${esc(c.d)} <button class="spk" data-say="${esc(c.d)}">🔊</button><br><i>${esc(c.e)}</i></div>`;
+  if(c.c) h+=`<p class="muted">${c.k==='M'||c.k==='B'?'Collocations':'Variants'}: ${esc(c.c)}</p>`;
+  if(c.g) h+=`<p><span class="tag">${esc(c.g)}</span></p>`;
+  return h;
+}
+
+/* ---------- progress ---------- */
+function progress(){
+  const all=Object.values(S.cards), t=today();
+  const learn=all.filter(x=>x.b>=1&&x.b<=3).length, mature=all.filter(x=>x.b>=4).length, due=all.filter(x=>x.d<=t).length;
+  $('#pStats').innerHTML=`<div class="stat"><b>${all.length}</b>cards started</div><div class="stat"><b>${learn}</b>learning</div><div class="stat"><b>${mature}</b>well known</div><div class="stat"><b>${due}</b>due now</div>`;
+  const days=Object.keys(S.log).sort().slice(-7).map(k=>`${k}: ${S.log[k].r} cards (${S.log[k].n} new)`);
+  $('#pDays').textContent=days.length?'Last days — '+days.join(' · '):'No study days yet.';
+}
+
+/* ---------- wiring ---------- */
+function applyUI(){
+  $('#fKind').value=S.set.kind; $('#fDir').value=S.set.dir; $('#fNew').value=S.set.nw;
+  $$('.lv').forEach(x=>x.checked=S.set.lv.includes(x.value));
+  $('#fMed').checked=S.set.med; $('#fSpeak').checked=S.set.speak;
+}
+function readUI(){
+  S.set.kind=$('#fKind').value; S.set.group=$('#fGroup').value; S.set.dir=$('#fDir').value;
+  S.set.nw=Math.max(0,parseInt($('#fNew').value||'0',10)); S.set.lv=$$('.lv').filter(x=>x.checked).map(x=>x.value);
+  S.set.med=$('#fMed').checked; S.set.speak=$('#fSpeak').checked; save();
+}
+fillKinds(); applyUI(); fillGroups(); build();
+$('#fKind').onchange=()=>{S.set.kind=$('#fKind').value;S.set.group='';fillGroups();readUI();build();};
+['#fGroup','#fDir','#fNew','#fMed','#fSpeak'].forEach(s=>$(s).onchange=()=>{readUI();build();});
+$$('.lv').forEach(x=>x.onchange=()=>{readUI();build();});
+$('#card').onclick=e=>{if(e.target.closest('[data-say]')){speak(e.target.closest('[data-say]').dataset.say);return;} reveal();};
+$$('#rateBox button').forEach(b=>b.onclick=()=>rate(+b.dataset.r));
+document.addEventListener('keydown',e=>{
+  if(e.target.matches('input,select,textarea')) return;
+  if(e.code==='Space'){e.preventDefault();reveal();}
+  else if(e.key==='1')rate(0);else if(e.key==='2')rate(1);else if(e.key==='3')rate(2);
+});
+$$('.tab').forEach(t=>t.onclick=()=>{
+  $$('.tab').forEach(x=>x.classList.toggle('on',x===t));
+  ['study','browse','progress','help'].forEach(id=>$('#'+id).classList.toggle('hide',id!==t.dataset.tab));
+  if(t.dataset.tab==='progress')progress(); if(t.dataset.tab==='browse')$('#q').focus();
+});
+$('#q').oninput=search;
+$('#bExport').onclick=()=>{
+  const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([JSON.stringify(S)],{type:'application/json'}));
+  a.download='german_study_backup_'+dayStr(today())+'.json'; a.click();
+};
+$('#bImport').onchange=e=>{
+  const f=e.target.files[0]; if(!f) return; const r=new FileReader();
+  r.onload=()=>{try{const x=JSON.parse(r.result); if(!x.cards) throw 0; S=x; save(); applyUI(); fillGroups(); build(); progress(); alert('Backup loaded.');}catch(err){alert('This is not a valid backup file.');}};
+  r.readAsText(f);
+};
+$('#bReset').onclick=()=>{if(confirm('Delete ALL progress? This cannot be undone.')){const keep=S.set;localStorage.removeItem(KEY);S={cards:{},set:keep,log:{}};save();build();progress();}};
+</script>
+</body>
+</html>
