@@ -1,0 +1,37 @@
+---
+title: "Bleistift"
+type: "word"
+aliases: ["der Bleistift", "Bleistifte"]
+lemma: "Bleistift"
+meaning: "pencil"
+pos: "noun"
+article: "der"
+plural: "Bleistifte"
+level: "A1"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "main"
+id: "B1661"
+goethe_level: "A1"
+netzwerk: "A1 K11 10c"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Bleistift
+
+**Meaning:** pencil
+**Plural:** Bleistifte
+**Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Hast du einen Bleistift?
+> *Do you have a pencil?*
+
+**Source:** Netzwerk neu A1 K11 10c (Die Jacke gefällt mir!) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

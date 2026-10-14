@@ -1,0 +1,36 @@
+---
+title: "Berufswunsch"
+type: "word"
+aliases: ["der Berufswunsch", "Berufswünsche"]
+lemma: "Berufswunsch"
+meaning: "career goal"
+pos: "noun"
+article: "der"
+plural: "Berufswünsche"
+level: "A2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B2473"
+netzwerk: "A2 K6 8c"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Berufswunsch
+
+**Meaning:** career goal
+**Plural:** Berufswünsche
+**Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mein Berufswunsch war immer Ärztin.
+> *My career goal has always been to be a doctor.*
+
+**Source:** Netzwerk neu A2 K6 8c (Arbeitswelten)
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,34 @@
+---
+title: "servieren"
+type: "word"
+aliases: ["serviert", "servierte", "hat serviert"]
+lemma: "servieren"
+meaning: "to serve"
+pos: "verb"
+level: "A2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B2306"
+netzwerk: "A2 K5 1b"
+freq_rank: 3453
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# servieren
+
+**Meaning:** to serve
+**Forms:** serviert · servierte · hat serviert
+**Level:** A2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Kellner serviert das Essen.
+> *The waiter serves the food.*
+
+**Source:** Netzwerk neu A2 K5 1b (Leben in der Stadt)
+<!-- bank:end -->
+
+## My notes
+

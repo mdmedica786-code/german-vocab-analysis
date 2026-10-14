@@ -1,0 +1,36 @@
+---
+title: "Besonderheit"
+type: "word"
+aliases: ["die Besonderheit", "Besonderheiten"]
+lemma: "Besonderheit"
+meaning: "special feature; peculiarity"
+pos: "noun"
+article: "die"
+plural: "Besonderheiten"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B4854"
+netzwerk: "B1 K10 10b"
+freq_rank: 2186
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Besonderheit
+
+**Meaning:** special feature; peculiarity
+**Plural:** Besonderheiten
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Eine Besonderheit dieser Stadt ist ihre Lage am Fluss.
+> *A special feature of this city is its location on the river.*
+
+**Source:** Netzwerk neu B1 K10 10b (Miteinander)
+<!-- bank:end -->
+
+## My notes
+

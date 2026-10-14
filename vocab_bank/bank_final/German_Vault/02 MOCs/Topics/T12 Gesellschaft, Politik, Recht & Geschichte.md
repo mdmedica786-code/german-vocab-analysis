@@ -1,0 +1,555 @@
+---
+title: "T12 Gesellschaft, Politik, Recht & Geschichte"
+type: "moc"
+tags: ["moc", "topic/T12"]
+---
+<!-- bank:start -->
+# T12 Gesellschaft, Politik, Recht & Geschichte
+
+Map of content. 280 words in the main bank, 238 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (12)
+
+- [[Ausländer]] — foreigner
+- [[ausländisch]] — foreign
+- [[Erfindung]] — invention
+- [[europäisch]] — European
+- [[Gebot]] — commandment; rule; requirement
+- [[Jurist]] — lawyer; legal expert
+- [[Juristin]] — lawyer; legal expert
+- [[Politik]] — politics
+- [[Religion]] — religion
+- [[Statistik]] — statistics
+- [[Verbot]] — prohibition
+- [[Welt]] — world
+
+### A2 (29)
+
+- [[beschützen]] — to protect
+- [[bewachen]] — to guard
+- [[Bundesland]] — state
+- [[Diebstahl]] — theft
+- [[Digitalisierung]] — digitisation
+- [[Freiheit]] — freedom
+- [[Freiwillige]] — volunteer
+- [[Förderung]] — funding
+- [[Gesellschaft]] — society
+- [[Gesetz]] — law
+- [[Gewalt]] — violence
+- [[Grundeinkommen]] — basic income
+- [[Kaiser]] — emperor
+- [[Kaiserin]] — empress
+- [[Kanton]] — canton
+- [[Kriminalität]] — crime; criminality
+- [[König]] — king
+- [[Königin]] — queen
+- [[Nation]] — nation
+- [[Parlament]] — parliament
+- [[Politiker]] — politician (m)
+- [[Politikerin]] — politician (f)
+- [[sozial]] — social
+- [[Staat]] — state
+- [[Steuer]] — tax
+- [[Umfrage]] — survey
+- [[Widerspruch]] — contradiction; objection; (legal) appeal
+- [[Wirtschaft]] — economy
+- [[öffentlich]] — public
+
+### B1 (185)
+
+- [[Abgeordnete]] — member of parliament (MP)
+- [[abstimmen]] — to vote
+- [[Ammann]] — chief of a municipality (Swiss)
+- [[Ammännin]] — chief of a municipality (f) (Swiss)
+- [[Angeklagte]] — defendant
+- [[Anspruch]] — entitlement
+- [[anzeigen]] — to report (to the police); to display
+- [[Asyl]] — asylum
+- [[Ausländerin]] — foreigner (f)
+- [[aussagen]] — to testify; to state
+- [[bedürftig]] — needy
+- [[beitreten]] — to join
+- [[bekämpfen]] — to fight
+- [[Bekämpfung]] — combat
+- [[bestrafen]] — to punish
+- [[beten]] — to pray
+- [[Bevölkerung]] — population
+- [[Beweis]] — proof; evidence
+- [[beweisen]] — to prove
+- [[Brand]] — fire (blaze)
+- [[Bundeskanzler]] — chancellor (m)
+- [[Bundeskanzlerin]] — chancellor (f)
+- [[Bundespräsident]] — Federal President (m)
+- [[Bundespräsidentin]] — Federal President (f)
+- [[Bundesrat]] — Federal Council (Germany: upper house; Switzerland: government)
+- [[Bundesrepublik Deutschland]] — Federal Republic of Germany
+- [[Bundesrätin]] — Federal Councillor (f) (Switzerland)
+- [[Bundestag]] — Bundestag
+- [[bundesweit]] — nationwide
+- [[Bürger]] — citizen (m)
+- [[Bürgerin]] — citizen (f)
+- [[Bürgermeister]] — mayor (m)
+- [[Bürgermeisterin]] — mayor (f)
+- [[Bürgerversammlung]] — town meeting
+- [[Demokratie]] — democracy
+- [[demokratisch]] — democratic
+- [[Detektiv]] — detective (m)
+- [[Detektivin]] — detective (f)
+- [[Dieb]] — thief
+- [[Diversität]] — diversity
+- [[ehren]] — to honour
+- [[ehrenamtlich]] — voluntary (unpaid)
+- [[einbrechen]] — to break in
+- [[Einbrecher]] — burglar
+- [[Einbrecherin]] — burglar (f)
+- [[Einbruch]] — break-in
+- [[einsperren]] — to lock sb in
+- [[engagiert sein]] — to be involved in
+- [[erfinden]] — to invent
+- [[erschießen]] — to shoot
+- [[EU]] — EU
+- [[Europäische Parlament]] — European Parliament
+- [[Europäische Union]] — European Union (= EU)
+- [[fassen]] — to grasp; to hold (capacity); to catch
+- [[Feind]] — enemy (m)
+- [[festnehmen]] — to arrest
+- [[fliehen]] — to flee; to escape
+- [[Flucht]] — escape
+- [[Flüchtling]] — refugee
+- [[fortschrittlich]] — progressive
+- [[Friede]] — peace
+- [[Frieden]] — peace
+- [[fördern]] — to promote
+- [[Gefängnis]] — prison
+- [[Gegner]] — opponent
+- [[Gemeinde]] — municipality; community; parish
+- [[Gemeinschaft]] — community
+- [[Gender-Gerechtigkeit]] — gender equality, gender equity
+- [[Gerechtigkeit]] — justice
+- [[Gerichtsverhandlung]] — court hearing; trial
+- [[gesellschaftlich]] — social
+- [[gesetzlich]] — statutory
+- [[gleichberechtigt]] — having equal rights
+- [[Gleichberechtigung]] — equality
+- [[global]] — global
+- [[Globalisierung]] — globalization
+- [[Gott]] — God; god
+- [[Grenzkontrolle]] — border control
+- [[heilig]] — holy; sacred
+- [[historisch]] — historical
+- [[illegal]] — illegal
+- [[Initiative]] — initiative
+- [[Institution]] — institution
+- [[Integration]] — integration
+- [[integrieren]] — to integrate
+- [[interkulturell]] — intercultural
+- [[Kabine]] — booth; cabin
+- [[Kampf]] — fight; struggle
+- [[katholisch]] — Catholic
+- [[Kerker]] — dungeon
+- [[Killer]] — killer
+- [[Killerin]] — killer (f)
+- [[konservativ]] — conservative
+- [[Krieg]] — war
+- [[Kriegswaffe]] — weapon of war
+- [[Krise]] — crisis (Situation)
+- [[Krisensituation]] — crisis (situation)
+- [[kämpfen]] — to fight
+- [[liberal]] — liberal
+- [[Mehrheit]] — majority
+- [[Meinungsfreiheit]] — freedom of opinion
+- [[Migrant]] — migrant (m)
+- [[Migrantin]] — migrant (f)
+- [[Migration]] — migration
+- [[Minderheit]] — minority
+- [[Minister]] — minister (m)
+- [[Ministerin]] — minister (f)
+- [[Mitgliedsstaat]] — member state
+- [[Moral]] — morality; moral
+- [[national]] — national
+- [[Nationalrat]] — National Council (Austria, Switzerland)
+- [[Not]] — need
+- [[Obdachlose]] — homeless person
+- [[Opfer]] — victim; sacrifice
+- [[Partei]] — political party
+- [[Pflicht]] — duty
+- [[politisch]] — political
+- [[Protest]] — protest
+- [[protestieren]] — to protest
+- [[Prozess]] — trial; process
+- [[Präsident]] — president (m)
+- [[Präsidentin]] — president (f)
+- [[Recht]] — law; right
+- [[rechtlich]] — legal
+- [[Rechtsanwalt]] — lawyer (m)
+- [[Rechtsanwältin]] — lawyer (f)
+- [[Reform]] — reform
+- [[Regelung]] — regulation; arrangement
+- [[regieren]] — to rule
+- [[Regierung]] — government
+- [[Regierungsrat]] — cantonal government member (Swiss)
+- [[Regierungsrätin]] — cantonal government member (f) (Swiss)
+- [[religiös]] — religious
+- [[Republik Österreich]] — Republic of Austria
+- [[Richter]] — judge (m)
+- [[Richterin]] — judge (f)
+- [[Schweizerische Eidgenossenschaft]] — Swiss Confederation
+- [[Selbsthilfe]] — self-help
+- [[Soldat]] — soldier
+- [[Solidarität]] — solidarity
+- [[spenden]] — to donate
+- [[staatlich]] — state; state-run
+- [[Stadtpräsident]] — mayor (Swiss)
+- [[Stadtpräsidentin]] — mayor (f) (Swiss)
+- [[Stadtrat]] — city council
+- [[Stadträtin]] — city council member (f)
+- [[statistisch]] — statistical
+- [[stehlen]] — to steal
+- [[strafbar]] — punishable
+- [[Strafe]] — punishment, penalty
+- [[Ständerat]] — Council of States (Swiss)
+- [[Tat]] — deed; act
+- [[Technologie]] — technology
+- [[Tote]] — dead person
+- [[Tradition]] — tradition
+- [[traditionell]] — traditional
+- [[Täter]] — perpetrator; culprit
+- [[Täterin]] — perpetrator (f)
+- [[Union]] — union
+- [[untersagt]] — forbidden
+- [[untersagt sein]] — to be forbidden
+- [[verbieten]] — to forbid
+- [[Verbrechen]] — crime
+- [[Verbrecher]] — criminal
+- [[Verbrecherin]] — criminal (f)
+- [[Verdacht]] — suspicion
+- [[verdächtig]] — suspicious
+- [[Verfahren]] — procedure; method; (legal) proceedings
+- [[verhaften]] — to arrest
+- [[verpflichtet]] — obliged; committed
+- [[Versammlung]] — assembly
+- [[verurteilen]] — to sentence; to condemn
+- [[Volk]] — people; nation
+- [[vorgeschrieben sein]] — to be mandatory
+- [[Vorurteil]] — prejudice
+- [[Waffe]] — weapon
+- [[Weltkrieg]] — world war
+- [[wirtschaftlich]] — economic
+- [[Wohlstand]] — prosperity
+- [[wohltätig]] — charitable
+- [[Würde]] — dignity
+- [[Zeuge]] — witness
+- [[Zeugin]] — witness (f)
+- [[Zivilcourage]] — moral courage
+- [[Öffentlichkeit]] — public
+
+### B2 (31)
+
+- [[Abstimmung]] — vote; coordination
+- [[Armut]] — poverty
+- [[Auseinandersetzung]] — argument; debate; confrontation
+- [[Befehl]] — order; command
+- [[Bund]] — federation; Federal Government
+- [[Bundesregierung]] — federal government
+- [[Bundesrepublik]] — Federal Republic
+- [[Bundestagswahl]] — federal election
+- [[Debatte]] — debate
+- [[Demonstration]] — demonstration; protest
+- [[demonstrieren]] — to demonstrate; to protest
+- [[Einwanderer]] — immigrant
+- [[ermitteln]] — to determine; to investigate
+- [[friedlich]] — peaceful
+- [[integriert]] — integrated
+- [[Kommission]] — commission; committee
+- [[Menschheit]] — humankind
+- [[Mitgliedstaat]] — member state
+- [[Niederlage]] — defeat
+- [[Norm]] — norm; standard
+- [[Pfarrer]] — priest; pastor
+- [[Republik]] — republic
+- [[Richtlinie]] — guideline; directive
+- [[Spende]] — donation
+- [[Verfassung]] — constitution; state (of health)
+- [[Verhandlung]] — negotiation; hearing
+- [[Verpflichtung]] — obligation; commitment
+- [[verteidigen]] — to defend
+- [[Wandel]] — change
+- [[Widerstand]] — resistance
+- [[Wähler]] — voter
+
+### C1 (23)
+
+- [[Abkommen]] — agreement; treaty
+- [[Ausbau]] — expansion; extension
+- [[berechtigen]] — to entitle; to authorise
+- [[Beschluss]] — decision; resolution
+- [[Beteiligte]] — person involved; participant
+- [[Beteiligung]] — participation; involvement; share
+- [[erobern]] — to conquer
+- [[ethisch]] — ethical
+- [[Haftung]] — liability
+- [[juristisch]] — legal; juridical
+- [[Justiz]] — judiciary; justice system
+- [[Koalition]] — coalition
+- [[Kommando]] — command; order
+- [[nötigen]] — to compel; to urge
+- [[Offenbarung]] — revelation
+- [[Online-Petition]] — online petition
+- [[Petition]] — petition
+- [[rechtfertigen]] — to justify
+- [[Rücktritt]] — resignation
+- [[unzulässig]] — inadmissible; not permitted
+- [[Vereinigung]] — union; association
+- [[Wahlbeteiligung]] — voter turnout
+- [[Zwang]] — compulsion; coercion
+
+## B2 bank
+
+### B2 (238)
+
+- [[Abschiebung]] — deportation
+- [[abstreiten]] — to deny; to dispute
+- [[Akzeptanz]] — acceptance
+- [[Alleingang]] — solo effort; going it alone
+- [[Amtsgericht]] — local court
+- [[anfechten]] — to contest; to challenge
+- [[Anklage]] — charge; indictment
+- [[anordnen]] — to order; to arrange
+- [[Anspruch erheben]] — to claim; to lay claim
+- [[Anzeige erstatten]] — to report (a crime); to file a complaint
+- [[Asylantrag]] — asylum application
+- [[Asylbewerber]] — asylum seeker
+- [[aufdecken]] — to uncover; to reveal
+- [[aufrufen]] — to call upon; to call up; to open (a page)
+- [[aufrütteln]] — to shake up; to stir
+- [[ausbrechen]] — to break out; to erupt
+- [[Auslegung]] — interpretation
+- [[Ausnahmezustand]] — state of emergency; exceptional situation
+- [[Ausschuss]] — committee
+- [[auswandern]] — to emigrate
+- [[Auswanderung]] — emigration
+- [[außer Kraft setzen]] — to repeal; to suspend
+- [[Bedürftigkeit]] — neediness; need
+- [[Befangenheit]] — bias; self-consciousness
+- [[befolgen]] — to follow; to obey
+- [[bekennen]] — to profess; to admit to
+- [[benachteiligen]] — to disadvantage; to discriminate against
+- [[Benachteiligung]] — disadvantage; discrimination
+- [[Berechtigung]] — entitlement; justification
+- [[berufen]] — to refer to; to appoint
+- [[Berufung]] — appeal; vocation; calling
+- [[Berufung einlegen]] — to lodge an appeal
+- [[berüchtigt]] — notorious
+- [[Beschränkung]] — restriction; limitation
+- [[Bestechung]] — bribery
+- [[Betroffene]] — person affected
+- [[Betrug]] — fraud; deception
+- [[Bevormundung]] — paternalism; being treated like a child
+- [[Bevölkerungsentwicklung]] — population development
+- [[Bevölkerungsgruppe]] — population group
+- [[Beweislast]] — burden of proof
+- [[Bewährung]] — probation
+- [[Brennpunkt]] — focal point; trouble spot
+- [[Bundesverfassungsgericht]] — Federal Constitutional Court
+- [[Bündnis]] — alliance
+- [[Bürgerinitiative]] — citizens' initiative
+- [[Bürgerrecht]] — civil right
+- [[Chancengleichheit]] — equal opportunities
+- [[Delikt]] — offence; crime
+- [[Demografie]] — demography
+- [[den Rücktritt erklären]] — to announce one's resignation
+- [[Diktatur]] — dictatorship
+- [[Diskriminierung]] — discrimination
+- [[durchsuchen]] — to search; to go through
+- [[Ehrenamt]] — voluntary work; honorary office
+- [[ein Geständnis ablegen]] — to make a confession
+- [[ein Urteil fällen]] — to pass judgement
+- [[eindringen]] — to penetrate; to break in
+- [[eindämmen]] — to contain; to curb
+- [[einen Beschluss fassen]] — to pass a resolution
+- [[Einfluss ausüben]] — to exert influence
+- [[Einfluss nehmen]] — to exert influence
+- [[eingreifen]] — to intervene; to step in
+- [[Einkommensschere]] — income gap
+- [[einschreiten]] — to intervene; to take action
+- [[Einspruch erheben]] — to lodge an objection
+- [[einwandern]] — to immigrate
+- [[Einwanderung]] — immigration
+- [[einwilligen]] — to consent; to agree
+- [[Ellbogengesellschaft]] — dog-eat-dog society
+- [[Embargo]] — embargo
+- [[entbinden]] — to release (from); to give birth
+- [[entkommen]] — to escape; to get away
+- [[Entwicklungshilfe]] — development aid
+- [[Entwicklungsland]] — developing country
+- [[Erbe]] — inheritance; legacy
+- [[Erbschaft]] — inheritance
+- [[Ermittlung]] — investigation; inquiry
+- [[erpressen]] — to blackmail; to extort
+- [[erwirken]] — to obtain; to secure
+- [[Existenzminimum]] — subsistence level
+- [[fahnden]] — to search (for a criminal)
+- [[fahrlässig]] — negligent; careless
+- [[Familiennachzug]] — family reunification
+- [[Fehlentwicklung]] — undesirable development; wrong turn
+- [[Festnahme]] — arrest
+- [[flüchten]] — to flee; to escape
+- [[Folge leisten]] — to comply with
+- [[Forderungen stellen]] — to make demands
+- [[Fraktion]] — parliamentary group
+- [[Freispruch]] — acquittal
+- [[Freiwilligenarbeit]] — voluntary work
+- [[Fremdenfeindlichkeit]] — xenophobia
+- [[Gastarbeiter]] — guest worker
+- [[Gedenktag]] — day of remembrance
+- [[Geflüchtete]] — refugee
+- [[Gefälle]] — gradient; gap; disparity
+- [[Gegenmaßnahme]] — countermeasure
+- [[Gehör finden]] — to get a hearing
+- [[Geldstrafe]] — fine
+- [[Gemeinderat]] — municipal council
+- [[Generationenvertrag]] — intergenerational contract (pension system)
+- [[Gerichtsvollzieher]] — bailiff
+- [[Gesetzentwurf]] — draft law; bill
+- [[Gesetzesänderung]] — amendment of a law
+- [[Gesetzgebung]] — legislation
+- [[gestehen]] — to confess; to admit
+- [[Gesundheitswesen]] — healthcare system
+- [[Gewaltenteilung]] — separation of powers
+- [[Gleichstellung]] — equality (of treatment); equal opportunities
+- [[Grauzone]] — grey area
+- [[Grundgesetz]] — Basic Law (German constitution)
+- [[Grundrecht]] — fundamental right
+- [[Grundversorgung]] — basic provision; basic supply
+- [[Haftbefehl]] — arrest warrant
+- [[haften]] — to be liable; to stick
+- [[Haftstrafe]] — prison sentence
+- [[Handlungsbedarf]] — need for action
+- [[Heimatland]] — home country
+- [[herrschen]] — to rule; to prevail
+- [[hierzulande]] — in this country; around here
+- [[Hilfsorganisation]] — aid organisation
+- [[in Abrede stellen]] — to deny; to dispute
+- [[in Gefahr bringen]] — to endanger
+- [[in Kraft treten]] — to come into force
+- [[in Sicherheit bringen]] — to bring to safety
+- [[in Verhandlungen treten]] — to enter into negotiations
+- [[ins Leben rufen]] — to found; to set up
+- [[Instanz]] — authority; instance (court)
+- [[Interessenkonflikt]] — conflict of interest
+- [[Kanzler]] — chancellor
+- [[kapitulieren]] — to surrender; to give up
+- [[Kinderarmut]] — child poverty
+- [[Klage erheben]] — to bring an action; to sue
+- [[Kluft]] — gulf; gap; divide
+- [[Koalitionsvertrag]] — coalition agreement
+- [[Kommunalpolitik]] — local politics
+- [[Konsens]] — consensus
+- [[Korruption]] — corruption
+- [[Landflucht]] — rural exodus
+- [[Landtag]] — state parliament
+- [[Lebenserwartung]] — life expectancy
+- [[Maßnahmen ergreifen]] — to take measures
+- [[Mehrheitsverhältnis]] — distribution of votes; majority situation
+- [[Menschenrechte]] — human rights
+- [[Menschenwürde]] — human dignity
+- [[Migrationshintergrund]] — migrant background
+- [[Missachtung]] — disregard; contempt
+- [[Missstand]] — grievance; abuse; problem
+- [[Mitverantwortung]] — shared responsibility
+- [[Nachlass]] — estate (of a deceased person); discount
+- [[Neutralität]] — neutrality
+- [[Notar]] — notary
+- [[Notunterkunft]] — emergency shelter
+- [[Opfer werden]] — to fall victim
+- [[Opposition]] — opposition
+- [[Ordnungswidrigkeit]] — administrative offence
+- [[Partei ergreifen]] — to take sides
+- [[Parteitag]] — party conference
+- [[Parteivorsitzende]] — party leader
+- [[Pflegebedürftigkeit]] — need of care
+- [[Pflegeheim]] — nursing home
+- [[Politikverdrossenheit]] — disenchantment with politics
+- [[Pressefreiheit]] — freedom of the press
+- [[Propaganda]] — propaganda
+- [[Protest einlegen]] — to lodge a protest
+- [[Rassismus]] — racism
+- [[Rechenschaft ablegen]] — to account for; to render account
+- [[Rechtsstaat]] — state governed by the rule of law
+- [[Regierungspartei]] — governing party
+- [[Religionsfreiheit]] — freedom of religion
+- [[Resozialisierung]] — rehabilitation (into society)
+- [[Sanktion]] — sanction
+- [[Schaden anrichten]] — to cause damage
+- [[Schritte unternehmen]] — to take steps
+- [[Schwellenland]] — emerging economy; newly industrialised country
+- [[Souveränität]] — sovereignty
+- [[Sozialleistung]] — social benefit
+- [[Sozialstaat]] — welfare state
+- [[Staatsanwalt]] — public prosecutor
+- [[Staatsanwaltschaft]] — public prosecutor's office
+- [[Steuerhinterziehung]] — tax evasion
+- [[Stiftung]] — foundation; endowment
+- [[Stimmzettel]] — ballot paper
+- [[Straftat]] — criminal offence
+- [[Strafvollzug]] — prison system; execution of sentence
+- [[Strömung]] — current; trend (movement)
+- [[tatenlos]] — idle; passive
+- [[ums Leben kommen]] — to lose one's life; to die
+- [[Unabhängigkeit]] — independence
+- [[Ungleichheit]] — inequality
+- [[unter Beobachtung stehen]] — to be under observation
+- [[unter Schutz stellen]] — to place under protection
+- [[unter Strafe stellen]] — to make punishable
+- [[unter Verdacht geraten]] — to come under suspicion
+- [[unter Verdacht stehen]] — to be under suspicion
+- [[unterliegen]] — to be subject to; to lose to
+- [[Untersuchungshaft]] — pre-trial detention
+- [[Urheberrecht]] — copyright
+- [[verbünden]] — to ally oneself; to join forces
+- [[Verdächtige]] — suspect
+- [[Verhältnismäßigkeit]] — proportionality
+- [[verleumden]] — to slander; to defame
+- [[verordnen]] — to prescribe; to decree
+- [[verpflichten]] — to oblige; to commit
+- [[verschulden]] — to be to blame for; to cause (through one's own fault)
+- [[verschärfen]] — to tighten; to aggravate
+- [[verstoßen]] — to violate; to break (a rule)
+- [[vertagen]] — to adjourn; to postpone
+- [[Verteidiger]] — defence lawyer
+- [[verweigern]] — to refuse; to deny
+- [[vorsehen]] — to provide for; to plan
+- [[Völkerrecht]] — international law
+- [[Wahlkampf]] — election campaign
+- [[Wahlkreis]] — constituency
+- [[Wahlprogramm]] — election manifesto
+- [[Wahlrecht]] — right to vote; electoral law
+- [[Weltmacht]] — world power; superpower
+- [[widersetzen]] — to resist; to oppose
+- [[Widerstand leisten]] — to put up resistance
+- [[Willkür]] — arbitrariness; despotism
+- [[Zensur]] — censorship
+- [[Zeugenaussage]] — witness statement
+- [[Zeugnis ablegen]] — to bear witness; to testify
+- [[Zivilgesellschaft]] — civil society
+- [[zu Protokoll geben]] — to put on record; to state officially
+- [[Zuflucht suchen]] — to seek refuge
+- [[zur Anzeige bringen]] — to report (to the police)
+- [[zur Debatte stehen]] — to be under discussion
+- [[zur Debatte stellen]] — to put up for debate
+- [[zur Last legen]] — to accuse of; to charge with
+- [[zur Rechenschaft ziehen]] — to hold accountable
+- [[zur Verantwortung ziehen]] — to hold accountable
+- [[zur Wahl stehen]] — to be up for election; to be on offer
+- [[Zustimmung finden]] — to meet with approval
+- [[Zuwanderung]] — immigration
+- [[Überalterung]] — ageing of the population
+- [[Überwachung]] — surveillance; monitoring
+<!-- bank:end -->
+
+## My notes
+

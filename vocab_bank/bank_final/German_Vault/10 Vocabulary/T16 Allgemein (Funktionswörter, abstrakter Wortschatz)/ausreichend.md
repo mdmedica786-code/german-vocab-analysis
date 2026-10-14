@@ -1,0 +1,33 @@
+---
+title: "ausreichend"
+type: "word"
+lemma: "ausreichend"
+meaning: "sufficient"
+pos: "adjective"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B4362"
+goethe_level: "B1"
+netzwerk: "B1 K8 1a"
+freq_rank: 1465
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# ausreichend
+
+**Meaning:** sufficient
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Geld ist für die Reise ausreichend.
+> *The money is sufficient for the trip.*
+
+**Source:** Netzwerk neu B1 K8 1a (Rund um Körper und Geist) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

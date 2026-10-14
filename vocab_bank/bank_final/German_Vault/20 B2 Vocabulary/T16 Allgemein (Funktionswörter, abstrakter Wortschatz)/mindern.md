@@ -1,0 +1,40 @@
+---
+title: "mindern"
+type: "word"
+aliases: ["mindert", "minderte", "hat gemindert"]
+lemma: "mindern"
+meaning: "to reduce; to diminish"
+pos: "verb"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D0901"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# mindern
+
+**Meaning:** to reduce; to diminish
+**Forms:** mindert · minderte · hat gemindert
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Lärm mindert die Lebensqualität.
+> *Noise reduces the quality of life.*
+
+**Collocations**
+- die Qualität mindern
+- den Wert mindern
+- das Risiko mindern
+
+**Related:** [[Qualität]] · [[Wert]] · [[Risiko]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

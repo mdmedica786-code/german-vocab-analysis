@@ -1,0 +1,42 @@
+---
+title: "Besichtigung"
+type: "word"
+aliases: ["die Besichtigung", "Besichtigungen"]
+lemma: "Besichtigung"
+meaning: "visit; viewing; tour"
+pos: "noun"
+article: "die"
+plural: "Besichtigungen"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D0989"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# die Besichtigung
+
+**Meaning:** visit; viewing; tour
+**Plural:** Besichtigungen
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Besichtigung der Burg dauert etwa eine Stunde.
+> *The tour of the castle takes about an hour.*
+
+**Collocations**
+- eine Besichtigung machen
+- Besichtigung der Wohnung
+- zur Besichtigung kommen
+
+**Related:** [[Wohnung]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

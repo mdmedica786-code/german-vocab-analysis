@@ -1,0 +1,44 @@
+---
+title: "entscheiden"
+type: "word"
+aliases: ["entscheidet", "entschied", "hat entschieden"]
+lemma: "entscheiden"
+meaning: "to decide"
+pos: "verb"
+level: "A2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B2215"
+goethe_level: "B1"
+netzwerk: "A2 K4 5c"
+freq_rank: 554
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# entscheiden
+
+**Meaning:** to decide
+**Forms:** entscheidet · entschied · hat entschieden
+**Grammar:** reflexive
+**Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das kann ich nicht allein entscheiden, da muss ich erst fragen.
+> *I can't decide that on my own, I have to ask first.*
+
+**Collocations**
+- sich für etwas entscheiden
+- über etwas entscheiden
+- allein entscheiden
+- schnell entscheiden
+
+**Related:** [[schnell]]
+
+**Source:** Netzwerk neu A2 K4 5c (Große und kleine Gefühle) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

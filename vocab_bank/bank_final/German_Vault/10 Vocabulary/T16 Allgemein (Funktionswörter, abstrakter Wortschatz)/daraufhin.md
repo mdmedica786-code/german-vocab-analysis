@@ -1,0 +1,29 @@
+---
+title: "daraufhin"
+type: "word"
+lemma: "daraufhin"
+meaning: "thereupon; as a result"
+pos: "adverb"
+level: "C1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B5421"
+freq_rank: 1904
+skip: false
+tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# daraufhin
+
+**Meaning:** thereupon; as a result
+**Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er wurde krank und ging daraufhin zum Arzt.
+> *He fell ill and thereupon went to the doctor.*
+<!-- bank:end -->
+
+## My notes
+

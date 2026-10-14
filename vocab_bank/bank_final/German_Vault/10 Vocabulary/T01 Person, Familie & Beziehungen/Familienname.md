@@ -1,0 +1,37 @@
+---
+title: "Familienname"
+type: "word"
+aliases: ["der Familienname", "Familiennamen"]
+lemma: "Familienname"
+meaning: "family name"
+pos: "noun"
+article: "der"
+plural: "Familiennamen"
+level: "A1"
+topic: "[[T01 Person, Familie & Beziehungen]]"
+register: "neutral"
+bank: "main"
+id: "B0406"
+goethe_level: "A1"
+netzwerk: "A1 K2 12a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Familienname
+
+**Meaning:** family name
+**Plural:** Familiennamen
+**Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Meine Familiennamen sind García González.
+> *My family names are García González.*
+
+**Source:** Netzwerk neu A1 K2 12a (Freunde, Kollegen und ich) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

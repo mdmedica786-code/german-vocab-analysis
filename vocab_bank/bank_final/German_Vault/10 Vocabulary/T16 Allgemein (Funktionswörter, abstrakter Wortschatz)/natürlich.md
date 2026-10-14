@@ -1,0 +1,41 @@
+---
+title: "natürlich"
+type: "word"
+lemma: "natürlich"
+meaning: "of course"
+pos: "adverb"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B0762"
+goethe_level: "A2"
+netzwerk: "A1 K4 11"
+freq_rank: 200
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# natürlich
+
+**Meaning:** of course
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das ist natürlich nicht so schön.
+> *That is of course not so nice.*
+
+**Collocations**
+- natürlich nicht
+- natürlich gern
+- natürlich möglich
+- ganz natürlich
+
+**Related:** [[möglich]]
+
+**Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

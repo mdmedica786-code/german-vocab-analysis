@@ -1,0 +1,37 @@
+---
+title: "Fußgängerzone"
+type: "word"
+aliases: ["die Fußgängerzone", "Fußgängerzonen"]
+lemma: "Fußgängerzone"
+meaning: "pedestrian zone"
+pos: "noun"
+article: "die"
+plural: "Fußgängerzonen"
+level: "B1"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "main"
+id: "B4150"
+goethe_level: "B1"
+netzwerk: "B1 K6 7c ÜB"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Fußgängerzone
+
+**Meaning:** pedestrian zone
+**Plural:** Fußgängerzonen
+**Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wir treffen uns um 15 Uhr in der Fußgängerzone.
+> *We will meet at 3 pm in the pedestrian zone.*
+
+**Source:** Netzwerk neu B1 K6 7c ÜB (Blick nach vorn) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

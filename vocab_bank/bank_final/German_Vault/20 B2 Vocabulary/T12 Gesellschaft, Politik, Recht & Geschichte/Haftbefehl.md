@@ -1,0 +1,40 @@
+---
+title: "Haftbefehl"
+type: "word"
+aliases: ["der Haftbefehl", "Haftbefehle"]
+lemma: "Haftbefehl"
+meaning: "arrest warrant"
+pos: "noun"
+article: "der"
+plural: "Haftbefehle"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D0517"
+exam_use: ["Lesen", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Haftbefehl
+
+**Meaning:** arrest warrant
+**Plural:** Haftbefehle
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Gegen den Verdächtigen wurde ein Haftbefehl erlassen.
+> *An arrest warrant was issued against the suspect.*
+
+**Collocations**
+- Haftbefehl erlassen
+- einen Haftbefehl beantragen
+- Haftbefehl vollstrecken
+
+**Exam use:** Lesen, Hören
+<!-- bank:end -->
+
+## My notes
+

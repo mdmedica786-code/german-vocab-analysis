@@ -1,0 +1,42 @@
+---
+title: "Schraube"
+type: "word"
+aliases: ["die Schraube", "Schrauben"]
+lemma: "Schraube"
+meaning: "screw"
+pos: "noun"
+article: "die"
+plural: "Schrauben"
+level: "B2"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "b2"
+id: "D2226"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# die Schraube
+
+**Meaning:** screw
+**Plural:** Schrauben
+**Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Eine Schraube am Stuhl ist locker.
+> *A screw on the chair is loose.*
+
+**Collocations**
+- eine Schraube festdrehen
+- eine Schraube lösen
+- eine Schraube locker haben
+
+**Related:** [[locker]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,38 @@
+---
+title: "überheblich"
+type: "word"
+lemma: "überheblich"
+meaning: "arrogant; overbearing"
+pos: "adjective"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1659"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# überheblich
+
+**Meaning:** arrogant; overbearing
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sein überhebliches Verhalten stieß auf Ablehnung.
+> *His arrogant behaviour met with rejection.*
+
+**Collocations**
+- überheblich sein
+- überheblich auftreten
+- überheblich wirken
+
+**Related:** [[auftreten]] · [[wirken]]
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

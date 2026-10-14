@@ -1,0 +1,36 @@
+---
+title: "EU"
+type: "word"
+aliases: ["die EU"]
+lemma: "EU"
+meaning: "EU"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B1"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "main"
+id: "B4849"
+netzwerk: "B1 K10 10a"
+freq_rank: 2000
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die EU
+
+**Meaning:** EU
+**Plural:** –
+**Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Deutschland gehört zur EU.
+> *Germany belongs to the EU.*
+
+**Source:** Netzwerk neu B1 K10 10a (Miteinander)
+<!-- bank:end -->
+
+## My notes
+

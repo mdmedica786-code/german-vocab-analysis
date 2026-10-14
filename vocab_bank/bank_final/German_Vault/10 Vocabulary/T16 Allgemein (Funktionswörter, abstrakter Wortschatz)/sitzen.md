@@ -1,0 +1,35 @@
+---
+title: "sitzen"
+type: "word"
+aliases: ["sitzt", "saß", "hat gesessen"]
+lemma: "sitzen"
+meaning: "to sit"
+pos: "verb"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B0908"
+goethe_level: "A1"
+netzwerk: "A1 K5 15a"
+freq_rank: 256
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# sitzen
+
+**Meaning:** to sit
+**Forms:** sitzt · saß · hat gesessen
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wo sitzen Sie?
+> *Where are you sitting?*
+
+**Source:** Netzwerk neu A1 K5 15a (Alltag und Familie) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

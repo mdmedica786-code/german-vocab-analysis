@@ -1,0 +1,42 @@
+---
+title: "reich"
+type: "word"
+lemma: "reich"
+meaning: "rich"
+pos: "adjective"
+level: "A2"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B3101"
+goethe_level: "A2"
+netzwerk: "A2 K11 11a"
+freq_rank: 706
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# reich
+
+**Meaning:** rich
+**Forms:** reicher – am reichsten
+**Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Lotte ist reich. Sie hat sehr viel Geld.
+> *Lotte is rich. She has a lot of money.*
+
+**Collocations**
+- reich an ...
+- ein reicher Mann
+- reiche Ernte
+- steinreich
+
+**Related:** [[Mann]] · [[Ernte]]
+
+**Source:** Netzwerk neu A2 K11 11a (Wie die Zeit vergeht!) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

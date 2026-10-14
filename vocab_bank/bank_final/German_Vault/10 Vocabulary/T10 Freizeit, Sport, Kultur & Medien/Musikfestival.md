@@ -1,0 +1,36 @@
+---
+title: "Musikfestival"
+type: "word"
+aliases: ["das Musikfestival", "Musikfestivals"]
+lemma: "Musikfestival"
+meaning: "music festival"
+pos: "noun"
+article: "das"
+plural: "Musikfestivals"
+level: "A2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B3148"
+netzwerk: "A2 K12 3a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Musikfestival
+
+**Meaning:** music festival
+**Plural:** Musikfestivals
+**Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Sommer besuchen wir ein Musikfestival.
+> *In summer we are visiting a music festival.*
+
+**Source:** Netzwerk neu A2 K12 3a (Gute Unterhaltung!)
+<!-- bank:end -->
+
+## My notes
+

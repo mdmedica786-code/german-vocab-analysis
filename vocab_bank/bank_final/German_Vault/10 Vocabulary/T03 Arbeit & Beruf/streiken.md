@@ -1,0 +1,35 @@
+---
+title: "streiken"
+type: "word"
+aliases: ["streikt", "streikte", "hat gestreikt"]
+lemma: "streiken"
+meaning: "to go on strike"
+pos: "verb"
+level: "B1"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B4228"
+goethe_level: "B1"
+netzwerk: "B1 K7 1a ÜB"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# streiken
+
+**Meaning:** to go on strike
+**Forms:** streikt · streikte · hat gestreikt
+**Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Arbeiter streiken für höhere Löhne.
+> *The workers are striking for higher wages.*
+
+**Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

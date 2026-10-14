@@ -1,0 +1,36 @@
+---
+title: "Handwerk"
+type: "word"
+aliases: ["das Handwerk", "Handwerke"]
+lemma: "Handwerk"
+meaning: "trade"
+pos: "noun"
+article: "das"
+plural: "Handwerke"
+level: "A2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B2005"
+netzwerk: "A2 K2 7a"
+freq_rank: 4706
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Handwerk
+
+**Meaning:** trade
+**Plural:** Handwerke
+**Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er hat ein Handwerk gelernt.
+> *He has learned a trade.*
+
+**Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
+<!-- bank:end -->
+
+## My notes
+

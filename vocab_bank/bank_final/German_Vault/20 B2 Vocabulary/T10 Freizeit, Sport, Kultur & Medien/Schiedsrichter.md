@@ -1,0 +1,42 @@
+---
+title: "Schiedsrichter"
+type: "word"
+aliases: ["der Schiedsrichter"]
+lemma: "Schiedsrichter"
+meaning: "referee; umpire"
+pos: "noun"
+article: "der"
+plural: "Schiedsrichter"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D1413"
+exam_use: ["Medien", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Schiedsrichter
+
+**Meaning:** referee; umpire
+**Plural:** Schiedsrichter
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Schiedsrichter pfiff das Spiel pünktlich an.
+> *The referee blew the whistle for the game on time.*
+
+**Collocations**
+- der Schiedsrichter pfeift
+- eine Entscheidung des Schiedsrichters
+- den Schiedsrichter beleidigen
+
+**Related:** [[Entscheidung]] · [[beleidigen]]
+
+**Exam use:** Medien, Hören
+<!-- bank:end -->
+
+## My notes
+

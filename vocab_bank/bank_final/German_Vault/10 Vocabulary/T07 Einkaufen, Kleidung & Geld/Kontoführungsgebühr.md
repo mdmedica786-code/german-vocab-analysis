@@ -1,0 +1,36 @@
+---
+title: "Kontoführungsgebühr"
+type: "word"
+aliases: ["die Kontoführungsgebühr", "Kontoführungsgebühren"]
+lemma: "Kontoführungsgebühr"
+meaning: "account maintenance charge"
+pos: "noun"
+article: "die"
+plural: "Kontoführungsgebühren"
+level: "B1"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B5034"
+netzwerk: "B1 K12 3c"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Kontoführungsgebühr
+
+**Meaning:** account maintenance charge
+**Plural:** Kontoführungsgebühren
+**Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Bank verlangt eine monatliche Kontoführungsgebühr.
+> *The bank charges a monthly account maintenance fee.*
+
+**Source:** Netzwerk neu B1 K12 3c (Geld regiert die Welt?)
+<!-- bank:end -->
+
+## My notes
+

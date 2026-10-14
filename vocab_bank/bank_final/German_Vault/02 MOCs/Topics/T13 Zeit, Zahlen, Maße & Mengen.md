@@ -1,0 +1,477 @@
+---
+title: "T13 Zeit, Zahlen, Maße & Mengen"
+type: "moc"
+tags: ["moc", "topic/T13"]
+---
+<!-- bank:start -->
+# T13 Zeit, Zahlen, Maße & Mengen
+
+Map of content. 375 words in the main bank, 65 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (200)
+
+- [[ab]] — from
+- [[Abend]] — evening
+- [[abends]] — in the evening
+- [[abwechselnd]] — alternating
+- [[acht]] — eight
+- [[achtzehn]] — eighteen
+- [[achtzig]] — eighty
+- [[alt]] — old
+- [[Anfang]] — beginning
+- [[anfangen]] — to start
+- [[April]] — April
+- [[aufhören]] — to stop
+- [[aufstehen]] — to get up; to stand up
+- [[August]] — August
+- [[bald]] — soon
+- [[Beginn]] — beginning
+- [[beginnen]] — to begin
+- [[bisschen]] — a little; a bit
+- [[breit]] — wide
+- [[circa]] — approximately (= approx.)
+- [[danach]] — after
+- [[dann]] — then
+- [[Datum]] — date
+- [[dauern]] — to last
+- [[Dezember]] — December
+- [[Dienstag]] — Tuesday
+- [[Donnerstag]] — Thursday
+- [[doppelt]] — double
+- [[drankommen]] — to have one's turn
+- [[drei]] — three
+- [[dreimal]] — three times
+- [[dreizehn]] — thirteen
+- [[dreißig]] — thirty
+- [[dritt]] — third; (zu dritt) in threes, as three
+- [[dritte]] — third (ordinal)
+- [[dunkel]] — dark
+- [[einhundert]] — one hundred
+- [[einmal]] — once
+- [[eins]] — one
+- [[eintausend]] — one thousand
+- [[einundzwanzig]] — twenty-one
+- [[elf]] — eleven
+- [[Ende]] — end
+- [[enden]] — to end
+- [[endlich]] — finally
+- [[erst]] — first; only; not until
+- [[erste (numeral)]] — first (ordinal)
+- [[Erste]] — first
+- [[Februar]] — February
+- [[Franken]] — Swiss franc
+- [[Freitag]] — Friday
+- [[früh]] — early
+- [[früher]] — formerly, in the past
+- [[Frühjahr]] — spring
+- [[fünf]] — five
+- [[fünfzehn]] — fifteen
+- [[fünfzig]] — fifty
+- [[gerade]] — just; right now; straight
+- [[gestern]] — yesterday
+- [[gleich]] — same; equal; right away
+- [[Grad]] — degree
+- [[Gramm]] — gram
+- [[groß]] — large
+- [[Größe]] — size; height; greatness
+- [[halb]] — half; (halb neun) half past eight
+- [[halbe Stunde]] — half an hour
+- [[heute]] — today
+- [[hoch]] — high
+- [[hundert]] — hundred
+- [[hunderteins]] — one hundred and one
+- [[immer]] — always
+- [[Jahr]] — year
+- [[Januar]] — January
+- [[jede]] — every; each
+- [[jetzt]] — now
+- [[Juli]] — July
+- [[Juni]] — June
+- [[Kalender]] — calendar
+- [[kaum]] — barely
+- [[Kilo]] — kilo
+- [[Kilogramm]] — kilogram
+- [[Kilometer]] — kilometre
+- [[klein]] — small
+- [[lang]] — long
+- [[lange]] — long
+- [[letzte (adjective)]] — last
+- [[Liter]] — litre
+- [[losgehen]] — to start
+- [[länger]] — longer (comparative of lang)
+- [[Mai]] — May
+- [[Mal]] — time (occasion)
+- [[manchmal]] — sometimes
+- [[maximal]] — maximally
+- [[Maß]] — measure; measurement; dimension
+- [[mehr]] — more; any more
+- [[meist]] — mostly; most of the time
+- [[meisten]] — most
+- [[meistens]] — mostly
+- [[Meter]] — metre
+- [[Milliarde]] — billion
+- [[Million]] — million
+- [[mindestens]] — at least
+- [[minus]] — minus
+- [[Minute]] — minute
+- [[Mittag]] — noon
+- [[mittags]] — at noon
+- [[Mittwoch]] — Wednesday
+- [[Moment]] — moment
+- [[Monat]] — month
+- [[Montag]] — Monday
+- [[morgen (adverb)]] — tomorrow
+- [[Morgen]] — morning
+- [[morgens]] — in the morning
+- [[März]] — March
+- [[Nachmittag]] — afternoon
+- [[nachmittags]] — in the afternoon
+- [[Nacht]] — night
+- [[nachts]] — at night
+- [[neun]] — nine
+- [[neunzehn]] — nineteen
+- [[neunzig]] — ninety
+- [[nie]] — never
+- [[normalerweise]] — normally
+- [[November]] — November
+- [[null]] — zero
+- [[Nummer]] — number
+- [[nächste (adjective)]] — next; nearest
+- [[oft]] — often
+- [[Oktober]] — October
+- [[Ordinalzahl]] — ordinal number
+- [[Pfund]] — pound
+- [[plus]] — plus
+- [[Prozent]] — percent
+- [[pünktlich]] — on time, punctual
+- [[qm]] — sq m (= square metre)
+- [[Quadratmeter]] — square metre
+- [[regelmäßig]] — regularly
+- [[Reihenfolge]] — sequence
+- [[Samstag]] — Saturday
+- [[Samstagabend]] — Saturday night
+- [[samstags]] — on Saturday
+- [[Schluss]] — end; conclusion
+- [[schnell]] — quick
+- [[schon]] — already
+- [[sechs]] — six
+- [[sechzehn]] — sixteen
+- [[sechzig]] — sixty
+- [[seit]] — since, for
+- [[Sekunde]] — second
+- [[selten]] — rarely
+- [[September]] — September
+- [[sieben]] — seven
+- [[siebzehn]] — seventeen
+- [[siebzig]] — seventy
+- [[sofort]] — immediately
+- [[Sommer]] — summer
+- [[Sonntag]] — Sunday
+- [[Sonntagnachmittag]] — Sunday afternoon
+- [[spät]] — late
+- [[später]] — later
+- [[Stunde]] — hour
+- [[Stück]] — piece
+- [[Tag]] — day
+- [[Tageszeit]] — time of day
+- [[tausend]] — thousand
+- [[täglich]] — daily
+- [[Uhr]] — o'clock; clock; watch
+- [[Uhrzeit]] — time of day
+- [[ungefähr]] — approximately
+- [[viel]] — a lot; much
+- [[vier]] — four
+- [[vierte]] — fourth
+- [[Viertel]] — quarter
+- [[vierzehn]] — fourteen
+- [[vierzig]] — forty
+- [[vorbei sein]] — to be over
+- [[vorgestern]] — day before yesterday
+- [[vorher]] — before
+- [[Vormittag]] — morning (before noon)
+- [[vormittags]] — before noon
+- [[weitermachen]] — to continue
+- [[wieder]] — again
+- [[wiegen]] — to weigh
+- [[Winter]] — winter
+- [[Woche]] — week
+- [[Wochenende]] — weekend
+- [[Wochentag]] — day of the week
+- [[Zahl]] — number
+- [[zehn]] — ten
+- [[Zeit]] — time
+- [[Zentimeter]] — centimetre
+- [[zuerst]] — at first
+- [[zurzeit]] — currently
+- [[zwanzig]] — twenty
+- [[zwei]] — two
+- [[zweihundert]] — two hundred
+- [[zweimal]] — twice
+- [[zweit]] — second; (zu zweit) in pairs, as two
+- [[zweite]] — second (ordinal)
+- [[zwölf]] — twelve
+
+### A2 (72)
+
+- [[-jährig]] — ...-year-old
+- [[anschließend]] — afterwards; subsequently
+- [[Arbeitstag]] — workday
+- [[beeilen]] — to hurry (up)
+- [[blitzschnell]] — lightning-fast
+- [[Breite]] — width
+- [[Celsius]] — Celsius
+- [[damals]] — back then
+- [[Dauer]] — duration
+- [[dienstags]] — on Tuesdays
+- [[donnerstags]] — on Thursdays
+- [[drittens]] — thirdly
+- [[eben]] — just; just now; exactly
+- [[eineinhalb]] — one and a half
+- [[einplanen]] — to include
+- [[erstens]] — firstly; first of all
+- [[etwa]] — approximately
+- [[ewig]] — forever
+- [[Feiertag]] — public holiday
+- [[Fläche]] — area
+- [[freitags]] — on Fridays
+- [[hintereinander]] — consecutively
+- [[Hälfte]] — half
+- [[häufig]] — often
+- [[Höhe]] — height; altitude; level
+- [[inzwischen]] — meanwhile
+- [[Jahrhundert]] — century
+- [[je]] — each; per; ever
+- [[jeweils]] — each
+- [[jährlich]] — yearly
+- [[Karneval]] — carnival
+- [[knapp]] — scarce; tight; barely
+- [[Länge]] — length
+- [[mehrmalig]] — repeated
+- [[mehrmals]] — several times
+- [[Menge]] — amount
+- [[Mitternacht]] — midnight (at midnight)
+- [[mittwochs]] — on Wednesdays
+- [[montags]] — on Mondays
+- [[Morgenstunde]] — early in the morning
+- [[Neujahr]] — New Year
+- [[neulich]] — recently
+- [[niedrig]] — low
+- [[Ostern]] — Easter
+- [[paar (determiner)]] — couple
+- [[Phase]] — phase
+- [[plötzlich]] — suddenly
+- [[Rappen]] — centime (Swiss)
+- [[rechnen]] — to calculate; to count; to expect
+- [[Rest]] — rest
+- [[riesig]] — vast
+- [[Silvester]] — New Year's Eve
+- [[sonntags]] — on Sundays
+- [[spätestens]] — at the latest
+- [[ständig]] — constant
+- [[tagsüber]] — during the day
+- [[Vergangenheit]] — past
+- [[vergehen]] — to pass (time); to go by
+- [[verplanen]] — to use up in planning; to over-schedule
+- [[verschieben]] — to postpone
+- [[verschlafen]] — to oversleep
+- [[viermal]] — four times
+- [[viertens]] — fourthly
+- [[Weihnachten]] — Christmas
+- [[Weile]] — while
+- [[Werktag]] — working day
+- [[Zeitraum]] — period
+- [[Zukunft]] — future
+- [[zuletzt]] — lastly
+- [[zweitausendeins]] — two thousand and one
+- [[zweitens]] — secondly
+- [[übermorgen]] — day after tomorrow
+
+### B1 (96)
+
+- [[-fach]] — "fold" (tenfold)
+- [[Abstand]] — distance; gap
+- [[anfangs]] — at first; initially
+- [[Anteil]] — share; proportion
+- [[Anzahl]] — number; quantity
+- [[Augenblick]] — moment
+- [[automatisiert]] — automated
+- [[bereits]] — already
+- [[betragen]] — to amount to
+- [[bevor]] — before
+- [[bisher]] — so far
+- [[ca]] — approx. (approximately)
+- [[damalig]] — then; of that time
+- [[dauernd]] — constantly; permanently
+- [[diesmal]] — this time
+- [[Distanz]] — distance
+- [[drittel (adjective)]] — third (fraction)
+- [[Drittel]] — third
+- [[Durchschnitt]] — average
+- [[durchschnittlich]] — average; on average
+- [[ehe (conjunction)]] — before
+- [[Eile]] — hurry; haste
+- [[eilen]] — to hurry; to be urgent
+- [[Entfernung]] — distance
+- [[Entstehungszeit]] — time of origin
+- [[Ewigkeit]] — eternity; ages
+- [[Fasnacht]] — carnival (Swiss, S. German)
+- [[Feber]] — February (Austrian)
+- [[frühere]] — previous
+- [[Fünftel]] — fifth
+- [[Gegenwart]] — present
+- [[gewöhnlich]] — usual; ordinary; usually
+- [[gleichzeitig]] — at the same time; simultaneous
+- [[grad (adverb)]] — just; at the moment
+- [[her sein]] — to be (so long) ago
+- [[heutig]] — present day
+- [[hinterher]] — afterwards
+- [[höchstens]] — at the most
+- [[irgendwann]] — sometime
+- [[jahrelang]] — for years
+- [[Jahrtausend]] — millennium
+- [[Jahrzehnt]] — decade
+- [[jederzeit]] — at any time
+- [[jemals]] — ever
+- [[jetzig]] — current
+- [[Jänner]] — January (Austrian)
+- [[kürzlich]] — recently
+- [[längst]] — for a long time
+- [[mehrfach]] — repeatedly
+- [[minimal]] — minimal
+- [[mitrechnen]] — to include in the count
+- [[mittlerweile]] — meanwhile
+- [[momentan]] — at the moment
+- [[monatlich]] — monthly
+- [[nachdem]] — after
+- [[nacheinander]] — one after the other
+- [[nachher]] — afterwards
+- [[Nachtzeit]] — nighttime
+- [[Nationalfeiertag]] — national holiday
+- [[niemals]] — never
+- [[nächtlich]] — nocturnal; nightly
+- [[Pfingsten]] — Pentecost
+- [[rechtzeitig]] — on time
+- [[schmal]] — narrow
+- [[seitdem]] — since then
+- [[sinken]] — to sink
+- [[Sonnabend]] — Saturday
+- [[sonnabends]] — on Saturdays (N. German)
+- [[stündlich]] — hourly
+- [[Summe]] — sum; amount
+- [[sämtliche]] — all; all of the
+- [[Tagesablauf]] — daily routine
+- [[teilweise]] — partly
+- [[Terminkalender]] — diary; appointment calendar
+- [[Tonne]] — tonne; bin
+- [[Vergangene]] — past
+- [[verspäten]] — to be late
+- [[vorhin]] — a little while ago
+- [[vorläufig]] — for the time being
+- [[Weihnachtsferien]] — Christmas holidays
+- [[weiterhin]] — still; furthermore; continuing
+- [[werktags]] — on weekdays
+- [[wochentags]] — on weekdays
+- [[während]] — during
+- [[wöchentlich]] — weekly
+- [[zahlreich]] — numerous
+- [[Zeitpunkt]] — time (point in)
+- [[zugleich]] — at the same time; simultaneously
+- [[zukünftig]] — future
+- [[zunächst]] — first of all; initially
+- [[zusammenzählen]] — to add
+- [[zuviel]] — too much
+- [[zweifach]] — twofold; double
+- [[zweimonatig]] — two month (ly)
+- [[zwischendurch]] — in between
+- [[zählen]] — to count
+
+### B2 (5)
+
+- [[andauernd]] — constant; continuous
+- [[Differenz]] — difference
+- [[Messung]] — measurement
+- [[Umfang]] — extent; circumference
+- [[zeitlich]] — time-related; temporal
+
+### C1 (2)
+
+- [[binnen]] — within
+- [[verkürzt]] — shortened
+
+## B2 bank
+
+### B2 (65)
+
+- [[ablaufen]] — to expire; to run its course
+- [[allmählich]] — gradually; little by little
+- [[annähernd]] — approximately; almost
+- [[ansteigen]] — to rise; to go up
+- [[auf Anhieb]] — straight away; at the first attempt
+- [[auf lange Sicht]] — in the long run
+- [[aufrunden]] — to round up
+- [[aufschieben]] — to postpone; to put off
+- [[augenblicklich]] — immediate; current; immediately
+- [[Berechnung]] — calculation
+- [[bislang]] — so far; until now
+- [[bisweilen]] — at times; occasionally
+- [[Brückentag]] — bridge day (day off between holiday and weekend)
+- [[dauerhaft]] — permanently; lasting
+- [[derzeit]] — currently; at present
+- [[die Zeit totschlagen]] — to kill time
+- [[ehemals]] — formerly; once
+- [[einstweilen]] — for the time being; meanwhile
+- [[etwas auf die lange Bank schieben]] — to put something off
+- [[fortan]] — from now on; henceforth
+- [[gegenwärtig]] — present; current
+- [[gemächlich]] — leisurely; unhurried
+- [[größtenteils]] — for the most part; mostly
+- [[Hals über Kopf]] — headlong; in a rush
+- [[hin und wieder]] — now and then
+- [[im Nu]] — in no time
+- [[in der Regel]] — as a rule; usually
+- [[Jahrestag]] — anniversary
+- [[kurzfristig]] — short-term; at short notice
+- [[langfristig]] — long-term
+- [[mitunter]] — occasionally; at times
+- [[nach und nach]] — little by little; gradually
+- [[nachträglich]] — subsequent; belated; afterwards
+- [[nahezu]] — almost; nearly
+- [[neuerdings]] — recently; lately
+- [[nunmehr]] — now; from now on
+- [[Prozentsatz]] — percentage; rate
+- [[reichlich]] — ample; plentiful
+- [[Rückgang]] — decline; decrease
+- [[schrumpfen]] — to shrink
+- [[schwanken]] — to fluctuate; to waver
+- [[Schwankung]] — fluctuation
+- [[seinerzeit]] — at that time; back then
+- [[seither]] — since then
+- [[sich auf die Socken machen]] — to get going
+- [[sogleich]] — at once; immediately
+- [[stagnieren]] — to stagnate
+- [[stets]] — always; at all times
+- [[Tag für Tag]] — day after day
+- [[trödeln]] — to dawdle; to dither
+- [[unterdessen]] — meanwhile; in the meantime
+- [[Verlauf]] — course; progress
+- [[Verschiebung]] — shift; postponement
+- [[vorab]] — in advance; beforehand
+- [[vorerst]] — for the time being; for now
+- [[vorzeitig]] — premature; early
+- [[vorübergehend]] — temporarily
+- [[wiederholt]] — repeated; repeatedly
+- [[zeitweise]] — at times; temporarily
+- [[zu Ende gehen]] — to come to an end
+- [[Zunahme]] — increase; growth
+- [[zuvor]] — before; previously
+- [[zuweilen]] — at times; now and then
+- [[zwischenzeitlich]] — in the meantime; meanwhile
+- [[über kurz oder lang]] — sooner or later
+<!-- bank:end -->
+
+## My notes
+

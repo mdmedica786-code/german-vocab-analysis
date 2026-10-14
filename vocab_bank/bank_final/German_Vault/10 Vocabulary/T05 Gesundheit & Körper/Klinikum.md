@@ -1,0 +1,36 @@
+---
+title: "Klinikum"
+type: "word"
+aliases: ["das Klinikum", "Kliniken"]
+lemma: "Klinikum"
+meaning: "clinic, hospital"
+pos: "noun"
+article: "das"
+plural: "Kliniken"
+level: "B1"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "main"
+id: "B3636"
+netzwerk: "B1 K3 6a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Klinikum
+
+**Meaning:** clinic, hospital
+**Plural:** Kliniken
+**Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er arbeitet am Klinikum in München.
+> *He works at the clinic in Munich.*
+
+**Source:** Netzwerk neu B1 K3 6a (Veränderungen)
+<!-- bank:end -->
+
+## My notes
+

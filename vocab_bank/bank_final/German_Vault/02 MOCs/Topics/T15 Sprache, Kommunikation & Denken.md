@@ -1,0 +1,864 @@
+---
+title: "T15 Sprache, Kommunikation & Denken"
+type: "moc"
+tags: ["moc", "topic/T15"]
+---
+<!-- bank:start -->
+# T15 Sprache, Kommunikation & Denken
+
+Map of content. 572 words in the main bank, 255 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (227)
+
+- [[Abschnitt]] — section, paragraph
+- [[Achtung]] — attention; watch out; respect
+- [[Adjektiv]] — adjective
+- [[Akkusativ]] — accusative
+- [[Alphabet]] — alphabet
+- [[Anhang]] — attachment; appendix
+- [[ankreuzen]] — to tick; to mark with a cross
+- [[Anrede]] — salutation
+- [[Anredeformel]] — salutation
+- [[Anruf]] — call
+- [[anrufen]] — to call
+- [[Ansage]] — announcement
+- [[Antwort]] — answer
+- [[antworten]] — to answer
+- [[Arabisch]] — Arabic
+- [[Artikel]] — article
+- [[Assoziation]] — association
+- [[aufschreiben]] — to write down
+- [[Ausdruck]] — expression
+- [[ausdrücken]] — to express
+- [[Aussage]] — statement
+- [[Aussagesatz]] — declarative sentence
+- [[Aussprache]] — pronunciation
+- [[beantworten]] — to answer
+- [[bedeuten]] — to mean
+- [[Beispiel]] — example (for example)
+- [[berichten]] — to report
+- [[beschreiben]] — to describe
+- [[besetzt]] — busy
+- [[betont]] — stressed
+- [[Betonung]] — stress
+- [[Betreff]] — subject
+- [[Bildgeschichte]] — picture story; comic strip
+- [[bitte (interjection)]] — please; you're welcome
+- [[Bitte]] — request
+- [[bitten]] — to ask for; to request
+- [[Brief]] — letter
+- [[Briefstandard]] — letter template; standard letter format
+- [[Buchstabe]] — letter
+- [[buchstabieren]] — to spell
+- [[Bulgarisch]] — Bulgarian
+- [[ciao]] — bye
+- [[Dank]] — thanks; gratitude
+- [[danke]] — thank you
+- [[danken]] — to thank
+- [[Dativ]] — dative
+- [[Demonstrativartikel]] — demonstrative article
+- [[denken (verb)]] — to think
+- [[deutsch (adjective)]] — German
+- [[Deutsch]] — German
+- [[Deutsche]] — German
+- [[deutschsprachig]] — German-speaking
+- [[Dialog]] — dialogue
+- [[diskutieren]] — to discuss
+- [[E-Mail]] — e-mail
+- [[einfallen]] — to think of
+- [[Einladungs-Mail]] — invitation mail
+- [[Eintrag]] — entry
+- [[Empfänger]] — recipient (m)
+- [[Empfängerin]] — recipient (f)
+- [[Endung]] — ending
+- [[Englisch]] — English
+- [[entschuldigen]] — to excuse; to apologise (sich entschuldigen)
+- [[Entschuldigung]] — apology; excuse; Excuse me!
+- [[ergänzen]] — to complete; to supplement
+- [[erklären]] — to explain
+- [[erschließen]] — to infer; to open up
+- [[erzählen]] — to tell; to narrate
+- [[Fehler]] — mistake
+- [[feminin]] — feminine
+- [[formell]] — formal
+- [[formulieren]] — to phrase
+- [[Frage]] — question
+- [[fragen]] — to ask
+- [[Fragewort]] — interrogative
+- [[Französisch]] — French
+- [[geehrt]] — honoured
+- [[Gespräch]] — conversation; talk
+- [[Gesprächsthema]] — conversational topic
+- [[glauben]] — to believe
+- [[Grammatik]] — grammar
+- [[gratulieren]] — to congratulate
+- [[Gruß]] — greeting
+- [[Grußformel]] — greeting formula (e.g. complimentary close)
+- [[grüezi]] — hello (Swiss German)
+- [[grüßen]] — to greet
+- [[hallo]] — hello
+- [[heißen]] — to be called; to mean
+- [[hey]] — hey
+- [[hi]] — hi
+- [[hören]] — to hear; to listen
+- [[Imperativ]] — imperative
+- [[Indonesisch]] — Indonesian
+- [[Infinitiv]] — infinitive
+- [[Information]] — information
+- [[informell]] — informal
+- [[Infotext]] — informational text
+- [[Interrogativartikel]] — interrogative article
+- [[Italienisch]] — Italian
+- [[ja]] — yes; (modal particle) indeed
+- [[Ja--Nein-Frage]] — yes-/no-question
+- [[Japanisch]] — Japanese
+- [[klingen]] — to sound
+- [[Kommentar]] — commentary
+- [[Kompositum]] — compound
+- [[Konsonant]] — consonant
+- [[Kontext]] — context
+- [[korrigieren]] — to correct
+- [[Kurzform]] — shortened form
+- [[laut]] — loud; (prep.) according to
+- [[leise]] — quiet
+- [[Mail]] — mail
+- [[markieren]] — to highlight
+- [[maskulin]] — masculine
+- [[meinen]] — to mean
+- [[melden]] — to report; to answer (sich melden)
+- [[merken]] — to notice; to remember (sich merken)
+- [[Mindmap]] — mind map
+- [[mitlesen]] — to read along
+- [[mitsprechen]] — to speak along; to join in
+- [[Modalverb]] — modal verb
+- [[moin]] — hello; good morning (northern Germany)
+- [[Muttersprache]] — mother tongue
+- [[nachfragen]] — to ask again
+- [[nachsprechen]] — to repeat (after sb.)
+- [[Negationsartikel]] — negative article
+- [[nein]] — no
+- [[nennen]] — to name
+- [[neutral]] — neutral
+- [[Neutrum]] — neuter
+- [[Nomen]] — noun
+- [[Nominativ]] — nominative
+- [[notieren]] — to note
+- [[Notiz]] — note
+- [[nummerieren]] — to number
+- [[Ortsangabe]] — location
+- [[Partizip]] — participle
+- [[Perfekt]] — perfect
+- [[Personalpronomen]] — personal pronoun
+- [[Plural]] — plural
+- [[Pluralendung]] — plural ending
+- [[Pluralform]] — plural form
+- [[Polnisch]] — Polish
+- [[Portugiesisch]] — Portuguese
+- [[Possessivartikel]] — possessive article
+- [[Pronomen]] — pronoun
+- [[prost]] — cheers
+- [[Präfix]] — prefix
+- [[Präposition]] — preposition
+- [[Präsentation]] — presentation
+- [[präsentieren]] — to present
+- [[Präteritum]] — simple past
+- [[Punkt]] — period (full stop); point; dot
+- [[Quatsch]] — nonsense
+- [[raten]] — to guess; to advise
+- [[reagieren]] — to react
+- [[recherchieren]] — to research; to look up
+- [[Redemittel]] — useful phrase (for speaking and writing)
+- [[reden]] — to talk
+- [[Rolle]] — role
+- [[Russisch]] — Russian
+- [[Rätoromanisch]] — Romansh
+- [[sagen]] — to say
+- [[Satz]] — sentence
+- [[Satzende]] — ending of the sentence
+- [[Satzklammer]] — sentence bracket
+- [[Satzmelodie]] — intonation
+- [[schicken]] — to send
+- [[schreiben (verb)]] — to write
+- [[Serbisch]] — Serbian
+- [[Silbenanfang]] — beginning of the syllable
+- [[Singular]] — singular
+- [[Small Talk]] — small talk
+- [[Spanisch]] — Spanish
+- [[Sprache]] — language
+- [[Sprachnachricht]] — voice message
+- [[sprechen]] — to speak
+- [[Stichpunkt]] — bullet point
+- [[Subjekt]] — subject
+- [[Telefon]] — telephone
+- [[Telefongespräch]] — telephone call
+- [[telefonieren]] — to telephone
+- [[Text]] — text
+- [[Textbaustein]] — text block
+- [[Thema]] — topic
+- [[thematisch]] — topical
+- [[Tipp]] — tip
+- [[trennbar]] — separable (separable verbs)
+- [[tschüs]] — bye
+- [[Türkisch]] — Turkish
+- [[Umlaut]] — umlaut
+- [[unbestimmt]] — indefinite; vague
+- [[Ungarisch]] — Hungarian
+- [[unregelmäßig]] — irregular (irregular verbs)
+- [[Unterstrich]] — underscore
+- [[Urlaubsnachricht]] — holiday message
+- [[verabschieden]] — to say goodbye
+- [[Verb]] — verb
+- [[vergessen]] — to forget
+- [[vergleichen]] — to compare
+- [[vermuten]] — to suspect; to assume
+- [[verstehen]] — to understand
+- [[Vokal]] — vowel
+- [[Vorschlag]] — suggestion, recommendation
+- [[Vorwahl]] — dialling code
+- [[W-Frage]] — w-question
+- [[W-Wort]] — w-word
+- [[Wechselpräposition]] — two-case preposition
+- [[weiterhören]] — to continue to listen
+- [[wiedergeben]] — to reproduce; to recite; to give back
+- [[Wiederhören]] — goodbye (on the phone)
+- [[willkommen]] — welcome
+- [[wissen (verb)]] — to know
+- [[Wort]] — word
+- [[Wortanfang]] — beginning of the word
+- [[Wortende]] — ending of the word
+- [[Wortgruppe]] — word group
+- [[Wortinnere]] — inside of the word
+- [[Wortliste]] — word list
+- [[Wortteil]] — part of the word
+- [[Wörterbuch]] — dictionary
+- [[Zeitangabe]] — time designation
+- [[zerlegen]] — to disassemble
+- [[zuordnen]] — to assign, to match
+- [[Äußerung]] — remark; statement
+- [[überlegen]] — to think about
+- [[Überschrift]] — heading
+
+### A2 (137)
+
+- [[Abkürzung]] — abbreviation
+- [[ablehnen]] — to refuse
+- [[ablesen]] — to read
+- [[Absage]] — cancellation
+- [[absagen]] — to cancel
+- [[Ahnung]] — idea; notion (keine Ahnung = no idea)
+- [[Akzent]] — accent; stress
+- [[Anfangsbuchstabe]] — first letter; initial
+- [[Anrufer]] — caller (m)
+- [[Anruferin]] — caller (f)
+- [[ansprechen]] — to address sb
+- [[Antwortbogen]] — answer sheet
+- [[Artikelwort]] — determiner
+- [[ausrichten]] — to pass on sth to sb
+- [[aussprechen]] — to pronounce; to express; to speak out
+- [[Austausch]] — exchange
+- [[austauschen]] — to exchange
+- [[bedanken]] — to thank
+- [[Bedeutung]] — meaning
+- [[begründen]] — to justify
+- [[Beispielsatz]] — example sentence
+- [[Beschreibung]] — description
+- [[betonen]] — to emphasize
+- [[Bezugswort]] — antecedent
+- [[Bildbeschreibung]] — description of a picture
+- [[d.h]] — i.e.; that is
+- [[dafür sein]] — to approve
+- [[dagegen sein]] — to disapprove
+- [[Dankeskarte]] — thank-you card
+- [[dass]] — that
+- [[dazuschreiben]] — to add sth
+- [[deuten]] — to point; to indicate; to interpret
+- [[deutlich]] — clear; distinct
+- [[Dings]] — thingamajig
+- [[dolmetschen]] — to interpret
+- [[Einleitung]] — introduction
+- [[einverstanden]] — agreed
+- [[einverstanden sein]] — to agree
+- [[entscheiden]] — to decide
+- [[erfragen]] — to ask for sth
+- [[erinnern]] — to remember
+- [[Erklärung]] — explanation
+- [[erreichbar]] — reachable
+- [[Feedback]] — feedback
+- [[fließend]] — fluently
+- [[flüssig]] — fluent; liquid
+- [[flüstern]] — to whisper
+- [[Formulierung]] — wording; phrasing
+- [[Fragesatz]] — interrogative clause
+- [[Fremdsprache]] — foreign language
+- [[Gedanke]] — thought
+- [[Gegenteil]] — opposite
+- [[Gegenvorschlag]] — counterproposal
+- [[Genitiv]] — genitive
+- [[Gesprächspartner]] — interlocutor (m)
+- [[Gesprächspartnerin]] — interlocutor (f)
+- [[Gliederung]] — outline
+- [[Glückwunschkarte]] — congratulations card
+- [[Hauptsatz]] — main clause
+- [[Hauptteil]] — main part
+- [[Hauptthema]] — main topic
+- [[hinterlassen]] — to leave (behind)
+- [[indirekt]] — indirect
+- [[Info]] — info (= information)
+- [[informieren]] — to inform
+- [[kapieren]] — to understand
+- [[kommentieren]] — to comment on sth
+- [[Kommunikation]] — communication
+- [[kommunizieren]] — to communicate
+- [[Komparativ]] — comparative
+- [[konjugiert]] — conjugated
+- [[Konjunktiv]] — subjunctive
+- [[Kontaktdaten]] — contact details
+- [[konzentrieren]] — to concentrate
+- [[Kurzbeschreibung]] — short description; summary
+- [[logisch]] — logical
+- [[lösen]] — to solve
+- [[Lösungsvorschlag]] — proposed solution
+- [[mitteilen]] — to inform; to notify
+- [[Mitteilung]] — notification
+- [[Nebensatz]] — subordinate clause
+- [[nicken]] — to nod
+- [[Positionsverb]] — verb of position
+- [[Präsens]] — present tense
+- [[Prüfer]] — examiner (m)
+- [[Prüferin]] — examiner (f)
+- [[Rat]] — advice
+- [[Ratschlag]] — advice
+- [[recht haben]] — to be right
+- [[Redewiedergabe]] — reported speech
+- [[reflexiv]] — reflexive
+- [[Reflexivpronomen]] — reflexive pronoun
+- [[Relativpronomen]] — relative pronoun
+- [[Relativsatz]] — relative clause
+- [[Richtungsverb]] — verb of direction
+- [[rufen]] — to call
+- [[Rückfrage]] — further inquiry
+- [[Rückmeldung]] — feedback; response
+- [[Satzakzent]] — stress of the sentence
+- [[Satzhälfte]] — half of the sentence
+- [[Schlüsselwort]] — keyword
+- [[Schrift]] — writing; script; handwriting
+- [[senden]] — to send
+- [[SMS]] — text message
+- [[Sprichwort]] — proverb
+- [[Steckbrief]] — profile
+- [[Stichwort]] — keyword
+- [[Stimme]] — voice
+- [[strukturieren]] — to structure sth
+- [[Superlativ]] — superlative
+- [[Telefonat]] — phone call
+- [[telefonisch]] — by phone
+- [[Textanfang]] — beginning of the text
+- [[Trick]] — trick
+- [[unterhalten]] — to talk
+- [[usw]] — etc. (and so on)
+- [[Verbesserungsvorschlag]] — improvement suggestions
+- [[Vermutung]] — assumption
+- [[versprechen (verb)]] — to promise
+- [[Verzeihung]] — pardon; forgiveness (Verzeihung! = Excuse me!)
+- [[vorschlagen]] — to suggest
+- [[vortragen]] — to present
+- [[weil]] — because
+- [[weiterflüstern]] — to pass on in a whisper
+- [[weitergeben]] — to pass on sth to sb
+- [[wenn]] — when
+- [[Wissen]] — knowledge
+- [[Wortfamilie]] — word family
+- [[Wortgrenze]] — word boundary
+- [[Zeile]] — line
+- [[zuhören]] — to listen
+- [[zurückrufen]] — to call sb back
+- [[zusammenfassen]] — to summarize
+- [[zustimmen]] — to agree
+- [[äußern]] — to express
+- [[übersetzen]] — to translate
+- [[Übersetzung]] — translation
+
+### B1 (181)
+
+- [[abmachen]] — to agree; to detach
+- [[Adjektivendung]] — adjective ending
+- [[Adverb]] — adverb
+- [[Akkusativobjekt]] — direct object
+- [[Aktiv]] — active
+- [[analysieren]] — to analyse
+- [[angeblich]] — allegedly; supposedly
+- [[angehen]] — to concern; to tackle
+- [[ankündigen]] — to announce
+- [[Anleitung]] — instruction
+- [[anonym]] — anonymous
+- [[anregen]] — to stimulate; to inspire
+- [[anscheinend]] — apparently
+- [[Ansicht]] — opinion; view
+- [[Argument]] — argument
+- [[auffordern]] — to ask; to request
+- [[ausdenken]] — to think up; to invent
+- [[Ausrede]] — excuse
+- [[ausreden]] — to finish speaking
+- [[bedenken]] — to consider
+- [[Bedingungssatz]] — conditional clause
+- [[befragen]] — to question
+- [[befürworten]] — to support; to be in favour of
+- [[Begriff]] — term
+- [[Begründung]] — reason; justification
+- [[begrüßen]] — to greet
+- [[Begrüßung]] — greeting
+- [[behaupten]] — to claim
+- [[Behauptung]] — claim
+- [[beispielsweise]] — for example
+- [[bekannt geben]] — to announce
+- [[Benimmbuch]] — book of etiquette
+- [[beschließen]] — to decide
+- [[besprechen]] — to discuss
+- [[bewerten]] — to evaluate
+- [[bezeichnen]] — to describe; to call; to designate
+- [[Bezeichnung]] — term
+- [[beziehen]] — to refer (sich beziehen auf); to obtain; to move into
+- [[Blickkontakt]] — eye contact
+- [[contra]] — against; con
+- [[darstellen]] — to depict; to present; to represent
+- [[Darstellung]] — depiction
+- [[Definition]] — definition
+- [[deklinieren]] — to decline
+- [[Dialekt]] — dialect
+- [[diktieren]] — to dictate
+- [[diplomatisch]] — diplomatic
+- [[Diskussion]] — discussion
+- [[duzen]] — to use the informal greeting
+- [[ebenfalls]] — also
+- [[Einfall]] — idea
+- [[einleiten]] — to introduce, to initiate
+- [[Empfehlung]] — recommendation
+- [[entschließen]] — to decide
+- [[erfahren]] — to learn; to find out; to experience
+- [[erkundigen]] — to inquire
+- [[erraten]] — to guess
+- [[Faden]] — thread; (den Faden verlieren = to lose the thread)
+- [[Festnetz]] — landline
+- [[feststellen]] — to notice; to establish; to realise
+- [[Finalsatz]] — purpose clause
+- [[Folie]] — slide; transparency
+- [[Futur]] — future (tense)
+- [[Gedächtnis]] — memory
+- [[Gedächtnisleistung]] — memory performance
+- [[gell]] — right? isn't it? (South German tag question)
+- [[Goldwaage]] — gold scales (auf die Goldwaage legen = to take too literally)
+- [[Gratulation]] — congratulations
+- [[Griechisch]] — Greek (language)
+- [[Grundform]] — basic form
+- [[halbformell]] — semi-formal
+- [[herausfinden]] — to find out
+- [[heraussuchen]] — to look out; to pick out
+- [[hervorheben]] — to highlight
+- [[Hilfsmittel]] — aid; tool
+- [[hinweisen]] — to point out; to refer
+- [[Ich-Aussage]] — I-statement
+- [[Infoblatt]] — fact sheet
+- [[Infomaterial]] — information material
+- [[inhaltlich]] — in terms of content
+- [[Internationalismus]] — internationalism; international word
+- [[irreal]] — unreal; hypothetical
+- [[irren]] — to be wrong, to confuse
+- [[Kasus]] — case (grammar)
+- [[Kausalsatz]] — causal clause
+- [[klären]] — to settle
+- [[kommunikativ]] — communicative
+- [[Kompromiss]] — compromise
+- [[Konjunktivform]] — subjunctive form
+- [[Konnektor]] — connector (grammar); connective
+- [[Konsekutivsatz]] — consecutive clause
+- [[Kontrastakzent]] — contrastive stress
+- [[Kontrastwort]] — contrast word
+- [[konzentriert]] — concentrated; focused
+- [[Konzessivsatz]] — concessive clause
+- [[Kritik]] — criticism
+- [[kritisieren]] — to criticise
+- [[Körpersprache]] — body language
+- [[lauten]] — to read, go (text); to be worded
+- [[Lebensweisheit]] — worldly wisdom
+- [[Markierung]] — marking
+- [[meinetwegen]] — fine with me
+- [[Missverständnis]] — misunderstanding
+- [[Modalpartikel]] — modal particle
+- [[Moderator]] — presenter (m); moderator
+- [[Moderatorin]] — presenter (f); moderator
+- [[Modul]] — module
+- [[n-Deklination]] — n-declination
+- [[nachdenken]] — to think (about)
+- [[nachprüfen]] — to check
+- [[nachschlagen]] — to look up
+- [[Neuigkeit]] — news
+- [[nominal]] — nominal
+- [[Partikel]] — particle
+- [[Passiv]] — passive
+- [[Passivform]] — passive form
+- [[Passivsatz]] — passive sentence
+- [[Phantasie]] — imagination
+- [[Plusquamperfekt]] — pluperfect
+- [[Pronominaladverb]] — pronominal adverb
+- [[Präpositionalergänzung]] — prepositional complement
+- [[Ratgeber]] — advisor; guidebook
+- [[recht geben]] — to agree
+- [[Rede]] — speech
+- [[Rückblick]] — review
+- [[Satzanfang]] — beginning of a sentence
+- [[Satzteil]] — part of the sentence
+- [[Satzverneinung]] — sentence negation
+- [[Satzzeichen]] — punctuation marks
+- [[schreien]] — to scream
+- [[schweigen]] — to remain silent
+- [[schweizerdeutsch]] — Swiss German
+- [[schätzen]] — to guess
+- [[siezen]] — to use the formal greeting
+- [[signalisieren]] — to signal
+- [[Silbe]] — syllable
+- [[Singularform]] — singular form
+- [[sorry]] — sorry
+- [[Spruch]] — saying
+- [[stilistisch]] — stylistic
+- [[Streitgespräch]] — debate; argument
+- [[Struktur]] — structure
+- [[Störung]] — disturbance; interruption; disorder
+- [[Temporalsatz]] — temporal clause
+- [[Tempus]] — tense
+- [[Tempusform]] — tense (form)
+- [[Textaufbau]] — text structure
+- [[umformulieren]] — to rephrase
+- [[Umschreibung]] — paraphrase
+- [[undiplomatisch]] — undiplomatic
+- [[unverständlich]] — incomprehensible
+- [[Urteil]] — judgement; verdict
+- [[verbreiten]] — to spread
+- [[Verbteil]] — part of the verb
+- [[Vergangenheitsform]] — past tense
+- [[verneinen]] — to negate
+- [[verraten]] — to reveal; to betray
+- [[veröffentlichen]] — to publish; to release
+- [[Videonachricht]] — video message
+- [[Vokallänge]] — vowel length
+- [[Vokaländerung]] — vowel change
+- [[Vorvergangenheit]] — past perfect (pluperfect)
+- [[Wahrheit]] — truth
+- [[warnen]] — to warn
+- [[werten]] — to assess; to rate
+- [[widersprechen]] — to contradict
+- [[Wortakzent]] — lexical stress
+- [[Wortspiel]] — pun/play on words
+- [[Wortstamm]] — root word
+- [[Zitat]] — quotation; quote
+- [[zurückbrüllen]] — to roar back
+- [[Zustimmung]] — consent; approval
+- [[Zweifel]] — doubt
+- [[zweifeln]] — to doubt
+- [[zweiteilig]] — two-part
+- [[Zweitsprache]] — second language
+- [[überfragt sein]] — to be stumped
+- [[überreden]] — to persuade; to talk into
+- [[übertragen]] — to transfer; to transmit; to broadcast
+- [[überzeugen]] — to convince
+- [[überzeugend]] — convincing
+
+### B2 (14)
+
+- [[Auffassung]] — view; opinion
+- [[ausführlich]] — detailed; extensive
+- [[beurteilen]] — to assess; to judge
+- [[Denken]] — thinking
+- [[Du-Botschaft]] — you-message (accusatory statement)
+- [[Fakt]] — fact
+- [[Gerücht]] — rumour
+- [[Ich-Botschaft]] — I-message
+- [[identifizieren]] — to identify
+- [[Irrtum]] — mistake; error
+- [[kontaktieren]] — to contact
+- [[relativieren]] — to put into perspective; to qualify
+- [[sprachlich]] — linguistic
+- [[Wahrnehmung]] — perception
+
+### C1 (13)
+
+- [[anführen]] — to cite; to lead
+- [[aufzeigen]] — to point out; to show
+- [[benennen]] — to name; to designate
+- [[bestreiten]] — to deny; to dispute
+- [[differenzieren]] — to differentiate
+- [[inwiefern]] — to what extent; in what way
+- [[Ironie]] — irony
+- [[ironisch]] — ironic
+- [[kognitiv]] — cognitive
+- [[nachvollziehbar]] — comprehensible
+- [[nachvollziehen]] — to understand; to follow
+- [[Schilderung]] — description; account
+- [[Sichtweise]] — point of view; perspective
+
+## B2 bank
+
+### B2 (255)
+
+- [[abgrenzen]] — to distinguish; to set apart
+- [[Abgrenzung]] — distinction; demarcation
+- [[abkürzen]] — to abbreviate; to shorten
+- [[ableiten]] — to derive; to deduce
+- [[abraten]] — to advise against
+- [[abweichen]] — to deviate; to differ
+- [[abwägen]] — to weigh up; to consider carefully
+- [[Abwägung]] — weighing up; consideration
+- [[Aktualität]] — topicality; up-to-dateness
+- [[Amtsdeutsch]] — officialese; bureaucratic German
+- [[andeuten]] — to hint at; to indicate
+- [[Anerkennung finden]] — to gain recognition
+- [[Anglizismus]] — anglicism
+- [[Anhaltspunkt]] — clue; indication; reference point
+- [[Anklang finden]] — to meet with approval
+- [[anknüpfen]] — to link up; to build on
+- [[anmerken]] — to remark; to notice (in someone)
+- [[Anmerkung]] — note; remark
+- [[ans Licht bringen]] — to bring to light
+- [[anschaulich]] — vivid; illustrative
+- [[anspielen]] — to allude (to); to hint at
+- [[anzweifeln]] — to doubt; to question
+- [[appellieren]] — to appeal
+- [[Argumentation]] — line of argument; argumentation
+- [[argumentieren]] — to argue (give reasons)
+- [[auf dem Holzweg sein]] — to be on the wrong track
+- [[auf dem Laufenden halten]] — to keep informed
+- [[auf den Punkt bringen]] — to put succinctly; to sum up
+- [[aufgreifen]] — to take up; to pick up (a topic)
+- [[Aufmerksamkeit schenken]] — to pay attention
+- [[aufschlagen]] — to open (a book); to hit; to increase (prices)
+- [[aufschlussreich]] — revealing; informative
+- [[Ausdruck verleihen]] — to give expression to
+- [[Ausdrucksweise]] — manner of expression; wording
+- [[ausdrücklich]] — explicit; expressly
+- [[ausfragen]] — to question; to grill
+- [[Ausgewogenheit]] — balance; fairness
+- [[ausklammern]] — to exclude; to leave out
+- [[auslassen]] — to omit; to skip; to vent
+- [[ausloten]] — to sound out; to explore
+- [[auswerten]] — to evaluate; to analyse
+- [[Beachtung finden]] — to receive attention
+- [[Beachtung schenken]] — to pay attention
+- [[Bedenken äußern]] — to voice concerns
+- [[Bedeutung beimessen]] — to attach importance
+- [[befassen]] — to deal with; to concern oneself
+- [[beiläufig]] — casual; in passing
+- [[beipflichten]] — to agree with; to concur
+- [[bekanntlich]] — as is well known; as we know
+- [[bekräftigen]] — to reaffirm; to confirm
+- [[belegen]] — to prove; to document; to occupy
+- [[beleuchten]] — to light up; to examine (a topic)
+- [[bemängeln]] — to find fault with; to criticise
+- [[Beobachtung]] — observation
+- [[Bericht erstatten]] — to report; to give a report
+- [[berichtigen]] — to correct; to rectify
+- [[beruhen]] — to be based (on)
+- [[Bescheid geben]] — to let someone know
+- [[Betrachtung]] — consideration; contemplation
+- [[Betrachtungsweise]] — way of looking at things; approach
+- [[beugen]] — to bend; to inflect; to yield
+- [[Bewertung]] — assessment; rating
+- [[Bezug nehmen]] — to refer
+- [[bezweifeln]] — to doubt
+- [[billigen]] — to approve; to sanction
+- [[charakterisieren]] — to characterise
+- [[das Wort ergreifen]] — to take the floor
+- [[das Wort erteilen]] — to give the floor
+- [[demzufolge]] — accordingly; according to this
+- [[den Faden verlieren]] — to lose the thread
+- [[den Nagel auf den Kopf treffen]] — to hit the nail on the head
+- [[die Kirche im Dorf lassen]] — to keep things in proportion
+- [[diesbezüglich]] — in this regard; concerning this
+- [[Dolmetscher]] — interpreter
+- [[Durchblick]] — overview; grasp of things
+- [[durchschauen]] — to see through
+- [[ein Fazit ziehen]] — to draw a conclusion; to sum up
+- [[Eindeutigkeit]] — clarity; unambiguity
+- [[einen Vergleich ziehen]] — to draw a comparison
+- [[Eingang finden]] — to find its way (into); to be incorporated
+- [[einleuchten]] — to make sense; to be plausible
+- [[einordnen]] — to classify; to put in order
+- [[Einordnung]] — classification; categorisation
+- [[einräumen]] — to admit; to concede; to grant
+- [[einschätzen]] — to assess; to judge
+- [[Einschätzung]] — assessment; estimation
+- [[Einseitigkeit]] — one-sidedness
+- [[Einsicht]] — insight; realisation; access (to files)
+- [[Einwand]] — objection
+- [[einwenden]] — to object
+- [[einwirken]] — to influence; to act upon
+- [[entgegnen]] — to reply; to retort
+- [[entnehmen]] — to take from; to gather (from)
+- [[erbitten]] — to request; to ask for (formal)
+- [[Erfahrungswert]] — empirical value; figure based on experience
+- [[erfassen]] — to record; to grasp; to cover
+- [[ergo]] — therefore; hence
+- [[Ergänzung]] — addition; supplement
+- [[Erkenntnis]] — insight; realisation; finding
+- [[erläutern]] — to explain; to elucidate
+- [[erwidern]] — to reply; to return (a feeling)
+- [[erwägen]] — to consider; to contemplate
+- [[Erwägung]] — consideration; deliberation
+- [[erwähnen]] — to mention
+- [[etwas unter den Teppich kehren]] — to sweep something under the carpet
+- [[Fachbegriff]] — technical term
+- [[Fachsprache]] — technical language; jargon
+- [[Fazit]] — conclusion; summary verdict
+- [[folgern]] — to conclude; to deduce
+- [[Folgerung]] — inference; conclusion
+- [[Fragen stellen]] — to ask questions
+- [[freilich]] — admittedly; of course
+- [[Fremdwort]] — foreign word; loanword
+- [[fußen]] — to be based on
+- [[gegenüberstellen]] — to compare; to juxtapose
+- [[Gesetzmäßigkeit]] — regularity; law (of nature)
+- [[Gesichtspunkt]] — point of view; aspect
+- [[Gewicht legen]] — to place weight (on)
+- [[Gewicht legen auf]] — to put emphasis on
+- [[Gewichtung]] — weighting; emphasis
+- [[gewissermaßen]] — so to speak; in a way
+- [[Gewissheit]] — certainty
+- [[Glauben schenken]] — to believe; to give credence
+- [[Hand und Fuß haben]] — to make sense; to be well thought out
+- [[Herangehensweise]] — approach; way of tackling
+- [[hindeuten]] — to point to; to indicate
+- [[hinterfragen]] — to question; to scrutinise
+- [[hinzufügen]] — to add
+- [[Hochdeutsch]] — standard German
+- [[Hörverstehen]] — listening comprehension
+- [[im Großen und Ganzen]] — by and large; on the whole
+- [[im Grunde genommen]] — basically; at bottom
+- [[in den Hintergrund treten]] — to take a back seat
+- [[in den Vordergrund stellen]] — to put in the foreground; to emphasise
+- [[in Erfahrung bringen]] — to find out; to learn
+- [[in Erwägung ziehen]] — to consider
+- [[in Frage stellen]] — to call into question
+- [[in Kontakt treten]] — to get in touch; to make contact
+- [[in Verbindung setzen]] — to get in touch (with)
+- [[in Verbindung stehen]] — to be connected; to be in contact
+- [[in Vergessenheit geraten]] — to be forgotten; to fall into oblivion
+- [[in Zusammenhang stehen]] — to be connected; to be related
+- [[in Zweifel ziehen]] — to call into question
+- [[ins Gespräch kommen]] — to get into conversation
+- [[ins Schwarze treffen]] — to hit the bull's eye; to get it exactly right
+- [[jemandem auf den Zahn fühlen]] — to sound someone out; to quiz someone
+- [[jemandem einen Bären aufbinden]] — to pull someone's leg; to tell someone a tall story
+- [[jemandem etwas ans Herz legen]] — to recommend something warmly to someone
+- [[jemandem reinen Wein einschenken]] — to tell someone the plain truth
+- [[Jugendsprache]] — youth slang
+- [[keinen Hehl aus etwas machen]] — to make no secret of something
+- [[Kernaussage]] — central message; key statement
+- [[Kernpunkt]] — crux; main point
+- [[Klarheit schaffen]] — to clear things up
+- [[Klischee]] — cliché; stereotype
+- [[Kontakt aufnehmen]] — to get in touch
+- [[Kritik üben]] — to criticise
+- [[Kritikpunkt]] — point of criticism
+- [[Lehnwort]] — loanword
+- [[Leitgedanke]] — guiding principle; central idea
+- [[Leseverstehen]] — reading comprehension
+- [[lückenhaft]] — patchy; incomplete
+- [[Mehrsprachigkeit]] — multilingualism
+- [[Merkfähigkeit]] — ability to remember; retentiveness
+- [[mit der Tür ins Haus fallen]] — to blurt something out; to get straight to the point (tactlessly)
+- [[Mundart]] — dialect
+- [[mutmaßen]] — to speculate; to surmise
+- [[Muttersprachler]] — native speaker
+- [[Nachdruck]] — emphasis; insistence
+- [[Nachdruck legen]] — to emphasise
+- [[Nachdruck verleihen]] — to lend emphasis
+- [[nachweisen]] — to prove; to demonstrate; to detect
+- [[naheliegend]] — obvious; natural
+- [[nichtsdestotrotz]] — nevertheless; all the same
+- [[Notiz nehmen]] — to take notice
+- [[Nuance]] — nuance; shade
+- [[Objektivität]] — objectivity
+- [[offenkundig]] — obvious; evident
+- [[plädieren]] — to plead; to advocate
+- [[Position beziehen]] — to take a position
+- [[Quelle]] — source; spring
+- [[Rechtfertigung]] — justification; excuse
+- [[Rechtschreibung]] — spelling; orthography
+- [[Rede und Antwort stehen]] — to answer for oneself; to be held to account
+- [[Redewendung]] — idiom; expression
+- [[resultieren]] — to result (from)
+- [[richten]] — to direct; to address; to fix
+- [[Sachlichkeit]] — objectivity; matter-of-factness
+- [[Satzbau]] — sentence structure
+- [[Schimpfwort]] — swear word; insult
+- [[schlussfolgern]] — to conclude; to infer
+- [[Schlussfolgerung]] — conclusion; inference
+- [[schlüssig]] — conclusive; coherent
+- [[schwammig]] — spongy; vague
+- [[sich den Kopf zerbrechen]] — to rack one's brains
+- [[sich Gedanken machen]] — to think about; to give thought to
+- [[sinngemäß]] — in essence; roughly in meaning
+- [[sodann]] — then; thereupon
+- [[sozusagen]] — so to speak; as it were
+- [[spekulieren]] — to speculate
+- [[Sprachniveau]] — language level
+- [[Stellung beziehen]] — to take a stand
+- [[Stellung nehmen]] — to comment; to take a position
+- [[stichhaltig]] — sound; valid
+- [[stillschweigend]] — tacit; silently
+- [[stützen]] — to support; to base on
+- [[tendieren]] — to tend; to incline
+- [[Textverständnis]] — text comprehension
+- [[These]] — thesis; hypothesis
+- [[tuscheln]] — to whisper; to mutter
+- [[Umdenken]] — rethink; change of thinking
+- [[Umgangssprache]] — colloquial language
+- [[unmissverständlich]] — unmistakable; unambiguous
+- [[unter vier Augen]] — in private; face to face
+- [[unterbreiten]] — to submit; to put forward
+- [[untermauern]] — to back up; to substantiate
+- [[unterstellen]] — to insinuate; to assume
+- [[Untertreibung]] — understatement
+- [[Ursprung]] — origin; source
+- [[verharmlosen]] — to play down; to trivialise
+- [[verknüpfen]] — to link; to connect
+- [[verplappern]] — to let something slip
+- [[verstummen]] — to fall silent
+- [[Verständigung]] — communication; understanding
+- [[verweisen]] — to refer; to point out
+- [[vorwerfen]] — to reproach; to accuse
+- [[Wasser auf jemandes Mühlen sein]] — to be grist to someone's mill
+- [[widerlegen]] — to refute; to disprove
+- [[widerspiegeln]] — to reflect; to mirror
+- [[widersprüchlich]] — contradictory
+- [[wiederum]] — again; in turn; on the other hand
+- [[wohlgemerkt]] — mind you; please note
+- [[Wortbildung]] — word formation
+- [[Wortschatz]] — vocabulary
+- [[Zeichensetzung]] — punctuation
+- [[zu dem Schluss kommen]] — to come to the conclusion
+- [[zu Wort kommen]] — to get a chance to speak
+- [[zugeben]] — to admit; to confess
+- [[zum Ausdruck bringen]] — to express
+- [[zum Ausdruck kommen]] — to be expressed; to come across
+- [[Zungenbrecher]] — tongue twister
+- [[zur Diskussion stehen]] — to be under discussion
+- [[zur Kenntnis nehmen]] — to take note of
+- [[zur Sache kommen]] — to get to the point
+- [[zur Sprache bringen]] — to bring up; to raise
+- [[zurückführen]] — to trace back (to); to attribute
+- [[Zusammenfassung]] — summary
+- [[zusammenhängen]] — to be connected; to be related
+- [[zweifelhaft]] — doubtful; dubious
+- [[zwischen den Zeilen lesen]] — to read between the lines
+- [[überdenken]] — to reconsider; to think over
+- [[übereinstimmen]] — to agree; to match
+- [[überleiten]] — to lead over; to make a transition
+- [[Übertreibung]] — exaggeration
+- [[Überzeugungskraft]] — persuasiveness
+<!-- bank:end -->
+
+## My notes
+

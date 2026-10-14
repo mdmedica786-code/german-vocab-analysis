@@ -1,0 +1,32 @@
+---
+title: "verdächtig"
+type: "word"
+lemma: "verdächtig"
+meaning: "suspicious"
+pos: "adjective"
+level: "B1"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "main"
+id: "B6282"
+goethe_level: "B1"
+freq_rank: 5342
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# verdächtig
+
+**Meaning:** suspicious
+**Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Tür war nicht abgeschlossen. Das ist verdächtig.
+> *The door was not locked. That is suspicious.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

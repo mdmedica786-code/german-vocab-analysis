@@ -1,0 +1,893 @@
+---
+title: "T10 Freizeit, Sport, Kultur & Medien"
+type: "moc"
+tags: ["moc", "topic/T10"]
+---
+<!-- bank:start -->
+# T10 Freizeit, Sport, Kultur & Medien
+
+Map of content. 734 words in the main bank, 122 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (195)
+
+- [[Akku]] — battery
+- [[Aktivität]] — activity
+- [[anklicken]] — to click
+- [[Anrufbeantworter]] — answering machine
+- [[ansehen]] — to look at
+- [[Anzeige]] — advertisement
+- [[App]] — app
+- [[Artikelbild]] — picture with an article
+- [[Atelier]] — studio
+- [[Attraktion]] — attraction
+- [[Ausflug]] — excursion
+- [[ausgehen]] — to go out; to assume
+- [[Ausstellung]] — exhibition
+- [[automatisch]] — automatic
+- [[Ball]] — ball
+- [[Bar]] — bar
+- [[Basketball]] — basketball
+- [[Bergtour]] — mountain tour
+- [[Bericht]] — report
+- [[berühmt]] — famous
+- [[Bild]] — picture
+- [[Blog]] — blog
+- [[Buch]] — book
+- [[Bühne]] — stage
+- [[CD]] — CD
+- [[chillen]] — to chill
+- [[Chor]] — choir
+- [[Club]] — club
+- [[Comic]] — comic book
+- [[Computer]] — computer
+- [[Computerproblem]] — computer problem
+- [[Datei]] — file
+- [[Daten]] — data; dates
+- [[Design]] — design
+- [[Designfan]] — design fan
+- [[dirigieren]] — to conduct
+- [[Disco]] — disco
+- [[Double Feature]] — double feature
+- [[drucken]] — to print
+- [[Drucker]] — printer
+- [[eingeben]] — to enter
+- [[Eintritt]] — admission; entrance fee
+- [[Event]] — event
+- [[Fahrradtour]] — bike ride
+- [[Feier]] — celebration
+- [[Fernsehen]] — television
+- [[fernsehen (verb)]] — to watch television
+- [[Fernseher]] — television
+- [[Fest]] — festival
+- [[Festival]] — festival
+- [[Festspiel]] — festival production
+- [[Film]] — film
+- [[Filmfan]] — film fan
+- [[Fitness-Studio]] — gym
+- [[Fitnessgerät]] — fitness equipment
+- [[Forumsbeitrag]] — forum post
+- [[Foto]] — photo
+- [[fotografieren]] — to photograph
+- [[Freizeit]] — free time
+- [[Freizeitaktivität]] — extracurricular activity
+- [[Fußball]] — football
+- [[Fußballspiel]] — football game
+- [[Führung]] — guided tour
+- [[Gadget]] — gadget
+- [[Geige]] — violin
+- [[Geigenunterricht]] — violin lessons
+- [[Geschichte]] — story; history
+- [[gewinnen]] — to win
+- [[Grillparty]] — barbecue
+- [[Gästebuch]] — guestbook
+- [[Halbmarathon]] — half-marathon
+- [[Handy]] — mobile phone
+- [[Handy-Akku]] — phone battery
+- [[Helm]] — helmet
+- [[Hobby]] — hobby
+- [[hochfahren]] — to start up
+- [[Homepage]] — homepage
+- [[Internet]] — internet
+- [[Interview]] — interview
+- [[Jahrestreffen]] — yearly meeting
+- [[joggen]] — to jog
+- [[Kamera]] — camera
+- [[Karate]] — karate
+- [[Karussell]] — merry-go-round
+- [[Kino]] — cinema; movie theater
+- [[klettern]] — to climb
+- [[Kneipe]] — bar
+- [[Konzert]] — concert
+- [[Konzertbeginn]] — beginning of the concert
+- [[Konzerthaus]] — concert hall
+- [[Konzertkarte]] — concert ticket
+- [[Kultur]] — culture
+- [[Kultur-Nacht]] — cultural night
+- [[kulturell]] — cultural
+- [[Kulturfestival]] — culture festival
+- [[Kunst]] — art
+- [[Kunsthalle]] — art gallery
+- [[laufen]] — to run; to walk; to work
+- [[lesen]] — to read
+- [[Lieblingsort]] — favourite place
+- [[Lied]] — song
+- [[malen]] — to paint
+- [[Marathon]] — marathon
+- [[Medien]] — media
+- [[Mitglied]] — member
+- [[mitkommen]] — to come along
+- [[mitmachen]] — to join in, to participate
+- [[Museum]] — museum
+- [[Museumsnacht]] — museum night
+- [[Musik]] — music
+- [[Musikgruppe]] — music group
+- [[Musikproduktion]] — music production
+- [[Nachricht]] — message; news
+- [[Nachrichten]] — news
+- [[offline]] — offline
+- [[online]] — online
+- [[Open-Air-Kino]] — open-air cinema
+- [[Oper]] — opera
+- [[Orchester]] — orchestra
+- [[Pantomime]] — pantomime
+- [[Park]] — park
+- [[Party]] — party
+- [[Passwort]] — password
+- [[Picknick]] — picnic
+- [[populär]] — popular
+- [[Profil]] — profile
+- [[Programm]] — program
+- [[Publikum]] — audience
+- [[Radiosendung]] — radio programme
+- [[Ratebild]] — picture puzzle
+- [[Regisseur]] — director (m)
+- [[Regisseurin]] — director (f)
+- [[Requiem]] — requiem
+- [[sammeln]] — to collect
+- [[Saxofon]] — saxophone
+- [[schauen]] — to look
+- [[Schwimmbad]] — swimming pool
+- [[schwimmen]] — to swim
+- [[segeln]] — to sail
+- [[Sensation]] — sensation
+- [[Serie]] — series
+- [[singen]] — to sing
+- [[Ski]] — ski
+- [[Skifahren]] — to ski
+- [[Solist]] — soloist (m)
+- [[Solistin]] — soloist (f)
+- [[Sommerfest]] — summer festival
+- [[spazieren gehen]] — to go for a walk
+- [[Spaziergang]] — walk
+- [[speichern]] — to save
+- [[Spiel]] — game
+- [[spielen]] — to play
+- [[Spielplatz]] — playground
+- [[Sport]] — sport
+- [[Sportclub]] — sports club
+- [[Sportler]] — athlete (m)
+- [[Sportlerin]] — athlete (f)
+- [[sportlich]] — athletic
+- [[Stadion]] — stadium
+- [[Stadtpark]] — city park
+- [[Star]] — star
+- [[Statist]] — extra (m)
+- [[Statistin]] — extra (f)
+- [[Strandbar]] — beach bar
+- [[Studio]] — studio
+- [[Szene]] — scene
+- [[tanzen]] — to dance
+- [[Tennis]] — tennis
+- [[Tennisplatz]] — tennis court
+- [[Theater]] — theatre
+- [[Theater-Festival]] — theatre festival
+- [[topaktuell]] — cutting-edge
+- [[trainieren]] — to train
+- [[Training]] — training; practice session
+- [[Trompete]] — trumpet
+- [[Trompetenunterricht]] — trumpet lessons
+- [[USB-Stick]] — USB stick
+- [[Veranstaltung]] — event
+- [[Verein]] — club
+- [[Video]] — video
+- [[vorlesen]] — to read aloud
+- [[vorspielen]] — to act out
+- [[wandern]] — to hike
+- [[Weihnachtsmarkt]] — Christmas market
+- [[WLAN]] — Wi-Fi
+- [[würfeln]] — to roll (the dice)
+- [[Yoga]] — yoga
+- [[zeichnen]] — to draw
+- [[Zeichnung]] — drawing
+- [[Zeitschrift]] — magazine
+- [[Zeitung]] — newspaper
+- [[Zoo]] — zoo
+- [[Zumba]] — zumba
+- [[Zuschauer]] — spectator (m)
+- [[Zuschauerin]] — spectator (f)
+
+### A2 (209)
+
+- [[Abend-Programm]] — evening programme
+- [[abmalen]] — to copy (in a drawing)
+- [[abonnieren]] — to subscribe to sth
+- [[abstrakt]] — abstract
+- [[Actionfilm]] — action film
+- [[Album]] — album
+- [[anhören]] — to listen
+- [[Audioguide]] — audio guide
+- [[ausdrucken]] — to print
+- [[ausschalten]] — to switch off
+- [[Autobiografie]] — autobiography
+- [[Band]] — ribbon
+- [[basteln]] — to make sth
+- [[bearbeiten]] — to edit
+- [[Bestseller-Liste]] — bestseller list
+- [[Bildschirm]] — screen
+- [[Blogbeitrag]] — blog post
+- [[bloggen]] — to blog
+- [[Bücherei]] — library
+- [[chatten]] — to chat
+- [[Clubdisco]] — club disco
+- [[Disko]] — disco
+- [[Dom]] — cathedral
+- [[downloaden]] — to download
+- [[Drama]] — drama
+- [[E-Book]] — e-book
+- [[E-Book-Reader]] — e-book reader
+- [[Elektro]] — electro (music)
+- [[empfangen]] — to receive; to welcome
+- [[Entertainer]] — entertainer (m)
+- [[Entertainerin]] — entertainer (f)
+- [[entspannen]] — to relax
+- [[Fan]] — fan
+- [[Fanartikel]] — team merchandise
+- [[Fanseite]] — fan page
+- [[Fantasy-Film]] — fantasy film
+- [[Festivalbesuch]] — festival visit
+- [[Feuerwerk]] — fireworks
+- [[Filmbeschreibung]] — film description
+- [[Filmmusik]] — film music
+- [[Filmprojekt]] — film project
+- [[fit sein]] — to be fit
+- [[Fortsetzung]] — sequel
+- [[Forum]] — forum; online forum
+- [[Fotoapparat]] — camera
+- [[Fußballfan]] — football fan
+- [[Fußballschuh]] — football boot
+- [[Fußballstar]] — football star
+- [[Geburtstagsparty]] — birthday party
+- [[Gitarre]] — guitar
+- [[Handball]] — handball
+- [[Handlung]] — plot
+- [[Hardrock]] — hard rock
+- [[Hauptperson]] — main character
+- [[Hauptrolle]] — lead role
+- [[herunterladen]] — to download
+- [[Hit]] — hit
+- [[hochladen]] — to upload
+- [[Hochseilgarten]] — high ropes course
+- [[Horrorfilm]] — horror film
+- [[Hörer]] — listener (m)
+- [[Hörerin]] — listener (f)
+- [[Indie]] — indie
+- [[Instrument]] — instrument
+- [[Kabel]] — cable
+- [[Kajak]] — kayak
+- [[Kajaktour]] — kayak tour
+- [[Kanal]] — channel
+- [[Kinderbuch]] — children's book
+- [[Kinderfilm]] — children's film
+- [[Kinobesuch]] — visit to the cinema
+- [[Kitesurfen]] — kitesurfing
+- [[Klassiker]] — classic
+- [[klatschen]] — to clap
+- [[Klavier]] — piano
+- [[Kletterer]] — climber (m)
+- [[Klettergurt]] — harness
+- [[Kletterin]] — climber (f)
+- [[Klub]] — club
+- [[Komödie]] — comedy
+- [[Kondition]] — stamina
+- [[Konzertsaal]] — concert hall
+- [[Krimi]] — detective story; crime novel
+- [[Kulisse]] — scenery; backdrop
+- [[Kunstexperte]] — art expert (m)
+- [[Kunstexpertin]] — art expert (f)
+- [[Kunstmuseum]] — art museum
+- [[Lampion]] — paper lantern
+- [[langlaufen]] — to cross-country ski
+- [[Laptop]] — laptop
+- [[Liebesfilm]] — romantic film
+- [[Like]] — like
+- [[Link]] — link
+- [[live]] — live
+- [[löschen]] — to delete
+- [[mailen]] — to mail
+- [[Malerei]] — painting
+- [[Mannschaft]] — team
+- [[Matte]] — mat
+- [[Medaille]] — medal
+- [[meistabonniert]] — most often subscribed to
+- [[Meldung]] — report; announcement
+- [[melodisch]] — melodious
+- [[Messe]] — exhibition
+- [[mitspielen]] — to join in; to play along; to act in
+- [[Mobil-]] — mobile
+- [[Mountainbike]] — mountain bike
+- [[Musikfan]] — music fan
+- [[Musikfestival]] — music festival
+- [[Musikstil]] — music genre
+- [[Märchenschloss]] — fairytale castle
+- [[Nachrichtensprecher]] — newsreader (m)
+- [[Nachrichtensprecherin]] — newsreader (f)
+- [[Paddel]] — paddle
+- [[PC]] — PC
+- [[Pop]] — pop
+- [[posten]] — to post
+- [[Poster]] — poster
+- [[programmieren]] — to programme
+- [[Prominente]] — celebrity
+- [[Quiz]] — quiz
+- [[Radio]] — radio
+- [[Radiosprecher]] — radio announcer (m)
+- [[Radiosprecherin]] — radio announcer (f)
+- [[Radtour]] — bike ride
+- [[Rap]] — rap
+- [[reiten]] — horseback riding
+- [[Repair-Café]] — repair café
+- [[Roboter]] — robot
+- [[rockig]] — rocking
+- [[Rockmusik]] — rock music
+- [[Roman]] — novel
+- [[Runde]] — lap; round
+- [[runterladen]] — to download
+- [[Rätsel]] — riddle
+- [[Sammler]] — collector (m)
+- [[Sammlerin]] — collector (f)
+- [[schaukeln]] — to rock
+- [[schießen]] — to shoot
+- [[Schloss]] — castle; lock
+- [[Schläger]] — racket; bat
+- [[Segelregatta]] — sailing regatta
+- [[Segelsport]] — sailing
+- [[Segler]] — sailor (m)
+- [[Seglerin]] — sailor (f)
+- [[Sendung]] — programme
+- [[Shooting]] — photo shoot
+- [[Sieg]] — victory
+- [[Sitzplatz]] — seat
+- [[Skistock]] — ski pole
+- [[Smartphone]] — smartphone
+- [[Smartwatch]] — smartwatch
+- [[spannend]] — exciting
+- [[Spielekonsole]] — video game console
+- [[Spielzeug]] — toy
+- [[Sportart]] — type of sport; sport
+- [[Sportplatz]] — sports ground
+- [[Sportverein]] — sports club
+- [[Sprecher]] — speaker (m)
+- [[Sprecherin]] — speaker (f)
+- [[Stadtprogramm]] — city programme
+- [[Stehplatz]] — standing place
+- [[Stummfilm]] — silent film
+- [[Surfbrett]] — surf board
+- [[surfen]] — to surf
+- [[Surfschule]] — surf school
+- [[Synchronsprecher]] — voice actor
+- [[Synchronsprecherin]] — voice actress
+- [[Tablet]] — tablet
+- [[Tagesgast]] — one-day visitor
+- [[Tango]] — tango
+- [[Tango-Musik]] — tango music
+- [[Tastatur]] — keyboard
+- [[tauchen]] — to dive
+- [[Taucherbrille]] — diving mask
+- [[teilnehmen]] — to participate
+- [[Theatergruppe]] — drama group
+- [[Thriller]] — thriller
+- [[Tierbild]] — animal picture
+- [[Tiergeschichte]] — animal story
+- [[Tiermalerei]] — animal painting
+- [[tippen]] — to type
+- [[Titel]] — title
+- [[Trailer]] — trailer
+- [[Trainer]] — coach; trainer
+- [[Trainerin]] — trainer (f)
+- [[Unterhaltung]] — entertainment
+- [[unternehmen (verb)]] — to do; to undertake
+- [[Verfilmung]] — film adaptation
+- [[Vernetzung]] — networking
+- [[virtuell]] — virtual
+- [[Volleyball]] — volleyball
+- [[Vordergrund]] — foreground
+- [[vorhaben (verb)]] — to plan
+- [[VR-Brille]] — VR goggles
+- [[Wanderer]] — hiker (m)
+- [[Wanderin]] — hiker (f)
+- [[Wanderung]] — hike
+- [[Wanderweg]] — hiking trail
+- [[Web-Adresse]] — web address
+- [[Webseite]] — website
+- [[weiterleiten]] — to forward
+- [[Werbung]] — advertisement
+- [[werfen]] — to throw
+- [[Wettbewerb]] — competition
+- [[Yoga-Kurs]] — yoga class
+- [[Zirkus]] — circus
+- [[Zuhörer]] — listener (m); member of the audience
+- [[Zuhörerin]] — listener (f); member of the audience
+
+### B1 (282)
+
+- [[Abenteuer]] — adventure
+- [[Abonnement]] — subscription
+- [[amüsieren]] — to enjoy oneself; to amuse
+- [[Annonce]] — advertisement
+- [[anschalten]] — to switch on
+- [[anschauen]] — to look at
+- [[Aquarell]] — watercolour
+- [[aufführen]] — to perform
+- [[aufladen]] — to charge
+- [[Aufnahme]] — inclusion
+- [[auftreten]] — to appear; to perform; to occur
+- [[Auftritt]] — appearance
+- [[ausstellen]] — to display; to issue
+- [[Auszeichnung]] — award
+- [[Bahnradfahrer]] — track bicycle driver (m)
+- [[Bahnradfahrerin]] — track bicycle driver (f)
+- [[Ballett]] — ballet
+- [[Bass]] — bass
+- [[Batterie]] — battery
+- [[Benutzername]] — user name
+- [[Bild-Geschichte]] — picture story
+- [[Bildunterschrift]] — caption
+- [[Biografie]] — biography
+- [[Blogeintrag]] — blog post
+- [[Bootstour]] — boat trip
+- [[Broschüre]] — brochure
+- [[Casting-Show]] — casting show
+- [[Castingshow]] — casting show
+- [[CD-Player]] — CD player
+- [[Charts]] — charts
+- [[Chat]] — chat
+- [[Chip]] — chip (electronic); crisp
+- [[Coversong]] — cover song
+- [[Daten-Chip]] — data chip
+- [[dekorieren]] — to decorate
+- [[digital]] — digital
+- [[Diskothek]] — discotheque
+- [[Download]] — download
+- [[Drohne]] — drone
+- [[Dur]] — major (key)
+- [[einfügen]] — to insert; to paste
+- [[einloggen]] — to log in
+- [[eintreten]] — to enter; to join
+- [[Elektronik]] — electronics
+- [[elektronisch]] — electronic
+- [[Erholungsmöglichkeit]] — opportunity for recreation
+- [[Erlebnis]] — experience
+- [[erscheinen]] — to appear; to be published; to seem
+- [[Erzählung]] — story; narrative
+- [[Eröffnung]] — opening
+- [[Fabel]] — fable
+- [[Fake News]] — fake news
+- [[fangen]] — to catch
+- [[Fasching]] — carnival (Austrian, Bavarian)
+- [[faulenzen]] — to lounge around
+- [[Favorit]] — favourite (m)
+- [[Favoritin]] — favourite (f)
+- [[Fernbedienung]] — remote control
+- [[Fernsehgerät]] — television
+- [[Fernsehkrimiserie]] — TV crime series
+- [[Fernsehsender]] — TV channel; TV station
+- [[Festplatte]] — hard drive
+- [[Filmbranche]] — film industry
+- [[Fitness]] — fitness
+- [[Flussbad]] — river swimming pool
+- [[Flöte]] — flute
+- [[formen]] — to shape; to form
+- [[Forumsname]] — forum name
+- [[Forumstext]] — texts in the forum
+- [[Fotografie]] — photography
+- [[Freigelände]] — open-air site
+- [[Freizeitangebot]] — recreational activity, leisure activity
+- [[Funkkopfhörer]] — wireless headphones
+- [[Galerie]] — gallery
+- [[Garderobe]] — cloakroom
+- [[Gedicht]] — poem
+- [[gedruckt]] — printed
+- [[Geräusch]] — noise; sound
+- [[Gewinn]] — profit; prize
+- [[Golfspiel]] — game of golf
+- [[googeln]] — to google
+- [[Graffito]] — graffito (single graffiti)
+- [[Gymnastik]] — gymnastics; exercises
+- [[Hallenbad]] — indoor swimming pool
+- [[Handarbeit]] — handicraft; manual work
+- [[Handyakku]] — mobile phone battery
+- [[Handyhersteller]] — mobile phone manufacturer
+- [[Held]] — hero (m)
+- [[Heldin]] — hero (f)
+- [[herumspringen]] — to jump around
+- [[herunterfahren]] — to shut down (computer)
+- [[Hightech]] — high tech
+- [[Höhepunkt]] — peak
+- [[Impro-Theater]] — improv theatre
+- [[improvisieren]] — to improvise
+- [[Inserat]] — advertisement; classified ad
+- [[Inspiration]] — inspiration
+- [[Installation]] — installation (art, software)
+- [[installieren]] — to install
+- [[interaktiv]] — interactive
+- [[Jazz]] — jazz
+- [[Jury]] — jury
+- [[Kassette]] — cassette
+- [[kitschig]] — kitschy; tacky
+- [[Klang]] — sound
+- [[Klassik]] — classical music
+- [[klassisch]] — classic
+- [[Klick]] — click
+- [[klicken]] — to click
+- [[komponieren]] — to compose
+- [[Komponist]] — composer (m)
+- [[Komponistin]] — composer (f)
+- [[Konzertreise]] — concert tour
+- [[Kopfhörer]] — headphones
+- [[Kostüm]] — costume
+- [[Kreuz]] — cross
+- [[Krimireihe]] — crime series
+- [[Kulturfest]] — cultural festival
+- [[Kunstblog]] — art blog
+- [[Kunsthistoriker]] — art historian (m)
+- [[Kunsthistorikerin]] — art historian (f)
+- [[Kunstobjekt]] — artwork
+- [[Kunstsammler]] — art collector (m)
+- [[Kunstsammlerin]] — art collector (f)
+- [[Kunststück]] — feat; trick; work of art
+- [[Kunstsupermarkt]] — art supermarket
+- [[Kunstwerk]] — artwork
+- [[künstlerisch]] — artistic
+- [[Ladekabel]] — charging cable
+- [[laden (verb)]] — to load; to charge
+- [[Lagerfeuer]] — campfire
+- [[Laufwerk]] — drive
+- [[Leser]] — reader (m)
+- [[Leserin]] — reader (f)
+- [[Liebesgeschichte]] — love story
+- [[Liebesszene]] — love scene
+- [[Liedzeile]] — line of a song
+- [[literarisch]] — literary
+- [[Literatur]] — literature
+- [[Log-in]] — log-in
+- [[Magazin]] — magazine
+- [[Magazinbericht]] — magazine report
+- [[Melodie]] — melody
+- [[Metal]] — metal
+- [[mitorganisieren]] — to help organise
+- [[mitsingen]] — to sing along
+- [[Moll]] — minor (key)
+- [[Monitor]] — monitor
+- [[Motto-Party]] — theme party
+- [[musikalisch]] — musical
+- [[Musikgeschichte]] — history of music
+- [[Musikgeschmack]] — music taste
+- [[Musikinstrument]] — musical instrument
+- [[Musikinteressierte]] — person interested in music
+- [[musizieren]] — to make music
+- [[Märchen]] — fairy tale
+- [[Netzwerk]] — network
+- [[Olympiasieger]] — Olympic champion (m)
+- [[Olympiasiegerin]] — Olympic champion (f)
+- [[Online-Redaktion]] — online editors
+- [[Open-Air-Arena]] — open air arena
+- [[Organisator]] — organiser (m)
+- [[Organisatorin]] — organiser (f)
+- [[Original]] — original
+- [[Palette]] — palette
+- [[Parade-Rolle]] — showpiece role; star role
+- [[PDF-Dokument]] — PDF document
+- [[Pianist]] — pianist (m)
+- [[Pianistin]] — pianist (f)
+- [[Piano]] — piano
+- [[Plattform]] — platform
+- [[Plogging]] — plogging
+- [[Powerbank]] — powerbank
+- [[Presse]] — press
+- [[Profisportler]] — professional athlete (m)
+- [[Profisportlerin]] — professional athlete (f)
+- [[Programmankündigung]] — program announcement
+- [[Promi]] — celebrity
+- [[Puppe]] — doll
+- [[Puzzle]] — jigsaw puzzle
+- [[Radiobericht]] — radio report
+- [[Radioumfrage]] — radio survey
+- [[Ranking]] — ranking
+- [[Rechner]] — computer; calculator
+- [[Reklame]] — advertising; advertisement
+- [[Rekord]] — record
+- [[Reportage]] — report
+- [[Reporter]] — reporter (m)
+- [[Reporterin]] — reporter (f)
+- [[Rhythmus]] — rhythm
+- [[Saal]] — hall
+- [[Salsa]] — salsa music
+- [[Sammlung]] — collection
+- [[schalten]] — to switch
+- [[Schauspielkarriere]] — acting career
+- [[schlagen]] — to hit; to beat; to strike
+- [[Schlagzeile]] — headline
+- [[Schlagzeug]] — drums; drum kit
+- [[Schriftsteller]] — writer; author
+- [[Schriftstellerin]] — writer (f)
+- [[Sender]] — channel; station
+- [[Show]] — show
+- [[siegen]] — to win; to be victorious
+- [[Sieger]] — winner
+- [[Siegerin]] — winner (f)
+- [[Skibus]] — ski bus
+- [[Skigebiet]] — ski resort
+- [[Skilift]] — ski lift
+- [[Slogan]] — slogan
+- [[smart]] — smart
+- [[Software]] — software
+- [[Song]] — song
+- [[Songtitel]] — song title
+- [[Songwriter]] — songwriter (m)
+- [[Songwriterin]] — songwriter (f)
+- [[spazieren]] — to go for a walk
+- [[Spieler]] — player
+- [[Spielerin]] — player (f)
+- [[Spielstadt]] — play city (children's mock town)
+- [[Sporthalle]] — sports hall, gym
+- [[Sportsachen]] — sport gear
+- [[Sportteam]] — sports team
+- [[Spot]] — spot (ad); spotlight
+- [[Sprachassistent]] — language assistant
+- [[springen]] — to jump
+- [[Stadtfest]] — city festival
+- [[Standardübersicht]] — standard overview
+- [[Statue]] — statue
+- [[Stick]] — memory stick
+- [[Studiogast]] — studio guest
+- [[stumm]] — mute
+- [[Swimmingpool]] — swimming pool
+- [[symbolisch]] — symbolic
+- [[Tanz]] — dance
+- [[Taste]] — key
+- [[Teilnahme]] — participation
+- [[Theaterabenteuer]] — theatre adventure
+- [[Theatermacher]] — theatre maker (m)
+- [[Theatermacherin]] — theatre maker (f)
+- [[Theaterstück]] — theatre play
+- [[Tiergarten]] — zoo
+- [[Tierpark]] — zoo
+- [[Ton]] — sound; tone; clay
+- [[Tonart]] — key
+- [[treiben]] — to do (sport); to drive; to push
+- [[Trend]] — trend
+- [[twittern]] — to tweet
+- [[unentschieden]] — undecided; drawn (sport)
+- [[unterbrechen]] — to interrupt
+- [[User]] — user
+- [[Userin]] — user (f)
+- [[veranstalten]] — to organize
+- [[Vereinsmitglied]] — club member
+- [[vergnügen (verb)]] — to enjoy oneself; to amuse oneself
+- [[vergrößern]] — to enlarge
+- [[Verlag]] — publisher; publishing house
+- [[Verlierer]] — loser
+- [[Verliererin]] — loser (f)
+- [[veröffentlichen (verb)]] — to publish; to release
+- [[Violine]] — violin
+- [[Virus]] — virus
+- [[visuell]] — visual
+- [[Volkslied]] — folk song
+- [[vorsingen]] — to sing (to someone); to audition
+- [[Vorstellung]] — idea; introduction; performance
+- [[Weblog]] — web blog
+- [[Website]] — website
+- [[Weltmeister]] — world champion (m)
+- [[Weltmeisterin]] — world champion (f)
+- [[Werbeanzeige]] — advertisement
+- [[Werbesprache]] — advertising language
+- [[Werbetrick]] — advertising trick
+- [[wetten]] — to bet
+- [[Workout]] — workout
+- [[zeitlos]] — timeless
+- [[Zeitschriftenartikel]] — newspaper article
+- [[Zeitungsartikel]] — newspaper article
+- [[Zeitungskasten]] — newspaper rack
+- [[Zeitungstext]] — newspaper text
+- [[zuschauen]] — to watch
+- [[zusehen]] — to watch
+- [[Ölfarbe]] — oil colour
+
+### B2 (28)
+
+- [[Ablenkung]] — distraction
+- [[Aufführung]] — performance
+- [[Benutzer]] — user
+- [[Bestseller]] — bestseller
+- [[Challenge]] — challenge
+- [[Chat-Nachricht]] — chat message
+- [[Cloud]] — cloud (computing)
+- [[Code]] — code
+- [[Comedy]] — comedy (genre)
+- [[Datenbank]] — database
+- [[Erzähler]] — narrator; storyteller
+- [[Game]] — game (video game)
+- [[Gewinner]] — winner
+- [[Golf]] — golf
+- [[Highlight]] — highlight
+- [[Lauf]] — run; course
+- [[Level]] — level
+- [[Nutzer]] — user
+- [[Online-Gespräch]] — online conversation
+- [[Online-Gruppe]] — online group
+- [[Online-Netzwerk]] — online network
+- [[Pokal]] — trophy; cup
+- [[Radio-Beitrag]] — radio report
+- [[Router]] — router
+- [[Smartphone-Nutzung]] — smartphone use
+- [[unterhaltsam]] — entertaining
+- [[Update]] — update
+- [[Wettkampf]] — competition
+
+### C1 (20)
+
+- [[Akt]] — act (of a play); nude (art)
+- [[Auflage]] — edition; print run; condition
+- [[Cloud-Lösung]] — cloud solution
+- [[Coach]] — coach
+- [[Game-Entwicklung]] — game development
+- [[Klavier-Experiment]] — piano experiment
+- [[Kult]] — cult
+- [[medial]] — media (adj.)
+- [[Mittelfeld]] — midfield
+- [[Mythos]] — myth
+- [[Online-Konzept]] — online concept
+- [[optisch]] — visual; optical
+- [[Preisträger]] — prize winner
+- [[Publikation]] — publication
+- [[Regie]] — direction (film, theatre)
+- [[Rezension]] — review
+- [[Satire]] — satire
+- [[Schnittstelle]] — interface
+- [[Veröffentlichung]] — publication
+- [[Zauber]] — magic; spell
+
+## B2 bank
+
+### B2 (122)
+
+- [[Abspann]] — closing credits
+- [[Abstieg]] — relegation; descent; decline
+- [[Algorithmus]] — algorithm
+- [[Applaus]] — applause
+- [[Aufstieg]] — promotion; ascent; rise
+- [[aufzeichnen]] — to record; to note down
+- [[ausscheiden]] — to drop out; to retire; to be eliminated
+- [[auswechseln]] — to replace; to substitute
+- [[auszeichnen]] — to distinguish; to award
+- [[Beifall]] — applause
+- [[Benutzeroberfläche]] — user interface
+- [[Berichterstattung]] — reporting; coverage
+- [[besiegen]] — to defeat; to overcome
+- [[Betriebssystem]] — operating system
+- [[Bilderkennung]] — image recognition
+- [[Boulevardpresse]] — tabloid press
+- [[Brauchtum]] — customs; folk traditions
+- [[Browser]] — browser
+- [[Chefredakteur]] — editor-in-chief
+- [[Cyberangriff]] — cyber attack
+- [[Cybermobbing]] — cyberbullying
+- [[Datenleck]] — data leak
+- [[Datenschutzerklärung]] — privacy policy
+- [[Datensicherung]] — data backup
+- [[Dauerbrenner]] — perennial favourite; long-running topic
+- [[Desinformation]] — disinformation
+- [[Dokumentarfilm]] — documentary
+- [[Dokumentation]] — documentary; documentation
+- [[Drehbuch]] — screenplay; script
+- [[Einschaltquote]] — viewing figures; ratings
+- [[Eintrittskarte]] — admission ticket
+- [[Elfmeter]] — penalty kick
+- [[Endgerät]] — end device; terminal device
+- [[enthüllen]] — to reveal; to unveil
+- [[Entwurf]] — draft; design; sketch
+- [[ergreifend]] — moving; touching
+- [[Falschmeldung]] — false report; fake news item
+- [[fesseln]] — to tie up; to captivate
+- [[fesselnd]] — gripping; captivating
+- [[Feuilleton]] — arts section; culture pages
+- [[Firewall]] — firewall
+- [[Fitnessstudio]] — gym; fitness studio
+- [[Follower]] — follower (social media)
+- [[Funkloch]] — dead zone (no signal)
+- [[Gegendarstellung]] — right of reply; counter-statement
+- [[geheimnisvoll]] — mysterious
+- [[gelungen]] — successful; well done
+- [[Glaubwürdigkeit]] — credibility
+- [[Grillkohle]] — charcoal (for barbecue)
+- [[Hacker]] — hacker
+- [[Hardware]] — hardware
+- [[Hashtag]] — hashtag
+- [[Hotspot]] — Wi-Fi hotspot
+- [[Hörfunk]] — radio (broadcasting)
+- [[Impressum]] — imprint; legal notice
+- [[Influencer]] — influencer
+- [[Intendant]] — director (of a theatre or broadcaster)
+- [[Internetanschluss]] — internet connection
+- [[Journalismus]] — journalism
+- [[jubeln]] — to cheer; to rejoice
+- [[Kabarett]] — political cabaret; satirical show
+- [[Klappentext]] — blurb
+- [[knien]] — to kneel
+- [[Kolumne]] — column (newspaper)
+- [[Ladegerät]] — charger
+- [[Laufband]] — treadmill
+- [[Leitartikel]] — editorial; leading article
+- [[Leserbrief]] — letter to the editor
+- [[Liegestuhl]] — deckchair; sun lounger
+- [[Livestream]] — livestream
+- [[Lokalzeitung]] — local newspaper
+- [[Lustspiel]] — comedy (play)
+- [[Mediathek]] — online media library
+- [[Medienkompetenz]] — media literacy
+- [[Meinungsbildung]] — formation of opinion
+- [[Meisterschaft]] — championship
+- [[Mitgliedsbeitrag]] — membership fee
+- [[Nachrichtenagentur]] — news agency
+- [[Nachrichtensendung]] — news programme
+- [[Nebenrolle]] — supporting role
+- [[Newsletter]] — newsletter
+- [[pfeifen]] — to whistle
+- [[Podcast]] — podcast
+- [[Pressemitteilung]] — press release
+- [[Resonanz]] — response; echo
+- [[Rundfunk]] — broadcasting; radio
+- [[Sauna]] — sauna
+- [[Schiedsrichter]] — referee; umpire
+- [[Server]] — server
+- [[Shitstorm]] — online outrage; storm of criticism
+- [[Sonnenschirm]] — parasol
+- [[Spam]] — spam
+- [[Speicher]] — memory; storage; store
+- [[Speicherkarte]] — memory card
+- [[Speicherplatz]] — storage space
+- [[Spracherkennung]] — speech recognition
+- [[Staffel]] — season (of a series); relay
+- [[Stammtisch]] — regulars' table; regular meeting
+- [[Straßenfest]] — street party
+- [[Streaming]] — streaming
+- [[Suchmaschine]] — search engine
+- [[summen]] — to hum; to buzz
+- [[Talkshow]] — talk show
+- [[Trainingsplan]] — training plan
+- [[Trauerspiel]] — tragedy (play)
+- [[unscharf]] — blurred; out of focus
+- [[Untertitel]] — subtitle
+- [[Upload]] — upload
+- [[Vereinsleben]] — club life; life of clubs
+- [[verkleiden]] — to dress up; to disguise oneself
+- [[Verleger]] — publisher
+- [[Verschlüsselung]] — encryption
+- [[Volksfest]] — public festival; fair
+- [[Vorspann]] — opening credits; title sequence
+- [[Wanderschuh]] — hiking boot
+- [[werben]] — to advertise; to recruit
+- [[Werbepause]] — commercial break
+- [[Werbespot]] — advertisement; commercial
+- [[wetteifern]] — to compete; to vie
+- [[zischen]] — to hiss; to fizz
+- [[Zugangsdaten]] — login details; access data
+- [[Zwei-Faktor-Authentifizierung]] — two-factor authentication
+<!-- bank:end -->
+
+## My notes
+

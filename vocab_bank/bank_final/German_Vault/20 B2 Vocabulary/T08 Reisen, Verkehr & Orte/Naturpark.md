@@ -1,0 +1,40 @@
+---
+title: "Naturpark"
+type: "word"
+aliases: ["der Naturpark", "Naturparks"]
+lemma: "Naturpark"
+meaning: "nature park"
+pos: "noun"
+article: "der"
+plural: "Naturparks"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D0738"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# der Naturpark
+
+**Meaning:** nature park
+**Plural:** Naturparks
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Am Wochenende wandern wir im Naturpark.
+> *At the weekend we are hiking in the nature park.*
+
+**Collocations**
+- im Naturpark wandern
+- Naturpark besuchen
+- ein Naturpark im Schwarzwald
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

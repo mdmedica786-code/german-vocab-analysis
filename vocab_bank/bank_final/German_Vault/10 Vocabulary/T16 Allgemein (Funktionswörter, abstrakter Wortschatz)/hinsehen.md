@@ -1,0 +1,35 @@
+---
+title: "hinsehen"
+type: "word"
+aliases: ["sieht hin", "sah hin", "hat hingesehen"]
+lemma: "hinsehen"
+meaning: "to look"
+pos: "verb"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B3440"
+netzwerk: "B1 K2 6b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# hinsehen
+
+**Meaning:** to look
+**Forms:** sieht hin · sah hin · hat hingesehen
+**Grammar:** separable (hin-)
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sieh bitte genau hin.
+> *Please look closely.*
+
+**Source:** Netzwerk neu B1 K2 6b (Das ist ja praktisch!)
+<!-- bank:end -->
+
+## My notes
+

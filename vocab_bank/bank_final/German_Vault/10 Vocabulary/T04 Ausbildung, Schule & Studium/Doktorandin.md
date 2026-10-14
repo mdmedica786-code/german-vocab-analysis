@@ -1,0 +1,36 @@
+---
+title: "Doktorandin"
+type: "word"
+aliases: ["die Doktorandin", "Doktorandinnen"]
+lemma: "Doktorandin"
+meaning: "PhD student (f)"
+pos: "noun"
+article: "die"
+plural: "Doktorandinnen"
+level: "B1"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "main"
+id: "B4205"
+netzwerk: "B1 K6 10b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Doktorandin
+
+**Meaning:** PhD student (f)
+**Plural:** Doktorandinnen
+**Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Doktorandin forscht in einem Labor.
+> *The doctoral student does research in a laboratory.*
+
+**Source:** Netzwerk neu B1 K6 10b (Blick nach vorn)
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,40 @@
+---
+title: "Entschlossenheit"
+type: "word"
+aliases: ["die Entschlossenheit"]
+lemma: "Entschlossenheit"
+meaning: "determination"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1485"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Entschlossenheit
+
+**Meaning:** determination
+**Plural:** –
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mit großer Entschlossenheit verfolgte sie ihr Ziel.
+> *She pursued her goal with great determination.*
+
+**Collocations**
+- mit Entschlossenheit
+- Entschlossenheit zeigen
+- politische Entschlossenheit
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

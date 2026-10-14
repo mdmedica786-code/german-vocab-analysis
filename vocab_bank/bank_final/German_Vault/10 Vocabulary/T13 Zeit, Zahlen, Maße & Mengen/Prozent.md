@@ -1,0 +1,37 @@
+---
+title: "Prozent"
+type: "word"
+aliases: ["das Prozent", "Prozente"]
+lemma: "Prozent"
+meaning: "percent"
+pos: "noun"
+article: "das"
+plural: "Prozente"
+level: "A1"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "main"
+id: "B2621"
+goethe_level: "A1"
+netzwerk: "A2 K7 10a"
+freq_rank: 809
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Prozent
+
+**Meaning:** percent
+**Plural:** Prozente
+**Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Gerät ist zwanzig Prozent billiger.
+> *The device is twenty percent cheaper.*
+
+**Source:** Netzwerk neu A2 K7 10a (Ganz schön mobil) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,40 @@
+---
+title: "gestehen"
+type: "word"
+aliases: ["gesteht", "gestand", "hat gestanden"]
+lemma: "gestehen"
+meaning: "to confess; to admit"
+pos: "verb"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D1273"
+exam_use: ["Lesen", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# gestehen
+
+**Meaning:** to confess; to admit
+**Forms:** gesteht · gestand · hat gestanden
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Verdächtige hat die Tat gestanden.
+> *The suspect confessed to the crime.*
+
+**Collocations**
+- ein Verbrechen gestehen
+- offen gestehen
+- ehrlich gestanden
+
+**Related:** [[Verbrechen]] · [[offen]] · [[ehrlich]]
+
+**Exam use:** Lesen, Sprechen
+<!-- bank:end -->
+
+## My notes
+

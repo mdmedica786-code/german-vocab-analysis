@@ -1,0 +1,40 @@
+---
+title: "Beobachtung"
+type: "word"
+aliases: ["die Beobachtung", "Beobachtungen"]
+lemma: "Beobachtung"
+meaning: "observation"
+pos: "noun"
+article: "die"
+plural: "Beobachtungen"
+level: "B2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "b2"
+id: "D0333"
+exam_use: ["Schreiben", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Beobachtung
+
+**Meaning:** observation
+**Plural:** Beobachtungen
+**Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Meine Beobachtung hat gezeigt, dass die Schüler oft müde sind.
+> *My observation has shown that the pupils are often tired.*
+
+**Collocations**
+- eine Beobachtung machen
+- nach meiner Beobachtung
+- unter Beobachtung stehen
+
+**Exam use:** Schreiben, Sprechen
+<!-- bank:end -->
+
+## My notes
+

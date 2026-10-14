@@ -1,0 +1,34 @@
+---
+title: "lauten"
+type: "word"
+aliases: ["lautet", "lautete", "hat gelautet"]
+lemma: "lauten"
+meaning: "to read, go (text); to be worded"
+pos: "verb"
+level: "B1"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B4134"
+netzwerk: "B1 K6 7b"
+freq_rank: 1577
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# lauten
+
+**Meaning:** to read, go (text); to be worded
+**Forms:** lautet · lautete · hat gelautet
+**Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Titel des Buches lautet „Faust“.
+> *The title of the book is "Faust".*
+
+**Source:** Netzwerk neu B1 K6 7b (Blick nach vorn)
+<!-- bank:end -->
+
+## My notes
+

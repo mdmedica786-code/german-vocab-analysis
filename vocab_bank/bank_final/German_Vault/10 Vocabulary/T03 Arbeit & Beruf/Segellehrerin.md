@@ -1,0 +1,36 @@
+---
+title: "Segellehrerin"
+type: "word"
+aliases: ["die Segellehrerin", "Segellehrerinnen"]
+lemma: "Segellehrerin"
+meaning: "sailing instructor (f)"
+pos: "noun"
+article: "die"
+plural: "Segellehrerinnen"
+level: "A1"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B1483"
+netzwerk: "A1 K10 1b"
+freq_rank: 9999
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Segellehrerin
+
+**Meaning:** sailing instructor (f)
+**Plural:** Segellehrerinnen
+**Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Segellehrerin fährt mit uns aufs Meer.
+> *The sailing instructor takes us out to sea.*
+
+**Source:** Netzwerk neu A1 K10 1b (Studium und Beruf)
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,36 @@
+---
+title: "Wanderin"
+type: "word"
+aliases: ["die Wanderin", "Wanderinnen"]
+lemma: "Wanderin"
+meaning: "hiker (f)"
+pos: "noun"
+article: "die"
+plural: "Wanderinnen"
+level: "A2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B3141"
+netzwerk: "A2 K12 1b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Wanderin
+
+**Meaning:** hiker (f)
+**Plural:** Wanderinnen
+**Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Wanderin folgt dem markierten Weg.
+> *The hiker follows the marked path.*
+
+**Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!)
+<!-- bank:end -->
+
+## My notes
+

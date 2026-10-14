@@ -1,0 +1,35 @@
+---
+title: "spielen"
+type: "word"
+aliases: ["spielt", "spielte", "hat gespielt"]
+lemma: "spielen"
+meaning: "to play"
+pos: "verb"
+level: "A1"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B0066"
+goethe_level: "A1"
+netzwerk: "A1 K1 2b"
+freq_rank: 284
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# spielen
+
+**Meaning:** to play
+**Forms:** spielt · spielte · hat gespielt
+**Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Kinder spielen draußen.
+> *The children are playing outside.*
+
+**Source:** Netzwerk neu A1 K1 2b (Guten Tag!) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

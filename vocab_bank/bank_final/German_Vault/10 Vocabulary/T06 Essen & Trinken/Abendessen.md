@@ -1,0 +1,36 @@
+---
+title: "Abendessen"
+type: "word"
+aliases: ["das Abendessen"]
+lemma: "Abendessen"
+meaning: "dinner; supper"
+pos: "noun"
+article: "das"
+plural: "Abendessen"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0620"
+netzwerk: "A1 K4 2a"
+freq_rank: 2756
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Abendessen
+
+**Meaning:** dinner; supper
+**Plural:** Abendessen
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Zum Abendessen gibt es Suppe.
+> *For dinner there is soup.*
+
+**Source:** Netzwerk neu A1 K4 2a (Guten Appetit!)
+<!-- bank:end -->
+
+## My notes
+

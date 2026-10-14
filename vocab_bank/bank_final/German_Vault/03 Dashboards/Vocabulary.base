@@ -1,0 +1,64 @@
+filters:
+  and:
+    - file.hasTag("vocab")
+properties:
+  level:
+    displayName: Level
+  pos:
+    displayName: Part of speech
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: To learn (not skipped)
+    filters:
+      and:
+        - skip == false
+    order:
+      - file.name
+      - pos
+      - level
+      - topic
+      - status
+    sort:
+      - property: level
+        direction: ASC
+  - type: table
+    name: Learning
+    filters:
+      and:
+        - 'status == "learning"'
+    order:
+      - file.name
+      - level
+      - topic
+      - status
+  - type: table
+    name: B2 bank
+    filters:
+      and:
+        - 'bank == "b2"'
+    order:
+      - file.name
+      - pos
+      - topic
+      - exam_use
+      - status
+  - type: table
+    name: Medical
+    filters:
+      and:
+        - file.hasTag("medical")
+    order:
+      - file.name
+      - level
+      - topic
+      - status
+  - type: table
+    name: Skipped
+    filters:
+      and:
+        - skip == true
+    order:
+      - file.name
+      - skip_reason

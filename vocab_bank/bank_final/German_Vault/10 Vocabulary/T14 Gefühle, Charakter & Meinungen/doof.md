@@ -1,0 +1,32 @@
+---
+title: "doof"
+type: "word"
+lemma: "doof"
+meaning: "stupid"
+pos: "adjective"
+level: "A1"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "colloquial"
+bank: "main"
+id: "B1576"
+netzwerk: "A1 K11 1a"
+freq_rank: 2215
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# doof
+
+**Meaning:** stupid
+**Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial
+
+> [!example] Beispiel
+> Das ist eine doofe Idee.
+> *That is a silly idea.*
+
+**Source:** Netzwerk neu A1 K11 1a (Die Jacke gefällt mir!)
+<!-- bank:end -->
+
+## My notes
+

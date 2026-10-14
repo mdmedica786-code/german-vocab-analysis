@@ -1,0 +1,37 @@
+---
+title: "Arbeitsplatz"
+type: "word"
+aliases: ["der Arbeitsplatz", "Arbeitsplätze"]
+lemma: "Arbeitsplatz"
+meaning: "workplace"
+pos: "noun"
+article: "der"
+plural: "Arbeitsplätze"
+level: "A1"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B1484"
+goethe_level: "A1"
+netzwerk: "A1 K10 1 ÜB"
+freq_rank: 2499
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Arbeitsplatz
+
+**Meaning:** workplace
+**Plural:** Arbeitsplätze
+**Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> An meinem Arbeitsplatz fehlt ein Drucker.
+> *At my workplace a printer is missing.*
+
+**Source:** Netzwerk neu A1 K10 1 ÜB (Studium und Beruf) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

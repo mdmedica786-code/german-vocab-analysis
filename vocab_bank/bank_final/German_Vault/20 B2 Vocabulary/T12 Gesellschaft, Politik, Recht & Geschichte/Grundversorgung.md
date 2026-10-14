@@ -1,0 +1,42 @@
+---
+title: "Grundversorgung"
+type: "word"
+aliases: ["die Grundversorgung"]
+lemma: "Grundversorgung"
+meaning: "basic provision; basic supply"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D1873"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# die Grundversorgung
+
+**Meaning:** basic provision; basic supply
+**Plural:** –
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Auf dem Land ist die ärztliche Grundversorgung nicht überall gesichert.
+> *In the countryside basic medical provision is not secured everywhere.*
+
+**Collocations**
+- die Grundversorgung sichern
+- medizinische Grundversorgung
+- Grundversorgung mit Wasser
+
+**Related:** [[sichern]] · [[Wasser]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

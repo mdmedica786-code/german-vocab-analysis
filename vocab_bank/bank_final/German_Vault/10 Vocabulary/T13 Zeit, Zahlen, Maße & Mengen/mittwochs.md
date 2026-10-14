@@ -1,0 +1,32 @@
+---
+title: "mittwochs"
+type: "word"
+lemma: "mittwochs"
+meaning: "on Wednesdays"
+pos: "adverb"
+level: "A2"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "main"
+id: "B6500"
+goethe_level: "A2"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# mittwochs
+
+**Meaning:** on Wednesdays
+**Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mittwochs habe ich frei.
+> *On Wednesdays I am off.*
+
+**Source:** Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

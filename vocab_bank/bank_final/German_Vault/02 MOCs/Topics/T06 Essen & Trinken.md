@@ -1,0 +1,417 @@
+---
+title: "T06 Essen & Trinken"
+type: "moc"
+tags: ["moc", "topic/T06"]
+---
+<!-- bank:start -->
+# T06 Essen & Trinken
+
+Map of content. 288 words in the main bank, 95 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (128)
+
+- [[Abendessen]] — dinner; supper
+- [[Apfel]] — apple
+- [[Apfelsaft]] — apple juice
+- [[Apfelsaftschorle]] — apple juice spritzer
+- [[Apfelschorle]] — apple juice spritzer
+- [[Appetit]] — appetite
+- [[asiatisch]] — Asian
+- [[Banane]] — banana
+- [[Becher]] — mug; cup; tub
+- [[Beisl]] — pub (Austria)
+- [[Beiz]] — pub (Switzerland)
+- [[bestellen]] — to order
+- [[Bier]] — beer
+- [[Biergarten]] — beer garden
+- [[Birne]] — pear
+- [[bitter]] — bitter
+- [[Brot]] — bread
+- [[Brötchen]] — bread roll
+- [[Butter]] — butter
+- [[Butterbrot]] — bread and butter; sandwich
+- [[Café]] — cafe
+- [[Café (noun)]] — café
+- [[Champignon]] — mushroom
+- [[Chips]] — crisps
+- [[Cola]] — cola
+- [[Dessert]] — dessert
+- [[Dose]] — tin; can
+- [[Durst]] — thirst
+- [[Döner]] — doner kebab
+- [[Ei]] — egg
+- [[Eis]] — ice cream; ice
+- [[Emmentaler]] — Emmentaler cheese
+- [[Essen]] — food; meal
+- [[essen (verb)]] — to eat
+- [[Essig]] — vinegar
+- [[Fett]] — fat
+- [[Fisch]] — fish
+- [[Fischgericht]] — fish dish
+- [[Flasche]] — bottle
+- [[Fleisch]] — meat
+- [[frisch]] — fresh
+- [[Frühstück]] — breakfast
+- [[frühstücken]] — to eat breakfast
+- [[Gabel]] — fork
+- [[Gemüse]] — vegetable
+- [[Gericht]] — dish; meal; court (of law)
+- [[Getränk]] — drink
+- [[Glas]] — glass
+- [[grillen]] — to barbecue
+- [[Gurke]] — cucumber
+- [[Honig]] — honey
+- [[Hunger]] — hunger
+- [[hungrig]] — hungry
+- [[Hähnchen]] — chicken
+- [[Hühnersuppe]] — chicken soup
+- [[Joghurt]] — yogurt
+- [[Kaffee]] — coffee
+- [[Kaffeehaus]] — coffee shop
+- [[Kantine]] — canteen
+- [[Kartoffel]] — potato
+- [[Keks]] — biscuit; cookie
+- [[kochen]] — to cook
+- [[Kuchen]] — cake
+- [[Käse]] — cheese
+- [[Lebensmittel]] — groceries
+- [[lecker]] — tasty
+- [[Limonade]] — lemonade
+- [[Lokal]] — restaurant
+- [[Löffel]] — spoon
+- [[Mahlzeit]] — meal; (lunchtime greeting)
+- [[Marmelade]] — jam; marmalade
+- [[Messer]] — knife
+- [[Milch]] — milk
+- [[mischen]] — to mix
+- [[Mittagessen]] — lunch
+- [[Müsli]] — muesli
+- [[Nudel]] — noodle
+- [[Obst]] — fruit
+- [[Olive]] — olive
+- [[Orangensaft]] — orange juice
+- [[Pfeffer]] — pepper
+- [[Pizza]] — pizza
+- [[Pommes]] — chips
+- [[Pommes frites]] — chips
+- [[probieren]] — to try
+- [[Reis]] — rice
+- [[Restaurant]] — restaurant
+- [[Rezept]] — recipe; prescription
+- [[Saft]] — juice
+- [[Sahne]] — cream
+- [[Salami]] — salami
+- [[Salat]] — salad
+- [[Salz]] — salt
+- [[Sandwich]] — sandwich
+- [[satt]] — full
+- [[Schinken]] — ham
+- [[schmecken]] — to taste
+- [[schneiden]] — to cut
+- [[Schnitzel]] — schnitzel
+- [[Schokolade]] — chocolate
+- [[schälen]] — to peel
+- [[Serviette]] — napkin
+- [[Spaghetti]] — spaghetti
+- [[Speisekarte]] — menu
+- [[Spezialität]] — specialty
+- [[Stollen]] — Christmas stollen (fruit loaf); tunnel
+- [[Suppe]] — soup
+- [[Suppenhuhn]] — chicken for soup
+- [[Sushi]] — sushi
+- [[süß]] — sweet
+- [[Süßigkeit]] — sweet
+- [[Tasse]] — cup
+- [[Tee]] — tea
+- [[Teller]] — plate
+- [[Tomate]] — tomato
+- [[Tomatensuppe]] — tomato soup
+- [[trinken]] — to drink
+- [[Trinkgeld]] — tip
+- [[Wasser]] — water
+- [[Wein]] — wine
+- [[Wurst]] — sausage
+- [[Würstchen]] — small sausage; frankfurter
+- [[Würstel]] — sausage (Austrian)
+- [[zubereiten]] — to prepare
+- [[Zucker]] — sugar
+- [[Zwiebel]] — onion
+- [[Öl]] — oil
+- [[Öl (noun)]] — oil
+
+### A2 (27)
+
+- [[Alkohol]] — alcohol
+- [[Apfelkuchen]] — apple pie
+- [[backen]] — to bake
+- [[Bohne]] — bean
+- [[braten (verb)]] — to fry; to roast
+- [[Cafeteria]] — cafeteria
+- [[Delikatesse]] — delicacy
+- [[fett (adjective)]] — fat
+- [[Gasthaus]] — inn
+- [[Gebäck]] — pastry
+- [[Hamburger]] — hamburger
+- [[Käsebrot]] — cheese sandwich
+- [[Mineralwasser]] — mineral water
+- [[Orange]] — orange
+- [[Portion]] — portion
+- [[Rind]] — cattle; beef
+- [[salzig]] — salty
+- [[sauer]] — sour; angry (colloq.)
+- [[scharf]] — spicy; sharp
+- [[servieren]] — to serve
+- [[stinken]] — to stink
+- [[Süßigkeiten]] — sweets
+- [[Topf]] — pot
+- [[Torte]] — gateau
+- [[Trattoria]] — trattoria
+- [[Zitrone]] — lemon
+- [[Zutat]] — ingredient
+
+### B1 (113)
+
+- [[abräumen]] — to clear
+- [[Apfelmus]] — apple sauce
+- [[Apfelsine]] — orange
+- [[Aprikose]] — apricot
+- [[Backstube]] — bakery (workshop)
+- [[Besteck]] — cutlery
+- [[Bio]] — organic; bio
+- [[bio (adjective)]] — organic
+- [[Bio-]] — organic (organic products)
+- [[Bioprodukt]] — organic product
+- [[Braten]] — roast
+- [[Brezel]] — pretzel
+- [[Brötli]] — bread roll (Swiss)
+- [[Buffet]] — buffet
+- [[Büchse]] — tin; can
+- [[Büfett]] — buffet
+- [[Croissant]] — croissant
+- [[decken]] — to cover; to lay (the table)
+- [[diätisch]] — dietary (dietary food)
+- [[durstig]] — thirsty
+- [[Erdapfel]] — potato (Austrian)
+- [[ernähren]] — to eat, to nourish
+- [[Ernährung]] — nutrition
+- [[essbar]] — edible
+- [[Faschierte]] — minced meat (Austrian)
+- [[Fleischkonsum]] — meat consumption
+- [[Frucht]] — fruit
+- [[Fruchtsaft]] — fruit juice
+- [[Früchte]] — fruits
+- [[Gaststätte]] — restaurant
+- [[Genuss]] — enjoyment; pleasure; consumption
+- [[Geschmack]] — flavour
+- [[Gewürz]] — spice
+- [[Glace]] — ice cream (Swiss)
+- [[Glasflasche]] — glass bottle
+- [[Grill]] — grill
+- [[grillieren]] — to grill (Swiss)
+- [[Hackfleisch]] — ground meat
+- [[haltbar]] — durable; long-lasting
+- [[Hauptmahlzeit]] — main meal
+- [[Hendl]] — chicken (Austrian, Bavarian)
+- [[Huhn]] — chicken; hen
+- [[Hörnchen]] — croissant
+- [[Hühnchen]] — chicken
+- [[Imbiss]] — takeaway
+- [[Jause]] — snack (Austrian)
+- [[Kaffeebecher]] — coffee cup
+- [[Kakao]] — cocoa
+- [[Kanne]] — jug; pot
+- [[Karotte]] — carrot
+- [[Ketchup]] — ketchup
+- [[Kloß]] — dumpling
+- [[Knödel]] — German dumpling
+- [[Konfitüre]] — jam
+- [[Käsekuchen]] — cheesecake
+- [[Käserei]] — cheese factory
+- [[Küchenteam]] — kitchen staff
+- [[mager]] — lean
+- [[Margarine]] — margarine
+- [[Marille]] — apricot (Austrian)
+- [[Mehl]] — flour
+- [[Menü]] — menu
+- [[Metzger]] — butcher
+- [[Milchprodukt]] — milk product
+- [[mild]] — mild
+- [[Möhre]] — carrot
+- [[Müesli]] — muesli (Swiss spelling)
+- [[Nachspeise]] — dessert
+- [[Nachtisch]] — dessert
+- [[Nahrungsmittel]] — food
+- [[Ober]] — waiter
+- [[Obers]] — cream (Austrian)
+- [[Paradeiser]] — tomato (Austrian)
+- [[Pfandbecher]] — deposit cup
+- [[Pfanne]] — pan
+- [[Pfannkuchen]] — pancake
+- [[Pflaume]] — plum
+- [[Pilz]] — mushroom; fungus
+- [[Poulet]] — chicken (Swiss)
+- [[Prost (interjection)]] — cheers
+- [[Pudding]] — pudding
+- [[Quark]] — quark (fresh curd cheese)
+- [[Rahm]] — cream (Swiss, S. German)
+- [[reif]] — ripe
+- [[roh]] — raw
+- [[Rüebli]] — carrot (Swiss)
+- [[Scheibe]] — slice; pane (of glass)
+- [[Schlagsahne]] — whipped cream
+- [[Schwammerl]] — mushroom (Austrian, Bavarian)
+- [[Schweinebraten]] — roast pork
+- [[Schüssel]] — bowl
+- [[Semmel]] — bread roll (South German)
+- [[Snack]] — snack
+- [[Soße]] — sauce
+- [[Speise]] — food
+- [[Spieß]] — skewer; spit
+- [[Steak]] — steak
+- [[Süßes]] — sweet
+- [[Süßstoff]] — sweetener
+- [[Traube]] — grape
+- [[vegan]] — vegan
+- [[vegetarisch]] — vegetarian
+- [[verpflegen]] — to provide with food; to cater for
+- [[Vollmilch]] — whole milk
+- [[Wasserflasche]] — water bottle
+- [[Wirt]] — landlord (pub, restaurant)
+- [[Wirtin]] — landlady
+- [[würzen]] — to season
+- [[würzig]] — spicy; aromatic
+- [[Zutaten]] — ingredients
+- [[Zvieri]] — afternoon snack (Swiss)
+- [[Zwetschge-Zwetschke]] — plum
+- [[Zwischenmahlzeit]] — snack
+
+### B2 (20)
+
+- [[Bedienung]] — service; waiter or waitress
+- [[Champagner]] — champagne
+- [[einlegen]] — to insert; to pickle
+- [[erhitzen]] — to heat
+- [[Getreide]] — grain; cereal
+- [[Knoblauch]] — garlic
+- [[Korn]] — grain; seed
+- [[Kraut]] — herb; cabbage
+- [[Krug]] — jug; mug
+- [[Nahrung]] — food; nourishment
+- [[Olivenöl]] — olive oil
+- [[Rotwein]] — red wine
+- [[Schale]] — bowl; shell; peel
+- [[Schluck]] — sip; gulp
+- [[speisen]] — to dine; to eat (formal)
+- [[Tablett]] — tray
+- [[Teig]] — dough; batter
+- [[Theke]] — counter; bar
+- [[Tresen]] — counter; bar
+- [[Zubereitung]] — preparation (of food)
+
+## B2 bank
+
+### B2 (95)
+
+- [[Alufolie]] — aluminium foil
+- [[appetitlich]] — appetising
+- [[Auflauf]] — casserole; bake
+- [[Auflaufform]] — baking dish; casserole dish
+- [[Aufschnitt]] — sliced cold meats and cheese
+- [[Backblech]] — baking tray
+- [[Backpapier]] — baking paper
+- [[Beilage]] — side dish; supplement (newspaper)
+- [[bekömmlich]] — easily digestible; wholesome
+- [[Bio-Siegel]] — organic label
+- [[Bratpfanne]] — frying pan
+- [[Bratwurst]] — fried sausage; bratwurst
+- [[Brombeere]] — blackberry
+- [[Brotdose]] — lunch box
+- [[Brühe]] — broth; stock
+- [[Currywurst]] — sausage with curry ketchup
+- [[deftig]] — hearty; substantial
+- [[Dosenöffner]] — tin opener
+- [[duften]] — to smell good; to be fragrant
+- [[Eintopf]] — stew; one-pot meal
+- [[Erdbeere]] — strawberry
+- [[erfrischen]] — to refresh
+- [[fade]] — bland; insipid
+- [[Feinkost]] — delicatessen; gourmet food
+- [[Fertiggericht]] — ready meal
+- [[fettig]] — greasy; oily
+- [[Flaschenöffner]] — bottle opener
+- [[Fleischer]] — butcher
+- [[Forelle]] — trout
+- [[Frischhaltefolie]] — cling film
+- [[Gefrierbeutel]] — freezer bag
+- [[Glühwein]] — mulled wine
+- [[Haselnuss]] — hazelnut
+- [[Hausmannskost]] — plain home cooking
+- [[Heidelbeere]] — blueberry
+- [[herb]] — tart; dry; harsh
+- [[Hering]] — herring
+- [[herzhaft]] — hearty; savoury
+- [[Himbeere]] — raspberry
+- [[Hülsenfrucht]] — legume; pulse
+- [[Johannisbeere]] — redcurrant; blackcurrant
+- [[Karpfen]] — carp
+- [[kauen]] — to chew
+- [[Kirsche]] — cherry
+- [[klebrig]] — sticky
+- [[knackig]] — crisp; crunchy; firm
+- [[Kochlöffel]] — wooden spoon
+- [[Kochtopf]] — cooking pot; saucepan
+- [[Konserve]] — tinned food
+- [[Korkenzieher]] — corkscrew
+- [[kross]] — crispy
+- [[Kuchenform]] — cake tin
+- [[köstlich]] — delicious
+- [[Lachs]] — salmon
+- [[lauwarm]] — lukewarm
+- [[Lebkuchen]] — gingerbread
+- [[Maultasche]] — Swabian stuffed pasta (Maultasche)
+- [[Messbecher]] — measuring jug
+- [[Mindesthaltbarkeitsdatum]] — best-before date
+- [[Mixer]] — blender; mixer
+- [[Nudelholz]] — rolling pin
+- [[Nährstoff]] — nutrient
+- [[pikant]] — spicy; piquant
+- [[Pürierstab]] — hand blender
+- [[Quitte]] — quince
+- [[Radler]] — shandy (beer and lemonade)
+- [[Reibe]] — grater
+- [[rühren]] — to stir; to move (emotionally)
+- [[saftig]] — juicy
+- [[salzen]] — to salt
+- [[Sauerkraut]] — sauerkraut; pickled cabbage
+- [[schmackhaft]] — tasty; palatable
+- [[schmieren]] — to spread; to smear; to grease
+- [[Schneidebrett]] — chopping board
+- [[Schöpflöffel]] — ladle
+- [[Sieb]] — sieve; strainer
+- [[Spätzle]] — Swabian egg noodles
+- [[streuen]] — to scatter; to sprinkle
+- [[säuerlich]] — slightly sour
+- [[süßlich]] — sweetish; cloying
+- [[Tagesgericht]] — dish of the day
+- [[Thermoskanne]] — thermos flask
+- [[Tiefkühlkost]] — frozen food
+- [[Toaster]] — toaster
+- [[Trinkflasche]] — drinking bottle; water bottle
+- [[umrühren]] — to stir
+- [[ungenießbar]] — inedible; unpalatable
+- [[Untersetzer]] — coaster; mat (under a pot)
+- [[verschütten]] — to spill
+- [[Vollkornbrot]] — wholemeal bread
+- [[Vorspeise]] — starter; appetiser
+- [[Walnuss]] — walnut
+- [[Wasserkocher]] — electric kettle
+- [[zartbitter]] — dark (chocolate); bittersweet
+- [[zäh]] — tough; tenacious
+<!-- bank:end -->
+
+## My notes
+

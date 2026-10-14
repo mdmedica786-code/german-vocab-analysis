@@ -1,0 +1,36 @@
+---
+title: "Einsamkeit"
+type: "word"
+aliases: ["die Einsamkeit"]
+lemma: "Einsamkeit"
+meaning: "solitude"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B1"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "main"
+id: "B3340"
+netzwerk: "B1 K1 13a"
+freq_rank: 3201
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# die Einsamkeit
+
+**Meaning:** solitude
+**Plural:** –
+**Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Einsamkeit macht ihm zu schaffen.
+> *Loneliness troubles him.*
+
+**Source:** Netzwerk neu B1 K1 13a (Gute Reise!)
+<!-- bank:end -->
+
+## My notes
+

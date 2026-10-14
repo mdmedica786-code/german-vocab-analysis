@@ -1,0 +1,37 @@
+---
+title: "eine Absage erteilen"
+type: "word"
+lemma: "eine Absage erteilen"
+meaning: "to reject; to turn down"
+pos: "phrase"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D0129"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Schreiben", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# eine Absage erteilen
+
+**Meaning:** to reject; to turn down
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Chef hat dem Vorschlag eine klare Absage erteilt.
+> *The boss gave the proposal a clear rejection.*
+
+**Collocations**
+- jemandem eine Absage erteilen
+- einer Idee eine Absage erteilen
+
+**Related:** [[Absage]] · [[erteilen]] · [[Idee]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

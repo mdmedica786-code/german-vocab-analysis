@@ -1,0 +1,36 @@
+---
+title: "Beute"
+type: "word"
+aliases: ["die Beute"]
+lemma: "Beute"
+meaning: "prey"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B1"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "main"
+id: "B4328"
+netzwerk: "B1 K7 12b"
+freq_rank: 3334
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Beute
+
+**Meaning:** prey
+**Plural:** –
+**Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Löwe jagt seine Beute.
+> *The lion hunts its prey.*
+
+**Source:** Netzwerk neu B1 K7 12b (Zwischenmenschliches)
+<!-- bank:end -->
+
+## My notes
+

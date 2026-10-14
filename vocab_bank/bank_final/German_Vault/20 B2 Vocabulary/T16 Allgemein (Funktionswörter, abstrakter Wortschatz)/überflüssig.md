@@ -1,0 +1,38 @@
+---
+title: "überflüssig"
+type: "word"
+lemma: "überflüssig"
+meaning: "superfluous; unnecessary"
+pos: "adjective"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D0791"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# überflüssig
+
+**Meaning:** superfluous; unnecessary
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Jede weitere Diskussion ist überflüssig.
+> *Any further discussion is unnecessary.*
+
+**Collocations**
+- völlig überflüssig
+- überflüssig machen
+- ein überflüssiger Kommentar
+
+**Related:** [[Kommentar]]
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

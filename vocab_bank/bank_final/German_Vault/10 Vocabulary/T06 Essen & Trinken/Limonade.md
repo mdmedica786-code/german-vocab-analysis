@@ -1,0 +1,37 @@
+---
+title: "Limonade"
+type: "word"
+aliases: ["die Limonade", "Limonaden"]
+lemma: "Limonade"
+meaning: "lemonade"
+pos: "noun"
+article: "die"
+plural: "Limonaden"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0688"
+goethe_level: "B1"
+netzwerk: "A1 K4 6b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Limonade
+
+**Meaning:** lemonade
+**Plural:** Limonaden
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Limonade ist sehr süß.
+> *The lemonade is very sweet.*
+
+**Source:** Netzwerk neu A1 K4 6b (Guten Appetit!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

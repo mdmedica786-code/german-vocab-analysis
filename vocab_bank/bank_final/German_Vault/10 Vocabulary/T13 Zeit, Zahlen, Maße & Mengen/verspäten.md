@@ -1,0 +1,35 @@
+---
+title: "verspäten"
+type: "word"
+aliases: ["verspätet sich", "verspätete sich", "hat sich verspätet"]
+lemma: "verspäten"
+meaning: "to be late"
+pos: "verb"
+level: "B1"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "main"
+id: "B4231"
+netzwerk: "B1 K7 1a ÜB"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# verspäten
+
+**Meaning:** to be late
+**Forms:** verspätet sich · verspätete sich · hat sich verspätet
+**Grammar:** reflexive
+**Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Entschuldigung, ich habe mich leider verspätet.
+> *Sorry, I am unfortunately late.*
+
+**Source:** Netzwerk neu B1 K7 1a ÜB (Zwischenmenschliches)
+<!-- bank:end -->
+
+## My notes
+

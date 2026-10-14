@@ -1,0 +1,42 @@
+---
+title: "Trinkwasserversorgung"
+type: "word"
+aliases: ["die Trinkwasserversorgung"]
+lemma: "Trinkwasserversorgung"
+meaning: "drinking water supply"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D0705"
+exam_use: ["Lesen", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# die Trinkwasserversorgung
+
+**Meaning:** drinking water supply
+**Plural:** –
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Trinkwasserversorgung der Stadt ist gesichert.
+> *The city's drinking water supply is secure.*
+
+**Collocations**
+- die Trinkwasserversorgung sichern
+- Trinkwasserversorgung gefährden
+- öffentliche Trinkwasserversorgung
+
+**Related:** [[sichern]]
+
+**Exam use:** Lesen, Hören
+<!-- bank:end -->
+
+## My notes
+

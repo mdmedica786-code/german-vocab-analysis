@@ -1,0 +1,36 @@
+---
+title: "Hauptthema"
+type: "word"
+aliases: ["das Hauptthema", "Hauptthemen"]
+lemma: "Hauptthema"
+meaning: "main topic"
+pos: "noun"
+article: "das"
+plural: "Hauptthemen"
+level: "A2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B2272"
+netzwerk: "A2 K4 11a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Hauptthema
+
+**Meaning:** main topic
+**Plural:** Hauptthemen
+**Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Hauptthema der Sitzung ist der Dienstplan.
+> *The main topic of the meeting is the duty roster.*
+
+**Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle)
+<!-- bank:end -->
+
+## My notes
+

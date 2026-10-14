@@ -1,0 +1,33 @@
+---
+title: "Geruch"
+type: "word"
+aliases: ["der Geruch", "Gerüche"]
+lemma: "Geruch"
+meaning: "smell; odour"
+pos: "noun"
+article: "der"
+plural: "Gerüche"
+level: "B1"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "main"
+id: "B5522"
+freq_rank: 2210
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# der Geruch
+
+**Meaning:** smell; odour
+**Plural:** Gerüche
+**Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ein unangenehmer Geruch kam aus der Küche.
+> *An unpleasant smell came from the kitchen.*
+<!-- bank:end -->
+
+## My notes
+

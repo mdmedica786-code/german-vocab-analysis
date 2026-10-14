@@ -1,0 +1,36 @@
+---
+title: "Oberkörper"
+type: "word"
+aliases: ["der Oberkörper"]
+lemma: "Oberkörper"
+meaning: "upper body"
+pos: "noun"
+article: "der"
+plural: "Oberkörper"
+level: "B1"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "main"
+id: "B3595"
+netzwerk: "B1 K3 3c"
+freq_rank: 3408
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# der Oberkörper
+
+**Meaning:** upper body
+**Plural:** Oberkörper
+**Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Bitte machen Sie den Oberkörper frei.
+> *Please undress your upper body.*
+
+**Source:** Netzwerk neu B1 K3 3c (Veränderungen)
+<!-- bank:end -->
+
+## My notes
+

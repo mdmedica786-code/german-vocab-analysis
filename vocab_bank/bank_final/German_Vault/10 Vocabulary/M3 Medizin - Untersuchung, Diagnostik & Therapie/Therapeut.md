@@ -1,0 +1,45 @@
+---
+title: "Therapeut"
+type: "word"
+aliases: ["der Therapeut", "Therapeuten"]
+lemma: "Therapeut"
+meaning: "therapist (m)"
+pos: "noun"
+article: "der"
+plural: "Therapeuten"
+level: "A1"
+topic: "[[M3 Medizin - Untersuchung, Diagnostik & Therapie]]"
+register: "neutral"
+bank: "main"
+id: "B1334"
+netzwerk: "A1 K8 13b"
+freq_rank: 2913
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# der Therapeut
+
+**Meaning:** therapist (m)
+**Plural:** Therapeuten
+**Forms:** den/dem/des Therapeuten (n-declension)
+**Level:** A1 · **Topic:** [[M3 Medizin - Untersuchung, Diagnostik & Therapie]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Therapeut bespricht den Behandlungsplan.
+> *The therapist discusses the treatment plan.*
+
+**Collocations**
+- zum Therapeuten gehen
+- bei einem Therapeuten in Behandlung
+- ein erfahrener Therapeut
+- Therapeut und Patient
+
+**Related:** [[Behandlung]] · [[Patient]]
+
+**Source:** Netzwerk neu A1 K8 13b (Fit und gesund)
+<!-- bank:end -->
+
+## My notes
+

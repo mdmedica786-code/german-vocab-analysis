@@ -1,0 +1,33 @@
+---
+title: "grau"
+type: "word"
+lemma: "grau"
+meaning: "gray"
+pos: "adjective"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B1436"
+goethe_level: "A1"
+netzwerk: "A1 K9 9a"
+freq_rank: 1210
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# grau
+
+**Meaning:** gray
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Himmel ist heute grau.
+> *The sky is grey today.*
+
+**Source:** Netzwerk neu A1 K9 9a (Meine Wohnung) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

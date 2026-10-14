@@ -1,0 +1,36 @@
+---
+title: "Chemikerin"
+type: "word"
+aliases: ["die Chemikerin", "Chemikerinnen"]
+lemma: "Chemikerin"
+meaning: "chemist (f)"
+pos: "noun"
+article: "die"
+plural: "Chemikerinnen"
+level: "B1"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B3706"
+netzwerk: "B1 K4 1b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Chemikerin
+
+**Meaning:** chemist (f)
+**Plural:** Chemikerinnen
+**Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Chemikerin entwickelt neue Medikamente.
+> *The chemist develops new medicines.*
+
+**Source:** Netzwerk neu B1 K4 1b (Arbeitswelt)
+<!-- bank:end -->
+
+## My notes
+

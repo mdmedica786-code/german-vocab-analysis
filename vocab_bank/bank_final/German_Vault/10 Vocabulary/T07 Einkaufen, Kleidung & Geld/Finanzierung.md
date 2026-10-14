@@ -1,0 +1,33 @@
+---
+title: "Finanzierung"
+type: "word"
+aliases: ["die Finanzierung", "Finanzierungen"]
+lemma: "Finanzierung"
+meaning: "financing"
+pos: "noun"
+article: "die"
+plural: "Finanzierungen"
+level: "B2"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B5844"
+freq_rank: 3129
+skip: false
+tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Finanzierung
+
+**Meaning:** financing
+**Plural:** Finanzierungen
+**Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Finanzierung des Projekts ist gesichert.
+> *The financing of the project is secured.*
+<!-- bank:end -->
+
+## My notes
+

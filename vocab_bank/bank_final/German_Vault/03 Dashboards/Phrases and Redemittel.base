@@ -1,0 +1,26 @@
+filters:
+  or:
+    - file.hasTag("phrase")
+    - file.hasTag("redemittel")
+properties:
+  count:
+    displayName: Items
+views:
+  - type: table
+    name: Phrase groups
+    filters:
+      and:
+        - 'type == "phrase-group"'
+    order:
+      - file.name
+      - count
+      - levels
+  - type: table
+    name: Redemittel sets
+    filters:
+      and:
+        - 'type == "redemittel-set"'
+    order:
+      - file.name
+      - count
+      - levels

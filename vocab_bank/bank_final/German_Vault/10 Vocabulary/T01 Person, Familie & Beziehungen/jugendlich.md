@@ -1,0 +1,40 @@
+---
+title: "jugendlich"
+type: "word"
+lemma: "jugendlich"
+meaning: "youthful; juvenile"
+pos: "adjective"
+level: "A1"
+topic: "[[T01 Person, Familie & Beziehungen]]"
+register: "neutral"
+bank: "main"
+id: "B5236"
+goethe_level: "A1"
+freq_rank: 998
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# jugendlich
+
+**Meaning:** youthful; juvenile
+**Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Kino ist für jugendliche Besucher gedacht.
+> *The cinema is intended for young visitors.*
+
+**Collocations**
+- jugendliche Besucher
+- jugendlich wirken
+- jugendliche Straftäter
+- jugendlicher Leichtsinn
+
+**Related:** [[Besucher]] · [[wirken]] · [[Leichtsinn]]
+
+**Source:** Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

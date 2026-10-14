@@ -1,0 +1,40 @@
+---
+title: "Reißverschluss"
+type: "word"
+aliases: ["der Reißverschluss", "Reißverschlüsse"]
+lemma: "Reißverschluss"
+meaning: "zip"
+pos: "noun"
+article: "der"
+plural: "Reißverschlüsse"
+level: "B2"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "b2"
+id: "D1406"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Reißverschluss
+
+**Meaning:** zip
+**Plural:** Reißverschlüsse
+**Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Reißverschluss an meiner Jacke klemmt.
+> *The zip on my jacket is stuck.*
+
+**Collocations**
+- den Reißverschluss zumachen
+- der Reißverschluss klemmt
+- Reißverschluss reparieren
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

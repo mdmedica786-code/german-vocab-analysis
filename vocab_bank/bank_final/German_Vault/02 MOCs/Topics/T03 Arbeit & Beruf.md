@@ -1,0 +1,581 @@
+---
+title: "T03 Arbeit & Beruf"
+type: "moc"
+tags: ["moc", "topic/T03"]
+---
+<!-- bank:start -->
+# T03 Arbeit & Beruf
+
+Map of content. 424 words in the main bank, 120 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (92)
+
+- [[Arbeit]] — work
+- [[arbeiten]] — to work
+- [[Arbeitsalltag]] — workday
+- [[arbeitslos]] — unemployed
+- [[Arbeitsplatz]] — workplace
+- [[Arbeitszeit]] — working hours
+- [[Architekt]] — architect (m)
+- [[Architektin]] — architect (f)
+- [[Bauzeit]] — construction period
+- [[Beruf]] — occupation
+- [[Besprechung]] — meeting
+- [[Bewerbung]] — application
+- [[Bäcker]] — baker
+- [[Büro]] — office
+- [[Chef]] — boss (m)
+- [[Chefin]] — boss (f)
+- [[Computerarbeit]] — computer work
+- [[Computerfirma]] — computer company
+- [[Designer]] — designer (m)
+- [[Designerin]] — designer (f)
+- [[Doktorin]] — doctor (f)
+- [[Elektriker]] — electrician (m)
+- [[Elektrikerin]] — electrician (f)
+- [[Erzieher]] — kindergarten teacher (m)
+- [[Erzieherin]] — kindergarten teacher (f)
+- [[Feierabend]] — closing time, home time
+- [[Fernsehproduktion]] — TV production
+- [[Filmproduktion]] — film production
+- [[Firma]] — company
+- [[Fotograf]] — photographer (m)
+- [[Fotografin]] — photographer (f)
+- [[freihaben]] — to have time off; to have a day off
+- [[Friseur]] — hairdresser (m)
+- [[Friseurin]] — hairdresser (f)
+- [[Handwerker]] — tradesman; craftsman
+- [[Handwerkerin]] — tradeswoman; craftswoman
+- [[Hotelchef]] — hotel boss (m)
+- [[Hotelchefin]] — hotel boss (f)
+- [[Händler]] — merchant (m)
+- [[Händlerin]] — merchant (f)
+- [[Informatiker]] — computer scientist (m)
+- [[Informatikerin]] — computer scientist (f)
+- [[Ingenieur]] — engineer (m)
+- [[Ingenieurin]] — engineer (f)
+- [[Job]] — job
+- [[Job-Portal]] — job portal
+- [[Journalist]] — journalist (m)
+- [[Journalistin]] — journalist (f)
+- [[Karriere]] — career
+- [[Kellner]] — waiter
+- [[Kellnerin]] — waitress
+- [[Koch]] — cook (m)
+- [[Kollege]] — colleague (m)
+- [[Kollegin]] — colleague (f)
+- [[Kundenbesuch]] — customer visit
+- [[Köchin]] — cook (f)
+- [[Künstler]] — artist (m)
+- [[Künstlerin]] — artist (f)
+- [[Lehrerin]] — teacher (f)
+- [[Mechaniker]] — mechanic (m)
+- [[Mechanikerin]] — mechanic (f)
+- [[Mitarbeiter]] — employee; colleague (m)
+- [[Mitarbeiterin]] — employee; colleague (f)
+- [[Mittagspause]] — lunch break
+- [[Modedesigner]] — fashion designer (m)
+- [[Modedesignerin]] — fashion designer (f)
+- [[Pause]] — break
+- [[Polizist]] — police officer (m)
+- [[Polizistin]] — police officer (f)
+- [[Produktion]] — production
+- [[Reiseführerin]] — tour guide (f)
+- [[Saison-Job]] — seasonal job
+- [[Schauspieler]] — actor
+- [[Schauspielerin]] — actress
+- [[Segellehrer]] — sailing instructor (m)
+- [[Segellehrerin]] — sailing instructor (f)
+- [[Sekretär]] — secretary (m)
+- [[Sekretärin]] — secretary (f)
+- [[selbstständig]] — independent; self-employed
+- [[Stelle]] — position; place; job
+- [[Strategie]] — strategy
+- [[Stress]] — stress
+- [[stressig]] — stressful
+- [[Taxifahrer]] — taxi driver (m)
+- [[Taxifahrerin]] — taxi driver (f)
+- [[Team]] — team
+- [[Techniker]] — technician (m)
+- [[Technikerin]] — technician (f)
+- [[Urlaub]] — holiday
+- [[verdienen]] — to earn
+- [[Verkäufer]] — salesperson (m)
+- [[Verkäuferin]] — salesperson (f)
+
+### A2 (117)
+
+- [[Angestellte]] — employee
+- [[Angestellter]] — employee (m)
+- [[anstellen]] — to hire
+- [[Arbeitgeber]] — employer
+- [[Arbeitsleben]] — professional life
+- [[Arbeitswelt]] — work environment
+- [[Arztkleidung]] — doctor's clothing
+- [[Auftrag]] — order; commission; assignment
+- [[Augenoptiker]] — optician (m)
+- [[Augenoptikerin]] — optician (f)
+- [[Aushilfe]] — temporary help
+- [[Auszubildende]] — apprentice
+- [[Auszubildender]] — apprentice; trainee (m)
+- [[Autor]] — author (m)
+- [[Autorin]] — author (f)
+- [[Azubi]] — trainee
+- [[Babysitter]] — babysitter (m)
+- [[Babysitterin]] — babysitter (f)
+- [[Bankkauffrau]] — bank clerk (f)
+- [[Bankkaufmann]] — bank clerk (m)
+- [[Bauer]] — farmer (m)
+- [[Beamtin]] — official (f)
+- [[befristet]] — temporary
+- [[bereitlegen]] — to keep ready
+- [[beruflich]] — professional
+- [[Berufserfahrung]] — work experience
+- [[Berufsleben]] — professional life
+- [[Berufswechsel]] — career change
+- [[Berufswunsch]] — career goal
+- [[Betrieb]] — company; business
+- [[bewerben]] — to apply
+- [[Busfahrer]] — bus driver (m)
+- [[Busfahrerin]] — bus driver (f)
+- [[Bäckerin]] — baker (f)
+- [[Bäuerin]] — farmer (f)
+- [[einhalten]] — to keep to; to comply with
+- [[Einsatz]] — use; deployment; effort
+- [[Erfahrung]] — experience
+- [[Expertin]] — expert (f)
+- [[Export]] — export
+- [[Fabrik]] — factory
+- [[Fahrerin]] — driver (f)
+- [[Fernfahrer]] — long-distance lorry driver (m)
+- [[Fernfahrerin]] — long-distance lorry driver (f)
+- [[flexibel]] — flexible
+- [[freiberuflich]] — freelance
+- [[Gehalt]] — salary
+- [[genehmigen]] — to approve
+- [[Geschäftsreise]] — business trip
+- [[Grafiker]] — graphic designer (m)
+- [[Grafikerin]] — graphic designer (f)
+- [[gründen]] — to found
+- [[Gärtner]] — gardener (m)
+- [[Gärtnerin]] — gardener (f)
+- [[Handwerk]] — trade
+- [[Helfer]] — helper (m)
+- [[Helferin]] — helper (f)
+- [[herstellen]] — to produce; to establish
+- [[Herzchirurg]] — heart surgeon (m)
+- [[Herzchirurgin]] — heart surgeon (f)
+- [[Hotelkauffrau]] — management assistant in hotel and hospitality (f)
+- [[Hotelkaufmann]] — management assistant in hotel and hospitality (m)
+- [[Import]] — import
+- [[jobben]] — to temp
+- [[Jobwechsel]] — job change
+- [[Kauffrau]] — businesswoman; clerk (f)
+- [[Kaufmann]] — merchant; businessman
+- [[Kompetenz]] — competence; expertise
+- [[Konferenz]] — conference
+- [[kopieren]] — to copy
+- [[kündigen]] — to resign
+- [[Lehre]] — apprenticeship
+- [[Leiter]] — manager; head (m)
+- [[Leiterin]] — director (f)
+- [[Lohn]] — wage
+- [[Maler]] — painter (m)
+- [[Malerin]] — painter (f)
+- [[Mediziner]] — doctor (m); physician (m)
+- [[Medizinerin]] — doctor (f); physician (f)
+- [[mithelfen]] — to assist
+- [[Model]] — fashion model
+- [[Musiker]] — musician (m)
+- [[Musikerin]] — musician (f)
+- [[Neuanfang]] — new beginning
+- [[Oberarzt]] — senior physician (m)
+- [[Oberärztin]] — senior physician (f)
+- [[pensioniert]] — retired
+- [[Probetag]] — trial day
+- [[produzieren]] — to produce
+- [[professionell]] — professional
+- [[Rente]] — pension; retirement
+- [[Rentner]] — pensioner (m.)
+- [[Rentnerin]] — pensioner (f.)
+- [[Start-Up]] — start-up
+- [[Stellenanzeige]] — job advertisement
+- [[stundenweise]] — hourly
+- [[Sänger]] — singer (m)
+- [[Sängerin]] — singer (f)
+- [[Teilzeit]] — part-time
+- [[Telefonkonferenz]] — conference call
+- [[Tiertrainer]] — animal trainer (m)
+- [[Tiertrainerin]] — animal trainer (f)
+- [[Tätigkeit]] — occupation
+- [[Videokonferenz]] — video conference
+- [[Vollzeit]] — full-time
+- [[Vorstellungsgespräch]] — job interview
+- [[weiterarbeiten]] — to continue working
+- [[weitersuchen]] — to continue searching
+- [[Werbeagentur]] — advertising agency
+- [[Werk]] — factory; plant; work (of art)
+- [[Werkzeug]] — tool
+- [[Zeitplan]] — schedule
+- [[Zusammenarbeit]] — cooperation
+- [[zusammenarbeiten]] — to work together
+- [[Übersetzer]] — translator (m)
+- [[Übersetzerin]] — translator (f)
+- [[Überstunde]] — overtime
+
+### B1 (178)
+
+- [[Absprache]] — arrangement; agreement
+- [[Abteilung]] — department
+- [[abwesend]] — absent
+- [[Anforderung]] — requirement; demand
+- [[Anwalt]] — lawyer
+- [[anwesend]] — present
+- [[Anwältin]] — lawyer (f)
+- [[Arbeiter]] — worker (m)
+- [[Arbeiterin]] — worker (f)
+- [[Arbeitnehmer]] — worker (m)
+- [[Arbeitnehmerin]] — employee (f)
+- [[Arbeitsamt]] — employment office (job centre)
+- [[Arbeitserlaubnis]] — work permit
+- [[Arbeitslosigkeit]] — unemployment
+- [[Arbeitsort]] — place of work, workplace
+- [[Arbeitsstelle]] — job
+- [[Arbeitssuche]] — job search
+- [[Architekturbüro]] — architecture firm
+- [[aussagekräftig]] — meaningful; informative
+- [[Bankangestellte]] — bank employee
+- [[Bauhof]] — construction yard
+- [[Bereich]] — area
+- [[Berufssoldat]] — professional soldier (m)
+- [[Berufssoldatin]] — professional soldier (f)
+- [[berufstätig]] — employed; working
+- [[beschäftigen]] — to occupy oneself with
+- [[beschäftigt]] — busy; employed
+- [[beschäftigt sein]] — to be busy
+- [[Beschäftigung]] — employment; occupation
+- [[betreiben]] — to run; to operate; to pursue
+- [[Betreuer]] — carer; supervisor (m)
+- [[Betreuerin]] — carer; supervisor (f)
+- [[Betriebsrat]] — works council
+- [[Betriebsrätin]] — works council member (f)
+- [[Beurteilung]] — assessment
+- [[Bewerber]] — applicant (m)
+- [[Bewerberin]] — applicant (f)
+- [[Bewerbungsfoto]] — application photo; CV photo
+- [[Bewerbungsportal]] — application portal
+- [[Bewerbungsschreiben]] — cover letter
+- [[Bewerbungstraining]] — application training (course)
+- [[Bewerbungsunterlagen]] — application documents
+- [[Branche]] — sector; line of business
+- [[Buchautor]] — author (m)
+- [[Buchautorin]] — author (f)
+- [[Bundeswehrzeit]] — time in the armed forces
+- [[Büroangestellte]] — office worker
+- [[Bürogebäude]] — office building
+- [[Chemiker]] — chemist (m)
+- [[Chemikerin]] — chemist (f)
+- [[Coiffeur]] — hairdresser (m) (Swiss)
+- [[Coiffeuse]] — hairdresser (f) (Swiss)
+- [[Dienst]] — duty; service; shift
+- [[Dienstleistungsbereich]] — service industry
+- [[eingespannt sein]] — to be very busy
+- [[einstellen]] — to hire; to stop; to adjust
+- [[Einstellung]] — attitude; setting; employment
+- [[Elektroingenieur]] — electrical engineer (m)
+- [[Elektroingenieurin]] — electrical engineer (f)
+- [[Elternzeit]] — parental leave
+- [[engagieren]] — to be involved
+- [[Entlassung]] — dismissal; discharge
+- [[Erhöhung]] — increase
+- [[Fachfrau]] — expert (f)
+- [[Fachleute]] — specialists
+- [[Fachmann]] — expert (m)
+- [[Fleischhauer]] — butcher (Austrian)
+- [[Fleischhauerin]] — butcher (f) (Austrian)
+- [[Forderung]] — demand
+- [[Fortbildung]] — further training
+- [[freinehmen]] — to take time off
+- [[Frühschicht]] — morning shift
+- [[geregelt]] — regulated; regular; orderly
+- [[Geschäftsfrau]] — business woman
+- [[Geschäftsidee]] — business idea
+- [[Geschäftsmann]] — business man
+- [[Geschäftspartner]] — business partner (m)
+- [[Geschäftspartnerin]] — business partner (f)
+- [[gesucht]] — wanted; sought
+- [[Gewerkschaft]] — trade union
+- [[Gründer]] — founder (m)
+- [[Gründerin]] — founder (f)
+- [[halbtags]] — part-time
+- [[Handel]] — trade; commerce
+- [[hierarchisch]] — hierarchical
+- [[Homeoffice]] — home office
+- [[Industrie]] — industry
+- [[Interessent]] — interested person (m); prospective candidate
+- [[Interessentin]] — interested person (f); prospective candidate
+- [[Jobsuche]] — job search
+- [[Konkurrenz]] — competition
+- [[Kopie]] — copy
+- [[Kopierer]] — photocopier
+- [[Kündigung]] — dismissal; notice
+- [[Landwirtschaft]] — agriculture
+- [[Lebenslauf]] — CV; résumé
+- [[Lehrling]] — apprentice
+- [[Lehrstelle]] — apprenticeship place
+- [[leiten]] — to lead; to manage
+- [[Leitung]] — management; leadership; line (phone/pipe)
+- [[Management]] — management
+- [[Manager]] — manager
+- [[Managerin]] — manager (f)
+- [[Mappe]] — folder
+- [[Mechatroniker]] — mechatronics technician (m)
+- [[Mechatronikerin]] — mechatronics technician (f)
+- [[Meister]] — master craftsman; master
+- [[Meisterin]] — master craftswoman; champion (f)
+- [[mitarbeiten]] — to assist
+- [[mitschicken]] — to send along
+- [[Nachtdienst]] — night shift
+- [[Nachtwächter]] — night watchman
+- [[Nachtwächterin]] — night watchwoman
+- [[Nachwuchs]] — offspring; young talent
+- [[Neugründung]] — new foundation; start-up
+- [[Personal]] — staff
+- [[Personalabteilung]] — HR department
+- [[Personalchef]] — HR manager (m)
+- [[Personalchefin]] — HR manager (f)
+- [[Pflegekraft]] — caregiver
+- [[Pfleger]] — nurse (m)
+- [[Pflegerin]] — nurse (f)
+- [[Praktikant]] — intern (m)
+- [[Praktikantin]] — intern (f)
+- [[Profi]] — professional
+- [[Putzfirma]] — cleaning company
+- [[Putzfrau]] — cleaner (f)
+- [[Putzmann]] — cleaner (m)
+- [[Qualifikation]] — qualification
+- [[qualifiziert]] — qualified
+- [[Reinigungsfirma]] — cleaning company
+- [[Reinigungspersonal]] — cleaning staff
+- [[Reisebüro-Mitarbeiter]] — travel agent (m)
+- [[Reisebüro-Mitarbeiterin]] — travel agent (f)
+- [[Schicht]] — shift
+- [[Schreiner]] — carpenter; joiner (m)
+- [[Schreinerin]] — carpenter; joiner (f)
+- [[Schülerjob]] — pupil's part-time job
+- [[Selbstständigkeit]] — independence
+- [[seriös]] — respectable; reputable; serious
+- [[Serviceangestellte]] — service staff (Swiss)
+- [[Sozialarbeiter]] — social worker (m)
+- [[Sozialarbeiterin]] — social worker (f)
+- [[Spätschicht]] — late shift
+- [[Stellung]] — position; job; stance
+- [[Steward]] — flight attendant (m)
+- [[Stewardess]] — flight attendant (f)
+- [[Streik]] — strike
+- [[streiken]] — to go on strike
+- [[Stundenlohn]] — hourly wage
+- [[Teilzeitjob]] — part-time job
+- [[tätig sein]] — to work; to be active
+- [[Unternehmen]] — company
+- [[Unternehmer]] — entrepreneur; businessman
+- [[Unternehmerin]] — entrepreneur; businesswoman
+- [[verantwortlich]] — responsible
+- [[Verantwortung]] — responsibility
+- [[verlangen]] — to demand; to ask for
+- [[verlegen]] — to move
+- [[vertreten]] — to represent; to cover for
+- [[Vertreter]] — representative; substitute (m)
+- [[Vertreterin]] — deputy (f); substitute
+- [[Vertretung]] — substitute; cover; representation
+- [[Visitenkarte]] — business card
+- [[Vorgesetzte]] — superior; boss
+- [[Vorlage]] — template; model; submission
+- [[Wildhüter]] — gamekeeper (m)
+- [[Wildhüterin]] — gamekeeper (f)
+- [[Wirtschaftsbeziehung]] — economic relationship
+- [[Wissenschaftler]] — scientist
+- [[Wissenschaftlerin]] — scientist (f)
+- [[Work-Life-Balance]] — work-life-balance
+- [[Wunschberuf]] — dream job
+- [[Zeiteinteilung]] — time management
+- [[Zentrale]] — headquarters
+- [[Zoodirektor]] — zoo director (m)
+- [[Zoodirektorin]] — zoo director (f)
+- [[übernehmen]] — to take on
+
+### B2 (19)
+
+- [[Arbeitsbedingung]] — working condition
+- [[Arbeitsgruppe]] — working group
+- [[Arbeitsmarkt]] — labour market
+- [[Bearbeitung]] — processing; handling
+- [[Beschäftigte]] — employee
+- [[Betreiber]] — operator; owner
+- [[Geschäftsstelle]] — office; branch
+- [[Herstellung]] — production; manufacture
+- [[intern]] — internal
+- [[Marketing-Agentur]] — marketing agency
+- [[Mitarbeit]] — cooperation; participation
+- [[Mode-Designer]] — fashion designer (m)
+- [[Online-Besprechung]] — online meeting
+- [[Online-Meeting]] — online meeting
+- [[organisatorisch]] — organisational
+- [[spezialisiert]] — specialised
+- [[strategisch]] — strategic
+- [[tätig]] — active; employed
+- [[Zielgruppe]] — target group
+
+### C1 (18)
+
+- [[antreten]] — to start (a job); to line up
+- [[Arbeitsteilung]] — division of labour
+- [[beauftragen]] — to commission; to instruct
+- [[ernennen]] — to appoint
+- [[Firmen-Kampagne]] — company campaign
+- [[Führungskraft]] — manager; executive
+- [[Geschäftsführung]] — management
+- [[Hierarchie]] — hierarchy
+- [[Innovation]] — innovation
+- [[Know-how]] — know-how
+- [[Kooperation]] — cooperation
+- [[Marketing-Bericht]] — marketing report
+- [[Messe-Präsentation]] — trade fair presentation
+- [[Technik-Branche]] — tech industry
+- [[Top-Personal]] — top staff
+- [[Vorstand]] — board; executive board
+- [[Weiterentwicklung]] — further development
+- [[Zusammenschluss]] — merger; union
+
+## B2 bank
+
+### B2 (120)
+
+- [[Abfindung]] — severance pay; compensation
+- [[Abmahnung]] — formal warning
+- [[Abteilungsleiter]] — head of department
+- [[Anforderungen stellen]] — to set requirements
+- [[Anschreiben]] — cover letter
+- [[ansiedeln]] — to settle; to attract (businesses)
+- [[Arbeitskampf]] — industrial action
+- [[Arbeitslosenquote]] — unemployment rate
+- [[Arbeitsrecht]] — employment law
+- [[Arbeitsschutz]] — occupational safety
+- [[Arbeitssicherheit]] — safety at work
+- [[Arbeitsunfähigkeitsbescheinigung]] — sick note; certificate of incapacity for work
+- [[Arbeitsvertrag]] — employment contract
+- [[Arbeitszeugnis]] — employment reference
+- [[auf der Tagesordnung stehen]] — to be on the agenda
+- [[Aufgabenbereich]] — area of responsibility
+- [[Aufhebungsvertrag]] — termination agreement
+- [[aufsteigen]] — to rise; to be promoted
+- [[Auftraggeber]] — client; commissioning party
+- [[ausarbeiten]] — to work out; to draw up
+- [[Automatisierung]] — automation
+- [[Außendienst]] — field service; sales force (outside the office)
+- [[befristen]] — to limit in time; to give a fixed term
+- [[Befristung]] — time limit; fixed term
+- [[Beförderung]] — promotion
+- [[belastbar]] — resilient; able to cope with pressure
+- [[Belegschaft]] — workforce; staff
+- [[Bergwerk]] — mine
+- [[Betriebsausflug]] — company outing
+- [[Betriebsklima]] — working atmosphere
+- [[Bewerbungsgespräch]] — job interview
+- [[Bewerbungsmappe]] — application folder
+- [[Bildungsurlaub]] — educational leave
+- [[Buchhalter]] — bookkeeper; accountant
+- [[Businessplan]] — business plan
+- [[Büroklammer]] — paper clip
+- [[Dienstleister]] — service provider
+- [[Dienstreise]] — business trip
+- [[Eigeninitiative]] — own initiative; self-motivation
+- [[einarbeiten]] — to familiarise oneself; to train (on the job)
+- [[einen Auftrag erteilen]] — to place an order; to commission
+- [[entwerfen]] — to design; to draft
+- [[Existenzgründer]] — start-up founder; business founder
+- [[Facharbeiter]] — skilled worker
+- [[Fachkraft]] — skilled worker; specialist
+- [[Fachkräftemangel]] — shortage of skilled workers
+- [[Fertigung]] — production; manufacturing
+- [[Feuerwehrmann]] — firefighter
+- [[Firmengründung]] — founding of a company
+- [[Flexibilität]] — flexibility
+- [[Fließband]] — assembly line; conveyor belt
+- [[Freiberufler]] — freelancer; self-employed professional
+- [[Fusion]] — merger
+- [[Gehaltsabrechnung]] — salary statement
+- [[Gehaltserhöhung]] — pay rise (salary)
+- [[Gehaltsverhandlung]] — salary negotiation
+- [[Geschäftsführer]] — managing director
+- [[Gewinnspanne]] — profit margin
+- [[Gleitzeit]] — flexible working hours
+- [[Großraumbüro]] — open-plan office
+- [[Heftklammer]] — staple
+- [[Hilfskraft]] — assistant; auxiliary worker
+- [[in Auftrag geben]] — to commission; to order
+- [[in Betrieb nehmen]] — to put into operation
+- [[Innendienst]] — office-based service
+- [[Insolvenz]] — insolvency; bankruptcy
+- [[Inventur]] — stocktaking
+- [[Kaffeepause]] — coffee break
+- [[Klempner]] — plumber
+- [[Kollegium]] — staff; body of colleagues
+- [[Konzern]] — corporation; group
+- [[kooperieren]] — to cooperate
+- [[Krankmeldung]] — notification of sick leave
+- [[Kundenstamm]] — customer base
+- [[Kündigungsfrist]] — notice period
+- [[Kündigungsschutz]] — protection against dismissal
+- [[Landwirt]] — farmer
+- [[Locher]] — hole punch
+- [[Lohnabrechnung]] — pay slip; wage statement
+- [[Lohnerhöhung]] — pay rise (wages)
+- [[Maurer]] — bricklayer
+- [[Mindestlohn]] — minimum wage
+- [[Minijob]] — mini job (low-paid part-time job)
+- [[Mittelstand]] — medium-sized businesses; middle class
+- [[Monteur]] — fitter; installation technician
+- [[Nachschub]] — fresh supplies; reinforcements
+- [[Nebenjob]] — side job; part-time job
+- [[Niederlassung]] — branch; subsidiary office
+- [[Probezeit]] — probation period
+- [[Prototyp]] — prototype
+- [[Quereinsteiger]] — career changer; lateral entrant
+- [[Referenz]] — reference; testimonial
+- [[Reinigungskraft]] — cleaner
+- [[Rentenalter]] — retirement age
+- [[Sanierung]] — renovation; restructuring
+- [[Schichtarbeit]] — shift work
+- [[Schlüsselqualifikation]] — key skill; transferable skill
+- [[Schornsteinfeger]] — chimney sweep
+- [[schuften]] — to slave away; to toil
+- [[Sektor]] — sector
+- [[spezialisieren]] — to specialise
+- [[Tarifverhandlung]] — collective bargaining (talks)
+- [[Tarifvertrag]] — collective agreement
+- [[Teamarbeit]] — teamwork
+- [[Tischler]] — carpenter; joiner
+- [[Umsatzrückgang]] — decline in sales
+- [[Urlaubsanspruch]] — holiday entitlement
+- [[Vergütung]] — remuneration; compensation
+- [[verhandeln]] — to negotiate; to hear (a case)
+- [[Verschwiegenheit]] — discretion; confidentiality
+- [[Versetzung]] — transfer; promotion to next class
+- [[Versicherungsvertreter]] — insurance agent
+- [[Wartung]] — maintenance; servicing
+- [[Werdegang]] — career; development (path)
+- [[Zeitarbeit]] — temporary agency work
+- [[Zeitmanagement]] — time management
+- [[Zweig]] — branch; sector
+- [[Zweigstelle]] — branch office
+- [[Übernahme]] — takeover; acceptance
+- [[Überstunden]] — overtime
+<!-- bank:end -->
+
+## My notes
+

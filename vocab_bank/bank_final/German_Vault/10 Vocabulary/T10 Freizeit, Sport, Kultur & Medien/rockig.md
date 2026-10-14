@@ -1,0 +1,32 @@
+---
+title: "rockig"
+type: "word"
+lemma: "rockig"
+meaning: "rocking"
+pos: "adjective"
+level: "A2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B3194"
+netzwerk: "A2 K12 6b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# rockig
+
+**Meaning:** rocking
+**Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Lied klingt richtig rockig.
+> *The song sounds really rocking.*
+
+**Source:** Netzwerk neu A2 K12 6b (Gute Unterhaltung!)
+<!-- bank:end -->
+
+## My notes
+

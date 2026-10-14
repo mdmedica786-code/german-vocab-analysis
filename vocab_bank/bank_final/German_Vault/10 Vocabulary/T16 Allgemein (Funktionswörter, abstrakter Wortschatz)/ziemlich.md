@@ -1,0 +1,41 @@
+---
+title: "ziemlich"
+type: "word"
+lemma: "ziemlich"
+meaning: "quite"
+pos: "adverb"
+level: "A2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B2055"
+goethe_level: "B1"
+netzwerk: "A2 K2 11b"
+freq_rank: 669
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# ziemlich
+
+**Meaning:** quite
+**Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich bin schon ziemlich müde. Ich gehe ins Bett.
+> *I am already quite tired. I'm going to bed.*
+
+**Collocations**
+- ziemlich gut
+- ziemlich viel
+- ziemlich lange
+- ziemlich sicher
+
+**Related:** [[sicher]]
+
+**Source:** Netzwerk neu A2 K2 11b (Nach der Schulzeit) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

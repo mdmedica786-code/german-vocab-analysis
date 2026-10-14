@@ -1,0 +1,39 @@
+---
+title: "dulden"
+type: "word"
+aliases: ["duldet", "duldete", "hat geduldet"]
+lemma: "dulden"
+meaning: "to tolerate; to put up with"
+pos: "verb"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D0275"
+exam_use: ["Lesen", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# dulden
+
+**Meaning:** to tolerate; to put up with
+**Forms:** duldet · duldete · hat geduldet
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Schule duldet kein Mobbing.
+> *The school does not tolerate bullying.*
+
+**Collocations**
+- keinen Widerspruch dulden
+- etwas stillschweigend dulden
+
+**Related:** [[Widerspruch]] · [[stillschweigend]]
+
+**Exam use:** Lesen, Sprechen
+<!-- bank:end -->
+
+## My notes
+

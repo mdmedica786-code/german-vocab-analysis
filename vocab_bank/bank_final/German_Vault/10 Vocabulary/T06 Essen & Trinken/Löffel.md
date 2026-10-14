@@ -1,0 +1,37 @@
+---
+title: "Löffel"
+type: "word"
+aliases: ["der Löffel"]
+lemma: "Löffel"
+meaning: "spoon"
+pos: "noun"
+article: "der"
+plural: "Löffel"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0984"
+goethe_level: "A2"
+netzwerk: "A1 K6 11c ÜB"
+freq_rank: 4486
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Löffel
+
+**Meaning:** spoon
+**Plural:** Löffel
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Bitte bringen Sie mir einen Löffel.
+> *Please bring me a spoon.*
+
+**Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

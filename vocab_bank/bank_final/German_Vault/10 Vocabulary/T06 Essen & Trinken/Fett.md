@@ -1,0 +1,37 @@
+---
+title: "Fett"
+type: "word"
+aliases: ["das Fett", "Fette"]
+lemma: "Fett"
+meaning: "fat"
+pos: "noun"
+article: "das"
+plural: "Fette"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0692"
+goethe_level: "B1"
+netzwerk: "A1 K4 6d ÜB"
+freq_rank: 2000
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Fett
+
+**Meaning:** fat
+**Plural:** Fette
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Man soll nicht so viel Fett essen.
+> *You shouldn't eat so much fat.*
+
+**Source:** Netzwerk neu A1 K4 6d ÜB (Guten Appetit!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

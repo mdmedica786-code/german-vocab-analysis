@@ -1,0 +1,42 @@
+---
+title: "Gewässer"
+type: "word"
+aliases: ["das Gewässer"]
+lemma: "Gewässer"
+meaning: "body of water; waters"
+pos: "noun"
+article: "das"
+plural: "Gewässer"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D0741"
+exam_use: ["Lesen", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# das Gewässer
+
+**Meaning:** body of water; waters
+**Plural:** Gewässer
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Gewässer in der Region sind sauber.
+> *The waters in the region are clean.*
+
+**Collocations**
+- stehendes Gewässer
+- Gewässer verschmutzen
+- Gewässer schützen
+
+**Related:** [[verschmutzen]] · [[schützen]]
+
+**Exam use:** Lesen, Hören
+<!-- bank:end -->
+
+## My notes
+

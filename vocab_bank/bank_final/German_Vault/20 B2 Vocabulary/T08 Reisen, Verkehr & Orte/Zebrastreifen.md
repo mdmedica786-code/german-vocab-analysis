@@ -1,0 +1,40 @@
+---
+title: "Zebrastreifen"
+type: "word"
+aliases: ["der Zebrastreifen"]
+lemma: "Zebrastreifen"
+meaning: "zebra crossing"
+pos: "noun"
+article: "der"
+plural: "Zebrastreifen"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D1024"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Zebrastreifen
+
+**Meaning:** zebra crossing
+**Plural:** Zebrastreifen
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Am Zebrastreifen müssen Autos anhalten.
+> *Cars have to stop at a zebra crossing.*
+
+**Collocations**
+- über den Zebrastreifen gehen
+- am Zebrastreifen warten
+- den Zebrastreifen benutzen
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

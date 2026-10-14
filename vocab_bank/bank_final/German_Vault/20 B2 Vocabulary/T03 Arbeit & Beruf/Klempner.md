@@ -1,0 +1,42 @@
+---
+title: "Klempner"
+type: "word"
+aliases: ["der Klempner"]
+lemma: "Klempner"
+meaning: "plumber"
+pos: "noun"
+article: "der"
+plural: "Klempner"
+level: "B2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "b2"
+id: "D1744"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Klempner
+
+**Meaning:** plumber
+**Plural:** Klempner
+**Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Klempner repariert den tropfenden Wasserhahn.
+> *The plumber is repairing the dripping tap.*
+
+**Collocations**
+- den Klempner rufen
+- ein Termin beim Klempner
+- als Klempner arbeiten
+
+**Related:** [[Termin]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

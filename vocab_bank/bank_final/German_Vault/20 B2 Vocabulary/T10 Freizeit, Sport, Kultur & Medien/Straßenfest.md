@@ -1,0 +1,40 @@
+---
+title: "Straßenfest"
+type: "word"
+aliases: ["das Straßenfest", "Straßenfeste"]
+lemma: "Straßenfest"
+meaning: "street party"
+pos: "noun"
+article: "das"
+plural: "Straßenfeste"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D1892"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# das Straßenfest
+
+**Meaning:** street party
+**Plural:** Straßenfeste
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Sommer gibt es in unserem Viertel ein großes Straßenfest.
+> *In summer there is a big street party in our neighbourhood.*
+
+**Collocations**
+- ein Straßenfest feiern
+- zum Straßenfest einladen
+- das jährliche Straßenfest
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

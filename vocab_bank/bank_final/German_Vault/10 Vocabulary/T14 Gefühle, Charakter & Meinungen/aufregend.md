@@ -1,0 +1,33 @@
+---
+title: "aufregend"
+type: "word"
+lemma: "aufregend"
+meaning: "exciting"
+pos: "adjective"
+level: "A2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "main"
+id: "B2252"
+goethe_level: "A2"
+netzwerk: "A2 K4 11a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# aufregend
+
+**Meaning:** exciting
+**Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die letzte Woche war sehr aufregend.
+> *Last week was very exciting.*
+
+**Source:** Netzwerk neu A2 K4 11a (Große und kleine Gefühle) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

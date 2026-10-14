@@ -1,0 +1,33 @@
+---
+title: "beide"
+type: "word"
+lemma: "beide"
+meaning: "both"
+pos: "determiner"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B1508"
+goethe_level: "A1"
+netzwerk: "A1 K10 4b"
+freq_rank: 106
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/determiner"]
+status: "new"
+---
+<!-- bank:start -->
+# beide
+
+**Meaning:** both
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Beide Eltern arbeiten.
+> *Both parents work.*
+
+**Source:** Netzwerk neu A1 K10 4b (Studium und Beruf) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

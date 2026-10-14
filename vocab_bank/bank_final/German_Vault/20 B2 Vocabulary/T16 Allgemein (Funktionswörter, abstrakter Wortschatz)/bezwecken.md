@@ -1,0 +1,38 @@
+---
+title: "bezwecken"
+type: "word"
+aliases: ["bezweckt", "bezweckte", "hat bezweckt"]
+lemma: "bezwecken"
+meaning: "to aim at; to intend"
+pos: "verb"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D1234"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# bezwecken
+
+**Meaning:** to aim at; to intend
+**Forms:** bezweckt · bezweckte · hat bezweckt
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Was bezweckst du mit dieser Frage?
+> *What are you aiming at with this question?*
+
+**Collocations**
+- etwas bezwecken
+- damit bezwecken
+- bezwecken, dass
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

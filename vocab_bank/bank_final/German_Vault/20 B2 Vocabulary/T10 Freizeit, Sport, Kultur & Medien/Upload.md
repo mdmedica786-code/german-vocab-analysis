@@ -1,0 +1,42 @@
+---
+title: "Upload"
+type: "word"
+aliases: ["der Upload", "Uploads"]
+lemma: "Upload"
+meaning: "upload"
+pos: "noun"
+article: "der"
+plural: "Uploads"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D0590"
+exam_use: ["Alltag"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag"]
+status: "new"
+---
+<!-- bank:start -->
+# der Upload
+
+**Meaning:** upload
+**Plural:** Uploads
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Upload der Datei dauert wegen der schlechten Verbindung lange.
+> *The upload of the file takes a long time because of the poor connection.*
+
+**Collocations**
+- einen Upload starten
+- Upload und Download
+- Upload abbrechen
+
+**Related:** [[Download]]
+
+**Exam use:** Alltag
+<!-- bank:end -->
+
+## My notes
+

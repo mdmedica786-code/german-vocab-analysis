@@ -1,0 +1,39 @@
+---
+title: "usw."
+type: "word"
+lemma: "usw."
+meaning: "etc. (and so on)"
+pos: "adverb"
+level: "A2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B2879"
+netzwerk: "A2 K9 11b"
+freq_rank: 510
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# usw.
+
+**Meaning:** etc. (and so on)
+**Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+**Note:** Abbreviation of und so weiter.
+
+> [!example] Beispiel
+> und so weiter
+> *and so on*
+
+**Collocations**
+- Obst, Gemüse usw.
+- und so weiter und so fort
+
+**Related:** [[Obst]] · [[Gemüse]]
+
+**Source:** Netzwerk neu A2 K9 11b (Sportlich, sportlich)
+<!-- bank:end -->
+
+## My notes
+

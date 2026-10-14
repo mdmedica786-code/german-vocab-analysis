@@ -1,0 +1,40 @@
+---
+title: "Schwan"
+type: "word"
+aliases: ["der Schwan", "Schwäne"]
+lemma: "Schwan"
+meaning: "swan"
+pos: "noun"
+article: "der"
+plural: "Schwäne"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D1970"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# der Schwan
+
+**Meaning:** swan
+**Plural:** Schwäne
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Auf dem See schwimmen zwei weiße Schwäne.
+> *Two white swans are swimming on the lake.*
+
+**Collocations**
+- ein weißer Schwan
+- Schwäne füttern
+- der Schwanengesang
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

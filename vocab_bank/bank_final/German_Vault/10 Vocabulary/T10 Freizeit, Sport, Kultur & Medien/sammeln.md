@@ -1,0 +1,35 @@
+---
+title: "sammeln"
+type: "word"
+aliases: ["sammelt", "sammelte", "hat gesammelt"]
+lemma: "sammeln"
+meaning: "to collect"
+pos: "verb"
+level: "A1"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B0045"
+goethe_level: "A2"
+netzwerk: "A1 K1 1c"
+freq_rank: 1613
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# sammeln
+
+**Meaning:** to collect
+**Forms:** sammelt · sammelte · hat gesammelt
+**Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Als Fotograf hat er schon viel Erfahrung gesammelt.
+> *He's already gained a lot of experience as a photographer.*
+
+**Source:** Netzwerk neu A1 K1 1c (Guten Tag!) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

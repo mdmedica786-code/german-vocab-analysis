@@ -1,0 +1,37 @@
+---
+title: "Stufe"
+type: "word"
+aliases: ["die Stufe", "Stufen"]
+lemma: "Stufe"
+meaning: "step; level"
+pos: "noun"
+article: "die"
+plural: "Stufen"
+level: "B1"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "main"
+id: "B4676"
+goethe_level: "B1"
+netzwerk: "B1 K9 10d"
+freq_rank: 1076
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Stufe
+
+**Meaning:** step; level
+**Plural:** Stufen
+**Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Vorsicht, Stufe!
+> *Careful, step!*
+
+**Source:** Netzwerk neu B1 K9 10d (Kunststücke) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,39 @@
+---
+title: "hinterfragen"
+type: "word"
+aliases: ["hinterfragt", "hinterfragte", "hat hinterfragt"]
+lemma: "hinterfragen"
+meaning: "to question; to scrutinise"
+pos: "verb"
+level: "B2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "b2"
+id: "D0232"
+exam_use: ["Schreiben", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# hinterfragen
+
+**Meaning:** to question; to scrutinise
+**Forms:** hinterfragt · hinterfragte · hat hinterfragt
+**Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Man sollte Nachrichten im Internet kritisch hinterfragen.
+> *One should critically question news on the internet.*
+
+**Collocations**
+- kritisch hinterfragen
+- Entscheidungen hinterfragen
+
+**Related:** [[kritisch]]
+
+**Exam use:** Schreiben, Sprechen
+<!-- bank:end -->
+
+## My notes
+

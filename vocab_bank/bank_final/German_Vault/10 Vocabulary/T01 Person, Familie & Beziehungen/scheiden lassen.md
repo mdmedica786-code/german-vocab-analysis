@@ -1,0 +1,35 @@
+---
+title: "scheiden lassen"
+type: "word"
+aliases: ["lässt sich scheiden", "ließ sich scheiden", "hat sich scheiden lassen"]
+lemma: "scheiden lassen"
+meaning: "to get divorced"
+pos: "verb"
+level: "B1"
+topic: "[[T01 Person, Familie & Beziehungen]]"
+register: "neutral"
+bank: "main"
+id: "B6181"
+goethe_level: "B1"
+freq_rank: 4785
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# scheiden lassen
+
+**Meaning:** to get divorced
+**Forms:** lässt sich scheiden · ließ sich scheiden · hat sich scheiden lassen
+**Grammar:** reflexive
+**Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Meine Nachbarn haben sich scheiden lassen.
+> *My neighbours got divorced.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

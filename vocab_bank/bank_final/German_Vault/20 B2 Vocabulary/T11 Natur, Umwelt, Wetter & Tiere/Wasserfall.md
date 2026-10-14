@@ -1,0 +1,40 @@
+---
+title: "Wasserfall"
+type: "word"
+aliases: ["der Wasserfall", "Wasserfälle"]
+lemma: "Wasserfall"
+meaning: "waterfall"
+pos: "noun"
+article: "der"
+plural: "Wasserfälle"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D2009"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Wasserfall
+
+**Meaning:** waterfall
+**Plural:** Wasserfälle
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Wasserfall stürzt zwanzig Meter in die Tiefe.
+> *The waterfall plunges twenty metres down.*
+
+**Collocations**
+- ein Wasserfall rauscht
+- zum Wasserfall wandern
+- ein hoher Wasserfall
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,42 @@
+---
+title: "Armband"
+type: "word"
+aliases: ["das Armband", "Armbänder"]
+lemma: "Armband"
+meaning: "bracelet; strap"
+pos: "noun"
+article: "das"
+plural: "Armbänder"
+level: "B2"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "b2"
+id: "D1441"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# das Armband
+
+**Meaning:** bracelet; strap
+**Plural:** Armbänder
+**Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Armband meiner Uhr ist kaputtgegangen.
+> *The strap of my watch has broken.*
+
+**Collocations**
+- ein Armband tragen
+- ein silbernes Armband
+- das Armband ersetzen
+
+**Related:** [[ersetzen]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

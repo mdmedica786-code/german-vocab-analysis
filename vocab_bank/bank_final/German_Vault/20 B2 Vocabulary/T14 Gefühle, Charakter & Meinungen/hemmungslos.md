@@ -1,0 +1,38 @@
+---
+title: "hemmungslos"
+type: "word"
+lemma: "hemmungslos"
+meaning: "unrestrained; without inhibition"
+pos: "adjective"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1605"
+exam_use: ["Lesen", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# hemmungslos
+
+**Meaning:** unrestrained; without inhibition
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er schrie hemmungslos seine Wut heraus.
+> *He shouted out his rage without any restraint.*
+
+**Collocations**
+- hemmungslos weinen
+- hemmungslos feiern
+- hemmungslos ausnutzen
+
+**Related:** [[ausnutzen]]
+
+**Exam use:** Lesen, Sprechen
+<!-- bank:end -->
+
+## My notes
+

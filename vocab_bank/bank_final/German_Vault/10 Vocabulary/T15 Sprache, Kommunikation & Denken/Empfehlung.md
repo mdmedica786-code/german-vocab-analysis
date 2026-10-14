@@ -1,0 +1,36 @@
+---
+title: "Empfehlung"
+type: "word"
+aliases: ["die Empfehlung", "Empfehlungen"]
+lemma: "Empfehlung"
+meaning: "recommendation"
+pos: "noun"
+article: "die"
+plural: "Empfehlungen"
+level: "B1"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B5552"
+goethe_level: "B1"
+freq_rank: 2301
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Empfehlung
+
+**Meaning:** recommendation
+**Plural:** Empfehlungen
+**Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich rufe auf Empfehlung von Herrn Weber an.
+> *I am calling on the recommendation of Mr Weber.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

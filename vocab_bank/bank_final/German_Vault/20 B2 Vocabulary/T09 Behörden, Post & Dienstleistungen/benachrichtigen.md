@@ -1,0 +1,40 @@
+---
+title: "benachrichtigen"
+type: "word"
+aliases: ["benachrichtigt", "benachrichtigte", "hat benachrichtigt"]
+lemma: "benachrichtigen"
+meaning: "to notify; to inform"
+pos: "verb"
+level: "B2"
+topic: "[[T09 Behörden, Post & Dienstleistungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1808"
+exam_use: ["Schreiben", "Alltag"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
+---
+<!-- bank:start -->
+# benachrichtigen
+
+**Meaning:** to notify; to inform
+**Forms:** benachrichtigt · benachrichtigte · hat benachrichtigt
+**Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wir benachrichtigen Sie, sobald das Paket eintrifft.
+> *We will notify you as soon as the parcel arrives.*
+
+**Collocations**
+- jemanden benachrichtigen
+- die Polizei benachrichtigen
+- schriftlich benachrichtigen
+
+**Related:** [[Polizei]] · [[schriftlich]]
+
+**Exam use:** Schreiben, Alltag
+<!-- bank:end -->
+
+## My notes
+

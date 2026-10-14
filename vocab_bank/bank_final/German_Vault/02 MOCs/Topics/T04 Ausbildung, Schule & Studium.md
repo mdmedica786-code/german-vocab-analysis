@@ -1,0 +1,375 @@
+---
+title: "T04 Ausbildung, Schule & Studium"
+type: "moc"
+tags: ["moc", "topic/T04"]
+---
+<!-- bank:start -->
+# T04 Ausbildung, Schule & Studium
+
+Map of content. 262 words in the main bank, 76 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (57)
+
+- [[Aufgabe]] — task; assignment
+- [[auswendig]] — by heart (auswendig lernen)
+- [[Bibliothek]] — library
+- [[Bleistift]] — pencil
+- [[Bogen]] — sheet (of paper); bow; curve
+- [[Deutschbuch]] — German book
+- [[einsammeln]] — to collect
+- [[Englisch-Test]] — English test
+- [[Experiment]] — experiment
+- [[Hausaufgabe]] — homework
+- [[Heft]] — exercise book
+- [[Kapitel]] — chapter
+- [[Kindergarten]] — kindergarten
+- [[Klasse]] — class
+- [[Kugelschreiber]] — ballpoint pen
+- [[Kurs]] — course
+- [[Kursplakat]] — course poster
+- [[Kursraum]] — classroom; course room
+- [[Kursstatistik]] — course statistic
+- [[Lehrer]] — teacher (m)
+- [[lernen]] — to learn
+- [[Lernkarte]] — flashcard; learning card
+- [[Lernwortschatz]] — learning vocabulary
+- [[Mathe-Test]] — math test
+- [[Mensa]] — canteen
+- [[Modeschule]] — fashion school
+- [[Musikschule]] — music school; conservatoire
+- [[Papier]] — paper
+- [[Plakat]] — poster
+- [[Praktikum]] — internship
+- [[Professor]] — professor (m)
+- [[Professorin]] — professor (f)
+- [[Projekt]] — project
+- [[Prüfung]] — test, exam
+- [[Rollenkarte]] — role card
+- [[Schule]] — school
+- [[Schüler]] — pupil (m)
+- [[Semester]] — semester
+- [[Seminar]] — seminar
+- [[Sprachinstitut]] — language institute
+- [[Sprachkurs]] — language class
+- [[Sprachschule]] — language school
+- [[Stift]] — pencil
+- [[Student]] — student (m)
+- [[Studentin]] — student (f)
+- [[studieren]] — to study
+- [[Studium]] — studies
+- [[Tafel]] — blackboard
+- [[Test]] — test
+- [[Uni]] — university
+- [[Unicafé]] — uni café
+- [[Universität]] — university
+- [[Unterricht]] — lessons
+- [[unterstreichen]] — to underline
+- [[wiederholen]] — to repeat
+- [[Übung]] — exercise
+- [[Übungsbuch]] — exercise book
+
+### A2 (86)
+
+- [[Abitur]] — A levels
+- [[Abschluss]] — degree
+- [[Abschlussprüfung]] — final exam
+- [[AG]] — work group
+- [[Ausbildung]] — training, education
+- [[Berufsschule]] — vocational school
+- [[bestehen]] — to pass; to consist; to exist
+- [[Biologie]] — biology
+- [[Chemie]] — chemistry
+- [[dazulernen]] — to learn something new
+- [[Direktor]] — headmaster (m)
+- [[Direktorin]] — headmaster (f)
+- [[Disziplin]] — discipline
+- [[Einführung]] — introduction
+- [[Englisch-Studium]] — English degree
+- [[Englischlehrer]] — English teacher (m)
+- [[Englischlehrerin]] — English teacher (f)
+- [[Fach]] — subject
+- [[Fachoberschule]] — higher secondary vocational school
+- [[Ferien]] — holidays
+- [[Geografie]] — geography
+- [[Gesamtschule]] — comprehensive school
+- [[Grammatikaufgabe]] — grammar exercise
+- [[Grundschule]] — elementary school
+- [[Gymnasium]] — grammar school
+- [[Hauptschulabschluss]] — secondary school graduation
+- [[Hauptschule]] — secondary school
+- [[Informatik]] — computer science
+- [[Jura]] — law
+- [[Kenntnis]] — knowledge
+- [[Kenntnisse]] — knowledge; skills
+- [[Klassenfahrt]] — class outing
+- [[Klassenzimmer]] — classroom
+- [[Kunsterziehung]] — art
+- [[Kunstgeschichte]] — art history
+- [[Kursfest]] — course party
+- [[Kursleiter]] — course leader (m)
+- [[Kursleiterin]] — course leader (f)
+- [[Kursort]] — location of the course
+- [[Kurspartner]] — course partner (m)
+- [[Kurspartnerin]] — course partner (f)
+- [[Latein]] — Latin
+- [[Lehrende]] — teacher
+- [[Lernende]] — learner
+- [[Lernerfahrung]] — learning experiences
+- [[Lernhelfer]] — tutor (m)
+- [[Lernhelferin]] — tutor (f)
+- [[Lernproblem]] — learning problem
+- [[Mathe]] — math
+- [[Mathematik]] — mathematics
+- [[mündlich]] — oral
+- [[Note]] — grade
+- [[Physik]] — physics
+- [[Prüfende]] — examiner
+- [[Realschulabschluss]] — intermediate school-leaving certificate (Realschule)
+- [[Realschule]] — secondary modern school
+- [[Schulabschluss]] — graduation
+- [[Schulfach]] — subject
+- [[Schulkleidung]] — school clothing
+- [[Schulplattform]] — school platform
+- [[Schulranzen]] — school bag
+- [[Schulsystem]] — school system
+- [[Schultag]] — school day
+- [[Schultyp]] — school type
+- [[Schultüte]] — school cone (sweets given on the first day of school)
+- [[Schuluniform]] — school uniform
+- [[Schulweg]] — way to school
+- [[Schulzeit]] — school days
+- [[Schülerin]] — pupil (f)
+- [[Sekretariat]] — secretary's office; administrative office
+- [[Sommerferien]] — summer holidays
+- [[Sozialkunde]] — social studies
+- [[Sprachenlernen]] — learning languages
+- [[Sprachwissenschaft]] — linguistic science
+- [[Stipendium]] — scholarship
+- [[Studierende]] — student
+- [[Stundenplan]] — timetable; schedule
+- [[unterrichten]] — to teach
+- [[Unterrichtszeit]] — class time
+- [[Vokabel]] — vocabulary word
+- [[Vokabeltest]] — vocabulary test
+- [[Vorbereitung]] — preparation
+- [[Vorlesung]] — lecture
+- [[Workshop]] — workshop
+- [[Zeugnis]] — report card
+- [[üben]] — to practice
+
+### B1 (93)
+
+- [[abgeschlossen]] — completed; locked
+- [[abschreiben]] — to copy
+- [[Akademie]] — academy
+- [[Allgemeinbildende Höhere Schule]] — Austrian academic secondary school (AHS)
+- [[anerkennen]] — to recognise; to acknowledge
+- [[ausbilden]] — to train
+- [[ausgebildet]] — trained; qualified
+- [[Auswertung]] — evaluation
+- [[befriedigend]] — satisfactory; satisfying
+- [[Berufsbildende Höhere Schule]] — Austrian vocational secondary school (BHS)
+- [[Berufsmittelschule]] — vocational secondary school (Swiss)
+- [[Bezirksschule]] — district school (Swiss secondary school)
+- [[Bildung]] — education
+- [[biologisch]] — biological
+- [[Diplom]] — diploma
+- [[Diplommittelschule]] — diploma secondary school (Swiss)
+- [[Doktorand]] — PhD student (m)
+- [[Doktorandin]] — PhD student (f)
+- [[durchstreichen]] — to cross out
+- [[empirisch]] — empirical
+- [[erarbeiten]] — to work out; to develop
+- [[erforschen]] — to research; to explore
+- [[Ethnologe]] — ethnologist (m)
+- [[Ethnologin]] — ethnologist (f)
+- [[Farbstift]] — coloured pencil; crayon
+- [[festsetzen]] — to set; to fix
+- [[Forscher]] — researcher (m)
+- [[Forscherin]] — researcher (f)
+- [[Forschung]] — research
+- [[Gruppenarbeit]] — group work
+- [[Hochschule]] — university; institution of higher education
+- [[Institut]] — institute
+- [[Intensivkurs]] — intensive course
+- [[Kandidat]] — candidate (m)
+- [[Kandidatin]] — candidate (f)
+- [[Kindertagesstätte]] — day-care centre (Kita)
+- [[Kita]] — kindergarten
+- [[Klassenarbeit]] — class test
+- [[Krippe]] — crèche; nursery
+- [[Kuli]] — pen
+- [[Kursabschluss]] — course completion
+- [[Kursstunde]] — lesson
+- [[Leistung]] — performance; achievement; service
+- [[Lerncoach]] — learning coach
+- [[Lerner]] — learner (m)
+- [[Lernerin]] — learner (f)
+- [[Lernplakat]] — revision poster
+- [[Lerntipp]] — learning tip
+- [[Lerntyp]] — learning type
+- [[Lernzeit]] — learning time
+- [[Lexikon]] — encyclopaedia
+- [[loben]] — to praise
+- [[Matura]] — school-leaving exam (A-levels, Austria and Switzerland)
+- [[Mittelschule]] — secondary school (Switzerland, Austria)
+- [[Musikstudium]] — study of music
+- [[Nachhilfe]] — private tutoring
+- [[Neue Mittelschule]] — Austrian lower secondary school (NMS)
+- [[Ordner]] — folder; file
+- [[Orientierungsstufe]] — orientation stage (school years 5 and 6)
+- [[Philosophie]] — philosophy
+- [[Primarschule]] — primary school (Swiss)
+- [[Prof]] — professor
+- [[Pädagoge]] — educator; teacher (m)
+- [[Pädagogin]] — educator; teacher (f)
+- [[Pädagogische Hochschule]] — university of teacher education
+- [[Recherche]] — research; investigation
+- [[Referat]] — presentation
+- [[Schularbeit]] — class test (Austrian)
+- [[Schulbildung]] — education
+- [[Schulchor]] — school choir
+- [[Sekundarschule]] — secondary school (Swiss)
+- [[Sommerprojekt]] — summer project
+- [[Sonderschule]] — special school
+- [[Spielgruppe]] — playgroup (Swiss)
+- [[Studie]] — study; survey
+- [[Studienplatz]] — place to study
+- [[Teilnehmende]] — participant
+- [[Teilnehmer]] — participant (m)
+- [[Teilnehmerin]] — participant (f)
+- [[Themenwoche]] — theme week
+- [[theoretisch]] — theoretical
+- [[Uni-Mensa]] — university cafeteria
+- [[Unterrichtsform]] — form of instruction
+- [[vermitteln]] — to convey
+- [[Versuch]] — attempt; experiment
+- [[Volkshochschule]] — adult education centre
+- [[Volksschule]] — primary school (Austria)
+- [[Vortrag]] — lecture
+- [[Weiterbildung]] — further training
+- [[Wiederholung]] — repetition; repeat
+- [[Wissenschaft]] — science
+- [[wissenschaftlich]] — scientific; academic
+- [[Zertifikat]] — certificate
+
+### B2 (12)
+
+- [[Aufsatz]] — essay
+- [[Befragung]] — survey; questioning
+- [[chemisch]] — chemical
+- [[Entdeckung]] — discovery
+- [[Handbuch]] — manual; handbook
+- [[Inhaltsverzeichnis]] — table of contents
+- [[lehren]] — to teach
+- [[mathematisch]] — mathematical
+- [[Naturwissenschaft]] — natural science
+- [[Niveau]] — level; standard
+- [[Psychologie]] — psychology
+- [[psychologisch]] — psychological
+
+### C1 (14)
+
+- [[absolvieren]] — to complete (a course)
+- [[analytisch]] — analytical
+- [[Erforschung]] — research; exploration
+- [[Fachbereich]] — department; field of study
+- [[Fragestellung]] — formulation of a question; issue
+- [[Hypothese]] — hypothesis
+- [[methodisch]] — methodical
+- [[Philosoph]] — philosopher
+- [[philosophisch]] — philosophical
+- [[physikalisch]] — physical (physics)
+- [[pädagogisch]] — pedagogical; educational
+- [[Rhetorik-Wettbewerb]] — rhetoric competition
+- [[schulisch]] — school-related
+- [[Soziologie]] — sociology
+
+## B2 bank
+
+### B2 (76)
+
+- [[Abendkurs]] — evening class
+- [[Abschlussarbeit]] — final thesis; degree dissertation
+- [[abschneiden]] — to cut off; to perform (in a test)
+- [[Akademiker]] — university graduate; academic
+- [[Aufnahmeprüfung]] — entrance exam
+- [[Ausbilder]] — trainer; instructor (in vocational training)
+- [[Ausbildungsplatz]] — training place; apprenticeship position
+- [[Ausleihe]] — lending; loan desk
+- [[Auswendiglernen]] — learning by heart; rote learning
+- [[Bachelorstudium]] — bachelor's degree programme
+- [[Begabung]] — talent; gift
+- [[Berufsberatung]] — careers advice
+- [[Berufsorientierung]] — career orientation
+- [[Bibliothekar]] — librarian
+- [[Bildungsabschluss]] — educational qualification
+- [[Bildungsweg]] — educational path
+- [[blau machen]] — to skip work or school
+- [[Dissertation]] — doctoral thesis
+- [[Dozent]] — lecturer
+- [[durchfallen]] — to fail (an exam); to fall through
+- [[durchkommen]] — to get through; to pass
+- [[eine Prüfung ablegen]] — to take an exam
+- [[einen Vortrag halten]] — to give a lecture
+- [[Einschreibung]] — enrolment; registration
+- [[Erfinder]] — inventor
+- [[Erstsemester]] — first-semester student
+- [[Exmatrikulation]] — de-registration from university
+- [[Fachbuch]] — specialist book
+- [[Fachhochschule]] — university of applied sciences
+- [[Fachliteratur]] — specialist literature
+- [[Fernstudium]] — distance learning degree
+- [[Fortschritte machen]] — to make progress
+- [[Fußnote]] — footnote
+- [[Förderunterricht]] — supplementary tuition; remedial classes
+- [[Gasthörer]] — guest student; auditor
+- [[Geisteswissenschaft]] — humanities (discipline)
+- [[Hörsaal]] — lecture hall
+- [[Immatrikulation]] — university enrolment
+- [[Kolloquium]] — colloquium; academic discussion
+- [[Lehrbuch]] — textbook
+- [[Lehrplan]] — curriculum; syllabus
+- [[Lehrstuhl]] — university chair; professorship
+- [[Leihfrist]] — loan period
+- [[Leistungsnachweis]] — proof of academic achievement; credit
+- [[Lernstrategie]] — learning strategy
+- [[Lernziel]] — learning objective
+- [[Lesesaal]] — reading room
+- [[Lineal]] — ruler
+- [[Literaturverzeichnis]] — bibliography
+- [[Meisterbrief]] — master craftsman's certificate
+- [[Methodik]] — methodology
+- [[Nachschlagewerk]] — reference work
+- [[Notizbuch]] — notebook
+- [[Promotion]] — doctorate; doctoral degree
+- [[Prüfungsangst]] — exam anxiety
+- [[Prüfungsordnung]] — examination regulations
+- [[Radiergummi]] — rubber; eraser
+- [[Regelstudienzeit]] — standard period of study
+- [[Schulpflicht]] — compulsory schooling
+- [[schwänzen]] — to skip (school, class)
+- [[Semesterferien]] — semester break
+- [[Semesterticket]] — semester ticket (student travel pass)
+- [[Seminararbeit]] — seminar paper; term paper
+- [[Sozialwissenschaft]] — social science
+- [[Sprachzertifikat]] — language certificate
+- [[Stichprobe]] — sample; spot check
+- [[Studiengang]] — degree programme; course of study
+- [[Studiengebühr]] — tuition fee
+- [[Taschenrechner]] — calculator
+- [[Tutor]] — tutor; student teaching assistant
+- [[Umschulung]] — retraining
+- [[Unterrichtsstunde]] — lesson; class period
+- [[vertiefen]] — to deepen; to intensify
+- [[Wahlfach]] — elective subject
+- [[Weiterbildungsangebot]] — further education offering
+- [[Werkstudent]] — working student
+<!-- bank:end -->
+
+## My notes
+

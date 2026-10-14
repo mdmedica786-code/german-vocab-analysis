@@ -1,0 +1,40 @@
+---
+title: "Bachelorstudium"
+type: "word"
+aliases: ["das Bachelorstudium"]
+lemma: "Bachelorstudium"
+meaning: "bachelor's degree programme"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B2"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "b2"
+id: "D0920"
+exam_use: ["Lesen", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# das Bachelorstudium
+
+**Meaning:** bachelor's degree programme
+**Plural:** –
+**Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Nach dem Bachelorstudium möchte sie ein Masterstudium anschließen.
+> *After her bachelor's degree she wants to continue with a master's.*
+
+**Collocations**
+- das Bachelorstudium abschließen
+- ein Bachelorstudium beginnen
+- nach dem Bachelorstudium
+
+**Exam use:** Lesen, Sprechen
+<!-- bank:end -->
+
+## My notes
+

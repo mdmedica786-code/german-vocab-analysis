@@ -1,0 +1,37 @@
+---
+title: "Salbe"
+type: "word"
+aliases: ["die Salbe", "Salben"]
+lemma: "Salbe"
+meaning: "ointment"
+pos: "noun"
+article: "die"
+plural: "Salben"
+level: "A1"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "main"
+id: "B1254"
+goethe_level: "B1"
+netzwerk: "A1 K8 8a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# die Salbe
+
+**Meaning:** ointment
+**Plural:** Salben
+**Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Diese Salbe gibt es nur auf Rezept.
+> *This ointment is only available on prescription.*
+
+**Source:** Netzwerk neu A1 K8 8a (Fit und gesund) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

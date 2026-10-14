@@ -1,0 +1,33 @@
+---
+title: "mittler"
+type: "word"
+lemma: "mittler"
+meaning: "middle; medium"
+pos: "adjective"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B5302"
+goethe_level: "B1"
+freq_rank: 1306
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# mittler
+
+**Meaning:** middle; medium
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+**Note:** Used before a noun: mittlerer, mittlere, mittleres.
+
+> [!example] Beispiel
+> Das Unternehmen hat eine mittlere Größe.
+> *The company is of medium size.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

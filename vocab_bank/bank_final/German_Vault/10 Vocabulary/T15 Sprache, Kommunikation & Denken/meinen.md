@@ -1,0 +1,42 @@
+---
+title: "meinen"
+type: "word"
+aliases: ["meint", "meinte", "hat gemeint"]
+lemma: "meinen"
+meaning: "to mean"
+pos: "verb"
+level: "A1"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B1606"
+goethe_level: "A2"
+netzwerk: "A1 K11 3c"
+freq_rank: 276
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# meinen
+
+**Meaning:** to mean
+**Other senses:** to think
+**Forms:** meint · meinte · hat gemeint
+**Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich meine, dass ...
+> *I think that ...*
+
+**Collocations**
+- etwas meinen
+- wie meinst du das
+- meinen, dass ...
+- es gut meinen
+
+**Source:** Netzwerk neu A1 K11 3c (Die Jacke gefällt mir!) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

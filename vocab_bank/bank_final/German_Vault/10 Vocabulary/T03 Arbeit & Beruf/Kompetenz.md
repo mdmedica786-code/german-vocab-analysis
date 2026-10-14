@@ -1,0 +1,36 @@
+---
+title: "Kompetenz"
+type: "word"
+aliases: ["die Kompetenz", "Kompetenzen"]
+lemma: "Kompetenz"
+meaning: "competence; expertise"
+pos: "noun"
+article: "die"
+plural: "Kompetenzen"
+level: "A2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B2514"
+netzwerk: "A2 K6 13b"
+freq_rank: 1332
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Kompetenz
+
+**Meaning:** competence; expertise
+**Plural:** Kompetenzen
+**Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Kompetenz der Ärztin überzeugt die Patienten.
+> *The doctor's competence convinces the patients.*
+
+**Source:** Netzwerk neu A2 K6 13b (Arbeitswelten)
+<!-- bank:end -->
+
+## My notes
+

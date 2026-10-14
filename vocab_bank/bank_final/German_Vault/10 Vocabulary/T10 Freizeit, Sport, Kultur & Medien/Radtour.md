@@ -1,0 +1,36 @@
+---
+title: "Radtour"
+type: "word"
+aliases: ["die Radtour", "Radtouren"]
+lemma: "Radtour"
+meaning: "bike ride"
+pos: "noun"
+article: "die"
+plural: "Radtouren"
+level: "A2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B2853"
+netzwerk: "A2 K9 4"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Radtour
+
+**Meaning:** bike ride
+**Plural:** Radtouren
+**Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Am Sonntag machen wir eine Radtour.
+> *On Sunday we're going on a bike ride.*
+
+**Source:** Netzwerk neu A2 K9 4 (Sportlich, sportlich)
+<!-- bank:end -->
+
+## My notes
+

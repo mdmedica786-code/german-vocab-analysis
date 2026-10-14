@@ -1,0 +1,42 @@
+---
+title: "Überalterung"
+type: "word"
+aliases: ["die Überalterung"]
+lemma: "Überalterung"
+meaning: "ageing of the population"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D1895"
+exam_use: ["Lesen", "Wissenschaft"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
+---
+<!-- bank:start -->
+# die Überalterung
+
+**Meaning:** ageing of the population
+**Plural:** –
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Überalterung der Gesellschaft stellt die Rentenkassen vor Probleme.
+> *The ageing of society poses problems for the pension funds.*
+
+**Collocations**
+- Überalterung der Gesellschaft
+- durch Überalterung
+- die Überalterung aufhalten
+
+**Related:** [[Gesellschaft]] · [[aufhalten]]
+
+**Exam use:** Lesen, Wissenschaft
+<!-- bank:end -->
+
+## My notes
+

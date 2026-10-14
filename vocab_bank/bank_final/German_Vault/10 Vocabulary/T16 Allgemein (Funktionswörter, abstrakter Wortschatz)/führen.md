@@ -1,0 +1,44 @@
+---
+title: "führen"
+type: "word"
+aliases: ["führt", "führte", "hat geführt"]
+lemma: "führen"
+meaning: "to lead; to conduct; to run"
+pos: "verb"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B0778"
+goethe_level: "B1"
+netzwerk: "A1 K4 11"
+freq_rank: 138
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# führen
+
+**Meaning:** to lead; to conduct; to run
+**Forms:** führt · führte · hat geführt
+**Grammar:** + zu + Dat.
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> ein Gespräch führen
+> *to have a conversation*
+
+**Collocations**
+- ein Gespräch führen
+- zum Erfolg führen
+- ein Geschäft führen
+- eine Liste führen
+
+**Related:** [[Gespräch]] · [[Erfolg]] · [[Geschäft]] · [[Liste]]
+
+**Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

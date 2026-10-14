@@ -1,0 +1,37 @@
+---
+title: "Tasse"
+type: "word"
+aliases: ["die Tasse", "Tassen"]
+lemma: "Tasse"
+meaning: "cup"
+pos: "noun"
+article: "die"
+plural: "Tassen"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0987"
+goethe_level: "A2"
+netzwerk: "A1 K6 11c ÜB"
+freq_rank: 2282
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Tasse
+
+**Meaning:** cup
+**Plural:** Tassen
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Möchten Sie eine Tasse Kaffee?
+> *Would you like a cup of coffee?*
+
+**Source:** Netzwerk neu A1 K6 11c ÜB (Zeit mit Freunden) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

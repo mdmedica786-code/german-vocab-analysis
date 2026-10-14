@@ -1,0 +1,37 @@
+---
+title: "Toilette"
+type: "word"
+aliases: ["die Toilette", "Toiletten"]
+lemma: "Toilette"
+meaning: "toilet"
+pos: "noun"
+article: "die"
+plural: "Toiletten"
+level: "A1"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "main"
+id: "B1366"
+goethe_level: "A1"
+netzwerk: "A1 K9 1a"
+freq_rank: 3571
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Toilette
+
+**Meaning:** toilet
+**Plural:** Toiletten
+**Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wo ist die Toilette, bitte?
+> *Where is the toilet, please?*
+
+**Source:** Netzwerk neu A1 K9 1a (Meine Wohnung) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

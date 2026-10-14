@@ -1,0 +1,40 @@
+---
+title: "Werkzeugkasten"
+type: "word"
+aliases: ["der Werkzeugkasten", "Werkzeugkästen"]
+lemma: "Werkzeugkasten"
+meaning: "toolbox"
+pos: "noun"
+article: "der"
+plural: "Werkzeugkästen"
+level: "B2"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "b2"
+id: "D2202"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Werkzeugkasten
+
+**Meaning:** toolbox
+**Plural:** Werkzeugkästen
+**Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Werkzeugkasten findest du Hammer, Zange und Schrauben.
+> *In the toolbox you will find a hammer, pliers and screws.*
+
+**Collocations**
+- den Werkzeugkasten holen
+- im Werkzeugkasten suchen
+- ein gut gefüllter Werkzeugkasten
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

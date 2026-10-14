@@ -1,0 +1,495 @@
+---
+title: "T11 Natur, Umwelt, Wetter & Tiere"
+type: "moc"
+tags: ["moc", "topic/T11"]
+---
+<!-- bank:start -->
+# T11 Natur, Umwelt, Wetter & Tiere
+
+Map of content. 249 words in the main bank, 209 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (38)
+
+- [[Baum]] — tree
+- [[Berg]] — mountain
+- [[bewölkt]] — cloudy
+- [[Blume]] — flower
+- [[draußen]] — outside
+- [[Feuer]] — fire; light (for a cigarette)
+- [[Fluss]] — river
+- [[Frühling]] — spring
+- [[Hamster]] — hamster
+- [[heiß]] — hot
+- [[Herbst]] — autumn
+- [[Hitze]] — heat
+- [[Hund]] — dog
+- [[Jahreszeit]] — season
+- [[kalt]] — cold
+- [[Landschaft]] — landscape
+- [[lebendig]] — living
+- [[Maus]] — mouse
+- [[Meer]] — sea
+- [[Mistwetter]] — bad weather
+- [[Natur]] — nature
+- [[Nelke]] — carnation; clove
+- [[Pflanze]] — plant
+- [[Regen]] — rain
+- [[regnen]] — to rain
+- [[scheinen]] — to shine; to seem
+- [[Schnee]] — snow
+- [[schneien]] — to snow
+- [[schütten]] — to pour
+- [[See]] — lake
+- [[Sonne]] — sun
+- [[sonnig]] — sunny
+- [[warm]] — warm
+- [[Wetter]] — weather
+- [[Wetterbericht]] — weather report
+- [[Wind]] — wind
+- [[windig]] — windy
+- [[Wolke]] — cloud
+
+### A2 (50)
+
+- [[Bauernhof]] — farm
+- [[bellen]] — to bark
+- [[Bär]] — bear
+- [[Bärchen]] — little bear
+- [[Eishöhle]] — ice cave
+- [[Energie]] — energy
+- [[Futter]] — animal feed; fodder
+- [[füttern]] — to feed
+- [[Gewitter]] — thunderstorm
+- [[gießen]] — to water
+- [[Glatteis]] — black ice
+- [[Hallig]] — hallig
+- [[Hase]] — rabbit
+- [[Haustier]] — pet
+- [[Himmel]] — sky
+- [[Höhle]] — cave
+- [[Katze]] — cat
+- [[Kuh]] — cow
+- [[Kätzchen]] — kitty
+- [[kühl]] — cool
+- [[Luft]] — air
+- [[Lärm]] — noise
+- [[Mäuschen]] — little mouse
+- [[Nationalpark]] — national park
+- [[Nebel]] — fog
+- [[neblig]] — foggy
+- [[Pferd]] — horse
+- [[Plastik]] — plastic
+- [[Ratte]] — rat
+- [[reifen (verb)]] — to ripen; to mature
+- [[Rose]] — rose
+- [[Schaf]] — sheep
+- [[Schirm]] — umbrella
+- [[Schwein]] — pig
+- [[Sommertag]] — summer's day
+- [[spiegeln]] — to reflect
+- [[Storch]] — stork
+- [[Tal]] — valley
+- [[Temperatur]] — temperature
+- [[Tier]] — animal
+- [[Tierarzt]] — vet (m)
+- [[Tiername]] — animal name
+- [[Tierärztin]] — vet (f)
+- [[Ufer]] — shore
+- [[Umwelt]] — environment
+- [[umweltfreundlich]] — environmentally friendly
+- [[Vogel]] — bird
+- [[Wald]] — forest
+- [[wild]] — wild
+- [[Wildschwein]] — wild boar
+
+### B1 (136)
+
+- [[Abfall]] — waste
+- [[Abgas]] — exhaust
+- [[Abgase]] — exhaust fumes
+- [[Affe]] — monkey
+- [[Alm]] — alpine pasture (alp)
+- [[anbauen]] — to grow (crops); to add on (build)
+- [[Atomkraft]] — atomic power
+- [[ausbreiten]] — to spread
+- [[beißen]] — to bite
+- [[Beute]] — prey
+- [[Biene]] — bee
+- [[Blitz]] — lightning
+- [[blitzen]] — to flash lightning
+- [[blühen]] — to bloom
+- [[brüllen]] — to roar; to shout
+- [[Donner]] — thunder
+- [[donnern]] — to thunder
+- [[Dunkelheit]] — darkness
+- [[Einwegflasche]] — disposable bottle
+- [[eiskalt]] — ice cold
+- [[Elefant]] — elephant
+- [[Ente]] — duck
+- [[entsorgen]] — to dispose of
+- [[Erde]] — earth; soil; ground
+- [[Ernte]] — harvest
+- [[ernten]] — to harvest
+- [[erwärmen]] — to warm; to heat
+- [[Feld]] — field
+- [[Fliege]] — fly
+- [[fließen]] — to flow
+- [[fressen]] — to eat (of animals); to devour
+- [[Fuchs]] — fox
+- [[Fußabdruck]] — footprint
+- [[Gebirge]] — mountains, mountain range
+- [[geschützt]] — protected
+- [[Giraffe]] — giraffe
+- [[Gras]] — grass
+- [[Grünfläche]] — green space
+- [[hageln]] — to hail
+- [[Hauskatze]] — domestic cat
+- [[Herbststurm]] — autumn storm
+- [[Hirsch]] — stag
+- [[Hochwasser]] — flood
+- [[Hügel]] — hill
+- [[Insekt]] — insect
+- [[Jagd]] — hunt
+- [[Jäger]] — hunter (m)
+- [[Jägerin]] — hunter (f)
+- [[Katzenfreund]] — cat lover (m)
+- [[Katzenfreundin]] — cat lover (f)
+- [[Klima]] — climate
+- [[Klimaerwärmung]] — global warming
+- [[Klimawandel]] — climate change
+- [[Kraftwerk]] — power plant
+- [[Krokodil]] — crocodile
+- [[Kälte]] — cold
+- [[Küste]] — coast
+- [[Löwe]] — lion
+- [[Mars]] — Mars
+- [[Mehrwegflasche]] — reusable bottle
+- [[melken]] — to milk
+- [[Mond]] — moon
+- [[Mücke]] — mosquito
+- [[Müllberg]] — mountain of rubbish
+- [[Müllproblem]] — rubbish problem
+- [[nachhaltig]] — sustainable
+- [[Naturfreund]] — nature lover (m)
+- [[Naturfreundin]] — nature lover (f)
+- [[nieseln]] — to drizzle
+- [[Olivenbaum]] — olive tree
+- [[Ozean]] — ocean
+- [[Papierverbrauch]] — paper consumption
+- [[Pfandflasche]] — deposit bottle
+- [[pflanzen]] — to plant
+- [[Pinguin]] — penguin
+- [[Planet]] — planet
+- [[Plastikflasche]] — plastic bottle
+- [[Rabe]] — raven; crow
+- [[Rasen]] — lawn
+- [[recycelbar]] — recyclable
+- [[Recycling]] — recycling
+- [[Regentag]] — rainy day
+- [[regnerisch]] — rainy
+- [[Sand]] — sand
+- [[Schatten]] — shadow
+- [[Schildkröte]] — turtle
+- [[Schnabel]] — beak
+- [[Schneesturm]] — snow storm
+- [[Schutzprojekt]] — protection project
+- [[schweben]] — to float
+- [[schwül]] — muggy
+- [[Solarpanel]] — solar panel
+- [[Solarzelle]] — solar cell
+- [[Sonnenaufgang]] — sunrise
+- [[Sonnenenergie]] — solar energy
+- [[stechen]] — to sting; to stab
+- [[Stein]] — stone; rock
+- [[Stern]] — star
+- [[Strauch]] — bush
+- [[Sturm]] — storm
+- [[stürmen]] — to storm (weather); to rush
+- [[stürmisch]] — stormy
+- [[Tiefe]] — depth
+- [[tierisch]] — animal; animal-based
+- [[Traumwetter]] — dream weather
+- [[Trinkwasser]] — drinking water
+- [[Umweltaktion]] — environmental campaign
+- [[Umweltproblem]] — environmental problem
+- [[Umweltschutz]] — environmental protection
+- [[Umwelttipp]] — tip for the environment
+- [[Umweltverschmutzung]] — pollution (environmental)
+- [[Upcycling]] — upcycling
+- [[vernichten]] — to destroy
+- [[Verpackungsmüll]] — packaging waste
+- [[verschmutzen]] — to pollute
+- [[verschwenden]] — to waste
+- [[Verschwendung]] — waste
+- [[Vorhersage]] — forecast
+- [[Wegwerfbecher]] — disposable cup
+- [[Welle]] — wave
+- [[Wetter-App]] — weather app
+- [[Wetterbesserung]] — weather improvement
+- [[Wettervorhersage]] — weather forecast
+- [[Wiese]] — meadow
+- [[Wildkatze]] — wild cat
+- [[Wildtier]] — wild animal
+- [[Wildtierstation]] — wild animal care facility
+- [[Windturbine]] — wind turbine
+- [[wolkig]] — cloudy
+- [[Wärme]] — warmth; heat
+- [[zerstören]] — to destroy
+- [[Öko-Duell]] — eco-duel
+- [[Ökobilanz]] — ecobalance, life-cycle assessment
+- [[ökologisch]] — ecological; organic
+- [[Ökostrom]] — green electricity
+- [[Ökovergleich]] — eco-comparison
+
+### B2 (23)
+
+- [[Blüte]] — blossom
+- [[Dampf]] — steam
+- [[Drache]] — dragon
+- [[Duft]] — scent; fragrance
+- [[Eisen]] — iron
+- [[Esel]] — donkey
+- [[Feder]] — feather; spring
+- [[Felsen]] — rock; cliff
+- [[Flamme]] — flame
+- [[Flügel]] — wing; grand piano
+- [[Horizont]] — horizon
+- [[jagen]] — to hunt; to chase
+- [[Kaninchen]] — rabbit
+- [[Kontinent]] — continent
+- [[lebend]] — living; alive
+- [[Naturschutz]] — nature conservation
+- [[Rauch]] — smoke
+- [[Schwanz]] — tail
+- [[Stall]] — stable; barn
+- [[Stamm]] — trunk; stem; tribe
+- [[Wachstum]] — growth
+- [[Weite]] — vastness; width
+- [[Wurzel]] — root
+
+### C1 (2)
+
+- [[organisch]] — organic
+- [[Universum]] — universe
+
+## B2 bank
+
+### B2 (209)
+
+- [[abgelegen]] — remote; secluded
+- [[Abholzung]] — deforestation; felling
+- [[Abwasser]] — wastewater; sewage
+- [[Acker]] — field (arable); ploughed land
+- [[Ahorn]] — maple
+- [[Altpapier]] — waste paper
+- [[Ameise]] — ant
+- [[Amsel]] — blackbird
+- [[Artenschutz]] — species protection
+- [[Artensterben]] — species extinction
+- [[Aufforstung]] — reforestation; afforestation
+- [[ausgetrocknet]] — dried out; parched
+- [[Aussterben]] — extinction; dying out
+- [[Bach]] — brook; stream
+- [[beben]] — to tremble; to quake
+- [[Begrünung]] — greening; planting vegetation
+- [[bergen]] — to rescue; to salvage; to conceal
+- [[Bestäubung]] — pollination
+- [[Biodiversität]] — biodiversity
+- [[Biomüll]] — organic waste
+- [[Biotop]] — biotope; habitat
+- [[Birke]] — birch
+- [[blasen]] — to blow
+- [[Bodenerosion]] — soil erosion
+- [[Brandung]] — surf; breakers
+- [[Brennnessel]] — stinging nettle
+- [[Brutzeit]] — breeding season
+- [[brütend]] — sweltering; brooding
+- [[Buche]] — beech
+- [[Bucht]] — bay; cove
+- [[Dachbegrünung]] — green roof
+- [[Dachs]] — badger
+- [[Damm]] — dam; embankment
+- [[Deich]] — dyke
+- [[Deponie]] — landfill site
+- [[Dickicht]] — thicket; undergrowth
+- [[diesig]] — hazy; misty
+- [[drückend]] — oppressive; sultry
+- [[Düne]] — dune
+- [[Düngemittel]] — fertiliser
+- [[Dürre]] — drought
+- [[Ebbe]] — low tide; ebb
+- [[Efeu]] — ivy
+- [[Eiche]] — oak
+- [[Eichhörnchen]] — squirrel
+- [[Einwegplastik]] — single-use plastic
+- [[Emission]] — emission
+- [[Energiewende]] — energy transition
+- [[entlegen]] — remote; out-of-the-way
+- [[Erdbeben]] — earthquake
+- [[Erderwärmung]] — global warming
+- [[Erdrutsch]] — landslide
+- [[Ernährungssicherheit]] — food security
+- [[Eule]] — owl
+- [[Farn]] — fern
+- [[Feinstaub]] — fine dust; particulate matter
+- [[Fichte]] — spruce
+- [[Fledermaus]] — bat
+- [[Flut]] — high tide; flood
+- [[Flächenbrand]] — large-scale fire; wildfire
+- [[Flächenverbrauch]] — land consumption
+- [[Flächenversiegelung]] — soil sealing
+- [[Forstwirtschaft]] — forestry
+- [[Frosch]] — frog
+- [[Frost]] — frost
+- [[frostig]] — frosty; chilly
+- [[gedeihen]] — to thrive; to flourish
+- [[gefährdet]] — endangered; at risk
+- [[Gewässer]] — body of water; waters
+- [[Gezeiten]] — tides
+- [[Gletscher]] — glacier
+- [[grenzen]] — to border on
+- [[Grundwasser]] — groundwater
+- [[Hagel]] — hail
+- [[Halbinsel]] — peninsula
+- [[Heide]] — heath
+- [[Herde]] — herd; flock
+- [[Hitzewelle]] — heatwave
+- [[Hochdruck]] — high pressure
+- [[Hochwasserschutz]] — flood protection
+- [[Hummel]] — bumblebee
+- [[idyllisch]] — idyllic
+- [[Igel]] — hedgehog
+- [[Imker]] — beekeeper
+- [[Insektensterben]] — insect decline
+- [[karg]] — meagre; barren
+- [[Kastanie]] — chestnut
+- [[Kernkraft]] — nuclear power
+- [[Klimaschutz]] — climate protection
+- [[Klimaziel]] — climate target
+- [[Kläranlage]] — sewage treatment plant
+- [[Kohlendioxid]] — carbon dioxide
+- [[Kompost]] — compost
+- [[Komposthaufen]] — compost heap
+- [[Kreislaufwirtschaft]] — circular economy
+- [[Kröte]] — toad
+- [[Käfer]] — beetle
+- [[Käfig]] — cage
+- [[Kälteeinbruch]] — sudden cold spell
+- [[Landschaftsschutz]] — landscape conservation
+- [[Lawine]] — avalanche
+- [[Lebensraum]] — habitat; living space
+- [[Leine]] — lead; leash; line
+- [[Libelle]] — dragonfly
+- [[Lichtung]] — clearing
+- [[Linde]] — lime tree; linden
+- [[Luftfeuchtigkeit]] — humidity
+- [[Luftverschmutzung]] — air pollution
+- [[Löwenzahn]] — dandelion
+- [[Marienkäfer]] — ladybird
+- [[Massentierhaltung]] — factory farming
+- [[Maulwurf]] — mole
+- [[Mikroplastik]] — microplastics
+- [[Monokultur]] — monoculture
+- [[Moor]] — bog; moor
+- [[Moos]] — moss
+- [[Möwe]] — seagull
+- [[Mülldeponie]] — landfill
+- [[Mülltrennung]] — waste separation
+- [[Müllverbrennung]] — waste incineration
+- [[Nachhaltigkeit]] — sustainability
+- [[Nahrungskette]] — food chain
+- [[Naturkatastrophe]] — natural disaster
+- [[Naturschutzgebiet]] — nature reserve
+- [[Nest]] — nest
+- [[Niederschlag]] — precipitation (rain, snow)
+- [[Niedrigwasser]] — low water
+- [[Nutztier]] — farm animal; livestock
+- [[Orkan]] — hurricane; violent storm
+- [[Ozonschicht]] — ozone layer
+- [[Pestizid]] — pesticide
+- [[Photovoltaik]] — photovoltaics
+- [[Qualle]] — jellyfish
+- [[Raubtier]] — predator; beast of prey
+- [[Raureif]] — hoarfrost
+- [[Regenwald]] — rainforest
+- [[Reh]] — roe deer
+- [[Revier]] — territory; district
+- [[Robbe]] — seal
+- [[Rodung]] — clearing; deforestation
+- [[Rohstoff]] — raw material
+- [[Rudel]] — pack
+- [[Schadstoff]] — pollutant; harmful substance
+- [[schimmern]] — to shimmer; to glimmer
+- [[Schlucht]] — gorge; ravine
+- [[schmelzen]] — to melt
+- [[Schmetterling]] — butterfly
+- [[Schnecke]] — snail; slug
+- [[Schneefall]] — snowfall
+- [[Schneeregen]] — sleet
+- [[Schutz suchen]] — to seek shelter
+- [[Schwan]] — swan
+- [[Schwarm]] — swarm; flock
+- [[Schädling]] — pest
+- [[Solaranlage]] — solar power system; solar panels
+- [[Sondermüll]] — hazardous waste
+- [[Sonnenblume]] — sunflower
+- [[Spatz]] — sparrow
+- [[spiegelglatt]] — smooth as glass; icy
+- [[Stadtklima]] — urban climate
+- [[Stausee]] — reservoir
+- [[stellenweise]] — in places; here and there
+- [[Stromnetz]] — power grid
+- [[Sturmflut]] — storm surge
+- [[Sumpf]] — swamp; marsh
+- [[Tanne]] — fir
+- [[Tau]] — dew
+- [[Taube]] — pigeon; dove
+- [[Tauwetter]] — thaw
+- [[Teich]] — pond
+- [[Tiefdruck]] — low pressure
+- [[Tierhaltung]] — keeping of animals; animal husbandry
+- [[Tierheim]] — animal shelter
+- [[Tierschutz]] — animal protection
+- [[Treibhauseffekt]] — greenhouse effect
+- [[Treibhausgas]] — greenhouse gas
+- [[Trinkwasserversorgung]] — drinking water supply
+- [[trüb]] — cloudy; murky; gloomy
+- [[Tulpe]] — tulip
+- [[Umweltbelastung]] — environmental pollution; burden on the environment
+- [[Umweltbewusstsein]] — environmental awareness
+- [[Unwetter]] — storm; severe weather
+- [[Verkehrswende]] — transport transition (to sustainable mobility)
+- [[verschmutzt]] — dirty; polluted
+- [[verwittert]] — weathered
+- [[Viehzucht]] — livestock farming
+- [[Vulkan]] — volcano
+- [[Wal]] — whale
+- [[Waldbrand]] — forest fire
+- [[Wasserfall]] — waterfall
+- [[Wasserknappheit]] — water scarcity
+- [[Watt]] — tidal flats; mudflats
+- [[wechselhaft]] — changeable; variable
+- [[Wegwerfgesellschaft]] — throwaway society
+- [[Weide]] — pasture; willow
+- [[Welpe]] — puppy
+- [[Wespe]] — wasp
+- [[Wetterlage]] — weather situation
+- [[Wiederverwertung]] — recycling; reuse
+- [[Windkraft]] — wind power
+- [[Windpark]] — wind farm
+- [[Winterschlaf]] — hibernation
+- [[Wirbelsturm]] — cyclone; hurricane
+- [[wolkenlos]] — cloudless
+- [[Zersiedelung]] — urban sprawl
+- [[Zugvogel]] — migratory bird
+- [[Ökolandbau]] — organic farming
+- [[Ökosystem]] — ecosystem
+- [[Überschwemmung]] — flood
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,42 @@
+---
+title: "Fremdenfeindlichkeit"
+type: "word"
+aliases: ["die Fremdenfeindlichkeit"]
+lemma: "Fremdenfeindlichkeit"
+meaning: "xenophobia"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D1871"
+exam_use: ["Lesen", "Medien"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
+---
+<!-- bank:start -->
+# die Fremdenfeindlichkeit
+
+**Meaning:** xenophobia
+**Plural:** –
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Stadt will aktiv gegen Fremdenfeindlichkeit vorgehen.
+> *The city wants to take active steps against xenophobia.*
+
+**Collocations**
+- gegen Fremdenfeindlichkeit
+- Fremdenfeindlichkeit bekämpfen
+- Fremdenfeindlichkeit und Rassismus
+
+**Related:** [[bekämpfen]] · [[Rassismus]]
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

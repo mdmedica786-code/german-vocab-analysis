@@ -1,0 +1,40 @@
+---
+title: "Erkenntnis"
+type: "word"
+aliases: ["die Erkenntnis", "Erkenntnisse"]
+lemma: "Erkenntnis"
+meaning: "insight; realisation; finding"
+pos: "noun"
+article: "die"
+plural: "Erkenntnisse"
+level: "B2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "b2"
+id: "D0289"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Erkenntnis
+
+**Meaning:** insight; realisation; finding
+**Plural:** Erkenntnisse
+**Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Studie brachte wichtige neue Erkenntnisse.
+> *The study brought important new findings.*
+
+**Collocations**
+- zu einer Erkenntnis kommen
+- neue Erkenntnisse gewinnen
+- wissenschaftliche Erkenntnisse
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

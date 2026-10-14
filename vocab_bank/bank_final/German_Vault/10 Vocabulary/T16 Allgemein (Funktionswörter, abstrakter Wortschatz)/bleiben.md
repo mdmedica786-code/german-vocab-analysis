@@ -1,0 +1,35 @@
+---
+title: "bleiben"
+type: "word"
+aliases: ["bleibt", "blieb", "ist geblieben"]
+lemma: "bleiben"
+meaning: "to stay"
+pos: "verb"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B0813"
+goethe_level: "A1"
+netzwerk: "A1 K5 7b"
+freq_rank: 116
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# bleiben
+
+**Meaning:** to stay
+**Forms:** bleibt · blieb · ist geblieben
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> in Kontakt bleiben
+> *to stay in contact*
+
+**Source:** Netzwerk neu A1 K5 7b (Alltag und Familie) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

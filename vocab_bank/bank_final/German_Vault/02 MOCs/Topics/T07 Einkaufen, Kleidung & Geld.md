@@ -1,0 +1,524 @@
+---
+title: "T07 Einkaufen, Kleidung & Geld"
+type: "moc"
+tags: ["moc", "topic/T07"]
+---
+<!-- bank:start -->
+# T07 Einkaufen, Kleidung & Geld
+
+Map of content. 360 words in the main bank, 127 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (129)
+
+- [[Abendkleidung]] — evening wear
+- [[Angebot]] — offer
+- [[anprobieren]] — to try on
+- [[anziehen]] — to get dressed
+- [[Anzug]] — suit
+- [[ausziehen]] — to take off
+- [[Automat]] — vending machine
+- [[Badeanzug]] — swimsuit
+- [[Badehose]] — swimming trunks
+- [[Bademode]] — swimwear
+- [[Bank]] — bench
+- [[bar (adjective)]] — in cash
+- [[Bestellung]] — order
+- [[bezahlen]] — to pay
+- [[Bikini]] — bikini
+- [[billig]] — cheap
+- [[Bluse]] — blouse
+- [[Buchladen]] — bookstore
+- [[Bäckerei]] — bakery
+- [[Cent]] — cent
+- [[Damenmode]] — women's fashion
+- [[Duschgel]] — shower gel
+- [[Einkauf]] — shopping
+- [[einkaufen]] — to shop
+- [[einkaufen gehen]] — to go shopping
+- [[Einkaufswagen]] — shopping cart
+- [[Einkaufszettel]] — shopping list
+- [[elegant]] — elegant
+- [[Elektrogerät]] — electronic device
+- [[empfehlen]] — to recommend
+- [[eng]] — tight
+- [[Euro]] — euro
+- [[Flagship-Store]] — flagship store
+- [[Fotozubehör]] — photographic accessories
+- [[Freizeitkleidung]] — leisure clothes
+- [[Geld]] — money
+- [[Gerät]] — device, appliance
+- [[geschlossen]] — closed
+- [[Geschäft]] — shop
+- [[geöffnet]] — open
+- [[günstig]] — low-priced
+- [[Handschuh]] — glove
+- [[Handtasche]] — handbag
+- [[Haushaltswaren]] — homewares
+- [[Hemd]] — shirt
+- [[Herrenmode]] — men's fashion
+- [[Hose]] — trousers
+- [[Hut]] — hat
+- [[Jacke]] — jacket
+- [[Jeans]] — jeans
+- [[Kasse]] — cashier
+- [[Kassenzettel]] — receipt
+- [[kaufen]] — to buy
+- [[Kaufhaus]] — department store
+- [[Kiosk]] — kiosk
+- [[Kiste]] — box
+- [[Klamotten]] — clothes
+- [[Kleid]] — dress
+- [[Kleidergeschäft]] — clothes shop
+- [[Kleiderkauf]] — clothes shopping
+- [[Kleidung]] — clothes
+- [[Konto]] — account
+- [[Kontonummer]] — account number
+- [[Kosmetik]] — cosmetics
+- [[Kosten]] — costs; expenses
+- [[kosten (verb)]] — to cost; to taste
+- [[Krawatte]] — tie
+- [[Kreditkarte]] — credit card
+- [[Kunde]] — customer (m)
+- [[Kundin]] — customer (f)
+- [[Label]] — brand
+- [[Laden]] — shop
+- [[Mantel]] — coat
+- [[Markt]] — market
+- [[Metzgerei]] — butcher's shop
+- [[mieten]] — to rent
+- [[mitbringen]] — to bring
+- [[Mode]] — fashion
+- [[Modefan]] — fashionista
+- [[Modell]] — model
+- [[Mütze]] — hat; cap
+- [[nehmen]] — to take
+- [[Packung]] — packet
+- [[Parfüm]] — perfume
+- [[Parfümerie]] — perfumery
+- [[Preis]] — price; prize
+- [[Produkt]] — product
+- [[Pulli]] — pullover
+- [[Pullover]] — jumper
+- [[Rechnung]] — bill
+- [[Regenjacke]] — rain coat
+- [[Reparatur]] — repair
+- [[Rock]] — skirt; rock (music)
+- [[Schal]] — scarf
+- [[Schmuck]] — jewelry
+- [[Schreibwaren]] — stationary
+- [[Schuh]] — shoe
+- [[Schuhfan]] — shoe fan
+- [[Schuhladen]] — shoe shop
+- [[Secondhand-Laden]] — secondhand shop
+- [[Selbstbedienung]] — self-service
+- [[Shop]] — shop
+- [[shoppen]] — to shop
+- [[shoppen gehen]] — to go shopping
+- [[Sonnenbrille]] — sunglasses
+- [[Sonnencreme]] — sunscreen
+- [[Spielwaren]] — toys
+- [[Sportkleidung]] — sportswear
+- [[Sportschuh]] — sports shoe; trainer
+- [[Stiefel]] — boot
+- [[Supermarkt]] — supermarket
+- [[Sweatshirt]] — sweatshirt
+- [[T-Shirt]] — t-shirt
+- [[Tasche]] — bag
+- [[teuer]] — expensive
+- [[tragen]] — to wear
+- [[Tuch]] — scarf; shawl; cloth
+- [[Tüte]] — bag
+- [[umtauschen]] — to change
+- [[verkaufen]] — to sell
+- [[Verpackung]] — packaging
+- [[Ware]] — goods, merchandise
+- [[Winterjacke]] — winter coat
+- [[zahlen]] — to pay
+- [[Zigarette]] — cigarette
+- [[zuhaben]] — to be closed
+- [[zurückschicken]] — to send back
+- [[Öffnungszeiten]] — opening hours
+- [[überweisen]] — to transfer; to refer (a patient)
+
+### A2 (71)
+
+- [[AGB]] — terms and conditions
+- [[altmodisch]] — old-fashioned
+- [[arm (adjective)]] — poor
+- [[ausgeben]] — to spend
+- [[Babykleidung]] — baby clothes
+- [[Bankkarte]] — bank card
+- [[bedienen]] — to serve
+- [[besitzen]] — to own
+- [[Besitzer]] — owner (m)
+- [[Besitzerin]] — owner (f)
+- [[besorgen]] — to get
+- [[Betrag]] — amount
+- [[Bezahlung]] — payment
+- [[bieten]] — to offer; to bid
+- [[Brautkleid]] — wedding dress
+- [[Creme]] — cream
+- [[Dollar]] — dollar
+- [[Einkaufszentrum]] — shopping centre
+- [[einzeln]] — single; individual
+- [[Ermäßigung]] — discount
+- [[finanziell]] — financial
+- [[Firmenkunde]] — business client
+- [[Flohmarkt]] — flea market
+- [[gebraucht]] — used
+- [[Geldbörse]] — purse; wallet
+- [[Geschäftsbedingungen]] — business conditions
+- [[Gold]] — gold
+- [[inklusive]] — including (incl.)
+- [[Katalog]] — catalogue
+- [[Kauf]] — purchase
+- [[Kette]] — necklace
+- [[kostenlos]] — free
+- [[Kredit]] — loan
+- [[Kundenservice]] — customer service
+- [[leihen]] — to borrow; to lend
+- [[liefern]] — to deliver
+- [[Luxus]] — luxury
+- [[Mehrwertsteuer]] — value-added tax (VAT)
+- [[modisch]] — fashionable
+- [[netto]] — net
+- [[PIN]] — PIN
+- [[pink]] — pink
+- [[preiswert]] — inexpensive; good value
+- [[Privatkunde]] — private client
+- [[Qualität]] — quality
+- [[Rechnungsinformation]] — invoice information
+- [[reduzieren]] — to reduce
+- [[reich]] — rich
+- [[Ring]] — ring
+- [[Schnäppchen]] — bargain
+- [[Shirt]] — shirt (T-shirt)
+- [[Sofort-Überweisung]] — instant bank transfer
+- [[sparen]] — to save
+- [[sperren]] — to block; to close
+- [[Stil]] — style
+- [[Stoff]] — material; fabric; substance
+- [[Streifen]] — strip; stripe
+- [[Tarif]] — rate
+- [[Taschengeld]] — pocket money
+- [[Ticketwahl]] — ticket choice
+- [[Versand]] — shipping
+- [[Versandart]] — shipping method
+- [[Versandkosten]] — shipping cost
+- [[Warenkorb]] — shopping cart
+- [[Wert]] — value; worth
+- [[wertvoll]] — valuable
+- [[Währung]] — currency
+- [[Zahlungsart]] — payment method
+- [[zurückgeben]] — to return
+- [[zuzüglich]] — in addition
+- [[Zwischensumme]] — subtotal
+
+### B1 (137)
+
+- [[Abo]] — subscription
+- [[abziehen]] — to deduct; to pull off
+- [[anfallen]] — to arise
+- [[anhaben]] — to wear
+- [[anschaffen]] — to get
+- [[ansprechend]] — appealing
+- [[Auktion]] — auction
+- [[Auktionsbesucher]] — auction visitor (m)
+- [[Auktionsbesucherin]] — auction visitor (f)
+- [[Ausgabe]] — expense; edition
+- [[Autoverkauf]] — car sale
+- [[Bademantel]] — bathrobe
+- [[Bancomat]] — cash machine (Swiss)
+- [[Bankgeschäft]] — banking
+- [[Bankomat-Karte]] — bank card (Austrian)
+- [[Bargeld]] — cash
+- [[Bedarf]] — need
+- [[Beleg]] — receipt
+- [[berechnen]] — to calculate
+- [[BIC]] — SWIFT-BIC
+- [[Brieftasche]] — wallet
+- [[Buchhandlung]] — bookshop
+- [[Budget]] — budget
+- [[chic]] — stylish
+- [[Dauerauftrag]] — recurring payment, standing order
+- [[Drogerie]] — drug store
+- [[EC-Karte]] — debit card
+- [[einführen]] — to introduce; to import
+- [[Einkaufsliste]] — shopping list
+- [[Einkommen]] — income
+- [[Einnahme]] — income; revenue; intake
+- [[Energiekosten]] — cost of energy
+- [[enthalten sein]] — to be included
+- [[erben]] — to inherit
+- [[erhältlich]] — available
+- [[erhöhen]] — to raise; to increase
+- [[Ersatz]] — replacement
+- [[ersetzen]] — to replace; to reimburse
+- [[finanzieren]] — to finance
+- [[Fotoüberweisung]] — picture transfer
+- [[fällig]] — due
+- [[färben]] — to dye; to colour
+- [[Garantie]] — guarantee; warranty
+- [[Geheimzahl]] — PIN
+- [[Geldbetrag]] — sum of money
+- [[gemacht sein]] — to be made for
+- [[gratis]] — free
+- [[Gutschein]] — voucher
+- [[gutschreiben]] — to credit
+- [[Handyladen]] — mobile phone shop
+- [[Hausschuh]] — slipper
+- [[Hersteller]] — manufacturer
+- [[IBAN]] — IBAN
+- [[Immobilie]] — real estate
+- [[Kasten]] — box
+- [[Kaufverhalten]] — shopping behaviour
+- [[Kinderprodukt]] — children's product
+- [[Kleingeld]] — small change
+- [[Knopf]] — button
+- [[kommerziell]] — commercial
+- [[Konsum]] — consumption
+- [[Konsument]] — consumer (m)
+- [[Konsumentin]] — consumer (f)
+- [[konsumieren]] — to consume
+- [[Kontoauszug]] — bank statement
+- [[Kontodaten]] — account information
+- [[Kontoeröffnung]] — account opening
+- [[Kontoführungsgebühr]] — account maintenance charge
+- [[Kontoübersicht]] — account overview
+- [[Käufer]] — buyer (m)
+- [[Käuferin]] — buyer (f)
+- [[Lager]] — warehouse; stockroom; camp
+- [[Leder]] — leather
+- [[leisten]] — to afford; to achieve; to do
+- [[Lieferung]] — shipment
+- [[Mark]] — German Mark
+- [[Markenname]] — brand name
+- [[Marktanteil]] — market share
+- [[Muster]] — pattern
+- [[Münze]] — coin
+- [[Nachfrage]] — demand, inquiry
+- [[Nachthemd]] — nightgown
+- [[Nadel]] — needle
+- [[nähen]] — to sew
+- [[Online-Banking]] — online banking
+- [[Online-Shop]] — online shop
+- [[Originalzustand]] — original condition
+- [[Outfit]] — outfit
+- [[Pfand]] — deposit
+- [[Pfennig]] — penny
+- [[Portemonnaie]] — wallet
+- [[Preiskategorie]] — price category
+- [[Produktangebot]] — range of offered products
+- [[produziert]] — produced
+- [[profitieren]] — to profit
+- [[Quittung]] — receipt
+- [[Rabatt]] — discount
+- [[Rate]] — instalment; rate
+- [[reinigen]] — to clean
+- [[reklamieren]] — to complain/exchange
+- [[Sack]] — sack
+- [[Schachtel]] — box; packet
+- [[Schaufenster]] — shop window
+- [[Schein]] — banknote; certificate
+- [[schick]] — fancy
+- [[Schlafanzug]] — pyjamas
+- [[Schulden]] — debt
+- [[schuldig]] — guilty; owing
+- [[Socke]] — sock
+- [[Sonderangebot]] — special offer
+- [[sparsam]] — frugal/economical
+- [[Stiftungsvermögen]] — endowment capital
+- [[Strumpf]] — stocking; sock
+- [[testen]] — to test
+- [[Trainingsanzug]] — tracksuit
+- [[umsonst]] — for free
+- [[Umtausch]] — exchange
+- [[Uniform]] — uniform
+- [[unmodern]] — unfashionable
+- [[Verbraucher]] — consumer (m)
+- [[Verbraucherin]] — consumer (f)
+- [[Verkaufsraum]] — showroom
+- [[weiterverschenken]] — to pass on as a gift
+- [[Weltmarkt]] — world market
+- [[wert (adjective)]] — worth
+- [[wertlos]] — worthless
+- [[Wolle]] — wool
+- [[Zahlung]] — payment
+- [[Zahncreme]] — toothpaste
+- [[Zins]] — interest
+- [[Zinsen]] — interest (on money)
+- [[zurückbekommen]] — to get back
+- [[zurückbringen]] — to bring back
+- [[zurückzahlen]] — to pay back
+- [[Zünder]] — matches (Austrian)
+- [[Zündholz]] — match
+- [[überziehen]] — to overdraw
+
+### B2 (14)
+
+- [[Aktie]] — share; stock
+- [[Anschaffung]] — purchase; acquisition
+- [[Besitz]] — possession; property
+- [[Beutel]] — bag; pouch
+- [[Eigentum]] — property
+- [[Eigentümer]] — owner
+- [[Finanzierung]] — financing
+- [[Gut]] — good; property; estate
+- [[Gürtel]] — belt
+- [[Kapital]] — capital
+- [[Reichtum]] — wealth
+- [[Safe]] — safe (strongbox)
+- [[Umsatz]] — turnover; sales
+- [[Verkauf]] — sale; selling
+
+### C1 (9)
+
+- [[Aufwendung]] — expense; expenditure
+- [[Bilanz]] — balance sheet; outcome
+- [[Ertrag]] — yield; profit
+- [[Erwerb]] — acquisition; purchase
+- [[Gläubiger]] — creditor
+- [[Investition]] — investment
+- [[Investor]] — investor
+- [[tätigen]] — to carry out; to make (a purchase)
+- [[Verdienst]] — income; merit
+
+## B2 bank
+
+### B2 (127)
+
+- [[Abbuchung]] — debit; withdrawal from an account
+- [[abgenutzt]] — worn; worn out
+- [[Abschlag]] — discount; advance payment
+- [[Absicherung]] — safeguarding; security
+- [[Abzug]] — deduction; withdrawal
+- [[abzüglich]] — minus; less
+- [[Altersvorsorge]] — retirement provision
+- [[anlegen]] — to invest; to create; to put on
+- [[Anleger]] — investor
+- [[Anprobe]] — fitting; trying on
+- [[Armband]] — bracelet; strap
+- [[aufbessern]] — to improve; to top up
+- [[aufbringen]] — to raise (money); to muster; to infuriate
+- [[Aufschlag]] — surcharge; extra charge
+- [[auskommen]] — to get by; to get along
+- [[Ausverkauf]] — clearance sale
+- [[Auszahlung]] — payout; disbursement
+- [[begleichen]] — to settle (a bill); to pay
+- [[belaufen]] — to amount to
+- [[Beschaffung]] — procurement; obtaining
+- [[Bestand]] — stock; inventory; existence
+- [[binden]] — to tie; to bind
+- [[Bonität]] — creditworthiness
+- [[bürgen]] — to vouch; to guarantee
+- [[Darlehen]] — loan
+- [[Daunenjacke]] — down jacket
+- [[die Kosten tragen]] — to bear the costs
+- [[Dispokredit]] — overdraft facility
+- [[Einlage]] — deposit; contribution; insert
+- [[einlösen]] — to cash (in); to redeem; to keep (a promise)
+- [[einsparen]] — to save; to cut back
+- [[Ersatzteil]] — spare part
+- [[Ersparnis]] — saving; savings
+- [[Erzeugnis]] — product; produce
+- [[Etat]] — budget
+- [[Etikett]] — label; tag
+- [[fehlerhaft]] — faulty; defective
+- [[feilschen]] — to haggle; to bargain
+- [[Feuchtigkeitscreme]] — moisturiser
+- [[flauschig]] — fluffy; soft
+- [[Freibetrag]] — tax-free allowance
+- [[Gegenleistung]] — something in return; consideration
+- [[Geldanlage]] — investment
+- [[gemustert]] — patterned
+- [[gestreift]] — striped
+- [[Gewährleistung]] — warranty; guarantee
+- [[Guthaben]] — credit balance; credit
+- [[Halskette]] — necklace
+- [[Handelsabkommen]] — trade agreement
+- [[handlich]] — handy; easy to handle
+- [[Handyvertrag]] — mobile phone contract
+- [[Haushaltsplan]] — budget plan
+- [[Honorar]] — fee (for freelance work)
+- [[Hypothek]] — mortgage
+- [[in Rechnung stellen]] — to charge; to bill
+- [[Inflation]] — inflation
+- [[Kalkulation]] — calculation; costing
+- [[kariert]] — checked; squared
+- [[Kassenbon]] — till receipt
+- [[Kleiderbügel]] — clothes hanger
+- [[Konfektionsgröße]] — clothing size
+- [[Konjunktur]] — economic situation; boom
+- [[Konsumverhalten]] — consumer behaviour
+- [[Kostenvoranschlag]] — cost estimate
+- [[kostspielig]] — expensive; costly
+- [[Kragen]] — collar
+- [[kratzig]] — scratchy
+- [[Kulanz]] — goodwill (accommodating treatment)
+- [[Kundenkarte]] — loyalty card; customer card
+- [[kürzen]] — to shorten; to cut
+- [[Lastschrift]] — direct debit
+- [[Lebensmittelgeschäft]] — grocery shop
+- [[Lebensunterhalt]] — livelihood; living expenses
+- [[Lieferant]] — supplier
+- [[Lieferfrist]] — delivery period
+- [[luftig]] — airy; light
+- [[Mehrwert]] — added value; benefit
+- [[Nachzahlung]] — additional payment; back payment
+- [[Nagellack]] — nail varnish
+- [[Ohrring]] — earring
+- [[Optiker]] — optician
+- [[Pauschale]] — flat rate; lump sum
+- [[Pfandsystem]] — deposit system
+- [[Preisvergleich]] — price comparison
+- [[Prepaidkarte]] — prepaid card
+- [[Rechnungsbetrag]] — invoice amount
+- [[Reißverschluss]] — zip
+- [[Reklamation]] — complaint (about goods); claim
+- [[Rendite]] — return; yield
+- [[Reparaturwerkstatt]] — repair workshop
+- [[Rezession]] — recession
+- [[Rückgabe]] — return; handing back
+- [[Rücklage]] — reserve; savings put aside
+- [[Rückzahlung]] — repayment; refund
+- [[samtig]] — velvety
+- [[Saum]] — hem
+- [[Schuldner]] — debtor
+- [[schäbig]] — shabby
+- [[seidig]] — silky
+- [[sich über Wasser halten]] — to keep one's head above water
+- [[Skonto]] — cash discount
+- [[Sortiment]] — range of goods; assortment
+- [[Sparbuch]] — savings book; savings account
+- [[Steuerberater]] — tax adviser
+- [[Steuerlast]] — tax burden
+- [[stopfen]] — to stuff; to darn; to plug
+- [[stoßfest]] — shockproof
+- [[Subvention]] — subsidy
+- [[Teuerung]] — rise in prices
+- [[Turnschuh]] — trainer; gym shoe
+- [[Umkleidekabine]] — changing cubicle
+- [[Umsatzsteuer]] — value-added tax; sales tax
+- [[verbeult]] — dented
+- [[Verbindlichkeit]] — liability; obligation
+- [[Verbraucherschutz]] — consumer protection
+- [[Verbraucherzentrale]] — consumer advice centre
+- [[Vermögen]] — fortune; assets
+- [[verschwenderisch]] — lavish; wasteful
+- [[wasserdicht]] — waterproof
+- [[Wechselkurs]] — exchange rate
+- [[Windjacke]] — windcheater; light jacket
+- [[Zahlungsfrist]] — payment deadline
+- [[zerbrechlich]] — fragile
+- [[zerknittert]] — crumpled; creased
+- [[zur Auswahl stehen]] — to be available to choose from
+- [[Zuschuss]] — grant; subsidy; contribution
+- [[Ärmel]] — sleeve
+<!-- bank:end -->
+
+## My notes
+

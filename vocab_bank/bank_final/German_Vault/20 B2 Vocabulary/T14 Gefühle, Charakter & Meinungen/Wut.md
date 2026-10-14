@@ -1,0 +1,42 @@
+---
+title: "Wut"
+type: "word"
+aliases: ["die Wut"]
+lemma: "Wut"
+meaning: "rage; anger"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1136"
+exam_use: ["Sprechen", "Alltag"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
+status: "new"
+---
+<!-- bank:start -->
+# die Wut
+
+**Meaning:** rage; anger
+**Plural:** –
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er schrie vor Wut.
+> *He screamed with rage.*
+
+**Collocations**
+- vor Wut kochen
+- eine Wut im Bauch haben
+- Wut auf jemanden
+
+**Related:** [[Bauch]]
+
+**Exam use:** Sprechen, Alltag
+<!-- bank:end -->
+
+## My notes
+

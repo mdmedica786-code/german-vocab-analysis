@@ -1,0 +1,37 @@
+---
+title: "Reservierung"
+type: "word"
+aliases: ["die Reservierung", "Reservierungen"]
+lemma: "Reservierung"
+meaning: "reservation"
+pos: "noun"
+article: "die"
+plural: "Reservierungen"
+level: "A2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "main"
+id: "B1919"
+goethe_level: "B1"
+netzwerk: "A2 K1 9c"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Reservierung
+
+**Meaning:** reservation
+**Plural:** Reservierungen
+**Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Was kostet eine Reservierung?
+> *How much does a reservation cost?*
+
+**Source:** Netzwerk neu A2 K1 9c (Und was machst du?) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

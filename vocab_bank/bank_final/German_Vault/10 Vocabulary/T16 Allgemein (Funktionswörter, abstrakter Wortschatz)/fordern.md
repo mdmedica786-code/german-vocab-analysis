@@ -1,0 +1,42 @@
+---
+title: "fordern"
+type: "word"
+aliases: ["fordert", "forderte", "hat gefordert"]
+lemma: "fordern"
+meaning: "to demand; to call for"
+pos: "verb"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B5224"
+goethe_level: "B1"
+freq_rank: 929
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# fordern
+
+**Meaning:** to demand; to call for
+**Forms:** fordert · forderte · hat gefordert
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Arbeitnehmer fordern mehr Geld.
+> *The employees demand more money.*
+
+**Collocations**
+- mehr Geld fordern
+- Rechte fordern
+- eine Erklärung fordern
+- Opfer fordern
+
+**Related:** [[Geld]] · [[Erklärung]] · [[Opfer]]
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

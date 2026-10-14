@@ -1,0 +1,35 @@
+---
+title: "klagen"
+type: "word"
+aliases: ["klagt", "klagte", "hat geklagt"]
+lemma: "klagen"
+meaning: "to lament"
+pos: "verb"
+level: "B1"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "main"
+id: "B3684"
+goethe_level: "B1"
+netzwerk: "B1 K3 10b"
+freq_rank: 3488
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# klagen
+
+**Meaning:** to lament
+**Forms:** klagt · klagte · hat geklagt
+**Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sie klagt über Kopfschmerzen.
+> *She complains of headaches.*
+
+**Source:** Netzwerk neu B1 K3 10b (Veränderungen) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

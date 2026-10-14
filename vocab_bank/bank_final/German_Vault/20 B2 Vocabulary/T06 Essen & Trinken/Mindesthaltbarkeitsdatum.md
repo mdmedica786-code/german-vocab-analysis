@@ -1,0 +1,42 @@
+---
+title: "Mindesthaltbarkeitsdatum"
+type: "word"
+aliases: ["das Mindesthaltbarkeitsdatum", "Mindesthaltbarkeitsdaten"]
+lemma: "Mindesthaltbarkeitsdatum"
+meaning: "best-before date"
+pos: "noun"
+article: "das"
+plural: "Mindesthaltbarkeitsdaten"
+level: "B2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "b2"
+id: "D1381"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# das Mindesthaltbarkeitsdatum
+
+**Meaning:** best-before date
+**Plural:** Mindesthaltbarkeitsdaten
+**Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Mindesthaltbarkeitsdatum des Joghurts ist gestern abgelaufen.
+> *The best-before date of the yoghurt expired yesterday.*
+
+**Collocations**
+- das Mindesthaltbarkeitsdatum überschreiten
+- das Mindesthaltbarkeitsdatum prüfen
+- abgelaufenes Mindesthaltbarkeitsdatum
+
+**Related:** [[überschreiten]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

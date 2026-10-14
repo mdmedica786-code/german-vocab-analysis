@@ -1,0 +1,37 @@
+---
+title: "Bär"
+type: "word"
+aliases: ["der Bär", "Bären"]
+lemma: "Bär"
+meaning: "bear"
+pos: "noun"
+article: "der"
+plural: "Bären"
+level: "A2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "main"
+id: "B2990"
+goethe_level: "B1"
+netzwerk: "A2 K10 10c"
+freq_rank: 3393
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Bär
+
+**Meaning:** bear
+**Plural:** Bären
+**Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Zoo sehen wir einen Bären.
+> *At the zoo we see a bear.*
+
+**Source:** Netzwerk neu A2 K10 10c (Zusammen leben) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

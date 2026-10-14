@@ -1,0 +1,42 @@
+---
+title: "Kuchenform"
+type: "word"
+aliases: ["die Kuchenform", "Kuchenformen"]
+lemma: "Kuchenform"
+meaning: "cake tin"
+pos: "noun"
+article: "die"
+plural: "Kuchenformen"
+level: "B2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "b2"
+id: "D2277"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# die Kuchenform
+
+**Meaning:** cake tin
+**Plural:** Kuchenformen
+**Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Fette die Kuchenform gut ein, damit der Teig nicht klebt.
+> *Grease the cake tin well so that the dough doesn't stick.*
+
+**Collocations**
+- die Kuchenform einfetten
+- den Teig in die Kuchenform füllen
+- eine runde Kuchenform
+
+**Related:** [[Teig]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

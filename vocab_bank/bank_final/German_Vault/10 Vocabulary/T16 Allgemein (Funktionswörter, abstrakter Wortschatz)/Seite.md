@@ -1,0 +1,38 @@
+---
+title: "Seite"
+type: "word"
+aliases: ["die Seite", "Seiten"]
+lemma: "Seite"
+meaning: "page"
+pos: "noun"
+article: "die"
+plural: "Seiten"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B0310"
+goethe_level: "A2"
+netzwerk: "A1 K2 6c"
+freq_rank: 169
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Seite
+
+**Meaning:** page
+**Other senses:** side
+**Plural:** Seiten
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mit einer Spülmaschine sind Sie ökologisch auf der sicheren Seite.
+> *You're on the ecologically safer side with a dishwasher.*
+
+**Source:** Netzwerk neu A1 K2 6c (Freunde, Kollegen und ich) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

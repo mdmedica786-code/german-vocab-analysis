@@ -1,0 +1,42 @@
+---
+title: "Johannisbeere"
+type: "word"
+aliases: ["die Johannisbeere", "Johannisbeeren"]
+lemma: "Johannisbeere"
+meaning: "redcurrant; blackcurrant"
+pos: "noun"
+article: "die"
+plural: "Johannisbeeren"
+level: "B2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "b2"
+id: "D1995"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Johannisbeere
+
+**Meaning:** redcurrant; blackcurrant
+**Plural:** Johannisbeeren
+**Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Aus roten Johannisbeeren koche ich Marmelade.
+> *I make jam from redcurrants.*
+
+**Collocations**
+- rote Johannisbeeren
+- Johannisbeersaft
+- Johannisbeeren ernten
+
+**Related:** [[ernten]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,36 @@
+---
+title: "Heim"
+type: "word"
+aliases: ["das Heim", "Heime"]
+lemma: "Heim"
+meaning: "home; institution"
+pos: "noun"
+article: "das"
+plural: "Heime"
+level: "B1"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "main"
+id: "B5453"
+goethe_level: "B1"
+freq_rank: 2000
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Heim
+
+**Meaning:** home; institution
+**Plural:** Heime
+**Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Meine Oma wohnt in einem Seniorenheim.
+> *My grandma lives in a retirement home.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

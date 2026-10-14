@@ -1,0 +1,36 @@
+---
+title: "Behinderung"
+type: "word"
+aliases: ["die Behinderung", "Behinderungen"]
+lemma: "Behinderung"
+meaning: "disability"
+pos: "noun"
+article: "die"
+plural: "Behinderungen"
+level: "A2"
+topic: "[[T05 Gesundheit & Körper]]"
+register: "neutral"
+bank: "main"
+id: "B2001"
+netzwerk: "A2 K2 7a"
+freq_rank: 3430
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# die Behinderung
+
+**Meaning:** disability
+**Plural:** Behinderungen
+**Level:** A2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
+
+> [!example] Beispiel
+> Menschen mit einer Behinderung brauchen oft Hilfe.
+> *People with a disability often need help.*
+
+**Source:** Netzwerk neu A2 K2 7a (Nach der Schulzeit)
+<!-- bank:end -->
+
+## My notes
+

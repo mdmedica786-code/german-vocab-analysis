@@ -1,0 +1,40 @@
+---
+title: "verheimlichen"
+type: "word"
+aliases: ["verheimlicht", "verheimlichte", "hat verheimlicht"]
+lemma: "verheimlichen"
+meaning: "to conceal; to keep secret"
+pos: "verb"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1315"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# verheimlichen
+
+**Meaning:** to conceal; to keep secret
+**Forms:** verheimlicht · verheimlichte · hat verheimlicht
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Sie hat ihrer Familie die Krankheit verheimlicht.
+> *She concealed the illness from her family.*
+
+**Collocations**
+- jemandem etwas verheimlichen
+- die Wahrheit verheimlichen
+- nichts zu verheimlichen haben
+
+**Related:** [[Wahrheit]]
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

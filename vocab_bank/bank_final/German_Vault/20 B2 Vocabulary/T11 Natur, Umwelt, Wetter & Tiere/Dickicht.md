@@ -1,0 +1,42 @@
+---
+title: "Dickicht"
+type: "word"
+aliases: ["das Dickicht", "Dickichte"]
+lemma: "Dickicht"
+meaning: "thicket; undergrowth"
+pos: "noun"
+article: "das"
+plural: "Dickichte"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D2008"
+exam_use: ["Lesen", "Medien"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
+---
+<!-- bank:start -->
+# das Dickicht
+
+**Meaning:** thicket; undergrowth
+**Plural:** Dickichte
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Reh verschwand im Dickicht.
+> *The deer disappeared into the thicket.*
+
+**Collocations**
+- im Dickicht verschwinden
+- ein dichtes Dickicht
+- Dickicht aus Büschen
+
+**Related:** [[verschwinden]]
+
+**Exam use:** Lesen, Medien
+<!-- bank:end -->
+
+## My notes
+

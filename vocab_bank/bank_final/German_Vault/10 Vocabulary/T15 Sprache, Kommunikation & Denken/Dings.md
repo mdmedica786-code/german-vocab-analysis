@@ -1,0 +1,36 @@
+---
+title: "Dings"
+type: "word"
+aliases: ["das Dings"]
+lemma: "Dings"
+meaning: "thingamajig"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "A2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "informal"
+bank: "main"
+id: "B2106"
+netzwerk: "A2 K3 6d"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Dings
+
+**Meaning:** thingamajig
+**Plural:** –
+**Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** informal
+
+> [!example] Beispiel
+> Gib mir mal das Dings dort!
+> *Pass me that thingamajig over there!*
+
+**Source:** Netzwerk neu A2 K3 6d (Immer online?)
+<!-- bank:end -->
+
+## My notes
+

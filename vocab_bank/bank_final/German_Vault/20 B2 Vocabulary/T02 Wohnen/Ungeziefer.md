@@ -1,0 +1,42 @@
+---
+title: "Ungeziefer"
+type: "word"
+aliases: ["das Ungeziefer"]
+lemma: "Ungeziefer"
+meaning: "vermin; pests"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B2"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "b2"
+id: "D2040"
+exam_use: ["Alltag", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# das Ungeziefer
+
+**Meaning:** vermin; pests
+**Plural:** –
+**Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Keller hat sich Ungeziefer eingenistet.
+> *Vermin have taken up residence in the cellar.*
+
+**Collocations**
+- Ungeziefer bekämpfen
+- von Ungeziefer befallen
+- Ungeziefer im Haus
+
+**Related:** [[bekämpfen]] · [[Haus]]
+
+**Exam use:** Alltag, Lesen
+<!-- bank:end -->
+
+## My notes
+

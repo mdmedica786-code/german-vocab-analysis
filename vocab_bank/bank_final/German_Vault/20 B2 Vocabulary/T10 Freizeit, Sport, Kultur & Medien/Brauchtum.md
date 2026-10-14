@@ -1,0 +1,40 @@
+---
+title: "Brauchtum"
+type: "word"
+aliases: ["das Brauchtum"]
+lemma: "Brauchtum"
+meaning: "customs; folk traditions"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D0998"
+exam_use: ["Lesen", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# das Brauchtum
+
+**Meaning:** customs; folk traditions
+**Plural:** –
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> In dieser Region wird das alte Brauchtum noch gepflegt.
+> *In this region the old customs are still cultivated.*
+
+**Collocations**
+- Brauchtum pflegen
+- regionales Brauchtum
+- Sitten und Brauchtum
+
+**Exam use:** Lesen, Sprechen
+<!-- bank:end -->
+
+## My notes
+

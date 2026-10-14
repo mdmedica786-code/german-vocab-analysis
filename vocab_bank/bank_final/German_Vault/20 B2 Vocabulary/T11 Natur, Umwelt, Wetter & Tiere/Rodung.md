@@ -1,0 +1,42 @@
+---
+title: "Rodung"
+type: "word"
+aliases: ["die Rodung", "Rodungen"]
+lemma: "Rodung"
+meaning: "clearing; deforestation"
+pos: "noun"
+article: "die"
+plural: "Rodungen"
+level: "B2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "b2"
+id: "D0729"
+exam_use: ["Lesen", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# die Rodung
+
+**Meaning:** clearing; deforestation
+**Plural:** Rodungen
+**Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Rodung des Waldes gefährdet viele Tierarten.
+> *The clearing of the forest endangers many animal species.*
+
+**Collocations**
+- Rodung stoppen
+- illegale Rodung
+- Rodung des Regenwaldes
+
+**Related:** [[stoppen]]
+
+**Exam use:** Lesen, Hören
+<!-- bank:end -->
+
+## My notes
+

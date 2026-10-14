@@ -1,0 +1,34 @@
+---
+title: "verarbeiten"
+type: "word"
+aliases: ["verarbeitet", "verarbeitete", "hat verarbeitet"]
+lemma: "verarbeiten"
+meaning: "to process; to cope with"
+pos: "verb"
+level: "B1"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "main"
+id: "B4496"
+netzwerk: "B1 K8 6b"
+freq_rank: 2613
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# verarbeiten
+
+**Meaning:** to process; to cope with
+**Forms:** verarbeitet · verarbeitete · hat verarbeitet
+**Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er muss die Nachricht erst verarbeiten.
+> *He first has to process the news.*
+
+**Source:** Netzwerk neu B1 K8 6b (Rund um Körper und Geist)
+<!-- bank:end -->
+
+## My notes
+

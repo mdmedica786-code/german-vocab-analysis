@@ -1,0 +1,32 @@
+---
+title: "indirekt"
+type: "word"
+lemma: "indirekt"
+meaning: "indirect"
+pos: "adjective"
+level: "A2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B2571"
+netzwerk: "A2 K7 4b"
+freq_rank: 2185
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# indirekt
+
+**Meaning:** indirect
+**Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> ein indirekter Fragesatz
+> *an indirect interrogative clause*
+
+**Source:** Netzwerk neu A2 K7 4b (Ganz schön mobil)
+<!-- bank:end -->
+
+## My notes
+

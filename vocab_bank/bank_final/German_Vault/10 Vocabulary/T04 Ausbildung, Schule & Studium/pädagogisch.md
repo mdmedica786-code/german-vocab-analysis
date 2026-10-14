@@ -1,0 +1,29 @@
+---
+title: "pädagogisch"
+type: "word"
+lemma: "pädagogisch"
+meaning: "pedagogical; educational"
+pos: "adjective"
+level: "C1"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "main"
+id: "B5610"
+freq_rank: 2527
+skip: false
+tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# pädagogisch
+
+**Meaning:** pedagogical; educational
+**Level:** C1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Konzept hat einen pädagogischen Ansatz.
+> *The concept has an educational approach.*
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,40 @@
+---
+title: "Ungeduld"
+type: "word"
+aliases: ["die Ungeduld"]
+lemma: "Ungeduld"
+meaning: "impatience"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1173"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Ungeduld
+
+**Meaning:** impatience
+**Plural:** –
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mit wachsender Ungeduld wartete sie auf den Anruf.
+> *She waited for the call with growing impatience.*
+
+**Collocations**
+- voller Ungeduld
+- Ungeduld zeigen
+- vor Ungeduld
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

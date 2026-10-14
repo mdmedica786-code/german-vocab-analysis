@@ -1,0 +1,32 @@
+---
+title: "genial"
+type: "word"
+lemma: "genial"
+meaning: "brilliant; ingenious"
+pos: "adjective"
+level: "A2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "main"
+id: "B2845"
+netzwerk: "A2 K9 3d"
+freq_rank: 2645
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# genial
+
+**Meaning:** brilliant; ingenious
+**Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das ist eine geniale Idee!
+> *That is a brilliant idea!*
+
+**Source:** Netzwerk neu A2 K9 3d (Sportlich, sportlich)
+<!-- bank:end -->
+
+## My notes
+

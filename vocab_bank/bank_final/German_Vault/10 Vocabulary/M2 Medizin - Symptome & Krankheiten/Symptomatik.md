@@ -1,0 +1,39 @@
+---
+title: "Symptomatik"
+type: "word"
+aliases: ["die Symptomatik"]
+lemma: "Symptomatik"
+meaning: "symptoms; symptomatology"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "C1"
+topic: "[[M2 Medizin - Symptome & Krankheiten]]"
+register: "neutral"
+bank: "main"
+id: "B6132"
+freq_rank: 4550
+skip: false
+tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
+status: "new"
+---
+<!-- bank:start -->
+# die Symptomatik
+
+**Meaning:** symptoms; symptomatology
+**Plural:** –
+**Level:** C1 · **Topic:** [[M2 Medizin - Symptome & Krankheiten]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Symptomatik begann vor drei Tagen.
+> *The symptoms began three days ago.*
+
+**Collocations**
+- typische Symptomatik
+- akute Symptomatik
+- die Symptomatik beschreiben
+- die Symptomatik verschlechtert sich
+<!-- bank:end -->
+
+## My notes
+

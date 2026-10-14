@@ -1,0 +1,37 @@
+---
+title: "Vase"
+type: "word"
+aliases: ["die Vase", "Vasen"]
+lemma: "Vase"
+meaning: "vase"
+pos: "noun"
+article: "die"
+plural: "Vasen"
+level: "B1"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "main"
+id: "B4645"
+goethe_level: "B1"
+netzwerk: "B1 K9 7b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Vase
+
+**Meaning:** vase
+**Plural:** Vasen
+**Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Hast du eine Vase für die Blumen?
+> *Do you have a vase for the flowers?*
+
+**Source:** Netzwerk neu B1 K9 7b (Kunststücke) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,38 @@
+---
+title: "gebräunt"
+type: "word"
+lemma: "gebräunt"
+meaning: "tanned"
+pos: "adjective"
+level: "B2"
+topic: "[[T01 Person, Familie & Beziehungen]]"
+register: "neutral"
+bank: "b2"
+id: "D2352"
+exam_use: ["Alltag", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# gebräunt
+
+**Meaning:** tanned
+**Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Nach dem Urlaub war sie schön gebräunt.
+> *After the holiday she was nicely tanned.*
+
+**Collocations**
+- gebräunt sein
+- gebräunte Haut
+- von der Sonne gebräunt
+
+**Related:** [[Haut]] · [[Sonne]]
+
+**Exam use:** Alltag, Sprechen
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,36 @@
+---
+title: "festlegen"
+type: "word"
+aliases: ["legt fest", "legte fest", "hat festgelegt"]
+lemma: "festlegen"
+meaning: "to determine; to commit oneself"
+pos: "verb"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B4940"
+goethe_level: "B1"
+netzwerk: "B1 K11 8b"
+freq_rank: 1551
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# festlegen
+
+**Meaning:** to determine; to commit oneself
+**Forms:** legt fest · legte fest · hat festgelegt
+**Grammar:** reflexive · separable (fest-)
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich möchte mich noch nicht festlegen.
+> *I don't want to commit myself yet.*
+
+**Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

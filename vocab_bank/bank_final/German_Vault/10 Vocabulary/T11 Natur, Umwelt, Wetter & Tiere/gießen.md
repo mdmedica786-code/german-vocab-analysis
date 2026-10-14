@@ -1,0 +1,35 @@
+---
+title: "gießen"
+type: "word"
+aliases: ["gießt", "goss", "hat gegossen"]
+lemma: "gießen"
+meaning: "to water"
+pos: "verb"
+level: "A2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "main"
+id: "B2941"
+goethe_level: "B1"
+netzwerk: "A2 K10 3c"
+freq_rank: 5004
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# gießen
+
+**Meaning:** to water
+**Forms:** gießt · goss · hat gegossen
+**Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Es hat nicht geregnet. Ich muss meine Blumen gießen.
+> *It hasn't rained. I have to water my flowers.*
+
+**Source:** Netzwerk neu A2 K10 3c (Zusammen leben) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

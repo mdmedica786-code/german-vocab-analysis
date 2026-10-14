@@ -1,0 +1,37 @@
+---
+title: "Salz"
+type: "word"
+aliases: ["das Salz", "Salze"]
+lemma: "Salz"
+meaning: "salt"
+pos: "noun"
+article: "das"
+plural: "Salze"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0611"
+goethe_level: "A1"
+netzwerk: "A1 K4 1a"
+freq_rank: 2277
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Salz
+
+**Meaning:** salt
+**Plural:** Salze
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Herr Ober, kann ich bitte Salz haben?
+> *Waiter, may I have some salt, please?*
+
+**Source:** Netzwerk neu A1 K4 1a (Guten Appetit!) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

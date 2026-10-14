@@ -1,0 +1,43 @@
+---
+title: "Einführung"
+type: "word"
+aliases: ["die Einführung", "Einführungen"]
+lemma: "Einführung"
+meaning: "introduction"
+pos: "noun"
+article: "die"
+plural: "Einführungen"
+level: "A2"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "main"
+id: "B2658"
+goethe_level: "B1"
+netzwerk: "A2 K8 1b"
+freq_rank: 1113
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Einführung
+
+**Meaning:** introduction
+**Plural:** Einführungen
+**Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Leider habe ich die Einführung des Kurses verpasst.
+> *Unfortunately I missed the introduction to the course.*
+
+**Collocations**
+- eine Einführung geben
+- Einführung in ...
+- zur Einführung
+- die Einführung neuer Regeln
+
+**Source:** Netzwerk neu A2 K8 1b (Gelernt ist gelernt!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

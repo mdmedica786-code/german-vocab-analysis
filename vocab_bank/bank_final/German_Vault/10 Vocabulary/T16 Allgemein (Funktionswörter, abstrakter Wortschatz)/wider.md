@@ -1,0 +1,31 @@
+---
+title: "wider"
+type: "word"
+lemma: "wider"
+meaning: "against; contrary to"
+pos: "preposition"
+level: "C1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B5487"
+freq_rank: 2102
+skip: false
+tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
+status: "new"
+---
+<!-- bank:start -->
+# wider
+
+**Meaning:** against; contrary to
+**Case:** + Akk.
+**Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+**Note:** takes the accusative; mostly in set phrases (wider Willen, wider Erwarten)
+
+> [!example] Beispiel
+> Er hat das wider besseres Wissen getan.
+> *He did that against his better judgement.*
+<!-- bank:end -->
+
+## My notes
+

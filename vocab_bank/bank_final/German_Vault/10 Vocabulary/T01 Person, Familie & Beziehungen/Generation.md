@@ -1,0 +1,36 @@
+---
+title: "Generation"
+type: "word"
+aliases: ["die Generation", "Generationen"]
+lemma: "Generation"
+meaning: "generation"
+pos: "noun"
+article: "die"
+plural: "Generationen"
+level: "B1"
+topic: "[[T01 Person, Familie & Beziehungen]]"
+register: "neutral"
+bank: "main"
+id: "B5329"
+goethe_level: "B1"
+freq_rank: 1443
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Generation
+
+**Meaning:** generation
+**Plural:** Generationen
+**Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> In diesem Haus wohnen drei Generationen zusammen.
+> *Three generations live together in this house.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

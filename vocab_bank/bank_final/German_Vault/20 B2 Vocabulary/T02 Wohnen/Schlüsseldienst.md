@@ -1,0 +1,42 @@
+---
+title: "Schlüsseldienst"
+type: "word"
+aliases: ["der Schlüsseldienst", "Schlüsseldienste"]
+lemma: "Schlüsseldienst"
+meaning: "locksmith service"
+pos: "noun"
+article: "der"
+plural: "Schlüsseldienste"
+level: "B2"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "b2"
+id: "D1097"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Schlüsseldienst
+
+**Meaning:** locksmith service
+**Plural:** Schlüsseldienste
+**Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich habe mich ausgesperrt und musste den Schlüsseldienst rufen.
+> *I locked myself out and had to call the locksmith.*
+
+**Collocations**
+- den Schlüsseldienst rufen
+- Schlüsseldienst beauftragen
+- ein teurer Schlüsseldienst
+
+**Related:** [[beauftragen]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

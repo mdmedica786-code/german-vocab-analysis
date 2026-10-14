@@ -1,0 +1,33 @@
+---
+title: "dort"
+type: "word"
+lemma: "dort"
+meaning: "there"
+pos: "adverb"
+level: "A1"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "main"
+id: "B0672"
+goethe_level: "A1"
+netzwerk: "A1 K4 6a"
+freq_rank: 157
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# dort
+
+**Meaning:** there
+**Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Dort ist unser Haus.
+> *Our house is over there.*
+
+**Source:** Netzwerk neu A1 K4 6a (Guten Appetit!) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

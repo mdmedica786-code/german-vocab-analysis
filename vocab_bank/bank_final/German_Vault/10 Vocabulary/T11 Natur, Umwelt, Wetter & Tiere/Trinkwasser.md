@@ -1,0 +1,36 @@
+---
+title: "Trinkwasser"
+type: "word"
+aliases: ["das Trinkwasser"]
+lemma: "Trinkwasser"
+meaning: "drinking water"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B1"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "main"
+id: "B3891"
+netzwerk: "B1 K5 1a"
+freq_rank: 4958
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Trinkwasser
+
+**Meaning:** drinking water
+**Plural:** –
+**Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Trinkwasser in Deutschland ist sauber.
+> *Drinking water in Germany is clean.*
+
+**Source:** Netzwerk neu B1 K5 1a (Umweltfreundlich?)
+<!-- bank:end -->
+
+## My notes
+

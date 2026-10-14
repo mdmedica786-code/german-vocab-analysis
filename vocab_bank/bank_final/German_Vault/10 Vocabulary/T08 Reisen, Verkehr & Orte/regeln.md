@@ -1,0 +1,43 @@
+---
+title: "regeln"
+type: "word"
+aliases: ["regelt", "regelte", "hat geregelt"]
+lemma: "regeln"
+meaning: "to regulate"
+pos: "verb"
+level: "B1"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "main"
+id: "B4878"
+goethe_level: "B1"
+netzwerk: "B1 K10 11a"
+freq_rank: 768
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# regeln
+
+**Meaning:** to regulate
+**Forms:** regelt · regelte · hat geregelt
+**Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Ampel ist kaputt. Ein Polizist regelt den Verkehr.
+> *The traffic light is broken. A police officer is directing the traffic.*
+
+**Collocations**
+- den Verkehr regeln
+- etwas regeln
+- geregelte Arbeitszeiten
+- rechtlich regeln
+
+**Related:** [[Verkehr]] · [[rechtlich]]
+
+**Source:** Netzwerk neu B1 K10 11a (Miteinander) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

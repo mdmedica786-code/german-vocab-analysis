@@ -1,0 +1,40 @@
+---
+title: "jubeln"
+type: "word"
+aliases: ["jubelt", "jubelte", "hat gejubelt"]
+lemma: "jubeln"
+meaning: "to cheer; to rejoice"
+pos: "verb"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D1701"
+exam_use: ["Medien", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# jubeln
+
+**Meaning:** to cheer; to rejoice
+**Forms:** jubelt · jubelte · hat gejubelt
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Fans jubelten nach dem Tor.
+> *The fans cheered after the goal.*
+
+**Collocations**
+- vor Freude jubeln
+- laut jubeln
+- über den Sieg jubeln
+
+**Related:** [[Freude]] · [[laut]] · [[Sieg]]
+
+**Exam use:** Medien, Hören
+<!-- bank:end -->
+
+## My notes
+

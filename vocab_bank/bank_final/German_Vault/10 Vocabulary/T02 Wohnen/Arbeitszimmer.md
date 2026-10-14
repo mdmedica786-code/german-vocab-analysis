@@ -1,0 +1,36 @@
+---
+title: "Arbeitszimmer"
+type: "word"
+aliases: ["das Arbeitszimmer"]
+lemma: "Arbeitszimmer"
+meaning: "study; home office"
+pos: "noun"
+article: "das"
+plural: "Arbeitszimmer"
+level: "A1"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "main"
+id: "B1344"
+netzwerk: "A1 K9 1a"
+freq_rank: 4618
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Arbeitszimmer
+
+**Meaning:** study; home office
+**Plural:** Arbeitszimmer
+**Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mein Mann arbeitet im Arbeitszimmer.
+> *My husband works in the study.*
+
+**Source:** Netzwerk neu A1 K9 1a (Meine Wohnung)
+<!-- bank:end -->
+
+## My notes
+

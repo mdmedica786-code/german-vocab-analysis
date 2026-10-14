@@ -1,0 +1,36 @@
+---
+title: "Auszeichnung"
+type: "word"
+aliases: ["die Auszeichnung", "Auszeichnungen"]
+lemma: "Auszeichnung"
+meaning: "award"
+pos: "noun"
+article: "die"
+plural: "Auszeichnungen"
+level: "B1"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B4191"
+netzwerk: "B1 K6 10a"
+freq_rank: 2216
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Auszeichnung
+
+**Meaning:** award
+**Plural:** Auszeichnungen
+**Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Film hat eine wichtige Auszeichnung bekommen.
+> *The film received an important award.*
+
+**Source:** Netzwerk neu B1 K6 10a (Blick nach vorn)
+<!-- bank:end -->
+
+## My notes
+

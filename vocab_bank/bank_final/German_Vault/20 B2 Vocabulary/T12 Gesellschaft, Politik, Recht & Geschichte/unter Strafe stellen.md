@@ -1,0 +1,37 @@
+---
+title: "unter Strafe stellen"
+type: "word"
+lemma: "unter Strafe stellen"
+meaning: "to make punishable"
+pos: "phrase"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D0159"
+exam_use: ["Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# unter Strafe stellen
+
+**Meaning:** to make punishable
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Gesetz stellt Steuerhinterziehung unter Strafe.
+> *The law makes tax evasion punishable.*
+
+**Collocations**
+- etwas unter Strafe stellen
+- unter Strafe stehen
+
+**Related:** [[Strafe]]
+
+**Exam use:** Lesen
+<!-- bank:end -->
+
+## My notes
+

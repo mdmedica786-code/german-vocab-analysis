@@ -1,0 +1,36 @@
+---
+title: "Modul"
+type: "word"
+aliases: ["das Modul", "Module"]
+lemma: "Modul"
+meaning: "module"
+pos: "noun"
+article: "das"
+plural: "Module"
+level: "B1"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B6245"
+goethe_level: "B1"
+freq_rank: 5051
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Modul
+
+**Meaning:** module
+**Plural:** Module
+**Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Modul Hören besteht aus vier Teilen.
+> *The listening module consists of four parts.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

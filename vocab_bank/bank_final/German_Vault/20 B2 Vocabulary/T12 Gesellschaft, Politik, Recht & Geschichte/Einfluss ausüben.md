@@ -1,0 +1,38 @@
+---
+title: "Einfluss ausüben"
+type: "word"
+lemma: "Einfluss ausüben"
+meaning: "to exert influence"
+pos: "phrase"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D2127"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Schreiben", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# Einfluss ausüben
+
+**Meaning:** to exert influence
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Medien üben großen Einfluss auf die Meinung der Bürger aus.
+> *The media exert great influence on citizens' opinions.*
+
+**Collocations**
+- Einfluss auf etwas ausüben
+- großen Einfluss ausüben
+- Einfluss nehmen
+
+**Related:** [[Einfluss]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,36 @@
+---
+title: "Kontoauszug"
+type: "word"
+aliases: ["der Kontoauszug", "Kontoauszüge"]
+lemma: "Kontoauszug"
+meaning: "bank statement"
+pos: "noun"
+article: "der"
+plural: "Kontoauszüge"
+level: "B1"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B5016"
+netzwerk: "B1 K12 3a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Kontoauszug
+
+**Meaning:** bank statement
+**Plural:** Kontoauszüge
+**Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich prüfe jeden Monat meinen Kontoauszug.
+> *I check my bank statement every month.*
+
+**Source:** Netzwerk neu B1 K12 3a (Geld regiert die Welt?)
+<!-- bank:end -->
+
+## My notes
+

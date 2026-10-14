@@ -1,0 +1,627 @@
+---
+title: "T08 Reisen, Verkehr & Orte"
+type: "moc"
+tags: ["moc", "topic/T08"]
+---
+<!-- bank:start -->
+# T08 Reisen, Verkehr & Orte
+
+Map of content. 539 words in the main bank, 51 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (184)
+
+- [[abfahren]] — to depart
+- [[Abfahrt]] — departure
+- [[abfliegen]] — to depart
+- [[Abflug]] — take-off; departure (flight)
+- [[abholen]] — to pick up
+- [[Algerien]] — Algeria
+- [[Altstadt]] — old town; historic city centre
+- [[ankommen]] — to arrive; to depend on (es kommt darauf an)
+- [[Ankunft]] — arrival
+- [[Anschluss]] — connection
+- [[Ausgang]] — exit
+- [[Ausland]] — abroad
+- [[aussteigen]] — to get off
+- [[Auto]] — car
+- [[Autobahn]] — motorway; freeway
+- [[Badeurlaub]] — beach holiday
+- [[Bahn]] — railway; train
+- [[Bahnhof]] — train station
+- [[Bahnsteig]] — train platform
+- [[Baustelle]] — construction site
+- [[besichtigen]] — to view
+- [[Besucher]] — visitor (m)
+- [[Besucherin]] — visitor (f)
+- [[Blick]] — view
+- [[Brasilien]] — Brazil
+- [[Brücke]] — bridge
+- [[Burg]] — castle
+- [[Bus]] — bus
+- [[Campingurlaub]] — camping holiday
+- [[daneben]] — beside
+- [[Deutschland]] — Germany
+- [[Doppelzimmer]] — twin room
+- [[Dorf]] — village
+- [[dort]] — there
+- [[Durchsage]] — announcement
+- [[Ecke]] — corner
+- [[Eingang]] — entrance
+- [[einpacken]] — to pack
+- [[einsteigen]] — to board
+- [[Einzelzimmer]] — single room
+- [[Europa]] — Europe
+- [[Europäer]] — European (man)
+- [[fahren]] — to drive; to go (by vehicle)
+- [[Fahrer]] — driver (m)
+- [[Fahrkarte]] — ticket
+- [[Fahrrad]] — bicycle
+- [[Finne]] — Finn (m)
+- [[Finnin]] — Finn (f)
+- [[finnisch]] — Finnish
+- [[Finnland]] — Finland
+- [[fliegen]] — to fly
+- [[Flug]] — flight
+- [[Flughafen]] — airport
+- [[Flugzeug]] — airplane
+- [[Frankreich]] — France
+- [[gegenüber]] — opposite; towards
+- [[gehen]] — to go; to walk
+- [[Gepäck]] — luggage
+- [[geradeaus]] — straight ahead
+- [[Gleis]] — track
+- [[Griechenland]] — Greece
+- [[Hafen]] — harbour
+- [[Halbpension]] — half board
+- [[Halle]] — hall; large building
+- [[Haltestelle]] — stop; station
+- [[Hauptstadt]] — capital city
+- [[her]] — here (towards the speaker); ago
+- [[Himmelsrichtung]] — cardinal direction
+- [[hinten]] — behind
+- [[hinter]] — behind
+- [[Hotel]] — hotel
+- [[Insel]] — island
+- [[Italien]] — Italy
+- [[Japan]] — Japan
+- [[Jugendherberge]] — youth hostel
+- [[Kirche]] — church
+- [[Koffer]] — suitcase
+- [[Kofferpacken]] — to pack one's suitcase
+- [[kontrollieren]] — to check
+- [[Land]] — country; land; countryside
+- [[liegen]] — to lie; to be located
+- [[links]] — left
+- [[Lkw]] — lorry; truck
+- [[lokal (adjective)]] — local
+- [[losfahren]] — to leave
+- [[Maschine]] — machine; aeroplane
+- [[Mexikaner]] — Mexican (m)
+- [[Mexikanerin]] — Mexican (f)
+- [[mexikanisch]] — Mexican
+- [[Mexiko]] — Mexico
+- [[mitnehmen]] — to take along
+- [[Mitte]] — middle
+- [[Motorrad]] — motorcycle
+- [[neben]] — next to
+- [[Norden]] — North
+- [[Nähe]] — proximity
+- [[Ort]] — place; location; village/town
+- [[Ortsveränderung]] — change of location
+- [[Osten]] — East
+- [[packen]] — to pack
+- [[Pension]] — guesthouse
+- [[Platz]] — room; space; square
+- [[Polen]] — Poland
+- [[Portugal]] — Portugal
+- [[Prospekt]] — brochure
+- [[rausgehen]] — to go outside
+- [[rechts]] — right
+- [[Regenschirm]] — umbrella
+- [[Reise]] — trip
+- [[Reisebericht]] — travelogue
+- [[Reisebüro]] — travel agency
+- [[Reiseführer]] — tour guide (m); guidebook
+- [[reisen]] — to travel
+- [[Reisetasche]] — holdall
+- [[Reiseziel]] — destination (travel)
+- [[reservieren]] — to book
+- [[Rezeption]] — reception
+- [[Route]] — route
+- [[Russland]] — Russia
+- [[S-Bahn]] — suburban train
+- [[Saison]] — season
+- [[Schaffner]] — conductor (m)
+- [[Schaffnerin]] — conductor (f)
+- [[Schiff]] — ship
+- [[Schild]] — sign
+- [[Schlafsack]] — sleeping bag
+- [[Schweiz]] — Switzerland
+- [[Sehenswürdigkeit]] — tourist attraction
+- [[Ski-Urlaub]] — skiing holiday
+- [[Snowboard-Urlaub]] — snowboarding holiday
+- [[Souvenir]] — souvenir
+- [[Spanien]] — Spain
+- [[Stadt]] — city
+- [[Stadtführung]] — tour of the city
+- [[Stadttour]] — city tour
+- [[Stadturlaub]] — city trip
+- [[Start]] — start; take-off
+- [[Station]] — station
+- [[Strand]] — beach
+- [[Straße]] — street
+- [[Straßenbahn]] — tram
+- [[Städtereise]] — city trip
+- [[Südamerika]] — South America
+- [[Süden]] — South
+- [[Taxi]] — taxi
+- [[Taxifahrt]] — taxi ride
+- [[Thailand]] — Thailand
+- [[Ticket]] — ticket
+- [[Ticketkauf]] — ticket purchase
+- [[Tour]] — tour
+- [[Tram]] — tram
+- [[Traumurlaub]] — dream holiday
+- [[Treffpunkt]] — meeting point
+- [[Trendstadt]] — trendy city
+- [[Turm]] — tower
+- [[Türke]] — Turkish man
+- [[Türkei]] — Turkey
+- [[Türkin]] — Turkish woman
+- [[türkisch (adjective)]] — Turkish
+- [[U-Bahn]] — subway
+- [[Ukraine]] — Ukraine
+- [[umsteigen]] — to transfer
+- [[unter]] — under
+- [[unterwegs]] — on the way
+- [[Urlaubsort]] — holiday resort
+- [[USA]] — USA
+- [[verpassen]] — to miss
+- [[Verspätung]] — delay
+- [[vorne]] — in front, over there
+- [[Weg]] — way
+- [[Wegbeschreibung]] — directions
+- [[weit]] — far; wide; loose
+- [[Werkstatt]] — workshop
+- [[Westen]] — West
+- [[Zelt]] — tent
+- [[Zentrum]] — centre
+- [[Ziel]] — goal
+- [[Zug]] — train
+- [[zurück]] — back
+- [[zurückfahren]] — to drive back
+- [[zurückfinden]] — to find back
+- [[zwischen]] — between
+- [[Österreich]] — Austria
+- [[übernachten]] — to sleep over, to stay at
+
+### A2 (145)
+
+- [[abstellen]] — to park; to turn off
+- [[Ampel]] — traffic light
+- [[Anreise]] — journey
+- [[Argentinien]] — Argentina
+- [[Aufenthalt]] — stay
+- [[Ausblick]] — view
+- [[auspacken]] — to unpack
+- [[Bahnhofshalle]] — station hall
+- [[bayerisch]] — Bavarian
+- [[Benzin]] — petrol
+- [[Bergstation]] — summit station
+- [[Bordbistro]] — on-board bistro
+- [[Bordcomputer]] — on-board computer
+- [[bremsen]] — to brake
+- [[buchen]] — to book
+- [[Campingplatz]] — campsite
+- [[chinesisch]] — Chinese
+- [[Diesel]] — diesel
+- [[E-Bike]] — e-bike
+- [[E-Scooter]] — electric scooter
+- [[Einwohner]] — inhabitant (m)
+- [[Einwohnerin]] — inhabitant (f)
+- [[einzeichnen]] — to draw in
+- [[England]] — England
+- [[entfernt]] — away
+- [[erreichen]] — to reach
+- [[Europäerin]] — European (woman)
+- [[Fahrgast]] — passenger
+- [[Fahrkartenschalter]] — ticket office
+- [[Fahrplan]] — timetable
+- [[Fahrstunde]] — driving lesson
+- [[Fahrt]] — journey
+- [[Fahrzeug]] — vehicle
+- [[Ferienwohnung]] — holiday home
+- [[Franke]] — Franconian (m)
+- [[französisch (adjective)]] — French
+- [[Führer]] — guide (m); leader
+- [[Führerin]] — guide (f); leader
+- [[Führerschein]] — driver's license
+- [[Führerscheinprüfung]] — driving test
+- [[Gang]] — aisle; corridor; gait
+- [[Gebiet]] — area
+- [[Gebäude]] — building
+- [[Grenze]] — border
+- [[Grenzgebiet]] — frontier
+- [[Großstadt]] — city (large)
+- [[Hauptstraße]] — main street
+- [[hin]] — there; to there; away
+- [[Hinfahrt]] — journey there
+- [[hinunter]] — down
+- [[Indonesien]] — Indonesia
+- [[Innenstadt]] — city centre
+- [[Kennzeichen]] — number plate
+- [[Kinderabteil]] — children's compartment
+- [[Kraftfahrzeug]] — motor vehicle
+- [[Kreuzung]] — crossroads
+- [[Kutsche]] — carriage
+- [[landen]] — to land
+- [[Lastwagen]] — truck
+- [[Lautsprecher]] — speaker
+- [[Linie]] — line; route
+- [[Luxemburg]] — Luxembourg
+- [[Luxemburger]] — Luxembourger (m)
+- [[Luxemburgerin]] — Luxembourger (f)
+- [[luxemburgisch]] — Luxembourgish
+- [[mobil]] — mobile
+- [[Monatskarte]] — monthly ticket
+- [[Motor]] — engine; motor
+- [[Motorroller]] — scooter
+- [[nah]] — near
+- [[Navi]] — satnav
+- [[Nord- (affix)]] — north
+- [[Panne]] — breakdown
+- [[parken]] — to park
+- [[Parkhaus]] — multi-storey car park
+- [[Parkplatz]] — parking lot
+- [[pendeln]] — to commute
+- [[Pkw]] — motorcar
+- [[Platzreservierung]] — seat reservation
+- [[quer]] — across
+- [[Rad]] — bike
+- [[Radfahrer]] — cyclist (m)
+- [[Radfahrerin]] — cyclist (f)
+- [[Radweg]] — cycle path
+- [[rasen (verb)]] — to speed; to race
+- [[Reifen]] — tyre
+- [[Reservierung]] — reservation
+- [[Richtung]] — direction
+- [[Roller]] — scooter
+- [[Rucksack]] — backpack
+- [[Rundgang]] — tour; walk round
+- [[Rückfahrt]] — return
+- [[rückwärts]] — backward
+- [[Schweizer]] — Swiss person (m)
+- [[Schweizerin]] — Swiss woman
+- [[schweizerisch]] — Swiss
+- [[Seilbahn]] — cable car
+- [[spanisch (adjective)]] — Spanish
+- [[Stadtbesichtigung]] — sightseeing tour
+- [[Stadtplan]] — city map
+- [[Stadtrand]] — city limit
+- [[Stadtzentrum]] — city centre
+- [[starten]] — to start
+- [[Stau]] — traffic jam
+- [[Strecke]] — route; distance
+- [[Süd-]] — south
+- [[tanken]] — to fill up; to refuel
+- [[Tankstelle]] — petrol station
+- [[Tor]] — gate; goal
+- [[Tourist]] — tourist (m)
+- [[Touristin]] — tourist (f)
+- [[transportieren]] — to transport
+- [[Tschechien]] — Czech Republic
+- [[tschechisch]] — Czech
+- [[TÜV]] — MOT (test)
+- [[Umgebung]] — surroundings; vicinity; environment
+- [[umsehen]] — to look around
+- [[Unterkunft]] — accommodation
+- [[unterwegs sein]] — to be on the way; to be out and about
+- [[verbringen]] — to spend (time)
+- [[verirren]] — to get lost
+- [[Verkehr]] — traffic
+- [[Verkehrsmittel]] — means of transport
+- [[Verkehrsproblem]] — traffic problem
+- [[Verpflegung]] — catering; food
+- [[verreisen]] — to go away (on a journey)
+- [[verspätet]] — late
+- [[vorbei]] — past; over
+- [[vorbeigehen]] — to walk past
+- [[vorn]] — at the front
+- [[vorwärts]] — forward
+- [[Wagen]] — car
+- [[wegfahren]] — to leave
+- [[weglaufen]] — to run away
+- [[weiterfahren]] — to carry on
+- [[weitergehen]] — to continue
+- [[Weltreise]] — world trip
+- [[Zugfahrt]] — train ride
+- [[Zugverbindung]] — train connection
+- [[zurückkommen]] — to return
+- [[zurücklaufen]] — to run back
+- [[Österreicher]] — Austrian (man)
+- [[Österreicherin]] — Austrian (f)
+- [[österreichisch]] — Austrian
+- [[Übernachtung]] — overnight stay
+
+### B1 (190)
+
+- [[abbiegen]] — to turn
+- [[abwärts]] — downwards
+- [[Afrika]] — Africa
+- [[Almaufenthalt]] — visit to an alp
+- [[Almsommer]] — summer on the alp
+- [[Almurlaub]] — holiday on the alp
+- [[amerikanisch]] — American
+- [[Anfahrt]] — journey (to a place); route
+- [[anschnallen]] — to fasten (seat belt)
+- [[Asien]] — Asia
+- [[aufwärts]] — upwards
+- [[Ausfahrt]] — exit; slip road
+- [[Ausflugstipp]] — excursion tip
+- [[Aussicht]] — view
+- [[Aussichtsturm]] — observation tower
+- [[Ausstieg]] — exit; withdrawal
+- [[Autofahrer]] — driver (m); motorist
+- [[Autofahrerin]] — driver (f); motorist
+- [[Autowerkstatt]] — garage
+- [[außen]] — outside
+- [[barrierearm]] — with few barriers; partly accessible
+- [[befinden (verb)]] — to be located
+- [[Belgien]] — Belgium
+- [[beschildert]] — signposted
+- [[betreten]] — to enter; to step onto
+- [[Billett]] — ticket (Swiss German)
+- [[Boot]] — boat
+- [[brasilianisch]] — Brazilian
+- [[Bremse]] — brake
+- [[Brunnen]] — fountain; well
+- [[Bushaltestelle]] — bus stop
+- [[Camp]] — camp
+- [[campen]] — to camp
+- [[Camping]] — camping
+- [[City]] — city centre; city
+- [[davongehen]] — to leave
+- [[Denkmal]] — memorial, monument
+- [[Einbahnstraße]] — one-way street
+- [[Einfahrt]] — driveway; entrance
+- [[Einheimische]] — native
+- [[Eisenbahn]] — railway
+- [[entgegenkommen]] — to meet halfway
+- [[Fahrbahn]] — carriageway; road
+- [[Fahrschein]] — ticket (travel)
+- [[Fahrtzeit]] — travel time
+- [[Ferienclub]] — holiday club
+- [[Ferienhaus]] — holiday home
+- [[fern]] — distant
+- [[Ferne]] — distance
+- [[fest machen]] — to fasten
+- [[fort]] — away; gone; onwards
+- [[Fußgänger]] — pedestrian (m)
+- [[Fußgängerin]] — pedestrian (f)
+- [[Fußgängerzone]] — pedestrian zone
+- [[Fußweg]] — footpath; walk
+- [[Fähre]] — ferry
+- [[Führerausweis]] — driving licence (Swiss)
+- [[Gasse]] — alley
+- [[Gegend]] — area; region
+- [[Gehsteig]] — pavement (Austrian, S. German)
+- [[gelangen]] — to reach; to get to
+- [[Gelände]] — site; grounds; terrain
+- [[Gepäckband]] — baggage conveyor belt
+- [[Geschwindigkeit]] — speed
+- [[Geschwindigkeitsbeschränkung]] — speed limit
+- [[glatt]] — smooth
+- [[Grieche]] — Greek man
+- [[Griechin]] — Greek (f)
+- [[griechisch (adjective)]] — Greek
+- [[Großbritannien]] — Great Britain
+- [[Gästehaus]] — guest house
+- [[Hauptbahnhof]] — central station
+- [[Haupteingang]] — main entrance
+- [[heimfahren]] — to go home
+- [[herankommen]] — to get close to; to reach
+- [[herunter]] — down (towards the speaker)
+- [[hinauf]] — up
+- [[hineingehen]] — to enter
+- [[hingehen]] — to go there
+- [[hupen]] — to honk
+- [[Hütte]] — hut; lodge
+- [[ICE]] — ICE
+- [[Industrieviertel]] — industrial quarter
+- [[Inland]] — home country; domestic
+- [[innerhalb]] — within
+- [[irgendwo]] — somewhere
+- [[italienisch (adjective)]] — Italian
+- [[Kofferraum]] — car boot
+- [[Kurve]] — bend; curve
+- [[Landung]] — landing
+- [[Lastenfahrrad]] — freight bicycle
+- [[Laster]] — lorry; truck
+- [[ländlich]] — rural
+- [[Metropole]] — metropolis
+- [[Mitfahrbank]] — ride-share bench
+- [[mittendrin]] — in the middle of it
+- [[Mobilität]] — mobility
+- [[Nachbardorf]] — neighbouring village
+- [[Nachtportier]] — night porter (m)
+- [[nahe]] — near; close
+- [[Namibia]] — Namibia
+- [[Niederlande]] — Netherlands
+- [[Nord-]] — north (combining form)
+- [[Notausgang]] — emergency exit
+- [[nähern]] — to approach
+- [[nördlich]] — northern
+- [[parallel]] — parallel
+- [[parkieren]] — to park (Swiss German)
+- [[Passagier]] — passenger (m)
+- [[Passagierin]] — passenger (f)
+- [[pauschal]] — across-the-board
+- [[Perron]] — platform (Swiss)
+- [[Pfad]] — path; trail
+- [[Privatauto]] — private car
+- [[Rand]] — edge
+- [[rauf]] — up (colloquial)
+- [[rauffahren]] — to drive up
+- [[raus]] — out
+- [[regeln]] — to regulate
+- [[Region]] — region
+- [[regional]] — regional
+- [[rennen]] — to run
+- [[rollen]] — to roll
+- [[rumfahren]] — to drive around
+- [[Rundfahrt]] — round trip
+- [[russisch (adjective)]] — Russian
+- [[Rückkehr]] — return
+- [[Schaden]] — damage
+- [[schieben]] — to push
+- [[Schifffahrt]] — boat trip
+- [[Schranke]] — barrier
+- [[Sitz]] — seat
+- [[Speisewagen]] — dining car
+- [[Spur]] — lane; track; trace
+- [[Stadtatmosphäre]] — city atmosphere
+- [[Stadtbummel]] — stroll through the city
+- [[Stadtmauer]] — city wall
+- [[Stadtteil]] — district; part of town
+- [[Stadtviertel]] — district; neighbourhood
+- [[stoppen]] — to stop
+- [[Strafzettel]] — parking ticket; fine
+- [[Strandpromenade]] — beach side promenade
+- [[Strandurlaub]] — holiday at the beach
+- [[Straßenlampe]] — street lamp
+- [[städtisch]] — urban; municipal
+- [[südlich]] — southern; south of
+- [[Tempo]] — speed
+- [[Terminal]] — terminal
+- [[Tourismus]] — tourism
+- [[touristisch]] — tourist (adj.)
+- [[Transport]] — transport
+- [[Transportweg]] — transport route
+- [[Trendviertel]] — trending district
+- [[Trottoir]] — pavement (Swiss)
+- [[Ukrainer]] — Ukrainian (m)
+- [[Ukrainerin]] — Ukrainian (f)
+- [[ukrainisch (adjective)]] — Ukrainian
+- [[Ukrainisch]] — Ukrainian (language)
+- [[Umleitung]] — diversion
+- [[Urlaubsgruß]] — greetings from abroad
+- [[Urlaubsplanung]] — holiday planning
+- [[Urlaubstyp]] — holiday type
+- [[Urlaubsziel]] — holiday destination
+- [[Velo]] — bicycle (Swiss German)
+- [[Verbindung]] — connection
+- [[verbrauchen]] — to use up
+- [[Verkehrssituation]] — traffic situation
+- [[Verkehrszeichen]] — traffic sign
+- [[verlassen]] — to leave
+- [[verlaufen]] — to get lost
+- [[Vollpension]] — full board
+- [[vorbeifliegen]] — to fly past
+- [[Vorfahrt]] — right of way
+- [[Vorort]] — suburb
+- [[Wahrzeichen]] — landmark
+- [[Wellness-Bereich]] — spa area
+- [[Wellnesshotel]] — spa hotel
+- [[wenden]] — to turn (a vehicle); to turn over
+- [[westlich]] — western
+- [[Winterurlaub]] — winter holiday
+- [[zelten]] — to camp
+- [[Zone]] — zone
+- [[Zugnummer]] — train number
+- [[zurückgehen]] — to go back
+- [[zusammenstoßen]] — to collide; to crash
+- [[Zuschlag]] — surcharge
+- [[östlich]] — eastern
+- [[überfahren]] — to run over
+- [[überholen]] — to overtake
+- [[überqueren]] — to cross
+
+### B2 (17)
+
+- [[Abreise]] — departure
+- [[anhalten]] — to stop; to last
+- [[aufsuchen]] — to visit; to go to see
+- [[beleuchtet]] — lit; illuminated
+- [[Bord]] — board (of a ship or plane)
+- [[E-Auto]] — electric car
+- [[erkunden]] — to explore
+- [[GPS]] — GPS
+- [[GPS-System]] — GPS system
+- [[Halt]] — stop; hold
+- [[Hubschrauber]] — helicopter
+- [[Nahverkehr]] — local transport
+- [[Rückweg]] — way back
+- [[Standort]] — location; site
+- [[Stopp]] — stop
+- [[woanders]] — elsewhere
+- [[zurückkehren]] — to return
+
+### C1 (3)
+
+- [[begeben]] — to go; to proceed
+- [[E-Mobilität]] — e-mobility
+- [[örtlich]] — local
+
+## B2 bank
+
+### B2 (51)
+
+- [[Abschleppdienst]] — towing service
+- [[aufbrechen]] — to set off; to break open
+- [[ausrutschen]] — to slip
+- [[Aussichtspunkt]] — viewpoint; vantage point
+- [[ausweichen]] — to dodge; to evade
+- [[Ballungsraum]] — conurbation; densely populated area
+- [[Berufsverkehr]] — rush-hour traffic
+- [[Besichtigung]] — visit; viewing; tour
+- [[biegen]] — to bend; to turn (a corner)
+- [[Buchung]] — booking; entry
+- [[Bürgersteig]] — pavement; sidewalk
+- [[diesseits]] — on this side of
+- [[Elektroauto]] — electric car
+- [[Fahrgemeinschaft]] — carpool
+- [[Fahrkartenautomat]] — ticket machine
+- [[Fahrlehrer]] — driving instructor
+- [[Fernverkehr]] — long-distance transport
+- [[Fernweh]] — wanderlust; longing for faraway places
+- [[Fremdenverkehr]] — tourism
+- [[Gepäckaufbewahrung]] — left-luggage office
+- [[Geschwindigkeitsbegrenzung]] — speed limit
+- [[Getriebe]] — gearbox; transmission
+- [[Gipfel]] — summit; peak
+- [[Handgepäck]] — hand luggage
+- [[Hauptverkehrszeit]] — peak traffic hours
+- [[Kreisverkehr]] — roundabout
+- [[Ladestation]] — charging station
+- [[Leuchtturm]] — lighthouse
+- [[mit Sack und Pack]] — with bag and baggage
+- [[Mitfahrer]] — fellow passenger; passenger
+- [[Mitfahrgelegenheit]] — lift; ride share
+- [[Nachbarland]] — neighbouring country
+- [[Naturpark]] — nature park
+- [[Pannenhilfe]] — breakdown assistance
+- [[Parkgebühr]] — parking fee
+- [[Pauschalreise]] — package holiday
+- [[Pendler]] — commuter
+- [[Pilot]] — pilot
+- [[Raststätte]] — motorway service area
+- [[Reiseveranstalter]] — tour operator
+- [[rutschen]] — to slip; to slide
+- [[Sperrung]] — closure; blocking
+- [[Stadtrundfahrt]] — city sightseeing tour
+- [[umkehren]] — to turn back; to reverse
+- [[Unterführung]] — underpass; subway
+- [[unweit]] — not far from
+- [[verweilen]] — to linger; to stay
+- [[Wochenkarte]] — weekly ticket
+- [[Zebrastreifen]] — zebra crossing
+- [[Zwischenstopp]] — stopover; stop on the way
+- [[Überfahrt]] — crossing (by ferry)
+<!-- bank:end -->
+
+## My notes
+

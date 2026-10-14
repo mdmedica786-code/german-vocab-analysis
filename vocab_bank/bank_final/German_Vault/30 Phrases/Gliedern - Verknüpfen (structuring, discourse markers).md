@@ -1,0 +1,503 @@
+---
+title: "Gliedern / Verknüpfen (structuring, discourse markers)"
+type: "phrase-group"
+count: 107
+levels: ["A1 (1)", "A2 (4)", "B1 (24)", "B2 (45)", "C1 (33)"]
+tags: ["phrase", "moc"]
+---
+<!-- bank:start -->
+# Gliedern / Verknüpfen (structuring, discourse markers)
+
+107 phrases. Back to [[MOC Phrases]]
+
+## A1
+
+- **zum Beispiel** — for example
+  - Mein Freund hat viele Hobbys, zum Beispiel Kochen, Lesen und Tanzen. *(My friend has many hobbies, for example cooking, reading and dancing.)*
+  - Variants: beispielsweise | z. B.
+  - Exam: Wortliste A1 (exam vocabulary) · B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+## A2
+
+- **es geht um ...** — it is about ...
+  - Worum geht es? Es geht um deine Gesundheit. *(What is it about? It's about your health.)*
+  - Grammar: gehen um + Akk.
+  - Variants: es handelt sich um | es dreht sich um
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **es geht um ...** — it is about ...
+  - In dem Film geht es um eine Liebesgeschichte. *(The film is about a love story.)*
+  - Grammar: gehen um + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **und so weiter** — and so on
+  - Wir lernen Wörter, Grammatik und so weiter. *(We learn words, grammar and so on.)*
+  - Grammar: Abkürzung: usw.
+  - Variants: usw. | und so fort
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **vor allem** — especially (esp.)
+  - Grüßen Sie alle von mir, vor allem Frau Meier. *(Give my regards to everyone, especially Mrs Meier.)*
+  - Grammar: vor allem = besonders
+  - Variants: besonders | insbesondere
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+## B1
+
+- **aber auch** — but also
+  - Er ist nicht nur Arzt, aber auch Musiker. *(He is not only a doctor but also a musician.)*
+  - Grammar: nicht nur ..., sondern auch ...; „aber auch“ = zusätzlich
+  - Variants: und auch | ebenfalls
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **auf diese Weise** — in this way
+  - Auf diese Weise sparen wir viel Zeit. *(This way we save a lot of time.)*
+  - Variants: so | dadurch
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **das heißt, dass ...** — that means that ...
+  - Das heißt, dass wir morgen früher anfangen. *(That means we start earlier tomorrow.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **das heißt, dass ...** — that means that ...
+  - Das heißt, dass wir morgen früher kommen. *(That means we are coming earlier tomorrow.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **ein Beispiel für ...** — an example of ...
+  - Das ist ein gutes Beispiel für schlechte Planung. *(That is a good example of bad planning.)*
+  - Grammar: Beispiel für + Akk.
+  - Variants: ein Beleg für | ein Muster für
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **ein Blick auf ...** — a look at ...
+  - Ein Blick auf die Uhr zeigt: Es ist spät. *(A glance at the clock shows: it's late.)*
+  - Grammar: Blick auf + Akk.
+  - Variants: ein Blick in ... | ein kurzer Überblick über
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **entweder ... oder ...** — either ... or ...
+  - Wir fahren entweder mit dem Zug oder mit dem Bus. *(We are going either by train or by bus.)*
+  - Grammar: zweiteilige Konjunktion
+  - Variants: oder ... oder ... | ... oder ...
+  - Exam: Wortliste B1 (exam vocabulary)
+- **erst einmal** — first of all; for now
+  - Ich mache erst einmal eine Pause. *(First of all I'm going to take a break.)*
+  - Variants: zuerst | zunächst
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **ganz besonders** — especially; particularly
+  - Ich mag Obst, ganz besonders Äpfel. *(I like fruit, particularly apples.)*
+  - Variants: insbesondere | vor allem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **gut, dann ...** — good, then ...
+  - Gut, dann sehen wir uns morgen. *(Good, then we'll see each other tomorrow.)*
+  - Grammar: Gesprächspartikel
+  - Variants: also gut | okay, dann
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in der Regel** — as a rule; usually
+  - In der Regel stehe ich um sieben Uhr auf. *(As a rule I get up at seven.)*
+  - Variants: normalerweise | meistens
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Fall** — in this case
+  - In diesem Fall brauchen Sie keinen Termin. *(In this case you don't need an appointment.)*
+  - Variants: in dem Fall | dann
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **na ja** — well...; oh well
+  - Na ja, das ist nicht so schlimm. *(Well, that's not so bad.)*
+  - Grammar: Gesprächspartikel; zögernd/relativierend
+  - Variants: tja | also
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **nicht nur ...** — not only ...
+  - Er ist nicht nur nett, sondern auch klug. *(He is not only nice but also clever.)*
+  - Grammar: nicht nur ..., sondern auch ...
+  - Variants: sowohl ... als auch | außerdem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **nicht nur ..., sondern auch ...** — not only ..., but also ...
+  - Er ist nicht nur freundlich, sondern auch hilfsbereit. *(He is not only friendly but also helpful.)*
+  - Grammar: zweiteilige Konjunktion
+  - Variants: sowohl ... als auch ... | außerdem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **sowohl ... als auch ...** — both ... and ...; as well as
+  - Er spricht sowohl Deutsch als auch Englisch. *(He speaks both German and English.)*
+  - Grammar: zweiteilige Konjunktion
+  - Variants: nicht nur ..., sondern auch ... | ... und ...
+  - Exam: Wortliste B1 (exam vocabulary)
+- **unter anderem** — among other things
+  - Ich lerne unter anderem Deutsch und Spanisch. *(I'm learning German and Spanish, among other things.)*
+  - Grammar: Abkürzung: u. a.
+  - Variants: u. a. | neben anderem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **weder ... noch ...** — neither ... nor ...
+  - Er trinkt weder Kaffee noch Tee. *(He drinks neither coffee nor tea.)*
+  - Grammar: zweiteilige Konjunktion; verneinend
+  - Variants: nicht ... und nicht ... | kein ... und kein ...
+  - Exam: Wortliste B1 (exam vocabulary)
+- **weißt du, ...** — you know, ...
+  - Weißt du, ich bin gerade etwas müde. *(You know, I'm a bit tired at the moment.)*
+  - Grammar: Gesprächspartikel; Verb an Position 1
+  - Variants: siehst du | hör mal
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **wie gesagt** — as I said
+  - Wie gesagt, ich habe leider keine Zeit. *(As I said, unfortunately I have no time.)*
+  - Variants: wie erwähnt | wie bereits gesagt
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **wie zum Beispiel** — such as
+  - Ich mag Obst, wie zum Beispiel Äpfel. *(I like fruit, such as apples.)*
+  - Variants: etwa | beispielsweise
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **zeigen, wie ...** — to show how ...
+  - Bitte zeigen Sie mir, wie das Gerät funktioniert. *(Please show me how the device works.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Variants: erklären, wie | demonstrieren, wie
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **zum Beispiel in ...** — for example in ...
+  - Das gibt es überall, zum Beispiel in Deutschland. *(That exists everywhere, for example in Germany.)*
+  - Variants: etwa in | wie in
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **zum Schluss** — at the end
+  - Zum Schluss möchte ich mich bedanken. *(Finally I would like to say thank you.)*
+  - Variants: schließlich | abschließend
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+## B2
+
+- **an dieser Stelle** — at this point
+  - An dieser Stelle möchte ich etwas ergänzen. *(At this point I would like to add something.)*
+  - Variants: hier | an diesem Punkt
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **das Einzige, was ...** — the only thing that ...
+  - Das Einzige, was mir fehlt, ist Zeit. *(The only thing I'm missing is time.)*
+  - Grammar: Relativsatz mit „was“; Einzige groß
+  - Variants: nur eines | allein ...
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **das gilt auch für ...** — that also applies to ...
+  - Das gilt auch für Kinder. *(That also applies to children.)*
+  - Grammar: gelten für + Akk.
+  - Variants: das trifft auch auf ... zu | ebenso für
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Frage ist, ob ...** — the question is whether ...
+  - Die Frage ist, ob wir genug Geld haben. *(The question is whether we have enough money.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Frage ist, ob/wie ...** — the question is whether/how ...
+  - Die Frage ist, wie wir das bezahlen. *(The question is how we pay for that.)*
+  - Grammar: Nebensatz mit ob/wie: Verb am Ende
+  - Variants: es geht darum, ob | fraglich ist, ob
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Frage, ob ...** — the question of whether ...
+  - Die Frage, ob wir kommen, ist noch offen. *(The question of whether we are coming is still open.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Variants: die Frage, wie | die Frage, wann
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Frage, ob ...** — the question of whether ...
+  - Die Frage, ob er kommt, ist unklar. *(The question of whether he is coming is unclear.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Frage, wie ...** — the question of how ...
+  - Die Frage, wie wir das bezahlen, ist noch offen. *(The question of how we pay for that is still open.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Variants: die Frage, ob | die Frage, wann
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Frage, wie ...** — the question of how ...
+  - Wir diskutieren die Frage, wie wir Geld sparen. *(We are discussing the question of how we can save money.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **die Tatsache, dass ...** — the fact that ...
+  - Die Tatsache, dass er lügt, ist klar. *(The fact that he is lying is clear.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: der Umstand, dass | dass ... ist Tatsache
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **dies gilt auch für ...** — this also applies to ...
+  - Dies gilt auch für Erwachsene. *(This also applies to adults.)*
+  - Grammar: gelten für + Akk.; formeller als „das“
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **dies gilt auch für ...** — this also applies to ...
+  - Dies gilt auch für ältere Menschen. *(This also applies to older people.)*
+  - Grammar: gelten für + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **ein Beispiel für ...** — an example of ...
+  - Das ist ein typisches Beispiel für diese Krankheit. *(That is a typical example of this disease.)*
+  - Grammar: Beispiel für + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **einen Überblick über ... geben** — to give an overview of ...
+  - Der Chefarzt gibt einen Überblick über die neuen Regeln. *(The senior physician gives an overview of the new rules.)*
+  - Grammar: Überblick über + Akk.
+  - Variants: zusammenfassen | einen Einblick geben
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **Einführung in ...** — introduction to ...
+  - Am Montag gibt es eine Einführung in das neue System. *(On Monday there is an introduction to the new system.)*
+  - Grammar: Einführung in + Akk.
+  - Variants: Überblick über | Grundlagen von
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **einzig und allein** — solely; entirely
+  - Das liegt einzig und allein an dir. *(That is entirely up to you.)*
+  - Variants: ausschließlich | nur
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **es handelt sich um ...** — it is a matter of ...
+  - Es handelt sich um einen Notfall. *(It is an emergency.)*
+  - Grammar: sich handeln um + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **es handelt sich um ...** — it is a matter of ...
+  - Es handelt sich um eine Routineuntersuchung. *(It is a routine examination.)*
+  - Grammar: sich handeln um + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **geht es darum, dass ...** — the point is that ...
+  - Hier geht es darum, dass wir Zeit sparen. *(The point here is that we save time.)*
+  - Grammar: gehen um + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Allgemeinen** — in general
+  - Im Allgemeinen essen die Deutschen abends kalt. *(In general, Germans eat a cold meal in the evening.)*
+  - Grammar: Substantivierung: das Allgemeine
+  - Variants: allgemein | in der Regel
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Folgenden** — below; in the following
+  - Im Folgenden erkläre ich den Ablauf. *(In the following I will explain the procedure.)*
+  - Grammar: eher Schriftsprache
+  - Variants: nachstehend | unten
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Grunde** — basically
+  - Im Grunde bin ich damit einverstanden. *(Basically I agree with it.)*
+  - Variants: eigentlich | grundsätzlich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Zusammenhang mit ...** — in connection with ...
+  - Im Zusammenhang mit der Studie gibt es neue Ergebnisse. *(In connection with the study there are new results.)*
+  - Grammar: mit + Dat.
+  - Variants: in Verbindung mit | bezüglich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in beiden Fällen** — in both cases
+  - In beiden Fällen ist Eile geboten. *(In both cases speed is essential.)*
+  - Variants: in beiden Situationen | bei beiden
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in Bezug auf ...** — with regard to ...
+  - In Bezug auf Ihre Anfrage kann ich Ihnen Folgendes sagen. *(With regard to your enquiry, I can tell you the following.)*
+  - Grammar: auf + Akk.
+  - Variants: bezüglich | hinsichtlich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Fall ist ...** — in this case ... is
+  - In diesem Fall ist eine Operation nötig. *(In this case an operation is necessary.)*
+  - Grammar: Inversion: Verb an Position 2
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Zusammenhang** — in this context
+  - In diesem Zusammenhang möchte ich etwas sagen. *(In this context I would like to say something.)*
+  - Variants: in dieser Hinsicht | hierzu
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesen Fällen** — in these cases
+  - In diesen Fällen hilft nur eine Operation. *(In these cases only an operation helps.)*
+  - Variants: dann | in so einem Fall
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in dieser Hinsicht** — in this respect
+  - In dieser Hinsicht stimme ich Ihnen zu. *(In this respect I agree with you.)*
+  - Variants: in diesem Punkt | diesbezüglich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in einem solchen Fall** — in such a case
+  - In einem solchen Fall rufen Sie bitte den Notarzt. *(In such a case, please call the emergency doctor.)*
+  - Grammar: Dativ: in einem solchen Fall
+  - Variants: in solchen Fällen | dann
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in erster Linie** — primarily
+  - Ich arbeite in erster Linie in der Notaufnahme. *(I work primarily in the emergency room.)*
+  - Variants: vor allem | hauptsächlich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in solchen Fällen** — in such cases
+  - In solchen Fällen sollte man zum Arzt gehen. *(In such cases you should see a doctor.)*
+  - Variants: in dieser Situation | dann
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **kommen wir zu ...** — let's turn to ...
+  - Kommen wir nun zum nächsten Punkt. *(Let's now turn to the next point.)*
+  - Grammar: kommen zu + Dat.
+  - Variants: wenden wir uns ... zu | nun zu ...
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **mit anderen Worten** — in other words
+  - Mit anderen Worten: Du bist nicht einverstanden. *(In other words: you don't agree.)*
+  - Variants: das heißt | anders gesagt
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **Schritt für Schritt** — step by step
+  - Wir lernen die Wörter Schritt für Schritt. *(We learn the words step by step.)*
+  - Variants: nach und nach | schrittweise
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **siehe auch** — see also
+  - Weitere Informationen finden Sie im Text, siehe auch Seite fünf. *(You can find more information in the text, see also page five.)*
+  - Grammar: Verweis in Texten; Abkürzung: s. a.
+  - Variants: vgl. | s. a.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **stellen Sie sich vor, ...** — imagine ...
+  - Stellen Sie sich vor, Sie gewinnen im Lotto. *(Imagine you win the lottery.)*
+  - Grammar: sich (Dat.) vorstellen; Imperativ Höflichkeitsform
+  - Variants: nehmen wir an, ... | denken Sie sich ...
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **und vor allem** — and above all
+  - Wir brauchen Ruhe und vor allem Zeit. *(We need rest and above all time.)*
+  - Variants: besonders | insbesondere
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **und zwar** — namely; and indeed
+  - Wir treffen uns bald, und zwar am Montag. *(We'll meet soon, namely on Monday.)*
+  - Grammar: präzisiert vorher Gesagtes
+  - Variants: nämlich | genauer gesagt
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **vor allen Dingen** — above all
+  - Wir brauchen vor allen Dingen Ruhe. *(Above all we need peace.)*
+  - Grammar: besser: vor allem
+  - Variants: vor allem | besonders
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **wenn es darum geht, ...** — when it comes to ...
+  - Wenn es darum geht, schnell zu helfen, ist sie die Beste. *(When it comes to helping quickly, she is the best.)*
+  - Grammar: gehen um + Akk.; wenn-Satz
+  - Variants: wenn es um ... geht | was ... betrifft
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **wie folgt** — as follows
+  - Der Ablauf ist wie folgt. *(The procedure is as follows.)*
+  - Grammar: wie folgt (unverändert)
+  - Variants: folgendermaßen | so
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **zum anderen ...** — on the other hand ...
+  - Zum einen ist das Auto teuer, zum anderen verbraucht es viel Benzin. *(For one thing the car is expensive, for another it uses a lot of petrol.)*
+  - Grammar: steht nach „zum einen“
+  - Variants: zum Zweiten | außerdem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **zum Thema ...** — on the subject of ...
+  - Wir sprechen heute zum Thema Ernährung. *(Today we are talking on the subject of nutrition.)*
+  - Grammar: zum = zu dem + Dat.
+  - Variants: über | in Bezug auf
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **Überblick über ...** — overview of ...
+  - Zuerst ein kurzer Überblick über den Ablauf. *(First a brief overview of the procedure.)*
+  - Grammar: Überblick über + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+## C1
+
+- **am Beispiel ...** — using the example of ...
+  - Ich erkläre das am Beispiel einer Tablette. *(I'll explain that using the example of a tablet.)*
+  - Grammar: am Beispiel + Gen. oder von + Dat.
+  - Variants: anhand eines Beispiels | exemplarisch
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **an erster Stelle** — in first place; first of all
+  - An erster Stelle steht für mich die Gesundheit. *(In first place for me is health.)*
+  - Grammar: Stelle: Genitiv-s nicht nötig
+  - Variants: zuerst | vor allem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **an sich** — in itself
+  - An sich ist die Idee gut, aber teuer. *(In itself the idea is good, but expensive.)*
+  - Variants: im Grunde | eigentlich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **auch im Hinblick auf ...** — also with regard to ...
+  - Auch im Hinblick auf die Kosten ist das Verfahren günstig. *(Also with regard to costs the procedure is cheap.)*
+  - Grammar: im Hinblick auf + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **bis hin zum ...** — right up to the ...
+  - Wir untersuchen alles vom Kopf bis hin zum Fuß. *(We examine everything from head right down to foot.)*
+  - Grammar: zum = zu dem + Dat.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **bis hin zur ...** — right up to the ...
+  - Wir behandeln Beschwerden, von Kopfschmerzen bis hin zur Operation. *(We treat complaints, from headaches right up to surgery.)*
+  - Grammar: zur = zu der + Dat. (feminin)
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **darüber hinaus** — in addition; moreover
+  - Darüber hinaus gibt es noch weitere Probleme. *(In addition there are further problems.)*
+  - Variants: außerdem | zudem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **das gilt insbesondere für ...** — this applies in particular to ...
+  - Das gilt insbesondere für Kinder und alte Menschen. *(This applies in particular to children and the elderly.)*
+  - Grammar: gelten für + Akk.
+  - Variants: das trifft vor allem auf ... zu | besonders gilt das für
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **es stellt sich die Frage** — the question arises
+  - Es stellt sich die Frage nach der Finanzierung. *(The question of financing arises.)*
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **es stellt sich die Frage nach ...** — the question of ... arises
+  - Es stellt sich die Frage nach den Kosten. *(The question of costs arises.)*
+  - Grammar: Frage nach + Dat.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **es stellt sich die Frage, ob ...** — the question arises whether ...
+  - Es stellt sich die Frage, ob die Behandlung sinnvoll ist. *(The question arises whether the treatment makes sense.)*
+  - Grammar: sich stellen: Frage; ob-Satz
+  - Variants: es fragt sich, ob | die Frage ist, ob
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **ganz zu schweigen von ...** — not to mention ...
+  - Er hat kein Geld, ganz zu schweigen von einem Auto. *(He has no money, not to mention a car.)*
+  - Grammar: von + Dat.
+  - Variants: geschweige denn | und erst recht nicht
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **gilt insbesondere für ...** — applies in particular to ...
+  - Die Regel gilt insbesondere für Kinder. *(The rule applies in particular to children.)*
+  - Grammar: gelten für + Akk.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **hinzu kommt, dass ...** — in addition, ...
+  - Hinzu kommt, dass die Miete sehr hoch ist. *(In addition, the rent is very high.)*
+  - Grammar: dass-Satz: Verb am Ende; Inversion
+  - Variants: außerdem | darüber hinaus
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im engeren Sinne** — in the narrower sense
+  - Im engeren Sinne ist das keine Krankheit. *(In the narrower sense this is not an illness.)*
+  - Variants: genau genommen | streng genommen
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Hinblick auf ...** — with regard to ...
+  - Im Hinblick auf die Kosten müssen wir noch sprechen. *(With regard to the costs, we still have to talk.)*
+  - Grammar: auf + Akk.
+  - Variants: in Bezug auf | hinsichtlich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Kontext von ...** — in the context of ...
+  - Im Kontext von Gesundheit ist Vorsorge wichtig. *(In the context of health, prevention is important.)*
+  - Grammar: von + Dat. oder Gen.
+  - Variants: im Zusammenhang mit | in Bezug auf
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Rahmen von ...** — within the scope of ...
+  - Im Rahmen der Studie werden Blutwerte gemessen. *(Within the scope of the study, blood values are measured.)*
+  - Grammar: im Rahmen + Gen. oder von + Dat.
+  - Variants: im Zuge | innerhalb
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Rahmen von ...** — within the scope of ...
+  - Wir arbeiten im Rahmen von einem Projekt zusammen. *(We are working together within the scope of a project.)*
+  - Grammar: im Rahmen von + Dat.
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Wesentlichen** — essentially
+  - Im Wesentlichen ist der Plan gut. *(Essentially the plan is good.)*
+  - Variants: hauptsächlich | grundsätzlich
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **im Übrigen** — incidentally; besides
+  - Im Übrigen bitte ich Sie, den Termin einzuhalten. *(Besides, I ask you to keep the appointment.)*
+  - Variants: übrigens | außerdem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in den Mittelpunkt stellen** — to put at the centre
+  - Wir wollen den Patienten in den Mittelpunkt stellen. *(We want to put the patient at the centre.)*
+  - Grammar: stellen + Akk.: wohin?
+  - Variants: ins Zentrum rücken | hervorheben
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Abschnitt** — in this section
+  - In diesem Abschnitt erkläre ich die Grammatik. *(In this section I explain the grammar.)*
+  - Variants: hier | in diesem Teil
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Falle** — in this case
+  - In diesem Falle ist nichts zu machen. *(In this case nothing can be done.)*
+  - Grammar: veraltend: Dativ-e; üblich: in diesem Fall
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Kontext** — in this context
+  - In diesem Kontext ist das Wort höflich. *(In this context the word is polite.)*
+  - Variants: in diesem Zusammenhang | hier
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in diesem Sinne** — in this spirit
+  - In diesem Sinne wünsche ich Ihnen viel Erfolg. *(In this spirit I wish you every success.)*
+  - Variants: damit | auf diese Weise
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in einem ersten Schritt** — as a first step
+  - In einem ersten Schritt prüfen wir die Blutwerte. *(As a first step we check the blood values.)*
+  - Variants: zuerst | zunächst
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **in erster Linie auf ...** — primarily on ...
+  - Der Erfolg beruht in erster Linie auf Teamarbeit. *(Success is primarily based on teamwork.)*
+  - Grammar: beruhen auf + Dat.; in erster Linie
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **mit Blick auf ...** — with a view to ...
+  - Mit Blick auf die Zukunft sparen wir Geld. *(With a view to the future we are saving money.)*
+  - Grammar: auf + Akk.
+  - Variants: im Hinblick auf | angesichts
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **nicht zuletzt** — not least
+  - Das hängt nicht zuletzt vom Wetter ab. *(That depends not least on the weather.)*
+  - Variants: insbesondere | vor allem
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **vor dem Hintergrund + Gen.** — against the background of ...
+  - Vor dem Hintergrund der aktuellen Lage ist das klar. *(Against the background of the current situation this is clear.)*
+  - Grammar: Genitiv: vor dem Hintergrund der ...
+  - Variants: angesichts | im Hinblick auf
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **vor diesem Hintergrund** — against this background
+  - Vor diesem Hintergrund ist die Entscheidung verständlich. *(Against this background the decision is understandable.)*
+  - Variants: in diesem Zusammenhang | angesichts dessen
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+- **wie beispielsweise ...** — such as ...
+  - Viele Faktoren, wie beispielsweise Alter, spielen eine Rolle. *(Many factors, such as age, play a role.)*
+  - Variants: wie zum Beispiel | etwa
+  - Exam: B1 Sprechen Aufgabe 2 (Präsentation gliedern) · B1 Schreiben Aufgabe 2 · B2 Vortrag und Diskussion · B2 Forumsbeitrag
+<!-- bank:end -->
+
+## My notes
+

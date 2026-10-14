@@ -1,0 +1,36 @@
+---
+title: "Sushi"
+type: "word"
+aliases: ["das Sushi", "Sushis"]
+lemma: "Sushi"
+meaning: "sushi"
+pos: "noun"
+article: "das"
+plural: "Sushis"
+level: "A1"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "main"
+id: "B0729"
+netzwerk: "A1 K4 9a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Sushi
+
+**Meaning:** sushi
+**Plural:** Sushis
+**Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Heute Abend essen wir Sushi.
+> *Tonight we are having sushi.*
+
+**Source:** Netzwerk neu A1 K4 9a (Guten Appetit!)
+<!-- bank:end -->
+
+## My notes
+

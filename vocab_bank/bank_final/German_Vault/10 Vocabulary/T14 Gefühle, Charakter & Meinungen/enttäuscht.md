@@ -1,0 +1,32 @@
+---
+title: "enttäuscht"
+type: "word"
+lemma: "enttäuscht"
+meaning: "disappointed"
+pos: "adjective"
+level: "B1"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "main"
+id: "B3303"
+netzwerk: "B1 K1 8b"
+freq_rank: 1211
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# enttäuscht
+
+**Meaning:** disappointed
+**Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich bin enttäuscht vom Ergebnis.
+> *I am disappointed with the result.*
+
+**Source:** Netzwerk neu B1 K1 8b (Gute Reise!)
+<!-- bank:end -->
+
+## My notes
+

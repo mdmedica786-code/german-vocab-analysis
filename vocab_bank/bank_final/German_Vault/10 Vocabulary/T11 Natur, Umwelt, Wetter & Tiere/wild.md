@@ -1,0 +1,41 @@
+---
+title: "wild"
+type: "word"
+lemma: "wild"
+meaning: "wild"
+pos: "adjective"
+level: "A2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "main"
+id: "B3143"
+goethe_level: "B1"
+netzwerk: "A2 K12 1b"
+freq_rank: 906
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# wild
+
+**Meaning:** wild
+**Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das ist ein wilder Fluss.
+> *That is a wild river.*
+
+**Collocations**
+- wilde Tiere
+- ein wilder Fluss
+- wild wachsen
+- wild campen
+
+**Related:** [[Fluss]] · [[wachsen]] · [[campen]]
+
+**Source:** Netzwerk neu A2 K12 1b (Gute Unterhaltung!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

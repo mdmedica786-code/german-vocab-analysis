@@ -1,0 +1,33 @@
+---
+title: "Zauber"
+type: "word"
+aliases: ["der Zauber"]
+lemma: "Zauber"
+meaning: "magic; spell"
+pos: "noun"
+article: "der"
+plural: "–"
+level: "C1"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B5953"
+freq_rank: 3612
+skip: false
+tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Zauber
+
+**Meaning:** magic; spell
+**Plural:** –
+**Level:** C1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Zauber des Abends war vorbei.
+> *The magic of the evening was over.*
+<!-- bank:end -->
+
+## My notes
+

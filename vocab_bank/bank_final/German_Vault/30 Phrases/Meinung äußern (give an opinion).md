@@ -1,0 +1,406 @@
+---
+title: "Meinung äußern (give an opinion)"
+type: "phrase-group"
+count: 84
+levels: ["A2 (6)", "B1 (28)", "B2 (26)", "C1 (24)"]
+tags: ["phrase", "moc"]
+---
+<!-- bank:start -->
+# Meinung äußern (give an opinion)
+
+84 phrases. Back to [[MOC Phrases]]
+
+## A2
+
+- **am liebsten** — best of all
+  - Ich esse am liebsten Nudeln. *(I like eating pasta best of all.)*
+  - Grammar: Superlativ von „gern“
+  - Variants: am meisten | besonders gern
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich denke, es ist ...** — I think it is ...
+  - Ich denke, es ist zu spät. *(I think it is too late.)*
+  - Grammar: Hauptsatz ohne dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich finde, dass ...** — I think that ...
+  - Ich finde, dass der Film zu lang war. *(I think the film was too long.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich meine, dass | meiner Meinung nach
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube, das ist ...** — I think that is ...
+  - Ich glaube, das ist eine gute Idee. *(I think that is a good idea.)*
+  - Grammar: Hauptsatz ohne dass
+  - Variants: ich denke, das ist ... | das ist wohl ...
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube, es ist ...** — I think it is ...
+  - Ich glaube, es ist besser, wenn wir gehen. *(I think it is better if we go.)*
+  - Grammar: Hauptsatz ohne dass; Verb an Position 2
+  - Variants: ich denke, es ist ... | ich finde, es ist ...
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube, ich bin ...** — I think I am ...
+  - Ich glaube, ich bin krank. *(I think I am ill.)*
+  - Grammar: Hauptsatz ohne dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+## B1
+
+- **das glaube ich** — I believe that
+  - Er ist müde? Das glaube ich. *(He is tired? I believe that.)*
+  - Variants: das denke ich auch | stimmt wohl
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **denke ich** — I think
+  - Er hat recht, denke ich. *(He is right, I think.)*
+  - Grammar: nachgestellter Kommentar
+  - Variants: glaube ich | meine ich
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist gut, dass ...** — it is good that ...
+  - Es ist gut, dass du gekommen bist. *(It is good that you came.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist wichtig, ... zu ...** — it is important to ...
+  - Es ist wichtig, viel Wasser zu trinken. *(It is important to drink a lot of water.)*
+  - Grammar: zu + Infinitiv oder dass-Satz
+  - Variants: es ist wichtig, dass | man sollte unbedingt ...
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist wichtig, dass ...** — it is important that ...
+  - Es ist wichtig, dass du die Tabletten regelmäßig nimmst. *(It is important that you take the tablets regularly.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist wichtig, dass ...** — it is important that ...
+  - Es ist wichtig, dass du ausreichend schläfst. *(It is important that you sleep enough.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist wichtig, dass ...** — it is important that ...
+  - Es ist wichtig, dass Sie viel trinken. *(It is important that you drink a lot.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **finde ich** — I think; in my view
+  - Das ist keine gute Idee, finde ich. *(That is not a good idea, I think.)*
+  - Grammar: nachgestellter Kommentar
+  - Variants: meine ich | denke ich
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **gedacht, dass ...** — thought that ...
+  - Ich habe gedacht, dass du schon schläfst. *(I thought that you were already asleep.)*
+  - Grammar: Partizip II von „denken“
+  - Variants: geglaubt, dass | angenommen, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **glaube ich** — I think
+  - Er ist schon weg, glaube ich. *(He has already left, I think.)*
+  - Grammar: nachgestellter Kommentar
+  - Variants: denke ich | meine ich
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **glauben, dass ...** — to believe that ...
+  - Viele Leute glauben, dass Zucker süchtig macht. *(Many people believe that sugar is addictive.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: meinen, dass | denken, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich denke nicht, dass ...** — I don't think that ...
+  - Ich denke nicht, dass das nötig ist. *(I don't think that is necessary.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich denke, dass ...** — I think that ...
+  - Ich denke, dass wir früher losfahren sollten. *(I think we should set off earlier.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich glaube, dass | ich meine, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich denke, dass ...** — I think that ...
+  - Ich denke, dass das eine gute Idee ist. *(I think that is a good idea.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich denke, dass ...** — I think that ...
+  - Ich denke, dass das richtig ist. *(I think that this is right.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube nicht, dass ...** — I don't think that ...
+  - Ich glaube nicht, dass du recht hast. *(I don't think you're right.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube nicht, dass ...** — I don't think that ...
+  - Ich glaube nicht, dass das stimmt. *(I don't think that's true.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube, dass ...** — I think that ...
+  - Ich glaube, dass er morgen kommt. *(I think he is coming tomorrow.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich denke, dass | ich meine, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube, dass ...** — I think that ...
+  - Ich glaube, dass es bald regnet. *(I think it will rain soon.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich glaube, dass ...** — I believe that ...
+  - Ich glaube, dass die Idee gut ist. *(I believe that the idea is good.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich habe das Gefühl, dass ...** — I have the feeling that ...
+  - Ich habe das Gefühl, dass er etwas verheimlicht. *(I have the feeling that he is hiding something.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: mir scheint, dass | ich habe den Eindruck, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich habe das Gefühl, dass ...** — I have the feeling that ...
+  - Ich habe das Gefühl, dass mir etwas fehlt. *(I have the feeling that something is missing.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich habe das Gefühl, dass ...** — I have the feeling that ...
+  - Ich habe das Gefühl, dass es heute regnet. *(I have the feeling that it will rain today.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich meine, dass ...** — I mean / I think that ...
+  - Ich meine, dass das ein Fehler war. *(I think that was a mistake.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich finde, dass | ich denke, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ist es wichtig, dass ...?** — is it important that ...?
+  - Ist es wichtig, dass ich nüchtern komme? *(Is it important that I come on an empty stomach?)*
+  - Grammar: Frage: Verb an Position 1
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **meiner Meinung nach** — in my opinion
+  - Meiner Meinung nach ist der Plan gut. *(In my opinion the plan is good.)*
+  - Grammar: feste Wendung im Dativ
+  - Variants: ich finde | aus meiner Sicht
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **wichtig ist ...** — what is important is ...
+  - Wichtig ist vor allem, dass du gesund bleibst. *(What matters most is that you stay healthy.)*
+  - Grammar: Betonung am Satzanfang
+  - Variants: entscheidend ist ... | das Wichtigste ist ...
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **wichtig ist, dass ...** — what matters is that ...
+  - Wichtig ist, dass du genug schläfst. *(What matters is that you get enough sleep.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: es ist wichtig, dass | entscheidend ist, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+## B2
+
+- **aus der Sicht + Gen.** — from the perspective of ...
+  - Aus der Sicht des Patienten ist das schwer zu verstehen. *(From the patient's point of view this is hard to understand.)*
+  - Grammar: aus der Sicht + Gen.
+  - Variants: aus Sicht von | meiner Meinung nach
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **das Gefühl, dass ...** — the feeling that ...
+  - Sie hatte das Gefühl, dass jemand sie beobachtete. *(She had the feeling that someone was watching her.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: der Eindruck, dass | die Ahnung, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon ausgehen, dass ...** — to assume that ...
+  - Wir können davon ausgehen, dass der Test negativ ist. *(We can assume that the test is negative.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: annehmen, dass | vermuten, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon ausgehen, dass ...** — to assume that ...
+  - Wir gehen davon aus, dass alle kommen. *(We assume that everyone will come.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **den Eindruck haben, dass ...** — to have the impression that ...
+  - Ich habe den Eindruck, dass er müde ist. *(I have the impression that he is tired.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: es scheint, dass | mir scheint, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **den Vorteil haben, dass ...** — to have the advantage that ...
+  - Das Auto hat den Vorteil, dass es wenig verbraucht. *(The car has the advantage that it uses little fuel.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: der Vorteil ist, dass | spricht dafür, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **den Vorteil haben, dass ...** — to have the advantage that ...
+  - Diese Methode hat den Vorteil, dass sie schnell geht. *(This method has the advantage that it is quick.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **der Meinung sein, dass ...** — to be of the opinion that ...
+  - Ich bin der Meinung, dass wir mehr Ärzte brauchen. *(I am of the opinion that we need more doctors.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: meinen, dass | der Ansicht sein, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **die Erfahrung gemacht haben, dass ...** — to have learned from experience that ...
+  - Ich habe die Erfahrung gemacht, dass man früh anfangen sollte. *(I have learned from experience that one should start early.)*
+  - Grammar: Erfahrung machen; dass-Satz
+  - Variants: feststellen, dass | erlebt haben, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **erkennen, dass ...** — to realise that ...
+  - Man muss erkennen, dass Rauchen schadet. *(You have to realise that smoking is harmful.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: einsehen, dass | bemerken, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **erwarten, dass ...** — to expect that ...
+  - Man kann nicht erwarten, dass alles perfekt ist. *(You can't expect everything to be perfect.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: rechnen damit, dass | annehmen, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **geht davon aus, dass ...** — assumes that ...
+  - Der Arzt geht davon aus, dass die Wunde schnell heilt. *(The doctor assumes that the wound will heal quickly.)*
+  - Grammar: 3. Person Singular; dass-Satz
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich bin überzeugt, dass ...** — I am convinced that ...
+  - Ich bin überzeugt, dass das Medikament hilft. *(I am convinced that the medication helps.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich bin sicher, dass | ich glaube fest, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich bin überzeugt, dass ...** — I am convinced that ...
+  - Ich bin überzeugt, dass er die Wahrheit sagt. *(I am convinced that he is telling the truth.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich gehe davon aus, dass ...** — I assume that ...
+  - Ich gehe davon aus, dass Sie pünktlich sind. *(I assume that you will be on time.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich halte das für ...** — I consider that to be ...
+  - Ich halte das für eine gute Idee. *(I consider that a good idea.)*
+  - Grammar: halten für + Akk.
+  - Variants: ich finde das | ich betrachte das als ...
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich hatte das Gefühl** — I had the feeling
+  - Ich hatte das Gefühl, dass er mir nicht glaubt. *(I had the feeling that he doesn't believe me.)*
+  - Grammar: Präteritum von „haben“
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ...
+  - Ich hatte das Gefühl, dass er nicht ehrlich war. *(I had the feeling that he was not honest.)*
+  - Grammar: Präteritum von „haben“; dass-Satz
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich hatte das Gefühl, dass ...** — I had the feeling that ...
+  - Ich hatte das Gefühl, dass man mich nicht ernst nimmt. *(I had the feeling that I wasn't being taken seriously.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich hatte den Eindruck, dass ...** — I had the impression that ...
+  - Ich hatte den Eindruck, dass er nervös war. *(I had the impression that he was nervous.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: mir schien, dass | ich fand, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **keinen Sinn machen** — to make no sense
+  - Das macht keinen Sinn. *(That makes no sense.)*
+  - Grammar: Anglizismus; besser: keinen Sinn haben
+  - Variants: keinen Sinn haben | sinnlos sein
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **man davon ausgehen, dass ...** — one can assume that ...
+  - Man kann davon ausgehen, dass er pünktlich kommt. *(One can assume that he will arrive on time.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **man kann sagen, dass ...** — one can say that ...
+  - Man kann sagen, dass die Prüfung gut gelaufen ist. *(One can say that the exam went well.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: es lässt sich sagen, dass | man darf sagen, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **nicht glauben, dass ...** — not to believe that ...
+  - Ich kann nicht glauben, dass er das gesagt hat. *(I can't believe that he said that.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: nicht fassen können, dass | es ist unglaublich, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **sich vorstellen, dass ...** — to imagine that ...
+  - Ich kann mir vorstellen, dass das schwer ist. *(I can imagine that this is hard.)*
+  - Grammar: sich (Dat.) vorstellen; dass-Satz
+  - Variants: annehmen, dass | sich denken, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **wir gehen davon aus, dass ...** — we assume that ...
+  - Wir gehen davon aus, dass alle Teilnehmer pünktlich sind. *(We assume that all participants will be on time.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+## C1
+
+- **aus der Perspektive + Gen.** — from the perspective of ...
+  - Aus der Perspektive eines Arztes sieht das anders aus. *(From a doctor's perspective this looks different.)*
+  - Grammar: aus der Perspektive + Gen.
+  - Variants: aus der Sicht | aus Sicht von
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **aus Sicht + Gen.** — from the point of view of ...
+  - Aus Sicht der Patienten ist die Wartezeit zu lang. *(From the patients' point of view the waiting time is too long.)*
+  - Grammar: aus Sicht + Gen.
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon ausgegangen werden, dass ...** — it can be assumed that ...
+  - Es kann davon ausgegangen werden, dass alle kommen. *(It can be assumed that everyone will come.)*
+  - Grammar: Passiv mit Modalverb
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon ausgegangen werden, dass ...** — it can be assumed that ...
+  - Es kann davon ausgegangen werden, dass der Patient gesund ist. *(It can be assumed that the patient is healthy.)*
+  - Grammar: Passiv mit Modalverb
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon ausgegangen, dass ...** — assumed that ...
+  - Wir sind davon ausgegangen, dass alle kommen. *(We assumed that everyone would come.)*
+  - Grammar: Partizip II von „ausgehen“
+  - Variants: angenommen, dass | vermutet, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon auszugehen sein, dass ...** — it is to be assumed that ...
+  - Es ist davon auszugehen, dass die Zahlen steigen. *(It is to be assumed that the numbers will rise.)*
+  - Grammar: sein + zu + Infinitiv = Passiversatz
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon auszugehen, dass ...** — to be assumed that ...
+  - Es ist davon auszugehen, dass die Zahlen steigen. *(It can be assumed that the numbers will rise.)*
+  - Grammar: sein + zu + Infinitiv = Passiversatz
+  - Variants: man kann annehmen, dass | vermutlich
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **davon auszugehen, dass ...** — to assume that ...
+  - Wir haben allen Grund, davon auszugehen, dass er kommt. *(We have every reason to assume that he is coming.)*
+  - Grammar: zu + Infinitiv
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **der Ansicht sein, dass ...** — to be of the view that ...
+  - Ich bin der Ansicht, dass wir mehr Personal brauchen. *(I am of the view that we need more staff.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: der Meinung sein, dass | meinen, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **die Annahme, dass ...** — the assumption that ...
+  - Wir gehen von der Annahme aus, dass der Test korrekt ist. *(We start from the assumption that the test is correct.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: die Vermutung, dass | die Erwartung, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist anzunehmen, dass ...** — it is to be assumed that ...
+  - Es ist anzunehmen, dass die Preise weiter steigen. *(It is to be assumed that prices will continue to rise.)*
+  - Grammar: sein + zu + Infinitiv = Passiversatz
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es ist zu erwarten, dass ...** — it is to be expected that ...
+  - Es ist zu erwarten, dass die Zahlen steigen. *(It is to be expected that the numbers will rise.)*
+  - Grammar: sein + zu + Infinitiv = Passiversatz
+  - Variants: man muss damit rechnen, dass | vermutlich
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es lässt sich sagen, dass ...** — it can be said that ...
+  - Es lässt sich sagen, dass die Behandlung erfolgreich war. *(It can be said that the treatment was successful.)*
+  - Grammar: sich lassen + Infinitiv = Passiv mit „können“
+  - Variants: man kann sagen, dass | man darf sagen, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es nicht verwunderlich sein, dass ...** — to be unsurprising that ...
+  - Es ist nicht verwunderlich, dass er müde ist. *(It is not surprising that he is tired.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: kein Wunder, dass | es überrascht nicht, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **es wird davon ausgegangen, dass ...** — it is assumed that ...
+  - Es wird davon ausgegangen, dass alle Daten stimmen. *(It is assumed that all the data are correct.)*
+  - Grammar: Passiv: werden + Partizip II
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **ich ging davon aus, dass ...** — I assumed that ...
+  - Ich ging davon aus, dass du es weißt. *(I assumed that you knew.)*
+  - Grammar: Präteritum; dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **in der Annahme, dass ...** — on the assumption that ...
+  - Ich bin in der Annahme gekommen, dass das Treffen heute ist. *(I came on the assumption that the meeting is today.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: in der Erwartung, dass | im Glauben, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **in Frage gestellt** — called into question
+  - Die Ergebnisse wurden in Frage gestellt. *(The results were called into question.)*
+  - Grammar: Partizip II von „in Frage stellen“
+  - Variants: angezweifelt | bezweifelt
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **von Bedeutung** — of importance
+  - Diese Information ist von Bedeutung für die Therapie. *(This information is of importance for the therapy.)*
+  - Grammar: von Bedeutung sein
+  - Variants: wichtig | relevant
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **von großer Bedeutung** — of great importance
+  - Diese Untersuchung ist von großer Bedeutung. *(This examination is of great importance.)*
+  - Variants: sehr wichtig | entscheidend
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **zu dem Schluss kommen, dass ...** — to come to the conclusion that ...
+  - Die Ärztin kam zu dem Schluss, dass eine Operation nötig ist. *(The doctor came to the conclusion that an operation is necessary.)*
+  - Grammar: kommen zu + Dat.; dass-Satz
+  - Variants: schlussfolgern, dass | feststellen, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **zu dem Schluss kommen, dass ...** — to come to the conclusion that ...
+  - Die Ärzte kamen zu dem Schluss, dass eine Operation nötig ist. *(The doctors came to the conclusion that an operation is necessary.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **zu dem Schluss kommen, dass ...** — to come to the conclusion that ...
+  - Er kam zu dem Schluss, dass es keinen Sinn hat. *(He came to the conclusion that it makes no sense.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+- **zu der Annahme kommen, dass ...** — to come to assume that ...
+  - Wir kamen zu der Annahme, dass der Fehler im System liegt. *(We came to assume that the error lies in the system.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: annehmen, dass | vermuten, dass
+  - Exam: B1 Schreiben Aufgabe 2 (Forumsbeitrag mit Meinung) · B1 Sprechen Aufgabe 2 (Thema präsentieren) und Aufgabe 3 · B2 Diskussion und Forumsbeitrag
+<!-- bank:end -->
+
+## My notes
+

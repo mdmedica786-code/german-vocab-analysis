@@ -1,0 +1,37 @@
+---
+title: "Konto"
+type: "word"
+aliases: ["das Konto", "Konten"]
+lemma: "Konto"
+meaning: "account"
+pos: "noun"
+article: "das"
+plural: "Konten"
+level: "A1"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B1098"
+goethe_level: "A1"
+netzwerk: "A1 K7 5a ÜB"
+freq_rank: 3774
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Konto
+
+**Meaning:** account
+**Plural:** Konten
+**Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Geld überweisen wir am ersten März auf Ihr Konto.
+> *We will transfer the money to your account on 1 March.*
+
+**Source:** Netzwerk neu A1 K7 5a ÜB (Arbeitsalltag) · Goethe word list A1
+<!-- bank:end -->
+
+## My notes
+

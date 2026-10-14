@@ -1,0 +1,1344 @@
+---
+title: "T16 Allgemein (Funktionswörter, abstrakter Wortschatz)"
+type: "moc"
+tags: ["moc", "topic/T16"]
+---
+<!-- bank:start -->
+# T16 Allgemein (Funktionswörter, abstrakter Wortschatz)
+
+Map of content. 960 words in the main bank, 347 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (278)
+
+- [[aber]] — but
+- [[achten]] — to pay attention to; to respect
+- [[aktuell]] — current
+- [[alle]] — all; every
+- [[alles]] — everything
+- [[Alltag]] — everyday life
+- [[als]] — as
+- [[also]] — so
+- [[am]] — at the; on the (an dem)
+- [[an]] — at
+- [[an sein]] — to be on
+- [[andere]] — other; different
+- [[anders]] — different
+- [[annehmen]] — to accept
+- [[anstrengend]] — exhausting
+- [[Art]] — type; kind; way
+- [[auch]] — also; too
+- [[auf]] — on; onto; up
+- [[auf sein]] — to be open
+- [[aufmachen]] — to open
+- [[aufpassen]] — to pay attention
+- [[aufstellen]] — to set up; to put up; to draw up
+- [[aus]] — out (of)
+- [[aus sein]] — to be off
+- [[außerhalb]] — outside of
+- [[bei]] — at
+- [[beide]] — both
+- [[bekannt]] — well-known; famous
+- [[bekommen]] — to get
+- [[benutzen]] — to use
+- [[besondere]] — special
+- [[besonders]] — special
+- [[besser]] — better
+- [[bestimmt]] — certain; definite
+- [[besuchen]] — to visit
+- [[bilden]] — to form; to educate
+- [[bis]] — until
+- [[blau]] — blue
+- [[bleiben]] — to stay
+- [[brauchen]] — to need
+- [[braun]] — brown
+- [[bringen]] — to bring
+- [[Co]] — and the like (Co.)
+- [[da]] — there
+- [[da sein]] — to be there; to be present
+- [[dank (preposition)]] — thanks to
+- [[darauf]] — on it; on that; after that
+- [[das]] — the (definite article, neuter)
+- [[dein]] — your
+- [[dem]] — the
+- [[den]] — the (definite article, masculine accusative)
+- [[denn]] — then (here: modal particle)
+- [[der]] — the (definite article, masculine)
+- [[dich]] — you
+- [[die]] — the (definite article, feminine and plural)
+- [[diese]] — this
+- [[Ding]] — thing
+- [[dir]] — you (dat.)
+- [[direkt]] — direct
+- [[doch]] — yes (to a negative question); but; after all
+- [[drücken]] — to press; to push; to squeeze
+- [[du]] — you
+- [[durch]] — through
+- [[dürfen]] — to be allowed to
+- [[ebenso]] — also
+- [[echt]] — real; really (colloq.)
+- [[eigene]] — own
+- [[eigentlich]] — actually
+- [[ein]] — a; an; one (indefinite article)
+- [[einfach]] — easy
+- [[entdecken]] — to find
+- [[Entscheidung]] — decision
+- [[er]] — he
+- [[Ereignis]] — event; incident
+- [[Ergebnis]] — result
+- [[es]] — it
+- [[etwas]] — something; a bit
+- [[euch]] — you
+- [[euer]] — your
+- [[Extra-]] — extra
+- [[falsch]] — wrong
+- [[Farbe]] — colour
+- [[fehlen]] — to be missing; to be absent; to miss
+- [[fehlend]] — missing
+- [[fertig]] — finished; ready
+- [[finden]] — to find
+- [[Form]] — form; shape; mould
+- [[frei]] — free
+- [[fremd]] — foreign; strange; unfamiliar
+- [[führen]] — to lead; to conduct; to run
+- [[für]] — for
+- [[ganz]] — quite; entirely; whole
+- [[gar]] — at all; done (cooked)
+- [[geben]] — to give; (es gibt) there is/are
+- [[gefährlich]] — dangerous
+- [[gegen]] — against
+- [[gehören]] — to belong
+- [[gelb]] — yellow
+- [[genau]] — exactly
+- [[genug]] — enough
+- [[gleichfalls]] — likewise
+- [[grau]] — gray
+- [[Grund]] — reason
+- [[Gruppe]] — group
+- [[grün]] — green
+- [[gut (adjective)]] — good
+- [[haben]] — to have
+- [[halten]] — to hold; to stop; to keep
+- [[hier]] — here
+- [[hoffentlich]] — hopefully
+- [[holen]] — to get
+- [[Holz]] — wood
+- [[ich]] — I
+- [[ideal]] — ideal
+- [[Idee]] — idea
+- [[ihn]] — him
+- [[Ihnen]] — you (formal, dat.)
+- [[Ihr]] — your (formal)
+- [[ihr (determiner)]] — you (pl.); her; their
+- [[in]] — in; into
+- [[individuell]] — individual
+- [[insgesamt]] — all together
+- [[international]] — international
+- [[jemand]] — someone
+- [[kaputt]] — broken
+- [[Karte]] — card; ticket; map
+- [[kein]] — no
+- [[klar]] — clear; of course (colloq.)
+- [[kommen]] — to come; to come from
+- [[kreisen]] — to circle
+- [[kriegen]] — to get
+- [[kurz]] — short
+- [[können]] — to be able to
+- [[langsam]] — slow
+- [[Leben]] — life
+- [[leer]] — empty
+- [[legen]] — to lay; to put (down)
+- [[leicht]] — easy; light
+- [[Lieblingsfarbe]] — favourite colour
+- [[lila]] — purple
+- [[Liste]] — list
+- [[los sein]] — to be up
+- [[Lösung]] — solution
+- [[machen]] — to make; to do
+- [[mal (particle)]] — once; just (modal particle)
+- [[man]] — one
+- [[mehrere]] — several
+- [[mein]] — my
+- [[Methode]] — method
+- [[mich]] — me
+- [[mit]] — with
+- [[möchten]] — to want
+- [[möglich]] — possible
+- [[Möglichkeit]] — possibility
+- [[müssen]] — to have to (do something)
+- [[nach]] — to; after; according to
+- [[Nachteil]] — disadvantage
+- [[natürlich]] — of course
+- [[neu]] — new
+- [[nicht]] — not
+- [[nichts]] — nothing
+- [[noch]] — yet, even, here: any
+- [[normal]] — normal
+- [[nur]] — only
+- [[oder]] — or
+- [[ohne]] — without
+- [[okay]] — okay
+- [[orange (adjective)]] — orange
+- [[ordnen]] — to arrange
+- [[Ordnung]] — order; tidiness
+- [[orientieren]] — to orient
+- [[originell]] — original
+- [[passen]] — to fit; to match; to suit
+- [[passend]] — matching
+- [[passieren]] — to happen
+- [[persönlich]] — personal; personally
+- [[Plan]] — plan
+- [[planen]] — to plan
+- [[Position]] — position
+- [[praktisch]] — practical
+- [[pro]] — per
+- [[Problem]] — problem
+- [[Regel]] — rule
+- [[richtig]] — correct; right
+- [[rot]] — red
+- [[rund]] — round; around
+- [[Sache]] — thing
+- [[schaffen]] — to manage
+- [[schlecht]] — bad
+- [[schließen]] — to close; to conclude; to lock
+- [[schwarz]] — black
+- [[schwer]] — difficult; heavy; severe
+- [[sehen]] — to see
+- [[sehr]] — very
+- [[sein]] — to be
+- [[Seite]] — page
+- [[selbst]] — oneself
+- [[sich]] — oneself
+- [[sicher]] — sure; safe; certain
+- [[Sie]] — you (formal)
+- [[sie (pronoun)]] — she
+- [[Situation]] — situation
+- [[sitzen]] — to sit
+- [[so]] — so
+- [[sollen]] — be supposed to
+- [[sonst]] — otherwise
+- [[Stapel]] — pile; stack; deck
+- [[stattfinden]] — to take place
+- [[stehen]] — to stand
+- [[stellen]] — to put (upright); to set; to ask (a question)
+- [[stimmen]] — to be correct; to tune; to vote
+- [[suchen]] — to search; to look for
+- [[Symbol]] — symbol
+- [[Tabelle]] — table, chart
+- [[tatsächlich]] — actually
+- [[tauschen]] — to swap; to exchange
+- [[Technik]] — technology
+- [[Teil]] — part
+- [[total]] — totally
+- [[treffen (verb)]] — to meet; to hit; to make (a decision)
+- [[tun]] — to do
+- [[typisch]] — typical
+- [[um]] — at
+- [[und]] — and
+- [[uns]] — us; (bei uns) at our place
+- [[unser]] — our
+- [[Variation]] — variation
+- [[variieren]] — to vary
+- [[verbinden]] — to connect; to link; to bandage (med.)
+- [[verschieden]] — different
+- [[versuchen]] — to attempt
+- [[verwenden]] — to use
+- [[vielleicht]] — maybe
+- [[voll]] — full
+- [[von]] — by
+- [[vor]] — before
+- [[vorbereiten]] — to prepare
+- [[Vorsicht]] — caution; care
+- [[Vorteil]] — advantage
+- [[wann]] — when
+- [[warten]] — to wait
+- [[warum]] — why
+- [[was]] — what?
+- [[wechseln]] — to change; to swap; to exchange
+- [[wecken]] — to wake up
+- [[weg sein]] — to be gone
+- [[Weise]] — manner
+- [[weiter]] — further; on; onward
+- [[weitere]] — further
+- [[weiß]] — white
+- [[welche]] — which; some
+- [[wem]] — whom, who
+- [[wen]] — whom
+- [[wenig]] — little; few
+- [[wer]] — who?
+- [[werden]] — to become; will (future auxiliary)
+- [[wichtig]] — important
+- [[wie]] — how; like; as
+- [[wir]] — we
+- [[wirklich]] — really
+- [[wo]] — where
+- [[woher]] — from where
+- [[wohin]] — where to
+- [[wollen]] — to want (something)
+- [[zeigen]] — to show; to point
+- [[Zettel]] — slip of paper; note
+- [[ziehen]] — to pull; to draw; (ist) to move
+- [[zu]] — to; at; too
+- [[zu sein]] — to be closed
+- [[Zufall]] — coincidence
+- [[zumachen]] — to close
+- [[zusammen]] — together
+- [[zusammengehören]] — to belong together; to fit together
+- [[zusammenpassen]] — to match; to go together
+- [[ähnlich]] — similar
+- [[öffnen]] — to open
+- [[über]] — about; over; above
+- [[überall]] — everywhere
+
+### A2 (178)
+
+- [[Aktion]] — campaign; action
+- [[allgemein]] — general
+- [[Apparat]] — device; apparatus
+- [[auffallen]] — to stand out
+- [[aufnehmen]] — to record
+- [[ausfallen]] — to be cancelled
+- [[auskennen]] — to know one's way around
+- [[ausprobieren]] — to try
+- [[auswählen]] — to choose
+- [[außer]] — except
+- [[außerdem]] — besides; in addition
+- [[beachten]] — to consider
+- [[beenden]] — to finish
+- [[behalten]] — to keep
+- [[Beste]] — best
+- [[bestimmen]] — to determine; to decide
+- [[Blatt]] — sheet of paper
+- [[blicken]] — to look; to glance; (colloquial) to get it
+- [[bunt]] — colourful
+- [[Chance]] — opportunity
+- [[checken]] — to check
+- [[Checkliste]] — checklist
+- [[dabei haben]] — to have sth on oneself
+- [[dabei sein]] — to be there; to be included; to take part
+- [[dafür]] — for it/that; in return; instead
+- [[dahinter]] — behind it
+- [[damit]] — with that
+- [[dazu]] — in addition to (that)
+- [[dazukommen]] — to be added
+- [[deshalb]] — therefore
+- [[Detail]] — detail
+- [[dorthin]] — there
+- [[dringend]] — urgent
+- [[drinnen]] — inside; indoors
+- [[drüben]] — over there
+- [[dunkel-]] — dark
+- [[dünn]] — thin
+- [[effektiv]] — effective
+- [[eigen]] — own
+- [[einige]] — some
+- [[einmalig]] — unique
+- [[einzel]] — single; individual (prefix)
+- [[entwickeln]] — to develop
+- [[Erfolg]] — success
+- [[erfolgreich]] — successful
+- [[erforderlich]] — required
+- [[erkennen]] — to recognise; to realise
+- [[erleben]] — to experience
+- [[erledigen]] — to take care of
+- [[erwarten]] — to expect
+- [[eröffnen]] — to open
+- [[existieren]] — to exist
+- [[Experte]] — expert (m)
+- [[fallen]] — to fall
+- [[fast]] — almost
+- [[fertig sein]] — to be finished; to be ready
+- [[fest (adjective)]] — fixed; firm; solid
+- [[Folge]] — consequence
+- [[folgen]] — to follow
+- [[folgend]] — following
+- [[freimachen]] — to clear; to free up
+- [[freiwillig]] — voluntarily
+- [[funktionieren]] — to work
+- [[füllen]] — to fill
+- [[Gegenstand]] — object; item; subject
+- [[gemeinsam]] — together
+- [[genauso]] — just as
+- [[gestalten]] — to design; to shape; to organise
+- [[gewöhnen]] — to get used to
+- [[Grafik]] — graphic design; graphics
+- [[hart]] — hard; tough; harsh
+- [[Hauptsache]] — main point
+- [[hell-]] — light
+- [[heraus]] — out (towards the speaker)
+- [[herein]] — in; come in
+- [[hergeben]] — to give away
+- [[Hintergrund]] — background
+- [[hängen]] — to hang; to be attached
+- [[Inhalt]] — content
+- [[insbesondere]] — especially
+- [[intensiv]] — intense
+- [[jeder]] — every; each; everyone
+- [[Katastrophe]] — catastrophe
+- [[Kategorie]] — category
+- [[klappen]] — to work out; to go well (colloquial)
+- [[Kombination]] — combination
+- [[komplett]] — complete
+- [[kompliziert]] — complicated
+- [[Konsequenz]] — consequence
+- [[Kontrast]] — contrast
+- [[Konzept]] — concept
+- [[lassen]] — to leave; to let
+- [[lebenslang]] — lifelong
+- [[Letzte]] — last one; last person
+- [[Lücke]] — gap
+- [[manch]] — some; many a
+- [[manche]] — some; many a
+- [[Material]] — material
+- [[meist-]] — most
+- [[mitten]] — in the middle of
+- [[modern]] — modern
+- [[nass]] — wet
+- [[nebeneinander]] — next to each other
+- [[niemand]] — nobody
+- [[nirgends]] — nowhere
+- [[notwendig]] — necessary
+- [[nun]] — now
+- [[nutzen]] — to use; to take advantage of
+- [[Nächste]] — next one
+- [[nämlich]] — namely; the thing is; you see
+- [[nötig]] — necessary
+- [[nützlich]] — useful
+- [[ob]] — if; whether
+- [[organisieren]] — to organise
+- [[per]] — via
+- [[privat]] — private
+- [[problemlos]] — unproblematic
+- [[prüfen]] — to check
+- [[real]] — real
+- [[realistisch]] — realistic
+- [[Realität]] — reality
+- [[Reihe]] — row
+- [[Risiko]] — risk
+- [[rosa]] — pink
+- [[Schritt]] — step
+- [[schwierig]] — difficult
+- [[setzen]] — to sit down; to put; to set
+- [[Sicherheit]] — security; safety; certainty
+- [[Sinn]] — sense; meaning; point
+- [[sinnvoll]] — sensible
+- [[sogar]] — even
+- [[sowieso]] — anyway
+- [[stark]] — strong; (adv.) heavily, hard
+- [[still]] — silent
+- [[teilen]] — to share
+- [[tief]] — deep
+- [[trocken]] — dry
+- [[trotzdem]] — still
+- [[unbedingt]] — absolutely
+- [[unendlich]] — infinite; endless
+- [[unnötig]] — unnecessary
+- [[unpraktisch]] — impractical
+- [[Unterschied]] — difference
+- [[unterschiedlich]] — different
+- [[unwichtig]] — unimportant
+- [[verbessern]] — to improve
+- [[Vergleich]] — comparison
+- [[verlieren]] — to lose
+- [[verstärken]] — to reinforce
+- [[Verwendung]] — usage
+- [[verzichten]] — to give up sth
+- [[verändern]] — to change
+- [[Veränderung]] — change
+- [[voneinander]] — from each other
+- [[vorkommen]] — to happen
+- [[wahr]] — true
+- [[wahrscheinlich]] — probably
+- [[weg (adverb)]] — away; gone
+- [[wegen]] — because of
+- [[weich]] — soft
+- [[weiterwissen]] — to know what to do next
+- [[welcher]] — which
+- [[weltweit]] — worldwide
+- [[wenigstens]] — at least
+- [[wofür]] — what for; for what
+- [[wohl]] — probably; well; comfortable
+- [[womit]] — with what
+- [[worauf]] — what + prep.
+- [[worum]] — about what
+- [[worüber]] — about
+- [[wovon]] — of what; what ... about
+- [[Wunder]] — miracle
+- [[ziemlich]] — quite
+- [[zumindest]] — at least
+- [[zurechtkommen]] — to manage
+- [[ändern]] — to change
+- [[überhaupt]] — at all
+- [[übrigens]] — by the way
+
+### B1 (380)
+
+- [[Abbildung]] — illustration; figure; picture
+- [[abhängen]] — to be dependent on
+- [[abhängig]] — dependent
+- [[Absatz]] — paragraph; heel; sales
+- [[abschließend]] — finally; in conclusion
+- [[Absicht]] — intention
+- [[absolut]] — absolutely
+- [[Achtung!]] — attention; respect
+- [[akzeptieren]] — to accept
+- [[allerdings]] — however; though; admittedly
+- [[alltäglich]] — ordinary
+- [[alternativ]] — alternative
+- [[Alternative]] — alternative
+- [[Analyse]] — analysis
+- [[andererseits]] — on the other hand
+- [[anhand]] — on the basis of
+- [[Anlage]] — attachment; facility; investment
+- [[Anlass]] — reason; occasion
+- [[Anliegen]] — concern; request
+- [[anpassen]] — to adjust
+- [[Ansatz]] — approach; starting point
+- [[anschließen]] — to connect; to attach
+- [[anstatt]] — instead of
+- [[anstrengen]] — to tire; to make an effort
+- [[anwenden]] — to use
+- [[Anwendung]] — application; use
+- [[Aspekt]] — aspect
+- [[aufbauen]] — to build
+- [[aufgrund]] — because of; due to
+- [[aufhalten]] — to hold open
+- [[aufheben]] — to pick up; to keep; to cancel
+- [[auflösen]] — to dissolve; to resolve
+- [[aufteilen]] — to divide
+- [[aufwändig]] — elaborate; costly; laborious
+- [[auseinander]] — apart
+- [[auslösen]] — to trigger; to cause
+- [[Ausnahme]] — exception
+- [[ausreichen]] — to be enough; to last
+- [[ausreichend]] — sufficient
+- [[ausschließen]] — to rule out; to exclude
+- [[ausschließlich]] — exclusively
+- [[aussuchen]] — to choose
+- [[Auswahl]] — selection
+- [[autonom]] — autonomous
+- [[Außenseite]] — outside
+- [[basieren]] — to be based on
+- [[Basis]] — basis; base
+- [[Baustein]] — building block
+- [[Bedienungsanleitung]] — instruction manual
+- [[Bedingung]] — condition
+- [[beeinflussen]] — to influence
+- [[begrenzt]] — limited
+- [[behindern]] — to hinder; to obstruct
+- [[beides]] — both
+- [[beinahe]] — almost
+- [[bemerken]] — to notice
+- [[bemühen]] — to make an effort; to try hard
+- [[benötigen]] — to need
+- [[benötigt]] — needed; required
+- [[beobachten]] — to observe
+- [[berücksichtigen]] — to consider
+- [[beschränken]] — to limit; to restrict
+- [[beschädigen]] — to damage
+- [[beschädigt]] — damaged
+- [[besetzen]] — to occupy; to fill (a post)
+- [[Besonderheit]] — special feature; peculiarity
+- [[beteiligen]] — to participate
+- [[betreffen]] — to concern
+- [[beziehungsweise]] — or (rather)
+- [[bloß]] — only; just; merely
+- [[brennen]] — to burn
+- [[dabei]] — there; with it; at the same time
+- [[dabeihaben]] — to have sth with oneself
+- [[dadurch]] — through it; thereby; as a result
+- [[dagegen]] — against
+- [[daher]] — therefore; from there
+- [[dahin]] — there
+- [[daran]] — on it; at it; of it
+- [[daraus]] — out of it; from that
+- [[darin]] — in it; in there; in that
+- [[darum]] — that's why
+- [[darunter]] — underneath; among them
+- [[darüber]] — about that; over it; above it
+- [[davon]] — of it; of that; from it
+- [[davor]] — before that
+- [[dennoch]] — nevertheless; still
+- [[derselbe]] — the same
+- [[desto]] — the ... (the more ...)
+- [[deswegen]] — therefore
+- [[dicht]] — tight; dense; sealed
+- [[dienen]] — to serve; to be used
+- [[dran]] — on it (colloquial); (it is) one's turn
+- [[drehen]] — to turn
+- [[drin]] — inside; in it
+- [[drin sein]] — to be inside; to be possible (colloquial)
+- [[Druck]] — pressure; print
+- [[durcheinander]] — disorganized
+- [[durchführen]] — to carry out; to conduct
+- [[durchsetzen]] — to push through, to force
+- [[eckig]] — angular; square
+- [[effizient]] — efficient
+- [[eher]] — rather
+- [[eignen]] — to be suitable for
+- [[einander]] — each other
+- [[eindeutig]] — clear
+- [[einerseits]] — on the one hand
+- [[Einfluss]] — influence
+- [[eingehen]] — to respond to; to go into
+- [[einheitlich]] — uniform; standardised
+- [[einigermaßen]] — fairly; more or less
+- [[einschließlich]] — including
+- [[Einschränkung]] — limitation
+- [[einsetzen]] — to insert; to use; to appoint
+- [[Einzelheit]] — detail
+- [[einzig]] — only; sole; single
+- [[Element]] — element
+- [[endgültig]] — final
+- [[entfallen]] — to be omitted; to be waived; to fall to
+- [[entfernen]] — to remove
+- [[entgegen]] — contrary to; towards
+- [[enthalten]] — to contain
+- [[entlang]] — along
+- [[entsprechen]] — to correspond
+- [[entsprechend]] — corresponding; appropriate; accordingly
+- [[entstehen]] — to arise; to come into being; to be built
+- [[entweder]] — either (entweder ... oder)
+- [[Entwicklung]] — development
+- [[entzwei]] — in two
+- [[ereignen]] — to happen
+- [[erfordern]] — to require; to demand
+- [[erfüllen]] — to fulfil; to meet; to fill
+- [[ergreifen]] — to seize; to take (measures)
+- [[erhalten sein]] — to be preserved
+- [[erheben]] — to raise; to levy; to collect (data)
+- [[erstellen]] — to create
+- [[eventuell]] — possibly; perhaps
+- [[exakt]] — exact
+- [[extra]] — extra
+- [[extrem]] — extreme
+- [[Faktor]] — factor
+- [[Fall]] — case; instance; fall
+- [[falls]] — in case
+- [[farbig]] — coloured
+- [[ferner]] — furthermore; in addition
+- [[festhalten]] — to hold on; to record
+- [[festlegen]] — to determine; to commit oneself
+- [[feststehen]] — to be fixed; to be certain
+- [[feucht]] — humid
+- [[Feuerzeug]] — lighter
+- [[flach]] — flat; shallow
+- [[Fleck]] — stain; spot
+- [[fordern]] — to demand; to call for
+- [[Fortschritt]] — progress
+- [[fortsetzen]] — to continue
+- [[Funktion]] — function
+- [[garantieren]] — to guarantee
+- [[gebrauchen]] — to use; to need
+- [[Gebrauchsanweisung]] — instructions
+- [[geeignet]] — suitable
+- [[Gefahr]] — danger
+- [[Gegensatz]] — opposite
+- [[geheim]] — secret
+- [[Geheimnis]] — secret
+- [[Gelegenheit]] — opportunity
+- [[gelingen]] — to succeed
+- [[gemäß]] — according to
+- [[genügen]] — to suffice
+- [[geraten]] — to get (into); to end up
+- [[gering]] — small; slight; low
+- [[gesamt]] — whole; entire; total
+- [[geschaffen]] — created; made (participle of schaffen)
+- [[geschehen]] — to happen
+- [[Gewohnheit]] — habit
+- [[gewohnt]] — usual
+- [[greifen]] — to grab; to reach; to seize
+- [[Grundlage]] — basis; foundation
+- [[grundsätzlich]] — in principle; fundamentally
+- [[gründlich]] — thorough
+- [[gucken]] — to look
+- [[halt (adverb)]] — just; simply (modal particle)
+- [[handeln]] — to act; to trade; (handeln von) to be about
+- [[Hauptgrund]] — main reason
+- [[Hauptproblem]] — main problem
+- [[heben]] — to lift; to raise
+- [[heim (adverb)]] — home; homewards
+- [[Herausforderung]] — challenge
+- [[herunterfallen]] — to fall
+- [[hierbei]] — in doing so; hereby
+- [[hierher]] — here
+- [[hierzu]] — on this; to this
+- [[hindern]] — to hinder
+- [[hingegen]] — on the other hand; whereas
+- [[hinsehen]] — to look
+- [[hinsichtlich]] — with regard to
+- [[Hürde]] — hurdle; obstacle
+- [[ignorieren]] — to ignore
+- [[immerhin]] — at least; after all
+- [[indem]] — by (doing sth.); while
+- [[innen]] — inside
+- [[Intensität]] — intensity
+- [[irgendein]] — some
+- [[irgendeins]] — some
+- [[irgendetwas]] — something
+- [[jedenfalls]] — in any case; at any rate
+- [[jedoch]] — however
+- [[jeweilig]] — respective
+- [[kaputtgehen]] — to break
+- [[kaputtmachen]] — to break
+- [[Klebefilm]] — adhesive tape
+- [[komplex]] — complex
+- [[konkret]] — concrete
+- [[Konzentration]] — concentration; (substance) level
+- [[Konzeption]] — concept; conception
+- [[korrekt]] — correct
+- [[Kreis]] — circle; district
+- [[krumm]] — crooked
+- [[Kunststoff]] — plastic
+- [[künstlich]] — artificial
+- [[lauter]] — nothing but; sheer; (comp.) louder
+- [[link (adjective)]] — left
+- [[lohnen]] — to be worth it
+- [[los]] — go!; loose; free
+- [[Mangel]] — lack; shortage; defect
+- [[Maßnahme]] — measure
+- [[Merkmal]] — characteristic; feature
+- [[Metall]] — metal
+- [[Missgeschick]] — mishap, misfortune
+- [[mithilfe]] — with the help of
+- [[Mittelpunkt]] — centre
+- [[mittler]] — middle; medium
+- [[möglicherweise]] — possibly
+- [[möglichst]] — as ... as possible
+- [[Mühe]] — effort
+- [[nachsehen]] — to have a look
+- [[nebenbei]] — on the side; incidentally
+- [[nirgendwo]] — nowhere
+- [[nochmals]] — once more
+- [[Normalfall]] — normal case; rule
+- [[Nutzung]] — usage
+- [[nützen]] — to be of use
+- [[obere]] — upper; top
+- [[Objekt]] — object; property
+- [[obwohl]] — although/even though
+- [[offenbar]] — apparently; obviously
+- [[offensichtlich]] — obvious; evidently
+- [[Organisation]] — organization
+- [[Perspektive]] — perspective
+- [[Planung]] — planning; plan
+- [[Pluspunkt]] — advantage
+- [[Prinzip]] — principle
+- [[prinzipiell]] — in principle; basically
+- [[problematisch]] — problematic
+- [[qualitativ]] — qualitative
+- [[radikal]] — radical
+- [[Rahmen]] — frame; framework; scope
+- [[realisieren]] — to realize
+- [[reichen]] — to be enough; to hand; to reach
+- [[rein]] — pure; clean; sheer
+- [[relativ]] — relative
+- [[relevant]] — relevant
+- [[Ressource]] — resource
+- [[Resultat]] — result
+- [[Riesen-]] — huge
+- [[runterwerfen]] — to throw down
+- [[scheinbar]] — apparent; seeming
+- [[schief]] — crooked; slanted
+- [[schiefgehen]] — to go wrong
+- [[schließlich]] — finally, eventually
+- [[Schutz]] — protection
+- [[Schwerpunkt]] — focus
+- [[Schwierigkeit]] — difficulty
+- [[schütteln]] — to shake
+- [[selbe]] — same
+- [[selber]] — myself/himself/etc.; on one's own
+- [[selbstverständlich]] — of course
+- [[senkrecht]] — vertical
+- [[sichern]] — to secure
+- [[Sicht]] — view; visibility; point of view
+- [[sichtbar]] — visible
+- [[Signal]] — signal
+- [[sobald]] — as soon as
+- [[sodass]] — so that
+- [[sogenannt]] — so-called
+- [[solange]] — as long as
+- [[solche]] — such; such a
+- [[somit]] — thus; therefore; consequently
+- [[sondern]] — but (rather); but instead
+- [[soviel]] — as much as; as far as
+- [[soweit]] — as far as
+- [[sowie]] — as well as; as soon as
+- [[sowohl]] — both ... and (sowohl ... als auch)
+- [[speziell]] — special; particular; (adv.) especially
+- [[spitz]] — pointed; sharp
+- [[Stand]] — status; state of affairs
+- [[statt]] — instead of
+- [[stattdessen]] — instead
+- [[stecken]] — to put; to stick; to be stuck in
+- [[steigen]] — to rise; to climb
+- [[steil]] — steep
+- [[steuern]] — to steer; to control
+- [[System]] — system
+- [[sämtlich]] — all; entire
+- [[Tatsache]] — fact
+- [[technisch]] — technical
+- [[Theorie]] — theory
+- [[treten]] — to step; to kick; to tread
+- [[trotz]] — despite
+- [[umdrehen]] — to turn round; to turn over
+- [[umfassen]] — to include; to comprise
+- [[umgekehrt]] — the other way around
+- [[umsetzen]] — to realize
+- [[umso]] — all the more; the (more)
+- [[ungewöhnlich]] — unusual
+- [[Unglück]] — misfortune; accident
+- [[unklar]] — unclear
+- [[unmöglich]] — impossible
+- [[unterlassen]] — to refrain from; to omit
+- [[unterscheiden]] — to distinguish
+- [[unterstützen]] — to support
+- [[Unterstützung]] — support; assistance
+- [[unverändert]] — unchanged
+- [[Ursache]] — cause
+- [[ursprünglich]] — originally
+- [[Variante]] — variant
+- [[vergeblich]] — in vain; futile
+- [[verhindern]] — to prevent
+- [[verkehrt]] — wrong; the wrong way round
+- [[verleihen]] — to lend; to award
+- [[Verlust]] — loss
+- [[vermeiden]] — to avoid
+- [[vermutlich]] — presumably
+- [[verringern]] — to reduce
+- [[verschwinden]] — to disappear
+- [[Versehen]] — accident (accidentally)
+- [[verstecken]] — to hide
+- [[verteilen]] — to distribute
+- [[verursachen]] — to cause
+- [[verwechseln]] — to confuse
+- [[violett]] — purple; violet
+- [[vollständig]] — complete
+- [[voraus]] — ahead; in advance
+- [[Voraussetzung]] — prerequisite, condition
+- [[voraussichtlich]] — probably; expected
+- [[vorder]] — front
+- [[Vorhaben]] — plan; project
+- [[vorhanden]] — available; present
+- [[vornehmen]] — to plan to do; to undertake
+- [[völlig]] — completely
+- [[waagerecht]] — horizontal
+- [[Wahl]] — election
+- [[weder]] — neither ... nor (weder ... noch)
+- [[weiterentwickeln]] — to develop further
+- [[wesentlich]] — considerable
+- [[weshalb]] — why
+- [[wessen]] — whose
+- [[wieso]] — why
+- [[willen]] — for the sake of
+- [[wirken]] — to have an effect; to work; to seem
+- [[Wirklichkeit]] — reality
+- [[woran]] — what
+- [[wünschenswert]] — desirable
+- [[Zeichen]] — sign; symbol; character
+- [[zerreißen]] — to tear apart
+- [[Zeug]] — stuff
+- [[zudem]] — in addition
+- [[zufällig]] — coincidentally
+- [[Zugang]] — access
+- [[zugänglich]] — accessible
+- [[zulassen]] — to allow; to permit; to admit
+- [[Zusammenhang]] — connection; context
+- [[zusammenstellen]] — to put together; to compile
+- [[Zustand]] — state
+- [[zusätzlich]] — additional
+- [[zwar]] — admittedly; indeed
+- [[Zweck]] — purpose
+- [[Änderung]] — change; alteration
+- [[überprüfen]] — to check
+- [[übertreiben]] — to exaggerate
+- [[üblich]] — usual
+- [[übrig]] — left over; remaining
+
+### B2 (47)
+
+- [[Abhängigkeit]] — dependence; addiction
+- [[allzu]] — all too; too
+- [[aneinander]] — to/at each other
+- [[ansonsten]] — otherwise; apart from that
+- [[Anstieg]] — rise; increase
+- [[Anstrengung]] — effort; strain
+- [[Aufbau]] — structure; assembly
+- [[aufeinander]] — on top of each other; one another
+- [[ausgewählt]] — selected; chosen
+- [[beherrschen]] — to master; to control
+- [[beitragen]] — to contribute
+- [[beliebig]] — any; arbitrary
+- [[bereiten]] — to cause; to prepare
+- [[Bestandteil]] — component; part
+- [[dazwischen]] — in between
+- [[drauf]] — on it; on top of it (colloquial)
+- [[drohen]] — to threaten
+- [[Durchführung]] — implementation; carrying out
+- [[Entstehung]] — origin; formation
+- [[extern]] — external
+- [[folglich]] — consequently
+- [[gegeneinander]] — against each other
+- [[generell]] — in general
+- [[gesichert]] — secured; certain
+- [[grundlegend]] — fundamental
+- [[hauptsächlich]] — mainly
+- [[hierfür]] — for this
+- [[hiermit]] — hereby; with this
+- [[Hindernis]] — obstacle
+- [[insofern]] — in this respect; to that extent
+- [[kennzeichnen]] — to mark; to label
+- [[leuchten]] — to shine; to glow
+- [[mittels]] — by means of
+- [[optimal]] — optimal; ideal
+- [[Phänomen]] — phenomenon
+- [[reiben]] — to rub; to grate
+- [[senken]] — to lower; to reduce
+- [[sofern]] — provided that; if
+- [[Verbesserung]] — improvement
+- [[Verteilung]] — distribution
+- [[verwandeln]] — to transform
+- [[Wechsel]] — change; switch; exchange
+- [[wehren]] — to defend oneself; to resist
+- [[wirksam]] — effective
+- [[wozu]] — what for; why
+- [[Überblick]] — overview
+- [[überwiegend]] — predominantly; mostly
+
+### C1 (77)
+
+- [[abseits]] — away from; off to the side
+- [[angesichts]] — in view of
+- [[Anregung]] — suggestion; stimulation
+- [[anstelle]] — instead of
+- [[aufrecht]] — upright
+- [[beanspruchen]] — to claim; to demand
+- [[bewirken]] — to bring about; to cause
+- [[bewährt]] — proven; tried and tested
+- [[bezüglich]] — regarding
+- [[daraufhin]] — thereupon; as a result
+- [[dementsprechend]] — accordingly
+- [[demgegenüber]] — in contrast; on the other hand
+- [[demnach]] — accordingly; according to this
+- [[divers]] — diverse; various
+- [[entfalten]] — to unfold; to develop
+- [[erlangen]] — to obtain; to gain
+- [[Erstellung]] — creation; drawing up
+- [[Erweiterung]] — extension; expansion
+- [[erwerben]] — to acquire; to purchase
+- [[erwiesen]] — proven; established
+- [[funktional]] — functional
+- [[gegebenenfalls]] — if necessary; where applicable
+- [[gewährleisten]] — to guarantee; to ensure
+- [[gezielt]] — targeted; specific
+- [[gleichwohl]] — nevertheless
+- [[hervorrufen]] — to cause; to evoke
+- [[hierauf]] — upon this; to this
+- [[hieraus]] — from this
+- [[hierdurch]] — through this; hereby
+- [[indes]] — meanwhile; however
+- [[indessen]] — meanwhile; however
+- [[ineinander]] — into/in each other
+- [[infolge]] — as a result of
+- [[inmitten]] — in the middle of
+- [[insoweit]] — to that extent; in that respect
+- [[inwieweit]] — to what extent
+- [[jenseits]] — beyond; on the other side of
+- [[mangels]] — for lack of
+- [[Mechanismus]] — mechanism
+- [[mithin]] — consequently; therefore
+- [[namens]] — on behalf of; by the name of
+- [[nebst]] — together with
+- [[oberhalb]] — above
+- [[obgleich]] — although
+- [[parat]] — ready; at hand
+- [[Problematik]] — problem; set of issues
+- [[prägen]] — to shape; to influence
+- [[Reduktion]] — reduction
+- [[rücken (verb)]] — to move; to shift
+- [[samt]] — together with
+- [[seitens]] — on the part of
+- [[Sicherung]] — fuse; securing
+- [[ungeachtet]] — regardless of
+- [[untereinander]] — among themselves; one below the other
+- [[unterhalb]] — below
+- [[vergleichbar]] — comparable
+- [[verknüpft]] — linked; connected
+- [[verwirklichen]] — to realise; to make come true
+- [[verzeichnen]] — to record; to register
+- [[via]] — via
+- [[Vorgabe]] — requirement; guideline
+- [[Vorgehensweise]] — procedure; approach
+- [[wenngleich]] — although
+- [[wider]] — against; contrary to
+- [[wobei]] — whereby; in doing which
+- [[wodurch]] — through which; whereby
+- [[wonach]] — what for/after; after which
+- [[worin]] — in what; wherein
+- [[zueinander]] — to each other
+- [[zufolge]] — according to
+- [[Zugriff]] — access
+- [[zugrunde]] — at the basis (of)
+- [[zugunsten]] — in favour of
+- [[zumal]] — especially since; all the more so as
+- [[zustande]] — about; into being (zustande kommen = to come about)
+- [[zwangsläufig]] — inevitable; inevitably
+- [[überdies]] — moreover; besides
+
+## B2 bank
+
+### B2 (347)
+
+- [[abhalten]] — to hold (a meeting); to keep (from)
+- [[Abhilfe schaffen]] — to remedy; to put right
+- [[absehen]] — to refrain from; to foresee
+- [[Abstand nehmen]] — to refrain; to distance oneself
+- [[abwarten]] — to wait and see; to wait for
+- [[abwechslungsreich]] — varied; full of variety
+- [[abwehren]] — to ward off; to fend off
+- [[Abweichung]] — deviation; discrepancy
+- [[abzielen]] — to aim (at)
+- [[Acht geben]] — to be careful; to pay attention
+- [[alles auf eine Karte setzen]] — to put all one's eggs in one basket
+- [[andernfalls]] — otherwise; or else
+- [[anderweitig]] — elsewhere; otherwise; in another way
+- [[angenommen]] — assuming; suppose
+- [[angleichen]] — to align; to adjust
+- [[anhaltend]] — continuing; persistent
+- [[anhäufen]] — to accumulate; to pile up
+- [[Anlass geben]] — to give cause
+- [[anlässlich]] — on the occasion of
+- [[annähern]] — to approach; to come closer
+- [[Anpassung]] — adjustment; adaptation
+- [[Anreiz]] — incentive
+- [[ansammeln]] — to accumulate; to gather
+- [[ansatzweise]] — to some extent; at least in part
+- [[ansehnlich]] — considerable; presentable
+- [[anspruchsvoll]] — demanding; sophisticated
+- [[anstreben]] — to strive for; to aim at
+- [[Antrieb]] — drive; propulsion; motivation
+- [[anvisieren]] — to aim for; to target
+- [[auf dem Spiel stehen]] — to be at stake
+- [[auf den Weg bringen]] — to initiate; to set in motion
+- [[auf der Strecke bleiben]] — to fall by the wayside
+- [[auf keinen Fall]] — under no circumstances; definitely not
+- [[auf Teufel komm raus]] — like crazy; at all costs
+- [[aufeinandertreffen]] — to meet; to clash
+- [[aufholen]] — to catch up; to make up for
+- [[aufrechterhalten]] — to maintain; to uphold
+- [[auftauchen]] — to appear; to surface
+- [[auftreiben]] — to track down; to get hold of
+- [[Aufwand]] — effort; expenditure
+- [[aufwenden]] — to spend; to expend
+- [[aufwendig]] — elaborate; costly; involving much effort
+- [[aufwerten]] — to upgrade; to revalue
+- [[ausbauen]] — to expand; to extend; to convert
+- [[ausdehnen]] — to expand; to extend
+- [[Ausfall]] — failure; cancellation; loss
+- [[ausgedehnt]] — extensive; prolonged
+- [[ausgeprägt]] — pronounced; marked
+- [[ausgesprochen]] — decided; distinct; particularly
+- [[ausgleichen]] — to balance out; to compensate
+- [[Ausmaß]] — extent; scale
+- [[ausnahmslos]] — without exception
+- [[ausschöpfen]] — to exhaust; to make full use of
+- [[aussetzen]] — to suspend; to expose; to stop
+- [[auswirken]] — to affect; to have an effect
+- [[Auswirkung]] — effect; impact
+- [[außer Acht lassen]] — to disregard; to ignore
+- [[außer Frage stehen]] — to be beyond question
+- [[außer Kontrolle geraten]] — to get out of control
+- [[Bandbreite]] — range; spectrum
+- [[beachtlich]] — considerable; remarkable
+- [[bedenklich]] — questionable; worrying
+- [[bedeutsam]] — significant; important
+- [[bedingen]] — to cause; to necessitate
+- [[bedürfen]] — to require; to need
+- [[beeinträchtigen]] — to impair; to affect adversely
+- [[begehrt]] — in demand; sought after
+- [[Begleiterscheinung]] — side effect; accompanying phenomenon
+- [[Begrenzung]] — limitation; restriction
+- [[begünstigen]] — to favour; to facilitate
+- [[beimessen]] — to attach (importance)
+- [[bemerkenswert]] — remarkable; noteworthy
+- [[Bemühung]] — effort; endeavour
+- [[Berücksichtigung finden]] — to be taken into account
+- [[Beschaffenheit]] — nature; condition; texture
+- [[beschleunigen]] — to accelerate; to speed up
+- [[beschränkt]] — limited; narrow-minded
+- [[beseitigen]] — to remove; to eliminate
+- [[bestenfalls]] — at best
+- [[Bestreben]] — endeavour; aim
+- [[beträchtlich]] — considerably; substantially
+- [[bewerkstelligen]] — to manage; to bring about
+- [[bewähren]] — to prove its worth
+- [[bezwecken]] — to aim at; to intend
+- [[Bilanz ziehen]] — to take stock; to draw conclusions
+- [[brüchig]] — brittle; crumbling
+- [[Chance ergreifen]] — to seize the opportunity
+- [[das A und O sein]] — to be the be-all and end-all; to be essential
+- [[Defizit]] — deficit; shortfall
+- [[den Löwenanteil bekommen]] — to get the lion's share
+- [[dezent]] — discreet; subtle
+- [[die Initiative ergreifen]] — to take the initiative
+- [[Dimension]] — dimension; scale
+- [[Dringlichkeit]] — urgency
+- [[durchlässig]] — permeable; porous
+- [[durchsichtig]] — transparent; see-through
+- [[dürftig]] — meagre; poor
+- [[ebenbürtig]] — equal; on a par
+- [[Echtheit]] — authenticity
+- [[einbeziehen]] — to include; to involve
+- [[einbüßen]] — to lose; to forfeit
+- [[eindrucksvoll]] — impressive
+- [[eine Absage erteilen]] — to reject; to turn down
+- [[eine Auswahl treffen]] — to make a selection
+- [[eine Entscheidung fällen]] — to reach a decision
+- [[eine Entscheidung treffen]] — to make a decision
+- [[eine Vereinbarung treffen]] — to make an agreement
+- [[eine Zusage erteilen]] — to give a commitment; to grant an acceptance
+- [[einen Beitrag leisten]] — to make a contribution
+- [[einen Entschluss fassen]] — to make up one's mind
+- [[einen Versuch unternehmen]] — to make an attempt
+- [[Einklang]] — harmony; accord
+- [[einschließen]] — to include; to lock in
+- [[einschränken]] — to restrict; to limit
+- [[eintönig]] — monotonous
+- [[empfehlenswert]] — recommendable; worth recommending
+- [[Engpass]] — bottleneck; shortage
+- [[entbehren]] — to lack; to do without
+- [[entgegenwirken]] — to counteract
+- [[entgehen]] — to escape; to miss
+- [[entlasten]] — to relieve; to exonerate
+- [[Entlastung]] — relief; easing of the burden
+- [[entscheidend]] — decisive; crucial
+- [[entschärfen]] — to defuse; to tone down
+- [[Erfordernis]] — requirement; necessity
+- [[erfreulich]] — pleasing; gratifying
+- [[ergattern]] — to snap up; to get hold of
+- [[ergeben]] — to result in; to yield
+- [[ergiebig]] — productive; rich in yield
+- [[erheblich]] — considerably; significantly
+- [[ermöglichen]] — to make possible; to enable
+- [[erneuern]] — to renew; to renovate
+- [[erproben]] — to test; to try out
+- [[Erscheinung]] — phenomenon; appearance
+- [[erschweren]] — to make more difficult
+- [[erstaunlich]] — astonishing; surprising
+- [[erzielen]] — to achieve; to score
+- [[erübrigen]] — to be unnecessary; to spare
+- [[es sei denn]] — unless
+- [[etwas im Griff haben]] — to have something under control
+- [[Existenz]] — existence; livelihood
+- [[farbenfroh]] — colourful
+- [[filigran]] — delicate; filigree
+- [[flüchtig]] — fleeting; cursory; fugitive
+- [[fragwürdig]] — questionable; dubious
+- [[Fuß fassen]] — to gain a foothold; to settle in
+- [[Gebrauch machen]] — to make use of
+- [[Gefahr laufen]] — to run the risk
+- [[Gegebenheit]] — circumstance; condition
+- [[Gegenstück]] — counterpart; opposite
+- [[geringfügig]] — minor; slight
+- [[geschweige denn]] — let alone
+- [[gleichermaßen]] — equally; likewise
+- [[Gleichgewicht]] — balance; equilibrium
+- [[glücken]] — to succeed; to work out
+- [[grell]] — glaring; harsh
+- [[grob]] — rough; coarse; gross
+- [[Grundsatz]] — principle
+- [[Hand in Hand]] — hand in hand; in cooperation
+- [[handhaben]] — to handle; to operate
+- [[Handlungsspielraum]] — scope for action
+- [[heikel]] — delicate; tricky
+- [[Hemmnis]] — obstacle; impediment
+- [[herbeiführen]] — to bring about; to cause
+- [[hinauszögern]] — to delay; to put off
+- [[hinderlich]] — obstructive; a hindrance
+- [[hinzuziehen]] — to consult; to bring in
+- [[im Gegensatz stehen]] — to be in contrast
+- [[im Mittelpunkt stehen]] — to be the centre of attention
+- [[im Vordergrund stehen]] — to be in the foreground; to take priority
+- [[im Wege stehen]] — to stand in the way
+- [[im Widerspruch stehen]] — to contradict; to be at odds
+- [[im Zusammenhang stehen]] — to be connected
+- [[in Aussicht stellen]] — to promise; to hold out the prospect of
+- [[in Betracht ziehen]] — to consider; to take into account
+- [[in Bewegung setzen]] — to set in motion
+- [[in Erscheinung treten]] — to appear; to make an appearance
+- [[in Frage kommen]] — to be an option; to come into question
+- [[in Gang bringen]] — to get going
+- [[in Gang kommen]] — to get going; to get started
+- [[in Gang setzen]] — to set in motion; to start
+- [[in Gefahr geraten]] — to get into danger
+- [[in Kauf nehmen]] — to accept; to put up with
+- [[in Not geraten]] — to get into difficulty
+- [[in Ordnung bringen]] — to put in order; to fix
+- [[in Schwierigkeiten geraten]] — to get into difficulties
+- [[infolgedessen]] — as a result; consequently
+- [[ins Auge fassen]] — to consider; to have in mind
+- [[ins Gewicht fallen]] — to carry weight; to matter
+- [[ins Stocken geraten]] — to come to a standstill; to stall
+- [[intensivieren]] — to intensify
+- [[Konsequenzen ziehen]] — to draw the consequences
+- [[Kontinuität]] — continuity
+- [[Kriterium]] — criterion
+- [[kurios]] — odd; curious
+- [[Kurs halten]] — to hold one's course
+- [[lediglich]] — merely; only
+- [[letztlich]] — in the end; ultimately
+- [[lindern]] — to ease; to relieve
+- [[lockern]] — to loosen; to relax (rules)
+- [[Lösungsansatz]] — approach to a solution
+- [[lückenlos]] — complete; gapless
+- [[mangelhaft]] — defective; poor (grade)
+- [[mangeln]] — to be lacking
+- [[matt]] — dull; matt; weak
+- [[maßgeblich]] — decisive; authoritative
+- [[Maßstab]] — standard; scale (map)
+- [[meistern]] — to master; to cope with
+- [[mildern]] — to soften; to mitigate
+- [[mindern]] — to reduce; to diminish
+- [[misslingen]] — to fail; to go wrong
+- [[mit dem Feuer spielen]] — to play with fire
+- [[mitsamt]] — together with; including
+- [[mitwirken]] — to participate; to contribute
+- [[mühsam]] — laborious; arduous
+- [[nach Strich und Faden]] — thoroughly (usually negative)
+- [[notfalls]] — if need be; if necessary
+- [[Notwendigkeit]] — necessity
+- [[obendrein]] — on top of that; into the bargain
+- [[ohnehin]] — anyway; in any case
+- [[Ordnung schaffen]] — to put things in order
+- [[Platz nehmen]] — to take a seat
+- [[Pläne schmieden]] — to make plans
+- [[porös]] — porous
+- [[Potenzial]] — potential
+- [[prall]] — plump; full to bursting
+- [[Priorität]] — priority
+- [[quadratisch]] — square
+- [[Rahmenbedingung]] — general condition; framework
+- [[rau]] — rough; hoarse; harsh
+- [[Rechnung tragen]] — to take into account
+- [[Reichweite]] — range; reach
+- [[reißen]] — to tear; to rip
+- [[Relevanz]] — relevance
+- [[riskant]] — risky
+- [[rostig]] — rusty
+- [[Routine]] — routine; experience
+- [[rütteln]] — to shake
+- [[scheitern]] — to fail; to fall through
+- [[schlaff]] — limp; slack
+- [[schlicht]] — simple; plain; simply
+- [[schlimmstenfalls]] — at worst; if the worst comes to the worst
+- [[schmierig]] — greasy; smeary
+- [[Schritt für Schritt]] — step by step
+- [[Schritt halten]] — to keep pace
+- [[Schwelle]] — threshold; doorstep
+- [[Sensor]] — sensor
+- [[spannen]] — to stretch; to tighten; to be tight
+- [[Spannungsfeld]] — area of tension; conflicting demands
+- [[sperrig]] — bulky; unwieldy
+- [[Spielraum]] — room for manoeuvre; leeway
+- [[spürbar]] — noticeable; tangible
+- [[steigern]] — to increase; to boost
+- [[Stellenwert]] — importance; status
+- [[stumpf]] — blunt; dull
+- [[Tendenz]] — tendency; trend
+- [[Tragweite]] — significance; consequences
+- [[um jeden Preis]] — at all costs
+- [[umfassend]] — comprehensive; extensive
+- [[umgestalten]] — to redesign; to reorganise
+- [[Umstand]] — circumstance; fact
+- [[umstellen]] — to switch; to rearrange
+- [[umständlich]] — cumbersome; long-winded
+- [[umwandeln]] — to convert; to transform
+- [[unabdingbar]] — indispensable; essential
+- [[unausweichlich]] — unavoidable; inevitable
+- [[unentbehrlich]] — indispensable
+- [[unerheblich]] — insignificant; irrelevant
+- [[unter Beweis stellen]] — to prove; to demonstrate
+- [[unterlaufen]] — to slip in (a mistake); to happen by mistake
+- [[unterschätzen]] — to underestimate
+- [[unumgänglich]] — unavoidable; essential
+- [[unvermeidlich]] — unavoidable; inevitable
+- [[unverzichtbar]] — indispensable
+- [[veranlassen]] — to cause; to arrange
+- [[Vereinfachung]] — simplification
+- [[verfallen]] — to decay; to expire; to fall into
+- [[verfehlen]] — to miss; to fail to achieve
+- [[verfolgen]] — to pursue; to follow; to chase
+- [[verfügen]] — to have at one's disposal; to order
+- [[vernachlässigen]] — to neglect
+- [[versagen]] — to fail; to refuse
+- [[verschlechtern]] — to worsen; to make worse
+- [[verschwommen]] — blurry; vague
+- [[Versäumnis]] — omission; failure
+- [[Verwendung finden]] — to be used
+- [[vielmehr]] — rather; on the contrary
+- [[vielseitig]] — versatile; varied
+- [[vollends]] — completely; entirely
+- [[von Bedeutung sein]] — to be of importance
+- [[von Grund auf]] — from the ground up; fundamentally
+- [[von Nutzen sein]] — to be useful
+- [[von Vorteil sein]] — to be an advantage
+- [[vorausgesetzt]] — provided that
+- [[voraussetzen]] — to presuppose; to require
+- [[Voraussetzungen schaffen]] — to create the conditions
+- [[Vorbereitungen treffen]] — to make preparations
+- [[vorbeugen]] — to prevent; to guard against
+- [[Vorgang]] — process; procedure; incident
+- [[vorgehen]] — to proceed; to take precedence; to be fast (clock)
+- [[Vorkehrungen treffen]] — to take precautions
+- [[Vorrang]] — priority; precedence
+- [[vorrangig]] — priority; primarily
+- [[Vorsorge treffen]] — to make provision
+- [[vorwiegend]] — predominantly; mainly
+- [[Vorzug]] — advantage; merit
+- [[wahlweise]] — optionally; as you choose
+- [[Wandlung]] — change; transformation
+- [[weitgehend]] — largely; to a great extent
+- [[weitreichend]] — far-reaching
+- [[Wert legen auf]] — to attach importance to
+- [[weswegen]] — why; for which reason
+- [[widerstandsfähig]] — resilient; robust
+- [[winzig]] — tiny
+- [[Wirksamkeit]] — effectiveness
+- [[womöglich]] — possibly; perhaps
+- [[zielen]] — to aim
+- [[Zielsetzung]] — objective; goal-setting
+- [[zu einer Einigung kommen]] — to reach an agreement
+- [[zu Hilfe kommen]] — to come to the aid of
+- [[Zugeständnis]] — concession
+- [[zulasten]] — at the expense of
+- [[zum Abschluss bringen]] — to bring to a conclusion
+- [[zum Abschluss kommen]] — to come to a close; to be concluded
+- [[zum Einsatz kommen]] — to be used; to be deployed
+- [[zum Stillstand kommen]] — to come to a standstill
+- [[zum Tragen kommen]] — to take effect; to come into play
+- [[zum Vorschein kommen]] — to come to light; to emerge
+- [[zunehmend]] — increasingly
+- [[zur Anwendung kommen]] — to be applied; to come into use
+- [[zur Disposition stehen]] — to be up for discussion; to be in question
+- [[zur Disposition stellen]] — to put up for review; to make available
+- [[zur Folge haben]] — to result in; to have as a consequence
+- [[zur Geltung kommen]] — to show to advantage
+- [[zur Verfügung stehen]] — to be available
+- [[zur Verfügung stellen]] — to provide; to make available
+- [[zurückgreifen]] — to fall back on; to resort to
+- [[zusehends]] — visibly; noticeably
+- [[zwingend]] — compelling; mandatory
+- [[Zwischenergebnis]] — interim result
+- [[überbrücken]] — to bridge; to tide over
+- [[überflüssig]] — superfluous; unnecessary
+- [[übergehen]] — to pass over; to switch to
+- [[überlassen]] — to leave to; to let have
+- [[überschreiten]] — to exceed; to cross
+- [[übersichtlich]] — clear; well laid out
+- [[überwinden]] — to overcome
+<!-- bank:end -->
+
+## My notes
+

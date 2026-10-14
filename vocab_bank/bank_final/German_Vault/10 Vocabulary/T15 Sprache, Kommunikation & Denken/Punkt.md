@@ -1,0 +1,37 @@
+---
+title: "Punkt"
+type: "word"
+aliases: ["der Punkt", "Punkte"]
+lemma: "Punkt"
+meaning: "period (full stop); point; dot"
+pos: "noun"
+article: "der"
+plural: "Punkte"
+level: "A1"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B0148"
+goethe_level: "A2"
+netzwerk: "A1 K1 7b"
+freq_rank: 492
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Punkt
+
+**Meaning:** period (full stop); point; dot
+**Plural:** Punkte
+**Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> der Punkt am Satzende
+> *the period at the end of a sentence*
+
+**Source:** Netzwerk neu A1 K1 7b (Guten Tag!) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,40 @@
+---
+title: "streuen"
+type: "word"
+aliases: ["streut", "streute", "hat gestreut"]
+lemma: "streuen"
+meaning: "to scatter; to sprinkle"
+pos: "verb"
+level: "B2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "b2"
+id: "D1729"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# streuen
+
+**Meaning:** to scatter; to sprinkle
+**Forms:** streut · streute · hat gestreut
+**Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Bei Glatteis streut die Stadt Salz auf die Straßen.
+> *In case of ice the city scatters salt on the roads.*
+
+**Collocations**
+- Salz streuen
+- Zucker auf den Kuchen streuen
+- Gerüchte streuen
+
+**Related:** [[Salz]] · [[Zucker]] · [[Kuchen]]
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

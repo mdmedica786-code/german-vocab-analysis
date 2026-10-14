@@ -1,0 +1,36 @@
+---
+title: "Taucherbrille"
+type: "word"
+aliases: ["die Taucherbrille", "Taucherbrillen"]
+lemma: "Taucherbrille"
+meaning: "diving mask"
+pos: "noun"
+article: "die"
+plural: "Taucherbrillen"
+level: "A2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B2824"
+netzwerk: "A2 K9 1a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Taucherbrille
+
+**Meaning:** diving mask
+**Plural:** Taucherbrillen
+**Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ohne Taucherbrille sieht man unter Wasser schlecht.
+> *Without a diving mask you can't see well under water.*
+
+**Source:** Netzwerk neu A2 K9 1a (Sportlich, sportlich)
+<!-- bank:end -->
+
+## My notes
+

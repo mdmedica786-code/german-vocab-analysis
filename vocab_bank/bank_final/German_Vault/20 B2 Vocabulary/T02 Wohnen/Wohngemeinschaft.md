@@ -1,0 +1,40 @@
+---
+title: "Wohngemeinschaft"
+type: "word"
+aliases: ["die Wohngemeinschaft", "Wohngemeinschaften"]
+lemma: "Wohngemeinschaft"
+meaning: "shared flat"
+pos: "noun"
+article: "die"
+plural: "Wohngemeinschaften"
+level: "B2"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "b2"
+id: "D1901"
+exam_use: ["Alltag", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Wohngemeinschaft
+
+**Meaning:** shared flat
+**Plural:** Wohngemeinschaften
+**Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er wohnt in einer Wohngemeinschaft mit drei Studenten.
+> *He lives in a shared flat with three students.*
+
+**Collocations**
+- in einer Wohngemeinschaft leben
+- in eine WG ziehen
+- eine Wohngemeinschaft gründen
+
+**Exam use:** Alltag, Sprechen
+<!-- bank:end -->
+
+## My notes
+

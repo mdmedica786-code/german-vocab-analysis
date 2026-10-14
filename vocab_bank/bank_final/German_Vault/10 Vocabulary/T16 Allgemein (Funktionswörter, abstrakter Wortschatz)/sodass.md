@@ -1,0 +1,33 @@
+---
+title: "sodass"
+type: "word"
+lemma: "sodass"
+meaning: "so that"
+pos: "conjunction"
+level: "B1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B3406"
+goethe_level: "B1"
+netzwerk: "B1 K2 4b"
+freq_rank: 928
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
+status: "new"
+---
+<!-- bank:start -->
+# sodass
+
+**Meaning:** so that
+**Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Zug hatte zwei Stunden Verspätung, sodass ich erst um 23 Uhr nach Hause kam.
+> *The train was two hours late, so I only got home at 11 p.m.*
+
+**Source:** Netzwerk neu B1 K2 4b (Das ist ja praktisch!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

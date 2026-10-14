@@ -1,0 +1,37 @@
+---
+title: "Übersetzerin"
+type: "word"
+aliases: ["die Übersetzerin", "Übersetzerinnen"]
+lemma: "Übersetzerin"
+meaning: "translator (f)"
+pos: "noun"
+article: "die"
+plural: "Übersetzerinnen"
+level: "A2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B2467"
+goethe_level: "B1"
+netzwerk: "A2 K6 7a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Übersetzerin
+
+**Meaning:** translator (f)
+**Plural:** Übersetzerinnen
+**Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Übersetzerin arbeitet für einen Verlag.
+> *The translator works for a publishing house.*
+
+**Source:** Netzwerk neu A2 K6 7a (Arbeitswelten) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

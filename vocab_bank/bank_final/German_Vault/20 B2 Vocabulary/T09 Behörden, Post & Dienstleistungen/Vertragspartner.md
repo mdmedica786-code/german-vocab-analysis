@@ -1,0 +1,40 @@
+---
+title: "Vertragspartner"
+type: "word"
+aliases: ["der Vertragspartner"]
+lemma: "Vertragspartner"
+meaning: "contracting party"
+pos: "noun"
+article: "der"
+plural: "Vertragspartner"
+level: "B2"
+topic: "[[T09 Behörden, Post & Dienstleistungen]]"
+register: "neutral"
+bank: "b2"
+id: "D0453"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# der Vertragspartner
+
+**Meaning:** contracting party
+**Plural:** Vertragspartner
+**Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Beide Vertragspartner müssen die Unterlagen unterschreiben.
+> *Both contracting parties have to sign the documents.*
+
+**Collocations**
+- Vertragspartner wechseln
+- neuer Vertragspartner
+- ein zuverlässiger Vertragspartner
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

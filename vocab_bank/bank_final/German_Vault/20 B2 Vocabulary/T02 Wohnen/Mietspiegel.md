@@ -1,0 +1,42 @@
+---
+title: "Mietspiegel"
+type: "word"
+aliases: ["der Mietspiegel"]
+lemma: "Mietspiegel"
+meaning: "rent index"
+pos: "noun"
+article: "der"
+plural: "Mietspiegel"
+level: "B2"
+topic: "[[T02 Wohnen]]"
+register: "neutral"
+bank: "b2"
+id: "D1072"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# der Mietspiegel
+
+**Meaning:** rent index
+**Plural:** Mietspiegel
+**Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Laut Mietspiegel ist die Miete in diesem Viertel angemessen.
+> *According to the rent index the rent in this neighbourhood is reasonable.*
+
+**Collocations**
+- laut Mietspiegel
+- im Mietspiegel nachsehen
+- der örtliche Mietspiegel
+
+**Related:** [[laut]] · [[nachsehen]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

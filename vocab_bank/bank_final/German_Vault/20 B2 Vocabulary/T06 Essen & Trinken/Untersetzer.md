@@ -1,0 +1,40 @@
+---
+title: "Untersetzer"
+type: "word"
+aliases: ["der Untersetzer"]
+lemma: "Untersetzer"
+meaning: "coaster; mat (under a pot)"
+pos: "noun"
+article: "der"
+plural: "Untersetzer"
+level: "B2"
+topic: "[[T06 Essen & Trinken]]"
+register: "neutral"
+bank: "b2"
+id: "D2279"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# der Untersetzer
+
+**Meaning:** coaster; mat (under a pot)
+**Plural:** Untersetzer
+**Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Stell den heißen Topf bitte auf einen Untersetzer.
+> *Please put the hot pot on a mat.*
+
+**Collocations**
+- ein Untersetzer für Gläser
+- auf einen Untersetzer stellen
+- Untersetzer aus Kork
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

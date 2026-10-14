@@ -1,0 +1,41 @@
+---
+title: "mindestens"
+type: "word"
+lemma: "mindestens"
+meaning: "at least"
+pos: "adverb"
+level: "A1"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "main"
+id: "B1211"
+goethe_level: "A2"
+netzwerk: "A1 K8 3a"
+freq_rank: 861
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
+status: "new"
+---
+<!-- bank:start -->
+# mindestens
+
+**Meaning:** at least
+**Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Bitte kommen Sie mindestens zwei Stunden vor Ihrem Flug zum Flughafen.
+> *Please arrive at the airport at least two hours before your flight.*
+
+**Collocations**
+- mindestens zwei
+- mindestens ein Jahr
+- mindestens haltbar bis
+- mindestens so viel
+
+**Related:** [[Jahr]] · [[haltbar]]
+
+**Source:** Netzwerk neu A1 K8 3a (Fit und gesund) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

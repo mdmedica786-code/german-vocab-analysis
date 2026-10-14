@@ -1,0 +1,42 @@
+---
+title: "Bilderkennung"
+type: "word"
+aliases: ["die Bilderkennung"]
+lemma: "Bilderkennung"
+meaning: "image recognition"
+pos: "noun"
+article: "die"
+plural: "–"
+level: "B2"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "b2"
+id: "D0633"
+exam_use: ["Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# die Bilderkennung
+
+**Meaning:** image recognition
+**Plural:** –
+**Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Bilderkennung erkennt Gesichter auf Fotos automatisch.
+> *Image recognition automatically recognises faces in photos.*
+
+**Collocations**
+- automatische Bilderkennung
+- Bilderkennung nutzen
+- Software zur Bilderkennung
+
+**Related:** [[Software]]
+
+**Exam use:** Lesen
+<!-- bank:end -->
+
+## My notes
+

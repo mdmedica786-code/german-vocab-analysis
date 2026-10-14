@@ -1,0 +1,39 @@
+---
+title: "ausrutschen"
+type: "word"
+aliases: ["rutscht aus", "rutschte aus", "ist ausgerutscht"]
+lemma: "ausrutschen"
+meaning: "to slip"
+pos: "verb"
+level: "B2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "b2"
+id: "D1219"
+exam_use: ["Alltag", "Hören"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Hören"]
+status: "new"
+---
+<!-- bank:start -->
+# ausrutschen
+
+**Meaning:** to slip
+**Forms:** rutscht aus · rutschte aus · ist ausgerutscht
+**Grammar:** separable (aus-)
+**Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Er ist auf dem nassen Boden ausgerutscht.
+> *He slipped on the wet floor.*
+
+**Collocations**
+- auf dem Eis ausrutschen
+- auf einer Bananenschale ausrutschen
+- ausgerutscht sein
+
+**Exam use:** Alltag, Hören
+<!-- bank:end -->
+
+## My notes
+

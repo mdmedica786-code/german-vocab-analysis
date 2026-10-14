@@ -1,0 +1,36 @@
+---
+title: "Buchladen"
+type: "word"
+aliases: ["der Buchladen", "Buchläden"]
+lemma: "Buchladen"
+meaning: "bookstore"
+pos: "noun"
+article: "der"
+plural: "Buchläden"
+level: "A1"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B1667"
+netzwerk: "A1 K11 11b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Buchladen
+
+**Meaning:** bookstore
+**Plural:** Buchläden
+**Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Im Buchladen kaufe ich oft Krimis.
+> *In the bookshop I often buy crime novels.*
+
+**Source:** Netzwerk neu A1 K11 11b (Die Jacke gefällt mir!)
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,32 @@
+---
+title: "supernett"
+type: "word"
+lemma: "supernett"
+meaning: "super nice"
+pos: "adjective"
+level: "A1"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "colloquial"
+bank: "main"
+id: "B1078"
+netzwerk: "A1 K7 2a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# supernett
+
+**Meaning:** super nice
+**Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial
+
+> [!example] Beispiel
+> Unsere neue Nachbarin ist supernett.
+> *Our new neighbour is super nice.*
+
+**Source:** Netzwerk neu A1 K7 2a (Arbeitsalltag)
+<!-- bank:end -->
+
+## My notes
+

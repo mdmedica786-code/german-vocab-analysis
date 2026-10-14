@@ -1,0 +1,37 @@
+---
+title: "Zeichnung"
+type: "word"
+aliases: ["die Zeichnung", "Zeichnungen"]
+lemma: "Zeichnung"
+meaning: "drawing"
+pos: "noun"
+article: "die"
+plural: "Zeichnungen"
+level: "A1"
+topic: "[[T10 Freizeit, Sport, Kultur & Medien]]"
+register: "neutral"
+bank: "main"
+id: "B0401"
+goethe_level: "B1"
+netzwerk: "A1 K2 11a"
+freq_rank: 2745
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Zeichnung
+
+**Meaning:** drawing
+**Plural:** Zeichnungen
+**Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das ist eine schöne Zeichnung.
+> *That is a nice drawing.*
+
+**Source:** Netzwerk neu A1 K2 11a (Freunde, Kollegen und ich) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

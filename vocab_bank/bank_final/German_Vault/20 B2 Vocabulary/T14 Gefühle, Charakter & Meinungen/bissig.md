@@ -1,0 +1,38 @@
+---
+title: "bissig"
+type: "word"
+lemma: "bissig"
+meaning: "snappy; biting"
+pos: "adjective"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D1561"
+exam_use: ["Sprechen", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# bissig
+
+**Meaning:** snappy; biting
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Vorsicht, der Hund ist bissig!
+> *Careful, the dog bites!*
+
+**Collocations**
+- ein bissiger Hund
+- eine bissige Bemerkung
+- bissig kommentieren
+
+**Related:** [[Hund]]
+
+**Exam use:** Sprechen, Lesen
+<!-- bank:end -->
+
+## My notes
+

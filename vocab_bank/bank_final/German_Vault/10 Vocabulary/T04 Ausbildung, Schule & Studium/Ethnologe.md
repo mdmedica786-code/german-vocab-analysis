@@ -1,0 +1,36 @@
+---
+title: "Ethnologe"
+type: "word"
+aliases: ["der Ethnologe", "Ethnologen"]
+lemma: "Ethnologe"
+meaning: "ethnologist (m)"
+pos: "noun"
+article: "der"
+plural: "Ethnologen"
+level: "B1"
+topic: "[[T04 Ausbildung, Schule & Studium]]"
+register: "neutral"
+bank: "main"
+id: "B4583"
+netzwerk: "B1 K9 3b"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Ethnologe
+
+**Meaning:** ethnologist (m)
+**Plural:** Ethnologen
+**Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Ethnologe erforscht fremde Kulturen.
+> *The ethnologist studies foreign cultures.*
+
+**Source:** Netzwerk neu B1 K9 3b (Kunststücke)
+<!-- bank:end -->
+
+## My notes
+

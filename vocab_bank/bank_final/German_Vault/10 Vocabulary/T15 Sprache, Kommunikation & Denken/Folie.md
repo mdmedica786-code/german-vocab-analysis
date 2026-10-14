@@ -1,0 +1,36 @@
+---
+title: "Folie"
+type: "word"
+aliases: ["die Folie", "Folien"]
+lemma: "Folie"
+meaning: "slide; transparency"
+pos: "noun"
+article: "die"
+plural: "Folien"
+level: "B1"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "main"
+id: "B6442"
+goethe_level: "B1"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Folie
+
+**Meaning:** slide; transparency
+**Plural:** Folien
+**Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Dazu finden Sie hier fünf Folien.
+> *Here you will find five slides on this.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

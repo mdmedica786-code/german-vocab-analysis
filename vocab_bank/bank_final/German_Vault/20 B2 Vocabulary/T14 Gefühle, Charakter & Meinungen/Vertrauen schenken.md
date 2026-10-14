@@ -1,0 +1,37 @@
+---
+title: "Vertrauen schenken"
+type: "word"
+lemma: "Vertrauen schenken"
+meaning: "to trust; to place trust in"
+pos: "phrase"
+level: "B2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "b2"
+id: "D0076"
+exam_use: ["Schreiben", "Sprechen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
+---
+<!-- bank:start -->
+# Vertrauen schenken
+
+**Meaning:** to trust; to place trust in
+**Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich schenke ihm mein Vertrauen.
+> *I place my trust in him.*
+
+**Collocations**
+- Vertrauen schenken + Dat.
+- Glauben schenken
+
+**Related:** [[Vertrauen]]
+
+**Exam use:** Schreiben, Sprechen
+<!-- bank:end -->
+
+## My notes
+

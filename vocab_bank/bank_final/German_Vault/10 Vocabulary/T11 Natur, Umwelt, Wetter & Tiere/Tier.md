@@ -1,0 +1,37 @@
+---
+title: "Tier"
+type: "word"
+aliases: ["das Tier", "Tiere"]
+lemma: "Tier"
+meaning: "animal"
+pos: "noun"
+article: "das"
+plural: "Tiere"
+level: "A2"
+topic: "[[T11 Natur, Umwelt, Wetter & Tiere]]"
+register: "neutral"
+bank: "main"
+id: "B2101"
+goethe_level: "A2"
+netzwerk: "A2 K3 6a"
+freq_rank: 587
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Tier
+
+**Meaning:** animal
+**Plural:** Tiere
+**Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wir dürfen keine Tiere in der Wohnung haben.
+> *We are not allowed to have animals in the flat.*
+
+**Source:** Netzwerk neu A2 K3 6a (Immer online?) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

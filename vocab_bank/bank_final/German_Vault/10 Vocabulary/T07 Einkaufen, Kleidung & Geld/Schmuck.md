@@ -1,0 +1,37 @@
+---
+title: "Schmuck"
+type: "word"
+aliases: ["der Schmuck"]
+lemma: "Schmuck"
+meaning: "jewelry"
+pos: "noun"
+article: "der"
+plural: "–"
+level: "A1"
+topic: "[[T07 Einkaufen, Kleidung & Geld]]"
+register: "neutral"
+bank: "main"
+id: "B1652"
+goethe_level: "B1"
+netzwerk: "A1 K11 10a"
+freq_rank: 3876
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Schmuck
+
+**Meaning:** jewelry
+**Plural:** –
+**Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
+
+> [!example] Beispiel
+> Dieser Schmuck ist von meiner Großmutter.
+> *This jewellery is from my grandmother.*
+
+**Source:** Netzwerk neu A1 K11 10a (Die Jacke gefällt mir!) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

@@ -1,0 +1,40 @@
+---
+title: "Ausdrucksweise"
+type: "word"
+aliases: ["die Ausdrucksweise", "Ausdrucksweisen"]
+lemma: "Ausdrucksweise"
+meaning: "manner of expression; wording"
+pos: "noun"
+article: "die"
+plural: "Ausdrucksweisen"
+level: "B2"
+topic: "[[T15 Sprache, Kommunikation & Denken]]"
+register: "neutral"
+bank: "b2"
+id: "D0979"
+exam_use: ["Sprechen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# die Ausdrucksweise
+
+**Meaning:** manner of expression; wording
+**Plural:** Ausdrucksweisen
+**Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
+
+> [!example] Beispiel
+> Seine Ausdrucksweise ist manchmal etwas zu direkt.
+> *His way of expressing himself is sometimes a bit too direct.*
+
+**Collocations**
+- eine gewählte Ausdrucksweise
+- eine höfliche Ausdrucksweise
+- Ausdrucksweise verbessern
+
+**Exam use:** Sprechen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

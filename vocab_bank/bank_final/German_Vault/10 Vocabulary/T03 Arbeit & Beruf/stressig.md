@@ -1,0 +1,33 @@
+---
+title: "stressig"
+type: "word"
+lemma: "stressig"
+meaning: "stressful"
+pos: "adjective"
+level: "A1"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "informal"
+bank: "main"
+id: "B0770"
+goethe_level: "A2"
+netzwerk: "A1 K4 11"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# stressig
+
+**Meaning:** stressful
+**Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** informal
+
+> [!example] Beispiel
+> Meine Arbeit ist stressig.
+> *My work is stressful.*
+
+**Source:** Netzwerk neu A1 K4 11 (Guten Appetit!) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

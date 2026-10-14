@@ -1,0 +1,36 @@
+---
+title: "Paradeiser"
+type: "word"
+aliases: ["der Paradeiser"]
+lemma: "Paradeiser"
+meaning: "tomato (Austrian)"
+pos: "noun"
+article: "der"
+plural: "Paradeiser"
+level: "B1"
+topic: "[[T06 Essen & Trinken]]"
+register: "regional"
+bank: "main"
+id: "B6518"
+goethe_level: "B1"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Paradeiser
+
+**Meaning:** tomato (Austrian)
+**Plural:** Paradeiser
+**Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional
+
+> [!example] Beispiel
+> Kauf bitte noch Paradeiser auf dem Markt.
+> *Please buy some more tomatoes at the market.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

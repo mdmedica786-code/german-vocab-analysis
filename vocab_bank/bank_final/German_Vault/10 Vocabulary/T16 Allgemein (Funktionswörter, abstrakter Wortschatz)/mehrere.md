@@ -1,0 +1,33 @@
+---
+title: "mehrere"
+type: "word"
+lemma: "mehrere"
+meaning: "several"
+pos: "determiner"
+level: "A1"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "main"
+id: "B0290"
+goethe_level: "B1"
+netzwerk: "A1 K2 6a"
+freq_rank: 380
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/determiner"]
+status: "new"
+---
+<!-- bank:start -->
+# mehrere
+
+**Meaning:** several
+**Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich habe mehrere Leute gefragt. Aber niemand konnte mir helfen.
+> *I asked several people. But nobody could help me.*
+
+**Source:** Netzwerk neu A1 K2 6a (Freunde, Kollegen und ich) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

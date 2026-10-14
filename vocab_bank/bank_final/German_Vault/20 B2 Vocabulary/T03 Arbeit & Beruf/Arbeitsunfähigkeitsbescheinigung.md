@@ -1,0 +1,42 @@
+---
+title: "Arbeitsunfähigkeitsbescheinigung"
+type: "word"
+aliases: ["die Arbeitsunfähigkeitsbescheinigung", "Arbeitsunfähigkeitsbescheinigungen"]
+lemma: "Arbeitsunfähigkeitsbescheinigung"
+meaning: "sick note; certificate of incapacity for work"
+pos: "noun"
+article: "die"
+plural: "Arbeitsunfähigkeitsbescheinigungen"
+level: "B2"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "b2"
+id: "D1768"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# die Arbeitsunfähigkeitsbescheinigung
+
+**Meaning:** sick note; certificate of incapacity for work
+**Plural:** Arbeitsunfähigkeitsbescheinigungen
+**Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Arbeitsunfähigkeitsbescheinigung muss dem Arbeitgeber vorgelegt werden.
+> *The sick note must be presented to the employer.*
+
+**Collocations**
+- eine Arbeitsunfähigkeitsbescheinigung ausstellen
+- Arbeitsunfähigkeitsbescheinigung vorlegen
+- eine Arbeitsunfähigkeitsbescheinigung einreichen
+
+**Related:** [[ausstellen]] · [[vorlegen]] · [[einreichen]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

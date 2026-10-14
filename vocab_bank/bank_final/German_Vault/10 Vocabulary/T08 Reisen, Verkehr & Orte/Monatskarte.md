@@ -1,0 +1,36 @@
+---
+title: "Monatskarte"
+type: "word"
+aliases: ["die Monatskarte", "Monatskarten"]
+lemma: "Monatskarte"
+meaning: "monthly ticket"
+pos: "noun"
+article: "die"
+plural: "Monatskarten"
+level: "A2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "main"
+id: "B2555"
+netzwerk: "A2 K7 3c ÜB"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Monatskarte
+
+**Meaning:** monthly ticket
+**Plural:** Monatskarten
+**Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Mit der Monatskarte fahre ich günstiger.
+> *With the monthly ticket I travel more cheaply.*
+
+**Source:** Netzwerk neu A2 K7 3c ÜB (Ganz schön mobil)
+<!-- bank:end -->
+
+## My notes
+

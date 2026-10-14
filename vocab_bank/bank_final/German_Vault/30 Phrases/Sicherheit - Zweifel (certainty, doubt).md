@@ -1,0 +1,527 @@
+---
+title: "Sicherheit / Zweifel (certainty, doubt)"
+type: "phrase-group"
+count: 113
+levels: ["A1 (5)", "A2 (7)", "B1 (68)", "B2 (28)", "C1 (5)"]
+tags: ["phrase", "moc"]
+---
+<!-- bank:start -->
+# Sicherheit / Zweifel (certainty, doubt)
+
+113 phrases. Back to [[MOC Phrases]]
+
+## A1
+
+- **das weiß ich nicht** — I don't know that
+  - Wann kommt der Zug? Das weiß ich nicht. *(When does the train come? I don't know.)*
+  - Variants: keine Ahnung | das kann ich nicht sagen
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß es nicht** — I don't know (it)
+  - Wo er wohnt? Ich weiß es nicht. *(Where does he live? I don't know.)*
+  - Variants: keine Ahnung | das weiß ich nicht
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß es nicht** — I don't know (it)
+  - Wo er ist? Ich weiß es nicht. *(Where is he? I don't know.)*
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht** — I don't know
+  - Ich weiß nicht, wo mein Schlüssel ist. *(I don't know where my key is.)*
+  - Variants: keine Ahnung | das weiß ich nicht
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **weiß ich nicht** — I don't know
+  - Wann der Zug kommt, weiß ich nicht. *(I don't know when the train comes.)*
+  - Grammar: Verb an Position 2 nach Nebensatz
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+## A2
+
+- **auf jeden Fall** — in any case
+  - Ich möchte auf jeden Fall den neuen James-Bond-Film sehen. - Wirklich? Ich finde James-Bond-Filme langweilig. Ich sehe ihn auf keinen Fall an! *(I definitely want to see the new James Bond film. – Really? I find James Bond films boring. I'm definitely not watching it!)*
+  - Variants: unbedingt | in jedem Fall
+  - Exam: Wortliste A2 (exam vocabulary) · B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich glaube, ich habe ...** — I think I have ...
+  - Ich glaube, ich habe Fieber. *(I think I have a fever.)*
+  - Grammar: Hauptsatz ohne dass; Verb an Position 2
+  - Variants: ich vermute, ich habe ... | ich fürchte, ich habe ...
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich habe keine Ahnung** — I have no idea
+  - Ich habe keine Ahnung, wo der Bahnhof ist. *(I have no idea where the station is.)*
+  - Variants: keine Ahnung | ich weiß es nicht
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, wer ...** — I don't know who ...
+  - Ich weiß nicht, wer das ist. *(I don't know who that is.)*
+  - Grammar: wer-Satz: Verb am Ende
+  - Variants: keine Ahnung, wer | ich habe keine Idee, wer
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, wo ...** — I don't know where ...
+  - Ich weiß nicht, wo mein Handy ist. *(I don't know where my phone is.)*
+  - Grammar: wo-Satz: Verb am Ende
+  - Variants: keine Ahnung, wo | ich habe keine Idee, wo
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **keine Ahnung** — no idea
+  - Wo ist Paul? – Keine Ahnung. *(Where is Paul? – No idea.)*
+  - Variants: ich weiß nicht | keinen Schimmer
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **nicht sicher** — not sure
+  - Ich bin nicht sicher, ob er kommt. *(I'm not sure whether he's coming.)*
+  - Variants: unsicher | nicht ganz klar
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+## B1
+
+- **auf den ersten Blick** — at first glance
+  - Auf den ersten Blick sieht die Wohnung gut aus. *(At first glance the flat looks good.)*
+  - Variants: zunächst | im ersten Moment
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **bist du sicher, dass ...?** — are you sure that ...?
+  - Bist du sicher, dass wir hier richtig sind? *(Are you sure we are in the right place here?)*
+  - Grammar: Frage: Verb an Position 1
+  - Variants: weißt du ganz sicher, dass | glaubst du wirklich, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **da bin ich mir sicher** — I'm sure about that
+  - Er kommt bestimmt. Da bin ich mir sicher. *(He's definitely coming. I'm sure about that.)*
+  - Variants: da bin ich sicher | das weiß ich genau
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **das kann ich mir nicht vorstellen** — I can't imagine that
+  - Er hat gelogen? Das kann ich mir nicht vorstellen. *(He lied? I can't imagine that.)*
+  - Grammar: sich (Dat.) vorstellen
+  - Variants: das glaube ich nicht | kaum denkbar
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **das weiß ich** — I know that
+  - Das weiß ich schon lange. *(I have known that for a long time.)*
+  - Variants: das ist mir bekannt | das weiß ich ja
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **du weißt, dass ...** — you know that ...
+  - Du weißt, dass ich dich mag. *(You know that I like you.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es ist klar, dass ...** — it is clear that ...
+  - Es ist klar, dass wir mehr Zeit brauchen. *(It is clear that we need more time.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: natürlich | selbstverständlich
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es ist klar, dass ...** — it is clear that ...
+  - Es ist klar, dass das nicht geht. *(It is clear that this won't work.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es ist möglich, dass ...** — it is possible that ...
+  - Es ist möglich, dass er schon weg ist. *(It is possible that he has already left.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: vielleicht | es kann sein, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es ist möglich, dass ...** — it is possible that ...
+  - Es ist möglich, dass der Bus später kommt. *(It is possible that the bus comes later.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es kann passieren, dass ...** — it can happen that ...
+  - Es kann passieren, dass der Zug Verspätung hat. *(It can happen that the train is late.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: es kommt vor, dass | möglicherweise
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ganz sicher** — quite certainly
+  - Er kommt ganz sicher. *(He is quite certainly coming.)*
+  - Variants: bestimmt | mit Sicherheit
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin mir nicht sicher** — I'm not sure
+  - Ich bin mir nicht sicher, ob das richtig ist. *(I'm not sure whether that is right.)*
+  - Grammar: sich (Dat.) nicht sicher sein
+  - Variants: ich bin nicht sicher | ich zweifle
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin mir nicht sicher** — I'm not sure
+  - Ich bin mir nicht sicher, ob ich das richtig verstanden habe. *(I'm not sure whether I have understood that correctly.)*
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin mir sicher, dass ...** — I'm sure that ...
+  - Ich bin mir sicher, dass wir die Prüfung bestehen. *(I'm sure we'll pass the exam.)*
+  - Grammar: sich (Dat.) sicher sein
+  - Variants: ich bin überzeugt, dass | ich zweifle nicht daran, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin mir sicher, dass ...** — I'm sure that ...
+  - Ich bin mir sicher, dass du das schaffst. *(I'm sure you can do it.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin nicht sicher, ob ...** — I'm not sure whether ...
+  - Ich bin nicht sicher, ob das stimmt. *(I'm not sure whether that is true.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Variants: ich weiß nicht genau, ob | ich zweifle, ob
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin sicher, dass ...** — I am sure that ...
+  - Ich bin sicher, dass er kommt. *(I am sure that he is coming.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich bin mir sicher, dass | ich bin überzeugt, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin sicher, dass ...** — I'm sure that ...
+  - Ich bin sicher, dass es gut ausgeht. *(I'm sure it will turn out well.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich bin sicher, dass ...** — I am sure that ...
+  - Ich bin sicher, dass der Test negativ ist. *(I am sure that the test is negative.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich dachte, ...** — I thought ...
+  - Ich dachte, du kommst nicht mehr. *(I thought you weren't coming any more.)*
+  - Grammar: Präteritum von „denken“
+  - Variants: ich habe gedacht, ... | ich nahm an, ...
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich frage mich, ob ...** — I wonder whether ...
+  - Ich frage mich, ob er wirklich kommt. *(I wonder whether he is really coming.)*
+  - Grammar: sich fragen; ob-/w-Satz: Verb am Ende
+  - Variants: ich bin gespannt, ob | ich überlege, ob
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich frage mich, ob ...** — I wonder whether ...
+  - Ich frage mich, ob das wirklich nötig ist. *(I wonder whether that is really necessary.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich frage mich, ob ...** — I wonder whether ...
+  - Da frage ich mich, ob das stimmt. *(That makes me wonder whether it's true.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich fürchte, ...** — I'm afraid ...
+  - Ich fürchte, wir haben ein Problem. *(I'm afraid we have a problem.)*
+  - Grammar: höflich-vorsichtige Einleitung schlechter Nachrichten
+  - Variants: leider | ich muss sagen
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich habe keine Ahnung, was ...** — I have no idea what ...
+  - Ich habe keine Ahnung, was passiert ist. *(I have no idea what happened.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich hatte keine Ahnung** — I had no idea
+  - Ich hatte keine Ahnung, dass du hier wohnst. *(I had no idea that you live here.)*
+  - Grammar: Präteritum von „haben“
+  - Variants: ich wusste nicht | das war mir neu
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich kann mich nicht erinnern** — I can't remember
+  - Ich kann mich nicht erinnern, wie er heißt. *(I can't remember what his name is.)*
+  - Grammar: sich erinnern an + Akk.
+  - Variants: ich habe es vergessen | es fällt mir nicht ein
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich nehme an, dass ...** — I assume that ...
+  - Ich nehme an, dass du heute Abend Zeit hast. *(I assume that you have time this evening.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich vermute, dass | ich gehe davon aus, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich nehme an, dass ...** — I assume that ...
+  - Ich nehme an, dass du müde bist. *(I assume that you are tired.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich war mir nicht sicher** — I wasn't sure
+  - Ich war mir nicht sicher, ob er kommt. *(I wasn't sure whether he was coming.)*
+  - Grammar: Präteritum; sich (Dat.) sicher sein
+  - Variants: ich war unsicher | ich zweifelte
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß auch nicht** — I don't know either
+  - Wo ist Peter? – Ich weiß auch nicht. *(Where is Peter? – I don't know either.)*
+  - Variants: keine Ahnung | das weiß ich auch nicht
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, ob ...** — I don't know whether ...
+  - Ich weiß nicht, ob er morgen kommt. *(I don't know whether he is coming tomorrow.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Variants: keine Ahnung, ob | ich bin nicht sicher, ob
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, ob ...** — I don't know whether ...
+  - Ich weiß nicht, ob er zu Hause ist. *(I don't know whether he is at home.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, warum ...** — I don't know why ...
+  - Ich weiß nicht, warum er so wütend ist. *(I don't know why he is so angry.)*
+  - Grammar: warum-Satz: Verb am Ende
+  - Variants: keine Ahnung, warum | mir ist unklar, warum
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, was ...** — I don't know what ...
+  - Ich weiß nicht, was ich sagen soll. *(I don't know what to say.)*
+  - Grammar: Nebensatz: Verb am Ende
+  - Variants: keine Ahnung, was | ich habe keine Idee, was
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, was ...** — I don't know what ...
+  - Ich weiß nicht, was er will. *(I don't know what he wants.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, wie ...** — I don't know how ...
+  - Ich weiß nicht, wie ich das erklären soll. *(I don't know how to explain that.)*
+  - Grammar: Nebensatz: Verb am Ende
+  - Variants: keine Ahnung, wie | ich bin ratlos, wie
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, wie ...** — I don't know how ...
+  - Ich weiß nicht, wie spät es ist. *(I don't know what time it is.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nicht, wie lange ...** — I don't know how long ...
+  - Ich weiß nicht, wie lange die Untersuchung dauert. *(I don't know how long the examination takes.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Variants: keine Ahnung, wie lange | ich bin nicht sicher, wie lange
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß nur, dass ...** — I only know that ...
+  - Ich weiß nur, dass er morgen kommt. *(I only know that he is coming tomorrow.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich weiß lediglich, dass | mehr weiß ich nicht
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß, dass ...** — I know that ...
+  - Ich weiß, dass du viel zu tun hast. *(I know you have a lot to do.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: mir ist klar, dass | ich bin sicher, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß, dass ...** — I know that ...
+  - Ich weiß, dass das Medikament hilft. *(I know that the medication helps.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß, was ...** — I know what ...
+  - Ich weiß, was du meinst. *(I know what you mean.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß, wie ...** — I know how ...
+  - Ich weiß, wie man dorthin kommt. *(I know how to get there.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich wusste nicht, dass ...** — I didn't know that ...
+  - Ich wusste nicht, dass du so gut kochen kannst. *(I didn't know that you can cook so well.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: mir war nicht bewusst, dass | das war mir neu
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich wusste nicht, ob ...** — I didn't know whether ...
+  - Ich wusste nicht, ob du schon Feierabend hast. *(I didn't know whether you had finished work yet.)*
+  - Grammar: Präteritum; ob-Satz: Verb am Ende
+  - Variants: ich hatte keine Ahnung, ob | mir war unklar, ob
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich wusste nicht, ob ...** — I didn't know whether ...
+  - Ich wusste nicht, ob du schon da bist. *(I didn't know whether you were already here.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich wusste nicht, was ...** — I didn't know what ...
+  - Ich wusste nicht, was ich antworten soll. *(I didn't know what to answer.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich wusste nicht, wie ...** — I didn't know how ...
+  - Ich wusste nicht, wie ich helfen kann. *(I didn't know how I could help.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich wusste, dass ...** — I knew that ...
+  - Ich wusste, dass du kommst. *(I knew that you were coming.)*
+  - Grammar: Präteritum von „wissen“; dass-Satz
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **in jedem Fall** — in any case
+  - Ich komme in jedem Fall pünktlich. *(I will in any case come on time.)*
+  - Variants: auf jeden Fall | unbedingt
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ist es möglich, dass ...?** — is it possible that ...?
+  - Ist es möglich, dass er den Termin vergessen hat? *(Is it possible that he has forgotten the appointment?)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ist es möglich, dass ...?** — is it possible that ...?
+  - Ist es möglich, dass der Termin verschoben wurde? *(Is it possible that the appointment was postponed?)*
+  - Grammar: Frage: Verb an Position 1
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **keine Ahnung, was ...** — no idea what ...
+  - Ich habe keine Ahnung, was er will. *(I have no idea what he wants.)*
+  - Grammar: Nebensatz: Verb am Ende
+  - Variants: ich weiß nicht, was | keinen Schimmer, was
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **keine Ahnung, wie ...** — no idea how ...
+  - Ich habe keine Ahnung, wie das funktioniert. *(I have no idea how that works.)*
+  - Grammar: Nebensatz: Verb am Ende
+  - Variants: ich weiß nicht, wie | keinen Schimmer, wie
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **nicht genau** — not exactly
+  - Ich weiß nicht genau, wo er wohnt. *(I don't know exactly where he lives.)*
+  - Variants: nicht ganz | ungefähr
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **sicher sein, dass ...** — to be sure that ...
+  - Bist du sicher, dass wir richtig sind? *(Are you sure that we are in the right place?)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: überzeugt sein, dass | nicht zweifeln, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **sicher sein, dass ...** — to be sure that ...
+  - Ich möchte sicher sein, dass alles stimmt. *(I want to be sure that everything is correct.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **weiß, dass ...** — knows that ...
+  - Mein Hausarzt weiß, dass ich Allergien habe. *(My family doctor knows that I have allergies.)*
+  - Grammar: 3. Person Singular: er/sie weiß
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **weiß, was ...** — knows what ...
+  - Die Ärztin weiß, was zu tun ist. *(The doctor knows what to do.)*
+  - Grammar: 3. Person Singular: er/sie weiß; was-Satz
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **weiß, wie ...** — knows how ...
+  - Er weiß, wie man einen Verband anlegt. *(He knows how to apply a bandage.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wenn ich mich recht erinnere** — if I remember correctly
+  - Wenn ich mich recht erinnere, war das im Mai. *(If I remember correctly, that was in May.)*
+  - Grammar: sich erinnern an + Akk.; wenn-Satz
+  - Variants: soweit ich mich erinnere | wenn mich nicht alles täuscht
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wer weiß** — who knows
+  - Wer weiß, vielleicht klappt es. *(Who knows, maybe it will work.)*
+  - Variants: vielleicht | man kann nie wissen
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wissen, dass ...** — to know that ...
+  - Ich möchte wissen, dass du in Sicherheit bist. *(I want to know that you are safe.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wissen, ob ...** — to know whether ...
+  - Ich möchte wissen, ob du kommst. *(I'd like to know whether you are coming.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wissen, was ...** — to know what ...
+  - Ich möchte wissen, was passiert ist. *(I'd like to know what happened.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Variants: erfahren, was | verstehen, was
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wissen, wie ...** — to know how ...
+  - Ich möchte wissen, wie das funktioniert. *(I'd like to know how that works.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+## B2
+
+- **damit rechnen, dass ...** — to reckon with the fact that ...
+  - Wir rechnen damit, dass viele Patienten kommen. *(We are reckoning with many patients coming.)*
+  - Grammar: rechnen mit + Dat.; dass-Satz
+  - Variants: erwarten, dass | davon ausgehen, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **davon überzeugt sein, dass ...** — to be convinced that ...
+  - Ich bin davon überzeugt, dass die Methode funktioniert. *(I am convinced that the method works.)*
+  - Grammar: überzeugt sein von + Dat.; dass-Satz
+  - Variants: sicher sein, dass | fest glauben, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **die Möglichkeit, dass ...** — the possibility that ...
+  - Es besteht die Möglichkeit, dass er wiederkommt. *(There is a possibility that he will come back.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: die Chance, dass | die Gefahr, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **eine Frage der Zeit** — a matter of time
+  - Das ist nur eine Frage der Zeit. *(That is just a matter of time.)*
+  - Grammar: Genitiv: eine Frage der Zeit
+  - Variants: früher oder später | es dauert nicht mehr lange
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es ist deutlich, dass ...** — it is clear that ...
+  - Es ist deutlich, dass sich die Lage verbessert hat. *(It is clear that the situation has improved.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: offensichtlich | es ist klar, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es scheint, dass ...** — it seems that ...
+  - Es scheint, dass die Behandlung wirkt. *(It seems that the treatment is working.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: es sieht so aus, als ob | anscheinend
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es sieht aus, als ob ...** — it looks as if ...
+  - Es sieht aus, als ob es gleich regnet. *(It looks as if it's going to rain soon.)*
+  - Grammar: als ob + Konjunktiv II oder Indikativ
+  - Variants: es scheint, dass | anscheinend
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **es sieht so aus, als ob ...** — it looks as if ...
+  - Es sieht so aus, als ob die Behandlung wirkt. *(It looks as if the treatment is working.)*
+  - Grammar: als ob + Konjunktiv II oder Indikativ
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **fest davon überzeugt sein, dass ...** — to be firmly convinced that ...
+  - Ich bin fest davon überzeugt, dass das richtig ist. *(I am firmly convinced that this is right.)*
+  - Grammar: überzeugt sein von + Dat.; dass-Satz
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich frage mich, was ...** — I wonder what ...
+  - Ich frage mich, was er jetzt macht. *(I wonder what he is doing now.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Variants: ich überlege, was | ich bin neugierig, was
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich frage mich, wie ...** — I wonder how ...
+  - Ich frage mich, wie das möglich ist. *(I wonder how that is possible.)*
+  - Grammar: wie-Satz: Verb am Ende
+  - Variants: ich überlege, wie | ich bin gespannt, wie
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich kann mir nicht vorstellen, ... zu ...** — I can't imagine ...ing
+  - Ich kann mir nicht vorstellen, ohne ihn zu leben. *(I can't imagine living without him.)*
+  - Grammar: sich (Dat.) vorstellen + zu + Infinitiv
+  - Variants: ich kann mir nicht denken, ... | undenkbar
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich kann mir nicht vorstellen, dass ...** — I can't imagine that ...
+  - Ich kann mir nicht vorstellen, dass er das gesagt hat. *(I can't imagine that he said that.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: ich glaube nicht, dass | kaum zu glauben, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß gar nicht, ob ...** — I don't even know whether ...
+  - Ich weiß gar nicht, ob ich Zeit habe. *(I don't even know whether I have time.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Variants: ich bin nicht sicher, ob | keine Ahnung, ob
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ich weiß gar nicht, was ...** — I don't even know what ...
+  - Ich weiß gar nicht, was ich sagen soll. *(I don't even know what to say.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **in gewisser Weise** — in a way; to a certain extent
+  - In gewisser Weise hast du recht. *(In a way you are right.)*
+  - Variants: bis zu einem gewissen Grad | teilweise
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **keinen Zweifel daran haben, dass ...** — to have no doubt that ...
+  - Ich habe keinen Zweifel daran, dass er recht hat. *(I have no doubt that he is right.)*
+  - Grammar: Zweifel an + Dat.; dass-Satz
+  - Variants: sicher sein, dass | überzeugt sein, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **mir wurde klar, dass ...** — it became clear to me that ...
+  - Plötzlich wurde mir klar, dass ich den Schlüssel vergessen hatte. *(Suddenly I realised that I had forgotten the key.)*
+  - Grammar: dass-Satz: Verb am Ende; werden + Dat.
+  - Variants: ich merkte, dass | ich erkannte, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **mit Sicherheit** — for sure; certainly
+  - Das stimmt mit Sicherheit. *(That is certainly true.)*
+  - Variants: sicher | bestimmt
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **nicht so recht** — not really (quite)
+  - Ich kann das nicht so recht glauben. *(I can't quite believe that.)*
+  - Variants: nicht richtig | nicht ganz
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **nur eine Frage der Zeit** — only a matter of time
+  - Es ist nur eine Frage der Zeit, bis er kommt. *(It is only a matter of time until he comes.)*
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **sicher sein, ob ...** — to be sure whether ...
+  - Ich bin nicht sicher, ob ich komme. *(I am not sure whether I'm coming.)*
+  - Grammar: ob-Satz: Verb am Ende
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **unter Umständen** — possibly; under certain circumstances
+  - Das kann unter Umständen gefährlich sein. *(That can be dangerous under certain circumstances.)*
+  - Variants: eventuell | gegebenenfalls
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **vermuten, dass ...** — to suspect that ...
+  - Wir vermuten, dass eine Infektion vorliegt. *(We suspect that an infection is present.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: annehmen, dass | davon ausgehen, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **vielleicht sogar** — perhaps even
+  - Es ist gefährlich, vielleicht sogar tödlich. *(It is dangerous, perhaps even fatal.)*
+  - Variants: möglicherweise sogar | eventuell sogar
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **wer weiß, was ...** — who knows what ...
+  - Wer weiß, was er noch vorhat. *(Who knows what else he has planned.)*
+  - Grammar: was-Satz: Verb am Ende
+  - Variants: keine Ahnung, was | was auch immer
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **ziemlich sicher sein, dass ...** — to be fairly sure that ...
+  - Ich bin ziemlich sicher, dass das stimmt. *(I'm fairly sure that this is correct.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: so gut wie sicher | beinahe sicher
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **zu wissen, dass ...** — to know that ...
+  - Es beruhigt mich, zu wissen, dass jemand da ist. *(It calms me to know that someone is there.)*
+  - Grammar: zu + Infinitiv; dass-Satz
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+## C1
+
+- **bis zu einem gewissen Grad** — to a certain degree
+  - Bis zu einem gewissen Grad ist das normal. *(To a certain degree that is normal.)*
+  - Variants: teilweise | in gewissem Maße
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **bis zu einem gewissen Grade** — to a certain degree
+  - Bis zu einem gewissen Grade ist das richtig. *(To a certain degree that is right.)*
+  - Grammar: veraltend: Dativ-e; üblich: Grad
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **die Wahrscheinlichkeit, dass ...** — the probability that ...
+  - Die Wahrscheinlichkeit, dass er kommt, ist gering. *(The probability that he is coming is low.)*
+  - Grammar: dass-Satz: Verb am Ende
+  - Variants: die Chance, dass | das Risiko, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **mir ist bewusst, dass ...** — I am aware that ...
+  - Mir ist bewusst, dass das nicht einfach wird. *(I am aware that this won't be easy.)*
+  - Grammar: dass-Satz: Verb am Ende; bewusst sein + Dat.
+  - Variants: ich weiß, dass | mir ist klar, dass
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+- **zu einem gewissen Grad** — to a certain extent
+  - Zu einem gewissen Grad stimmt das. *(To a certain extent that is true.)*
+  - Variants: teilweise | bis zu einem gewissen Punkt
+  - Exam: B1 Sprechen Aufgabe 2/3 · B1 Schreiben Aufgabe 2 · B2 Diskussion · Fachsprachprüfung (Unsicherheit im Patientengespräch ausdrücken)
+<!-- bank:end -->
+
+## My notes
+

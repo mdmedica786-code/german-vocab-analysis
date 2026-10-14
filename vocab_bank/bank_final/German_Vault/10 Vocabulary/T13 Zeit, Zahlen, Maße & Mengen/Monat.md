@@ -1,0 +1,37 @@
+---
+title: "Monat"
+type: "word"
+aliases: ["der Monat", "Monate"]
+lemma: "Monat"
+meaning: "month"
+pos: "noun"
+article: "der"
+plural: "Monate"
+level: "A1"
+topic: "[[T13 Zeit, Zahlen, Maße & Mengen]]"
+register: "neutral"
+bank: "main"
+id: "B0577"
+goethe_level: "B1"
+netzwerk: "A1 K3 10a"
+freq_rank: 475
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Monat
+
+**Meaning:** month
+**Plural:** Monate
+**Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Der Kurs dauert drei Monate.
+> *The course lasts three months.*
+
+**Source:** Netzwerk neu A1 K3 10a (In Hamburg) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

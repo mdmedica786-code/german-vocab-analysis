@@ -1,0 +1,40 @@
+---
+title: "Europäische Parlament"
+type: "word"
+aliases: ["das Europäische Parlament"]
+lemma: "Europäische Parlament"
+meaning: "European Parliament"
+pos: "noun"
+article: "das"
+plural: "–"
+level: "B1"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "main"
+id: "B5783"
+goethe_level: "B1"
+freq_rank: 3000
+skip: false
+check: "spelling?"
+tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# das Europäische Parlament
+
+**Meaning:** European Parliament
+**Plural:** –
+**Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!warning] Check
+> spelling?
+
+> [!example] Beispiel
+> Das Europäische Parlament sitzt in Straßburg.
+> *The European Parliament sits in Strasbourg.*
+
+**Source:** Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

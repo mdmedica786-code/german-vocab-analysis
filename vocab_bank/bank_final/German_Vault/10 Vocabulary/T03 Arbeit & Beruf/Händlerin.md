@@ -1,0 +1,37 @@
+---
+title: "Händlerin"
+type: "word"
+aliases: ["die Händlerin", "Händlerinnen"]
+lemma: "Händlerin"
+meaning: "merchant (f)"
+pos: "noun"
+article: "die"
+plural: "Händlerinnen"
+level: "A1"
+topic: "[[T03 Arbeit & Beruf]]"
+register: "neutral"
+bank: "main"
+id: "B1557"
+goethe_level: "B1"
+netzwerk: "A1 K10 13a"
+freq_rank: 5759
+skip: false
+tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# die Händlerin
+
+**Meaning:** merchant (f)
+**Plural:** Händlerinnen
+**Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?
+> *I'm going to the greengrocer's. Shall I bring you something?*
+
+**Source:** Netzwerk neu A1 K10 13a (Studium und Beruf) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

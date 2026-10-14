@@ -1,0 +1,31 @@
+---
+title: "streicheln"
+type: "word"
+aliases: ["streichelt", "streichelte", "hat gestreichelt"]
+lemma: "streicheln"
+meaning: "to stroke; to pet"
+pos: "verb"
+level: "B2"
+topic: "[[T01 Person, Familie & Beziehungen]]"
+register: "neutral"
+bank: "main"
+id: "B5613"
+freq_rank: 2535
+skip: false
+tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# streicheln
+
+**Meaning:** to stroke; to pet
+**Forms:** streichelt · streichelte · hat gestreichelt
+**Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Das Kind streichelt die Katze.
+> *The child strokes the cat.*
+<!-- bank:end -->
+
+## My notes
+

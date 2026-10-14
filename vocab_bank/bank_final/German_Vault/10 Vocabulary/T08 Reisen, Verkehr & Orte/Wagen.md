@@ -1,0 +1,37 @@
+---
+title: "Wagen"
+type: "word"
+aliases: ["der Wagen"]
+lemma: "Wagen"
+meaning: "car"
+pos: "noun"
+article: "der"
+plural: "Wagen"
+level: "A2"
+topic: "[[T08 Reisen, Verkehr & Orte]]"
+register: "neutral"
+bank: "main"
+id: "B2401"
+goethe_level: "A2"
+netzwerk: "A2 K6 3a ÜB"
+freq_rank: 5130
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
+status: "new"
+---
+<!-- bank:start -->
+# der Wagen
+
+**Meaning:** car
+**Plural:** Wagen
+**Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Wo steht Ihr Wagen?
+> *Where is your car parked?*
+
+**Source:** Netzwerk neu A2 K6 3a ÜB (Arbeitswelten) · Goethe word list A2
+<!-- bank:end -->
+
+## My notes
+

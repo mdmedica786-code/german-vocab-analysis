@@ -1,0 +1,42 @@
+---
+title: "Wahlprogramm"
+type: "word"
+aliases: ["das Wahlprogramm", "Wahlprogramme"]
+lemma: "Wahlprogramm"
+meaning: "election manifesto"
+pos: "noun"
+article: "das"
+plural: "Wahlprogramme"
+level: "B2"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "b2"
+id: "D0491"
+exam_use: ["Lesen", "Schreiben"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
+---
+<!-- bank:start -->
+# das Wahlprogramm
+
+**Meaning:** election manifesto
+**Plural:** Wahlprogramme
+**Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Jede Partei stellt ihr Wahlprogramm vor.
+> *Every party presents its election manifesto.*
+
+**Collocations**
+- ein Wahlprogramm verabschieden
+- im Wahlprogramm stehen
+- das Wahlprogramm der Partei
+
+**Related:** [[Partei]]
+
+**Exam use:** Lesen, Schreiben
+<!-- bank:end -->
+
+## My notes
+

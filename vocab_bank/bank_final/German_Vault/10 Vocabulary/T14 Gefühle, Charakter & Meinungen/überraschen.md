@@ -1,0 +1,43 @@
+---
+title: "überraschen"
+type: "word"
+aliases: ["überrascht", "überraschte", "hat überrascht"]
+lemma: "überraschen"
+meaning: "to surprise"
+pos: "verb"
+level: "A2"
+topic: "[[T14 Gefühle, Charakter & Meinungen]]"
+register: "neutral"
+bank: "main"
+id: "B1999"
+goethe_level: "B1"
+netzwerk: "A2 K2 5b"
+freq_rank: 1117
+skip: false
+tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
+status: "new"
+---
+<!-- bank:start -->
+# überraschen
+
+**Meaning:** to surprise
+**Forms:** überrascht · überraschte · hat überrascht
+**Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
+
+> [!example] Beispiel
+> Ich bin ganz überrascht, dass die Wohnung so billig ist.
+> *I'm very surprised that the flat is so cheap.*
+
+**Collocations**
+- jemanden überraschen
+- angenehm überrascht
+- von etwas überrascht werden
+- überraschend kommen
+
+**Related:** [[angenehm]] · [[überrascht]] · [[überraschend]]
+
+**Source:** Netzwerk neu A2 K2 5b (Nach der Schulzeit) · Goethe word list B1
+<!-- bank:end -->
+
+## My notes
+

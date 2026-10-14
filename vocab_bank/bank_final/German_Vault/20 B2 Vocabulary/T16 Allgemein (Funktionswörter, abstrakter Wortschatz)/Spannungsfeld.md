@@ -1,0 +1,42 @@
+---
+title: "Spannungsfeld"
+type: "word"
+aliases: ["das Spannungsfeld", "Spannungsfelder"]
+lemma: "Spannungsfeld"
+meaning: "area of tension; conflicting demands"
+pos: "noun"
+article: "das"
+plural: "Spannungsfelder"
+level: "B2"
+topic: "[[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]]"
+register: "neutral"
+bank: "b2"
+id: "D0385"
+exam_use: ["Schreiben", "Lesen"]
+skip: false
+tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
+---
+<!-- bank:start -->
+# das Spannungsfeld
+
+**Meaning:** area of tension; conflicting demands
+**Plural:** Spannungsfelder
+**Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die Pflege bewegt sich im Spannungsfeld zwischen Zeit und Qualität.
+> *Care operates in a field of tension between time and quality.*
+
+**Collocations**
+- im Spannungsfeld stehen
+- im Spannungsfeld zwischen + Dat.
+- Spannungsfeld Beruf und Familie
+
+**Related:** [[Beruf]] · [[Familie]]
+
+**Exam use:** Schreiben, Lesen
+<!-- bank:end -->
+
+## My notes
+

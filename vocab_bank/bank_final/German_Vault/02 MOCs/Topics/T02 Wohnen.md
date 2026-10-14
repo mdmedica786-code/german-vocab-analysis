@@ -1,0 +1,413 @@
+---
+title: "T02 Wohnen"
+type: "moc"
+tags: ["moc", "topic/T02"]
+---
+<!-- bank:start -->
+# T02 Wohnen
+
+Map of content. 266 words in the main bank, 110 in the B2 bank.
+
+Back to [[00 Home]]
+
+## Main bank
+
+### A1 (92)
+
+- [[Altbauwohnung]] — flat in an old building
+- [[anmachen]] — to turn on
+- [[Apartment]] — apartment
+- [[Arbeitszimmer]] — study; home office
+- [[Architektur]] — architecture
+- [[aufhängen]] — to hang up
+- [[Aufzug]] — elevator
+- [[ausmachen]] — to turn off; to arrange
+- [[Bad]] — bathroom; bath
+- [[Balkon]] — balcony
+- [[bequem]] — comfortable
+- [[Bett]] — bed
+- [[Bewohner]] — resident (m)
+- [[Bewohnerin]] — resident (f)
+- [[Decke]] — ceiling; blanket
+- [[Deckel]] — lid
+- [[Dusche]] — shower
+- [[Erdgeschoss]] — ground level
+- [[Fachwerkhaus]] — half-timber house
+- [[Fenster]] — window
+- [[Flur]] — hallway
+- [[Garten]] — garden
+- [[gemütlich]] — comfortable
+- [[Geschirr]] — dishes
+- [[Handtuch]] — towel
+- [[Haus]] — house
+- [[Haushalt]] — household
+- [[Hausmeister]] — caretaker (m)
+- [[Hausmeisterin]] — caretaker (f)
+- [[hell]] — light; bright
+- [[Herd]] — stove
+- [[Hochhaus]] — skyscraper
+- [[Hof]] — courtyard; farm
+- [[Kaffeemaschine]] — coffee machine
+- [[Kinderzimmer]] — nursery
+- [[klopfen]] — to knock
+- [[Küche]] — kitchen
+- [[Kühlschrank]] — refridgerator
+- [[Lage]] — location; situation
+- [[Lampe]] — lamp
+- [[Licht]] — light
+- [[Lieblingszimmer]] — favourite room
+- [[Loft]] — loft
+- [[Miete]] — rent
+- [[Möbel]] — furniture
+- [[Nachbar]] — neighbour (m)
+- [[Nachbarin]] — neighbour (f)
+- [[oben]] — above; at the top; upstairs
+- [[Raum]] — room
+- [[Regal]] — shelf
+- [[Reihenhaus]] — townhouse
+- [[renoviert]] — refurbished
+- [[reparieren]] — to repair
+- [[sauber]] — clean
+- [[sauber machen]] — to clean sth
+- [[Schlafzimmer]] — bedroom
+- [[Schlüssel]] — key
+- [[Schrank]] — wardrobe, cupboard
+- [[Schreibtisch]] — desk
+- [[Seife]] — soap
+- [[Sessel]] — armchair
+- [[Sofa]] — sofa, couch
+- [[Spülmaschine]] — dishwasher
+- [[Stock]] — floor; stick
+- [[Stuhl]] — chair
+- [[Teppich]] — carpet
+- [[Terrasse]] — patio
+- [[Tisch]] — table
+- [[Toilette]] — toilet
+- [[Treppe]] — stairs
+- [[Tür]] — door
+- [[umziehen]] — to move
+- [[Umzug]] — move
+- [[unten]] — below
+- [[Untergeschoss]] — basement
+- [[vermieten]] — to let sth
+- [[Vermieter]] — landlord
+- [[Vermieterin]] — landlady
+- [[waschen]] — to wash
+- [[Waschmaschine]] — washing machine
+- [[wegräumen]] — to put away
+- [[WG]] — flat share
+- [[Wohn-Situation]] — living situation
+- [[wohnen]] — to live
+- [[Wohnfläche]] — living space
+- [[Wohnform]] — form of housing
+- [[Wohnung]] — flat
+- [[Wohnungsanzeige]] — advertisement for a flat
+- [[Wohnungssuche]] — flat search
+- [[Wohnzimmer]] — living room
+- [[zentral]] — central
+- [[Zimmer]] — room
+
+### A2 (56)
+
+- [[abschließen]] — to finish
+- [[Altbau]] — old building
+- [[aufräumen]] — to clean up
+- [[Badezimmer]] — bathroom
+- [[bauen]] — to build
+- [[Blumentopf]] — flower pot
+- [[Boden]] — floor
+- [[Dach]] — roof
+- [[Dekoration]] — decoration
+- [[einrichten]] — to furnish
+- [[einziehen]] — to move in
+- [[elektrisch]] — electric
+- [[Garage]] — garage
+- [[Gartenhaus]] — summer house
+- [[Gas]] — gas
+- [[Hausarbeit]] — housework; term paper
+- [[Hausboot]] — houseboat
+- [[heizen]] — to heat
+- [[Heizung]] — heating
+- [[hereinkommen]] — to come in
+- [[Kaution]] — deposit
+- [[Keller]] — basement
+- [[Kerze]] — candle
+- [[Kissen]] — pillow
+- [[klingeln]] — to ring
+- [[leeren]] — to empty
+- [[Mieter]] — tenant (m)
+- [[Mieterin]] — tenant (f)
+- [[Mitbewohner]] — flatmate (m)
+- [[Mitbewohnerin]] — flatmate (f)
+- [[möbliert]] — furnished
+- [[Müll]] — rubbish
+- [[Müllabfuhr]] — refuse collection
+- [[Mülltonne]] — rubbish bin
+- [[nebenan]] — next door
+- [[Nebenkosten]] — utilities
+- [[putzen]] — to clean
+- [[renovieren]] — to renovate
+- [[Schere]] — scissors
+- [[schmutzig]] — dirty
+- [[schmücken]] — to decorate
+- [[spülen]] — to rinse; to wash up
+- [[Stadtbewohner]] — city dweller (m)
+- [[Stadtbewohnerin]] — city dweller (f)
+- [[Stockwerk]] — floor
+- [[Straßenreinigung]] — street cleaning
+- [[Strom]] — electricity
+- [[unordentlich]] — messy
+- [[Wagenburg]] — wagon fort
+- [[WC]] — WC (water closet)
+- [[wegwerfen]] — to throw away
+- [[Wohnheim]] — dorm
+- [[Wohnungsschlüssel]] — key to the flat
+- [[Wohnungstür]] — flat door
+- [[Wäsche]] — laundry; washing
+- [[Zuhause]] — home
+
+### B1 (98)
+
+- [[Abfalleimer]] — waste bin
+- [[Abwart]] — caretaker (Swiss)
+- [[Abwartin]] — caretaker (f) (Swiss)
+- [[abwaschen]] — to wash up
+- [[Alarmanlage]] — alarm (system)
+- [[Altenheim]] — care home/ care facility
+- [[Altersheim]] — old people's home
+- [[aufbewahren]] — to keep; to store
+- [[Backofen]] — oven
+- [[Badewanne]] — bathtub
+- [[Bau]] — building; construction
+- [[Betonwand]] — concrete wall
+- [[Bürste]] — brush
+- [[Couch]] — couch
+- [[Dreck]] — dirt
+- [[Duschzeit]] — shower time
+- [[Eck]] — corner (S. German, Austrian)
+- [[Eimer]] — bucket (im Eimer sein = to be ruined)
+- [[einbauen]] — to build in
+- [[Einrichtung]] — furnishings; facility; institution
+- [[einschalten]] — to switch on
+- [[einstecken]] — to plug (in)
+- [[Espresso-Kanne]] — Italian coffee pot
+- [[Espressokanne]] — espresso pot (moka pot)
+- [[Etage]] — floor; storey
+- [[Fassade]] — facade
+- [[Fauteuil]] — armchair
+- [[Garagentor]] — garage door
+- [[Geschirrspüler]] — dishwasher
+- [[Grundstück]] — plot; property
+- [[Gummiwanne]] — rubber tub
+- [[Hammer]] — hammer
+- [[Hausbewohner]] — resident (of a building) (m)
+- [[Hausbewohnerin]] — resident (of a building) (f)
+- [[Hausfassade]] — house front
+- [[Haustür]] — front door
+- [[Hauswand]] — exterior wall of a house
+- [[Heim]] — home; institution
+- [[Jahresmiete]] — yearly rent
+- [[Jalousie]] — shutter
+- [[Karton]] — cardboard box; carton
+- [[Kleiderschrank]] — wardrobe
+- [[Klimaanlage]] — air conditioning
+- [[Klingel]] — bell
+- [[Korb]] — basket
+- [[Korridor]] — corridor
+- [[Lift]] — elevator
+- [[Mauer]] — wall
+- [[Mikro-Wohnen]] — micro-living
+- [[Mülleimer]] — rubbish bin
+- [[Nachbarschaft]] — neighbourhood
+- [[Nachttisch]] — nightstand
+- [[Nagel]] — nail
+- [[Neubau]] — new building
+- [[Ofen]] — oven
+- [[Quartier]] — accommodation; district
+- [[Renovierung]] — renovation
+- [[Rohr]] — pipe; tube
+- [[rumliegen]] — to lie around
+- [[Schmutz]] — dirt
+- [[Siedlung]] — settlement, housing scheme
+- [[Smart Home]] — smart home
+- [[Sozialsiedlung]] — social housing project
+- [[Spiegel]] — mirror
+- [[stapeln]] — to stack
+- [[Staub]] — dust
+- [[staubsaugen]] — to vacuum (clean)
+- [[Staubsauger]] — vacuum cleaner
+- [[Steckdose]] — power outlet, socket
+- [[Stecker]] — plug
+- [[Steh-Sitz-Tisch]] — stand-sit-table
+- [[Stiege]] — staircase (Austrian)
+- [[Stiegenhaus]] — stairwell (Austrian)
+- [[streichen]] — to paint; to cross out; to cancel
+- [[Streichholz]] — match
+- [[Stromverbrauch]] — electricity consumption
+- [[Stufe]] — step; level
+- [[Treppenhaus]] — stairwell
+- [[trocknen]] — to dry
+- [[Türöffner]] — door opener
+- [[Umbau]] — conversion; renovation
+- [[unbequem]] — uncomfortable
+- [[Vase]] — vase
+- [[Vermietung]] — renting out; letting
+- [[Vermittlung]] — agency; placement; mediation
+- [[Villa]] — mansion
+- [[Wand]] — wall
+- [[Waschmittel]] — detergent
+- [[Wecker]] — alarm clock
+- [[wegziehen]] — to move away
+- [[Wohnanlage]] — residential complex
+- [[Wohnbau]] — housing construction
+- [[Wohnraum]] — living space
+- [[Wohnsitz]] — residence; place of residence
+- [[Zange]] — pliers
+- [[zugehen]] — to close; to approach
+- [[zuhause (adverb)]] — at home
+- [[zusammenwohnen]] — to live together
+
+### B2 (18)
+
+- [[Ausstattung]] — equipment; furnishings
+- [[Auszug]] — move out; extract
+- [[Balken]] — beam
+- [[Beleuchtung]] — lighting
+- [[daheim]] — at home (S. German, Austrian, Swiss)
+- [[defekt]] — defective
+- [[eingeschaltet]] — switched on
+- [[Fußboden]] — floor
+- [[Häuschen]] — little house
+- [[Kamin]] — fireplace; chimney
+- [[LED-Licht]] — LED light
+- [[Matratze]] — mattress
+- [[räumen]] — to clear; to vacate; to tidy
+- [[Schublade]] — drawer
+- [[unterbringen]] — to accommodate; to put up
+- [[Vorhang]] — curtain
+- [[wischen]] — to wipe; to mop
+- [[Zaun]] — fence
+
+### C1 (2)
+
+- [[benachbart]] — neighbouring
+- [[Fundament]] — foundation
+
+## B2 bank
+
+### B2 (110)
+
+- [[Abfluss]] — drain; outflow
+- [[Abstellraum]] — storage room; box room
+- [[Adapter]] — adapter
+- [[Aschenbecher]] — ashtray
+- [[aussortieren]] — to sort out; to weed out
+- [[ausstatten]] — to equip; to furnish
+- [[Bilderrahmen]] — picture frame
+- [[Biotonne]] — organic waste bin
+- [[Bohrmaschine]] — drill
+- [[bügeln]] — to iron
+- [[bürsten]] — to brush
+- [[Dachboden]] — attic; loft
+- [[Deo]] — deodorant
+- [[Dübel]] — wall plug
+- [[Eigenbedarf]] — own use (landlord's need to occupy)
+- [[Eigenheim]] — owner-occupied house; own home
+- [[Eigentumswohnung]] — owner-occupied flat; condominium
+- [[Fliese]] — tile
+- [[Gartenschlauch]] — garden hose
+- [[Gegensprechanlage]] — intercom
+- [[geräumig]] — spacious; roomy
+- [[Gießkanne]] — watering can
+- [[Glascontainer]] — bottle bank
+- [[Glühbirne]] — light bulb
+- [[Hausflur]] — hallway; entrance hall (of a building)
+- [[Haushaltsgerät]] — household appliance
+- [[Hausordnung]] — house rules
+- [[Hausverwaltung]] — property management
+- [[Heizkosten]] — heating costs
+- [[Heizkörper]] — radiator
+- [[hämmern]] — to hammer; to pound
+- [[Instandhaltung]] — maintenance; upkeep
+- [[Kaltmiete]] — basic rent (excluding utilities)
+- [[kippen]] — to tip; to tilt; to topple
+- [[Klebeband]] — adhesive tape
+- [[Klebstoff]] — glue; adhesive
+- [[Kleingarten]] — allotment garden
+- [[Kurzschluss]] — short circuit
+- [[Küchenpapier]] — kitchen roll
+- [[Laminat]] — laminate flooring
+- [[lüften]] — to air; to ventilate
+- [[Maklergebühr]] — estate agent's fee
+- [[Mehrgenerationenhaus]] — multigenerational house
+- [[Mieterhöhung]] — rent increase
+- [[Mietminderung]] — rent reduction
+- [[Mietrecht]] — tenancy law
+- [[Mietspiegel]] — rent index
+- [[Mietvertrag]] — rental agreement; lease
+- [[muffig]] — musty; stuffy
+- [[mähen]] — to mow; to cut (grass)
+- [[Möbelpacker]] — furniture mover; removal man
+- [[Mülltüte]] — bin bag
+- [[Nachmieter]] — subsequent tenant
+- [[Nagelschere]] — nail scissors
+- [[Nebenkostenabrechnung]] — utilities statement
+- [[Parkett]] — parquet
+- [[Pinsel]] — brush; paintbrush
+- [[Pinzette]] — tweezers
+- [[Platz schaffen]] — to make room
+- [[Putzmittel]] — cleaning product
+- [[Rasenmäher]] — lawnmower
+- [[Rasierer]] — razor; shaver
+- [[Rohrbruch]] — burst pipe
+- [[Rollladen]] — roller shutter
+- [[Ruhestörung]] — disturbance of the peace; noise nuisance
+- [[saugen]] — to suck; to vacuum
+- [[scheuern]] — to scrub; to chafe
+- [[schleppen]] — to drag; to haul
+- [[Schlüsseldienst]] — locksmith service
+- [[Schraube]] — screw
+- [[schrauben]] — to screw; to tinker
+- [[Schraubenzieher]] — screwdriver
+- [[Schönheitsreparatur]] — cosmetic repairs (e.g. painting)
+- [[Sockelleiste]] — skirting board
+- [[Sozialwohnung]] — social housing flat
+- [[Spachtel]] — putty knife; filling knife
+- [[Spaten]] — spade
+- [[Sperrmüll]] — bulky waste
+- [[sprühen]] — to spray; to sparkle
+- [[Spülmittel]] — washing-up liquid
+- [[staubig]] — dusty
+- [[Steckdosenleiste]] — power strip; multiple socket
+- [[stickig]] — stuffy; airless
+- [[Stromausfall]] — power cut
+- [[Säge]] — saw
+- [[Tapete]] — wallpaper
+- [[Taschenlampe]] — torch; flashlight
+- [[Teppichboden]] — fitted carpet
+- [[Thermostat]] — thermostat
+- [[Tischdecke]] — tablecloth
+- [[Toilettenpapier]] — toilet paper
+- [[Umzugskarton]] — moving box
+- [[Ungeziefer]] — vermin; pests
+- [[Untermiete]] — subletting
+- [[Verlängerungskabel]] — extension cable
+- [[Wackelkontakt]] — loose connection
+- [[wackeln]] — to wobble; to shake
+- [[Warmmiete]] — rent including heating and utilities
+- [[Waschbecken]] — washbasin; sink
+- [[Waschlappen]] — flannel; washcloth
+- [[Wasserschaden]] — water damage
+- [[Werkzeugkasten]] — toolbox
+- [[Wohngemeinschaft]] — shared flat
+- [[Wohnungsbesichtigung]] — flat viewing
+- [[Wohnungsübergabe]] — handover of the flat
+- [[Wärmepumpe]] — heat pump
+- [[Wäscheleine]] — clothesline
+- [[Wäscheständer]] — clothes airer
+- [[Zimmerpflanze]] — houseplant
+- [[Übergabeprotokoll]] — handover protocol (for a flat)
+<!-- bank:end -->
+
+## My notes
+

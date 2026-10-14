@@ -1,0 +1,40 @@
+---
+title: "gesellschaftlich"
+type: "word"
+lemma: "gesellschaftlich"
+meaning: "social"
+pos: "adjective"
+level: "B1"
+topic: "[[T12 Gesellschaft, Politik, Recht & Geschichte]]"
+register: "neutral"
+bank: "main"
+id: "B4942"
+netzwerk: "B1 K11 8b"
+freq_rank: 795
+skip: false
+tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
+status: "new"
+---
+<!-- bank:start -->
+# gesellschaftlich
+
+**Meaning:** social
+**Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
+
+> [!example] Beispiel
+> Die gesellschaftliche Entwicklung ist schnell.
+> *Social development is fast.*
+
+**Collocations**
+- gesellschaftliche Probleme
+- gesellschaftlich akzeptiert
+- gesellschaftliche Veränderung
+- gesellschaftliches Leben
+
+**Related:** [[Veränderung]] · [[Leben]]
+
+**Source:** Netzwerk neu B1 K11 8b (Stadt, Land, Fluss)
+<!-- bank:end -->
+
+## My notes
+
