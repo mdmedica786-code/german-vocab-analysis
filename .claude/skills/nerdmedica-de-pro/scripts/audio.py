@@ -87,7 +87,8 @@ def add_audio(words: list[dict], engine: str = "edge", voice: str = "katja",
     jobs = []
     for i, w in enumerate(words):
         word_text = _clean(f"{w.get('article', '')} {w['de_word']}")
-        jobs.append((i, "audio_word", word_text))
+        if not w.get("audio_word"):          # keep native recordings already attached
+            jobs.append((i, "audio_word", word_text))
         if sentences and w.get("de_sentence"):
             jobs.append((i, "audio_sentence", _clean(w["de_sentence"])))
 
@@ -129,3 +130,42 @@ def add_audio(words: list[dict], engine: str = "edge", voice: str = "katja",
                     for w in words for f in ("audio_word", "audio_sentence")
                     for m in [re.match(r"\[sound:(.+)\]", w.get(f, "") or "")] if m})
     return {"media_files": media, "made": made, "cached": cached, "failed": failed}
+
+
+def _find_repo_tools():
+    """Locate vocab_bank/work (audio_util.py) by walking up from this file or the working directory."""
+    for start in (Path(__file__).resolve(), Path.cwd().resolve()):
+        for p in [start, *start.parents]:
+            if (p / "vocab_bank" / "work" / "audio_util.py").is_file():
+                return p / "vocab_bank"
+    return None
+
+
+def add_native_audio(words: list[dict], vocab_bank_dir: str | None = None) -> dict:
+    """
+    Attach the NATIVE recordings downloaded by vocab_bank/work/download_audio.py
+    (Lingua Libre / Wikimedia Commons, in vocab_bank/bank_final/audio, listed in
+    vocab_bank/work/audio_manifest.json) as  audio_word = "[sound:<file>]".
+    Words without a recording are left empty (use --audio native+edge to fill them with TTS).
+    Returns {"media_files": [...], "found": n, "missing": [...]}.
+    """
+    import sys
+    root = Path(vocab_bank_dir) if vocab_bank_dir else _find_repo_tools()
+    if root is None or not (root / "work" / "audio_util.py").is_file():
+        raise SystemExit("native audio: vocab_bank/work/audio_util.py not found (run inside the repo or pass --vocab-bank)")
+    sys.path.insert(0, str(root / "work"))
+    from audio_util import AudioLookup, AUDIO_DIR
+    look = AudioLookup()
+    if not look:
+        raise SystemExit("native audio: no downloaded audio found. Run: python vocab_bank/work/download_audio.py --all")
+    found, missing, media = 0, [], set()
+    for w in words:
+        fn = look.get(w["de_word"])
+        if fn:
+            w["audio_word"] = f"[sound:{fn}]"
+            media.add(str(AUDIO_DIR / fn))
+            found += 1
+        else:
+            w.setdefault("audio_word", "")
+            missing.append(w["de_word"])
+    return {"media_files": sorted(media), "found": found, "missing": missing}

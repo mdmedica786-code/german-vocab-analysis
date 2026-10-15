@@ -86,6 +86,15 @@ The migrator matches old → new notes by content and copies each card's schedul
 
 Skip this for chapters she has never studied.
 
+## Native recordings from the bank (preferred when the files exist)
+Medica downloads real native-speaker audio (Lingua Libre / Wikimedia Commons) with `vocab_bank/work/download_audio.py`. The files are in `vocab_bank/bank_final/audio/` and listed in `vocab_bank/work/audio_manifest.json`. Attach them to the cards with:
+```
+--audio native            # recordings only; words without one get no audio
+--audio native+edge       # recordings first, Edge TTS fills the gaps (and the example sentences)
+--vocab-bank <path>       # only needed outside the repo
+```
+The recording goes into the word-audio field as `[sound:<file>]` and is packed into the .apkg. Example sentences have no native recordings; they only get audio with `native+edge` / `native+gtts`. If the audio folder is empty the build stops with a clear message.
+
 ## Native audio (optional — only when Medica asks)
 
 ```bash
