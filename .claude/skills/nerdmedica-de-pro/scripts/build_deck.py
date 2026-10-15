@@ -22,11 +22,12 @@ def main():
     ap.add_argument("--out", required=True)
     ap.add_argument("--preserve-progress-from", default=None,
                     help="Medica's current .apkg — keeps scheduling of matching cards")
-    ap.add_argument("--audio", choices=["none", "edge", "gtts"], default="none")
+    ap.add_argument("--audio", choices=["none", "edge", "gtts", "native", "native+edge", "native+gtts"], default="none")
     ap.add_argument("--voice", default="katja",
                     help="katja | conrad | florian | amala | killian | full edge voice id")
     ap.add_argument("--rate", default="-10%", help="edge speaking rate, e.g. -10%%, +0%%")
     ap.add_argument("--no-sentence-audio", action="store_true")
+    ap.add_argument("--vocab-bank", default=None, help="path of the vocab_bank folder (native audio); auto-detected inside the repo")
     ap.add_argument("--audio-cache", default="/tmp/nmdepro_audio")
     args = ap.parse_args()
 
@@ -44,12 +45,19 @@ def main():
         sys.exit("No valid words after validation.")
 
     media = []
-    if args.audio != "none":
-        from audio import add_audio
-        print(f"→ Audio: {args.audio} / {args.voice} / rate {args.rate}")
-        r = add_audio(words, engine=args.audio, voice=args.voice, rate=args.rate,
-                      cache_dir=args.audio_cache, sentences=not args.no_sentence_audio)
+    engine = args.audio
+    if engine.startswith("native"):
+        from audio import add_native_audio
+        r = add_native_audio(words, args.vocab_bank)
         media = r["media_files"]
+        print(f"→ Native audio: {r['found']} of {len(words)} words have a recording, {len(r['missing'])} without")
+        engine = engine.split("+")[1] if "+" in engine else "none"
+    if engine != "none":
+        from audio import add_audio
+        print(f"→ Audio: {engine} / {args.voice} / rate {args.rate}")
+        r = add_audio(words, engine=engine, voice=args.voice, rate=args.rate,
+                      cache_dir=args.audio_cache, sentences=not args.no_sentence_audio)
+        media = sorted(set(media) | set(r["media_files"]))
         print(f"  made {r['made']}, cached {r['cached']}, failed {r['failed']}")
         if r["failed"] and r["made"] == 0 and r["cached"] == 0:
             print("  ⚠ All audio failed (network / blocked IP). Deck is built without audio.")
