@@ -15,11 +15,16 @@ id: "B4854"
 netzwerk: "B1 K10 10b"
 freq_rank: 2186
 skip: false
+audio: "Besonderheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besonderheit
+
+![[Besonderheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besonderheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besonderheit&language=de)
 
 **Meaning:** special feature; peculiarity
 **Plural:** Besonderheiten

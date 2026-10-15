@@ -14,11 +14,16 @@ bank: "main"
 id: "B6317"
 freq_rank: 5518
 skip: false
+audio: "Rehabilitation.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rehabilitation
+
+![[Rehabilitation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rehabilitation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rehabilitation&language=de)
 
 **Meaning:** rehabilitation
 **Plural:** Rehabilitationen

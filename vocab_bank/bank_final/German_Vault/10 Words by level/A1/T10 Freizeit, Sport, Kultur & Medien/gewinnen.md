@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K3 6d"
 freq_rank: 521
 skip: false
+audio: "gewinnen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewinnen
+
+![[gewinnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gewinnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gewinnen&language=de)
 
 **Meaning:** to win
 **Forms:** gewinnt · gewann · hat gewonnen

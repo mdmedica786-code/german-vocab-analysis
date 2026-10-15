@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4383"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Schimpanse.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Schimpanse
+
+![[Schimpanse.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schimpanse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schimpanse&language=de)
 
 **Meaning:** chimpanzee
 **Plural:** Schimpansen

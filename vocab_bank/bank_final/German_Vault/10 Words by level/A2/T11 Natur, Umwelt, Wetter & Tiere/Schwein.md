@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 11b"
 freq_rank: 3307
 skip: false
+audio: "Schwein.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schwein
+
+![[Schwein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwein&language=de)
 
 **Meaning:** pig
 **Plural:** Schweine

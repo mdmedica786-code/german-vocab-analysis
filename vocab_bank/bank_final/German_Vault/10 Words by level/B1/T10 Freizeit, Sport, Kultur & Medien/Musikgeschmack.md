@@ -15,11 +15,16 @@ id: "B4485"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Musikgeschmack.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Musikgeschmack
+
+![[Musikgeschmack.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikgeschmack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgeschmack&language=de)
 
 **Meaning:** music taste
 **Plural:** –

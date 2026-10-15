@@ -14,11 +14,16 @@ bank: "main"
 id: "B5503"
 freq_rank: 2128
 skip: false
+audio: "Power.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Power
+
+![[Power.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Power/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Power&language=de)
 
 **Meaning:** power; energy (colloquial)
 **Plural:** –

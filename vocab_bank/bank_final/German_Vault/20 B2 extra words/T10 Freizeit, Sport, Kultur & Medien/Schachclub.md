@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4373"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Schachclub.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Schachclub
+
+![[Schachclub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schachclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schachclub&language=de)
 
 **Meaning:** chess club
 **Plural:** Schachclubs

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 12b"
 freq_rank: 1342
 skip: false
+audio: "Tradition.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tradition
+
+![[Tradition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tradition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tradition&language=de)
 
 **Meaning:** tradition
 **Plural:** Traditionen

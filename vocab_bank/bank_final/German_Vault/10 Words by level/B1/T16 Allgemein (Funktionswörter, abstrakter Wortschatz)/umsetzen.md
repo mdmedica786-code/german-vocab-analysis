@@ -13,11 +13,16 @@ id: "B4643"
 netzwerk: "B1 K9 7b"
 freq_rank: 1859
 skip: false
+audio: "umsetzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umsetzen
+
+![[umsetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umsetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umsetzen&language=de)
 
 **Meaning:** to realize
 **Forms:** setzt um · setzte um · hat umgesetzt

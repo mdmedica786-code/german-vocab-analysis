@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1198"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ansiedeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansiedeln
+
+![[ansiedeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansiedeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansiedeln&language=de)
 
 **Meaning:** to settle; to attract (businesses)
 **Forms:** siedelt an · siedelte an · hat angesiedelt

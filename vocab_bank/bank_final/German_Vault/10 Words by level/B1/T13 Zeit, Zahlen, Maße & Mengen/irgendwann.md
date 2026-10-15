@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 1166
 skip: false
+audio: "irgendwann.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # irgendwann
+
+![[irgendwann.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/irgendwann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irgendwann&language=de)
 
 **Meaning:** sometime
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

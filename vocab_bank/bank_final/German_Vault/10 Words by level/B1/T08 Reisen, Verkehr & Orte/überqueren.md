@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 6c ÜB"
 freq_rank: 5759
 skip: false
+audio: "überqueren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überqueren
+
+![[überqueren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberqueren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberqueren&language=de)
 
 **Meaning:** to cross
 **Forms:** überquert · überquerte · hat überquert

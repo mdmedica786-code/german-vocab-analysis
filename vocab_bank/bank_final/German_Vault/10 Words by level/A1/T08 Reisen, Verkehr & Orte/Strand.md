@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 12b"
 freq_rank: 2193
 skip: false
+audio: "Strand.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Strand
+
+![[Strand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strand&language=de)
 
 **Meaning:** beach
 **Plural:** Strände

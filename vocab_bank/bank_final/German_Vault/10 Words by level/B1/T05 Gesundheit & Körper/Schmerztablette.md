@@ -15,11 +15,16 @@ id: "B3479"
 netzwerk: "B1 K2 10a"
 freq_rank: 5759
 skip: false
+audio: "Schmerztablette.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schmerztablette
+
+![[Schmerztablette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schmerztablette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmerztablette&language=de)
 
 **Meaning:** pain killer
 **Plural:** Schmerztabletten

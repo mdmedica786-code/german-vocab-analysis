@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4406"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Servicezeit
+
+[▶️ YouGlish](https://youglish.com/pronounce/Servicezeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Servicezeit&language=de)
 
 **Meaning:** service hours
 **Plural:** Servicezeiten

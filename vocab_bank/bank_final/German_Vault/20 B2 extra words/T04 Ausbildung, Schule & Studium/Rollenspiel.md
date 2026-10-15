@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4358"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Rollenspiel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Rollenspiel
+
+![[Rollenspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rollenspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollenspiel&language=de)
 
 **Meaning:** role play; role-playing game
 **Plural:** Rollenspiele

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2447"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Hinsicht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hinsicht
+
+![[Hinsicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hinsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hinsicht&language=de)
 
 **Meaning:** respect; regard
 **Plural:** –

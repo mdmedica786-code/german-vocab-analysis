@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Entscheidung fällen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Entscheidung%20f%C3%A4llen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Entscheidung%20f%C3%A4llen&language=de)
+
 **Meaning:** to reach a decision
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -15,11 +15,16 @@ id: "B4169"
 netzwerk: "B1 K6 9b"
 freq_rank: 3175
 skip: false
+audio: "Rhythmus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rhythmus
+
+![[Rhythmus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rhythmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rhythmus&language=de)
 
 **Meaning:** rhythm
 **Plural:** Rhythmen

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 8b"
 freq_rank: 4403
 skip: false
+audio: "Enkel.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Enkel
+
+![[Enkel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Enkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Enkel&language=de)
 
 **Meaning:** grandson; grandchild
 **Plural:** Enkel

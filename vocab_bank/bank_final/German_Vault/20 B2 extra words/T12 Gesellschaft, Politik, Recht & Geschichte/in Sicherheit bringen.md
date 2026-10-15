@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Sicherheit bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Sicherheit%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Sicherheit%20bringen&language=de)
+
 **Meaning:** to bring to safety
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

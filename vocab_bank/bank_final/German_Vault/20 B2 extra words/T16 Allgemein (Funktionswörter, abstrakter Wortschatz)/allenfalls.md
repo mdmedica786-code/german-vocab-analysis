@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2844"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "allenfalls.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # allenfalls
+
+![[allenfalls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allenfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allenfalls&language=de)
 
 **Meaning:** at most; at best; possibly
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

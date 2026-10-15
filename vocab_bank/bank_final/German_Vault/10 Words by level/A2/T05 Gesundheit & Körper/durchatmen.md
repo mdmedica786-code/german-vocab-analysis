@@ -13,11 +13,16 @@ id: "B2696"
 netzwerk: "A2 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "durchatmen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchatmen
+
+![[durchatmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchatmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchatmen&language=de)
 
 **Meaning:** to breathe deeply
 **Forms:** atmet durch · atmete durch · hat durchgeatmet

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3607"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Beweglichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beweglichkeit
+
+![[Beweglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beweglichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beweglichkeit&language=de)
 
 **Meaning:** mobility; flexibility
 **Plural:** –

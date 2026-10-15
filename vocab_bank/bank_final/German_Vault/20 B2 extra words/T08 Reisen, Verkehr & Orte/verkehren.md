@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3537"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "verkehren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verkehren
+
+![[verkehren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verkehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verkehren&language=de)
 
 **Meaning:** to run (public transport); to associate (with)
 **Forms:** verkehrt · verkehrte · hat verkehrt

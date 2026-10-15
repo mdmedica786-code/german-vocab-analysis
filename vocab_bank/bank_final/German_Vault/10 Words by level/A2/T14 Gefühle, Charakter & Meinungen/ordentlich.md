@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 11a"
 freq_rank: 2465
 skip: false
+audio: "ordentlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ordentlich
+
+![[ordentlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ordentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ordentlich&language=de)
 
 **Meaning:** tidy; proper
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

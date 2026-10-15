@@ -15,11 +15,16 @@ id: "B1294"
 netzwerk: "A1 K8 12a"
 freq_rank: 5759
 skip: false
+audio: "Nelke.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nelke
+
+![[Nelke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nelke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nelke&language=de)
 
 **Meaning:** carnation; clove
 **Plural:** Nelken

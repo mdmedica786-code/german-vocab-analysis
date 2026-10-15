@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10c"
 freq_rank: 1444
 skip: false
+audio: "sinnvoll.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sinnvoll
+
+![[sinnvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sinnvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sinnvoll&language=de)
 
 **Meaning:** sensible
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

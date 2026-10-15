@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3890"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Einschlafhilfe
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einschlafhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschlafhilfe&language=de)
 
 **Meaning:** sleep aid; help for falling asleep
 **Plural:** Einschlafhilfen

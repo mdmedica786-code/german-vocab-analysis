@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1504"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Mitverantwortung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitverantwortung
+
+![[Mitverantwortung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitverantwortung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitverantwortung&language=de)
 
 **Meaning:** shared responsibility
 **Plural:** –

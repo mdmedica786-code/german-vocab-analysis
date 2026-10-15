@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3622"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Heimweg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Heimweg
+
+![[Heimweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heimweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heimweg&language=de)
 
 **Meaning:** way home
 **Plural:** Heimwege

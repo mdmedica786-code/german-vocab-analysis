@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1348"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "seinerzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # seinerzeit
+
+![[seinerzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seinerzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seinerzeit&language=de)
 
 **Meaning:** at that time; back then
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

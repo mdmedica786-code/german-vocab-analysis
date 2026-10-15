@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 3534
 skip: false
+audio: "rückwärts.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rückwärts
+
+![[rückwärts.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCckw%C3%A4rts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCckw%C3%A4rts&language=de)
 
 **Meaning:** backward
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

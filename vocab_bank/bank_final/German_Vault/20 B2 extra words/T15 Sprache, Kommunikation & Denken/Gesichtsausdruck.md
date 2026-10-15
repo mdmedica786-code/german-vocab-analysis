@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2783"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Gesichtsausdruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gesichtsausdruck
+
+![[Gesichtsausdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesichtsausdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesichtsausdruck&language=de)
 
 **Meaning:** facial expression
 **Plural:** Gesichtsausdrücke

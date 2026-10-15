@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 3a"
 freq_rank: 4489
 skip: false
+audio: "Ferien.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ferien
+
+![[Ferien.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ferien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferien&language=de)
 
 **Meaning:** holidays
 **Plural:** (Pl.)

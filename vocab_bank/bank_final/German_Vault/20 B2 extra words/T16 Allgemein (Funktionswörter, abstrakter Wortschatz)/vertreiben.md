@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2549"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "vertreiben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # vertreiben
+
+![[vertreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vertreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertreiben&language=de)
 
 **Meaning:** to drive away; to sell; to distribute
 **Forms:** vertreibt · vertrieb · hat vertrieben

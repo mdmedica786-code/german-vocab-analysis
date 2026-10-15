@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3148"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Genauigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Genauigkeit
+
+![[Genauigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Genauigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genauigkeit&language=de)
 
 **Meaning:** accuracy; precision
 **Plural:** –

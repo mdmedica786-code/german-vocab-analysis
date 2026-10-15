@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1122"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Hemmung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hemmung
+
+![[Hemmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hemmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hemmung&language=de)
 
 **Meaning:** inhibition; reservation
 **Plural:** Hemmungen

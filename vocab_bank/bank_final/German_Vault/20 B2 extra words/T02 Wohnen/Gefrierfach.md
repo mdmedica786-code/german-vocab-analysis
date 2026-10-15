@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3984"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Gefrierfach.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gefrierfach
+
+![[Gefrierfach.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gefrierfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefrierfach&language=de)
 
 **Meaning:** freezer compartment
 **Plural:** Gefrierfächer

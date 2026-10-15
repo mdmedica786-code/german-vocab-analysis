@@ -16,11 +16,16 @@ freq_rank: 3658
 skip: true
 skip_reason: "duplicate of B1287 (learn that entry)"
 check: "dup:B1287"
+audio: "Kopfschmerz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M2", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kopfschmerz
+
+![[Kopfschmerz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kopfschmerz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopfschmerz&language=de)
 
 **Meaning:** headache
 **Plural:** Kopfschmerzen

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Hilfe leisten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hilfe%20leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfe%20leisten&language=de)
+
 **Meaning:** to render assistance
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

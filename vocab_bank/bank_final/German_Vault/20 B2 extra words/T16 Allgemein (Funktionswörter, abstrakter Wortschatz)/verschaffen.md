@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2560"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "verschaffen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschaffen
+
+![[verschaffen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschaffen&language=de)
 
 **Meaning:** to procure; to obtain; to give
 **Forms:** verschafft sich · verschaffte sich · hat sich verschafft

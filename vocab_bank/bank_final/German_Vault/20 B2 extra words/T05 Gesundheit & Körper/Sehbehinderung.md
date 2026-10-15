@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4398"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Sehbehinderung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Sehbehinderung
+
+![[Sehbehinderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sehbehinderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sehbehinderung&language=de)
 
 **Meaning:** visual impairment
 **Plural:** Sehbehinderungen

@@ -15,11 +15,16 @@ id: "B4622"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 1369
 skip: false
+audio: "Frieden.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Frieden
+
+![[Frieden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frieden&language=de)
 
 **Meaning:** peace
 **Plural:** –

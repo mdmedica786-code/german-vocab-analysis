@@ -15,11 +15,16 @@ id: "B3280"
 netzwerk: "B1 K1 4a"
 freq_rank: 5759
 skip: false
+audio: "Urlaubsplanung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Urlaubsplanung
+
+![[Urlaubsplanung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsplanung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsplanung&language=de)
 
 **Meaning:** holiday planning
 **Plural:** Urlaubsplanungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3932"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Fahrsicherheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fahrsicherheit
+
+![[Fahrsicherheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrsicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrsicherheit&language=de)
 
 **Meaning:** driving safety; road safety
 **Plural:** –

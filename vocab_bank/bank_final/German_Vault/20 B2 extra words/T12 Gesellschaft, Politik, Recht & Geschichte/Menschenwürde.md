@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0562"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Menschenwürde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Menschenwürde
+
+![[Menschenwürde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menschenw%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenw%C3%BCrde&language=de)
 
 **Meaning:** human dignity
 **Plural:** –

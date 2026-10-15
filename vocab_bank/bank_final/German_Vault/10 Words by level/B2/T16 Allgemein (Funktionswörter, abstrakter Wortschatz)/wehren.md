@@ -12,11 +12,16 @@ bank: "main"
 id: "B5640"
 freq_rank: 2627
 skip: false
+audio: "wehren.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wehren
+
+![[wehren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wehren&language=de)
 
 **Meaning:** to defend oneself; to resist
 **Forms:** wehrt sich · wehrte sich · hat sich gewehrt

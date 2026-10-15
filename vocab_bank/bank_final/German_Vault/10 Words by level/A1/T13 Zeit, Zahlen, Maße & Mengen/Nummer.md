@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b"
 freq_rank: 1260
 skip: false
+audio: "Nummer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nummer
+
+![[Nummer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nummer&language=de)
 
 **Meaning:** number
 **Plural:** Nummern

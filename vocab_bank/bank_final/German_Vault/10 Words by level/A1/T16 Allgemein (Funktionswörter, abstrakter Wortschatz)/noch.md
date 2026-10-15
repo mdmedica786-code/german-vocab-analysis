@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 9a"
 freq_rank: 36
 skip: false
+audio: "noch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # noch
+
+![[noch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/noch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=noch&language=de)
 
 **Meaning:** yet, even, here: any
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

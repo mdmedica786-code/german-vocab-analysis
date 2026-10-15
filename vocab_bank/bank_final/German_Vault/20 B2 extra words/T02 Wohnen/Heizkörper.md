@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2219"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Heizkörper.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Heizkörper
+
+![[Heizkörper.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heizk%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heizk%C3%B6rper&language=de)
 
 **Meaning:** radiator
 **Plural:** Heizkörper

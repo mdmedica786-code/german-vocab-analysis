@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die VR-Brille
 
+[▶️ YouGlish](https://youglish.com/pronounce/VR-Brille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=VR-Brille&language=de)
+
 **Meaning:** VR goggles
 **Plural:** VR-Brillen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

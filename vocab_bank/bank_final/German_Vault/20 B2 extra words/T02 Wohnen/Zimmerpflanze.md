@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2233"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Zimmerpflanze.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zimmerpflanze
+
+![[Zimmerpflanze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zimmerpflanze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zimmerpflanze&language=de)
 
 **Meaning:** houseplant
 **Plural:** Zimmerpflanzen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1507"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Objektivität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Objektivität
+
+![[Objektivität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Objektivit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Objektivit%C3%A4t&language=de)
 
 **Meaning:** objectivity
 **Plural:** –

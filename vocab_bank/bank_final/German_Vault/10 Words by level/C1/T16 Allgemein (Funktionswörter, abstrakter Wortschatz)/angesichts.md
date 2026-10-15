@@ -11,11 +11,16 @@ bank: "main"
 id: "B5315"
 freq_rank: 1380
 skip: false
+audio: "angesichts.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # angesichts
+
+![[angesichts.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angesichts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angesichts&language=de)
 
 **Meaning:** in view of
 **Case:** + Gen.

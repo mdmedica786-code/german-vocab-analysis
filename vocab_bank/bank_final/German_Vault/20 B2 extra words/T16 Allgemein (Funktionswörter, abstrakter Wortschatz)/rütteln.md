@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1831"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "rütteln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rütteln
+
+![[rütteln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCtteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCtteln&language=de)
 
 **Meaning:** to shake
 **Forms:** rüttelt · rüttelte · hat gerüttelt

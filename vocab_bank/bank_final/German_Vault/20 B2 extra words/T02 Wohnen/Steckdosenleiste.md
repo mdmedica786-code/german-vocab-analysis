@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2232"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Steckdosenleiste.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Steckdosenleiste
+
+![[Steckdosenleiste.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steckdosenleiste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steckdosenleiste&language=de)
 
 **Meaning:** power strip; multiple socket
 **Plural:** Steckdosenleisten

@@ -13,11 +13,16 @@ id: "B5341"
 goethe_level: "B1"
 freq_rank: 1534
 skip: false
+audio: "versichern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # versichern
+
+![[versichern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versichern&language=de)
 
 **Meaning:** to insure; to assure
 **Forms:** versichert · versicherte · hat versichert

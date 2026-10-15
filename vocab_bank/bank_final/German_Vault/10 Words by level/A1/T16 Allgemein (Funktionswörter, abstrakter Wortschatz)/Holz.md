@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 10a"
 freq_rank: 1768
 skip: false
+audio: "Holz.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Holz
+
+![[Holz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Holz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Holz&language=de)
 
 **Meaning:** wood
 **Plural:** Hölzer

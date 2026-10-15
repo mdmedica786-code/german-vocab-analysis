@@ -11,11 +11,16 @@ bank: "main"
 id: "B5156"
 freq_rank: 452
 skip: false
+audio: "aufgrund.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufgrund
+
+![[aufgrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufgrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufgrund&language=de)
 
 **Meaning:** because of; due to
 **Case:** + Gen.

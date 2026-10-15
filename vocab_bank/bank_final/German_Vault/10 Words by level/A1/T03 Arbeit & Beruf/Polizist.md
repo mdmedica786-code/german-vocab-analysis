@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 2131
 skip: false
+audio: "Polizist.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Polizist
+
+![[Polizist.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Polizist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polizist&language=de)
 
 **Meaning:** police officer (m)
 **Plural:** Polizisten

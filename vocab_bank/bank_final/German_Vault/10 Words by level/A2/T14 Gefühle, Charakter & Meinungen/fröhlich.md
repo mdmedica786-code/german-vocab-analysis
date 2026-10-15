@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 12b"
 freq_rank: 2841
 skip: false
+audio: "fröhlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fröhlich
+
+![[fröhlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fr%C3%B6hlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fr%C3%B6hlich&language=de)
 
 **Meaning:** cheerful; happy
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

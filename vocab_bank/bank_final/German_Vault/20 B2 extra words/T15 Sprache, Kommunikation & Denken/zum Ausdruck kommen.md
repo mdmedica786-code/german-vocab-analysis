@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zum Ausdruck kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Ausdruck%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Ausdruck%20kommen&language=de)
+
 **Meaning:** to be expressed; to come across
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

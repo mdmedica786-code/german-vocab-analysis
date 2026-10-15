@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 882
 skip: false
+audio: "falls.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # falls
+
+![[falls.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/falls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=falls&language=de)
 
 **Meaning:** in case
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # also
 
+[▶️ YouGlish](https://youglish.com/pronounce/also/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=also&language=de)
+
 **Meaning:** so
 **Other senses:** well
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

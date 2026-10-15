@@ -14,11 +14,16 @@ bank: "main"
 id: "B6188"
 freq_rank: 4817
 skip: false
+audio: "Blase.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Blase
+
+![[Blase.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blase&language=de)
 
 **Meaning:** bladder; bubble; blister
 **Plural:** Blasen

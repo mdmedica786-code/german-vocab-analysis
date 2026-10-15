@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2421"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Effekt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Effekt
+
+![[Effekt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Effekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Effekt&language=de)
 
 **Meaning:** effect
 **Plural:** Effekte

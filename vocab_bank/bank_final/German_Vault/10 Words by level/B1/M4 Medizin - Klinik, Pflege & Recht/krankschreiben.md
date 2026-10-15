@@ -13,11 +13,16 @@ id: "B4396"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 5759
 skip: false
+audio: "krankschreiben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # krankschreiben
+
+![[krankschreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/krankschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=krankschreiben&language=de)
 
 **Meaning:** to sign sb off work, to take sick leave
 **Forms:** schreibt krank · schrieb krank · hat krankgeschrieben

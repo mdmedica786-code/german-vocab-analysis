@@ -13,11 +13,16 @@ id: "B4271"
 netzwerk: "B1 K7 8a"
 freq_rank: 5759
 skip: false
+audio: "nachgeben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachgeben
+
+![[nachgeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachgeben&language=de)
 
 **Meaning:** to give in
 **Forms:** gibt nach · gab nach · hat nachgegeben

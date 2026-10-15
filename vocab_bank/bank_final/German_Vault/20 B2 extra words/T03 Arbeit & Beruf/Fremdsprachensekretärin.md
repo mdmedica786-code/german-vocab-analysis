@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3968"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fremdsprachensekretärin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fremdsprachensekret%C3%A4rin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdsprachensekret%C3%A4rin&language=de)
 
 **Meaning:** foreign-language secretary (female)
 **Plural:** Fremdsprachensekretärinnen

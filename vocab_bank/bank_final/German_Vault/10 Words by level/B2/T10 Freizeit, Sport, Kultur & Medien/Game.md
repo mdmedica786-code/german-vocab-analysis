@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Game
 
+[▶️ YouGlish](https://youglish.com/pronounce/Game/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Game&language=de)
+
 **Meaning:** game (video game)
 **Plural:** Games
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

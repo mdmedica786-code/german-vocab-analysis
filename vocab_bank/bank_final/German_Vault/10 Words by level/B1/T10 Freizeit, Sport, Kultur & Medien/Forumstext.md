@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Forumstext
 
+[▶️ YouGlish](https://youglish.com/pronounce/Forumstext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forumstext&language=de)
+
 **Meaning:** texts in the forum
 **Plural:** Forumstexte
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

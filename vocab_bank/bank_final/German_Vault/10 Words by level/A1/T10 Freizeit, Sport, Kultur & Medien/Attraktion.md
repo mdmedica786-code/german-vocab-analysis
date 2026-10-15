@@ -15,11 +15,16 @@ id: "B1550"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Attraktion.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Attraktion
+
+![[Attraktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Attraktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Attraktion&language=de)
 
 **Meaning:** attraction
 **Plural:** Attraktionen

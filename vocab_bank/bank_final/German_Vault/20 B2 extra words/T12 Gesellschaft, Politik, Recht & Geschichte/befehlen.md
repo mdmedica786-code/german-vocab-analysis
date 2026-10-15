@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2493"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "befehlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # befehlen
+
+![[befehlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befehlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befehlen&language=de)
 
 **Meaning:** to order; to command
 **Forms:** befiehlt · befahl · hat befohlen

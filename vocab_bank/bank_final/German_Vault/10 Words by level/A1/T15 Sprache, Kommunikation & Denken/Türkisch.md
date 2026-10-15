@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Türkisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCrkisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCrkisch&language=de)
+
 **Meaning:** Turkish
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

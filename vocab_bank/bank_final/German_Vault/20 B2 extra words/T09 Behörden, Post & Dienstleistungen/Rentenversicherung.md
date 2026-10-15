@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0428"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Rentenversicherung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rentenversicherung
+
+![[Rentenversicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rentenversicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rentenversicherung&language=de)
 
 **Meaning:** pension insurance
 **Plural:** Rentenversicherungen

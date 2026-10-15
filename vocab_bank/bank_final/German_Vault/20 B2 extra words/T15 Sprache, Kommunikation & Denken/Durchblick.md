@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1477"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Durchblick.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Durchblick
+
+![[Durchblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchblick&language=de)
 
 **Meaning:** overview; grasp of things
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 1a"
 freq_rank: 1163
 skip: false
+audio: "Stuhl.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stuhl
+
+![[Stuhl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stuhl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stuhl&language=de)
 
 **Meaning:** chair
 **Plural:** Stühle

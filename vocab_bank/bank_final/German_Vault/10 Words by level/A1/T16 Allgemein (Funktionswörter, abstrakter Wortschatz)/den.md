@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # den
 
+[▶️ YouGlish](https://youglish.com/pronounce/den/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=den&language=de)
+
 **Meaning:** the (definite article, masculine accusative)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

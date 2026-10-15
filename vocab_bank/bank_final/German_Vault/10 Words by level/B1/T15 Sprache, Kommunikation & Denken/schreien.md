@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 724
 skip: false
+audio: "schreien.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schreien
+
+![[schreien.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schreien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schreien&language=de)
 
 **Meaning:** to scream
 **Forms:** schreit · schrie · hat geschrien

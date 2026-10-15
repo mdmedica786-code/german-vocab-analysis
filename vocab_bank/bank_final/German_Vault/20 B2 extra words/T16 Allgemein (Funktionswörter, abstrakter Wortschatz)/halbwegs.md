@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3423"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "halbwegs.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # halbwegs
+
+![[halbwegs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/halbwegs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=halbwegs&language=de)
 
 **Meaning:** reasonably; more or less
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

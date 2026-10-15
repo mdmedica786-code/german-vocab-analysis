@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2973"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "ertönen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ertönen
+
+![[ertönen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ert%C3%B6nen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ert%C3%B6nen&language=de)
 
 **Meaning:** to sound; to ring out
 **Forms:** ertönt · ertönte · ist ertönt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3450"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Handvoll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Handvoll
+
+![[Handvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handvoll&language=de)
 
 **Meaning:** handful; small number
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 7a"
 freq_rank: 1749
 skip: false
+audio: "Stimmung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stimmung
+
+![[Stimmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stimmung&language=de)
 
 **Meaning:** mood
 **Plural:** Stimmungen

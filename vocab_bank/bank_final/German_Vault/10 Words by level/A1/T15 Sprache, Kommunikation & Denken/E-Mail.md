@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die E-Mail
 
+[▶️ YouGlish](https://youglish.com/pronounce/E-Mail/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Mail&language=de)
+
 **Meaning:** e-mail
 **Plural:** E-Mails
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

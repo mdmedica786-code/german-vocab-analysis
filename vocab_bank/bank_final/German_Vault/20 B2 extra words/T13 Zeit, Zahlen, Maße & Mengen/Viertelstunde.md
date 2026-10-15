@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3230"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Viertelstunde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Viertelstunde
+
+![[Viertelstunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Viertelstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Viertelstunde&language=de)
 
 **Meaning:** quarter of an hour
 **Plural:** Viertelstunden

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4342"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Radiosender.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Radiosender
+
+![[Radiosender.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radiosender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiosender&language=de)
 
 **Meaning:** radio station
 **Plural:** Radiosender

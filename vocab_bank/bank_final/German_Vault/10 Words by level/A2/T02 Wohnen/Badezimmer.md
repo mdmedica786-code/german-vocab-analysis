@@ -14,11 +14,16 @@ bank: "main"
 id: "B6072"
 freq_rank: 4186
 skip: false
+audio: "Badezimmer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Badezimmer
+
+![[Badezimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Badezimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badezimmer&language=de)
 
 **Meaning:** bathroom
 **Plural:** Badezimmer

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1801"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "werben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # werben
+
+![[werben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/werben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werben&language=de)
 
 **Meaning:** to advertise; to recruit
 **Forms:** wirbt · warb · hat geworben

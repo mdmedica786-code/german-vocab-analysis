@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4504"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Tücke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Tücke
+
+![[Tücke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCcke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCcke&language=de)
 
 **Meaning:** pitfall; trap; difficulty
 **Plural:** Tücken

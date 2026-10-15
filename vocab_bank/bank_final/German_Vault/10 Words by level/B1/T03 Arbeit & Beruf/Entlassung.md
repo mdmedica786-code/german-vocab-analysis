@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 4594
 skip: false
+audio: "Entlassung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entlassung
+
+![[Entlassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entlassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entlassung&language=de)
 
 **Meaning:** dismissal; discharge
 **Plural:** Entlassungen

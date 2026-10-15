@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Pommes frites.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pommes frites
+
+![[Pommes frites.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pommes%20frites/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pommes%20frites&language=de)
 
 **Meaning:** chips
 **Plural:** (Pl.)

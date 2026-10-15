@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4511"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "übermüdet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # übermüdet
+
+![[übermüdet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberm%C3%BCdet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberm%C3%BCdet&language=de)
 
 **Meaning:** overtired; exhausted
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

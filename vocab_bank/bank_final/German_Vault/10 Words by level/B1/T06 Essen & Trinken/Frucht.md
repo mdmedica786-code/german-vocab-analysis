@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 2462
 skip: false
+audio: "Frucht.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frucht
+
+![[Frucht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frucht&language=de)
 
 **Meaning:** fruit
 **Plural:** Früchte

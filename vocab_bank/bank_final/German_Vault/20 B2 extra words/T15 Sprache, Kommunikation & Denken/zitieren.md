@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2466"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "zitieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # zitieren
+
+![[zitieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zitieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zitieren&language=de)
 
 **Meaning:** to quote; to cite
 **Forms:** zitiert · zitierte · hat zitiert

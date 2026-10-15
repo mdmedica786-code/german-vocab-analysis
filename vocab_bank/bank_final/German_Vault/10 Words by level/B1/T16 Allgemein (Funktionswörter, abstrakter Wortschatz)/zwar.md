@@ -12,11 +12,16 @@ id: "B5143"
 goethe_level: "B1"
 freq_rank: 206
 skip: false
+audio: "zwar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwar
+
+![[zwar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwar&language=de)
 
 **Meaning:** admittedly; indeed
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

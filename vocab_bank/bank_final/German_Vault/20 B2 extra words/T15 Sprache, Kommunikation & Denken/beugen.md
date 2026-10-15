@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1233"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
+audio: "beugen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Grammatik", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beugen
+
+![[beugen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beugen&language=de)
 
 **Meaning:** to bend; to inflect; to yield
 **Forms:** beugt · beugte · hat gebeugt

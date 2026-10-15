@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0041"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "in Kauf nehmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Kauf nehmen
+
+![[in Kauf nehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Kauf%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Kauf%20nehmen&language=de)
 
 **Meaning:** to accept; to put up with
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

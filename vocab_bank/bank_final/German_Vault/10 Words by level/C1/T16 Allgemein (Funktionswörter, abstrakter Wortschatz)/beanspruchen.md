@@ -12,11 +12,16 @@ bank: "main"
 id: "B5966"
 freq_rank: 3656
 skip: false
+audio: "beanspruchen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beanspruchen
+
+![[beanspruchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beanspruchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beanspruchen&language=de)
 
 **Meaning:** to claim; to demand
 **Forms:** beansprucht · beanspruchte · hat beansprucht

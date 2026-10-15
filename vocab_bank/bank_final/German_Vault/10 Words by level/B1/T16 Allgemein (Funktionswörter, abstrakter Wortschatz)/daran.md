@@ -12,11 +12,16 @@ id: "B3747"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 300
 skip: false
+audio: "daran.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # daran
+
+![[daran.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/daran/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=daran&language=de)
 
 **Meaning:** on it; at it; of it
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

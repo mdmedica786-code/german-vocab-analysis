@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4380"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Schauspielen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Schauspielen
+
+![[Schauspielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspielen&language=de)
 
 **Meaning:** acting
 **Plural:** –

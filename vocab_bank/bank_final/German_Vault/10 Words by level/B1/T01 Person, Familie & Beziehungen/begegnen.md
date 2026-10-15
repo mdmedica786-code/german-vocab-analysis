@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 1086
 skip: false
+audio: "begegnen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # begegnen
+
+![[begegnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begegnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begegnen&language=de)
 
 **Meaning:** to meet (by chance); to encounter
 **Forms:** begegnet · begegnete · ist begegnet

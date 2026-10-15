@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4270"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Neuling.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Neuling
+
+![[Neuling.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neuling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuling&language=de)
 
 **Meaning:** newcomer; beginner; novice
 **Plural:** Neulinge

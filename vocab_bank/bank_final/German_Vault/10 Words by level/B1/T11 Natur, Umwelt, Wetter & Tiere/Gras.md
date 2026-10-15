@@ -15,11 +15,16 @@ id: "B5621"
 goethe_level: "B1"
 freq_rank: 2589
 skip: false
+audio: "Gras.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gras
+
+![[Gras.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gras/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gras&language=de)
 
 **Meaning:** grass
 **Plural:** Gräser

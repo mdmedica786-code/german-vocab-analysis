@@ -15,11 +15,16 @@ id: "B2185"
 netzwerk: "A2 K4 1a"
 freq_rank: 3534
 skip: false
+audio: "Medaille.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Medaille
+
+![[Medaille.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medaille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medaille&language=de)
 
 **Meaning:** medal
 **Plural:** Medaillen

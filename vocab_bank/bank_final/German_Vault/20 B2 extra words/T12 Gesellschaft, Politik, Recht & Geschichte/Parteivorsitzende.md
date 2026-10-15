@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0555"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Parteivorsitzende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # Parteivorsitzende
+
+![[Parteivorsitzende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parteivorsitzende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parteivorsitzende&language=de)
 
 **Meaning:** party leader
 **Plural:** Parteivorsitzenden

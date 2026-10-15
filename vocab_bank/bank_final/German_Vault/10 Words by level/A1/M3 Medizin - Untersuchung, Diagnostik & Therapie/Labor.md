@@ -15,11 +15,16 @@ id: "B1315"
 netzwerk: "A1 K8 13a"
 freq_rank: 3845
 skip: false
+audio: "Labor.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Labor
+
+![[Labor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Labor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Labor&language=de)
 
 **Meaning:** laboratory
 **Plural:** Labore

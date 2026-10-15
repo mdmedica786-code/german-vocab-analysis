@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 604
 skip: false
+audio: "Vertrauen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vertrauen
+
+![[Vertrauen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vertrauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertrauen&language=de)
 
 **Meaning:** to trust
 **Forms:** vertraut · vertraute · hat vertraut

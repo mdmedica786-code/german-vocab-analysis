@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1045"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Einlage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einlage
+
+![[Einlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einlage&language=de)
 
 **Meaning:** deposit; contribution; insert
 **Plural:** Einlagen

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 1a"
 freq_rank: 2711
 skip: false
+audio: "vorhaben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorhaben
+
+![[vorhaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorhaben&language=de)
 
 **Meaning:** to plan
 **Forms:** hat vor · hatte vor · hat vorgehabt

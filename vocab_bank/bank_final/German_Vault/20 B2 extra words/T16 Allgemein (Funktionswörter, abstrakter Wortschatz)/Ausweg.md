@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3106"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Ausweg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausweg
+
+![[Ausweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausweg&language=de)
 
 **Meaning:** way out; solution
 **Plural:** Auswege

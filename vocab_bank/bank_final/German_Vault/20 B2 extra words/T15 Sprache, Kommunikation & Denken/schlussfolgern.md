@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0281"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "schlussfolgern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlussfolgern
+
+![[schlussfolgern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlussfolgern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlussfolgern&language=de)
 
 **Meaning:** to conclude; to infer
 **Forms:** schlussfolgert · schlussfolgerte · hat geschlussfolgert

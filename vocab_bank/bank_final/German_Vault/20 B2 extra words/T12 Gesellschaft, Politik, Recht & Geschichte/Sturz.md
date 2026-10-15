@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3136"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Sturz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sturz
+
+![[Sturz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sturz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sturz&language=de)
 
 **Meaning:** fall; overthrow
 **Plural:** Stürze

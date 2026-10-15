@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 7a"
 freq_rank: 2000
 skip: false
+audio: "Bekannte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Bekannte
+
+![[Bekannte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bekannte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekannte&language=de)
 
 **Meaning:** acquaintance
 **Plural:** Bekannten

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2064"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "das Eis brechen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eis brechen
+
+![[das Eis brechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/das%20Eis%20brechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das%20Eis%20brechen&language=de)
 
 **Meaning:** to break the ice
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

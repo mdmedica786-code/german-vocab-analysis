@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Abhilfe schaffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Abhilfe%20schaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abhilfe%20schaffen&language=de)
+
 **Meaning:** to remedy; to put right
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

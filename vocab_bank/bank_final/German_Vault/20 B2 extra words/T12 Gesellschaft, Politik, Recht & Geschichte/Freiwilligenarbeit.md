@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1870"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Freiwilligenarbeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freiwilligenarbeit
+
+![[Freiwilligenarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freiwilligenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiwilligenarbeit&language=de)
 
 **Meaning:** voluntary work
 **Plural:** –

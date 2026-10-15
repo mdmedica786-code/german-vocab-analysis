@@ -15,11 +15,16 @@ id: "B5952"
 goethe_level: "A2"
 freq_rank: 3611
 skip: false
+audio: "Kaufmann.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kaufmann
+
+![[Kaufmann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaufmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaufmann&language=de)
 
 **Meaning:** merchant; businessman
 **Plural:** Kaufleute

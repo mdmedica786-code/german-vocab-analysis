@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0862"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "ausgleichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgleichen
+
+![[ausgleichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgleichen&language=de)
 
 **Meaning:** to balance out; to compensate
 **Forms:** gleicht aus · glich aus · hat ausgeglichen

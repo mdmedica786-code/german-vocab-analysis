@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3269"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Unterbrechung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterbrechung
+
+![[Unterbrechung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterbrechung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterbrechung&language=de)
 
 **Meaning:** interruption; break
 **Plural:** Unterbrechungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3862"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Denkweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Denkweise
+
+![[Denkweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Denkweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denkweise&language=de)
 
 **Meaning:** way of thinking; mentality
 **Plural:** Denkweisen

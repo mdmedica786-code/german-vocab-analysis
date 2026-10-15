@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 7d"
 freq_rank: 725
 skip: false
+audio: "Gefahr.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gefahr
+
+![[Gefahr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gefahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefahr&language=de)
 
 **Meaning:** danger
 **Plural:** Gefahren

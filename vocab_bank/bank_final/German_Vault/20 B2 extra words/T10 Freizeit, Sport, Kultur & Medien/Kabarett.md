@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0997"
 exam_use: ["Medien", "Sprechen"]
 skip: false
+audio: "Kabarett.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kabarett
+
+![[Kabarett.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kabarett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarett&language=de)
 
 **Meaning:** political cabaret; satirical show
 **Plural:** Kabaretts

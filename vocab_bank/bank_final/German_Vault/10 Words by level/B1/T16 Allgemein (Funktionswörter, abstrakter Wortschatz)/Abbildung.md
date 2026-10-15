@@ -15,11 +15,16 @@ id: "B5174"
 goethe_level: "B1"
 freq_rank: 556
 skip: false
+audio: "Abbildung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abbildung
+
+![[Abbildung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abbildung&language=de)
 
 **Meaning:** illustration; figure; picture
 **Plural:** Abbildungen

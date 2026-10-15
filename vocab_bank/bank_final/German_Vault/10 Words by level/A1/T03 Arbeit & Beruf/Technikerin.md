@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Technikerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Technikerin
+
+![[Technikerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Technikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technikerin&language=de)
 
 **Meaning:** technician (f)
 **Plural:** Technikerinnen

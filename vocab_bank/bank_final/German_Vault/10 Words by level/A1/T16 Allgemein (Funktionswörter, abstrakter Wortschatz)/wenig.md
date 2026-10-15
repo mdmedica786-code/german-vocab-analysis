@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9a"
 freq_rank: 113
 skip: false
+audio: "wenig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # wenig
+
+![[wenig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wenig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wenig&language=de)
 
 **Meaning:** little; few
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

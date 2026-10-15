@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4454"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Stadtluft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Stadtluft
+
+![[Stadtluft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtluft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtluft&language=de)
 
 **Meaning:** city air
 **Plural:** –

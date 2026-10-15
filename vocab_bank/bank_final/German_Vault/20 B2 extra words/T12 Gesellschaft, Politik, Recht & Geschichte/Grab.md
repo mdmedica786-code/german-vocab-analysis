@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2642"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Grab.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Grab
+
+![[Grab.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grab&language=de)
 
 **Meaning:** grave
 **Plural:** Gräber

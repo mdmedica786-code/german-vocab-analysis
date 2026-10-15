@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0446"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Existenzgründer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Existenzgründer
+
+![[Existenzgründer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Existenzgr%C3%BCnder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Existenzgr%C3%BCnder&language=de)
 
 **Meaning:** start-up founder; business founder
 **Plural:** Existenzgründer

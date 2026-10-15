@@ -15,11 +15,16 @@ id: "B2286"
 netzwerk: "A2 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Straßenreinigung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Straßenreinigung
+
+![[Straßenreinigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenreinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenreinigung&language=de)
 
 **Meaning:** street cleaning
 **Plural:** –

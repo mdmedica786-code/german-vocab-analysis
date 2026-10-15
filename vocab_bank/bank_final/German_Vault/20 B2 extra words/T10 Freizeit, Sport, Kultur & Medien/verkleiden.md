@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1733"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "verkleiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # verkleiden
+
+![[verkleiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verkleiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verkleiden&language=de)
 
 **Meaning:** to dress up; to disguise oneself
 **Forms:** verkleidet sich · verkleidete sich · hat sich verkleidet

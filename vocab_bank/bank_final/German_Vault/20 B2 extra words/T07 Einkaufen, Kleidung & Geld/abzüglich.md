@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0036"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "abzüglich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/preposition", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # abzüglich
+
+![[abzüglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abz%C3%BCglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abz%C3%BCglich&language=de)
 
 **Meaning:** minus; less
 **Case:** + Gen.

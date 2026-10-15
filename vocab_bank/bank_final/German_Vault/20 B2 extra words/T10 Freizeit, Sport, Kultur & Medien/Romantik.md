@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3323"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Romantik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Romantik
+
+![[Romantik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Romantik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Romantik&language=de)
 
 **Meaning:** Romanticism; romance
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2272"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Dosenöffner.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dosenöffner
+
+![[Dosenöffner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dosen%C3%B6ffner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dosen%C3%B6ffner&language=de)
 
 **Meaning:** tin opener
 **Plural:** Dosenöffner

@@ -15,11 +15,16 @@ id: "B5385"
 goethe_level: "B1"
 freq_rank: 1726
 skip: false
+audio: "Handel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handel
+
+![[Handel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handel&language=de)
 
 **Meaning:** trade; commerce
 **Plural:** –

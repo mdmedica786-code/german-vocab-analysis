@@ -15,11 +15,16 @@ id: "B3575"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Wildhüter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wildhüter
+
+![[Wildhüter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wildh%C3%BCter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildh%C3%BCter&language=de)
 
 **Meaning:** gamekeeper (m)
 **Plural:** Wildhüter

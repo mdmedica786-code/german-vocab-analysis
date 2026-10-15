@@ -15,11 +15,16 @@ id: "B2244"
 netzwerk: "A2 K4 10a"
 freq_rank: 5759
 skip: false
+audio: "Segelsport.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Segelsport
+
+![[Segelsport.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Segelsport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segelsport&language=de)
 
 **Meaning:** sailing
 **Plural:** –

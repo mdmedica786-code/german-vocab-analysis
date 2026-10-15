@@ -12,11 +12,16 @@ bank: "main"
 id: "B6476"
 freq_rank: 5759
 skip: false
+audio: "kontaktieren.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kontaktieren
+
+![[kontaktieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kontaktieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kontaktieren&language=de)
 
 **Meaning:** to contact
 **Forms:** kontaktiert · kontaktierte · hat kontaktiert

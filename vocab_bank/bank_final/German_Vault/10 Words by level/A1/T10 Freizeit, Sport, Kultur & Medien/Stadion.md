@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 5b"
 freq_rank: 5652
 skip: false
+audio: "Stadion.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stadion
+
+![[Stadion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadion&language=de)
 
 **Meaning:** stadium
 **Plural:** Stadien

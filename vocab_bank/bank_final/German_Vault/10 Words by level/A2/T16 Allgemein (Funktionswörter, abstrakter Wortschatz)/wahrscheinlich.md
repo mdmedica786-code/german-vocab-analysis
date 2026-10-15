@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 1b"
 freq_rank: 569
 skip: false
+audio: "wahrscheinlich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wahrscheinlich
+
+![[wahrscheinlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wahrscheinlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahrscheinlich&language=de)
 
 **Meaning:** probably
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -12,11 +12,16 @@ id: "B2126"
 netzwerk: "A2 K3 8c"
 freq_rank: 2501
 skip: false
+audio: "mehrmals.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mehrmals
+
+![[mehrmals.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mehrmals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mehrmals&language=de)
 
 **Meaning:** several times
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

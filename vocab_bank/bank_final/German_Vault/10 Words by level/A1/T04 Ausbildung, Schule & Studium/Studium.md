@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 1a"
 freq_rank: 1993
 skip: false
+audio: "Studium.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Studium
+
+![[Studium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Studium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studium&language=de)
 
 **Meaning:** studies
 **Plural:** Studien

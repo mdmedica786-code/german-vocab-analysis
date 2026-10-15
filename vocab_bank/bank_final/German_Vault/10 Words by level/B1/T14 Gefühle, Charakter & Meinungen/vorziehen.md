@@ -13,11 +13,16 @@ id: "B3868"
 netzwerk: "B1 K4 13b"
 freq_rank: 5759
 skip: false
+audio: "vorziehen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorziehen
+
+![[vorziehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorziehen&language=de)
 
 **Meaning:** to prefer
 **Forms:** zieht vor · zog vor · hat vorgezogen

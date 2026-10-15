@@ -12,11 +12,16 @@ bank: "main"
 id: "B6414"
 freq_rank: 5759
 skip: false
+audio: "einlegen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einlegen
+
+![[einlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einlegen&language=de)
 
 **Meaning:** to insert; to pickle
 **Forms:** legt ein · legte ein · hat eingelegt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0561"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Völkerrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Völkerrecht
+
+![[Völkerrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/V%C3%B6lkerrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=V%C3%B6lkerrecht&language=de)
 
 **Meaning:** international law
 **Plural:** –

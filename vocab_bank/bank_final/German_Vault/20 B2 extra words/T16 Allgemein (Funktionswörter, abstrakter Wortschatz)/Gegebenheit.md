@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0356"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Gegebenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gegebenheit
+
+![[Gegebenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegebenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegebenheit&language=de)
 
 **Meaning:** circumstance; condition
 **Plural:** Gegebenheiten

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5657"
 freq_rank: 2688
 skip: false
+audio: "Feder.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feder
+
+![[Feder.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feder&language=de)
 
 **Meaning:** feather; spring
 **Plural:** Federn

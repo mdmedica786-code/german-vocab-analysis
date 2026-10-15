@@ -15,11 +15,16 @@ id: "B2704"
 netzwerk: "A2 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "Nervosität.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nervosität
+
+![[Nervosität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nervosit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nervosit%C3%A4t&language=de)
 
 **Meaning:** nervousness
 **Plural:** –

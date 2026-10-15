@@ -12,11 +12,16 @@ id: "B2277"
 netzwerk: "A2 K4 12a ÜB"
 freq_rank: 5759
 skip: false
+audio: "unsympathisch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unsympathisch
+
+![[unsympathisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unsympathisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unsympathisch&language=de)
 
 **Meaning:** disagreeable
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

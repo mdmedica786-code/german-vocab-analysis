@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # hunderteins
 
+[▶️ YouGlish](https://youglish.com/pronounce/hunderteins/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hunderteins&language=de)
+
 **Meaning:** one hundred and one
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

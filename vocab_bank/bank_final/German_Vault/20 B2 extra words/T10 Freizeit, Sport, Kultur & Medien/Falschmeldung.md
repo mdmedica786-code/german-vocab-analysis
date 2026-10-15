@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0621"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Falschmeldung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Falschmeldung
+
+![[Falschmeldung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Falschmeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Falschmeldung&language=de)
 
 **Meaning:** false report; fake news item
 **Plural:** Falschmeldungen

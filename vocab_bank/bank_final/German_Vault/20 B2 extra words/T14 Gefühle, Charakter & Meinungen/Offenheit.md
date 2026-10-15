@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1508"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Offenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Offenheit
+
+![[Offenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Offenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Offenheit&language=de)
 
 **Meaning:** openness; frankness
 **Plural:** –

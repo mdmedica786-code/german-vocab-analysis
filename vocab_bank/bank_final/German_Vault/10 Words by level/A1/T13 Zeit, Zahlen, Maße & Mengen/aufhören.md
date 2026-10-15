@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 7a"
 freq_rank: 2109
 skip: false
+audio: "aufhören.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufhören
+
+![[aufhören.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufh%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufh%C3%B6ren&language=de)
 
 **Meaning:** to stop
 **Forms:** hört auf · hörte auf · hat aufgehört

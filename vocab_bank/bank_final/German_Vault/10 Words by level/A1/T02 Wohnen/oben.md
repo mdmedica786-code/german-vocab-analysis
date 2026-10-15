@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 1b"
 freq_rank: 327
 skip: false
+audio: "oben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # oben
+
+![[oben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/oben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oben&language=de)
 
 **Meaning:** above; at the top; upstairs
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

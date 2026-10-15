@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3905"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Erdmännchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Erdmännchen
+
+![[Erdmännchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erdm%C3%A4nnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdm%C3%A4nnchen&language=de)
 
 **Meaning:** meerkat
 **Plural:** Erdmännchen

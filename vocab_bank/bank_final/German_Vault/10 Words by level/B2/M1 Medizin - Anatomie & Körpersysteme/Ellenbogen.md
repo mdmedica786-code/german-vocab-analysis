@@ -16,11 +16,16 @@ freq_rank: 5609
 skip: true
 skip_reason: "duplicate of B6117 (learn that entry)"
 check: "dup:B6117"
+audio: "Ellenbogen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ellenbogen
+
+![[Ellenbogen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ellenbogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ellenbogen&language=de)
 
 **Meaning:** elbow
 **Plural:** Ellenbogen

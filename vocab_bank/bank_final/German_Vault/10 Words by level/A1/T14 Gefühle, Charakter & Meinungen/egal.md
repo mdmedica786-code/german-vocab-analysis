@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 1c"
 freq_rank: 1075
 skip: false
+audio: "egal.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # egal
+
+![[egal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/egal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=egal&language=de)
 
 **Meaning:** whatever
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

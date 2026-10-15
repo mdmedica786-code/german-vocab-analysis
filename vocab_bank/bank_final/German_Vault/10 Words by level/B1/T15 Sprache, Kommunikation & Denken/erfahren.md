@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 5c"
 freq_rank: 519
 skip: false
+audio: "erfahren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfahren
+
+![[erfahren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfahren&language=de)
 
 **Meaning:** to learn; to find out; to experience
 **Forms:** erfährt · erfuhr · hat erfahren

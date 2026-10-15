@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Hörverstehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rverstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rverstehen&language=de)
+
 **Meaning:** listening comprehension
 **Plural:** –
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4515"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "umleiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # umleiten
+
+![[umleiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umleiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umleiten&language=de)
 
 **Meaning:** to divert; to redirect
 **Forms:** leitet um · leitete um · hat umgeleitet

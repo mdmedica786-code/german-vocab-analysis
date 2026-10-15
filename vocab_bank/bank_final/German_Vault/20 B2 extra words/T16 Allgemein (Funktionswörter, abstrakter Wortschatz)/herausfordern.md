@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4034"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "herausfordern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # herausfordern
+
+![[herausfordern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herausfordern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herausfordern&language=de)
 
 **Meaning:** to challenge; to provoke
 **Forms:** fordert heraus · forderte heraus · hat herausgefordert

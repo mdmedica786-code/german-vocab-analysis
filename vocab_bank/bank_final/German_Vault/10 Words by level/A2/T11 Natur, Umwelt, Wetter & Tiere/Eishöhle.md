@@ -15,11 +15,16 @@ id: "B2885"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "Eishöhle.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eishöhle
+
+![[Eishöhle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eish%C3%B6hle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eish%C3%B6hle&language=de)
 
 **Meaning:** ice cave
 **Plural:** Eishöhlen

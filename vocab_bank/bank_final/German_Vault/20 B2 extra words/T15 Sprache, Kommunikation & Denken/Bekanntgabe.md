@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3789"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Bekanntgabe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Bekanntgabe
+
+![[Bekanntgabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bekanntgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekanntgabe&language=de)
 
 **Meaning:** announcement; publication
 **Plural:** –

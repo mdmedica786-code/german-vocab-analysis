@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Einsicht kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Einsicht%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Einsicht%20kommen&language=de)
+
 **Meaning:** to come to one's senses; to realise
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

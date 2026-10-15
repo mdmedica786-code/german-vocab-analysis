@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # mieten
 
+[▶️ YouGlish](https://youglish.com/pronounce/mieten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mieten&language=de)
+
 **Meaning:** to rent
 **Forms:** mietet · mietete · hat gemietet
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

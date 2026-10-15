@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1312"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "verfluchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verfluchen
+
+![[verfluchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verfluchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfluchen&language=de)
 
 **Meaning:** to curse
 **Forms:** verflucht · verfluchte · hat verflucht

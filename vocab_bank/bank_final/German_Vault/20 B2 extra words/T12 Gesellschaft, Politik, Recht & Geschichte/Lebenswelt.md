@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3422"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Lebenswelt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lebenswelt
+
+![[Lebenswelt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebenswelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebenswelt&language=de)
 
 **Meaning:** world of experience; living environment
 **Plural:** Lebenswelten

@@ -15,11 +15,16 @@ id: "B1812"
 netzwerk: "A1 K12 7c"
 freq_rank: 5759
 skip: false
+audio: "Fragewort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fragewort
+
+![[Fragewort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fragewort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fragewort&language=de)
 
 **Meaning:** interrogative
 **Plural:** Fragewörter

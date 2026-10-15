@@ -13,11 +13,16 @@ id: "B5633"
 goethe_level: "B1"
 freq_rank: 2609
 skip: false
+audio: "enttäuschen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # enttäuschen
+
+![[enttäuschen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entt%C3%A4uschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entt%C3%A4uschen&language=de)
 
 **Meaning:** to disappoint
 **Forms:** enttäuscht · enttäuschte · hat enttäuscht

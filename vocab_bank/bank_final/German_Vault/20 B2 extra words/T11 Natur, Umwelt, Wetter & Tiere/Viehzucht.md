@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0722"
 exam_use: ["Lesen"]
 skip: false
+audio: "Viehzucht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Viehzucht
+
+![[Viehzucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Viehzucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Viehzucht&language=de)
 
 **Meaning:** livestock farming
 **Plural:** –

@@ -13,11 +13,16 @@ id: "B5105"
 netzwerk: "B1 K12 10c"
 freq_rank: 5759
 skip: false
+audio: "befürworten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # befürworten
+
+![[befürworten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bef%C3%BCrworten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bef%C3%BCrworten&language=de)
 
 **Meaning:** to support; to be in favour of
 **Forms:** befürwortet · befürwortete · hat befürwortet

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 2601
 skip: false
+audio: "unterschreiben.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterschreiben
+
+![[unterschreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterschreiben&language=de)
 
 **Meaning:** to sign
 **Forms:** unterschreibt · unterschrieb · hat unterschrieben

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 5e"
 freq_rank: 4534
 skip: false
+audio: "Bäcker.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bäcker
+
+![[Bäcker.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4cker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4cker&language=de)
 
 **Meaning:** baker
 **Plural:** Bäcker

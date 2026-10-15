@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0554"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Parteitag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Parteitag
+
+![[Parteitag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parteitag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parteitag&language=de)
 
 **Meaning:** party conference
 **Plural:** Parteitage

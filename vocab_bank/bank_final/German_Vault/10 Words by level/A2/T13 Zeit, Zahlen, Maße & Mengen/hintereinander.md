@@ -12,11 +12,16 @@ id: "B2477"
 netzwerk: "A2 K6 10a"
 freq_rank: 4676
 skip: false
+audio: "hintereinander.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hintereinander
+
+![[hintereinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hintereinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hintereinander&language=de)
 
 **Meaning:** consecutively
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

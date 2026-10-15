@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 512
 skip: false
+audio: "enthalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # enthalten
+
+![[enthalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/enthalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=enthalten&language=de)
 
 **Meaning:** to contain
 **Forms:** enthält · enthielt · hat enthalten

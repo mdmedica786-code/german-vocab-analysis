@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3847"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Computerspiel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Computerspiel
+
+![[Computerspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Computerspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computerspiel&language=de)
 
 **Meaning:** computer game
 **Plural:** Computerspiele

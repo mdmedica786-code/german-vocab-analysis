@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3051"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Historiker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Historiker
+
+![[Historiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Historiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Historiker&language=de)
 
 **Meaning:** historian
 **Plural:** Historiker

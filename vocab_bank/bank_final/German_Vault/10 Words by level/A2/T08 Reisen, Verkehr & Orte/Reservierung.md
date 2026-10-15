@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9c"
 freq_rank: 5759
 skip: false
+audio: "Reservierung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reservierung
+
+![[Reservierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reservierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reservierung&language=de)
 
 **Meaning:** reservation
 **Plural:** Reservierungen

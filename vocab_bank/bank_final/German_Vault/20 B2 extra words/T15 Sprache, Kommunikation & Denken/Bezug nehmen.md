@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Bezug nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bezug%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezug%20nehmen&language=de)
+
 **Meaning:** to refer
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

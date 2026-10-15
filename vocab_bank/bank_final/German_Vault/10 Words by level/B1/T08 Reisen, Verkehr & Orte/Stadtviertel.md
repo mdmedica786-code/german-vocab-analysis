@@ -15,11 +15,16 @@ id: "B4142"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Stadtviertel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stadtviertel
+
+![[Stadtviertel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtviertel&language=de)
 
 **Meaning:** district; neighbourhood
 **Plural:** Stadtviertel

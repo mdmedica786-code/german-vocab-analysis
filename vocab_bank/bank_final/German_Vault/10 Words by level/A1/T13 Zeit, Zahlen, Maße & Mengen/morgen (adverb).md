@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3b"
 freq_rank: 396
 skip: false
+audio: "morgen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # morgen
+
+![[morgen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/morgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=morgen&language=de)
 
 **Meaning:** tomorrow
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

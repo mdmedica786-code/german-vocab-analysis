@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0347"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Entwurf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Entwurf
+
+![[Entwurf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entwurf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entwurf&language=de)
 
 **Meaning:** draft; design; sketch
 **Plural:** Entwürfe

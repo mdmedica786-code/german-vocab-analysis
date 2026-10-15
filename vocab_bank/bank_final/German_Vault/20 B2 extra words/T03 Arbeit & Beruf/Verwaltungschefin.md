@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4594"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verwaltungschefin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verwaltungschefin
+
+![[Verwaltungschefin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwaltungschefin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwaltungschefin&language=de)
 
 **Meaning:** head of administration (female)
 **Plural:** Verwaltungschefinnen

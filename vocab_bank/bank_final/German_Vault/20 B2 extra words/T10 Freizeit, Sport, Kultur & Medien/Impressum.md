@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0603"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Impressum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Impressum
+
+![[Impressum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Impressum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Impressum&language=de)
 
 **Meaning:** imprint; legal notice
 **Plural:** –

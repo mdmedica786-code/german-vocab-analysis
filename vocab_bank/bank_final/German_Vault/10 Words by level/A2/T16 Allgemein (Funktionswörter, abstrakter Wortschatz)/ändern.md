@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # ändern
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%A4ndern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4ndern&language=de)
+
 **Meaning:** to change
 **Forms:** ändert · änderte · hat geändert
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

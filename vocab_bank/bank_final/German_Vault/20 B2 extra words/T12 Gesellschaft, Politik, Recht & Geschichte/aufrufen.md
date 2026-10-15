@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1795"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "aufrufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufrufen
+
+![[aufrufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufrufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrufen&language=de)
 
 **Meaning:** to call upon; to call up; to open (a page)
 **Forms:** ruft auf · rief auf · hat aufgerufen

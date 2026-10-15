@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3879"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Ehrendoktorwürde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Ehrendoktorwürde
+
+![[Ehrendoktorwürde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehrendoktorw%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrendoktorw%C3%BCrde&language=de)
 
 **Meaning:** honorary doctorate
 **Plural:** Ehrendoktorwürden

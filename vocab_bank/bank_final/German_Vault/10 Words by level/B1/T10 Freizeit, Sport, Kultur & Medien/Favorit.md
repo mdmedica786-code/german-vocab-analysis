@@ -15,11 +15,16 @@ id: "B4980"
 netzwerk: "B1 K11 12b"
 freq_rank: 4100
 skip: false
+audio: "Favorit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Favorit
+
+![[Favorit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Favorit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Favorit&language=de)
 
 **Meaning:** favourite (m)
 **Plural:** Favoriten

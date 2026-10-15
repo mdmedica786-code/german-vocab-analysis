@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3268"
 exam_use: ["Medien", "Sprechen"]
 skip: false
+audio: "Affäre.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Medien", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Affäre
+
+![[Affäre.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aff%C3%A4re/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aff%C3%A4re&language=de)
 
 **Meaning:** affair; scandal
 **Plural:** Affären

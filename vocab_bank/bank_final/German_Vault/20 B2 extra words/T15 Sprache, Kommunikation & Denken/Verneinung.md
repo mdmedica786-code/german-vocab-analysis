@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4585"
 exam_use: ["Grammatik", "Schreiben"]
 skip: false
-status: "new"
+audio: "Verneinung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verneinung
+
+![[Verneinung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verneinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verneinung&language=de)
 
 **Meaning:** negation
 **Plural:** Verneinungen

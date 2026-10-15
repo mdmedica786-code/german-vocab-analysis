@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Knödel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Knödel
+
+![[Knödel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kn%C3%B6del/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kn%C3%B6del&language=de)
 
 **Meaning:** German dumpling
 **Plural:** Knödel

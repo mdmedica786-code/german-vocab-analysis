@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1917"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Aufenthaltsgenehmigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufenthaltsgenehmigung
+
+![[Aufenthaltsgenehmigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufenthaltsgenehmigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufenthaltsgenehmigung&language=de)
 
 **Meaning:** residence permit
 **Plural:** Aufenthaltsgenehmigungen

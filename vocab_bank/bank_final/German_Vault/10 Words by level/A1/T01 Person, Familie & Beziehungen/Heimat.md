@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 1758
 skip: false
+audio: "Heimat.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heimat
+
+![[Heimat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heimat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heimat&language=de)
 
 **Meaning:** home
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 4b"
 freq_rank: 720
 skip: false
+audio: "entdecken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entdecken
+
+![[entdecken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entdecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entdecken&language=de)
 
 **Meaning:** to find
 **Forms:** entdeckt · entdeckte · hat entdeckt

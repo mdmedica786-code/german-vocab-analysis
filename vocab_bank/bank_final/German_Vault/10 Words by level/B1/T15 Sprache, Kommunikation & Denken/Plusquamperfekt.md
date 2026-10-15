@@ -15,11 +15,16 @@ id: "B4255"
 netzwerk: "B1 K7 3a"
 freq_rank: 5759
 skip: false
+audio: "Plusquamperfekt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Plusquamperfekt
+
+![[Plusquamperfekt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plusquamperfekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plusquamperfekt&language=de)
 
 **Meaning:** pluperfect
 **Plural:** –

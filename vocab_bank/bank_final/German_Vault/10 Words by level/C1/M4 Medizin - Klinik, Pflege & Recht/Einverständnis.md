@@ -14,11 +14,16 @@ bank: "main"
 id: "B6328"
 freq_rank: 5686
 skip: false
+audio: "Einverständnis.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Einverständnis
+
+![[Einverständnis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einverst%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einverst%C3%A4ndnis&language=de)
 
 **Meaning:** consent; agreement
 **Plural:** –

@@ -12,11 +12,16 @@ id: "B5679"
 goethe_level: "B1"
 freq_rank: 2773
 skip: false
+audio: "schuldig.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schuldig
+
+![[schuldig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schuldig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schuldig&language=de)
 
 **Meaning:** guilty; owing
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

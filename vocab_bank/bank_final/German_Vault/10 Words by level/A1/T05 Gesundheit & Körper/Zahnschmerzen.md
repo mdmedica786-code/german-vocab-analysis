@@ -15,11 +15,16 @@ id: "B1297"
 netzwerk: "A1 K8 12a"
 freq_rank: 5759
 skip: false
+audio: "Zahnschmerzen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zahnschmerzen
+
+![[Zahnschmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahnschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnschmerzen&language=de)
 
 **Meaning:** toothache
 **Plural:** (Pl.)

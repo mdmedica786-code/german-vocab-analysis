@@ -15,11 +15,16 @@ id: "B3125"
 netzwerk: "A2 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Kinderbuch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kinderbuch
+
+![[Kinderbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderbuch&language=de)
 
 **Meaning:** children's book
 **Plural:** Kinderbücher

@@ -15,11 +15,16 @@ id: "B3904"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Abgas.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Abgas
+
+![[Abgas.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abgas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgas&language=de)
 
 **Meaning:** exhaust
 **Plural:** Abgase

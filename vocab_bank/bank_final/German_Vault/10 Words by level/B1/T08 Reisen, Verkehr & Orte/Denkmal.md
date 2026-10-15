@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 12b ÜB"
 freq_rank: 5326
 skip: false
+audio: "Denkmal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Denkmal
+
+![[Denkmal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Denkmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denkmal&language=de)
 
 **Meaning:** memorial, monument
 **Plural:** Denkmäler

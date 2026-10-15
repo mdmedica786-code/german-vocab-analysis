@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0436"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Lieferant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lieferant
+
+![[Lieferant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieferant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieferant&language=de)
 
 **Meaning:** supplier
 **Plural:** Lieferanten

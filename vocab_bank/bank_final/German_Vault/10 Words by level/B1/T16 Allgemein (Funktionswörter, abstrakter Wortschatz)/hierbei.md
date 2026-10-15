@@ -11,11 +11,16 @@ bank: "main"
 id: "B5258"
 freq_rank: 1088
 skip: false
+audio: "hierbei.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hierbei
+
+![[hierbei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hierbei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hierbei&language=de)
 
 **Meaning:** in doing so; hereby
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

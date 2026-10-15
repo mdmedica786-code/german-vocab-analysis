@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die e-card
 
+[▶️ YouGlish](https://youglish.com/pronounce/e-card/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=e-card&language=de)
+
 **Meaning:** e-card (Austrian health insurance card)
 **Plural:** e-cards
 **Level:** B1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** regional

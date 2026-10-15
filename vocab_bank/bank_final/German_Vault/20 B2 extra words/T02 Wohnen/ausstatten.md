@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1223"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "ausstatten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausstatten
+
+![[ausstatten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausstatten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausstatten&language=de)
 
 **Meaning:** to equip; to furnish
 **Forms:** stattet aus · stattete aus · hat ausgestattet

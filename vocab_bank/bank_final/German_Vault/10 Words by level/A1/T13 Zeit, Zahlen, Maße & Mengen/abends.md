@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 1421
 skip: false
+audio: "abends.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abends
+
+![[abends.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abends/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abends&language=de)
 
 **Meaning:** in the evening
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

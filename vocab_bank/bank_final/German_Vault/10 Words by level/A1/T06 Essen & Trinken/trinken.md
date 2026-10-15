@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 8a"
 freq_rank: 639
 skip: false
+audio: "trinken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # trinken
+
+![[trinken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trinken&language=de)
 
 **Meaning:** to drink
 **Forms:** trinkt · trank · hat getrunken

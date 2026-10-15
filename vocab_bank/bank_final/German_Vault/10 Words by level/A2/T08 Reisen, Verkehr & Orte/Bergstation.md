@@ -15,11 +15,16 @@ id: "B2882"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "Bergstation.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bergstation
+
+![[Bergstation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bergstation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergstation&language=de)
 
 **Meaning:** summit station
 **Plural:** Bergstationen

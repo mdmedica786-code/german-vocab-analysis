@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 2a"
 freq_rank: 1514
 skip: false
+audio: "Pause.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pause
+
+![[Pause.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pause&language=de)
 
 **Meaning:** break
 **Plural:** Pausen

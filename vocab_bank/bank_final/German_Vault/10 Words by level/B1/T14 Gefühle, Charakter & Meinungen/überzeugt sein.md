@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # überzeugt sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberzeugt%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberzeugt%20sein&language=de)
+
 **Meaning:** to be convinced
 **Forms:** ist überzeugt · war überzeugt · ist überzeugt gewesen
 **Grammar:** + von + Dat.

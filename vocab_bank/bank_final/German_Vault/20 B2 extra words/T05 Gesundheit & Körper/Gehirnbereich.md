@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3989"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gehirnbereich
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gehirnbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehirnbereich&language=de)
 
 **Meaning:** brain area; region of the brain
 **Plural:** Gehirnbereiche

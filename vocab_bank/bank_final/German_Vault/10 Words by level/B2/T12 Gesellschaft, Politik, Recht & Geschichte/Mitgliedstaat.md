@@ -14,11 +14,16 @@ bank: "main"
 id: "B5843"
 freq_rank: 3124
 skip: false
+audio: "Mitgliedstaat.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mitgliedstaat
+
+![[Mitgliedstaat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitgliedstaat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitgliedstaat&language=de)
 
 **Meaning:** member state
 **Plural:** Mitgliedstaaten

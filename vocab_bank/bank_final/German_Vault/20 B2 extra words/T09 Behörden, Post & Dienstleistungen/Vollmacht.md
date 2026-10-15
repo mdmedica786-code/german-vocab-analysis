@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1114"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vollmacht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vollmacht
+
+![[Vollmacht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollmacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollmacht&language=de)
 
 **Meaning:** power of attorney; authorisation
 **Plural:** Vollmachten

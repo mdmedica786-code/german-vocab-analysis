@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 2431
 skip: false
+audio: "Personal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Personal
+
+![[Personal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personal&language=de)
 
 **Meaning:** staff
 **Plural:** –

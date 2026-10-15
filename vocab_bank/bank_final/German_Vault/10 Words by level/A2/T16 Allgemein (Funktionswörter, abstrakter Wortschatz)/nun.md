@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 104
 skip: false
+audio: "nun (11).wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nun
+
+![[nun (11).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nun&language=de)
 
 **Meaning:** now
 **Other senses:** well (discourse particle)

@@ -15,11 +15,16 @@ id: "B5017"
 netzwerk: "B1 K12 3a"
 freq_rank: 2652
 skip: false
+audio: "Rate.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rate
+
+![[Rate.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rate/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rate&language=de)
 
 **Meaning:** instalment; rate
 **Plural:** Raten

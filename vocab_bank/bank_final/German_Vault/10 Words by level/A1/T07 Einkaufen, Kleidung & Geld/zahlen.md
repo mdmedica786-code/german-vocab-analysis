@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 12a"
 freq_rank: 904
 skip: false
+audio: "zahlen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zahlen
+
+![[zahlen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zahlen&language=de)
 
 **Meaning:** to pay
 **Forms:** zahlt · zahlte · hat gezahlt

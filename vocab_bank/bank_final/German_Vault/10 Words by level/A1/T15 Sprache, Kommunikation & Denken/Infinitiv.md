@@ -15,11 +15,16 @@ id: "B0242"
 netzwerk: "A1 K2 3c"
 freq_rank: 5759
 skip: false
+audio: "Infinitiv.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Infinitiv
+
+![[Infinitiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Infinitiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infinitiv&language=de)
 
 **Meaning:** infinitive
 **Plural:** Infinitive

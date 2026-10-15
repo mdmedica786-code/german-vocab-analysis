@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1012"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Handgepäck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Handgepäck
+
+![[Handgepäck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handgep%C3%A4ck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handgep%C3%A4ck&language=de)
 
 **Meaning:** hand luggage
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B5452"
 goethe_level: "B1"
 freq_rank: 2000
 skip: false
+audio: "Halt.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Halt
+
+![[Halt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Halt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halt&language=de)
 
 **Meaning:** stop; hold
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B5231"
 goethe_level: "B1"
 freq_rank: 983
 skip: false
+audio: "Kampf.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kampf
+
+![[Kampf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kampf&language=de)
 
 **Meaning:** fight; struggle
 **Plural:** Kämpfe

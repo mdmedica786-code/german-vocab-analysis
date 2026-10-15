@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zum Tragen kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Tragen%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Tragen%20kommen&language=de)
+
 **Meaning:** to take effect; to come into play
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

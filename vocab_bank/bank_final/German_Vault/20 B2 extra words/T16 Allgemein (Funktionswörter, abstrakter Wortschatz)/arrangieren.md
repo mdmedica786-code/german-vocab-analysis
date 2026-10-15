@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3732"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "arrangieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # arrangieren
+
+![[arrangieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/arrangieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=arrangieren&language=de)
 
 **Meaning:** to arrange; (sich) to come to terms with
 **Forms:** arrangiert · arrangierte · hat arrangiert

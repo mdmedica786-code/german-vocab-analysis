@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2034"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Nest.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nest
+
+![[Nest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nest&language=de)
 
 **Meaning:** nest
 **Plural:** Nester

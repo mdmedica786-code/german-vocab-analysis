@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 8b"
 freq_rank: 2113
 skip: false
+audio: "kontrollieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kontrollieren
+
+![[kontrollieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kontrollieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kontrollieren&language=de)
 
 **Meaning:** to check
 **Forms:** kontrolliert · kontrollierte · hat kontrolliert

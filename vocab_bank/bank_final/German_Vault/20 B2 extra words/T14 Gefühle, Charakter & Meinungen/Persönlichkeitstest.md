@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4301"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Persönlichkeitstest
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pers%C3%B6nlichkeitstest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pers%C3%B6nlichkeitstest&language=de)
 
 **Meaning:** personality test
 **Plural:** Persönlichkeitstests

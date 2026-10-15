@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0647"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Ladestation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ladestation
+
+![[Ladestation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ladestation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ladestation&language=de)
 
 **Meaning:** charging station
 **Plural:** Ladestationen

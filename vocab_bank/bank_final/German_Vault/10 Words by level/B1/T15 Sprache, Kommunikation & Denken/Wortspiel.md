@@ -15,11 +15,16 @@ id: "B3498"
 netzwerk: "B1 K2 10b"
 freq_rank: 5759
 skip: false
+audio: "Wortspiel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wortspiel
+
+![[Wortspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortspiel&language=de)
 
 **Meaning:** pun/play on words
 **Plural:** Wortspiele

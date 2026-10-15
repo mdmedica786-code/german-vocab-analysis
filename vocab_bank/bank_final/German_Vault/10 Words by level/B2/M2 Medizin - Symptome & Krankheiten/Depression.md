@@ -14,11 +14,16 @@ bank: "main"
 id: "B5700"
 freq_rank: 2826
 skip: false
+audio: "Depression.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Depression
+
+![[Depression.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Depression/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Depression&language=de)
 
 **Meaning:** depression
 **Plural:** Depressionen

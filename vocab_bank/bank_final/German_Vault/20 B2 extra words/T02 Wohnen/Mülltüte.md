@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2254"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Mülltüte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mülltüte
+
+![[Mülltüte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllt%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllt%C3%BCte&language=de)
 
 **Meaning:** bin bag
 **Plural:** Mülltüten

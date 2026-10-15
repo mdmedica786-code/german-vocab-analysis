@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0957"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Argumentation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Argumentation
+
+![[Argumentation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Argumentation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Argumentation&language=de)
 
 **Meaning:** line of argument; argumentation
 **Plural:** Argumentationen

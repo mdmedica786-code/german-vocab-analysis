@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6a"
 freq_rank: 155
 skip: false
+audio: "Kopf.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kopf
+
+![[Kopf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopf&language=de)
 
 **Meaning:** head
 **Plural:** Köpfe

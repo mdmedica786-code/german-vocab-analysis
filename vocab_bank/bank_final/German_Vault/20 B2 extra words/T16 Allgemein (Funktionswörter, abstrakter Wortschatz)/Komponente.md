@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2455"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Komponente.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Komponente
+
+![[Komponente.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komponente/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komponente&language=de)
 
 **Meaning:** component
 **Plural:** Komponenten

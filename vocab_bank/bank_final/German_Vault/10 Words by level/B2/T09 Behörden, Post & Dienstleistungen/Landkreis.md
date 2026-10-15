@@ -14,11 +14,16 @@ bank: "main"
 id: "B5455"
 freq_rank: 2000
 skip: false
+audio: "Landkreis.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Landkreis
+
+![[Landkreis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Landkreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landkreis&language=de)
 
 **Meaning:** district
 **Plural:** Landkreise

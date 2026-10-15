@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Lernwortschatz
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lernwortschatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernwortschatz&language=de)
+
 **Meaning:** learning vocabulary
 **Plural:** Lernwortschätze
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

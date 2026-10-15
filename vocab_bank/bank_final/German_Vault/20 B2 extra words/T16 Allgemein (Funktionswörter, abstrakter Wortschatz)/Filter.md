@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3237"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Filter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Filter
+
+![[Filter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Filter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filter&language=de)
 
 **Meaning:** filter
 **Plural:** Filter

@@ -12,11 +12,16 @@ id: "B2566"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 4847
 skip: false
+audio: "nervig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nervig
+
+![[nervig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nervig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nervig&language=de)
 
 **Meaning:** annoying
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** informal

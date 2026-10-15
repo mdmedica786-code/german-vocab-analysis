@@ -12,11 +12,16 @@ bank: "main"
 id: "B5609"
 freq_rank: 2526
 skip: false
+audio: "berechtigen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # berechtigen
+
+![[berechtigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/berechtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berechtigen&language=de)
 
 **Meaning:** to entitle; to authorise
 **Forms:** berechtigt · berechtigte · hat berechtigt

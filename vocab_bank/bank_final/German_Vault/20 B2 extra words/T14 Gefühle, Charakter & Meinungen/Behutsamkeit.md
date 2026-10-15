@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1470"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Behutsamkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Behutsamkeit
+
+![[Behutsamkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Behutsamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Behutsamkeit&language=de)
 
 **Meaning:** gentleness; caution
 **Plural:** –

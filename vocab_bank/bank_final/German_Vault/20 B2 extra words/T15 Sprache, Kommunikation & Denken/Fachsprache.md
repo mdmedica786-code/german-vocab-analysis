@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1929"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Fachsprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fachsprache
+
+![[Fachsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachsprache&language=de)
 
 **Meaning:** technical language; jargon
 **Plural:** Fachsprachen

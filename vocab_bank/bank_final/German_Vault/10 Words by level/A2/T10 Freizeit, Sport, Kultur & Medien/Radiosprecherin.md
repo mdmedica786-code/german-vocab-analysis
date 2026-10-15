@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Radiosprecherin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Radiosprecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiosprecherin&language=de)
+
 **Meaning:** radio announcer (f)
 **Plural:** Radiosprecherinnen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3225"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Mittelwert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mittelwert
+
+![[Mittelwert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittelwert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelwert&language=de)
 
 **Meaning:** mean; average (value)
 **Plural:** Mittelwerte

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 2b"
 freq_rank: 284
 skip: false
+audio: "spielen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spielen
+
+![[spielen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spielen&language=de)
 
 **Meaning:** to play
 **Forms:** spielt · spielte · hat gespielt

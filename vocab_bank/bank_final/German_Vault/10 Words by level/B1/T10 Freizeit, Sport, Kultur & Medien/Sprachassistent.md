@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sprachassistent
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachassistent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachassistent&language=de)
+
 **Meaning:** language assistant
 **Plural:** Sprachassistenten
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

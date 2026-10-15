@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 14"
 freq_rank: 1569
 skip: false
+audio: "vorbereiten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorbereiten
+
+![[vorbereiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorbereiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbereiten&language=de)
 
 **Meaning:** to prepare
 **Forms:** bereitet vor · bereitete vor · hat vorbereitet

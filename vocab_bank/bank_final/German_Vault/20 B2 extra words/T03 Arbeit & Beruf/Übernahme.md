@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1784"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Übernahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übernahme
+
+![[Übernahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbernahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbernahme&language=de)
 
 **Meaning:** takeover; acceptance
 **Plural:** Übernahmen

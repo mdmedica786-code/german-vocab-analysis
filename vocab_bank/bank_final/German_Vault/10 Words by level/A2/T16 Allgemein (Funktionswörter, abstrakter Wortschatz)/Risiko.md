@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 887
 skip: false
+audio: "Risiko.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Risiko
+
+![[Risiko.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Risiko/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Risiko&language=de)
 
 **Meaning:** risk
 **Plural:** Risiken

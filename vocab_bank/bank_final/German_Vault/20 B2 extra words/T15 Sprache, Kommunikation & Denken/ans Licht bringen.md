@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # ans Licht bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/ans%20Licht%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ans%20Licht%20bringen&language=de)
+
 **Meaning:** to bring to light
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

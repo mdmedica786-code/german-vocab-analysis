@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3c"
 freq_rank: 851
 skip: false
+audio: "Energie.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Energie
+
+![[Energie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Energie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Energie&language=de)
 
 **Meaning:** energy
 **Plural:** Energien

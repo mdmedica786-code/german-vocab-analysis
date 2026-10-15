@@ -14,11 +14,16 @@ bank: "main"
 id: "B6329"
 freq_rank: 5691
 skip: false
+audio: "Radius.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Radius
+
+![[Radius.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radius/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radius&language=de)
 
 **Meaning:** radius (bone); radius (circle)
 **Plural:** Radien

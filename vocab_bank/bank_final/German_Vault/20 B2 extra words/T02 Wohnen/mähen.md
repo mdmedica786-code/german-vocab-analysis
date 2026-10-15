@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1709"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "mähen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # mähen
+
+![[mähen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%A4hen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%A4hen&language=de)
 
 **Meaning:** to mow; to cut (grass)
 **Forms:** mäht · mähte · hat gemäht

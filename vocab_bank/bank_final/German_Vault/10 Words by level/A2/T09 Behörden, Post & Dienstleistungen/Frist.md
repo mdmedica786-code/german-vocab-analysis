@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 5a"
 freq_rank: 3123
 skip: false
+audio: "Frist.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frist
+
+![[Frist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frist&language=de)
 
 **Meaning:** deadline
 **Plural:** Fristen

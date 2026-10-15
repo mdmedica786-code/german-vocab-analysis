@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Mechaniker.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mechaniker
+
+![[Mechaniker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mechaniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mechaniker&language=de)
 
 **Meaning:** mechanic (m)
 **Plural:** Mechaniker

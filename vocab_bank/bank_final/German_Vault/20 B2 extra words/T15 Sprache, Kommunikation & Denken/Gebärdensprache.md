@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3981"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Gebärdensprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gebärdensprache
+
+![[Gebärdensprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rdensprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rdensprache&language=de)
 
 **Meaning:** sign language
 **Plural:** Gebärdensprachen

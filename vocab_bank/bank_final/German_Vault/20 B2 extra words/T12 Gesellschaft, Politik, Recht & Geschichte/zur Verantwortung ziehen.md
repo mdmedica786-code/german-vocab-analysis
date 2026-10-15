@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Verantwortung ziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Verantwortung%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Verantwortung%20ziehen&language=de)
+
 **Meaning:** to hold accountable
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4213"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Medienwissenschaften.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Medienwissenschaften
+
+![[Medienwissenschaften.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medienwissenschaften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medienwissenschaften&language=de)
 
 **Meaning:** media studies
 **Plural:** (Pl.)

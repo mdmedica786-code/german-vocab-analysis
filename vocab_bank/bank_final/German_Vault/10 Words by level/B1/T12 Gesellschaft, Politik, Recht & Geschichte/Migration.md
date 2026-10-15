@@ -15,11 +15,16 @@ id: "B6025"
 goethe_level: "B1"
 freq_rank: 3995
 skip: false
+audio: "Migration.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Migration
+
+![[Migration.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Migration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Migration&language=de)
 
 **Meaning:** migration
 **Plural:** –

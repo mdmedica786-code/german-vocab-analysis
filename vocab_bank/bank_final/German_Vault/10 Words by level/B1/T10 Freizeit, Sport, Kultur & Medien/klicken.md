@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 3354
 skip: false
+audio: "klicken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klicken
+
+![[klicken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klicken&language=de)
 
 **Meaning:** to click
 **Forms:** klickt · klickte · hat geklickt

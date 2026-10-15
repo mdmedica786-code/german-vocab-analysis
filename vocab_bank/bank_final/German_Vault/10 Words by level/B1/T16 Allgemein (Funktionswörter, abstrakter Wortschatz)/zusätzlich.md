@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 11b"
 freq_rank: 647
 skip: false
+audio: "zusätzlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusätzlich
+
+![[zusätzlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zus%C3%A4tzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zus%C3%A4tzlich&language=de)
 
 **Meaning:** additional
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

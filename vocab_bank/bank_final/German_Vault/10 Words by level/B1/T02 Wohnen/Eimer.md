@@ -15,11 +15,16 @@ id: "B3318"
 netzwerk: "B1 K1 9a"
 freq_rank: 4796
 skip: false
+audio: "Eimer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eimer
+
+![[Eimer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eimer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eimer&language=de)
 
 **Meaning:** bucket (im Eimer sein = to be ruined)
 **Plural:** Eimer

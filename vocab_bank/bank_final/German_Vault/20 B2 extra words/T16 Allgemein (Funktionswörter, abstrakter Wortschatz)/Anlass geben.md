@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Anlass geben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anlass%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anlass%20geben&language=de)
+
 **Meaning:** to give cause
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

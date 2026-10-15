@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 10a"
 freq_rank: 354
 skip: false
+audio: "Schritt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schritt
+
+![[Schritt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schritt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schritt&language=de)
 
 **Meaning:** step
 **Plural:** Schritte

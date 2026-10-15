@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Griechenland
 
+[▶️ YouGlish](https://youglish.com/pronounce/Griechenland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Griechenland&language=de)
+
 **Meaning:** Greece
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

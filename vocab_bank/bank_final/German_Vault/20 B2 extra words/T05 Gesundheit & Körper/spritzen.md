@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1726"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "spritzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # spritzen
+
+![[spritzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spritzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spritzen&language=de)
 
 **Meaning:** to spray; to splash; to inject
 **Forms:** spritzt · spritzte · hat/ist gespritzt

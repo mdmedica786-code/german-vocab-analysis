@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 11c"
 freq_rank: 361
 skip: false
+audio: "Tod.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tod
+
+![[Tod.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tod/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tod&language=de)
 
 **Meaning:** death
 **Plural:** –

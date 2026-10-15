@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3339"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Konkurrent.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konkurrent
+
+![[Konkurrent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konkurrent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konkurrent&language=de)
 
 **Meaning:** competitor; rival
 **Plural:** Konkurrenten

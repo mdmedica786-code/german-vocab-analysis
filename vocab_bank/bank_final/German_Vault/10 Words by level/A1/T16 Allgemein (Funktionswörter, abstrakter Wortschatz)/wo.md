@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wo
 
+[▶️ YouGlish](https://youglish.com/pronounce/wo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wo&language=de)
+
 **Meaning:** where
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4251"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Musikveranstaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Musikveranstaltung
+
+![[Musikveranstaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikveranstaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikveranstaltung&language=de)
 
 **Meaning:** music event
 **Plural:** Musikveranstaltungen

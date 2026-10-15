@@ -15,11 +15,16 @@ id: "B2996"
 netzwerk: "A2 K10 10c"
 freq_rank: 5759
 skip: false
+audio: "Kosename.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kosename
+
+![[Kosename.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kosename/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kosename&language=de)
 
 **Meaning:** pet name
 **Plural:** Kosenamen

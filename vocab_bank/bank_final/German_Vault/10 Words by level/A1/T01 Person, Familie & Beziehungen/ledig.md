@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "ledig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ledig
+
+![[ledig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ledig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ledig&language=de)
 
 **Meaning:** single
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

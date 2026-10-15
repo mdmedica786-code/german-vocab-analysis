@@ -14,11 +14,16 @@ bank: "main"
 id: "B5685"
 freq_rank: 2793
 skip: false
+audio: "Sicherung.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sicherung
+
+![[Sicherung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherung&language=de)
 
 **Meaning:** fuse; securing
 **Plural:** Sicherungen

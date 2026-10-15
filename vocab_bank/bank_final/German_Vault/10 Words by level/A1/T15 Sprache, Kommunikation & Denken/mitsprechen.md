@@ -13,11 +13,16 @@ id: "B0122"
 netzwerk: "A1 K1 6a"
 freq_rank: 5759
 skip: false
+audio: "mitsprechen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitsprechen
+
+![[mitsprechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitsprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitsprechen&language=de)
 
 **Meaning:** to speak along; to join in
 **Forms:** spricht mit · sprach mit · hat mitgesprochen

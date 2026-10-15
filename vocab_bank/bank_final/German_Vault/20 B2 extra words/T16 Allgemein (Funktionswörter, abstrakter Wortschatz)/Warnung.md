@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3031"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Warnung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Warnung
+
+![[Warnung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Warnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warnung&language=de)
 
 **Meaning:** warning
 **Plural:** Warnungen

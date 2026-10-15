@@ -11,11 +11,16 @@ bank: "main"
 id: "B5280"
 freq_rank: 1184
 skip: false
+audio: "komplex.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # komplex
+
+![[komplex.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/komplex/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=komplex&language=de)
 
 **Meaning:** complex
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Modeschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Modeschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modeschule&language=de)
+
 **Meaning:** fashion school
 **Plural:** Modeschulen
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

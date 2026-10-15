@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2294"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "buschig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # buschig
+
+![[buschig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/buschig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=buschig&language=de)
 
 **Meaning:** bushy
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

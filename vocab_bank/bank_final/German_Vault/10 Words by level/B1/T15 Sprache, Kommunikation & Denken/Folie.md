@@ -15,11 +15,16 @@ id: "B6442"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Folie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Folie
+
+![[Folie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Folie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Folie&language=de)
 
 **Meaning:** slide; transparency
 **Plural:** Folien

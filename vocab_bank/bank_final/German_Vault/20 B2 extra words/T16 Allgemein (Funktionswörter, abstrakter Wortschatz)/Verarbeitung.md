@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2671"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Verarbeitung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verarbeitung
+
+![[Verarbeitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verarbeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verarbeitung&language=de)
 
 **Meaning:** processing; workmanship
 **Plural:** Verarbeitungen

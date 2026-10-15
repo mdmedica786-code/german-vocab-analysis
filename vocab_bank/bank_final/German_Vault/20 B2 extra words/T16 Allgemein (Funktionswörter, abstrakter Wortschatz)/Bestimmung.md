@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2398"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bestimmung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bestimmung
+
+![[Bestimmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bestimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestimmung&language=de)
 
 **Meaning:** regulation; determination; purpose
 **Plural:** Bestimmungen

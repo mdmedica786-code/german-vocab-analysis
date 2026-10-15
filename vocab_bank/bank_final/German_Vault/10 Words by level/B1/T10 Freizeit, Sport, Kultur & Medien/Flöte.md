@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 9 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Flöte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Flöte
+
+![[Flöte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%B6te/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%B6te&language=de)
 
 **Meaning:** flute
 **Plural:** Flöten

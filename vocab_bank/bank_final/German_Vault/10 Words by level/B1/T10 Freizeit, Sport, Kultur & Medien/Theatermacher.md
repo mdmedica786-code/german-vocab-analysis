@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Theatermacher
 
+[▶️ YouGlish](https://youglish.com/pronounce/Theatermacher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theatermacher&language=de)
+
 **Meaning:** theatre maker (m)
 **Plural:** Theatermacher
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

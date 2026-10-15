@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 3a"
 freq_rank: 4863
 skip: false
+audio: "Mitarbeiterin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitarbeiterin
+
+![[Mitarbeiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitarbeiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitarbeiterin&language=de)
 
 **Meaning:** employee; colleague (f)
 **Plural:** Mitarbeiterinnen

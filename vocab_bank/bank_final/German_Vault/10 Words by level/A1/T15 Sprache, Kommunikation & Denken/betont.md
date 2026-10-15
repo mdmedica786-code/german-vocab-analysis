@@ -12,11 +12,16 @@ id: "B1626"
 netzwerk: "A1 K11 6a"
 freq_rank: 1544
 skip: false
+audio: "betont.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # betont
+
+![[betont.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betont/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betont&language=de)
 
 **Meaning:** stressed
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

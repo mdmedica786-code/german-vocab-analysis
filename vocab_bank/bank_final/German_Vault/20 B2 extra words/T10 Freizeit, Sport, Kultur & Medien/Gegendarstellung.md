@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0600"
 exam_use: ["Lesen"]
 skip: false
+audio: "Gegendarstellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gegendarstellung
+
+![[Gegendarstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegendarstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegendarstellung&language=de)
 
 **Meaning:** right of reply; counter-statement
 **Plural:** Gegendarstellungen

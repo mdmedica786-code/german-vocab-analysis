@@ -13,11 +13,16 @@ id: "B5565"
 goethe_level: "B1"
 freq_rank: 2359
 skip: false
+audio: "einführen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einführen
+
+![[einführen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einf%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einf%C3%BChren&language=de)
 
 **Meaning:** to introduce; to import
 **Forms:** führt ein · führte ein · hat eingeführt

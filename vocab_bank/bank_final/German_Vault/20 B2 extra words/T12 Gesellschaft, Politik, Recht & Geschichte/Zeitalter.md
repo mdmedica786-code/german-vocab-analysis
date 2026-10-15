@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2799"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zeitalter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zeitalter
+
+![[Zeitalter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitalter&language=de)
 
 **Meaning:** era; age
 **Plural:** Zeitalter

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3720"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "Arbeitsbereich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsbereich
+
+![[Arbeitsbereich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsbereich&language=de)
 
 **Meaning:** area of work; work area
 **Plural:** Arbeitsbereiche

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0949"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Tutor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tutor
+
+![[Tutor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tutor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tutor&language=de)
 
 **Meaning:** tutor; student teaching assistant
 **Plural:** Tutoren

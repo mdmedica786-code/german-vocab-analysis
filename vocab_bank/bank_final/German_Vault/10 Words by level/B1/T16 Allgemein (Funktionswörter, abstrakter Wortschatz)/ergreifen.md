@@ -13,11 +13,16 @@ id: "B3911"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 1395
 skip: false
+audio: "ergreifen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ergreifen
+
+![[ergreifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ergreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ergreifen&language=de)
 
 **Meaning:** to seize; to take (measures)
 **Forms:** ergreift · ergriff · hat ergriffen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3424"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Inanspruchnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Inanspruchnahme
+
+![[Inanspruchnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inanspruchnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inanspruchnahme&language=de)
 
 **Meaning:** use; claiming; utilisation
 **Plural:** –

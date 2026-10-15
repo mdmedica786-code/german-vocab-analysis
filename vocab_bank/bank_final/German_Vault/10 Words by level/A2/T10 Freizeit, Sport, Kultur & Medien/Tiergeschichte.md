@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Tiergeschichte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Tiergeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiergeschichte&language=de)
+
 **Meaning:** animal story
 **Plural:** Tiergeschichten
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

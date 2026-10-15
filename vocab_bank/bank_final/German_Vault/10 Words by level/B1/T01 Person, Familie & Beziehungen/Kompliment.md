@@ -14,11 +14,16 @@ bank: "main"
 id: "B6219"
 freq_rank: 4943
 skip: false
+audio: "Kompliment.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kompliment
+
+![[Kompliment.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kompliment/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kompliment&language=de)
 
 **Meaning:** compliment
 **Plural:** Komplimente

@@ -15,11 +15,16 @@ id: "B2394"
 netzwerk: "A2 K6 3c"
 freq_rank: 5759
 skip: false
+audio: "Hinfahrt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hinfahrt
+
+![[Hinfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hinfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hinfahrt&language=de)
 
 **Meaning:** journey there
 **Plural:** Hinfahrten

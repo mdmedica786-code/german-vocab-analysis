@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0894"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "ermutigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ermutigen
+
+![[ermutigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ermutigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ermutigen&language=de)
 
 **Meaning:** to encourage
 **Forms:** ermutigt · ermutigte · hat ermutigt

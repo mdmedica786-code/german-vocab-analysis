@@ -15,11 +15,16 @@ id: "B3152"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 9999
 skip: false
+audio: "Datenschutzbestimmung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Datenschutzbestimmung
+
+![[Datenschutzbestimmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datenschutzbestimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datenschutzbestimmung&language=de)
 
 **Meaning:** data protection regulations
 **Plural:** Datenschutzbestimmungen

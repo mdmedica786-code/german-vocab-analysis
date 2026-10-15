@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 3a"
 freq_rank: 275
 skip: false
+audio: "paar.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # paar
+
+![[paar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/paar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=paar&language=de)
 
 **Meaning:** couple
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

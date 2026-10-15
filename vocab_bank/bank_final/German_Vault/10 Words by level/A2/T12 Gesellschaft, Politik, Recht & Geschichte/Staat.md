@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 423
 skip: false
+audio: "Staat.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Staat
+
+![[Staat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Staat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staat&language=de)
 
 **Meaning:** state
 **Plural:** Staaten

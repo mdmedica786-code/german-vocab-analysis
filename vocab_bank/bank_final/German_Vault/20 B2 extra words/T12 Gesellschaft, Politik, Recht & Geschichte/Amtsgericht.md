@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0500"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Amtsgericht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Amtsgericht
+
+![[Amtsgericht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Amtsgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amtsgericht&language=de)
 
 **Meaning:** local court
 **Plural:** Amtsgerichte

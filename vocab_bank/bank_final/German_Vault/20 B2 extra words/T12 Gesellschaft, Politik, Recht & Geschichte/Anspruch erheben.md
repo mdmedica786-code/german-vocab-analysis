@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0053"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Anspruch erheben.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Anspruch erheben
+
+![[Anspruch erheben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anspruch%20erheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anspruch%20erheben&language=de)
 
 **Meaning:** to claim; to lay claim
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

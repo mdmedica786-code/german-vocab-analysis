@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # aber
 
+[▶️ YouGlish](https://youglish.com/pronounce/aber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aber&language=de)
+
 **Meaning:** but
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

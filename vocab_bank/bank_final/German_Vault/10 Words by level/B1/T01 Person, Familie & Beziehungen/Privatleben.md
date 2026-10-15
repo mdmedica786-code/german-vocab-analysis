@@ -15,11 +15,16 @@ id: "B3601"
 netzwerk: "B1 K3 3c"
 freq_rank: 5512
 skip: false
+audio: "Privatleben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Privatleben
+
+![[Privatleben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Privatleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Privatleben&language=de)
 
 **Meaning:** private life
 **Plural:** –

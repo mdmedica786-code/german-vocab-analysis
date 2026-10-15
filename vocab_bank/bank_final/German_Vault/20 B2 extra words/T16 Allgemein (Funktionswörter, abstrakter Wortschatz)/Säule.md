@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2679"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Säule.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Säule
+
+![[Säule.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4ule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4ule&language=de)
 
 **Meaning:** column; pillar
 **Plural:** Säulen

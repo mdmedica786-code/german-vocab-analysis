@@ -13,11 +13,16 @@ id: "B5145"
 goethe_level: "B1"
 freq_rank: 237
 skip: false
+audio: "treten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # treten
+
+![[treten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/treten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=treten&language=de)
 
 **Meaning:** to step; to kick; to tread
 **Forms:** tritt · trat · hat/ist getreten

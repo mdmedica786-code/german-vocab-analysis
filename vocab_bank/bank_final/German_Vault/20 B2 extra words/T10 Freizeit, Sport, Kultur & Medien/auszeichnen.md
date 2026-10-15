@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0270"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "auszeichnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # auszeichnen
+
+![[auszeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auszeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auszeichnen&language=de)
 
 **Meaning:** to distinguish; to award
 **Forms:** zeichnet aus · zeichnete aus · hat ausgezeichnet

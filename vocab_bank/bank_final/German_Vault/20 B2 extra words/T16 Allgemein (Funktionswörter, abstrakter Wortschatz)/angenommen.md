@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0007"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "angenommen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/conjunction", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # angenommen
+
+![[angenommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angenommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angenommen&language=de)
 
 **Meaning:** assuming; suppose
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

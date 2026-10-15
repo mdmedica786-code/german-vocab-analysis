@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # haben
 
+[▶️ YouGlish](https://youglish.com/pronounce/haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=haben&language=de)
+
 **Meaning:** to have
 **Forms:** hat · hatte · hat gehabt
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

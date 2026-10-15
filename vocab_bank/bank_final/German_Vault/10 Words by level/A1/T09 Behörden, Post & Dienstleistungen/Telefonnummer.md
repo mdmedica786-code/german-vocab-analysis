@@ -15,11 +15,16 @@ id: "B0140"
 netzwerk: "A1 K1 6c"
 freq_rank: 5739
 skip: false
+audio: "Telefonnummer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Telefonnummer
+
+![[Telefonnummer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Telefonnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonnummer&language=de)
 
 **Meaning:** telephone number
 **Plural:** Telefonnummern

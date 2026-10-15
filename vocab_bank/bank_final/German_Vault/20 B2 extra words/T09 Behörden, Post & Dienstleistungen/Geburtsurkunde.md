@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1111"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Geburtsurkunde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geburtsurkunde
+
+![[Geburtsurkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtsurkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsurkunde&language=de)
 
 **Meaning:** birth certificate
 **Plural:** Geburtsurkunden

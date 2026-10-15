@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 5560
 skip: false
+audio: "bremsen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bremsen
+
+![[bremsen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bremsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bremsen&language=de)
 
 **Meaning:** to brake
 **Forms:** bremst · bremste · hat gebremst

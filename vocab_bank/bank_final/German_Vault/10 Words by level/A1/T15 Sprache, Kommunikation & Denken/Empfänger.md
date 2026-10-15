@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 8a"
 freq_rank: 3384
 skip: false
+audio: "Empfänger.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Empfänger
+
+![[Empfänger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Empf%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Empf%C3%A4nger&language=de)
 
 **Meaning:** recipient (m)
 **Plural:** Empfänger

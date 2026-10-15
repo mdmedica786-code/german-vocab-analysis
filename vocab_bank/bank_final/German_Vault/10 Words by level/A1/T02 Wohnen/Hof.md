@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 12b"
 freq_rank: 1142
 skip: false
+audio: "Hof.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hof
+
+![[Hof.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hof&language=de)
 
 **Meaning:** courtyard; farm
 **Plural:** Höfe

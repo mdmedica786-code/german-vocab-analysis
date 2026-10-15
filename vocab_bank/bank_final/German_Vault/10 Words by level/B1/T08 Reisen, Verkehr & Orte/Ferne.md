@@ -15,11 +15,16 @@ id: "B4538"
 netzwerk: "B1 K8 13a"
 freq_rank: 2854
 skip: false
+audio: "Ferne.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ferne
+
+![[Ferne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ferne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferne&language=de)
 
 **Meaning:** distance
 **Plural:** –

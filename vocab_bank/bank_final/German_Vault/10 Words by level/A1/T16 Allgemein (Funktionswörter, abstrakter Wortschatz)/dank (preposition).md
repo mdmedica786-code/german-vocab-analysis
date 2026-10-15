@@ -12,11 +12,16 @@ id: "B5237"
 goethe_level: "A1"
 freq_rank: 1001
 skip: false
+audio: "Dank.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # dank
+
+![[Dank.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dank&language=de)
 
 **Meaning:** thanks to
 **Case:** + Dat. | + Gen.

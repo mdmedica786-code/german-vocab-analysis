@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2521"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "derart.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # derart
+
+![[derart.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/derart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=derart&language=de)
 
 **Meaning:** so; to such an extent
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

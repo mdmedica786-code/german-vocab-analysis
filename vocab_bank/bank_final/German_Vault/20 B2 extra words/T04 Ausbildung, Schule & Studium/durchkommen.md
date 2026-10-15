@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1239"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "durchkommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchkommen
+
+![[durchkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchkommen&language=de)
 
 **Meaning:** to get through; to pass
 **Forms:** kommt durch · kam durch · ist durchgekommen

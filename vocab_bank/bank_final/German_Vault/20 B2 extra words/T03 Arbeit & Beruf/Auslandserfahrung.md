@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3756"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Auslandserfahrung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Auslandserfahrung
+
+![[Auslandserfahrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auslandserfahrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auslandserfahrung&language=de)
 
 **Meaning:** experience abroad
 **Plural:** Auslandserfahrungen

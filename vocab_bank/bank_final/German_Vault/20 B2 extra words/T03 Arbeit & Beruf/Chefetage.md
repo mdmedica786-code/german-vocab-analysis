@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3837"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Chefetage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Chefetage
+
+![[Chefetage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chefetage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chefetage&language=de)
 
 **Meaning:** executive floor; top management
 **Plural:** Chefetagen

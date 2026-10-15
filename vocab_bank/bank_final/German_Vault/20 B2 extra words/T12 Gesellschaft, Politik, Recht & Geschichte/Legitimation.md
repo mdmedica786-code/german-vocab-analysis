@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3252"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Legitimation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Legitimation
+
+![[Legitimation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Legitimation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Legitimation&language=de)
 
 **Meaning:** legitimation; authorization
 **Plural:** Legitimationen

@@ -15,11 +15,16 @@ id: "B4937"
 netzwerk: "B1 K11 8b"
 freq_rank: 5759
 skip: false
+audio: "Diversität.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Diversität
+
+![[Diversität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diversit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diversit%C3%A4t&language=de)
 
 **Meaning:** diversity
 **Plural:** –

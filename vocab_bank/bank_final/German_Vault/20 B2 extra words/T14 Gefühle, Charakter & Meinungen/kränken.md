@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1285"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "kränken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # kränken
+
+![[kränken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kr%C3%A4nken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kr%C3%A4nken&language=de)
 
 **Meaning:** to offend; to hurt someone's feelings
 **Forms:** kränkt · kränkte · hat gekränkt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2395"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "hervor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # hervor
+
+![[hervor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hervor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hervor&language=de)
 
 **Meaning:** out; forth
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 5b"
 freq_rank: 459
 skip: false
+audio: "verschwinden.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschwinden
+
+![[verschwinden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschwinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschwinden&language=de)
 
 **Meaning:** to disappear
 **Forms:** verschwindet · verschwand · ist verschwunden

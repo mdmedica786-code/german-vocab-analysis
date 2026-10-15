@@ -15,11 +15,16 @@ id: "B5212"
 goethe_level: "B1"
 freq_rank: 826
 skip: false
+audio: "Stein.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stein
+
+![[Stein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stein&language=de)
 
 **Meaning:** stone; rock
 **Plural:** Steine

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # auf eigenen Füßen stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20eigenen%20F%C3%BC%C3%9Fen%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20eigenen%20F%C3%BC%C3%9Fen%20stehen&language=de)
+
 **Meaning:** to stand on one's own two feet
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

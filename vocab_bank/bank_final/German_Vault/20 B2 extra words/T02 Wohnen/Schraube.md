@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2226"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Schraube.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schraube
+
+![[Schraube.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schraube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schraube&language=de)
 
 **Meaning:** screw
 **Plural:** Schrauben

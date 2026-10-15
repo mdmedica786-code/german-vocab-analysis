@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1087"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Widerruf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Widerruf
+
+![[Widerruf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Widerruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerruf&language=de)
 
 **Meaning:** revocation; withdrawal (of a contract)
 **Plural:** Widerrufe

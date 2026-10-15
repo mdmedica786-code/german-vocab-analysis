@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 5b"
 freq_rank: 1049
 skip: false
+audio: "Bericht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bericht
+
+![[Bericht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bericht&language=de)
 
 **Meaning:** report
 **Plural:** Berichte

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3200"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "einbinden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einbinden
+
+![[einbinden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einbinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einbinden&language=de)
 
 **Meaning:** to integrate; to involve; to bind in
 **Forms:** bindet ein · band ein · hat eingebunden

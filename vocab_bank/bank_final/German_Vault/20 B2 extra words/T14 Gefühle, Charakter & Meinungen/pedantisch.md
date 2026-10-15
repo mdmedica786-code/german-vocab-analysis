@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1627"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "pedantisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # pedantisch
+
+![[pedantisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pedantisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pedantisch&language=de)
 
 **Meaning:** pedantic
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

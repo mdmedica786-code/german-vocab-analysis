@@ -15,11 +15,16 @@ id: "B4566"
 netzwerk: "B1 K9 1b"
 freq_rank: 4832
 skip: false
+audio: "Statue.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Statue
+
+![[Statue.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Statue/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statue&language=de)
 
 **Meaning:** statue
 **Plural:** Statuen

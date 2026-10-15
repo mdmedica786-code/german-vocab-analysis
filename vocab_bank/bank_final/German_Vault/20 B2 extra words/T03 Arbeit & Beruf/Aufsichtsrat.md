@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3538"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Aufsichtsrat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufsichtsrat
+
+![[Aufsichtsrat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufsichtsrat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufsichtsrat&language=de)
 
 **Meaning:** supervisory board
 **Plural:** Aufsichtsräte

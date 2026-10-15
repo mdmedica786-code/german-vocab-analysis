@@ -15,11 +15,16 @@ id: "B6620"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Zweitsprache.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zweitsprache
+
+![[Zweitsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zweitsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweitsprache&language=de)
 
 **Meaning:** second language
 **Plural:** Zweitsprachen

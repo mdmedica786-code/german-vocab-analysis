@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4615"
 exam_use: ["Hören", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Wal-Laut
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wal-Laut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wal-Laut&language=de)
 
 **Meaning:** whale sound; whale call
 **Plural:** Wal-Laute

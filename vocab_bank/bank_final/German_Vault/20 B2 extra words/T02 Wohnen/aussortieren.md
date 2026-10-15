@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1222"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "aussortieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aussortieren
+
+![[aussortieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussortieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussortieren&language=de)
 
 **Meaning:** to sort out; to weed out
 **Forms:** sortiert aus · sortierte aus · hat aussortiert

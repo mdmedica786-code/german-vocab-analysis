@@ -14,11 +14,16 @@ bank: "main"
 id: "B6122"
 freq_rank: 4534
 skip: false
+audio: "Naturschutz.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Naturschutz
+
+![[Naturschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Naturschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturschutz&language=de)
 
 **Meaning:** nature conservation
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 10a"
 freq_rank: 2216
 skip: false
+audio: "Motorrad.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Motorrad
+
+![[Motorrad.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Motorrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motorrad&language=de)
 
 **Meaning:** motorcycle
 **Plural:** Motorräder

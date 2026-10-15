@@ -14,11 +14,16 @@ bank: "main"
 id: "B6105"
 freq_rank: 4418
 skip: false
+audio: "Mitmensch.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mitmensch
+
+![[Mitmensch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitmensch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitmensch&language=de)
 
 **Meaning:** fellow human being
 **Plural:** Mitmenschen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4360"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
+audio: "routiniert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # routiniert
+
+![[routiniert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/routiniert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=routiniert&language=de)
 
 **Meaning:** experienced; practised; skilful
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B5849"
 goethe_level: "A1"
 freq_rank: 3138
 skip: false
+audio: "Zentimeter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zentimeter
+
+![[Zentimeter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zentimeter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zentimeter&language=de)
 
 **Meaning:** centimetre
 **Plural:** Zentimeter

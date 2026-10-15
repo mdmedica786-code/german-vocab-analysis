@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Jause.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jause
+
+![[Jause.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jause&language=de)
 
 **Meaning:** snack (Austrian)
 **Plural:** Jausen

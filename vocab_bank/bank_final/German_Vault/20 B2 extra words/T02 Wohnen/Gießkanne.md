@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2234"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Gießkanne.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gießkanne
+
+![[Gießkanne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gie%C3%9Fkanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gie%C3%9Fkanne&language=de)
 
 **Meaning:** watering can
 **Plural:** Gießkannen

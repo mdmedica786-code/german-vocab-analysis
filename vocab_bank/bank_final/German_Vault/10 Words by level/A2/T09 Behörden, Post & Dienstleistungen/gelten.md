@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 7c"
 freq_rank: 211
 skip: false
+audio: "gelten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelten
+
+![[gelten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelten&language=de)
 
 **Meaning:** to apply; to be valid
 **Forms:** gilt · galt · hat gegolten

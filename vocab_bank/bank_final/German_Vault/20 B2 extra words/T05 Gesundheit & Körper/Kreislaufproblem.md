@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4149"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kreislaufproblem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kreislaufproblem
+
+![[Kreislaufproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreislaufproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreislaufproblem&language=de)
 
 **Meaning:** circulatory problem
 **Plural:** Kreislaufprobleme

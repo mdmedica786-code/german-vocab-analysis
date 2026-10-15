@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2916"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "thematisieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # thematisieren
+
+![[thematisieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/thematisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=thematisieren&language=de)
 
 **Meaning:** to address; to make a subject of discussion
 **Forms:** thematisiert · thematisierte · hat thematisiert

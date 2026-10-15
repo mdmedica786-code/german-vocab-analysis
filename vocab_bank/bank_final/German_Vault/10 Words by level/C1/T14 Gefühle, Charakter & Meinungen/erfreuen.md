@@ -12,11 +12,16 @@ bank: "main"
 id: "B5909"
 freq_rank: 3451
 skip: false
+audio: "erfreuen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfreuen
+
+![[erfreuen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfreuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfreuen&language=de)
 
 **Meaning:** to please; to delight
 **Forms:** erfreut · erfreute · hat erfreut

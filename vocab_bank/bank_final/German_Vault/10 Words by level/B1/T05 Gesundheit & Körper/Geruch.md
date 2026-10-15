@@ -14,11 +14,16 @@ bank: "main"
 id: "B5522"
 freq_rank: 2210
 skip: false
+audio: "Geruch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geruch
+
+![[Geruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geruch&language=de)
 
 **Meaning:** smell; odour
 **Plural:** Gerüche

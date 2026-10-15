@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1769"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Krankmeldung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krankmeldung
+
+![[Krankmeldung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankmeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankmeldung&language=de)
 
 **Meaning:** notification of sick leave
 **Plural:** Krankmeldungen

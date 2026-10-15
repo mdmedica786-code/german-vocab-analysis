@@ -15,11 +15,16 @@ id: "B5434"
 goethe_level: "B1"
 freq_rank: 1946
 skip: false
+audio: "Begründung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begründung
+
+![[Begründung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BCndung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BCndung&language=de)
 
 **Meaning:** reason; justification
 **Plural:** Begründungen

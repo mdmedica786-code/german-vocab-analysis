@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0102"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "in Aussicht stellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Aussicht stellen
+
+![[in Aussicht stellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Aussicht%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Aussicht%20stellen&language=de)
 
 **Meaning:** to promise; to hold out the prospect of
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B2586"
 netzwerk: "A2 K7 6c"
 freq_rank: 5759
 skip: false
+audio: "Kaution.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kaution
+
+![[Kaution.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaution/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaution&language=de)
 
 **Meaning:** deposit
 **Plural:** Kautionen

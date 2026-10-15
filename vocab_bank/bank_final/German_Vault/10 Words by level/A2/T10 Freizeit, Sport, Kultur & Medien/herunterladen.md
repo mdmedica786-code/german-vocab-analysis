@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "herunterladen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herunterladen
+
+![[herunterladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herunterladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterladen&language=de)
 
 **Meaning:** to download
 **Forms:** lädt herunter · lud herunter · hat heruntergeladen

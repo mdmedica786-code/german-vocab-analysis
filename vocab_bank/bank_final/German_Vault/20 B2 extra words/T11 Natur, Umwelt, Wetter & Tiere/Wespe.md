@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1959"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wespe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wespe
+
+![[Wespe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wespe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wespe&language=de)
 
 **Meaning:** wasp
 **Plural:** Wespen

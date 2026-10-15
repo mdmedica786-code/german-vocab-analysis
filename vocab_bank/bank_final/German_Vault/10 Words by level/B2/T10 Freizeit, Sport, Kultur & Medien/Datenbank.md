@@ -14,11 +14,16 @@ bank: "main"
 id: "B5675"
 freq_rank: 2761
 skip: false
+audio: "Datenbank.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Datenbank
+
+![[Datenbank.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datenbank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datenbank&language=de)
 
 **Meaning:** database
 **Plural:** Datenbanken

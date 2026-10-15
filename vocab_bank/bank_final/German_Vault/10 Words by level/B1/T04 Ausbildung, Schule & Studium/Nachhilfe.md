@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Nachhilfe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachhilfe
+
+![[Nachhilfe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachhilfe&language=de)
 
 **Meaning:** private tutoring
 **Plural:** –

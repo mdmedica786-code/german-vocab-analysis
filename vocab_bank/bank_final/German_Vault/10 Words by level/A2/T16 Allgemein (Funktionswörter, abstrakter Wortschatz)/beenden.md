@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # beenden
 
+[▶️ YouGlish](https://youglish.com/pronounce/beenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beenden&language=de)
+
 **Meaning:** to finish
 **Forms:** beendet · beendete · hat beendet
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

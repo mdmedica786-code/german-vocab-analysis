@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4302"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Pfarrerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Pfarrerin
+
+![[Pfarrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfarrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfarrerin&language=de)
 
 **Meaning:** pastor; vicar (female)
 **Plural:** Pfarrerinnen

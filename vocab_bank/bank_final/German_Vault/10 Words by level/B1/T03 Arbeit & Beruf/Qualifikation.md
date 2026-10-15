@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 4380
 skip: false
+audio: "Qualifikation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Qualifikation
+
+![[Qualifikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Qualifikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Qualifikation&language=de)
 
 **Meaning:** qualification
 **Plural:** Qualifikationen

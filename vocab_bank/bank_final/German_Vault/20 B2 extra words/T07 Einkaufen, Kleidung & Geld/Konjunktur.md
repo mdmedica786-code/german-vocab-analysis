@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0432"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Konjunktur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konjunktur
+
+![[Konjunktur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konjunktur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konjunktur&language=de)
 
 **Meaning:** economic situation; boom
 **Plural:** Konjunkturen

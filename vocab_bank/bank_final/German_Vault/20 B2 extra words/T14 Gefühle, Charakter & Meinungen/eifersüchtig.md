@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3304"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "eifersüchtig.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # eifersüchtig
+
+![[eifersüchtig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eifers%C3%BCchtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eifers%C3%BCchtig&language=de)
 
 **Meaning:** jealous
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

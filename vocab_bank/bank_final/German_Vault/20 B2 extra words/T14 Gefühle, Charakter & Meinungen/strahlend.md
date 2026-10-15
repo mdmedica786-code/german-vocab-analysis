@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3351"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "strahlend.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # strahlend
+
+![[strahlend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strahlend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strahlend&language=de)
 
 **Meaning:** radiant; beaming; brilliant
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

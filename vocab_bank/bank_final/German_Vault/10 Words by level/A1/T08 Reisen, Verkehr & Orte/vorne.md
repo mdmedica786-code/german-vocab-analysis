@@ -12,11 +12,16 @@ id: "B1830"
 netzwerk: "A1 K12 11a"
 freq_rank: 1819
 skip: false
+audio: "vorne.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorne
+
+![[vorne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorne&language=de)
 
 **Meaning:** in front, over there
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1607"
 netzwerk: "A1 K11 3c"
 freq_rank: 5182
 skip: false
+audio: "Quatsch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Quatsch
+
+![[Quatsch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quatsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quatsch&language=de)
 
 **Meaning:** nonsense
 **Plural:** –

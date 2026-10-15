@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 376
 skip: false
+audio: "eher.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eher
+
+![[eher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eher&language=de)
 
 **Meaning:** rather
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

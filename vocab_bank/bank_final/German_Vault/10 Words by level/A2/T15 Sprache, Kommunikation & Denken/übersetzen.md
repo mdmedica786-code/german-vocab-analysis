@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 7a"
 freq_rank: 2349
 skip: false
+audio: "übersetzen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # übersetzen
+
+![[übersetzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbersetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbersetzen&language=de)
 
 **Meaning:** to translate
 **Forms:** übersetzt · übersetzte · hat übersetzt

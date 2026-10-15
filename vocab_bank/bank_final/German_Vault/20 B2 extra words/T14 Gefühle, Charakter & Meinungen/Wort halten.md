@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Wort halten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wort%20halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wort%20halten&language=de)
+
 **Meaning:** to keep one's word
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

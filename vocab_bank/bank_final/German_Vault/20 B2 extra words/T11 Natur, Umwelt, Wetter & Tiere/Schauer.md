@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3154"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Schauer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schauer
+
+![[Schauer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauer&language=de)
 
 **Meaning:** shower; shudder
 **Plural:** Schauer

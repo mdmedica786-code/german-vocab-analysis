@@ -12,11 +12,16 @@ id: "B2730"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 5759
 skip: false
+audio: "stressfrei.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stressfrei
+
+![[stressfrei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stressfrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stressfrei&language=de)
 
 **Meaning:** stress-free
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

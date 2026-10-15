@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # fest machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/fest%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fest%20machen&language=de)
+
 **Meaning:** to fasten
 **Forms:** macht fest · machte fest · hat festgemacht
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

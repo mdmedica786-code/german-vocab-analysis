@@ -13,11 +13,16 @@ id: "B1573"
 netzwerk: "A1 K10 13f"
 freq_rank: 4987
 skip: false
+audio: "nachfragen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachfragen
+
+![[nachfragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachfragen&language=de)
 
 **Meaning:** to ask again
 **Forms:** fragt nach · fragte nach · hat nachgefragt

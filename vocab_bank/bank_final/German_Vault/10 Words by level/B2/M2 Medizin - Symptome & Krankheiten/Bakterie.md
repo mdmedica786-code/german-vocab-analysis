@@ -14,11 +14,16 @@ bank: "main"
 id: "B6004"
 freq_rank: 3893
 skip: false
+audio: "Bakterie.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bakterie
+
+![[Bakterie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bakterie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bakterie&language=de)
 
 **Meaning:** bacterium
 **Plural:** Bakterien

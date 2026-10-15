@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3116"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Repräsentation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Repräsentation
+
+![[Repräsentation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Repr%C3%A4sentation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Repr%C3%A4sentation&language=de)
 
 **Meaning:** representation
 **Plural:** Repräsentationen

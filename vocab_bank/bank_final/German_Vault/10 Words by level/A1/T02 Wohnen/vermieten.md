@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3c"
 freq_rank: 5759
 skip: false
+audio: "vermieten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vermieten
+
+![[vermieten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vermieten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vermieten&language=de)
 
 **Meaning:** to let sth
 **Forms:** vermietet · vermietete · hat vermietet

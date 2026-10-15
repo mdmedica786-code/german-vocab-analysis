@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3469"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "bedrohlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedrohlich
+
+![[bedrohlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedrohlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedrohlich&language=de)
 
 **Meaning:** threatening; ominous
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

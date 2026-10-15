@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3120"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "erlassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erlassen
+
+![[erlassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erlassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlassen&language=de)
 
 **Meaning:** to enact; to issue; to remit
 **Forms:** erlässt · erließ · hat erlassen

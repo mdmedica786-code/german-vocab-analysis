@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3057"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "abrufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # abrufen
+
+![[abrufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abrufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abrufen&language=de)
 
 **Meaning:** to retrieve; to call up
 **Forms:** ruft ab · rief ab · hat abgerufen

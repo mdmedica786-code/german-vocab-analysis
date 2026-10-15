@@ -14,11 +14,16 @@ bank: "main"
 id: "B5384"
 freq_rank: 1720
 skip: false
+audio: "Entstehung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entstehung
+
+![[Entstehung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entstehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entstehung&language=de)
 
 **Meaning:** origin; formation
 **Plural:** –

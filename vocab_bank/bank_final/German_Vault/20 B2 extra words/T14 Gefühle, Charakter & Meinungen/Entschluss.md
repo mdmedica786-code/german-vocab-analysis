@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2760"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Entschluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Entschluss
+
+![[Entschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entschluss&language=de)
 
 **Meaning:** decision; resolution
 **Plural:** Entschlüsse

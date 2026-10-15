@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2081"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "etwas im Griff haben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # etwas im Griff haben
+
+![[etwas im Griff haben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/etwas%20im%20Griff%20haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=etwas%20im%20Griff%20haben&language=de)
 
 **Meaning:** to have something under control
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2248"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Pinzette.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pinzette
+
+![[Pinzette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pinzette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pinzette&language=de)
 
 **Meaning:** tweezers
 **Plural:** Pinzetten

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 14a"
 freq_rank: 777
 skip: false
+audio: "draußen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # draußen
+
+![[draußen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drau%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drau%C3%9Fen&language=de)
 
 **Meaning:** outside
 **Level:** A1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K4 11a"
 freq_rank: 1277
 skip: false
+audio: "anbieten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anbieten
+
+![[anbieten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anbieten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anbieten&language=de)
 
 **Meaning:** to offer
 **Forms:** bietet an · bot an · hat angeboten

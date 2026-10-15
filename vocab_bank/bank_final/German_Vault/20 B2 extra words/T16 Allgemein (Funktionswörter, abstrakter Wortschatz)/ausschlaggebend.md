@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3534"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "ausschlaggebend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausschlaggebend
+
+![[ausschlaggebend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausschlaggebend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausschlaggebend&language=de)
 
 **Meaning:** decisive; crucial
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

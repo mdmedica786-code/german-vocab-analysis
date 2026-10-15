@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4085"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Investorin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Investorin
+
+![[Investorin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Investorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Investorin&language=de)
 
 **Meaning:** investor (female)
 **Plural:** Investorinnen

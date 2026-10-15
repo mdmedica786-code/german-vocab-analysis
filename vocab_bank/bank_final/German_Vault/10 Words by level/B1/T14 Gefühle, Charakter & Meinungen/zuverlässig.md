@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 4695
 skip: false
+audio: "zuverlässig.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuverlässig
+
+![[zuverlässig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuverl%C3%A4ssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuverl%C3%A4ssig&language=de)
 
 **Meaning:** reliable
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

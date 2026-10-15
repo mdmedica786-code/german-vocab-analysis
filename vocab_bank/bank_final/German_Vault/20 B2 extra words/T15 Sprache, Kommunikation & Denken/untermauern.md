@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0224"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "untermauern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # untermauern
+
+![[untermauern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/untermauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=untermauern&language=de)
 
 **Meaning:** to back up; to substantiate
 **Forms:** untermauert · untermauerte · hat untermauert

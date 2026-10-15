@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 2574
 skip: false
+audio: "schwimmen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwimmen
+
+![[schwimmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwimmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwimmen&language=de)
 
 **Meaning:** to swim
 **Forms:** schwimmt · schwamm · ist geschwommen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0460"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vergütung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vergütung
+
+![[Vergütung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verg%C3%BCtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verg%C3%BCtung&language=de)
 
 **Meaning:** remuneration; compensation
 **Plural:** Vergütungen

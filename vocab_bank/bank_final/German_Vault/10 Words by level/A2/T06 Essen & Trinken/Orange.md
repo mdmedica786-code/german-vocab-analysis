@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 2645
 skip: false
+audio: "Orange.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Orange
+
+![[Orange.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Orange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orange&language=de)
 
 **Meaning:** orange
 **Plural:** Orangen

@@ -15,11 +15,16 @@ id: "B3756"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Besteck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Besteck
+
+![[Besteck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besteck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besteck&language=de)
 
 **Meaning:** cutlery
 **Plural:** Bestecke

@@ -15,11 +15,16 @@ id: "B3387"
 netzwerk: "B1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Handyladen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handyladen
+
+![[Handyladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handyladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handyladen&language=de)
 
 **Meaning:** mobile phone shop
 **Plural:** Handyläden

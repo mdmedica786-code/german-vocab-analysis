@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Banane.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Banane
+
+![[Banane.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Banane/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Banane&language=de)
 
 **Meaning:** banana
 **Plural:** Bananen

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 7a"
 freq_rank: 5083
 skip: false
+audio: "übernachten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # übernachten
+
+![[übernachten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbernachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbernachten&language=de)
 
 **Meaning:** to sleep over, to stay at
 **Forms:** übernachtet · übernachtete · hat übernachtet

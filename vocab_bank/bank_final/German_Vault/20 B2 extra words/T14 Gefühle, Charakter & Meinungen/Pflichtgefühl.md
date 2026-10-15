@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1177"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Pflichtgefühl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pflichtgefühl
+
+![[Pflichtgefühl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflichtgef%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflichtgef%C3%BChl&language=de)
 
 **Meaning:** sense of duty
 **Plural:** –

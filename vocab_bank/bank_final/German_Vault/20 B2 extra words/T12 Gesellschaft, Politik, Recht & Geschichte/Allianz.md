@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3573"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Allianz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Allianz
+
+![[Allianz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Allianz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allianz&language=de)
 
 **Meaning:** alliance
 **Plural:** Allianzen

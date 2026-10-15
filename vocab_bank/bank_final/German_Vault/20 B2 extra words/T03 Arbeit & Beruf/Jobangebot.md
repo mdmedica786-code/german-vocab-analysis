@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4086"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Jobangebot.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Jobangebot
+
+![[Jobangebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jobangebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jobangebot&language=de)
 
 **Meaning:** job offer
 **Plural:** Jobangebote

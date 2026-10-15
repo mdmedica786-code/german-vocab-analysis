@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 5a"
 freq_rank: 5126
 skip: false
+audio: "schimpfen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schimpfen
+
+![[schimpfen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schimpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schimpfen&language=de)
 
 **Meaning:** to scold
 **Forms:** schimpft · schimpfte · hat geschimpft

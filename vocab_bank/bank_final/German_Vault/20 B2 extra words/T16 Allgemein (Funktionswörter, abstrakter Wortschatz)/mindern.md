@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0901"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "mindern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # mindern
+
+![[mindern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mindern&language=de)
 
 **Meaning:** to reduce; to diminish
 **Forms:** mindert · minderte · hat gemindert

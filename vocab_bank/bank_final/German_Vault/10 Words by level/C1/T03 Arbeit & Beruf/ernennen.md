@@ -12,11 +12,16 @@ bank: "main"
 id: "B6272"
 freq_rank: 5262
 skip: false
+audio: "ernennen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ernennen
+
+![[ernennen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ernennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ernennen&language=de)
 
 **Meaning:** to appoint
 **Forms:** ernennt · ernannte · hat ernannt

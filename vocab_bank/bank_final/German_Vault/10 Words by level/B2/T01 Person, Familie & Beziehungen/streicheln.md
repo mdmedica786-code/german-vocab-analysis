@@ -12,11 +12,16 @@ bank: "main"
 id: "B5613"
 freq_rank: 2535
 skip: false
+audio: "streicheln.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # streicheln
+
+![[streicheln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streicheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streicheln&language=de)
 
 **Meaning:** to stroke; to pet
 **Forms:** streichelt · streichelte · hat gestreichelt

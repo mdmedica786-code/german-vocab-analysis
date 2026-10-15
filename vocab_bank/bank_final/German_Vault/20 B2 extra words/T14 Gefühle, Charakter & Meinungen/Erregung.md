@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2662"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Erregung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erregung
+
+![[Erregung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erregung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erregung&language=de)
 
 **Meaning:** excitement; agitation
 **Plural:** Erregungen

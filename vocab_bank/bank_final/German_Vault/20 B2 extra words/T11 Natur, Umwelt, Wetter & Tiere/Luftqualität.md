@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4202"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Luftqualität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Luftqualität
+
+![[Luftqualität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luftqualit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftqualit%C3%A4t&language=de)
 
 **Meaning:** air quality
 **Plural:** –

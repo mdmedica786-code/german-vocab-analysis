@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 5112
 skip: false
+audio: "kleben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kleben
+
+![[kleben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kleben&language=de)
 
 **Meaning:** to stick
 **Forms:** klebt · klebte · hat geklebt

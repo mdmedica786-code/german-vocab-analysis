@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3141"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
+audio: "Synthese.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Synthese
+
+![[Synthese.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Synthese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Synthese&language=de)
 
 **Meaning:** synthesis
 **Plural:** Synthesen

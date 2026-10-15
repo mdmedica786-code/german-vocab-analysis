@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0442"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zweig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zweig
+
+![[Zweig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zweig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweig&language=de)
 
 **Meaning:** branch; sector
 **Plural:** Zweige

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 1363
 skip: false
+audio: "beachten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beachten
+
+![[beachten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beachten&language=de)
 
 **Meaning:** to consider
 **Forms:** beachtet · beachtete · hat beachtet

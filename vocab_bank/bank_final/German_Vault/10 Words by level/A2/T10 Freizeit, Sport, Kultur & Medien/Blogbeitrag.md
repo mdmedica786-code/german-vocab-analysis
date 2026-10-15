@@ -15,11 +15,16 @@ id: "B2131"
 netzwerk: "A2 K3 11b"
 freq_rank: 5759
 skip: false
+audio: "Blogbeitrag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Blogbeitrag
+
+![[Blogbeitrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blogbeitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blogbeitrag&language=de)
 
 **Meaning:** blog post
 **Plural:** Blogbeiträge

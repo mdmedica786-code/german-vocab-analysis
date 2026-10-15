@@ -13,11 +13,16 @@ id: "B5882"
 goethe_level: "B1"
 freq_rank: 3294
 skip: false
+audio: "gebrauchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gebrauchen
+
+![[gebrauchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gebrauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gebrauchen&language=de)
 
 **Meaning:** to use; to need
 **Forms:** gebraucht · gebrauchte · hat gebraucht

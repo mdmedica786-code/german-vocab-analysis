@@ -15,11 +15,16 @@ id: "B4718"
 netzwerk: "B1 K10 1a"
 freq_rank: 5759
 skip: false
+audio: "Ehrlichkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ehrlichkeit
+
+![[Ehrlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehrlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrlichkeit&language=de)
 
 **Meaning:** honesty
 **Plural:** –

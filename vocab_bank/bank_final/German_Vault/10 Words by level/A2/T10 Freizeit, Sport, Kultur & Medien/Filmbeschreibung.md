@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Filmbeschreibung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Filmbeschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmbeschreibung&language=de)
+
 **Meaning:** film description
 **Plural:** Filmbeschreibungen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

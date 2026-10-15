@@ -12,11 +12,13 @@ bank: "b2"
 id: "D4040"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # hin- und herfahren
+
+[▶️ YouGlish](https://youglish.com/pronounce/hin-%20und%20herfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hin-%20und%20herfahren&language=de)
 
 **Meaning:** to travel back and forth
 **Forms:** fährt hin und her · fuhr hin und her · ist hin- und hergefahren

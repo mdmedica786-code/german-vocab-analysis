@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kursort
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kursort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursort&language=de)
+
 **Meaning:** location of the course
 **Plural:** Kursorte
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

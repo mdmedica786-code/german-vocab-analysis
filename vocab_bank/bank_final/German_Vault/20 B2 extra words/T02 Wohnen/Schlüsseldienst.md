@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1097"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Schlüsseldienst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlüsseldienst
+
+![[Schlüsseldienst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%BCsseldienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%BCsseldienst&language=de)
 
 **Meaning:** locksmith service
 **Plural:** Schlüsseldienste

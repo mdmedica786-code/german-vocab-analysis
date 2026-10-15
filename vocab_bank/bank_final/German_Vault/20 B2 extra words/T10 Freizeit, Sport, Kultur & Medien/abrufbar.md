@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3060"
 exam_use: ["Medien", "Alltag"]
 skip: false
+audio: "abrufbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Medien", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # abrufbar
+
+![[abrufbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abrufbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abrufbar&language=de)
 
 **Meaning:** retrievable; available on demand
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

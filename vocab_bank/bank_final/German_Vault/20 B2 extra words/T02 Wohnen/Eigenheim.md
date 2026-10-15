@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1863"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Eigenheim.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eigenheim
+
+![[Eigenheim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigenheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigenheim&language=de)
 
 **Meaning:** owner-occupied house; own home
 **Plural:** Eigenheime

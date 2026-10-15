@@ -12,11 +12,16 @@ id: "B6174"
 goethe_level: "B1"
 freq_rank: 4757
 skip: false
+audio: "östlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # östlich
+
+![[östlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%B6stlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6stlich&language=de)
 
 **Meaning:** eastern
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

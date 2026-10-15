@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0227"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "appellieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # appellieren
+
+![[appellieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/appellieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=appellieren&language=de)
 
 **Meaning:** to appeal
 **Forms:** appelliert · appellierte · hat appelliert

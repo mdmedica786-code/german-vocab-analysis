@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2698"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "antun.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # antun
+
+![[antun.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/antun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antun&language=de)
 
 **Meaning:** to do to someone; to inflict
 **Forms:** tut an · tat an · hat angetan

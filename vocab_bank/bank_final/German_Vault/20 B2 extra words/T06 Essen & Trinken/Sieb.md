@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2267"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Sieb.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sieb
+
+![[Sieb.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sieb&language=de)
 
 **Meaning:** sieve; strainer
 **Plural:** Siebe

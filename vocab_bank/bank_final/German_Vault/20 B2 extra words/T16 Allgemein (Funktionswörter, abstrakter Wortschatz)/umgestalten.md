@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0264"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "umgestalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # umgestalten
+
+![[umgestalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umgestalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umgestalten&language=de)
 
 **Meaning:** to redesign; to reorganise
 **Forms:** gestaltet um · gestaltete um · hat umgestaltet

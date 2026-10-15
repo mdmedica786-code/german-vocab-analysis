@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4255"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Nachbarschaftsverein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Nachbarschaftsverein
+
+![[Nachbarschaftsverein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbarschaftsverein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarschaftsverein&language=de)
 
 **Meaning:** neighbourhood association
 **Plural:** Nachbarschaftsvereine

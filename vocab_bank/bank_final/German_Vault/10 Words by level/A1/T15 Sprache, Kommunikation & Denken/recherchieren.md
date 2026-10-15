@@ -13,11 +13,16 @@ id: "B0689"
 netzwerk: "A1 K4 6c"
 freq_rank: 5759
 skip: false
+audio: "recherchieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # recherchieren
+
+![[recherchieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/recherchieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recherchieren&language=de)
 
 **Meaning:** to research; to look up
 **Forms:** recherchiert · recherchierte · hat recherchiert

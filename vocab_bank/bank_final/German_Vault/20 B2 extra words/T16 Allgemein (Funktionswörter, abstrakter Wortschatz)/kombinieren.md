@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3077"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "kombinieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # kombinieren
+
+![[kombinieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kombinieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kombinieren&language=de)
 
 **Meaning:** to combine; to deduce
 **Forms:** kombiniert · kombinierte · hat kombiniert

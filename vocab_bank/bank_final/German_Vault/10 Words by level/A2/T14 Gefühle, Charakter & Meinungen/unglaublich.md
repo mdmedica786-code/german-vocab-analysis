@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 3d"
 freq_rank: 2494
 skip: false
+audio: "unglaublich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unglaublich
+
+![[unglaublich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unglaublich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unglaublich&language=de)
 
 **Meaning:** unbelievable
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

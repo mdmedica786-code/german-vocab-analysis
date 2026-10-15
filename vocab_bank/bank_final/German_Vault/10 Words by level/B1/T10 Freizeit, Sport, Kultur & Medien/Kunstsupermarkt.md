@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kunstsupermarkt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstsupermarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstsupermarkt&language=de)
+
 **Meaning:** art supermarket
 **Plural:** Kunstsupermärkte
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

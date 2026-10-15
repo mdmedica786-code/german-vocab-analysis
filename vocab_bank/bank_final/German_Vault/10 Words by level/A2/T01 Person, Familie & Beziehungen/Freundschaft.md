@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 12c"
 freq_rank: 2255
 skip: false
+audio: "Freundschaft.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freundschaft
+
+![[Freundschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freundschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freundschaft&language=de)
 
 **Meaning:** friendship
 **Plural:** Freundschaften

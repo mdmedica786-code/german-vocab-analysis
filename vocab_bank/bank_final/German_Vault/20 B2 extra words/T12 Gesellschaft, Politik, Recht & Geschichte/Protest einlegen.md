@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Protest einlegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Protest%20einlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protest%20einlegen&language=de)
+
 **Meaning:** to lodge a protest
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

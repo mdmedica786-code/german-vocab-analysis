@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a"
 freq_rank: 5515
 skip: false
+audio: "Friseur.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Friseur
+
+![[Friseur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Friseur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friseur&language=de)
 
 **Meaning:** hairdresser (m)
 **Plural:** Friseure

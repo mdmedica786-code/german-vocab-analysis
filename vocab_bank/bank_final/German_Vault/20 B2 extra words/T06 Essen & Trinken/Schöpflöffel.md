@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2270"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Schöpflöffel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schöpflöffel
+
+![[Schöpflöffel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6pfl%C3%B6ffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6pfl%C3%B6ffel&language=de)
 
 **Meaning:** ladle
 **Plural:** Schöpflöffel

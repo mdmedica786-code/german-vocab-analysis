@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4352"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Regenprognose
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regenprognose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regenprognose&language=de)
 
 **Meaning:** rain forecast
 **Plural:** Regenprognosen

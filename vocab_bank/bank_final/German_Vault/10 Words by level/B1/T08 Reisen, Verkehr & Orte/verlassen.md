@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 390
 skip: false
+audio: "verlassen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verlassen
+
+![[verlassen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verlassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlassen&language=de)
 
 **Meaning:** to leave
 **Forms:** verlässt · verließ · hat verlassen

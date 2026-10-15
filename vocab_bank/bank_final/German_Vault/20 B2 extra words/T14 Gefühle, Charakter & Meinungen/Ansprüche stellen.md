@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Ansprüche stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anspr%C3%BCche%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anspr%C3%BCche%20stellen&language=de)
+
 **Meaning:** to make demands; to be demanding
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

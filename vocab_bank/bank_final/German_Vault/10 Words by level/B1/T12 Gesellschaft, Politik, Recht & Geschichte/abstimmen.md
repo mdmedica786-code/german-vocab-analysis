@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 5377
 skip: false
+audio: "abstimmen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abstimmen
+
+![[abstimmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abstimmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abstimmen&language=de)
 
 **Meaning:** to vote
 **Forms:** stimmt ab · stimmte ab · hat abgestimmt

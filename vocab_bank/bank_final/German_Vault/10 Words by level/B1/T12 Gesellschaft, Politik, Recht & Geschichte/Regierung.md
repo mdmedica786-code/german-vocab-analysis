@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 966
 skip: false
+audio: "Regierung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regierung
+
+![[Regierung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regierung&language=de)
 
 **Meaning:** government
 **Plural:** Regierungen

@@ -15,11 +15,16 @@ id: "B4787"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hühnchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hühnchen
+
+![[Hühnchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%BChnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BChnchen&language=de)
 
 **Meaning:** chicken
 **Plural:** Hühnchen

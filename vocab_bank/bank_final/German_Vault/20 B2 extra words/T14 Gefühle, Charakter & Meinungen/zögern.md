@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1327"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "zögern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zögern
+
+![[zögern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/z%C3%B6gern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%B6gern&language=de)
 
 **Meaning:** to hesitate
 **Forms:** zögert · zögerte · hat gezögert

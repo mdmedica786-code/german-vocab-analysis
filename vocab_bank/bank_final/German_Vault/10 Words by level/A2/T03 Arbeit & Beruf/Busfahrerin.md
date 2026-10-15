@@ -15,11 +15,16 @@ id: "B2435"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Busfahrerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Busfahrerin
+
+![[Busfahrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Busfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Busfahrerin&language=de)
 
 **Meaning:** bus driver (f)
 **Plural:** Busfahrerinnen

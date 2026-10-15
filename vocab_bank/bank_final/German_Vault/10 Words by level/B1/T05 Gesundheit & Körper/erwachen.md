@@ -13,11 +13,16 @@ id: "B4910"
 netzwerk: "B1 K11 6a"
 freq_rank: 2000
 skip: false
+audio: "erwachen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwachen
+
+![[erwachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwachen&language=de)
 
 **Meaning:** to awaken
 **Forms:** erwacht · erwachte · ist erwacht

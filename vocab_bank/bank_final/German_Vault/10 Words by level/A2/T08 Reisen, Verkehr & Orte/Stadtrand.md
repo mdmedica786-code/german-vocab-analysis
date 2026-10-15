@@ -15,11 +15,16 @@ id: "B2934"
 netzwerk: "A2 K10 1b"
 freq_rank: 5759
 skip: false
+audio: "Stadtrand.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtrand
+
+![[Stadtrand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtrand&language=de)
 
 **Meaning:** city limit
 **Plural:** Stadtränder

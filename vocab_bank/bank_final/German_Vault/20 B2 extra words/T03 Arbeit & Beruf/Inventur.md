@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1774"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Inventur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Inventur
+
+![[Inventur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inventur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inventur&language=de)
 
 **Meaning:** stocktaking
 **Plural:** Inventuren

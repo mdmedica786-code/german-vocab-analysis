@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3543"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ungleich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungleich
+
+![[ungleich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungleich&language=de)
 
 **Meaning:** unequal; uneven
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

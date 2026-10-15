@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4158"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kundschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kundschaft
+
+![[Kundschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kundschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundschaft&language=de)
 
 **Meaning:** customers; clientele
 **Plural:** –

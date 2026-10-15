@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2483"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Gebrauch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gebrauch
+
+![[Gebrauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gebrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebrauch&language=de)
 
 **Meaning:** use; usage
 **Plural:** Gebräuche

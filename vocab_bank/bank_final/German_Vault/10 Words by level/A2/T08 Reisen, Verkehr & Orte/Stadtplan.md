@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Stadtplan.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtplan
+
+![[Stadtplan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtplan&language=de)
 
 **Meaning:** city map
 **Plural:** Stadtpläne

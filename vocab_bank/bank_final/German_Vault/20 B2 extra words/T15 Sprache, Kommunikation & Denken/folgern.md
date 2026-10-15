@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0282"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "folgern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # folgern
+
+![[folgern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/folgern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=folgern&language=de)
 
 **Meaning:** to conclude; to deduce
 **Forms:** folgert · folgerte · hat gefolgert

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das LED-Licht
 
+[▶️ YouGlish](https://youglish.com/pronounce/LED-Licht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=LED-Licht&language=de)
+
 **Meaning:** LED light
 **Plural:** LED-Lichter
 **Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

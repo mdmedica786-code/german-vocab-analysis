@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # wörtlich
 
+[▶️ YouGlish](https://youglish.com/pronounce/w%C3%B6rtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%B6rtlich&language=de)
+
 **Meaning:** literal; word for word
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

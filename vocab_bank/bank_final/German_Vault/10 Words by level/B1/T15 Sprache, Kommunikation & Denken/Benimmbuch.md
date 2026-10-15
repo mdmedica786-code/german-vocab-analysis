@@ -15,11 +15,16 @@ id: "B3673"
 netzwerk: "B1 K3 10b"
 freq_rank: 9999
 skip: false
+audio: "Benimmbuch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Benimmbuch
+
+![[Benimmbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benimmbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benimmbuch&language=de)
 
 **Meaning:** book of etiquette
 **Plural:** Benimmbücher

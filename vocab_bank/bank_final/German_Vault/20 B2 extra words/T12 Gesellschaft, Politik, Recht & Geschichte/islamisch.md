@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3355"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "islamisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # islamisch
+
+![[islamisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/islamisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=islamisch&language=de)
 
 **Meaning:** Islamic
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

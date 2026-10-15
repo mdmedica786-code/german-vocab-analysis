@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0550"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Ehrenamt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ehrenamt
+
+![[Ehrenamt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehrenamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrenamt&language=de)
 
 **Meaning:** voluntary work; honorary office
 **Plural:** Ehrenämter

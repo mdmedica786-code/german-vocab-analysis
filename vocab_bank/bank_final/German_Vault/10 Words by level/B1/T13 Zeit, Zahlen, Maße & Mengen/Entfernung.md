@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 3b"
 freq_rank: 1793
 skip: false
+audio: "Entfernung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entfernung
+
+![[Entfernung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entfernung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entfernung&language=de)
 
 **Meaning:** distance
 **Plural:** Entfernungen

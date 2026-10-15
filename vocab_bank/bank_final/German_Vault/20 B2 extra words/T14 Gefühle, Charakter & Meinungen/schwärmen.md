@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1301"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "schwärmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwärmen
+
+![[schwärmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schw%C3%A4rmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schw%C3%A4rmen&language=de)
 
 **Meaning:** to rave (about); to swarm
 **Forms:** schwärmt · schwärmte · hat/ist geschwärmt

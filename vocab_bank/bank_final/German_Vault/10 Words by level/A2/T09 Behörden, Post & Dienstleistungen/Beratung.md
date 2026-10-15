@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 2275
 skip: false
+audio: "Beratung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beratung
+
+![[Beratung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beratung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beratung&language=de)
 
 **Meaning:** consultation
 **Plural:** Beratungen

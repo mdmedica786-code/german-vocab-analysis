@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2676"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Relation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Relation
+
+![[Relation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Relation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Relation&language=de)
 
 **Meaning:** relation; ratio
 **Plural:** Relationen

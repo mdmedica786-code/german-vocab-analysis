@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1519"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Treue.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Treue
+
+![[Treue.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Treue/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treue&language=de)
 
 **Meaning:** loyalty; faithfulness
 **Plural:** –

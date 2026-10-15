@@ -15,11 +15,16 @@ id: "B3596"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Olympiasieger.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Olympiasieger
+
+![[Olympiasieger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Olympiasieger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olympiasieger&language=de)
 
 **Meaning:** Olympic champion (m)
 **Plural:** Olympiasieger

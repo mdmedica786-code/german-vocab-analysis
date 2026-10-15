@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Jänner
 
+[▶️ YouGlish](https://youglish.com/pronounce/J%C3%A4nner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=J%C3%A4nner&language=de)
+
 **Meaning:** January (Austrian)
 **Plural:** Jänner
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** regional

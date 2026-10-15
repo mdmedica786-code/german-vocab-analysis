@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3803"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Besprechungsraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Besprechungsraum
+
+![[Besprechungsraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besprechungsraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besprechungsraum&language=de)
 
 **Meaning:** meeting room
 **Plural:** Besprechungsräume

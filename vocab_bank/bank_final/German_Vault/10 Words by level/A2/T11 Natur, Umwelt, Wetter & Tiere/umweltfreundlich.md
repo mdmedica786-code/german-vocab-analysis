@@ -12,11 +12,16 @@ id: "B2630"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "umweltfreundlich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # umweltfreundlich
+
+![[umweltfreundlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umweltfreundlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umweltfreundlich&language=de)
 
 **Meaning:** environmentally friendly
 **Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

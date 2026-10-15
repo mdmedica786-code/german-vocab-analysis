@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 9a"
 freq_rank: 719
 skip: false
+audio: "normal.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # normal
+
+![[normal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/normal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=normal&language=de)
 
 **Meaning:** normal
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

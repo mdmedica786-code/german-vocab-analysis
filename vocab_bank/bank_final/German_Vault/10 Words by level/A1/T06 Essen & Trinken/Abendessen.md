@@ -15,11 +15,16 @@ id: "B0620"
 netzwerk: "A1 K4 2a"
 freq_rank: 2756
 skip: false
+audio: "Abendessen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Abendessen
+
+![[Abendessen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abendessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abendessen&language=de)
 
 **Meaning:** dinner; supper
 **Plural:** Abendessen

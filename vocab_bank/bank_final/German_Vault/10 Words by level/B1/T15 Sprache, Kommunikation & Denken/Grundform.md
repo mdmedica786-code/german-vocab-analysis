@@ -15,11 +15,16 @@ id: "B5035"
 netzwerk: "B1 K12 3d"
 freq_rank: 5759
 skip: false
+audio: "Grundform.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grundform
+
+![[Grundform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundform&language=de)
 
 **Meaning:** basic form
 **Plural:** Grundformen

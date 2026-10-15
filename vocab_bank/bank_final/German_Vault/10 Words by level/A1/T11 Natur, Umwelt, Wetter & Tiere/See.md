@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 2b"
 freq_rank: 1338
 skip: false
+audio: "See.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der See
+
+![[See.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/See/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=See&language=de)
 
 **Meaning:** lake
 **Plural:** Seen

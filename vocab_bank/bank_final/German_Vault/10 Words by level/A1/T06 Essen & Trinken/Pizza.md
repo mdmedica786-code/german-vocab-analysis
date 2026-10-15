@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 5455
 skip: false
+audio: "Pizza.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pizza
+
+![[Pizza.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pizza/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pizza&language=de)
 
 **Meaning:** pizza
 **Plural:** Pizzas

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "nützen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nützen
+
+![[nützen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%BCtzen&language=de)
 
 **Meaning:** to be of use
 **Forms:** nützt · nützte · hat genützt

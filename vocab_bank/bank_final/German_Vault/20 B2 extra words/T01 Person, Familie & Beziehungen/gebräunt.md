@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2352"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "gebräunt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gebräunt
+
+![[gebräunt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gebr%C3%A4unt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gebr%C3%A4unt&language=de)
 
 **Meaning:** tanned
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

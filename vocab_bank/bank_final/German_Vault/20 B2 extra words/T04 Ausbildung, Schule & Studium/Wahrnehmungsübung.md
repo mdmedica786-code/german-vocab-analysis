@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4614"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Wahrnehmungsübung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahrnehmungs%C3%BCbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrnehmungs%C3%BCbung&language=de)
 
 **Meaning:** perception exercise
 **Plural:** Wahrnehmungsübungen

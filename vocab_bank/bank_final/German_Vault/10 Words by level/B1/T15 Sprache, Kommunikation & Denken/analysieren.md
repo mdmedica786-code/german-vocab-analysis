@@ -13,11 +13,16 @@ id: "B5470"
 goethe_level: "B1"
 freq_rank: 2034
 skip: false
+audio: "analysieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # analysieren
+
+![[analysieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/analysieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=analysieren&language=de)
 
 **Meaning:** to analyse
 **Forms:** analysiert · analysierte · hat analysiert

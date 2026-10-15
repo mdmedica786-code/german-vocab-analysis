@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 1232
 skip: false
+audio: "ewig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ewig
+
+![[ewig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ewig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ewig&language=de)
 
 **Meaning:** forever
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

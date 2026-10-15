@@ -15,11 +15,16 @@ id: "B2749"
 netzwerk: "A2 K8 6b"
 freq_rank: 9999
 skip: false
+audio: "Gebärdendolmetscherin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gebärdendolmetscherin
+
+![[Gebärdendolmetscherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rdendolmetscherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rdendolmetscherin&language=de)
 
 **Meaning:** sign language interpreter (f)
 **Plural:** Gebärdendolmetscherinnen

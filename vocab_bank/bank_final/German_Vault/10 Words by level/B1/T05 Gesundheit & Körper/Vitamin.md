@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 3484
 skip: false
+audio: "Vitamin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vitamin
+
+![[Vitamin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vitamin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vitamin&language=de)
 
 **Meaning:** vitamin
 **Plural:** Vitamine

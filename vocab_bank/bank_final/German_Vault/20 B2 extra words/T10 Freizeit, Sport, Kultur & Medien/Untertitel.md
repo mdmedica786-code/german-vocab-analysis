@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1940"
 exam_use: ["Medien", "Alltag"]
 skip: false
+audio: "Untertitel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Untertitel
+
+![[Untertitel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untertitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untertitel&language=de)
 
 **Meaning:** subtitle
 **Plural:** Untertitel

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 1a"
 freq_rank: 1220
 skip: false
+audio: "stolz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stolz
+
+![[stolz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stolz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stolz&language=de)
 
 **Meaning:** proud
 **Forms:** stolzer – am stolzesten

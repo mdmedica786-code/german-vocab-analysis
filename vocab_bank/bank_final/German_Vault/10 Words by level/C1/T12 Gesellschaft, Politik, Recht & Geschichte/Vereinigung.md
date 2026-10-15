@@ -14,11 +14,16 @@ bank: "main"
 id: "B5757"
 freq_rank: 2958
 skip: false
+audio: "Vereinigung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vereinigung
+
+![[Vereinigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vereinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vereinigung&language=de)
 
 **Meaning:** union; association
 **Plural:** Vereinigungen

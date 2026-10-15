@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2427"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "weichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # weichen
+
+![[weichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weichen&language=de)
 
 **Meaning:** to give way; to yield
 **Forms:** weicht · wich · ist gewichen

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Japan
 
+[▶️ YouGlish](https://youglish.com/pronounce/Japan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Japan&language=de)
+
 **Meaning:** Japan
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

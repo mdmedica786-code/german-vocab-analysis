@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0279"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "beanstanden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # beanstanden
+
+![[beanstanden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beanstanden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beanstanden&language=de)
 
 **Meaning:** to complain about; to object to
 **Forms:** beanstandet · beanstandete · hat beanstandet

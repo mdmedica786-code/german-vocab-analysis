@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1502"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Mäßigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mäßigung
+
+![[Mäßigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4%C3%9Figung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4%C3%9Figung&language=de)
 
 **Meaning:** moderation; restraint
 **Plural:** –

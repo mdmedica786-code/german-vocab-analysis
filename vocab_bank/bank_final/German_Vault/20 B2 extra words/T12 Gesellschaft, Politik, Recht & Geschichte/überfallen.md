@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3521"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "überfallen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # überfallen
+
+![[überfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberfallen&language=de)
 
 **Meaning:** to attack; to rob; to ambush
 **Forms:** überfällt · überfiel · hat überfallen

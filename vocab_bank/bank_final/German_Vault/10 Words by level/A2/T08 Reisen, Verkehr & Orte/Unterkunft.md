@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 4361
 skip: false
+audio: "Unterkunft.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterkunft
+
+![[Unterkunft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterkunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterkunft&language=de)
 
 **Meaning:** accommodation
 **Plural:** Unterkünfte

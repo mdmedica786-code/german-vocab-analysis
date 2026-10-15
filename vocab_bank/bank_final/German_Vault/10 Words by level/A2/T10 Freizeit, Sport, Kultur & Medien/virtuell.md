@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 3347
 skip: false
+audio: "virtuell.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # virtuell
+
+![[virtuell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/virtuell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=virtuell&language=de)
 
 **Meaning:** virtual
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

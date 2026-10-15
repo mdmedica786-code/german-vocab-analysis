@@ -15,11 +15,16 @@ id: "B2447"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Herzzentrum.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Herzzentrum
+
+![[Herzzentrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herzzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herzzentrum&language=de)
 
 **Meaning:** cardiac centre
 **Plural:** Herzzentren

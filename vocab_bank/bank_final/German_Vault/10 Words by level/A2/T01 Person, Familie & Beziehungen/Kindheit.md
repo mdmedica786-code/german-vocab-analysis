@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 12b"
 freq_rank: 2068
 skip: false
+audio: "Kindheit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kindheit
+
+![[Kindheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kindheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindheit&language=de)
 
 **Meaning:** childhood
 **Plural:** –

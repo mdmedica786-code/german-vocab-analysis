@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1736"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "wickeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # wickeln
+
+![[wickeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wickeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wickeln&language=de)
 
 **Meaning:** to wrap; to change a nappy
 **Forms:** wickelt · wickelte · hat gewickelt

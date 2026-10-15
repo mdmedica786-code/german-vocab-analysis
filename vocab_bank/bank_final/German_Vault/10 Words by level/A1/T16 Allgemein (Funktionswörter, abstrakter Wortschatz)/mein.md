@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # mein
 
+[▶️ YouGlish](https://youglish.com/pronounce/mein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mein&language=de)
+
 **Meaning:** my
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

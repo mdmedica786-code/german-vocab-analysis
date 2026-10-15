@@ -15,11 +15,16 @@ id: "B1160"
 netzwerk: "A1 K7 9a"
 freq_rank: 5759
 skip: false
+audio: "Mittagspause.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mittagspause
+
+![[Mittagspause.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittagspause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittagspause&language=de)
 
 **Meaning:** lunch break
 **Plural:** Mittagspausen

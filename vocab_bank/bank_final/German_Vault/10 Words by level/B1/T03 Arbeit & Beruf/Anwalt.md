@@ -15,11 +15,16 @@ id: "B5852"
 goethe_level: "B1"
 freq_rank: 3150
 skip: false
+audio: "Anwalt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anwalt
+
+![[Anwalt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anwalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anwalt&language=de)
 
 **Meaning:** lawyer
 **Plural:** Anwälte

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4545"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "unmotiviert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # unmotiviert
+
+![[unmotiviert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unmotiviert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unmotiviert&language=de)
 
 **Meaning:** unmotivated; for no reason
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

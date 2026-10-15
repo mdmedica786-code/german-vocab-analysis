@@ -14,11 +14,16 @@ bank: "main"
 id: "B6209"
 freq_rank: 4887
 skip: false
+audio: "Urin.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Urin
+
+![[Urin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urin&language=de)
 
 **Meaning:** urine
 **Plural:** –

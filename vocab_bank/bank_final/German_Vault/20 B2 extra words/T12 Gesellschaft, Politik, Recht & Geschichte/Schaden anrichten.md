@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Schaden anrichten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schaden%20anrichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaden%20anrichten&language=de)
+
 **Meaning:** to cause damage
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

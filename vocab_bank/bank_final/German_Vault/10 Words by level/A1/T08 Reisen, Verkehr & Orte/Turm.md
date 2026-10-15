@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Turm
 
+[▶️ YouGlish](https://youglish.com/pronounce/Turm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Turm&language=de)
+
 **Meaning:** tower
 **Plural:** Türme
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B2952"
 netzwerk: "A2 K10 5b"
 freq_rank: 5759
 skip: false
+audio: "Blumentopf.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Blumentopf
+
+![[Blumentopf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blumentopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blumentopf&language=de)
 
 **Meaning:** flower pot
 **Plural:** Blumentöpfe

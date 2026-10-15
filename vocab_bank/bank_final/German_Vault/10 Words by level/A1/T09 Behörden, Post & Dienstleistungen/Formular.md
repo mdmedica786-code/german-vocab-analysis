@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 5759
 skip: false
+audio: "Formular.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Formular
+
+![[Formular.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Formular/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Formular&language=de)
 
 **Meaning:** form
 **Plural:** Formulare

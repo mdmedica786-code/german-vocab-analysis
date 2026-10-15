@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1387"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Hausmannskost.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausmannskost
+
+![[Hausmannskost.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausmannskost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmannskost&language=de)
 
 **Meaning:** plain home cooking
 **Plural:** –

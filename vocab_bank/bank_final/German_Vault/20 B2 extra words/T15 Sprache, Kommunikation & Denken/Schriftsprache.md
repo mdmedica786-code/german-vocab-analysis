@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4394"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Schriftsprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Schriftsprache
+
+![[Schriftsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schriftsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schriftsprache&language=de)
 
 **Meaning:** written language; standard written language
 **Plural:** Schriftsprachen

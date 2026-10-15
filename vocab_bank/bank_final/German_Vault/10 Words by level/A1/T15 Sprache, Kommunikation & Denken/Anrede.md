@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 8"
 freq_rank: 5759
 skip: false
+audio: "Anrede.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anrede
+
+![[Anrede.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anrede/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anrede&language=de)
 
 **Meaning:** salutation
 **Plural:** Anreden

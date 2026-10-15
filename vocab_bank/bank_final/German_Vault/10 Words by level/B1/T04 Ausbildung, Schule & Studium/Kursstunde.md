@@ -15,11 +15,16 @@ id: "B4511"
 netzwerk: "B1 K8 10a"
 freq_rank: 5759
 skip: false
+audio: "Kursstunde.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kursstunde
+
+![[Kursstunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kursstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursstunde&language=de)
 
 **Meaning:** lesson
 **Plural:** Kursstunden

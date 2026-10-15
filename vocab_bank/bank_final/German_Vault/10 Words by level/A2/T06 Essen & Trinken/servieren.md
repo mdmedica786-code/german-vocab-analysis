@@ -13,11 +13,16 @@ id: "B2306"
 netzwerk: "A2 K5 1b"
 freq_rank: 3453
 skip: false
+audio: "servieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # servieren
+
+![[servieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/servieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=servieren&language=de)
 
 **Meaning:** to serve
 **Forms:** serviert · servierte · hat serviert

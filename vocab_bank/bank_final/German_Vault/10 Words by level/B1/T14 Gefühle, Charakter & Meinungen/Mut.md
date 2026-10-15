@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1705
 skip: false
+audio: "Mut.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mut
+
+![[Mut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mut&language=de)
 
 **Meaning:** courage
 **Plural:** –

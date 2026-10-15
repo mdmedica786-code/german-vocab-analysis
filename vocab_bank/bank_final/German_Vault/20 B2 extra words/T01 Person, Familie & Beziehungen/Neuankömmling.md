@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4269"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Neuankömmling.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Neuankömmling
+
+![[Neuankömmling.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neuank%C3%B6mmling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuank%C3%B6mmling&language=de)
 
 **Meaning:** newcomer; new arrival
 **Plural:** Neuankömmlinge

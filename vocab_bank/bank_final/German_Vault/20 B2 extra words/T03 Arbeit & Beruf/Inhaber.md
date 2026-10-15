@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3078"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Inhaber.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Inhaber
+
+![[Inhaber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inhaber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inhaber&language=de)
 
 **Meaning:** owner; holder
 **Plural:** Inhaber

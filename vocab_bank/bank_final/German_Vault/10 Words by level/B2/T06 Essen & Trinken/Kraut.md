@@ -14,11 +14,16 @@ bank: "main"
 id: "B6263"
 freq_rank: 5152
 skip: false
+audio: "Kraut.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kraut
+
+![[Kraut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kraut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraut&language=de)
 
 **Meaning:** herb; cabbage
 **Plural:** Kräuter

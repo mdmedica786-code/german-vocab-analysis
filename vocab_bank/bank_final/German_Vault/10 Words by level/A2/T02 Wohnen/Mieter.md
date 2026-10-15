@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 6b"
 freq_rank: 3784
 skip: false
+audio: "Mieter.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mieter
+
+![[Mieter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mieter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mieter&language=de)
 
 **Meaning:** tenant (m)
 **Plural:** Mieter

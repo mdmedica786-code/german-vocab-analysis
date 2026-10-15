@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2244"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Daunenjacke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Daunenjacke
+
+![[Daunenjacke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Daunenjacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daunenjacke&language=de)
 
 **Meaning:** down jacket
 **Plural:** Daunenjacken

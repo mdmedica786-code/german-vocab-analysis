@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # leid tun
 
+[▶️ YouGlish](https://youglish.com/pronounce/leid%20tun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leid%20tun&language=de)
+
 **Meaning:** to feel sorry for; to be sorry
 **Forms:** tut leid · tat leid · hat leidgetan
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

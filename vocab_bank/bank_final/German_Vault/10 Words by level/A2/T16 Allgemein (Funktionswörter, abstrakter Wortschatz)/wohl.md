@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 176
 skip: false
+audio: "wohl.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wohl
+
+![[wohl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wohl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wohl&language=de)
 
 **Meaning:** probably; well; comfortable
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

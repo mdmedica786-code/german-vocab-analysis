@@ -15,11 +15,16 @@ id: "B0670"
 netzwerk: "A1 K4 5a"
 freq_rank: 5759
 skip: false
+audio: "Umlaut.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umlaut
+
+![[Umlaut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umlaut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umlaut&language=de)
 
 **Meaning:** umlaut
 **Plural:** Umlaute

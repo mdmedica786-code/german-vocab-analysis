@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1188"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "abschneiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # abschneiden
+
+![[abschneiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abschneiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abschneiden&language=de)
 
 **Meaning:** to cut off; to perform (in a test)
 **Forms:** schneidet ab · schnitt ab · hat abgeschnitten

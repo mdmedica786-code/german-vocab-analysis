@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ukraine
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ukraine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ukraine&language=de)
+
 **Meaning:** Ukraine
 **Plural:** –
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

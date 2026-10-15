@@ -15,11 +15,16 @@ id: "B0618"
 netzwerk: "A1 K4 2a"
 freq_rank: 5759
 skip: false
+audio: "Metzgerei.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Metzgerei
+
+![[Metzgerei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Metzgerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metzgerei&language=de)
 
 **Meaning:** butcher's shop
 **Plural:** Metzgereien

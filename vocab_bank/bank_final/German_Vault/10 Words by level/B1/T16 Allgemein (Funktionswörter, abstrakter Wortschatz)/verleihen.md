@@ -13,11 +13,16 @@ id: "B3986"
 netzwerk: "B1 K5 8a"
 freq_rank: 1887
 skip: false
+audio: "verleihen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verleihen
+
+![[verleihen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verleihen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verleihen&language=de)
 
 **Meaning:** to lend; to award
 **Forms:** verleiht · verlieh · hat verliehen

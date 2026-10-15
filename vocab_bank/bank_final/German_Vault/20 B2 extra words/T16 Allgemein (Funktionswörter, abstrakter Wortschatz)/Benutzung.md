@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3099"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Benutzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Benutzung
+
+![[Benutzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benutzung&language=de)
 
 **Meaning:** use
 **Plural:** –

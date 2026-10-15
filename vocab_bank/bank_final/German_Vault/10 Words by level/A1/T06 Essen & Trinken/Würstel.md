@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Würstel
 
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrstel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrstel&language=de)
+
 **Meaning:** sausage (Austrian)
 **Plural:** Würstel
 **Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional

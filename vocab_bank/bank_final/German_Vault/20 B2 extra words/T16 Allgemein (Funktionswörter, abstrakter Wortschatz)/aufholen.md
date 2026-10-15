@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1205"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "aufholen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufholen
+
+![[aufholen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufholen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufholen&language=de)
 
 **Meaning:** to catch up; to make up for
 **Forms:** holt auf · holte auf · hat aufgeholt

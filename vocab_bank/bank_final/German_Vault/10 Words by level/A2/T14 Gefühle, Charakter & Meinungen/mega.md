@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # mega
 
+[▶️ YouGlish](https://youglish.com/pronounce/mega/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mega&language=de)
+
 **Meaning:** huge; super (colloquial)
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** informal
 

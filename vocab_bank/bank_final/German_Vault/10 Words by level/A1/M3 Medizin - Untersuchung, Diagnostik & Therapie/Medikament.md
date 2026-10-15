@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 3125
 skip: false
+audio: "Medikament.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Medikament
+
+![[Medikament.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medikament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medikament&language=de)
 
 **Meaning:** medicine
 **Plural:** Medikamente

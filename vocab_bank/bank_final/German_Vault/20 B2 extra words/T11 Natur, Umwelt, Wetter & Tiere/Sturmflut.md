@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2025"
 exam_use: ["Hören", "Medien"]
 skip: false
+audio: "Sturmflut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sturmflut
+
+![[Sturmflut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sturmflut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sturmflut&language=de)
 
 **Meaning:** storm surge
 **Plural:** Sturmfluten

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Urlaubsnachricht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsnachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsnachricht&language=de)
+
 **Meaning:** holiday message
 **Plural:** Urlaubsnachrichten
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

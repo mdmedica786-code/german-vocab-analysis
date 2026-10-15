@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 2007
 skip: false
+audio: "Leiter.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leiter
+
+![[Leiter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leiter&language=de)
 
 **Meaning:** manager; head (m)
 **Plural:** Leiter

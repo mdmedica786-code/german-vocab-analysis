@@ -13,11 +13,16 @@ id: "B5224"
 goethe_level: "B1"
 freq_rank: 929
 skip: false
+audio: "fordern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fordern
+
+![[fordern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fordern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fordern&language=de)
 
 **Meaning:** to demand; to call for
 **Forms:** fordert · forderte · hat gefordert

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Einfluss ausüben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Einfluss%20aus%C3%BCben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einfluss%20aus%C3%BCben&language=de)
+
 **Meaning:** to exert influence
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

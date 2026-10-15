@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 11d"
 freq_rank: 2083
 skip: false
+audio: "Hitze.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hitze
+
+![[Hitze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hitze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hitze&language=de)
 
 **Meaning:** heat
 **Plural:** –

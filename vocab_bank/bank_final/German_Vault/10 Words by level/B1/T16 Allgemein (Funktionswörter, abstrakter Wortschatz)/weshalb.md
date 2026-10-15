@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # weshalb
 
+[▶️ YouGlish](https://youglish.com/pronounce/weshalb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weshalb&language=de)
+
 **Meaning:** why
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

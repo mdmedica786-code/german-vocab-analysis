@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3a"
 freq_rank: 141
 skip: false
+audio: "gleich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gleich
+
+![[gleich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gleich&language=de)
 
 **Meaning:** same; equal; right away
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

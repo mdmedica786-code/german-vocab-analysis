@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Verhandlungen treten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Verhandlungen%20treten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Verhandlungen%20treten&language=de)
+
 **Meaning:** to enter into negotiations
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

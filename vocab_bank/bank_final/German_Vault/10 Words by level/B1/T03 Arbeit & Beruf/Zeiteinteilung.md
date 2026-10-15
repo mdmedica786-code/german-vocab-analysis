@@ -15,11 +15,16 @@ id: "B3830"
 netzwerk: "B1 K4 12a"
 freq_rank: 5759
 skip: false
+audio: "Zeiteinteilung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeiteinteilung
+
+![[Zeiteinteilung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeiteinteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeiteinteilung&language=de)
 
 **Meaning:** time management
 **Plural:** Zeiteinteilungen

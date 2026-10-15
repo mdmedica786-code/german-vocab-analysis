@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0029"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "sozusagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # sozusagen
+
+![[sozusagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sozusagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sozusagen&language=de)
 
 **Meaning:** so to speak; as it were
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

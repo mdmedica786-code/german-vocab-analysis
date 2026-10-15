@@ -15,11 +15,16 @@ id: "B4337"
 netzwerk: "B1 K7 12b"
 freq_rank: 5759
 skip: false
+audio: "Lebensweisheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lebensweisheit
+
+![[Lebensweisheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensweisheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensweisheit&language=de)
 
 **Meaning:** worldly wisdom
 **Plural:** Lebensweisheiten

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1250"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "einwandern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einwandern
+
+![[einwandern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einwandern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einwandern&language=de)
 
 **Meaning:** to immigrate
 **Forms:** wandert ein · wanderte ein · ist eingewandert

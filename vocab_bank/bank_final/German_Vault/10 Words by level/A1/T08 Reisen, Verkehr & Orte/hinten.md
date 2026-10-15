@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K7 11c"
 freq_rank: 1177
 skip: false
+audio: "hinten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinten
+
+![[hinten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinten&language=de)
 
 **Meaning:** behind
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

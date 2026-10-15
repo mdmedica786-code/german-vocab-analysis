@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 8a"
 freq_rank: 5229
 skip: false
+audio: "Rezept.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Rezept
+
+![[Rezept.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rezept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rezept&language=de)
 
 **Meaning:** recipe; prescription
 **Plural:** Rezepte

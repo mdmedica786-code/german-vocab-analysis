@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3744"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Aufgabengebiet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Aufgabengebiet
+
+![[Aufgabengebiet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufgabengebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufgabengebiet&language=de)
 
 **Meaning:** area of responsibility; field of duties
 **Plural:** Aufgabengebiete

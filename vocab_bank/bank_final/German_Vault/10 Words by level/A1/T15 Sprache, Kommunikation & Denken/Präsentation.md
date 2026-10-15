@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 7a"
 freq_rank: 3833
 skip: false
+audio: "Präsentation.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Präsentation
+
+![[Präsentation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4sentation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4sentation&language=de)
 
 **Meaning:** presentation
 **Plural:** Präsentationen

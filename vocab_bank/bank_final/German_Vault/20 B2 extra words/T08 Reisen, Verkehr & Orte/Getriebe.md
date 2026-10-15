@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0645"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Getriebe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Getriebe
+
+![[Getriebe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Getriebe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Getriebe&language=de)
 
 **Meaning:** gearbox; transmission
 **Plural:** Getriebe

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Durchsage.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Durchsage
+
+![[Durchsage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchsage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchsage&language=de)
 
 **Meaning:** announcement
 **Plural:** Durchsagen

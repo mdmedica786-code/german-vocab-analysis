@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3374"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "wirbeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # wirbeln
+
+![[wirbeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wirbeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wirbeln&language=de)
 
 **Meaning:** to whirl; to swirl
 **Forms:** wirbelt · wirbelte · hat gewirbelt

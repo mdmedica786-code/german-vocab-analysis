@@ -13,11 +13,16 @@ id: "B6292"
 goethe_level: "B1"
 freq_rank: 5415
 skip: false
+audio: "ausstellen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausstellen
+
+![[ausstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausstellen&language=de)
 
 **Meaning:** to display; to issue
 **Forms:** stellt aus · stellte aus · hat ausgestellt

@@ -15,11 +15,16 @@ id: "B4865"
 netzwerk: "B1 K10 10b"
 freq_rank: 5759
 skip: false
+audio: "Normalfall.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Normalfall
+
+![[Normalfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Normalfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Normalfall&language=de)
 
 **Meaning:** normal case; rule
 **Plural:** Normalfälle

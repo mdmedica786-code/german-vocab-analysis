@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3555"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Wolf.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wolf
+
+![[Wolf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wolf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wolf&language=de)
 
 **Meaning:** wolf
 **Plural:** Wölfe

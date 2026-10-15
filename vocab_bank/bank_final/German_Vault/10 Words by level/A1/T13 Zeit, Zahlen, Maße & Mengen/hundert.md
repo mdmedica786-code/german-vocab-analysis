@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # hundert
 
+[▶️ YouGlish](https://youglish.com/pronounce/hundert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hundert&language=de)
+
 **Meaning:** hundred
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

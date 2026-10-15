@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4466"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "streamen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # streamen
+
+![[streamen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streamen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streamen&language=de)
 
 **Meaning:** to stream (video or audio)
 **Forms:** streamt · streamte · hat gestreamt

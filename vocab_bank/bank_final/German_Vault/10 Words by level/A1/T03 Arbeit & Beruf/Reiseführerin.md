@@ -15,11 +15,16 @@ id: "B0090"
 netzwerk: "A1 K1 3b"
 freq_rank: 5759
 skip: false
+audio: "Reiseführerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reiseführerin
+
+![[Reiseführerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reisef%C3%BChrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisef%C3%BChrerin&language=de)
 
 **Meaning:** tour guide (f)
 **Plural:** Reiseführerinnen

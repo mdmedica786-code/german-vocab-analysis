@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0627"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Podcast.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Podcast
+
+![[Podcast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Podcast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Podcast&language=de)
 
 **Meaning:** podcast
 **Plural:** Podcasts

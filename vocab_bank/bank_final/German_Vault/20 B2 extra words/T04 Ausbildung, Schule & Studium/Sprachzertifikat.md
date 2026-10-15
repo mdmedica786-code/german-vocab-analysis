@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Sprachzertifikat
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachzertifikat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachzertifikat&language=de)
+
 **Meaning:** language certificate
 **Plural:** Sprachzertifikate
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

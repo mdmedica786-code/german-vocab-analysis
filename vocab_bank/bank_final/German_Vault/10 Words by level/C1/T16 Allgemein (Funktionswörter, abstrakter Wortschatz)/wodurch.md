@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # wodurch
 
+[▶️ YouGlish](https://youglish.com/pronounce/wodurch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wodurch&language=de)
+
 **Meaning:** through which; whereby
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

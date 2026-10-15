@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7a"
 freq_rank: 111
 skip: false
+audio: "alt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # alt
+
+![[alt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/alt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=alt&language=de)
 
 **Meaning:** old
 **Forms:** älter – am ältesten

@@ -15,11 +15,16 @@ id: "B0780"
 netzwerk: "A1 K4 11"
 freq_rank: 4940
 skip: false
+audio: "Vorliebe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorliebe
+
+![[Vorliebe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorliebe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorliebe&language=de)
 
 **Meaning:** preference
 **Plural:** Vorlieben

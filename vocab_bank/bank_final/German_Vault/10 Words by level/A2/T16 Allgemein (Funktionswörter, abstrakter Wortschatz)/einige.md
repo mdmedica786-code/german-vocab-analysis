@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 409
 skip: false
+audio: "einige.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # einige
+
+![[einige.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einige&language=de)
 
 **Meaning:** some
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

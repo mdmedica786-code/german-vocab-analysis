@@ -12,11 +12,16 @@ id: "B4906"
 netzwerk: "B1 K11 4b"
 freq_rank: 308
 skip: false
+audio: "entsprechend.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # entsprechend
+
+![[entsprechend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entsprechend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entsprechend&language=de)
 
 **Meaning:** corresponding; appropriate; accordingly
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

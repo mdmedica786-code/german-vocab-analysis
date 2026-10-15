@@ -15,11 +15,16 @@ id: "B0940"
 netzwerk: "A1 K6 4a"
 freq_rank: 5759
 skip: false
+audio: "Ordinalzahl.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ordinalzahl
+
+![[Ordinalzahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ordinalzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordinalzahl&language=de)
 
 **Meaning:** ordinal number
 **Plural:** Ordinalzahlen

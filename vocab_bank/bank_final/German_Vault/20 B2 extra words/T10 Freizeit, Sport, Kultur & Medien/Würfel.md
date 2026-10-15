@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3466"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Würfel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Würfel
+
+![[Würfel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrfel&language=de)
 
 **Meaning:** dice; cube
 **Plural:** Würfel

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 1b"
 freq_rank: 5759
 skip: false
+audio: "Rückfahrt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückfahrt
+
+![[Rückfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckfahrt&language=de)
 
 **Meaning:** return
 **Plural:** –

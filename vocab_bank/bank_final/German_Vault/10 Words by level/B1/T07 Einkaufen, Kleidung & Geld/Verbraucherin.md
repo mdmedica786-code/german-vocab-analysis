@@ -15,11 +15,16 @@ id: "B5082"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Verbraucherin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verbraucherin
+
+![[Verbraucherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbraucherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbraucherin&language=de)
 
 **Meaning:** consumer (f)
 **Plural:** Verbraucherinnen

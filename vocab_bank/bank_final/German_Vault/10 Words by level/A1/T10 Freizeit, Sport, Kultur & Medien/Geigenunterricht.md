@@ -15,11 +15,16 @@ id: "B0804"
 netzwerk: "A1 K5 7a"
 freq_rank: 5759
 skip: false
+audio: "Geigenunterricht.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geigenunterricht
+
+![[Geigenunterricht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geigenunterricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geigenunterricht&language=de)
 
 **Meaning:** violin lessons
 **Plural:** –

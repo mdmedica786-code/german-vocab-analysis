@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 4488
 skip: false
+audio: "Wanderung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wanderung
+
+![[Wanderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wanderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderung&language=de)
 
 **Meaning:** hike
 **Plural:** Wanderungen

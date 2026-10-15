@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 10b"
 freq_rank: 4450
 skip: false
+audio: "cool.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # cool
+
+![[cool.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/cool/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=cool&language=de)
 
 **Meaning:** cool
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** informal

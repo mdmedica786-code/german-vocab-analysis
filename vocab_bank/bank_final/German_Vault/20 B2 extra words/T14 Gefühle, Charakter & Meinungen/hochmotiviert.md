@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4048"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "hochmotiviert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # hochmotiviert
+
+![[hochmotiviert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hochmotiviert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hochmotiviert&language=de)
 
 **Meaning:** highly motivated
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

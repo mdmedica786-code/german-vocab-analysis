@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3783"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Befürwortung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Befürwortung
+
+![[Befürwortung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bef%C3%BCrwortung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bef%C3%BCrwortung&language=de)
 
 **Meaning:** support; advocacy
 **Plural:** –

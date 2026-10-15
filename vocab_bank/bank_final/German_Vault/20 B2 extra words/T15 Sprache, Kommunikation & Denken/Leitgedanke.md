@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0371"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Leitgedanke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leitgedanke
+
+![[Leitgedanke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leitgedanke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitgedanke&language=de)
 
 **Meaning:** guiding principle; central idea
 **Plural:** Leitgedanken

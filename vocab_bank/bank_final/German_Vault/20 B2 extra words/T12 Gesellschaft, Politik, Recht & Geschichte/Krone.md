@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2816"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Krone.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krone
+
+![[Krone.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krone&language=de)
 
 **Meaning:** crown; krone (currency)
 **Plural:** Kronen

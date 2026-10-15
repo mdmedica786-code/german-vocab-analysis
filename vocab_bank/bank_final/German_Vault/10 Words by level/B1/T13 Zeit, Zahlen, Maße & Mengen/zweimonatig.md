@@ -12,11 +12,16 @@ id: "B3580"
 netzwerk: "B1 K3 3c"
 freq_rank: 9999
 skip: false
+audio: "zweimonatig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # zweimonatig
+
+![[zweimonatig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zweimonatig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweimonatig&language=de)
 
 **Meaning:** two month (ly)
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

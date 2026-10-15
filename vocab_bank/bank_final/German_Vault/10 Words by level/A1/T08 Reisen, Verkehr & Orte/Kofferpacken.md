@@ -15,11 +15,16 @@ id: "B1748"
 netzwerk: "A1 K12 2d"
 freq_rank: 5759
 skip: false
+audio: "Kofferpacken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kofferpacken
+
+![[Kofferpacken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kofferpacken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kofferpacken&language=de)
 
 **Meaning:** packing one's suitcase
 **Plural:** –

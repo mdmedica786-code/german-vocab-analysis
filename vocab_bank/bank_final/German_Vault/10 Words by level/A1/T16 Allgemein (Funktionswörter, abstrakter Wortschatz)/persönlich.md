@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 12a"
 freq_rank: 494
 skip: false
+audio: "persönlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # persönlich
+
+![[persönlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pers%C3%B6nlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pers%C3%B6nlich&language=de)
 
 **Meaning:** personal; personally
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

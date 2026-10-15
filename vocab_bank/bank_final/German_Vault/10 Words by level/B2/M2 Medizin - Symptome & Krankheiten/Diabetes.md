@@ -14,11 +14,16 @@ bank: "main"
 id: "B6015"
 freq_rank: 3956
 skip: false
+audio: "Diabetes.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Diabetes
+
+![[Diabetes.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diabetes/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diabetes&language=de)
 
 **Meaning:** diabetes
 **Plural:** –

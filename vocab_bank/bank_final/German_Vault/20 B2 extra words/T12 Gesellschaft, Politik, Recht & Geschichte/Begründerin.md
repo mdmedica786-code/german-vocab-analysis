@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3786"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Begründerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Begründerin
+
+![[Begründerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BCnderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BCnderin&language=de)
 
 **Meaning:** founder (female); originator
 **Plural:** Begründerinnen

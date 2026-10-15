@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0873"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bekräftigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bekräftigen
+
+![[bekräftigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bekr%C3%A4ftigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bekr%C3%A4ftigen&language=de)
 
 **Meaning:** to reaffirm; to confirm
 **Forms:** bekräftigt · bekräftigte · hat bekräftigt

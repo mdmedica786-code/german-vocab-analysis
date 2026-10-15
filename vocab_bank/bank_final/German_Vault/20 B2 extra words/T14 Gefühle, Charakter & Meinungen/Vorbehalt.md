@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0392"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Vorbehalt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorbehalt
+
+![[Vorbehalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorbehalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorbehalt&language=de)
 
 **Meaning:** reservation; reserve
 **Plural:** Vorbehalte

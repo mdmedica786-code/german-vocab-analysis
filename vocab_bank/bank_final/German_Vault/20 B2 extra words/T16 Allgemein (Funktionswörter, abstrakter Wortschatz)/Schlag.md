@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2464"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Schlag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlag
+
+![[Schlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlag&language=de)
 
 **Meaning:** blow; stroke; hit
 **Plural:** Schläge

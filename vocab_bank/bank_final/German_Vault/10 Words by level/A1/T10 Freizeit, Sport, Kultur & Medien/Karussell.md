@@ -15,11 +15,16 @@ id: "B1559"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Karussell.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Karussell
+
+![[Karussell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Karussell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karussell&language=de)
 
 **Meaning:** merry-go-round
 **Plural:** Karusselle

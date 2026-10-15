@@ -15,11 +15,16 @@ id: "B5244"
 goethe_level: "B1"
 freq_rank: 1019
 skip: false
+audio: "Wirklichkeit.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wirklichkeit
+
+![[Wirklichkeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirklichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirklichkeit&language=de)
 
 **Meaning:** reality
 **Plural:** –

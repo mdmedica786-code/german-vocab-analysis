@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2002"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Schlucht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlucht
+
+![[Schlucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlucht&language=de)
 
 **Meaning:** gorge; ravine
 **Plural:** Schluchten

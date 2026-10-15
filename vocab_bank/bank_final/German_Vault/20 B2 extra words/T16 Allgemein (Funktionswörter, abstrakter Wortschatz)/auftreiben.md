@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0857"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "auftreiben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auftreiben
+
+![[auftreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auftreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auftreiben&language=de)
 
 **Meaning:** to track down; to get hold of
 **Forms:** treibt auf · trieb auf · hat aufgetrieben

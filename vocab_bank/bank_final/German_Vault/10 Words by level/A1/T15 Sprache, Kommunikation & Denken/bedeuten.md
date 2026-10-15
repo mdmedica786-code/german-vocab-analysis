@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 2a"
 freq_rank: 388
 skip: false
+audio: "bedeuten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedeuten
+
+![[bedeuten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedeuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedeuten&language=de)
 
 **Meaning:** to mean
 **Forms:** bedeutet · bedeutete · hat bedeutet

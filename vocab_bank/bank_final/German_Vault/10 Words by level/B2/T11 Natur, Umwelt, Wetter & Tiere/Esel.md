@@ -14,11 +14,16 @@ bank: "main"
 id: "B6143"
 freq_rank: 4598
 skip: false
+audio: "Esel.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Esel
+
+![[Esel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Esel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Esel&language=de)
 
 **Meaning:** donkey
 **Plural:** Esel

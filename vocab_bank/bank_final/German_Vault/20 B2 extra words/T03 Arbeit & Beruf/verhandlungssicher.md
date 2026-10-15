@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4570"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "verhandlungssicher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # verhandlungssicher
+
+![[verhandlungssicher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verhandlungssicher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhandlungssicher&language=de)
 
 **Meaning:** fluent enough for negotiations; skilled in negotiating
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

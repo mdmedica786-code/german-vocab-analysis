@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Gang setzen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Gang%20setzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Gang%20setzen&language=de)
+
 **Meaning:** to set in motion; to start
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

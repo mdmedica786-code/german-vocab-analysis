@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1172
 skip: false
+audio: "Pflicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflicht
+
+![[Pflicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflicht&language=de)
 
 **Meaning:** duty
 **Plural:** Pflichten

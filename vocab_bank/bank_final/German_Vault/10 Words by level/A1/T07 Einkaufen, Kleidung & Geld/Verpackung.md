@@ -15,11 +15,16 @@ id: "B0698"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 4987
 skip: false
+audio: "Verpackung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verpackung
+
+![[Verpackung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verpackung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpackung&language=de)
 
 **Meaning:** packaging
 **Plural:** Verpackungen

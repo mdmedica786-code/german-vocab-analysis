@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2724"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "letztendlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # letztendlich
+
+![[letztendlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/letztendlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=letztendlich&language=de)
 
 **Meaning:** ultimately; in the end
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

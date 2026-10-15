@@ -15,11 +15,16 @@ id: "B3001"
 netzwerk: "A2 K10 10d"
 freq_rank: 4992
 skip: false
+audio: "Ratte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ratte
+
+![[Ratte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ratte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratte&language=de)
 
 **Meaning:** rat
 **Plural:** Ratten

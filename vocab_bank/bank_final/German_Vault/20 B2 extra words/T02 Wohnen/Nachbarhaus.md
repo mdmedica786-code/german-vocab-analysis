@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4254"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Nachbarhaus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Nachbarhaus
+
+![[Nachbarhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbarhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarhaus&language=de)
 
 **Meaning:** neighbouring house
 **Plural:** Nachbarhäuser

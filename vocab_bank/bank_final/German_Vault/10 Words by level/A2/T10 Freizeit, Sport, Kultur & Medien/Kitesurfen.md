@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kitesurfen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kitesurfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kitesurfen&language=de)
+
 **Meaning:** kitesurfing
 **Plural:** –
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

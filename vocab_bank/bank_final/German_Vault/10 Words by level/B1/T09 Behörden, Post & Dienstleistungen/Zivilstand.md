@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Zivilstand.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zivilstand
+
+![[Zivilstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zivilstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilstand&language=de)
 
 **Meaning:** marital status (Swiss)
 **Plural:** –

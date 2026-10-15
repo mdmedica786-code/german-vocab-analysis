@@ -15,11 +15,16 @@ id: "B4369"
 netzwerk: "B1 K8 1a"
 freq_rank: 1495
 skip: false
+audio: "Gehirn.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gehirn
+
+![[Gehirn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gehirn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehirn&language=de)
 
 **Meaning:** brain
 **Plural:** Gehirne

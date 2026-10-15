@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 3536
 skip: false
+audio: "Heizung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heizung
+
+![[Heizung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heizung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heizung&language=de)
 
 **Meaning:** heating
 **Plural:** Heizungen

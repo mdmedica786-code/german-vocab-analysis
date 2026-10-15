@@ -12,11 +12,16 @@ id: "B4018"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "regnerisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # regnerisch
+
+![[regnerisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/regnerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regnerisch&language=de)
 
 **Meaning:** rainy
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

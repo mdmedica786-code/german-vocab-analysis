@@ -15,11 +15,16 @@ id: "B0534"
 netzwerk: "A1 K3 7c"
 freq_rank: 5759
 skip: false
+audio: "Imperativ.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Imperativ
+
+![[Imperativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Imperativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Imperativ&language=de)
 
 **Meaning:** imperative
 **Plural:** Imperative

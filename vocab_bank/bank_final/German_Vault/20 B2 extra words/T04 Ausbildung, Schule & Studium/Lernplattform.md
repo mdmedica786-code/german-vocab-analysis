@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4182"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Lernplattform.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lernplattform
+
+![[Lernplattform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernplattform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernplattform&language=de)
 
 **Meaning:** learning platform
 **Plural:** Lernplattformen

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # umziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/umziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umziehen&language=de)
+
 **Meaning:** to move
 **Forms:** zieht um · zog um · ist umgezogen
 **Grammar:** separable (um-)

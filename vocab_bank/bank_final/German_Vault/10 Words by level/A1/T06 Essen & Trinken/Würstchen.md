@@ -15,11 +15,16 @@ id: "B0029"
 netzwerk: "A1 K1 1a"
 freq_rank: 5759
 skip: false
+audio: "Würstchen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Würstchen
+
+![[Würstchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrstchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrstchen&language=de)
 
 **Meaning:** small sausage; frankfurter
 **Plural:** Würstchen

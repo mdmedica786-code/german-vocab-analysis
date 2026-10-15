@@ -15,11 +15,16 @@ id: "B4026"
 netzwerk: "B1 K5 12a"
 freq_rank: 2228
 skip: false
+audio: "Gedächtnis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gedächtnis
+
+![[Gedächtnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ged%C3%A4chtnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ged%C3%A4chtnis&language=de)
 
 **Meaning:** memory
 **Plural:** –

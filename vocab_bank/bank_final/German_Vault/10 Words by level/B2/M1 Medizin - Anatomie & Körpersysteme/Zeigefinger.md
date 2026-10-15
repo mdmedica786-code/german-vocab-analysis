@@ -14,11 +14,16 @@ bank: "main"
 id: "B5890"
 freq_rank: 3328
 skip: false
+audio: "Zeigefinger.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeigefinger
+
+![[Zeigefinger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeigefinger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeigefinger&language=de)
 
 **Meaning:** index finger
 **Plural:** Zeigefinger

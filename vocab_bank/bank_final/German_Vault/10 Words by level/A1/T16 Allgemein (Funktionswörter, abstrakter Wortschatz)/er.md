@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # er
 
+[▶️ YouGlish](https://youglish.com/pronounce/er/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=er&language=de)
+
 **Meaning:** he
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

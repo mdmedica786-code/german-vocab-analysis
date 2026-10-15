@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 2"
 freq_rank: 2468
 skip: false
+audio: "Aussicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aussicht
+
+![[Aussicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussicht&language=de)
 
 **Meaning:** view
 **Plural:** Aussichten

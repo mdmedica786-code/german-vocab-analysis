@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Vokabeltest
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vokabeltest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokabeltest&language=de)
+
 **Meaning:** vocabulary test
 **Plural:** Vokabeltests
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

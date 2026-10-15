@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3796"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Berufsanfänger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Berufsanfänger
+
+![[Berufsanfänger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsanf%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsanf%C3%A4nger&language=de)
 
 **Meaning:** career starter (male); newcomer to a profession
 **Plural:** Berufsanfänger

@@ -15,11 +15,16 @@ id: "B0224"
 netzwerk: "A1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Sensation.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sensation
+
+![[Sensation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sensation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sensation&language=de)
 
 **Meaning:** sensation
 **Plural:** Sensationen

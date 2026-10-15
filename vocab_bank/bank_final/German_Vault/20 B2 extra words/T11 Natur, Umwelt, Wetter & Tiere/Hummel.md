@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1965"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Hummel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hummel
+
+![[Hummel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hummel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hummel&language=de)
 
 **Meaning:** bumblebee
 **Plural:** Hummeln

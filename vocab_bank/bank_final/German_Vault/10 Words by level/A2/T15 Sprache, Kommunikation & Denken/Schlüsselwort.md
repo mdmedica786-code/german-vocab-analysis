@@ -15,11 +15,16 @@ id: "B2528"
 netzwerk: "A2 K6 13c"
 freq_rank: 5759
 skip: false
+audio: "Schlüsselwort.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schlüsselwort
+
+![[Schlüsselwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%BCsselwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%BCsselwort&language=de)
 
 **Meaning:** keyword
 **Plural:** Schlüsselwörter

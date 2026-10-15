@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2531"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "genügend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # genügend
+
+![[genügend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gen%C3%BCgend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gen%C3%BCgend&language=de)
 
 **Meaning:** sufficient; enough
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

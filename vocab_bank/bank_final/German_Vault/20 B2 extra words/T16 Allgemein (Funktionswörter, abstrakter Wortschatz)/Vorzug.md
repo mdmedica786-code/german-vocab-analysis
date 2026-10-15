@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0303"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Vorzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorzug
+
+![[Vorzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorzug&language=de)
 
 **Meaning:** advantage; merit
 **Plural:** Vorzüge

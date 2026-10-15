@@ -15,11 +15,16 @@ id: "B4543"
 netzwerk: "B1 K8 13a"
 freq_rank: 2000
 skip: false
+audio: "Klang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klang
+
+![[Klang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klang&language=de)
 
 **Meaning:** sound
 **Plural:** Klänge

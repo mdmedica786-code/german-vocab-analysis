@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 3a"
 freq_rank: 751
 skip: false
+audio: "Erinnerung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erinnerung
+
+![[Erinnerung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erinnerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erinnerung&language=de)
 
 **Meaning:** memory
 **Plural:** Erinnerungen

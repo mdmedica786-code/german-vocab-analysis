@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4539"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "ungenau.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ungenau
+
+![[ungenau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungenau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungenau&language=de)
 
 **Meaning:** inaccurate; imprecise
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

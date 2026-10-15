@@ -15,11 +15,16 @@ id: "B3186"
 netzwerk: "A2 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "Rückfrage.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückfrage
+
+![[Rückfrage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckfrage&language=de)
 
 **Meaning:** further inquiry
 **Plural:** Rückfragen

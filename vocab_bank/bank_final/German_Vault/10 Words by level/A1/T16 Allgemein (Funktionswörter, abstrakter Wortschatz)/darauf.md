@@ -12,11 +12,16 @@ id: "B0191"
 netzwerk: "A1 K1 8e"
 freq_rank: 177
 skip: false
+audio: "darauf.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # darauf
+
+![[darauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/darauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=darauf&language=de)
 
 **Meaning:** on it; on that; after that
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

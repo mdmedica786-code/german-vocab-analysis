@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Genehmigung erteilen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Genehmigung%20erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Genehmigung%20erteilen&language=de)
+
 **Meaning:** to grant a permit
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

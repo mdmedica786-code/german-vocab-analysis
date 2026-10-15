@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1921"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Gastarbeiter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gastarbeiter
+
+![[Gastarbeiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gastarbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastarbeiter&language=de)
 
 **Meaning:** guest worker
 **Plural:** Gastarbeiter

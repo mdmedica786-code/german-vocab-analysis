@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3244"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Gottesdienst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gottesdienst
+
+![[Gottesdienst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gottesdienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gottesdienst&language=de)
 
 **Meaning:** church service; worship
 **Plural:** Gottesdienste

@@ -15,11 +15,16 @@ id: "B1771"
 netzwerk: "A1 K12 3d"
 freq_rank: 5060
 skip: false
+audio: "Route.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Route
+
+![[Route.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Route/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Route&language=de)
 
 **Meaning:** route
 **Plural:** Routen

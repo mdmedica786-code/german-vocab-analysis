@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 3253
 skip: false
+audio: "locker.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # locker
+
+![[locker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/locker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=locker&language=de)
 
 **Meaning:** loose; relaxed; casual
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

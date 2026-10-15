@@ -15,11 +15,16 @@ id: "B6484"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Lehrstelle.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lehrstelle
+
+![[Lehrstelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrstelle&language=de)
 
 **Meaning:** apprenticeship place
 **Plural:** Lehrstellen

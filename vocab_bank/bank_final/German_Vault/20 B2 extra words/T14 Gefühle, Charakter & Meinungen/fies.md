@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1587"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "fies.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # fies
+
+![[fies.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fies/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fies&language=de)
 
 **Meaning:** nasty; mean (colloquial)
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial

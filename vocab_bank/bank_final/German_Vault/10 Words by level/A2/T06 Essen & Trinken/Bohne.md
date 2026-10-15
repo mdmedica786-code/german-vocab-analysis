@@ -15,11 +15,16 @@ id: "B6380"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Bohne.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bohne
+
+![[Bohne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bohne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bohne&language=de)
 
 **Meaning:** bean
 **Plural:** Bohnen

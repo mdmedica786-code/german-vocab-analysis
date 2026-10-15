@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Zug
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zug&language=de)
+
 **Meaning:** train
 **Plural:** Züge
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

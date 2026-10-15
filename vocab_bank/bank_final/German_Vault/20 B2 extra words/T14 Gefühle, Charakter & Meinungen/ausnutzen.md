@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0863"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "ausnutzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausnutzen
+
+![[ausnutzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausnutzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausnutzen&language=de)
 
 **Meaning:** to take advantage of; to exploit
 **Forms:** nutzt aus · nutzte aus · hat ausgenutzt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4426"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Sonnenbrand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sonnenbrand
+
+![[Sonnenbrand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonnenbrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenbrand&language=de)
 
 **Meaning:** sunburn
 **Plural:** Sonnenbrände

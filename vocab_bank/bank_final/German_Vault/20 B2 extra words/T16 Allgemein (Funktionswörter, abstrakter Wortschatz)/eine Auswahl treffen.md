@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Auswahl treffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Auswahl%20treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Auswahl%20treffen&language=de)
+
 **Meaning:** to make a selection
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

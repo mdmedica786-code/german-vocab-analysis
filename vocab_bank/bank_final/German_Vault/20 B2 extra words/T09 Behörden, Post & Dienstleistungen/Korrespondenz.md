@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3602"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Korrespondenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Korrespondenz
+
+![[Korrespondenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korrespondenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrespondenz&language=de)
 
 **Meaning:** correspondence
 **Plural:** Korrespondenzen

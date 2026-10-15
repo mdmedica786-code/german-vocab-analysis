@@ -13,11 +13,16 @@ id: "B2842"
 netzwerk: "A2 K9 3c"
 freq_rank: 1423
 skip: false
+audio: "verstärken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verstärken
+
+![[verstärken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verst%C3%A4rken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verst%C3%A4rken&language=de)
 
 **Meaning:** to reinforce
 **Forms:** verstärkt · verstärkte · hat verstärkt

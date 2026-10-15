@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Diät-Assistent
 
+[▶️ YouGlish](https://youglish.com/pronounce/Di%C3%A4t-Assistent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Di%C3%A4t-Assistent&language=de)
+
 **Meaning:** dietary assistant (m)
 **Plural:** Diät-Assistenten
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

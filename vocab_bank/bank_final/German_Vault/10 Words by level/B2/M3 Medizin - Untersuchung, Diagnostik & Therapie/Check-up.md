@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Check-up
 
+[▶️ YouGlish](https://youglish.com/pronounce/Check-up/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Check-up&language=de)
+
 **Meaning:** check-up
 **Plural:** Check-ups
 **Level:** B2 · **Topic:** [[M3 Medizin - Untersuchung, Diagnostik & Therapie]] · **Register:** neutral

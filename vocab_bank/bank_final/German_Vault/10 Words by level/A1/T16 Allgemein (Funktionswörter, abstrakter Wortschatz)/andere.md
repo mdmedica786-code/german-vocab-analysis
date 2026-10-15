@@ -12,11 +12,16 @@ id: "B0039"
 netzwerk: "A1 K1 1c"
 freq_rank: 95
 skip: false
+audio: "andere (21).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # andere
+
+![[andere (21).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/andere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=andere&language=de)
 
 **Meaning:** other; different
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4349"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Rechtsbehelfsbelehrung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechtsbehelfsbelehrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsbehelfsbelehrung&language=de)
 
 **Meaning:** notice of right of appeal; information on legal remedies
 **Plural:** Rechtsbehelfsbelehrungen

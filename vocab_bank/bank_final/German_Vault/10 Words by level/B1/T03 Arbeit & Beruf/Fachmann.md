@@ -15,11 +15,16 @@ id: "B6424"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Fachmann.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fachmann
+
+![[Fachmann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachmann&language=de)
 
 **Meaning:** expert (m)
 **Plural:** Fachleute

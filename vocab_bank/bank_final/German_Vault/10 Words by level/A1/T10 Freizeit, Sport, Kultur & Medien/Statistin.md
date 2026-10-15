@@ -15,11 +15,16 @@ id: "B1571"
 netzwerk: "A1 K10 13d"
 freq_rank: 5759
 skip: false
+audio: "Statistin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Statistin
+
+![[Statistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Statistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statistin&language=de)
 
 **Meaning:** extra (f)
 **Plural:** Statistinnen

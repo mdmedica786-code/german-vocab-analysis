@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 10"
 freq_rank: 3362
 skip: false
+audio: "umsonst.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umsonst
+
+![[umsonst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umsonst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umsonst&language=de)
 
 **Meaning:** for free
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

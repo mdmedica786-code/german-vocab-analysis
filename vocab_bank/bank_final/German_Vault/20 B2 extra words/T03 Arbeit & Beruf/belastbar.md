@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0825"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "belastbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # belastbar
+
+![[belastbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/belastbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=belastbar&language=de)
 
 **Meaning:** resilient; able to cope with pressure
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

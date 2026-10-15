@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1286"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "lästern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # lästern
+
+![[lästern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%A4stern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%A4stern&language=de)
 
 **Meaning:** to gossip maliciously; to badmouth
 **Forms:** lästert · lästerte · hat gelästert

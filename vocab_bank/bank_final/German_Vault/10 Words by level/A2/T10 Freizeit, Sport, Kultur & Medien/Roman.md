@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 1317
 skip: false
+audio: "Roman.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Roman
+
+![[Roman.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Roman/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Roman&language=de)
 
 **Meaning:** novel
 **Plural:** Romane

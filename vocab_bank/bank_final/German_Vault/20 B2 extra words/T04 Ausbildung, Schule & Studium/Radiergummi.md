@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2284"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Radiergummi.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Radiergummi
+
+![[Radiergummi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radiergummi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiergummi&language=de)
 
 **Meaning:** rubber; eraser
 **Plural:** Radiergummis

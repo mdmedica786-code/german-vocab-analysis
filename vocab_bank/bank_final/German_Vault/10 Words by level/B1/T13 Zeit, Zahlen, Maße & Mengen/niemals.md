@@ -12,11 +12,16 @@ id: "B3648"
 netzwerk: "B1 K3 6d"
 freq_rank: 705
 skip: false
+audio: "niemals.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # niemals
+
+![[niemals.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/niemals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niemals&language=de)
 
 **Meaning:** never
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

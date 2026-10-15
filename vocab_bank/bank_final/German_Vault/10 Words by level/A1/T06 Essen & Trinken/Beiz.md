@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Beiz.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beiz
+
+![[Beiz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beiz&language=de)
 
 **Meaning:** pub (Switzerland)
 **Plural:** Beizen

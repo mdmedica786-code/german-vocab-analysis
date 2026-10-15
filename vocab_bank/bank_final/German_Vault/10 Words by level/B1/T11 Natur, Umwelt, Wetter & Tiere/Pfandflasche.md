@@ -15,11 +15,16 @@ id: "B3954"
 netzwerk: "B1 K5 6a"
 freq_rank: 5759
 skip: false
+audio: "Pfandflasche.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pfandflasche
+
+![[Pfandflasche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfandflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfandflasche&language=de)
 
 **Meaning:** deposit bottle
 **Plural:** Pfandflaschen

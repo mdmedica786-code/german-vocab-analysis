@@ -12,11 +12,16 @@ id: "B3682"
 netzwerk: "B1 K3 10b"
 freq_rank: 5759
 skip: false
+audio: "hierarchisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # hierarchisch
+
+![[hierarchisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hierarchisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hierarchisch&language=de)
 
 **Meaning:** hierarchical
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

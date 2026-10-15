@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 5a"
 freq_rank: 1709
 skip: false
+audio: "doppelt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # doppelt
+
+![[doppelt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/doppelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=doppelt&language=de)
 
 **Meaning:** double
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

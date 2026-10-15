@@ -15,11 +15,16 @@ id: "B2858"
 netzwerk: "A2 K9 5a"
 freq_rank: 5759
 skip: false
+audio: "Fußballstar.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußballstar
+
+![[Fußballstar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballstar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballstar&language=de)
 
 **Meaning:** football star
 **Plural:** Fußballstars

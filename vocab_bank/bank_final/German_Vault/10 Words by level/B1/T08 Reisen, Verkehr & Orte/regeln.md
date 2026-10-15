@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 11a"
 freq_rank: 768
 skip: false
+audio: "regeln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # regeln
+
+![[regeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/regeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regeln&language=de)
 
 **Meaning:** to regulate
 **Forms:** regelt · regelte · hat geregelt

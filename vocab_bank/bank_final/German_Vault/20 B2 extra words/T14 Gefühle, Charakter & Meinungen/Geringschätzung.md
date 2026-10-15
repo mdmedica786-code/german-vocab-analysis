@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1490"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Geringschätzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geringschätzung
+
+![[Geringschätzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geringsch%C3%A4tzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geringsch%C3%A4tzung&language=de)
 
 **Meaning:** disdain; low regard
 **Plural:** –

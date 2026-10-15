@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2467"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "hinweg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinweg
+
+![[hinweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinweg&language=de)
 
 **Meaning:** away; over (time or obstacles)
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

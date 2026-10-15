@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Latein
 
+[▶️ YouGlish](https://youglish.com/pronounce/Latein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Latein&language=de)
+
 **Meaning:** Latin
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

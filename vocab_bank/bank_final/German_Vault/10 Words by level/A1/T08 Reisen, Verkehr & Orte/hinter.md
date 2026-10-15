@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 6b"
 freq_rank: 218
 skip: false
+audio: "hinter.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinter
+
+![[hinter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinter&language=de)
 
 **Meaning:** behind
 **Case:** + Akk./Dat.

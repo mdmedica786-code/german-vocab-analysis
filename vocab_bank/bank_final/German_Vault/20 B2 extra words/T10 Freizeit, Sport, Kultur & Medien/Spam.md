@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2208"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Spam.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spam
+
+![[Spam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spam&language=de)
 
 **Meaning:** spam
 **Plural:** –

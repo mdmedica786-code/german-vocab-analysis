@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1153"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Taktgefühl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Taktgefühl
+
+![[Taktgefühl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taktgef%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taktgef%C3%BChl&language=de)
 
 **Meaning:** tact; sensitivity
 **Plural:** –

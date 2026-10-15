@@ -12,11 +12,16 @@ id: "B3343"
 netzwerk: "B1 K1 13a"
 freq_rank: 5512
 skip: false
+audio: "erholt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # erholt
+
+![[erholt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erholt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erholt&language=de)
 
 **Meaning:** relaxed, recovered
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

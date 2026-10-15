@@ -14,11 +14,16 @@ bank: "main"
 id: "B5653"
 freq_rank: 2669
 skip: false
+audio: "Mythos.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mythos
+
+![[Mythos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mythos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mythos&language=de)
 
 **Meaning:** myth
 **Plural:** Mythen

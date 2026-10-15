@@ -15,11 +15,16 @@ id: "B1084"
 netzwerk: "A1 K7 3a"
 freq_rank: 5759
 skip: false
+audio: "Sommerfest.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sommerfest
+
+![[Sommerfest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sommerfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sommerfest&language=de)
 
 **Meaning:** summer festival
 **Plural:** Sommerfeste

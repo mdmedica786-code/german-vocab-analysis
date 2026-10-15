@@ -14,11 +14,16 @@ bank: "main"
 id: "B6114"
 freq_rank: 4476
 skip: false
+audio: "Ironie.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ironie
+
+![[Ironie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ironie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ironie&language=de)
 
 **Meaning:** irony
 **Plural:** –

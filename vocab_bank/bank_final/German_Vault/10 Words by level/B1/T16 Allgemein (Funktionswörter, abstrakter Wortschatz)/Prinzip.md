@@ -15,11 +15,16 @@ id: "B4139"
 netzwerk: "B1 K6 7b"
 freq_rank: 801
 skip: false
+audio: "Prinzip.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Prinzip
+
+![[Prinzip.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prinzip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prinzip&language=de)
 
 **Meaning:** principle
 **Plural:** Prinzipien

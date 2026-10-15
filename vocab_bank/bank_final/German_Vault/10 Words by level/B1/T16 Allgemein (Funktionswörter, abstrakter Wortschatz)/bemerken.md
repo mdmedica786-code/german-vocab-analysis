@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6b"
 freq_rank: 550
 skip: false
+audio: "bemerken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bemerken
+
+![[bemerken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bemerken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bemerken&language=de)
 
 **Meaning:** to notice
 **Forms:** bemerkt · bemerkte · hat bemerkt

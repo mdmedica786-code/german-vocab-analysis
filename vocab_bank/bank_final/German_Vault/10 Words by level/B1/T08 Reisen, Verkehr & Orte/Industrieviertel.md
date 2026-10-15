@@ -15,11 +15,16 @@ id: "B4988"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Industrieviertel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Industrieviertel
+
+![[Industrieviertel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Industrieviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Industrieviertel&language=de)
 
 **Meaning:** industrial quarter
 **Plural:** Industrieviertel

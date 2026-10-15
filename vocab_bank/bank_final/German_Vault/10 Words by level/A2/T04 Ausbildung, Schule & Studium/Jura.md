@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Jura
 
+[▶️ YouGlish](https://youglish.com/pronounce/Jura/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jura&language=de)
+
 **Meaning:** law
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

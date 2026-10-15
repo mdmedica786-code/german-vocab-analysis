@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 8a"
 freq_rank: 265
 skip: false
+audio: "bekommen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bekommen
+
+![[bekommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bekommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bekommen&language=de)
 
 **Meaning:** to get
 **Forms:** bekommt · bekam · hat bekommen

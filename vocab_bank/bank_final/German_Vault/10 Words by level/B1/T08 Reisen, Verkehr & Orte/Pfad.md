@@ -15,11 +15,16 @@ id: "B4545"
 netzwerk: "B1 K8 13a"
 freq_rank: 3137
 skip: false
+audio: "Pfad.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pfad
+
+![[Pfad.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfad&language=de)
 
 **Meaning:** path; trail
 **Plural:** Pfade

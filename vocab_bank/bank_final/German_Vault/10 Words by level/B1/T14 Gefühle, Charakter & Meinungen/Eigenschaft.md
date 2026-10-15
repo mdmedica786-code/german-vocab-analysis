@@ -15,11 +15,16 @@ id: "B4647"
 netzwerk: "B1 K9 7c"
 freq_rank: 816
 skip: false
+audio: "Eigenschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eigenschaft
+
+![[Eigenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigenschaft&language=de)
 
 **Meaning:** characteristic
 **Plural:** Eigenschaften

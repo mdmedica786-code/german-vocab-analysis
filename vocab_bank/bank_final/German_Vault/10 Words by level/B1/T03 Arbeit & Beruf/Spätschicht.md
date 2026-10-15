@@ -15,11 +15,16 @@ id: "B4227"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Spätschicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spätschicht
+
+![[Spätschicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%A4tschicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%A4tschicht&language=de)
 
 **Meaning:** late shift
 **Plural:** Spätschichten

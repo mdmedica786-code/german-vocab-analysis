@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1208"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "aufsteigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufsteigen
+
+![[aufsteigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufsteigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufsteigen&language=de)
 
 **Meaning:** to rise; to be promoted
 **Forms:** steigt auf · stieg auf · ist aufgestiegen

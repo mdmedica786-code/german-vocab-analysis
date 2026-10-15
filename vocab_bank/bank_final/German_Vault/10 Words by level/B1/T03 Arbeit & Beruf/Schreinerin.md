@@ -15,11 +15,16 @@ id: "B3741"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Schreinerin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schreinerin
+
+![[Schreinerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schreinerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreinerin&language=de)
 
 **Meaning:** carpenter; joiner (f)
 **Plural:** Schreinerinnen

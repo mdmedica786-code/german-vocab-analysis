@@ -15,11 +15,16 @@ id: "B5462"
 goethe_level: "B1"
 freq_rank: 2000
 skip: false
+audio: "Vertrauen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vertrauen
+
+![[Vertrauen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertrauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertrauen&language=de)
 
 **Meaning:** trust
 **Plural:** –

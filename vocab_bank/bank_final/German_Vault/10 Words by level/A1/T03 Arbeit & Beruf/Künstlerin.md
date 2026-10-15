@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 1b"
 freq_rank: 2854
 skip: false
+audio: "Künstlerin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Künstlerin
+
+![[Künstlerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCnstlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCnstlerin&language=de)
 
 **Meaning:** artist (f)
 **Plural:** Künstlerinnen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0766"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "flüchtig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # flüchtig
+
+![[flüchtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCchtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCchtig&language=de)
 
 **Meaning:** fleeting; cursory; fugitive
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

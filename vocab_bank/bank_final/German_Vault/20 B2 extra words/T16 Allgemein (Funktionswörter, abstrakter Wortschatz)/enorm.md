@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2620"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "enorm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # enorm
+
+![[enorm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/enorm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=enorm&language=de)
 
 **Meaning:** enormous; huge
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

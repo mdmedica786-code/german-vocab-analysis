@@ -12,11 +12,16 @@ id: "B5164"
 goethe_level: "B1"
 freq_rank: 489
 skip: false
+audio: "wert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wert
+
+![[wert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wert&language=de)
 
 **Meaning:** worth
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

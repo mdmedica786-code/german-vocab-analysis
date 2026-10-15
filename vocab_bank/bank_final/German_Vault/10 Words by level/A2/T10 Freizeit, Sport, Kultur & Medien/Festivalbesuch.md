@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Festivalbesuch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Festivalbesuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festivalbesuch&language=de)
+
 **Meaning:** festival visit
 **Plural:** Festivalbesuche
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

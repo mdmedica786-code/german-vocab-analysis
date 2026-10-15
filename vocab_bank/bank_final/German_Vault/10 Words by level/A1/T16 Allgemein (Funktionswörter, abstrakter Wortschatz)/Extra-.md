@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Extra-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Extra-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Extra-&language=de)
+
 **Meaning:** extra
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 5759
 skip: false
+audio: "stressig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stressig
+
+![[stressig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stressig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stressig&language=de)
 
 **Meaning:** stressful
 **Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** informal

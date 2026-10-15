@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0866"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "beaufsichtigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beaufsichtigen
+
+![[beaufsichtigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beaufsichtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beaufsichtigen&language=de)
 
 **Meaning:** to supervise; to look after
 **Forms:** beaufsichtigt · beaufsichtigte · hat beaufsichtigt

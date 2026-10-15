@@ -15,11 +15,16 @@ id: "B3627"
 netzwerk: "B1 K3 5b"
 freq_rank: 5759
 skip: false
+audio: "Nachtisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachtisch
+
+![[Nachtisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtisch&language=de)
 
 **Meaning:** dessert
 **Plural:** Nachtische

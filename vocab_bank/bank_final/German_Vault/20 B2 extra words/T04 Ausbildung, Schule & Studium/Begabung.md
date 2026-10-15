@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0921"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Begabung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begabung
+
+![[Begabung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begabung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begabung&language=de)
 
 **Meaning:** talent; gift
 **Plural:** Begabungen

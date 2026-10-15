@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K1 9c"
 freq_rank: 2266
 skip: false
+audio: "Zigarette.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zigarette
+
+![[Zigarette.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zigarette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zigarette&language=de)
 
 **Meaning:** cigarette
 **Plural:** Zigaretten

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 5b"
 freq_rank: 732
 skip: false
+audio: "Folge.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Folge
+
+![[Folge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Folge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Folge&language=de)
 
 **Meaning:** consequence
 **Plural:** Folgen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0354"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Freiraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Freiraum
+
+![[Freiraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freiraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiraum&language=de)
 
 **Meaning:** freedom; space (to act)
 **Plural:** Freiräume

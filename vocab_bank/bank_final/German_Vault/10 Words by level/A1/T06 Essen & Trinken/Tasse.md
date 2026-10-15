@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 11c ÜB"
 freq_rank: 2282
 skip: false
+audio: "Tasse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tasse
+
+![[Tasse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tasse&language=de)
 
 **Meaning:** cup
 **Plural:** Tassen

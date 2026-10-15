@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "anschaffen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anschaffen
+
+![[anschaffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anschaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anschaffen&language=de)
 
 **Meaning:** to get
 **Forms:** schafft an · schaffte an · hat angeschafft

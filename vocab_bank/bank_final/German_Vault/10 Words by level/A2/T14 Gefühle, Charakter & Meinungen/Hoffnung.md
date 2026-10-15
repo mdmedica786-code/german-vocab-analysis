@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 3d"
 freq_rank: 902
 skip: false
+audio: "Hoffnung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hoffnung
+
+![[Hoffnung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hoffnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hoffnung&language=de)
 
 **Meaning:** hope
 **Plural:** Hoffnungen

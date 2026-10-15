@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3345"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "konzipieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # konzipieren
+
+![[konzipieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konzipieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konzipieren&language=de)
 
 **Meaning:** to design; to conceive; to draft
 **Forms:** konzipiert · konzipierte · hat konzipiert

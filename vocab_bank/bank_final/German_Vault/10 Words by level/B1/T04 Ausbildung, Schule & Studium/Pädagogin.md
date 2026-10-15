@@ -15,11 +15,16 @@ id: "B4116"
 netzwerk: "B1 K6 5b"
 freq_rank: 5759
 skip: false
+audio: "Pädagogin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pädagogin
+
+![[Pädagogin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4dagogin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4dagogin&language=de)
 
 **Meaning:** educator; teacher (f)
 **Plural:** Pädagoginnen

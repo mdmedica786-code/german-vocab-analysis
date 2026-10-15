@@ -15,11 +15,16 @@ id: "B5996"
 goethe_level: "B1"
 freq_rank: 3852
 skip: false
+audio: "Hilfsmittel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hilfsmittel
+
+![[Hilfsmittel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hilfsmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfsmittel&language=de)
 
 **Meaning:** aid; tool
 **Plural:** Hilfsmittel

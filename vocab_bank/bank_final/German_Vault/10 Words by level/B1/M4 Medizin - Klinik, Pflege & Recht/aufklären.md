@@ -13,11 +13,16 @@ id: "B4031"
 netzwerk: "B1 K5 13a"
 freq_rank: 5515
 skip: false
+audio: "aufklären.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufklären
+
+![[aufklären.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufkl%C3%A4ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufkl%C3%A4ren&language=de)
 
 **Meaning:** to inform; to clarify; to educate
 **Forms:** klärt auf · klärte auf · hat aufgeklärt

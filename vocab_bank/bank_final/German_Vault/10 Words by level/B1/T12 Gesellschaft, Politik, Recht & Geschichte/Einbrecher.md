@@ -15,11 +15,16 @@ id: "B6229"
 goethe_level: "B1"
 freq_rank: 4958
 skip: false
+audio: "Einbrecher.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einbrecher
+
+![[Einbrecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einbrecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbrecher&language=de)
 
 **Meaning:** burglar
 **Plural:** Einbrecher

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0635"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Fließband.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fließband
+
+![[Fließband.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flie%C3%9Fband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flie%C3%9Fband&language=de)
 
 **Meaning:** assembly line; conveyor belt
 **Plural:** Fließbänder

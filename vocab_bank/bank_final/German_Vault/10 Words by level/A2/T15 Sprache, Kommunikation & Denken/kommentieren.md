@@ -13,11 +13,16 @@ id: "B2171"
 netzwerk: "A2 K3 13c"
 freq_rank: 4534
 skip: false
+audio: "kommentieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kommentieren
+
+![[kommentieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kommentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommentieren&language=de)
 
 **Meaning:** to comment on sth
 **Forms:** kommentiert · kommentierte · hat kommentiert

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1062"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Verbindlichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verbindlichkeit
+
+![[Verbindlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbindlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbindlichkeit&language=de)
 
 **Meaning:** liability; obligation
 **Plural:** Verbindlichkeiten

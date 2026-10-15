@@ -15,11 +15,16 @@ id: "B4132"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Homeoffice.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Homeoffice
+
+![[Homeoffice.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Homeoffice/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Homeoffice&language=de)
 
 **Meaning:** home office
 **Plural:** –

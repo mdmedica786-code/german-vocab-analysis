@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1628"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "pessimistisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # pessimistisch
+
+![[pessimistisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pessimistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pessimistisch&language=de)
 
 **Meaning:** pessimistic
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

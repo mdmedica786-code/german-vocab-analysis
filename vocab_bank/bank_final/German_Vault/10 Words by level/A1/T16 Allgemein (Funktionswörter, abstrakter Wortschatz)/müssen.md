@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # müssen
 
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%BCssen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%BCssen&language=de)
+
 **Meaning:** to have to (do something)
 **Forms:** muss · musste · hat gemusst
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B1120"
 netzwerk: "A1 K7 6a"
 freq_rank: 5759
 skip: false
+audio: "eingeben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eingeben
+
+![[eingeben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eingeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eingeben&language=de)
 
 **Meaning:** to enter
 **Forms:** gibt ein · gab ein · hat eingegeben

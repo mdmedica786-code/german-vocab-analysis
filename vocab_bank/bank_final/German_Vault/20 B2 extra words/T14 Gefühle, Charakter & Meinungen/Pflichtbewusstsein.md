@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1509"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Pflichtbewusstsein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pflichtbewusstsein
+
+![[Pflichtbewusstsein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflichtbewusstsein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflichtbewusstsein&language=de)
 
 **Meaning:** sense of duty
 **Plural:** –

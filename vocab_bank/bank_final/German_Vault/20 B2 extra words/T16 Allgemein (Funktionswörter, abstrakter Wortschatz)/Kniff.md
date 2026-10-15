@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3176"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Kniff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kniff
+
+![[Kniff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kniff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kniff&language=de)
 
 **Meaning:** trick; knack
 **Plural:** Kniffe

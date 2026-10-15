@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 3c"
 freq_rank: 3387
 skip: false
+audio: "Kredit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kredit
+
+![[Kredit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kredit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kredit&language=de)
 
 **Meaning:** loan
 **Plural:** Kredite

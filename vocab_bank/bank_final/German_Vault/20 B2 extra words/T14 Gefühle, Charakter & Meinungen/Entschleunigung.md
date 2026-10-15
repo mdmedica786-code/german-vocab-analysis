@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1867"
 exam_use: ["Sprechen", "Medien"]
 skip: false
+audio: "Entschleunigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entschleunigung
+
+![[Entschleunigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entschleunigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entschleunigung&language=de)
 
 **Meaning:** slowing down; deceleration of life
 **Plural:** –

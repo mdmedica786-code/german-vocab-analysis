@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3458"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Missbrauch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Missbrauch
+
+![[Missbrauch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Missbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Missbrauch&language=de)
 
 **Meaning:** misuse; abuse
 **Plural:** Missbräuche

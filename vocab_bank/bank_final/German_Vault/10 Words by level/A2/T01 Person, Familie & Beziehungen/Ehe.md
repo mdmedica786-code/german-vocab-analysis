@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 5a"
 freq_rank: 2000
 skip: false
+audio: "Ehe.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ehe
+
+![[Ehe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehe&language=de)
 
 **Meaning:** marriage
 **Plural:** Ehen

@@ -13,11 +13,16 @@ id: "B3759"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 5759
 skip: false
+audio: "föhnen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # föhnen
+
+![[föhnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%B6hnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%B6hnen&language=de)
 
 **Meaning:** to blow-dry
 **Forms:** föhnt · föhnte · hat geföhnt

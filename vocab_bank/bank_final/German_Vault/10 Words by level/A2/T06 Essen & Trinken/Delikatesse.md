@@ -15,11 +15,16 @@ id: "B2333"
 netzwerk: "A2 K5 3c"
 freq_rank: 5759
 skip: false
+audio: "Delikatesse.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Delikatesse
+
+![[Delikatesse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Delikatesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Delikatesse&language=de)
 
 **Meaning:** delicacy
 **Plural:** Delikatessen

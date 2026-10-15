@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # her sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/her%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=her%20sein&language=de)
+
 **Meaning:** to be (so long) ago
 **Forms:** ist her · war her · ist her gewesen
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

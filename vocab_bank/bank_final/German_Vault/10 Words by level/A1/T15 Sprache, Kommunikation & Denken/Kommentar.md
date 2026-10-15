@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 3b"
 freq_rank: 1910
 skip: false
+audio: "Kommentar.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kommentar
+
+![[Kommentar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommentar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommentar&language=de)
 
 **Meaning:** commentary
 **Plural:** Kommentare

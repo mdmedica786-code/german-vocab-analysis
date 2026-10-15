@@ -15,11 +15,16 @@ id: "B4436"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Haupteingang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Haupteingang
+
+![[Haupteingang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haupteingang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haupteingang&language=de)
 
 **Meaning:** main entrance
 **Plural:** Haupteingänge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2910"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Lebewesen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lebewesen
+
+![[Lebewesen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebewesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebewesen&language=de)
 
 **Meaning:** living being; creature
 **Plural:** Lebewesen

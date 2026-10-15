@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 6b"
 freq_rank: 856
 skip: false
+audio: "andererseits.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # andererseits
+
+![[andererseits.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/andererseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=andererseits&language=de)
 
 **Meaning:** on the other hand
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

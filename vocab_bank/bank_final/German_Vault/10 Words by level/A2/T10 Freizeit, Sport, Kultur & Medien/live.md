@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 6a"
 freq_rank: 4577
 skip: false
+audio: "live.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # live
+
+![[live.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/live/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=live&language=de)
 
 **Meaning:** live
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

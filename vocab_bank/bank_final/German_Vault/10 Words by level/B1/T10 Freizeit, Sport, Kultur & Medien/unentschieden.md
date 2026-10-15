@@ -12,11 +12,16 @@ id: "B5929"
 goethe_level: "B1"
 freq_rank: 3536
 skip: false
+audio: "unentschieden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unentschieden
+
+![[unentschieden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unentschieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unentschieden&language=de)
 
 **Meaning:** undecided; drawn (sport)
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

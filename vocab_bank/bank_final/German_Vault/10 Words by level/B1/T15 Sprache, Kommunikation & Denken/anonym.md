@@ -12,11 +12,16 @@ id: "B4118"
 netzwerk: "B1 K6 7b"
 freq_rank: 4061
 skip: false
+audio: "anonym.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # anonym
+
+![[anonym.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anonym/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anonym&language=de)
 
 **Meaning:** anonymous
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

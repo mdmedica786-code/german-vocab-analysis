@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0324"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Anhaltspunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anhaltspunkt
+
+![[Anhaltspunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anhaltspunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anhaltspunkt&language=de)
 
 **Meaning:** clue; indication; reference point
 **Plural:** Anhaltspunkte

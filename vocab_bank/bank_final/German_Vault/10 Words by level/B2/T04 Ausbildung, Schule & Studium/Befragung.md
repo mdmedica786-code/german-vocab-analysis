@@ -14,11 +14,16 @@ bank: "main"
 id: "B5845"
 freq_rank: 3130
 skip: false
+audio: "Befragung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Befragung
+
+![[Befragung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Befragung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befragung&language=de)
 
 **Meaning:** survey; questioning
 **Plural:** Befragungen

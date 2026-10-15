@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3318"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "verdrehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdrehen
+
+![[verdrehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verdrehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdrehen&language=de)
 
 **Meaning:** to twist; to distort; to roll (eyes)
 **Forms:** verdreht · verdrehte · hat verdreht

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2478"
 exam_use: ["Schreiben", "Hören"]
 skip: false
+audio: "teils.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # teils
+
+![[teils.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/teils/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teils&language=de)
 
 **Meaning:** partly
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

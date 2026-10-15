@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ausbildung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbildung&language=de)
+
 **Meaning:** training, education
 **Plural:** Ausbildungen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

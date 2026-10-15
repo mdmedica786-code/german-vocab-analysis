@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 10a"
 freq_rank: 219
 skip: false
+audio: "Beispiel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Beispiel
+
+![[Beispiel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beispiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beispiel&language=de)
 
 **Meaning:** example (for example)
 **Plural:** Beispiele

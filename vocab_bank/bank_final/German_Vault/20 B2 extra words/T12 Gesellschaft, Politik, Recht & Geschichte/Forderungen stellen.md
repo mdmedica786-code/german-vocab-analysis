@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Forderungen stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Forderungen%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forderungen%20stellen&language=de)
+
 **Meaning:** to make demands
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

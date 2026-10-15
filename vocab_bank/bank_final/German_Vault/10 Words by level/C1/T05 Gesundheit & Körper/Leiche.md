@@ -14,11 +14,16 @@ bank: "main"
 id: "B5419"
 freq_rank: 1898
 skip: false
+audio: "Leiche.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leiche
+
+![[Leiche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leiche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leiche&language=de)
 
 **Meaning:** corpse
 **Plural:** Leichen

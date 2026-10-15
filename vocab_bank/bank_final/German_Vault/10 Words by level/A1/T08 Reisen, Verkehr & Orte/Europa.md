@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Europa
 
+[▶️ YouGlish](https://youglish.com/pronounce/Europa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europa&language=de)
+
 **Meaning:** Europe
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2214"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wackelkontakt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wackelkontakt
+
+![[Wackelkontakt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wackelkontakt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wackelkontakt&language=de)
 
 **Meaning:** loose connection
 **Plural:** Wackelkontakte

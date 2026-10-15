@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1b"
 freq_rank: 5759
 skip: false
+audio: "Briefträger.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Briefträger
+
+![[Briefträger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brieftr%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brieftr%C3%A4ger&language=de)
 
 **Meaning:** postal carrier (m)
 **Plural:** Briefträger

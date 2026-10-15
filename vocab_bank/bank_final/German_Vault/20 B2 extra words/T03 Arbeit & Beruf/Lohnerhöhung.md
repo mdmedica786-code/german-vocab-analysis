@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0461"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Lohnerhöhung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lohnerhöhung
+
+![[Lohnerhöhung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lohnerh%C3%B6hung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lohnerh%C3%B6hung&language=de)
 
 **Meaning:** pay rise (wages)
 **Plural:** Lohnerhöhungen

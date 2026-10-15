@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3580"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Verwandlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwandlung
+
+![[Verwandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwandlung&language=de)
 
 **Meaning:** transformation; metamorphosis
 **Plural:** Verwandlungen

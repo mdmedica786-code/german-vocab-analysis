@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4146"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Krebspatient.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Krebspatient
+
+![[Krebspatient.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krebspatient/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebspatient&language=de)
 
 **Meaning:** cancer patient (male)
 **Plural:** Krebspatienten

@@ -15,11 +15,16 @@ id: "B4484"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Moll.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Moll
+
+![[Moll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Moll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moll&language=de)
 
 **Meaning:** minor (key)
 **Plural:** –

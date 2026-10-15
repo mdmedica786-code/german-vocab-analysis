@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Motto-Party
 
+[▶️ YouGlish](https://youglish.com/pronounce/Motto-Party/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motto-Party&language=de)
+
 **Meaning:** theme party
 **Plural:** Motto-Partys
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5697"
 freq_rank: 2819
 skip: false
+audio: "Soziologie.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Soziologie
+
+![[Soziologie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Soziologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Soziologie&language=de)
 
 **Meaning:** sociology
 **Plural:** –

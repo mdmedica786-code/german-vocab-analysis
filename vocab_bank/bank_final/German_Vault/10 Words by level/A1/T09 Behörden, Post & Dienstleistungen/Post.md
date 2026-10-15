@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 5b"
 freq_rank: 2095
 skip: false
+audio: "Post.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Post
+
+![[Post.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Post/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Post&language=de)
 
 **Meaning:** post; post office; mail
 **Plural:** –

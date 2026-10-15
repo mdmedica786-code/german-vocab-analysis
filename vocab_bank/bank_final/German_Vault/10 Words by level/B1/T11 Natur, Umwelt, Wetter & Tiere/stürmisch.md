@@ -12,11 +12,16 @@ id: "B4020"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "stürmisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stürmisch
+
+![[stürmisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%BCrmisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%BCrmisch&language=de)
 
 **Meaning:** stormy
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

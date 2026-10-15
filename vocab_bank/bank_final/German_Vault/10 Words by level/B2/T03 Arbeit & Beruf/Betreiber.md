@@ -14,11 +14,16 @@ bank: "main"
 id: "B5523"
 freq_rank: 2215
 skip: false
+audio: "Betreiber.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Betreiber
+
+![[Betreiber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betreiber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreiber&language=de)
 
 **Meaning:** operator; owner
 **Plural:** Betreiber

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2912"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Anschein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anschein
+
+![[Anschein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anschein&language=de)
 
 **Meaning:** appearance; semblance
 **Plural:** –

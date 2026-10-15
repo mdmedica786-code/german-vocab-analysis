@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 4694
 skip: false
+audio: "Kilogramm.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kilogramm
+
+![[Kilogramm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kilogramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kilogramm&language=de)
 
 **Meaning:** kilogram
 **Plural:** Kilogramm

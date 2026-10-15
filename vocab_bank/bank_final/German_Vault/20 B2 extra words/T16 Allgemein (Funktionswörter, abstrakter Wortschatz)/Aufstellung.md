@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2967"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Aufstellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufstellung
+
+![[Aufstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufstellung&language=de)
 
 **Meaning:** list; line-up; setting up
 **Plural:** Aufstellungen

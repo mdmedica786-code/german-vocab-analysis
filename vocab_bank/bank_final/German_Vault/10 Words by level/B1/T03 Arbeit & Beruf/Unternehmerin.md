@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 5759
 skip: false
+audio: "Unternehmerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unternehmerin
+
+![[Unternehmerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unternehmerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmerin&language=de)
 
 **Meaning:** entrepreneur; businesswoman
 **Plural:** Unternehmerinnen

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2a"
 freq_rank: 2019
 skip: false
+audio: "Brot.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Brot
+
+![[Brot.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brot&language=de)
 
 **Meaning:** bread
 **Plural:** Brote

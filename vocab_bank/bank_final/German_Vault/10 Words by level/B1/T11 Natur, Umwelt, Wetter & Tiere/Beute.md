@@ -15,11 +15,16 @@ id: "B4328"
 netzwerk: "B1 K7 12b"
 freq_rank: 3334
 skip: false
+audio: "Beute.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beute
+
+![[Beute.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beute&language=de)
 
 **Meaning:** prey
 **Plural:** –

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die U-Bahn
 
+[▶️ YouGlish](https://youglish.com/pronounce/U-Bahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=U-Bahn&language=de)
+
 **Meaning:** subway
 **Plural:** U-Bahnen
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

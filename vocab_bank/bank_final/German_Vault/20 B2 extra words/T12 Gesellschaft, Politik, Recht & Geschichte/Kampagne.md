@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3633"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Kampagne.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kampagne
+
+![[Kampagne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kampagne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kampagne&language=de)
 
 **Meaning:** campaign
 **Plural:** Kampagnen

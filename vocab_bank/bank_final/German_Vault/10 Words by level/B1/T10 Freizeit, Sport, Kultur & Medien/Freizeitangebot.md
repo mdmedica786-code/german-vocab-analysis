@@ -15,11 +15,16 @@ id: "B4896"
 netzwerk: "B1 K11 2a"
 freq_rank: 5759
 skip: false
+audio: "Freizeitangebot.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Freizeitangebot
+
+![[Freizeitangebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeitangebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitangebot&language=de)
 
 **Meaning:** recreational activity, leisure activity
 **Plural:** Freizeitangebote

@@ -12,11 +12,16 @@ id: "B5483"
 goethe_level: "B1"
 freq_rank: 2084
 skip: false
+audio: "durchschnittlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchschnittlich
+
+![[durchschnittlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchschnittlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchschnittlich&language=de)
 
 **Meaning:** average; on average
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4045"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "hinziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # hinziehen
+
+![[hinziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinziehen&language=de)
 
 **Meaning:** to attract; (sich) to drag on
 **Forms:** zieht hin · zog hin · hat hingezogen

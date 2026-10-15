@@ -14,11 +14,16 @@ bank: "main"
 id: "B5259"
 freq_rank: 1095
 skip: false
+audio: "Definition.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Definition
+
+![[Definition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Definition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Definition&language=de)
 
 **Meaning:** definition
 **Plural:** Definitionen

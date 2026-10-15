@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 6a"
 freq_rank: 587
 skip: false
+audio: "Tier.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tier
+
+![[Tier.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tier&language=de)
 
 **Meaning:** animal
 **Plural:** Tiere

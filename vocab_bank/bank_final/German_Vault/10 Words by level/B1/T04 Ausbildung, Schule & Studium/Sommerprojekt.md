@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Sommerprojekt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sommerprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sommerprojekt&language=de)
+
 **Meaning:** summer project
 **Plural:** Sommerprojekte
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

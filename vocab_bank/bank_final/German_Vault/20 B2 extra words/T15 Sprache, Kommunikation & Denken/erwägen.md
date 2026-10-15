@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0234"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erwägen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwägen
+
+![[erwägen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erw%C3%A4gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erw%C3%A4gen&language=de)
 
 **Meaning:** to consider; to contemplate
 **Forms:** erwägt · erwog · hat erwogen

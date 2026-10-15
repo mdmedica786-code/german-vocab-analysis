@@ -12,11 +12,16 @@ id: "B3137"
 netzwerk: "A2 K12 1b"
 freq_rank: 1553
 skip: false
+audio: "unendlich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unendlich
+
+![[unendlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unendlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unendlich&language=de)
 
 **Meaning:** infinite; endless
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

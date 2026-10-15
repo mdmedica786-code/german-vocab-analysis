@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4596"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "verzaubert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # verzaubert
+
+![[verzaubert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verzaubert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzaubert&language=de)
 
 **Meaning:** enchanted; spellbound
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

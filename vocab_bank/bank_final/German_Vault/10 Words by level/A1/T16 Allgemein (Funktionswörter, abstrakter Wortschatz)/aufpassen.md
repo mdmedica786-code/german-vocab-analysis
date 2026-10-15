@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 15a"
 freq_rank: 4032
 skip: false
+audio: "aufpassen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufpassen
+
+![[aufpassen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufpassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufpassen&language=de)
 
 **Meaning:** to pay attention
 **Forms:** passt auf · passte auf · hat aufgepasst

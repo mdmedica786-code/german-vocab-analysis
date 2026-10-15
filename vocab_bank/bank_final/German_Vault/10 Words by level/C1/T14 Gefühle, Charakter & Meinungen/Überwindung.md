@@ -14,11 +14,16 @@ bank: "main"
 id: "B6034"
 freq_rank: 4048
 skip: false
+audio: "Überwindung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überwindung
+
+![[Überwindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberwindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberwindung&language=de)
 
 **Meaning:** overcoming; effort
 **Plural:** –

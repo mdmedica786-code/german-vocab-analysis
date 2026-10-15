@@ -13,11 +13,16 @@ id: "B6277"
 goethe_level: "A2"
 freq_rank: 5310
 skip: false
+audio: "braten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # braten
+
+![[braten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/braten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=braten&language=de)
 
 **Meaning:** to fry; to roast
 **Forms:** brät · briet · hat gebraten

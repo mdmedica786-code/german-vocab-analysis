@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2857"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "einbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einbringen
+
+![[einbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einbringen&language=de)
 
 **Meaning:** to contribute; to bring in; to yield
 **Forms:** bringt ein · brachte ein · hat eingebracht

@@ -13,11 +13,16 @@ id: "B0539"
 netzwerk: "A1 K3 8"
 freq_rank: 5759
 skip: false
+audio: "würfeln.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # würfeln
+
+![[würfeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCrfeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCrfeln&language=de)
 
 **Meaning:** to roll (the dice)
 **Forms:** würfelt · würfelte · hat gewürfelt

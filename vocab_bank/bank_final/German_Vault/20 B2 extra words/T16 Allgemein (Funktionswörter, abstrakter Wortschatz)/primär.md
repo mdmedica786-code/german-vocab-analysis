@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2450"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "primär.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # primär
+
+![[primär.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/prim%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=prim%C3%A4r&language=de)
 
 **Meaning:** primary
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

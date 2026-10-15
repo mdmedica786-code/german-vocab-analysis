@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Double Feature
 
+[▶️ YouGlish](https://youglish.com/pronounce/Double%20Feature/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Double%20Feature&language=de)
+
 **Meaning:** double feature
 **Plural:** Double Features
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

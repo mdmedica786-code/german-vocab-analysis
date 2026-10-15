@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2261"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Thermoskanne.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Thermoskanne
+
+![[Thermoskanne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Thermoskanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thermoskanne&language=de)
 
 **Meaning:** thermos flask
 **Plural:** Thermoskannen

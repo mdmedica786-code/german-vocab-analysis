@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 9a"
 freq_rank: 2410
 skip: false
+audio: "Service.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Service
+
+![[Service.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Service/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Service&language=de)
 
 **Meaning:** service
 **Plural:** –

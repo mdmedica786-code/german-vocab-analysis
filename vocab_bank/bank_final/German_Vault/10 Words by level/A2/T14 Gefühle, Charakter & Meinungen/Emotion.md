@@ -15,11 +15,16 @@ id: "B2235"
 netzwerk: "A2 K4 9b"
 freq_rank: 2469
 skip: false
+audio: "Emotion.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Emotion
+
+![[Emotion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Emotion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Emotion&language=de)
 
 **Meaning:** emotion
 **Plural:** Emotionen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3209"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "erlernen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # erlernen
+
+![[erlernen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erlernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlernen&language=de)
 
 **Meaning:** to learn (thoroughly); to master
 **Forms:** erlernt · erlernte · hat erlernt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2472"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "objektiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # objektiv
+
+![[objektiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/objektiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=objektiv&language=de)
 
 **Meaning:** objective
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

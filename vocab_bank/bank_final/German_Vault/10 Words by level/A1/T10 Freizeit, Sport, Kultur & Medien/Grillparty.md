@@ -15,11 +15,16 @@ id: "B0651"
 netzwerk: "A1 K4 3b"
 freq_rank: 5759
 skip: false
+audio: "Grillparty.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grillparty
+
+![[Grillparty.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grillparty/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grillparty&language=de)
 
 **Meaning:** barbecue
 **Plural:** Grillpartys

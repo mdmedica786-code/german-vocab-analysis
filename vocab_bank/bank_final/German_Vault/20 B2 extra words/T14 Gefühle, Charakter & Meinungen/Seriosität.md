@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4405"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Seriosität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Seriosität
+
+![[Seriosität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seriosit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seriosit%C3%A4t&language=de)
 
 **Meaning:** seriousness; reliability
 **Plural:** –

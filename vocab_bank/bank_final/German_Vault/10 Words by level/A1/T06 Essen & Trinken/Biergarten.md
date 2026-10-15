@@ -15,11 +15,16 @@ id: "B1005"
 netzwerk: "A1 K6 14a"
 freq_rank: 5759
 skip: false
+audio: "Biergarten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Biergarten
+
+![[Biergarten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biergarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biergarten&language=de)
 
 **Meaning:** beer garden
 **Plural:** Biergärten

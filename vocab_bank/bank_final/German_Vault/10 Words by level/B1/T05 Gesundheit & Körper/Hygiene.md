@@ -15,11 +15,16 @@ id: "B3517"
 netzwerk: "B1 K3 1a"
 freq_rank: 4956
 skip: false
+audio: "Hygiene.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hygiene
+
+![[Hygiene.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hygiene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hygiene&language=de)
 
 **Meaning:** hygiene
 **Plural:** –

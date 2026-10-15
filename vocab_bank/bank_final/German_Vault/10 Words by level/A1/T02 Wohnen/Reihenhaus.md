@@ -15,11 +15,16 @@ id: "B1449"
 netzwerk: "A1 K9 10a"
 freq_rank: 5759
 skip: false
+audio: "Reihenhaus.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Reihenhaus
+
+![[Reihenhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reihenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reihenhaus&language=de)
 
 **Meaning:** townhouse
 **Plural:** Reihenhäuser

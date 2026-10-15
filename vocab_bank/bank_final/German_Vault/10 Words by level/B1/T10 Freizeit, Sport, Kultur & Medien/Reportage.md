@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Reportage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reportage
+
+![[Reportage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reportage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reportage&language=de)
 
 **Meaning:** report
 **Plural:** Reportagen

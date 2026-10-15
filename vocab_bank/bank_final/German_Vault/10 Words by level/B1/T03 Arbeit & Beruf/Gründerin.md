@@ -15,11 +15,16 @@ id: "B4666"
 netzwerk: "B1 K9 10b"
 freq_rank: 5759
 skip: false
+audio: "Gründerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gründerin
+
+![[Gründerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gr%C3%BCnderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gr%C3%BCnderin&language=de)
 
 **Meaning:** founder (f)
 **Plural:** Gründerinnen

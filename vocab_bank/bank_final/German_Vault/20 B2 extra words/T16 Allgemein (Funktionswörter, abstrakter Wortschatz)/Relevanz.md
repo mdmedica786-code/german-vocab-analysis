@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0381"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Relevanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Relevanz
+
+![[Relevanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Relevanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Relevanz&language=de)
 
 **Meaning:** relevance
 **Plural:** –

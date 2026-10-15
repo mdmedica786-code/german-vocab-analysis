@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4410"
 exam_use: ["Hören", "Alltag"]
 skip: false
-status: "new"
+audio: "Signalton.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Hören", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Signalton
+
+![[Signalton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Signalton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Signalton&language=de)
 
 **Meaning:** signal tone; beep
 **Plural:** Signaltöne

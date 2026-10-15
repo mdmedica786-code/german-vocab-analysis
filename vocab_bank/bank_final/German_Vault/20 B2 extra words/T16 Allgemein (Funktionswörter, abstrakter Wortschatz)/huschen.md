@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3265"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "huschen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # huschen
+
+![[huschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/huschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=huschen&language=de)
 
 **Meaning:** to dart; to flit; to scurry
 **Forms:** huscht · huschte · ist gehuscht

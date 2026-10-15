@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 9b"
 freq_rank: 1384
 skip: false
+audio: "Stern.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stern
+
+![[Stern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stern&language=de)
 
 **Meaning:** star
 **Plural:** Sterne

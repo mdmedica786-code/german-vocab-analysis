@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0999"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Volksfest.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Volksfest
+
+![[Volksfest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Volksfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volksfest&language=de)
 
 **Meaning:** public festival; fair
 **Plural:** Volksfeste

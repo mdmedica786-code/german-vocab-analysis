@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Gesellschaft leisten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gesellschaft%20leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesellschaft%20leisten&language=de)
+
 **Meaning:** to keep company
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

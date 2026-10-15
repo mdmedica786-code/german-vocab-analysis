@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 2708
 skip: false
+audio: "auflösen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auflösen
+
+![[auflösen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufl%C3%B6sen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufl%C3%B6sen&language=de)
 
 **Meaning:** to dissolve; to resolve
 **Forms:** löst auf · löste auf · hat aufgelöst

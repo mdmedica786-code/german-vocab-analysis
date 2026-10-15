@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4006"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Gestik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gestik
+
+![[Gestik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gestik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestik&language=de)
 
 **Meaning:** gestures; use of gestures
 **Plural:** –

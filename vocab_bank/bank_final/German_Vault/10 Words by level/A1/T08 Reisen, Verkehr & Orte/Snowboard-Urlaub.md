@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Snowboard-Urlaub
 
+[▶️ YouGlish](https://youglish.com/pronounce/Snowboard-Urlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Snowboard-Urlaub&language=de)
+
 **Meaning:** snowboarding holiday
 **Plural:** Snowboard-Urlaube
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

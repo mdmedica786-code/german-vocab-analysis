@@ -15,11 +15,16 @@ id: "B3174"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 3537
 skip: false
+audio: "Versand.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Versand
+
+![[Versand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versand&language=de)
 
 **Meaning:** shipping
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B3366"
 netzwerk: "B1 K1 13c"
 freq_rank: 9999
 skip: false
+audio: "Konzessivsatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konzessivsatz
+
+![[Konzessivsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzessivsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzessivsatz&language=de)
 
 **Meaning:** concessive clause
 **Plural:** Konzessivsätze

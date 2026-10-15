@@ -12,11 +12,16 @@ id: "B6404"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "donnerstags.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # donnerstags
+
+![[donnerstags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/donnerstags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=donnerstags&language=de)
 
 **Meaning:** on Thursdays
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

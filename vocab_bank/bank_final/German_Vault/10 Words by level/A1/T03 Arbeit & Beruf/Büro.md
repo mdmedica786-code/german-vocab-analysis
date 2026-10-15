@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 3a"
 freq_rank: 1219
 skip: false
+audio: "Büro.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Büro
+
+![[Büro.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCro&language=de)
 
 **Meaning:** office
 **Plural:** Büros

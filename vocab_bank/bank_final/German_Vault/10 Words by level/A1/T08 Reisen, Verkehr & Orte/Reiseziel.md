@@ -15,11 +15,16 @@ id: "B1852"
 netzwerk: "A1 K12 12a"
 freq_rank: 5759
 skip: false
+audio: "Reiseziel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Reiseziel
+
+![[Reiseziel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reiseziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reiseziel&language=de)
 
 **Meaning:** destination (travel)
 **Plural:** Reiseziele

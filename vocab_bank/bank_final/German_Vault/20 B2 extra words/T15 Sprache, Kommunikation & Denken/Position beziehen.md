@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Position beziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Position%20beziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Position%20beziehen&language=de)
+
 **Meaning:** to take a position
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

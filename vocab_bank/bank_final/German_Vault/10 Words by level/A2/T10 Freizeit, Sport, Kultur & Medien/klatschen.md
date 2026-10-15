@@ -13,11 +13,16 @@ id: "B2649"
 netzwerk: "A2 K7 11c"
 freq_rank: 5644
 skip: false
+audio: "klatschen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klatschen
+
+![[klatschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klatschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klatschen&language=de)
 
 **Meaning:** to clap
 **Forms:** klatscht · klatschte · hat geklatscht

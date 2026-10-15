@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2712"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "angreifen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # angreifen
+
+![[angreifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angreifen&language=de)
 
 **Meaning:** to attack; to criticise
 **Forms:** greift an · griff an · hat angegriffen

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 1a"
 freq_rank: 697
 skip: false
+audio: "Wohnung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wohnung
+
+![[Wohnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnung&language=de)
 
 **Meaning:** flat
 **Plural:** Wohnungen

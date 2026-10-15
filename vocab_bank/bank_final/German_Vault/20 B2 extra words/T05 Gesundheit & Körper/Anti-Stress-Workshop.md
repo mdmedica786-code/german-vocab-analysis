@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3716"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Anti-Stress-Workshop
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anti-Stress-Workshop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anti-Stress-Workshop&language=de)
 
 **Meaning:** anti-stress workshop
 **Plural:** Anti-Stress-Workshops

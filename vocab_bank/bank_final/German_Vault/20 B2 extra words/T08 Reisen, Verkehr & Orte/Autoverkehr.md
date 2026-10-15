@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3768"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Autoverkehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Autoverkehr
+
+![[Autoverkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autoverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoverkehr&language=de)
 
 **Meaning:** car traffic; motor traffic
 **Plural:** –

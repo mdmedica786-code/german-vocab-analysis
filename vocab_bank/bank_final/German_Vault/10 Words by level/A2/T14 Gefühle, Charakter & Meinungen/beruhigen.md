@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 8b"
 freq_rank: 1427
 skip: false
+audio: "beruhigen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beruhigen
+
+![[beruhigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beruhigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beruhigen&language=de)
 
 **Meaning:** to calm down
 **Forms:** beruhigt · beruhigte · hat beruhigt

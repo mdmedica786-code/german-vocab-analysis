@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 5759
 skip: false
+audio: "besichtigen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # besichtigen
+
+![[besichtigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besichtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besichtigen&language=de)
 
 **Meaning:** to view
 **Forms:** besichtigt · besichtigte · hat besichtigt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3874"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Druckerei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Druckerei
+
+![[Druckerei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Druckerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Druckerei&language=de)
 
 **Meaning:** print shop; printing company
 **Plural:** Druckereien

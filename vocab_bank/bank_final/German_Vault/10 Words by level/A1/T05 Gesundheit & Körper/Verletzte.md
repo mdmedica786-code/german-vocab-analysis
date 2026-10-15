@@ -15,11 +15,16 @@ id: "B1336"
 netzwerk: "A1 K8 13b"
 freq_rank: 2645
 skip: false
+audio: "Verletzte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # Verletzte
+
+![[Verletzte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verletzte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verletzte&language=de)
 
 **Meaning:** casualty
 **Plural:** Verletzten

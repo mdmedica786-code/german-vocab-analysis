@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4105"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kinderwunsch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kinderwunsch
+
+![[Kinderwunsch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderwunsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderwunsch&language=de)
 
 **Meaning:** desire to have children
 **Plural:** –

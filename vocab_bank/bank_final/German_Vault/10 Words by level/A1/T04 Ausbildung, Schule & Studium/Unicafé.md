@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Unicafé
 
+[▶️ YouGlish](https://youglish.com/pronounce/Unicaf%C3%A9/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unicaf%C3%A9&language=de)
+
 **Meaning:** uni café
 **Plural:** Unicafés
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

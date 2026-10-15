@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0518"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Untersuchungshaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Untersuchungshaft
+
+![[Untersuchungshaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untersuchungshaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untersuchungshaft&language=de)
 
 **Meaning:** pre-trial detention
 **Plural:** –

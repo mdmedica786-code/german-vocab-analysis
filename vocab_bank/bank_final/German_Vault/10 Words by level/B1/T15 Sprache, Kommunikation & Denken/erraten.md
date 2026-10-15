@@ -13,11 +13,16 @@ id: "B4582"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "erraten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erraten
+
+![[erraten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erraten&language=de)
 
 **Meaning:** to guess
 **Forms:** errät · erriet · hat erraten

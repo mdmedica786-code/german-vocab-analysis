@@ -12,11 +12,16 @@ id: "B3114"
 netzwerk: "A2 K11 12b"
 freq_rank: 3140
 skip: false
+audio: "effektiv.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # effektiv
+
+![[effektiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/effektiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=effektiv&language=de)
 
 **Meaning:** effective
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

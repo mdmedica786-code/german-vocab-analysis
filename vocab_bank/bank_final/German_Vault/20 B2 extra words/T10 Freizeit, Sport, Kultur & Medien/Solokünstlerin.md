@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4424"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Solokünstlerin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Solok%C3%BCnstlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solok%C3%BCnstlerin&language=de)
 
 **Meaning:** solo artist (female)
 **Plural:** Solokünstlerinnen

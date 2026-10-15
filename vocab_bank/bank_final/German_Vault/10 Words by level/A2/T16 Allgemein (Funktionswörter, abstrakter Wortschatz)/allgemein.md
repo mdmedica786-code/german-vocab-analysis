@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10c"
 freq_rank: 274
 skip: false
+audio: "allgemein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # allgemein
+
+![[allgemein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allgemein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allgemein&language=de)
 
 **Meaning:** general
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

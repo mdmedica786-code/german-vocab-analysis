@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2206"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Taschenrechner.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Taschenrechner
+
+![[Taschenrechner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taschenrechner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschenrechner&language=de)
 
 **Meaning:** calculator
 **Plural:** Taschenrechner

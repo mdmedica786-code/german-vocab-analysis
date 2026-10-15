@@ -14,11 +14,16 @@ bank: "main"
 id: "B5896"
 freq_rank: 3374
 skip: false
+audio: "Eigentümer.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eigentümer
+
+![[Eigentümer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigent%C3%BCmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigent%C3%BCmer&language=de)
 
 **Meaning:** owner
 **Plural:** Eigentümer

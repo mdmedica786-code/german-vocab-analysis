@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Sportlerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sportlerin
+
+![[Sportlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportlerin&language=de)
 
 **Meaning:** athlete (f)
 **Plural:** Sportlerinnen

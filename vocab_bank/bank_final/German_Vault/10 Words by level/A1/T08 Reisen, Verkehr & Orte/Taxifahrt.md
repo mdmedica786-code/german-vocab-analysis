@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Taxifahrt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Taxifahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxifahrt&language=de)
+
 **Meaning:** taxi ride
 **Plural:** Taxifahrten
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

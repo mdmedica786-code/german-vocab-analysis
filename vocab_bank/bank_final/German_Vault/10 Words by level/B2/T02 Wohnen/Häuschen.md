@@ -14,11 +14,16 @@ bank: "main"
 id: "B6196"
 freq_rank: 4847
 skip: false
+audio: "Häuschen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Häuschen
+
+![[Häuschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4uschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4uschen&language=de)
 
 **Meaning:** little house
 **Plural:** Häuschen

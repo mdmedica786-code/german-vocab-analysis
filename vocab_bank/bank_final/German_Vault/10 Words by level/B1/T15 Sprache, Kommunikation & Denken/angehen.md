@@ -13,11 +13,16 @@ id: "B4898"
 netzwerk: "B1 K11 4b"
 freq_rank: 3547
 skip: false
+audio: "angehen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # angehen
+
+![[angehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angehen&language=de)
 
 **Meaning:** to concern; to tackle
 **Forms:** geht an · ging an · ist angegangen

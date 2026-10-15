@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Clubdisco
 
+[▶️ YouGlish](https://youglish.com/pronounce/Clubdisco/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Clubdisco&language=de)
+
 **Meaning:** club disco
 **Plural:** Clubdiscos
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

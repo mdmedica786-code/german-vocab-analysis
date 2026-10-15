@@ -14,11 +14,16 @@ bank: "main"
 id: "B6327"
 freq_rank: 5664
 skip: false
+audio: "Brustkorb.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Brustkorb
+
+![[Brustkorb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brustkorb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brustkorb&language=de)
 
 **Meaning:** chest; thorax
 **Plural:** Brustkörbe

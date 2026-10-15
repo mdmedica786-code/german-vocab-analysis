@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3306"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Agentur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Agentur
+
+![[Agentur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Agentur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Agentur&language=de)
 
 **Meaning:** agency
 **Plural:** Agenturen

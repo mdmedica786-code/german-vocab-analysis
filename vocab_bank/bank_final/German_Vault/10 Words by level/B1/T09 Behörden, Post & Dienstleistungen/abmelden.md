@@ -13,11 +13,16 @@ id: "B4808"
 netzwerk: "B1 K10 7a"
 freq_rank: 5759
 skip: false
+audio: "abmelden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abmelden
+
+![[abmelden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abmelden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abmelden&language=de)
 
 **Meaning:** to deregister; to sign off
 **Forms:** meldet ab · meldete ab · hat abgemeldet

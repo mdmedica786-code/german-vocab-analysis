@@ -15,11 +15,16 @@ id: "B1740"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Reisetasche.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reisetasche
+
+![[Reisetasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reisetasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reisetasche&language=de)
 
 **Meaning:** holdall
 **Plural:** Reisetaschen

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9c"
 freq_rank: 3838
 skip: false
+audio: "Vormittag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vormittag
+
+![[Vormittag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vormittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vormittag&language=de)
 
 **Meaning:** morning (before noon)
 **Plural:** Vormittage

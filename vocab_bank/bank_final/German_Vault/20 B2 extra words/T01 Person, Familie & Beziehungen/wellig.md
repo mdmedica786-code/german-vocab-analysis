@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2342"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "wellig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # wellig
+
+![[wellig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wellig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wellig&language=de)
 
 **Meaning:** wavy
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

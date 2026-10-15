@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3745"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Aufräumarbeiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Aufräumarbeiten
+
+![[Aufräumarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufr%C3%A4umarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufr%C3%A4umarbeiten&language=de)
 
 **Meaning:** clean-up work; tidying up
 **Plural:** (Pl.)

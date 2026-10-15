@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 6c"
 freq_rank: 387
 skip: false
+audio: "bevor.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # bevor
+
+![[bevor.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bevor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bevor&language=de)
 
 **Meaning:** before
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10c"
 freq_rank: 970
 skip: false
+audio: "lieb.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # lieb
+
+![[lieb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lieb&language=de)
 
 **Meaning:** kind; dear; sweet
 **Forms:** lieber – am liebsten

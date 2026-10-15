@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3709"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "anheben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # anheben
+
+![[anheben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anheben&language=de)
 
 **Meaning:** to raise; to lift; to increase
 **Forms:** hebt an · hob an · hat angehoben

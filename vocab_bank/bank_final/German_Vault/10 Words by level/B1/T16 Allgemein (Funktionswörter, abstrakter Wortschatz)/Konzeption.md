@@ -15,11 +15,16 @@ id: "B5120"
 netzwerk: "B1 K12 11b"
 freq_rank: 2771
 skip: false
+audio: "Konzeption.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konzeption
+
+![[Konzeption.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzeption/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzeption&language=de)
 
 **Meaning:** concept; conception
 **Plural:** Konzeptionen

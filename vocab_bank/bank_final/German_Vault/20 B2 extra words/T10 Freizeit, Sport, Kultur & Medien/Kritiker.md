@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3135"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Kritiker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kritiker
+
+![[Kritiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kritiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kritiker&language=de)
 
 **Meaning:** critic
 **Plural:** Kritiker

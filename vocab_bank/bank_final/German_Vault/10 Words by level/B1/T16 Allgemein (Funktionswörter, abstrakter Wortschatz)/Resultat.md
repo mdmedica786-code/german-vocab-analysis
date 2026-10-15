@@ -15,11 +15,16 @@ id: "B3950"
 netzwerk: "B1 K5 4b"
 freq_rank: 2260
 skip: false
+audio: "Resultat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Resultat
+
+![[Resultat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Resultat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Resultat&language=de)
 
 **Meaning:** result
 **Plural:** Resultate

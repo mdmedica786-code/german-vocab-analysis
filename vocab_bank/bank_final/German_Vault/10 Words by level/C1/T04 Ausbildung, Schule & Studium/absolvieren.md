@@ -12,11 +12,16 @@ bank: "main"
 id: "B6216"
 freq_rank: 4943
 skip: false
+audio: "absolvieren.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # absolvieren
+
+![[absolvieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/absolvieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=absolvieren&language=de)
 
 **Meaning:** to complete (a course)
 **Forms:** absolviert · absolvierte · hat absolviert

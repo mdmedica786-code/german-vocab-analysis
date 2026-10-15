@@ -15,11 +15,16 @@ id: "B3399"
 netzwerk: "B1 K2 4a"
 freq_rank: 4785
 skip: false
+audio: "Kopfhörer.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kopfhörer
+
+![[Kopfhörer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kopfh%C3%B6rer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopfh%C3%B6rer&language=de)
 
 **Meaning:** headphones
 **Plural:** Kopfhörer

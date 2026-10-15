@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4618"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Warenverkehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Warenverkehr
+
+![[Warenverkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Warenverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warenverkehr&language=de)
 
 **Meaning:** movement of goods; trade in goods
 **Plural:** –

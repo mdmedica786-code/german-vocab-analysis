@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2297"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "durchsichtig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchsichtig
+
+![[durchsichtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchsichtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchsichtig&language=de)
 
 **Meaning:** transparent; see-through
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

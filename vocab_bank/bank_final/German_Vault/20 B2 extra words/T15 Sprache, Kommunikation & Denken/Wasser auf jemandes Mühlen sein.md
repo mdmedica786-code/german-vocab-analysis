@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Wasser auf jemandes Mühlen sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wasser%20auf%20jemandes%20M%C3%BChlen%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasser%20auf%20jemandes%20M%C3%BChlen%20sein&language=de)
+
 **Meaning:** to be grist to someone's mill
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6374"
 freq_rank: 5759
 skip: false
+audio: "Beteiligte.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Beteiligte
+
+![[Beteiligte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beteiligte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beteiligte&language=de)
 
 **Meaning:** person involved; participant
 **Plural:** Beteiligten

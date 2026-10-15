@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4361"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Rückenübung
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCcken%C3%BCbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCcken%C3%BCbung&language=de)
 
 **Meaning:** back exercise
 **Plural:** Rückenübungen

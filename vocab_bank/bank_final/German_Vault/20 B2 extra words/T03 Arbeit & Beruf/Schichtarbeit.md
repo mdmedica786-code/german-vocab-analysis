@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0414"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Schichtarbeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schichtarbeit
+
+![[Schichtarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schichtarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schichtarbeit&language=de)
 
 **Meaning:** shift work
 **Plural:** –

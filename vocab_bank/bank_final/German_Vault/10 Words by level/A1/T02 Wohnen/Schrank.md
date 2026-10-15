@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 1a"
 freq_rank: 3236
 skip: false
+audio: "Schrank.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schrank
+
+![[Schrank.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schrank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schrank&language=de)
 
 **Meaning:** wardrobe, cupboard
 **Plural:** Schränke

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3853"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "dahaben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # dahaben
+
+![[dahaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dahaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dahaben&language=de)
 
 **Meaning:** to have in stock; to have at home
 **Forms:** hat da · hatte da · hat dagehabt

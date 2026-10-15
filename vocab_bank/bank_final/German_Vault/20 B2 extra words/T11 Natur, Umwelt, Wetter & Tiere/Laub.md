@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3638"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Laub.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Laub
+
+![[Laub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laub&language=de)
 
 **Meaning:** foliage; fallen leaves
 **Plural:** –

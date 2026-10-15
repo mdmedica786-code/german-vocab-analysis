@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 3a"
 freq_rank: 617
 skip: false
+audio: "klingen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klingen
+
+![[klingen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klingen&language=de)
 
 **Meaning:** to sound
 **Forms:** klingt · klang · hat geklungen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1722"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "schnarchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # schnarchen
+
+![[schnarchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schnarchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schnarchen&language=de)
 
 **Meaning:** to snore
 **Forms:** schnarcht · schnarchte · hat geschnarcht

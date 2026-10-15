@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2007"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Lichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lichtung
+
+![[Lichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lichtung&language=de)
 
 **Meaning:** clearing
 **Plural:** Lichtungen

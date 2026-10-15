@@ -13,11 +13,16 @@ id: "B3040"
 netzwerk: "A2 K11 1a"
 freq_rank: 1548
 skip: false
+audio: "vergehen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergehen
+
+![[vergehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergehen&language=de)
 
 **Meaning:** to pass (time); to go by
 **Forms:** vergeht · verging · ist vergangen

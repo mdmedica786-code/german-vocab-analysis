@@ -15,11 +15,16 @@ id: "B3733"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 4819
 skip: false
+audio: "Rechtsanwalt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rechtsanwalt
+
+![[Rechtsanwalt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechtsanwalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsanwalt&language=de)
 
 **Meaning:** lawyer (m)
 **Plural:** Rechtsanwälte

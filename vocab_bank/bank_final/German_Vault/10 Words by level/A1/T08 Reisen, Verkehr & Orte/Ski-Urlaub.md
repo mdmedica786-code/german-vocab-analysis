@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Ski-Urlaub
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ski-Urlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ski-Urlaub&language=de)
+
 **Meaning:** skiing holiday
 **Plural:** Ski-Urlaube
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "main"
 id: "B5387"
 freq_rank: 1734
 skip: false
+audio: "prägen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # prägen
+
+![[prägen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pr%C3%A4gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pr%C3%A4gen&language=de)
 
 **Meaning:** to shape; to influence
 **Forms:** prägt · prägte · hat geprägt

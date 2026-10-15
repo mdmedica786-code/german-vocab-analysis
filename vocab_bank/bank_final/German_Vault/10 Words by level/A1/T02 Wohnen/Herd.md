@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 1a"
 freq_rank: 4290
 skip: false
+audio: "Herd.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Herd
+
+![[Herd.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herd&language=de)
 
 **Meaning:** stove
 **Plural:** Herde

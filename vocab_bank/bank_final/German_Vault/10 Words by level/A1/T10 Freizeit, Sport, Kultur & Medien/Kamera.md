@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 10a"
 freq_rank: 2387
 skip: false
+audio: "Kamera.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kamera
+
+![[Kamera.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kamera/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kamera&language=de)
 
 **Meaning:** camera
 **Plural:** Kameras

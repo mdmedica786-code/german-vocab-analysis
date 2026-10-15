@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2827"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "ansetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansetzen
+
+![[ansetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansetzen&language=de)
 
 **Meaning:** to schedule; to start; to apply
 **Forms:** setzt an · setzte an · hat angesetzt

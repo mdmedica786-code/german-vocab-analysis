@@ -14,11 +14,16 @@ bank: "main"
 id: "B5883"
 freq_rank: 3297
 skip: false
+audio: "Ertrag.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ertrag
+
+![[Ertrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ertrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ertrag&language=de)
 
 **Meaning:** yield; profit
 **Plural:** Erträge

@@ -15,11 +15,16 @@ id: "B1360"
 netzwerk: "A1 K9 1a"
 freq_rank: 1874
 skip: false
+audio: "Schreibtisch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schreibtisch
+
+![[Schreibtisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schreibtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreibtisch&language=de)
 
 **Meaning:** desk
 **Plural:** Schreibtische

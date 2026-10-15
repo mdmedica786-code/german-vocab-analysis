@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1041"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Bonität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bonität
+
+![[Bonität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bonit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bonit%C3%A4t&language=de)
 
 **Meaning:** creditworthiness
 **Plural:** –

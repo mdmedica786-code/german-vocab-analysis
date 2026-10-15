@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1471"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Berechtigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berechtigung
+
+![[Berechtigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berechtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berechtigung&language=de)
 
 **Meaning:** entitlement; justification
 **Plural:** Berechtigungen

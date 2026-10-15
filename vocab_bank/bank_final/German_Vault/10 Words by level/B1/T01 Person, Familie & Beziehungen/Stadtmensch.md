@@ -15,11 +15,16 @@ id: "B4897"
 netzwerk: "B1 K11 4a"
 freq_rank: 5759
 skip: false
+audio: "Stadtmensch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtmensch
+
+![[Stadtmensch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtmensch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtmensch&language=de)
 
 **Meaning:** townie
 **Plural:** Stadtmenschen

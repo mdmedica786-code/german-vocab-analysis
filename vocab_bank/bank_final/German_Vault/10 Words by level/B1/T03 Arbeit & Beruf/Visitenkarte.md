@@ -15,11 +15,16 @@ id: "B6598"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Visitenkarte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Visitenkarte
+
+![[Visitenkarte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Visitenkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Visitenkarte&language=de)
 
 **Meaning:** business card
 **Plural:** Visitenkarten

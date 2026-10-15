@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 1482
 skip: false
+audio: "Realität.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Realität
+
+![[Realität.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Realit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Realit%C3%A4t&language=de)
 
 **Meaning:** reality
 **Plural:** Realitäten

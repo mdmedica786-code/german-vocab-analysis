@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 4b"
 freq_rank: 5759
 skip: false
+audio: "Übernachtung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übernachtung
+
+![[Übernachtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbernachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbernachtung&language=de)
 
 **Meaning:** overnight stay
 **Plural:** Übernachtungen

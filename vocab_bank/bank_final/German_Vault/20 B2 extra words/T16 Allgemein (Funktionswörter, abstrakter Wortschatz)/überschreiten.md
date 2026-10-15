@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0905"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "überschreiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # überschreiten
+
+![[überschreiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberschreiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberschreiten&language=de)
 
 **Meaning:** to exceed; to cross
 **Forms:** überschreitet · überschritt · hat überschritten

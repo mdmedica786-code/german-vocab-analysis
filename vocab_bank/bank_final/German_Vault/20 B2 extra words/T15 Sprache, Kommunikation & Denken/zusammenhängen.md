@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0913"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zusammenhängen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenhängen
+
+![[zusammenhängen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenh%C3%A4ngen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenh%C3%A4ngen&language=de)
 
 **Meaning:** to be connected; to be related
 **Forms:** hängt zusammen · hing zusammen · hat zusammengehangen

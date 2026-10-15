@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3358"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Schätzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schätzung
+
+![[Schätzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%A4tzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%A4tzung&language=de)
 
 **Meaning:** estimate; estimation
 **Plural:** Schätzungen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 11"
 freq_rank: 446
 skip: false
+audio: "Rolle.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rolle
+
+![[Rolle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rolle&language=de)
 
 **Meaning:** role
 **Plural:** Rollen

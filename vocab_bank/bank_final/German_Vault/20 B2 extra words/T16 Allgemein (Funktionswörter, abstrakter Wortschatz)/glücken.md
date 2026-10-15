@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0247"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "glücken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # glücken
+
+![[glücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gl%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%BCcken&language=de)
 
 **Meaning:** to succeed; to work out
 **Forms:** glückt · glückte · ist geglückt

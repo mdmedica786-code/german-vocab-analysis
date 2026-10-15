@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0326"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Anspannung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anspannung
+
+![[Anspannung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anspannung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anspannung&language=de)
 
 **Meaning:** tension; strain
 **Plural:** Anspannungen

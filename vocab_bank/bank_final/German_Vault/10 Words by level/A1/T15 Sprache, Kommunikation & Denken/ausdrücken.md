@@ -13,11 +13,16 @@ id: "B1339"
 netzwerk: "A1 K8 13b"
 freq_rank: 1670
 skip: false
+audio: "ausdrücken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausdrücken
+
+![[ausdrücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausdr%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausdr%C3%BCcken&language=de)
 
 **Meaning:** to express
 **Forms:** drückt aus · drückte aus · hat ausgedrückt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3805"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Bestrahlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Bestrahlung
+
+![[Bestrahlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bestrahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestrahlung&language=de)
 
 **Meaning:** radiation treatment; irradiation
 **Plural:** Bestrahlungen

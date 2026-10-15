@@ -13,11 +13,16 @@ id: "B6594"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "verpflegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verpflegen
+
+![[verpflegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verpflegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verpflegen&language=de)
 
 **Meaning:** to provide with food; to cater for
 **Forms:** verpflegt · verpflegte · hat verpflegt

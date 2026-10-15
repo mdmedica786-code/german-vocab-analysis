@@ -11,11 +11,16 @@ bank: "main"
 id: "B5373"
 freq_rank: 1669
 skip: false
+audio: "allzu.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # allzu
+
+![[allzu.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allzu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allzu&language=de)
 
 **Meaning:** all too; too
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

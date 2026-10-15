@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2075"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "auf Granit beißen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auf Granit beißen
+
+![[auf Granit beißen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20Granit%20bei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20Granit%20bei%C3%9Fen&language=de)
 
 **Meaning:** to meet with stubborn resistance
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

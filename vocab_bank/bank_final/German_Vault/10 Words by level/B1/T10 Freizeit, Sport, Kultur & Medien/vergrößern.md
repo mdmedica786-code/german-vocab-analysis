@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 4830
 skip: false
+audio: "vergrößern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergrößern
+
+![[vergrößern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergr%C3%B6%C3%9Fern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergr%C3%B6%C3%9Fern&language=de)
 
 **Meaning:** to enlarge
 **Forms:** vergrößert · vergrößerte · hat vergrößert

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Wohnungsübergabe
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnungs%C3%BCbergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnungs%C3%BCbergabe&language=de)
+
 **Meaning:** handover of the flat
 **Plural:** Wohnungsübergaben
 **Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

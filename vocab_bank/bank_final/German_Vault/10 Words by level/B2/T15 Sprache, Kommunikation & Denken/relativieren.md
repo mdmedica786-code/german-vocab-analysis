@@ -13,11 +13,16 @@ id: "B4716"
 netzwerk: "B1 K9 13b"
 freq_rank: 5759
 skip: false
+audio: "relativieren.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # relativieren
+
+![[relativieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/relativieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=relativieren&language=de)
 
 **Meaning:** to put into perspective; to qualify
 **Forms:** relativiert · relativierte · hat relativiert

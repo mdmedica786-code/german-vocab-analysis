@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # liegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/liegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=liegen&language=de)
+
 **Meaning:** to lie; to be located
 **Other senses:** to lie; to lie, to be located
 **Forms:** liegt · lag · hat gelegen

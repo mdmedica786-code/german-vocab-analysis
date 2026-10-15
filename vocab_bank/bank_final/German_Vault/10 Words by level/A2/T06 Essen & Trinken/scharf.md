@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 10 ÜB"
 freq_rank: 1239
 skip: false
+audio: "scharf.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # scharf
+
+![[scharf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/scharf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scharf&language=de)
 
 **Meaning:** spicy; sharp
 **Other senses:** sharp

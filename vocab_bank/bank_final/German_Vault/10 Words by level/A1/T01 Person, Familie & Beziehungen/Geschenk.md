@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 2005
 skip: false
+audio: "Geschenk.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geschenk
+
+![[Geschenk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschenk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschenk&language=de)
 
 **Meaning:** present
 **Plural:** Geschenke

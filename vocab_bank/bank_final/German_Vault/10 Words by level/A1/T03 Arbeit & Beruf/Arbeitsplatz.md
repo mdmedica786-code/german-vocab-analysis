@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 1 ÜB"
 freq_rank: 2499
 skip: false
+audio: "Arbeitsplatz.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsplatz
+
+![[Arbeitsplatz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsplatz&language=de)
 
 **Meaning:** workplace
 **Plural:** Arbeitsplätze

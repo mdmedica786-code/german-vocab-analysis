@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Versandart
 
+[▶️ YouGlish](https://youglish.com/pronounce/Versandart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versandart&language=de)
+
 **Meaning:** shipping method
 **Plural:** Versandarten
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

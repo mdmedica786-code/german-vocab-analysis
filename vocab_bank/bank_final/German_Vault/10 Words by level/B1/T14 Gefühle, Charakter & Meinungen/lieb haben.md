@@ -13,11 +13,16 @@ id: "B3638"
 netzwerk: "B1 K3 6b"
 freq_rank: 3000
 skip: false
+audio: "lieb haben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lieb haben
+
+![[lieb haben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lieb%20haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lieb%20haben&language=de)
 
 **Meaning:** to love
 **Forms:** hat lieb · hatte lieb · hat lieb gehabt

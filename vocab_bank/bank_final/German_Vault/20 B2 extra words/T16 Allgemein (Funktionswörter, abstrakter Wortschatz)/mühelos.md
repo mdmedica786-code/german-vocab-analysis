@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3522"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "mühelos.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # mühelos
+
+![[mühelos.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%BChelos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%BChelos&language=de)
 
 **Meaning:** effortless; easy
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

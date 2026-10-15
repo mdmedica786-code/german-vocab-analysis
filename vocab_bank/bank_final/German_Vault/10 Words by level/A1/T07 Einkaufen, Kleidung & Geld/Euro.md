@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 1104
 skip: false
+audio: "Euro.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Euro
+
+![[Euro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Euro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Euro&language=de)
 
 **Meaning:** euro
 **Plural:** Euros

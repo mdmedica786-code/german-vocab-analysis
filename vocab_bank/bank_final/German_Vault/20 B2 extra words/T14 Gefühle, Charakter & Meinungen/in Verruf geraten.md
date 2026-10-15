@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Verruf geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Verruf%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Verruf%20geraten&language=de)
+
 **Meaning:** to get a bad name
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

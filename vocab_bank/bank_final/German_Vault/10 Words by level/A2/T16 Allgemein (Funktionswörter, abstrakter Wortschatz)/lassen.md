@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 64
 skip: false
+audio: "lassen (3).wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lassen
+
+![[lassen (3).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lassen&language=de)
 
 **Meaning:** to leave; to let
 **Forms:** lässt · ließ · hat gelassen

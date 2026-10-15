@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 2b"
 freq_rank: 1981
 skip: false
+audio: "Kette.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kette
+
+![[Kette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kette&language=de)
 
 **Meaning:** necklace
 **Plural:** Ketten

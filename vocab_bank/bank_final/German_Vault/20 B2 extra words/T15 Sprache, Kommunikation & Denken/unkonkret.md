@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4544"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unkonkret
+
+[▶️ YouGlish](https://youglish.com/pronounce/unkonkret/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unkonkret&language=de)
 
 **Meaning:** vague; not concrete
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

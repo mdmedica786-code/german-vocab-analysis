@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wann
 
+[▶️ YouGlish](https://youglish.com/pronounce/wann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wann&language=de)
+
 **Meaning:** when
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

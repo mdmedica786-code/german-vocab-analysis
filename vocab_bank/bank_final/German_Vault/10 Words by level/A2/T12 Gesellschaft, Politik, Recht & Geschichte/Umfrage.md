@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 6a"
 freq_rank: 2000
 skip: false
+audio: "Umfrage.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umfrage
+
+![[Umfrage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umfrage&language=de)
 
 **Meaning:** survey
 **Plural:** Umfragen

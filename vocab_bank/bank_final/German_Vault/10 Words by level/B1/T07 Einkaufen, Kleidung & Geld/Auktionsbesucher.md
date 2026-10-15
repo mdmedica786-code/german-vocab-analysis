@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Auktionsbesucher
 
+[▶️ YouGlish](https://youglish.com/pronounce/Auktionsbesucher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auktionsbesucher&language=de)
+
 **Meaning:** auction visitor (m)
 **Plural:** Auktionsbesucher
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

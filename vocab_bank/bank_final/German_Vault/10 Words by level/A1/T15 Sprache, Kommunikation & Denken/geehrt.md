@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 8b"
 freq_rank: 4099
 skip: false
+audio: "geehrt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # geehrt
+
+![[geehrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geehrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geehrt&language=de)
 
 **Meaning:** honoured
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

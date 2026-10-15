@@ -13,11 +13,16 @@ id: "B5580"
 goethe_level: "B1"
 freq_rank: 2405
 skip: false
+audio: "anerkennen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anerkennen
+
+![[anerkennen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anerkennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anerkennen&language=de)
 
 **Meaning:** to recognise; to acknowledge
 **Forms:** erkennt an · erkannte an · hat anerkannt

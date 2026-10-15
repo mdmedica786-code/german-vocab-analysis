@@ -14,11 +14,16 @@ bank: "main"
 id: "B5707"
 freq_rank: 2843
 skip: false
+audio: "Datenschutz.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Datenschutz
+
+![[Datenschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datenschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datenschutz&language=de)
 
 **Meaning:** data protection
 **Plural:** –

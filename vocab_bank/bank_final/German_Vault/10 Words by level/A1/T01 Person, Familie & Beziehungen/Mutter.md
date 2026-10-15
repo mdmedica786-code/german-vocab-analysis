@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7a"
 freq_rank: 204
 skip: false
+audio: "Mutter.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mutter
+
+![[Mutter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mutter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mutter&language=de)
 
 **Meaning:** mother
 **Plural:** Mütter

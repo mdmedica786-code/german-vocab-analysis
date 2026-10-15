@@ -13,11 +13,16 @@ id: "B2982"
 netzwerk: "A2 K10 6c"
 freq_rank: 5759
 skip: false
+audio: "verirren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verirren
+
+![[verirren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verirren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verirren&language=de)
 
 **Meaning:** to get lost
 **Forms:** verirrt · verirrte · hat verirrt

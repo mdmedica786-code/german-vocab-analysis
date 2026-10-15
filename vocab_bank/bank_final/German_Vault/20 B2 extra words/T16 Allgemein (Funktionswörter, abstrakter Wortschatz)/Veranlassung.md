@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3595"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Veranlassung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Veranlassung
+
+![[Veranlassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Veranlassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Veranlassung&language=de)
 
 **Meaning:** reason; cause; initiative
 **Plural:** Veranlassungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1474"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Beweislast.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beweislast
+
+![[Beweislast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beweislast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beweislast&language=de)
 
 **Meaning:** burden of proof
 **Plural:** –

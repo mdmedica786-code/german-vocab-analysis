@@ -15,11 +15,16 @@ id: "B6297"
 goethe_level: "B1"
 freq_rank: 5462
 skip: false
+audio: "Quartier.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Quartier
+
+![[Quartier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quartier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quartier&language=de)
 
 **Meaning:** accommodation; district
 **Plural:** Quartiere

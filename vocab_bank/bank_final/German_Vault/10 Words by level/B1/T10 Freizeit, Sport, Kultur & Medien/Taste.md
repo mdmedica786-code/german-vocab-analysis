@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b"
 freq_rank: 4496
 skip: false
+audio: "Taste.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taste
+
+![[Taste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taste&language=de)
 
 **Meaning:** key
 **Plural:** Tasten

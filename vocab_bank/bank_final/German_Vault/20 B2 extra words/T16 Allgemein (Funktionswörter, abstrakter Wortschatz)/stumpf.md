@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2333"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "stumpf.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # stumpf
+
+![[stumpf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stumpf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stumpf&language=de)
 
 **Meaning:** blunt; dull
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0349"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ergänzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ergänzung
+
+![[Ergänzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erg%C3%A4nzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erg%C3%A4nzung&language=de)
 
 **Meaning:** addition; supplement
 **Plural:** Ergänzungen

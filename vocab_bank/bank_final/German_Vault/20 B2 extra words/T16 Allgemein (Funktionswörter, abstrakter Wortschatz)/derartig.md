@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2468"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "derartig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # derartig
+
+![[derartig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/derartig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=derartig&language=de)
 
 **Meaning:** such; of that kind
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

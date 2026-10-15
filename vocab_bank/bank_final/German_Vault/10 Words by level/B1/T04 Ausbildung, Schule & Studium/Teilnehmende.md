@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # Teilnehmende
 
+[▶️ YouGlish](https://youglish.com/pronounce/Teilnehmende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilnehmende&language=de)
+
 **Meaning:** participant
 **Plural:** Teilnehmenden
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

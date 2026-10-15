@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1225"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "auswechseln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # auswechseln
+
+![[auswechseln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auswechseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswechseln&language=de)
 
 **Meaning:** to replace; to substitute
 **Forms:** wechselt aus · wechselte aus · hat ausgewechselt

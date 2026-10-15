@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3191"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vorhandensein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vorhandensein
+
+![[Vorhandensein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorhandensein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorhandensein&language=de)
 
 **Meaning:** presence; existence
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0475"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Bundesverfassungsgericht.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bundesverfassungsgericht
+
+![[Bundesverfassungsgericht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesverfassungsgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesverfassungsgericht&language=de)
 
 **Meaning:** Federal Constitutional Court
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1935"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Fremdwort.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fremdwort
+
+![[Fremdwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fremdwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdwort&language=de)
 
 **Meaning:** foreign word; loanword
 **Plural:** Fremdwörter

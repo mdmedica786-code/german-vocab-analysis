@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 1507
 skip: false
+audio: "Beruf.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beruf
+
+![[Beruf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beruf&language=de)
 
 **Meaning:** occupation
 **Plural:** Berufe

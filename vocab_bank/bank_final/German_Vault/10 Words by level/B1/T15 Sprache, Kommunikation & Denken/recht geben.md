@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # recht geben
 
+[▶️ YouGlish](https://youglish.com/pronounce/recht%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recht%20geben&language=de)
+
 **Meaning:** to agree
 **Forms:** gibt recht · gab recht · hat recht gegeben
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

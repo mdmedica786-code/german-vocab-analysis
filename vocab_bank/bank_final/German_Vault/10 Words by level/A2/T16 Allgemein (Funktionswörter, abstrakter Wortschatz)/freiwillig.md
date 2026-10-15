@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 7a"
 freq_rank: 1832
 skip: false
+audio: "freiwillig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # freiwillig
+
+![[freiwillig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freiwillig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freiwillig&language=de)
 
 **Meaning:** voluntarily
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

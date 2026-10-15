@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # im Widerspruch stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/im%20Widerspruch%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=im%20Widerspruch%20stehen&language=de)
+
 **Meaning:** to contradict; to be at odds
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

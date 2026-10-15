@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 4278
 skip: false
+audio: "Fabrik.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fabrik
+
+![[Fabrik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fabrik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fabrik&language=de)
 
 **Meaning:** factory
 **Plural:** Fabriken

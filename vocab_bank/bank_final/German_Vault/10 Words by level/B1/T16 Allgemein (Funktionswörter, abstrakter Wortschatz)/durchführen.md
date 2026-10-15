@@ -13,11 +13,16 @@ id: "B4818"
 netzwerk: "B1 K10 7b"
 freq_rank: 812
 skip: false
+audio: "durchführen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchführen
+
+![[durchführen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchf%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchf%C3%BChren&language=de)
 
 **Meaning:** to carry out; to conduct
 **Forms:** führt durch · führte durch · hat durchgeführt

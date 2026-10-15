@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3029"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Optimierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Optimierung
+
+![[Optimierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Optimierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Optimierung&language=de)
 
 **Meaning:** optimisation
 **Plural:** Optimierungen

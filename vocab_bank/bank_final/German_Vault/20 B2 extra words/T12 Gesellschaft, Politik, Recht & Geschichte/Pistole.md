@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2809"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Pistole.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pistole
+
+![[Pistole.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pistole/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pistole&language=de)
 
 **Meaning:** pistol
 **Plural:** Pistolen

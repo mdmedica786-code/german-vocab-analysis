@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Tiermalerei
 
+[▶️ YouGlish](https://youglish.com/pronounce/Tiermalerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiermalerei&language=de)
+
 **Meaning:** animal painting
 **Plural:** Tiermalereien
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

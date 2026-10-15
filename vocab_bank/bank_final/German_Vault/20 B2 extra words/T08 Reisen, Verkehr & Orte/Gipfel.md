@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0739"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Gipfel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gipfel
+
+![[Gipfel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gipfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gipfel&language=de)
 
 **Meaning:** summit; peak
 **Plural:** Gipfel

@@ -15,11 +15,16 @@ id: "B3296"
 netzwerk: "B1 K1 7"
 freq_rank: 5759
 skip: false
+audio: "Skilift.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Skilift
+
+![[Skilift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skilift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skilift&language=de)
 
 **Meaning:** ski lift
 **Plural:** Skilifte

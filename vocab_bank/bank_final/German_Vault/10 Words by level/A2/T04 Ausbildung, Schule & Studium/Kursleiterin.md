@@ -15,11 +15,16 @@ id: "B2666"
 netzwerk: "A2 K8 1b"
 freq_rank: 5759
 skip: false
+audio: "Kursleiterin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kursleiterin
+
+![[Kursleiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kursleiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursleiterin&language=de)
 
 **Meaning:** course leader (f)
 **Plural:** Kursleiterinnen

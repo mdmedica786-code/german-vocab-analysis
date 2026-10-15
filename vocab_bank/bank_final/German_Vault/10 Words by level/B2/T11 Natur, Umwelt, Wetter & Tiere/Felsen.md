@@ -14,11 +14,16 @@ bank: "main"
 id: "B5586"
 freq_rank: 2422
 skip: false
+audio: "Felsen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Felsen
+
+![[Felsen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Felsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Felsen&language=de)
 
 **Meaning:** rock; cliff
 **Plural:** Felsen

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 3a"
 freq_rank: 5311
 skip: false
+audio: "fleißig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fleißig
+
+![[fleißig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/flei%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=flei%C3%9Fig&language=de)
 
 **Meaning:** hardworking
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

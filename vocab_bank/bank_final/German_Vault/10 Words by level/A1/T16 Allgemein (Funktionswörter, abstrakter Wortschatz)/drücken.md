@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 2a"
 freq_rank: 559
 skip: false
+audio: "drücken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drücken
+
+![[drücken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dr%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dr%C3%BCcken&language=de)
 
 **Meaning:** to press; to push; to squeeze
 **Forms:** drückt · drückte · hat gedrückt

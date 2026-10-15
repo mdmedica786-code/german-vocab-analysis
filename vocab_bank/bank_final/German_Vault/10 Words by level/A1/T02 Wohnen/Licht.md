@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 464
 skip: false
+audio: "Licht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Licht
+
+![[Licht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Licht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Licht&language=de)
 
 **Meaning:** light
 **Plural:** Lichter

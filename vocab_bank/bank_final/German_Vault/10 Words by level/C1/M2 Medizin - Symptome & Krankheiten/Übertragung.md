@@ -14,11 +14,16 @@ bank: "main"
 id: "B5562"
 freq_rank: 2348
 skip: false
+audio: "Übertragung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übertragung
+
+![[Übertragung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbertragung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbertragung&language=de)
 
 **Meaning:** transmission; transfer; broadcast
 **Plural:** Übertragungen

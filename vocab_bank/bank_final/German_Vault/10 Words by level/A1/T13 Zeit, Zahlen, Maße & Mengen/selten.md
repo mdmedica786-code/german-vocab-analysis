@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 11d"
 freq_rank: 576
 skip: false
+audio: "selten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # selten
+
+![[selten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/selten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selten&language=de)
 
 **Meaning:** rarely
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

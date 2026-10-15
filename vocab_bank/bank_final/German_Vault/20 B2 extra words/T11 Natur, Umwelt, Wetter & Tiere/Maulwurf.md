@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1954"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Maulwurf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Maulwurf
+
+![[Maulwurf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maulwurf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maulwurf&language=de)
 
 **Meaning:** mole
 **Plural:** Maulwürfe

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0267"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "erschweren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erschweren
+
+![[erschweren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erschweren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschweren&language=de)
 
 **Meaning:** to make more difficult
 **Forms:** erschwert · erschwerte · hat erschwert

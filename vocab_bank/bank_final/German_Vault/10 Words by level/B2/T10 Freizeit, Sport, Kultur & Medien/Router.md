@@ -14,11 +14,16 @@ bank: "main"
 id: "B6226"
 freq_rank: 4956
 skip: false
+audio: "Router.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Router
+
+![[Router.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Router/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Router&language=de)
 
 **Meaning:** router
 **Plural:** Router

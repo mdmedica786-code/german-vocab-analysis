@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1199"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "anspornen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anspornen
+
+![[anspornen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anspornen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anspornen&language=de)
 
 **Meaning:** to spur on; to motivate
 **Forms:** spornt an · spornte an · hat angespornt

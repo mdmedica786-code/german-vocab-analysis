@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0373"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Mentalität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mentalität
+
+![[Mentalität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mentalit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mentalit%C3%A4t&language=de)
 
 **Meaning:** mentality; attitude
 **Plural:** Mentalitäten

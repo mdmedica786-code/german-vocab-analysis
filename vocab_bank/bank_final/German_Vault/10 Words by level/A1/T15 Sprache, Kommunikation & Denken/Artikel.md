@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 1048
 skip: false
+audio: "Artikel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Artikel
+
+![[Artikel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Artikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Artikel&language=de)
 
 **Meaning:** article
 **Plural:** Artikel

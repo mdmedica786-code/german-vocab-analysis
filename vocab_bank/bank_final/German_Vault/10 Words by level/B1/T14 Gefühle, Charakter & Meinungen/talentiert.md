@@ -12,11 +12,16 @@ id: "B4694"
 netzwerk: "B1 K9 12b"
 freq_rank: 5759
 skip: false
+audio: "talentiert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # talentiert
+
+![[talentiert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/talentiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=talentiert&language=de)
 
 **Meaning:** talented
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

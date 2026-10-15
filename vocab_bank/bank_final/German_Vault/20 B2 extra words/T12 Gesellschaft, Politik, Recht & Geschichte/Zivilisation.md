@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3123"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Zivilisation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zivilisation
+
+![[Zivilisation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zivilisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilisation&language=de)
 
 **Meaning:** civilisation
 **Plural:** Zivilisationen

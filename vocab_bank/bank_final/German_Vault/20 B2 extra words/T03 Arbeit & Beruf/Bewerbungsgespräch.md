@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0410"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Bewerbungsgespräch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bewerbungsgespräch
+
+![[Bewerbungsgespräch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerbungsgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbungsgespr%C3%A4ch&language=de)
 
 **Meaning:** job interview
 **Plural:** Bewerbungsgespräche

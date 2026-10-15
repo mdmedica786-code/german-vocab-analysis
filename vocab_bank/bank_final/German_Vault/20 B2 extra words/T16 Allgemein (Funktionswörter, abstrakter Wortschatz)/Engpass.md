@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1456"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Engpass.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Engpass
+
+![[Engpass.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Engpass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Engpass&language=de)
 
 **Meaning:** bottleneck; shortage
 **Plural:** Engpässe

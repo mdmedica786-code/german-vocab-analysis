@@ -15,11 +15,16 @@ id: "B4756"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Ausgabestelle.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausgabestelle
+
+![[Ausgabestelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgabestelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgabestelle&language=de)
 
 **Meaning:** issuing office
 **Plural:** Ausgabestellen

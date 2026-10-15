@@ -15,11 +15,16 @@ id: "B2004"
 netzwerk: "A2 K2 7a"
 freq_rank: 5759
 skip: false
+audio: "Gärtnerin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gärtnerin
+
+![[Gärtnerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4rtnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4rtnerin&language=de)
 
 **Meaning:** gardener (f)
 **Plural:** Gärtnerinnen

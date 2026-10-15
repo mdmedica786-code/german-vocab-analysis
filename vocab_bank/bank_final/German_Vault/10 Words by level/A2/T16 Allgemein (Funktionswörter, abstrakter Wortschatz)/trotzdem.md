@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 5a"
 freq_rank: 633
 skip: false
+audio: "trotzdem.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # trotzdem
+
+![[trotzdem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trotzdem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trotzdem&language=de)
 
 **Meaning:** still
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

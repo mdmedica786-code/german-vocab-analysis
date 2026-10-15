@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3632"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Kolonie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kolonie
+
+![[Kolonie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kolonie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kolonie&language=de)
 
 **Meaning:** colony
 **Plural:** Kolonien

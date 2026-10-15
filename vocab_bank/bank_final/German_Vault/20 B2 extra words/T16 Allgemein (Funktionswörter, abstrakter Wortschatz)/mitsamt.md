@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0039"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "mitsamt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/preposition", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitsamt
+
+![[mitsamt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitsamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitsamt&language=de)
 
 **Meaning:** together with; including
 **Case:** + Dat.

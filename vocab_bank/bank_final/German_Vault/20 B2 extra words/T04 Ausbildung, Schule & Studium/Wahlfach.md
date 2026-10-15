@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Wahlfach
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wahlfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlfach&language=de)
+
 **Meaning:** elective subject
 **Plural:** Wahlfächer
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

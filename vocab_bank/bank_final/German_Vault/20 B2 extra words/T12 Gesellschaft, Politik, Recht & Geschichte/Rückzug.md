@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3020"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Rückzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rückzug
+
+![[Rückzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckzug&language=de)
 
 **Meaning:** retreat; withdrawal
 **Plural:** Rückzüge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4333"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Projektleitung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Projektleitung
+
+![[Projektleitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Projektleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Projektleitung&language=de)
 
 **Meaning:** project management; project leadership
 **Plural:** Projektleitungen

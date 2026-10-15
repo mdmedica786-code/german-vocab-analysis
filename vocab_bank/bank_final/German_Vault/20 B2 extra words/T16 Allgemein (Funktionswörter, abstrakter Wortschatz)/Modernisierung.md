@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3433"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Modernisierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Modernisierung
+
+![[Modernisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Modernisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modernisierung&language=de)
 
 **Meaning:** modernisation
 **Plural:** Modernisierungen

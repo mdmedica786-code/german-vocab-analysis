@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 10d"
 freq_rank: 331
 skip: false
+audio: "Ding.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ding
+
+![[Ding.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ding/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ding&language=de)
 
 **Meaning:** thing
 **Plural:** Dinge

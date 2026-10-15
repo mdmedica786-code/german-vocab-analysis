@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1895"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Überalterung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überalterung
+
+![[Überalterung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberalterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberalterung&language=de)
 
 **Meaning:** ageing of the population
 **Plural:** –

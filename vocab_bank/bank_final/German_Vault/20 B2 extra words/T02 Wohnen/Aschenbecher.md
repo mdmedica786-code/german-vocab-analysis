@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2281"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Aschenbecher.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aschenbecher
+
+![[Aschenbecher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aschenbecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aschenbecher&language=de)
 
 **Meaning:** ashtray
 **Plural:** Aschenbecher

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4583"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verkehrszentrum.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrszentrum
+
+![[Verkehrszentrum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrszentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrszentrum&language=de)
 
 **Meaning:** transport hub
 **Plural:** Verkehrszentren

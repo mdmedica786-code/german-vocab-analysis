@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0275"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "dulden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # dulden
+
+![[dulden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dulden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dulden&language=de)
 
 **Meaning:** to tolerate; to put up with
 **Forms:** duldet · duldete · hat geduldet

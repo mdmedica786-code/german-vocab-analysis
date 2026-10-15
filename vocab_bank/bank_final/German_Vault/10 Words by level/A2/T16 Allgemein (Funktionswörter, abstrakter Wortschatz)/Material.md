@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 2b"
 freq_rank: 1128
 skip: false
+audio: "Material.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Material
+
+![[Material.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Material/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Material&language=de)
 
 **Meaning:** material
 **Plural:** Materialien

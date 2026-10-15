@@ -15,11 +15,16 @@ id: "B6250"
 goethe_level: "B1"
 freq_rank: 5108
 skip: false
+audio: "Ozean.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ozean
+
+![[Ozean.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ozean/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ozean&language=de)
 
 **Meaning:** ocean
 **Plural:** Ozeane

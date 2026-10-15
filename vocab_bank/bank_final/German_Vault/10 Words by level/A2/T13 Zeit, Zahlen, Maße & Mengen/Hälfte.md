@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3a"
 freq_rank: 1147
 skip: false
+audio: "Hälfte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hälfte
+
+![[Hälfte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4lfte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4lfte&language=de)
 
 **Meaning:** half
 **Plural:** Hälften

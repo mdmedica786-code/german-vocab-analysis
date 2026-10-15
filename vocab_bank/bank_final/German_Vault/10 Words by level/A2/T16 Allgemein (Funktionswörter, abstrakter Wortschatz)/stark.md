@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 5c"
 freq_rank: 194
 skip: false
+audio: "stark.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stark
+
+![[stark.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stark&language=de)
 
 **Meaning:** strong; (adv.) heavily, hard
 **Forms:** stärker – am stärksten

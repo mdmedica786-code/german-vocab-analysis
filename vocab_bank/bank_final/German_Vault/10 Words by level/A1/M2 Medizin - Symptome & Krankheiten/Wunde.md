@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 8b"
 freq_rank: 1810
 skip: false
+audio: "Wunde.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wunde
+
+![[Wunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wunde&language=de)
 
 **Meaning:** wound
 **Plural:** Wunden

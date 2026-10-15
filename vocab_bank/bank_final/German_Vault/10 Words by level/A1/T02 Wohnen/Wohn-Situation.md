@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Wohn-Situation
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wohn-Situation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohn-Situation&language=de)
+
 **Meaning:** living situation
 **Plural:** Wohn-Situationen
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

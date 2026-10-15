@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # engagiert sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/engagiert%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=engagiert%20sein&language=de)
+
 **Meaning:** to be involved in
 **Forms:** ist engagiert · war engagiert · ist engagiert gewesen
 **Grammar:** + in + Dat.

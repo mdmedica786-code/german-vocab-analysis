@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Satz
 
+[▶️ YouGlish](https://youglish.com/pronounce/Satz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satz&language=de)
+
 **Meaning:** sentence
 **Plural:** Sätze
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

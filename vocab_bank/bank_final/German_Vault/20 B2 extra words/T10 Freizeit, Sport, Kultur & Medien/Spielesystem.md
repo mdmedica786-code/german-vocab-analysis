@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4435"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Spielesystem
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielesystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielesystem&language=de)
 
 **Meaning:** gaming system; game console
 **Plural:** Spielesysteme

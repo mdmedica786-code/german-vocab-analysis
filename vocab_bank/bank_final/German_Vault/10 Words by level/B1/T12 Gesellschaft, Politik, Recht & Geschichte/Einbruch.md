@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6b"
 freq_rank: 5036
 skip: false
+audio: "Einbruch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einbruch
+
+![[Einbruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbruch&language=de)
 
 **Meaning:** break-in
 **Plural:** Einbrüche

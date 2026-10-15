@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4527"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unausgeschlafen
+
+[▶️ YouGlish](https://youglish.com/pronounce/unausgeschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unausgeschlafen&language=de)
 
 **Meaning:** sleep-deprived; not well rested
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

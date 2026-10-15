@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Erscheinung treten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Erscheinung%20treten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Erscheinung%20treten&language=de)
+
 **Meaning:** to appear; to make an appearance
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

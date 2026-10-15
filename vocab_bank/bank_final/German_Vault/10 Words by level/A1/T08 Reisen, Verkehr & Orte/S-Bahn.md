@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die S-Bahn
 
+[▶️ YouGlish](https://youglish.com/pronounce/S-Bahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S-Bahn&language=de)
+
 **Meaning:** suburban train
 **Plural:** S-Bahnen
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

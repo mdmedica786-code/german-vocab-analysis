@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1099"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Wasserschaden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wasserschaden
+
+![[Wasserschaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wasserschaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserschaden&language=de)
 
 **Meaning:** water damage
 **Plural:** Wasserschäden

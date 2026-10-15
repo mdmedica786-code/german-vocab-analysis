@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Schutz stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Schutz%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Schutz%20stellen&language=de)
+
 **Meaning:** to place under protection
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

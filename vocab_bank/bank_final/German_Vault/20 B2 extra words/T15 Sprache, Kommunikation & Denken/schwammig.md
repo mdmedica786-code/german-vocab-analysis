@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2326"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "schwammig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwammig
+
+![[schwammig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwammig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwammig&language=de)
 
 **Meaning:** spongy; vague
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

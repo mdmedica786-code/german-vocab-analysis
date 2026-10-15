@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4043"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "hinhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # hinhalten
+
+![[hinhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinhalten&language=de)
 
 **Meaning:** to hold out; to keep waiting; to put off
 **Forms:** hält hin · hielt hin · hat hingehalten

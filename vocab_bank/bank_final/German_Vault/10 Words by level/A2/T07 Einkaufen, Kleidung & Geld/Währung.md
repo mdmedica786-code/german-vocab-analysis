@@ -15,11 +15,16 @@ id: "B2269"
 netzwerk: "A2 K4 11a"
 freq_rank: 5387
 skip: false
+audio: "Währung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Währung
+
+![[Währung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4hrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4hrung&language=de)
 
 **Meaning:** currency
 **Plural:** Währungen

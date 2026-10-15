@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 5b"
 freq_rank: 5057
 skip: false
+audio: "Affe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Affe
+
+![[Affe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Affe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Affe&language=de)
 
 **Meaning:** monkey
 **Plural:** Affen

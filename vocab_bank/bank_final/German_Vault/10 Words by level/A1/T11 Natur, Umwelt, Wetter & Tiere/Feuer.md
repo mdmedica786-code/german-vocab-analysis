@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K11 11a"
 freq_rank: 952
 skip: false
+audio: "Feuer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Feuer
+
+![[Feuer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuer&language=de)
 
 **Meaning:** fire; light (for a cigarette)
 **Plural:** Feuer

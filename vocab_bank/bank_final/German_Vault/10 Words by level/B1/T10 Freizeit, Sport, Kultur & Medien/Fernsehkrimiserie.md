@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Fernsehkrimiserie
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fernsehkrimiserie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehkrimiserie&language=de)
+
 **Meaning:** TV crime series
 **Plural:** Fernsehkrimiserien
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1124"
 netzwerk: "A1 K7 6a"
 freq_rank: 3653
 skip: false
+audio: "Mist.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mist
+
+![[Mist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mist&language=de)
 
 **Meaning:** rubbish; (colloq.) damn!
 **Plural:** –

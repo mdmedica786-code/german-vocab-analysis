@@ -15,11 +15,16 @@ id: "B0306"
 netzwerk: "A1 K2 6b"
 freq_rank: 5759
 skip: false
+audio: "Nomen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nomen
+
+![[Nomen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nomen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nomen&language=de)
 
 **Meaning:** noun
 **Plural:** Nomen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0037"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zwecks.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/preposition", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwecks
+
+![[zwecks.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwecks/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwecks&language=de)
 
 **Meaning:** for the purpose of
 **Case:** + Gen.

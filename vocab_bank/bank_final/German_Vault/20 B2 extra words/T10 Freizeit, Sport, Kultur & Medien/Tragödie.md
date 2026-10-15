@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3158"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Tragödie.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tragödie
+
+![[Tragödie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trag%C3%B6die/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trag%C3%B6die&language=de)
 
 **Meaning:** tragedy
 **Plural:** Tragödien

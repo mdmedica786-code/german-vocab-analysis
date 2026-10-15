@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1256"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erbitten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erbitten
+
+![[erbitten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erbitten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erbitten&language=de)
 
 **Meaning:** to request; to ask for (formal)
 **Forms:** erbittet · erbat · hat erbeten

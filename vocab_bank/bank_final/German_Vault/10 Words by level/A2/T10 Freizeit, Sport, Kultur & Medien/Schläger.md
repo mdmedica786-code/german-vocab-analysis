@@ -15,11 +15,16 @@ id: "B2818"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Schläger.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schläger
+
+![[Schläger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%A4ger&language=de)
 
 **Meaning:** racket; bat
 **Plural:** Schläger

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 5c"
 freq_rank: 3962
 skip: false
+audio: "Feier.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feier
+
+![[Feier.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feier&language=de)
 
 **Meaning:** celebration
 **Plural:** Feiern

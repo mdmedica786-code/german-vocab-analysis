@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0472"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Anschreiben.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Anschreiben
+
+![[Anschreiben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anschreiben&language=de)
 
 **Meaning:** cover letter
 **Plural:** Anschreiben

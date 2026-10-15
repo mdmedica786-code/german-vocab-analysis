@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Verdacht stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Verdacht%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Verdacht%20stehen&language=de)
+
 **Meaning:** to be under suspicion
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4648"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Wörterlernen
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%B6rterlernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%B6rterlernen&language=de)
 
 **Meaning:** learning words; vocabulary learning
 **Plural:** –

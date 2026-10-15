@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0878"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "bestärken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestärken
+
+![[bestärken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/best%C3%A4rken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=best%C3%A4rken&language=de)
 
 **Meaning:** to reinforce; to encourage
 **Forms:** bestärkt · bestärkte · hat bestärkt

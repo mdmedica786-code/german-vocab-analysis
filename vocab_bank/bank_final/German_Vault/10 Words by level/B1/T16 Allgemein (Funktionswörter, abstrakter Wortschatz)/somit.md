@@ -11,11 +11,16 @@ bank: "main"
 id: "B5168"
 freq_rank: 510
 skip: false
+audio: "somit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # somit
+
+![[somit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/somit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=somit&language=de)
 
 **Meaning:** thus; therefore; consequently
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

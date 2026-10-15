@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2787"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Sklave.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sklave
+
+![[Sklave.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sklave/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sklave&language=de)
 
 **Meaning:** slave
 **Plural:** Sklaven

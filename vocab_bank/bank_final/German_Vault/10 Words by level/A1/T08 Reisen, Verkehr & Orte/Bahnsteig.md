@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Bahnsteig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bahnsteig
+
+![[Bahnsteig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bahnsteig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnsteig&language=de)
 
 **Meaning:** train platform
 **Plural:** Bahnsteige

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3442"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Eigenkapital.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eigenkapital
+
+![[Eigenkapital.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigenkapital/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigenkapital&language=de)
 
 **Meaning:** equity; own capital
 **Plural:** –

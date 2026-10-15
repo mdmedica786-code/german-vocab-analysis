@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4456"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Stammgast.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Stammgast
+
+![[Stammgast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stammgast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stammgast&language=de)
 
 **Meaning:** regular (customer); regular guest
 **Plural:** Stammgäste

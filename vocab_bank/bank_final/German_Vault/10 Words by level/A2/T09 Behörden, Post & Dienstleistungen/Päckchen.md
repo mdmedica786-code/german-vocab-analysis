@@ -15,11 +15,16 @@ id: "B2946"
 netzwerk: "A2 K10 3c"
 freq_rank: 5066
 skip: false
+audio: "Päckchen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Päckchen
+
+![[Päckchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4ckchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4ckchen&language=de)
 
 **Meaning:** small parcel
 **Plural:** Päckchen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2941"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Aufhebung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufhebung
+
+![[Aufhebung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufhebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufhebung&language=de)
 
 **Meaning:** abolition; lifting; repeal
 **Plural:** –

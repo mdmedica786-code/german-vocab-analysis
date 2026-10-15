@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2257"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Backpapier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Backpapier
+
+![[Backpapier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Backpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backpapier&language=de)
 
 **Meaning:** baking paper
 **Plural:** –

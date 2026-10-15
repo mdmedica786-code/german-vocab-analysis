@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 14a"
 freq_rank: 888
 skip: false
+audio: "überall.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überall
+
+![[überall.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberall&language=de)
 
 **Meaning:** everywhere
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

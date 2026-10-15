@@ -14,11 +14,16 @@ bank: "main"
 id: "B5332"
 freq_rank: 1467
 skip: false
+audio: "Kerl.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kerl
+
+![[Kerl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kerl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kerl&language=de)
 
 **Meaning:** guy; bloke
 **Plural:** Kerle

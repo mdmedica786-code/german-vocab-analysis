@@ -13,11 +13,16 @@ id: "B5246"
 goethe_level: "A2"
 freq_rank: 1026
 skip: false
+audio: "rechnen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rechnen
+
+![[rechnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rechnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechnen&language=de)
 
 **Meaning:** to calculate; to count; to expect
 **Forms:** rechnet · rechnete · hat gerechnet

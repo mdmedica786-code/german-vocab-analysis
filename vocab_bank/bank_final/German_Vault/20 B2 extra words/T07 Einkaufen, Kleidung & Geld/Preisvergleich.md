@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1092"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Preisvergleich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Preisvergleich
+
+![[Preisvergleich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Preisvergleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preisvergleich&language=de)
 
 **Meaning:** price comparison
 **Plural:** Preisvergleiche

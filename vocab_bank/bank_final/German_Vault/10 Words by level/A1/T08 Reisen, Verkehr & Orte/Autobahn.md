@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1a"
 freq_rank: 5499
 skip: false
+audio: "Autobahn (5).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Autobahn
+
+![[Autobahn (5).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autobahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autobahn&language=de)
 
 **Meaning:** motorway; freeway
 **Plural:** Autobahnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0604"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Intendant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Intendant
+
+![[Intendant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Intendant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Intendant&language=de)
 
 **Meaning:** director (of a theatre or broadcaster)
 **Plural:** Intendanten

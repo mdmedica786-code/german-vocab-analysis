@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4579"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verkehrsnetz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrsnetz
+
+![[Verkehrsnetz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrsnetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsnetz&language=de)
 
 **Meaning:** transport network
 **Plural:** Verkehrsnetze

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1786"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Zweigstelle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zweigstelle
+
+![[Zweigstelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zweigstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweigstelle&language=de)
 
 **Meaning:** branch office
 **Plural:** Zweigstellen

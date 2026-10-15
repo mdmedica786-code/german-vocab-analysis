@@ -13,11 +13,16 @@ id: "B3410"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "dabeihaben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dabeihaben
+
+![[dabeihaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dabeihaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dabeihaben&language=de)
 
 **Meaning:** to have sth with oneself
 **Forms:** hat dabei · hatte dabei · hat dabeigehabt

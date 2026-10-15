@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 2a"
 freq_rank: 4100
 skip: false
+audio: "fotografieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fotografieren
+
+![[fotografieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fotografieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fotografieren&language=de)
 
 **Meaning:** to photograph
 **Forms:** fotografiert · fotografierte · hat fotografiert

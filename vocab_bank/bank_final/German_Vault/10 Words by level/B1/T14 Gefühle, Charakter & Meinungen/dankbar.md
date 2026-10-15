@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 8a"
 freq_rank: 2127
 skip: false
+audio: "dankbar.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # dankbar
+
+![[dankbar.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dankbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dankbar&language=de)
 
 **Meaning:** thankful
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B2200"
 netzwerk: "A2 K4 3b"
 freq_rank: 5759
 skip: false
+audio: "wegfahren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wegfahren
+
+![[wegfahren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wegfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wegfahren&language=de)
 
 **Meaning:** to leave
 **Forms:** fährt weg · fuhr weg · ist weggefahren

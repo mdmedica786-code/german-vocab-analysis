@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2723"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Indikator.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Indikator
+
+![[Indikator.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Indikator/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indikator&language=de)
 
 **Meaning:** indicator
 **Plural:** Indikatoren

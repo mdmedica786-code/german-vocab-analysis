@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2705"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "fähig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # fähig
+
+![[fähig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%A4hig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%A4hig&language=de)
 
 **Meaning:** capable; able
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4603"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "vorangehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # vorangehen
+
+![[vorangehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorangehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorangehen&language=de)
 
 **Meaning:** to go ahead; to lead the way; to progress
 **Forms:** geht voran · ging voran · ist vorangegangen

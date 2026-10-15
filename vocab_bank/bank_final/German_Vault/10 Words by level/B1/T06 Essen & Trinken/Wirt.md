@@ -15,11 +15,16 @@ id: "B5935"
 goethe_level: "B1"
 freq_rank: 3544
 skip: false
+audio: "Wirt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wirt
+
+![[Wirt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirt&language=de)
 
 **Meaning:** landlord (pub, restaurant)
 **Plural:** Wirte

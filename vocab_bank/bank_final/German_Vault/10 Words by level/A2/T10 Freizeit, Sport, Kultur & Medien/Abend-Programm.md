@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Abend-Programm
 
+[▶️ YouGlish](https://youglish.com/pronounce/Abend-Programm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abend-Programm&language=de)
+
 **Meaning:** evening programme
 **Plural:** Abend-Programme
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

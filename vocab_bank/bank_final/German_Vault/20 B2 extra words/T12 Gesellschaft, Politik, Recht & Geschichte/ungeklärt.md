@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4538"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "ungeklärt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ungeklärt
+
+![[ungeklärt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungekl%C3%A4rt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungekl%C3%A4rt&language=de)
 
 **Meaning:** unclear; unresolved
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

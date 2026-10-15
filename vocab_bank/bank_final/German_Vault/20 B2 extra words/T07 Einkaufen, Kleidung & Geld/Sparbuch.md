@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1059"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Sparbuch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sparbuch
+
+![[Sparbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sparbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sparbuch&language=de)
 
 **Meaning:** savings book; savings account
 **Plural:** Sparbücher

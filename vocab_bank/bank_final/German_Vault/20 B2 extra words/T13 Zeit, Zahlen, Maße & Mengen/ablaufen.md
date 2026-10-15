@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1185"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "ablaufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ablaufen
+
+![[ablaufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ablaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ablaufen&language=de)
 
 **Meaning:** to expire; to run its course
 **Forms:** läuft ab · lief ab · ist abgelaufen

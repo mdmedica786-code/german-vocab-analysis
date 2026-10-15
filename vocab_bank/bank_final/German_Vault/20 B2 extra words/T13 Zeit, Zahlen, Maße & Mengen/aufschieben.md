@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0856"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "aufschieben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufschieben
+
+![[aufschieben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufschieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufschieben&language=de)
 
 **Meaning:** to postpone; to put off
 **Forms:** schiebt auf · schob auf · hat aufgeschoben

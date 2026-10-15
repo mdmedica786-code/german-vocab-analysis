@@ -15,11 +15,16 @@ id: "B4160"
 netzwerk: "B1 K6 8b"
 freq_rank: 5759
 skip: false
+audio: "Kasus.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kasus
+
+![[Kasus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kasus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kasus&language=de)
 
 **Meaning:** case (grammar)
 **Plural:** –

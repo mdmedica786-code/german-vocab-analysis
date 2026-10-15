@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4434"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "spielerisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # spielerisch
+
+![[spielerisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spielerisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spielerisch&language=de)
 
 **Meaning:** playful; in a playful way
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Disposition stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Disposition%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Disposition%20stehen&language=de)
+
 **Meaning:** to be up for discussion; to be in question
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1711"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "reißen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # reißen
+
+![[reißen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rei%C3%9Fen&language=de)
 
 **Meaning:** to tear; to rip
 **Forms:** reißt · riss · hat/ist gerissen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0660"
 exam_use: ["Lesen"]
 skip: false
+audio: "Biotop.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Biotop
+
+![[Biotop.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biotop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biotop&language=de)
 
 **Meaning:** biotope; habitat
 **Plural:** Biotope

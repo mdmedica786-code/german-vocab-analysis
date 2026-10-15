@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 5e"
 freq_rank: 5759
 skip: false
+audio: "Hausmeisterin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausmeisterin
+
+![[Hausmeisterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausmeisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmeisterin&language=de)
 
 **Meaning:** caretaker (f)
 **Plural:** Hausmeisterinnen

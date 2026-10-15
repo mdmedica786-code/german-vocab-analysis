@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 1a"
 freq_rank: 2000
 skip: false
+audio: "Link.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Link
+
+![[Link.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Link/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Link&language=de)
 
 **Meaning:** link
 **Plural:** Links

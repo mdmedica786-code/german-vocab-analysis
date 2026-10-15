@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1344"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "notfalls.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # notfalls
+
+![[notfalls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/notfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=notfalls&language=de)
 
 **Meaning:** if need be; if necessary
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

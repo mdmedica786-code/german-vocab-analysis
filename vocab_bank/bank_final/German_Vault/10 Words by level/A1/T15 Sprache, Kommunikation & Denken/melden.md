@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 11c"
 freq_rank: 1151
 skip: false
+audio: "melden.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # melden
+
+![[melden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/melden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=melden&language=de)
 
 **Meaning:** to report; to answer (sich melden)
 **Other senses:** to report

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4557"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "Urlaubsantrag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Urlaubsantrag
+
+![[Urlaubsantrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsantrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsantrag&language=de)
 
 **Meaning:** leave request; holiday application
 **Plural:** Urlaubsanträge

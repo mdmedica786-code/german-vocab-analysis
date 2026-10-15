@@ -15,11 +15,16 @@ id: "B4129"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Hausbewohnerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausbewohnerin
+
+![[Hausbewohnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausbewohnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausbewohnerin&language=de)
 
 **Meaning:** resident (of a building) (f)
 **Plural:** Hausbewohnerinnen

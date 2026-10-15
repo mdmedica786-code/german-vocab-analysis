@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 2036
 skip: false
+audio: "Tee.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tee
+
+![[Tee.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tee&language=de)
 
 **Meaning:** tea
 **Plural:** Tees

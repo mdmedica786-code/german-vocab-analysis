@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0920"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Bachelorstudium.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bachelorstudium
+
+![[Bachelorstudium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bachelorstudium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bachelorstudium&language=de)
 
 **Meaning:** bachelor's degree programme
 **Plural:** –

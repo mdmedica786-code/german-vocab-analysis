@@ -15,11 +15,16 @@ id: "B0229"
 netzwerk: "A1 K2 3b"
 freq_rank: 5759
 skip: false
+audio: "Endung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Endung
+
+![[Endung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Endung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Endung&language=de)
 
 **Meaning:** ending
 **Plural:** Endungen

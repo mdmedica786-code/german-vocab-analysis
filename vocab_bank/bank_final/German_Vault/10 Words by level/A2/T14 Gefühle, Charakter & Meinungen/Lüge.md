@@ -15,11 +15,16 @@ id: "B5866"
 goethe_level: "A2"
 freq_rank: 3214
 skip: false
+audio: "Lüge.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lüge
+
+![[Lüge.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%BCge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%BCge&language=de)
 
 **Meaning:** lie
 **Plural:** Lügen

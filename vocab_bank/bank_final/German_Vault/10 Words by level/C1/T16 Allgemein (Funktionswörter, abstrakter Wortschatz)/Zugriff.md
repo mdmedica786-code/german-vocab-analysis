@@ -14,11 +14,16 @@ bank: "main"
 id: "B5568"
 freq_rank: 2368
 skip: false
+audio: "Zugriff.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zugriff
+
+![[Zugriff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zugriff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugriff&language=de)
 
 **Meaning:** access
 **Plural:** Zugriffe

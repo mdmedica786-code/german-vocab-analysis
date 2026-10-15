@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3063"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Umwandlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umwandlung
+
+![[Umwandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umwandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umwandlung&language=de)
 
 **Meaning:** conversion; transformation
 **Plural:** Umwandlungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3517"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Qual.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Qual
+
+![[Qual.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Qual/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Qual&language=de)
 
 **Meaning:** torment; agony; ordeal
 **Plural:** Qualen

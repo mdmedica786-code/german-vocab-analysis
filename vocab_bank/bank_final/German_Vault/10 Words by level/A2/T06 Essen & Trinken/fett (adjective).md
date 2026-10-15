@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 2310
 skip: false
+audio: "fett.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fett
+
+![[fett.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fett&language=de)
 
 **Meaning:** fat
 **Level:** A2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

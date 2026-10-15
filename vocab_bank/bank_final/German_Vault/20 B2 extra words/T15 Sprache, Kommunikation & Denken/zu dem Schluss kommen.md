@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zu dem Schluss kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zu%20dem%20Schluss%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu%20dem%20Schluss%20kommen&language=de)
+
 **Meaning:** to come to the conclusion
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

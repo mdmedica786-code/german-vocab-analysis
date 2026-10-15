@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1a"
 freq_rank: 2719
 skip: false
+audio: "Konkurrenz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konkurrenz
+
+![[Konkurrenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konkurrenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konkurrenz&language=de)
 
 **Meaning:** competition
 **Plural:** –

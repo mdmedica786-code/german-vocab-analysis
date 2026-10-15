@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1288"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "mahnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # mahnen
+
+![[mahnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mahnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mahnen&language=de)
 
 **Meaning:** to remind; to warn; to demand payment
 **Forms:** mahnt · mahnte · hat gemahnt

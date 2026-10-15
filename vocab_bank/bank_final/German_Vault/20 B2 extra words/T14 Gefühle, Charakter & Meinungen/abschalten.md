@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1187"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "abschalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abschalten
+
+![[abschalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abschalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abschalten&language=de)
 
 **Meaning:** to switch off; to unwind
 **Forms:** schaltet ab · schaltete ab · hat abgeschaltet

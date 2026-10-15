@@ -15,11 +15,16 @@ id: "B3605"
 netzwerk: "B1 K3 3c"
 freq_rank: 2854
 skip: false
+audio: "Stadtrat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtrat
+
+![[Stadtrat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtrat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtrat&language=de)
 
 **Meaning:** city council
 **Other senses:** city council member (m)

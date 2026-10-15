@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1826"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "mitwirken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitwirken
+
+![[mitwirken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitwirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitwirken&language=de)
 
 **Meaning:** to participate; to contribute
 **Forms:** wirkt mit · wirkte mit · hat mitgewirkt

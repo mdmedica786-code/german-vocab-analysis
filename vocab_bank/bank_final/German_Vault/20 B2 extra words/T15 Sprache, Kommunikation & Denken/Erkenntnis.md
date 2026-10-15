@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0289"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Erkenntnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erkenntnis
+
+![[Erkenntnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erkenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erkenntnis&language=de)
 
 **Meaning:** insight; realisation; finding
 **Plural:** Erkenntnisse

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0220"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "eingestehen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # eingestehen
+
+![[eingestehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eingestehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eingestehen&language=de)
 
 **Meaning:** to admit; to confess
 **Forms:** gesteht ein · gestand ein · hat eingestanden

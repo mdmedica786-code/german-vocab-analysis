@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0278"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "tadeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # tadeln
+
+![[tadeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tadeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tadeln&language=de)
 
 **Meaning:** to reprimand; to criticise
 **Forms:** tadelt · tadelte · hat getadelt

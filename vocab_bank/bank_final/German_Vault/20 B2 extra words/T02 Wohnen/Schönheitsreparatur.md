@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1078"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Schönheitsreparatur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schönheitsreparatur
+
+![[Schönheitsreparatur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6nheitsreparatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6nheitsreparatur&language=de)
 
 **Meaning:** cosmetic repairs (e.g. painting)
 **Plural:** Schönheitsreparaturen

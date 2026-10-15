@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1748"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Optiker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Optiker
+
+![[Optiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Optiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Optiker&language=de)
 
 **Meaning:** optician
 **Plural:** Optiker

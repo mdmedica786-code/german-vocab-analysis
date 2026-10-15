@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4214"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Medizintechniker
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medizintechniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizintechniker&language=de)
 
 **Meaning:** medical technician (male); biomedical engineer
 **Plural:** Medizintechniker

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2713"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "heranziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # heranziehen
+
+![[heranziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heranziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heranziehen&language=de)
 
 **Meaning:** to consult; to draw on; to use for comparison
 **Forms:** zieht heran · zog heran · hat herangezogen

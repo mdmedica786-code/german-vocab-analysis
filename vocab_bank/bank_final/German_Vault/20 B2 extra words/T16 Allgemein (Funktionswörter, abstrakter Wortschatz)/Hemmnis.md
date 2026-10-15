@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1459"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Hemmnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hemmnis
+
+![[Hemmnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hemmnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hemmnis&language=de)
 
 **Meaning:** obstacle; impediment
 **Plural:** Hemmnisse

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3290"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "vermindern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vermindern
+
+![[vermindern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vermindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vermindern&language=de)
 
 **Meaning:** to reduce; to decrease
 **Forms:** vermindert · verminderte · hat vermindert

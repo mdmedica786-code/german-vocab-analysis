@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 4b"
 freq_rank: 139
 skip: false
+audio: "Fall.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fall
+
+![[Fall.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fall&language=de)
 
 **Meaning:** case; instance; fall
 **Plural:** Fälle

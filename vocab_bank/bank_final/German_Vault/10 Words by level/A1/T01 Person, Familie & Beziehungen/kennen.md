@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1c"
 freq_rank: 223
 skip: false
+audio: "kennen (24).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kennen
+
+![[kennen (24).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kennen&language=de)
 
 **Meaning:** to know
 **Forms:** kennt · kannte · hat gekannt

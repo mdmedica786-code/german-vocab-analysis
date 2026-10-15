@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0864"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ausschöpfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausschöpfen
+
+![[ausschöpfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussch%C3%B6pfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussch%C3%B6pfen&language=de)
 
 **Meaning:** to exhaust; to make full use of
 **Forms:** schöpft aus · schöpfte aus · hat ausgeschöpft

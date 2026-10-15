@@ -15,11 +15,16 @@ id: "B2357"
 netzwerk: "A2 K5 6c"
 freq_rank: 5759
 skip: false
+audio: "Konjunktiv.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konjunktiv
+
+![[Konjunktiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konjunktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konjunktiv&language=de)
 
 **Meaning:** subjunctive
 **Plural:** Konjunktive

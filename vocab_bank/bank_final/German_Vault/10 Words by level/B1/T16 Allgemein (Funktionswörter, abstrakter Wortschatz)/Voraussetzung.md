@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 737
 skip: false
+audio: "Voraussetzung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Voraussetzung
+
+![[Voraussetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Voraussetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Voraussetzung&language=de)
 
 **Meaning:** prerequisite, condition
 **Plural:** Voraussetzungen

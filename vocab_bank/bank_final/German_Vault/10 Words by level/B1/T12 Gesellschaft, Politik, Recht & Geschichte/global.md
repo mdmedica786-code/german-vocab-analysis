@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 6a"
 freq_rank: 1791
 skip: false
+audio: "global.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # global
+
+![[global.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/global/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=global&language=de)
 
 **Meaning:** global
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4144"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Krebsforschung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Krebsforschung
+
+![[Krebsforschung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krebsforschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebsforschung&language=de)
 
 **Meaning:** cancer research
 **Plural:** –

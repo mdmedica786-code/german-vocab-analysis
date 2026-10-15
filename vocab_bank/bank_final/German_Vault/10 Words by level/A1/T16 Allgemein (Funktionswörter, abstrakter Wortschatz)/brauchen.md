@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3b"
 freq_rank: 235
 skip: false
+audio: "brauchen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # brauchen
+
+![[brauchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/brauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brauchen&language=de)
 
 **Meaning:** to need
 **Forms:** braucht · brauchte · hat gebraucht

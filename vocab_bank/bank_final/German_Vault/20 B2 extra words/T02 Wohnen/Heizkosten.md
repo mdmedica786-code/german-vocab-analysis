@@ -13,11 +13,16 @@ bank: "b2"
 id: "D1079"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Heizkosten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Heizkosten
+
+![[Heizkosten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heizkosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heizkosten&language=de)
 
 **Meaning:** heating costs
 **Plural:** Heizkosten

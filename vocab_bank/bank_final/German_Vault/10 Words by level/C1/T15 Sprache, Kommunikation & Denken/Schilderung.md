@@ -14,11 +14,16 @@ bank: "main"
 id: "B6115"
 freq_rank: 4481
 skip: false
+audio: "Schilderung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schilderung
+
+![[Schilderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schilderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schilderung&language=de)
 
 **Meaning:** description; account
 **Plural:** Schilderungen

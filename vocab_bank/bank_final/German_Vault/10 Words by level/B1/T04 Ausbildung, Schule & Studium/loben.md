@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12c"
 freq_rank: 5515
 skip: false
+audio: "loben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # loben
+
+![[loben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/loben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=loben&language=de)
 
 **Meaning:** to praise
 **Forms:** lobt · lobte · hat gelobt

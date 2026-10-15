@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4639"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "wiedererkennen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # wiedererkennen
+
+![[wiedererkennen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wiedererkennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wiedererkennen&language=de)
 
 **Meaning:** to recognise (again)
 **Forms:** erkennt wieder · erkannte wieder · hat wiedererkannt

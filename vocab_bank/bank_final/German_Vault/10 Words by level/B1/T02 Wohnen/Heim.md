@@ -15,11 +15,16 @@ id: "B5453"
 goethe_level: "B1"
 freq_rank: 2000
 skip: false
+audio: "heim.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Heim
+
+![[heim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heim&language=de)
 
 **Meaning:** home; institution
 **Plural:** Heime

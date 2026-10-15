@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2298"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "farbenfroh.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # farbenfroh
+
+![[farbenfroh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/farbenfroh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=farbenfroh&language=de)
 
 **Meaning:** colourful
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9b"
 freq_rank: 2735
 skip: false
+audio: "Notiz.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Notiz
+
+![[Notiz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notiz&language=de)
 
 **Meaning:** note
 **Plural:** Notizen

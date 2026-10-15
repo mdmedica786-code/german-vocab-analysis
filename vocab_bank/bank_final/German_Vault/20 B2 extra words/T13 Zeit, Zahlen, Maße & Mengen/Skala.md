@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2986"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
+audio: "Skala.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Skala
+
+![[Skala.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skala/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skala&language=de)
 
 **Meaning:** scale
 **Plural:** Skalen

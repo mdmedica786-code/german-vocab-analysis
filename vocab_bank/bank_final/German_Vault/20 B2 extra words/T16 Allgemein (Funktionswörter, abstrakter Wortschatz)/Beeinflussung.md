@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3085"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Beeinflussung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beeinflussung
+
+![[Beeinflussung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beeinflussung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beeinflussung&language=de)
 
 **Meaning:** influencing; influence
 **Plural:** –

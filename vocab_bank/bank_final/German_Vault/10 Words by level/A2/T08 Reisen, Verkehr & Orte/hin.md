@@ -12,11 +12,16 @@ id: "B5144"
 goethe_level: "A2"
 freq_rank: 220
 skip: false
+audio: "hin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hin
+
+![[hin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hin&language=de)
 
 **Meaning:** there; to there; away
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

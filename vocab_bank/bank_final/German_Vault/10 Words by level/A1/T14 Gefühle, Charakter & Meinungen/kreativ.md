@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 11"
 freq_rank: 5195
 skip: false
+audio: "kreativ.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kreativ
+
+![[kreativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kreativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kreativ&language=de)
 
 **Meaning:** creative
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

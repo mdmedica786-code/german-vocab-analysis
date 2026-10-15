@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4548"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Unternehmenszentrale.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Unternehmenszentrale
+
+![[Unternehmenszentrale.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unternehmenszentrale/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmenszentrale&language=de)
 
 **Meaning:** company headquarters
 **Plural:** Unternehmenszentralen

@@ -13,11 +13,16 @@ id: "B0507"
 netzwerk: "A1 K3 5b"
 freq_rank: 3101
 skip: false
+audio: "kreisen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kreisen
+
+![[kreisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kreisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kreisen&language=de)
 
 **Meaning:** to circle
 **Forms:** kreist · kreiste · hat gekreist

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 750
 skip: false
+audio: "behandeln.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # behandeln
+
+![[behandeln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/behandeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behandeln&language=de)
 
 **Meaning:** to treat
 **Forms:** behandelt · behandelte · hat behandelt

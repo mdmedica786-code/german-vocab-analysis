@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0624"
 exam_use: ["Alltag"]
 skip: false
+audio: "Follower.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Follower
+
+![[Follower.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Follower/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Follower&language=de)
 
 **Meaning:** follower (social media)
 **Plural:** Follower

@@ -13,11 +13,16 @@ id: "B6624"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "überfahren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überfahren
+
+![[überfahren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberfahren&language=de)
 
 **Meaning:** to run over
 **Forms:** überfährt · überfuhr · hat überfahren

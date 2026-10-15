@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4315"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "platzsparend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # platzsparend
+
+![[platzsparend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/platzsparend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=platzsparend&language=de)
 
 **Meaning:** space-saving
 **Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

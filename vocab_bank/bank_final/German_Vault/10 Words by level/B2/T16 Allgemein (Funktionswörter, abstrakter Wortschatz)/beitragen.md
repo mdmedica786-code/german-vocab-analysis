@@ -12,11 +12,16 @@ bank: "main"
 id: "B5491"
 freq_rank: 2110
 skip: false
+audio: "beitragen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beitragen
+
+![[beitragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beitragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beitragen&language=de)
 
 **Meaning:** to contribute
 **Forms:** trägt bei · trug bei · hat beigetragen

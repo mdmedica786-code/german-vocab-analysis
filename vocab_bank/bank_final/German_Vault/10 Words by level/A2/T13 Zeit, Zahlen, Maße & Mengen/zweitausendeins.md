@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # zweitausendeins
 
+[▶️ YouGlish](https://youglish.com/pronounce/zweitausendeins/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweitausendeins&language=de)
+
 **Meaning:** two thousand and one
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

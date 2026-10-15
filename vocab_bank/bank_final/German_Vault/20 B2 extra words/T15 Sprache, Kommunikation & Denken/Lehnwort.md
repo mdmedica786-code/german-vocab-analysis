@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1936"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Lehnwort.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lehnwort
+
+![[Lehnwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehnwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehnwort&language=de)
 
 **Meaning:** loanword
 **Plural:** Lehnwörter

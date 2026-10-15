@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 1176
 skip: false
+audio: "üblich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # üblich
+
+![[üblich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCblich&language=de)
 
 **Meaning:** usual
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

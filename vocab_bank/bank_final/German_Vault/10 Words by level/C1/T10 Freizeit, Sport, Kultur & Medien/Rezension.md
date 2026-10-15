@@ -14,11 +14,16 @@ bank: "main"
 id: "B6047"
 freq_rank: 4093
 skip: false
+audio: "Rezension.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rezension
+
+![[Rezension.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rezension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rezension&language=de)
 
 **Meaning:** review
 **Plural:** Rezensionen

@@ -15,11 +15,16 @@ id: "B5002"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Wahrzeichen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wahrzeichen
+
+![[Wahrzeichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahrzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrzeichen&language=de)
 
 **Meaning:** landmark
 **Plural:** Wahrzeichen

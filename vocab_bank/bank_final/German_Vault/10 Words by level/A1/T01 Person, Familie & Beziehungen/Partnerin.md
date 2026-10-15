@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 5b"
 freq_rank: 5402
 skip: false
+audio: "Partnerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Partnerin
+
+![[Partnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partnerin&language=de)
 
 **Meaning:** partner (f)
 **Plural:** Partnerinnen

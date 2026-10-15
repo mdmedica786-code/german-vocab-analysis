@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Mobiltelefon.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mobiltelefon
+
+![[Mobiltelefon.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mobiltelefon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mobiltelefon&language=de)
 
 **Meaning:** mobile telephone
 **Plural:** Mobiltelefone

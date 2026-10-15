@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 3c"
 freq_rank: 109
 skip: false
+audio: "besser.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # besser
+
+![[besser.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besser&language=de)
 
 **Meaning:** better
 **Forms:** gut – besser – am besten

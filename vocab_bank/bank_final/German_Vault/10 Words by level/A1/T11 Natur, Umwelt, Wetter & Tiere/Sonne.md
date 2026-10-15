@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 14a"
 freq_rank: 738
 skip: false
+audio: "Sonne.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sonne
+
+![[Sonne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonne&language=de)
 
 **Meaning:** sun
 **Plural:** –

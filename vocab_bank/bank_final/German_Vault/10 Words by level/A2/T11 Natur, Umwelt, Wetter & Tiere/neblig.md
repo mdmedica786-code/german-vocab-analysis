@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "neblig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # neblig
+
+![[neblig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/neblig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neblig&language=de)
 
 **Meaning:** foggy
 **Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

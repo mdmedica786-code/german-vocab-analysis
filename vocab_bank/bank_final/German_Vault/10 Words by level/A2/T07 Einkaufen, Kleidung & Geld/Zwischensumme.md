@@ -15,11 +15,16 @@ id: "B3181"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Zwischensumme.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zwischensumme
+
+![[Zwischensumme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwischensumme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwischensumme&language=de)
 
 **Meaning:** subtotal
 **Plural:** Zwischensummen

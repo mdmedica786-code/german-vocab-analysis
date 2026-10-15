@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Direktorin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Direktorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Direktorin&language=de)
+
 **Meaning:** headmaster (f)
 **Plural:** Direktorinnen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

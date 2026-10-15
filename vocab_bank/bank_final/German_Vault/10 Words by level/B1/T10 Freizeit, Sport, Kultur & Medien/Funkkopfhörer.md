@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Funkkopfhörer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Funkkopfh%C3%B6rer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Funkkopfh%C3%B6rer&language=de)
+
 **Meaning:** wireless headphones
 **Plural:** Funkkopfhörer
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

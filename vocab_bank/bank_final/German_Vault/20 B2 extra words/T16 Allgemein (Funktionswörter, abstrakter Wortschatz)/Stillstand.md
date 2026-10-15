@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3653"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Stillstand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stillstand
+
+![[Stillstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stillstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stillstand&language=de)
 
 **Meaning:** standstill; stagnation
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4501"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Transistor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Transistor
+
+![[Transistor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Transistor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transistor&language=de)
 
 **Meaning:** transistor
 **Plural:** Transistoren

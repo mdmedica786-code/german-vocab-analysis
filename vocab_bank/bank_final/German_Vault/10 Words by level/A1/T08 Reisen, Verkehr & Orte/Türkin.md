@@ -15,11 +15,16 @@ id: "B6581"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Türkin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Türkin
+
+![[Türkin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCrkin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCrkin&language=de)
 
 **Meaning:** Turkish woman
 **Plural:** Türkinnen

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 6b"
 freq_rank: 4142
 skip: false
+audio: "städtisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # städtisch
+
+![[städtisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%A4dtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%A4dtisch&language=de)
 
 **Meaning:** urban; municipal
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

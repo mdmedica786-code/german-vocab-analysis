@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 10a"
 freq_rank: 1398
 skip: false
+audio: "Zeitschrift.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeitschrift
+
+![[Zeitschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitschrift&language=de)
 
 **Meaning:** magazine
 **Plural:** Zeitschriften

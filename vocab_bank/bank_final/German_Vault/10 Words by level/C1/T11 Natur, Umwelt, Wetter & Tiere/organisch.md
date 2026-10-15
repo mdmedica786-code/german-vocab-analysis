@@ -11,11 +11,16 @@ bank: "main"
 id: "B5853"
 freq_rank: 3155
 skip: false
+audio: "organisch.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T11", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # organisch
+
+![[organisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/organisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=organisch&language=de)
 
 **Meaning:** organic
 **Level:** C1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

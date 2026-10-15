@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1086"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ruhestörung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ruhestörung
+
+![[Ruhestörung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ruhest%C3%B6rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruhest%C3%B6rung&language=de)
 
 **Meaning:** disturbance of the peace; noise nuisance
 **Plural:** Ruhestörungen

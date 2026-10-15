@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3380"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Segel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Segel
+
+![[Segel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Segel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segel&language=de)
 
 **Meaning:** sail
 **Plural:** Segel

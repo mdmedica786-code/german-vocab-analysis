@@ -15,11 +15,16 @@ id: "B5253"
 goethe_level: "B1"
 freq_rank: 1042
 skip: false
+audio: "Träne.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Träne
+
+![[Träne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tr%C3%A4ne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tr%C3%A4ne&language=de)
 
 **Meaning:** tear
 **Plural:** Tränen

@@ -15,11 +15,16 @@ id: "B6509"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Nationalrat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nationalrat
+
+![[Nationalrat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nationalrat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalrat&language=de)
 
 **Meaning:** National Council (Austria, Switzerland)
 **Plural:** –

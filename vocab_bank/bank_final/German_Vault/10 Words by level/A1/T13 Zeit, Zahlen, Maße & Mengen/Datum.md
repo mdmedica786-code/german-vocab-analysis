@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 4a"
 freq_rank: 536
 skip: false
+audio: "Datum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Datum
+
+![[Datum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datum&language=de)
 
 **Meaning:** date
 **Plural:** Daten

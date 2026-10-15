@@ -15,11 +15,16 @@ id: "B3554"
 netzwerk: "B1 K3 3b"
 freq_rank: 5759
 skip: false
+audio: "Todesfall.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Todesfall
+
+![[Todesfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Todesfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Todesfall&language=de)
 
 **Meaning:** death
 **Plural:** Todesfälle

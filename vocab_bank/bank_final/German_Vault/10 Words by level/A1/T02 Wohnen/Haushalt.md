@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 12b"
 freq_rank: 2439
 skip: false
+audio: "Haushalt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Haushalt
+
+![[Haushalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haushalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haushalt&language=de)
 
 **Meaning:** household
 **Plural:** Haushalte

@@ -15,11 +15,16 @@ id: "B5529"
 goethe_level: "B1"
 freq_rank: 2217
 skip: false
+audio: "Täter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Täter
+
+![[Täter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%A4ter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%A4ter&language=de)
 
 **Meaning:** perpetrator; culprit
 **Plural:** Täter

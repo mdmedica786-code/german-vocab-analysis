@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1b"
 freq_rank: 968
 skip: false
+audio: "Gegensatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gegensatz
+
+![[Gegensatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegensatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegensatz&language=de)
 
 **Meaning:** opposite
 **Plural:** Gegensätze

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 10a"
 freq_rank: 2954
 skip: false
+audio: "Fieber.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fieber
+
+![[Fieber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fieber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fieber&language=de)
 
 **Meaning:** fever
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6279"
 freq_rank: 5315
 skip: false
+audio: "Anatomie.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anatomie
+
+![[Anatomie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anatomie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anatomie&language=de)
 
 **Meaning:** anatomy
 **Plural:** –

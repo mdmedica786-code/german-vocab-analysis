@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2684"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "verwundern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwundern
+
+![[verwundern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verwundern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verwundern&language=de)
 
 **Meaning:** to astonish; to surprise
 **Forms:** verwundert · verwunderte · hat verwundert

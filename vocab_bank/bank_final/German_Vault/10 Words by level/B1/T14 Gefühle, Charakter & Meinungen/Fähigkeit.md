@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 797
 skip: false
+audio: "Fähigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fähigkeit
+
+![[Fähigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%A4higkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%A4higkeit&language=de)
 
 **Meaning:** ability
 **Plural:** Fähigkeiten

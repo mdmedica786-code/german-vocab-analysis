@@ -15,11 +15,16 @@ id: "B5682"
 goethe_level: "A1"
 freq_rank: 2783
 skip: false
+audio: "Vorsicht.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorsicht
+
+![[Vorsicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsicht&language=de)
 
 **Meaning:** caution; care
 **Plural:** –

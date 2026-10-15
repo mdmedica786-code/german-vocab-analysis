@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4047"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "hinzukommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # hinzukommen
+
+![[hinzukommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinzukommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinzukommen&language=de)
 
 **Meaning:** to be added; to join; to come along
 **Forms:** kommt hinzu · kam hinzu · ist hinzugekommen

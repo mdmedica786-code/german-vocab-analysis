@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2934"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Engländer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Engländer
+
+![[Engländer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Engl%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Engl%C3%A4nder&language=de)
 
 **Meaning:** Englishman
 **Plural:** Engländer

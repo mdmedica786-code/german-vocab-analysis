@@ -15,11 +15,16 @@ id: "B2529"
 netzwerk: "A2 K6 13c"
 freq_rank: 1090
 skip: false
+audio: "Verwendung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwendung
+
+![[Verwendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwendung&language=de)
 
 **Meaning:** usage
 **Plural:** –

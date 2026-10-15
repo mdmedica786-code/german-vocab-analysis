@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 9a"
 freq_rank: 2216
 skip: false
+audio: "Schauspielerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schauspielerin
+
+![[Schauspielerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspielerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspielerin&language=de)
 
 **Meaning:** actress
 **Plural:** Schauspielerinnen

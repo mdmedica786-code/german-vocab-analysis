@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3750"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "auslaufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # auslaufen
+
+![[auslaufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auslaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auslaufen&language=de)
 
 **Meaning:** to run out; to leak; to expire
 **Forms:** läuft aus · lief aus · ist ausgelaufen

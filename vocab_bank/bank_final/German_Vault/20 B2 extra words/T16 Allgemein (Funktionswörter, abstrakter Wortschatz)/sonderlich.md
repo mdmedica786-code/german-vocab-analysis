@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3003"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "sonderlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # sonderlich
+
+![[sonderlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sonderlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sonderlich&language=de)
 
 **Meaning:** particular; special
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

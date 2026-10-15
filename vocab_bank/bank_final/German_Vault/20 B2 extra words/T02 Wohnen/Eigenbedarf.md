@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1074"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Eigenbedarf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eigenbedarf
+
+![[Eigenbedarf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigenbedarf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigenbedarf&language=de)
 
 **Meaning:** own use (landlord's need to occupy)
 **Plural:** –

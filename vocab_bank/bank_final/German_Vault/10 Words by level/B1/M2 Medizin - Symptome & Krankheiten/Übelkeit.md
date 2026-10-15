@@ -14,11 +14,16 @@ bank: "main"
 id: "B6099"
 freq_rank: 4350
 skip: false
+audio: "Übelkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übelkeit
+
+![[Übelkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbelkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbelkeit&language=de)
 
 **Meaning:** nausea
 **Plural:** –

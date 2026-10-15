@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2919"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Pädagogik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pädagogik
+
+![[Pädagogik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4dagogik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4dagogik&language=de)
 
 **Meaning:** education; pedagogy
 **Plural:** –

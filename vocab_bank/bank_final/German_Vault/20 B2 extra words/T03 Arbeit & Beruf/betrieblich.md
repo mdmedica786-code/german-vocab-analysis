@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2586"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "betrieblich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # betrieblich
+
+![[betrieblich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betrieblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betrieblich&language=de)
 
 **Meaning:** company; operational
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

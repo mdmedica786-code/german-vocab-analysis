@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # auf den Weg bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20den%20Weg%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20den%20Weg%20bringen&language=de)
+
 **Meaning:** to initiate; to set in motion
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3438"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Glocke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Glocke
+
+![[Glocke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glocke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glocke&language=de)
 
 **Meaning:** bell
 **Plural:** Glocken

@@ -15,11 +15,16 @@ id: "B3893"
 netzwerk: "B1 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Verpackungsmüll.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verpackungsmüll
+
+![[Verpackungsmüll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verpackungsm%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpackungsm%C3%BCll&language=de)
 
 **Meaning:** packaging waste
 **Plural:** –

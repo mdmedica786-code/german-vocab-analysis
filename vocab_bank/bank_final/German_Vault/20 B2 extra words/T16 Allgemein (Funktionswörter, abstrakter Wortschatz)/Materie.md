@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2673"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Materie.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Materie
+
+![[Materie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Materie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Materie&language=de)
 
 **Meaning:** matter; subject matter
 **Plural:** Materien

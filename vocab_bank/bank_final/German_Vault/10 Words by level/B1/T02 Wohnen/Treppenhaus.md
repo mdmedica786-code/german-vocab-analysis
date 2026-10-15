@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 10d"
 freq_rank: 5754
 skip: false
+audio: "Treppenhaus.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Treppenhaus
+
+![[Treppenhaus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Treppenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treppenhaus&language=de)
 
 **Meaning:** stairwell
 **Plural:** Treppenhäuser

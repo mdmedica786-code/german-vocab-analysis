@@ -14,11 +14,16 @@ bank: "main"
 id: "B5839"
 freq_rank: 3109
 skip: false
+audio: "Genehmigung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Genehmigung
+
+![[Genehmigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Genehmigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genehmigung&language=de)
 
 **Meaning:** permit; approval
 **Plural:** Genehmigungen

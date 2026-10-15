@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0398"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Zugeständnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zugeständnis
+
+![[Zugeständnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zugest%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugest%C3%A4ndnis&language=de)
 
 **Meaning:** concession
 **Plural:** Zugeständnisse

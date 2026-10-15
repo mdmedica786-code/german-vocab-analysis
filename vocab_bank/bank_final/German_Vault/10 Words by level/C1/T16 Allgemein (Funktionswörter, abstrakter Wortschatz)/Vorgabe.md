@@ -14,11 +14,16 @@ bank: "main"
 id: "B5662"
 freq_rank: 2701
 skip: false
+audio: "Vorgabe.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorgabe
+
+![[Vorgabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorgabe&language=de)
 
 **Meaning:** requirement; guideline
 **Plural:** Vorgaben

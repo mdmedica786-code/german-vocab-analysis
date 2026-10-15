@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 4823
 skip: false
+audio: "Notfall.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Notfall
+
+![[Notfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notfall&language=de)
 
 **Meaning:** emergency
 **Plural:** Notfälle

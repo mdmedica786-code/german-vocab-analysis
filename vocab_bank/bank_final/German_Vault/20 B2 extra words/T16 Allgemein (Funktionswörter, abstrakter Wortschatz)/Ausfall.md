@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0639"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ausfall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausfall
+
+![[Ausfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausfall&language=de)
 
 **Meaning:** failure; cancellation; loss
 **Plural:** Ausfälle

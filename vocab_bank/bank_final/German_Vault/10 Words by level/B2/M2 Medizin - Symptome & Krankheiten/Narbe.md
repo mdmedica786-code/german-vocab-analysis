@@ -14,11 +14,16 @@ bank: "main"
 id: "B5968"
 freq_rank: 3670
 skip: false
+audio: "Narbe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Narbe
+
+![[Narbe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Narbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Narbe&language=de)
 
 **Meaning:** scar
 **Plural:** Narben

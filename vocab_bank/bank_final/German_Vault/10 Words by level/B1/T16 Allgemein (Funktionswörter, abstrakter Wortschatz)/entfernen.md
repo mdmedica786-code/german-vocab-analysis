@@ -13,11 +13,16 @@ id: "B5175"
 goethe_level: "B1"
 freq_rank: 564
 skip: false
+audio: "entfernen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entfernen
+
+![[entfernen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entfernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entfernen&language=de)
 
 **Meaning:** to remove
 **Forms:** entfernt · entfernte · hat entfernt

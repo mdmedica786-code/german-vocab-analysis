@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2a"
 freq_rank: 2168
 skip: false
+audio: "regional.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # regional
+
+![[regional.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/regional/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regional&language=de)
 
 **Meaning:** regional
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

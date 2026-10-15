@@ -15,11 +15,16 @@ id: "B3136"
 netzwerk: "A2 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Synchronsprecherin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Synchronsprecherin
+
+![[Synchronsprecherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Synchronsprecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Synchronsprecherin&language=de)
 
 **Meaning:** voice actress
 **Plural:** Synchronsprecherinnen

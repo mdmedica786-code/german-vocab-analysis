@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4670"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Zukunftschance.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Zukunftschance
+
+![[Zukunftschance.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zukunftschance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zukunftschance&language=de)
 
 **Meaning:** future opportunity; prospects
 **Plural:** Zukunftschancen

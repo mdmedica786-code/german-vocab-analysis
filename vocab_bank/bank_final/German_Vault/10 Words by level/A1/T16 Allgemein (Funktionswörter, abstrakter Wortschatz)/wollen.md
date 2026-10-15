@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # wollen
 
+[▶️ YouGlish](https://youglish.com/pronounce/wollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wollen&language=de)
+
 **Meaning:** to want (something)
 **Forms:** will · wollte · hat gewollt
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

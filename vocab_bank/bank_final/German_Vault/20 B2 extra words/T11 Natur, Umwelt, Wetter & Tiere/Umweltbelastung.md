@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0689"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Umweltbelastung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umweltbelastung
+
+![[Umweltbelastung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltbelastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltbelastung&language=de)
 
 **Meaning:** environmental pollution; burden on the environment
 **Plural:** Umweltbelastungen

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 3"
 freq_rank: 2590
 skip: false
+audio: "aufstehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufstehen
+
+![[aufstehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufstehen&language=de)
 
 **Meaning:** to get up; to stand up
 **Forms:** steht auf · stand auf · ist aufgestanden

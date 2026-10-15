@@ -15,11 +15,16 @@ id: "B2045"
 netzwerk: "A2 K2 11b"
 freq_rank: 5759
 skip: false
+audio: "Arzthelfer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arzthelfer
+
+![[Arzthelfer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arzthelfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arzthelfer&language=de)
 
 **Meaning:** doctor's assistant (m)
 **Plural:** Arzthelfer

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5869"
 freq_rank: 3224
 skip: false
+audio: "verstorben.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # verstorben
+
+![[verstorben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verstorben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verstorben&language=de)
 
 **Meaning:** deceased
 **Level:** C1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

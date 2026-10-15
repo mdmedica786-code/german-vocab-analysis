@@ -12,11 +12,16 @@ id: "B5299"
 goethe_level: "B1"
 freq_rank: 1276
 skip: false
+audio: "staatlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # staatlich
+
+![[staatlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/staatlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=staatlich&language=de)
 
 **Meaning:** state; state-run
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

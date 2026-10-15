@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 13b"
 freq_rank: 1006
 skip: false
+audio: "warm.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # warm
+
+![[warm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/warm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=warm&language=de)
 
 **Meaning:** warm
 **Forms:** wärmer – am wärmsten

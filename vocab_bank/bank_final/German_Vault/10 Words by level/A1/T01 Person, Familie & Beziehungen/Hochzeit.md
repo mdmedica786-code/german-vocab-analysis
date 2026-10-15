@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hochzeit
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hochzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochzeit&language=de)
+
 **Meaning:** wedding
 **Plural:** Hochzeiten
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

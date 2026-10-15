@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # mich
 
+[▶️ YouGlish](https://youglish.com/pronounce/mich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mich&language=de)
+
 **Meaning:** me
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

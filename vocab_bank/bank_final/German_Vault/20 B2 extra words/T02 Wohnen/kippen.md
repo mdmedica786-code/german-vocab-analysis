@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1703"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "kippen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # kippen
+
+![[kippen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kippen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kippen&language=de)
 
 **Meaning:** to tip; to tilt; to topple
 **Forms:** kippt · kippte · hat/ist gekippt

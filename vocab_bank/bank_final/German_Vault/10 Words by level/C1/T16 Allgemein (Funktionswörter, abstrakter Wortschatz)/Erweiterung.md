@@ -14,11 +14,16 @@ bank: "main"
 id: "B5654"
 freq_rank: 2676
 skip: false
+audio: "Erweiterung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erweiterung
+
+![[Erweiterung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erweiterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erweiterung&language=de)
 
 **Meaning:** extension; expansion
 **Plural:** Erweiterungen

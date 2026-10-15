@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "chatten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # chatten
+
+![[chatten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/chatten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chatten&language=de)
 
 **Meaning:** to chat
 **Forms:** chattet · chattete · hat gechattet

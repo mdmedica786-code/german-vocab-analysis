@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 5a"
 freq_rank: 770
 skip: false
+audio: "Beitrag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beitrag
+
+![[Beitrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beitrag&language=de)
 
 **Meaning:** contribution; fee; article
 **Plural:** Beiträge

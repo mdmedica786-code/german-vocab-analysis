@@ -14,11 +14,16 @@ bank: "main"
 id: "B5915"
 freq_rank: 3505
 skip: false
+audio: "Blutung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Blutung
+
+![[Blutung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blutung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blutung&language=de)
 
 **Meaning:** bleeding
 **Plural:** Blutungen

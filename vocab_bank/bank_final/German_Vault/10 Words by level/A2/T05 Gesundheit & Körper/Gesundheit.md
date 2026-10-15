@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 1b"
 freq_rank: 1572
 skip: false
+audio: "Gesundheit.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gesundheit
+
+![[Gesundheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesundheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheit&language=de)
 
 **Meaning:** health; bless you (after a sneeze)
 **Plural:** –

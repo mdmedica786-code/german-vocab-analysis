@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2795"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Klage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klage
+
+![[Klage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klage&language=de)
 
 **Meaning:** complaint; lawsuit
 **Plural:** Klagen

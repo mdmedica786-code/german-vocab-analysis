@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Portugiesisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Portugiesisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portugiesisch&language=de)
+
 **Meaning:** Portuguese
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

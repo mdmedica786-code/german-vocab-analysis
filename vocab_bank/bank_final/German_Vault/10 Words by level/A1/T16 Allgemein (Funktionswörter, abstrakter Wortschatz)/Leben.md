@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 2a"
 freq_rank: 652
 skip: false
+audio: "leben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Leben
+
+![[leben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leben&language=de)
 
 **Meaning:** life
 **Plural:** Leben

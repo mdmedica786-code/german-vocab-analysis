@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2622"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Mischung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mischung
+
+![[Mischung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mischung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mischung&language=de)
 
 **Meaning:** mixture; blend
 **Plural:** Mischungen

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 5c"
 freq_rank: 2931
 skip: false
+audio: "durcheinander.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # durcheinander
+
+![[durcheinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durcheinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durcheinander&language=de)
 
 **Meaning:** disorganized
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

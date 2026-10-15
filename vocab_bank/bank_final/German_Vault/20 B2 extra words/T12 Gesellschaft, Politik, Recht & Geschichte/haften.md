@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1275"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "haften.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # haften
+
+![[haften.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/haften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=haften&language=de)
 
 **Meaning:** to be liable; to stick
 **Forms:** haftet · haftete · hat gehaftet

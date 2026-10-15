@@ -11,11 +11,16 @@ bank: "main"
 id: "B5229"
 freq_rank: 964
 skip: false
+audio: "willen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # willen
+
+![[willen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/willen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=willen&language=de)
 
 **Meaning:** for the sake of
 **Case:** + Gen. (um ... willen)

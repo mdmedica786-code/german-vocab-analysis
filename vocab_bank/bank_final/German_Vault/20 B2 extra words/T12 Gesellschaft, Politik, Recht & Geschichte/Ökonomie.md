@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2918"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Ökonomie.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ökonomie
+
+![[Ökonomie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96konomie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96konomie&language=de)
 
 **Meaning:** economics; economy
 **Plural:** Ökonomien

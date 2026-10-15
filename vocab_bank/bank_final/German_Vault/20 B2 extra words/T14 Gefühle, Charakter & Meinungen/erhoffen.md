@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0892"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "erhoffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erhoffen
+
+![[erhoffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erhoffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erhoffen&language=de)
 
 **Meaning:** to hope for; to expect
 **Forms:** erhofft sich · erhoffte sich · hat sich erhofft

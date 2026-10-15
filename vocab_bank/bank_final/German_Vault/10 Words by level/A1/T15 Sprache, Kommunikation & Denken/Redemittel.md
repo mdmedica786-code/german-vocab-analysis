@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Redemittel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Redemittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Redemittel&language=de)
+
 **Meaning:** useful phrase (for speaking and writing)
 **Plural:** Redemittel
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

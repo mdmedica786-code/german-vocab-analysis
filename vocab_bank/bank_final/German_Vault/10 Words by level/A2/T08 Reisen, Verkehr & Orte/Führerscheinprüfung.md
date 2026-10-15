@@ -15,11 +15,16 @@ id: "B2180"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Führerscheinprüfung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Führerscheinprüfung
+
+![[Führerscheinprüfung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerscheinpr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerscheinpr%C3%BCfung&language=de)
 
 **Meaning:** driving test
 **Plural:** Führerscheinprüfungen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0792"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "übersichtlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # übersichtlich
+
+![[übersichtlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbersichtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbersichtlich&language=de)
 
 **Meaning:** clear; well laid out
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

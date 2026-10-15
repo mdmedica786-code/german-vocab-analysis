@@ -12,11 +12,16 @@ id: "B3608"
 netzwerk: "B1 K3 3c"
 freq_rank: 3751
 skip: false
+audio: "unverändert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unverändert
+
+![[unverändert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unver%C3%A4ndert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unver%C3%A4ndert&language=de)
 
 **Meaning:** unchanged
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

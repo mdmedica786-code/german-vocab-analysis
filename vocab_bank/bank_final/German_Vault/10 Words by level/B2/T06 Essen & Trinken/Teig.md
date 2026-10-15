@@ -14,11 +14,16 @@ bank: "main"
 id: "B6110"
 freq_rank: 4454
 skip: false
+audio: "Teig.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Teig
+
+![[Teig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teig&language=de)
 
 **Meaning:** dough; batter
 **Plural:** Teige

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1314"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verharmlosen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verharmlosen
+
+![[verharmlosen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verharmlosen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verharmlosen&language=de)
 
 **Meaning:** to play down; to trivialise
 **Forms:** verharmlost · verharmloste · hat verharmlost

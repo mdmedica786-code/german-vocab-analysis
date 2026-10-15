@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1207"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "aufschlagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufschlagen
+
+![[aufschlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufschlagen&language=de)
 
 **Meaning:** to open (a book); to hit; to increase (prices)
 **Forms:** schlägt auf · schlug auf · hat/ist aufgeschlagen

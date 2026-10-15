@@ -15,11 +15,16 @@ id: "B6295"
 goethe_level: "B1"
 freq_rank: 5441
 skip: false
+audio: "Golf.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Golf
+
+![[Golf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Golf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Golf&language=de)
 
 **Meaning:** golf
 **Plural:** –

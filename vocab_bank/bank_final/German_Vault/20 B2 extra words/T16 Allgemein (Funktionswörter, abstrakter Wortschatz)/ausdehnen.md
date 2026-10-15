@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0861"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ausdehnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausdehnen
+
+![[ausdehnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausdehnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausdehnen&language=de)
 
 **Meaning:** to expand; to extend
 **Forms:** dehnt aus · dehnte aus · hat ausgedehnt

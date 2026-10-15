@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3175"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Vorfall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorfall
+
+![[Vorfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfall&language=de)
 
 **Meaning:** incident; occurrence
 **Plural:** Vorfälle

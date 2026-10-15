@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1259"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "ergattern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ergattern
+
+![[ergattern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ergattern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ergattern&language=de)
 
 **Meaning:** to snap up; to get hold of
 **Forms:** ergattert · ergatterte · hat ergattert

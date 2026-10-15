@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1116"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Zustellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zustellung
+
+![[Zustellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zustellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zustellung&language=de)
 
 **Meaning:** delivery; service (of documents)
 **Plural:** Zustellungen

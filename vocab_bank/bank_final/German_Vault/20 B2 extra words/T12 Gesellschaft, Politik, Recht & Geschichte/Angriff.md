@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2473"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Angriff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Angriff
+
+![[Angriff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angriff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angriff&language=de)
 
 **Meaning:** attack
 **Plural:** Angriffe

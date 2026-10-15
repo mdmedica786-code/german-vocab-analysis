@@ -15,11 +15,16 @@ id: "B4087"
 netzwerk: "B1 K6 1b"
 freq_rank: 3287
 skip: false
+audio: "Prognose.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Prognose
+
+![[Prognose.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prognose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prognose&language=de)
 
 **Meaning:** prognosis; forecast
 **Plural:** Prognosen

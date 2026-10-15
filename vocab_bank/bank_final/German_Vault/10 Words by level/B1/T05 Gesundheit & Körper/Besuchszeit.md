@@ -15,11 +15,16 @@ id: "B4414"
 netzwerk: "B1 K8 5a"
 freq_rank: 5759
 skip: false
+audio: "Besuchszeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besuchszeit
+
+![[Besuchszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besuchszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besuchszeit&language=de)
 
 **Meaning:** visiting hours
 **Plural:** Besuchszeiten

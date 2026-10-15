@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 11a"
 freq_rank: 3332
 skip: false
+audio: "Anruf.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anruf
+
+![[Anruf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anruf&language=de)
 
 **Meaning:** call
 **Plural:** Anrufe

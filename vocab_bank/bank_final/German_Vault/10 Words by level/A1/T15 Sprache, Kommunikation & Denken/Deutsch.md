@@ -14,11 +14,16 @@ netzwerk: "A1 K1 1a"
 freq_rank: 2000
 skip: true
 skip_reason: "cognate or proper name (country, language, school subject, sport)"
+audio: "deutsch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # Deutsch
+
+![[deutsch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deutsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deutsch&language=de)
 
 **Meaning:** German
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

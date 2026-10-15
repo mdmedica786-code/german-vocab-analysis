@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 58
 skip: false
+audio: "geben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # geben
+
+![[geben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geben&language=de)
 
 **Meaning:** to give; (es gibt) there is/are
 **Forms:** gibt · gab · hat gegeben

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 2419
 skip: false
+audio: "Strecke.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strecke
+
+![[Strecke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strecke&language=de)
 
 **Meaning:** route; distance
 **Plural:** Strecken

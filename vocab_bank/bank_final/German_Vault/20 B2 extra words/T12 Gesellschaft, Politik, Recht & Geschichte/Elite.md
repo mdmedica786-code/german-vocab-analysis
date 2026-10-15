@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3551"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Elite.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Elite
+
+![[Elite.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elite&language=de)
 
 **Meaning:** elite
 **Plural:** Eliten

@@ -15,11 +15,16 @@ id: "B0979"
 netzwerk: "A1 K6 11"
 freq_rank: 5759
 skip: false
+audio: "Salami.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Salami
+
+![[Salami.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Salami/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salami&language=de)
 
 **Meaning:** salami
 **Plural:** Salamis

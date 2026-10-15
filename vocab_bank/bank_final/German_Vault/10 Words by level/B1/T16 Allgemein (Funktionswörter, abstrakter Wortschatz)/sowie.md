@@ -12,11 +12,16 @@ id: "B4950"
 netzwerk: "B1 K11 8b"
 freq_rank: 171
 skip: false
+audio: "sowie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # sowie
+
+![[sowie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sowie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sowie&language=de)
 
 **Meaning:** as well as; as soon as
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2529"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Fassung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fassung
+
+![[Fassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fassung&language=de)
 
 **Meaning:** version; composure; mount
 **Plural:** Fassungen

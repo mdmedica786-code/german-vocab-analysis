@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3797"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Berufsanfängerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Berufsanfängerin
+
+![[Berufsanfängerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsanf%C3%A4ngerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsanf%C3%A4ngerin&language=de)
 
 **Meaning:** career starter (female)
 **Plural:** Berufsanfängerinnen

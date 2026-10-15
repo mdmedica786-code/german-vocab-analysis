@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3298"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ausschau.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausschau
+
+![[Ausschau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausschau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausschau&language=de)
 
 **Meaning:** lookout (only in "Ausschau halten nach")
 **Plural:** –

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5510"
 freq_rank: 2158
 skip: false
+audio: "philosophisch.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # philosophisch
+
+![[philosophisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/philosophisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=philosophisch&language=de)
 
 **Meaning:** philosophical
 **Level:** C1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

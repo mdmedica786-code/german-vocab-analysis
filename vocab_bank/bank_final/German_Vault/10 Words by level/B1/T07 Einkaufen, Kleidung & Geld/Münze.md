@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 3365
 skip: false
+audio: "Münze.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Münze
+
+![[Münze.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCnze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCnze&language=de)
 
 **Meaning:** coin
 **Plural:** Münzen

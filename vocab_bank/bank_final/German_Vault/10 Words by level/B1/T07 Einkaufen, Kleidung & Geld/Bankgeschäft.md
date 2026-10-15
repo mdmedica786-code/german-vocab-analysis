@@ -15,11 +15,16 @@ id: "B5013"
 netzwerk: "B1 K12 3a"
 freq_rank: 5759
 skip: false
+audio: "Bankgeschäft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bankgeschäft
+
+![[Bankgeschäft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bankgesch%C3%A4ft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankgesch%C3%A4ft&language=de)
 
 **Meaning:** banking
 **Plural:** Bankgeschäfte

@@ -15,11 +15,16 @@ id: "B4549"
 netzwerk: "B1 K8 13a"
 freq_rank: 3043
 skip: false
+audio: "Villa.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Villa
+
+![[Villa.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Villa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Villa&language=de)
 
 **Meaning:** mansion
 **Plural:** Villen

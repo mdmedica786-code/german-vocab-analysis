@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 11b"
 freq_rank: 1192
 skip: false
+audio: "Berg.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Berg
+
+![[Berg.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berg&language=de)
 
 **Meaning:** mountain
 **Plural:** Berge

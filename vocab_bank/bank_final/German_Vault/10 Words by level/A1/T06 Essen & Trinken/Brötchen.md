@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 5333
 skip: false
+audio: "Brötchen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Brötchen
+
+![[Brötchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Br%C3%B6tchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%B6tchen&language=de)
 
 **Meaning:** bread roll
 **Plural:** Brötchen

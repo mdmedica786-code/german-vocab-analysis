@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 5759
 skip: false
+audio: "Bürgerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bürgerin
+
+![[Bürgerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgerin&language=de)
 
 **Meaning:** citizen (f)
 **Plural:** Bürgerinnen

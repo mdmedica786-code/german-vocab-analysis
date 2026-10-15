@@ -13,11 +13,16 @@ id: "B4958"
 netzwerk: "B1 K11 10"
 freq_rank: 5112
 skip: false
+audio: "ausreden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausreden
+
+![[ausreden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausreden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausreden&language=de)
 
 **Meaning:** to finish speaking
 **Forms:** redet aus · redete aus · hat ausgeredet

@@ -13,11 +13,16 @@ id: "B3649"
 netzwerk: "B1 K3 6d"
 freq_rank: 5759
 skip: false
+audio: "wegziehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wegziehen
+
+![[wegziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wegziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wegziehen&language=de)
 
 **Meaning:** to move away
 **Forms:** zieht weg · zog weg · ist weggezogen

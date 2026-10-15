@@ -14,11 +14,16 @@ bank: "main"
 id: "B5612"
 freq_rank: 2534
 skip: false
+audio: "Wachstum.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wachstum
+
+![[Wachstum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wachstum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wachstum&language=de)
 
 **Meaning:** growth
 **Plural:** –

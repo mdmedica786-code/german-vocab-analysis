@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0238"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "voraussetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # voraussetzen
+
+![[voraussetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/voraussetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=voraussetzen&language=de)
 
 **Meaning:** to presuppose; to require
 **Forms:** setzt voraus · setzte voraus · hat vorausgesetzt

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 5759
 skip: false
+audio: "Vermieterin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vermieterin
+
+![[Vermieterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vermieterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermieterin&language=de)
 
 **Meaning:** landlady
 **Plural:** Vermieterinnen

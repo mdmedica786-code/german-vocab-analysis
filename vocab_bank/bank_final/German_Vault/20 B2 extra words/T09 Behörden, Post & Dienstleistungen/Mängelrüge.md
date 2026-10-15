@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1093"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Mängelrüge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mängelrüge
+
+![[Mängelrüge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4ngelr%C3%BCge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4ngelr%C3%BCge&language=de)
 
 **Meaning:** notice of defect; complaint about defects
 **Plural:** Mängelrügen

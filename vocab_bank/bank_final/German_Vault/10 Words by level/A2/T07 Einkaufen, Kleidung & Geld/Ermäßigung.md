@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 5a"
 freq_rank: 5759
 skip: false
+audio: "Ermäßigung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ermäßigung
+
+![[Ermäßigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erm%C3%A4%C3%9Figung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erm%C3%A4%C3%9Figung&language=de)
 
 **Meaning:** discount
 **Plural:** Ermäßigungen

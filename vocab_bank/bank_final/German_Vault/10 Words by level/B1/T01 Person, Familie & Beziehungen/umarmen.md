@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 3872
 skip: false
+audio: "umarmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umarmen
+
+![[umarmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umarmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umarmen&language=de)
 
 **Meaning:** to hug
 **Forms:** umarmt · umarmte · hat umarmt

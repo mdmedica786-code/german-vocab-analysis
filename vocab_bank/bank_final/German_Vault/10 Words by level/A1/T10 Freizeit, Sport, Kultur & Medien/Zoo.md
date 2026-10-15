@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 5a"
 freq_rank: 2645
 skip: false
+audio: "Zoo.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zoo
+
+![[Zoo.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zoo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zoo&language=de)
 
 **Meaning:** zoo
 **Plural:** Zoos

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Rollenkarte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Rollenkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollenkarte&language=de)
+
 **Meaning:** role card
 **Plural:** Rollenkarten
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

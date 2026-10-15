@@ -12,11 +12,16 @@ id: "B5663"
 goethe_level: "B1"
 freq_rank: 2709
 skip: false
+audio: "soviel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/pronoun"]
 status: "new"
 ---
 <!-- bank:start -->
 # soviel
+
+![[soviel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/soviel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=soviel&language=de)
 
 **Meaning:** as much as; as far as
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

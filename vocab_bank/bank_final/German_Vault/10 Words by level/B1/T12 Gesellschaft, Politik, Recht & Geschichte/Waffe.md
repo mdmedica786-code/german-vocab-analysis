@@ -14,11 +14,16 @@ bank: "main"
 id: "B5226"
 freq_rank: 951
 skip: false
+audio: "Waffe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Waffe
+
+![[Waffe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Waffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waffe&language=de)
 
 **Meaning:** weapon
 **Plural:** Waffen

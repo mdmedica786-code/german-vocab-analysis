@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1787"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Businessplan.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Businessplan
+
+![[Businessplan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Businessplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Businessplan&language=de)
 
 **Meaning:** business plan
 **Plural:** Businesspläne

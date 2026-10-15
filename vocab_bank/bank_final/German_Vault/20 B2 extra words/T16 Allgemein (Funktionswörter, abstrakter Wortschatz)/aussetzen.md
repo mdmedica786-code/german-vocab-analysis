@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1221"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "aussetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # aussetzen
+
+![[aussetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussetzen&language=de)
 
 **Meaning:** to suspend; to expose; to stop
 **Forms:** setzt aus · setzte aus · hat ausgesetzt

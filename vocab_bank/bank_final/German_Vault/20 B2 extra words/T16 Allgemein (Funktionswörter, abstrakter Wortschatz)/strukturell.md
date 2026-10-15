@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2697"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "strukturell.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # strukturell
+
+![[strukturell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strukturell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strukturell&language=de)
 
 **Meaning:** structural
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

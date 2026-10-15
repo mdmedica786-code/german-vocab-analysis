@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # fließend
 
+[▶️ YouGlish](https://youglish.com/pronounce/flie%C3%9Fend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=flie%C3%9Fend&language=de)
+
 **Meaning:** fluently
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

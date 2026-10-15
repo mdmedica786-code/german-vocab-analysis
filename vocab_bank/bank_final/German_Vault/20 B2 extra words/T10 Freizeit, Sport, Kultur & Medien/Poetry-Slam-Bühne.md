@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4317"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Poetry-Slam-Bühne
+
+[▶️ YouGlish](https://youglish.com/pronounce/Poetry-Slam-B%C3%BChne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poetry-Slam-B%C3%BChne&language=de)
 
 **Meaning:** poetry slam stage
 **Plural:** Poetry-Slam-Bühnen

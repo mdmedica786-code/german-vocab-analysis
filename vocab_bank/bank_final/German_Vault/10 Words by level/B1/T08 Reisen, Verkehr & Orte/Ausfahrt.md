@@ -15,11 +15,16 @@ id: "B6365"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Ausfahrt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausfahrt
+
+![[Ausfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausfahrt&language=de)
 
 **Meaning:** exit; slip road
 **Plural:** Ausfahrten

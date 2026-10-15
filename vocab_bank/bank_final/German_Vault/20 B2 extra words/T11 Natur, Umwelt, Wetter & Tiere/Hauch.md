@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2940"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Hauch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hauch
+
+![[Hauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauch&language=de)
 
 **Meaning:** breath; hint; touch
 **Plural:** –

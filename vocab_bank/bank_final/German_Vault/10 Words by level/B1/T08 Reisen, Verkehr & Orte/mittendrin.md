@@ -12,11 +12,16 @@ id: "B4991"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "mittendrin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mittendrin
+
+![[mittendrin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mittendrin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mittendrin&language=de)
 
 **Meaning:** in the middle of it
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

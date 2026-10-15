@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0900"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "gewähren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewähren
+
+![[gewähren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gew%C3%A4hren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gew%C3%A4hren&language=de)
 
 **Meaning:** to grant; to give
 **Forms:** gewährt · gewährte · hat gewährt

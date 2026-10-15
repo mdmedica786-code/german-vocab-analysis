@@ -14,11 +14,16 @@ bank: "main"
 id: "B5363"
 freq_rank: 1624
 skip: false
+audio: "Faust.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Faust
+
+![[Faust.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Faust/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faust&language=de)
 
 **Meaning:** fist
 **Plural:** Fäuste

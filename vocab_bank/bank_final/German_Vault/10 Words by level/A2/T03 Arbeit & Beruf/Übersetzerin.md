@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Übersetzerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übersetzerin
+
+![[Übersetzerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbersetzerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbersetzerin&language=de)
 
 **Meaning:** translator (f)
 **Plural:** Übersetzerinnen

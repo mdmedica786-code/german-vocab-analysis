@@ -15,11 +15,16 @@ id: "B1470"
 netzwerk: "A1 K9 11b"
 freq_rank: 5759
 skip: false
+audio: "Textbaustein.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Textbaustein
+
+![[Textbaustein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Textbaustein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textbaustein&language=de)
 
 **Meaning:** text block
 **Plural:** Textbausteine

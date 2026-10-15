@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3701"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "aktivisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # aktivisch
+
+![[aktivisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aktivisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aktivisch&language=de)
 
 **Meaning:** in the active voice
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

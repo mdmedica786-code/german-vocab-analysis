@@ -15,11 +15,16 @@ id: "B4712"
 netzwerk: "B1 K9 13b"
 freq_rank: 4789
 skip: false
+audio: "Schranke.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schranke
+
+![[Schranke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schranke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schranke&language=de)
 
 **Meaning:** barrier
 **Plural:** Schranken

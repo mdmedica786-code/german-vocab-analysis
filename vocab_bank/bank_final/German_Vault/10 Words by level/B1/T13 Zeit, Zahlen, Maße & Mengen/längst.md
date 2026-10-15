@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 1025
 skip: false
+audio: "längst.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # längst
+
+![[längst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%A4ngst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%A4ngst&language=de)
 
 **Meaning:** for a long time
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

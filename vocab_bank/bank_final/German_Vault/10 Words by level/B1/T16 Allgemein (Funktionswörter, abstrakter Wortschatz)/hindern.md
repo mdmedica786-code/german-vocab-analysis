@@ -13,11 +13,16 @@ id: "B4918"
 netzwerk: "B1 K11 6b"
 freq_rank: 4439
 skip: false
+audio: "hindern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hindern
+
+![[hindern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hindern&language=de)
 
 **Meaning:** to hinder
 **Forms:** hindert · hinderte · hat gehindert

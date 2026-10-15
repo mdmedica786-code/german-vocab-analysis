@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4140"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Krankentransport.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Krankentransport
+
+![[Krankentransport.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankentransport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankentransport&language=de)
 
 **Meaning:** patient transport; ambulance transport
 **Plural:** Krankentransporte

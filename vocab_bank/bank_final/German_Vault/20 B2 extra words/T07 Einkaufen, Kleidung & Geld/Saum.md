@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1407"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Saum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Saum
+
+![[Saum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Saum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saum&language=de)
 
 **Meaning:** hem
 **Plural:** Säume

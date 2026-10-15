@@ -15,11 +15,16 @@ id: "B1943"
 netzwerk: "A2 K2 1c"
 freq_rank: 5759
 skip: false
+audio: "Au-pair.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Au-pair
+
+![[Au-pair.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Au-pair/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Au-pair&language=de)
 
 **Meaning:** au pair
 **Plural:** Au-pairs

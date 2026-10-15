@@ -15,11 +15,16 @@ id: "B2173"
 netzwerk: "A2 K3 13e"
 freq_rank: 4100
 skip: false
+audio: "Trailer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Trailer
+
+![[Trailer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trailer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trailer&language=de)
 
 **Meaning:** trailer
 **Plural:** Trailer

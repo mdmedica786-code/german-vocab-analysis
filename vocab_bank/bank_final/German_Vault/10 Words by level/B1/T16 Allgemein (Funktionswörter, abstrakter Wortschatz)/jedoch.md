@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 150
 skip: false
+audio: "jedoch.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jedoch
+
+![[jedoch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jedoch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jedoch&language=de)
 
 **Meaning:** however
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

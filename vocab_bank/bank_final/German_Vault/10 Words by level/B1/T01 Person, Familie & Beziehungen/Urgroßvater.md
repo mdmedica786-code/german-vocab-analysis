@@ -15,11 +15,16 @@ id: "B5133"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Urgroßvater.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Urgroßvater
+
+![[Urgroßvater.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urgro%C3%9Fvater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urgro%C3%9Fvater&language=de)
 
 **Meaning:** great-grandfather
 **Plural:** Urgroßväter

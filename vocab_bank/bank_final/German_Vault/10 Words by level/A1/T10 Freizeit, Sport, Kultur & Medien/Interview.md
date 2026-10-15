@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 4b"
 freq_rank: 1510
 skip: false
+audio: "Interview.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Interview
+
+![[Interview.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interview/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interview&language=de)
 
 **Meaning:** interview
 **Plural:** Interviews

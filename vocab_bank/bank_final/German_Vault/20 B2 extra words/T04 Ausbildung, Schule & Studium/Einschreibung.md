@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0926"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Einschreibung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einschreibung
+
+![[Einschreibung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschreibung&language=de)
 
 **Meaning:** enrolment; registration
 **Plural:** Einschreibungen

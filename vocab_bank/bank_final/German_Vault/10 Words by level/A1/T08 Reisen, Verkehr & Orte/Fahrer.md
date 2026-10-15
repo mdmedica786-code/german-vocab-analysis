@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 1b"
 freq_rank: 2713
 skip: false
+audio: "Fahrer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrer
+
+![[Fahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrer&language=de)
 
 **Meaning:** driver (m)
 **Plural:** Fahrer

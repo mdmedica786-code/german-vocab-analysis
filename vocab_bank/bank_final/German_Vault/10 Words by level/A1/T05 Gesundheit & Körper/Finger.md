@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 6a"
 freq_rank: 579
 skip: false
+audio: "Finger.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Finger
+
+![[Finger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Finger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finger&language=de)
 
 **Meaning:** finger
 **Plural:** Finger

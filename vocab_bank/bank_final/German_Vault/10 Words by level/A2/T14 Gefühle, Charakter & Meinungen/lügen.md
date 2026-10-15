@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "B1 K7 12b"
 freq_rank: 3142
 skip: false
+audio: "lügen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lügen
+
+![[lügen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%BCgen&language=de)
 
 **Meaning:** to lie
 **Forms:** lügt · log · hat gelogen

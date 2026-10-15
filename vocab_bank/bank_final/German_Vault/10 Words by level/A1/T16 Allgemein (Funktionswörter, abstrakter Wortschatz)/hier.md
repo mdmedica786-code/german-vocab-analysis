@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # hier
 
+[▶️ YouGlish](https://youglish.com/pronounce/hier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hier&language=de)
+
 **Meaning:** here
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

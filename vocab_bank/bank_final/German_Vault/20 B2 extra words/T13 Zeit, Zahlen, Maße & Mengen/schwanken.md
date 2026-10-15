@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0260"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "schwanken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwanken
+
+![[schwanken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwanken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwanken&language=de)
 
 **Meaning:** to fluctuate; to waver
 **Forms:** schwankt · schwankte · hat geschwankt

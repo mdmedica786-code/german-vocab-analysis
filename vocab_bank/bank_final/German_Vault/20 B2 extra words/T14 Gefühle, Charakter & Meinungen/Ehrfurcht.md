@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3594"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ehrfurcht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ehrfurcht
+
+![[Ehrfurcht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehrfurcht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrfurcht&language=de)
 
 **Meaning:** awe; reverence
 **Plural:** –

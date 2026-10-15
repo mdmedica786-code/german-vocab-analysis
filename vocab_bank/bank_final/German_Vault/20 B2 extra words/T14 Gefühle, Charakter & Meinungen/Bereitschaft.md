@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2721"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Bereitschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bereitschaft
+
+![[Bereitschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bereitschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bereitschaft&language=de)
 
 **Meaning:** readiness; willingness; standby duty
 **Plural:** Bereitschaften

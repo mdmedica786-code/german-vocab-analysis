@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0553"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Politikverdrossenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Politikverdrossenheit
+
+![[Politikverdrossenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Politikverdrossenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politikverdrossenheit&language=de)
 
 **Meaning:** disenchantment with politics
 **Plural:** –

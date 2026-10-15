@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4679"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # jemandem auf den Keks gehen
+
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20auf%20den%20Keks%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20auf%20den%20Keks%20gehen&language=de)
 
 **Meaning:** to get on someone's nerves (colloquial)
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

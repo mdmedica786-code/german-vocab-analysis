@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2392"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "erneut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erneut
+
+![[erneut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erneut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erneut&language=de)
 
 **Meaning:** again; anew
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 2854
 skip: false
+audio: "Abfahrt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abfahrt
+
+![[Abfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfahrt&language=de)
 
 **Meaning:** departure
 **Plural:** Abfahrten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0916"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Abschlussarbeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abschlussarbeit
+
+![[Abschlussarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abschlussarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschlussarbeit&language=de)
 
 **Meaning:** final thesis; degree dissertation
 **Plural:** Abschlussarbeiten

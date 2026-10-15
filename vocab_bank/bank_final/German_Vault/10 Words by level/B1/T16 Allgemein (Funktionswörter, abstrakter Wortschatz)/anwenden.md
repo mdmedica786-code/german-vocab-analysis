@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 1174
 skip: false
+audio: "anwenden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # anwenden
+
+![[anwenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anwenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anwenden&language=de)
 
 **Meaning:** to use
 **Forms:** wendet an · wandte an · hat angewandt/angewendet

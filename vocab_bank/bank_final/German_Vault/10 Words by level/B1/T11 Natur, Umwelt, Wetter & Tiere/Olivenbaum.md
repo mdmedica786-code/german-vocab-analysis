@@ -15,11 +15,16 @@ id: "B3362"
 netzwerk: "B1 K1 13c"
 freq_rank: 5759
 skip: false
+audio: "Olivenbaum.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Olivenbaum
+
+![[Olivenbaum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Olivenbaum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olivenbaum&language=de)
 
 **Meaning:** olive tree
 **Plural:** Olivenbäume

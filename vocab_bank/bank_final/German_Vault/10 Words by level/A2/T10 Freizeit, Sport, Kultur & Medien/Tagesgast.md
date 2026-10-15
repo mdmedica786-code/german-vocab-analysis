@@ -15,11 +15,16 @@ id: "B2418"
 netzwerk: "A2 K6 5a"
 freq_rank: 9999
 skip: false
+audio: "Tagesgast.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tagesgast
+
+![[Tagesgast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tagesgast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tagesgast&language=de)
 
 **Meaning:** one-day visitor
 **Plural:** Tagesgäste

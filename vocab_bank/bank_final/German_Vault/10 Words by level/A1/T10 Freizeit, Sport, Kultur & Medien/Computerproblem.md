@@ -15,11 +15,16 @@ id: "B1547"
 netzwerk: "A1 K10 12"
 freq_rank: 5759
 skip: false
+audio: "Computerproblem.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Computerproblem
+
+![[Computerproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Computerproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computerproblem&language=de)
 
 **Meaning:** computer problem
 **Plural:** Computerprobleme

@@ -12,11 +12,16 @@ bank: "main"
 id: "B6133"
 freq_rank: 4551
 skip: false
+audio: "ausliefern.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausliefern
+
+![[ausliefern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausliefern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausliefern&language=de)
 
 **Meaning:** to deliver; to extradite
 **Forms:** liefert aus · lieferte aus · hat ausgeliefert

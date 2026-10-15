@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1663"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "unnahbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # unnahbar
+
+![[unnahbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unnahbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unnahbar&language=de)
 
 **Meaning:** unapproachable; aloof
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

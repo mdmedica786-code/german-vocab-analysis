@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0308"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Betrachtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Betrachtung
+
+![[Betrachtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betrachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrachtung&language=de)
 
 **Meaning:** consideration; contemplation
 **Plural:** Betrachtungen

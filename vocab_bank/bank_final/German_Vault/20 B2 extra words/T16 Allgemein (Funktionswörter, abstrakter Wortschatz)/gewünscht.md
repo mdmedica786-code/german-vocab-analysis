@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2951"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "gewünscht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewünscht
+
+![[gewünscht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gew%C3%BCnscht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gew%C3%BCnscht&language=de)
 
 **Meaning:** desired; requested
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 8b"
 freq_rank: 985
 skip: false
+audio: "Kontrolle.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kontrolle
+
+![[Kontrolle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontrolle&language=de)
 
 **Meaning:** check
 **Plural:** Kontrollen

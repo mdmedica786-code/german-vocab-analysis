@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4192"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Lieblingssport.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Lieblingssport
+
+![[Lieblingssport.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieblingssport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieblingssport&language=de)
 
 **Meaning:** favourite sport
 **Plural:** –

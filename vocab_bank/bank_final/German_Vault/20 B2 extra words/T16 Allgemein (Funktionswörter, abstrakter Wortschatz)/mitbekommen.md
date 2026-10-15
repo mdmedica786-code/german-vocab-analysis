@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3002"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "mitbekommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitbekommen
+
+![[mitbekommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitbekommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitbekommen&language=de)
 
 **Meaning:** to notice; to catch (what is going on)
 **Forms:** bekommt mit · bekam mit · hat mitbekommen

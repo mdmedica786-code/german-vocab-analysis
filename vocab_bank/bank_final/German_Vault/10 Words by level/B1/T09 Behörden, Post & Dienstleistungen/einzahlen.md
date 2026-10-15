@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3a"
 freq_rank: 5759
 skip: false
+audio: "einzahlen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einzahlen
+
+![[einzahlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einzahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einzahlen&language=de)
 
 **Meaning:** to deposit
 **Forms:** zahlt ein · zahlte ein · hat eingezahlt

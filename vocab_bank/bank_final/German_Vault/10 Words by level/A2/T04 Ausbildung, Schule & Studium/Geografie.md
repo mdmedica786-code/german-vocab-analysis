@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Geografie
 
+[▶️ YouGlish](https://youglish.com/pronounce/Geografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geografie&language=de)
+
 **Meaning:** geography
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

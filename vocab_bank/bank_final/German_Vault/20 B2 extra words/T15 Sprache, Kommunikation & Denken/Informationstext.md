@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4074"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Informationstext.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Informationstext
+
+![[Informationstext.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Informationstext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Informationstext&language=de)
 
 **Meaning:** informational text
 **Plural:** Informationstexte

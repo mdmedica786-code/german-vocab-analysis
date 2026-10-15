@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # auf dem Laufenden halten
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20dem%20Laufenden%20halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20dem%20Laufenden%20halten&language=de)
+
 **Meaning:** to keep informed
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

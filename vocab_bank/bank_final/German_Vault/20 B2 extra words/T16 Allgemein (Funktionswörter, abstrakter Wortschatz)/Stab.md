@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3107"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Stab.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stab
+
+![[Stab.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stab&language=de)
 
 **Meaning:** rod; staff; baton
 **Plural:** Stäbe

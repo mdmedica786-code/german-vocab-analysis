@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3502"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "eisern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # eisern
+
+![[eisern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eisern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eisern&language=de)
 
 **Meaning:** iron; unyielding
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

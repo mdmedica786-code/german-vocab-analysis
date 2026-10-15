@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1530"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zurückhaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zurückhaltung
+
+![[Zurückhaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zur%C3%BCckhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zur%C3%BCckhaltung&language=de)
 
 **Meaning:** restraint; reserve
 **Plural:** –

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 1932
 skip: false
+audio: "sowieso.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sowieso
+
+![[sowieso.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sowieso/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sowieso&language=de)
 
 **Meaning:** anyway
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Saison-Job
 
+[▶️ YouGlish](https://youglish.com/pronounce/Saison-Job/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saison-Job&language=de)
+
 **Meaning:** seasonal job
 **Plural:** Saison-Jobs
 **Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

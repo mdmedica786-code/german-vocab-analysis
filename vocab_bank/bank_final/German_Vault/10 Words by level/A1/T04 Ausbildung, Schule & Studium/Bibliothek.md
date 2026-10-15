@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 1a"
 freq_rank: 1929
 skip: false
+audio: "Bibliothek.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bibliothek
+
+![[Bibliothek.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bibliothek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bibliothek&language=de)
 
 **Meaning:** library
 **Plural:** Bibliotheken

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # international
 
+[▶️ YouGlish](https://youglish.com/pronounce/international/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=international&language=de)
+
 **Meaning:** international
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

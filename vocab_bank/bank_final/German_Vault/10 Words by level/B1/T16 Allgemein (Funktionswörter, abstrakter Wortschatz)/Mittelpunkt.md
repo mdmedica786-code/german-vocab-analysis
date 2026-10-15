@@ -15,11 +15,16 @@ id: "B4990"
 netzwerk: "B1 K11 12b"
 freq_rank: 2123
 skip: false
+audio: "Mittelpunkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mittelpunkt
+
+![[Mittelpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittelpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelpunkt&language=de)
 
 **Meaning:** centre
 **Plural:** Mittelpunkte

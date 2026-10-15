@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2520"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "General.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der General
+
+![[General.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/General/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=General&language=de)
 
 **Meaning:** general
 **Plural:** Generäle

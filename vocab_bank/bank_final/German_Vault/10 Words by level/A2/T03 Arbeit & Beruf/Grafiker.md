@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Grafiker
 
+[▶️ YouGlish](https://youglish.com/pronounce/Grafiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grafiker&language=de)
+
 **Meaning:** graphic designer (m)
 **Plural:** Grafiker
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

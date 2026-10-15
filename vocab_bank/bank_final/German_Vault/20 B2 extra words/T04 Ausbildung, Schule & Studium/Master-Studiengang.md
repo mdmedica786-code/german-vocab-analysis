@@ -15,11 +15,13 @@ id: "D4211"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
 check: "?Schreibung (üblich: Masterstudiengang)"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Master-Studiengang
+
+[▶️ YouGlish](https://youglish.com/pronounce/Master-Studiengang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Master-Studiengang&language=de)
 
 **Meaning:** master's degree programme
 **Plural:** Master-Studiengänge

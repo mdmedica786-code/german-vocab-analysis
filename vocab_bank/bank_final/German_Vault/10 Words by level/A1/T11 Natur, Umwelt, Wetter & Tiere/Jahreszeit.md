@@ -15,11 +15,16 @@ id: "B0583"
 netzwerk: "A1 K3 10b"
 freq_rank: 4852
 skip: false
+audio: "Jahreszeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jahreszeit
+
+![[Jahreszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahreszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahreszeit&language=de)
 
 **Meaning:** season
 **Plural:** Jahreszeiten

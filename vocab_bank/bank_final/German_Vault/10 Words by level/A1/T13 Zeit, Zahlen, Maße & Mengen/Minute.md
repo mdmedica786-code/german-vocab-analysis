@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 15a"
 freq_rank: 438
 skip: false
+audio: "Minute.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Minute
+
+![[Minute.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Minute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minute&language=de)
 
 **Meaning:** minute
 **Plural:** Minuten

@@ -15,11 +15,16 @@ id: "B4652"
 netzwerk: "B1 K9 8a"
 freq_rank: 5759
 skip: false
+audio: "Farbstift.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Farbstift
+
+![[Farbstift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Farbstift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Farbstift&language=de)
 
 **Meaning:** coloured pencil; crayon
 **Plural:** Farbstifte

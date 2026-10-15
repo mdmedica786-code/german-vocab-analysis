@@ -15,11 +15,16 @@ id: "B4839"
 netzwerk: "B1 K10 7c"
 freq_rank: 5759
 skip: false
+audio: "Organisatorin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Organisatorin
+
+![[Organisatorin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Organisatorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Organisatorin&language=de)
 
 **Meaning:** organiser (f)
 **Plural:** Organisatorinnen

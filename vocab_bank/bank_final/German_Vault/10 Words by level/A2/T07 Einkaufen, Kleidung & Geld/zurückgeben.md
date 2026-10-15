@@ -13,11 +13,16 @@ id: "B2878"
 netzwerk: "A2 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "zurückgeben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückgeben
+
+![[zurückgeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckgeben&language=de)
 
 **Meaning:** to return
 **Forms:** gibt zurück · gab zurück · hat zurückgegeben

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 247
 skip: false
+audio: "tief.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # tief
+
+![[tief.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tief&language=de)
 
 **Meaning:** deep
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

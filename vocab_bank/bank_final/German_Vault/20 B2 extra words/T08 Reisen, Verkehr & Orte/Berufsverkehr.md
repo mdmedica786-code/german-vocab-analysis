@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1027"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Berufsverkehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Berufsverkehr
+
+![[Berufsverkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsverkehr&language=de)
 
 **Meaning:** rush-hour traffic
 **Plural:** –

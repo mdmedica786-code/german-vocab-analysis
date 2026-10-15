@@ -12,11 +12,16 @@ id: "B0858"
 netzwerk: "A1 K5 10b"
 freq_rank: 3054
 skip: false
+audio: "hey.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/interjection"]
 status: "new"
 ---
 <!-- bank:start -->
 # hey
+
+![[hey.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hey/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hey&language=de)
 
 **Meaning:** hey
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** informal

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2658"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Komplexität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Komplexität
+
+![[Komplexität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komplexit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komplexit%C3%A4t&language=de)
 
 **Meaning:** complexity
 **Plural:** –

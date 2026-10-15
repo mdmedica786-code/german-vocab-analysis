@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 4b"
 freq_rank: 936
 skip: false
+audio: "böse.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # böse
+
+![[böse.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/b%C3%B6se/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%B6se&language=de)
 
 **Meaning:** angry; evil; bad
 **Forms:** böser – am bösesten

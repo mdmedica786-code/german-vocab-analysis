@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3299"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Korrelation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Korrelation
+
+![[Korrelation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korrelation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrelation&language=de)
 
 **Meaning:** correlation
 **Plural:** Korrelationen

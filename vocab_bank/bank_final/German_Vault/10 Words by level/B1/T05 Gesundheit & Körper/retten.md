@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 9a"
 freq_rank: 1330
 skip: false
+audio: "retten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # retten
+
+![[retten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/retten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=retten&language=de)
 
 **Meaning:** to rescue
 **Forms:** rettet · rettete · hat gerettet

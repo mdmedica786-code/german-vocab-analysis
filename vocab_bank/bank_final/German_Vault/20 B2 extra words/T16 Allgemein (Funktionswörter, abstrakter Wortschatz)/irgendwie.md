@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2399"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "irgendwie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # irgendwie
+
+![[irgendwie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/irgendwie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irgendwie&language=de)
 
 **Meaning:** somehow; in some way
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

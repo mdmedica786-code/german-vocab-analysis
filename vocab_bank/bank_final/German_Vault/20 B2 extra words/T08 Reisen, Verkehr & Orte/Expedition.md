@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3578"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Expedition.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Expedition
+
+![[Expedition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Expedition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Expedition&language=de)
 
 **Meaning:** expedition
 **Plural:** Expeditionen

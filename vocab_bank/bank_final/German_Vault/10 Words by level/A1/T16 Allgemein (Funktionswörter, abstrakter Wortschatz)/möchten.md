@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 326
 skip: false
+audio: "möchten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # möchten
+
+![[möchten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%B6chten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%B6chten&language=de)
 
 **Meaning:** to want
 **Forms:** möchte · – (use wollte) · – (use hat gewollt)

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 1892
 skip: false
+audio: "nett.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nett
+
+![[nett.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nett&language=de)
 
 **Meaning:** nice
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

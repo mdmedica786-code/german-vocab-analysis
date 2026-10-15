@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3456"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Unterdrückung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterdrückung
+
+![[Unterdrückung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterdr%C3%BCckung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterdr%C3%BCckung&language=de)
 
 **Meaning:** oppression; suppression
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B0857"
 netzwerk: "A1 K5 10b"
 freq_rank: 5759
 skip: false
+audio: "Hamster.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hamster
+
+![[Hamster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hamster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hamster&language=de)
 
 **Meaning:** hamster
 **Plural:** Hamster

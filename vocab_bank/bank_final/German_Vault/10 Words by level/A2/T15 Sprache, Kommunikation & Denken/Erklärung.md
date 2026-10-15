@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 12b"
 freq_rank: 926
 skip: false
+audio: "Erklärung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erklärung
+
+![[Erklärung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erkl%C3%A4rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erkl%C3%A4rung&language=de)
 
 **Meaning:** explanation
 **Plural:** Erklärungen

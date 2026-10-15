@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3245"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einbindung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einbindung
+
+![[Einbindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einbindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbindung&language=de)
 
 **Meaning:** integration; involvement
 **Plural:** –

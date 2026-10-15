@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Abwartin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Abwartin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abwartin&language=de)
+
 **Meaning:** caretaker (f) (Swiss)
 **Plural:** Abwartinnen
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** regional

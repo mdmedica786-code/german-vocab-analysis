@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Birne.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Birne
+
+![[Birne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Birne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Birne&language=de)
 
 **Meaning:** pear
 **Other senses:** light bulb

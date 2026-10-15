@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1267"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erwidern.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwidern
+
+![[erwidern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwidern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwidern&language=de)
 
 **Meaning:** to reply; to return (a feeling)
 **Forms:** erwidert · erwiderte · hat erwidert

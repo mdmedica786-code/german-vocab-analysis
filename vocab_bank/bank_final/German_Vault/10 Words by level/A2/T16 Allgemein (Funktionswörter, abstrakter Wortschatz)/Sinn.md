@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9c"
 freq_rank: 234
 skip: false
+audio: "Sinn.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sinn
+
+![[Sinn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sinn&language=de)
 
 **Meaning:** sense; meaning; point
 **Plural:** Sinne

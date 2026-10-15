@@ -14,11 +14,16 @@ bank: "main"
 id: "B5824"
 freq_rank: 3020
 skip: false
+audio: "Schweiß.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schweiß
+
+![[Schweiß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwei%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwei%C3%9F&language=de)
 
 **Meaning:** sweat
 **Plural:** –

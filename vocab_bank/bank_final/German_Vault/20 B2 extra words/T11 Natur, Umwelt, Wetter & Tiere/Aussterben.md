@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0658"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Aussterben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Aussterben
+
+![[Aussterben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussterben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussterben&language=de)
 
 **Meaning:** extinction; dying out
 **Plural:** –

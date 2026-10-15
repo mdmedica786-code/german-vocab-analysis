@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2907"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Gattung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gattung
+
+![[Gattung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gattung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gattung&language=de)
 
 **Meaning:** genus; genre; kind
 **Plural:** Gattungen

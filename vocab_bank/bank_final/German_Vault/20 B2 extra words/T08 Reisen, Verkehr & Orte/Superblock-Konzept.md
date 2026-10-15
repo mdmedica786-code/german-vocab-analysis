@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4468"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Superblock-Konzept
+
+[▶️ YouGlish](https://youglish.com/pronounce/Superblock-Konzept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Superblock-Konzept&language=de)
 
 **Meaning:** superblock concept (traffic-calmed city blocks)
 **Plural:** Superblock-Konzepte

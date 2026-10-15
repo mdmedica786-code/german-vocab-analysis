@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4436"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Spielform.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Spielform
+
+![[Spielform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielform&language=de)
 
 **Meaning:** form of play; type of game
 **Plural:** Spielformen

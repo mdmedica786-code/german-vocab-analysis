@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6d"
 freq_rank: 3577
 skip: false
+audio: "verzeihen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verzeihen
+
+![[verzeihen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verzeihen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzeihen&language=de)
 
 **Meaning:** to forgive
 **Forms:** verzeiht · verzieh · hat verziehen

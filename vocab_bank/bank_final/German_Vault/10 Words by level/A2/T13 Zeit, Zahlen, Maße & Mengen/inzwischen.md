@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 11a"
 freq_rank: 713
 skip: false
+audio: "inzwischen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # inzwischen
+
+![[inzwischen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/inzwischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inzwischen&language=de)
 
 **Meaning:** meanwhile
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

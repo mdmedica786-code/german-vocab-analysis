@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Gymnastik.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gymnastik
+
+![[Gymnastik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gymnastik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gymnastik&language=de)
 
 **Meaning:** gymnastics; exercises
 **Plural:** –

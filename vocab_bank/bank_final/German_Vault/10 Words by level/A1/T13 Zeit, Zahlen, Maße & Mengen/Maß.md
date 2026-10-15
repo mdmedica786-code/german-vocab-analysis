@@ -15,11 +15,16 @@ id: "B0696"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 1681
 skip: false
+audio: "Maß.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Maß
+
+![[Maß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ma%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ma%C3%9F&language=de)
 
 **Meaning:** measure; measurement; dimension
 **Plural:** Maße

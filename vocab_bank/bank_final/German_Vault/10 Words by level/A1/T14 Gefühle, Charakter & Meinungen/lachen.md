@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K3 12a"
 freq_rank: 375
 skip: false
+audio: "lachen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lachen
+
+![[lachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lachen&language=de)
 
 **Meaning:** to laugh
 **Forms:** lacht · lachte · hat gelacht

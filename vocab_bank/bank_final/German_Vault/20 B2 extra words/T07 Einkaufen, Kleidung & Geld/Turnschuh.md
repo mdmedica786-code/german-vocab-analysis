@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1446"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Turnschuh.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Turnschuh
+
+![[Turnschuh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Turnschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Turnschuh&language=de)
 
 **Meaning:** trainer; gym shoe
 **Plural:** Turnschuhe

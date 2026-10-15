@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0578"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Datensicherung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Datensicherung
+
+![[Datensicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datensicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datensicherung&language=de)
 
 **Meaning:** data backup
 **Plural:** Datensicherungen

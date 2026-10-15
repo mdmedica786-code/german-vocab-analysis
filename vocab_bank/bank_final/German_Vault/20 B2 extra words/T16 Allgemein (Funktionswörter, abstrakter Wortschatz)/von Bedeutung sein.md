@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # von Bedeutung sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/von%20Bedeutung%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=von%20Bedeutung%20sein&language=de)
+
 **Meaning:** to be of importance
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

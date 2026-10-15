@@ -14,11 +14,16 @@ bank: "main"
 id: "B5542"
 freq_rank: 2251
 skip: false
+audio: "Lauf.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lauf
+
+![[Lauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lauf&language=de)
 
 **Meaning:** run; course
 **Plural:** Läufe

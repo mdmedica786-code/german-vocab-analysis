@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 12b"
 freq_rank: 1068
 skip: false
+audio: "Insel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Insel
+
+![[Insel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Insel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Insel&language=de)
 
 **Meaning:** island
 **Plural:** Inseln

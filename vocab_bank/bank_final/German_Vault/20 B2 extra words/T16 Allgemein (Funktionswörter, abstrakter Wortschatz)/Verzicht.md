@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2921"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Verzicht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verzicht
+
+![[Verzicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verzicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verzicht&language=de)
 
 **Meaning:** renunciation; doing without
 **Plural:** –

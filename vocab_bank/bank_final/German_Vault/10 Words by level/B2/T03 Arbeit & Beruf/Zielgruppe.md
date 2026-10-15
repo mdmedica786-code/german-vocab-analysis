@@ -14,11 +14,16 @@ bank: "main"
 id: "B5829"
 freq_rank: 3050
 skip: false
+audio: "Zielgruppe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zielgruppe
+
+![[Zielgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zielgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zielgruppe&language=de)
 
 **Meaning:** target group
 **Plural:** Zielgruppen

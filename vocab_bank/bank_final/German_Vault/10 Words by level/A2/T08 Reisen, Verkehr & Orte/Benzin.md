@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 2804
 skip: false
+audio: "Benzin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Benzin
+
+![[Benzin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benzin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benzin&language=de)
 
 **Meaning:** petrol
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3033"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Menschenrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Menschenrecht
+
+![[Menschenrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menschenrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenrecht&language=de)
 
 **Meaning:** human right
 **Plural:** Menschenrechte

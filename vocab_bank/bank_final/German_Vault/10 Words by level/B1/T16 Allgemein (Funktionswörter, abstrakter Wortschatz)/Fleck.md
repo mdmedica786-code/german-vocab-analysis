@@ -15,11 +15,16 @@ id: "B5965"
 goethe_level: "B1"
 freq_rank: 3649
 skip: false
+audio: "Fleck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fleck
+
+![[Fleck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fleck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleck&language=de)
 
 **Meaning:** stain; spot
 **Plural:** Flecken

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "übermorgen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # übermorgen
+
+![[übermorgen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbermorgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbermorgen&language=de)
 
 **Meaning:** day after tomorrow
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

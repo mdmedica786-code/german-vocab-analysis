@@ -15,11 +15,16 @@ id: "B0136"
 netzwerk: "A1 K1 6b"
 freq_rank: 5759
 skip: false
+audio: "Handynummer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Handynummer
+
+![[Handynummer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handynummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handynummer&language=de)
 
 **Meaning:** mobile phone number
 **Plural:** Handynummern

@@ -15,11 +15,16 @@ id: "B2865"
 netzwerk: "A2 K9 5b"
 freq_rank: 1876
 skip: false
+audio: "Widerspruch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Widerspruch
+
+![[Widerspruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Widerspruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerspruch&language=de)
 
 **Meaning:** contradiction; objection; (legal) appeal
 **Plural:** Widersprüche

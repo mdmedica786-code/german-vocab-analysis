@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 9d"
 freq_rank: 248
 skip: false
+audio: "eigentlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eigentlich
+
+![[eigentlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eigentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eigentlich&language=de)
 
 **Meaning:** actually
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

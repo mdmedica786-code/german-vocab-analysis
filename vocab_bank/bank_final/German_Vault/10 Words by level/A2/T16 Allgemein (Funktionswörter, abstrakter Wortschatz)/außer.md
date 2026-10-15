@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 5a"
 freq_rank: 635
 skip: false
+audio: "außer.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # außer
+
+![[außer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Fer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Fer&language=de)
 
 **Meaning:** except
 **Case:** + Dat.

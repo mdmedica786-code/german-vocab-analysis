@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0810"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "anschaulich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anschaulich
+
+![[anschaulich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anschaulich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anschaulich&language=de)
 
 **Meaning:** vivid; illustrative
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Gehör finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Geh%C3%B6r%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geh%C3%B6r%20finden&language=de)
+
 **Meaning:** to get a hearing
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

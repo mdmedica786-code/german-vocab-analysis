@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4650"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Wortpaar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Wortpaar
+
+![[Wortpaar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortpaar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortpaar&language=de)
 
 **Meaning:** word pair
 **Plural:** Wortpaare

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2732"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "repräsentieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # repräsentieren
+
+![[repräsentieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/repr%C3%A4sentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=repr%C3%A4sentieren&language=de)
 
 **Meaning:** to represent
 **Forms:** repräsentiert · repräsentierte · hat repräsentiert

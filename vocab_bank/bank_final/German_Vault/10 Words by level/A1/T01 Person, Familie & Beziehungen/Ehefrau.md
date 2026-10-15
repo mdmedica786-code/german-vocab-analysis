@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 3423
 skip: false
+audio: "Ehefrau.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ehefrau
+
+![[Ehefrau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehefrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehefrau&language=de)
 
 **Meaning:** wife
 **Plural:** Ehefrauen

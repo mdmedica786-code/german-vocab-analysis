@@ -13,11 +13,16 @@ id: "B5275"
 goethe_level: "B1"
 freq_rank: 1167
 skip: false
+audio: "küssen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # küssen
+
+![[küssen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCssen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCssen&language=de)
 
 **Meaning:** to kiss
 **Forms:** küsst · küsste · hat geküsst

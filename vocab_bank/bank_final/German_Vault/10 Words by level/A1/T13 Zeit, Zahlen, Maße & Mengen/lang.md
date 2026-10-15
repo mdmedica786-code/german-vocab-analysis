@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1d"
 freq_rank: 163
 skip: false
+audio: "lang.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # lang
+
+![[lang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lang&language=de)
 
 **Meaning:** long
 **Other senses:** long; (eine Zeit lang) for a while

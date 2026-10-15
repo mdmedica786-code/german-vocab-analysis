@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0877"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "beseitigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # beseitigen
+
+![[beseitigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beseitigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beseitigen&language=de)
 
 **Meaning:** to remove; to eliminate
 **Forms:** beseitigt · beseitigte · hat beseitigt

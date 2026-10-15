@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3185"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Partizipation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Partizipation
+
+![[Partizipation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partizipation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partizipation&language=de)
 
 **Meaning:** participation; involvement
 **Plural:** –

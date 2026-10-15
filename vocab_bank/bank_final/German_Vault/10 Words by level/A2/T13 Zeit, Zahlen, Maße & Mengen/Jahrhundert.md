@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 425
 skip: false
+audio: "Jahrhundert.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Jahrhundert
+
+![[Jahrhundert.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahrhundert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrhundert&language=de)
 
 **Meaning:** century
 **Plural:** Jahrhunderte

@@ -15,11 +15,16 @@ id: "B5090"
 netzwerk: "B1 K12 9a"
 freq_rank: 5759
 skip: false
+audio: "Wortstamm.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wortstamm
+
+![[Wortstamm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortstamm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortstamm&language=de)
 
 **Meaning:** root word
 **Plural:** Wortstämme

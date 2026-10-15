@@ -14,11 +14,16 @@ bank: "main"
 id: "B5898"
 freq_rank: 3401
 skip: false
+audio: "Aufwendung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufwendung
+
+![[Aufwendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufwendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufwendung&language=de)
 
 **Meaning:** expense; expenditure
 **Plural:** Aufwendungen

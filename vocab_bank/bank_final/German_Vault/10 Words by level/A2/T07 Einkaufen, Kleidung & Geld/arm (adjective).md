@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K7 11b"
 freq_rank: 342
 skip: false
+audio: "arm.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # arm
+
+![[arm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/arm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=arm&language=de)
 
 **Meaning:** poor
 **Forms:** ärmer – am ärmsten

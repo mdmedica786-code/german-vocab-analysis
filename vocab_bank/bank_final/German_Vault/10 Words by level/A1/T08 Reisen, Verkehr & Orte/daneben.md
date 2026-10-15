@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 3c"
 freq_rank: 1710
 skip: false
+audio: "daneben.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # daneben
+
+![[daneben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/daneben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=daneben&language=de)
 
 **Meaning:** beside
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

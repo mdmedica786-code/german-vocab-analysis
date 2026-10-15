@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3001"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "vorherig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorherig
+
+![[vorherig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorherig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorherig&language=de)
 
 **Meaning:** previous; prior
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B6444"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Franke.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Franke
+
+![[Franke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Franke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Franke&language=de)
 
 **Meaning:** Franconian (m)
 **Plural:** Franken

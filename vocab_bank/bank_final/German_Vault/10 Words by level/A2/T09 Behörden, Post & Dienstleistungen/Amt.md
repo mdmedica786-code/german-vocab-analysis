@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1a"
 freq_rank: 2281
 skip: false
+audio: "Amt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Amt
+
+![[Amt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Amt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amt&language=de)
 
 **Meaning:** department
 **Other senses:** office

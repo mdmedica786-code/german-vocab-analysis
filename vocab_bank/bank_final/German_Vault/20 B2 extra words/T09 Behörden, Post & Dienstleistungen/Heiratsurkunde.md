@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1112"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Heiratsurkunde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heiratsurkunde
+
+![[Heiratsurkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heiratsurkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heiratsurkunde&language=de)
 
 **Meaning:** marriage certificate
 **Plural:** Heiratsurkunden

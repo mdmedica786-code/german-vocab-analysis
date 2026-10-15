@@ -15,11 +15,16 @@ id: "B3299"
 netzwerk: "B1 K1 7"
 freq_rank: 5759
 skip: false
+audio: "Winterurlaub.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Winterurlaub
+
+![[Winterurlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Winterurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winterurlaub&language=de)
 
 **Meaning:** winter holiday
 **Plural:** Winterurlaube

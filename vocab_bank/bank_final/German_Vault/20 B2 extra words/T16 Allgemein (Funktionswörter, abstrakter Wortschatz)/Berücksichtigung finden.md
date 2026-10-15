@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Berücksichtigung finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ber%C3%BCcksichtigung%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ber%C3%BCcksichtigung%20finden&language=de)
+
 **Meaning:** to be taken into account
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

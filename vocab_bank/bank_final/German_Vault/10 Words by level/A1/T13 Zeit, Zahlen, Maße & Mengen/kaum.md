@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 5a"
 freq_rank: 258
 skip: false
+audio: "kaum.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kaum
+
+![[kaum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kaum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kaum&language=de)
 
 **Meaning:** barely
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

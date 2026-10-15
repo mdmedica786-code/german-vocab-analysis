@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 9a"
 freq_rank: 351
 skip: false
+audio: "verlieren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verlieren
+
+![[verlieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verlieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlieren&language=de)
 
 **Meaning:** to lose
 **Forms:** verliert · verlor · hat verloren

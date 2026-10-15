@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1683"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "zerstreut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zerstreut
+
+![[zerstreut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zerstreut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerstreut&language=de)
 
 **Meaning:** absent-minded; scattered
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

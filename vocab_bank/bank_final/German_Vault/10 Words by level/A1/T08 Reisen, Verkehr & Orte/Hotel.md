@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Hotel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hotel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotel&language=de)
+
 **Meaning:** hotel
 **Plural:** Hotels
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

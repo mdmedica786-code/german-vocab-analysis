@@ -13,11 +13,16 @@ id: "B3873"
 netzwerk: "B1 K4 13b"
 freq_rank: 4772
 skip: false
+audio: "zusammenstellen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenstellen
+
+![[zusammenstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenstellen&language=de)
 
 **Meaning:** to put together; to compile
 **Forms:** stellt zusammen · stellte zusammen · hat zusammengestellt

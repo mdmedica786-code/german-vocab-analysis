@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2606"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "versorgen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # versorgen
+
+![[versorgen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versorgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versorgen&language=de)
 
 **Meaning:** to supply; to look after
 **Forms:** versorgt · versorgte · hat versorgt

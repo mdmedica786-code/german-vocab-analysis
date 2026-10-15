@@ -15,11 +15,16 @@ id: "B4460"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Zwischenmahlzeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zwischenmahlzeit
+
+![[Zwischenmahlzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwischenmahlzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwischenmahlzeit&language=de)
 
 **Meaning:** snack
 **Plural:** Zwischenmahlzeiten

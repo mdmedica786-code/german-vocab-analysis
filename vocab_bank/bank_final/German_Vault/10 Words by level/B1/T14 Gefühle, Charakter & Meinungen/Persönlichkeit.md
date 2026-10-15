@@ -15,11 +15,16 @@ id: "B3861"
 netzwerk: "B1 K4 13b"
 freq_rank: 1700
 skip: false
+audio: "Persönlichkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Persönlichkeit
+
+![[Persönlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pers%C3%B6nlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pers%C3%B6nlichkeit&language=de)
 
 **Meaning:** personality
 **Plural:** Persönlichkeiten

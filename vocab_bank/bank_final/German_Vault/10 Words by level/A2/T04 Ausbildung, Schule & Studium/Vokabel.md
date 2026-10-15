@@ -15,11 +15,16 @@ id: "B2391"
 netzwerk: "A2 K6 2c"
 freq_rank: 5759
 skip: false
+audio: "Vokabel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vokabel
+
+![[Vokabel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vokabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokabel&language=de)
 
 **Meaning:** vocabulary word
 **Plural:** Vokabeln

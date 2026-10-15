@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10a"
 freq_rank: 2864
 skip: false
+audio: "willkommen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # willkommen
+
+![[willkommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/willkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=willkommen&language=de)
 
 **Meaning:** welcome
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

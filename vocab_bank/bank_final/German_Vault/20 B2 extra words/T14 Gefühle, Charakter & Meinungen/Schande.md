@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3129"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Schande.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schande
+
+![[Schande.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schande/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schande&language=de)
 
 **Meaning:** shame; disgrace
 **Plural:** –

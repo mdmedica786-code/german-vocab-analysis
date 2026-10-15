@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 2"
 freq_rank: 2214
 skip: false
+audio: "Sand.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sand
+
+![[Sand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sand&language=de)
 
 **Meaning:** sand
 **Plural:** –

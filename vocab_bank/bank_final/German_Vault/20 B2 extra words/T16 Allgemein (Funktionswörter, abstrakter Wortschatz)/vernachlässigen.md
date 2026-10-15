@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0249"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "vernachlässigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vernachlässigen
+
+![[vernachlässigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vernachl%C3%A4ssigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vernachl%C3%A4ssigen&language=de)
 
 **Meaning:** to neglect
 **Forms:** vernachlässigt · vernachlässigte · hat vernachlässigt

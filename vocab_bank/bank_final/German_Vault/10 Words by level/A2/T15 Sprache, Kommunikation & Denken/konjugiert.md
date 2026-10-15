@@ -12,11 +12,16 @@ id: "B1937"
 netzwerk: "A2 K1 10 ÜB"
 freq_rank: 5759
 skip: false
+audio: "konjugiert.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # konjugiert
+
+![[konjugiert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konjugiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konjugiert&language=de)
 
 **Meaning:** conjugated
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

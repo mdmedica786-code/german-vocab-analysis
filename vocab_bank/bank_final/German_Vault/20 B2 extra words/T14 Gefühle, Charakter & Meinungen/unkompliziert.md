@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4543"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "unkompliziert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unkompliziert
+
+![[unkompliziert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unkompliziert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unkompliziert&language=de)
 
 **Meaning:** uncomplicated; easy-going
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

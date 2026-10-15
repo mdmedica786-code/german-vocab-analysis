@@ -15,11 +15,16 @@ id: "B4725"
 netzwerk: "B1 K10 1a"
 freq_rank: 5759
 skip: false
+audio: "Zivilcourage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zivilcourage
+
+![[Zivilcourage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zivilcourage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilcourage&language=de)
 
 **Meaning:** moral courage
 **Plural:** –

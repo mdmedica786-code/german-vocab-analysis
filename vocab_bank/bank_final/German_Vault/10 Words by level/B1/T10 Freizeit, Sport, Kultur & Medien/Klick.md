@@ -15,11 +15,16 @@ id: "B5709"
 goethe_level: "B1"
 freq_rank: 2843
 skip: false
+audio: "Klick.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klick
+
+![[Klick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klick&language=de)
 
 **Meaning:** click
 **Plural:** Klicks

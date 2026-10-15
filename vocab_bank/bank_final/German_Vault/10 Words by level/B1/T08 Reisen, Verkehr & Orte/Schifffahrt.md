@@ -15,11 +15,16 @@ id: "B3284"
 netzwerk: "B1 K1 6a"
 freq_rank: 5759
 skip: false
+audio: "Schifffahrt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schifffahrt
+
+![[Schifffahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schifffahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schifffahrt&language=de)
 
 **Meaning:** boat trip
 **Plural:** Schifffahrten

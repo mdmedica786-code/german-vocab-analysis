@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3184"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Richtigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Richtigkeit
+
+![[Richtigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Richtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richtigkeit&language=de)
 
 **Meaning:** correctness; accuracy
 **Plural:** –

@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4624"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # wechselbereit
+
+[▶️ YouGlish](https://youglish.com/pronounce/wechselbereit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wechselbereit&language=de)
 
 **Meaning:** ready to switch; willing to change
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

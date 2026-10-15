@@ -15,11 +15,16 @@ id: "B3444"
 netzwerk: "B1 K2 6b"
 freq_rank: 2000
 skip: false
+audio: "Neubau.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Neubau
+
+![[Neubau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neubau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neubau&language=de)
 
 **Meaning:** new building
 **Plural:** Neubauten

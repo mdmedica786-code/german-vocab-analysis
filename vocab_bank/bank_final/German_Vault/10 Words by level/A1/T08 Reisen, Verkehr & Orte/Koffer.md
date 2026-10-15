@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1a"
 freq_rank: 2851
 skip: false
+audio: "Koffer (12).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Koffer
+
+![[Koffer (12).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Koffer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koffer&language=de)
 
 **Meaning:** suitcase
 **Plural:** Koffer

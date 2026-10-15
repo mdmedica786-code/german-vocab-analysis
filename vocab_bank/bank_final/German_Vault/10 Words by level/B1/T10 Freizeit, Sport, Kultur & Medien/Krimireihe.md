@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Krimireihe
 
+[▶️ YouGlish](https://youglish.com/pronounce/Krimireihe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krimireihe&language=de)
+
 **Meaning:** crime series
 **Plural:** Krimireihen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

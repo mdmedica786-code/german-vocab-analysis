@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 9a"
 freq_rank: 2056
 skip: false
+audio: "Publikum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Publikum
+
+![[Publikum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Publikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Publikum&language=de)
 
 **Meaning:** audience
 **Plural:** –

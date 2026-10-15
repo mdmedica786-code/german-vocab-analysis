@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1967"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Möwe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Möwe
+
+![[Möwe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6we/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6we&language=de)
 
 **Meaning:** seagull
 **Plural:** Möwen

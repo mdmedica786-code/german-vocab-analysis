@@ -13,11 +13,16 @@ id: "B5078"
 netzwerk: "B1 K12 7a"
 freq_rank: 1871
 skip: false
+audio: "überleben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # überleben
+
+![[überleben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberleben&language=de)
 
 **Meaning:** to survive
 **Forms:** überlebt · überlebte · hat überlebt

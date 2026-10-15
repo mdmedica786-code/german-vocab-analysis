@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2838"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "ebenda.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ebenda
+
+![[ebenda.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ebenda/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ebenda&language=de)
 
 **Meaning:** in the same place; ibid.
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

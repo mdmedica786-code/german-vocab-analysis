@@ -15,11 +15,16 @@ id: "B2624"
 netzwerk: "A2 K7 10a"
 freq_rank: 4517
 skip: false
+audio: "Radweg.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Radweg
+
+![[Radweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radweg&language=de)
 
 **Meaning:** cycle path
 **Plural:** Radwege

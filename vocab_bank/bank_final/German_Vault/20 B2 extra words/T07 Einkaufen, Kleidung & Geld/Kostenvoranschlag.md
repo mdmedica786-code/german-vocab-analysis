@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0455"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Kostenvoranschlag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kostenvoranschlag
+
+![[Kostenvoranschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kostenvoranschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kostenvoranschlag&language=de)
 
 **Meaning:** cost estimate
 **Plural:** Kostenvoranschläge

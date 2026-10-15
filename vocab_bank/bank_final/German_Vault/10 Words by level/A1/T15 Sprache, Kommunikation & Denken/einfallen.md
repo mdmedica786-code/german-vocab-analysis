@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 10c"
 freq_rank: 3118
 skip: false
+audio: "einfallen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einfallen
+
+![[einfallen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einfallen&language=de)
 
 **Meaning:** to think of
 **Forms:** fällt ein · fiel ein · ist eingefallen

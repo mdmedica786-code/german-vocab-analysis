@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0572"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Handelsabkommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Handelsabkommen
+
+![[Handelsabkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handelsabkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handelsabkommen&language=de)
 
 **Meaning:** trade agreement
 **Plural:** Handelsabkommen

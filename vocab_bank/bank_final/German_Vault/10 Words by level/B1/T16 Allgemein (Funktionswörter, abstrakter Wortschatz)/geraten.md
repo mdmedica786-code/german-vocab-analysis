@@ -13,11 +13,16 @@ id: "B5115"
 netzwerk: "B1 K12 11b"
 freq_rank: 896
 skip: false
+audio: "geraten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # geraten
+
+![[geraten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geraten&language=de)
 
 **Meaning:** to get (into); to end up
 **Forms:** gerät · geriet · ist geraten

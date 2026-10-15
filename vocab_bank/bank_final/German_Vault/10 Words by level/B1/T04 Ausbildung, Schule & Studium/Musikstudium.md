@@ -15,11 +15,16 @@ id: "B4486"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Musikstudium.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Musikstudium
+
+![[Musikstudium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikstudium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikstudium&language=de)
 
 **Meaning:** study of music
 **Plural:** Musikstudien

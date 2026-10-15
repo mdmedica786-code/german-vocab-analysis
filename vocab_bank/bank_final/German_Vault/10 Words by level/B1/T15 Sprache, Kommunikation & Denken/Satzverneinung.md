@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Satzverneinung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Satzverneinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzverneinung&language=de)
+
 **Meaning:** sentence negation
 **Plural:** Satzverneinungen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

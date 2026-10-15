@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3142"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "tendenziell.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # tendenziell
+
+![[tendenziell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tendenziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tendenziell&language=de)
 
 **Meaning:** tending to; as a trend
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6139"
 freq_rank: 4585
 skip: false
+audio: "Theke.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Theke
+
+![[Theke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Theke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theke&language=de)
 
 **Meaning:** counter; bar
 **Plural:** Theken

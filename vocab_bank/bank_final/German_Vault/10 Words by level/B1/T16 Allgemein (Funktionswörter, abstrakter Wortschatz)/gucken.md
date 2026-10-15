@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 9a"
 freq_rank: 5561
 skip: false
+audio: "gucken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gucken
+
+![[gucken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gucken&language=de)
 
 **Meaning:** to look
 **Forms:** guckt · guckte · hat geguckt

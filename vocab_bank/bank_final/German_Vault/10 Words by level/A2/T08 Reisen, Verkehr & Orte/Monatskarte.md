@@ -15,11 +15,16 @@ id: "B2555"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Monatskarte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Monatskarte
+
+![[Monatskarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Monatskarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monatskarte&language=de)
 
 **Meaning:** monthly ticket
 **Plural:** Monatskarten

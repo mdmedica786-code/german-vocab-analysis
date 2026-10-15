@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Trottoir.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Trottoir
+
+![[Trottoir.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trottoir/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trottoir&language=de)
 
 **Meaning:** pavement (Swiss)
 **Plural:** Trottoirs

@@ -13,11 +13,16 @@ id: "B3436"
 netzwerk: "B1 K2 6b"
 freq_rank: 988
 skip: false
+audio: "berühren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # berühren
+
+![[berühren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ber%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ber%C3%BChren&language=de)
 
 **Meaning:** to touch
 **Forms:** berührt · berührte · hat berührt

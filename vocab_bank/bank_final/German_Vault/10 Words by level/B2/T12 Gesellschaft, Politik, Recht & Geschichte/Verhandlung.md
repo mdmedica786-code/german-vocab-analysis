@@ -14,11 +14,16 @@ bank: "main"
 id: "B5435"
 freq_rank: 1953
 skip: false
+audio: "Verhandlung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verhandlung
+
+![[Verhandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verhandlung&language=de)
 
 **Meaning:** negotiation; hearing
 **Plural:** Verhandlungen

@@ -12,11 +12,16 @@ id: "B1194"
 netzwerk: "A1 K8 1c"
 freq_rank: 5759
 skip: false
+audio: "hurra.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/interjection"]
 status: "new"
 ---
 <!-- bank:start -->
 # hurra
+
+![[hurra.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hurra/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hurra&language=de)
 
 **Meaning:** hooray
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

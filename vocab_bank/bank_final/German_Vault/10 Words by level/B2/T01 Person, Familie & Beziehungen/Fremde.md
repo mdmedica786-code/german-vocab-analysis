@@ -14,11 +14,16 @@ bank: "main"
 id: "B5449"
 freq_rank: 2000
 skip: false
+audio: "Fremde.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fremde
+
+![[Fremde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fremde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremde&language=de)
 
 **Meaning:** stranger
 **Plural:** Fremden

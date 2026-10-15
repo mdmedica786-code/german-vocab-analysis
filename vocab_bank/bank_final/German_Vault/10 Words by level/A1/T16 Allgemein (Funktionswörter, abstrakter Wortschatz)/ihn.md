@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # ihn
 
+[▶️ YouGlish](https://youglish.com/pronounce/ihn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ihn&language=de)
+
 **Meaning:** him
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

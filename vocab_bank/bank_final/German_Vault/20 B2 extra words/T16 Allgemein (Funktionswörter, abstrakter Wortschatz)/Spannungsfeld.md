@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0385"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Spannungsfeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Spannungsfeld
+
+![[Spannungsfeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spannungsfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spannungsfeld&language=de)
 
 **Meaning:** area of tension; conflicting demands
 **Plural:** Spannungsfelder

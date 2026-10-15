@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0711"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Orkan.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Orkan
+
+![[Orkan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Orkan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orkan&language=de)
 
 **Meaning:** hurricane; violent storm
 **Plural:** Orkane

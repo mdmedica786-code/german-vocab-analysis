@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4572"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Verkaufsleiter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Verkaufsleiter
+
+![[Verkaufsleiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkaufsleiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkaufsleiter&language=de)
 
 **Meaning:** sales manager (male)
 **Plural:** Verkaufsleiter

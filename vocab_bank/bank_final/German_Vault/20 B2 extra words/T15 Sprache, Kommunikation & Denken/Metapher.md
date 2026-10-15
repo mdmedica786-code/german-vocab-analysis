@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3166"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Metapher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Metapher
+
+![[Metapher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Metapher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metapher&language=de)
 
 **Meaning:** metaphor
 **Plural:** Metaphern

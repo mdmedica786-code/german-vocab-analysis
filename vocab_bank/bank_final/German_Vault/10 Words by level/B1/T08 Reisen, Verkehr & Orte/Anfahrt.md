@@ -15,11 +15,16 @@ id: "B3838"
 netzwerk: "B1 K4 13b"
 freq_rank: 5759
 skip: false
+audio: "Anfahrt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anfahrt
+
+![[Anfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anfahrt&language=de)
 
 **Meaning:** journey (to a place); route
 **Plural:** Anfahrten

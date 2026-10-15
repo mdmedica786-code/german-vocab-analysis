@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Almurlaub
 
+[▶️ YouGlish](https://youglish.com/pronounce/Almurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Almurlaub&language=de)
+
 **Meaning:** holiday on the alp
 **Plural:** Almurlaube
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

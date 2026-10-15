@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 7c"
 freq_rank: 244
 skip: false
+audio: "Grund.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Grund
+
+![[Grund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grund&language=de)
 
 **Meaning:** reason
 **Plural:** Gründe

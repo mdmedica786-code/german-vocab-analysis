@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 6a"
 freq_rank: 2655
 skip: false
+audio: "speichern.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # speichern
+
+![[speichern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/speichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=speichern&language=de)
 
 **Meaning:** to save
 **Forms:** speichert · speicherte · hat gespeichert

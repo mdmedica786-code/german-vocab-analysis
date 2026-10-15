@@ -12,11 +12,13 @@ bank: "b2"
 id: "D4347"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # rausspringen
+
+[▶️ YouGlish](https://youglish.com/pronounce/rausspringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rausspringen&language=de)
 
 **Meaning:** to jump out (colloquial)
 **Forms:** springt raus · sprang raus · ist rausgesprungen

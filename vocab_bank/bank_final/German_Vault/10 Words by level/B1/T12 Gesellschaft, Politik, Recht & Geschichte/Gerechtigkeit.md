@@ -15,11 +15,16 @@ id: "B4721"
 netzwerk: "B1 K10 1a"
 freq_rank: 2067
 skip: false
+audio: "Gerechtigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gerechtigkeit
+
+![[Gerechtigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gerechtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gerechtigkeit&language=de)
 
 **Meaning:** justice
 **Plural:** –

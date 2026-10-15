@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Beweis stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Beweis%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Beweis%20stellen&language=de)
+
 **Meaning:** to prove; to demonstrate
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

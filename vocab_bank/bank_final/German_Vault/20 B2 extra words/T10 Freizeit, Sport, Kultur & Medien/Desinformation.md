@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0622"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Desinformation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Desinformation
+
+![[Desinformation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Desinformation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Desinformation&language=de)
 
 **Meaning:** disinformation
 **Plural:** –

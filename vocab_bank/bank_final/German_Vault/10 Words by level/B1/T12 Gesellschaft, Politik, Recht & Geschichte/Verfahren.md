@@ -14,11 +14,16 @@ bank: "main"
 id: "B5173"
 freq_rank: 551
 skip: false
+audio: "Verfahren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verfahren
+
+![[Verfahren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verfahren&language=de)
 
 **Meaning:** procedure; method; (legal) proceedings
 **Plural:** Verfahren

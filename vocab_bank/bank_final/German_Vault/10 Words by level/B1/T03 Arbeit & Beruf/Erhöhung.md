@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 2463
 skip: false
+audio: "Erhöhung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erhöhung
+
+![[Erhöhung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erh%C3%B6hung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erh%C3%B6hung&language=de)
 
 **Meaning:** increase
 **Plural:** Erhöhungen

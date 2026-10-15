@@ -12,11 +12,16 @@ bank: "main"
 id: "B5170"
 freq_rank: 524
 skip: false
+audio: "wagen (77).wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wagen
+
+![[wagen (77).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wagen&language=de)
 
 **Meaning:** to dare; to risk
 **Forms:** wagt · wagte · hat gewagt

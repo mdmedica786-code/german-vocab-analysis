@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 7a"
 freq_rank: 5063
 skip: false
+audio: "Pension.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pension
+
+![[Pension.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pension&language=de)
 
 **Meaning:** guesthouse
 **Plural:** Pensionen

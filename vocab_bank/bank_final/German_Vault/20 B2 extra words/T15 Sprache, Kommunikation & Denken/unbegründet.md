@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4530"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "unbegründet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unbegründet
+
+![[unbegründet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unbegr%C3%BCndet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unbegr%C3%BCndet&language=de)
 
 **Meaning:** unfounded; groundless
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

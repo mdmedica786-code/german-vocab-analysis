@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 1039
 skip: false
+audio: "Gericht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gericht
+
+![[Gericht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gericht&language=de)
 
 **Meaning:** dish; meal; court (of law)
 **Plural:** Gerichte

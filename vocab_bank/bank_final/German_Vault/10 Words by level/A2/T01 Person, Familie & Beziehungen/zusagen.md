@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # zusagen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zusagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusagen&language=de)
+
 **Meaning:** to accept
 **Forms:** sagt zu · sagte zu · hat zugesagt
 **Grammar:** separable (zu-)

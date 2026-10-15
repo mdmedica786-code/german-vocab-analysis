@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 4a"
 freq_rank: 3496
 skip: false
+audio: "Statistik.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Statistik
+
+![[Statistik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Statistik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statistik&language=de)
 
 **Meaning:** statistics
 **Plural:** Statistiken

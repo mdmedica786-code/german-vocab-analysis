@@ -15,11 +15,16 @@ id: "B5067"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Irrsinn.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Irrsinn
+
+![[Irrsinn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Irrsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Irrsinn&language=de)
 
 **Meaning:** insanity
 **Plural:** –

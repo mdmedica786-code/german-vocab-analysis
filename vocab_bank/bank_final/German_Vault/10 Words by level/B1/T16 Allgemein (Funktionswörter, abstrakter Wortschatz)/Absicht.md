@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6d"
 freq_rank: 1290
 skip: false
+audio: "Absicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Absicht
+
+![[Absicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Absicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absicht&language=de)
 
 **Meaning:** intention
 **Plural:** Absichten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1110"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Beglaubigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beglaubigung
+
+![[Beglaubigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beglaubigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beglaubigung&language=de)
 
 **Meaning:** certification (of a document)
 **Plural:** Beglaubigungen

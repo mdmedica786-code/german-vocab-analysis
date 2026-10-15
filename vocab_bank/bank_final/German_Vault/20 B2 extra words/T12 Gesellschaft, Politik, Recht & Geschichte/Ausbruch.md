@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3097"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Ausbruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausbruch
+
+![[Ausbruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbruch&language=de)
 
 **Meaning:** outbreak; eruption; escape
 **Plural:** Ausbrüche

@@ -15,11 +15,16 @@ id: "B6246"
 goethe_level: "B1"
 freq_rank: 5078
 skip: false
+audio: "Rohr.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Rohr
+
+![[Rohr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rohr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rohr&language=de)
 
 **Meaning:** pipe; tube
 **Plural:** Rohre

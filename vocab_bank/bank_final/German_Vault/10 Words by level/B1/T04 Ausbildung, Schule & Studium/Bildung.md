@@ -15,11 +15,16 @@ id: "B4163"
 netzwerk: "B1 K6 8d"
 freq_rank: 900
 skip: false
+audio: "Bildung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bildung
+
+![[Bildung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildung&language=de)
 
 **Meaning:** education
 **Other senses:** formation

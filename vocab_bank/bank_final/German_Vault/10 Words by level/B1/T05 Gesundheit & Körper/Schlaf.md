@@ -15,11 +15,16 @@ id: "B5347"
 goethe_level: "B1"
 freq_rank: 1557
 skip: false
+audio: "Schlaf.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlaf
+
+![[Schlaf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlaf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlaf&language=de)
 
 **Meaning:** sleep
 **Plural:** –

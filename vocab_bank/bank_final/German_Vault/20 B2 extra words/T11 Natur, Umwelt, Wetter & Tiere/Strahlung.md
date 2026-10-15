@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3171"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Strahlung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strahlung
+
+![[Strahlung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strahlung&language=de)
 
 **Meaning:** radiation
 **Plural:** Strahlungen

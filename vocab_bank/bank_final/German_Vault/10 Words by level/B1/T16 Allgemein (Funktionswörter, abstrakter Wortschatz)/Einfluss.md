@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 606
 skip: false
+audio: "Einfluss.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einfluss
+
+![[Einfluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einfluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einfluss&language=de)
 
 **Meaning:** influence
 **Plural:** Einflüsse

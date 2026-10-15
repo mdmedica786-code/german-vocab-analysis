@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # Indie
 
+[▶️ YouGlish](https://youglish.com/pronounce/Indie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indie&language=de)
+
 **Meaning:** indie
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

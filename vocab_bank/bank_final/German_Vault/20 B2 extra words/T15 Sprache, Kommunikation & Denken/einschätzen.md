@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0286"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "einschätzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschätzen
+
+![[einschätzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsch%C3%A4tzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsch%C3%A4tzen&language=de)
 
 **Meaning:** to assess; to judge
 **Forms:** schätzt ein · schätzte ein · hat eingeschätzt

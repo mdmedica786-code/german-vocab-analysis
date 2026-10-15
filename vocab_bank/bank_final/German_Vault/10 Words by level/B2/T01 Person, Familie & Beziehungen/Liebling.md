@@ -14,11 +14,16 @@ bank: "main"
 id: "B6109"
 freq_rank: 4435
 skip: false
+audio: "Liebling.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Liebling
+
+![[Liebling.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liebling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebling&language=de)
 
 **Meaning:** darling; favourite
 **Plural:** Lieblinge

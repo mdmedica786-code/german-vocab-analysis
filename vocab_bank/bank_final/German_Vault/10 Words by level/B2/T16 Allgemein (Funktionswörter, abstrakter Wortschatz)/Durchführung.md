@@ -14,11 +14,16 @@ bank: "main"
 id: "B5370"
 freq_rank: 1650
 skip: false
+audio: "Durchführung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Durchführung
+
+![[Durchführung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchf%C3%BChrung&language=de)
 
 **Meaning:** implementation; carrying out
 **Plural:** Durchführungen

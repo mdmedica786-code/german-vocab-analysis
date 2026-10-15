@@ -14,11 +14,16 @@ bank: "main"
 id: "B5456"
 freq_rank: 2000
 skip: false
+audio: "Level.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Level
+
+![[Level.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Level/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Level&language=de)
 
 **Meaning:** level
 **Plural:** Levels

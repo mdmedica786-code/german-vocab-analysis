@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 5759
 skip: false
+audio: "versäumen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # versäumen
+
+![[versäumen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vers%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vers%C3%A4umen&language=de)
 
 **Meaning:** to miss
 **Forms:** versäumt · versäumte · hat versäumt

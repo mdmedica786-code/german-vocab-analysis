@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ökovergleich
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96kovergleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96kovergleich&language=de)
+
 **Meaning:** eco-comparison
 **Plural:** Ökovergleiche
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

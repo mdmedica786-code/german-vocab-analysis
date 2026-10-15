@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Bedenken äußern
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bedenken%20%C3%A4u%C3%9Fern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedenken%20%C3%A4u%C3%9Fern&language=de)
+
 **Meaning:** to voice concerns
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

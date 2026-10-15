@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 3537
 skip: false
+audio: "Lebenslauf.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lebenslauf
+
+![[Lebenslauf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebenslauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebenslauf&language=de)
 
 **Meaning:** CV; résumé
 **Plural:** Lebensläufe

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2530"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "geltend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # geltend
+
+![[geltend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geltend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geltend&language=de)
 
 **Meaning:** valid; applicable
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

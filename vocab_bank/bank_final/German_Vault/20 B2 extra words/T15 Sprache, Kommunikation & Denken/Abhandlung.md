@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3331"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Abhandlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abhandlung
+
+![[Abhandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abhandlung&language=de)
 
 **Meaning:** treatise; essay; paper
 **Plural:** Abhandlungen

@@ -12,11 +12,16 @@ id: "B1686"
 netzwerk: "A1 K11 12a"
 freq_rank: 1789
 skip: false
+audio: "lebendig.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # lebendig
+
+![[lebendig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lebendig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lebendig&language=de)
 
 **Meaning:** living
 **Level:** A1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

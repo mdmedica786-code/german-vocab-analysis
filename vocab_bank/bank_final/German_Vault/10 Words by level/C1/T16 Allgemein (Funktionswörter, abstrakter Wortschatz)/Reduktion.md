@@ -14,11 +14,16 @@ bank: "main"
 id: "B5861"
 freq_rank: 3192
 skip: false
+audio: "Reduktion.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reduktion
+
+![[Reduktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reduktion&language=de)
 
 **Meaning:** reduction
 **Plural:** Reduktionen

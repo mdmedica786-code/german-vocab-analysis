@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0415"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Minijob.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Minijob
+
+![[Minijob.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Minijob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minijob&language=de)
 
 **Meaning:** mini job (low-paid part-time job)
 **Plural:** Minijobs

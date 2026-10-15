@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3963"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
+audio: "freigeben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # freigeben
+
+![[freigeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freigeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freigeben&language=de)
 
 **Meaning:** to release; to approve; to open (for use)
 **Forms:** gibt frei · gab frei · hat freigegeben

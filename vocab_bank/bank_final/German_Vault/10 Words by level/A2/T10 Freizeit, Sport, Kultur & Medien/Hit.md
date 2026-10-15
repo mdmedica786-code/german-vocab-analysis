@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 6b"
 freq_rank: 2804
 skip: false
+audio: "Hit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hit
+
+![[Hit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hit&language=de)
 
 **Meaning:** hit
 **Plural:** Hits

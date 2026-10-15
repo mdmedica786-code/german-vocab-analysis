@@ -12,11 +12,16 @@ id: "B2175"
 netzwerk: "A2 K4 1a"
 freq_rank: 2216
 skip: false
+audio: "aufgeregt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufgeregt
+
+![[aufgeregt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufgeregt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufgeregt&language=de)
 
 **Meaning:** excited; nervous
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

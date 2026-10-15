@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2511"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Christ.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Christ
+
+![[Christ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Christ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Christ&language=de)
 
 **Meaning:** Christian
 **Plural:** Christen

@@ -15,11 +15,16 @@ id: "B4128"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Hausbewohner.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hausbewohner
+
+![[Hausbewohner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausbewohner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausbewohner&language=de)
 
 **Meaning:** resident (of a building) (m)
 **Plural:** Hausbewohner

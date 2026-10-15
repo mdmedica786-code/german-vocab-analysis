@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3408"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Betrachter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Betrachter
+
+![[Betrachter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betrachter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrachter&language=de)
 
 **Meaning:** viewer; observer
 **Plural:** Betrachter

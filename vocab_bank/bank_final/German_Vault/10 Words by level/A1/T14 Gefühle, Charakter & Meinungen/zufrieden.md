@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 11a"
 freq_rank: 1310
 skip: false
+audio: "zufrieden.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # zufrieden
+
+![[zufrieden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zufrieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zufrieden&language=de)
 
 **Meaning:** satisfied
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

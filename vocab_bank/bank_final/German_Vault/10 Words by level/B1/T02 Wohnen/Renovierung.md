@@ -15,11 +15,16 @@ id: "B4967"
 netzwerk: "B1 K11 10"
 freq_rank: 5759
 skip: false
+audio: "Renovierung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Renovierung
+
+![[Renovierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Renovierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Renovierung&language=de)
 
 **Meaning:** renovation
 **Plural:** Renovierungen

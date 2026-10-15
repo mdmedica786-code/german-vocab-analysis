@@ -14,11 +14,16 @@ bank: "main"
 id: "B6009"
 freq_rank: 3918
 skip: false
+audio: "Ausbau.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausbau
+
+![[Ausbau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbau&language=de)
 
 **Meaning:** expansion; extension
 **Plural:** –

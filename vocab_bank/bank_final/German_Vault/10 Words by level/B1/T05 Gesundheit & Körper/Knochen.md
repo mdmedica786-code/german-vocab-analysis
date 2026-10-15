@@ -15,11 +15,16 @@ id: "B5506"
 goethe_level: "B1"
 freq_rank: 2144
 skip: false
+audio: "Knochen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Knochen
+
+![[Knochen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Knochen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knochen&language=de)
 
 **Meaning:** bone
 **Plural:** Knochen

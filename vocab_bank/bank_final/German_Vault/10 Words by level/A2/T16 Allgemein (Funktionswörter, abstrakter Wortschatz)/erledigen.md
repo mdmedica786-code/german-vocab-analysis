@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 2a"
 freq_rank: 1708
 skip: false
+audio: "erledigen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erledigen
+
+![[erledigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erledigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erledigen&language=de)
 
 **Meaning:** to take care of
 **Forms:** erledigt · erledigte · hat erledigt

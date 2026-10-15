@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4262"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "naturwissenschaftlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # naturwissenschaftlich
+
+![[naturwissenschaftlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/naturwissenschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=naturwissenschaftlich&language=de)
 
 **Meaning:** scientific; relating to the natural sciences
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

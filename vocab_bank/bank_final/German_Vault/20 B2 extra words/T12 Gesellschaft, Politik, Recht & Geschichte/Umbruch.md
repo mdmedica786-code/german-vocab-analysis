@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4517"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Umbruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Umbruch
+
+![[Umbruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umbruch&language=de)
 
 **Meaning:** upheaval; radical change
 **Plural:** Umbrüche

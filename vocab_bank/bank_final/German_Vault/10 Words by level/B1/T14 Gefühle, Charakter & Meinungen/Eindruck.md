@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 10a"
 freq_rank: 905
 skip: false
+audio: "Eindruck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eindruck
+
+![[Eindruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eindruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eindruck&language=de)
 
 **Meaning:** impression
 **Plural:** Eindrücke

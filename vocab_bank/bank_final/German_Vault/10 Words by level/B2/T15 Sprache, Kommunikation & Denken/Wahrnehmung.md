@@ -14,11 +14,16 @@ bank: "main"
 id: "B5304"
 freq_rank: 1328
 skip: false
+audio: "Wahrnehmung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wahrnehmung
+
+![[Wahrnehmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahrnehmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrnehmung&language=de)
 
 **Meaning:** perception
 **Plural:** Wahrnehmungen

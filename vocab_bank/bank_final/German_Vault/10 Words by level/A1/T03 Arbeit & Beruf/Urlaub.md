@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 3a"
 freq_rank: 2247
 skip: false
+audio: "Urlaub.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Urlaub
+
+![[Urlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaub&language=de)
 
 **Meaning:** holiday
 **Plural:** Urlaube

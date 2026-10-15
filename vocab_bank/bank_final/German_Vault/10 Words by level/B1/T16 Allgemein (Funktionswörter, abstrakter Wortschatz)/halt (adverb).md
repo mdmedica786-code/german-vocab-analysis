@@ -12,11 +12,16 @@ id: "B5287"
 goethe_level: "B1"
 freq_rank: 1216
 skip: false
+audio: "halt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # halt
+
+![[halt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/halt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=halt&language=de)
 
 **Meaning:** just; simply (modal particle)
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** colloquial

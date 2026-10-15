@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1410"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Fitnessstudio.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fitnessstudio
+
+![[Fitnessstudio.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fitnessstudio/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fitnessstudio&language=de)
 
 **Meaning:** gym; fitness studio
 **Plural:** Fitnessstudios

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1168"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Staunen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Staunen
+
+![[Staunen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Staunen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staunen&language=de)
 
 **Meaning:** astonishment; wonder
 **Plural:** –

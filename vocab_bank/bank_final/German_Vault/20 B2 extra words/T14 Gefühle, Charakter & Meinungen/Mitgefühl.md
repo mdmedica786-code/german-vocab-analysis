@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1125"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Mitgefühl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mitgefühl
+
+![[Mitgefühl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitgef%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitgef%C3%BChl&language=de)
 
 **Meaning:** compassion; sympathy
 **Plural:** –

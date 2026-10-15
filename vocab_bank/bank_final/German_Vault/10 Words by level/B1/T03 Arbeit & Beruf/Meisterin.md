@@ -15,11 +15,16 @@ id: "B4689"
 netzwerk: "B1 K9 12b"
 freq_rank: 5759
 skip: false
+audio: "Meisterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meisterin
+
+![[Meisterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meisterin&language=de)
 
 **Meaning:** master craftswoman; champion (f)
 **Plural:** Meisterinnen

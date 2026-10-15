@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 3c"
 freq_rank: 1537
 skip: false
+audio: "ideal.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ideal
+
+![[ideal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ideal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ideal&language=de)
 
 **Meaning:** ideal
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

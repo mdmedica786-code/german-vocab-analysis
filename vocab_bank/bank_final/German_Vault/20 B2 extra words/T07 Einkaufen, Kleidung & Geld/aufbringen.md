@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0851"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "aufbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufbringen
+
+![[aufbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbringen&language=de)
 
 **Meaning:** to raise (money); to muster; to infuriate
 **Forms:** bringt auf · brachte auf · hat aufgebracht

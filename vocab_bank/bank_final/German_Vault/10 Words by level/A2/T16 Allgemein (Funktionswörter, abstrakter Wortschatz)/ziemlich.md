@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 11b"
 freq_rank: 669
 skip: false
+audio: "ziemlich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ziemlich
+
+![[ziemlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ziemlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ziemlich&language=de)
 
 **Meaning:** quite
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

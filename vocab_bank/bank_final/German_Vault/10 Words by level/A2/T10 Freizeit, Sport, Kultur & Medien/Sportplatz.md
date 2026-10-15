@@ -15,11 +15,16 @@ id: "B6558"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Sportplatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sportplatz
+
+![[Sportplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportplatz&language=de)
 
 **Meaning:** sports ground
 **Plural:** Sportplätze

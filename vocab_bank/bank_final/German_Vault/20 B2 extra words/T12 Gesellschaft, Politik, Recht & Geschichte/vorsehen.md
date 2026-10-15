@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1848"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "vorsehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorsehen
+
+![[vorsehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorsehen&language=de)
 
 **Meaning:** to provide for; to plan
 **Forms:** sieht vor · sah vor · hat vorgesehen

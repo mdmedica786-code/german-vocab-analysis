@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1660"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "übermütig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # übermütig
+
+![[übermütig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberm%C3%BCtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberm%C3%BCtig&language=de)
 
 **Meaning:** high-spirited; cocky
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

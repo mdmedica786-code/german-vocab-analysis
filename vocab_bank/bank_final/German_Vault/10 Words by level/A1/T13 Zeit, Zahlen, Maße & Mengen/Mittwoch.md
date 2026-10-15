@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 4710
 skip: false
+audio: "Mittwoch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mittwoch
+
+![[Mittwoch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittwoch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittwoch&language=de)
 
 **Meaning:** Wednesday
 **Plural:** Mittwoche

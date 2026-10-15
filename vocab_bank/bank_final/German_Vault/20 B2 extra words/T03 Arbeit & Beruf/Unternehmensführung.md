@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3455"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Unternehmensführung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unternehmensführung
+
+![[Unternehmensführung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unternehmensf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmensf%C3%BChrung&language=de)
 
 **Meaning:** corporate management
 **Plural:** Unternehmensführungen

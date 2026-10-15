@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 7b"
 freq_rank: 939
 skip: false
+audio: "Kontakt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kontakt
+
+![[Kontakt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontakt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontakt&language=de)
 
 **Meaning:** contact
 **Plural:** Kontakte

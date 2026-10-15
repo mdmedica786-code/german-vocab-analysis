@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4647"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Wohnviertel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Wohnviertel
+
+![[Wohnviertel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnviertel&language=de)
 
 **Meaning:** residential area; neighbourhood
 **Plural:** Wohnviertel

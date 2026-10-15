@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3241"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "unterteilen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterteilen
+
+![[unterteilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterteilen&language=de)
 
 **Meaning:** to divide; to subdivide
 **Forms:** unterteilt · unterteilte · hat unterteilt

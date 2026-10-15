@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 2a"
 freq_rank: 1179
 skip: false
+audio: "verdienen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdienen
+
+![[verdienen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verdienen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdienen&language=de)
 
 **Meaning:** to earn
 **Forms:** verdient · verdiente · hat verdient

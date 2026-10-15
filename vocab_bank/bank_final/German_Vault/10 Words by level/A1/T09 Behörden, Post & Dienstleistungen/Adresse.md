@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12a"
 freq_rank: 1921
 skip: false
+audio: "Adresse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Adresse
+
+![[Adresse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Adresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adresse&language=de)
 
 **Meaning:** address
 **Plural:** Adressen

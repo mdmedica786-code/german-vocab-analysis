@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2277"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kuchenform.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kuchenform
+
+![[Kuchenform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kuchenform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuchenform&language=de)
 
 **Meaning:** cake tin
 **Plural:** Kuchenformen

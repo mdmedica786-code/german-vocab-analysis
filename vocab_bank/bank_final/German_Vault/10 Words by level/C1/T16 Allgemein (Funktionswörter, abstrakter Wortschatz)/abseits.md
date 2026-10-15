@@ -11,11 +11,16 @@ bank: "main"
 id: "B5990"
 freq_rank: 3816
 skip: false
+audio: "abseits.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # abseits
+
+![[abseits.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abseits&language=de)
 
 **Meaning:** away from; off to the side
 **Case:** + Gen.

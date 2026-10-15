@@ -13,11 +13,16 @@ id: "B5314"
 goethe_level: "B1"
 freq_rank: 1375
 skip: false
+audio: "ausschließen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausschließen
+
+![[ausschließen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausschlie%C3%9Fen&language=de)
 
 **Meaning:** to rule out; to exclude
 **Forms:** schließt aus · schloss aus · hat ausgeschlossen

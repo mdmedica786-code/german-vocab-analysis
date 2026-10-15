@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1779"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Umsatzrückgang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umsatzrückgang
+
+![[Umsatzrückgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umsatzr%C3%BCckgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umsatzr%C3%BCckgang&language=de)
 
 **Meaning:** decline in sales
 **Plural:** Umsatzrückgänge

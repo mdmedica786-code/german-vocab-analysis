@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2739"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Erfassung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erfassung
+
+![[Erfassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erfassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfassung&language=de)
 
 **Meaning:** recording; registration
 **Plural:** Erfassungen

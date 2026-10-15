@@ -15,11 +15,16 @@ id: "B3843"
 netzwerk: "B1 K4 13b"
 freq_rank: 4480
 skip: false
+audio: "Bewerber.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bewerber
+
+![[Bewerber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerber&language=de)
 
 **Meaning:** applicant (m)
 **Plural:** Bewerber

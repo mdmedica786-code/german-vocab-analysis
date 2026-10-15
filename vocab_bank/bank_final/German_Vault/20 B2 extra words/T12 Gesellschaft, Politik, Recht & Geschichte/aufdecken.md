@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0852"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "aufdecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufdecken
+
+![[aufdecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufdecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufdecken&language=de)
 
 **Meaning:** to uncover; to reveal
 **Forms:** deckt auf · deckte auf · hat aufgedeckt

@@ -15,11 +15,16 @@ id: "B0526"
 netzwerk: "A1 K3 6c"
 freq_rank: 5759
 skip: false
+audio: "Konzertkarte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konzertkarte
+
+![[Konzertkarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzertkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzertkarte&language=de)
 
 **Meaning:** concert ticket
 **Plural:** Konzertkarten

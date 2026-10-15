@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0409"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Beförderung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beförderung
+
+![[Beförderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bef%C3%B6rderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bef%C3%B6rderung&language=de)
 
 **Meaning:** promotion
 **Plural:** Beförderungen

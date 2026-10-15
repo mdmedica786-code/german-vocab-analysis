@@ -15,11 +15,16 @@ id: "B3988"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Verschwendung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verschwendung
+
+![[Verschwendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verschwendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschwendung&language=de)
 
 **Meaning:** waste
 **Plural:** –

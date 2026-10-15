@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10a"
 freq_rank: 4846
 skip: false
+audio: "Taschentuch.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Taschentuch
+
+![[Taschentuch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taschentuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschentuch&language=de)
 
 **Meaning:** handkerchief; tissue
 **Plural:** Taschentücher

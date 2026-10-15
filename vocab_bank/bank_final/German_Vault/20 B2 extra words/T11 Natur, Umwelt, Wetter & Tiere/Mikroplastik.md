@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0676"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Mikroplastik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mikroplastik
+
+![[Mikroplastik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mikroplastik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikroplastik&language=de)
 
 **Meaning:** microplastics
 **Plural:** –

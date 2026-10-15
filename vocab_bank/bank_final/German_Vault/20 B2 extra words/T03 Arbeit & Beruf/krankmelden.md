@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4139"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "krankmelden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # krankmelden
+
+![[krankmelden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/krankmelden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=krankmelden&language=de)
 
 **Meaning:** to report sick; to call in sick
 **Forms:** meldet sich krank · meldete sich krank · hat sich krankgemeldet

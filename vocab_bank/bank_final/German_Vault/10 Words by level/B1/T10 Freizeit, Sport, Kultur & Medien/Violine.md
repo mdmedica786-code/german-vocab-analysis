@@ -15,11 +15,16 @@ id: "B4190"
 netzwerk: "B1 K6 9 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Violine.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Violine
+
+![[Violine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Violine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Violine&language=de)
 
 **Meaning:** violin
 **Plural:** Violinen

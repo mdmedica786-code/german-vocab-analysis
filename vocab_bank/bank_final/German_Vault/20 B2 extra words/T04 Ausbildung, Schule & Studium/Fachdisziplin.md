@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3926"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
-status: "new"
+audio: "Fachdisziplin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fachdisziplin
+
+![[Fachdisziplin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachdisziplin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachdisziplin&language=de)
 
 **Meaning:** academic discipline; field of expertise
 **Plural:** Fachdisziplinen

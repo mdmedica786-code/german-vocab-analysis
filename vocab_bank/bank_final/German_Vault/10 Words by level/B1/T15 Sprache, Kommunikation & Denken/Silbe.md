@@ -15,11 +15,16 @@ id: "B3508"
 netzwerk: "B1 K2 11"
 freq_rank: 5759
 skip: false
+audio: "Silbe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Silbe
+
+![[Silbe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Silbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Silbe&language=de)
 
 **Meaning:** syllable
 **Plural:** Silben

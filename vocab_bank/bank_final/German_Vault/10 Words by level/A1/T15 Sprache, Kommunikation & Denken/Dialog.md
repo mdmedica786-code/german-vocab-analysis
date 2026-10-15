@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 7c"
 freq_rank: 2772
 skip: false
+audio: "Dialog.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dialog
+
+![[Dialog.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dialog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dialog&language=de)
 
 **Meaning:** dialogue
 **Plural:** Dialoge

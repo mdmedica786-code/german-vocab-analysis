@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Platz schaffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Platz%20schaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platz%20schaffen&language=de)
+
 **Meaning:** to make room
 **Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral
 

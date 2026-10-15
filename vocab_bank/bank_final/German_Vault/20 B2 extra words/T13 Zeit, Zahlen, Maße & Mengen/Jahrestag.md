@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1001"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Jahrestag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Jahrestag
+
+![[Jahrestag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahrestag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrestag&language=de)
 
 **Meaning:** anniversary
 **Plural:** Jahrestage

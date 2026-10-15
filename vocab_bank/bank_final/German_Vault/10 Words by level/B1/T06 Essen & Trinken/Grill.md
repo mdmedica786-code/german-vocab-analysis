@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 4517
 skip: false
+audio: "Grill.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Grill
+
+![[Grill.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grill/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grill&language=de)
 
 **Meaning:** grill
 **Plural:** Grills

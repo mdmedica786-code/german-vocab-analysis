@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 2a"
 freq_rank: 2000
 skip: false
+audio: "Blog.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Blog
+
+![[Blog.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blog&language=de)
 
 **Meaning:** blog
 **Plural:** Blogs

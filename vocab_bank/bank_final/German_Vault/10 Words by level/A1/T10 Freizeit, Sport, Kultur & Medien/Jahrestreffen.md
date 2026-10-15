@@ -15,11 +15,16 @@ id: "B1136"
 netzwerk: "A1 K7 7a"
 freq_rank: 5759
 skip: false
+audio: "Jahrestreffen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Jahrestreffen
+
+![[Jahrestreffen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahrestreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrestreffen&language=de)
 
 **Meaning:** yearly meeting
 **Plural:** Jahrestreffen

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 6a"
 freq_rank: 2157
 skip: false
+audio: "ausmachen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausmachen
+
+![[ausmachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausmachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausmachen&language=de)
 
 **Meaning:** to turn off; to arrange
 **Forms:** macht aus · machte aus · hat ausgemacht

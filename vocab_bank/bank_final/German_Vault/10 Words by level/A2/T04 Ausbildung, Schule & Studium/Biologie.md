@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Biologie
 
+[▶️ YouGlish](https://youglish.com/pronounce/Biologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biologie&language=de)
+
 **Meaning:** biology
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

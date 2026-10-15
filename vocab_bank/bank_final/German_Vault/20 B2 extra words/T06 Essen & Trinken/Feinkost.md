@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1439"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Feinkost.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feinkost
+
+![[Feinkost.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feinkost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feinkost&language=de)
 
 **Meaning:** delicatessen; gourmet food
 **Plural:** –

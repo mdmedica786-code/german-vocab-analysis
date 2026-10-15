@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0357"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gegenmaßnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gegenmaßnahme
+
+![[Gegenmaßnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegenma%C3%9Fnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenma%C3%9Fnahme&language=de)
 
 **Meaning:** countermeasure
 **Plural:** Gegenmaßnahmen

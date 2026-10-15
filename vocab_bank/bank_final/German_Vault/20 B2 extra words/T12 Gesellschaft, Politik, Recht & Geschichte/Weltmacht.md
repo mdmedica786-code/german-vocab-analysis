@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0568"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Weltmacht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weltmacht
+
+![[Weltmacht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weltmacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltmacht&language=de)
 
 **Meaning:** world power; superpower
 **Plural:** Weltmächte

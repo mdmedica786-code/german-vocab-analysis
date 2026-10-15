@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 3a"
 freq_rank: 5759
 skip: false
+audio: "Professorin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Professorin
+
+![[Professorin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Professorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Professorin&language=de)
 
 **Meaning:** professor (f)
 **Plural:** Professorinnen

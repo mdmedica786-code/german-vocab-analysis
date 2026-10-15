@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 1247
 skip: false
+audio: "atmen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # atmen
+
+![[atmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/atmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=atmen&language=de)
 
 **Meaning:** to breathe
 **Forms:** atmet · atmete · hat geatmet

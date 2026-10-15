@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4667"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "zuzahlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # zuzahlen
+
+![[zuzahlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuzahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuzahlen&language=de)
 
 **Meaning:** to pay extra; to make an additional payment
 **Forms:** zahlt zu · zahlte zu · hat zugezahlt

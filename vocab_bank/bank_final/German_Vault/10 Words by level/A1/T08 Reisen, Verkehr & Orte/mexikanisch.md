@@ -12,11 +12,16 @@ id: "B6498"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "mexikanisch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # mexikanisch
+
+![[mexikanisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mexikanisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mexikanisch&language=de)
 
 **Meaning:** Mexican
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

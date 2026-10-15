@@ -15,11 +15,16 @@ id: "B4378"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Schweinebraten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schweinebraten
+
+![[Schweinebraten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schweinebraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweinebraten&language=de)
 
 **Meaning:** roast pork
 **Plural:** Schweinebraten

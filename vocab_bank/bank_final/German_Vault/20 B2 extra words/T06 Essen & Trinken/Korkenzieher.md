@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2273"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Korkenzieher.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Korkenzieher
+
+![[Korkenzieher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korkenzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korkenzieher&language=de)
 
 **Meaning:** corkscrew
 **Plural:** Korkenzieher

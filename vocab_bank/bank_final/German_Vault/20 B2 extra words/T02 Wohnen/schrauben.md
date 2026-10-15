@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1723"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "schrauben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # schrauben
+
+![[schrauben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schrauben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schrauben&language=de)
 
 **Meaning:** to screw; to tinker
 **Forms:** schraubt · schraubte · hat geschraubt

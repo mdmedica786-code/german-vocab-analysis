@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4377"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Schauspielakademie
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspielakademie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspielakademie&language=de)
 
 **Meaning:** acting academy; drama school
 **Plural:** Schauspielakademien

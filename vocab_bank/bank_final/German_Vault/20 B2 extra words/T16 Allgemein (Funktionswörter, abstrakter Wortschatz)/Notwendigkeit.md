@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0295"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Notwendigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Notwendigkeit
+
+![[Notwendigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notwendigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notwendigkeit&language=de)
 
 **Meaning:** necessity
 **Plural:** Notwendigkeiten

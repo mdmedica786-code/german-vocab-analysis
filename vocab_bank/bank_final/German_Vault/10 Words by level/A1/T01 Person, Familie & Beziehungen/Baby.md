@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8b ÜB"
 freq_rank: 1759
 skip: false
+audio: "Baby.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Baby
+
+![[Baby.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Baby/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Baby&language=de)
 
 **Meaning:** baby
 **Plural:** Babys

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0750"
 exam_use: ["Lesen"]
 skip: false
+audio: "Begrünung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begrünung
+
+![[Begrünung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BCnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BCnung&language=de)
 
 **Meaning:** greening; planting vegetation
 **Plural:** Begrünungen

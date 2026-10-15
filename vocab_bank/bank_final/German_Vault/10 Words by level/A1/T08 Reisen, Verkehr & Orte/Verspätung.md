@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 15b"
 freq_rank: 4093
 skip: false
+audio: "Verspätung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verspätung
+
+![[Verspätung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versp%C3%A4tung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versp%C3%A4tung&language=de)
 
 **Meaning:** delay
 **Plural:** Verspätungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3975"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Gamerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gamerin
+
+![[Gamerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gamerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamerin&language=de)
 
 **Meaning:** gamer (female)
 **Plural:** Gamerinnen

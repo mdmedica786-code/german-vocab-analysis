@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 6b"
 freq_rank: 468
 skip: false
+audio: "nah.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nah
+
+![[nah.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nah/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nah&language=de)
 
 **Meaning:** near
 **Forms:** näher – am nächsten

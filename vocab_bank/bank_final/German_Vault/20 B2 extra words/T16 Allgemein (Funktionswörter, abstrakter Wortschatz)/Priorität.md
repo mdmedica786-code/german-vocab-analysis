@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0378"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Priorität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Priorität
+
+![[Priorität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Priorit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Priorit%C3%A4t&language=de)
 
 **Meaning:** priority
 **Plural:** Prioritäten

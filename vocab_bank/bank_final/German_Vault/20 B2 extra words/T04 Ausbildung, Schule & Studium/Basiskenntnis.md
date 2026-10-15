@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3778"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Basiskenntnis
+
+[▶️ YouGlish](https://youglish.com/pronounce/Basiskenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Basiskenntnis&language=de)
 
 **Meaning:** basic knowledge
 **Plural:** Basiskenntnisse

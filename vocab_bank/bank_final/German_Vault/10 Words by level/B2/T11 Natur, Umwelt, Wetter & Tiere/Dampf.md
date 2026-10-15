@@ -14,11 +14,16 @@ bank: "main"
 id: "B6152"
 freq_rank: 4642
 skip: false
+audio: "Dampf.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dampf
+
+![[Dampf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dampf&language=de)
 
 **Meaning:** steam
 **Plural:** Dämpfe

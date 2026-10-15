@@ -15,11 +15,16 @@ id: "B0912"
 netzwerk: "A1 K5 15b"
 freq_rank: 5759
 skip: false
+audio: "Zeitangabe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeitangabe
+
+![[Zeitangabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitangabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitangabe&language=de)
 
 **Meaning:** time designation
 **Plural:** Zeitangaben

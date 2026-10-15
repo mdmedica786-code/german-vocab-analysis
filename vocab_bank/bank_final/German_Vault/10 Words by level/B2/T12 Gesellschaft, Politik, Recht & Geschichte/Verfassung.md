@@ -14,11 +14,16 @@ bank: "main"
 id: "B5502"
 freq_rank: 2126
 skip: false
+audio: "Verfassung.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verfassung
+
+![[Verfassung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verfassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verfassung&language=de)
 
 **Meaning:** constitution; state (of health)
 **Plural:** Verfassungen

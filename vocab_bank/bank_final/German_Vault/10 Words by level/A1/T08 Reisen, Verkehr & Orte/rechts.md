@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 2b"
 freq_rank: 651
 skip: false
+audio: "rechts.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rechts
+
+![[rechts.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rechts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechts&language=de)
 
 **Meaning:** right
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

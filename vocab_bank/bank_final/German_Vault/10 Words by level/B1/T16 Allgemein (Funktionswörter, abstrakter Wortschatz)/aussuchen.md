@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 9c"
 freq_rank: 4777
 skip: false
+audio: "aussuchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aussuchen
+
+![[aussuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussuchen&language=de)
 
 **Meaning:** to choose
 **Forms:** sucht aus · suchte aus · hat ausgesucht

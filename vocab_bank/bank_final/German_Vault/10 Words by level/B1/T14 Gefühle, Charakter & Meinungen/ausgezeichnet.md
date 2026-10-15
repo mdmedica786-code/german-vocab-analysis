@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 9d"
 freq_rank: 1170
 skip: false
+audio: "ausgezeichnet.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgezeichnet
+
+![[ausgezeichnet.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgezeichnet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgezeichnet&language=de)
 
 **Meaning:** excellent
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2707"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "vorgeben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorgeben
+
+![[vorgeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorgeben&language=de)
 
 **Meaning:** to specify; to pretend
 **Forms:** gibt vor · gab vor · hat vorgegeben

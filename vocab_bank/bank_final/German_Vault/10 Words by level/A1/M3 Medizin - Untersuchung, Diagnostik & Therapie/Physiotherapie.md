@@ -15,11 +15,16 @@ id: "B1322"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Physiotherapie.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Physiotherapie
+
+![[Physiotherapie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Physiotherapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physiotherapie&language=de)
 
 **Meaning:** physical therapy
 **Plural:** Physiotherapien

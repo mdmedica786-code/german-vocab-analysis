@@ -15,11 +15,16 @@ id: "B6098"
 goethe_level: "A1"
 freq_rank: 4347
 skip: false
+audio: "Appetit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Appetit
+
+![[Appetit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Appetit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Appetit&language=de)
 
 **Meaning:** appetite
 **Plural:** –

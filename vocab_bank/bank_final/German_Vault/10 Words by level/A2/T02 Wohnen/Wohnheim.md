@@ -15,11 +15,16 @@ id: "B2271"
 netzwerk: "A2 K4 11a"
 freq_rank: 5759
 skip: false
+audio: "Wohnheim.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wohnheim
+
+![[Wohnheim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnheim&language=de)
 
 **Meaning:** dorm
 **Plural:** Wohnheime

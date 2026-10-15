@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0222"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "belegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # belegen
+
+![[belegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/belegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=belegen&language=de)
 
 **Meaning:** to prove; to document; to occupy
 **Forms:** belegt · belegte · hat belegt

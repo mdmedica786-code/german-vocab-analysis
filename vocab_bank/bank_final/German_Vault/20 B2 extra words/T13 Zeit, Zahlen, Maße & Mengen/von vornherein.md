@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2837"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "von vornherein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # von vornherein
+
+![[von vornherein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/von%20vornherein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=von%20vornherein&language=de)
 
 **Meaning:** from the start; from the outset
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

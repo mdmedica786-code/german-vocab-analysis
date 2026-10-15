@@ -12,11 +12,16 @@ bank: "main"
 id: "B5301"
 freq_rank: 1300
 skip: false
+audio: "ermitteln.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ermitteln
+
+![[ermitteln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ermitteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ermitteln&language=de)
 
 **Meaning:** to determine; to investigate
 **Forms:** ermittelt · ermittelte · hat ermittelt

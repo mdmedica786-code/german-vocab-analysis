@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1335"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "demzufolge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # demzufolge
+
+![[demzufolge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/demzufolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demzufolge&language=de)
 
 **Meaning:** accordingly; according to this
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

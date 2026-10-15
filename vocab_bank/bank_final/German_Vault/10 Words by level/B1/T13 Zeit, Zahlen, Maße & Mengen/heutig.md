@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 1272
 skip: false
+audio: "heutig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # heutig
+
+![[heutig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heutig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heutig&language=de)
 
 **Meaning:** present day
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

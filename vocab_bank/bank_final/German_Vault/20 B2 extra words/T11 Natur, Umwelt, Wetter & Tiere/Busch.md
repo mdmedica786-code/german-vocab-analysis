@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3163"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Busch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Busch
+
+![[Busch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Busch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Busch&language=de)
 
 **Meaning:** bush; shrub
 **Plural:** Büsche

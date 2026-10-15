@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1308"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verabscheuen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verabscheuen
+
+![[verabscheuen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verabscheuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verabscheuen&language=de)
 
 **Meaning:** to detest; to abhor
 **Forms:** verabscheut · verabscheute · hat verabscheut

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5402"
 freq_rank: 1805
 skip: false
+audio: "Besitz.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Besitz
+
+![[Besitz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besitz&language=de)
 
 **Meaning:** possession; property
 **Plural:** –

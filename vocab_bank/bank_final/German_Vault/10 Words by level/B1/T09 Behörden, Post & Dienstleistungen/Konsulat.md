@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 6c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Konsulat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Konsulat
+
+![[Konsulat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsulat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsulat&language=de)
 
 **Meaning:** consulate
 **Plural:** Konsulate

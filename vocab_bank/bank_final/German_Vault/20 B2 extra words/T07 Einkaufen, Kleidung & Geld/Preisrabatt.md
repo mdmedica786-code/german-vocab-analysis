@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4326"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Preisrabatt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Preisrabatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preisrabatt&language=de)
 
 **Meaning:** price discount
 **Plural:** Preisrabatte

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4613"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "wahrnehmbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # wahrnehmbar
+
+![[wahrnehmbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wahrnehmbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahrnehmbar&language=de)
 
 **Meaning:** perceptible; noticeable
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 1a ÜB"
 freq_rank: 2854
 skip: false
+audio: "Tablet.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tablet
+
+![[Tablet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tablet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tablet&language=de)
 
 **Meaning:** tablet
 **Plural:** Tablets

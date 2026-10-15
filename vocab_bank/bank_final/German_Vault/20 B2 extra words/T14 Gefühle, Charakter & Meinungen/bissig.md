@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1561"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "bissig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bissig
+
+![[bissig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bissig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bissig&language=de)
 
 **Meaning:** snappy; biting
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 3b"
 freq_rank: 729
 skip: false
+audio: "fassen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fassen
+
+![[fassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fassen&language=de)
 
 **Meaning:** to grasp; to hold (capacity); to catch
 **Forms:** fasst · fasste · hat gefasst

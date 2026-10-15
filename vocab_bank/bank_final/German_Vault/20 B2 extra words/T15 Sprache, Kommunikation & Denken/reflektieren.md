@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2733"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "reflektieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # reflektieren
+
+![[reflektieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reflektieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reflektieren&language=de)
 
 **Meaning:** to reflect; to think about
 **Forms:** reflektiert · reflektierte · hat reflektiert

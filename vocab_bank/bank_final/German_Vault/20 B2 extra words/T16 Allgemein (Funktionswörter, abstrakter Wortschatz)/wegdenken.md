@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4627"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "wegdenken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # wegdenken
+
+![[wegdenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wegdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wegdenken&language=de)
 
 **Meaning:** to imagine away; to think away
 **Forms:** denkt weg · dachte weg · hat weggedacht

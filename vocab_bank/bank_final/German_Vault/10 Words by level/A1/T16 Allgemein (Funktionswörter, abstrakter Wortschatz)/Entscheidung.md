@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 3c"
 freq_rank: 447
 skip: false
+audio: "Entscheidung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entscheidung
+
+![[Entscheidung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entscheidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entscheidung&language=de)
 
 **Meaning:** decision
 **Plural:** Entscheidungen

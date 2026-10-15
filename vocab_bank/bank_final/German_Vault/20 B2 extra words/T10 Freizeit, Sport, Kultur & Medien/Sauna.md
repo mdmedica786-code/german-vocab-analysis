@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1445"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Sauna.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sauna
+
+![[Sauna.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sauna/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sauna&language=de)
 
 **Meaning:** sauna
 **Plural:** Saunen

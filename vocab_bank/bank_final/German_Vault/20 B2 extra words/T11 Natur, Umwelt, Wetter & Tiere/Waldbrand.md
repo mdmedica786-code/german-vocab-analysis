@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0707"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Waldbrand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Waldbrand
+
+![[Waldbrand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Waldbrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waldbrand&language=de)
 
 **Meaning:** forest fire
 **Plural:** Waldbrände

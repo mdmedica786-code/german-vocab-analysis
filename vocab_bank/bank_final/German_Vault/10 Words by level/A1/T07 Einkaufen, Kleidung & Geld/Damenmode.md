@@ -15,11 +15,16 @@ id: "B1636"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Damenmode.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Damenmode
+
+![[Damenmode.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Damenmode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Damenmode&language=de)
 
 **Meaning:** women's fashion
 **Plural:** Damenmoden

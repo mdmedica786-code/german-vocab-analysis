@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0897"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ersuchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ersuchen
+
+![[ersuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ersuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ersuchen&language=de)
 
 **Meaning:** to request; to ask formally
 **Forms:** ersucht · ersuchte · hat ersucht

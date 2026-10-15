@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 5409
 skip: false
+audio: "Tablette.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tablette
+
+![[Tablette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tablette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tablette&language=de)
 
 **Meaning:** pill
 **Plural:** Tabletten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3426"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Bezirk.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bezirk
+
+![[Bezirk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bezirk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezirk&language=de)
 
 **Meaning:** district; borough
 **Plural:** Bezirke

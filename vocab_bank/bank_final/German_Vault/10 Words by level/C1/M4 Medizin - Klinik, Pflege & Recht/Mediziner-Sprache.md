@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Mediziner-Sprache
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mediziner-Sprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mediziner-Sprache&language=de)
+
 **Meaning:** medical jargon
 **Plural:** –
 **Level:** C1 · **Topic:** [[M4 Medizin - Klinik, Pflege & Recht]] · **Register:** neutral

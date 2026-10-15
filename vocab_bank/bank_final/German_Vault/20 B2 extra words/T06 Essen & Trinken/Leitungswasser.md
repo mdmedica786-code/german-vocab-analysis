@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4179"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Leitungswasser.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Leitungswasser
+
+![[Leitungswasser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leitungswasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitungswasser&language=de)
 
 **Meaning:** tap water
 **Plural:** –

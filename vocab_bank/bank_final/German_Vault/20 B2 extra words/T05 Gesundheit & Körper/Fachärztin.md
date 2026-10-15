@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3924"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Fachärztin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fachärztin
+
+![[Fachärztin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fach%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fach%C3%A4rztin&language=de)
 
 **Meaning:** specialist doctor (female)
 **Plural:** Fachärztinnen

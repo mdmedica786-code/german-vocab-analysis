@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1117"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Postfach.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Postfach
+
+![[Postfach.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Postfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postfach&language=de)
 
 **Meaning:** PO box
 **Plural:** Postfächer

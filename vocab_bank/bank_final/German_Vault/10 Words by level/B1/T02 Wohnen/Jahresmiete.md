@@ -15,11 +15,16 @@ id: "B5117"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Jahresmiete.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jahresmiete
+
+![[Jahresmiete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahresmiete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahresmiete&language=de)
 
 **Meaning:** yearly rent
 **Plural:** Jahresmieten

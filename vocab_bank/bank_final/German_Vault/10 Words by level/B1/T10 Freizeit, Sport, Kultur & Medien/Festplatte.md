@@ -15,11 +15,16 @@ id: "B6305"
 goethe_level: "B1"
 freq_rank: 5512
 skip: false
+audio: "Festplatte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Festplatte
+
+![[Festplatte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Festplatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festplatte&language=de)
 
 **Meaning:** hard drive
 **Plural:** Festplatten

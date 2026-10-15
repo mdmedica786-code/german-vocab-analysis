@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 358
 skip: false
+audio: "ebenfalls.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ebenfalls
+
+![[ebenfalls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ebenfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ebenfalls&language=de)
 
 **Meaning:** also
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

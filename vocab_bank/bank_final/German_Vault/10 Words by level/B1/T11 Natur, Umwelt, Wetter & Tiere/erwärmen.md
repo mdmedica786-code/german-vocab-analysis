@@ -13,11 +13,16 @@ id: "B3944"
 netzwerk: "B1 K5 4b"
 freq_rank: 5759
 skip: false
+audio: "erwärmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwärmen
+
+![[erwärmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erw%C3%A4rmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erw%C3%A4rmen&language=de)
 
 **Meaning:** to warm; to heat
 **Forms:** erwärmt · erwärmte · hat erwärmt

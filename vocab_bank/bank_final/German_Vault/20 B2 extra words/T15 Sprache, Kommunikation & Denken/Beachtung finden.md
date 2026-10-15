@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Beachtung finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Beachtung%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beachtung%20finden&language=de)
+
 **Meaning:** to receive attention
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

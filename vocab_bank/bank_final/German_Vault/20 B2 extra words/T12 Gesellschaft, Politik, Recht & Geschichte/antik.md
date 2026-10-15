@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2519"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "antik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # antik
+
+![[antik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/antik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antik&language=de)
 
 **Meaning:** ancient; antique
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5998"
 freq_rank: 3859
 skip: false
+audio: "Niederlage.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Niederlage
+
+![[Niederlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Niederlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederlage&language=de)
 
 **Meaning:** defeat
 **Plural:** Niederlagen

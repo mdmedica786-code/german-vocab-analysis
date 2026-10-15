@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4127"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Konfliktpartner.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Konfliktpartner
+
+![[Konfliktpartner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktpartner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktpartner&language=de)
 
 **Meaning:** party to a conflict (male); person in the conflict
 **Plural:** Konfliktpartner

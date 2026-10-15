@@ -15,11 +15,16 @@ id: "B3894"
 netzwerk: "B1 K5 2a"
 freq_rank: 5759
 skip: false
+audio: "Bioprodukt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bioprodukt
+
+![[Bioprodukt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bioprodukt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bioprodukt&language=de)
 
 **Meaning:** organic product
 **Plural:** Bioprodukte

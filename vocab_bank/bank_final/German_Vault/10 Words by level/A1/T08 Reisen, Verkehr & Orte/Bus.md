@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bus
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bus&language=de)
+
 **Meaning:** bus
 **Plural:** Busse
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

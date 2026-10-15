@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3860"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Denker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Denker
+
+![[Denker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Denker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denker&language=de)
 
 **Meaning:** thinker
 **Plural:** Denker

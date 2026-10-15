@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 9c"
 freq_rank: 667
 skip: false
+audio: "selber.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # selber
+
+![[selber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/selber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selber&language=de)
 
 **Meaning:** myself/himself/etc.; on one's own
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** colloquial

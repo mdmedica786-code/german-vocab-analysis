@@ -15,11 +15,16 @@ id: "B2788"
 netzwerk: "A2 K8 9a"
 freq_rank: 4534
 skip: false
+audio: "Senior.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Senior
+
+![[Senior.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Senior/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Senior&language=de)
 
 **Meaning:** senior (m)
 **Plural:** Senioren

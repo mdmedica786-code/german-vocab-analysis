@@ -13,11 +13,16 @@ id: "B6413"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "einfügen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einfügen
+
+![[einfügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einf%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einf%C3%BCgen&language=de)
 
 **Meaning:** to insert; to paste
 **Forms:** fügt ein · fügte ein · hat eingefügt

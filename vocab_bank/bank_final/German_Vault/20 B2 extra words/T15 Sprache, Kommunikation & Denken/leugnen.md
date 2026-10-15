@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3315"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "leugnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # leugnen
+
+![[leugnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leugnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leugnen&language=de)
 
 **Meaning:** to deny; to disavow
 **Forms:** leugnet · leugnete · hat geleugnet

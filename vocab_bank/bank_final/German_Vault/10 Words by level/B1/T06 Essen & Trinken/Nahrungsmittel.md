@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 5180
 skip: false
+audio: "Nahrungsmittel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nahrungsmittel
+
+![[Nahrungsmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nahrungsmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nahrungsmittel&language=de)
 
 **Meaning:** food
 **Plural:** Nahrungsmittel

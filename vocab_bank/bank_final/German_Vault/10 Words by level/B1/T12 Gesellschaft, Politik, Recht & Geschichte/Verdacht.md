@@ -15,11 +15,16 @@ id: "B5486"
 goethe_level: "B1"
 freq_rank: 2093
 skip: false
+audio: "Verdacht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verdacht
+
+![[Verdacht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verdacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verdacht&language=de)
 
 **Meaning:** suspicion
 **Plural:** –

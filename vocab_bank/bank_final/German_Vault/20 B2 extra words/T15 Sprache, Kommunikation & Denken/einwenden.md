@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0886"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "einwenden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einwenden
+
+![[einwenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einwenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einwenden&language=de)
 
 **Meaning:** to object
 **Forms:** wendet ein · wendete ein · hat eingewendet

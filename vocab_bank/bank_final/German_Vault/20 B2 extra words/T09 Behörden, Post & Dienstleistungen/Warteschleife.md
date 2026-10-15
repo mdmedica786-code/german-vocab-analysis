@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2209"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Warteschleife.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Warteschleife
+
+![[Warteschleife.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Warteschleife/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warteschleife&language=de)
 
 **Meaning:** queue (on the phone); holding pattern
 **Plural:** Warteschleifen

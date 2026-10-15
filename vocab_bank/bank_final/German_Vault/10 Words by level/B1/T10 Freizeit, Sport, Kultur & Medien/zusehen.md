@@ -13,11 +13,16 @@ id: "B4702"
 netzwerk: "B1 K9 12b"
 freq_rank: 4517
 skip: false
+audio: "zusehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusehen
+
+![[zusehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusehen&language=de)
 
 **Meaning:** to watch
 **Forms:** sieht zu · sah zu · hat zugesehen

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a ÜB"
 freq_rank: 2698
 skip: false
+audio: "Großvater.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Großvater
+
+![[Großvater.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fvater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fvater&language=de)
 
 **Meaning:** grandfather
 **Plural:** Großväter

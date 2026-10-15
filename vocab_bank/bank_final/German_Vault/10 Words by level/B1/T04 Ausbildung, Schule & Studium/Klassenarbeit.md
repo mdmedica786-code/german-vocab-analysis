@@ -15,11 +15,16 @@ id: "B6473"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Klassenarbeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klassenarbeit
+
+![[Klassenarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klassenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassenarbeit&language=de)
 
 **Meaning:** class test
 **Plural:** Klassenarbeiten

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3165"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "industriell.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # industriell
+
+![[industriell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/industriell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=industriell&language=de)
 
 **Meaning:** industrial
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

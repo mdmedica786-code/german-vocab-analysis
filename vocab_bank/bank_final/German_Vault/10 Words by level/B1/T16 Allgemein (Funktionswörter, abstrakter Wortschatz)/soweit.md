@@ -11,11 +11,16 @@ bank: "main"
 id: "B5221"
 freq_rank: 912
 skip: false
+audio: "soweit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # soweit
+
+![[soweit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/soweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=soweit&language=de)
 
 **Meaning:** as far as
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3475"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ansprache.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ansprache
+
+![[Ansprache.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ansprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansprache&language=de)
 
 **Meaning:** speech; address
 **Plural:** Ansprachen

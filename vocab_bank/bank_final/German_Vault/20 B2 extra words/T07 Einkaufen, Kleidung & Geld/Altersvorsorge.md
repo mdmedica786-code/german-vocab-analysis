@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0429"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Altersvorsorge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Altersvorsorge
+
+![[Altersvorsorge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altersvorsorge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altersvorsorge&language=de)
 
 **Meaning:** retirement provision
 **Plural:** –

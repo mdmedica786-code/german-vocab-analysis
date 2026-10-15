@@ -15,11 +15,16 @@ id: "B6366"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Ausländerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausländerin
+
+![[Ausländerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausl%C3%A4nderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausl%C3%A4nderin&language=de)
 
 **Meaning:** foreigner (f)
 **Plural:** Ausländerinnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2237"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Rasenmäher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rasenmäher
+
+![[Rasenmäher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rasenm%C3%A4her/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rasenm%C3%A4her&language=de)
 
 **Meaning:** lawnmower
 **Plural:** Rasenmäher

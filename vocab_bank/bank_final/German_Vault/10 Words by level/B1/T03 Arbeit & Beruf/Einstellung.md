@@ -15,11 +15,16 @@ id: "B3846"
 netzwerk: "B1 K4 13b"
 freq_rank: 1203
 skip: false
+audio: "Einstellung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einstellung
+
+![[Einstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einstellung&language=de)
 
 **Meaning:** attitude; setting; employment
 **Plural:** Einstellungen

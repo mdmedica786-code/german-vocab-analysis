@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1238"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "durchhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchhalten
+
+![[durchhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchhalten&language=de)
 
 **Meaning:** to hold out; to persevere
 **Forms:** hält durch · hielt durch · hat durchgehalten

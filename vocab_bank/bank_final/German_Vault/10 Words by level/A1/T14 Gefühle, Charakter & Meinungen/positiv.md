@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 7b"
 freq_rank: 526
 skip: false
+audio: "positiv.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # positiv
+
+![[positiv.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/positiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=positiv&language=de)
 
 **Meaning:** positive
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

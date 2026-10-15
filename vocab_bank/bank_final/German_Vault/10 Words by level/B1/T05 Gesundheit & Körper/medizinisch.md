@@ -12,11 +12,16 @@ id: "B3519"
 netzwerk: "B1 K3 1a"
 freq_rank: 1863
 skip: false
+audio: "medizinisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # medizinisch
+
+![[medizinisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/medizinisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=medizinisch&language=de)
 
 **Meaning:** medical
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

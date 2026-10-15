@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0565"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Souveränität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Souveränität
+
+![[Souveränität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Souver%C3%A4nit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Souver%C3%A4nit%C3%A4t&language=de)
 
 **Meaning:** sovereignty
 **Plural:** –

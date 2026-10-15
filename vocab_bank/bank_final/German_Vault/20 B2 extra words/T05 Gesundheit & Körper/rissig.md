@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2320"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "rissig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rissig
+
+![[rissig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rissig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rissig&language=de)
 
 **Meaning:** cracked; chapped
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

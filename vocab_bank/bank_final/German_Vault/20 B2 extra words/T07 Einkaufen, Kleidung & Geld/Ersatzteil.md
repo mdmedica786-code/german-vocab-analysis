@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1095"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ersatzteil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ersatzteil
+
+![[Ersatzteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ersatzteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ersatzteil&language=de)
 
 **Meaning:** spare part
 **Plural:** Ersatzteile

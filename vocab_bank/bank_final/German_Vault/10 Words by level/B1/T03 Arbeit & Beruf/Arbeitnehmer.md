@@ -15,11 +15,16 @@ id: "B3816"
 netzwerk: "B1 K4 10a"
 freq_rank: 1940
 skip: false
+audio: "Arbeitnehmer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitnehmer
+
+![[Arbeitnehmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitnehmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitnehmer&language=de)
 
 **Meaning:** worker (m)
 **Plural:** Arbeitnehmer

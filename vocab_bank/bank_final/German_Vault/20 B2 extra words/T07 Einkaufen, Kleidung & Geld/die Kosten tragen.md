@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # die Kosten tragen
 
+[▶️ YouGlish](https://youglish.com/pronounce/die%20Kosten%20tragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=die%20Kosten%20tragen&language=de)
+
 **Meaning:** to bear the costs
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 

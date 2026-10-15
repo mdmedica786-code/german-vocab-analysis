@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1730"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "summen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # summen
+
+![[summen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/summen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=summen&language=de)
 
 **Meaning:** to hum; to buzz
 **Forms:** summt · summte · hat gesummt

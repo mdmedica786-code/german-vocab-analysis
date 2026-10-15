@@ -15,11 +15,16 @@ id: "B5183"
 goethe_level: "B1"
 freq_rank: 593
 skip: false
+audio: "Studie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Studie
+
+![[Studie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Studie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studie&language=de)
 
 **Meaning:** study; survey
 **Plural:** Studien

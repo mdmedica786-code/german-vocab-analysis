@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3651"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Besorgnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besorgnis
+
+![[Besorgnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besorgnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besorgnis&language=de)
 
 **Meaning:** concern; worry
 **Plural:** Besorgnisse

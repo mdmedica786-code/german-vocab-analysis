@@ -12,11 +12,16 @@ id: "B6045"
 goethe_level: "B1"
 freq_rank: 4076
 skip: false
+audio: "sinnlos.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sinnlos
+
+![[sinnlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sinnlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sinnlos&language=de)
 
 **Meaning:** senseless; pointless
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

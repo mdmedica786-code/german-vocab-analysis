@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 487
 skip: false
+audio: "Augenblick.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Augenblick
+
+![[Augenblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Augenblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Augenblick&language=de)
 
 **Meaning:** moment
 **Plural:** Augenblicke

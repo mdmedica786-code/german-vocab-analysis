@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 1064
 skip: false
+audio: "körperlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # körperlich
+
+![[körperlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%B6rperlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%B6rperlich&language=de)
 
 **Meaning:** physical
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

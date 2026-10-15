@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12e"
 freq_rank: 1052
 skip: false
+audio: "Vergangenheit.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vergangenheit
+
+![[Vergangenheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vergangenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vergangenheit&language=de)
 
 **Meaning:** past
 **Plural:** –

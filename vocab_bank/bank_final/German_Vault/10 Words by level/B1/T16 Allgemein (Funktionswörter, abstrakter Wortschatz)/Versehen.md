@@ -15,11 +15,16 @@ id: "B3769"
 netzwerk: "B1 K4 6c"
 freq_rank: 2000
 skip: false
+audio: "Versehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Versehen
+
+![[Versehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versehen&language=de)
 
 **Meaning:** accident (accidentally)
 **Plural:** Versehen

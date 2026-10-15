@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Folge haben
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Folge%20haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Folge%20haben&language=de)
+
 **Meaning:** to result in; to have as a consequence
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0223"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "nachweisen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachweisen
+
+![[nachweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachweisen&language=de)
 
 **Meaning:** to prove; to demonstrate; to detect
 **Forms:** weist nach · wies nach · hat nachgewiesen

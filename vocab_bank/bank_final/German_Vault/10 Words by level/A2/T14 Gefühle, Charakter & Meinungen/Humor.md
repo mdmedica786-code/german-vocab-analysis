@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 12b"
 freq_rank: 3703
 skip: false
+audio: "Humor.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Humor
+
+![[Humor.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Humor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Humor&language=de)
 
 **Meaning:** humour
 **Plural:** –

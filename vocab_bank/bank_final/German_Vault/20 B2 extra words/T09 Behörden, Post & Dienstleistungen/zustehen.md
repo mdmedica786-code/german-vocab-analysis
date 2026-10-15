@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0914"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "zustehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zustehen
+
+![[zustehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zustehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zustehen&language=de)
 
 **Meaning:** to be entitled to
 **Forms:** steht zu · stand zu · hat zugestanden

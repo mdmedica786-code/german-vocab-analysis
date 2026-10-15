@@ -13,11 +13,16 @@ id: "B4423"
 netzwerk: "B1 K8 5b"
 freq_rank: 1061
 skip: false
+audio: "betragen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betragen
+
+![[betragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betragen&language=de)
 
 **Meaning:** to amount to
 **Forms:** beträgt · betrug · hat betragen

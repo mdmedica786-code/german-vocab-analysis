@@ -15,11 +15,16 @@ id: "B0891"
 netzwerk: "A1 K5 14"
 freq_rank: 5439
 skip: false
+audio: "Höflichkeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Höflichkeit
+
+![[Höflichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6flichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6flichkeit&language=de)
 
 **Meaning:** politeness, courtesy
 **Plural:** –

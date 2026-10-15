@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 8a"
 freq_rank: 5759
 skip: false
+audio: "Kuli.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kuli
+
+![[Kuli.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kuli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuli&language=de)
 
 **Meaning:** pen
 **Plural:** Kulis

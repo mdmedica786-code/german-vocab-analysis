@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4205"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Lyriker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Lyriker
+
+![[Lyriker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lyriker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lyriker&language=de)
 
 **Meaning:** poet; lyric poet (male)
 **Plural:** Lyriker

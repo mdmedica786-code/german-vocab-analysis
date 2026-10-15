@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0245"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "scheitern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # scheitern
+
+![[scheitern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/scheitern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheitern&language=de)
 
 **Meaning:** to fail; to fall through
 **Forms:** scheitert · scheiterte · ist gescheitert

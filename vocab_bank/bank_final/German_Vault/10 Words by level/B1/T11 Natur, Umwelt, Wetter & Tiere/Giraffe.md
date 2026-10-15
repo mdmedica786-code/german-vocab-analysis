@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Giraffe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Giraffe
+
+![[Giraffe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Giraffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Giraffe&language=de)
 
 **Meaning:** giraffe
 **Plural:** Giraffen

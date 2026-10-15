@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 2547
 skip: false
+audio: "Sonntag.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonntag
+
+![[Sonntag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonntag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonntag&language=de)
 
 **Meaning:** Sunday
 **Plural:** Sonntage

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "Gasthaus.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gasthaus
+
+![[Gasthaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gasthaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gasthaus&language=de)
 
 **Meaning:** inn
 **Plural:** Gasthäuser

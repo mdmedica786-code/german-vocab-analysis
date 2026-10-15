@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 634
 skip: false
+audio: "Arzt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arzt
+
+![[Arzt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arzt&language=de)
 
 **Meaning:** doctor (m)
 **Plural:** Ärzte

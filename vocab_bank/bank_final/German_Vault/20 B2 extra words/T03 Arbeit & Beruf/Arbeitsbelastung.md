@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3719"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Arbeitsbelastung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitsbelastung
+
+![[Arbeitsbelastung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsbelastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsbelastung&language=de)
 
 **Meaning:** workload; work stress
 **Plural:** Arbeitsbelastungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3869"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Doktorat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Doktorat
+
+![[Doktorat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Doktorat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktorat&language=de)
 
 **Meaning:** doctorate (Austria/Switzerland)
 **Plural:** Doktorate

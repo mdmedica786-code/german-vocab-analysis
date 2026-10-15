@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 14a"
 freq_rank: 5759
 skip: false
+audio: "Sandwich.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Sandwich
+
+![[Sandwich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sandwich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sandwich&language=de)
 
 **Meaning:** sandwich
 **Plural:** Sandwichs

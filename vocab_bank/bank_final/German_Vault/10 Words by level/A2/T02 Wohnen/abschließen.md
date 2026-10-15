@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # abschließen
 
+[▶️ YouGlish](https://youglish.com/pronounce/abschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abschlie%C3%9Fen&language=de)
+
 **Meaning:** to finish
 **Forms:** schließt ab · schloss ab · hat abgeschlossen
 **Grammar:** separable (ab-)

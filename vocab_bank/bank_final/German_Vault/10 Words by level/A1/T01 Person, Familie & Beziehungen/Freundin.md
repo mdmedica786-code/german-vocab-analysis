@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 2a"
 freq_rank: 884
 skip: false
+audio: "Freundin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freundin
+
+![[Freundin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freundin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freundin&language=de)
 
 **Meaning:** female friend, girlfriend
 **Plural:** Freundinnen

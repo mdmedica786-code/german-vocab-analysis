@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 1a"
 freq_rank: 1828
 skip: false
+audio: "wandern.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wandern
+
+![[wandern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wandern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wandern&language=de)
 
 **Meaning:** to hike
 **Forms:** wandert · wanderte · ist gewandert

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5488"
 freq_rank: 2103
 skip: false
+audio: "Flamme.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Flamme
+
+![[Flamme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flamme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flamme&language=de)
 
 **Meaning:** flame
 **Plural:** Flammen

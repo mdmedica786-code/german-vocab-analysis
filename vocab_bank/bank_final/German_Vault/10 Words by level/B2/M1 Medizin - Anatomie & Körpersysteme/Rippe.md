@@ -14,11 +14,16 @@ bank: "main"
 id: "B6106"
 freq_rank: 4423
 skip: false
+audio: "Rippe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rippe
+
+![[Rippe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rippe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rippe&language=de)
 
 **Meaning:** rib
 **Plural:** Rippen

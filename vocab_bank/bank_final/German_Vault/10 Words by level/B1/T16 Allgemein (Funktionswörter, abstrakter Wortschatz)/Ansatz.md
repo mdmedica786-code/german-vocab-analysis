@@ -14,11 +14,16 @@ bank: "main"
 id: "B5200"
 freq_rank: 703
 skip: false
+audio: "Ansatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ansatz
+
+![[Ansatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ansatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansatz&language=de)
 
 **Meaning:** approach; starting point
 **Plural:** Ansätze

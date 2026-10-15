@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Widerspruch einlegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Widerspruch%20einlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerspruch%20einlegen&language=de)
+
 **Meaning:** to lodge an objection
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

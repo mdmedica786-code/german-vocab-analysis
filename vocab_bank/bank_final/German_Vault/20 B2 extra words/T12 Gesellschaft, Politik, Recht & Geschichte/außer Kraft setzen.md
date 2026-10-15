@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0073"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "außer Kraft setzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # außer Kraft setzen
+
+![[außer Kraft setzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Fer%20Kraft%20setzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Fer%20Kraft%20setzen&language=de)
 
 **Meaning:** to repeal; to suspend
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

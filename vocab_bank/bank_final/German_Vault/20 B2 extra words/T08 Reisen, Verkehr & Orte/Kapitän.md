@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2601"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Kapitän.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kapitän
+
+![[Kapitän.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kapit%C3%A4n/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kapit%C3%A4n&language=de)
 
 **Meaning:** captain
 **Plural:** Kapitäne

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1058"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Schuldner.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schuldner
+
+![[Schuldner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schuldner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuldner&language=de)
 
 **Meaning:** debtor
 **Plural:** Schuldner

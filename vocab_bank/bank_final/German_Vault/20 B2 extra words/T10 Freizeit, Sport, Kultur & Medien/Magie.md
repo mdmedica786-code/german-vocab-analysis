@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2727"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Magie.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Magie
+
+![[Magie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Magie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magie&language=de)
 
 **Meaning:** magic
 **Plural:** –

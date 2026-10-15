@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 14a"
 freq_rank: 2089
 skip: false
+audio: "Wetter.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wetter
+
+![[Wetter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetter&language=de)
 
 **Meaning:** weather
 **Plural:** Wetter

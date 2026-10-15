@@ -15,11 +15,16 @@ id: "B3561"
 netzwerk: "B1 K3 3c"
 freq_rank: 9999
 skip: false
+audio: "Berufssoldatin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berufssoldatin
+
+![[Berufssoldatin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufssoldatin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufssoldatin&language=de)
 
 **Meaning:** professional soldier (f)
 **Plural:** Berufssoldatinnen

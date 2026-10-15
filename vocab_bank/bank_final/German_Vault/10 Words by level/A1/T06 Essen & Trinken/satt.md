@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 7a"
 freq_rank: 3997
 skip: false
+audio: "satt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # satt
+
+![[satt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/satt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=satt&language=de)
 
 **Meaning:** full
 **Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

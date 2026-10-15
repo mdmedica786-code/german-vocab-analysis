@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 6c"
 freq_rank: 124
 skip: false
+audio: "ob.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # ob
+
+![[ob.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ob&language=de)
 
 **Meaning:** if; whether
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2858"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Maske.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Maske
+
+![[Maske.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maske/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maske&language=de)
 
 **Meaning:** mask
 **Plural:** Masken

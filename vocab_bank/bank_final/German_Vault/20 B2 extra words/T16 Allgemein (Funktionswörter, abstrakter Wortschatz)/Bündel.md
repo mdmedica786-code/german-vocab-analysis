@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3055"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Bündel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bündel
+
+![[Bündel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCndel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCndel&language=de)
 
 **Meaning:** bundle
 **Plural:** Bündel

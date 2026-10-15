@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 5a"
 freq_rank: 243
 skip: false
+audio: "oft.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # oft
+
+![[oft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/oft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oft&language=de)
 
 **Meaning:** often
 **Forms:** öfter – am häufigsten

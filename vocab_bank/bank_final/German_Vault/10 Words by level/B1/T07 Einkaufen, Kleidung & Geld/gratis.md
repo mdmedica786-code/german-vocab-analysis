@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 1181
 skip: false
+audio: "gratis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gratis
+
+![[gratis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gratis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gratis&language=de)
 
 **Meaning:** free
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

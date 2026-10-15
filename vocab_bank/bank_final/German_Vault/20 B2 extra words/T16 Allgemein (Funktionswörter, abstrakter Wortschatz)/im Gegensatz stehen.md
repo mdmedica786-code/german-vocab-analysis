@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # im Gegensatz stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/im%20Gegensatz%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=im%20Gegensatz%20stehen&language=de)
+
 **Meaning:** to be in contrast
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

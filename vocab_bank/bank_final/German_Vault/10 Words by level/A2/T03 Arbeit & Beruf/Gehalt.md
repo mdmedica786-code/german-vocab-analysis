@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 7a"
 freq_rank: 2845
 skip: false
+audio: "Gehalt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gehalt
+
+![[Gehalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gehalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehalt&language=de)
 
 **Meaning:** salary
 **Plural:** Gehälter

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0963"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zunahme.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zunahme
+
+![[Zunahme.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zunahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zunahme&language=de)
 
 **Meaning:** increase; growth
 **Plural:** Zunahmen

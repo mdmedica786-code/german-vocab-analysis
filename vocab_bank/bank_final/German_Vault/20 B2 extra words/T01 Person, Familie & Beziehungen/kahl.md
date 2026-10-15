@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2354"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "kahl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # kahl
+
+![[kahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kahl&language=de)
 
 **Meaning:** bald; bare
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

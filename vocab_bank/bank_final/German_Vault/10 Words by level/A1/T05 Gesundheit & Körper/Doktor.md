@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 8a"
 freq_rank: 1654
 skip: false
+audio: "Doktor.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Doktor
+
+![[Doktor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Doktor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktor&language=de)
 
 **Meaning:** doctor (m)
 **Plural:** Doktoren

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 9c"
 freq_rank: 222
 skip: false
+audio: "fast.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fast
+
+![[fast.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fast&language=de)
 
 **Meaning:** almost
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

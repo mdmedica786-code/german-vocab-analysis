@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1294"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "rächen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rächen
+
+![[rächen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%A4chen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%A4chen&language=de)
 
 **Meaning:** to take revenge
 **Forms:** rächt sich · rächte sich · hat sich gerächt

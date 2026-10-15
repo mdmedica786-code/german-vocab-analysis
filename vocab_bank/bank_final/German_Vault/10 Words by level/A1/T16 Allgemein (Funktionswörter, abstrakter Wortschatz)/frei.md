@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 10c"
 freq_rank: 309
 skip: false
+audio: "frei.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # frei
+
+![[frei.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/frei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=frei&language=de)
 
 **Meaning:** free
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

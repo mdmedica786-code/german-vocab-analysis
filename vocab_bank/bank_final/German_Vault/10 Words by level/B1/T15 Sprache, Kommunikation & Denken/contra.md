@@ -12,11 +12,16 @@ id: "B5063"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "contra.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # contra
+
+![[contra.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/contra/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=contra&language=de)
 
 **Meaning:** against; con
 **Case:** + Akk.

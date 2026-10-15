@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3515"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "absetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # absetzen
+
+![[absetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/absetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=absetzen&language=de)
 
 **Meaning:** to drop off; to remove (from office); to deduct
 **Forms:** setzt ab · setzte ab · hat abgesetzt

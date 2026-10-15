@@ -15,11 +15,16 @@ id: "B3938"
 netzwerk: "B1 K5 4a"
 freq_rank: 5759
 skip: false
+audio: "Plastikflasche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Plastikflasche
+
+![[Plastikflasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plastikflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plastikflasche&language=de)
 
 **Meaning:** plastic bottle
 **Plural:** Plastikflaschen

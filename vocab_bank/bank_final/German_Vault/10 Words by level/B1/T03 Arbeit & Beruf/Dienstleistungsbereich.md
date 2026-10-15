@@ -15,11 +15,16 @@ id: "B4123"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Dienstleistungsbereich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dienstleistungsbereich
+
+![[Dienstleistungsbereich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dienstleistungsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstleistungsbereich&language=de)
 
 **Meaning:** service industry
 **Plural:** Dienstleistungsbereiche

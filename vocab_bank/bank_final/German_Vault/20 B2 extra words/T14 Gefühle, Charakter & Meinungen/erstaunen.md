@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1263"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "erstaunen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erstaunen
+
+![[erstaunen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erstaunen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erstaunen&language=de)
 
 **Meaning:** to astonish; to amaze
 **Forms:** erstaunt · erstaunte · hat erstaunt

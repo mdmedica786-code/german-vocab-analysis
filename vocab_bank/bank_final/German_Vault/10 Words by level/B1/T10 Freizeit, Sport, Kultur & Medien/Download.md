@@ -15,11 +15,16 @@ id: "B3784"
 netzwerk: "B1 K4 8b"
 freq_rank: 2849
 skip: false
+audio: "Download.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Download
+
+![[Download.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Download/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Download&language=de)
 
 **Meaning:** download
 **Plural:** Downloads

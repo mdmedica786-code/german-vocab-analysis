@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # wobei
 
+[▶️ YouGlish](https://youglish.com/pronounce/wobei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wobei&language=de)
+
 **Meaning:** whereby; in doing which
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

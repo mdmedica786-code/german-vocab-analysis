@@ -14,11 +14,16 @@ bank: "main"
 id: "B5743"
 freq_rank: 2909
 skip: false
+audio: "Denken (167).ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Denken
+
+![[Denken (167).ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Denken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denken&language=de)
 
 **Meaning:** thinking
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4663"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "zersetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # zersetzen
+
+![[zersetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zersetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zersetzen&language=de)
 
 **Meaning:** to decompose; to break down; (sich) to decay
 **Forms:** zersetzt · zersetzte · hat zersetzt

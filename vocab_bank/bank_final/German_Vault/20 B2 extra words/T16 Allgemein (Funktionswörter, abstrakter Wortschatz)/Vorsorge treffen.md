@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Vorsorge treffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vorsorge%20treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsorge%20treffen&language=de)
+
 **Meaning:** to make provision
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

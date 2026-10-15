@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 8a"
 freq_rank: 3534
 skip: false
+audio: "Techniker.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Techniker
+
+![[Techniker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Techniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Techniker&language=de)
 
 **Meaning:** technician (m)
 **Plural:** Techniker

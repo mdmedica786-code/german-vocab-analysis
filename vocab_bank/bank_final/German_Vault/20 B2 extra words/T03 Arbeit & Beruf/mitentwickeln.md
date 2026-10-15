@@ -12,11 +12,13 @@ bank: "b2"
 id: "D4236"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # mitentwickeln
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitentwickeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitentwickeln&language=de)
 
 **Meaning:** to co-develop; to help develop
 **Forms:** entwickelt mit · entwickelte mit · hat mitentwickelt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0801"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "unverzichtbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # unverzichtbar
+
+![[unverzichtbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unverzichtbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unverzichtbar&language=de)
 
 **Meaning:** indispensable
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

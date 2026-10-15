@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0712"
 exam_use: ["Hören", "Alltag"]
 skip: false
+audio: "Hitzewelle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hitzewelle
+
+![[Hitzewelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hitzewelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hitzewelle&language=de)
 
 **Meaning:** heatwave
 **Plural:** Hitzewellen

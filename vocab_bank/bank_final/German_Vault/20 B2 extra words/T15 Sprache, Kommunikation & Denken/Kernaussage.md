@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0367"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kernaussage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kernaussage
+
+![[Kernaussage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kernaussage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kernaussage&language=de)
 
 **Meaning:** central message; key statement
 **Plural:** Kernaussagen

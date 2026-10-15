@@ -16,11 +16,16 @@ goethe_level: "B1"
 freq_rank: 3000
 skip: false
 check: "spelling?"
+audio: "Europäische Parlament.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Europäische Parlament
+
+![[Europäische Parlament.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4ische%20Parlament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4ische%20Parlament&language=de)
 
 **Meaning:** European Parliament
 **Plural:** –

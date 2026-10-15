@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1615"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "lässig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # lässig
+
+![[lässig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%A4ssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%A4ssig&language=de)
 
 **Meaning:** casual; relaxed
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

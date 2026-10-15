@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 1551
 skip: false
+audio: "festlegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # festlegen
+
+![[festlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/festlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=festlegen&language=de)
 
 **Meaning:** to determine; to commit oneself
 **Forms:** legt fest · legte fest · hat festgelegt

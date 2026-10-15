@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4635"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Werbematerial.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Werbematerial
+
+![[Werbematerial.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werbematerial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbematerial&language=de)
 
 **Meaning:** promotional material; advertising material
 **Plural:** Werbematerialien

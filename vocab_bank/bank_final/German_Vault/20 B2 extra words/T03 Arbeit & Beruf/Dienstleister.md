@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1772"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Dienstleister.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dienstleister
+
+![[Dienstleister.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dienstleister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstleister&language=de)
 
 **Meaning:** service provider
 **Plural:** Dienstleister

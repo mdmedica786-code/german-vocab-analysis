@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0954"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Fußnote.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fußnote
+
+![[Fußnote.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fnote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fnote&language=de)
 
 **Meaning:** footnote
 **Plural:** Fußnoten

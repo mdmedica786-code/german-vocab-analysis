@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4610"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Wahl-O-Mat
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahl-O-Mat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahl-O-Mat&language=de)
 
 **Meaning:** Wahl-O-Mat (online tool comparing voters' views with party positions)
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 5c"
 freq_rank: 1636
 skip: false
+audio: "unterhalten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterhalten
+
+![[unterhalten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterhalten&language=de)
 
 **Meaning:** to talk
 **Forms:** unterhält · unterhielt · hat unterhalten

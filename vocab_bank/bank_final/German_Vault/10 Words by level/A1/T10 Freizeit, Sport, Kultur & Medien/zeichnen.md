@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 2b"
 freq_rank: 1388
 skip: false
+audio: "zeichnen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zeichnen
+
+![[zeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeichnen&language=de)
 
 **Meaning:** to draw
 **Forms:** zeichnet · zeichnete · hat gezeichnet

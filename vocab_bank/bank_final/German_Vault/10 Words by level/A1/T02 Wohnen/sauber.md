@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 7a"
 freq_rank: 3037
 skip: false
+audio: "sauber.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sauber
+
+![[sauber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sauber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sauber&language=de)
 
 **Meaning:** clean
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

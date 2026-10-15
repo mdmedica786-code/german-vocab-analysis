@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4573"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Verkaufsleiterin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verkaufsleiterin
+
+![[Verkaufsleiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkaufsleiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkaufsleiterin&language=de)
 
 **Meaning:** sales manager (female)
 **Plural:** Verkaufsleiterinnen

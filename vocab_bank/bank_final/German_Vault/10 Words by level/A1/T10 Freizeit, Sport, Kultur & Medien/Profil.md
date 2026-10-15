@@ -15,11 +15,16 @@ id: "B1529"
 netzwerk: "A1 K10 7a"
 freq_rank: 3664
 skip: false
+audio: "Profil.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Profil
+
+![[Profil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Profil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Profil&language=de)
 
 **Meaning:** profile
 **Plural:** Profile

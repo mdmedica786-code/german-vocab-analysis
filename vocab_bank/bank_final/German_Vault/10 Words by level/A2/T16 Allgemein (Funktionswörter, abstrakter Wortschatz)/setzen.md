@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 10a"
 freq_rank: 159
 skip: false
+audio: "setzen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # setzen
+
+![[setzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/setzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=setzen&language=de)
 
 **Meaning:** to sit down; to put; to set
 **Forms:** setzt · setzte · hat gesetzt

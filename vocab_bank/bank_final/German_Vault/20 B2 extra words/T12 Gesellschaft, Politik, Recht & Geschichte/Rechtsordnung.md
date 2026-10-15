@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3614"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Rechtsordnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rechtsordnung
+
+![[Rechtsordnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechtsordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsordnung&language=de)
 
 **Meaning:** legal system; legal order
 **Plural:** Rechtsordnungen

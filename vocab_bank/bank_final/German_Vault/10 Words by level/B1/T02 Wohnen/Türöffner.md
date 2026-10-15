@@ -15,11 +15,16 @@ id: "B3373"
 netzwerk: "B1 K2 1a"
 freq_rank: 5759
 skip: false
+audio: "Türöffner.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Türöffner
+
+![[Türöffner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCr%C3%B6ffner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCr%C3%B6ffner&language=de)
 
 **Meaning:** door opener
 **Plural:** Türöffner

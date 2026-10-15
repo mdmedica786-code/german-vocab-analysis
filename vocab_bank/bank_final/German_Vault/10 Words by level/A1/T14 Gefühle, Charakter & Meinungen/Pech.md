@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 11b"
 freq_rank: 4936
 skip: false
+audio: "Pech.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pech
+
+![[Pech.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pech/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pech&language=de)
 
 **Meaning:** bad luck
 **Plural:** –

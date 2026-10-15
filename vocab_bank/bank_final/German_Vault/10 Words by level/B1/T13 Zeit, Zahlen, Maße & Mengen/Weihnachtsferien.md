@@ -15,11 +15,16 @@ id: "B3363"
 netzwerk: "B1 K1 13c"
 freq_rank: 5759
 skip: false
+audio: "Weihnachtsferien.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weihnachtsferien
+
+![[Weihnachtsferien.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weihnachtsferien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weihnachtsferien&language=de)
 
 **Meaning:** Christmas holidays
 **Plural:** (Pl.)

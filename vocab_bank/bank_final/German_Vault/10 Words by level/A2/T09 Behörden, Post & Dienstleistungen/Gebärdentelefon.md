@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Gebärdentelefon
 
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rdentelefon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rdentelefon&language=de)
+
 **Meaning:** sign language telephone
 **Plural:** Gebärdentelefone
 **Level:** A2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

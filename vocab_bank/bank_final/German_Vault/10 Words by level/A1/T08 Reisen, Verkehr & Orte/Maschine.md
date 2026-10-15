@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 13b"
 freq_rank: 1188
 skip: false
+audio: "Maschine.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Maschine
+
+![[Maschine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maschine&language=de)
 
 **Meaning:** machine; aeroplane
 **Plural:** Maschinen

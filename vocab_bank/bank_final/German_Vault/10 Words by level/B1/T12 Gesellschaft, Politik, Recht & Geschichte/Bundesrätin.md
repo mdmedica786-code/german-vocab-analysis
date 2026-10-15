@@ -15,11 +15,16 @@ id: "B6389"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Bundesrätin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bundesrätin
+
+![[Bundesrätin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesr%C3%A4tin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesr%C3%A4tin&language=de)
 
 **Meaning:** Federal Councillor (f) (Switzerland)
 **Plural:** Bundesrätinnen

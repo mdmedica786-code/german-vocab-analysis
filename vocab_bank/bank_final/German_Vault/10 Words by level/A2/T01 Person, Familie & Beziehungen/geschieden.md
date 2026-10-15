@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # geschieden
 
+[▶️ YouGlish](https://youglish.com/pronounce/geschieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschieden&language=de)
+
 **Meaning:** divorced
 **Level:** A2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

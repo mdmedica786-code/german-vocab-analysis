@@ -13,11 +13,16 @@ id: "B2883"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "bewachen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewachen
+
+![[bewachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bewachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewachen&language=de)
 
 **Meaning:** to guard
 **Forms:** bewacht · bewachte · hat bewacht

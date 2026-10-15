@@ -15,11 +15,16 @@ id: "B4881"
 netzwerk: "B1 K10 11a"
 freq_rank: 1311
 skip: false
+audio: "Umgang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umgang
+
+![[Umgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umgang&language=de)
 
 **Meaning:** contact; handling
 **Plural:** –

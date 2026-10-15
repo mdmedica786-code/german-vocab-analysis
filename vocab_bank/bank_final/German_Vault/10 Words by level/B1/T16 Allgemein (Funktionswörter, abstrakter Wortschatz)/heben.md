@@ -13,11 +13,16 @@ id: "B5165"
 goethe_level: "B1"
 freq_rank: 497
 skip: false
+audio: "heben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # heben
+
+![[heben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heben&language=de)
 
 **Meaning:** to lift; to raise
 **Forms:** hebt · hob · hat gehoben

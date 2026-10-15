@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1441"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Armband.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Armband
+
+![[Armband.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Armband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Armband&language=de)
 
 **Meaning:** bracelet; strap
 **Plural:** Armbänder

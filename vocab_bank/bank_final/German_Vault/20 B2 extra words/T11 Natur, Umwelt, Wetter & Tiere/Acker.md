@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2006"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Acker.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Acker
+
+![[Acker.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Acker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Acker&language=de)
 
 **Meaning:** field (arable); ploughed land
 **Plural:** Äcker

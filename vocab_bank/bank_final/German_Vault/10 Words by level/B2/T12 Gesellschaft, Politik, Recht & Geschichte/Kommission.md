@@ -14,11 +14,16 @@ bank: "main"
 id: "B5443"
 freq_rank: 1985
 skip: false
+audio: "Kommission.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kommission
+
+![[Kommission.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommission/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommission&language=de)
 
 **Meaning:** commission; committee
 **Plural:** Kommissionen

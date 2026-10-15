@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 5a"
 freq_rank: 5759
 skip: false
+audio: "Praktikantin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Praktikantin
+
+![[Praktikantin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Praktikantin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Praktikantin&language=de)
 
 **Meaning:** intern (f)
 **Plural:** Praktikantinnen

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 3d"
 freq_rank: 485
 skip: false
+audio: "danach.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # danach
+
+![[danach.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/danach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=danach&language=de)
 
 **Meaning:** after
 **Other senses:** after that

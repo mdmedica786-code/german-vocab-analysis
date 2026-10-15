@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1345"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "obendrein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # obendrein
+
+![[obendrein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/obendrein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=obendrein&language=de)
 
 **Meaning:** on top of that; into the bargain
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

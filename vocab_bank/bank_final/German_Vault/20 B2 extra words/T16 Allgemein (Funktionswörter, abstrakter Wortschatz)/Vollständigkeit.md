@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3481"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vollständigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vollständigkeit
+
+![[Vollständigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollst%C3%A4ndigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollst%C3%A4ndigkeit&language=de)
 
 **Meaning:** completeness
 **Plural:** –

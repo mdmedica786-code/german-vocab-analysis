@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2617"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entziehen
+
+![[entziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entziehen&language=de)
 
 **Meaning:** to withdraw; to deprive; to evade
 **Forms:** entzieht · entzog · hat entzogen

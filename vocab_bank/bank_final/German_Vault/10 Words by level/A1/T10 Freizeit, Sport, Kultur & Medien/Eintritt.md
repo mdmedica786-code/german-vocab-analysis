@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 15a"
 freq_rank: 2000
 skip: false
+audio: "Eintritt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eintritt
+
+![[Eintritt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eintritt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eintritt&language=de)
 
 **Meaning:** admission; entrance fee
 **Plural:** Eintritte

@@ -15,11 +15,16 @@ id: "B4929"
 netzwerk: "B1 K11 6c"
 freq_rank: 5759
 skip: false
+audio: "Nachtdienst.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachtdienst
+
+![[Nachtdienst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachtdienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtdienst&language=de)
 
 **Meaning:** night shift
 **Plural:** Nachtdienste

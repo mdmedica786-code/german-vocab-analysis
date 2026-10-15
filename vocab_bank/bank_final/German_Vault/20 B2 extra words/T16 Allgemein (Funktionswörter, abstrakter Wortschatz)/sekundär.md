@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2864"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "sekundär.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # sekundär
+
+![[sekundär.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sekund%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sekund%C3%A4r&language=de)
 
 **Meaning:** secondary
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

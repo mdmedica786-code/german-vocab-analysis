@@ -12,11 +12,16 @@ id: "B5077"
 netzwerk: "B1 K12 7a"
 freq_rank: 1079
 skip: false
+audio: "teilweise.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # teilweise
+
+![[teilweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/teilweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teilweise&language=de)
 
 **Meaning:** partly
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 1544
 skip: false
+audio: "Zugang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zugang
+
+![[Zugang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zugang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugang&language=de)
 
 **Meaning:** access
 **Plural:** Zugänge

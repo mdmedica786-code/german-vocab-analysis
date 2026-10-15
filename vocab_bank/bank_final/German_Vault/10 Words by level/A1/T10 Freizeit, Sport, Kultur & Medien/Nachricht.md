@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 3a"
 freq_rank: 948
 skip: false
+audio: "Nachricht.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachricht
+
+![[Nachricht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachricht&language=de)
 
 **Meaning:** message; news
 **Plural:** Nachrichten

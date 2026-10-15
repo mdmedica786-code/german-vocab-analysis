@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3255"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Meditation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meditation
+
+![[Meditation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meditation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meditation&language=de)
 
 **Meaning:** meditation
 **Plural:** Meditationen

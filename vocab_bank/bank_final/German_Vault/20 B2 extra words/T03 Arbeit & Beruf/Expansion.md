@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3642"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Expansion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Expansion
+
+![[Expansion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Expansion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Expansion&language=de)
 
 **Meaning:** expansion
 **Plural:** Expansionen

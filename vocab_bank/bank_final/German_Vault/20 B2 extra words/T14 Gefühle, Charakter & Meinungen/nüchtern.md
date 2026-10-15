@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1624"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "nüchtern.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # nüchtern
+
+![[nüchtern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%BCchtern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%BCchtern&language=de)
 
 **Meaning:** sober; matter-of-fact; on an empty stomach
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

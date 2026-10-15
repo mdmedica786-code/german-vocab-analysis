@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ticketwahl
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ticketwahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ticketwahl&language=de)
+
 **Meaning:** ticket choice
 **Plural:** –
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

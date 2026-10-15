@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1549"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "begehrt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # begehrt
+
+![[begehrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begehrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begehrt&language=de)
 
 **Meaning:** in demand; sought after
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B3197"
 netzwerk: "A2 K12 7a"
 freq_rank: 938
 skip: false
+audio: "Einsatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einsatz
+
+![[Einsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einsatz&language=de)
 
 **Meaning:** use; deployment; effort
 **Plural:** Einsätze

@@ -15,11 +15,16 @@ id: "B0236"
 netzwerk: "A1 K2 3b"
 freq_rank: 5759
 skip: false
+audio: "Spaghetti.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spaghetti
+
+![[Spaghetti.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spaghetti/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaghetti&language=de)
 
 **Meaning:** spaghetti
 **Plural:** (Pl.)

@@ -15,11 +15,16 @@ id: "B2440"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Fernfahrer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fernfahrer
+
+![[Fernfahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernfahrer&language=de)
 
 **Meaning:** long-distance lorry driver (m)
 **Plural:** Fernfahrer

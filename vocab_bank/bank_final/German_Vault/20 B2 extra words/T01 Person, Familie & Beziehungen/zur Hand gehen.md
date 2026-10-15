@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0156"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "zur Hand gehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/phrase", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zur Hand gehen
+
+![[zur Hand gehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Hand%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Hand%20gehen&language=de)
 
 **Meaning:** to lend a hand
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

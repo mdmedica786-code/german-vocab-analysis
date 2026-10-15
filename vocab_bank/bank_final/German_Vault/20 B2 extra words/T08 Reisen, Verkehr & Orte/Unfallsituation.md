@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4534"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Unfallsituation
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unfallsituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unfallsituation&language=de)
 
 **Meaning:** accident situation; situation at the accident
 **Plural:** Unfallsituationen

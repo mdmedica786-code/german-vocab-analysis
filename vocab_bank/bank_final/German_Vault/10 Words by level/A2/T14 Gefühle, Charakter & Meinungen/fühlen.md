@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # fühlen
 
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BChlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BChlen&language=de)
+
 **Meaning:** to feel
 **Forms:** fühlt · fühlte · hat gefühlt
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Infotext
 
+[▶️ YouGlish](https://youglish.com/pronounce/Infotext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infotext&language=de)
+
 **Meaning:** informational text
 **Plural:** Infotexte
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

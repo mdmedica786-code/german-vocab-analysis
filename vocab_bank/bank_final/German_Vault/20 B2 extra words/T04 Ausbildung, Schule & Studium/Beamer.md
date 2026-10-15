@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3781"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Beamer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Beamer
+
+![[Beamer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beamer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beamer&language=de)
 
 **Meaning:** projector (for presentations)
 **Plural:** Beamer

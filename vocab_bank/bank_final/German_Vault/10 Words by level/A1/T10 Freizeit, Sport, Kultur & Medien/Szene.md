@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 12a"
 freq_rank: 1426
 skip: false
+audio: "Szene.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Szene
+
+![[Szene.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Szene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Szene&language=de)
 
 **Meaning:** scene
 **Plural:** Szenen

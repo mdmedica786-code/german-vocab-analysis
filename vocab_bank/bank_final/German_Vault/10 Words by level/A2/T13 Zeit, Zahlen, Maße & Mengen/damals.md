@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 461
 skip: false
+audio: "damals.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # damals
+
+![[damals.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/damals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=damals&language=de)
 
 **Meaning:** back then
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

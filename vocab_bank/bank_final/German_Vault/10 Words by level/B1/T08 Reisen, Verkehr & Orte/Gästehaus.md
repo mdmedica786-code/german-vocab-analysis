@@ -15,11 +15,16 @@ id: "B3289"
 netzwerk: "B1 K1 7"
 freq_rank: 5759
 skip: false
+audio: "Gästehaus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gästehaus
+
+![[Gästehaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4stehaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4stehaus&language=de)
 
 **Meaning:** guest house
 **Plural:** Gästehäuser

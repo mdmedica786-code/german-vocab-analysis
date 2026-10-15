@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Rechnungsinformation
 
+[▶️ YouGlish](https://youglish.com/pronounce/Rechnungsinformation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechnungsinformation&language=de)
+
 **Meaning:** invoice information
 **Plural:** Rechnungsinformationen
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

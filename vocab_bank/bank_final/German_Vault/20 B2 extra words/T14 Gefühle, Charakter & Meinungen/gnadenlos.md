@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1601"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "gnadenlos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # gnadenlos
+
+![[gnadenlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gnadenlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gnadenlos&language=de)
 
 **Meaning:** merciless; ruthless
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

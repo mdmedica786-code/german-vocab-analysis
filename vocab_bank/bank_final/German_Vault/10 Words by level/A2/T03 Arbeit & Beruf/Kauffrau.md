@@ -15,11 +15,16 @@ id: "B6471"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Kauffrau.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kauffrau
+
+![[Kauffrau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kauffrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kauffrau&language=de)
 
 **Meaning:** businesswoman; clerk (f)
 **Plural:** Kauffrauen

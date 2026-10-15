@@ -15,11 +15,16 @@ id: "B1319"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Notärztin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Notärztin
+
+![[Notärztin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Not%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Not%C3%A4rztin&language=de)
 
 **Meaning:** emergency doctor (f)
 **Plural:** Notärztinnen

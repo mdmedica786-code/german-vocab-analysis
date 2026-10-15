@@ -15,11 +15,16 @@ id: "B1633"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Abendkleidung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abendkleidung
+
+![[Abendkleidung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abendkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abendkleidung&language=de)
 
 **Meaning:** evening wear
 **Plural:** –

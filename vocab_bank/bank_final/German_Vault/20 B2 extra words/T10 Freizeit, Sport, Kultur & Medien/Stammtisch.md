@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1385"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Stammtisch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stammtisch
+
+![[Stammtisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stammtisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stammtisch&language=de)
 
 **Meaning:** regulars' table; regular meeting
 **Plural:** Stammtische

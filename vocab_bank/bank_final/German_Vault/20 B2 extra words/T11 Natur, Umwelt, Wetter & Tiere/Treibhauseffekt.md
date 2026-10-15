@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0687"
 exam_use: ["Lesen"]
 skip: false
+audio: "Treibhauseffekt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Treibhauseffekt
+
+![[Treibhauseffekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Treibhauseffekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treibhauseffekt&language=de)
 
 **Meaning:** greenhouse effect
 **Plural:** –

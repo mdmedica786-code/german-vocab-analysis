@@ -12,11 +12,13 @@ bank: "b2"
 id: "D4041"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # hinblicken
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinblicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinblicken&language=de)
 
 **Meaning:** to look (at something/in a direction)
 **Forms:** blickt hin · blickte hin · hat hingeblickt

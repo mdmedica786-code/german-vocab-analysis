@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3794"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Beratungskompetenz
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beratungskompetenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beratungskompetenz&language=de)
 
 **Meaning:** advisory competence; counselling skills
 **Plural:** –

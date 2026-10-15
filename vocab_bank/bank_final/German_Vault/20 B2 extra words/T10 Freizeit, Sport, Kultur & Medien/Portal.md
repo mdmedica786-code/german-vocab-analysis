@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3405"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Portal.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Portal
+
+![[Portal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Portal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portal&language=de)
 
 **Meaning:** portal; (web) platform
 **Plural:** Portale

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Erwägung ziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Erw%C3%A4gung%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Erw%C3%A4gung%20ziehen&language=de)
+
 **Meaning:** to consider
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

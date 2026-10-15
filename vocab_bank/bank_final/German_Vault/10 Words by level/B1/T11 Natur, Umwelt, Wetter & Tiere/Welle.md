@@ -14,11 +14,16 @@ bank: "main"
 id: "B5330"
 freq_rank: 1453
 skip: false
+audio: "Welle.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Welle
+
+![[Welle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Welle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Welle&language=de)
 
 **Meaning:** wave
 **Plural:** Wellen

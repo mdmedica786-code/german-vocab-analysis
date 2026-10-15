@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Informatik
 
+[▶️ YouGlish](https://youglish.com/pronounce/Informatik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Informatik&language=de)
+
 **Meaning:** computer science
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

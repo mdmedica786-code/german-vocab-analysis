@@ -15,11 +15,16 @@ id: "B4188"
 netzwerk: "B1 K6 9 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Piano.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Piano
+
+![[Piano.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Piano/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Piano&language=de)
 
 **Meaning:** piano
 **Plural:** Pianos

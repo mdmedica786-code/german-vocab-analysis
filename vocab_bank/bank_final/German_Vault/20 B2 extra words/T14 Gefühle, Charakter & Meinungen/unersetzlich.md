@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4532"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unersetzlich
+
+[▶️ YouGlish](https://youglish.com/pronounce/unersetzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unersetzlich&language=de)
 
 **Meaning:** irreplaceable
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

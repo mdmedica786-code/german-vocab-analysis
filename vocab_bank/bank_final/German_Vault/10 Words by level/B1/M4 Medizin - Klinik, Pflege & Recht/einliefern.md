@@ -13,11 +13,16 @@ id: "B4914"
 netzwerk: "B1 K11 6b"
 freq_rank: 5759
 skip: false
+audio: "einliefern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # einliefern
+
+![[einliefern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einliefern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einliefern&language=de)
 
 **Meaning:** to admit (to hospital)
 **Forms:** liefert ein · lieferte ein · hat eingeliefert

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 14a"
 freq_rank: 889
 skip: false
+audio: "Bank.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bank
+
+![[Bank.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bank&language=de)
 
 **Meaning:** bench
 **Other senses:** bank

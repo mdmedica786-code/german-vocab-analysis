@@ -13,11 +13,16 @@ id: "B2744"
 netzwerk: "A2 K8 6b"
 freq_rank: 3991
 skip: false
+audio: "faszinieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # faszinieren
+
+![[faszinieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/faszinieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=faszinieren&language=de)
 
 **Meaning:** to fascinate
 **Forms:** fasziniert · faszinierte · hat fasziniert

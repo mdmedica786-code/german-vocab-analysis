@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1743"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Feuerwehrmann.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Feuerwehrmann
+
+![[Feuerwehrmann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuerwehrmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwehrmann&language=de)
 
 **Meaning:** firefighter
 **Plural:** Feuerwehrmänner

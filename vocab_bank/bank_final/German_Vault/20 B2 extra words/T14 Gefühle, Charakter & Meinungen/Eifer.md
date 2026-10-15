@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3105"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Eifer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eifer
+
+![[Eifer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eifer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eifer&language=de)
 
 **Meaning:** zeal; eagerness
 **Plural:** –

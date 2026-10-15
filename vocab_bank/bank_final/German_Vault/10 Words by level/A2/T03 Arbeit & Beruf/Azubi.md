@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 11b"
 freq_rank: 5759
 skip: false
+audio: "Azubi.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Azubi
+
+![[Azubi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Azubi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Azubi&language=de)
 
 **Meaning:** trainee
 **Plural:** Azubis

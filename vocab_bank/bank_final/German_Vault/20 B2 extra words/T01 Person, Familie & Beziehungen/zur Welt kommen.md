@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Welt kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Welt%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Welt%20kommen&language=de)
+
 **Meaning:** to be born
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

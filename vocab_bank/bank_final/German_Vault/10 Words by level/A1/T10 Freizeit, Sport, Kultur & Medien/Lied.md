@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 2a"
 freq_rank: 1731
 skip: false
+audio: "Lied.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lied
+
+![[Lied.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lied&language=de)
 
 **Meaning:** song
 **Plural:** Lieder

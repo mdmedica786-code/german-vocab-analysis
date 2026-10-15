@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 8b"
 freq_rank: 525
 skip: false
+audio: "bewegen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewegen
+
+![[bewegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bewegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewegen&language=de)
 
 **Meaning:** to move
 **Forms:** bewegt · bewegte · hat bewegt

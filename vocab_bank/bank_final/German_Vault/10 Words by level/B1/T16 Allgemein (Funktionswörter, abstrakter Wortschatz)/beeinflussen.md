@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 1098
 skip: false
+audio: "beeinflussen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beeinflussen
+
+![[beeinflussen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beeinflussen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beeinflussen&language=de)
 
 **Meaning:** to influence
 **Forms:** beeinflusst · beeinflusste · hat beeinflusst

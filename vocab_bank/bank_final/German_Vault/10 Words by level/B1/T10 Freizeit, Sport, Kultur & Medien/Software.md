@@ -15,11 +15,16 @@ id: "B5570"
 goethe_level: "B1"
 freq_rank: 2371
 skip: false
+audio: "Software.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Software
+
+![[Software.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Software/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Software&language=de)
 
 **Meaning:** software
 **Plural:** –

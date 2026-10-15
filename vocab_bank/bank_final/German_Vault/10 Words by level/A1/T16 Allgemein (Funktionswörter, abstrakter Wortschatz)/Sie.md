@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Sie
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sie&language=de)
+
 **Meaning:** you (formal)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

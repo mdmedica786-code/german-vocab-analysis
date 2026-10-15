@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4399"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Seitentür.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Seitentür
+
+![[Seitentür.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seitent%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seitent%C3%BCr&language=de)
 
 **Meaning:** side door
 **Plural:** Seitentüren

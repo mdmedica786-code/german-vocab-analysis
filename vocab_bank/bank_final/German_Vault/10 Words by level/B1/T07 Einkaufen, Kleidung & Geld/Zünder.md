@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Zünder.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zünder
+
+![[Zünder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Z%C3%BCnder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Z%C3%BCnder&language=de)
 
 **Meaning:** matches (Austrian)
 **Plural:** (Pl.)

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b"
 freq_rank: 1911
 skip: false
+audio: "Marke.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Marke
+
+![[Marke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marke&language=de)
 
 **Meaning:** brand; stamp
 **Plural:** Marken

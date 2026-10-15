@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # demgegenüber
 
+[▶️ YouGlish](https://youglish.com/pronounce/demgegen%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demgegen%C3%BCber&language=de)
+
 **Meaning:** in contrast; on the other hand
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

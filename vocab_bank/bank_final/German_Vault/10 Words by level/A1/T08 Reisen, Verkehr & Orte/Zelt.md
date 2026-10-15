@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 1b"
 freq_rank: 3425
 skip: false
+audio: "Zelt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zelt
+
+![[Zelt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zelt&language=de)
 
 **Meaning:** tent
 **Plural:** Zelte

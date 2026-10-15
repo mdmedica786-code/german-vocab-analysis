@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 1642
 skip: false
+audio: "reduzieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reduzieren
+
+![[reduzieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reduzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reduzieren&language=de)
 
 **Meaning:** to reduce
 **Forms:** reduziert · reduzierte · hat reduziert

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Billett
 
+[▶️ YouGlish](https://youglish.com/pronounce/Billett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Billett&language=de)
+
 **Meaning:** ticket (Swiss German)
 **Plural:** Billetts
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** regional

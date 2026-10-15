@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K12 1d"
 freq_rank: 1659
 skip: false
+audio: "Führung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Führung
+
+![[Führung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrung&language=de)
 
 **Meaning:** guided tour
 **Plural:** Führungen

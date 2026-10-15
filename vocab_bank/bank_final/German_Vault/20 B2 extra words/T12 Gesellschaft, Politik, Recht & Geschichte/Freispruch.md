@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0506"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Freispruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Freispruch
+
+![[Freispruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freispruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freispruch&language=de)
 
 **Meaning:** acquittal
 **Plural:** Freisprüche

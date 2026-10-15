@@ -15,11 +15,16 @@ id: "B4140"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Privatauto.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Privatauto
+
+![[Privatauto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Privatauto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Privatauto&language=de)
 
 **Meaning:** private car
 **Plural:** Privatautos

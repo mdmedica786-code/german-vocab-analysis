@@ -15,11 +15,16 @@ id: "B0554"
 netzwerk: "A1 K3 9a"
 freq_rank: 2121
 skip: false
+audio: "Regisseur.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Regisseur
+
+![[Regisseur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regisseur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regisseur&language=de)
 
 **Meaning:** director (m)
 **Plural:** Regisseure

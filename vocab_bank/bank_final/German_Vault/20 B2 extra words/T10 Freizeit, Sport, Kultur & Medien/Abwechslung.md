@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3465"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Abwechslung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abwechslung
+
+![[Abwechslung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abwechslung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abwechslung&language=de)
 
 **Meaning:** variety; change
 **Plural:** Abwechslungen

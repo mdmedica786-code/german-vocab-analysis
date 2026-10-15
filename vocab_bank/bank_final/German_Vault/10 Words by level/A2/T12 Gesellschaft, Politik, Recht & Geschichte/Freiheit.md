@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 818
 skip: false
+audio: "Freiheit.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freiheit
+
+![[Freiheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiheit&language=de)
 
 **Meaning:** freedom
 **Plural:** –

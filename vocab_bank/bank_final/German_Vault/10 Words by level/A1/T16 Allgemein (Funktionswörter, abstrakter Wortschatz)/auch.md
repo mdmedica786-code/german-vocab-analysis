@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 2a"
 freq_rank: 25
 skip: false
+audio: "auch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/particle"]
 status: "new"
 ---
 <!-- bank:start -->
 # auch
+
+![[auch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auch&language=de)
 
 **Meaning:** also; too
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

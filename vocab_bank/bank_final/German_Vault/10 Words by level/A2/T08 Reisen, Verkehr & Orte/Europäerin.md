@@ -15,11 +15,16 @@ id: "B6422"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Europäerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Europäerin
+
+![[Europäerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4erin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4erin&language=de)
 
 **Meaning:** European (woman)
 **Plural:** Europäerinnen

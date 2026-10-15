@@ -14,11 +14,16 @@ bank: "main"
 id: "B5925"
 freq_rank: 3534
 skip: false
+audio: "Safe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Safe
+
+![[Safe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Safe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Safe&language=de)
 
 **Meaning:** safe (strongbox)
 **Plural:** Safes

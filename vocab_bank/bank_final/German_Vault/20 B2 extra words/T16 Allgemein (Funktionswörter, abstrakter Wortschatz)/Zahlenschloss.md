@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4655"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Zahlenschloss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Zahlenschloss
+
+![[Zahlenschloss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahlenschloss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlenschloss&language=de)
 
 **Meaning:** combination lock
 **Plural:** Zahlenschlösser

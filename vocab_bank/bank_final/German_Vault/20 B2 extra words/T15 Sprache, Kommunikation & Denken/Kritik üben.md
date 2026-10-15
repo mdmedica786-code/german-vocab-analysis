@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Kritik üben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kritik%20%C3%BCben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kritik%20%C3%BCben&language=de)
+
 **Meaning:** to criticise
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

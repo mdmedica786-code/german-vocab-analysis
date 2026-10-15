@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 5112
 skip: false
+audio: "Studentin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Studentin
+
+![[Studentin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Studentin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studentin&language=de)
 
 **Meaning:** student (f)
 **Plural:** Studentinnen

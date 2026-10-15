@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 10a"
 freq_rank: 76
 skip: false
+audio: "stehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stehen
+
+![[stehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stehen&language=de)
 
 **Meaning:** to stand
 **Other senses:** to suit

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1269"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "flehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # flehen
+
+![[flehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/flehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=flehen&language=de)
 
 **Meaning:** to beg; to implore
 **Forms:** fleht · flehte · hat gefleht

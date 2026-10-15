@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Anteil nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anteil%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anteil%20nehmen&language=de)
+
 **Meaning:** to sympathise; to take an interest
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "gratulieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gratulieren
+
+![[gratulieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gratulieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gratulieren&language=de)
 
 **Meaning:** to congratulate
 **Forms:** gratuliert · gratulierte · hat gratuliert

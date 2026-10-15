@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0971"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Schlüsselqualifikation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlüsselqualifikation
+
+![[Schlüsselqualifikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%BCsselqualifikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%BCsselqualifikation&language=de)
 
 **Meaning:** key skill; transferable skill
 **Plural:** Schlüsselqualifikationen

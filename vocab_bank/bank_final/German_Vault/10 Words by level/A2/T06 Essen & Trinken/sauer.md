@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 10 ÜB"
 freq_rank: 3344
 skip: false
+audio: "sauer.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sauer
+
+![[sauer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sauer&language=de)
 
 **Meaning:** sour; angry (colloq.)
 **Other senses:** angry

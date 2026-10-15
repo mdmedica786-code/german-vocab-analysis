@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 11"
 freq_rank: 190
 skip: false
+audio: "seit.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # seit
+
+![[seit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seit&language=de)
 
 **Meaning:** since, for
 **Other senses:** since

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0323"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Absicherung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Absicherung
+
+![[Absicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Absicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absicherung&language=de)
 
 **Meaning:** safeguarding; security
 **Plural:** Absicherungen

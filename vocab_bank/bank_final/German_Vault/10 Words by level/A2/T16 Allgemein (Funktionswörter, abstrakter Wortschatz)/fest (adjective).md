@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 233
 skip: false
+audio: "fest.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fest
+
+![[fest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fest&language=de)
 
 **Meaning:** fixed; firm; solid
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

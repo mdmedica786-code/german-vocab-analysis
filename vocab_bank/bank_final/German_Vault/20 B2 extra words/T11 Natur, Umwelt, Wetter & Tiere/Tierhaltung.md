@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0723"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Tierhaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tierhaltung
+
+![[Tierhaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierhaltung&language=de)
 
 **Meaning:** keeping of animals; animal husbandry
 **Plural:** –

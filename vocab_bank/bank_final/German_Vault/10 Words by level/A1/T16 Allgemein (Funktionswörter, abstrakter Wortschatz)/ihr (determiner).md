@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # ihr
 
+[▶️ YouGlish](https://youglish.com/pronounce/ihr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ihr&language=de)
+
 **Meaning:** you (pl.); her; their
 **Other senses:** its
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

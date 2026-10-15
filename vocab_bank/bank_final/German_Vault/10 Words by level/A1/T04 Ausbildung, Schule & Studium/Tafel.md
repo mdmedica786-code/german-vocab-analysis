@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 4"
 freq_rank: 2869
 skip: false
+audio: "Tafel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tafel
+
+![[Tafel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tafel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tafel&language=de)
 
 **Meaning:** blackboard
 **Other senses:** board

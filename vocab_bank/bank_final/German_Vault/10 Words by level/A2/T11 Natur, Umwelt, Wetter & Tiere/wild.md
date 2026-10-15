@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 906
 skip: false
+audio: "wild.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wild
+
+![[wild.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wild&language=de)
 
 **Meaning:** wild
 **Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

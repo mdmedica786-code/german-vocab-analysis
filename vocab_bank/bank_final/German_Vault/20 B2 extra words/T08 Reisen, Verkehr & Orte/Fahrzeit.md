@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3934"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Fahrzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fahrzeit
+
+![[Fahrzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrzeit&language=de)
 
 **Meaning:** travel time; driving time
 **Plural:** Fahrzeiten

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 4"
 freq_rank: 514
 skip: false
+audio: "leise.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # leise
+
+![[leise.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leise&language=de)
 
 **Meaning:** quiet
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

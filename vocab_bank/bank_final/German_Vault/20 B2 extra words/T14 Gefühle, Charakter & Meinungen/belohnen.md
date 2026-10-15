@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3792"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "belohnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # belohnen
+
+![[belohnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/belohnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=belohnen&language=de)
 
 **Meaning:** to reward
 **Forms:** belohnt · belohnte · hat belohnt

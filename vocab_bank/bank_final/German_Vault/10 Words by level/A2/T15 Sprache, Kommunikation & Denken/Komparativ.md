@@ -15,11 +15,16 @@ id: "B2090"
 netzwerk: "A2 K3 3"
 freq_rank: 5759
 skip: false
+audio: "Komparativ.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Komparativ
+
+![[Komparativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komparativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komparativ&language=de)
 
 **Meaning:** comparative
 **Plural:** Komparative

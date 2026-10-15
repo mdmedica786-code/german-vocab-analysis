@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Prospekt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Prospekt
+
+![[Prospekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prospekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prospekt&language=de)
 
 **Meaning:** brochure
 **Plural:** Prospekte

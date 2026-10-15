@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4581"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verkehrssicherheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verkehrssicherheit
+
+![[Verkehrssicherheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrssicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrssicherheit&language=de)
 
 **Meaning:** road safety
 **Plural:** –

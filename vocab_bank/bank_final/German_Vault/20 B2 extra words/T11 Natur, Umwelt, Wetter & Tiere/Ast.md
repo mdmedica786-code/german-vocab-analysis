@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2773"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ast.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ast
+
+![[Ast.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ast&language=de)
 
 **Meaning:** branch
 **Plural:** Äste

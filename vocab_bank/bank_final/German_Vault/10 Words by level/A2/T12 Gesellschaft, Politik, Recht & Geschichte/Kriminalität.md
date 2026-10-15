@@ -15,11 +15,16 @@ id: "B3127"
 netzwerk: "A2 K12 1b"
 freq_rank: 3537
 skip: false
+audio: "Kriminalität.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kriminalität
+
+![[Kriminalität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kriminalit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kriminalit%C3%A4t&language=de)
 
 **Meaning:** crime; criminality
 **Plural:** –

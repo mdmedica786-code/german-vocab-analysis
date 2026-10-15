@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1526"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vertraulichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vertraulichkeit
+
+![[Vertraulichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertraulichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertraulichkeit&language=de)
 
 **Meaning:** confidentiality
 **Plural:** –

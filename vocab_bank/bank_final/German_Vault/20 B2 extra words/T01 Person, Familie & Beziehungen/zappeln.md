@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1737"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "zappeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # zappeln
+
+![[zappeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zappeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zappeln&language=de)
 
 **Meaning:** to fidget; to wriggle
 **Forms:** zappelt · zappelte · hat gezappelt

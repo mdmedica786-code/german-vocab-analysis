@@ -13,11 +13,16 @@ id: "B4852"
 netzwerk: "B1 K10 10b"
 freq_rank: 2428
 skip: false
+audio: "befürchten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # befürchten
+
+![[befürchten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bef%C3%BCrchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bef%C3%BCrchten&language=de)
 
 **Meaning:** to fear
 **Forms:** befürchtet · befürchtete · hat befürchtet

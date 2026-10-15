@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4616"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Walfamilie
+
+[▶️ YouGlish](https://youglish.com/pronounce/Walfamilie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Walfamilie&language=de)
 
 **Meaning:** whale family; pod of whales
 **Plural:** Walfamilien

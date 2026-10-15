@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Zugnummer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zugnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugnummer&language=de)
+
 **Meaning:** train number
 **Plural:** Zugnummern
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

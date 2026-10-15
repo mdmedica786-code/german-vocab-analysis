@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2654"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Prinzessin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Prinzessin
+
+![[Prinzessin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prinzessin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prinzessin&language=de)
 
 **Meaning:** princess
 **Plural:** Prinzessinnen

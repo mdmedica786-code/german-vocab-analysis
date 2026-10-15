@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Mathe-Test
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mathe-Test/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mathe-Test&language=de)
+
 **Meaning:** math test
 **Plural:** Mathe-Tests
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

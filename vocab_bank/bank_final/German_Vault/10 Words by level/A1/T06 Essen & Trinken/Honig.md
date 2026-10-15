@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 12a"
 freq_rank: 4201
 skip: false
+audio: "Honig.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Honig
+
+![[Honig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Honig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Honig&language=de)
 
 **Meaning:** honey
 **Plural:** –

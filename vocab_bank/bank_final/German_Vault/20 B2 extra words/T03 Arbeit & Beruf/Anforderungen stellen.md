@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Anforderungen stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anforderungen%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anforderungen%20stellen&language=de)
+
 **Meaning:** to set requirements
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 

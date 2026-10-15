@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 12b"
 freq_rank: 2461
 skip: false
+audio: "wunderschön.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wunderschön
+
+![[wunderschön.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wundersch%C3%B6n/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wundersch%C3%B6n&language=de)
 
 **Meaning:** beautiful
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

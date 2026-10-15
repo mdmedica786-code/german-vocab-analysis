@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0563"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Rechtsstaat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rechtsstaat
+
+![[Rechtsstaat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechtsstaat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsstaat&language=de)
 
 **Meaning:** state governed by the rule of law
 **Plural:** Rechtsstaaten

@@ -15,11 +15,16 @@ id: "B5059"
 netzwerk: "B1 K12 6a"
 freq_rank: 4054
 skip: false
+audio: "Globalisierung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Globalisierung
+
+![[Globalisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Globalisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Globalisierung&language=de)
 
 **Meaning:** globalization
 **Plural:** –

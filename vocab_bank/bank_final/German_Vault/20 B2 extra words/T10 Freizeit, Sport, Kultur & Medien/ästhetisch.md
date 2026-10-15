@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2655"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ästhetisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ästhetisch
+
+![[ästhetisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%A4sthetisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4sthetisch&language=de)
 
 **Meaning:** aesthetic
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

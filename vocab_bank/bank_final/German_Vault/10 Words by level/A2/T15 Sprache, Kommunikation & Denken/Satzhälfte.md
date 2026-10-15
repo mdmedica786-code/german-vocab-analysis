@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Satzhälfte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Satzh%C3%A4lfte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzh%C3%A4lfte&language=de)
+
 **Meaning:** half of the sentence
 **Plural:** Satzhälften
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

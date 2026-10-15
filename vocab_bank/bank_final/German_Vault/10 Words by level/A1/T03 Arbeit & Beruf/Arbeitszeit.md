@@ -15,11 +15,16 @@ id: "B0748"
 netzwerk: "A1 K4 11"
 freq_rank: 3835
 skip: false
+audio: "Arbeitszeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitszeit
+
+![[Arbeitszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszeit&language=de)
 
 **Meaning:** working hours
 **Plural:** Arbeitszeiten

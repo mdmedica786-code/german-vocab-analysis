@@ -15,11 +15,16 @@ id: "B2821"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Surfbrett.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Surfbrett
+
+![[Surfbrett.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Surfbrett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Surfbrett&language=de)
 
 **Meaning:** surf board
 **Plural:** Surfbretter

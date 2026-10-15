@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2119"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "auf keinen Fall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # auf keinen Fall
+
+![[auf keinen Fall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20keinen%20Fall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20keinen%20Fall&language=de)
 
 **Meaning:** under no circumstances; definitely not
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

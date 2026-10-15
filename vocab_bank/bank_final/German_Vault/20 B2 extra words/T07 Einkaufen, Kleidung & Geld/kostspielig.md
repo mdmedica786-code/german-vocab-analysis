@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0775"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "kostspielig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # kostspielig
+
+![[kostspielig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kostspielig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kostspielig&language=de)
 
 **Meaning:** expensive; costly
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

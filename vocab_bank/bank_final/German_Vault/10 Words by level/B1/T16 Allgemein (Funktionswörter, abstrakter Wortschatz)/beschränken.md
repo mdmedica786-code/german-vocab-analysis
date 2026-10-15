@@ -13,11 +13,16 @@ id: "B5294"
 goethe_level: "B1"
 freq_rank: 1254
 skip: false
+audio: "beschränken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschränken
+
+![[beschränken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschr%C3%A4nken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschr%C3%A4nken&language=de)
 
 **Meaning:** to limit; to restrict
 **Forms:** beschränkt · beschränkte · hat beschränkt

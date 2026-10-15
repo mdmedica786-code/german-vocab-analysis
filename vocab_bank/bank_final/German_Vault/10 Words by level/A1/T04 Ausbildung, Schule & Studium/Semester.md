@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 3a"
 freq_rank: 2934
 skip: false
+audio: "Semester.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Semester
+
+![[Semester.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Semester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Semester&language=de)
 
 **Meaning:** semester
 **Plural:** Semester

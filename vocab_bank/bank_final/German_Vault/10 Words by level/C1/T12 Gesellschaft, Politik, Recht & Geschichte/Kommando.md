@@ -14,11 +14,16 @@ bank: "main"
 id: "B6024"
 freq_rank: 3994
 skip: false
+audio: "Kommando.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kommando
+
+![[Kommando.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommando/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommando&language=de)
 
 **Meaning:** command; order
 **Plural:** Kommandos

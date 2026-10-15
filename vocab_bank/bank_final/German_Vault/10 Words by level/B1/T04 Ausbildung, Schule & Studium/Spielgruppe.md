@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Spielgruppe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spielgruppe
+
+![[Spielgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielgruppe&language=de)
 
 **Meaning:** playgroup (Swiss)
 **Plural:** Spielgruppen

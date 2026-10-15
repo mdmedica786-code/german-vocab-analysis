@@ -15,11 +15,16 @@ id: "B5544"
 goethe_level: "B1"
 freq_rank: 2263
 skip: false
+audio: "Kälte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kälte
+
+![[Kälte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4lte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4lte&language=de)
 
 **Meaning:** cold
 **Plural:** –

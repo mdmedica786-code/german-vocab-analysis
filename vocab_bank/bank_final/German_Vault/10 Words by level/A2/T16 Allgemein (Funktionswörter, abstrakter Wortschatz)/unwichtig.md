@@ -12,11 +12,16 @@ id: "B2278"
 netzwerk: "A2 K4 12a ÜB"
 freq_rank: 5759
 skip: false
+audio: "unwichtig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unwichtig
+
+![[unwichtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unwichtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unwichtig&language=de)
 
 **Meaning:** unimportant
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

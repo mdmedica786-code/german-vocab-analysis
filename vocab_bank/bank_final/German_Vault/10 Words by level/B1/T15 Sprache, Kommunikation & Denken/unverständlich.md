@@ -12,11 +12,16 @@ id: "B3470"
 netzwerk: "B1 K2 9c"
 freq_rank: 4943
 skip: false
+audio: "unverständlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unverständlich
+
+![[unverständlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unverst%C3%A4ndlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unverst%C3%A4ndlich&language=de)
 
 **Meaning:** incomprehensible
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

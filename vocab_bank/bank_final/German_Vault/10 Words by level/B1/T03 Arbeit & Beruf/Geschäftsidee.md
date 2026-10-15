@@ -15,11 +15,16 @@ id: "B3965"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Geschäftsidee.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschäftsidee
+
+![[Geschäftsidee.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsidee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsidee&language=de)
 
 **Meaning:** business idea
 **Plural:** Geschäftsideen

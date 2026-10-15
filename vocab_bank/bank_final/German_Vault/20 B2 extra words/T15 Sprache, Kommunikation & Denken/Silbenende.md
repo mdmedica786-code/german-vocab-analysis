@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4411"
 exam_use: ["Hören", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Silbenende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Hören", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Silbenende
+
+![[Silbenende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Silbenende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Silbenende&language=de)
 
 **Meaning:** end of a syllable
 **Plural:** Silbenenden

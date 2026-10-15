@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0316"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Verfügung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verfügung
+
+![[Verfügung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verf%C3%BCgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verf%C3%BCgung&language=de)
 
 **Meaning:** disposal; order; decree
 **Plural:** Verfügungen

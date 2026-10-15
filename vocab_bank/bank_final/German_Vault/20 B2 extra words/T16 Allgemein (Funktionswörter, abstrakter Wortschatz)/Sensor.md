@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0643"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Sensor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sensor
+
+![[Sensor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sensor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sensor&language=de)
 
 **Meaning:** sensor
 **Plural:** Sensoren

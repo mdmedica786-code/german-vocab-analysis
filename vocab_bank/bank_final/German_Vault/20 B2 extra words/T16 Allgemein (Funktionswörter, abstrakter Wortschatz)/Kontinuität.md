@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1499"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kontinuität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kontinuität
+
+![[Kontinuität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontinuit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontinuit%C3%A4t&language=de)
 
 **Meaning:** continuity
 **Plural:** –

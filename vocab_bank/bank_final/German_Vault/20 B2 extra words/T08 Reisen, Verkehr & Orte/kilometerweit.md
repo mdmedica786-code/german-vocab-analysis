@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4103"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "kilometerweit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/adverb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # kilometerweit
+
+![[kilometerweit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kilometerweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kilometerweit&language=de)
 
 **Meaning:** for kilometres; many kilometres
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

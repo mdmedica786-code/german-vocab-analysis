@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3435"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Gier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gier
+
+![[Gier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gier&language=de)
 
 **Meaning:** greed
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0592"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Zugangsdaten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zugangsdaten
+
+![[Zugangsdaten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zugangsdaten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugangsdaten&language=de)
 
 **Meaning:** login details; access data
 **Plural:** (Pl.)

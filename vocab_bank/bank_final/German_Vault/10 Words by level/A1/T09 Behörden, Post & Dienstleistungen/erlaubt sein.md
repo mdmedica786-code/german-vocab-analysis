@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # erlaubt sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/erlaubt%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlaubt%20sein&language=de)
+
 **Meaning:** to be allowed
 **Forms:** ist erlaubt · war erlaubt · ist erlaubt gewesen
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

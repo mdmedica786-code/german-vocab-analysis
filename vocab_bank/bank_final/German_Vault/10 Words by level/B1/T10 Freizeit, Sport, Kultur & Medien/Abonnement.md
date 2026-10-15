@@ -15,11 +15,16 @@ id: "B6349"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Abonnement.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Abonnement
+
+![[Abonnement.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abonnement/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abonnement&language=de)
 
 **Meaning:** subscription
 **Plural:** Abonnements

@@ -15,11 +15,16 @@ id: "B2213"
 netzwerk: "A2 K4 4b"
 freq_rank: 5759
 skip: false
+audio: "Geburtstagsparty.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geburtstagsparty
+
+![[Geburtstagsparty.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtstagsparty/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtstagsparty&language=de)
 
 **Meaning:** birthday party
 **Plural:** Geburtstagspartys

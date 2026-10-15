@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1578"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "erbärmlich.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erbärmlich
+
+![[erbärmlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erb%C3%A4rmlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erb%C3%A4rmlich&language=de)
 
 **Meaning:** pathetic; wretched
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

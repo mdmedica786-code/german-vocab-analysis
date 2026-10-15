@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 3a"
 freq_rank: 861
 skip: false
+audio: "mindestens.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mindestens
+
+![[mindestens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mindestens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mindestens&language=de)
 
 **Meaning:** at least
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 6d"
 freq_rank: 5759
 skip: false
+audio: "Sozialarbeiter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sozialarbeiter
+
+![[Sozialarbeiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialarbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialarbeiter&language=de)
 
 **Meaning:** social worker (m)
 **Plural:** Sozialarbeiter

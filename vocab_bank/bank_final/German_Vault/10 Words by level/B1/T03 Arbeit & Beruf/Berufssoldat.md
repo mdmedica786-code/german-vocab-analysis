@@ -15,11 +15,16 @@ id: "B3560"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Berufssoldat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Berufssoldat
+
+![[Berufssoldat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufssoldat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufssoldat&language=de)
 
 **Meaning:** professional soldier (m)
 **Plural:** Berufssoldaten

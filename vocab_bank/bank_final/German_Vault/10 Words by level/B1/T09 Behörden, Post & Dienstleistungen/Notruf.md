@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 5754
 skip: false
+audio: "Notruf.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Notruf
+
+![[Notruf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notruf&language=de)
 
 **Meaning:** SOS, emergency call
 **Plural:** Notrufe

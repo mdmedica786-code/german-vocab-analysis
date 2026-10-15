@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kulturfest
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kulturfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturfest&language=de)
+
 **Meaning:** cultural festival
 **Plural:** Kulturfeste
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

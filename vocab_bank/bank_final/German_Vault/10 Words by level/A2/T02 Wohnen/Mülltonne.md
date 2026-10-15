@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 5759
 skip: false
+audio: "Mülltonne.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mülltonne
+
+![[Mülltonne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BClltonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BClltonne&language=de)
 
 **Meaning:** rubbish bin
 **Plural:** Mülltonnen

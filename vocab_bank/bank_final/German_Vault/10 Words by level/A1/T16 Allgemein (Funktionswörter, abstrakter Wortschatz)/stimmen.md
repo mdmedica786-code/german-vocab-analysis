@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 3b"
 freq_rank: 528
 skip: false
+audio: "stimmen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stimmen
+
+![[stimmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stimmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stimmen&language=de)
 
 **Meaning:** to be correct; to tune; to vote
 **Forms:** stimmt · stimmte · hat gestimmt

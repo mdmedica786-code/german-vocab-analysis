@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4069"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "implantieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # implantieren
+
+![[implantieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/implantieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=implantieren&language=de)
 
 **Meaning:** to implant
 **Forms:** implantiert · implantierte · hat implantiert

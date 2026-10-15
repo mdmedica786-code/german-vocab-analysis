@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1201"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "aufatmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufatmen
+
+![[aufatmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufatmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufatmen&language=de)
 
 **Meaning:** to breathe a sigh of relief
 **Forms:** atmet auf · atmete auf · hat aufgeatmet

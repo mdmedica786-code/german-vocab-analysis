@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3371"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Zusammenstellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zusammenstellung
+
+![[Zusammenstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusammenstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammenstellung&language=de)
 
 **Meaning:** compilation; selection; composition
 **Plural:** Zusammenstellungen

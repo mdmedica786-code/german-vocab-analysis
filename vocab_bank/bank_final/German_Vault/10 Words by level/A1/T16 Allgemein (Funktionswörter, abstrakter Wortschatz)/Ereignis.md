@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 15a"
 freq_rank: 879
 skip: false
+audio: "Ereignis.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ereignis
+
+![[Ereignis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ereignis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ereignis&language=de)
 
 **Meaning:** event; incident
 **Plural:** Ereignisse

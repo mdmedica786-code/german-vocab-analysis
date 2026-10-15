@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0337"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Betroffene.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # Betroffene
+
+![[Betroffene.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betroffene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betroffene&language=de)
 
 **Meaning:** person affected
 **Plural:** Betroffenen

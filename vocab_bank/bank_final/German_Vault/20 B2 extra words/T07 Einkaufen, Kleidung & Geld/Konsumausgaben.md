@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4130"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Konsumausgaben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Konsumausgaben
+
+![[Konsumausgaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsumausgaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsumausgaben&language=de)
 
 **Meaning:** consumer spending
 **Plural:** (Pl.)

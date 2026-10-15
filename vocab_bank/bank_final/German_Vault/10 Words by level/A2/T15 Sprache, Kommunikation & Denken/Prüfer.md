@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "Prüfer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Prüfer
+
+![[Prüfer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%BCfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%BCfer&language=de)
 
 **Meaning:** examiner (m)
 **Plural:** Prüfer

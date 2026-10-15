@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3713"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "anfällig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # anfällig
+
+![[anfällig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anf%C3%A4llig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anf%C3%A4llig&language=de)
 
 **Meaning:** susceptible; prone
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

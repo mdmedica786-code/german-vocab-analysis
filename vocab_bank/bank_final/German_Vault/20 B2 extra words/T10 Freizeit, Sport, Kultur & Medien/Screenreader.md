@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4397"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Screenreader
+
+[▶️ YouGlish](https://youglish.com/pronounce/Screenreader/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Screenreader&language=de)
 
 **Meaning:** screen reader
 **Plural:** Screenreader

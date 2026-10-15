@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 1982
 skip: false
+audio: "einschließlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschließlich
+
+![[einschließlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einschlie%C3%9Flich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einschlie%C3%9Flich&language=de)
 
 **Meaning:** including
 **Case:** + Gen.

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1600"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gierig.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gierig
+
+![[gierig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gierig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gierig&language=de)
 
 **Meaning:** greedy
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

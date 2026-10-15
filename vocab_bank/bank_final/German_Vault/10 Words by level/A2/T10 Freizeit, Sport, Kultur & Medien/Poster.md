@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 5b"
 freq_rank: 4706
 skip: false
+audio: "Poster.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Poster
+
+![[Poster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Poster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poster&language=de)
 
 **Meaning:** poster
 **Plural:** Poster

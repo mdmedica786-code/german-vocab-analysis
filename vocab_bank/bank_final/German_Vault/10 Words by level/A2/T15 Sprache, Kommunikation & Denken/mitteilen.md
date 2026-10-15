@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 8b"
 freq_rank: 1957
 skip: false
+audio: "mitteilen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitteilen
+
+![[mitteilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitteilen&language=de)
 
 **Meaning:** to inform; to notify
 **Forms:** teilt mit · teilte mit · hat mitgeteilt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0618"
 exam_use: ["Lesen"]
 skip: false
+audio: "Verleger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verleger
+
+![[Verleger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verleger&language=de)
 
 **Meaning:** publisher
 **Plural:** Verleger

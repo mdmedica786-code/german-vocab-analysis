@@ -13,11 +13,16 @@ id: "B0673"
 netzwerk: "A1 K4 6a"
 freq_rank: 5759
 skip: false
+audio: "drankommen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drankommen
+
+![[drankommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drankommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drankommen&language=de)
 
 **Meaning:** to have one's turn
 **Forms:** kommt dran · kam dran · ist drangekommen

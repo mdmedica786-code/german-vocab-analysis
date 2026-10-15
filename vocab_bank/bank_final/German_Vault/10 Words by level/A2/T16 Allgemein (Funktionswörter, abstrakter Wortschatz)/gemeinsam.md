@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # gemeinsam
 
+[▶️ YouGlish](https://youglish.com/pronounce/gemeinsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gemeinsam&language=de)
+
 **Meaning:** together
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

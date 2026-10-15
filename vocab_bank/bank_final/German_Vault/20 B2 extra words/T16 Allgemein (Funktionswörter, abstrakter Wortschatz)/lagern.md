@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3344"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "lagern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # lagern
+
+![[lagern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lagern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lagern&language=de)
 
 **Meaning:** to store; to be stored
 **Forms:** lagert · lagerte · hat gelagert

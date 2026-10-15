@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7b"
 freq_rank: 610
 skip: false
+audio: "Tochter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tochter
+
+![[Tochter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tochter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tochter&language=de)
 
 **Meaning:** daughter
 **Plural:** Töchter

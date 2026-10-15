@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Auskunft geben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Auskunft%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auskunft%20geben&language=de)
+
 **Meaning:** to give information
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

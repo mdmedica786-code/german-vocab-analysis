@@ -13,11 +13,16 @@ id: "B4246"
 netzwerk: "B1 K7 2b"
 freq_rank: 5759
 skip: false
+audio: "guttun.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # guttun
+
+![[guttun.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/guttun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=guttun&language=de)
 
 **Meaning:** to do good; to be good for
 **Forms:** tut gut · tat gut · hat gutgetan

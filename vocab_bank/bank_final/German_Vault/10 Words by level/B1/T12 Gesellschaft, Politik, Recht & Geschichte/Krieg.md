@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 10b"
 freq_rank: 671
 skip: false
+audio: "Krieg.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Krieg
+
+![[Krieg.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krieg&language=de)
 
 **Meaning:** war
 **Plural:** Kriege

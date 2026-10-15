@@ -15,11 +15,16 @@ id: "B3832"
 netzwerk: "B1 K4 12b"
 freq_rank: 5759
 skip: false
+audio: "Bewerbungsunterlagen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewerbungsunterlagen
+
+![[Bewerbungsunterlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerbungsunterlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbungsunterlagen&language=de)
 
 **Meaning:** application documents
 **Plural:** (Pl.)

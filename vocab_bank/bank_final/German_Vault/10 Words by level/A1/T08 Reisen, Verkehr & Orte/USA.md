@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die USA
 
+[▶️ YouGlish](https://youglish.com/pronounce/USA/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=USA&language=de)
+
 **Meaning:** USA
 **Plural:** (Pl.)
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

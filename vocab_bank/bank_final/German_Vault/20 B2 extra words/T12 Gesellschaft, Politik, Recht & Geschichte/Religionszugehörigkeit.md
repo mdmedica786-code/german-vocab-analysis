@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4354"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Religionszugehörigkeit
+
+[▶️ YouGlish](https://youglish.com/pronounce/Religionszugeh%C3%B6rigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Religionszugeh%C3%B6rigkeit&language=de)
 
 **Meaning:** religious affiliation
 **Plural:** –

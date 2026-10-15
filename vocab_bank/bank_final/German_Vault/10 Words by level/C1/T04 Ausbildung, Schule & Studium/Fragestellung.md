@@ -14,11 +14,16 @@ bank: "main"
 id: "B5558"
 freq_rank: 2329
 skip: false
+audio: "Fragestellung.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fragestellung
+
+![[Fragestellung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fragestellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fragestellung&language=de)
 
 **Meaning:** formulation of a question; issue
 **Plural:** Fragestellungen

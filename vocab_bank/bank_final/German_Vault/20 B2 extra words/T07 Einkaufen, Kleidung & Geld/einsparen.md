@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1249"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "einsparen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einsparen
+
+![[einsparen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsparen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsparen&language=de)
 
 **Meaning:** to save; to cut back
 **Forms:** spart ein · sparte ein · hat eingespart

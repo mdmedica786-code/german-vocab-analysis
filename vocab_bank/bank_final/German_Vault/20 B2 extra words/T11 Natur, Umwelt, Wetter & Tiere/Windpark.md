@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0693"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Windpark.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Windpark
+
+![[Windpark.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Windpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windpark&language=de)
 
 **Meaning:** wind farm
 **Plural:** Windparks

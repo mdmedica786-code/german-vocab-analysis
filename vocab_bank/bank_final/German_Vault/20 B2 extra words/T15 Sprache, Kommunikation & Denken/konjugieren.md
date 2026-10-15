@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4129"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
-status: "new"
+audio: "konjugieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Grammatik", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # konjugieren
+
+![[konjugieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konjugieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konjugieren&language=de)
 
 **Meaning:** to conjugate
 **Forms:** konjugiert · konjugierte · hat konjugiert

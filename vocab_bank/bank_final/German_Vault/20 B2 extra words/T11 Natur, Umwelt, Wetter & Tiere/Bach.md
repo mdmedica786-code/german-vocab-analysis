@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0742"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Bach.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bach
+
+![[Bach.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bach&language=de)
 
 **Meaning:** brook; stream
 **Plural:** Bäche

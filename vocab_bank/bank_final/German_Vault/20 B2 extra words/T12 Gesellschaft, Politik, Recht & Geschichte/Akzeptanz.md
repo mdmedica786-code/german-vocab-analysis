@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1448"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Akzeptanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Akzeptanz
+
+![[Akzeptanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Akzeptanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akzeptanz&language=de)
 
 **Meaning:** acceptance
 **Plural:** –

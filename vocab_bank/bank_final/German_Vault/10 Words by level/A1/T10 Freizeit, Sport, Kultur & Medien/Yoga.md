@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Yoga
 
+[▶️ YouGlish](https://youglish.com/pronounce/Yoga/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Yoga&language=de)
+
 **Meaning:** yoga
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

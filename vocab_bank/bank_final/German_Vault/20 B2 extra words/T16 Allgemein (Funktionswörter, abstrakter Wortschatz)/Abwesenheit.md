@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2820"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Abwesenheit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abwesenheit
+
+![[Abwesenheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abwesenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abwesenheit&language=de)
 
 **Meaning:** absence
 **Plural:** –

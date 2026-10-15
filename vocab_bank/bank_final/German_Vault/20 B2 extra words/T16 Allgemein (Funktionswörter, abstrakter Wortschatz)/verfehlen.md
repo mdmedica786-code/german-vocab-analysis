@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1311"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verfehlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verfehlen
+
+![[verfehlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verfehlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfehlen&language=de)
 
 **Meaning:** to miss; to fail to achieve
 **Forms:** verfehlt · verfehlte · hat verfehlt

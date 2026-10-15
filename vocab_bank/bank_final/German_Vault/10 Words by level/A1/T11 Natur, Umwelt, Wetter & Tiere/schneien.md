@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "schneien.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schneien
+
+![[schneien.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schneien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schneien&language=de)
 
 **Meaning:** to snow
 **Forms:** schneit · schneite · hat geschneit

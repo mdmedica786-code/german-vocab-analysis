@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3759"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Ausstellungsbereich
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausstellungsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausstellungsbereich&language=de)
 
 **Meaning:** exhibition area
 **Plural:** Ausstellungsbereiche

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 1560
 skip: false
+audio: "Integration.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Integration
+
+![[Integration.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Integration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Integration&language=de)
 
 **Meaning:** integration
 **Plural:** –

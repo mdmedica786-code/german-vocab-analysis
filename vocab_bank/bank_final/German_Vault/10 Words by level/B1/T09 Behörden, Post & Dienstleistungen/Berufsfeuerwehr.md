@@ -15,11 +15,16 @@ id: "B4759"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Berufsfeuerwehr.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berufsfeuerwehr
+
+![[Berufsfeuerwehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsfeuerwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsfeuerwehr&language=de)
 
 **Meaning:** professional fire brigade
 **Plural:** Berufsfeuerwehren

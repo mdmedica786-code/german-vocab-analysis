@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2536"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "bedingt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedingt
+
+![[bedingt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedingt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedingt&language=de)
 
 **Meaning:** conditional; limited
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

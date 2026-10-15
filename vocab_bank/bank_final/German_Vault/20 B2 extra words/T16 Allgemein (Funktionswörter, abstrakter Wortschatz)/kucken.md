@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4153"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "kucken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # kucken
+
+![[kucken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kucken&language=de)
 
 **Meaning:** to look; to watch (variant of gucken)
 **Forms:** kuckt · kuckte · hat gekuckt

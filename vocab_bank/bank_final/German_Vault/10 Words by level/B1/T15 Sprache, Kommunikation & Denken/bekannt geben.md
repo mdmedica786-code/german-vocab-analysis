@@ -13,11 +13,16 @@ id: "B5773"
 goethe_level: "B1"
 freq_rank: 3000
 skip: false
+audio: "bekannt geben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bekannt geben
+
+![[bekannt geben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bekannt%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bekannt%20geben&language=de)
 
 **Meaning:** to announce
 **Forms:** gibt bekannt · gab bekannt · hat bekannt gegeben

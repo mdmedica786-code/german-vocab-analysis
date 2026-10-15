@@ -14,11 +14,16 @@ bank: "main"
 id: "B6093"
 freq_rank: 4315
 skip: false
+audio: "Eintragung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eintragung
+
+![[Eintragung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eintragung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eintragung&language=de)
 
 **Meaning:** entry; registration
 **Plural:** Eintragungen

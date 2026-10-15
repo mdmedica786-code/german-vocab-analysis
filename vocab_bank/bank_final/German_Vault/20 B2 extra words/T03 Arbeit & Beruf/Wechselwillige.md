@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4625"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # Wechselwillige
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wechselwillige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wechselwillige&language=de)
 
 **Meaning:** person willing to switch (provider, job)
 **Plural:** Wechselwilligen

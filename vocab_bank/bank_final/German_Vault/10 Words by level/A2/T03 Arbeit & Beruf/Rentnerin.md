@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Rentnerin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Rentnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rentnerin&language=de)
+
 **Meaning:** pensioner (f.)
 **Plural:** Rentnerinnen
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

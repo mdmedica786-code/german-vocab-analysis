@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Stiegenhaus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stiegenhaus
+
+![[Stiegenhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stiegenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stiegenhaus&language=de)
 
 **Meaning:** stairwell (Austrian)
 **Plural:** Stiegenhäuser

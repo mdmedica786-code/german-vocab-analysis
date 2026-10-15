@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Debatte stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Debatte%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Debatte%20stellen&language=de)
+
 **Meaning:** to put up for debate
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

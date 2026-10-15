@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 3691
 skip: false
+audio: "Zone.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zone
+
+![[Zone.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zone&language=de)
 
 **Meaning:** zone
 **Plural:** Zonen

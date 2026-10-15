@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 5a"
 freq_rank: 5759
 skip: false
+audio: "Torte.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Torte
+
+![[Torte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Torte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Torte&language=de)
 
 **Meaning:** gateau
 **Plural:** Torten

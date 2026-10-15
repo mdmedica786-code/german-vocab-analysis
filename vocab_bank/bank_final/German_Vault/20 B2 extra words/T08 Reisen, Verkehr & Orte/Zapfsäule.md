@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4656"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Zapfsäule.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Zapfsäule
+
+![[Zapfsäule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zapfs%C3%A4ule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zapfs%C3%A4ule&language=de)
 
 **Meaning:** petrol pump; fuel pump
 **Plural:** Zapfsäulen

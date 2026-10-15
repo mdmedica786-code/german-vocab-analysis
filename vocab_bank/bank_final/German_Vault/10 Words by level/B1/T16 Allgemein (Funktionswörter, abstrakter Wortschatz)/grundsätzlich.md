@@ -12,11 +12,16 @@ id: "B4435"
 netzwerk: "B1 K8 5b"
 freq_rank: 767
 skip: false
+audio: "grundsätzlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # grundsätzlich
+
+![[grundsätzlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/grunds%C3%A4tzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grunds%C3%A4tzlich&language=de)
 
 **Meaning:** in principle; fundamentally
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

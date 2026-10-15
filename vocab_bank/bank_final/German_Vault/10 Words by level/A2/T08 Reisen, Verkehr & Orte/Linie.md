@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 828
 skip: false
+audio: "Linie.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Linie
+
+![[Linie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Linie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Linie&language=de)
 
 **Meaning:** line; route
 **Plural:** Linien

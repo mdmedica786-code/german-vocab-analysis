@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 9c"
 freq_rank: 3474
 skip: false
+audio: "fortsetzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fortsetzen
+
+![[fortsetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fortsetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fortsetzen&language=de)
 
 **Meaning:** to continue
 **Forms:** setzt fort · setzte fort · hat fortgesetzt

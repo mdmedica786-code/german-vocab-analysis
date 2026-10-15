@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2432"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "vorliegend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorliegend
+
+![[vorliegend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorliegend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorliegend&language=de)
 
 **Meaning:** present; at hand
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # shoppen gehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/shoppen%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=shoppen%20gehen&language=de)
+
 **Meaning:** to go shopping
 **Forms:** geht shoppen · ging shoppen · ist shoppen gegangen
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** informal

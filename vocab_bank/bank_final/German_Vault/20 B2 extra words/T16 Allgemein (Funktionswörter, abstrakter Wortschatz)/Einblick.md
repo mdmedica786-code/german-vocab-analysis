@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3069"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Einblick.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einblick
+
+![[Einblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einblick&language=de)
 
 **Meaning:** insight
 **Plural:** Einblicke

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3970"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Führungsstil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Führungsstil
+
+![[Führungsstil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrungsstil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrungsstil&language=de)
 
 **Meaning:** leadership style; management style
 **Plural:** Führungsstile

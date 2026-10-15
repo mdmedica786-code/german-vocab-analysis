@@ -12,11 +12,16 @@ bank: "main"
 id: "B5739"
 freq_rank: 2897
 skip: false
+audio: "jagen.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jagen
+
+![[jagen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jagen&language=de)
 
 **Meaning:** to hunt; to chase
 **Forms:** jagt · jagte · hat gejagt

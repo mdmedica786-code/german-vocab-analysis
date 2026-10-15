@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1840"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "verfallen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # verfallen
+
+![[verfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfallen&language=de)
 
 **Meaning:** to decay; to expire; to fall into
 **Forms:** verfällt · verfiel · ist verfallen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Ministerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ministerin
+
+![[Ministerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ministerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ministerin&language=de)
 
 **Meaning:** minister (f)
 **Plural:** Ministerinnen

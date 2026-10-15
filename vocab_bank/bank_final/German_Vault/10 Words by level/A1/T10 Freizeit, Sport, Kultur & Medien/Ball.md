@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 10a"
 freq_rank: 2850
 skip: false
+audio: "Ball.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ball
+
+![[Ball.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ball&language=de)
 
 **Meaning:** ball
 **Plural:** Bälle

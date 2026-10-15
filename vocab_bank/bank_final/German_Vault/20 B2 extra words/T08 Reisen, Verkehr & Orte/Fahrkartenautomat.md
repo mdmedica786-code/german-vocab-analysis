@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1010"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Fahrkartenautomat.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrkartenautomat
+
+![[Fahrkartenautomat.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrkartenautomat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrkartenautomat&language=de)
 
 **Meaning:** ticket machine
 **Plural:** Fahrkartenautomaten

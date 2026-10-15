@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3146"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "offenbaren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # offenbaren
+
+![[offenbaren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/offenbaren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=offenbaren&language=de)
 
 **Meaning:** to reveal; to disclose
 **Forms:** offenbart · offenbarte · hat offenbart

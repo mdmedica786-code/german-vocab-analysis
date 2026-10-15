@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0764"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ergiebig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ergiebig
+
+![[ergiebig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ergiebig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ergiebig&language=de)
 
 **Meaning:** productive; rich in yield
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

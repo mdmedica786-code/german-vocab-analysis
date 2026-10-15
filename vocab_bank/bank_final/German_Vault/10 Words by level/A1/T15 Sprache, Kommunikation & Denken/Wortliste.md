@@ -15,11 +15,16 @@ id: "B1824"
 netzwerk: "A1 K12 10c"
 freq_rank: 5759
 skip: false
+audio: "Wortliste.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wortliste
+
+![[Wortliste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortliste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortliste&language=de)
 
 **Meaning:** word list
 **Plural:** Wortlisten

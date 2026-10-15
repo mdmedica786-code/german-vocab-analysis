@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1359"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "zuweilen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuweilen
+
+![[zuweilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuweilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuweilen&language=de)
 
 **Meaning:** at times; now and then
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

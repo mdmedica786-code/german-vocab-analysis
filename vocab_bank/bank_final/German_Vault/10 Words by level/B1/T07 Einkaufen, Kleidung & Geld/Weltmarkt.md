@@ -15,11 +15,16 @@ id: "B5084"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Weltmarkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Weltmarkt
+
+![[Weltmarkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weltmarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltmarkt&language=de)
 
 **Meaning:** world market
 **Plural:** –

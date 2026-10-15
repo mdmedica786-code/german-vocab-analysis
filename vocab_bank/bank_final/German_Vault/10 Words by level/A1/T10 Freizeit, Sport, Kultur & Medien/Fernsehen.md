@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 9c"
 freq_rank: 2532
 skip: false
+audio: "fernsehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fernsehen
+
+![[fernsehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehen&language=de)
 
 **Meaning:** television
 **Plural:** –

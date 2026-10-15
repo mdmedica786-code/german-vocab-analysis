@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4464"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "stornieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # stornieren
+
+![[stornieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stornieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stornieren&language=de)
 
 **Meaning:** to cancel (a booking, an order)
 **Forms:** storniert · stornierte · hat storniert

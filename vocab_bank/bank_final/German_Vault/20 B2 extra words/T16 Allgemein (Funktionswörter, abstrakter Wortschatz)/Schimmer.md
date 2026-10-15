@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3440"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Schimmer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schimmer
+
+![[Schimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schimmer&language=de)
 
 **Meaning:** glimmer; faint trace (colloquial: "keinen Schimmer")
 **Plural:** –

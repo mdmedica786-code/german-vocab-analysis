@@ -14,11 +14,16 @@ bank: "main"
 id: "B5726"
 freq_rank: 2855
 skip: false
+audio: "Spende.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spende
+
+![[Spende.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spende&language=de)
 
 **Meaning:** donation
 **Plural:** Spenden

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kurspartner
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kurspartner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurspartner&language=de)
+
 **Meaning:** course partner (m)
 **Plural:** Kurspartner
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B6275"
 goethe_level: "B1"
 freq_rank: 5275
 skip: false
+audio: "erziehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erziehen
+
+![[erziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erziehen&language=de)
 
 **Meaning:** to bring up; to educate
 **Forms:** erzieht · erzog · hat erzogen

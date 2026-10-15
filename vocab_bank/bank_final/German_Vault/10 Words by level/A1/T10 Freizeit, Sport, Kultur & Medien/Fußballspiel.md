@@ -15,11 +15,16 @@ id: "B1049"
 netzwerk: "A1 K6 15a"
 freq_rank: 5759
 skip: false
+audio: "Fußballspiel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fußballspiel
+
+![[Fußballspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballspiel&language=de)
 
 **Meaning:** football game
 **Plural:** Fußballspiele

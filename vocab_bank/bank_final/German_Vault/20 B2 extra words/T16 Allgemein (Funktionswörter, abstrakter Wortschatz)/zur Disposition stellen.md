@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Disposition stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Disposition%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Disposition%20stellen&language=de)
+
 **Meaning:** to put up for review; to make available
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

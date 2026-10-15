@@ -15,11 +15,16 @@ id: "B2954"
 netzwerk: "A2 K10 5b"
 freq_rank: 5759
 skip: false
+audio: "Gartenhaus.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gartenhaus
+
+![[Gartenhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gartenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gartenhaus&language=de)
 
 **Meaning:** summer house
 **Plural:** Gartenhäuser

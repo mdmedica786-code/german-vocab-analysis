@@ -14,11 +14,16 @@ bank: "main"
 id: "B6084"
 freq_rank: 4249
 skip: false
+audio: "Hierarchie.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hierarchie
+
+![[Hierarchie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hierarchie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hierarchie&language=de)
 
 **Meaning:** hierarchy
 **Plural:** Hierarchien

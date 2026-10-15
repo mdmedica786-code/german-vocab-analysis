@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem etwas ans Herz legen
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20etwas%20ans%20Herz%20legen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20etwas%20ans%20Herz%20legen&language=de)
+
 **Meaning:** to recommend something warmly to someone
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

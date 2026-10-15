@@ -13,11 +13,16 @@ id: "B4813"
 netzwerk: "B1 K10 7b"
 freq_rank: 5705
 skip: false
+audio: "abziehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abziehen
+
+![[abziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abziehen&language=de)
 
 **Meaning:** to deduct; to pull off
 **Forms:** zieht ab · zog ab · hat abgezogen

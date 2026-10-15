@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1746"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Landwirt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Landwirt
+
+![[Landwirt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Landwirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landwirt&language=de)
 
 **Meaning:** farmer
 **Plural:** Landwirte

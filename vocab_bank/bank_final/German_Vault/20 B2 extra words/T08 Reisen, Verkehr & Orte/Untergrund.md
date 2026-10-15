@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3494"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Untergrund.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Untergrund
+
+![[Untergrund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untergrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untergrund&language=de)
 
 **Meaning:** underground; subsoil; base
 **Plural:** –

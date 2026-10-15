@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 3b"
 freq_rank: 3170
 skip: false
+audio: "gründlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gründlich
+
+![[gründlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BCndlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BCndlich&language=de)
 
 **Meaning:** thorough
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

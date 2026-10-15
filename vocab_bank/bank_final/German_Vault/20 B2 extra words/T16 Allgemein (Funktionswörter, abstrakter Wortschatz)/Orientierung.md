@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2535"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Orientierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Orientierung
+
+![[Orientierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Orientierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orientierung&language=de)
 
 **Meaning:** orientation; guidance
 **Plural:** –

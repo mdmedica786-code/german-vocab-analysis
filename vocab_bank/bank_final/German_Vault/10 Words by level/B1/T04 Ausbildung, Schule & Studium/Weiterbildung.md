@@ -15,11 +15,16 @@ id: "B5932"
 goethe_level: "B1"
 freq_rank: 3539
 skip: false
+audio: "Weiterbildung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weiterbildung
+
+![[Weiterbildung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weiterbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weiterbildung&language=de)
 
 **Meaning:** further training
 **Plural:** Weiterbildungen

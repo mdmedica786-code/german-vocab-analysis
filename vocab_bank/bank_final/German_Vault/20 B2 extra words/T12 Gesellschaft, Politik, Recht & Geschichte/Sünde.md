@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2569"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Sünde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sünde
+
+![[Sünde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%BCnde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BCnde&language=de)
 
 **Meaning:** sin
 **Plural:** Sünden

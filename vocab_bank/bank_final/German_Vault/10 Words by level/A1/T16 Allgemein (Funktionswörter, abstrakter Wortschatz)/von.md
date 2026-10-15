@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # von
 
+[▶️ YouGlish](https://youglish.com/pronounce/von/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=von&language=de)
+
 **Meaning:** by
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

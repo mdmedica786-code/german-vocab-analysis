@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2990"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Friedhof.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Friedhof
+
+![[Friedhof.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Friedhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friedhof&language=de)
 
 **Meaning:** cemetery
 **Plural:** Friedhöfe

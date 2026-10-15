@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 9a"
 freq_rank: 1005
 skip: false
+audio: "Gast.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gast
+
+![[Gast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gast&language=de)
 
 **Meaning:** guest
 **Plural:** Gäste

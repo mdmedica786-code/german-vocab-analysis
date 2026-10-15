@@ -14,11 +14,16 @@ bank: "main"
 id: "B5655"
 freq_rank: 2682
 skip: false
+audio: "Universum.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Universum
+
+![[Universum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Universum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Universum&language=de)
 
 **Meaning:** universe
 **Plural:** Universen

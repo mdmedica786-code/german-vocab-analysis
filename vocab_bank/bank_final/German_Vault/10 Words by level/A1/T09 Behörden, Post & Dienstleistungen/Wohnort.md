@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 12b"
 freq_rank: 4956
 skip: false
+audio: "Wohnort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wohnort
+
+![[Wohnort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnort&language=de)
 
 **Meaning:** place of residence
 **Plural:** Wohnorte

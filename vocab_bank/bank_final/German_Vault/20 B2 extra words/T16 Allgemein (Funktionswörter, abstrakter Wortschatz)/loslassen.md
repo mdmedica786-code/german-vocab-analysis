@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3312"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "loslassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # loslassen
+
+![[loslassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/loslassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=loslassen&language=de)
 
 **Meaning:** to let go (of); to release
 **Forms:** lässt los · ließ los · hat losgelassen

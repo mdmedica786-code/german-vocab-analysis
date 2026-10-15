@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4355"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "renommiert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # renommiert
+
+![[renommiert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/renommiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=renommiert&language=de)
 
 **Meaning:** renowned; well-known
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

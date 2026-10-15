@@ -14,11 +14,16 @@ bank: "main"
 id: "B6180"
 freq_rank: 4785
 skip: false
+audio: "Know-how.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Know-how
+
+![[Know-how.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Know-how/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Know-how&language=de)
 
 **Meaning:** know-how
 **Plural:** –

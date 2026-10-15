@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 9d"
 freq_rank: 368
 skip: false
+audio: "wirken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wirken
+
+![[wirken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wirken&language=de)
 
 **Meaning:** to have an effect; to work; to seem
 **Forms:** wirkt · wirkte · hat gewirkt

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # jeder
 
+[▶️ YouGlish](https://youglish.com/pronounce/jeder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jeder&language=de)
+
 **Meaning:** every; each; everyone
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

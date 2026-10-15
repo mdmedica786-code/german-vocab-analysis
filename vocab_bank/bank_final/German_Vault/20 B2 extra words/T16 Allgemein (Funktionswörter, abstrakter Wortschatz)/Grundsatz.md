@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0361"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Grundsatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Grundsatz
+
+![[Grundsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundsatz&language=de)
 
 **Meaning:** principle
 **Plural:** Grundsätze

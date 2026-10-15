@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1a"
 freq_rank: 2238
 skip: false
+audio: "Strafe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strafe
+
+![[Strafe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strafe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strafe&language=de)
 
 **Meaning:** punishment, penalty
 **Plural:** Strafen

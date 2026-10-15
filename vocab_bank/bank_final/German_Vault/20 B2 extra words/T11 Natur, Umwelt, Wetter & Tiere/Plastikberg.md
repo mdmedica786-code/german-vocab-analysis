@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4313"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Plastikberg
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plastikberg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plastikberg&language=de)
 
 **Meaning:** mountain of plastic
 **Plural:** Plastikberge

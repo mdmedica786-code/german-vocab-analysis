@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2638"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Anwesenheit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anwesenheit
+
+![[Anwesenheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anwesenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anwesenheit&language=de)
 
 **Meaning:** presence; attendance
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 5a"
 freq_rank: 4217
 skip: false
+audio: "Musiker.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Musiker
+
+![[Musiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musiker&language=de)
 
 **Meaning:** musician (m)
 **Plural:** Musiker

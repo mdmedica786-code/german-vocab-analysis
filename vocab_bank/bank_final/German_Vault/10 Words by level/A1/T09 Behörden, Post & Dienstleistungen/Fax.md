@@ -15,11 +15,16 @@ id: "B6431"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Fax.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fax
+
+![[Fax.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fax/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fax&language=de)
 
 **Meaning:** fax
 **Plural:** Faxe

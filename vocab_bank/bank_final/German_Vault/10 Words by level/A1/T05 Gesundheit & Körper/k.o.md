@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # k.o.
 
+[▶️ YouGlish](https://youglish.com/pronounce/k.o./german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k.o.&language=de)
+
 **Meaning:** knocked out; exhausted
 **Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** informal
 

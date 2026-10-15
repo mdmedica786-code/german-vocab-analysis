@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 12b"
 freq_rank: 322
 skip: false
+audio: "plötzlich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # plötzlich
+
+![[plötzlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pl%C3%B6tzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pl%C3%B6tzlich&language=de)
 
 **Meaning:** suddenly
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

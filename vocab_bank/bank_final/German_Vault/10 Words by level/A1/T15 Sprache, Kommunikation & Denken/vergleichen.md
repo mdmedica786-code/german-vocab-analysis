@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6c"
 freq_rank: 1187
 skip: false
+audio: "vergleichen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergleichen
+
+![[vergleichen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergleichen&language=de)
 
 **Meaning:** to compare
 **Forms:** vergleicht · verglich · hat verglichen

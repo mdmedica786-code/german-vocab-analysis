@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0243"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "meistern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # meistern
+
+![[meistern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/meistern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meistern&language=de)
 
 **Meaning:** to master; to cope with
 **Forms:** meistert · meisterte · hat gemeistert

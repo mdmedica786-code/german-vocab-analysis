@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 1999
 skip: false
+audio: "Hütte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hütte
+
+![[Hütte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCtte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCtte&language=de)
 
 **Meaning:** hut; lodge
 **Plural:** Hütten

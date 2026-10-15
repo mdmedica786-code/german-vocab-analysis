@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2669"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Pfeil.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pfeil
+
+![[Pfeil.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfeil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfeil&language=de)
 
 **Meaning:** arrow
 **Plural:** Pfeile

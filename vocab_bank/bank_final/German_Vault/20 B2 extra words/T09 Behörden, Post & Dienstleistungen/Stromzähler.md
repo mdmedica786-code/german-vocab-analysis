@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2216"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Stromzähler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stromzähler
+
+![[Stromzähler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stromz%C3%A4hler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromz%C3%A4hler&language=de)
 
 **Meaning:** electricity meter
 **Plural:** Stromzähler

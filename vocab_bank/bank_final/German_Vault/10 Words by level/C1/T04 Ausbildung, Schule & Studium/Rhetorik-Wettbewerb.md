@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Rhetorik-Wettbewerb
 
+[▶️ YouGlish](https://youglish.com/pronounce/Rhetorik-Wettbewerb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rhetorik-Wettbewerb&language=de)
+
 **Meaning:** rhetoric competition
 **Plural:** Rhetorik-Wettbewerbe
 **Level:** C1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

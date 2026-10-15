@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2130"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Bilanz ziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Bilanz ziehen
+
+![[Bilanz ziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bilanz%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilanz%20ziehen&language=de)
 
 **Meaning:** to take stock; to draw conclusions
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

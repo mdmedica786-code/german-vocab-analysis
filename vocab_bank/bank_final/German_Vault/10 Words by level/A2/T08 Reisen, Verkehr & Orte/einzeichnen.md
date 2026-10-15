@@ -13,11 +13,16 @@ id: "B2600"
 netzwerk: "A2 K7 8e"
 freq_rank: 5759
 skip: false
+audio: "einzeichnen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einzeichnen
+
+![[einzeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einzeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einzeichnen&language=de)
 
 **Meaning:** to draw in
 **Forms:** zeichnet ein · zeichnete ein · hat eingezeichnet

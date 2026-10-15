@@ -15,11 +15,16 @@ id: "B3011"
 netzwerk: "A2 K10 12a"
 freq_rank: 5759
 skip: false
+audio: "Bäuerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bäuerin
+
+![[Bäuerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4uerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4uerin&language=de)
 
 **Meaning:** farmer (f)
 **Plural:** Bäuerinnen

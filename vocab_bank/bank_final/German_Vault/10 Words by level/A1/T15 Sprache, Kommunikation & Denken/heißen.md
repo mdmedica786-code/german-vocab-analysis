@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1b"
 freq_rank: 261
 skip: false
+audio: "heißen (17).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # heißen
+
+![[heißen (17).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hei%C3%9Fen&language=de)
 
 **Meaning:** to be called; to mean
 **Other senses:** to be named

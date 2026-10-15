@@ -15,11 +15,16 @@ id: "B5646"
 goethe_level: "B1"
 freq_rank: 2645
 skip: false
+audio: "Asyl.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Asyl
+
+![[Asyl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Asyl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asyl&language=de)
 
 **Meaning:** asylum
 **Plural:** –

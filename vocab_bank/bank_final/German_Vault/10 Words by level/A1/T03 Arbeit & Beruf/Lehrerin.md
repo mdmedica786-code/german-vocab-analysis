@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a"
 freq_rank: 3638
 skip: false
+audio: "Lehrerin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lehrerin
+
+![[Lehrerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrerin&language=de)
 
 **Meaning:** teacher (f)
 **Plural:** Lehrerinnen

@@ -15,11 +15,16 @@ id: "B4509"
 netzwerk: "B1 K8 9a"
 freq_rank: 2802
 skip: false
+audio: "Unsicherheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unsicherheit
+
+![[Unsicherheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unsicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unsicherheit&language=de)
 
 **Meaning:** uncertainty
 **Plural:** Unsicherheiten

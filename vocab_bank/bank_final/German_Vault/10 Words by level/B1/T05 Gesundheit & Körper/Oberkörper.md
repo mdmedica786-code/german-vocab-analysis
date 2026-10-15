@@ -15,11 +15,16 @@ id: "B3595"
 netzwerk: "B1 K3 3c"
 freq_rank: 3408
 skip: false
+audio: "Oberkörper.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Oberkörper
+
+![[Oberkörper.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oberk%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberk%C3%B6rper&language=de)
 
 **Meaning:** upper body
 **Plural:** Oberkörper

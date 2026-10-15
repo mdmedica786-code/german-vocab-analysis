@@ -15,11 +15,16 @@ id: "B3463"
 netzwerk: "B1 K2 7c"
 freq_rank: 5759
 skip: false
+audio: "Einkaufsliste.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einkaufsliste
+
+![[Einkaufsliste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einkaufsliste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkaufsliste&language=de)
 
 **Meaning:** shopping list
 **Plural:** Einkaufslisten

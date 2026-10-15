@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 12b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Rundfahrt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rundfahrt
+
+![[Rundfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rundfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rundfahrt&language=de)
 
 **Meaning:** round trip
 **Plural:** Rundfahrten

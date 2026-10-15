@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2439"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "ehemalig.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ehemalig
+
+![[ehemalig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ehemalig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehemalig&language=de)
 
 **Meaning:** former
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

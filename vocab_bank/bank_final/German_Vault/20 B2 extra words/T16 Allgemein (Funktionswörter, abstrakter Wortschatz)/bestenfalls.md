@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1333"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "bestenfalls.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestenfalls
+
+![[bestenfalls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestenfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestenfalls&language=de)
 
 **Meaning:** at best
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

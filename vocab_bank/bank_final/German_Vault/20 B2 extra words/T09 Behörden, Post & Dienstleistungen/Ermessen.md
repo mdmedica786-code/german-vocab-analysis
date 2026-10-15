@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0350"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Ermessen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ermessen
+
+![[Ermessen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ermessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ermessen&language=de)
 
 **Meaning:** discretion; judgement
 **Plural:** –

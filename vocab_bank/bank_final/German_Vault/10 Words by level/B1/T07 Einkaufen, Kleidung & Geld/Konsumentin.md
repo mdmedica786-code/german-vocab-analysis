@@ -15,11 +15,16 @@ id: "B5069"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Konsumentin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konsumentin
+
+![[Konsumentin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsumentin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsumentin&language=de)
 
 **Meaning:** consumer (f)
 **Plural:** Konsumentinnen

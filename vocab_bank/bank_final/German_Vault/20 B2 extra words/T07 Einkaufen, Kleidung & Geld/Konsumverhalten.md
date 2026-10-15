@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1876"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Konsumverhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Konsumverhalten
+
+![[Konsumverhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsumverhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsumverhalten&language=de)
 
 **Meaning:** consumer behaviour
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0597"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Dokumentarfilm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dokumentarfilm
+
+![[Dokumentarfilm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dokumentarfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dokumentarfilm&language=de)
 
 **Meaning:** documentary
 **Plural:** Dokumentarfilme

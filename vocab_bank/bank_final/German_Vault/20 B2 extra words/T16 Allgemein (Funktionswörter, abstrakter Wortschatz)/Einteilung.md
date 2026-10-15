@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2958"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einteilung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einteilung
+
+![[Einteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einteilung&language=de)
 
 **Meaning:** division; classification; scheduling
 **Plural:** Einteilungen

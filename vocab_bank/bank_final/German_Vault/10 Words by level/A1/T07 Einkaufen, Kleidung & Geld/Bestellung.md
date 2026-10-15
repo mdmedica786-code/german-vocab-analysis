@@ -15,11 +15,16 @@ id: "B0968"
 netzwerk: "A1 K6 10a"
 freq_rank: 3832
 skip: false
+audio: "Bestellung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bestellung
+
+![[Bestellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bestellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestellung&language=de)
 
 **Meaning:** order
 **Plural:** Bestellungen

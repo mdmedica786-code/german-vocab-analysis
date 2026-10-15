@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 1702
 skip: false
+audio: "beantworten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beantworten
+
+![[beantworten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beantworten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beantworten&language=de)
 
 **Meaning:** to answer
 **Forms:** beantwortet · beantwortete · hat beantwortet

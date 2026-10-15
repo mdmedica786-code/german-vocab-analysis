@@ -15,11 +15,16 @@ id: "B4239"
 netzwerk: "B1 K7 2b"
 freq_rank: 5759
 skip: false
+audio: "Clique.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Clique
+
+![[Clique.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Clique/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Clique&language=de)
 
 **Meaning:** clique
 **Plural:** Cliquen

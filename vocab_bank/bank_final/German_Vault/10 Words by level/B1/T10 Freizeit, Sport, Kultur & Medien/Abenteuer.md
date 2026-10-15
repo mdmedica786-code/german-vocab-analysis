@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 9a"
 freq_rank: 2903
 skip: false
+audio: "Abenteuer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Abenteuer
+
+![[Abenteuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abenteuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abenteuer&language=de)
 
 **Meaning:** adventure
 **Plural:** Abenteuer

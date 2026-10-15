@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0953"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
+audio: "Literaturverzeichnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Literaturverzeichnis
+
+![[Literaturverzeichnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Literaturverzeichnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Literaturverzeichnis&language=de)
 
 **Meaning:** bibliography
 **Plural:** Literaturverzeichnisse

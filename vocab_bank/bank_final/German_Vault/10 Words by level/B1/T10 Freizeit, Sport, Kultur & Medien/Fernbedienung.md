@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Fernbedienung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fernbedienung
+
+![[Fernbedienung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernbedienung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernbedienung&language=de)
 
 **Meaning:** remote control
 **Plural:** Fernbedienungen

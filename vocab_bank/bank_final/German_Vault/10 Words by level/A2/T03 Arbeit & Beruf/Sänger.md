@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 5a"
 freq_rank: 4680
 skip: false
+audio: "Sänger.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sänger
+
+![[Sänger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4nger&language=de)
 
 **Meaning:** singer (m)
 **Plural:** Sänger

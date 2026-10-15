@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 3891
 skip: false
+audio: "inklusive.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # inklusive
+
+![[inklusive.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/inklusive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inklusive&language=de)
 
 **Meaning:** including (incl.)
 **Case:** + Gen.

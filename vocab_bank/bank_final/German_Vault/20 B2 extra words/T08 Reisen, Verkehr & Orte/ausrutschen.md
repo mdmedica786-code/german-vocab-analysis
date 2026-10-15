@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1219"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "ausrutschen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausrutschen
+
+![[ausrutschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausrutschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausrutschen&language=de)
 
 **Meaning:** to slip
 **Forms:** rutscht aus · rutschte aus · ist ausgerutscht

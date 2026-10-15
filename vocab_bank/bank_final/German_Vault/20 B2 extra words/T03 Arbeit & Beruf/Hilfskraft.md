@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1764"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Hilfskraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hilfskraft
+
+![[Hilfskraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hilfskraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfskraft&language=de)
 
 **Meaning:** assistant; auxiliary worker
 **Plural:** Hilfskräfte

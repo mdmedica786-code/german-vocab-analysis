@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Kursstatistik
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kursstatistik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursstatistik&language=de)
+
 **Meaning:** course statistic
 **Plural:** Kursstatistiken
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B3083"
 netzwerk: "A2 K11 10b"
 freq_rank: 5759
 skip: false
+audio: "Apfelkuchen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Apfelkuchen
+
+![[Apfelkuchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Apfelkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelkuchen&language=de)
 
 **Meaning:** apple pie
 **Plural:** Apfelkuchen

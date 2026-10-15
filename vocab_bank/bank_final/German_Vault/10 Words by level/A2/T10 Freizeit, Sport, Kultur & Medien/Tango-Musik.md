@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Tango-Musik
 
+[▶️ YouGlish](https://youglish.com/pronounce/Tango-Musik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tango-Musik&language=de)
+
 **Meaning:** tango music
 **Plural:** –
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

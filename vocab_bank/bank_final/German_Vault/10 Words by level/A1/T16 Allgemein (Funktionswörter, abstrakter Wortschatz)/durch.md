@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # durch
 
+[▶️ YouGlish](https://youglish.com/pronounce/durch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durch&language=de)
+
 **Meaning:** through
 **Case:** + Akk.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

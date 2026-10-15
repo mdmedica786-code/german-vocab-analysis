@@ -11,11 +11,16 @@ bank: "main"
 id: "B5975"
 freq_rank: 3746
 skip: false
+audio: "unverzüglich.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unverzüglich
+
+![[unverzüglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unverz%C3%BCglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unverz%C3%BCglich&language=de)
 
 **Meaning:** immediate; without delay
 **Level:** C1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

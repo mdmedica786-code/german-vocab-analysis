@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3354"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Kürze.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kürze
+
+![[Kürze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCrze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCrze&language=de)
 
 **Meaning:** brevity; shortness
 **Plural:** –

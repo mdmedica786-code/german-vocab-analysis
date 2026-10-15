@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2412"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verbergen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbergen
+
+![[verbergen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbergen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbergen&language=de)
 
 **Meaning:** to hide; to conceal
 **Forms:** verbirgt · verbarg · hat verborgen

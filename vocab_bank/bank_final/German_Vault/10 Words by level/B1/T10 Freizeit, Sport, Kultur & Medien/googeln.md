@@ -13,11 +13,16 @@ id: "B6456"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "googeln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # googeln
+
+![[googeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/googeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=googeln&language=de)
 
 **Meaning:** to google
 **Forms:** googelt · googelte · hat gegoogelt

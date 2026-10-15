@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2213"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Hotspot.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hotspot
+
+![[Hotspot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hotspot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotspot&language=de)
 
 **Meaning:** Wi-Fi hotspot
 **Plural:** Hotspots

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0855"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "aufrunden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufrunden
+
+![[aufrunden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufrunden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrunden&language=de)
 
 **Meaning:** to round up
 **Forms:** rundet auf · rundete auf · hat aufgerundet

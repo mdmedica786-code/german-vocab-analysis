@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 3b"
 freq_rank: 363
 skip: false
+audio: "ebenso.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ebenso
+
+![[ebenso.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ebenso/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ebenso&language=de)
 
 **Meaning:** also
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

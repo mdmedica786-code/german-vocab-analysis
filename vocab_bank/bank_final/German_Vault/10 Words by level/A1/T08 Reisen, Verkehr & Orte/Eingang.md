@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K1 9c"
 freq_rank: 1761
 skip: false
+audio: "Eingang.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eingang
+
+![[Eingang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eingang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eingang&language=de)
 
 **Meaning:** entrance
 **Plural:** Eingänge

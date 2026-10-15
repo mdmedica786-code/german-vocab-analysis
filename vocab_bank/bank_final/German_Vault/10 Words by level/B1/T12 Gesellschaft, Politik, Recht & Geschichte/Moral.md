@@ -15,11 +15,16 @@ id: "B4326"
 netzwerk: "B1 K7 12a"
 freq_rank: 2741
 skip: false
+audio: "Moral.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Moral
+
+![[Moral.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Moral/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moral&language=de)
 
 **Meaning:** morality; moral
 **Plural:** –

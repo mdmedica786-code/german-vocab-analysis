@@ -15,11 +15,16 @@ id: "B2594"
 netzwerk: "A2 K7 8a"
 freq_rank: 2215
 skip: false
+audio: "SMS.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die SMS
+
+![[SMS.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/SMS/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=SMS&language=de)
 
 **Meaning:** text message
 **Plural:** SMS

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0988"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Lesesaal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lesesaal
+
+![[Lesesaal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lesesaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lesesaal&language=de)
 
 **Meaning:** reading room
 **Plural:** Lesesäle

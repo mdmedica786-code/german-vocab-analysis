@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1785"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Niederlassung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Niederlassung
+
+![[Niederlassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Niederlassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederlassung&language=de)
 
 **Meaning:** branch; subsidiary office
 **Plural:** Niederlassungen

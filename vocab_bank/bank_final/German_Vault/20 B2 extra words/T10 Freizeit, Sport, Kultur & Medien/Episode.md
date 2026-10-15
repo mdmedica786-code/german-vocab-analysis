@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3471"
 exam_use: ["Medien", "Alltag"]
 skip: false
+audio: "Episode.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Episode
+
+![[Episode.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Episode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Episode&language=de)
 
 **Meaning:** episode
 **Plural:** Episoden

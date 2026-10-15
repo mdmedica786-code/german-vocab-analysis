@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2742"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "streben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # streben
+
+![[streben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streben&language=de)
 
 **Meaning:** to strive; to aspire
 **Forms:** strebt · strebte · hat gestrebt

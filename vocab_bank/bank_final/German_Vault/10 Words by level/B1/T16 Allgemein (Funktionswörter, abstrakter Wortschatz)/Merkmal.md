@@ -15,11 +15,16 @@ id: "B3499"
 netzwerk: "B1 K2 10c"
 freq_rank: 1134
 skip: false
+audio: "Merkmal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Merkmal
+
+![[Merkmal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Merkmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Merkmal&language=de)
 
 **Meaning:** characteristic; feature
 **Plural:** Merkmale

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5906"
 freq_rank: 3444
 skip: false
+audio: "Bilanz.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bilanz
+
+![[Bilanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bilanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilanz&language=de)
 
 **Meaning:** balance sheet; outcome
 **Plural:** Bilanzen

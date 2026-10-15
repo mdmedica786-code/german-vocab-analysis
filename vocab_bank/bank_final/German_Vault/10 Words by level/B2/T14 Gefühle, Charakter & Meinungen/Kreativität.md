@@ -14,11 +14,16 @@ bank: "main"
 id: "B5980"
 freq_rank: 3783
 skip: false
+audio: "Kreativität.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kreativität
+
+![[Kreativität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreativit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreativit%C3%A4t&language=de)
 
 **Meaning:** creativity
 **Plural:** –

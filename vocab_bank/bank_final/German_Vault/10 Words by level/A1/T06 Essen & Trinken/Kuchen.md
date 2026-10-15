@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2a"
 freq_rank: 3411
 skip: false
+audio: "Kuchen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kuchen
+
+![[Kuchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuchen&language=de)
 
 **Meaning:** cake
 **Plural:** Kuchen

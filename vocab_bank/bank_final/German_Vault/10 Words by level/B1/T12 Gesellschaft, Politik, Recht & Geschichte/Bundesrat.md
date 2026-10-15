@@ -15,11 +15,16 @@ id: "B5748"
 goethe_level: "B1"
 freq_rank: 2934
 skip: false
+audio: "Bundesrat.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bundesrat
+
+![[Bundesrat.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesrat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesrat&language=de)
 
 **Meaning:** Federal Council (Germany: upper house; Switzerland: government)
 **Plural:** Bundesräte

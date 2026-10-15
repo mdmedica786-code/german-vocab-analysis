@@ -15,11 +15,16 @@ id: "B1351"
 netzwerk: "A1 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Kaffeemaschine.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kaffeemaschine
+
+![[Kaffeemaschine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaffeemaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeemaschine&language=de)
 
 **Meaning:** coffee machine
 **Plural:** Kaffeemaschinen

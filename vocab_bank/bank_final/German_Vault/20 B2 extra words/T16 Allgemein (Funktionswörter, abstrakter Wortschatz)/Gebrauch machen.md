@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Gebrauch machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gebrauch%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebrauch%20machen&language=de)
+
 **Meaning:** to make use of
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

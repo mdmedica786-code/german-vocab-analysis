@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0368"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Kluft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kluft
+
+![[Kluft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kluft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kluft&language=de)
 
 **Meaning:** gulf; gap; divide
 **Plural:** Klüfte

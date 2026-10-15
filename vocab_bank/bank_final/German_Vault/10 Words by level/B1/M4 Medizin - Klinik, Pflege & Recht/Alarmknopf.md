@@ -15,11 +15,16 @@ id: "B4416"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Alarmknopf.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Alarmknopf
+
+![[Alarmknopf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alarmknopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alarmknopf&language=de)
 
 **Meaning:** alarm button
 **Plural:** Alarmknöpfe

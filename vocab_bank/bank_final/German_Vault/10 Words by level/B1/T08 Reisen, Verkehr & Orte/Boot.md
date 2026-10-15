@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 8b"
 freq_rank: 1722
 skip: false
+audio: "Boot.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Boot
+
+![[Boot.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Boot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boot&language=de)
 
 **Meaning:** boat
 **Plural:** Boote

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Käuferin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Käuferin
+
+![[Käuferin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4uferin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4uferin&language=de)
 
 **Meaning:** buyer (f)
 **Plural:** Käuferinnen

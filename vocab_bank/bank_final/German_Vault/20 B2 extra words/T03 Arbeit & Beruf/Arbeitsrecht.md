@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0527"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Arbeitsrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitsrecht
+
+![[Arbeitsrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsrecht&language=de)
 
 **Meaning:** employment law
 **Plural:** –

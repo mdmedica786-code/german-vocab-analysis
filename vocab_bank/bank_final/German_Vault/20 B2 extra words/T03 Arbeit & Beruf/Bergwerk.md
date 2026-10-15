@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1788"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Bergwerk.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bergwerk
+
+![[Bergwerk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bergwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergwerk&language=de)
 
 **Meaning:** mine
 **Plural:** Bergwerke

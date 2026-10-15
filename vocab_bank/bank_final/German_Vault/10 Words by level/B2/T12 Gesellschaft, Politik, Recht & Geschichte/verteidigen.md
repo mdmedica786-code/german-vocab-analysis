@@ -12,11 +12,16 @@ bank: "main"
 id: "B5920"
 freq_rank: 3519
 skip: false
+audio: "verteidigen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verteidigen
+
+![[verteidigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verteidigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verteidigen&language=de)
 
 **Meaning:** to defend
 **Forms:** verteidigt · verteidigte · hat verteidigt

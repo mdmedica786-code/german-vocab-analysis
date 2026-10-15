@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Diplommittelschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Diplommittelschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diplommittelschule&language=de)
+
 **Meaning:** diploma secondary school (Swiss)
 **Plural:** Diplommittelschulen
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** regional

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Englisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Englisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Englisch&language=de)
+
 **Meaning:** English
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5295"
 freq_rank: 1255
 skip: false
+audio: "Erkrankung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erkrankung
+
+![[Erkrankung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erkrankung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erkrankung&language=de)
 
 **Meaning:** illness; disease
 **Plural:** Erkrankungen

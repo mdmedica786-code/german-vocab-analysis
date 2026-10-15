@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0268"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beeinträchtigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beeinträchtigen
+
+![[beeinträchtigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beeintr%C3%A4chtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beeintr%C3%A4chtigen&language=de)
 
 **Meaning:** to impair; to affect adversely
 **Forms:** beeinträchtigt · beeinträchtigte · hat beeinträchtigt

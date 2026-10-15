@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1105"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Aufenthaltstitel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufenthaltstitel
+
+![[Aufenthaltstitel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufenthaltstitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufenthaltstitel&language=de)
 
 **Meaning:** residence permit
 **Plural:** Aufenthaltstitel

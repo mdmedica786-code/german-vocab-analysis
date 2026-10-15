@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 1a"
 freq_rank: 311
 skip: false
+audio: "Gefühl.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gefühl
+
+![[Gefühl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gef%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gef%C3%BChl&language=de)
 
 **Meaning:** feeling
 **Plural:** Gefühle

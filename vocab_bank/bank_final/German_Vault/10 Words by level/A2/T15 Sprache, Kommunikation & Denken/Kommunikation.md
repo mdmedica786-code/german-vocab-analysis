@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 987
 skip: false
+audio: "Kommunikation.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kommunikation
+
+![[Kommunikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommunikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikation&language=de)
 
 **Meaning:** communication
 **Plural:** –

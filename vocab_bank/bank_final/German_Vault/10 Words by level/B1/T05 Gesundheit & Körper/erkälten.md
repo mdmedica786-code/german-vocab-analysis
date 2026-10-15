@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "erkälten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erkälten
+
+![[erkälten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erk%C3%A4lten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erk%C3%A4lten&language=de)
 
 **Meaning:** to have a cold
 **Forms:** erkältet sich · erkältete sich · hat sich erkältet

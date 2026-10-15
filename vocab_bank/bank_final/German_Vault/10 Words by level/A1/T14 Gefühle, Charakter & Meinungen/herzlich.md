@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 8"
 freq_rank: 2961
 skip: false
+audio: "herzlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # herzlich
+
+![[herzlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herzlich&language=de)
 
 **Meaning:** warm; cordial; heartfelt
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

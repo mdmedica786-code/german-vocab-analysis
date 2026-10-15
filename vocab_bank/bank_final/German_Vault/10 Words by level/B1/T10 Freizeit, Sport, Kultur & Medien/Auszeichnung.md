@@ -15,11 +15,16 @@ id: "B4191"
 netzwerk: "B1 K6 10a"
 freq_rank: 2216
 skip: false
+audio: "Auszeichnung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auszeichnung
+
+![[Auszeichnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auszeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszeichnung&language=de)
 
 **Meaning:** award
 **Plural:** Auszeichnungen

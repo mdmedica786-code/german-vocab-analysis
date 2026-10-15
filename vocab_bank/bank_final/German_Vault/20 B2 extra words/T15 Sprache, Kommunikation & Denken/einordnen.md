@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0887"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "einordnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einordnen
+
+![[einordnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einordnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einordnen&language=de)
 
 **Meaning:** to classify; to put in order
 **Forms:** ordnet ein · ordnete ein · hat eingeordnet

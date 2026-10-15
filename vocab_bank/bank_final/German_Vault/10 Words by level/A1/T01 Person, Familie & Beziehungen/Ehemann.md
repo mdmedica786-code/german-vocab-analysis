@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 3147
 skip: false
+audio: "Ehemann.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ehemann
+
+![[Ehemann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehemann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehemann&language=de)
 
 **Meaning:** husband
 **Plural:** Ehemänner

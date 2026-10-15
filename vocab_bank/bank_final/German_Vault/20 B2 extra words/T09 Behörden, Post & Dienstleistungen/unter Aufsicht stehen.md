@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Aufsicht stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Aufsicht%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Aufsicht%20stehen&language=de)
+
 **Meaning:** to be supervised
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

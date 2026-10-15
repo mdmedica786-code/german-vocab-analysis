@@ -13,11 +13,16 @@ id: "B3990"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "zurückbekommen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückbekommen
+
+![[zurückbekommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckbekommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckbekommen&language=de)
 
 **Meaning:** to get back
 **Forms:** bekommt zurück · bekam zurück · hat zurückbekommen

@@ -12,11 +12,16 @@ id: "B4063"
 netzwerk: "B1 K5 13c"
 freq_rank: 5759
 skip: false
+audio: "aufwändig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufwändig
+
+![[aufwändig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufw%C3%A4ndig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufw%C3%A4ndig&language=de)
 
 **Meaning:** elaborate; costly; laborious
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

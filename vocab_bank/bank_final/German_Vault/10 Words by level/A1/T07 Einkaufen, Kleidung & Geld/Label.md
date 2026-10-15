@@ -15,11 +15,16 @@ id: "B1685"
 netzwerk: "A1 K11 12a"
 freq_rank: 4061
 skip: false
+audio: "Label.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Label
+
+![[Label.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Label/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Label&language=de)
 
 **Meaning:** brand
 **Plural:** Labels

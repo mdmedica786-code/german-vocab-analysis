@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3728"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "Arbeitsumfeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitsumfeld
+
+![[Arbeitsumfeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsumfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsumfeld&language=de)
 
 **Meaning:** work environment
 **Plural:** Arbeitsumfelder

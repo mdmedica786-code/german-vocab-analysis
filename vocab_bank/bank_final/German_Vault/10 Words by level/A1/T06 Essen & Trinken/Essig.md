@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Essig.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Essig
+
+![[Essig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Essig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Essig&language=de)
 
 **Meaning:** vinegar
 **Plural:** Essige

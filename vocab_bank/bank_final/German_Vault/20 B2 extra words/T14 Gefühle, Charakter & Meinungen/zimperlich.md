@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1685"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "zimperlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zimperlich
+
+![[zimperlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zimperlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zimperlich&language=de)
 
 **Meaning:** squeamish; overly delicate
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

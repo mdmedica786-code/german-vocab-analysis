@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 4b"
 freq_rank: 5759
 skip: false
+audio: "umtauschen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umtauschen
+
+![[umtauschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umtauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umtauschen&language=de)
 
 **Meaning:** to change
 **Forms:** tauscht um · tauschte um · hat umgetauscht

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1625"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "oberflächlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # oberflächlich
+
+![[oberflächlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/oberfl%C3%A4chlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oberfl%C3%A4chlich&language=de)
 
 **Meaning:** superficial
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

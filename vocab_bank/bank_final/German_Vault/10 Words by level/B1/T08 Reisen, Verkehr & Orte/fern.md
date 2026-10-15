@@ -12,11 +12,16 @@ id: "B4982"
 netzwerk: "B1 K11 12b"
 freq_rank: 1080
 skip: false
+audio: "fern.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fern
+
+![[fern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fern&language=de)
 
 **Meaning:** distant
 **Forms:** ferner – am fernsten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1751"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Reinigungskraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reinigungskraft
+
+![[Reinigungskraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reinigungskraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigungskraft&language=de)
 
 **Meaning:** cleaner
 **Plural:** Reinigungskräfte

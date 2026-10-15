@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 10b"
 freq_rank: 314
 skip: false
+audio: "Bedeutung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bedeutung
+
+![[Bedeutung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bedeutung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedeutung&language=de)
 
 **Meaning:** meaning
 **Plural:** Bedeutungen

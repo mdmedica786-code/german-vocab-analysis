@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2052"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Tomaten auf den Augen haben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # Tomaten auf den Augen haben
+
+![[Tomaten auf den Augen haben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tomaten%20auf%20den%20Augen%20haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tomaten%20auf%20den%20Augen%20haben&language=de)
 
 **Meaning:** to be blind to what is obvious
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

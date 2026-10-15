@@ -15,11 +15,16 @@ id: "B6595"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Vertreterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vertreterin
+
+![[Vertreterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertreterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertreterin&language=de)
 
 **Meaning:** deputy (f); substitute
 **Plural:** Vertreterinnen

@@ -15,11 +15,16 @@ id: "B1679"
 netzwerk: "A1 K11 12a"
 freq_rank: 5759
 skip: false
+audio: "Filmproduktion.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Filmproduktion
+
+![[Filmproduktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Filmproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmproduktion&language=de)
 
 **Meaning:** film production
 **Plural:** Filmproduktionen

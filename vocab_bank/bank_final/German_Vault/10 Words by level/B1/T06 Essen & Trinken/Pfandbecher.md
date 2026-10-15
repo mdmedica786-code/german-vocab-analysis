@@ -15,11 +15,16 @@ id: "B3992"
 netzwerk: "B1 K5 9a"
 freq_rank: 5759
 skip: false
+audio: "Pfandbecher.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pfandbecher
+
+![[Pfandbecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfandbecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfandbecher&language=de)
 
 **Meaning:** deposit cup
 **Plural:** Pfandbecher

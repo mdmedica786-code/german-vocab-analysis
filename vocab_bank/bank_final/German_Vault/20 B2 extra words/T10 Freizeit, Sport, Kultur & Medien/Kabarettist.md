@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4095"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Kabarettist.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kabarettist
+
+![[Kabarettist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kabarettist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarettist&language=de)
 
 **Meaning:** cabaret artist (male); satirist
 **Plural:** Kabarettisten

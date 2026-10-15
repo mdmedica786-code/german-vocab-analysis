@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4145"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Krebsmedikament.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Krebsmedikament
+
+![[Krebsmedikament.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krebsmedikament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebsmedikament&language=de)
 
 **Meaning:** cancer drug; cancer medication
 **Plural:** Krebsmedikamente

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5668"
 freq_rank: 2747
 skip: false
+audio: "Duft.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Duft
+
+![[Duft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Duft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Duft&language=de)
 
 **Meaning:** scent; fragrance
 **Plural:** Düfte

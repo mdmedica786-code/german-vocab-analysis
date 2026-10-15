@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0699"
 exam_use: ["Alltag"]
 skip: false
+audio: "Altpapier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Altpapier
+
+![[Altpapier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altpapier&language=de)
 
 **Meaning:** waste paper
 **Plural:** –

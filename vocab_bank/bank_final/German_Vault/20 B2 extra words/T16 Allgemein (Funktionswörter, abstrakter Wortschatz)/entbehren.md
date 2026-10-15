@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0241"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entbehren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entbehren
+
+![[entbehren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entbehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entbehren&language=de)
 
 **Meaning:** to lack; to do without
 **Forms:** entbehrt · entbehrte · hat entbehrt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1765"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Lohnabrechnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lohnabrechnung
+
+![[Lohnabrechnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lohnabrechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lohnabrechnung&language=de)
 
 **Meaning:** pay slip; wage statement
 **Plural:** Lohnabrechnungen

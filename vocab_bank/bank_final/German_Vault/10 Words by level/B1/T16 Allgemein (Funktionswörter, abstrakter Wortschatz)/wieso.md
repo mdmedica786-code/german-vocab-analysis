@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wieso
 
+[▶️ YouGlish](https://youglish.com/pronounce/wieso/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wieso&language=de)
+
 **Meaning:** why
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

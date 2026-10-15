@@ -12,11 +12,16 @@ id: "B6097"
 goethe_level: "A2"
 freq_rank: 4332
 skip: false
+audio: "drittens.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drittens
+
+![[drittens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drittens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drittens&language=de)
 
 **Meaning:** thirdly
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 15a"
 freq_rank: 545
 skip: false
+audio: "Natur.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Natur
+
+![[Natur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Natur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Natur&language=de)
 
 **Meaning:** nature
 **Plural:** –

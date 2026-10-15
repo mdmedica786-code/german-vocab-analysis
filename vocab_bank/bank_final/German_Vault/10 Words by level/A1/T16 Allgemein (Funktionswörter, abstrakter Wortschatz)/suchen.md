@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6c"
 freq_rank: 225
 skip: false
+audio: "suchen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # suchen
+
+![[suchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/suchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=suchen&language=de)
 
 **Meaning:** to search; to look for
 **Forms:** sucht · suchte · hat gesucht

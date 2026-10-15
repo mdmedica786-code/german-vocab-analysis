@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3262"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Kater.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kater
+
+![[Kater.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kater&language=de)
 
 **Meaning:** tomcat; hangover
 **Plural:** Kater

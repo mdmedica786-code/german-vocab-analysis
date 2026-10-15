@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4348"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Rechenmaschine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Rechenmaschine
+
+![[Rechenmaschine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechenmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechenmaschine&language=de)
 
 **Meaning:** calculating machine; calculator (historical)
 **Plural:** Rechenmaschinen

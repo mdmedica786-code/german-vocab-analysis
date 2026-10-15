@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1131"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Trost.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Trost
+
+![[Trost.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trost&language=de)
 
 **Meaning:** comfort; consolation
 **Plural:** –

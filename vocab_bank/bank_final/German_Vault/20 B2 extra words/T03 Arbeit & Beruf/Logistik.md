@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3446"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Logistik.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Logistik
+
+![[Logistik.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Logistik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Logistik&language=de)
 
 **Meaning:** logistics
 **Plural:** –

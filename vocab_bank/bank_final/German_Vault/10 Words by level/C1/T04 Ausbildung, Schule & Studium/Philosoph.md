@@ -14,11 +14,16 @@ bank: "main"
 id: "B5604"
 freq_rank: 2502
 skip: false
+audio: "Philosoph.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Philosoph
+
+![[Philosoph.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Philosoph/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Philosoph&language=de)
 
 **Meaning:** philosopher
 **Plural:** Philosophen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4281"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Obsthandel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Obsthandel
+
+![[Obsthandel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Obsthandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Obsthandel&language=de)
 
 **Meaning:** fruit trade; fruit business
 **Plural:** –

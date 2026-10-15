@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1545"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "ausgelaugt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgelaugt
+
+![[ausgelaugt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgelaugt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgelaugt&language=de)
 
 **Meaning:** drained; exhausted
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

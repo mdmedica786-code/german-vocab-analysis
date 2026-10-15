@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1416"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Abstieg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abstieg
+
+![[Abstieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstieg&language=de)
 
 **Meaning:** relegation; descent; decline
 **Plural:** Abstiege

@@ -12,11 +12,16 @@ id: "B4042"
 netzwerk: "B1 K5 13a"
 freq_rank: 3292
 skip: false
+audio: "hilflos.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # hilflos
+
+![[hilflos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hilflos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hilflos&language=de)
 
 **Meaning:** helpless
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

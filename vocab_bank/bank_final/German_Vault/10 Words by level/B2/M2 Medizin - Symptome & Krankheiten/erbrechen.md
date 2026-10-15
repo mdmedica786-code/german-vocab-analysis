@@ -12,11 +12,16 @@ bank: "main"
 id: "B6167"
 freq_rank: 4715
 skip: false
+audio: "erbrechen.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # erbrechen
+
+![[erbrechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erbrechen&language=de)
 
 **Meaning:** to vomit
 **Forms:** erbricht · erbrach · hat erbrochen

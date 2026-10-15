@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3809"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Betriebsstörung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Betriebsstörung
+
+![[Betriebsstörung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betriebsst%C3%B6rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betriebsst%C3%B6rung&language=de)
 
 **Meaning:** operational disruption; service disruption
 **Plural:** Betriebsstörungen

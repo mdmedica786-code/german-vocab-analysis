@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1386"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Auflauf.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Auflauf
+
+![[Auflauf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auflauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auflauf&language=de)
 
 **Meaning:** casserole; bake
 **Plural:** Aufläufe

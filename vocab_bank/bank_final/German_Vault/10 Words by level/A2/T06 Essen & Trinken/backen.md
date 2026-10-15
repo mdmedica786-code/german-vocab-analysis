@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 3910
 skip: false
+audio: "backen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # backen
+
+![[backen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/backen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=backen&language=de)
 
 **Meaning:** to bake
 **Forms:** bäckt/backt · backte · hat gebacken

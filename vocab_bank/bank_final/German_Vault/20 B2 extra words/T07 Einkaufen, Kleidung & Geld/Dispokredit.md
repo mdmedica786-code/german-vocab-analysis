@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1044"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Dispokredit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dispokredit
+
+![[Dispokredit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dispokredit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dispokredit&language=de)
 
 **Meaning:** overdraft facility
 **Plural:** Dispokredite

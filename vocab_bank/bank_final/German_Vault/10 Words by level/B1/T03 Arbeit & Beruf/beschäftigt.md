@@ -11,11 +11,16 @@ bank: "main"
 id: "B5176"
 freq_rank: 566
 skip: false
+audio: "beschäftigt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschäftigt
+
+![[beschäftigt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besch%C3%A4ftigt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%A4ftigt&language=de)
 
 **Meaning:** busy; employed
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

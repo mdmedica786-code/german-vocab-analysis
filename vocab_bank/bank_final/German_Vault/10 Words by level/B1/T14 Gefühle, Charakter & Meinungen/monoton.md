@@ -12,11 +12,16 @@ id: "B3520"
 netzwerk: "B1 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "monoton.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # monoton
+
+![[monoton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/monoton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=monoton&language=de)
 
 **Meaning:** monotonous
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

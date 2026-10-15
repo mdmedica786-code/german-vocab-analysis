@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2385"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erfolgen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfolgen
+
+![[erfolgen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfolgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfolgen&language=de)
 
 **Meaning:** to take place; to follow (as a result)
 **Forms:** erfolgt · erfolgte · ist erfolgt

@@ -15,11 +15,16 @@ id: "B5661"
 goethe_level: "B1"
 freq_rank: 2700
 skip: false
+audio: "Drittel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Drittel
+
+![[Drittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drittel&language=de)
 
 **Meaning:** third
 **Plural:** Drittel

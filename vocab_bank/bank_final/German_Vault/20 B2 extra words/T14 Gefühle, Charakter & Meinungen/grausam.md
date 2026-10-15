@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3341"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "grausam.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # grausam
+
+![[grausam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/grausam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grausam&language=de)
 
 **Meaning:** cruel; terrible
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

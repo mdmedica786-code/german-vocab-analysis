@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 1b"
 freq_rank: 1325
 skip: false
+audio: "Instrument.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Instrument
+
+![[Instrument.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Instrument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Instrument&language=de)
 
 **Meaning:** instrument
 **Plural:** Instrumente

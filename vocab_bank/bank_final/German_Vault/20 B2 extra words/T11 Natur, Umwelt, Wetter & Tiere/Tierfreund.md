@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4494"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Tierfreund.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Tierfreund
+
+![[Tierfreund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierfreund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierfreund&language=de)
 
 **Meaning:** animal lover (male)
 **Plural:** Tierfreunde

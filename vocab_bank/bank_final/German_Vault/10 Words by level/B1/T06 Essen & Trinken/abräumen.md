@@ -13,11 +13,16 @@ id: "B4844"
 netzwerk: "B1 K10 8b"
 freq_rank: 5759
 skip: false
+audio: "abräumen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abräumen
+
+![[abräumen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abr%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abr%C3%A4umen&language=de)
 
 **Meaning:** to clear
 **Forms:** räumt ab · räumte ab · hat abgeräumt

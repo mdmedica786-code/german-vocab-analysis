@@ -14,11 +14,16 @@ bank: "main"
 id: "B5895"
 freq_rank: 3359
 skip: false
+audio: "Protokoll.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Protokoll
+
+![[Protokoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Protokoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protokoll&language=de)
 
 **Meaning:** minutes; record
 **Plural:** Protokolle

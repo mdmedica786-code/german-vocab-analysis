@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Vorbereitungen treffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vorbereitungen%20treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorbereitungen%20treffen&language=de)
+
 **Meaning:** to make preparations
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

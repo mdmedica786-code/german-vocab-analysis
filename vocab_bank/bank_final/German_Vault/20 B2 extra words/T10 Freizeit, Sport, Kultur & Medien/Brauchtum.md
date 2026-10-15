@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0998"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Brauchtum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Brauchtum
+
+![[Brauchtum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brauchtum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brauchtum&language=de)
 
 **Meaning:** customs; folk traditions
 **Plural:** –

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4486"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Textzusammenhang
+
+[▶️ YouGlish](https://youglish.com/pronounce/Textzusammenhang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textzusammenhang&language=de)
 
 **Meaning:** context (of a text); coherence
 **Plural:** Textzusammenhänge

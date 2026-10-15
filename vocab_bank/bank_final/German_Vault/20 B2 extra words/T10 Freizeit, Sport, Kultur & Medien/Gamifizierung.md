@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3977"
 exam_use: ["Medien", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gamifizierung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gamifizierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamifizierung&language=de)
 
 **Meaning:** gamification (turning something into a game)
 **Plural:** –

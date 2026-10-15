@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0981"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Dolmetscher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dolmetscher
+
+![[Dolmetscher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dolmetscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dolmetscher&language=de)
 
 **Meaning:** interpreter
 **Plural:** Dolmetscher

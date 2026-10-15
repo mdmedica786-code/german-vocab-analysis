@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4286"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Papierfach
+
+[▶️ YouGlish](https://youglish.com/pronounce/Papierfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papierfach&language=de)
 
 **Meaning:** paper tray
 **Plural:** Papierfächer

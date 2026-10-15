@@ -15,11 +15,16 @@ id: "B0380"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Juristin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Juristin
+
+![[Juristin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Juristin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Juristin&language=de)
 
 **Meaning:** lawyer; legal expert
 **Plural:** Juristinnen

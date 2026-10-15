@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # diese
 
+[▶️ YouGlish](https://youglish.com/pronounce/diese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diese&language=de)
+
 **Meaning:** this
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

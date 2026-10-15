@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 11a"
 freq_rank: 804
 skip: false
+audio: "merken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # merken
+
+![[merken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/merken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=merken&language=de)
 
 **Meaning:** to notice; to remember (sich merken)
 **Forms:** merkt · merkte · hat gemerkt

@@ -15,11 +15,16 @@ id: "B2001"
 netzwerk: "A2 K2 7a"
 freq_rank: 3430
 skip: false
+audio: "Behinderung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Behinderung
+
+![[Behinderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Behinderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Behinderung&language=de)
 
 **Meaning:** disability
 **Plural:** Behinderungen

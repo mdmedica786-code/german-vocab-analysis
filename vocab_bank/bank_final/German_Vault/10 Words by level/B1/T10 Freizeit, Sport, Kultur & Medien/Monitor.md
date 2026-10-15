@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6b"
 freq_rank: 5475
 skip: false
+audio: "Monitor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Monitor
+
+![[Monitor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Monitor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monitor&language=de)
 
 **Meaning:** monitor
 **Plural:** Monitoren

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5480"
 freq_rank: 2072
 skip: false
+audio: "optimal.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # optimal
+
+![[optimal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/optimal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optimal&language=de)
 
 **Meaning:** optimal; ideal
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

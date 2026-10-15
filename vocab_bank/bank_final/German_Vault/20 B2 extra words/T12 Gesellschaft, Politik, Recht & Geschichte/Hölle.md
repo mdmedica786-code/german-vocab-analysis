@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2577"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Hölle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hölle
+
+![[Hölle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6lle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6lle&language=de)
 
 **Meaning:** hell
 **Plural:** Höllen

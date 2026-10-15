@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3983"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Geburtstagsfeier.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Geburtstagsfeier
+
+![[Geburtstagsfeier.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtstagsfeier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtstagsfeier&language=de)
 
 **Meaning:** birthday party
 **Plural:** Geburtstagsfeiern

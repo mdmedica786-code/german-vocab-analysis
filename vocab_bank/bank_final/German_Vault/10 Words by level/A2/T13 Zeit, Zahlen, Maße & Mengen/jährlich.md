@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 2522
 skip: false
+audio: "jährlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # jährlich
+
+![[jährlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/j%C3%A4hrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=j%C3%A4hrlich&language=de)
 
 **Meaning:** yearly
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B5397"
 goethe_level: "B1"
 freq_rank: 1782
 skip: false
+audio: "Loch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Loch
+
+![[Loch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Loch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Loch&language=de)
 
 **Meaning:** hole
 **Plural:** Löcher

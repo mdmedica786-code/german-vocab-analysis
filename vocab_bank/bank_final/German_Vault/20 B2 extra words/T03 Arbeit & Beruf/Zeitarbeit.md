@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1759"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Zeitarbeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeitarbeit
+
+![[Zeitarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitarbeit&language=de)
 
 **Meaning:** temporary agency work
 **Plural:** –

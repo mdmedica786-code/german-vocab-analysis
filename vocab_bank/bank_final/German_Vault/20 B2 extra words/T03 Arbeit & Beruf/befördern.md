@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3321"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "befördern.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # befördern
+
+![[befördern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bef%C3%B6rdern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bef%C3%B6rdern&language=de)
 
 **Meaning:** to transport; to promote
 **Forms:** befördert · beförderte · hat befördert

@@ -12,11 +12,16 @@ id: "B5525"
 goethe_level: "B1"
 freq_rank: 2216
 skip: false
+audio: "ausgebildet.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgebildet
+
+![[ausgebildet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgebildet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgebildet&language=de)
 
 **Meaning:** trained; qualified
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

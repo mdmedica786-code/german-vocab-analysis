@@ -15,11 +15,16 @@ id: "B4851"
 netzwerk: "B1 K10 10b"
 freq_rank: 5112
 skip: false
+audio: "Ausstieg.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausstieg
+
+![[Ausstieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausstieg&language=de)
 
 **Meaning:** exit; withdrawal
 **Plural:** Ausstiege

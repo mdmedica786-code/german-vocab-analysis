@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 3c"
 freq_rank: 259
 skip: false
+audio: "Gedanke.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gedanke
+
+![[Gedanke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gedanke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gedanke&language=de)
 
 **Meaning:** thought
 **Plural:** Gedanken

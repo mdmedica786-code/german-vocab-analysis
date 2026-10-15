@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 11c"
 freq_rank: 2000
 skip: false
+audio: "Runde.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Runde
+
+![[Runde.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Runde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Runde&language=de)
 
 **Meaning:** lap; round
 **Plural:** Runden

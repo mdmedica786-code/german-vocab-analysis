@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 7d"
 freq_rank: 1124
 skip: false
+audio: "Reise.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reise
+
+![[Reise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reise&language=de)
 
 **Meaning:** trip
 **Plural:** Reisen

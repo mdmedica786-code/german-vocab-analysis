@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 2a"
 freq_rank: 2848
 skip: false
+audio: "Wurst.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wurst
+
+![[Wurst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wurst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wurst&language=de)
 
 **Meaning:** sausage
 **Plural:** Würste

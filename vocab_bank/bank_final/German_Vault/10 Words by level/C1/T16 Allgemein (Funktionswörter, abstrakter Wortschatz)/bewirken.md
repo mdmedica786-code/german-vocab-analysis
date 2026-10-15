@@ -12,11 +12,16 @@ bank: "main"
 id: "B5409"
 freq_rank: 1834
 skip: false
+audio: "bewirken.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewirken
+
+![[bewirken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bewirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewirken&language=de)
 
 **Meaning:** to bring about; to cause
 **Forms:** bewirkt · bewirkte · hat bewirkt

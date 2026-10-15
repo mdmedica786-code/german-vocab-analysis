@@ -14,11 +14,16 @@ bank: "main"
 id: "B5734"
 freq_rank: 2888
 skip: false
+audio: "Haftung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Haftung
+
+![[Haftung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haftung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haftung&language=de)
 
 **Meaning:** liability
 **Plural:** –

@@ -12,11 +12,16 @@ id: "B1153"
 netzwerk: "A1 K7 8b"
 freq_rank: 5112
 skip: false
+audio: "auswendig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auswendig
+
+![[auswendig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auswendig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswendig&language=de)
 
 **Meaning:** by heart (auswendig lernen)
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

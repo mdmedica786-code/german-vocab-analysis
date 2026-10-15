@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3443"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Dominanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dominanz
+
+![[Dominanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dominanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dominanz&language=de)
 
 **Meaning:** dominance
 **Plural:** –

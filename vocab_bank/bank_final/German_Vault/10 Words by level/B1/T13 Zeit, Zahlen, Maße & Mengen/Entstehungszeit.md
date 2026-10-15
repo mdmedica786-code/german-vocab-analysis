@@ -15,11 +15,16 @@ id: "B5113"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Entstehungszeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entstehungszeit
+
+![[Entstehungszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entstehungszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entstehungszeit&language=de)
 
 **Meaning:** time of origin
 **Plural:** Entstehungszeiten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0488"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Opposition.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Opposition
+
+![[Opposition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Opposition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Opposition&language=de)
 
 **Meaning:** opposition
 **Plural:** –

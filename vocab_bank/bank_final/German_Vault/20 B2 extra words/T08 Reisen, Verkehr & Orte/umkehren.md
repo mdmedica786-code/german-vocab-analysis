@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1306"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "umkehren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # umkehren
+
+![[umkehren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umkehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umkehren&language=de)
 
 **Meaning:** to turn back; to reverse
 **Forms:** kehrt um · kehrte um · ist/hat umgekehrt

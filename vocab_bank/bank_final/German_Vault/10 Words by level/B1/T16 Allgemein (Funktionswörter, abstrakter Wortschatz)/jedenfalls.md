@@ -12,11 +12,16 @@ id: "B3305"
 netzwerk: "B1 K1 8b"
 freq_rank: 760
 skip: false
+audio: "jedenfalls.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jedenfalls
+
+![[jedenfalls.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jedenfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jedenfalls&language=de)
 
 **Meaning:** in any case; at any rate
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

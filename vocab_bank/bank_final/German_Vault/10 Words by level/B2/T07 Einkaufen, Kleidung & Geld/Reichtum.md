@@ -14,11 +14,16 @@ bank: "main"
 id: "B5876"
 freq_rank: 3250
 skip: false
+audio: "Reichtum.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Reichtum
+
+![[Reichtum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reichtum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reichtum&language=de)
 
 **Meaning:** wealth
 **Plural:** Reichtümer

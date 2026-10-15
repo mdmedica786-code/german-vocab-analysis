@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 12b"
 freq_rank: 748
 skip: false
+audio: "Abschnitt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abschnitt
+
+![[Abschnitt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abschnitt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschnitt&language=de)
 
 **Meaning:** section, paragraph
 **Plural:** Abschnitte

@@ -13,11 +13,16 @@ id: "B0790"
 netzwerk: "A1 K5 1b"
 freq_rank: 5759
 skip: false
+audio: "nummerieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nummerieren
+
+![[nummerieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nummerieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nummerieren&language=de)
 
 **Meaning:** to number
 **Forms:** nummeriert · nummerierte · hat nummeriert

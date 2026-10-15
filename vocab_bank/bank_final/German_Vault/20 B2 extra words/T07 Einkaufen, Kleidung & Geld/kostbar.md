@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4137"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "kostbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # kostbar
+
+![[kostbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kostbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kostbar&language=de)
 
 **Meaning:** precious; valuable
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

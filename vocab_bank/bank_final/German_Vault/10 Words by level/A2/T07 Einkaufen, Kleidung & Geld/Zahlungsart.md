@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Zahlungsart
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zahlungsart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlungsart&language=de)
+
 **Meaning:** payment method
 **Plural:** Zahlungsarten
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

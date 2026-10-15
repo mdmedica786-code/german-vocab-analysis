@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # einkaufen gehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einkaufen%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einkaufen%20gehen&language=de)
+
 **Meaning:** to go shopping
 **Forms:** geht einkaufen · ging einkaufen · ist einkaufen gegangen
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0396"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Wertschätzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wertschätzung
+
+![[Wertschätzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wertsch%C3%A4tzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wertsch%C3%A4tzung&language=de)
 
 **Meaning:** appreciation; esteem
 **Plural:** –

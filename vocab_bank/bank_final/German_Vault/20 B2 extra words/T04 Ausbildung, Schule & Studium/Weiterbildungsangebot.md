@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1905"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Weiterbildungsangebot.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Weiterbildungsangebot
+
+![[Weiterbildungsangebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weiterbildungsangebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weiterbildungsangebot&language=de)
 
 **Meaning:** further education offering
 **Plural:** Weiterbildungsangebote

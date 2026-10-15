@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2930"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Gesang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gesang
+
+![[Gesang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesang&language=de)
 
 **Meaning:** singing; song
 **Plural:** Gesänge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4028"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Händedruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Händedruck
+
+![[Händedruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ndedruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ndedruck&language=de)
 
 **Meaning:** handshake; grip of the hand
 **Plural:** Händedrücke

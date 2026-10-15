@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ticketkauf
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ticketkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ticketkauf&language=de)
+
 **Meaning:** ticket purchase
 **Plural:** Ticketkäufe
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Bild-Geschichte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bild-Geschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bild-Geschichte&language=de)
+
 **Meaning:** picture story
 **Plural:** Bild-Geschichten
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 12b"
 freq_rank: 5537
 skip: false
+audio: "austauschen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # austauschen
+
+![[austauschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/austauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=austauschen&language=de)
 
 **Meaning:** to exchange
 **Forms:** tauscht aus · tauschte aus · hat ausgetauscht

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1119"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Eifersucht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eifersucht
+
+![[Eifersucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eifersucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eifersucht&language=de)
 
 **Meaning:** jealousy
 **Plural:** –

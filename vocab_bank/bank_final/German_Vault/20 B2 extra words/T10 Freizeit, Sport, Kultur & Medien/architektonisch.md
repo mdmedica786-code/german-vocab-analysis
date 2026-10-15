@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3731"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "architektonisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # architektonisch
+
+![[architektonisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/architektonisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=architektonisch&language=de)
 
 **Meaning:** architectural
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2490"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Ehre.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ehre
+
+![[Ehre.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehre&language=de)
 
 **Meaning:** honour
 **Plural:** Ehren

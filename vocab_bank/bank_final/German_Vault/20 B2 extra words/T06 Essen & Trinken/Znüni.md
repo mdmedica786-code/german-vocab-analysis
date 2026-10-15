@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4684"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Znüni
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zn%C3%BCni/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zn%C3%BCni&language=de)
 
 **Meaning:** mid-morning snack (Swiss)
 **Plural:** –

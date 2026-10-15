@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1249
 skip: false
+audio: "Institut.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Institut
+
+![[Institut.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Institut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Institut&language=de)
 
 **Meaning:** institute
 **Plural:** Institute

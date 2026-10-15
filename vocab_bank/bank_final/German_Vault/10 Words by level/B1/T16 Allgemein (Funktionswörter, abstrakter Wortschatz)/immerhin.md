@@ -11,11 +11,16 @@ bank: "main"
 id: "B5278"
 freq_rank: 1182
 skip: false
+audio: "immerhin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # immerhin
+
+![[immerhin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/immerhin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=immerhin&language=de)
 
 **Meaning:** at least; after all
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

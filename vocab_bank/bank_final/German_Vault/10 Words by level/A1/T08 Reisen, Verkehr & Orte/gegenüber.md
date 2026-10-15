@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 279
 skip: false
+audio: "gegenüber.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # gegenüber
+
+![[gegenüber.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gegen%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegen%C3%BCber&language=de)
 
 **Meaning:** opposite; towards
 **Case:** + Dat.

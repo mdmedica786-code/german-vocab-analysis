@@ -12,11 +12,16 @@ id: "B2231"
 netzwerk: "A2 K4 8c"
 freq_rank: 2414
 skip: false
+audio: "unangenehm.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unangenehm
+
+![[unangenehm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unangenehm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unangenehm&language=de)
 
 **Meaning:** unpleasant; uncomfortable; embarrassing
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

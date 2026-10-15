@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 8e"
 freq_rank: 997
 skip: false
+audio: "reagieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reagieren
+
+![[reagieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reagieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reagieren&language=de)
 
 **Meaning:** to react
 **Forms:** reagiert · reagierte · hat reagiert

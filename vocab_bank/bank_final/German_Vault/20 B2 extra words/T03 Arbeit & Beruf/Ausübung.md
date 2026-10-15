@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2815"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ausübung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausübung
+
+![[Ausübung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aus%C3%BCbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aus%C3%BCbung&language=de)
 
 **Meaning:** practice; exercise
 **Plural:** –

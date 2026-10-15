@@ -14,11 +14,16 @@ bank: "main"
 id: "B5380"
 freq_rank: 1697
 skip: false
+audio: "Belastung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Belastung
+
+![[Belastung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Belastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Belastung&language=de)
 
 **Meaning:** strain; burden
 **Plural:** Belastungen

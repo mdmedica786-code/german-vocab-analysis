@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0925"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Dissertation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dissertation
+
+![[Dissertation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dissertation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dissertation&language=de)
 
 **Meaning:** doctoral thesis
 **Plural:** Dissertationen

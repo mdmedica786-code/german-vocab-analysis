@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0871"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beimessen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beimessen
+
+![[beimessen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beimessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beimessen&language=de)
 
 **Meaning:** to attach (importance)
 **Forms:** misst bei · maß bei · hat beigemessen

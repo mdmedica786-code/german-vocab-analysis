@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1816"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "entnehmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # entnehmen
+
+![[entnehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entnehmen&language=de)
 
 **Meaning:** to take from; to gather (from)
 **Forms:** entnimmt · entnahm · hat entnommen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1565"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "dezent.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # dezent
+
+![[dezent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dezent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dezent&language=de)
 
 **Meaning:** discreet; subtle
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

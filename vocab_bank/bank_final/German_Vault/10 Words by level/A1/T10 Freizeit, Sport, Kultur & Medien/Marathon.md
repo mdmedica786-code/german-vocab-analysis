@@ -15,11 +15,16 @@ id: "B1042"
 netzwerk: "A1 K6 15a"
 freq_rank: 2851
 skip: false
+audio: "Marathon.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Marathon
+
+![[Marathon.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marathon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marathon&language=de)
 
 **Meaning:** marathon
 **Plural:** Marathons

@@ -15,11 +15,16 @@ id: "B2772"
 netzwerk: "A2 K8 7a"
 freq_rank: 5759
 skip: false
+audio: "Kinderfilm.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kinderfilm
+
+![[Kinderfilm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderfilm&language=de)
 
 **Meaning:** children's film
 **Plural:** Kinderfilme

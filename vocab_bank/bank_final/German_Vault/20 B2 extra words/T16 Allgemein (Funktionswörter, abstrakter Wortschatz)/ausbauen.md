@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0860"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ausbauen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausbauen
+
+![[ausbauen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausbauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausbauen&language=de)
 
 **Meaning:** to expand; to extend; to convert
 **Forms:** baut aus · baute aus · hat ausgebaut

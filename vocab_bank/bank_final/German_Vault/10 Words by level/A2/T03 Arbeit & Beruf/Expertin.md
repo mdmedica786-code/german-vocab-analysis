@@ -15,11 +15,16 @@ id: "B2611"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Expertin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Expertin
+
+![[Expertin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Expertin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Expertin&language=de)
 
 **Meaning:** expert (f)
 **Plural:** Expertinnen

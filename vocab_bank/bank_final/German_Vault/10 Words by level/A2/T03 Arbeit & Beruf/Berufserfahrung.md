@@ -15,11 +15,16 @@ id: "B2015"
 netzwerk: "A2 K2 9a"
 freq_rank: 5759
 skip: false
+audio: "Berufserfahrung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berufserfahrung
+
+![[Berufserfahrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufserfahrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufserfahrung&language=de)
 
 **Meaning:** work experience
 **Plural:** –

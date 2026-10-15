@@ -15,11 +15,16 @@ id: "B0929"
 netzwerk: "A1 K6 3a"
 freq_rank: 5759
 skip: false
+audio: "Fahrradtour.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fahrradtour
+
+![[Fahrradtour.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrradtour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrradtour&language=de)
 
 **Meaning:** bike ride
 **Plural:** Fahrradtouren

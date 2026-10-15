@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K1 1a ÜB"
 freq_rank: 575
 skip: false
+audio: "Himmel.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Himmel
+
+![[Himmel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Himmel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Himmel&language=de)
 
 **Meaning:** sky
 **Plural:** –

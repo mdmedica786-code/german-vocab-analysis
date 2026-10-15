@@ -15,11 +15,16 @@ id: "B3767"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 3900
 skip: false
+audio: "Umschlag.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umschlag
+
+![[Umschlag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umschlag&language=de)
 
 **Meaning:** envelope; compress; poultice
 **Plural:** Umschläge

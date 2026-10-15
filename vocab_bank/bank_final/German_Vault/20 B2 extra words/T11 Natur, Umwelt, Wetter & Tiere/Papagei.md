@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4285"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Papagei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Papagei
+
+![[Papagei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Papagei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papagei&language=de)
 
 **Meaning:** parrot
 **Plural:** Papageien

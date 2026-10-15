@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3362"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Beschleunigung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beschleunigung
+
+![[Beschleunigung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beschleunigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschleunigung&language=de)
 
 **Meaning:** acceleration; speeding up
 **Plural:** –

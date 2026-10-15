@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 2984
 skip: false
+audio: "unternehmen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unternehmen
+
+![[unternehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unternehmen&language=de)
 
 **Meaning:** to do; to undertake
 **Forms:** unternimmt · unternahm · hat unternommen

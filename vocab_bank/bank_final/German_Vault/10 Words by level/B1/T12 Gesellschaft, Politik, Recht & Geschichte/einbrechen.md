@@ -13,11 +13,16 @@ id: "B6410"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "einbrechen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einbrechen
+
+![[einbrechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einbrechen&language=de)
 
 **Meaning:** to break in
 **Forms:** bricht ein · brach ein · ist eingebrochen

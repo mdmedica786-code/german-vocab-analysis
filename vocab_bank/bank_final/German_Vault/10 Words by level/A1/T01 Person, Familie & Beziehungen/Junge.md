@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8b ÜB"
 freq_rank: 2523
 skip: false
+audio: "Junge.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Junge
+
+![[Junge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Junge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Junge&language=de)
 
 **Meaning:** boy
 **Plural:** Jungen

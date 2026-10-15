@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0883"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "einsehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einsehen
+
+![[einsehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsehen&language=de)
 
 **Meaning:** to realise; to see (the point); to inspect
 **Forms:** sieht ein · sah ein · hat eingesehen

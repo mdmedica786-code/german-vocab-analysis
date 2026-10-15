@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3182"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "implizieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # implizieren
+
+![[implizieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/implizieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=implizieren&language=de)
 
 **Meaning:** to imply; to involve
 **Forms:** impliziert · implizierte · hat impliziert

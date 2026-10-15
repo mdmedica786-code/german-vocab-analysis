@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2308"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "kariert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # kariert
+
+![[kariert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kariert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kariert&language=de)
 
 **Meaning:** checked; squared
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

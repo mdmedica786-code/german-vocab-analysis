@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2740"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Übereinstimmung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übereinstimmung
+
+![[Übereinstimmung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbereinstimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbereinstimmung&language=de)
 
 **Meaning:** agreement; match
 **Plural:** Übereinstimmungen

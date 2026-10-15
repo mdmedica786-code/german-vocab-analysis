@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 5759
 skip: false
+audio: "Semmel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Semmel
+
+![[Semmel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Semmel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Semmel&language=de)
 
 **Meaning:** bread roll (South German)
 **Plural:** Semmeln

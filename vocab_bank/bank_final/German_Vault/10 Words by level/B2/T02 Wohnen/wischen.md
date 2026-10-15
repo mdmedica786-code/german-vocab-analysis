@@ -12,11 +12,16 @@ bank: "main"
 id: "B5686"
 freq_rank: 2797
 skip: false
+audio: "wischen.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wischen
+
+![[wischen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wischen&language=de)
 
 **Meaning:** to wipe; to mop
 **Forms:** wischt · wischte · hat gewischt

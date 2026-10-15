@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 3a"
 freq_rank: 2345
 skip: false
+audio: "anziehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anziehen
+
+![[anziehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anziehen&language=de)
 
 **Meaning:** to get dressed
 **Forms:** zieht an · zog an · hat angezogen

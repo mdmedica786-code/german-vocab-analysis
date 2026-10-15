@@ -15,11 +15,16 @@ id: "B1420"
 netzwerk: "A1 K9 5c"
 freq_rank: 5759
 skip: false
+audio: "Samstagabend.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Samstagabend
+
+![[Samstagabend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Samstagabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Samstagabend&language=de)
 
 **Meaning:** Saturday night
 **Plural:** Samstagabende

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2923"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verdanken.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdanken
+
+![[verdanken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verdanken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdanken&language=de)
 
 **Meaning:** to owe; to have to thank for
 **Forms:** verdankt · verdankte · hat verdankt

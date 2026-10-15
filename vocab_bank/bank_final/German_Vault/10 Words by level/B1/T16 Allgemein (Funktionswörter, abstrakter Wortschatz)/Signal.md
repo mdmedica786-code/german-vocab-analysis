@@ -15,11 +15,16 @@ id: "B4387"
 netzwerk: "B1 K8 1b"
 freq_rank: 2273
 skip: false
+audio: "Signal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Signal
+
+![[Signal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Signal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Signal&language=de)
 
 **Meaning:** signal
 **Plural:** Signale

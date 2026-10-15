@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 5a"
 freq_rank: 5759
 skip: false
+audio: "Praktikant.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Praktikant
+
+![[Praktikant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Praktikant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Praktikant&language=de)
 
 **Meaning:** intern (m)
 **Plural:** Praktikanten

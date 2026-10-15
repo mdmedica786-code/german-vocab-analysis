@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Online-Banking
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Banking/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Banking&language=de)
+
 **Meaning:** online banking
 **Plural:** –
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

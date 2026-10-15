@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1179"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Sarkasmus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sarkasmus
+
+![[Sarkasmus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sarkasmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sarkasmus&language=de)
 
 **Meaning:** sarcasm
 **Plural:** –

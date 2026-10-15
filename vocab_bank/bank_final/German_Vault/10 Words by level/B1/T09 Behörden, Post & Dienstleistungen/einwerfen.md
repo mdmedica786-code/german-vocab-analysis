@@ -13,11 +13,16 @@ id: "B5095"
 netzwerk: "B1 K12 10a"
 freq_rank: 5759
 skip: false
+audio: "einwerfen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einwerfen
+
+![[einwerfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einwerfen&language=de)
 
 **Meaning:** to insert
 **Forms:** wirft ein · warf ein · hat eingeworfen

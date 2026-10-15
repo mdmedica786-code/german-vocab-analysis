@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4114"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Komikerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Komikerin
+
+![[Komikerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komikerin&language=de)
 
 **Meaning:** comedian (female)
 **Plural:** Komikerinnen

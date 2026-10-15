@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1886"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Pflegebedürftigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflegebedürftigkeit
+
+![[Pflegebedürftigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflegebed%C3%BCrftigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegebed%C3%BCrftigkeit&language=de)
 
 **Meaning:** need of care
 **Plural:** –

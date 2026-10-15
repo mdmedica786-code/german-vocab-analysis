@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 7"
 freq_rank: 4214
 skip: false
+audio: "tippen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # tippen
+
+![[tippen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tippen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tippen&language=de)
 
 **Meaning:** to type
 **Forms:** tippt · tippte · hat getippt

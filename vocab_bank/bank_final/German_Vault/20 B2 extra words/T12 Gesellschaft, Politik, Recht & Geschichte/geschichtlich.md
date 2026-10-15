@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3412"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "geschichtlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # geschichtlich
+
+![[geschichtlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geschichtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschichtlich&language=de)
 
 **Meaning:** historical
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

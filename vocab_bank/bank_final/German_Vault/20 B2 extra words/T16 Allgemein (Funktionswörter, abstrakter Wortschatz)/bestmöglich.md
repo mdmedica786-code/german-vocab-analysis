@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3804"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "bestmöglich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # bestmöglich
+
+![[bestmöglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestm%C3%B6glich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestm%C3%B6glich&language=de)
 
 **Meaning:** best possible
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

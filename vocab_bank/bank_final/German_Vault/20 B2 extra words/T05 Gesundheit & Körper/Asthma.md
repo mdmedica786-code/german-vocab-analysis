@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3738"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Asthma.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Asthma
+
+![[Asthma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Asthma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asthma&language=de)
 
 **Meaning:** asthma
 **Plural:** –

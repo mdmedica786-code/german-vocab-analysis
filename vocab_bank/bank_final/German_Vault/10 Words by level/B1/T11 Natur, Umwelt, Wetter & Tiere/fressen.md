@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12c"
 freq_rank: 4253
 skip: false
+audio: "fressen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fressen
+
+![[fressen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fressen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fressen&language=de)
 
 **Meaning:** to eat (of animals); to devour
 **Forms:** frisst · fraß · hat gefressen

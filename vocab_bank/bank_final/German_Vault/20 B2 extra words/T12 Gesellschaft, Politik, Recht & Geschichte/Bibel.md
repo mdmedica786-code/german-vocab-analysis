@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2640"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Bibel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bibel
+
+![[Bibel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bibel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bibel&language=de)
 
 **Meaning:** Bible
 **Plural:** Bibeln

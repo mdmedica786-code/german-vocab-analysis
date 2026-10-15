@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Job-Portal
 
+[▶️ YouGlish](https://youglish.com/pronounce/Job-Portal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Job-Portal&language=de)
+
 **Meaning:** job portal
 **Plural:** Job-Portale
 **Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

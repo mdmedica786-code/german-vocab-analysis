@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Einspruch erheben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Einspruch%20erheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einspruch%20erheben&language=de)
+
 **Meaning:** to lodge an objection
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

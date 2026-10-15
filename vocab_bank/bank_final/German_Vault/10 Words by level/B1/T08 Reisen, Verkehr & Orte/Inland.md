@@ -15,11 +15,16 @@ id: "B4589"
 netzwerk: "B1 K9 3b"
 freq_rank: 5248
 skip: false
+audio: "Inland.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Inland
+
+![[Inland.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inland&language=de)
 
 **Meaning:** home country; domestic
 **Plural:** –

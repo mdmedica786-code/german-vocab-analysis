@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Polnisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Polnisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polnisch&language=de)
+
 **Meaning:** Polish
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

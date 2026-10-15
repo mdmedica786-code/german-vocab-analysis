@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 8b"
 freq_rank: 3678
 skip: false
+audio: "ausziehen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausziehen
+
+![[ausziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausziehen&language=de)
 
 **Meaning:** to take off
 **Other senses:** to move out of

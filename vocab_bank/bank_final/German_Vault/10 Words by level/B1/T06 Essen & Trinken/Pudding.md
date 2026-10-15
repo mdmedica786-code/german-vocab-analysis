@@ -15,11 +15,16 @@ id: "B4794"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Pudding.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pudding
+
+![[Pudding.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pudding/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pudding&language=de)
 
 **Meaning:** pudding
 **Plural:** Puddinge

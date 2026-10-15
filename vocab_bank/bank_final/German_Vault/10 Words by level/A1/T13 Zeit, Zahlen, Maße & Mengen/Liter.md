@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 4267
 skip: false
+audio: "Liter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Liter
+
+![[Liter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liter&language=de)
 
 **Meaning:** litre
 **Plural:** Liter

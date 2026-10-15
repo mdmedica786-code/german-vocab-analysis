@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 3a"
 freq_rank: 2270
 skip: false
+audio: "maximal.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # maximal
+
+![[maximal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/maximal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=maximal&language=de)
 
 **Meaning:** maximally
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

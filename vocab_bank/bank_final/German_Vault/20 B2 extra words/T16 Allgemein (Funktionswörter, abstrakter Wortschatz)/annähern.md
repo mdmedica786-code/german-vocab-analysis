@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1196"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "annähern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # annähern
+
+![[annähern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ann%C3%A4hern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ann%C3%A4hern&language=de)
 
 **Meaning:** to approach; to come closer
 **Forms:** nähert sich an · näherte sich an · hat sich angenähert

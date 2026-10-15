@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1721"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "schmieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # schmieren
+
+![[schmieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schmieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmieren&language=de)
 
 **Meaning:** to spread; to smear; to grease
 **Forms:** schmiert · schmierte · hat geschmiert

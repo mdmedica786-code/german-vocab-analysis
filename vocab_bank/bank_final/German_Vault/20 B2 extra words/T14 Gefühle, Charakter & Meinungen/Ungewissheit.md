@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1522"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ungewissheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ungewissheit
+
+![[Ungewissheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ungewissheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungewissheit&language=de)
 
 **Meaning:** uncertainty
 **Plural:** Ungewissheiten

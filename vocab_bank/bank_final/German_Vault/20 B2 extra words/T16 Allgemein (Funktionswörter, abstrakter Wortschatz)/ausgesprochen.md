@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1546"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "ausgesprochen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgesprochen
+
+![[ausgesprochen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgesprochen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgesprochen&language=de)
 
 **Meaning:** decided; distinct; particularly
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

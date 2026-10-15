@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0959"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Fachbegriff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fachbegriff
+
+![[Fachbegriff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachbegriff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachbegriff&language=de)
 
 **Meaning:** technical term
 **Plural:** Fachbegriffe

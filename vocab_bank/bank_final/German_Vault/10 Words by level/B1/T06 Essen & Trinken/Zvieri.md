@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Zvieri
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zvieri/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zvieri&language=de)
+
 **Meaning:** afternoon snack (Swiss)
 **Plural:** –
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional

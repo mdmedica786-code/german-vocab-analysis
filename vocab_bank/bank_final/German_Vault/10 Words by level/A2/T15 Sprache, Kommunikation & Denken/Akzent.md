@@ -15,11 +15,16 @@ id: "B2989"
 netzwerk: "A2 K10 9b"
 freq_rank: 4765
 skip: false
+audio: "Akzent.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Akzent
+
+![[Akzent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Akzent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akzent&language=de)
 
 **Meaning:** accent; stress
 **Plural:** Akzente

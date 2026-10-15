@@ -15,11 +15,16 @@ id: "B0674"
 netzwerk: "A1 K4 6a"
 freq_rank: 5759
 skip: false
+audio: "Einkaufswagen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einkaufswagen
+
+![[Einkaufswagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einkaufswagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkaufswagen&language=de)
 
 **Meaning:** shopping cart
 **Plural:** Einkaufswagen

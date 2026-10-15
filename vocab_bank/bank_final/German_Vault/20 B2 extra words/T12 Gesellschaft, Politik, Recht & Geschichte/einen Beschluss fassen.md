@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Beschluss fassen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Beschluss%20fassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Beschluss%20fassen&language=de)
+
 **Meaning:** to pass a resolution
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

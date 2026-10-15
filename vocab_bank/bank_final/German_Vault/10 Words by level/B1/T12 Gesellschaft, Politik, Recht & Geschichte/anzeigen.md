@@ -13,11 +13,16 @@ id: "B5484"
 goethe_level: "B1"
 freq_rank: 2085
 skip: false
+audio: "anzeigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anzeigen
+
+![[anzeigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anzeigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anzeigen&language=de)
 
 **Meaning:** to report (to the police); to display
 **Forms:** zeigt an · zeigte an · hat angezeigt

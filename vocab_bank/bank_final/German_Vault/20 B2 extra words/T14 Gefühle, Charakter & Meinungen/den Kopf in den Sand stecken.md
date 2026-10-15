@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2093"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "den Kopf in den Sand stecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # den Kopf in den Sand stecken
+
+![[den Kopf in den Sand stecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/den%20Kopf%20in%20den%20Sand%20stecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=den%20Kopf%20in%20den%20Sand%20stecken&language=de)
 
 **Meaning:** to bury one's head in the sand
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

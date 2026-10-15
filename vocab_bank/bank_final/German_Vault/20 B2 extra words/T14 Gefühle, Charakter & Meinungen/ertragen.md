@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1265"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "ertragen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ertragen
+
+![[ertragen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ertragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ertragen&language=de)
 
 **Meaning:** to bear; to tolerate
 **Forms:** erträgt · ertrug · hat ertragen

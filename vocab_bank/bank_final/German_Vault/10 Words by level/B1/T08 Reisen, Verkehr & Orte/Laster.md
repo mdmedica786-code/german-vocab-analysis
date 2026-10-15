@@ -15,11 +15,16 @@ id: "B6482"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Laster.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Laster
+
+![[Laster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laster&language=de)
 
 **Meaning:** lorry; truck
 **Plural:** Laster

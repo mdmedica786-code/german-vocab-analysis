@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 2a ÜB"
 freq_rank: 1703
 skip: false
+audio: "Schuh.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schuh
+
+![[Schuh.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuh&language=de)
 
 **Meaning:** shoe
 **Plural:** Schuhe

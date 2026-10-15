@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3119"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Vernichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vernichtung
+
+![[Vernichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vernichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vernichtung&language=de)
 
 **Meaning:** destruction; annihilation
 **Plural:** –

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4089"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Jobportal
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jobportal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jobportal&language=de)
 
 **Meaning:** job portal; job website
 **Plural:** Jobportale

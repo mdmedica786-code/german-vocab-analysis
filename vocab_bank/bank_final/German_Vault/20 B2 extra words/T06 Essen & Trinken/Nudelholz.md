@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2268"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Nudelholz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nudelholz
+
+![[Nudelholz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nudelholz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nudelholz&language=de)
 
 **Meaning:** rolling pin
 **Plural:** Nudelhölzer

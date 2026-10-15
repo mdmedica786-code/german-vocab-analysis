@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 5759
 skip: false
+audio: "Kursleiter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kursleiter
+
+![[Kursleiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kursleiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursleiter&language=de)
 
 **Meaning:** course leader (m)
 **Plural:** Kursleiter

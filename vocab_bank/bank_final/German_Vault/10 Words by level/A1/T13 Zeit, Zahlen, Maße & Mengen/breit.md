@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 594
 skip: false
+audio: "breit.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # breit
+
+![[breit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/breit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=breit&language=de)
 
 **Meaning:** wide
 **Forms:** breiter – am breitesten

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die BIC
 
+[▶️ YouGlish](https://youglish.com/pronounce/BIC/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=BIC&language=de)
+
 **Meaning:** SWIFT-BIC
 **Plural:** BICs
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

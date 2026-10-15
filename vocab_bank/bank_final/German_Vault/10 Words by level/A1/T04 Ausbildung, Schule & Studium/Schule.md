@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 505
 skip: false
+audio: "Schule.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schule
+
+![[Schule.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schule&language=de)
 
 **Meaning:** school
 **Plural:** Schulen

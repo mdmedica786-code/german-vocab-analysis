@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3820"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Blindenschrift.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Blindenschrift
+
+![[Blindenschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blindenschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blindenschrift&language=de)
 
 **Meaning:** Braille; writing for the blind
 **Plural:** –

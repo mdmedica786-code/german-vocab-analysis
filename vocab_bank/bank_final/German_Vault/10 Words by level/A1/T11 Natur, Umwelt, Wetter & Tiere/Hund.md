@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10a"
 freq_rank: 766
 skip: false
+audio: "Hund.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hund
+
+![[Hund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hund&language=de)
 
 **Meaning:** dog
 **Plural:** Hunde

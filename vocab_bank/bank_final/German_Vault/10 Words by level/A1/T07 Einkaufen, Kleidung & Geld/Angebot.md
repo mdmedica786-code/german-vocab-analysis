@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 9a"
 freq_rank: 1169
 skip: false
+audio: "Angebot.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Angebot
+
+![[Angebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angebot&language=de)
 
 **Meaning:** offer
 **Plural:** Angebote

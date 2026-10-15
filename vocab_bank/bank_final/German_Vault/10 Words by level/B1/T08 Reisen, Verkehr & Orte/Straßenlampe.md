@@ -15,11 +15,16 @@ id: "B4846"
 netzwerk: "B1 K10 8b"
 freq_rank: 5759
 skip: false
+audio: "Straßenlampe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Straßenlampe
+
+![[Straßenlampe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenlampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenlampe&language=de)
 
 **Meaning:** street lamp
 **Plural:** Straßenlampen

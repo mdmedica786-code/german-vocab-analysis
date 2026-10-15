@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2312"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "lückenlos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # lückenlos
+
+![[lückenlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%BCckenlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%BCckenlos&language=de)
 
 **Meaning:** complete; gapless
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

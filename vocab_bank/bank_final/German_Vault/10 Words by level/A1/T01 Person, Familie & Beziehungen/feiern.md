@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 1a"
 freq_rank: 2256
 skip: false
+audio: "feiern.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # feiern
+
+![[feiern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/feiern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feiern&language=de)
 
 **Meaning:** to celebrate
 **Forms:** feiert · feierte · hat gefeiert

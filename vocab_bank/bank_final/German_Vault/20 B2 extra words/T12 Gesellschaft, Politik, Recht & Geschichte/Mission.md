@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2716"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Mission.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mission
+
+![[Mission.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mission/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mission&language=de)
 
 **Meaning:** mission
 **Plural:** Missionen

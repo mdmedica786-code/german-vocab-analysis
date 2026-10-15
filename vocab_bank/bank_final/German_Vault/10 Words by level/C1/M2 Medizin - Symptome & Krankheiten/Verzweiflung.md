@@ -14,11 +14,16 @@ bank: "main"
 id: "B5625"
 freq_rank: 2596
 skip: false
+audio: "Verzweiflung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verzweiflung
+
+![[Verzweiflung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verzweiflung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verzweiflung&language=de)
 
 **Meaning:** despair
 **Plural:** –

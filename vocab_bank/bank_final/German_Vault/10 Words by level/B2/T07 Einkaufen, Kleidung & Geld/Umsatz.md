@@ -14,11 +14,16 @@ bank: "main"
 id: "B5946"
 freq_rank: 3579
 skip: false
+audio: "Umsatz.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umsatz
+
+![[Umsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umsatz&language=de)
 
 **Meaning:** turnover; sales
 **Plural:** Umsätze

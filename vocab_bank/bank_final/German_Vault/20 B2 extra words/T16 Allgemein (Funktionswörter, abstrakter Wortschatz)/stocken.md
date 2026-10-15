@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3275"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "stocken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # stocken
+
+![[stocken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stocken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stocken&language=de)
 
 **Meaning:** to falter; to come to a halt; to stall
 **Forms:** stockt · stockte · hat gestockt

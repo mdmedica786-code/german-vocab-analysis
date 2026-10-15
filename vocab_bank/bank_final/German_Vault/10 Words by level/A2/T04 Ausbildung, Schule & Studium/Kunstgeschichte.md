@@ -15,11 +15,16 @@ id: "B3227"
 netzwerk: "A2 K12 10b"
 freq_rank: 5759
 skip: false
+audio: "Kunstgeschichte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kunstgeschichte
+
+![[Kunstgeschichte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstgeschichte&language=de)
 
 **Meaning:** art history
 **Plural:** –

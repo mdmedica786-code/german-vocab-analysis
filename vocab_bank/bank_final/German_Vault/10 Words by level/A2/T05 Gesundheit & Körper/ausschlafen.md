@@ -13,11 +13,16 @@ id: "B1968"
 netzwerk: "A2 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "ausschlafen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausschlafen
+
+![[ausschlafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausschlafen&language=de)
 
 **Meaning:** to sleep in
 **Forms:** schläft aus · schlief aus · hat ausgeschlafen

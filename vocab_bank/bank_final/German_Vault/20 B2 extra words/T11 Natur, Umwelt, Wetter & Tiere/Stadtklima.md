@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0749"
 exam_use: ["Lesen"]
 skip: false
+audio: "Stadtklima.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stadtklima
+
+![[Stadtklima.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtklima/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtklima&language=de)
 
 **Meaning:** urban climate
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3100"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Handschrift.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Handschrift
+
+![[Handschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handschrift&language=de)
 
 **Meaning:** handwriting; manuscript
 **Plural:** Handschriften

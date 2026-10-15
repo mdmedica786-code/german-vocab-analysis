@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4082"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Internettext
+
+[▶️ YouGlish](https://youglish.com/pronounce/Internettext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internettext&language=de)
 
 **Meaning:** internet text; online text
 **Plural:** Internettexte

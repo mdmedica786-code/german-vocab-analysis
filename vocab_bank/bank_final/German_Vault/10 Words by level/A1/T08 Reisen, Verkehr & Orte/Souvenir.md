@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Souvenir.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Souvenir
+
+![[Souvenir.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Souvenir/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Souvenir&language=de)
 
 **Meaning:** souvenir
 **Plural:** Souvenirs

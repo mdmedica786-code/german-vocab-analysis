@@ -15,11 +15,16 @@ id: "B6568"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Strafzettel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Strafzettel
+
+![[Strafzettel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strafzettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strafzettel&language=de)
 
 **Meaning:** parking ticket; fine
 **Plural:** Strafzettel

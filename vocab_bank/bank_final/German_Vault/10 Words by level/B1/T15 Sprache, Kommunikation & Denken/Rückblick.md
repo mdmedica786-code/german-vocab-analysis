@@ -15,11 +15,16 @@ id: "B3355"
 netzwerk: "B1 K1 13a"
 freq_rank: 4706
 skip: false
+audio: "Rückblick.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rückblick
+
+![[Rückblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckblick&language=de)
 
 **Meaning:** review
 **Plural:** Rückblicke

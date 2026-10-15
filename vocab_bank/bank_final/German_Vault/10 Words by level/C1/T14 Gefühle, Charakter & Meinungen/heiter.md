@@ -11,11 +11,16 @@ bank: "main"
 id: "B6270"
 freq_rank: 5257
 skip: false
+audio: "heiter.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # heiter
+
+![[heiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heiter&language=de)
 
 **Meaning:** cheerful; fair (weather)
 **Level:** C1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

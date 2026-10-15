@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 749
 skip: false
+audio: "Sicherheit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sicherheit
+
+![[Sicherheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherheit&language=de)
 
 **Meaning:** security; safety; certainty
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3590"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Instinkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Instinkt
+
+![[Instinkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Instinkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Instinkt&language=de)
 
 **Meaning:** instinct
 **Plural:** Instinkte

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1070"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Mietvertrag.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mietvertrag
+
+![[Mietvertrag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mietvertrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mietvertrag&language=de)
 
 **Meaning:** rental agreement; lease
 **Plural:** Mietverträge

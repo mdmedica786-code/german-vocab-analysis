@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1691"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "biegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # biegen
+
+![[biegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/biegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=biegen&language=de)
 
 **Meaning:** to bend; to turn (a corner)
 **Forms:** biegt · bog · hat/ist gebogen

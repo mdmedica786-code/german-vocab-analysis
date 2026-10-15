@@ -14,11 +14,16 @@ bank: "main"
 id: "B5721"
 freq_rank: 2854
 skip: false
+audio: "Fakt.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fakt
+
+![[Fakt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fakt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fakt&language=de)
 
 **Meaning:** fact
 **Plural:** Fakten

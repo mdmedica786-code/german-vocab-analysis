@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Bezirksschule.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bezirksschule
+
+![[Bezirksschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bezirksschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezirksschule&language=de)
 
 **Meaning:** district school (Swiss secondary school)
 **Plural:** Bezirksschulen

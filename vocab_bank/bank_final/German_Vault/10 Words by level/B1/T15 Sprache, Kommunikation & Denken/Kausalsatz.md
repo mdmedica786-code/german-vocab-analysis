@@ -15,11 +15,16 @@ id: "B3365"
 netzwerk: "B1 K1 13c"
 freq_rank: 9999
 skip: false
+audio: "Kausalsatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kausalsatz
+
+![[Kausalsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kausalsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kausalsatz&language=de)
 
 **Meaning:** causal clause
 **Plural:** Kausalsätze

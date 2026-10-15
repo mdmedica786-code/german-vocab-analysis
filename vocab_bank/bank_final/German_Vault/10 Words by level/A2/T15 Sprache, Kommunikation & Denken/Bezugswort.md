@@ -15,11 +15,16 @@ id: "B3220"
 netzwerk: "A2 K12 8b"
 freq_rank: 5759
 skip: false
+audio: "Bezugswort.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bezugswort
+
+![[Bezugswort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bezugswort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezugswort&language=de)
 
 **Meaning:** antecedent
 **Plural:** Bezugswörter

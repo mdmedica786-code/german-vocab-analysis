@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 12a"
 freq_rank: 5759
 skip: false
+audio: "Stundenplan.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stundenplan
+
+![[Stundenplan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stundenplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stundenplan&language=de)
 
 **Meaning:** timetable; schedule
 **Plural:** Stundenpläne

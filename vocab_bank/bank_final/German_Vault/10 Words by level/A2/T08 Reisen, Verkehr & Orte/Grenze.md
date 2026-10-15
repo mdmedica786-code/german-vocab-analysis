@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 5d"
 freq_rank: 603
 skip: false
+audio: "Grenze.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grenze
+
+![[Grenze.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grenze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grenze&language=de)
 
 **Meaning:** border
 **Plural:** Grenzen

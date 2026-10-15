@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2221"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Rollladen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rollladen
+
+![[Rollladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rollladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollladen&language=de)
 
 **Meaning:** roller shutter
 **Plural:** Rollläden

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 815
 skip: false
+audio: "zahlreich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # zahlreich
+
+![[zahlreich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zahlreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zahlreich&language=de)
 
 **Meaning:** numerous
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

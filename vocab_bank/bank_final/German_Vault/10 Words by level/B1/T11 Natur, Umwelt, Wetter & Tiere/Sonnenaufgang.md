@@ -15,11 +15,16 @@ id: "B3356"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "Sonnenaufgang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonnenaufgang
+
+![[Sonnenaufgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonnenaufgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenaufgang&language=de)
 
 **Meaning:** sunrise
 **Plural:** Sonnenaufgänge

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 11d"
 freq_rank: 600
 skip: false
+audio: "Unterschied.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Unterschied
+
+![[Unterschied.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterschied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterschied&language=de)
 
 **Meaning:** difference
 **Plural:** Unterschiede

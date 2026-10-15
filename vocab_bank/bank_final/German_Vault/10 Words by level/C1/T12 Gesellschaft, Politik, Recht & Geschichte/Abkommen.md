@@ -14,11 +14,16 @@ bank: "main"
 id: "B6078"
 freq_rank: 4212
 skip: false
+audio: "Abkommen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Abkommen
+
+![[Abkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abkommen&language=de)
 
 **Meaning:** agreement; treaty
 **Plural:** Abkommen

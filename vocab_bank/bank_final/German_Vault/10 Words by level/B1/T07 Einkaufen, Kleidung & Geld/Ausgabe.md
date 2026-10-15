@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 2b"
 freq_rank: 1264
 skip: false
+audio: "Ausgabe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausgabe
+
+![[Ausgabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgabe&language=de)
 
 **Meaning:** expense; edition
 **Plural:** Ausgaben

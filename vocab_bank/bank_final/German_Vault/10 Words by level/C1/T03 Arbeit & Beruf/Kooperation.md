@@ -14,11 +14,16 @@ bank: "main"
 id: "B5584"
 freq_rank: 2415
 skip: false
+audio: "Kooperation.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kooperation
+
+![[Kooperation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kooperation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kooperation&language=de)
 
 **Meaning:** cooperation
 **Plural:** Kooperationen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1237"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "durchfallen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchfallen
+
+![[durchfallen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchfallen&language=de)
 
 **Meaning:** to fail (an exam); to fall through
 **Forms:** fällt durch · fiel durch · ist durchgefallen

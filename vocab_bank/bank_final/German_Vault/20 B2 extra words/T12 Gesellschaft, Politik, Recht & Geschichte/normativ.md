@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2789"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "normativ.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # normativ
+
+![[normativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/normativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=normativ&language=de)
 
 **Meaning:** normative
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

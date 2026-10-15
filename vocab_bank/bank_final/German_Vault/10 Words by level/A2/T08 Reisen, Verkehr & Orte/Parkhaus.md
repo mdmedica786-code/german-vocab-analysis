@@ -15,11 +15,16 @@ id: "B2541"
 netzwerk: "A2 K7 2"
 freq_rank: 5759
 skip: false
+audio: "Parkhaus.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Parkhaus
+
+![[Parkhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parkhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkhaus&language=de)
 
 **Meaning:** multi-storey car park
 **Plural:** Parkhäuser

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3583"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "überstehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # überstehen
+
+![[überstehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberstehen&language=de)
 
 **Meaning:** to survive; to get through; to endure
 **Forms:** übersteht · überstand · hat überstanden

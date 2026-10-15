@@ -14,11 +14,16 @@ bank: "main"
 id: "B5832"
 freq_rank: 3062
 skip: false
+audio: "Anhänger.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anhänger
+
+![[Anhänger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anh%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anh%C3%A4nger&language=de)
 
 **Meaning:** follower; supporter; trailer
 **Plural:** Anhänger

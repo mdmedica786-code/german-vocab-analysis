@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 4"
 freq_rank: 570
 skip: false
+audio: "Fenster.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fenster
+
+![[Fenster.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fenster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fenster&language=de)
 
 **Meaning:** window
 **Plural:** Fenster

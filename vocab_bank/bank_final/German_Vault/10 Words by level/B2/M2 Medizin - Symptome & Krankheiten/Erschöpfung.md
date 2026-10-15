@@ -14,11 +14,16 @@ bank: "main"
 id: "B6070"
 freq_rank: 4182
 skip: false
+audio: "Erschöpfung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erschöpfung
+
+![[Erschöpfung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ersch%C3%B6pfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ersch%C3%B6pfung&language=de)
 
 **Meaning:** exhaustion
 **Plural:** –

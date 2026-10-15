@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2637"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Differenzierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Differenzierung
+
+![[Differenzierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Differenzierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Differenzierung&language=de)
 
 **Meaning:** differentiation
 **Plural:** Differenzierungen

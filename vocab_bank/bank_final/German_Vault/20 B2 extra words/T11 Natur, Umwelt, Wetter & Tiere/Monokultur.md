@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0677"
 exam_use: ["Lesen"]
 skip: false
+audio: "Monokultur.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Monokultur
+
+![[Monokultur.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Monokultur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monokultur&language=de)
 
 **Meaning:** monoculture
 **Plural:** Monokulturen

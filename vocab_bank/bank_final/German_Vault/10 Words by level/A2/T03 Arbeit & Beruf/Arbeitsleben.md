@@ -15,11 +15,16 @@ id: "B2501"
 netzwerk: "A2 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "Arbeitsleben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitsleben
+
+![[Arbeitsleben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsleben&language=de)
 
 **Meaning:** professional life
 **Plural:** –

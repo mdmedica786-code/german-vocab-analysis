@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # enthalten sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/enthalten%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=enthalten%20sein&language=de)
+
 **Meaning:** to be included
 **Forms:** ist enthalten · war enthalten · ist enthalten gewesen
 **Grammar:** + in + Dat.

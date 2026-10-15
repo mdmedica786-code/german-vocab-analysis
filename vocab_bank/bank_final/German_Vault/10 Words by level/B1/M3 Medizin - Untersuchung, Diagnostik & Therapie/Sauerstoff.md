@@ -14,11 +14,16 @@ bank: "main"
 id: "B5959"
 freq_rank: 3626
 skip: false
+audio: "Sauerstoff.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sauerstoff
+
+![[Sauerstoff.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sauerstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sauerstoff&language=de)
 
 **Meaning:** oxygen
 **Plural:** –

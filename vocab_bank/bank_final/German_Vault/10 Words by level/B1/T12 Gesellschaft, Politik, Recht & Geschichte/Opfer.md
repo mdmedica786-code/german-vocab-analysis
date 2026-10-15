@@ -15,11 +15,16 @@ id: "B5264"
 goethe_level: "B1"
 freq_rank: 1116
 skip: false
+audio: "Opfer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Opfer
+
+![[Opfer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Opfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Opfer&language=de)
 
 **Meaning:** victim; sacrifice
 **Plural:** Opfer

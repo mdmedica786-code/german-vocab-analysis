@@ -15,11 +15,16 @@ id: "B4803"
 netzwerk: "B1 K10 4a"
 freq_rank: 9999
 skip: false
+audio: "Passivsatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Passivsatz
+
+![[Passivsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passivsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passivsatz&language=de)
 
 **Meaning:** passive sentence
 **Plural:** Passivsätze

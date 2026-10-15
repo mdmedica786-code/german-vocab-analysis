@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3212"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "schlüpfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlüpfen
+
+![[schlüpfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schl%C3%BCpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schl%C3%BCpfen&language=de)
 
 **Meaning:** to slip; to hatch
 **Forms:** schlüpft · schlüpfte · ist geschlüpft

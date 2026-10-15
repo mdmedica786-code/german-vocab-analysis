@@ -15,11 +15,16 @@ id: "B4855"
 netzwerk: "B1 K10 10b"
 freq_rank: 1955
 skip: false
+audio: "Dienstleistung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dienstleistung
+
+![[Dienstleistung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dienstleistung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstleistung&language=de)
 
 **Meaning:** service
 **Plural:** Dienstleistungen

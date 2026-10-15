@@ -13,11 +13,16 @@ id: "B2599"
 netzwerk: "A2 K7 8c"
 freq_rank: 5759
 skip: false
+audio: "vorbeigehen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorbeigehen
+
+![[vorbeigehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorbeigehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbeigehen&language=de)
 
 **Meaning:** to walk past
 **Forms:** geht vorbei · ging vorbei · ist vorbeigegangen

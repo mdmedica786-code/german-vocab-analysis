@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # nach
 
+[▶️ YouGlish](https://youglish.com/pronounce/nach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nach&language=de)
+
 **Meaning:** to; after; according to
 **Other senses:** past
 **Case:** + Dat.

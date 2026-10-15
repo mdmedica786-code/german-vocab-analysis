@@ -15,11 +15,16 @@ id: "B5072"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Pluspunkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pluspunkt
+
+![[Pluspunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pluspunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pluspunkt&language=de)
 
 **Meaning:** advantage
 **Plural:** Pluspunkte

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0309"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Bewertung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewertung
+
+![[Bewertung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewertung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewertung&language=de)
 
 **Meaning:** assessment; rating
 **Plural:** Bewertungen

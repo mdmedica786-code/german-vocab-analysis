@@ -15,11 +15,16 @@ id: "B6603"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Waschmittel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Waschmittel
+
+![[Waschmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Waschmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschmittel&language=de)
 
 **Meaning:** detergent
 **Plural:** Waschmittel

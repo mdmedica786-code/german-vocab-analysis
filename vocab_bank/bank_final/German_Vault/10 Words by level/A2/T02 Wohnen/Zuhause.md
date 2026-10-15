@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12a"
 freq_rank: 2000
 skip: false
+audio: "Zuhause.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zuhause
+
+![[Zuhause.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuhause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuhause&language=de)
 
 **Meaning:** home
 **Plural:** Zuhause

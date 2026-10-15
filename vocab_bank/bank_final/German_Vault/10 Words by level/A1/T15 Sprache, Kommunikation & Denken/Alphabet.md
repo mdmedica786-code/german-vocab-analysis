@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 7a"
 freq_rank: 5759
 skip: false
+audio: "Alphabet.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Alphabet
+
+![[Alphabet.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alphabet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alphabet&language=de)
 
 **Meaning:** alphabet
 **Plural:** Alphabete

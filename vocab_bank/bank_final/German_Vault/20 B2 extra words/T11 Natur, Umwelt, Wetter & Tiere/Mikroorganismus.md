@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4231"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Mikroorganismus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Mikroorganismus
+
+![[Mikroorganismus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mikroorganismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikroorganismus&language=de)
 
 **Meaning:** microorganism
 **Plural:** Mikroorganismen

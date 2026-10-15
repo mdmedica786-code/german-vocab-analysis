@@ -13,11 +13,16 @@ id: "B4231"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "verspäten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verspäten
+
+![[verspäten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versp%C3%A4ten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versp%C3%A4ten&language=de)
 
 **Meaning:** to be late
 **Forms:** verspätet sich · verspätete sich · hat sich verspätet

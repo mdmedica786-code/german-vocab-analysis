@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3a"
 freq_rank: 1012
 skip: false
+audio: "hell.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # hell
+
+![[hell.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hell&language=de)
 
 **Meaning:** light; bright
 **Forms:** heller – am hellsten

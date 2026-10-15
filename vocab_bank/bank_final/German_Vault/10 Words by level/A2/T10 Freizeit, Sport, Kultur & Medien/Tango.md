@@ -15,11 +15,16 @@ id: "B2265"
 netzwerk: "A2 K4 11a"
 freq_rank: 5759
 skip: false
+audio: "Tango.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tango
+
+![[Tango.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tango/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tango&language=de)
 
 **Meaning:** tango
 **Plural:** Tangos

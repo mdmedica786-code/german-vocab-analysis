@@ -15,11 +15,16 @@ id: "B4791"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Milchprodukt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Milchprodukt
+
+![[Milchprodukt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Milchprodukt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milchprodukt&language=de)
 
 **Meaning:** milk product
 **Plural:** Milchprodukte

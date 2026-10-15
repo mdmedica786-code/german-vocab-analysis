@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Hotelkaufmann
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hotelkaufmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotelkaufmann&language=de)
+
 **Meaning:** management assistant in hotel and hospitality (m)
 **Plural:** Hotelkaufmänner
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

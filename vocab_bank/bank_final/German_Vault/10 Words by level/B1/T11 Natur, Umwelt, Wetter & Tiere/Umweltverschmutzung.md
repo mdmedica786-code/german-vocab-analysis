@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Umweltverschmutzung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umweltverschmutzung
+
+![[Umweltverschmutzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltverschmutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltverschmutzung&language=de)
 
 **Meaning:** pollution (environmental)
 **Plural:** –

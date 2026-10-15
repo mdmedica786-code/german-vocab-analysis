@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 1a"
 freq_rank: 5320
 skip: false
+audio: "Webseite.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Webseite
+
+![[Webseite.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Webseite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Webseite&language=de)
 
 **Meaning:** website
 **Plural:** Webseiten

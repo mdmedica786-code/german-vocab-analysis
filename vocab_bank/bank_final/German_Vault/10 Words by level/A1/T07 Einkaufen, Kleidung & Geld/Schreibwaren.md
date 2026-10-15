@@ -15,11 +15,16 @@ id: "B1653"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Schreibwaren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schreibwaren
+
+![[Schreibwaren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schreibwaren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreibwaren&language=de)
 
 **Meaning:** stationary
 **Plural:** (Pl.)

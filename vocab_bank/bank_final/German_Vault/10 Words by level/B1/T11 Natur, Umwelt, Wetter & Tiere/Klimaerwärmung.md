@@ -15,11 +15,16 @@ id: "B3916"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Klimaerwärmung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klimaerwärmung
+
+![[Klimaerwärmung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klimaerw%C3%A4rmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaerw%C3%A4rmung&language=de)
 
 **Meaning:** global warming
 **Plural:** –

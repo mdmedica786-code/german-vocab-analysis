@@ -15,11 +15,16 @@ id: "B3845"
 netzwerk: "B1 K4 13b"
 freq_rank: 2647
 skip: false
+audio: "Branche.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Branche
+
+![[Branche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Branche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Branche&language=de)
 
 **Meaning:** sector; line of business
 **Plural:** Branchen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3959"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "fortgeschritten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/adjective", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # fortgeschritten
+
+![[fortgeschritten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fortgeschritten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fortgeschritten&language=de)
 
 **Meaning:** advanced
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

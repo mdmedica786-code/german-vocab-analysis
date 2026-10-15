@@ -15,11 +15,16 @@ id: "B4192"
 netzwerk: "B1 K6 10a"
 freq_rank: 5759
 skip: false
+audio: "Biografie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Biografie
+
+![[Biografie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biografie&language=de)
 
 **Meaning:** biography
 **Plural:** Biografien

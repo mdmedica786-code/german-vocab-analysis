@@ -13,11 +13,16 @@ id: "B6069"
 goethe_level: "B1"
 freq_rank: 4179
 skip: false
+audio: "verhaften.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verhaften
+
+![[verhaften.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verhaften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhaften&language=de)
 
 **Meaning:** to arrest
 **Forms:** verhaftet · verhaftete · hat verhaftet

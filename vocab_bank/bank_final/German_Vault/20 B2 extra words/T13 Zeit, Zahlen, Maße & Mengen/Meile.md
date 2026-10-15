@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2824"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Meile.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meile
+
+![[Meile.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meile&language=de)
 
 **Meaning:** mile
 **Plural:** Meilen

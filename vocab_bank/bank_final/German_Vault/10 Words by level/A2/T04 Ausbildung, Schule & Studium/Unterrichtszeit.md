@@ -15,11 +15,16 @@ id: "B2061"
 netzwerk: "A2 K2 12a"
 freq_rank: 5759
 skip: false
+audio: "Unterrichtszeit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterrichtszeit
+
+![[Unterrichtszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterrichtszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterrichtszeit&language=de)
 
 **Meaning:** class time
 **Plural:** Unterrichtszeiten

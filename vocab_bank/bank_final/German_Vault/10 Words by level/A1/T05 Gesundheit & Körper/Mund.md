@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6b ÜB"
 freq_rank: 511
 skip: false
+audio: "Mund.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mund
+
+![[Mund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mund&language=de)
 
 **Meaning:** mouth
 **Plural:** Münder

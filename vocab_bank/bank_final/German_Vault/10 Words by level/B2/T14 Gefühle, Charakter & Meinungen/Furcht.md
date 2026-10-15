@@ -14,11 +14,16 @@ bank: "main"
 id: "B5473"
 freq_rank: 2047
 skip: false
+audio: "Furcht.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Furcht
+
+![[Furcht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Furcht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Furcht&language=de)
 
 **Meaning:** fear
 **Plural:** –

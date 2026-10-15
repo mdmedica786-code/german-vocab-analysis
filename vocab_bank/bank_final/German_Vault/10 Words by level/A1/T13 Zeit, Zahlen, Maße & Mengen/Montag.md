@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 3435
 skip: false
+audio: "Montag.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Montag
+
+![[Montag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Montag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Montag&language=de)
 
 **Meaning:** Monday
 **Plural:** Montage

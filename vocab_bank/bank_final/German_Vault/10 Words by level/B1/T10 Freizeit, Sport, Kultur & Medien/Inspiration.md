@@ -15,11 +15,16 @@ id: "B4318"
 netzwerk: "B1 K7 11c"
 freq_rank: 4863
 skip: false
+audio: "Inspiration.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Inspiration
+
+![[Inspiration.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inspiration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inspiration&language=de)
 
 **Meaning:** inspiration
 **Plural:** Inspirationen

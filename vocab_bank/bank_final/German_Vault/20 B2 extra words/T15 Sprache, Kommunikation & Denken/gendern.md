@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3994"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
+audio: "gendern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # gendern
+
+![[gendern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gendern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gendern&language=de)
 
 **Meaning:** to use gender-inclusive language
 **Forms:** gendert · genderte · hat gegendert

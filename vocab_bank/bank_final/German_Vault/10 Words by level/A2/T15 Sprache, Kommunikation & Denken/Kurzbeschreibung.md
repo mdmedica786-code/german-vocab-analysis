@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Kurzbeschreibung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kurzbeschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurzbeschreibung&language=de)
+
 **Meaning:** short description; summary
 **Plural:** Kurzbeschreibungen
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

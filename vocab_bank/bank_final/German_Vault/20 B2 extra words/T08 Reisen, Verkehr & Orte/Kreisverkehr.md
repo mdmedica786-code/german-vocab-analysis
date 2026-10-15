@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1017"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kreisverkehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kreisverkehr
+
+![[Kreisverkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreisverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreisverkehr&language=de)
 
 **Meaning:** roundabout
 **Plural:** Kreisverkehre

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 9c"
 freq_rank: 179
 skip: false
+audio: "gar.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gar
+
+![[gar.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gar&language=de)
 
 **Meaning:** at all; done (cooked)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

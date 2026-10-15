@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4416"
 exam_use: ["Medien", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Social-Media-Kampagne
+
+[▶️ YouGlish](https://youglish.com/pronounce/Social-Media-Kampagne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social-Media-Kampagne&language=de)
 
 **Meaning:** social media campaign
 **Plural:** Social-Media-Kampagnen

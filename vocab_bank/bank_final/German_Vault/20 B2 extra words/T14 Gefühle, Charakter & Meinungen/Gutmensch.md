@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4024"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Gutmensch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gutmensch
+
+![[Gutmensch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gutmensch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gutmensch&language=de)
 
 **Meaning:** do-gooder (often ironic)
 **Plural:** Gutmenschen

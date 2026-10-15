@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 2a ÜB"
 freq_rank: 1268
 skip: false
+audio: "Tasche.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tasche
+
+![[Tasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tasche&language=de)
 
 **Meaning:** bag
 **Plural:** Taschen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2235"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Gartenschlauch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gartenschlauch
+
+![[Gartenschlauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gartenschlauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gartenschlauch&language=de)
 
 **Meaning:** garden hose
 **Plural:** Gartenschläuche

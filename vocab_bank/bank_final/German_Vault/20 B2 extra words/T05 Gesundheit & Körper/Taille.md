@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3178"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Taille.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taille
+
+![[Taille.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taille&language=de)
 
 **Meaning:** waist
 **Plural:** Taillen

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 72
 skip: false
+audio: "wissen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wissen
+
+![[wissen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wissen&language=de)
 
 **Meaning:** to know
 **Forms:** weiß · wusste · hat gewusst

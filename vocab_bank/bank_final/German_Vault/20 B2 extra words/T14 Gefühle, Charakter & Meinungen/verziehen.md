@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2720"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verziehen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verziehen
+
+![[verziehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verziehen&language=de)
 
 **Meaning:** to distort; to move away; to spoil
 **Forms:** verzieht · verzog · hat/ist verzogen

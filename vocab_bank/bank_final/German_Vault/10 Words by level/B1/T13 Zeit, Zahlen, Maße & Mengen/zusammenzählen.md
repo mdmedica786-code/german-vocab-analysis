@@ -13,11 +13,16 @@ id: "B4388"
 netzwerk: "B1 K8 1b"
 freq_rank: 5759
 skip: false
+audio: "zusammenzählen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenzählen
+
+![[zusammenzählen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenz%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenz%C3%A4hlen&language=de)
 
 **Meaning:** to add
 **Forms:** zählt zusammen · zählte zusammen · hat zusammengezählt

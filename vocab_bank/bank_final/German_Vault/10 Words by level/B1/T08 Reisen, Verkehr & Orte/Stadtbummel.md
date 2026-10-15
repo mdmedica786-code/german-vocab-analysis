@@ -15,11 +15,16 @@ id: "B5007"
 netzwerk: "B1 K11 12b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Stadtbummel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtbummel
+
+![[Stadtbummel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtbummel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtbummel&language=de)
 
 **Meaning:** stroll through the city
 **Plural:** Stadtbummel

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 3266
 skip: false
+audio: "abholen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abholen
+
+![[abholen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abholen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abholen&language=de)
 
 **Meaning:** to pick up
 **Forms:** holt ab · holte ab · hat abgeholt

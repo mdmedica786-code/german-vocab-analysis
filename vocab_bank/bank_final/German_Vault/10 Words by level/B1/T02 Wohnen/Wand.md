@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6b"
 freq_rank: 623
 skip: false
+audio: "Wand.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wand
+
+![[Wand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wand&language=de)
 
 **Meaning:** wall
 **Plural:** Wände

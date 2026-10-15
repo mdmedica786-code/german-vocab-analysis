@@ -15,11 +15,16 @@ id: "B2629"
 netzwerk: "A2 K7 10a"
 freq_rank: 9999
 skip: false
+audio: "Stadtbewohnerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stadtbewohnerin
+
+![[Stadtbewohnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtbewohnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtbewohnerin&language=de)
 
 **Meaning:** city dweller (f)
 **Plural:** Stadtbewohnerinnen

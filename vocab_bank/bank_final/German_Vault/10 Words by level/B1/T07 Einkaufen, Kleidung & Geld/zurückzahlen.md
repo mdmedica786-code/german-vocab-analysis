@@ -13,11 +13,16 @@ id: "B3424"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "zurückzahlen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückzahlen
+
+![[zurückzahlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckzahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckzahlen&language=de)
 
 **Meaning:** to pay back
 **Forms:** zahlt zurück · zahlte zurück · hat zurückgezahlt

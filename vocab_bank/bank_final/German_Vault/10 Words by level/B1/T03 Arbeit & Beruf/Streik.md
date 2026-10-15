@@ -15,11 +15,16 @@ id: "B6165"
 goethe_level: "B1"
 freq_rank: 4706
 skip: false
+audio: "Streik.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Streik
+
+![[Streik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streik&language=de)
 
 **Meaning:** strike
 **Plural:** Streiks

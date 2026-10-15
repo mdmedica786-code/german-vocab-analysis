@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 12a"
 freq_rank: 1269
 skip: false
+audio: "bezahlen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bezahlen
+
+![[bezahlen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bezahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bezahlen&language=de)
 
 **Meaning:** to pay
 **Forms:** bezahlt · bezahlte · hat bezahlt

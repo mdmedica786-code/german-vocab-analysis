@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2648"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "anweisen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anweisen
+
+![[anweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anweisen&language=de)
 
 **Meaning:** to instruct; to transfer (money)
 **Forms:** weist an · wies an · hat angewiesen

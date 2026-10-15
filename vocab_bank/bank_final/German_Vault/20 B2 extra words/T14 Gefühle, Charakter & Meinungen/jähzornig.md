@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1610"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "jähzornig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # jähzornig
+
+![[jähzornig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/j%C3%A4hzornig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=j%C3%A4hzornig&language=de)
 
 **Meaning:** quick-tempered
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

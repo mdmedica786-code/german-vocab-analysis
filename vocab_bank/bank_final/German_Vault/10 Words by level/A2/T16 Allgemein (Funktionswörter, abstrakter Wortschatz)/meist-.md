@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # meist-
 
+[▶️ YouGlish](https://youglish.com/pronounce/meist-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meist-&language=de)
+
 **Meaning:** most
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

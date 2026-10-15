@@ -13,11 +13,16 @@ id: "B4177"
 netzwerk: "B1 K6 9c"
 freq_rank: 3011
 skip: false
+audio: "schweben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schweben
+
+![[schweben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schweben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schweben&language=de)
 
 **Meaning:** to float
 **Forms:** schwebt · schwebte · hat geschwebt

@@ -11,11 +11,16 @@ bank: "main"
 id: "B6051"
 freq_rank: 4099
 skip: false
+audio: "pink.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # pink
+
+![[pink.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pink/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pink&language=de)
 
 **Meaning:** pink
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

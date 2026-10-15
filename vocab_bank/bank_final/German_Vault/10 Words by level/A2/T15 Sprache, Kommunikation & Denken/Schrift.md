@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Schrift
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schrift&language=de)
+
 **Meaning:** writing; script; handwriting
 **Plural:** Schriften
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

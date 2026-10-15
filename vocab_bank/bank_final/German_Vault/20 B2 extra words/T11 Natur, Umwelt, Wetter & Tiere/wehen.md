@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2860"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "wehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # wehen
+
+![[wehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wehen&language=de)
 
 **Meaning:** to blow; to flutter
 **Forms:** weht · wehte · hat geweht

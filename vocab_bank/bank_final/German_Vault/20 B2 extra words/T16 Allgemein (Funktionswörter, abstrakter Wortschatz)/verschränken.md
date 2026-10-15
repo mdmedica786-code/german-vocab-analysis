@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3336"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "verschränken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschränken
+
+![[verschränken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschr%C3%A4nken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschr%C3%A4nken&language=de)
 
 **Meaning:** to cross; to fold (arms); to interlock
 **Forms:** verschränkt · verschränkte · hat verschränkt

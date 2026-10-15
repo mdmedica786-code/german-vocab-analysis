@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3735"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Arztbrief.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Arztbrief
+
+![[Arztbrief.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arztbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztbrief&language=de)
 
 **Meaning:** doctor's letter; medical report
 **Plural:** Arztbriefe

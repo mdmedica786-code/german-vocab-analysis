@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 10a"
 freq_rank: 5759
 skip: false
+audio: "erkältet.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # erkältet
+
+![[erkältet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erk%C3%A4ltet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erk%C3%A4ltet&language=de)
 
 **Meaning:** having a cold
 **Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

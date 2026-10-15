@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 7c"
 freq_rank: 147
 skip: false
+audio: "einfach.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # einfach
+
+![[einfach.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einfach&language=de)
 
 **Meaning:** easy
 **Other senses:** simple

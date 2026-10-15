@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4229"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Mikrochip.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Mikrochip
+
+![[Mikrochip.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mikrochip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikrochip&language=de)
 
 **Meaning:** microchip
 **Plural:** Mikrochips

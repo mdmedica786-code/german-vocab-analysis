@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Vertrauen fassen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vertrauen%20fassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertrauen%20fassen&language=de)
+
 **Meaning:** to gain confidence (in)
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

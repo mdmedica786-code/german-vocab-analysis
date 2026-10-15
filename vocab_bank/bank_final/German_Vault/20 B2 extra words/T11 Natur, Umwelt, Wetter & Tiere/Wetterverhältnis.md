@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4637"
 exam_use: ["Hören", "Lesen"]
 skip: false
-status: "new"
+audio: "Wetterverhältnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Wetterverhältnis
+
+![[Wetterverhältnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wetterverh%C3%A4ltnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetterverh%C3%A4ltnis&language=de)
 
 **Meaning:** weather condition
 **Plural:** Wetterverhältnisse

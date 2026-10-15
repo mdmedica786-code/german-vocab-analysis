@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3308"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kapazität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kapazität
+
+![[Kapazität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kapazit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kapazit%C3%A4t&language=de)
 
 **Meaning:** capacity; expert
 **Plural:** Kapazitäten

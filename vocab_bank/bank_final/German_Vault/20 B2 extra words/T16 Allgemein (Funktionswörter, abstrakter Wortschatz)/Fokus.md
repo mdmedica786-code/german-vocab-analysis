@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2594"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Fokus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fokus
+
+![[Fokus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fokus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fokus&language=de)
 
 **Meaning:** focus
 **Plural:** Fokusse

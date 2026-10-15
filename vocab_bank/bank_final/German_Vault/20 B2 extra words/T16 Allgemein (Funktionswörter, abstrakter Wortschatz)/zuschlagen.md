@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4665"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "zuschlagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # zuschlagen
+
+![[zuschlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuschlagen&language=de)
 
 **Meaning:** to slam shut; to strike; to hit
 **Forms:** schlägt zu · schlug zu · hat zugeschlagen

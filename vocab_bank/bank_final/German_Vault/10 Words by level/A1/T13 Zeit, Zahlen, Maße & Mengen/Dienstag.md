@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 4807
 skip: false
+audio: "Dienstag.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dienstag
+
+![[Dienstag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dienstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstag&language=de)
 
 **Meaning:** Tuesday
 **Plural:** Dienstage

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0942"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Prüfungsordnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Prüfungsordnung
+
+![[Prüfungsordnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%BCfungsordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%BCfungsordnung&language=de)
 
 **Meaning:** examination regulations
 **Plural:** Prüfungsordnungen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5953"
 freq_rank: 3612
 skip: false
+audio: "Zauber.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zauber
+
+![[Zauber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zauber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zauber&language=de)
 
 **Meaning:** magic; spell
 **Plural:** –

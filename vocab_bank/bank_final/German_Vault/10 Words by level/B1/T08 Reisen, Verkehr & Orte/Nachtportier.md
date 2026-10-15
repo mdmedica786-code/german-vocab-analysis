@@ -15,11 +15,16 @@ id: "B3826"
 netzwerk: "B1 K4 12a"
 freq_rank: 5759
 skip: false
+audio: "Nachtportier.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachtportier
+
+![[Nachtportier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachtportier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtportier&language=de)
 
 **Meaning:** night porter (m)
 **Plural:** Nachtportiers

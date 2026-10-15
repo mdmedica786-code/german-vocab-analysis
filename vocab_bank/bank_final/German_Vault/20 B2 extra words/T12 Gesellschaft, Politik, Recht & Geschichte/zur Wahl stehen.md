@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Wahl stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Wahl%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Wahl%20stehen&language=de)
+
 **Meaning:** to be up for election; to be on offer
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

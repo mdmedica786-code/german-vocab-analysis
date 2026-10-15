@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1750"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Postbote.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Postbote
+
+![[Postbote.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Postbote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postbote&language=de)
 
 **Meaning:** postman; postie
 **Plural:** Postboten

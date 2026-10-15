@@ -12,11 +12,16 @@ id: "B5213"
 goethe_level: "A2"
 freq_rank: 827
 skip: false
+audio: "französisch.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # französisch
+
+![[französisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/franz%C3%B6sisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=franz%C3%B6sisch&language=de)
 
 **Meaning:** French
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

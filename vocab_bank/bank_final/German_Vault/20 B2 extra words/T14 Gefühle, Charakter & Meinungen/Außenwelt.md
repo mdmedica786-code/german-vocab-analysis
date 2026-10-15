@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3447"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Außenwelt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Außenwelt
+
+![[Außenwelt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Au%C3%9Fenwelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Au%C3%9Fenwelt&language=de)
 
 **Meaning:** outside world
 **Plural:** –

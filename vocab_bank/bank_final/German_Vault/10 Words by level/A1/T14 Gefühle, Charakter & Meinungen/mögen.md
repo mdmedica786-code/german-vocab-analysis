@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # mögen
 
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%B6gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%B6gen&language=de)
+
 **Meaning:** to like
 **Forms:** mag · mochte · hat gemocht
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

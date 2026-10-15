@@ -15,11 +15,16 @@ id: "B3726"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Gerichtsverhandlung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gerichtsverhandlung
+
+![[Gerichtsverhandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gerichtsverhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gerichtsverhandlung&language=de)
 
 **Meaning:** court hearing; trial
 **Plural:** Gerichtsverhandlungen

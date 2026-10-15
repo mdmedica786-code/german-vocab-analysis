@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5620
 skip: false
+audio: "Reporter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Reporter
+
+![[Reporter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reporter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reporter&language=de)
 
 **Meaning:** reporter (m)
 **Plural:** Reporter

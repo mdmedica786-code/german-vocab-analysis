@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # bereit sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/bereit%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereit%20sein&language=de)
+
 **Meaning:** to be ready
 **Forms:** ist bereit · war bereit · ist bereit gewesen
 **Grammar:** + zu + Dat.

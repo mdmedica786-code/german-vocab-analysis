@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3600"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Campus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Campus
+
+![[Campus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Campus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Campus&language=de)
 
 **Meaning:** campus
 **Plural:** Campus

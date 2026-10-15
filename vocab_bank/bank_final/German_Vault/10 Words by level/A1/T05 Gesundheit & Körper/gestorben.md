@@ -14,11 +14,16 @@ freq_rank: 608
 skip: true
 skip_reason: "duplicate of B2157 (learn that entry)"
 check: "dup:B2157"
+audio: "gestorben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/adjective", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # gestorben
+
+![[gestorben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gestorben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestorben&language=de)
 
 **Meaning:** died; deceased
 **Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

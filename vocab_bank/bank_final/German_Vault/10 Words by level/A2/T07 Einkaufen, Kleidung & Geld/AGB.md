@@ -15,11 +15,16 @@ id: "B3151"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "AGB.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die AGB
+
+![[AGB.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/AGB/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=AGB&language=de)
 
 **Meaning:** terms and conditions
 **Plural:** AGBs

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3704"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Allergie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Allergie
+
+![[Allergie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Allergie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allergie&language=de)
 
 **Meaning:** allergy
 **Plural:** Allergien

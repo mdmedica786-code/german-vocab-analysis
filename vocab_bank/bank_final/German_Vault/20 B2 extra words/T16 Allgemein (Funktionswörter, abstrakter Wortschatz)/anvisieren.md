@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0209"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "anvisieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # anvisieren
+
+![[anvisieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anvisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anvisieren&language=de)
 
 **Meaning:** to aim for; to target
 **Forms:** anvisiert · anvisierte · hat anvisiert

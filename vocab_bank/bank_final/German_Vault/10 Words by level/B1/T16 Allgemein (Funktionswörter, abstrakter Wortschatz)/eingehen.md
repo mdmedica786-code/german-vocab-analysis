@@ -13,11 +13,16 @@ id: "B4962"
 netzwerk: "B1 K11 10"
 freq_rank: 1265
 skip: false
+audio: "eingehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eingehen
+
+![[eingehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eingehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eingehen&language=de)
 
 **Meaning:** to respond to; to go into
 **Forms:** geht ein · ging ein · ist eingegangen

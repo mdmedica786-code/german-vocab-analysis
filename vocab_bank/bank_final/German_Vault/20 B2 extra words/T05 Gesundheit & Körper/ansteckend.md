@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3715"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "ansteckend.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ansteckend
+
+![[ansteckend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansteckend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansteckend&language=de)
 
 **Meaning:** contagious; infectious
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

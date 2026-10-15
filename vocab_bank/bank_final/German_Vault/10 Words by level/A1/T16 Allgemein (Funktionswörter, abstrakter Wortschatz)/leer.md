@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 6a"
 freq_rank: 773
 skip: false
+audio: "leer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # leer
+
+![[leer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leer&language=de)
 
 **Meaning:** empty
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

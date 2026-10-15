@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Konsequenzen ziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Konsequenzen%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsequenzen%20ziehen&language=de)
+
 **Meaning:** to draw the consequences
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

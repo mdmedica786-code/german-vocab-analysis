@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4062"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Hundeschule.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Hundeschule
+
+![[Hundeschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hundeschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hundeschule&language=de)
 
 **Meaning:** dog school; dog training school
 **Plural:** Hundeschulen

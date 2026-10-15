@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2808"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "runzeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # runzeln
+
+![[runzeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/runzeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=runzeln&language=de)
 
 **Meaning:** to wrinkle; to frown
 **Forms:** runzelt · runzelte · hat gerunzelt

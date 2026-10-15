@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2141"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "in Abrede stellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Abrede stellen
+
+![[in Abrede stellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Abrede%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Abrede%20stellen&language=de)
 
 **Meaning:** to deny; to dispute
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

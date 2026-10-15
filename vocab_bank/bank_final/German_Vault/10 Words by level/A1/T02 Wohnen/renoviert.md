@@ -12,11 +12,16 @@ id: "B1391"
 netzwerk: "A1 K9 3c"
 freq_rank: 5759
 skip: false
+audio: "renoviert.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # renoviert
+
+![[renoviert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/renoviert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=renoviert&language=de)
 
 **Meaning:** refurbished
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

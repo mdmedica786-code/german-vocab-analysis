@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0299"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Tragweite.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tragweite
+
+![[Tragweite.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tragweite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tragweite&language=de)
 
 **Meaning:** significance; consequences
 **Plural:** –

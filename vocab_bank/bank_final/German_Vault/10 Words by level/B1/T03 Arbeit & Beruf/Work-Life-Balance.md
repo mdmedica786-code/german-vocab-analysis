@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Work-Life-Balance
 
+[▶️ YouGlish](https://youglish.com/pronounce/Work-Life-Balance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Work-Life-Balance&language=de)
+
 **Meaning:** work-life-balance
 **Plural:** –
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 3b"
 freq_rank: 5759
 skip: false
+audio: "Tram.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Tram
+
+![[Tram.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tram/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tram&language=de)
 
 **Meaning:** tram
 **Plural:** Trams

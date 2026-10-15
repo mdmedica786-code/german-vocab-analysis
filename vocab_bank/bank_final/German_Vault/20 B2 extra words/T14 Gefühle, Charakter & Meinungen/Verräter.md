@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3681"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Verräter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verräter
+
+![[Verräter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verr%C3%A4ter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verr%C3%A4ter&language=de)
 
 **Meaning:** traitor
 **Plural:** Verräter

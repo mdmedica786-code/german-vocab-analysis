@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 3c ÜB"
 freq_rank: 1772
 skip: false
+audio: "süß.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # süß
+
+![[süß.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/s%C3%BC%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=s%C3%BC%C3%9F&language=de)
 
 **Meaning:** sweet
 **Other senses:** cute

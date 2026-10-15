@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 2854
 skip: false
+audio: "buchen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # buchen
+
+![[buchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/buchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=buchen&language=de)
 
 **Meaning:** to book
 **Forms:** bucht · buchte · hat gebucht

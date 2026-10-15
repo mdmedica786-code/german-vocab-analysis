@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4446"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Sprachstil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sprachstil
+
+![[Sprachstil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachstil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachstil&language=de)
 
 **Meaning:** language style; style of speech
 **Plural:** Sprachstile

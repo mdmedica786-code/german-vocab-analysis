@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 8d"
 freq_rank: 3993
 skip: false
+audio: "erfinden.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfinden
+
+![[erfinden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfinden&language=de)
 
 **Meaning:** to invent
 **Forms:** erfindet · erfand · hat erfunden

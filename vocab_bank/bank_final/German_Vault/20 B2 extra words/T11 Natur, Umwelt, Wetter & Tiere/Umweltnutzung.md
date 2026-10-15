@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4521"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Umweltnutzung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltnutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltnutzung&language=de)
 
 **Meaning:** use of the environment
 **Plural:** –

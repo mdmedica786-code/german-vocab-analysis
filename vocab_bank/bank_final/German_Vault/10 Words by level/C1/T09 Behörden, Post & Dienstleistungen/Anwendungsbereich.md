@@ -14,11 +14,16 @@ bank: "main"
 id: "B6176"
 freq_rank: 4776
 skip: false
+audio: "Anwendungsbereich.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anwendungsbereich
+
+![[Anwendungsbereich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anwendungsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anwendungsbereich&language=de)
 
 **Meaning:** scope; area of application
 **Plural:** Anwendungsbereiche

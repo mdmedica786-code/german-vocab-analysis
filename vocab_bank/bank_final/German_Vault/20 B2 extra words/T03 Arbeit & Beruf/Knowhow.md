@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4111"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Knowhow
+
+[▶️ YouGlish](https://youglish.com/pronounce/Knowhow/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knowhow&language=de)
 
 **Meaning:** know-how; expertise
 **Plural:** –

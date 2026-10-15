@@ -15,11 +15,16 @@ id: "B3231"
 netzwerk: "A2 K12 10c"
 freq_rank: 5759
 skip: false
+audio: "Wildschwein.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wildschwein
+
+![[Wildschwein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wildschwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildschwein&language=de)
 
 **Meaning:** wild boar
 **Plural:** Wildschweine

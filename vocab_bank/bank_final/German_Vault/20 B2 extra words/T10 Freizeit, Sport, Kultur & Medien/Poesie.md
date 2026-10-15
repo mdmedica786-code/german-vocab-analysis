@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3006"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Poesie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Poesie
+
+![[Poesie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Poesie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poesie&language=de)
 
 **Meaning:** poetry
 **Plural:** Poesien

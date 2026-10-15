@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 10b"
 freq_rank: 2339
 skip: false
+audio: "Bewohner.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bewohner
+
+![[Bewohner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewohner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewohner&language=de)
 
 **Meaning:** resident (m)
 **Plural:** Bewohner

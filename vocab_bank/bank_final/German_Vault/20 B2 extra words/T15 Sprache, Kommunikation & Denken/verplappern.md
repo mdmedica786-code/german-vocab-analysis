@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1318"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "verplappern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # verplappern
+
+![[verplappern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verplappern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verplappern&language=de)
 
 **Meaning:** to let something slip
 **Forms:** verplappert sich · verplapperte sich · hat sich verplappert

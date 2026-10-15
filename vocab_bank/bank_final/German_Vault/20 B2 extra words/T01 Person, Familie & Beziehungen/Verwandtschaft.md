@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1135"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Verwandtschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwandtschaft
+
+![[Verwandtschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwandtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwandtschaft&language=de)
 
 **Meaning:** relatives; kinship
 **Plural:** Verwandtschaften

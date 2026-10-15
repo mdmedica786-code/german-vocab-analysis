@@ -15,11 +15,16 @@ id: "B4196"
 netzwerk: "B1 K6 10a"
 freq_rank: 2804
 skip: false
+audio: "Jury.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jury
+
+![[Jury.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jury/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jury&language=de)
 
 **Meaning:** jury
 **Plural:** Jurys

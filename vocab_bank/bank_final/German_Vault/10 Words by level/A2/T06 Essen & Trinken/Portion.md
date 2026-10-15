@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 4437
 skip: false
+audio: "Portion.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Portion
+
+![[Portion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Portion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portion&language=de)
 
 **Meaning:** portion
 **Plural:** Portionen

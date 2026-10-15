@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4245"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "motzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # motzen
+
+![[motzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/motzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=motzen&language=de)
 
 **Meaning:** to grumble; to moan (colloquial)
 **Forms:** motzt · motzte · hat gemotzt

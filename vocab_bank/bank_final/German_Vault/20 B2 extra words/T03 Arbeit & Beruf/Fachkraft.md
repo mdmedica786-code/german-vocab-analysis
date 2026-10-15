@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0417"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Fachkraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fachkraft
+
+![[Fachkraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachkraft&language=de)
 
 **Meaning:** skilled worker; specialist
 **Plural:** Fachkräfte

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Partei ergreifen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Partei%20ergreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partei%20ergreifen&language=de)
+
 **Meaning:** to take sides
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # halbformell
 
+[▶️ YouGlish](https://youglish.com/pronounce/halbformell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=halbformell&language=de)
+
 **Meaning:** semi-formal
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

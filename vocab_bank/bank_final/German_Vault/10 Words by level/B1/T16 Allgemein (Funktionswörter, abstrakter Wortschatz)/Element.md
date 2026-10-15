@@ -14,11 +14,16 @@ bank: "main"
 id: "B5196"
 freq_rank: 682
 skip: false
+audio: "Element.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Element
+
+![[Element.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Element/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Element&language=de)
 
 **Meaning:** element
 **Plural:** Elemente

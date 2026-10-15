@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0252"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "eindämmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # eindämmen
+
+![[eindämmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eind%C3%A4mmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eind%C3%A4mmen&language=de)
 
 **Meaning:** to contain; to curb
 **Forms:** dämmt ein · dämmte ein · hat eingedämmt

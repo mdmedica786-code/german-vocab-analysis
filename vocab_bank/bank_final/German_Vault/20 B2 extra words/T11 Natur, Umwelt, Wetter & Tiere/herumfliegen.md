@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4037"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "herumfliegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # herumfliegen
+
+![[herumfliegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herumfliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herumfliegen&language=de)
 
 **Meaning:** to fly around
 **Forms:** fliegt herum · flog herum · ist herumgeflogen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 10b"
 freq_rank: 3709
 skip: false
+audio: "Maus.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Maus
+
+![[Maus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maus&language=de)
 
 **Meaning:** mouse
 **Plural:** Mäuse

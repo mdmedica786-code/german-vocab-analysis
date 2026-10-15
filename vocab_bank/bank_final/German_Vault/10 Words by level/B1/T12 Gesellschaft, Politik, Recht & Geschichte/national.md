@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # national
 
+[▶️ YouGlish](https://youglish.com/pronounce/national/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=national&language=de)
+
 **Meaning:** national
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

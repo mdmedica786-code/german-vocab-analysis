@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0706"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Überschwemmung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überschwemmung
+
+![[Überschwemmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberschwemmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberschwemmung&language=de)
 
 **Meaning:** flood
 **Plural:** Überschwemmungen

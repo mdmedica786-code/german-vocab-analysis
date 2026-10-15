@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1605"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "hemmungslos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hemmungslos
+
+![[hemmungslos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hemmungslos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hemmungslos&language=de)
 
 **Meaning:** unrestrained; without inhibition
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

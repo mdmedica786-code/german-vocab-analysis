@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2693"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Autorität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Autorität
+
+![[Autorität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autorit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autorit%C3%A4t&language=de)
 
 **Meaning:** authority
 **Plural:** Autoritäten

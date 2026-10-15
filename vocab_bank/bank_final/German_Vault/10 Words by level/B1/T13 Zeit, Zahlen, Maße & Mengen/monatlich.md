@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 5507
 skip: false
+audio: "monatlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # monatlich
+
+![[monatlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/monatlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=monatlich&language=de)
 
 **Meaning:** monthly
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

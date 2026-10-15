@@ -15,11 +15,16 @@ id: "B1667"
 netzwerk: "A1 K11 11b"
 freq_rank: 5759
 skip: false
+audio: "Buchladen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Buchladen
+
+![[Buchladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchladen&language=de)
 
 **Meaning:** bookstore
 **Plural:** Buchläden

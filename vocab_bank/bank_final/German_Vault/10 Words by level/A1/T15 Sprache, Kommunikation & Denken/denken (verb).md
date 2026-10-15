@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 8c"
 freq_rank: 117
 skip: false
+audio: "denken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # denken
+
+![[denken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/denken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=denken&language=de)
 
 **Meaning:** to think
 **Forms:** denkt · dachte · hat gedacht

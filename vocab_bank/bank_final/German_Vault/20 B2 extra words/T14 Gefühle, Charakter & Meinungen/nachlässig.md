@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0781"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "nachlässig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachlässig
+
+![[nachlässig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachl%C3%A4ssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachl%C3%A4ssig&language=de)
 
 **Meaning:** careless; negligent
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

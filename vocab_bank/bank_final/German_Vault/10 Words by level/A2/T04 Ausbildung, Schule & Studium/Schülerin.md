@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schülerin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%BClerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%BClerin&language=de)
+
 **Meaning:** pupil (f)
 **Plural:** Schülerinnen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 6a"
 freq_rank: 2000
 skip: false
+audio: "Alternative.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Alternative
+
+![[Alternative.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alternative/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alternative&language=de)
 
 **Meaning:** alternative
 **Plural:** Alternativen

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # türkisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/t%C3%BCrkisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=t%C3%BCrkisch&language=de)
+
 **Meaning:** Turkish
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

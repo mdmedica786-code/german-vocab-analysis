@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7b"
 freq_rank: 431
 skip: false
+audio: "Sohn.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sohn
+
+![[Sohn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sohn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sohn&language=de)
 
 **Meaning:** son
 **Plural:** Söhne

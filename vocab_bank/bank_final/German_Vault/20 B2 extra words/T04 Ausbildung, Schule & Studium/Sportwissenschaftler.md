@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4444"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Sportwissenschaftler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sportwissenschaftler
+
+![[Sportwissenschaftler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportwissenschaftler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportwissenschaftler&language=de)
 
 **Meaning:** sports scientist (male)
 **Plural:** Sportwissenschaftler

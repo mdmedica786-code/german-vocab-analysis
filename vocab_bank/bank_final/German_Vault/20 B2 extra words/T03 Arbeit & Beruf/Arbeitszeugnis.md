@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0471"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Arbeitszeugnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitszeugnis
+
+![[Arbeitszeugnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitszeugnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszeugnis&language=de)
 
 **Meaning:** employment reference
 **Plural:** Arbeitszeugnisse

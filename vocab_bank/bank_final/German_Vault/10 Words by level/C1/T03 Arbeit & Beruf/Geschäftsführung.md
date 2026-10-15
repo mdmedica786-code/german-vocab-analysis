@@ -14,11 +14,16 @@ bank: "main"
 id: "B6215"
 freq_rank: 4928
 skip: false
+audio: "Geschäftsführung.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschäftsführung
+
+![[Geschäftsführung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsf%C3%BChrung&language=de)
 
 **Meaning:** management
 **Plural:** Geschäftsführungen

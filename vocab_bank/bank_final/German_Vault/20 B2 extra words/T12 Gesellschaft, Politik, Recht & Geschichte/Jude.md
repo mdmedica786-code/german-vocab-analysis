@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2417"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Jude.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Jude
+
+![[Jude.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jude&language=de)
 
 **Meaning:** Jew
 **Plural:** Juden

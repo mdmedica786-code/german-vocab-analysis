@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4092"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Jungtier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Jungtier
+
+![[Jungtier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jungtier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jungtier&language=de)
 
 **Meaning:** young animal; cub
 **Plural:** Jungtiere

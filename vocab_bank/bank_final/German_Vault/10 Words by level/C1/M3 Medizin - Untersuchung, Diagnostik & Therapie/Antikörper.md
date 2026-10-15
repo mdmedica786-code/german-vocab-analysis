@@ -14,11 +14,16 @@ bank: "main"
 id: "B6288"
 freq_rank: 5367
 skip: false
+audio: "Antikörper.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Antikörper
+
+![[Antikörper.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Antik%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antik%C3%B6rper&language=de)
 
 **Meaning:** antibody
 **Plural:** Antikörper

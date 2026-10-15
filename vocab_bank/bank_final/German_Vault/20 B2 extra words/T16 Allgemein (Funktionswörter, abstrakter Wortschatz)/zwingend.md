@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0807"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zwingend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwingend
+
+![[zwingend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwingend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwingend&language=de)
 
 **Meaning:** compelling; mandatory
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

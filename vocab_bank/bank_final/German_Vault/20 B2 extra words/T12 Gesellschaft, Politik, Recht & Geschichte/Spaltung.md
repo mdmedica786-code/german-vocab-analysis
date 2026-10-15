@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3449"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Spaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spaltung
+
+![[Spaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaltung&language=de)
 
 **Meaning:** split; division; fission
 **Plural:** Spaltungen

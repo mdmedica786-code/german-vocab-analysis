@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 12b"
 freq_rank: 312
 skip: false
+audio: "einzig.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # einzig
+
+![[einzig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einzig&language=de)
 
 **Meaning:** only; sole; single
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

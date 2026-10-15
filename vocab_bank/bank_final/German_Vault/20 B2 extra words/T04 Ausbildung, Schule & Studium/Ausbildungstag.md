@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3755"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Ausbildungstag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Ausbildungstag
+
+![[Ausbildungstag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbildungstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbildungstag&language=de)
 
 **Meaning:** training day
 **Plural:** Ausbildungstage

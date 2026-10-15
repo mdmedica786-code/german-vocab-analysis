@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Anstoß nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ansto%C3%9F%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansto%C3%9F%20nehmen&language=de)
+
 **Meaning:** to take offence
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

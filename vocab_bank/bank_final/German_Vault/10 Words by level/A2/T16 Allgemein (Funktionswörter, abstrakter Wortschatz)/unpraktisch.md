@@ -12,11 +12,16 @@ id: "B2637"
 netzwerk: "A2 K7 10c"
 freq_rank: 5759
 skip: false
+audio: "unpraktisch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unpraktisch
+
+![[unpraktisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unpraktisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unpraktisch&language=de)
 
 **Meaning:** impractical
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

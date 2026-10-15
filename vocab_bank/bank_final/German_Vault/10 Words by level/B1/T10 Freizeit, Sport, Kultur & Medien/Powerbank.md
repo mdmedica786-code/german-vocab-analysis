@@ -15,11 +15,16 @@ id: "B3401"
 netzwerk: "B1 K2 4a"
 freq_rank: 5759
 skip: false
+audio: "Powerbank.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Powerbank
+
+![[Powerbank.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Powerbank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Powerbank&language=de)
 
 **Meaning:** powerbank
 **Plural:** Powerbanks

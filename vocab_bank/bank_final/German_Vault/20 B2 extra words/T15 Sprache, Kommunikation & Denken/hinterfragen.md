@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0232"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "hinterfragen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinterfragen
+
+![[hinterfragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinterfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinterfragen&language=de)
 
 **Meaning:** to question; to scrutinise
 **Forms:** hinterfragt · hinterfragte · hat hinterfragt

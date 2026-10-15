@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0941"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Prüfungsangst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Prüfungsangst
+
+![[Prüfungsangst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%BCfungsangst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%BCfungsangst&language=de)
 
 **Meaning:** exam anxiety
 **Plural:** –

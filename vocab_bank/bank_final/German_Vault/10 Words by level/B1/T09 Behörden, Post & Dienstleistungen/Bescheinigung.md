@@ -15,11 +15,16 @@ id: "B3779"
 netzwerk: "B1 K4 8b"
 freq_rank: 5759
 skip: false
+audio: "Bescheinigung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bescheinigung
+
+![[Bescheinigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bescheinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bescheinigung&language=de)
 
 **Meaning:** certificate
 **Plural:** Bescheinigungen

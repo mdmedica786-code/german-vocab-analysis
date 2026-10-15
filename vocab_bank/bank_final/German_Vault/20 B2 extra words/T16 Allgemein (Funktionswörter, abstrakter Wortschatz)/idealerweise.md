@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4064"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "idealerweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # idealerweise
+
+![[idealerweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/idealerweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=idealerweise&language=de)
 
 **Meaning:** ideally
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

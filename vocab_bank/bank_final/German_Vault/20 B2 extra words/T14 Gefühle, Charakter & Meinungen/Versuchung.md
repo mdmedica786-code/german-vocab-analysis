@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0317"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Versuchung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Versuchung
+
+![[Versuchung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versuchung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versuchung&language=de)
 
 **Meaning:** temptation
 **Plural:** Versuchungen

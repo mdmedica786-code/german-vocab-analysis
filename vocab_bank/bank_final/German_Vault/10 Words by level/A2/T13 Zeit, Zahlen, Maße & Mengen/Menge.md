@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 1b"
 freq_rank: 563
 skip: false
+audio: "Menge.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Menge
+
+![[Menge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menge&language=de)
 
 **Meaning:** amount
 **Plural:** Mengen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0819"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "nachdenklich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachdenklich
+
+![[nachdenklich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachdenklich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachdenklich&language=de)
 
 **Meaning:** thoughtful; pensive
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

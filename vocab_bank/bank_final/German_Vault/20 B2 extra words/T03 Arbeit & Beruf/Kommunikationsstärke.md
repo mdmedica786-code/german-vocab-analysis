@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4116"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Kommunikationsstärke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kommunikationsstärke
+
+![[Kommunikationsstärke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommunikationsst%C3%A4rke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationsst%C3%A4rke&language=de)
 
 **Meaning:** communication skills; strength in communicating
 **Plural:** Kommunikationsstärken

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7c"
 freq_rank: 170
 skip: false
+audio: "verstehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verstehen
+
+![[verstehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verstehen&language=de)
 
 **Meaning:** to understand
 **Other senses:** sich: to get along

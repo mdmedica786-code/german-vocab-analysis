@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0820"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "rechthaberisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # rechthaberisch
+
+![[rechthaberisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rechthaberisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechthaberisch&language=de)
 
 **Meaning:** opinionated; always wanting to be right
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Marketing-Agentur
 
+[▶️ YouGlish](https://youglish.com/pronounce/Marketing-Agentur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marketing-Agentur&language=de)
+
 **Meaning:** marketing agency
 **Plural:** Marketing-Agenturen
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

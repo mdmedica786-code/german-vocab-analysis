@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4304"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Pfütze.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Pfütze
+
+![[Pfütze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pf%C3%BCtze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pf%C3%BCtze&language=de)
 
 **Meaning:** puddle
 **Plural:** Pfützen

@@ -15,11 +15,16 @@ id: "B1271"
 netzwerk: "A1 K8 10a"
 freq_rank: 5759
 skip: false
+audio: "Bauchschmerzen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bauchschmerzen
+
+![[Bauchschmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauchschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauchschmerzen&language=de)
 
 **Meaning:** stomach pain
 **Plural:** (Pl.)

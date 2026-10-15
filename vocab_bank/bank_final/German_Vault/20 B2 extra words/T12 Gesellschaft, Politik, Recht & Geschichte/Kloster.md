@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2670"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Kloster.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kloster
+
+![[Kloster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kloster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kloster&language=de)
 
 **Meaning:** monastery; convent
 **Plural:** Klöster

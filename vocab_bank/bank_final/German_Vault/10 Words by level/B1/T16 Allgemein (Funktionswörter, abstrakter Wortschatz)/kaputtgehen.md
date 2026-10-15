@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "kaputtgehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kaputtgehen
+
+![[kaputtgehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kaputtgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kaputtgehen&language=de)
 
 **Meaning:** to break
 **Forms:** geht kaputt · ging kaputt · ist kaputtgegangen

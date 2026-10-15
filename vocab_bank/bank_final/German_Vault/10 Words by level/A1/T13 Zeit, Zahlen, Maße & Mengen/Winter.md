@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 10a"
 freq_rank: 1573
 skip: false
+audio: "Winter.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Winter
+
+![[Winter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Winter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winter&language=de)
 
 **Meaning:** winter
 **Plural:** Winter

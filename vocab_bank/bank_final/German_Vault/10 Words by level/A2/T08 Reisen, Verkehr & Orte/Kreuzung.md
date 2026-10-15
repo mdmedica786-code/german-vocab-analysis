@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 8c"
 freq_rank: 5551
 skip: false
+audio: "Kreuzung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kreuzung
+
+![[Kreuzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreuzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreuzung&language=de)
 
 **Meaning:** crossroads
 **Plural:** Kreuzungen

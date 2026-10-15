@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4283"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "optimieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # optimieren
+
+![[optimieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/optimieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optimieren&language=de)
 
 **Meaning:** to optimise
 **Forms:** optimiert · optimierte · hat optimiert

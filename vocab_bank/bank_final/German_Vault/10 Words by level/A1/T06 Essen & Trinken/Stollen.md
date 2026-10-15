@@ -15,11 +15,16 @@ id: "B1563"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Stollen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stollen
+
+![[Stollen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stollen&language=de)
 
 **Meaning:** Christmas stollen (fruit loaf); tunnel
 **Plural:** Stollen

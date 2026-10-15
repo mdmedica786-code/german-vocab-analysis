@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 3b"
 freq_rank: 789
 skip: false
+audio: "wohnen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wohnen
+
+![[wohnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wohnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wohnen&language=de)
 
 **Meaning:** to live
 **Forms:** wohnt · wohnte · hat gewohnt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3921"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Exponat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Exponat
+
+![[Exponat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Exponat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exponat&language=de)
 
 **Meaning:** exhibit
 **Plural:** Exponate

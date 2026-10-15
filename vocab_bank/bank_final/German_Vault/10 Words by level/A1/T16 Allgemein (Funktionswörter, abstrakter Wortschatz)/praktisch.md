@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 12b"
 freq_rank: 723
 skip: false
+audio: "praktisch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # praktisch
+
+![[praktisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/praktisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=praktisch&language=de)
 
 **Meaning:** practical
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

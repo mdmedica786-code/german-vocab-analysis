@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Messe
 
+[▶️ YouGlish](https://youglish.com/pronounce/Messe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messe&language=de)
+
 **Meaning:** exhibition
 **Plural:** Messen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

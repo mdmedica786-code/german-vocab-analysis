@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13c"
 freq_rank: 2875
 skip: false
+audio: "aufheben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufheben
+
+![[aufheben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufheben&language=de)
 
 **Meaning:** to pick up; to keep; to cancel
 **Forms:** hebt auf · hob auf · hat aufgehoben

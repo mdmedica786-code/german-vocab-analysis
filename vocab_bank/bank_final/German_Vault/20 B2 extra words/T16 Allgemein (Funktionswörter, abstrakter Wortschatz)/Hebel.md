@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3675"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Hebel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hebel
+
+![[Hebel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hebel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hebel&language=de)
 
 **Meaning:** lever
 **Plural:** Hebel

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6108"
 freq_rank: 4434
 skip: false
+audio: "Tresen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tresen
+
+![[Tresen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tresen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tresen&language=de)
 
 **Meaning:** counter; bar
 **Plural:** Tresen

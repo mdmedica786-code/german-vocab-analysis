@@ -13,11 +13,16 @@ id: "B1121"
 netzwerk: "A1 K7 6a"
 freq_rank: 5759
 skip: false
+audio: "hochfahren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hochfahren
+
+![[hochfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hochfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hochfahren&language=de)
 
 **Meaning:** to start up
 **Forms:** fährt hoch · fuhr hoch · hat hochgefahren

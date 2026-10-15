@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 1133
 skip: false
+audio: "Million.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Million
+
+![[Million.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Million/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Million&language=de)
 
 **Meaning:** million
 **Plural:** Millionen

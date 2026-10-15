@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3211"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Angreifer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Angreifer
+
+![[Angreifer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angreifer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angreifer&language=de)
 
 **Meaning:** attacker; assailant
 **Plural:** Angreifer

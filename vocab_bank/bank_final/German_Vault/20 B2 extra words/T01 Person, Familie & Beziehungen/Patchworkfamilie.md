@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1139"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Patchworkfamilie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Patchworkfamilie
+
+![[Patchworkfamilie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Patchworkfamilie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Patchworkfamilie&language=de)
 
 **Meaning:** blended family
 **Plural:** Patchworkfamilien

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0839"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "abwarten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # abwarten
+
+![[abwarten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abwarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abwarten&language=de)
 
 **Meaning:** to wait and see; to wait for
 **Forms:** wartet ab · wartete ab · hat abgewartet

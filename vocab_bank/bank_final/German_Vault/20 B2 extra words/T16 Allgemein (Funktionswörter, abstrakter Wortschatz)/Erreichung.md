@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3251"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Erreichung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erreichung
+
+![[Erreichung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erreichung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erreichung&language=de)
 
 **Meaning:** achievement; attainment
 **Plural:** –

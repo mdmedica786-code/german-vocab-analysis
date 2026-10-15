@@ -15,11 +15,16 @@ id: "B6600"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Vorfahrt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorfahrt
+
+![[Vorfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfahrt&language=de)
 
 **Meaning:** right of way
 **Plural:** –

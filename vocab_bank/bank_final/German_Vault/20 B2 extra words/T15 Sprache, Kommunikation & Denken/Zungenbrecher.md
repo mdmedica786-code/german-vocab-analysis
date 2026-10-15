@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1933"
 exam_use: ["Sprechen", "Hören"]
 skip: false
+audio: "Zungenbrecher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zungenbrecher
+
+![[Zungenbrecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zungenbrecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zungenbrecher&language=de)
 
 **Meaning:** tongue twister
 **Plural:** Zungenbrecher

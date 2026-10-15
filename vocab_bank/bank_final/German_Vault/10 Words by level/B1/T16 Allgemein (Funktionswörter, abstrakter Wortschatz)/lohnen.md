@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3a"
 freq_rank: 3483
 skip: false
+audio: "lohnen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lohnen
+
+![[lohnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lohnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lohnen&language=de)
 
 **Meaning:** to be worth it
 **Forms:** lohnt sich · lohnte sich · hat sich gelohnt

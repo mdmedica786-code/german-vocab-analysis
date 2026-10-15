@@ -15,11 +15,16 @@ id: "B2194"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Storch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Storch
+
+![[Storch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Storch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Storch&language=de)
 
 **Meaning:** stork
 **Plural:** Störche

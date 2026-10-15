@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0216"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verweisen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verweisen
+
+![[verweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verweisen&language=de)
 
 **Meaning:** to refer; to point out
 **Forms:** verweist · verwies · hat verwiesen

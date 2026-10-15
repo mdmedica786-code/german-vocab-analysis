@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3427"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "zweckmäßig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zweckmäßig
+
+![[zweckmäßig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zweckm%C3%A4%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweckm%C3%A4%C3%9Fig&language=de)
 
 **Meaning:** practical; expedient; suitable
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

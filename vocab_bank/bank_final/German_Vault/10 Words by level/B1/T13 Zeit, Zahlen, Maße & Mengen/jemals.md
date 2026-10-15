@@ -12,11 +12,16 @@ id: "B5399"
 goethe_level: "B1"
 freq_rank: 1786
 skip: false
+audio: "jemals.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jemals
+
+![[jemals.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jemals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemals&language=de)
 
 **Meaning:** ever
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B2699"
 netzwerk: "A2 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "freimachen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # freimachen
+
+![[freimachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freimachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freimachen&language=de)
 
 **Meaning:** to clear; to free up
 **Forms:** macht frei · machte frei · hat freigemacht

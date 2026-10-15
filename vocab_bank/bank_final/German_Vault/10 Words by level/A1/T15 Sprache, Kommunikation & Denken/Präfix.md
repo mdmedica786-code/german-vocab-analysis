@@ -15,11 +15,16 @@ id: "B1625"
 netzwerk: "A1 K11 5b"
 freq_rank: 5759
 skip: false
+audio: "Präfix.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Präfix
+
+![[Präfix.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4fix/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4fix&language=de)
 
 **Meaning:** prefix
 **Plural:** Präfixe

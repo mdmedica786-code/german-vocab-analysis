@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 4292
 skip: false
+audio: "prima.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # prima
+
+![[prima.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/prima/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=prima&language=de)
 
 **Meaning:** great
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** informal

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0379"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Rahmenbedingung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rahmenbedingung
+
+![[Rahmenbedingung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rahmenbedingung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rahmenbedingung&language=de)
 
 **Meaning:** general condition; framework
 **Plural:** Rahmenbedingungen

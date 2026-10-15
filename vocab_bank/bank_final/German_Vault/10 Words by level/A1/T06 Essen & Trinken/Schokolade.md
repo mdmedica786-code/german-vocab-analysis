@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 2a"
 freq_rank: 4181
 skip: false
+audio: "Schokolade.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schokolade
+
+![[Schokolade.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schokolade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schokolade&language=de)
 
 **Meaning:** chocolate
 **Plural:** –

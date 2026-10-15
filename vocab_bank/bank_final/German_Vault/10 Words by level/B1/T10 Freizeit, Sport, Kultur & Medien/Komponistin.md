@@ -15,11 +15,16 @@ id: "B4308"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "Komponistin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Komponistin
+
+![[Komponistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komponistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komponistin&language=de)
 
 **Meaning:** composer (f)
 **Plural:** Komponistinnen

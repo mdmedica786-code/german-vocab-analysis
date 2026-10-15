@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 7a"
 freq_rank: 2000
 skip: false
+audio: "Erwachsene.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Erwachsene
+
+![[Erwachsene.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erwachsene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erwachsene&language=de)
 
 **Meaning:** adult
 **Plural:** Erwachsenen

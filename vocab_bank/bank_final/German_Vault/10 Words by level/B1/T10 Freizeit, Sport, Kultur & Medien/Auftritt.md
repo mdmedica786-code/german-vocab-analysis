@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 2000
 skip: false
+audio: "Auftritt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Auftritt
+
+![[Auftritt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auftritt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auftritt&language=de)
 
 **Meaning:** appearance
 **Plural:** Auftritte

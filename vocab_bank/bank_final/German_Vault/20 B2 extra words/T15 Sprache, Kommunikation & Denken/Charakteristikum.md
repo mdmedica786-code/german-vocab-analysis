@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3548"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Charakteristikum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Charakteristikum
+
+![[Charakteristikum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Charakteristikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charakteristikum&language=de)
 
 **Meaning:** characteristic; distinctive feature
 **Plural:** Charakteristika

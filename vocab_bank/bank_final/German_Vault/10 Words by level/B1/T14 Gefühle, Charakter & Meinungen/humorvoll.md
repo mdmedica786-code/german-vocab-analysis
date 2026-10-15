@@ -12,11 +12,16 @@ id: "B4736"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 5759
 skip: false
+audio: "humorvoll.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # humorvoll
+
+![[humorvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/humorvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=humorvoll&language=de)
 
 **Meaning:** humorous
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

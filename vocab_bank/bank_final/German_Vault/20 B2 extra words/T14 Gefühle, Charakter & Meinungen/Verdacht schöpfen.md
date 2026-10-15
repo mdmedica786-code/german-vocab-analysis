@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Verdacht schöpfen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Verdacht%20sch%C3%B6pfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verdacht%20sch%C3%B6pfen&language=de)
+
 **Meaning:** to become suspicious
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

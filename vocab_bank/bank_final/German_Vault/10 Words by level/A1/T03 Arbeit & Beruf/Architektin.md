@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 9a"
 freq_rank: 5759
 skip: false
+audio: "Architektin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Architektin
+
+![[Architektin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Architektin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architektin&language=de)
 
 **Meaning:** architect (f)
 **Plural:** Architektinnen

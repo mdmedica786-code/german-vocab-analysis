@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6c"
 freq_rank: 2874
 skip: false
+audio: "irren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # irren
+
+![[irren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/irren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irren&language=de)
 
 **Meaning:** to be wrong, to confuse
 **Forms:** irrt sich · irrte sich · hat sich geirrt

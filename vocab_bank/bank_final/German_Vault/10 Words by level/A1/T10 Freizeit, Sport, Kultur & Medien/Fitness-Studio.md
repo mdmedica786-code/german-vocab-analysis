@@ -15,11 +15,16 @@ id: "B0919"
 netzwerk: "A1 K6 1a"
 freq_rank: 4099
 skip: false
+audio: "Fitness-Studio.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fitness-Studio
+
+![[Fitness-Studio.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fitness-Studio/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fitness-Studio&language=de)
 
 **Meaning:** gym
 **Plural:** Fitness-Studios

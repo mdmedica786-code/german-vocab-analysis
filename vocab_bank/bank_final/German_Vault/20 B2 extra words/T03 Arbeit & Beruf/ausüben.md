@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2656"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ausüben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausüben
+
+![[ausüben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aus%C3%BCben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aus%C3%BCben&language=de)
 
 **Meaning:** to practise (a profession); to exercise
 **Forms:** übt aus · übte aus · hat ausgeübt

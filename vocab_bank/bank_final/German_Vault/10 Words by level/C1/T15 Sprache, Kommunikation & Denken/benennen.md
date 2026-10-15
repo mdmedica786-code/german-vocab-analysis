@@ -12,11 +12,16 @@ bank: "main"
 id: "B5619"
 freq_rank: 2586
 skip: false
+audio: "benennen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # benennen
+
+![[benennen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/benennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=benennen&language=de)
 
 **Meaning:** to name; to designate
 **Forms:** benennt · benannte · hat benannt

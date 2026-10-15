@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Reinigungspersonal
 
+[▶️ YouGlish](https://youglish.com/pronounce/Reinigungspersonal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigungspersonal&language=de)
+
 **Meaning:** cleaning staff
 **Plural:** –
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

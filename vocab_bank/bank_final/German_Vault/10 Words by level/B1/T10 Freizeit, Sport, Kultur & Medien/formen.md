@@ -13,11 +13,16 @@ id: "B4539"
 netzwerk: "B1 K8 13a"
 freq_rank: 1163
 skip: false
+audio: "formen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # formen
+
+![[formen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/formen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=formen&language=de)
 
 **Meaning:** to shape; to form
 **Forms:** formt · formte · hat geformt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2646"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Gnade.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gnade
+
+![[Gnade.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gnade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gnade&language=de)
 
 **Meaning:** mercy; grace
 **Plural:** –

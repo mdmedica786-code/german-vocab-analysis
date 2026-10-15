@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 7a"
 freq_rank: 413
 skip: false
+audio: "geschehen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # geschehen
+
+![[geschehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geschehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschehen&language=de)
 
 **Meaning:** to happen
 **Forms:** geschieht · geschah · ist geschehen

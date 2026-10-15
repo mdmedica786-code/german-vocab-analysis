@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4117"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Kommunikationswissenschaftler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kommunikationswissenschaftler
+
+![[Kommunikationswissenschaftler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommunikationswissenschaftler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationswissenschaftler&language=de)
 
 **Meaning:** communication scientist (male)
 **Plural:** Kommunikationswissenschaftler

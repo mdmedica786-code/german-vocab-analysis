@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3b"
 freq_rank: 448
 skip: false
+audio: "Prozess.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Prozess
+
+![[Prozess.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prozess/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prozess&language=de)
 
 **Meaning:** trial; process
 **Plural:** Prozesse

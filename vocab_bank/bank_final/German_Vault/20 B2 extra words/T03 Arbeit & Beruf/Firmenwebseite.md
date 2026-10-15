@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3947"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Firmenwebseite
+
+[▶️ YouGlish](https://youglish.com/pronounce/Firmenwebseite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firmenwebseite&language=de)
 
 **Meaning:** company website
 **Plural:** Firmenwebseiten

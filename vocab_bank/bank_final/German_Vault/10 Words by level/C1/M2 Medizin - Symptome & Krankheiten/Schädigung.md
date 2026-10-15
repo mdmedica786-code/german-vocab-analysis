@@ -14,11 +14,16 @@ bank: "main"
 id: "B6154"
 freq_rank: 4649
 skip: false
+audio: "Schädigung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schädigung
+
+![[Schädigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%A4digung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%A4digung&language=de)
 
 **Meaning:** damage
 **Plural:** Schädigungen

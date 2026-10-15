@@ -14,11 +14,16 @@ bank: "main"
 id: "B5677"
 freq_rank: 2765
 skip: false
+audio: "Panik.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Panik
+
+![[Panik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Panik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Panik&language=de)
 
 **Meaning:** panic
 **Plural:** –

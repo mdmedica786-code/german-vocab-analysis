@@ -14,11 +14,16 @@ bank: "main"
 id: "B5157"
 freq_rank: 457
 skip: false
+audio: "Rahmen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rahmen
+
+![[Rahmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rahmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rahmen&language=de)
 
 **Meaning:** frame; framework; scope
 **Plural:** Rahmen

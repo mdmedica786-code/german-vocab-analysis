@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4036"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "herausragen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # herausragen
+
+![[herausragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herausragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herausragen&language=de)
 
 **Meaning:** to stand out; to protrude
 **Forms:** ragt heraus · ragte heraus · hat herausgeragt

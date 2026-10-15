@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3005"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "nochmal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # nochmal
+
+![[nochmal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nochmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nochmal&language=de)
 
 **Meaning:** once more; again
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** colloquial

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Platz
 
+[▶️ YouGlish](https://youglish.com/pronounce/Platz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platz&language=de)
+
 **Meaning:** room; space; square
 **Other senses:** square; place
 **Plural:** Plätze

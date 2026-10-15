@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3689"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "abstürzen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # abstürzen
+
+![[abstürzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abst%C3%BCrzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abst%C3%BCrzen&language=de)
 
 **Meaning:** to crash; to fall (from a height)
 **Forms:** stürzt ab · stürzte ab · ist abgestürzt

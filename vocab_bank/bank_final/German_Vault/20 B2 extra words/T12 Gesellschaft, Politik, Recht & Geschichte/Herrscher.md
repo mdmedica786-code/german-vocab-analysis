@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2801"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Herrscher.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Herrscher
+
+![[Herrscher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herrscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herrscher&language=de)
 
 **Meaning:** ruler
 **Plural:** Herrscher

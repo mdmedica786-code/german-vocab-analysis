@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3733"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "arrogant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # arrogant
+
+![[arrogant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/arrogant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=arrogant&language=de)
 
 **Meaning:** arrogant
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

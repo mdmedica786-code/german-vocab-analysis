@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1843"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "verordnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # verordnen
+
+![[verordnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verordnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verordnen&language=de)
 
 **Meaning:** to prescribe; to decree
 **Forms:** verordnet · verordnete · hat verordnet

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3852"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Corona-Virus
+
+[▶️ YouGlish](https://youglish.com/pronounce/Corona-Virus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Corona-Virus&language=de)
 
 **Meaning:** coronavirus
 **Plural:** Corona-Viren

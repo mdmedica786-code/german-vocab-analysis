@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2988"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Infrastruktur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Infrastruktur
+
+![[Infrastruktur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Infrastruktur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infrastruktur&language=de)
 
 **Meaning:** infrastructure
 **Plural:** Infrastrukturen

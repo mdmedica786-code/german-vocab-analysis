@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4485"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Textverweis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Textverweis
+
+![[Textverweis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Textverweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textverweis&language=de)
 
 **Meaning:** cross-reference (in a text)
 **Plural:** Textverweise

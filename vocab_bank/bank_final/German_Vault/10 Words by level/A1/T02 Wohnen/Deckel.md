@@ -15,11 +15,16 @@ id: "B1696"
 netzwerk: "A1 K11 12b"
 freq_rank: 3857
 skip: false
+audio: "Deckel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Deckel
+
+![[Deckel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deckel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deckel&language=de)
 
 **Meaning:** lid
 **Plural:** Deckel

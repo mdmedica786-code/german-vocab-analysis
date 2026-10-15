@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 13a"
 freq_rank: 757
 skip: false
+audio: "untersuchen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # untersuchen
+
+![[untersuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/untersuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=untersuchen&language=de)
 
 **Meaning:** to examine
 **Forms:** untersucht · untersuchte · hat untersucht

@@ -15,11 +15,16 @@ id: "B4211"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 3240
 skip: false
+audio: "Gelände.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gelände
+
+![[Gelände.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gel%C3%A4nde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gel%C3%A4nde&language=de)
 
 **Meaning:** site; grounds; terrain
 **Plural:** Gelände

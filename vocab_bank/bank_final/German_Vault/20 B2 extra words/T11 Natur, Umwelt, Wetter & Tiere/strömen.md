@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3535"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "strömen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # strömen
+
+![[strömen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/str%C3%B6men/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=str%C3%B6men&language=de)
 
 **Meaning:** to stream; to flow; to pour
 **Forms:** strömt · strömte · ist geströmt

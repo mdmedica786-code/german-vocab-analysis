@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 2183
 skip: false
+audio: "neugierig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # neugierig
+
+![[neugierig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/neugierig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neugierig&language=de)
 
 **Meaning:** curious
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

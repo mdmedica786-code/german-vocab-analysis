@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3505"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Querschnitt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Querschnitt
+
+![[Querschnitt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Querschnitt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Querschnitt&language=de)
 
 **Meaning:** cross-section; overview
 **Plural:** Querschnitte

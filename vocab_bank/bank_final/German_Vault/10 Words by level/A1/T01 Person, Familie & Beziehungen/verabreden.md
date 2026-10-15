@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 12b"
 freq_rank: 5354
 skip: false
+audio: "verabreden.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verabreden
+
+![[verabreden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verabreden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verabreden&language=de)
 
 **Meaning:** to make plans
 **Forms:** verabredet · verabredete · hat verabredet

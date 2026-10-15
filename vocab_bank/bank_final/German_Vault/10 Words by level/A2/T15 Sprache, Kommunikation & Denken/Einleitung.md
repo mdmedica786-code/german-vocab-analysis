@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 1989
 skip: false
+audio: "Einleitung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einleitung
+
+![[Einleitung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einleitung&language=de)
 
 **Meaning:** introduction
 **Plural:** Einleitungen

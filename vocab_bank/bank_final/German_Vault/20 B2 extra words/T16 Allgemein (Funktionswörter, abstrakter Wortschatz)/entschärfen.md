@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0889"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entschärfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entschärfen
+
+![[entschärfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entsch%C3%A4rfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entsch%C3%A4rfen&language=de)
 
 **Meaning:** to defuse; to tone down
 **Forms:** entschärft · entschärfte · hat entschärft

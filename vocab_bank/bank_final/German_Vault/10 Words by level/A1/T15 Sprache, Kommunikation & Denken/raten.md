@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 5b"
 freq_rank: 3128
 skip: false
+audio: "raten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # raten
+
+![[raten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/raten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=raten&language=de)
 
 **Meaning:** to guess; to advise
 **Other senses:** to advise

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2748"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "umher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # umher
+
+![[umher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umher&language=de)
 
 **Meaning:** about; around
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

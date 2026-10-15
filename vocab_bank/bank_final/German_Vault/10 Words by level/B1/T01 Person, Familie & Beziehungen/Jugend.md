@@ -15,11 +15,16 @@ id: "B5359"
 goethe_level: "B1"
 freq_rank: 1620
 skip: false
+audio: "Jugend.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jugend
+
+![[Jugend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jugend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugend&language=de)
 
 **Meaning:** youth
 **Plural:** –

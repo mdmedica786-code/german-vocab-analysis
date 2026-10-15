@@ -12,11 +12,16 @@ id: "B5559"
 goethe_level: "B1"
 freq_rank: 2332
 skip: false
+audio: "statistisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # statistisch
+
+![[statistisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/statistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=statistisch&language=de)
 
 **Meaning:** statistical
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

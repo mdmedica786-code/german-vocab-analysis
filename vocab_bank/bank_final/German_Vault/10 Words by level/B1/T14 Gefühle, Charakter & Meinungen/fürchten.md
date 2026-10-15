@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 1266
 skip: false
+audio: "fürchten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fürchten
+
+![[fürchten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCrchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCrchten&language=de)
 
 **Meaning:** to fear; to be afraid
 **Forms:** fürchtet · fürchtete · hat gefürchtet

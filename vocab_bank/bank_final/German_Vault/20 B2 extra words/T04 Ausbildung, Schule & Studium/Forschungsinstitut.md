@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3957"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Forschungsinstitut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Forschungsinstitut
+
+![[Forschungsinstitut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forschungsinstitut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forschungsinstitut&language=de)
 
 **Meaning:** research institute
 **Plural:** Forschungsinstitute

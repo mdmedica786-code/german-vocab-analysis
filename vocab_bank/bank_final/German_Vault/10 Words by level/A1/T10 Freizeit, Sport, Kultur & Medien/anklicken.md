@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K3 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "anklicken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anklicken
+
+![[anklicken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anklicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anklicken&language=de)
 
 **Meaning:** to click
 **Forms:** klickt an · klickte an · hat angeklickt

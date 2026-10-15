@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 4b"
 freq_rank: 1051
 skip: false
+audio: "eindeutig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eindeutig
+
+![[eindeutig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eindeutig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eindeutig&language=de)
 
 **Meaning:** clear
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 5a"
 freq_rank: 5759
 skip: false
+audio: "Trainerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Trainerin
+
+![[Trainerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trainerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trainerin&language=de)
 
 **Meaning:** trainer (f)
 **Plural:** Trainerinnen

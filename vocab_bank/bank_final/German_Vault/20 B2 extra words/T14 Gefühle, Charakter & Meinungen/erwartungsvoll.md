@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3464"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "erwartungsvoll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwartungsvoll
+
+![[erwartungsvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwartungsvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwartungsvoll&language=de)
 
 **Meaning:** expectant; full of anticipation
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

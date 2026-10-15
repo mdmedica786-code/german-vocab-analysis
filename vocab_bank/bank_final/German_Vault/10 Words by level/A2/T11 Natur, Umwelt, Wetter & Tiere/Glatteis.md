@@ -15,11 +15,16 @@ id: "B2641"
 netzwerk: "A2 K7 11a"
 freq_rank: 5759
 skip: false
+audio: "Glatteis.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Glatteis
+
+![[Glatteis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glatteis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glatteis&language=de)
 
 **Meaning:** black ice
 **Plural:** –

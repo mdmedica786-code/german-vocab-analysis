@@ -15,11 +15,16 @@ id: "B3002"
 netzwerk: "A2 K10 11b"
 freq_rank: 4708
 skip: false
+audio: "Futter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Futter
+
+![[Futter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Futter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Futter&language=de)
 
 **Meaning:** animal feed; fodder
 **Plural:** –

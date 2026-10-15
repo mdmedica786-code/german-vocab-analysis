@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3266"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Bekanntschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bekanntschaft
+
+![[Bekanntschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bekanntschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekanntschaft&language=de)
 
 **Meaning:** acquaintance; getting to know someone
 **Plural:** Bekanntschaften

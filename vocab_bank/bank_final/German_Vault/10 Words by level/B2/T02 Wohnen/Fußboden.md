@@ -14,11 +14,16 @@ bank: "main"
 id: "B6103"
 freq_rank: 4363
 skip: false
+audio: "Fußboden.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußboden
+
+![[Fußboden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fboden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fboden&language=de)
 
 **Meaning:** floor
 **Plural:** Fußböden

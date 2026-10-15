@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 1b"
 freq_rank: 2000
 skip: false
+audio: "Breite.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Breite
+
+![[Breite.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Breite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Breite&language=de)
 
 **Meaning:** width
 **Plural:** Breiten

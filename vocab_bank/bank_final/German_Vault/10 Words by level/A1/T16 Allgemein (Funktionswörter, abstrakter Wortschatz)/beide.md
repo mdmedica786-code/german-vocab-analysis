@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 4b"
 freq_rank: 106
 skip: false
+audio: "beide.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # beide
+
+![[beide.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beide&language=de)
 
 **Meaning:** both
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

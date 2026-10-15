@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3413"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Erneuerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erneuerung
+
+![[Erneuerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erneuerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erneuerung&language=de)
 
 **Meaning:** renewal; renovation
 **Plural:** Erneuerungen

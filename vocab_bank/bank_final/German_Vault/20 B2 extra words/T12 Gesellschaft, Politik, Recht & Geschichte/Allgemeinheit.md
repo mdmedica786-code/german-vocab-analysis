@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3303"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Allgemeinheit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Allgemeinheit
+
+![[Allgemeinheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Allgemeinheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Allgemeinheit&language=de)
 
 **Meaning:** the public; general public; generality
 **Plural:** –

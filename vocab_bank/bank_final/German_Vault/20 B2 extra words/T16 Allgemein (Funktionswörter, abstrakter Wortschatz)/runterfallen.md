@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4365"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "runterfallen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # runterfallen
+
+![[runterfallen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/runterfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=runterfallen&language=de)
 
 **Meaning:** to fall down; to drop (colloquial)
 **Forms:** fällt runter · fiel runter · ist runtergefallen

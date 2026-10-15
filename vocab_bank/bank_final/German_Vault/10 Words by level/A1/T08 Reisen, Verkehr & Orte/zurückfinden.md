@@ -13,11 +13,16 @@ id: "B1810"
 netzwerk: "A1 K12 7b"
 freq_rank: 5759
 skip: false
+audio: "zurückfinden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückfinden
+
+![[zurückfinden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckfinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckfinden&language=de)
 
 **Meaning:** to find back
 **Forms:** findet zurück · fand zurück · hat zurückgefunden

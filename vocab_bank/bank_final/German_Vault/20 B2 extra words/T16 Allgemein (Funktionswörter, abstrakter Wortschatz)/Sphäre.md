@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3038"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Sphäre.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sphäre
+
+![[Sphäre.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sph%C3%A4re/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sph%C3%A4re&language=de)
 
 **Meaning:** sphere; realm
 **Plural:** Sphären

@@ -15,11 +15,16 @@ id: "B1130"
 netzwerk: "A1 K7 6a"
 freq_rank: 2120
 skip: false
+audio: "WLAN.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das WLAN
+
+![[WLAN.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/WLAN/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=WLAN&language=de)
 
 **Meaning:** Wi-Fi
 **Plural:** –

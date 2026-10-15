@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4481"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
-status: "new"
+audio: "temporal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Grammatik", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # temporal
+
+![[temporal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/temporal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=temporal&language=de)
 
 **Meaning:** temporal; relating to time
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

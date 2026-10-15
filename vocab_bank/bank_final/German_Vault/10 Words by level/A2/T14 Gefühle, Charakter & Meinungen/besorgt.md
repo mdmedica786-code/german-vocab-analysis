@@ -12,11 +12,16 @@ id: "B3014"
 netzwerk: "A2 K10 12a"
 freq_rank: 2202
 skip: false
+audio: "besorgt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # besorgt
+
+![[besorgt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besorgt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besorgt&language=de)
 
 **Meaning:** worried
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

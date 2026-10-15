@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2883"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Palast.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Palast
+
+![[Palast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Palast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Palast&language=de)
 
 **Meaning:** palace
 **Plural:** Paläste

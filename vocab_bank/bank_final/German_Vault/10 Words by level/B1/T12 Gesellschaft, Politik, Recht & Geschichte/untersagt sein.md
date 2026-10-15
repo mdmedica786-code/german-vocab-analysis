@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # untersagt sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/untersagt%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=untersagt%20sein&language=de)
+
 **Meaning:** to be forbidden
 **Forms:** ist untersagt · war untersagt · ist untersagt gewesen
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

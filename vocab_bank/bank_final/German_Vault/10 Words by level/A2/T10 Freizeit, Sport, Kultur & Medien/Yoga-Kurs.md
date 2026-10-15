@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Yoga-Kurs
 
+[▶️ YouGlish](https://youglish.com/pronounce/Yoga-Kurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Yoga-Kurs&language=de)
+
 **Meaning:** yoga class
 **Plural:** Yoga-Kurse
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

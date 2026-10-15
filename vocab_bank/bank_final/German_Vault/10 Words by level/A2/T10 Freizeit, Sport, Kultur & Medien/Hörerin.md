@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Hörerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hörerin
+
+![[Hörerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rerin&language=de)
 
 **Meaning:** listener (f)
 **Plural:** Hörerinnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3486"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Maximum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Maximum
+
+![[Maximum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maximum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maximum&language=de)
 
 **Meaning:** maximum; highest level
 **Plural:** Maxima

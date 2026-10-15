@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K2 7a"
 freq_rank: 305
 skip: false
+audio: "wegen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # wegen
+
+![[wegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wegen&language=de)
 
 **Meaning:** because of
 **Case:** + Gen.

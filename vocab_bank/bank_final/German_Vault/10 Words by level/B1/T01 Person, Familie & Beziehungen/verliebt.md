@@ -12,11 +12,16 @@ id: "B5360"
 goethe_level: "B1"
 freq_rank: 1621
 skip: false
+audio: "verliebt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verliebt
+
+![[verliebt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verliebt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verliebt&language=de)
 
 **Meaning:** in love
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

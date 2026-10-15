@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 3a"
 freq_rank: 440
 skip: false
+audio: "erwarten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwarten
+
+![[erwarten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwarten&language=de)
 
 **Meaning:** to expect
 **Forms:** erwartet · erwartete · hat erwartet

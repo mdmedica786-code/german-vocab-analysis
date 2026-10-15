@@ -15,11 +15,16 @@ id: "B1848"
 netzwerk: "A1 K12 11d"
 freq_rank: 5759
 skip: false
+audio: "Mistwetter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mistwetter
+
+![[Mistwetter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mistwetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mistwetter&language=de)
 
 **Meaning:** bad weather
 **Plural:** –

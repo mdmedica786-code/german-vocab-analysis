@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 1a"
 freq_rank: 2824
 skip: false
+audio: "Oma.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Oma
+
+![[Oma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oma&language=de)
 
 **Meaning:** grandma
 **Plural:** Omas

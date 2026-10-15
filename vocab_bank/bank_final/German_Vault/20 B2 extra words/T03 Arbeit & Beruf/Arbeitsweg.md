@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3729"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Arbeitsweg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsweg
+
+![[Arbeitsweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsweg&language=de)
 
 **Meaning:** way to work; commute
 **Plural:** Arbeitswege

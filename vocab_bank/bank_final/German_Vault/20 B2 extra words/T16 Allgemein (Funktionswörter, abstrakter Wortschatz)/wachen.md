@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2489"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "wachen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # wachen
+
+![[wachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wachen&language=de)
 
 **Meaning:** to keep watch; to stay awake
 **Forms:** wacht · wachte · hat gewacht

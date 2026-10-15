@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 13a"
 freq_rank: 1437
 skip: false
+audio: "Übung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übung
+
+![[Übung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbung&language=de)
 
 **Meaning:** exercise
 **Plural:** Übungen

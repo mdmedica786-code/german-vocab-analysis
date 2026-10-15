@@ -15,11 +15,16 @@ id: "B0560"
 netzwerk: "A1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "Solistin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Solistin
+
+![[Solistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Solistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solistin&language=de)
 
 **Meaning:** soloist (f)
 **Plural:** Solistinnen

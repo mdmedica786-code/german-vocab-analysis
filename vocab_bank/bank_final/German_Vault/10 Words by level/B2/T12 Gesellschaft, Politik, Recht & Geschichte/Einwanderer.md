@@ -14,11 +14,16 @@ bank: "main"
 id: "B6230"
 freq_rank: 4958
 skip: false
+audio: "Einwanderer.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einwanderer
+
+![[Einwanderer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einwanderer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwanderer&language=de)
 
 **Meaning:** immigrant
 **Plural:** Einwanderer

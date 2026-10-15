@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Zustimmung finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zustimmung%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zustimmung%20finden&language=de)
+
 **Meaning:** to meet with approval
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6255"
 freq_rank: 5118
 skip: false
+audio: "Olivenöl.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Olivenöl
+
+![[Olivenöl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oliven%C3%B6l/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oliven%C3%B6l&language=de)
 
 **Meaning:** olive oil
 **Plural:** Olivenöle

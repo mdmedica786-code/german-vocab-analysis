@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Versuch unternehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Versuch%20unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Versuch%20unternehmen&language=de)
+
 **Meaning:** to make an attempt
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

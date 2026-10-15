@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die n-Deklination
 
+[▶️ YouGlish](https://youglish.com/pronounce/n-Deklination/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n-Deklination&language=de)
+
 **Meaning:** n-declination
 **Plural:** n-Deklinationen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B3636"
 netzwerk: "B1 K3 6a"
 freq_rank: 5759
 skip: false
+audio: "Klinikum.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klinikum
+
+![[Klinikum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klinikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klinikum&language=de)
 
 **Meaning:** clinic, hospital
 **Plural:** Kliniken

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2441"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ausführen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausführen
+
+![[ausführen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausf%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausf%C3%BChren&language=de)
 
 **Meaning:** to carry out; to explain; to take out (a dog)
 **Forms:** führt aus · führte aus · hat ausgeführt

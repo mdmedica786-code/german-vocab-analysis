@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0382"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Resonanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Resonanz
+
+![[Resonanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Resonanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Resonanz&language=de)
 
 **Meaning:** response; echo
 **Plural:** –

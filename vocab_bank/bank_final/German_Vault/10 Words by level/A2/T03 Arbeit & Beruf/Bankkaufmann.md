@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Bankkaufmann
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bankkaufmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankkaufmann&language=de)
+
 **Meaning:** bank clerk (m)
 **Plural:** Bankkaufmänner
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

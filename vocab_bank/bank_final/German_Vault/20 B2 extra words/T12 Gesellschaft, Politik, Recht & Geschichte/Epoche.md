@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2906"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Epoche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Epoche
+
+![[Epoche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Epoche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Epoche&language=de)
 
 **Meaning:** epoch; era
 **Plural:** Epochen

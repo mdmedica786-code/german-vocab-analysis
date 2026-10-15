@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0402"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Zwiespalt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zwiespalt
+
+![[Zwiespalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwiespalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwiespalt&language=de)
 
 **Meaning:** dilemma; conflict (inner)
 **Plural:** Zwiespälte

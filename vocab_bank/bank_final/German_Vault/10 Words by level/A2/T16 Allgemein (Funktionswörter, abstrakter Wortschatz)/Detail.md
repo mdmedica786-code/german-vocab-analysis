@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 8c"
 freq_rank: 1770
 skip: false
+audio: "Detail.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Detail
+
+![[Detail.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Detail/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Detail&language=de)
 
 **Meaning:** detail
 **Plural:** Details

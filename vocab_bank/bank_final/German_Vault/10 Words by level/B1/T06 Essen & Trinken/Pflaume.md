@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Pflaume.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflaume
+
+![[Pflaume.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflaume/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflaume&language=de)
 
 **Meaning:** plum
 **Plural:** Pflaumen

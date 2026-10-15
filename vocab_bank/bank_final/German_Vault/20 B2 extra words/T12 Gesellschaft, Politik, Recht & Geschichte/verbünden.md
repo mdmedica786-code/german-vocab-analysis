@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1310"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "verbünden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbünden
+
+![[verbünden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verb%C3%BCnden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verb%C3%BCnden&language=de)
 
 **Meaning:** to ally oneself; to join forces
 **Forms:** verbündet sich · verbündete sich · hat sich verbündet

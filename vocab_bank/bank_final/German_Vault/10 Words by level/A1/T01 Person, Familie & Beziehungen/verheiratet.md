@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a"
 freq_rank: 1189
 skip: false
+audio: "verheiratet.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verheiratet
+
+![[verheiratet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verheiratet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verheiratet&language=de)
 
 **Meaning:** married
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

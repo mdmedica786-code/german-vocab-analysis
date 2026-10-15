@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 3313
 skip: false
+audio: "extra.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # extra
+
+![[extra.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/extra/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=extra&language=de)
 
 **Meaning:** extra
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

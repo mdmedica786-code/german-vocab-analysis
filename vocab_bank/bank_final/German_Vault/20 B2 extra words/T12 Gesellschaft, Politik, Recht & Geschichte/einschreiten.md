@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1812"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "einschreiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschreiten
+
+![[einschreiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einschreiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einschreiten&language=de)
 
 **Meaning:** to intervene; to take action
 **Forms:** schreitet ein · schritt ein · ist eingeschritten

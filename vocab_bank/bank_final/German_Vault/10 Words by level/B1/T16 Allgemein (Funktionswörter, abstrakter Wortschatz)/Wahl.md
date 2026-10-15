@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 847
 skip: false
+audio: "Wahl.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wahl
+
+![[Wahl.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahl&language=de)
 
 **Meaning:** election
 **Other senses:** choice

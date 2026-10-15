@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1814"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entbinden.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entbinden
+
+![[entbinden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entbinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entbinden&language=de)
 
 **Meaning:** to release (from); to give birth
 **Forms:** entbindet · entband · hat entbunden

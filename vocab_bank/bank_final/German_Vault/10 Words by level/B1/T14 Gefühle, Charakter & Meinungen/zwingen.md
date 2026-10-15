@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 11b"
 freq_rank: 916
 skip: false
+audio: "zwingen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwingen
+
+![[zwingen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwingen&language=de)
 
 **Meaning:** to force
 **Forms:** zwingt · zwang · hat gezwungen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5874"
 freq_rank: 3239
 skip: false
+audio: "Bundesregierung.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bundesregierung
+
+![[Bundesregierung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesregierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesregierung&language=de)
 
 **Meaning:** federal government
 **Plural:** Bundesregierungen

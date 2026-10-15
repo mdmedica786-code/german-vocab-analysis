@@ -15,11 +15,16 @@ id: "B3332"
 netzwerk: "B1 K1 12b"
 freq_rank: 5759
 skip: false
+audio: "Tiergarten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tiergarten
+
+![[Tiergarten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiergarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiergarten&language=de)
 
 **Meaning:** zoo
 **Plural:** Tiergärten

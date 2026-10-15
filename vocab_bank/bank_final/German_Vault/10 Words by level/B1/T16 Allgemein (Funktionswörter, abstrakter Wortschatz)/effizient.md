@@ -12,11 +12,16 @@ id: "B3942"
 netzwerk: "B1 K5 4b"
 freq_rank: 5707
 skip: false
+audio: "effizient.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # effizient
+
+![[effizient.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/effizient/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=effizient&language=de)
 
 **Meaning:** efficient
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

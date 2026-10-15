@@ -15,11 +15,16 @@ id: "B0925"
 netzwerk: "A1 K6 2b"
 freq_rank: 5759
 skip: false
+audio: "Pantomime.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pantomime
+
+![[Pantomime.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pantomime/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pantomime&language=de)
 
 **Meaning:** pantomime
 **Plural:** –

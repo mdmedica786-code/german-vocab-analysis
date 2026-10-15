@@ -11,11 +11,16 @@ bank: "main"
 id: "B5281"
 freq_rank: 1189
 skip: false
+audio: "empirisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # empirisch
+
+![[empirisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/empirisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=empirisch&language=de)
 
 **Meaning:** empirical
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

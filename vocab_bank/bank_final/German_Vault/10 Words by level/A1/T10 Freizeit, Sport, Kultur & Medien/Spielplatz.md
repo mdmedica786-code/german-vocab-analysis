@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 14a"
 freq_rank: 4847
 skip: false
+audio: "Spielplatz.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spielplatz
+
+![[Spielplatz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielplatz&language=de)
 
 **Meaning:** playground
 **Plural:** Spielplätze

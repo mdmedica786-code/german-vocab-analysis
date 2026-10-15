@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Smartphone-Nutzung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Smartphone-Nutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smartphone-Nutzung&language=de)
+
 **Meaning:** smartphone use
 **Plural:** –
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

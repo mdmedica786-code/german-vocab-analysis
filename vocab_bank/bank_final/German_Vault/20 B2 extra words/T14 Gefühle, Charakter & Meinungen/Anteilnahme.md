@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1450"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Anteilnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anteilnahme
+
+![[Anteilnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anteilnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anteilnahme&language=de)
 
 **Meaning:** sympathy; concern
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 1729
 skip: false
+audio: "reisen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reisen
+
+![[reisen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reisen&language=de)
 
 **Meaning:** to travel
 **Forms:** reist · reiste · ist gereist

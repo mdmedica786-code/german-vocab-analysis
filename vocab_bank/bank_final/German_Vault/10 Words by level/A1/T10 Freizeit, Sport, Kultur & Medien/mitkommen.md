@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 5759
 skip: false
+audio: "mitkommen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitkommen
+
+![[mitkommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitkommen&language=de)
 
 **Meaning:** to come along
 **Forms:** kommt mit · kam mit · ist mitgekommen

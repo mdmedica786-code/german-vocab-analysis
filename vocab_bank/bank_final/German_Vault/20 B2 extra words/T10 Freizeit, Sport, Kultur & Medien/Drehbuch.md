@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0991"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Drehbuch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Drehbuch
+
+![[Drehbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drehbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drehbuch&language=de)
 
 **Meaning:** screenplay; script
 **Plural:** Drehbücher

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1147"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Zusage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zusage
+
+![[Zusage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusage&language=de)
 
 **Meaning:** acceptance; promise; confirmation
 **Plural:** Zusagen

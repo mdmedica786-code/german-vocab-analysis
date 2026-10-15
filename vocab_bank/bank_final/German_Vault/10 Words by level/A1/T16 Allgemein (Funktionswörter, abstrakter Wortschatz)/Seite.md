@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6c"
 freq_rank: 169
 skip: false
+audio: "Seite.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Seite
+
+![[Seite.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seite&language=de)
 
 **Meaning:** page
 **Other senses:** side

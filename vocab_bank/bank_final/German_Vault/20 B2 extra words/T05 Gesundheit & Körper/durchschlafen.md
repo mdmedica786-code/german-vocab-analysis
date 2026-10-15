@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3876"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "durchschlafen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # durchschlafen
+
+![[durchschlafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchschlafen&language=de)
 
 **Meaning:** to sleep through (the night)
 **Forms:** schläft durch · schlief durch · hat durchgeschlafen

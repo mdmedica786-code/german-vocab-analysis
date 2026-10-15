@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1305"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "trödeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # trödeln
+
+![[trödeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tr%C3%B6deln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tr%C3%B6deln&language=de)
 
 **Meaning:** to dawdle; to dither
 **Forms:** trödelt · trödelte · hat getrödelt

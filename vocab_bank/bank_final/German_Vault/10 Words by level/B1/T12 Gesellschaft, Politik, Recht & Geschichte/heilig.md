@@ -11,11 +11,16 @@ bank: "main"
 id: "B5207"
 freq_rank: 782
 skip: false
+audio: "heilig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # heilig
+
+![[heilig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heilig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heilig&language=de)
 
 **Meaning:** holy; sacred
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

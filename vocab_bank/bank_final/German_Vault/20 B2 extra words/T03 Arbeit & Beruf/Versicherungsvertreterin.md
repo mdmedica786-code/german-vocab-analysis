@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4590"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Versicherungsvertreterin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Versicherungsvertreterin
+
+![[Versicherungsvertreterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versicherungsvertreterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherungsvertreterin&language=de)
 
 **Meaning:** insurance agent (female)
 **Plural:** Versicherungsvertreterinnen

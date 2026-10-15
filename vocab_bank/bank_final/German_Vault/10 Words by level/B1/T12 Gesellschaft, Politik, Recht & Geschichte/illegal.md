@@ -12,11 +12,16 @@ id: "B5689"
 goethe_level: "B1"
 freq_rank: 2804
 skip: false
+audio: "illegal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # illegal
+
+![[illegal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/illegal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=illegal&language=de)
 
 **Meaning:** illegal
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

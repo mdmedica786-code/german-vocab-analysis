@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2503"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Kugel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kugel
+
+![[Kugel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kugel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kugel&language=de)
 
 **Meaning:** ball; sphere; scoop
 **Plural:** Kugeln

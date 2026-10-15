@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # verfroren
 
+[▶️ YouGlish](https://youglish.com/pronounce/verfroren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfroren&language=de)
+
 **Meaning:** chilly; sensitive to cold
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1511"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Routine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Routine
+
+![[Routine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Routine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Routine&language=de)
 
 **Meaning:** routine; experience
 **Plural:** Routinen

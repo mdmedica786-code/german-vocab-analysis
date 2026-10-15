@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2950"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Platte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Platte
+
+![[Platte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Platte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platte&language=de)
 
 **Meaning:** plate; slab; record
 **Plural:** Platten

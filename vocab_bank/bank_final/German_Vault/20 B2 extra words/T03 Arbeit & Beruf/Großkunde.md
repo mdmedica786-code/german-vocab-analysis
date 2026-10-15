@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4020"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Großkunde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Großkunde
+
+![[Großkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fkunde&language=de)
 
 **Meaning:** major customer; key client (male)
 **Plural:** Großkunden

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0318"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Wesen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wesen
+
+![[Wesen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wesen&language=de)
 
 **Meaning:** nature; being; creature
 **Plural:** Wesen

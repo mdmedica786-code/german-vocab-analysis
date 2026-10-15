@@ -15,11 +15,16 @@ id: "B5710"
 goethe_level: "B1"
 freq_rank: 2843
 skip: false
+audio: "Nachwuchs.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachwuchs
+
+![[Nachwuchs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachwuchs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachwuchs&language=de)
 
 **Meaning:** offspring; young talent
 **Plural:** –

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 2a"
 freq_rank: 160
 skip: false
+audio: "gerade.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gerade
+
+![[gerade.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gerade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gerade&language=de)
 
 **Meaning:** just; right now; straight
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

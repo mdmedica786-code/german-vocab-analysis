@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 8b"
 freq_rank: 3231
 skip: false
+audio: "blöd.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # blöd
+
+![[blöd.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bl%C3%B6d/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bl%C3%B6d&language=de)
 
 **Meaning:** daft
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** informal

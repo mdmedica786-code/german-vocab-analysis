@@ -15,11 +15,16 @@ id: "B1268"
 netzwerk: "A1 K8 8c"
 freq_rank: 5759
 skip: false
+audio: "Arztbesuch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arztbesuch
+
+![[Arztbesuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arztbesuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztbesuch&language=de)
 
 **Meaning:** visit to the doctor
 **Plural:** Arztbesuche

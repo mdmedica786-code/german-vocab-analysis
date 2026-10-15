@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 5a"
 freq_rank: 161
 skip: false
+audio: "spät.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # spät
+
+![[spät.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sp%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sp%C3%A4t&language=de)
 
 **Meaning:** late
 **Forms:** später – am spätesten

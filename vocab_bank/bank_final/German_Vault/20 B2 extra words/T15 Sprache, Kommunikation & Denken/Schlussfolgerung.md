@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1513"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Schlussfolgerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlussfolgerung
+
+![[Schlussfolgerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlussfolgerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlussfolgerung&language=de)
 
 **Meaning:** conclusion; inference
 **Plural:** Schlussfolgerungen

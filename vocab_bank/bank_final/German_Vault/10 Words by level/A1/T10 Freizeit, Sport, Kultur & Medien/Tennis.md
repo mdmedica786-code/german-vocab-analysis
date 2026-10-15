@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Tennis
 
+[▶️ YouGlish](https://youglish.com/pronounce/Tennis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tennis&language=de)
+
 **Meaning:** tennis
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

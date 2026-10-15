@@ -12,11 +12,16 @@ id: "B5209"
 goethe_level: "A1"
 freq_rank: 791
 skip: false
+audio: "bisschen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bisschen
+
+![[bisschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bisschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bisschen&language=de)
 
 **Meaning:** a little; a bit
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

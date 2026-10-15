@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4463"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "stilvoll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # stilvoll
+
+![[stilvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stilvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stilvoll&language=de)
 
 **Meaning:** stylish; tasteful
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B3493"
 netzwerk: "B1 K2 10b"
 freq_rank: 273
 skip: false
+audio: "Unternehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Unternehmen
+
+![[Unternehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmen&language=de)
 
 **Meaning:** company
 **Plural:** Unternehmen

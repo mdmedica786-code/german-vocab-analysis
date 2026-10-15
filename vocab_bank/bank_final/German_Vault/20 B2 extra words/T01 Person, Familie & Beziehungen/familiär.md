@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3647"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "familiär.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # familiär
+
+![[familiär.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/famili%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=famili%C3%A4r&language=de)
 
 **Meaning:** family-related; familial; familiar
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

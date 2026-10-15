@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1851"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "widmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # widmen
+
+![[widmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/widmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=widmen&language=de)
 
 **Meaning:** to devote oneself; to dedicate
 **Forms:** widmet sich · widmete sich · hat sich gewidmet

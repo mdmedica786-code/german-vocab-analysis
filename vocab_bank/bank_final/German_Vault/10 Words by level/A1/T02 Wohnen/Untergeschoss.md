@@ -15,11 +15,16 @@ id: "B1657"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Untergeschoss.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Untergeschoss
+
+![[Untergeschoss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untergeschoss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untergeschoss&language=de)
 
 **Meaning:** basement
 **Plural:** Untergeschosse

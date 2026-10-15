@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 1 ÜB"
 freq_rank: 3896
 skip: false
+audio: "Werkstatt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Werkstatt
+
+![[Werkstatt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werkstatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkstatt&language=de)
 
 **Meaning:** workshop
 **Plural:** Werkstätten

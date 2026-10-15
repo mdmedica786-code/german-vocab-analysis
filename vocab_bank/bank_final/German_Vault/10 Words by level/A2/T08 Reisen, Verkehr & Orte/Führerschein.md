@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 1a"
 freq_rank: 2217
 skip: false
+audio: "Führerschein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Führerschein
+
+![[Führerschein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerschein&language=de)
 
 **Meaning:** driver's license
 **Plural:** Führerscheine

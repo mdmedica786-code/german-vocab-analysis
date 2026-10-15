@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0870"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "beherzigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beherzigen
+
+![[beherzigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beherzigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beherzigen&language=de)
 
 **Meaning:** to take to heart
 **Forms:** beherzigt · beherzigte · hat beherzigt

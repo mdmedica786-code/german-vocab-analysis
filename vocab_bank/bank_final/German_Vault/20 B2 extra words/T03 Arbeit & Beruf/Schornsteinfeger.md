@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1791"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Schornsteinfeger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schornsteinfeger
+
+![[Schornsteinfeger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schornsteinfeger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schornsteinfeger&language=de)
 
 **Meaning:** chimney sweep
 **Plural:** Schornsteinfeger

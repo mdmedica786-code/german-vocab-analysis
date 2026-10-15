@@ -15,11 +15,16 @@ id: "B2819"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Skistock.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Skistock
+
+![[Skistock.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skistock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skistock&language=de)
 
 **Meaning:** ski pole
 **Plural:** Skistöcke

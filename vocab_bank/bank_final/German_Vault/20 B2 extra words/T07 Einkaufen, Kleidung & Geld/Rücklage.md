@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1056"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Rücklage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rücklage
+
+![[Rücklage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCcklage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCcklage&language=de)
 
 **Meaning:** reserve; savings put aside
 **Plural:** Rücklagen

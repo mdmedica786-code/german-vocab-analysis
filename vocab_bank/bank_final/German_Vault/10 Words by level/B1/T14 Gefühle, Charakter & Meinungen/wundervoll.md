@@ -12,11 +12,16 @@ id: "B4302"
 netzwerk: "B1 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "wundervoll.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wundervoll
+
+![[wundervoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wundervoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wundervoll&language=de)
 
 **Meaning:** wonderful
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

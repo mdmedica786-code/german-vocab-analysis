@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 14a"
 freq_rank: 1202
 skip: false
+audio: "typisch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # typisch
+
+![[typisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/typisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=typisch&language=de)
 
 **Meaning:** typical
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

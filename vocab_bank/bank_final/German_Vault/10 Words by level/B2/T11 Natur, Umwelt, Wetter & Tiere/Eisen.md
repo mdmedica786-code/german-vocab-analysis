@@ -14,11 +14,16 @@ bank: "main"
 id: "B5702"
 freq_rank: 2829
 skip: false
+audio: "Eisen.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eisen
+
+![[Eisen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eisen&language=de)
 
 **Meaning:** iron
 **Plural:** –

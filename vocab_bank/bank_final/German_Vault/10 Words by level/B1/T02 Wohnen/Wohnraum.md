@@ -15,11 +15,16 @@ id: "B4166"
 netzwerk: "B1 K6 8d"
 freq_rank: 4099
 skip: false
+audio: "Wohnraum.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wohnraum
+
+![[Wohnraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnraum&language=de)
 
 **Meaning:** living space
 **Plural:** Wohnräume

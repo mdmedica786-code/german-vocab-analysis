@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b"
 freq_rank: 3254
 skip: false
+audio: "Transport.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Transport
+
+![[Transport.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Transport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transport&language=de)
 
 **Meaning:** transport
 **Plural:** Transporte

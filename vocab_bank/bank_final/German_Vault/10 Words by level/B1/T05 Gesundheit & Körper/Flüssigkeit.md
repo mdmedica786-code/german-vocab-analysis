@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 2564
 skip: false
+audio: "Flüssigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Flüssigkeit
+
+![[Flüssigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%BCssigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%BCssigkeit&language=de)
 
 **Meaning:** fluid
 **Plural:** Flüssigkeiten

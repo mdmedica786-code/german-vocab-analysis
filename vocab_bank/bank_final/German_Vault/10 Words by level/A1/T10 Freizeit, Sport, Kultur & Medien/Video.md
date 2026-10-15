@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 7d"
 freq_rank: 2766
 skip: false
+audio: "Video.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Video
+
+![[Video.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Video/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Video&language=de)
 
 **Meaning:** video
 **Plural:** Videos

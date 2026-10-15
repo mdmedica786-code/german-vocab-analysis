@@ -15,11 +15,16 @@ id: "B3075"
 netzwerk: "A2 K11 8a"
 freq_rank: 1347
 skip: false
+audio: "Kategorie.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kategorie
+
+![[Kategorie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kategorie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kategorie&language=de)
 
 **Meaning:** category
 **Plural:** Kategorien

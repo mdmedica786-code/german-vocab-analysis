@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Hauptschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptschule&language=de)
+
 **Meaning:** secondary school
 **Plural:** Hauptschulen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

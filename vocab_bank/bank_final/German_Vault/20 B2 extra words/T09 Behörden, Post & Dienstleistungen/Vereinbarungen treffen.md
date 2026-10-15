@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Vereinbarungen treffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vereinbarungen%20treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vereinbarungen%20treffen&language=de)
+
 **Meaning:** to make arrangements; to come to agreements
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

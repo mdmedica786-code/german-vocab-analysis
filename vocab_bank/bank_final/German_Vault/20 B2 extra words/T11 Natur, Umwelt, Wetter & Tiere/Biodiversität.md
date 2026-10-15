@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0659"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Biodiversität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Biodiversität
+
+![[Biodiversität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biodiversit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biodiversit%C3%A4t&language=de)
 
 **Meaning:** biodiversity
 **Plural:** –

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 1118
 skip: false
+audio: "eins.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # eins
+
+![[eins.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eins/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eins&language=de)
 
 **Meaning:** one
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

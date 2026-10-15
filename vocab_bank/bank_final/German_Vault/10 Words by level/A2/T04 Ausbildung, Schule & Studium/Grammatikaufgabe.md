@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Grammatikaufgabe
 
+[▶️ YouGlish](https://youglish.com/pronounce/Grammatikaufgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grammatikaufgabe&language=de)
+
 **Meaning:** grammar exercise
 **Plural:** Grammatikaufgaben
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

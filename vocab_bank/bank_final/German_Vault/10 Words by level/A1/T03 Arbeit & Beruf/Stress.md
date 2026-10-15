@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 10c"
 freq_rank: 2541
 skip: false
+audio: "Stress.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stress
+
+![[Stress.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stress/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stress&language=de)
 
 **Meaning:** stress
 **Plural:** –

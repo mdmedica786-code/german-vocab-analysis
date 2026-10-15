@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1204"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "aufeinandertreffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufeinandertreffen
+
+![[aufeinandertreffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufeinandertreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufeinandertreffen&language=de)
 
 **Meaning:** to meet; to clash
 **Forms:** trifft aufeinander · traf aufeinander · ist aufeinandergetroffen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0716"
 exam_use: ["Hören"]
 skip: false
+audio: "Tauwetter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tauwetter
+
+![[Tauwetter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tauwetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tauwetter&language=de)
 
 **Meaning:** thaw
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0388"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Umdenken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Umdenken
+
+![[Umdenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umdenken&language=de)
 
 **Meaning:** rethink; change of thinking
 **Plural:** –

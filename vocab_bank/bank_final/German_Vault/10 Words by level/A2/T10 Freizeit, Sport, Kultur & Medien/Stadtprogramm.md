@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Stadtprogramm
 
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtprogramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtprogramm&language=de)
+
 **Meaning:** city programme
 **Plural:** Stadtprogramme
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

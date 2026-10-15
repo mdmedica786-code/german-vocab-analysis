@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2822"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Klarheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klarheit
+
+![[Klarheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klarheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klarheit&language=de)
 
 **Meaning:** clarity
 **Plural:** –

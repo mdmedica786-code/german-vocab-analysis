@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4654"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Zahlencode
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahlencode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlencode&language=de)
 
 **Meaning:** number code; numerical code
 **Plural:** Zahlencodes

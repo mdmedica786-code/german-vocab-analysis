@@ -15,11 +15,16 @@ id: "B1678"
 netzwerk: "A1 K11 12a"
 freq_rank: 5759
 skip: false
+audio: "Fernsehproduktion.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fernsehproduktion
+
+![[Fernsehproduktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernsehproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehproduktion&language=de)
 
 **Meaning:** TV production
 **Plural:** Fernsehproduktionen

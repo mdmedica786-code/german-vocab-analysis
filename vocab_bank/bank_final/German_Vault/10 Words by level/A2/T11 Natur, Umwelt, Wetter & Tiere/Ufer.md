@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 1b"
 freq_rank: 2035
 skip: false
+audio: "Ufer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ufer
+
+![[Ufer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ufer&language=de)
 
 **Meaning:** shore
 **Plural:** Ufer

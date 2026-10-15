@@ -14,11 +14,16 @@ bank: "main"
 id: "B5892"
 freq_rank: 3343
 skip: false
+audio: "Anstieg.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anstieg
+
+![[Anstieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anstieg&language=de)
 
 **Meaning:** rise; increase
 **Plural:** Anstiege

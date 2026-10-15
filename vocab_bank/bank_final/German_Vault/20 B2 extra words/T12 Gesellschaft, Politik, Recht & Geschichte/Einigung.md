@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3322"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Einigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einigung
+
+![[Einigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einigung&language=de)
 
 **Meaning:** agreement; settlement
 **Plural:** Einigungen

@@ -12,11 +12,16 @@ id: "B2219"
 netzwerk: "A2 K4 6a"
 freq_rank: 5759
 skip: false
+audio: "reflexiv.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # reflexiv
+
+![[reflexiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reflexiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reflexiv&language=de)
 
 **Meaning:** reflexive
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

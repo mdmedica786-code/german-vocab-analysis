@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Stadtatmosphäre
 
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtatmosph%C3%A4re/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtatmosph%C3%A4re&language=de)
+
 **Meaning:** city atmosphere
 **Plural:** –
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

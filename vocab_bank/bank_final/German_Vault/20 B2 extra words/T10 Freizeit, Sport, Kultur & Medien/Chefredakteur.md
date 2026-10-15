@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0596"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Chefredakteur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Chefredakteur
+
+![[Chefredakteur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chefredakteur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chefredakteur&language=de)
 
 **Meaning:** editor-in-chief
 **Plural:** Chefredakteure

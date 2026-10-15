@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 2000
 skip: false
+audio: "Cent.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Cent
+
+![[Cent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Cent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cent&language=de)
 
 **Meaning:** cent
 **Plural:** Cents

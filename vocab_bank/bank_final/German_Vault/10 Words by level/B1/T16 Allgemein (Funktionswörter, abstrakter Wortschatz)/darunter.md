@@ -11,11 +11,16 @@ bank: "main"
 id: "B5296"
 freq_rank: 1256
 skip: false
+audio: "darunter.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # darunter
+
+![[darunter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/darunter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=darunter&language=de)
 
 **Meaning:** underneath; among them
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

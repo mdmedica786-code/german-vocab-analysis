@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0290"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Erscheinung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erscheinung
+
+![[Erscheinung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erscheinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erscheinung&language=de)
 
 **Meaning:** phenomenon; appearance
 **Plural:** Erscheinungen

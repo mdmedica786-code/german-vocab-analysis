@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # weg sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/weg%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weg%20sein&language=de)
+
 **Meaning:** to be gone
 **Forms:** ist weg · war weg · ist weg gewesen
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

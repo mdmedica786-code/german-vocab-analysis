@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4033"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "Heiterkeit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Heiterkeit
+
+![[Heiterkeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heiterkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heiterkeit&language=de)
 
 **Meaning:** cheerfulness; merriment
 **Plural:** –

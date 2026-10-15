@@ -14,11 +14,16 @@ bank: "main"
 id: "B5599"
 freq_rank: 2471
 skip: false
+audio: "Nachweis.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachweis
+
+![[Nachweis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachweis&language=de)
 
 **Meaning:** proof; evidence; certificate
 **Plural:** Nachweise

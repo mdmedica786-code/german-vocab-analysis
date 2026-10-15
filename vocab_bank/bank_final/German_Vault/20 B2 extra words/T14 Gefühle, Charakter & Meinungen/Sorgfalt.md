@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0314"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Sorgfalt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sorgfalt
+
+![[Sorgfalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sorgfalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sorgfalt&language=de)
 
 **Meaning:** care; diligence
 **Plural:** –

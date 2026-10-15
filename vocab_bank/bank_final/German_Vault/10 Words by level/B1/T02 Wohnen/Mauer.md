@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 13b"
 freq_rank: 1508
 skip: false
+audio: "Mauer.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mauer
+
+![[Mauer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mauer&language=de)
 
 **Meaning:** wall
 **Plural:** Mauern

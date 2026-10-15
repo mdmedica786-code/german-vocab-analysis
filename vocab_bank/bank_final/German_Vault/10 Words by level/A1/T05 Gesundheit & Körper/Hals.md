@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 6a"
 freq_rank: 984
 skip: false
+audio: "Hals.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hals
+
+![[Hals.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hals&language=de)
 
 **Meaning:** neck; throat
 **Plural:** Hälse

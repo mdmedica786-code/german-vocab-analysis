@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3340"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "ergehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ergehen
+
+![[ergehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ergehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ergehen&language=de)
 
 **Meaning:** to fare; to be dealt with (impersonal: es ergeht jemandem)
 **Forms:** ergeht · erging · ist ergangen

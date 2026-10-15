@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2785"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "locken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # locken
+
+![[locken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/locken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=locken&language=de)
 
 **Meaning:** to lure; to tempt; to attract
 **Forms:** lockt · lockte · hat gelockt

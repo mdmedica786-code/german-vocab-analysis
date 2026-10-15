@@ -15,11 +15,16 @@ id: "B4101"
 netzwerk: "B1 K6 3d"
 freq_rank: 5759
 skip: false
+audio: "Futur.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Futur
+
+![[Futur.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Futur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Futur&language=de)
 
 **Meaning:** future (tense)
 **Plural:** –

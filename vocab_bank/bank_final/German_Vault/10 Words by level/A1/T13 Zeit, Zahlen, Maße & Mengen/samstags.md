@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 7a"
 freq_rank: 5515
 skip: false
+audio: "samstags.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # samstags
+
+![[samstags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/samstags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=samstags&language=de)
 
 **Meaning:** on Saturday
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

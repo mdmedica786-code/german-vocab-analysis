@@ -12,11 +12,16 @@ id: "B4164"
 netzwerk: "B1 K6 8d"
 freq_rank: 1281
 skip: false
+audio: "möglicherweise.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # möglicherweise
+
+![[möglicherweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%B6glicherweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%B6glicherweise&language=de)
 
 **Meaning:** possibly
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

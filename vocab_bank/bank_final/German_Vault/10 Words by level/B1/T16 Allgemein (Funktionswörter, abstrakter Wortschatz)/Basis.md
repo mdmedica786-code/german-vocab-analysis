@@ -14,11 +14,16 @@ bank: "main"
 id: "B5243"
 freq_rank: 1017
 skip: false
+audio: "Basis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Basis
+
+![[Basis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Basis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Basis&language=de)
 
 **Meaning:** basis; base
 **Plural:** Basen

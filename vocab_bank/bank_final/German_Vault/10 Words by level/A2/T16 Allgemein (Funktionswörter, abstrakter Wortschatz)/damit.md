@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3c"
 freq_rank: 94
 skip: false
+audio: "damit (7).wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # damit
+
+![[damit (7).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/damit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=damit&language=de)
 
 **Meaning:** with that
 **Other senses:** so that

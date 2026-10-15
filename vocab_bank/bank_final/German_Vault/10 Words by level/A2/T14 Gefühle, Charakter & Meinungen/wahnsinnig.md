@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 3c"
 freq_rank: 3807
 skip: false
+audio: "wahnsinnig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wahnsinnig
+
+![[wahnsinnig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wahnsinnig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahnsinnig&language=de)
 
 **Meaning:** crazy
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

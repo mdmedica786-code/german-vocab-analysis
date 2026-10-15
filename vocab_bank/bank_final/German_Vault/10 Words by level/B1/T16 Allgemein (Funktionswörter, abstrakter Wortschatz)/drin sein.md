@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # drin sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/drin%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drin%20sein&language=de)
+
 **Meaning:** to be inside; to be possible (colloquial)
 **Forms:** ist drin · war drin · ist drin gewesen
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

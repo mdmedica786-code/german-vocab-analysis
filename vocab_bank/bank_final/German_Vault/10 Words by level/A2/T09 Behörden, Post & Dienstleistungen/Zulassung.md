@@ -15,11 +15,16 @@ id: "B2983"
 netzwerk: "A2 K10 6c"
 freq_rank: 4419
 skip: false
+audio: "Zulassung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zulassung
+
+![[Zulassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zulassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zulassung&language=de)
 
 **Meaning:** admission
 **Plural:** Zulassungen

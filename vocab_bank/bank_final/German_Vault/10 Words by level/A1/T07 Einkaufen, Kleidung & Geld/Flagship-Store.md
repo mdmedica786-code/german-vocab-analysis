@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Flagship-Store
 
+[▶️ YouGlish](https://youglish.com/pronounce/Flagship-Store/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flagship-Store&language=de)
+
 **Meaning:** flagship store
 **Plural:** Flagship-Stores
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

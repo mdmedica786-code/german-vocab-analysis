@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 9a"
 freq_rank: 3787
 skip: false
+audio: "Spaziergang.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spaziergang
+
+![[Spaziergang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spaziergang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaziergang&language=de)
 
 **Meaning:** walk
 **Plural:** Spaziergänge

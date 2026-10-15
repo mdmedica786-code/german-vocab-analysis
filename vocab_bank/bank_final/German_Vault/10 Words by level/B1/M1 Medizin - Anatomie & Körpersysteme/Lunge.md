@@ -14,11 +14,16 @@ bank: "main"
 id: "B5601"
 freq_rank: 2485
 skip: false
+audio: "Lunge.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lunge
+
+![[Lunge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lunge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lunge&language=de)
 
 **Meaning:** lung
 **Plural:** Lungen

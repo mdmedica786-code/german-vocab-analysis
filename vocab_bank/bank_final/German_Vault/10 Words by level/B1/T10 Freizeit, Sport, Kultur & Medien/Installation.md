@@ -15,11 +15,16 @@ id: "B4560"
 netzwerk: "B1 K9 1b"
 freq_rank: 4785
 skip: false
+audio: "Installation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Installation
+
+![[Installation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Installation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Installation&language=de)
 
 **Meaning:** installation (art, software)
 **Plural:** Installationen

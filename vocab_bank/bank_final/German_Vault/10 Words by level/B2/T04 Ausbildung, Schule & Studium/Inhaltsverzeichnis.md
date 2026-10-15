@@ -14,11 +14,16 @@ bank: "main"
 id: "B5637"
 freq_rank: 2619
 skip: false
+audio: "Inhaltsverzeichnis.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Inhaltsverzeichnis
+
+![[Inhaltsverzeichnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inhaltsverzeichnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inhaltsverzeichnis&language=de)
 
 **Meaning:** table of contents
 **Plural:** Inhaltsverzeichnisse

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 9a"
 freq_rank: 5759
 skip: false
+audio: "Kantine.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kantine
+
+![[Kantine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kantine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kantine&language=de)
 
 **Meaning:** canteen
 **Plural:** Kantinen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2303"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "gestreift.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # gestreift
+
+![[gestreift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gestreift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestreift&language=de)
 
 **Meaning:** striped
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

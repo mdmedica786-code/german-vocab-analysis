@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3b"
 freq_rank: 321
 skip: false
+audio: "Moment.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Moment
+
+![[Moment.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Moment/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moment&language=de)
 
 **Meaning:** moment
 **Plural:** Momente

@@ -15,11 +15,16 @@ id: "B3840"
 netzwerk: "B1 K4 13b"
 freq_rank: 2843
 skip: false
+audio: "Aufregung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufregung
+
+![[Aufregung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufregung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufregung&language=de)
 
 **Meaning:** excitement
 **Plural:** –

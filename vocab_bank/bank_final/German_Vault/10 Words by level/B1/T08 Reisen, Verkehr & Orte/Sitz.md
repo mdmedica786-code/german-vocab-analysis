@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 2306
 skip: false
+audio: "Sitz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sitz
+
+![[Sitz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sitz&language=de)
 
 **Meaning:** seat
 **Plural:** Sitze

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3"
 freq_rank: 5759
 skip: false
+audio: "tanken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # tanken
+
+![[tanken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tanken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tanken&language=de)
 
 **Meaning:** to fill up; to refuel
 **Forms:** tankt · tankte · hat getankt

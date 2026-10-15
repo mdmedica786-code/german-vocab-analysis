@@ -15,11 +15,16 @@ id: "B3092"
 netzwerk: "A2 K11 11a"
 freq_rank: 5759
 skip: false
+audio: "Hektik.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hektik
+
+![[Hektik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hektik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hektik&language=de)
 
 **Meaning:** rush
 **Plural:** –

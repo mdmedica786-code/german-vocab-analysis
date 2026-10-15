@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "anhaben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anhaben
+
+![[anhaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anhaben&language=de)
 
 **Meaning:** to wear
 **Forms:** hat an · hatte an · hat angehabt

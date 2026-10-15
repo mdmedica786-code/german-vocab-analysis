@@ -15,11 +15,16 @@ id: "B4640"
 netzwerk: "B1 K9 7b"
 freq_rank: 2510
 skip: false
+audio: "Schwerpunkt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schwerpunkt
+
+![[Schwerpunkt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwerpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwerpunkt&language=de)
 
 **Meaning:** focus
 **Plural:** Schwerpunkte

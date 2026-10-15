@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Marmelade.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Marmelade
+
+![[Marmelade.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marmelade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marmelade&language=de)
 
 **Meaning:** jam; marmalade
 **Plural:** Marmeladen

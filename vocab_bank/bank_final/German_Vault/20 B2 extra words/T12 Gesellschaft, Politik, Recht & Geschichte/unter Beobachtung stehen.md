@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Beobachtung stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Beobachtung%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Beobachtung%20stehen&language=de)
+
 **Meaning:** to be under observation
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

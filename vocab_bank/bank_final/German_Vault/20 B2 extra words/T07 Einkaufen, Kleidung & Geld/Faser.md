@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3125"
 exam_use: ["Alltag", "Wissenschaft"]
 skip: false
+audio: "Faser.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Faser
+
+![[Faser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Faser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faser&language=de)
 
 **Meaning:** fibre
 **Plural:** Fasern

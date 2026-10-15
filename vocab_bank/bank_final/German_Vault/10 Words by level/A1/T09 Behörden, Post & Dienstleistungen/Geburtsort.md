@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12a"
 freq_rank: 5759
 skip: false
+audio: "Geburtsort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geburtsort
+
+![[Geburtsort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtsort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsort&language=de)
 
 **Meaning:** birth place
 **Plural:** Geburtsorte

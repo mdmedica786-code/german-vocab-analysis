@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 1747
 skip: false
+audio: "ansprechen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansprechen
+
+![[ansprechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansprechen&language=de)
 
 **Meaning:** to address sb
 **Other senses:** to speak to

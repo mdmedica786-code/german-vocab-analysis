@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1707"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "lauschen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # lauschen
+
+![[lauschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lauschen&language=de)
 
 **Meaning:** to listen (closely); to eavesdrop
 **Forms:** lauscht · lauschte · hat gelauscht

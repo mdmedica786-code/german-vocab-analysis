@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Chemie
 
+[▶️ YouGlish](https://youglish.com/pronounce/Chemie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chemie&language=de)
+
 **Meaning:** chemistry
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

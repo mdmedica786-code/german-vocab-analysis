@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4476"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Technikfehler
+
+[▶️ YouGlish](https://youglish.com/pronounce/Technikfehler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technikfehler&language=de)
 
 **Meaning:** technical error; technical fault
 **Plural:** Technikfehler

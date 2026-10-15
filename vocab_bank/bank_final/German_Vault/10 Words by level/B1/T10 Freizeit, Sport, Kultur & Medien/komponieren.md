@@ -13,11 +13,16 @@ id: "B4306"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "komponieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # komponieren
+
+![[komponieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/komponieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=komponieren&language=de)
 
 **Meaning:** to compose
 **Forms:** komponiert · komponierte · hat komponiert

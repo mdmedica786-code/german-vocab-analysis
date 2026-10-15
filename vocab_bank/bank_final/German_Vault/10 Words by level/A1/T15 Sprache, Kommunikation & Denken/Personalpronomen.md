@@ -15,11 +15,16 @@ id: "B0082"
 netzwerk: "A1 K1 3b"
 freq_rank: 5759
 skip: false
+audio: "Personalpronomen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Personalpronomen
+
+![[Personalpronomen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personalpronomen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personalpronomen&language=de)
 
 **Meaning:** personal pronoun
 **Plural:** Personalpronomen

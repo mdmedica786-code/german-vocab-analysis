@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ein
 
+[▶️ YouGlish](https://youglish.com/pronounce/ein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ein&language=de)
+
 **Meaning:** a; an; one (indefinite article)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

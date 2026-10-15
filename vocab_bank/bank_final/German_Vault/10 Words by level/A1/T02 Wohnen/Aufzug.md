@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 9c"
 freq_rank: 4688
 skip: false
+audio: "Aufzug.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufzug
+
+![[Aufzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufzug&language=de)
 
 **Meaning:** elevator
 **Plural:** Aufzüge

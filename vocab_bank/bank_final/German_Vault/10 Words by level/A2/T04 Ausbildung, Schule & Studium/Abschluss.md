@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Abschluss
 
+[▶️ YouGlish](https://youglish.com/pronounce/Abschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschluss&language=de)
+
 **Meaning:** degree
 **Plural:** Abschlüsse
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

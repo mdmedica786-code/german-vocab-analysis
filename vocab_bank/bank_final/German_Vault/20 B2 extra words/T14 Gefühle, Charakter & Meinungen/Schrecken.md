@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2690"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Schrecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schrecken
+
+![[Schrecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schrecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schrecken&language=de)
 
 **Meaning:** fright; terror
 **Plural:** Schrecken

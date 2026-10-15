@@ -13,11 +13,16 @@ id: "B2274"
 netzwerk: "A2 K4 11c"
 freq_rank: 5178
 skip: false
+audio: "strukturieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # strukturieren
+
+![[strukturieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strukturieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strukturieren&language=de)
 
 **Meaning:** to structure sth
 **Forms:** strukturiert · strukturierte · hat strukturiert

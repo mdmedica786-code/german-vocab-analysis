@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2845"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Kommissar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kommissar
+
+![[Kommissar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommissar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommissar&language=de)
 
 **Meaning:** inspector; commissioner
 **Plural:** Kommissare

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1881"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Mehrgenerationenhaus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mehrgenerationenhaus
+
+![[Mehrgenerationenhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehrgenerationenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrgenerationenhaus&language=de)
 
 **Meaning:** multigenerational house
 **Plural:** Mehrgenerationenhäuser

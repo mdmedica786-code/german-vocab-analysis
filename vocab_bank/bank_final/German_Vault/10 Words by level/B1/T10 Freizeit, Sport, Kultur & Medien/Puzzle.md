@@ -15,11 +15,16 @@ id: "B6530"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Puzzle.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Puzzle
+
+![[Puzzle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Puzzle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Puzzle&language=de)
 
 **Meaning:** jigsaw puzzle
 **Plural:** Puzzles

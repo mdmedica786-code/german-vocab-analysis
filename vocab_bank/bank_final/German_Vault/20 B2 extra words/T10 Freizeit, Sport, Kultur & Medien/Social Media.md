@@ -13,11 +13,16 @@ bank: "b2"
 id: "D4415"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Social Media.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # Social Media
+
+![[Social Media.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Social%20Media/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social%20Media&language=de)
 
 **Meaning:** social media
 **Plural:** Social Media

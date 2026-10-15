@@ -14,11 +14,16 @@ bank: "main"
 id: "B5933"
 freq_rank: 3541
 skip: false
+audio: "Schale.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schale
+
+![[Schale.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schale/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schale&language=de)
 
 **Meaning:** bowl; shell; peel
 **Plural:** Schalen

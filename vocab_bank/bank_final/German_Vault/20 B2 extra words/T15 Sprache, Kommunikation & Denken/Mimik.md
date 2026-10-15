@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4233"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Mimik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Mimik
+
+![[Mimik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mimik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mimik&language=de)
 
 **Meaning:** facial expression
 **Plural:** –

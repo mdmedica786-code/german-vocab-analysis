@@ -14,11 +14,16 @@ bank: "main"
 id: "B5326"
 freq_rank: 1434
 skip: false
+audio: "Auffassung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auffassung
+
+![[Auffassung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auffassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auffassung&language=de)
 
 **Meaning:** view; opinion
 **Plural:** Auffassungen

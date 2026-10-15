@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 9c"
 freq_rank: 1698
 skip: false
+audio: "interessieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # interessieren
+
+![[interessieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/interessieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=interessieren&language=de)
 
 **Meaning:** to interest
 **Other senses:** sich: to be interested in

@@ -15,11 +15,16 @@ id: "B2106"
 netzwerk: "A2 K3 6d"
 freq_rank: 5759
 skip: false
+audio: "Dings.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dings
+
+![[Dings.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dings/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dings&language=de)
 
 **Meaning:** thingamajig
 **Plural:** –

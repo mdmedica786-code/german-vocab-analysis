@@ -15,11 +15,16 @@ id: "B3949"
 netzwerk: "B1 K5 4b"
 freq_rank: 5759
 skip: false
+audio: "Ökobilanz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ökobilanz
+
+![[Ökobilanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96kobilanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96kobilanz&language=de)
 
 **Meaning:** ecobalance, life-cycle assessment
 **Plural:** Ökobilanzen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0297"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Tendenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tendenz
+
+![[Tendenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tendenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tendenz&language=de)
 
 **Meaning:** tendency; trend
 **Plural:** Tendenzen

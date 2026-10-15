@@ -14,11 +14,16 @@ bank: "main"
 id: "B5617"
 freq_rank: 2560
 skip: false
+audio: "Schluck.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schluck
+
+![[Schluck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schluck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schluck&language=de)
 
 **Meaning:** sip; gulp
 **Plural:** Schlucke

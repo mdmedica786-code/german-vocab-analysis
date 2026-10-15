@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 982
 skip: false
+audio: "Meer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Meer
+
+![[Meer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meer&language=de)
 
 **Meaning:** sea
 **Plural:** Meere

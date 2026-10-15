@@ -15,11 +15,16 @@ id: "B4448"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Schlafanzug.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlafanzug
+
+![[Schlafanzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlafanzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafanzug&language=de)
 
 **Meaning:** pyjamas
 **Plural:** Schlafanzüge

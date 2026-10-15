@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 7a"
 freq_rank: 553
 skip: false
+audio: "Brief.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Brief
+
+![[Brief.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brief&language=de)
 
 **Meaning:** letter
 **Plural:** Briefe

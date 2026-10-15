@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0826"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "gegenwärtig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # gegenwärtig
+
+![[gegenwärtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gegenw%C3%A4rtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegenw%C3%A4rtig&language=de)
 
 **Meaning:** present; current
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

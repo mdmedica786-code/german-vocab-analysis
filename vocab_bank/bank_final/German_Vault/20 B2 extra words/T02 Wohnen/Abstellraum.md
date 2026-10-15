@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1393"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Abstellraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abstellraum
+
+![[Abstellraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abstellraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstellraum&language=de)
 
 **Meaning:** storage room; box room
 **Plural:** Abstellräume

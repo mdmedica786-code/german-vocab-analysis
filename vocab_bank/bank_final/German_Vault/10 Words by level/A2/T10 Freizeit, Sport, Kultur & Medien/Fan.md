@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 8b"
 freq_rank: 4931
 skip: false
+audio: "Fan.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fan
+
+![[Fan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fan&language=de)
 
 **Meaning:** fan
 **Plural:** Fans

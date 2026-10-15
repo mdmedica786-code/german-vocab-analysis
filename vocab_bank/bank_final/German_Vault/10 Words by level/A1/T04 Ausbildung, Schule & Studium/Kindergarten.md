@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1a"
 freq_rank: 4531
 skip: false
+audio: "Kindergarten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kindergarten
+
+![[Kindergarten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kindergarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindergarten&language=de)
 
 **Meaning:** kindergarten
 **Plural:** Kindergärten

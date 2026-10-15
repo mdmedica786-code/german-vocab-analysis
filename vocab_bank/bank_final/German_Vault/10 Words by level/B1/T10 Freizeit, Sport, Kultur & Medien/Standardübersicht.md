@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Standardübersicht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Standard%C3%BCbersicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standard%C3%BCbersicht&language=de)
+
 **Meaning:** standard overview
 **Plural:** Standardübersichten
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

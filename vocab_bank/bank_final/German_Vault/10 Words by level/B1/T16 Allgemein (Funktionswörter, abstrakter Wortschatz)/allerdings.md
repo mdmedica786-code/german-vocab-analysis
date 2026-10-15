@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 4b"
 freq_rank: 228
 skip: false
+audio: "allerdings.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # allerdings
+
+![[allerdings.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allerdings/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allerdings&language=de)
 
 **Meaning:** however; though; admittedly
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

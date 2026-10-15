@@ -12,11 +12,16 @@ id: "B5057"
 netzwerk: "B1 K12 5c"
 freq_rank: 690
 skip: false
+audio: "zudem.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zudem
+
+![[zudem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zudem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zudem&language=de)
 
 **Meaning:** in addition
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

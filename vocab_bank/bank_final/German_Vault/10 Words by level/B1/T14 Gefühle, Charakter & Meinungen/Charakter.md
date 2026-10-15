@@ -14,11 +14,16 @@ bank: "main"
 id: "B5261"
 freq_rank: 1102
 skip: false
+audio: "Charakter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Charakter
+
+![[Charakter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Charakter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charakter&language=de)
 
 **Meaning:** character; personality
 **Plural:** Charaktere

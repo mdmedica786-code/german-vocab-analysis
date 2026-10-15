@@ -11,11 +11,16 @@ bank: "main"
 id: "B5842"
 freq_rank: 3122
 skip: false
+audio: "mathematisch.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # mathematisch
+
+![[mathematisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mathematisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mathematisch&language=de)
 
 **Meaning:** mathematical
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

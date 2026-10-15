@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # Elektro
 
+[▶️ YouGlish](https://youglish.com/pronounce/Elektro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektro&language=de)
+
 **Meaning:** electro (music)
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

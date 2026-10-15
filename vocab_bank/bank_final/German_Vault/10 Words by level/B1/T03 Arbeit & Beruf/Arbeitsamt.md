@@ -15,11 +15,16 @@ id: "B4814"
 netzwerk: "B1 K10 7b"
 freq_rank: 5759
 skip: false
+audio: "Arbeitsamt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitsamt
+
+![[Arbeitsamt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsamt&language=de)
 
 **Meaning:** employment office (job centre)
 **Plural:** Arbeitsämter

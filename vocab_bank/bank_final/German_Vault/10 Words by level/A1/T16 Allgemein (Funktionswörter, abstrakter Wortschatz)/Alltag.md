@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 1a"
 freq_rank: 1773
 skip: false
+audio: "Alltag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Alltag
+
+![[Alltag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alltag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alltag&language=de)
 
 **Meaning:** everyday life
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 13a"
 freq_rank: 2164
 skip: false
+audio: "Hunger.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hunger
+
+![[Hunger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hunger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hunger&language=de)
 
 **Meaning:** hunger
 **Plural:** –

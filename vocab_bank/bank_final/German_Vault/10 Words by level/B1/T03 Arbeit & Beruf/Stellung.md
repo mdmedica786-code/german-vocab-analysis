@@ -15,11 +15,16 @@ id: "B4608"
 netzwerk: "B1 K9 4a"
 freq_rank: 1205
 skip: false
+audio: "Stellung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stellung
+
+![[Stellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellung&language=de)
 
 **Meaning:** position; job; stance
 **Plural:** Stellungen

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Kultur-Nacht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kultur-Nacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kultur-Nacht&language=de)
+
 **Meaning:** cultural night
 **Plural:** Kultur-Nächte
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

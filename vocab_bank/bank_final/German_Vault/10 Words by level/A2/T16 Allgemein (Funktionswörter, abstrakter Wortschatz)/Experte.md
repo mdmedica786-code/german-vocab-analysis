@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 2789
 skip: false
+audio: "Experte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Experte
+
+![[Experte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Experte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Experte&language=de)
 
 **Meaning:** expert (m)
 **Plural:** Experten

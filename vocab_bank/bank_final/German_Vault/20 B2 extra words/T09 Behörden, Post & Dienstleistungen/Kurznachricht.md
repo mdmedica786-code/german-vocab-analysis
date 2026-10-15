@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4163"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Kurznachricht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kurznachricht
+
+![[Kurznachricht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurznachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurznachricht&language=de)
 
 **Meaning:** short message; text message
 **Plural:** Kurznachrichten

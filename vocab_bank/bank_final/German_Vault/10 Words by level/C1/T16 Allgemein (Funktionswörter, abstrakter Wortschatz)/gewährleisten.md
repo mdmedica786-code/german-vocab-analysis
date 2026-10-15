@@ -12,11 +12,16 @@ bank: "main"
 id: "B5505"
 freq_rank: 2139
 skip: false
+audio: "gewährleisten.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewährleisten
+
+![[gewährleisten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gew%C3%A4hrleisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gew%C3%A4hrleisten&language=de)
 
 **Meaning:** to guarantee; to ensure
 **Forms:** gewährleistet · gewährleistete · hat gewährleistet

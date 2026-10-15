@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 2b"
 freq_rank: 1471
 skip: false
+audio: "kräftig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kräftig
+
+![[kräftig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kr%C3%A4ftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kr%C3%A4ftig&language=de)
 
 **Meaning:** strong; hearty
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

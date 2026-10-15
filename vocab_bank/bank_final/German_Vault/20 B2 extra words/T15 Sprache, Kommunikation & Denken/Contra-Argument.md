@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3849"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Contra-Argument
+
+[▶️ YouGlish](https://youglish.com/pronounce/Contra-Argument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Contra-Argument&language=de)
 
 **Meaning:** counter-argument; argument against
 **Plural:** Contra-Argumente

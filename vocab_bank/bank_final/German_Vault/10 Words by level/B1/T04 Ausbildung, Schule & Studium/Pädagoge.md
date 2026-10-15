@@ -15,11 +15,16 @@ id: "B4115"
 netzwerk: "B1 K6 5b"
 freq_rank: 5759
 skip: false
+audio: "Pädagoge.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pädagoge
+
+![[Pädagoge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/P%C3%A4dagoge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%A4dagoge&language=de)
 
 **Meaning:** educator; teacher (m)
 **Plural:** Pädagogen

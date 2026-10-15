@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0364"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Impuls.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Impuls
+
+![[Impuls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Impuls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Impuls&language=de)
 
 **Meaning:** impulse; stimulus
 **Plural:** Impulse

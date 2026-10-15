@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1037"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Anleger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anleger
+
+![[Anleger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anleger&language=de)
 
 **Meaning:** investor
 **Plural:** Anleger

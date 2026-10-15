@@ -12,11 +12,16 @@ id: "B5210"
 goethe_level: "B1"
 freq_rank: 803
 skip: false
+audio: "bereit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bereit
+
+![[bereit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bereit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereit&language=de)
 
 **Meaning:** ready; prepared; willing
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

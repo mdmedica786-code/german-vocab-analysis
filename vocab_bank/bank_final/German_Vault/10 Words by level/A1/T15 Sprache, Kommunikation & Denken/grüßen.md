@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 8e"
 freq_rank: 3583
 skip: false
+audio: "grüßen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # grüßen
+
+![[grüßen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BC%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BC%C3%9Fen&language=de)
 
 **Meaning:** to greet
 **Forms:** grüßt · grüßte · hat gegrüßt

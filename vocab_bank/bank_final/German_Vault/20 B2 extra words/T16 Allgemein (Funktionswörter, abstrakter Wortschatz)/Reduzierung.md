@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3297"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Reduzierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reduzierung
+
+![[Reduzierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reduzierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reduzierung&language=de)
 
 **Meaning:** reduction; cutting back
 **Plural:** Reduzierungen

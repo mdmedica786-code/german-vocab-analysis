@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Fotoüberweisung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Foto%C3%BCberweisung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Foto%C3%BCberweisung&language=de)
+
 **Meaning:** picture transfer
 **Plural:** Fotoüberweisungen
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

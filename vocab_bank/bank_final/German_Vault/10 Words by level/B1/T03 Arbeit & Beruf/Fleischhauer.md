@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Fleischhauer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fleischhauer
+
+![[Fleischhauer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fleischhauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischhauer&language=de)
 
 **Meaning:** butcher (Austrian)
 **Plural:** Fleischhauer

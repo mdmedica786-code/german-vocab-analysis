@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3064"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Wendung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wendung
+
+![[Wendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wendung&language=de)
 
 **Meaning:** turn; phrase; expression
 **Plural:** Wendungen

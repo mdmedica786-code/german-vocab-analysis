@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1b"
 freq_rank: 3156
 skip: false
+audio: "Metall.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Metall
+
+![[Metall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Metall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metall&language=de)
 
 **Meaning:** metal
 **Plural:** Metalle

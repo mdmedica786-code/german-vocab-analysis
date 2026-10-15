@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0547"
 exam_use: ["Lesen"]
 skip: false
+audio: "Landflucht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Landflucht
+
+![[Landflucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Landflucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landflucht&language=de)
 
 **Meaning:** rural exodus
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2246"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Rasierer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rasierer
+
+![[Rasierer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rasierer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rasierer&language=de)
 
 **Meaning:** razor; shaver
 **Plural:** Rasierer

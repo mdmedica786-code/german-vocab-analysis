@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2337"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verschwommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschwommen
+
+![[verschwommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschwommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschwommen&language=de)
 
 **Meaning:** blurry; vague
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

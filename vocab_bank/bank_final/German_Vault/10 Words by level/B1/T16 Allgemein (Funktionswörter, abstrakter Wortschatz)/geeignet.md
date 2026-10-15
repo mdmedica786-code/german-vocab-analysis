@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 13a"
 freq_rank: 893
 skip: false
+audio: "geeignet.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # geeignet
+
+![[geeignet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geeignet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geeignet&language=de)
 
 **Meaning:** suitable
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

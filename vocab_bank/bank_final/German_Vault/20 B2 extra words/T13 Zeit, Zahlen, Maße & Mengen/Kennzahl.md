@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3022"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kennzahl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kennzahl
+
+![[Kennzahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kennzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kennzahl&language=de)
 
 **Meaning:** key figure; indicator; code
 **Plural:** Kennzahlen

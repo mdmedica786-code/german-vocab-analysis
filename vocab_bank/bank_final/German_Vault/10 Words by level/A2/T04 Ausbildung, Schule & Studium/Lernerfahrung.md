@@ -15,11 +15,16 @@ id: "B1928"
 netzwerk: "A2 K1 10a"
 freq_rank: 5759
 skip: false
+audio: "Lernerfahrung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lernerfahrung
+
+![[Lernerfahrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernerfahrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernerfahrung&language=de)
 
 **Meaning:** learning experiences
 **Plural:** Lernerfahrungen

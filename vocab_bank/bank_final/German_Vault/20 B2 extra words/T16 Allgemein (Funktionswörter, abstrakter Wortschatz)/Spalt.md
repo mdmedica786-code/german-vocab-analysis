@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3089"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Spalt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spalt
+
+![[Spalt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spalt&language=de)
 
 **Meaning:** gap; crack
 **Plural:** Spalte

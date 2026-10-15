@@ -13,11 +13,16 @@ id: "B4822"
 netzwerk: "B1 K10 7b"
 freq_rank: 282
 skip: false
+audio: "erscheinen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erscheinen
+
+![[erscheinen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erscheinen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erscheinen&language=de)
 
 **Meaning:** to appear; to be published; to seem
 **Forms:** erscheint · erschien · ist erschienen

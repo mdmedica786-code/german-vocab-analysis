@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # ins Leben rufen
 
+[▶️ YouGlish](https://youglish.com/pronounce/ins%20Leben%20rufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ins%20Leben%20rufen&language=de)
+
 **Meaning:** to found; to set up
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

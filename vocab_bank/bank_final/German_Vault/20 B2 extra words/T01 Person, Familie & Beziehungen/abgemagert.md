@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2350"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "abgemagert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # abgemagert
+
+![[abgemagert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abgemagert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abgemagert&language=de)
 
 **Meaning:** emaciated; very thin
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

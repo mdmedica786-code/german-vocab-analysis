@@ -15,11 +15,16 @@ id: "B4916"
 netzwerk: "B1 K11 6b"
 freq_rank: 5759
 skip: false
+audio: "Garagentor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Garagentor
+
+![[Garagentor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Garagentor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Garagentor&language=de)
 
 **Meaning:** garage door
 **Plural:** Garagentore

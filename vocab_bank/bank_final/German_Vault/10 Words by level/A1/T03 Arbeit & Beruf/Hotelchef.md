@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hotelchef
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hotelchef/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotelchef&language=de)
+
 **Meaning:** hotel boss (m)
 **Plural:** Hotelchefs
 **Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

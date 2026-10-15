@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 3a ÜB"
 freq_rank: 509
 skip: false
+audio: "wünschen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wünschen
+
+![[wünschen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCnschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCnschen&language=de)
 
 **Meaning:** to wish
 **Forms:** wünscht · wünschte · hat gewünscht

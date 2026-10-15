@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # eintausend
 
+[▶️ YouGlish](https://youglish.com/pronounce/eintausend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eintausend&language=de)
+
 **Meaning:** one thousand
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

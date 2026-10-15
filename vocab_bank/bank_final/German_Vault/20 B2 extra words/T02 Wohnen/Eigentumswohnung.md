@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1067"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Eigentumswohnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eigentumswohnung
+
+![[Eigentumswohnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigentumswohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigentumswohnung&language=de)
 
 **Meaning:** owner-occupied flat; condominium
 **Plural:** Eigentumswohnungen

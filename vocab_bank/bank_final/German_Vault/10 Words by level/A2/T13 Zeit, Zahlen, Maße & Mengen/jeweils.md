@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 11a"
 freq_rank: 692
 skip: false
+audio: "jeweils.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jeweils
+
+![[jeweils.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jeweils/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jeweils&language=de)
 
 **Meaning:** each
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

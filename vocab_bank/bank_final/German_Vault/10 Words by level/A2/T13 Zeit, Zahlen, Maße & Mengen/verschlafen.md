@@ -13,11 +13,16 @@ id: "B3214"
 netzwerk: "A2 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "verschlafen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschlafen
+
+![[verschlafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschlafen&language=de)
 
 **Meaning:** to oversleep
 **Forms:** verschläft · verschlief · hat verschlafen

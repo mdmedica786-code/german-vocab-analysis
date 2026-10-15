@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 10a"
 freq_rank: 325
 skip: false
+audio: "Raum.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Raum
+
+![[Raum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Raum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raum&language=de)
 
 **Meaning:** room
 **Plural:** Räume

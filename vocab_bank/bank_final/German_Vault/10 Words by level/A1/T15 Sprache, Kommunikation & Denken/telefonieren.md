@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7b"
 freq_rank: 5695
 skip: false
+audio: "telefonieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # telefonieren
+
+![[telefonieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/telefonieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=telefonieren&language=de)
 
 **Meaning:** to telephone
 **Forms:** telefoniert · telefonierte · hat telefoniert

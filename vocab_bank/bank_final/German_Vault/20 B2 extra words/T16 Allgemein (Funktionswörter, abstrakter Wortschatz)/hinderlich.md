@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0774"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "hinderlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinderlich
+
+![[hinderlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinderlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinderlich&language=de)
 
 **Meaning:** obstructive; a hindrance
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

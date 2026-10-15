@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2944"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "generieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # generieren
+
+![[generieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/generieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=generieren&language=de)
 
 **Meaning:** to generate
 **Forms:** generiert · generierte · hat generiert

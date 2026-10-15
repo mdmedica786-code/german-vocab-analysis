@@ -13,11 +13,16 @@ id: "B6064"
 goethe_level: "B1"
 freq_rank: 4129
 skip: false
+audio: "beleidigen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beleidigen
+
+![[beleidigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beleidigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beleidigen&language=de)
 
 **Meaning:** to insult
 **Forms:** beleidigt · beleidigte · hat beleidigt

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3b"
 freq_rank: 1872
 skip: false
+audio: "Trennung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Trennung
+
+![[Trennung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trennung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trennung&language=de)
 
 **Meaning:** separation
 **Plural:** Trennungen

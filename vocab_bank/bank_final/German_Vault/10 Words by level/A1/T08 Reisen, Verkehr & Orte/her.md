@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 10a"
 freq_rank: 382
 skip: false
+audio: "her.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # her
+
+![[her.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/her/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=her&language=de)
 
 **Meaning:** here (towards the speaker); ago
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

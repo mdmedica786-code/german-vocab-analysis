@@ -15,11 +15,16 @@ id: "B4461"
 netzwerk: "B1 K8 5c"
 freq_rank: 5759
 skip: false
+audio: "Krankenbesuch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Krankenbesuch
+
+![[Krankenbesuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankenbesuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenbesuch&language=de)
 
 **Meaning:** hospital visit
 **Plural:** Krankenbesuche

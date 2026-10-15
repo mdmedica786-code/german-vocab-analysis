@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem einen Bären aufbinden
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20einen%20B%C3%A4ren%20aufbinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20einen%20B%C3%A4ren%20aufbinden&language=de)
+
 **Meaning:** to pull someone's leg; to tell someone a tall story
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

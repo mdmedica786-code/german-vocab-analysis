@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1574"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "eitel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # eitel
+
+![[eitel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eitel&language=de)
 
 **Meaning:** vain
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

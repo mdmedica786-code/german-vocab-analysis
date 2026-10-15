@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 630
 skip: false
+audio: "beschäftigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschäftigen
+
+![[beschäftigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besch%C3%A4ftigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%A4ftigen&language=de)
 
 **Meaning:** to occupy oneself with
 **Forms:** beschäftigt · beschäftigte · hat beschäftigt

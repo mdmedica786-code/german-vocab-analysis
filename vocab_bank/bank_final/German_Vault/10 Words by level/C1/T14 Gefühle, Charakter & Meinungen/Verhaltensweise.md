@@ -14,11 +14,16 @@ bank: "main"
 id: "B5756"
 freq_rank: 2955
 skip: false
+audio: "Verhaltensweise.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verhaltensweise
+
+![[Verhaltensweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verhaltensweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verhaltensweise&language=de)
 
 **Meaning:** behaviour; way of behaving
 **Plural:** Verhaltensweisen

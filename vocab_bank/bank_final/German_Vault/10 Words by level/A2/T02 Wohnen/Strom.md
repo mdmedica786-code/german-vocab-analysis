@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 1881
 skip: false
+audio: "Strom.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Strom
+
+![[Strom.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strom&language=de)
 
 **Meaning:** electricity
 **Plural:** –

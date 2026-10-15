@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 3492
 skip: false
+audio: "Landwirtschaft.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Landwirtschaft
+
+![[Landwirtschaft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Landwirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landwirtschaft&language=de)
 
 **Meaning:** agriculture
 **Plural:** –

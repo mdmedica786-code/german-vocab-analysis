@@ -14,11 +14,16 @@ bank: "main"
 id: "B6452"
 freq_rank: 5759
 skip: false
+audio: "Geschäftsstelle.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschäftsstelle
+
+![[Geschäftsstelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsstelle&language=de)
 
 **Meaning:** office; branch
 **Plural:** Geschäftsstellen

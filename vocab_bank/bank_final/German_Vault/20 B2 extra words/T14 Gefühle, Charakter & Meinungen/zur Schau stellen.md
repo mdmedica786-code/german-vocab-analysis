@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Schau stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Schau%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Schau%20stellen&language=de)
+
 **Meaning:** to display; to flaunt
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

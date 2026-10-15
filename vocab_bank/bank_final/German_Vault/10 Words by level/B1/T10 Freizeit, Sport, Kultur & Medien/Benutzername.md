@@ -15,11 +15,16 @@ id: "B5042"
 netzwerk: "B1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "Benutzername.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Benutzername
+
+![[Benutzername.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benutzername/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benutzername&language=de)
 
 **Meaning:** user name
 **Plural:** Benutzernamen

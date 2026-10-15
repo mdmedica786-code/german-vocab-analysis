@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1077"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Übergabeprotokoll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Übergabeprotokoll
+
+![[Übergabeprotokoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbergabeprotokoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbergabeprotokoll&language=de)
 
 **Meaning:** handover protocol (for a flat)
 **Plural:** Übergabeprotokolle

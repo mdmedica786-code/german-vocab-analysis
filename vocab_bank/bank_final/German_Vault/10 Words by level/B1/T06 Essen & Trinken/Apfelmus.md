@@ -15,11 +15,16 @@ id: "B4361"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Apfelmus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Apfelmus
+
+![[Apfelmus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Apfelmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfelmus&language=de)
 
 **Meaning:** apple sauce
 **Plural:** –

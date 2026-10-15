@@ -15,11 +15,16 @@ id: "B1139"
 netzwerk: "A1 K7 7a"
 freq_rank: 5759
 skip: false
+audio: "Musikgruppe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Musikgruppe
+
+![[Musikgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgruppe&language=de)
 
 **Meaning:** music group
 **Plural:** Musikgruppen

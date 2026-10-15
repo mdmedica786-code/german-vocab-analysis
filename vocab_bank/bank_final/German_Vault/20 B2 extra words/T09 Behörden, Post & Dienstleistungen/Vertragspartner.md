@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0453"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vertragspartner.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vertragspartner
+
+![[Vertragspartner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertragspartner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertragspartner&language=de)
 
 **Meaning:** contracting party
 **Plural:** Vertragspartner

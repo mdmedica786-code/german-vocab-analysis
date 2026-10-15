@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Direktor
 
+[▶️ YouGlish](https://youglish.com/pronounce/Direktor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Direktor&language=de)
+
 **Meaning:** headmaster (m)
 **Plural:** Direktoren
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

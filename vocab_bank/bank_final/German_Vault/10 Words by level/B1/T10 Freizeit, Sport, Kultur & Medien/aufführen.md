@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 3280
 skip: false
+audio: "aufführen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufführen
+
+![[aufführen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auff%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auff%C3%BChren&language=de)
 
 **Meaning:** to perform
 **Forms:** führt auf · führte auf · hat aufgeführt

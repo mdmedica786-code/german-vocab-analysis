@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1073"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Mietminderung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mietminderung
+
+![[Mietminderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mietminderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mietminderung&language=de)
 
 **Meaning:** rent reduction
 **Plural:** Mietminderungen

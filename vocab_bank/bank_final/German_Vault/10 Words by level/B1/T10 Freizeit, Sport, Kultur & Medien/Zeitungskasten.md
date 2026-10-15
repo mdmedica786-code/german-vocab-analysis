@@ -15,11 +15,16 @@ id: "B5104"
 netzwerk: "B1 K12 10a"
 freq_rank: 9999
 skip: false
+audio: "Zeitungskasten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeitungskasten
+
+![[Zeitungskasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitungskasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitungskasten&language=de)
 
 **Meaning:** newspaper rack
 **Plural:** Zeitungskästen

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 12b"
 freq_rank: 529
 skip: false
+audio: "sterben.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sterben
+
+![[sterben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sterben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sterben&language=de)
 
 **Meaning:** to die
 **Forms:** stirbt · starb · ist gestorben

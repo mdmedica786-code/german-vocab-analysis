@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Schulplattform
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schulplattform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulplattform&language=de)
+
 **Meaning:** school platform
 **Plural:** Schulplattformen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

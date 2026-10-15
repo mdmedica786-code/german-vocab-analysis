@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 1b"
 freq_rank: 5754
 skip: false
+audio: "Muttersprache.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Muttersprache
+
+![[Muttersprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Muttersprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muttersprache&language=de)
 
 **Meaning:** mother tongue
 **Plural:** Muttersprachen

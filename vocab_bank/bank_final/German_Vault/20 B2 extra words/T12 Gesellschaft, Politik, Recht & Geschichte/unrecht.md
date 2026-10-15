@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2602"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "unrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # unrecht
+
+![[unrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unrecht&language=de)
 
 **Meaning:** wrong; unjust
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

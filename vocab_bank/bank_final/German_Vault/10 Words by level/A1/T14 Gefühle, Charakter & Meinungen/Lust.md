@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 15a"
 freq_rank: 1074
 skip: false
+audio: "Lust.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lust
+
+![[Lust.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lust/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lust&language=de)
 
 **Meaning:** desire; inclination
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3676"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Gestank.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gestank
+
+![[Gestank.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gestank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestank&language=de)
 
 **Meaning:** stench; bad smell
 **Plural:** –

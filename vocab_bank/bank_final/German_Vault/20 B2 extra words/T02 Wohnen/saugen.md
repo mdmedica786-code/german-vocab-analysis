@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1716"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "saugen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # saugen
+
+![[saugen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/saugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=saugen&language=de)
 
 **Meaning:** to suck; to vacuum
 **Forms:** saugt · saugte · hat gesaugt

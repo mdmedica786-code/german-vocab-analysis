@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1240"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "durchsuchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchsuchen
+
+![[durchsuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchsuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchsuchen&language=de)
 
 **Meaning:** to search; to go through
 **Forms:** durchsucht · durchsuchte · hat durchsucht

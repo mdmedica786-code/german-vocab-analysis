@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 5b"
 freq_rank: 3222
 skip: false
+audio: "Löwe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Löwe
+
+![[Löwe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6we/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6we&language=de)
 
 **Meaning:** lion
 **Plural:** Löwen

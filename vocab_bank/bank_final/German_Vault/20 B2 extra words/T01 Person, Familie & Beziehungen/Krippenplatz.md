@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1877"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Krippenplatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Krippenplatz
+
+![[Krippenplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krippenplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krippenplatz&language=de)
 
 **Meaning:** nursery place
 **Plural:** Krippenplätze

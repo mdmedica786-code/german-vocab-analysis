@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0496"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Kanzler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kanzler
+
+![[Kanzler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kanzler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kanzler&language=de)
 
 **Meaning:** chancellor
 **Plural:** Kanzler

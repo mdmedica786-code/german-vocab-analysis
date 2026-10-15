@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Lerntipp
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lerntipp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lerntipp&language=de)
+
 **Meaning:** learning tip
 **Plural:** Lerntipps
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

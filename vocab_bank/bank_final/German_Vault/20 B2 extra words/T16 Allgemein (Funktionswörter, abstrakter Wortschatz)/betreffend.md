@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2460"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "betreffend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # betreffend
+
+![[betreffend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betreffend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betreffend&language=de)
 
 **Meaning:** concerned; in question
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

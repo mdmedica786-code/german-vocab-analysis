@@ -15,11 +15,16 @@ id: "B4206"
 netzwerk: "B1 K6 10b"
 freq_rank: 5759
 skip: false
+audio: "Internationalismus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Internationalismus
+
+![[Internationalismus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Internationalismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internationalismus&language=de)
 
 **Meaning:** internationalism; international word
 **Plural:** Internationalismen

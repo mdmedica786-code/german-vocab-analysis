@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 11b"
 freq_rank: 1238
 skip: false
+audio: "konzentrieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # konzentrieren
+
+![[konzentrieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konzentrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konzentrieren&language=de)
 
 **Meaning:** to concentrate
 **Forms:** konzentriert sich · konzentrierte sich · hat sich konzentriert

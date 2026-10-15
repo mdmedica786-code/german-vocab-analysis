@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Frankreich
 
+[▶️ YouGlish](https://youglish.com/pronounce/Frankreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frankreich&language=de)
+
 **Meaning:** France
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2754"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "zärtlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zärtlich
+
+![[zärtlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/z%C3%A4rtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%A4rtlich&language=de)
 
 **Meaning:** tender; affectionate
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

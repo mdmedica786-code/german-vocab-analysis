@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # außer Kontrolle geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Fer%20Kontrolle%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Fer%20Kontrolle%20geraten&language=de)
+
 **Meaning:** to get out of control
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -13,11 +13,16 @@ id: "B1815"
 netzwerk: "A1 K12 7d"
 freq_rank: 5759
 skip: false
+audio: "chillen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # chillen
+
+![[chillen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/chillen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chillen&language=de)
 
 **Meaning:** to chill
 **Forms:** chillt · chillte · hat gechillt

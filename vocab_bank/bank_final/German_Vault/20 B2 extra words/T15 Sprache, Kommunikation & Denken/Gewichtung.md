@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0359"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Gewichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gewichtung
+
+![[Gewichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewichtung&language=de)
 
 **Meaning:** weighting; emphasis
 **Plural:** Gewichtungen

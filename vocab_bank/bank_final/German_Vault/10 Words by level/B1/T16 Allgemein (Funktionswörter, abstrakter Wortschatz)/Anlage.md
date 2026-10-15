@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 1070
 skip: false
+audio: "Anlage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anlage
+
+![[Anlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anlage&language=de)
 
 **Meaning:** attachment; facility; investment
 **Plural:** Anlagen

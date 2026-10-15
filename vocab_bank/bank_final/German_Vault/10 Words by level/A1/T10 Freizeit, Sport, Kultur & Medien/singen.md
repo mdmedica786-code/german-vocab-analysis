@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 2a"
 freq_rank: 1391
 skip: false
+audio: "singen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # singen
+
+![[singen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/singen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=singen&language=de)
 
 **Meaning:** to sing
 **Forms:** singt · sang · hat gesungen

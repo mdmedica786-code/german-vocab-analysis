@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2550"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "vollziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # vollziehen
+
+![[vollziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vollziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vollziehen&language=de)
 
 **Meaning:** to carry out; to take place
 **Forms:** vollzieht · vollzog · hat vollzogen

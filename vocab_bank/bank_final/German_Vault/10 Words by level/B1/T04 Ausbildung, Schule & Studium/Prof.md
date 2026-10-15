@@ -15,11 +15,16 @@ id: "B4224"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 2000
 skip: false
+audio: "Prof.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Prof
+
+![[Prof.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prof&language=de)
 
 **Meaning:** professor
 **Plural:** Profs

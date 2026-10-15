@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1100"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Instandhaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Instandhaltung
+
+![[Instandhaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Instandhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Instandhaltung&language=de)
 
 **Meaning:** maintenance; upkeep
 **Plural:** –

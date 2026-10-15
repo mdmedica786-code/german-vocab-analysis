@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0034"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zulasten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/preposition", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zulasten
+
+![[zulasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zulasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zulasten&language=de)
 
 **Meaning:** at the expense of
 **Case:** + Gen.

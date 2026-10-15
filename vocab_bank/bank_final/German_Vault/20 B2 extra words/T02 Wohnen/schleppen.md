@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1719"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "schleppen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # schleppen
+
+![[schleppen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schleppen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schleppen&language=de)
 
 **Meaning:** to drag; to haul
 **Forms:** schleppt · schleppte · hat geschleppt

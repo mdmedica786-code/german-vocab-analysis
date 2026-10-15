@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 4"
 freq_rank: 4630
 skip: false
+audio: "ausfallen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausfallen
+
+![[ausfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausfallen&language=de)
 
 **Meaning:** to be cancelled
 **Forms:** fällt aus · fiel aus · ist ausgefallen

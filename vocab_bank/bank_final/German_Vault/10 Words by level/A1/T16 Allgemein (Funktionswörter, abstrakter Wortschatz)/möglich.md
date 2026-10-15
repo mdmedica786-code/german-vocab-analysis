@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 7a"
 freq_rank: 184
 skip: false
+audio: "möglich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # möglich
+
+![[möglich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%B6glich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%B6glich&language=de)
 
 **Meaning:** possible
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B6264"
 goethe_level: "B1"
 freq_rank: 5187
 skip: false
+audio: "Fotografie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fotografie
+
+![[Fotografie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fotografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotografie&language=de)
 
 **Meaning:** photography
 **Plural:** Fotografien

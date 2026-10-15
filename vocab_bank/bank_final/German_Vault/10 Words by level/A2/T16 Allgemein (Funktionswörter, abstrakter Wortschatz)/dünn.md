@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 12a"
 freq_rank: 1496
 skip: false
+audio: "dünn.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # dünn
+
+![[dünn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/d%C3%BCnn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=d%C3%BCnn&language=de)
 
 **Meaning:** thin
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

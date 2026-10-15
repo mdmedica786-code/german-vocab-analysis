@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Nachdruck verleihen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Nachdruck%20verleihen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachdruck%20verleihen&language=de)
+
 **Meaning:** to lend emphasis
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

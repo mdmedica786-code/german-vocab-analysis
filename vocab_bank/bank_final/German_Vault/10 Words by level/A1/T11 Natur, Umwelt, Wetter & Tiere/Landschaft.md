@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 12b"
 freq_rank: 2225
 skip: false
+audio: "Landschaft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Landschaft
+
+![[Landschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Landschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landschaft&language=de)
 
 **Meaning:** landscape
 **Plural:** Landschaften

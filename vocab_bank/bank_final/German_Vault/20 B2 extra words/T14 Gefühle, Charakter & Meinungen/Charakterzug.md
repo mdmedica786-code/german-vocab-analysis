@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1158"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Charakterzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Charakterzug
+
+![[Charakterzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Charakterzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charakterzug&language=de)
 
 **Meaning:** character trait
 **Plural:** Charakterzüge

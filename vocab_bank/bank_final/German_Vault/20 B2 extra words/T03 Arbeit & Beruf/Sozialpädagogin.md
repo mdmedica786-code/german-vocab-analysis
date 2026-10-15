@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4431"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Sozialpädagogin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Sozialpädagogin
+
+![[Sozialpädagogin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialp%C3%A4dagogin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialp%C3%A4dagogin&language=de)
 
 **Meaning:** social education worker (female); social pedagogue
 **Plural:** Sozialpädagoginnen

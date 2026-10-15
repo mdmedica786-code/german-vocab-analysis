@@ -15,11 +15,16 @@ id: "B1739"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Regenschirm.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Regenschirm
+
+![[Regenschirm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regenschirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regenschirm&language=de)
 
 **Meaning:** umbrella
 **Plural:** Regenschirme

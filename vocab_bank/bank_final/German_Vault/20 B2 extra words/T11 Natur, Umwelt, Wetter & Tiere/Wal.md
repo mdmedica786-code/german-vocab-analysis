@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1972"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Wal.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wal
+
+![[Wal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wal&language=de)
 
 **Meaning:** whale
 **Plural:** Wale

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6290"
 freq_rank: 5395
 skip: false
+audio: "Korn.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Korn
+
+![[Korn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korn&language=de)
 
 **Meaning:** grain; seed
 **Plural:** Körner

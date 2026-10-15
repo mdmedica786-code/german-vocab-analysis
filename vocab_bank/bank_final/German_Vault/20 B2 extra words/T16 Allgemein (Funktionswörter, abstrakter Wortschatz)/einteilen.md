@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3644"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "einteilen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einteilen
+
+![[einteilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einteilen&language=de)
 
 **Meaning:** to divide; to schedule; to assign
 **Forms:** teilt ein · teilte ein · hat eingeteilt

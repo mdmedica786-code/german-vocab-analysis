@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0589"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Suchmaschine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Suchmaschine
+
+![[Suchmaschine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Suchmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suchmaschine&language=de)
 
 **Meaning:** search engine
 **Plural:** Suchmaschinen

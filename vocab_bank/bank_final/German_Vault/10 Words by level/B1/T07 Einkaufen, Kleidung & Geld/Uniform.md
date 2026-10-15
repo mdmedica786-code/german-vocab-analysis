@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 3881
 skip: false
+audio: "Uniform.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Uniform
+
+![[Uniform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Uniform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uniform&language=de)
 
 **Meaning:** uniform
 **Plural:** Uniformen

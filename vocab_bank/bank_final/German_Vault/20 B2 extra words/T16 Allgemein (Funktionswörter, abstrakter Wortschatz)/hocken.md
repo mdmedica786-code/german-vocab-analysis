@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3145"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "hocken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hocken
+
+![[hocken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hocken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hocken&language=de)
 
 **Meaning:** to squat; to crouch; to sit around
 **Forms:** hockt · hockte · hat/ist gehockt

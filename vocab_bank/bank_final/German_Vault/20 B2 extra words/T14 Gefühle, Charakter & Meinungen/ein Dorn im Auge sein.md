@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # ein Dorn im Auge sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/ein%20Dorn%20im%20Auge%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ein%20Dorn%20im%20Auge%20sein&language=de)
+
 **Meaning:** to be a thorn in one's side
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1515
 skip: false
+audio: "Herausforderung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Herausforderung
+
+![[Herausforderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herausforderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herausforderung&language=de)
 
 **Meaning:** challenge
 **Plural:** Herausforderungen

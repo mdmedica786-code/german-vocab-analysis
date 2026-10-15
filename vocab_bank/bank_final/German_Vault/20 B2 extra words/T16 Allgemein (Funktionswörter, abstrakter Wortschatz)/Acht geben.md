@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0135"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Acht geben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Acht geben
+
+![[Acht geben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Acht%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Acht%20geben&language=de)
 
 **Meaning:** to be careful; to pay attention
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 10a"
 freq_rank: 4224
 skip: false
+audio: "husten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # husten
+
+![[husten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/husten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=husten&language=de)
 
 **Meaning:** to cough
 **Forms:** hustet · hustete · hat gehustet

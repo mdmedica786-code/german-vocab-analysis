@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2454"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "moralisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # moralisch
+
+![[moralisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/moralisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=moralisch&language=de)
 
 **Meaning:** moral
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

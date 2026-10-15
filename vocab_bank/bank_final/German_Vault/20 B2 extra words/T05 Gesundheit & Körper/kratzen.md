@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1705"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "kratzen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # kratzen
+
+![[kratzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kratzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kratzen&language=de)
 
 **Meaning:** to scratch
 **Forms:** kratzt · kratzte · hat gekratzt

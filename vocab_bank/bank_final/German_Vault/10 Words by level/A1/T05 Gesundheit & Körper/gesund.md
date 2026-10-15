@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 1259
 skip: false
+audio: "gesund.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gesund
+
+![[gesund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gesund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesund&language=de)
 
 **Meaning:** healthy
 **Forms:** gesünder – am gesündesten

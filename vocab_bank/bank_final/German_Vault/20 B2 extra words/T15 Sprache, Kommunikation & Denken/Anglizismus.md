@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1934"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Anglizismus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anglizismus
+
+![[Anglizismus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anglizismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anglizismus&language=de)
 
 **Meaning:** anglicism
 **Plural:** Anglizismen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1916"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Einbürgerungstest.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einbürgerungstest
+
+![[Einbürgerungstest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einb%C3%BCrgerungstest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einb%C3%BCrgerungstest&language=de)
 
 **Meaning:** naturalisation test
 **Plural:** Einbürgerungstests

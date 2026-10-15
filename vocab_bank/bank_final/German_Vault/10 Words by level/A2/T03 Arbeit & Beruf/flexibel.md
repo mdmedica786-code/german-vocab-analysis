@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3"
 freq_rank: 5384
 skip: false
+audio: "flexibel.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # flexibel
+
+![[flexibel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/flexibel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=flexibel&language=de)
 
 **Meaning:** flexible
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1835"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "tendieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # tendieren
+
+![[tendieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tendieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tendieren&language=de)
 
 **Meaning:** to tend; to incline
 **Forms:** tendiert · tendierte · hat tendiert

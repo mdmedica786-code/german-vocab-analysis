@@ -13,11 +13,16 @@ id: "B5044"
 netzwerk: "B1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "einloggen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einloggen
+
+![[einloggen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einloggen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einloggen&language=de)
 
 **Meaning:** to log in
 **Forms:** loggt sich ein · loggte sich ein · hat sich eingeloggt

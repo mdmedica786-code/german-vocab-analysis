@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 3a ÜB"
 freq_rank: 2851
 skip: false
+audio: "Papiere.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Papiere
+
+![[Papiere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Papiere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papiere&language=de)
 
 **Meaning:** documents
 **Plural:** (Pl.)

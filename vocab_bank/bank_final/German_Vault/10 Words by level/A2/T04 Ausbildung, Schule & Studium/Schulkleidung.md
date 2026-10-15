@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Schulkleidung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schulkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulkleidung&language=de)
+
 **Meaning:** school clothing
 **Plural:** –
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

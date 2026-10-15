@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 10a"
 freq_rank: 2000
 skip: false
+audio: "Gewissen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gewissen
+
+![[Gewissen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewissen&language=de)
 
 **Meaning:** conscience
 **Plural:** Gewissen

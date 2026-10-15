@@ -15,11 +15,16 @@ id: "B4181"
 netzwerk: "B1 K6 9c"
 freq_rank: 5759
 skip: false
+audio: "Umschreibung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umschreibung
+
+![[Umschreibung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umschreibung&language=de)
 
 **Meaning:** paraphrase
 **Plural:** Umschreibungen

@@ -15,11 +15,16 @@ id: "B2041"
 netzwerk: "A2 K2 11a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Schulfach.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schulfach
+
+![[Schulfach.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schulfach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulfach&language=de)
 
 **Meaning:** subject
 **Plural:** Schulfächer

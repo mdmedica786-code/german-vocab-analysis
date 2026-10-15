@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2269"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kochlöffel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kochlöffel
+
+![[Kochlöffel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kochl%C3%B6ffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kochl%C3%B6ffel&language=de)
 
 **Meaning:** wooden spoon
 **Plural:** Kochlöffel

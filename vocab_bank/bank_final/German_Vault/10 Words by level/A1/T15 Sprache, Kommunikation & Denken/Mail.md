@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 8"
 freq_rank: 1809
 skip: false
+audio: "Mail.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mail
+
+![[Mail.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mail/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mail&language=de)
 
 **Meaning:** mail
 **Plural:** Mails

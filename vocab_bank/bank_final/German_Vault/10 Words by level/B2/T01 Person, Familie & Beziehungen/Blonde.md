@@ -14,11 +14,16 @@ bank: "main"
 id: "B6161"
 freq_rank: 4694
 skip: false
+audio: "Blonde.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Blonde
+
+![[Blonde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blonde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blonde&language=de)
 
 **Meaning:** blonde person
 **Plural:** Blonden

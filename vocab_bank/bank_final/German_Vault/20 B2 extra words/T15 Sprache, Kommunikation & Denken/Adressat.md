@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3342"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Adressat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Adressat
+
+![[Adressat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Adressat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adressat&language=de)
 
 **Meaning:** addressee; recipient; target audience
 **Plural:** Adressaten

@@ -12,11 +12,16 @@ bank: "main"
 id: "B5643"
 freq_rank: 2635
 skip: false
+audio: "entfalten.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entfalten
+
+![[entfalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entfalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entfalten&language=de)
 
 **Meaning:** to unfold; to develop
 **Forms:** entfaltet · entfaltete · hat entfaltet

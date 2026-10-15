@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4498"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Tierwohl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Tierwohl
+
+![[Tierwohl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierwohl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierwohl&language=de)
 
 **Meaning:** animal welfare
 **Plural:** –

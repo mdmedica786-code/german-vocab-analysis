@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0912"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "zumuten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zumuten
+
+![[zumuten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zumuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zumuten&language=de)
 
 **Meaning:** to expect of; to impose
 **Forms:** mutet zu · mutete zu · hat zugemutet

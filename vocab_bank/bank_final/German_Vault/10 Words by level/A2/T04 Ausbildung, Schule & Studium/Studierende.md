@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 6a"
 freq_rank: 2805
 skip: false
+audio: "Studierende.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Studierende
+
+![[Studierende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Studierende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studierende&language=de)
 
 **Meaning:** student
 **Plural:** Studierenden

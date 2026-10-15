@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1729"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "streuen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # streuen
+
+![[streuen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streuen&language=de)
 
 **Meaning:** to scatter; to sprinkle
 **Forms:** streut · streute · hat gestreut

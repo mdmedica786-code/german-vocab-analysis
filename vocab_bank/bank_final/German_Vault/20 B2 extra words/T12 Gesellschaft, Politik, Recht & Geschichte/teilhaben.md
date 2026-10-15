@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4478"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "teilhaben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # teilhaben
+
+![[teilhaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/teilhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teilhaben&language=de)
 
 **Meaning:** to share in; to participate in
 **Forms:** hat teil · hatte teil · hat teilgehabt

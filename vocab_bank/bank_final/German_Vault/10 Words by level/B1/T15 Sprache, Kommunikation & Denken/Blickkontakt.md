@@ -15,11 +15,16 @@ id: "B5106"
 netzwerk: "B1 K12 10c"
 freq_rank: 5759
 skip: false
+audio: "Blickkontakt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Blickkontakt
+
+![[Blickkontakt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blickkontakt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blickkontakt&language=de)
 
 **Meaning:** eye contact
 **Plural:** Blickkontakte

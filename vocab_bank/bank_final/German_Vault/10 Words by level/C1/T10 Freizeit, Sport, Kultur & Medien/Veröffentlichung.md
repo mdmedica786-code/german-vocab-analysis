@@ -14,11 +14,16 @@ bank: "main"
 id: "B5543"
 freq_rank: 2257
 skip: false
+audio: "Veröffentlichung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Veröffentlichung
+
+![[Veröffentlichung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ver%C3%B6ffentlichung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ver%C3%B6ffentlichung&language=de)
 
 **Meaning:** publication
 **Plural:** Veröffentlichungen

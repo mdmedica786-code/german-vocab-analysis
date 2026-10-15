@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 11"
 freq_rank: 2506
 skip: false
+audio: "verbieten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbieten
+
+![[verbieten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbieten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbieten&language=de)
 
 **Meaning:** to forbid
 **Forms:** verbietet · verbot · hat verboten

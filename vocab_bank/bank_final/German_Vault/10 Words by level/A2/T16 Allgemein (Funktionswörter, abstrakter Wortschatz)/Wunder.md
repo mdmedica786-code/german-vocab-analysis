@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 3c"
 freq_rank: 1575
 skip: false
+audio: "Wunder.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wunder
+
+![[Wunder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wunder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wunder&language=de)
 
 **Meaning:** miracle
 **Plural:** Wunder

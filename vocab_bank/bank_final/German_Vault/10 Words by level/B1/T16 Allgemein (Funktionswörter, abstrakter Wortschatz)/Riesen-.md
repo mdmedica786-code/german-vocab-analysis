@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Riesen-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Riesen-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Riesen-&language=de)
+
 **Meaning:** huge
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 1a"
 freq_rank: 2848
 skip: false
+audio: "Ski.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ski
+
+![[Ski.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ski/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ski&language=de)
 
 **Meaning:** ski
 **Plural:** Ski

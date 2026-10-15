@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 5b"
 freq_rank: 119
 skip: false
+audio: "Tag.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tag
+
+![[Tag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tag&language=de)
 
 **Meaning:** day
 **Plural:** Tage

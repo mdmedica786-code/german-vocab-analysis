@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2223"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Pinsel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pinsel
+
+![[Pinsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pinsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pinsel&language=de)
 
 **Meaning:** brush; paintbrush
 **Plural:** Pinsel

@@ -13,11 +13,16 @@ id: "B2933"
 netzwerk: "A2 K10 1b"
 freq_rank: 2836
 skip: false
+audio: "spiegeln.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spiegeln
+
+![[spiegeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spiegeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spiegeln&language=de)
 
 **Meaning:** to reflect
 **Forms:** spiegelt · spiegelte · hat gespiegelt

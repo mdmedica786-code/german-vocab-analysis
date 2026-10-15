@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 3a"
 freq_rank: 1274
 skip: false
+audio: "streng.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # streng
+
+![[streng.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streng/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streng&language=de)
 
 **Meaning:** strict
 **Forms:** strenger – am strengsten

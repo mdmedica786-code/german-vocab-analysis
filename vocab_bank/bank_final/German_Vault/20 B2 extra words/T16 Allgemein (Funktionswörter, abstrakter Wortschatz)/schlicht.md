@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1346"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "schlicht.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlicht
+
+![[schlicht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlicht&language=de)
 
 **Meaning:** simple; plain; simply
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

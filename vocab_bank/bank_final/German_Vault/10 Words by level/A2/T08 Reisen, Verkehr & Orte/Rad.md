@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 1b ÜB"
 freq_rank: 2900
 skip: false
+audio: "Rad.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Rad
+
+![[Rad.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rad&language=de)
 
 **Meaning:** bike
 **Plural:** Räder

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3679"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Erörterung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erörterung
+
+![[Erörterung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Er%C3%B6rterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Er%C3%B6rterung&language=de)
 
 **Meaning:** discussion; examination (also essay type)
 **Plural:** Erörterungen

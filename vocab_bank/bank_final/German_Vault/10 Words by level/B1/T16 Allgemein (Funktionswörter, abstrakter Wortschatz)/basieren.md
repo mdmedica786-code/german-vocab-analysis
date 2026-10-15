@@ -13,11 +13,16 @@ id: "B5092"
 netzwerk: "B1 K12 10a"
 freq_rank: 2491
 skip: false
+audio: "basieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # basieren
+
+![[basieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/basieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=basieren&language=de)
 
 **Meaning:** to be based on
 **Forms:** basiert · basierte · hat basiert

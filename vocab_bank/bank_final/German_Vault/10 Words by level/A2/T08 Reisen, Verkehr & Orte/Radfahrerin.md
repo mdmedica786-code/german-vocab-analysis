@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Radfahrerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Radfahrerin
+
+![[Radfahrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radfahrerin&language=de)
 
 **Meaning:** cyclist (f)
 **Plural:** Radfahrerinnen

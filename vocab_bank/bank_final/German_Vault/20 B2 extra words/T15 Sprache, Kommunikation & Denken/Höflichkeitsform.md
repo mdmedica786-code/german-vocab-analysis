@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4052"
 exam_use: ["Sprechen", "Grammatik"]
 skip: false
-status: "new"
+audio: "Höflichkeitsform.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Grammatik"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Höflichkeitsform
+
+![[Höflichkeitsform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6flichkeitsform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6flichkeitsform&language=de)
 
 **Meaning:** polite form; form of politeness
 **Plural:** Höflichkeitsformen

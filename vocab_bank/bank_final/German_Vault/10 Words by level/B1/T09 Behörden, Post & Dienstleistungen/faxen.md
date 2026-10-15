@@ -13,11 +13,16 @@ id: "B6432"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "faxen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # faxen
+
+![[faxen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/faxen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=faxen&language=de)
 
 **Meaning:** to fax
 **Forms:** faxt · faxte · hat gefaxt

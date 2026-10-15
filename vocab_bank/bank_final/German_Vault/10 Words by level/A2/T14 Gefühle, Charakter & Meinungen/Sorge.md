@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 12b"
 freq_rank: 1547
 skip: false
+audio: "Sorge.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sorge
+
+![[Sorge.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sorge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sorge&language=de)
 
 **Meaning:** worry
 **Plural:** Sorgen

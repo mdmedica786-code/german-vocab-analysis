@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 734
 skip: false
+audio: "einsetzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einsetzen
+
+![[einsetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsetzen&language=de)
 
 **Meaning:** to insert; to use; to appoint
 **Other senses:** sich einsetzen für: to stand up for

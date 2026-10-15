@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 5696
 skip: false
+audio: "aussteigen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aussteigen
+
+![[aussteigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussteigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussteigen&language=de)
 
 **Meaning:** to get off
 **Forms:** steigt aus · stieg aus · ist ausgestiegen

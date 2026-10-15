@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3014"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Abwehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abwehr
+
+![[Abwehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abwehr&language=de)
 
 **Meaning:** defence; resistance
 **Plural:** –

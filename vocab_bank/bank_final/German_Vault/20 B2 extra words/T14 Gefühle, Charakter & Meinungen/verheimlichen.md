@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1315"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "verheimlichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verheimlichen
+
+![[verheimlichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verheimlichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verheimlichen&language=de)
 
 **Meaning:** to conceal; to keep secret
 **Forms:** verheimlicht · verheimlichte · hat verheimlicht

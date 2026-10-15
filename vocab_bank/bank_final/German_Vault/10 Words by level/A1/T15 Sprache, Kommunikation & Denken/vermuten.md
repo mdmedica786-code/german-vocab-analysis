@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 12a"
 freq_rank: 1280
 skip: false
+audio: "vermuten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vermuten
+
+![[vermuten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vermuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vermuten&language=de)
 
 **Meaning:** to suspect; to assume
 **Forms:** vermutet · vermutete · hat vermutet

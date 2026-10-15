@@ -15,11 +15,16 @@ id: "B4600"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Reinigungsfirma.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reinigungsfirma
+
+![[Reinigungsfirma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reinigungsfirma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigungsfirma&language=de)
 
 **Meaning:** cleaning company
 **Plural:** Reinigungsfirmen

@@ -15,11 +15,16 @@ id: "B6457"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Gratulation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gratulation
+
+![[Gratulation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gratulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gratulation&language=de)
 
 **Meaning:** congratulations
 **Plural:** Gratulationen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4197"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Lokomotive.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lokomotive
+
+![[Lokomotive.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lokomotive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lokomotive&language=de)
 
 **Meaning:** locomotive; engine
 **Plural:** Lokomotiven

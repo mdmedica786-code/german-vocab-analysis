@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # fertig sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/fertig%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fertig%20sein&language=de)
+
 **Meaning:** to be finished; to be ready
 **Forms:** ist fertig · war fertig · ist fertig gewesen
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

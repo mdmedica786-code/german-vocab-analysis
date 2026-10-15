@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2027"
 exam_use: ["Hören", "Medien"]
 skip: false
+audio: "Flächenbrand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Flächenbrand
+
+![[Flächenbrand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%A4chenbrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%A4chenbrand&language=de)
 
 **Meaning:** large-scale fire; wildfire
 **Plural:** Flächenbrände

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Widerstand leisten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Widerstand%20leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerstand%20leisten&language=de)
+
 **Meaning:** to put up resistance
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

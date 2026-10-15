@@ -15,11 +15,16 @@ id: "B0624"
 netzwerk: "A1 K4 2a"
 freq_rank: 5759
 skip: false
+audio: "Keks.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Keks
+
+![[Keks.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Keks/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Keks&language=de)
 
 **Meaning:** biscuit; cookie
 **Plural:** Kekse

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 3b"
 freq_rank: 1540
 skip: false
+audio: "Telefon.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Telefon
+
+![[Telefon.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Telefon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefon&language=de)
 
 **Meaning:** telephone
 **Plural:** Telefone

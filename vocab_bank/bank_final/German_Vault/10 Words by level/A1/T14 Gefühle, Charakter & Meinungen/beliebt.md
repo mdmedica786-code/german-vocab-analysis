@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 9c"
 freq_rank: 3773
 skip: false
+audio: "beliebt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # beliebt
+
+![[beliebt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beliebt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beliebt&language=de)
 
 **Meaning:** popular
 **Forms:** beliebter – am beliebtesten

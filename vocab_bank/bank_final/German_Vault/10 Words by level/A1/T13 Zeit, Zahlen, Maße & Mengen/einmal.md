@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 12a"
 freq_rank: 133
 skip: false
+audio: "einmal.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einmal
+
+![[einmal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einmal&language=de)
 
 **Meaning:** once
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B6622"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Zündholz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zündholz
+
+![[Zündholz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Z%C3%BCndholz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Z%C3%BCndholz&language=de)
 
 **Meaning:** match
 **Plural:** Zündhölzer

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4496"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Tierpension
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierpension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierpension&language=de)
 
 **Meaning:** animal boarding home; pet hotel
 **Plural:** Tierpensionen

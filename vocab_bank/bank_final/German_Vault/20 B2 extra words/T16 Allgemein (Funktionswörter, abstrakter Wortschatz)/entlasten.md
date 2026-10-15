@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0888"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entlasten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entlasten
+
+![[entlasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entlasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entlasten&language=de)
 
 **Meaning:** to relieve; to exonerate
 **Forms:** entlastet · entlastete · hat entlastet

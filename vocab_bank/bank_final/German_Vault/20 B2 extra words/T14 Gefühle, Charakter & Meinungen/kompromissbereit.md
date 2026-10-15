@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4119"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "kompromissbereit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # kompromissbereit
+
+![[kompromissbereit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kompromissbereit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kompromissbereit&language=de)
 
 **Meaning:** willing to compromise
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1472"
 netzwerk: "A1 K9 11b"
 freq_rank: 5759
 skip: false
+audio: "Missfallen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Missfallen
+
+![[Missfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Missfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Missfallen&language=de)
 
 **Meaning:** displeasure; disapproval
 **Plural:** –

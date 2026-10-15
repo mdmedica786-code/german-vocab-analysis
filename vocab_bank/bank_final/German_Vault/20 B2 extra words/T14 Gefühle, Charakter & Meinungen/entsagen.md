@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1817"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entsagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entsagen
+
+![[entsagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entsagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entsagen&language=de)
 
 **Meaning:** to renounce; to forgo
 **Forms:** entsagt · entsagte · hat entsagt

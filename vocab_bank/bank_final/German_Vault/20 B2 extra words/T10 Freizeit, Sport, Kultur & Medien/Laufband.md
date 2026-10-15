@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1444"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Laufband.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Laufband
+
+![[Laufband.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laufband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laufband&language=de)
 
 **Meaning:** treadmill
 **Plural:** Laufbänder

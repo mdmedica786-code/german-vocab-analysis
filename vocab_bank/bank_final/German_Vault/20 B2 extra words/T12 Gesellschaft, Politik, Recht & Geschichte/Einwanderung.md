@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0479"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Einwanderung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einwanderung
+
+![[Einwanderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einwanderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwanderung&language=de)
 
 **Meaning:** immigration
 **Plural:** –

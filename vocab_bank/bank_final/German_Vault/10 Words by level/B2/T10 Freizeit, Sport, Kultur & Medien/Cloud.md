@@ -14,11 +14,16 @@ bank: "main"
 id: "B5716"
 freq_rank: 2849
 skip: false
+audio: "Cloud.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Cloud
+
+![[Cloud.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Cloud/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cloud&language=de)
 
 **Meaning:** cloud (computing)
 **Plural:** Clouds

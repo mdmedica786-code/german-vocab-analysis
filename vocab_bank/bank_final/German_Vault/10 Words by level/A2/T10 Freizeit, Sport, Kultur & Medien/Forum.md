@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3a"
 freq_rank: 4234
 skip: false
+audio: "Forum.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Forum
+
+![[Forum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forum&language=de)
 
 **Meaning:** forum; online forum
 **Plural:** Foren

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 1462
 skip: false
+audio: "interessiert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # interessiert
+
+![[interessiert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/interessiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=interessiert&language=de)
 
 **Meaning:** interested
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

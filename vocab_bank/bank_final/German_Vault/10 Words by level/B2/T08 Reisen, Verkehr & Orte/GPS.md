@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das GPS
 
+[▶️ YouGlish](https://youglish.com/pronounce/GPS/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=GPS&language=de)
+
 **Meaning:** GPS
 **Plural:** –
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

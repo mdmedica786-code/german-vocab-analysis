@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1822"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "herrschen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # herrschen
+
+![[herrschen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herrschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herrschen&language=de)
 
 **Meaning:** to rule; to prevail
 **Forms:** herrscht · herrschte · hat geherrscht

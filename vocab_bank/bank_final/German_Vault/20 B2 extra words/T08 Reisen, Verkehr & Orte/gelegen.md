@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2688"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "gelegen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelegen
+
+![[gelegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelegen&language=de)
 
 **Meaning:** situated; convenient
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

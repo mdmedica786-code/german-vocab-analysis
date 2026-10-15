@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 14"
 freq_rank: 3370
 skip: false
+audio: "höflich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # höflich
+
+![[höflich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%B6flich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%B6flich&language=de)
 
 **Meaning:** polite
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

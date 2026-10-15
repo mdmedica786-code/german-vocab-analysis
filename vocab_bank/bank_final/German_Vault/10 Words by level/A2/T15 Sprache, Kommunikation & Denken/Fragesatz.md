@@ -15,11 +15,16 @@ id: "B2570"
 netzwerk: "A2 K7 4b"
 freq_rank: 5759
 skip: false
+audio: "Fragesatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fragesatz
+
+![[Fragesatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fragesatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fragesatz&language=de)
 
 **Meaning:** interrogative clause
 **Plural:** Fragesätze

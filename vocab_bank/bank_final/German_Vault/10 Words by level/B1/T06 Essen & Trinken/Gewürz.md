@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Gewürz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gewürz
+
+![[Gewürz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gew%C3%BCrz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gew%C3%BCrz&language=de)
 
 **Meaning:** spice
 **Plural:** Gewürze

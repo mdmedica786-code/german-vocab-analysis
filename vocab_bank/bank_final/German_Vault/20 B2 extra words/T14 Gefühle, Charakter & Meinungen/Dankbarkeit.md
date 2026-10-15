@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1475"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Dankbarkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dankbarkeit
+
+![[Dankbarkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dankbarkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dankbarkeit&language=de)
 
 **Meaning:** gratitude
 **Plural:** –

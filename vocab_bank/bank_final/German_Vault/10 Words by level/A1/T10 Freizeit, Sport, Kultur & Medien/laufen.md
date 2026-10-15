@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 15a"
 freq_rank: 272
 skip: false
+audio: "laufen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # laufen
+
+![[laufen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/laufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=laufen&language=de)
 
 **Meaning:** to run; to walk; to work
 **Other senses:** to go

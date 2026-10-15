@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1b"
 freq_rank: 5759
 skip: false
+audio: "Briefträgerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Briefträgerin
+
+![[Briefträgerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brieftr%C3%A4gerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brieftr%C3%A4gerin&language=de)
 
 **Meaning:** postal carrier (f)
 **Plural:** Briefträgerinnen

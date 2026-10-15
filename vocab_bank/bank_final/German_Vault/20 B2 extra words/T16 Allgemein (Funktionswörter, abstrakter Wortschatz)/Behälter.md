@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3669"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Behälter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Behälter
+
+![[Behälter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beh%C3%A4lter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beh%C3%A4lter&language=de)
 
 **Meaning:** container; receptacle
 **Plural:** Behälter

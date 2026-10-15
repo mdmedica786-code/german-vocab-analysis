@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 10 ÜB"
 freq_rank: 212
 skip: false
+audio: "folgen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # folgen
+
+![[folgen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/folgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=folgen&language=de)
 
 **Meaning:** to follow
 **Forms:** folgt · folgte · ist gefolgt

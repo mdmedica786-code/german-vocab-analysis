@@ -15,11 +15,16 @@ id: "B2446"
 netzwerk: "A2 K6 7a"
 freq_rank: 9999
 skip: false
+audio: "Herzchirurgin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Herzchirurgin
+
+![[Herzchirurgin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herzchirurgin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herzchirurgin&language=de)
 
 **Meaning:** heart surgeon (f)
 **Plural:** Herzchirurginnen

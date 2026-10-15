@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0628"
 exam_use: ["Alltag"]
 skip: false
+audio: "Livestream.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Livestream
+
+![[Livestream.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Livestream/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Livestream&language=de)
 
 **Meaning:** livestream
 **Plural:** Livestreams

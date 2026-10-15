@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0770"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "gewissenhaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewissenhaft
+
+![[gewissenhaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gewissenhaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gewissenhaft&language=de)
 
 **Meaning:** conscientious
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5575"
 freq_rank: 2379
 skip: false
+audio: "Kinn.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kinn
+
+![[Kinn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinn&language=de)
 
 **Meaning:** chin
 **Plural:** Kinne

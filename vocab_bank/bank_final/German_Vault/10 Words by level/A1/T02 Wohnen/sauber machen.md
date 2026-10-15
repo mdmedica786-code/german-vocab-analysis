@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # sauber machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sauber%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sauber%20machen&language=de)
+
 **Meaning:** to clean sth
 **Forms:** macht sauber · machte sauber · hat sauber gemacht
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

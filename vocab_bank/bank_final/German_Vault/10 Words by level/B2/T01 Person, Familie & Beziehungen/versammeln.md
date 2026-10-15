@@ -12,11 +12,16 @@ bank: "main"
 id: "B5746"
 freq_rank: 2928
 skip: false
+audio: "versammeln.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # versammeln
+
+![[versammeln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versammeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versammeln&language=de)
 
 **Meaning:** to gather; to assemble
 **Forms:** versammelt sich · versammelte sich · hat sich versammelt

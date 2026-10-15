@@ -15,11 +15,16 @@ id: "B2800"
 netzwerk: "A2 K8 10b"
 freq_rank: 5759
 skip: false
+audio: "Hauptteil.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hauptteil
+
+![[Hauptteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptteil&language=de)
 
 **Meaning:** main part
 **Plural:** Hauptteile

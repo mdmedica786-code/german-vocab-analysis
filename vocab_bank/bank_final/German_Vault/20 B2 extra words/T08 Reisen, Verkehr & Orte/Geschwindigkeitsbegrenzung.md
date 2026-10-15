@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1018"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Geschwindigkeitsbegrenzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschwindigkeitsbegrenzung
+
+![[Geschwindigkeitsbegrenzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschwindigkeitsbegrenzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschwindigkeitsbegrenzung&language=de)
 
 **Meaning:** speed limit
 **Plural:** Geschwindigkeitsbegrenzungen

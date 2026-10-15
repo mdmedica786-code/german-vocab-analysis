@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1906"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Bildungsurlaub.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bildungsurlaub
+
+![[Bildungsurlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildungsurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildungsurlaub&language=de)
 
 **Meaning:** educational leave
 **Plural:** Bildungsurlaube

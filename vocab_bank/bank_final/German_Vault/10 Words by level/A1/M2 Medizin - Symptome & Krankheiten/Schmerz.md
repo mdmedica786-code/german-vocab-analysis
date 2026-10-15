@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 10b"
 freq_rank: 618
 skip: false
+audio: "Schmerz.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schmerz
+
+![[Schmerz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schmerz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmerz&language=de)
 
 **Meaning:** pain
 **Plural:** Schmerzen

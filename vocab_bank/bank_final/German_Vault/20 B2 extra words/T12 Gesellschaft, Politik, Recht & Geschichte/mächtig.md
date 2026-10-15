@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # mächtig
 
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%A4chtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%A4chtig&language=de)
+
 **Meaning:** powerful; mighty
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

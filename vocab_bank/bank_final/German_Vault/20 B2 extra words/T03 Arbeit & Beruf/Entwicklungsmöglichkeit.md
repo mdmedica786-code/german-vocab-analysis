@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3903"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Entwicklungsmöglichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Entwicklungsmöglichkeit
+
+![[Entwicklungsmöglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entwicklungsm%C3%B6glichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entwicklungsm%C3%B6glichkeit&language=de)
 
 **Meaning:** opportunity for development; prospects
 **Plural:** Entwicklungsmöglichkeiten

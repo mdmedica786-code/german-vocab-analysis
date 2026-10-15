@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4032"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "heilbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # heilbar
+
+![[heilbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heilbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heilbar&language=de)
 
 **Meaning:** curable; treatable
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

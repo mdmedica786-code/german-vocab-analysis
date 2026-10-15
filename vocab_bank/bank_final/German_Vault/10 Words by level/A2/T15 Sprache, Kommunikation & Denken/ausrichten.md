@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 12b"
 freq_rank: 2346
 skip: false
+audio: "ausrichten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausrichten
+
+![[ausrichten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausrichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausrichten&language=de)
 
 **Meaning:** to pass on sth to sb
 **Forms:** richtet aus · richtete aus · hat ausgerichtet

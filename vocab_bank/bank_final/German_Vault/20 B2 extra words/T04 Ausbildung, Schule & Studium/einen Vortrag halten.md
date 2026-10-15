@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Vortrag halten
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Vortrag%20halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Vortrag%20halten&language=de)
+
 **Meaning:** to give a lecture
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 

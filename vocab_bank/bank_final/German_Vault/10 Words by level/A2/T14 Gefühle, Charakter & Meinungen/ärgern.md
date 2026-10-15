@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 5c"
 freq_rank: 4605
 skip: false
+audio: "ärgern.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ärgern
+
+![[ärgern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%A4rgern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4rgern&language=de)
 
 **Meaning:** to be annoyed
 **Forms:** ärgert · ärgerte · hat geärgert

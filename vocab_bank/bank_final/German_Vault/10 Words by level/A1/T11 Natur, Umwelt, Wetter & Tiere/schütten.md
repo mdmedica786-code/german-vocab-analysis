@@ -13,11 +13,16 @@ id: "B1849"
 netzwerk: "A1 K12 11d"
 freq_rank: 5759
 skip: false
+audio: "schütten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schütten
+
+![[schütten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%BCtten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%BCtten&language=de)
 
 **Meaning:** to pour
 **Forms:** schüttet · schüttete · hat geschüttet

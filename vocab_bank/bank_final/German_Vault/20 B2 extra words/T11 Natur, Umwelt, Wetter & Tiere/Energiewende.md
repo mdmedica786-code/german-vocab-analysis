@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0653"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Energiewende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Energiewende
+
+![[Energiewende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Energiewende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Energiewende&language=de)
 
 **Meaning:** energy transition
 **Plural:** –

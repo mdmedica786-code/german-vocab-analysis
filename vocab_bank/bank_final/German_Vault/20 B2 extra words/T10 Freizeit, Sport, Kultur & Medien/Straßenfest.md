@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1892"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Straßenfest.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Straßenfest
+
+![[Straßenfest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fenfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fenfest&language=de)
 
 **Meaning:** street party
 **Plural:** Straßenfeste

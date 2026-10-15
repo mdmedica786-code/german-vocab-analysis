@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3884"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "einpflanzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # einpflanzen
+
+![[einpflanzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einpflanzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einpflanzen&language=de)
 
 **Meaning:** to plant; to implant
 **Forms:** pflanzt ein · pflanzte ein · hat eingepflanzt

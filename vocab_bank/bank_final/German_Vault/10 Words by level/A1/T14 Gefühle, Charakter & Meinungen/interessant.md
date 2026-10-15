@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 2b"
 freq_rank: 1121
 skip: false
+audio: "interessant.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # interessant
+
+![[interessant.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/interessant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=interessant&language=de)
 
 **Meaning:** interesting
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

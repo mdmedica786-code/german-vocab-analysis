@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 500
 skip: false
+audio: "besitzen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # besitzen
+
+![[besitzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besitzen&language=de)
 
 **Meaning:** to own
 **Forms:** besitzt · besaß · hat besessen

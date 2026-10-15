@@ -13,11 +13,16 @@ id: "B1215"
 netzwerk: "A1 K8 3a"
 freq_rank: 4100
 skip: false
+audio: "weitermachen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weitermachen
+
+![[weitermachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weitermachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weitermachen&language=de)
 
 **Meaning:** to continue
 **Forms:** macht weiter · machte weiter · hat weitergemacht

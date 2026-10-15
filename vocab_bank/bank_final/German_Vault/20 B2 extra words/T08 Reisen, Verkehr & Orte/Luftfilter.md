@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4201"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Luftfilter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Luftfilter
+
+![[Luftfilter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luftfilter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftfilter&language=de)
 
 **Meaning:** air filter
 **Plural:** Luftfilter

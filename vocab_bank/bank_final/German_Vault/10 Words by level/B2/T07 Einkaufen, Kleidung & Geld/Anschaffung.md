@@ -14,11 +14,16 @@ bank: "main"
 id: "B6360"
 freq_rank: 5759
 skip: false
+audio: "Anschaffung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anschaffung
+
+![[Anschaffung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anschaffung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anschaffung&language=de)
 
 **Meaning:** purchase; acquisition
 **Plural:** Anschaffungen

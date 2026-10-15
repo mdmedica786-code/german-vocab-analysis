@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4079"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "inszenieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # inszenieren
+
+![[inszenieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/inszenieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inszenieren&language=de)
 
 **Meaning:** to stage; to direct (a play); to orchestrate
 **Forms:** inszeniert · inszenierte · hat inszeniert

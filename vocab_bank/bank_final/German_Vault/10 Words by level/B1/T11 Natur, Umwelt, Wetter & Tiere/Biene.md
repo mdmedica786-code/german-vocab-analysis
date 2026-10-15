@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 10d"
 freq_rank: 5759
 skip: false
+audio: "Biene.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Biene
+
+![[Biene.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biene&language=de)
 
 **Meaning:** bee
 **Plural:** Bienen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1849"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "wetteifern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # wetteifern
+
+![[wetteifern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wetteifern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wetteifern&language=de)
 
 **Meaning:** to compete; to vie
 **Forms:** wetteifert · wetteiferte · hat gewetteifert

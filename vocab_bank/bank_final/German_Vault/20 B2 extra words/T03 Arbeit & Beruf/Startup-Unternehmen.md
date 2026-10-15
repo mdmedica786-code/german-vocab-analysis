@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4460"
 exam_use: ["Medien", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Startup-Unternehmen
+
+[▶️ YouGlish](https://youglish.com/pronounce/Startup-Unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Startup-Unternehmen&language=de)
 
 **Meaning:** start-up company
 **Plural:** Startup-Unternehmen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2584"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Diskurs.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Diskurs
+
+![[Diskurs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diskurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diskurs&language=de)
 
 **Meaning:** discourse
 **Plural:** Diskurse

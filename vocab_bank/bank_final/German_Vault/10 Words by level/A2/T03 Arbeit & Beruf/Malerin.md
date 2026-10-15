@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 5759
 skip: false
+audio: "Malerin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Malerin
+
+![[Malerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Malerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Malerin&language=de)
 
 **Meaning:** painter (f)
 **Plural:** Malerinnen

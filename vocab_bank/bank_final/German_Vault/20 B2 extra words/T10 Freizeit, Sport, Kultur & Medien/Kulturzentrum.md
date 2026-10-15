@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4156"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Kulturzentrum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kulturzentrum
+
+![[Kulturzentrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kulturzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturzentrum&language=de)
 
 **Meaning:** cultural centre
 **Plural:** Kulturzentren

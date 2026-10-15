@@ -15,11 +15,16 @@ id: "B5901"
 goethe_level: "B1"
 freq_rank: 3413
 skip: false
+audio: "Plattform.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Plattform
+
+![[Plattform.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plattform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plattform&language=de)
 
 **Meaning:** platform
 **Plural:** Plattformen

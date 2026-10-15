@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # etwas unter den Teppich kehren
 
+[▶️ YouGlish](https://youglish.com/pronounce/etwas%20unter%20den%20Teppich%20kehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=etwas%20unter%20den%20Teppich%20kehren&language=de)
+
 **Meaning:** to sweep something under the carpet
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

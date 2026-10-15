@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3955"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Forscherteam.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Forscherteam
+
+![[Forscherteam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forscherteam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forscherteam&language=de)
 
 **Meaning:** research team
 **Plural:** Forscherteams

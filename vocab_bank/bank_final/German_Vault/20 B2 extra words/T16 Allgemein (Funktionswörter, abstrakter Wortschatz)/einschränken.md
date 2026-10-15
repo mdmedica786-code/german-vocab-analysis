@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0882"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "einschränken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschränken
+
+![[einschränken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einschr%C3%A4nken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einschr%C3%A4nken&language=de)
 
 **Meaning:** to restrict; to limit
 **Forms:** schränkt ein · schränkte ein · hat eingeschränkt

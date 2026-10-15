@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Parfüm
 
+[▶️ YouGlish](https://youglish.com/pronounce/Parf%C3%BCm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parf%C3%BCm&language=de)
+
 **Meaning:** perfume
 **Plural:** Parfüme
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

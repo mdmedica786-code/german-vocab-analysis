@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3216"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "kichern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # kichern
+
+![[kichern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kichern&language=de)
 
 **Meaning:** to giggle; to titter
 **Forms:** kichert · kicherte · hat gekichert

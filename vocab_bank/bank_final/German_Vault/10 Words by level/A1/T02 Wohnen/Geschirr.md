@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 1b"
 freq_rank: 5112
 skip: false
+audio: "Geschirr.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geschirr
+
+![[Geschirr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschirr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschirr&language=de)
 
 **Meaning:** dishes
 **Plural:** –

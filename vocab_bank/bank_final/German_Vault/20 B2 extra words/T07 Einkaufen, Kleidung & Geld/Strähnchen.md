@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4465"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Strähnchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Strähnchen
+
+![[Strähnchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Str%C3%A4hnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Str%C3%A4hnchen&language=de)
 
 **Meaning:** highlights; small strand of hair
 **Plural:** Strähnchen

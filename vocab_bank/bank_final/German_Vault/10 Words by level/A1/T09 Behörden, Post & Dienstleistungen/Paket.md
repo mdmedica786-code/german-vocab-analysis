@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 1a"
 freq_rank: 4507
 skip: false
+audio: "Paket.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Paket
+
+![[Paket.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Paket/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paket&language=de)
 
 **Meaning:** package
 **Plural:** Pakete

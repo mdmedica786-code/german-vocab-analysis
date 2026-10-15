@@ -15,11 +15,16 @@ id: "B0556"
 netzwerk: "A1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "Requiem.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Requiem
+
+![[Requiem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Requiem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Requiem&language=de)
 
 **Meaning:** requiem
 **Plural:** Requiems

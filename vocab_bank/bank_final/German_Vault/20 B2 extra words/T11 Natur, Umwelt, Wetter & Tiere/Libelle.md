@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1952"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Libelle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Libelle
+
+![[Libelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Libelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Libelle&language=de)
 
 **Meaning:** dragonfly
 **Plural:** Libellen

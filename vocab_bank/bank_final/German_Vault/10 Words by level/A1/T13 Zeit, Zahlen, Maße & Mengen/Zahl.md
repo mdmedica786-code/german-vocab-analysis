@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 6a"
 freq_rank: 778
 skip: false
+audio: "Zahl.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zahl
+
+![[Zahl.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahl&language=de)
 
 **Meaning:** number
 **Plural:** Zahlen

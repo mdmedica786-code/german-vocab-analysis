@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Auftrag erteilen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Auftrag%20erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Auftrag%20erteilen&language=de)
+
 **Meaning:** to place an order; to commission
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 

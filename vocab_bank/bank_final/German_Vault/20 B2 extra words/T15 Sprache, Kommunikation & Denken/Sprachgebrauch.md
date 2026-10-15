@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3514"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Sprachgebrauch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sprachgebrauch
+
+![[Sprachgebrauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachgebrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachgebrauch&language=de)
 
 **Meaning:** language use; usage
 **Plural:** –

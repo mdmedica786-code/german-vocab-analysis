@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 3a ÜB"
 freq_rank: 4813
 skip: false
+audio: "Schalter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schalter
+
+![[Schalter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schalter&language=de)
 
 **Meaning:** counter; switch
 **Plural:** Schalter

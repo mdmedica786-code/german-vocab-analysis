@@ -13,11 +13,16 @@ id: "B3687"
 netzwerk: "B1 K3 10b"
 freq_rank: 5759
 skip: false
+audio: "niesen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # niesen
+
+![[niesen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/niesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niesen&language=de)
 
 **Meaning:** to sneeze
 **Forms:** niest · nieste · hat geniest

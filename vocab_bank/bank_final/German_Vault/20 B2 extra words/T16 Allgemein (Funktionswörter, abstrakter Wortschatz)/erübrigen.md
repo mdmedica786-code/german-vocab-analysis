@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1266"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "erübrigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erübrigen
+
+![[erübrigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/er%C3%BCbrigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=er%C3%BCbrigen&language=de)
 
 **Meaning:** to be unnecessary; to spare
 **Forms:** erübrigt sich · erübrigte sich · hat sich erübrigt

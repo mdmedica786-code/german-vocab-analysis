@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4300"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Personentransport.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Personentransport
+
+![[Personentransport.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personentransport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personentransport&language=de)
 
 **Meaning:** passenger transport
 **Plural:** Personentransporte

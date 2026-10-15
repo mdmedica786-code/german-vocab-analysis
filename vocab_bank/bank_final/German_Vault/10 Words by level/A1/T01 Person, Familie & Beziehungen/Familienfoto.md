@@ -15,11 +15,16 @@ id: "B0856"
 netzwerk: "A1 K5 10b"
 freq_rank: 5759
 skip: false
+audio: "Familienfoto.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Familienfoto
+
+![[Familienfoto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familienfoto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienfoto&language=de)
 
 **Meaning:** family photograph
 **Plural:** Familienfotos

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Klassenfahrt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Klassenfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassenfahrt&language=de)
+
 **Meaning:** class outing
 **Plural:** Klassenfahrten
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

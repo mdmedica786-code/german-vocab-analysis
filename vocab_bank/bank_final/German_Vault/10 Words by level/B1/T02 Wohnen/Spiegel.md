@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 10d"
 freq_rank: 1468
 skip: false
+audio: "Spiegel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spiegel
+
+![[Spiegel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spiegel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spiegel&language=de)
 
 **Meaning:** mirror
 **Plural:** Spiegel

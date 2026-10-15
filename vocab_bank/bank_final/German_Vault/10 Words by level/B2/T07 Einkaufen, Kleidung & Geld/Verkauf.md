@@ -14,11 +14,16 @@ bank: "main"
 id: "B5635"
 freq_rank: 2614
 skip: false
+audio: "Verkauf.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verkauf
+
+![[Verkauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkauf&language=de)
 
 **Meaning:** sale; selling
 **Plural:** Verkäufe

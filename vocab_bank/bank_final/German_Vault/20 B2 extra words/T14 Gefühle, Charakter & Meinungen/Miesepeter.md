@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4227"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "Miesepeter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Miesepeter
+
+![[Miesepeter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Miesepeter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Miesepeter&language=de)
 
 **Meaning:** grump; killjoy (colloquial)
 **Plural:** Miesepeter

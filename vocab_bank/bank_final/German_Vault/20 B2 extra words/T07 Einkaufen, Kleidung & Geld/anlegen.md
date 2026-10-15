@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1194"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "anlegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anlegen
+
+![[anlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anlegen&language=de)
 
 **Meaning:** to invest; to create; to put on
 **Forms:** legt an · legte an · hat angelegt

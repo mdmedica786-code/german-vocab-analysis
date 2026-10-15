@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 752
 skip: false
+audio: "Zweck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zweck
+
+![[Zweck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zweck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweck&language=de)
 
 **Meaning:** purpose
 **Plural:** Zwecke

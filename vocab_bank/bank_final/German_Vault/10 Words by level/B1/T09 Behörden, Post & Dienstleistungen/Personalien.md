@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 5759
 skip: false
+audio: "Personalien.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Personalien
+
+![[Personalien.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personalien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personalien&language=de)
 
 **Meaning:** personal details; personal data
 **Plural:** (Pl.)

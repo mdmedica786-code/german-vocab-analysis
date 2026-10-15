@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3385"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "anerkannt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anerkannt
+
+![[anerkannt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anerkannt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anerkannt&language=de)
 
 **Meaning:** recognised; accepted; established
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

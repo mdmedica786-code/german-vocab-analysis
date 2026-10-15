@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1988"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Brennnessel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Brennnessel
+
+![[Brennnessel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brennnessel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brennnessel&language=de)
 
 **Meaning:** stinging nettle
 **Plural:** Brennnesseln

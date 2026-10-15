@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 2c"
 freq_rank: 1797
 skip: false
+audio: "sichern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sichern
+
+![[sichern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sichern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sichern&language=de)
 
 **Meaning:** to secure
 **Forms:** sichert · sicherte · hat gesichert

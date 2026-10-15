@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1184"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "abgrenzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # abgrenzen
+
+![[abgrenzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abgrenzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abgrenzen&language=de)
 
 **Meaning:** to distinguish; to set apart
 **Forms:** grenzt ab · grenzte ab · hat abgegrenzt

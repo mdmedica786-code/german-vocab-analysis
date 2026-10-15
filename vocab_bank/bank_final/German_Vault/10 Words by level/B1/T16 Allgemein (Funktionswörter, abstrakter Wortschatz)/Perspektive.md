@@ -15,11 +15,16 @@ id: "B3326"
 netzwerk: "B1 K1 9c"
 freq_rank: 931
 skip: false
+audio: "Perspektive.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Perspektive
+
+![[Perspektive.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Perspektive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Perspektive&language=de)
 
 **Meaning:** perspective
 **Plural:** Perspektiven

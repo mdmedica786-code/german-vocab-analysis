@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ethnologin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ethnologin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ethnologin&language=de)
+
 **Meaning:** ethnologist (f)
 **Plural:** Ethnologinnen
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1638"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Elektrogerät.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Elektrogerät
+
+![[Elektrogerät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elektroger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroger%C3%A4t&language=de)
 
 **Meaning:** electronic device
 **Plural:** Elektrogeräte

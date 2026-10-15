@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 10b"
 freq_rank: 981
 skip: false
+audio: "Vorteil.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorteil
+
+![[Vorteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorteil&language=de)
 
 **Meaning:** advantage
 **Plural:** Vorteile

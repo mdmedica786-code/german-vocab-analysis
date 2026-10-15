@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # vorbei sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/vorbei%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbei%20sein&language=de)
+
 **Meaning:** to be over
 **Forms:** ist vorbei · war vorbei · ist vorbei gewesen
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

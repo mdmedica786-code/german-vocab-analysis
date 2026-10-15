@@ -15,11 +15,16 @@ id: "B2056"
 netzwerk: "A2 K2 11d"
 freq_rank: 4684
 skip: false
+audio: "Gemeinsamkeit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gemeinsamkeit
+
+![[Gemeinsamkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gemeinsamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinsamkeit&language=de)
 
 **Meaning:** similarity
 **Plural:** Gemeinsamkeiten

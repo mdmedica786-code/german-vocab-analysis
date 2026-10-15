@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0784"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "rücksichtsvoll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rücksichtsvoll
+
+![[rücksichtsvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCcksichtsvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCcksichtsvoll&language=de)
 
 **Meaning:** considerate
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

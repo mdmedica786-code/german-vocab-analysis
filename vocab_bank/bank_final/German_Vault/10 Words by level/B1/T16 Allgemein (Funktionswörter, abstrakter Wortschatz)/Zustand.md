@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 11b"
 freq_rank: 679
 skip: false
+audio: "Zustand.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zustand
+
+![[Zustand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zustand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zustand&language=de)
 
 **Meaning:** state
 **Plural:** Zustände

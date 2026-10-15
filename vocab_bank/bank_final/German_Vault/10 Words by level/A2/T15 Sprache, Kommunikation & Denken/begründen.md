@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # begründen
 
+[▶️ YouGlish](https://youglish.com/pronounce/begr%C3%BCnden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begr%C3%BCnden&language=de)
+
 **Meaning:** to justify
 **Forms:** begründet · begründete · hat begründet
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

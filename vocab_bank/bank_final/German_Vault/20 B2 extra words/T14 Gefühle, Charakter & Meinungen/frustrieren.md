@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3969"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "frustrieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # frustrieren
+
+![[frustrieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/frustrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=frustrieren&language=de)
 
 **Meaning:** to frustrate; to discourage
 **Forms:** frustriert · frustrierte · hat frustriert

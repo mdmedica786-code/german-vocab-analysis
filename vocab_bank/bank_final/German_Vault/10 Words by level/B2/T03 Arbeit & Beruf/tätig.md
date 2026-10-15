@@ -11,11 +11,16 @@ bank: "main"
 id: "B5396"
 freq_rank: 1779
 skip: false
+audio: "tätig.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # tätig
+
+![[tätig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/t%C3%A4tig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=t%C3%A4tig&language=de)
 
 **Meaning:** active; employed
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

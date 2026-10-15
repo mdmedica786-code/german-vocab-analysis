@@ -11,11 +11,16 @@ bank: "main"
 id: "B6178"
 freq_rank: 4785
 skip: false
+audio: "eingeschaltet.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eingeschaltet
+
+![[eingeschaltet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eingeschaltet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eingeschaltet&language=de)
 
 **Meaning:** switched on
 **Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

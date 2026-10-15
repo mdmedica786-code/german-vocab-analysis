@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1b"
 freq_rank: 153
 skip: false
+audio: "Wort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wort
+
+![[Wort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wort&language=de)
 
 **Meaning:** word
 **Plural:** Wörter

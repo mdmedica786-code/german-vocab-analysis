@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2228"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Parkett.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Parkett
+
+![[Parkett.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parkett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkett&language=de)
 
 **Meaning:** parquet
 **Plural:** Parkette

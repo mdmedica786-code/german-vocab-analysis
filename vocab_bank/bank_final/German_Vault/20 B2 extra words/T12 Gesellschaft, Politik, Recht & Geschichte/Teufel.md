@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2453"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Teufel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Teufel
+
+![[Teufel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teufel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teufel&language=de)
 
 **Meaning:** devil
 **Plural:** Teufel

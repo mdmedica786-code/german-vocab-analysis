@@ -12,11 +12,16 @@ bank: "main"
 id: "B5391"
 freq_rank: 1744
 skip: false
+audio: "verwandeln.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwandeln
+
+![[verwandeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verwandeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verwandeln&language=de)
 
 **Meaning:** to transform
 **Forms:** verwandelt · verwandelte · hat verwandelt

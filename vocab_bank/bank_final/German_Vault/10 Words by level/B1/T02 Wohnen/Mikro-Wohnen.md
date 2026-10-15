@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Mikro-Wohnen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mikro-Wohnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikro-Wohnen&language=de)
+
 **Meaning:** micro-living
 **Plural:** –
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

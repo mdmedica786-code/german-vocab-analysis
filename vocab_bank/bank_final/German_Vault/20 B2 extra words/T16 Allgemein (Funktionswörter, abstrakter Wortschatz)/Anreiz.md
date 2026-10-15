@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1449"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Anreiz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anreiz
+
+![[Anreiz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anreiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anreiz&language=de)
 
 **Meaning:** incentive
 **Plural:** Anreize

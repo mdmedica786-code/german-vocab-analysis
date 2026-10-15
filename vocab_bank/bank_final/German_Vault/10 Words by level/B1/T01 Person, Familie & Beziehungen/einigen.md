@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 8a"
 freq_rank: 317
 skip: false
+audio: "einigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einigen
+
+![[einigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einigen&language=de)
 
 **Meaning:** to agree
 **Forms:** einigt sich · einigte sich · hat sich geeinigt

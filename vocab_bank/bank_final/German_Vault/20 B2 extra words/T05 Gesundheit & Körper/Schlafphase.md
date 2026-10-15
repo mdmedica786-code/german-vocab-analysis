@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4386"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Schlafphase.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Schlafphase
+
+![[Schlafphase.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlafphase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafphase&language=de)
 
 **Meaning:** sleep phase; stage of sleep
 **Plural:** Schlafphasen

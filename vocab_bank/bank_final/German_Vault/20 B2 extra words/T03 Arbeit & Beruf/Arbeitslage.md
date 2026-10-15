@@ -15,11 +15,13 @@ id: "D3724"
 exam_use: ["Lesen", "Medien"]
 skip: false
 check: "?ungebräuchlich; besser Arbeitsmarktlage"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitslage
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitslage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitslage&language=de)
 
 **Meaning:** employment situation; work situation
 **Plural:** –

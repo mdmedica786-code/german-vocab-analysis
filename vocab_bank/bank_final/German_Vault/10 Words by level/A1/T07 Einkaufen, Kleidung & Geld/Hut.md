@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 3c"
 freq_rank: 2370
 skip: false
+audio: "Hut.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hut
+
+![[Hut.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hut&language=de)
 
 **Meaning:** hat
 **Plural:** Hüte

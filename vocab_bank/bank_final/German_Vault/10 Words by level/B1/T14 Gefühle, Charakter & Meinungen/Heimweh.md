@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "Heimweh.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Heimweh
+
+![[Heimweh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heimweh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heimweh&language=de)
 
 **Meaning:** homesickness
 **Plural:** –

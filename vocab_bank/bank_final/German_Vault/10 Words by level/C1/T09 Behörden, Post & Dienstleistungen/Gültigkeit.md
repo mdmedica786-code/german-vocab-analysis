@@ -14,11 +14,16 @@ bank: "main"
 id: "B6007"
 freq_rank: 3899
 skip: false
+audio: "Gültigkeit.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gültigkeit
+
+![[Gültigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%BCltigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%BCltigkeit&language=de)
 
 **Meaning:** validity
 **Plural:** –

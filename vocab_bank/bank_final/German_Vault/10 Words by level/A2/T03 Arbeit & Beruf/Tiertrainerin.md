@@ -15,11 +15,16 @@ id: "B2475"
 netzwerk: "A2 K6 9a"
 freq_rank: 5759
 skip: false
+audio: "Tiertrainerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tiertrainerin
+
+![[Tiertrainerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiertrainerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiertrainerin&language=de)
 
 **Meaning:** animal trainer (f)
 **Plural:** Tiertrainerinnen

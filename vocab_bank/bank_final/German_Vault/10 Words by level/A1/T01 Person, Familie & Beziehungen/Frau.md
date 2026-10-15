@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 3a"
 freq_rank: 101
 skip: false
+audio: "Frau.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frau
+
+![[Frau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frau&language=de)
 
 **Meaning:** Ms; Mrs (title)
 **Other senses:** woman; wife

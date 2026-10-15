@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4413"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "Smalltalk.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Smalltalk
+
+![[Smalltalk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Smalltalk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smalltalk&language=de)
 
 **Meaning:** small talk
 **Plural:** Smalltalks

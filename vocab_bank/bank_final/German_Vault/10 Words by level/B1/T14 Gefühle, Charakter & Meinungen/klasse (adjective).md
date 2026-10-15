@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # klasse
 
+[▶️ YouGlish](https://youglish.com/pronounce/klasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klasse&language=de)
+
 **Meaning:** great; super
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

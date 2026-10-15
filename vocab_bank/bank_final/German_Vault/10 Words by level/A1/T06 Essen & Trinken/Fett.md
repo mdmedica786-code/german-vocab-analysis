@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 2000
 skip: false
+audio: "Fett.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fett
+
+![[Fett.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fett&language=de)
 
 **Meaning:** fat
 **Plural:** Fette

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3b"
 freq_rank: 1608
 skip: false
+audio: "raus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # raus
+
+![[raus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/raus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=raus&language=de)
 
 **Meaning:** out
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

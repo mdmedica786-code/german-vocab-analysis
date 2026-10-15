@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hausmann.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hausmann
+
+![[Hausmann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmann&language=de)
 
 **Meaning:** househusband; homemaker (m)
 **Plural:** Hausmänner

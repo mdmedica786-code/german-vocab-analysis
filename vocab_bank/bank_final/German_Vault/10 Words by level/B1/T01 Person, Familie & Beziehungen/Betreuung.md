@@ -15,11 +15,16 @@ id: "B5884"
 goethe_level: "B1"
 freq_rank: 3299
 skip: false
+audio: "Betreuung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Betreuung
+
+![[Betreuung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betreuung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreuung&language=de)
 
 **Meaning:** care; supervision; childcare
 **Plural:** –

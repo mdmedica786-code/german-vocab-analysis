@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 1a"
 freq_rank: 2652
 skip: false
+audio: "Rekord.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rekord
+
+![[Rekord.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rekord/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rekord&language=de)
 
 **Meaning:** record
 **Plural:** Rekorde

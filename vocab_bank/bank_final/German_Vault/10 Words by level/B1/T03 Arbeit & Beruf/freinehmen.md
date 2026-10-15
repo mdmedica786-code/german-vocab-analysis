@@ -13,11 +13,16 @@ id: "B3754"
 netzwerk: "B1 K4 5a"
 freq_rank: 5759
 skip: false
+audio: "freinehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # freinehmen
+
+![[freinehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freinehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freinehmen&language=de)
 
 **Meaning:** to take time off
 **Forms:** nimmt frei · nahm frei · hat freigenommen

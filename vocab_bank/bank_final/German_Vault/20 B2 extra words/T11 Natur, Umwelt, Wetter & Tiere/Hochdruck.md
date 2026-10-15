@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0720"
 exam_use: ["Hören"]
 skip: false
+audio: "Hochdruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hochdruck
+
+![[Hochdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochdruck&language=de)
 
 **Meaning:** high pressure
 **Plural:** –

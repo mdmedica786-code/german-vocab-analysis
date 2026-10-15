@@ -15,11 +15,16 @@ id: "B4798"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Vollmilch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vollmilch
+
+![[Vollmilch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollmilch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollmilch&language=de)
 
 **Meaning:** whole milk
 **Plural:** –

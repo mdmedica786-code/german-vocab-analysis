@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 5a ÜB"
 freq_rank: 4694
 skip: false
+audio: "Kreditkarte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kreditkarte
+
+![[Kreditkarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreditkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreditkarte&language=de)
 
 **Meaning:** credit card
 **Plural:** Kreditkarten

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 1b"
 freq_rank: 5759
 skip: false
+audio: "aufräumen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufräumen
+
+![[aufräumen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufr%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufr%C3%A4umen&language=de)
 
 **Meaning:** to clean up
 **Forms:** räumt auf · räumte auf · hat aufgeräumt

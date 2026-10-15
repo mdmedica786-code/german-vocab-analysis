@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 481
 skip: false
+audio: "nutzen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nutzen
+
+![[nutzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nutzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nutzen&language=de)
 
 **Meaning:** to use; to take advantage of
 **Forms:** nutzt · nutzte · hat genutzt

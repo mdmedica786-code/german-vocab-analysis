@@ -13,11 +13,16 @@ id: "B5958"
 goethe_level: "B1"
 freq_rank: 3625
 skip: false
+audio: "fliehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fliehen
+
+![[fliehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fliehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fliehen&language=de)
 
 **Meaning:** to flee; to escape
 **Forms:** flieht · floh · ist geflohen

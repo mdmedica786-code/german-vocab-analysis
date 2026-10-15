@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1505"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Nachdruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachdruck
+
+![[Nachdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachdruck&language=de)
 
 **Meaning:** emphasis; insistence
 **Plural:** –

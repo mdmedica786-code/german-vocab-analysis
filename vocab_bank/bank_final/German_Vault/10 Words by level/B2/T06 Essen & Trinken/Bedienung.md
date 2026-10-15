@@ -14,11 +14,16 @@ bank: "main"
 id: "B6257"
 freq_rank: 5124
 skip: false
+audio: "Bedienung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bedienung
+
+![[Bedienung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bedienung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedienung&language=de)
 
 **Meaning:** service; waiter or waitress
 **Plural:** Bedienungen

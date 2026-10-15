@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2749"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Franzose.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Franzose
+
+![[Franzose.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Franzose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Franzose&language=de)
 
 **Meaning:** Frenchman
 **Plural:** Franzosen

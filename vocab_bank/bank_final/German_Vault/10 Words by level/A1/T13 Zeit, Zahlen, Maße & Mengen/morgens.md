@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 1937
 skip: false
+audio: "morgens.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # morgens
+
+![[morgens.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/morgens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=morgens&language=de)
 
 **Meaning:** in the morning
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

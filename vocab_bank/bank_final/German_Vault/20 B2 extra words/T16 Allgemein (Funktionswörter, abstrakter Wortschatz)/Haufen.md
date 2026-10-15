@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2691"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Haufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Haufen
+
+![[Haufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haufen&language=de)
 
 **Meaning:** pile; heap
 **Plural:** Haufen

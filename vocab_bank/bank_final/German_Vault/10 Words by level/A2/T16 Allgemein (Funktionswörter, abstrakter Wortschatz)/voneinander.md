@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 9a"
 freq_rank: 1823
 skip: false
+audio: "voneinander.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # voneinander
+
+![[voneinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/voneinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=voneinander&language=de)
 
 **Meaning:** from each other
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

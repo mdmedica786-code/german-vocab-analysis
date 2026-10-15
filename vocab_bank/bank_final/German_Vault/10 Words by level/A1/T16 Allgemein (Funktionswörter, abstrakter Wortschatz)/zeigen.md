@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 6a"
 freq_rank: 136
 skip: false
+audio: "zeigen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zeigen
+
+![[zeigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zeigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeigen&language=de)
 
 **Meaning:** to show; to point
 **Forms:** zeigt · zeigte · hat gezeigt

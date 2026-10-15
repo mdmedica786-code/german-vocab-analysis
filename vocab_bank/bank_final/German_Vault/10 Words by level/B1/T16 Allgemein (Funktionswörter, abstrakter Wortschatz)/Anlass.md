@@ -15,11 +15,16 @@ id: "B4089"
 netzwerk: "B1 K6 3a"
 freq_rank: 2063
 skip: false
+audio: "Anlass.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anlass
+
+![[Anlass.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anlass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anlass&language=de)
 
 **Meaning:** reason; occasion
 **Plural:** Anlässe

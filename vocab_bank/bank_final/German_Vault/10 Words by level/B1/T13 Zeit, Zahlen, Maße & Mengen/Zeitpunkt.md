@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 877
 skip: false
+audio: "Zeitpunkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeitpunkt
+
+![[Zeitpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitpunkt&language=de)
 
 **Meaning:** time (point in)
 **Plural:** Zeitpunkte

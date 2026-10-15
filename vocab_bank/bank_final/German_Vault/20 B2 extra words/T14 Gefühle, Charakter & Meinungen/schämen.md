@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3670"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "schämen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # schämen
+
+![[schämen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4men/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4men&language=de)
 
 **Meaning:** to be ashamed
 **Forms:** schämt sich · schämte sich · hat sich geschämt

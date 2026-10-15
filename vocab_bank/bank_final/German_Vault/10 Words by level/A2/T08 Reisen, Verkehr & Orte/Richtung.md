@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 11a"
 freq_rank: 408
 skip: false
+audio: "Richtung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Richtung
+
+![[Richtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Richtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richtung&language=de)
 
 **Meaning:** direction
 **Plural:** Richtungen

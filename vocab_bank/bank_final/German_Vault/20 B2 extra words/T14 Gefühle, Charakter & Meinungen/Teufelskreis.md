@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4482"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Teufelskreis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Teufelskreis
+
+![[Teufelskreis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teufelskreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teufelskreis&language=de)
 
 **Meaning:** vicious circle
 **Plural:** Teufelskreise

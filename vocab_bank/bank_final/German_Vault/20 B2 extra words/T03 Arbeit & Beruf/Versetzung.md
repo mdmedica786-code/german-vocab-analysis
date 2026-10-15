@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1770"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Versetzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Versetzung
+
+![[Versetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versetzung&language=de)
 
 **Meaning:** transfer; promotion to next class
 **Plural:** Versetzungen

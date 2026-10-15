@@ -13,11 +13,16 @@ id: "B4853"
 netzwerk: "B1 K10 10b"
 freq_rank: 5759
 skip: false
+audio: "beitreten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beitreten
+
+![[beitreten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beitreten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beitreten&language=de)
 
 **Meaning:** to join
 **Forms:** tritt bei · trat bei · ist beigetreten

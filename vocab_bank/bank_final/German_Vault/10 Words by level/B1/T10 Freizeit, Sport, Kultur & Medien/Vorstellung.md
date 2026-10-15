@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6a"
 freq_rank: 614
 skip: false
+audio: "Vorstellung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorstellung
+
+![[Vorstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorstellung&language=de)
 
 **Meaning:** idea; introduction; performance
 **Other senses:** performance

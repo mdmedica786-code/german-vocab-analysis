@@ -13,11 +13,16 @@ id: "D3687"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
 check: "?selten"
-status: "new"
+audio: "abfühlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # abfühlen
+
+![[abfühlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abf%C3%BChlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abf%C3%BChlen&language=de)
 
 **Meaning:** to feel (with the hands); to sense
 **Forms:** fühlt ab · fühlte ab · hat abgefühlt

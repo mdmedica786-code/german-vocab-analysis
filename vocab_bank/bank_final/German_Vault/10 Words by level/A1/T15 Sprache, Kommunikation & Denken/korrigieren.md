@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 5b"
 freq_rank: 3506
 skip: false
+audio: "korrigieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # korrigieren
+
+![[korrigieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/korrigieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=korrigieren&language=de)
 
 **Meaning:** to correct
 **Forms:** korrigiert · korrigierte · hat korrigiert

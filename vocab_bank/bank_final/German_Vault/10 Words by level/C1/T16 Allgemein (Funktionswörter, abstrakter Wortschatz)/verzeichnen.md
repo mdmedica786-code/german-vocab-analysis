@@ -12,11 +12,16 @@ bank: "main"
 id: "B5713"
 freq_rank: 2844
 skip: false
+audio: "verzeichnen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verzeichnen
+
+![[verzeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verzeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzeichnen&language=de)
 
 **Meaning:** to record; to register
 **Forms:** verzeichnet · verzeichnete · hat verzeichnet

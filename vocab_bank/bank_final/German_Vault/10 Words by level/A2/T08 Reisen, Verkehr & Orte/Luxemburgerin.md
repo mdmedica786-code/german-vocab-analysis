@@ -15,11 +15,16 @@ id: "B6487"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Luxemburgerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Luxemburgerin
+
+![[Luxemburgerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luxemburgerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxemburgerin&language=de)
 
 **Meaning:** Luxembourger (f)
 **Plural:** Luxemburgerinnen

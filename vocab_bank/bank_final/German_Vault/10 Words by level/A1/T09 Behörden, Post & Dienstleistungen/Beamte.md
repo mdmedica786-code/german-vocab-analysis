@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 1b"
 freq_rank: 1827
 skip: false
+audio: "Beamte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beamte
+
+![[Beamte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beamte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beamte&language=de)
 
 **Meaning:** civil servant; official
 **Plural:** Beamten

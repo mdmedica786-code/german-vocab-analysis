@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3353"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "schleudern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schleudern
+
+![[schleudern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schleudern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schleudern&language=de)
 
 **Meaning:** to hurl; to fling; to spin (dry)
 **Forms:** schleudert · schleuderte · hat geschleudert

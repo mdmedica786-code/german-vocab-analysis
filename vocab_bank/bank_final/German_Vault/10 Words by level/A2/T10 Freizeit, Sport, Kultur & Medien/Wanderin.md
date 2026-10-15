@@ -15,11 +15,16 @@ id: "B3141"
 netzwerk: "A2 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Wanderin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wanderin
+
+![[Wanderin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wanderin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderin&language=de)
 
 **Meaning:** hiker (f)
 **Plural:** Wanderinnen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1589"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "fürsorglich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # fürsorglich
+
+![[fürsorglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCrsorglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCrsorglich&language=de)
 
 **Meaning:** caring; solicitous
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

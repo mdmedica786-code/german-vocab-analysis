@@ -14,11 +14,16 @@ bank: "main"
 id: "B5645"
 freq_rank: 2644
 skip: false
+audio: "Beschluss.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beschluss
+
+![[Beschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschluss&language=de)
 
 **Meaning:** decision; resolution
 **Plural:** Beschlüsse

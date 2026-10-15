@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2a"
 freq_rank: 1214
 skip: false
+audio: "Kaffee.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kaffee
+
+![[Kaffee.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaffee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffee&language=de)
 
 **Meaning:** coffee
 **Plural:** Kaffees

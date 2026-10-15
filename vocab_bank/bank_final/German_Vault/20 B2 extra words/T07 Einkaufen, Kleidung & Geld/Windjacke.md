@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2243"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Windjacke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Windjacke
+
+![[Windjacke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Windjacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windjacke&language=de)
 
 **Meaning:** windcheater; light jacket
 **Plural:** Windjacken

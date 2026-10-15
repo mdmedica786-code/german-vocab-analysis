@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0950"
 exam_use: ["Hören", "Alltag"]
 skip: false
+audio: "Unterrichtsstunde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Hören", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterrichtsstunde
+
+![[Unterrichtsstunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterrichtsstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterrichtsstunde&language=de)
 
 **Meaning:** lesson; class period
 **Plural:** Unterrichtsstunden

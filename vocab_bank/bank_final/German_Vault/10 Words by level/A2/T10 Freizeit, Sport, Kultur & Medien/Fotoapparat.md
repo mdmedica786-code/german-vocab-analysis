@@ -15,11 +15,16 @@ id: "B6443"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Fotoapparat.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fotoapparat
+
+![[Fotoapparat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fotoapparat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotoapparat&language=de)
 
 **Meaning:** camera
 **Plural:** Fotoapparate

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 7c"
 freq_rank: 5759
 skip: false
+audio: "sparsam.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sparsam
+
+![[sparsam.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sparsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sparsam&language=de)
 
 **Meaning:** frugal/economical
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

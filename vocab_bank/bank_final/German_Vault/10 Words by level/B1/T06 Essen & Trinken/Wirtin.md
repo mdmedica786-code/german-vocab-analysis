@@ -15,11 +15,16 @@ id: "B6607"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Wirtin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wirtin
+
+![[Wirtin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirtin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirtin&language=de)
 
 **Meaning:** landlady
 **Plural:** Wirtinnen

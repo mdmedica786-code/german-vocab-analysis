@@ -14,11 +14,16 @@ bank: "main"
 id: "B6175"
 freq_rank: 4764
 skip: false
+audio: "Zeh.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeh
+
+![[Zeh.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeh&language=de)
 
 **Meaning:** toe
 **Plural:** Zehen

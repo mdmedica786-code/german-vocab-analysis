@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 6b"
 freq_rank: 210
 skip: false
+audio: "Bild.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bild
+
+![[Bild.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bild&language=de)
 
 **Meaning:** picture
 **Plural:** Bilder

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1702"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "kauen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # kauen
+
+![[kauen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kauen&language=de)
 
 **Meaning:** to chew
 **Forms:** kaut · kaute · hat gekaut

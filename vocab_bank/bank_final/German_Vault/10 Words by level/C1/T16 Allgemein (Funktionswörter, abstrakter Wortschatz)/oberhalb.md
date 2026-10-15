@@ -11,11 +11,16 @@ bank: "main"
 id: "B5850"
 freq_rank: 3145
 skip: false
+audio: "oberhalb.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # oberhalb
+
+![[oberhalb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/oberhalb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oberhalb&language=de)
 
 **Meaning:** above
 **Case:** + Gen.

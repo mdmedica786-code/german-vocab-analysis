@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Freundschaftsgeschichte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Freundschaftsgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freundschaftsgeschichte&language=de)
+
 **Meaning:** story of a friendship
 **Plural:** Freundschaftsgeschichten
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

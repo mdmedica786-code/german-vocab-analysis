@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3498"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "schmunzeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schmunzeln
+
+![[schmunzeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schmunzeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmunzeln&language=de)
 
 **Meaning:** to smile (amused); to grin quietly
 **Forms:** schmunzelt · schmunzelte · hat geschmunzelt

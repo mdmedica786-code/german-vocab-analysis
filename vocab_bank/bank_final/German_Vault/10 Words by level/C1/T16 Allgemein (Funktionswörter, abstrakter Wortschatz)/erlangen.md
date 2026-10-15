@@ -12,11 +12,16 @@ bank: "main"
 id: "B5476"
 freq_rank: 2052
 skip: false
+audio: "erlangen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erlangen
+
+![[erlangen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erlangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlangen&language=de)
 
 **Meaning:** to obtain; to gain
 **Forms:** erlangt · erlangte · hat erlangt

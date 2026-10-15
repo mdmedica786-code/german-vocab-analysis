@@ -14,11 +14,16 @@ bank: "main"
 id: "B6345"
 freq_rank: 5758
 skip: false
+audio: "Hauptstraße.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauptstraße
+
+![[Hauptstraße.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptstra%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptstra%C3%9Fe&language=de)
 
 **Meaning:** main street
 **Plural:** Hauptstraßen

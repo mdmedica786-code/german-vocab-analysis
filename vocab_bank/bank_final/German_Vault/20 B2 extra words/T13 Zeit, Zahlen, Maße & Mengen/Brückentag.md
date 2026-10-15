@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1000"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Brückentag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Brückentag
+
+![[Brückentag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Br%C3%BCckentag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%BCckentag&language=de)
 
 **Meaning:** bridge day (day off between holiday and weekend)
 **Plural:** Brückentage

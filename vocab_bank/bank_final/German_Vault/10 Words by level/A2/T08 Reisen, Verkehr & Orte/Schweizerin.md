@@ -15,11 +15,16 @@ id: "B6547"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Schweizerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schweizerin
+
+![[Schweizerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schweizerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweizerin&language=de)
 
 **Meaning:** Swiss woman
 **Plural:** Schweizerinnen

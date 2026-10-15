@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2829"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Glanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Glanz
+
+![[Glanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glanz&language=de)
 
 **Meaning:** shine; splendour
 **Plural:** –

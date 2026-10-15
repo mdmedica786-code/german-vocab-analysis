@@ -15,11 +15,16 @@ id: "B6552"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Socke.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Socke
+
+![[Socke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Socke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Socke&language=de)
 
 **Meaning:** sock
 **Plural:** Socken

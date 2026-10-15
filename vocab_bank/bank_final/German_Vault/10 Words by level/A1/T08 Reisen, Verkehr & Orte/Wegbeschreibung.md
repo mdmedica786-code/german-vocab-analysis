@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Wegbeschreibung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wegbeschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wegbeschreibung&language=de)
+
 **Meaning:** directions
 **Plural:** Wegbeschreibungen
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

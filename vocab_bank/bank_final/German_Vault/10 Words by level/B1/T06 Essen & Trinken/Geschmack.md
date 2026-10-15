@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 2222
 skip: false
+audio: "Geschmack.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geschmack
+
+![[Geschmack.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschmack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschmack&language=de)
 
 **Meaning:** flavour
 **Plural:** –

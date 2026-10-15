@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Ordination.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ordination
+
+![[Ordination.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ordination/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordination&language=de)
 
 **Meaning:** doctor's surgery (Austrian)
 **Plural:** Ordinationen

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 1a"
 freq_rank: 3063
 skip: false
+audio: "klettern.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klettern
+
+![[klettern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klettern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klettern&language=de)
 
 **Meaning:** to climb
 **Forms:** klettert · kletterte · ist geklettert

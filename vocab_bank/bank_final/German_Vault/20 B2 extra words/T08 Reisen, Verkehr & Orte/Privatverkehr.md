@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4328"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Privatverkehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Privatverkehr
+
+![[Privatverkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Privatverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Privatverkehr&language=de)
 
 **Meaning:** private transport; private traffic
 **Plural:** –

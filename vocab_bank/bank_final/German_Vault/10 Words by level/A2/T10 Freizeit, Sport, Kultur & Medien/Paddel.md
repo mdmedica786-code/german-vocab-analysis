@@ -15,11 +15,16 @@ id: "B2817"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Paddel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Paddel
+
+![[Paddel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Paddel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paddel&language=de)
 
 **Meaning:** paddle
 **Plural:** Paddel

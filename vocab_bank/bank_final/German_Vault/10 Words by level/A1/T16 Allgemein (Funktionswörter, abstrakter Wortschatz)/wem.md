@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # wem
 
+[▶️ YouGlish](https://youglish.com/pronounce/wem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wem&language=de)
+
 **Meaning:** whom, who
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

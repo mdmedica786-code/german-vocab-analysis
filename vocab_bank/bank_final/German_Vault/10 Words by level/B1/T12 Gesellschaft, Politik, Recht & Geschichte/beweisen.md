@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 1373
 skip: false
+audio: "beweisen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beweisen
+
+![[beweisen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beweisen&language=de)
 
 **Meaning:** to prove
 **Forms:** beweist · bewies · hat bewiesen

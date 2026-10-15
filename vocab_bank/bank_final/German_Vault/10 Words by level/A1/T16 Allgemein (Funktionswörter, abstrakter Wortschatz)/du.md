@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # du
 
+[▶️ YouGlish](https://youglish.com/pronounce/du/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=du&language=de)
+
 **Meaning:** you
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Eingang finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Eingang%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eingang%20finden&language=de)
+
 **Meaning:** to find its way (into); to be incorporated
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

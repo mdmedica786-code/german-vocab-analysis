@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4506"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "überarbeiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # überarbeiten
+
+![[überarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberarbeiten&language=de)
 
 **Meaning:** to revise; to rework; (sich) to overwork
 **Forms:** überarbeitet · überarbeitete · hat überarbeitet

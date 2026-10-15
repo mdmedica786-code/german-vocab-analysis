@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4569"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verhaltensveränderung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verhaltensver%C3%A4nderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verhaltensver%C3%A4nderung&language=de)
 
 **Meaning:** change in behaviour
 **Plural:** Verhaltensveränderungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1118"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Nachsendeauftrag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachsendeauftrag
+
+![[Nachsendeauftrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachsendeauftrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachsendeauftrag&language=de)
 
 **Meaning:** mail forwarding order
 **Plural:** Nachsendeaufträge

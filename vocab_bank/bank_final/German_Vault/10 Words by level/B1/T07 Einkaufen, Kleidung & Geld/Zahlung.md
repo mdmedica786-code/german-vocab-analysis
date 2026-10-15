@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 2641
 skip: false
+audio: "Zahlung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zahlung
+
+![[Zahlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlung&language=de)
 
 **Meaning:** payment
 **Plural:** Zahlungen

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kulturfestival
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kulturfestival/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturfestival&language=de)
+
 **Meaning:** culture festival
 **Plural:** Kulturfestivals
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

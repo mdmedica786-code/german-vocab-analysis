@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Abschied nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Abschied%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschied%20nehmen&language=de)
+
 **Meaning:** to say goodbye
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 1579
 skip: false
+audio: "pflegen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # pflegen
+
+![[pflegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pflegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pflegen&language=de)
 
 **Meaning:** to take care of
 **Forms:** pflegt · pflegte · hat gepflegt

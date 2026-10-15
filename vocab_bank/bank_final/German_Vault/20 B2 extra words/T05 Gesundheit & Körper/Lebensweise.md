@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3409"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Lebensweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lebensweise
+
+![[Lebensweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensweise&language=de)
 
 **Meaning:** way of life; lifestyle
 **Plural:** Lebensweisen

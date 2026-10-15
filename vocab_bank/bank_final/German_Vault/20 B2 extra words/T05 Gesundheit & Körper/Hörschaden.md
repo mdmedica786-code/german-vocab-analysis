@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4056"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Hörschaden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Hörschaden
+
+![[Hörschaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rschaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rschaden&language=de)
 
 **Meaning:** hearing damage
 **Plural:** Hörschäden

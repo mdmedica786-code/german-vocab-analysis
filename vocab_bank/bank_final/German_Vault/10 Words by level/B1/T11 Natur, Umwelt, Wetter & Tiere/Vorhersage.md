@@ -15,11 +15,16 @@ id: "B4024"
 netzwerk: "B1 K5 11c"
 freq_rank: 5759
 skip: false
+audio: "Vorhersage.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorhersage
+
+![[Vorhersage.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorhersage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorhersage&language=de)
 
 **Meaning:** forecast
 **Plural:** Vorhersagen

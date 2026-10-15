@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 9a"
 freq_rank: 434
 skip: false
+audio: "Erfahrung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erfahrung
+
+![[Erfahrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erfahrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfahrung&language=de)
 
 **Meaning:** experience
 **Plural:** Erfahrungen

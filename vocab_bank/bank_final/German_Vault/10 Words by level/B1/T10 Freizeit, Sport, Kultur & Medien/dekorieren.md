@@ -13,11 +13,16 @@ id: "B6400"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "dekorieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dekorieren
+
+![[dekorieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dekorieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dekorieren&language=de)
 
 **Meaning:** to decorate
 **Forms:** dekoriert · dekorierte · hat dekoriert

@@ -15,11 +15,16 @@ id: "B6077"
 goethe_level: "B1"
 freq_rank: 4211
 skip: false
+audio: "Lexikon.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lexikon
+
+![[Lexikon.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lexikon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lexikon&language=de)
 
 **Meaning:** encyclopaedia
 **Plural:** Lexika

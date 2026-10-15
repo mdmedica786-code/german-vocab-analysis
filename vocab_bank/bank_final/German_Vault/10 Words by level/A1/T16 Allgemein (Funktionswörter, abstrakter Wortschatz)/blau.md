@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 11a"
 freq_rank: 977
 skip: false
+audio: "blau.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # blau
+
+![[blau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blau&language=de)
 
 **Meaning:** blue
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

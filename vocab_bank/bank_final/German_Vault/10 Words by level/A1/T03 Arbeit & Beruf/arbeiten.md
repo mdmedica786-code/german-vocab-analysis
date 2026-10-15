@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2b"
 freq_rank: 296
 skip: false
+audio: "arbeiten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # arbeiten
+
+![[arbeiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/arbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=arbeiten&language=de)
 
 **Meaning:** to work
 **Forms:** arbeitet · arbeitete · hat gearbeitet

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 11a"
 freq_rank: 1847
 skip: false
+audio: "Westen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Westen
+
+![[Westen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Westen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Westen&language=de)
 
 **Meaning:** West
 **Plural:** –

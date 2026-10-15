@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0284"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "erfassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfassen
+
+![[erfassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfassen&language=de)
 
 **Meaning:** to record; to grasp; to cover
 **Forms:** erfasst · erfasste · hat erfasst

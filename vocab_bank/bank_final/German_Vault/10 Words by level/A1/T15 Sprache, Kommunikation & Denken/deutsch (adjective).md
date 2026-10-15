@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1c"
 freq_rank: 145
 skip: false
+audio: "deutsch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # deutsch
+
+![[deutsch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/deutsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deutsch&language=de)
 
 **Meaning:** German
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Smart Home
 
+[▶️ YouGlish](https://youglish.com/pronounce/Smart%20Home/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Smart%20Home&language=de)
+
 **Meaning:** smart home
 **Plural:** Smart Homes
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

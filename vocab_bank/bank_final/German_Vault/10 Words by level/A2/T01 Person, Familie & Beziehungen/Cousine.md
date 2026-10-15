@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 8a"
 freq_rank: 5759
 skip: false
+audio: "Cousine.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Cousine
+
+![[Cousine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Cousine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cousine&language=de)
 
 **Meaning:** cousin (f)
 **Plural:** Cousinen

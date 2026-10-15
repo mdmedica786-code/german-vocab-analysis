@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1875"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Kinderarmut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kinderarmut
+
+![[Kinderarmut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderarmut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderarmut&language=de)
 
 **Meaning:** child poverty
 **Plural:** –

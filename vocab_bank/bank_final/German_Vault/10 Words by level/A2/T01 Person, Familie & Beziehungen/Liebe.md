@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 3e"
 freq_rank: 2000
 skip: false
+audio: "Liebe.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Liebe
+
+![[Liebe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liebe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebe&language=de)
 
 **Meaning:** love
 **Plural:** –

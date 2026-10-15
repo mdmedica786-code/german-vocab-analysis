@@ -14,11 +14,16 @@ bank: "main"
 id: "B6320"
 freq_rank: 5585
 skip: false
+audio: "Krug.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Krug
+
+![[Krug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krug&language=de)
 
 **Meaning:** jug; mug
 **Plural:** Krüge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0650"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Windkraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Windkraft
+
+![[Windkraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Windkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Windkraft&language=de)
 
 **Meaning:** wind power
 **Plural:** –

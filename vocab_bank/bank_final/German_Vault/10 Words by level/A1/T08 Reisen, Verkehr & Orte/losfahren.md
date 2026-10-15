@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "losfahren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # losfahren
+
+![[losfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/losfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=losfahren&language=de)
 
 **Meaning:** to leave
 **Forms:** fährt los · fuhr los · ist losgefahren

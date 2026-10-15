@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Platz nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Platz%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platz%20nehmen&language=de)
+
 **Meaning:** to take a seat
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

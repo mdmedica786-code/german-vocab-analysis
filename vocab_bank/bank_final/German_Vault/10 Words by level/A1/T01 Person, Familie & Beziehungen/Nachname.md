@@ -15,11 +15,16 @@ id: "B0081"
 netzwerk: "A1 K1 3b"
 freq_rank: 5759
 skip: false
+audio: "Nachname.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachname
+
+![[Nachname.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachname&language=de)
 
 **Meaning:** last name
 **Plural:** Nachnamen

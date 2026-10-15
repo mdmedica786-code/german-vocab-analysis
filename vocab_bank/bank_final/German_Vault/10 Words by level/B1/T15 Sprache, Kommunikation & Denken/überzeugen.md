@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 10a"
 freq_rank: 1043
 skip: false
+audio: "überzeugen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überzeugen
+
+![[überzeugen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberzeugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberzeugen&language=de)
 
 **Meaning:** to convince
 **Forms:** überzeugt · überzeugte · hat überzeugt

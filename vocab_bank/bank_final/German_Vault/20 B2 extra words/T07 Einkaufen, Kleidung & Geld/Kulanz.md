@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0452"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Kulanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kulanz
+
+![[Kulanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kulanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulanz&language=de)
 
 **Meaning:** goodwill (accommodating treatment)
 **Plural:** –

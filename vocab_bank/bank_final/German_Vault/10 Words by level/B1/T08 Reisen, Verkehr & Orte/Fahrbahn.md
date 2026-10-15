@@ -15,11 +15,16 @@ id: "B6218"
 goethe_level: "B1"
 freq_rank: 4943
 skip: false
+audio: "Fahrbahn.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fahrbahn
+
+![[Fahrbahn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrbahn&language=de)
 
 **Meaning:** carriageway; road
 **Plural:** Fahrbahnen

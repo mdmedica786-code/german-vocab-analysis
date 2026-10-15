@@ -15,11 +15,16 @@ id: "B1632"
 netzwerk: "A1 K11 9b"
 freq_rank: 5759
 skip: false
+audio: "Pulli.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pulli
+
+![[Pulli.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pulli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pulli&language=de)
 
 **Meaning:** pullover
 **Plural:** Pullis

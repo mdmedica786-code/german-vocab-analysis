@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Open-Air-Kino
 
+[▶️ YouGlish](https://youglish.com/pronounce/Open-Air-Kino/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Open-Air-Kino&language=de)
+
 **Meaning:** open-air cinema
 **Plural:** Open-Air-Kinos
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 1a"
 freq_rank: 1217
 skip: false
+audio: "malen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # malen
+
+![[malen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/malen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=malen&language=de)
 
 **Meaning:** to paint
 **Forms:** malt · malte · hat gemalt

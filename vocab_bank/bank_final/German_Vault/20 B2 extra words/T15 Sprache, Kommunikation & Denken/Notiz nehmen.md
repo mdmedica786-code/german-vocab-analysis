@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Notiz nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Notiz%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notiz%20nehmen&language=de)
+
 **Meaning:** to take notice
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

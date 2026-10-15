@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4002"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "gesellschaftskritisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # gesellschaftskritisch
+
+![[gesellschaftskritisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gesellschaftskritisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesellschaftskritisch&language=de)
 
 **Meaning:** critical of society; socially critical
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

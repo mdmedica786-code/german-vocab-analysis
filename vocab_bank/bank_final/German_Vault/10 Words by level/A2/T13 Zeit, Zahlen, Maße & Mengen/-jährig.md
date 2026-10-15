@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # -jährig
 
+[▶️ YouGlish](https://youglish.com/pronounce/-j%C3%A4hrig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=-j%C3%A4hrig&language=de)
+
 **Meaning:** ...-year-old
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6155"
 freq_rank: 4657
 skip: false
+audio: "Satzung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Satzung
+
+![[Satzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzung&language=de)
 
 **Meaning:** statutes; rules
 **Plural:** Satzungen

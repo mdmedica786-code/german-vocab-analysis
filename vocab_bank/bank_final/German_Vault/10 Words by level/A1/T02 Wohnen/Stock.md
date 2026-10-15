@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3c"
 freq_rank: 2269
 skip: false
+audio: "Stock.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stock
+
+![[Stock.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stock&language=de)
 
 **Meaning:** floor; stick
 **Plural:** Stöcke

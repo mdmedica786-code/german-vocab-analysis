@@ -15,11 +15,16 @@ id: "B3414"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Geheimzahl.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geheimzahl
+
+![[Geheimzahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geheimzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geheimzahl&language=de)
 
 **Meaning:** PIN
 **Plural:** Geheimzahlen

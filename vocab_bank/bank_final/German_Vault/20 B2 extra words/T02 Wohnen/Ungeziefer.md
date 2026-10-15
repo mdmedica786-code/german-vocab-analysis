@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2040"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ungeziefer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ungeziefer
+
+![[Ungeziefer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ungeziefer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungeziefer&language=de)
 
 **Meaning:** vermin; pests
 **Plural:** –

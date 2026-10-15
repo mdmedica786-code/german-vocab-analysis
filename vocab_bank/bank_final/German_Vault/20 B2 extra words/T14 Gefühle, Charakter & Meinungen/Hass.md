@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2598"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Hass.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hass
+
+![[Hass.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hass&language=de)
 
 **Meaning:** hatred; hate
 **Plural:** –

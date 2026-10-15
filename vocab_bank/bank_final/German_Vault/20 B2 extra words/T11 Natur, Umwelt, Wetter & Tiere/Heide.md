@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0745"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Heide.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heide
+
+![[Heide.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heide&language=de)
 
 **Meaning:** heath
 **Plural:** Heiden

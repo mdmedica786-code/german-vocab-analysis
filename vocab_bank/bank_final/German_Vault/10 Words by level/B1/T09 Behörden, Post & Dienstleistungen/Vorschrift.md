@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 10b"
 freq_rank: 1204
 skip: false
+audio: "Vorschrift.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorschrift
+
+![[Vorschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorschrift&language=de)
 
 **Meaning:** regulation
 **Plural:** Vorschriften

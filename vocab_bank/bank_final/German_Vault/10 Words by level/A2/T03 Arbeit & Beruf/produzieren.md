@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 2435
 skip: false
+audio: "produzieren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # produzieren
+
+![[produzieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/produzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=produzieren&language=de)
 
 **Meaning:** to produce
 **Forms:** produziert · produzierte · hat produziert

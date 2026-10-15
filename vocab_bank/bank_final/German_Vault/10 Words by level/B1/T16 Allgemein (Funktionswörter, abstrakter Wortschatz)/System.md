@@ -15,11 +15,16 @@ id: "B5148"
 goethe_level: "B1"
 freq_rank: 319
 skip: false
+audio: "System.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das System
+
+![[System.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/System/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=System&language=de)
 
 **Meaning:** system
 **Plural:** Systeme

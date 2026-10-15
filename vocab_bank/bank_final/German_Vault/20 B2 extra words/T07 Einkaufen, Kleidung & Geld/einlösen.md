@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1245"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "einlösen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einlösen
+
+![[einlösen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einl%C3%B6sen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einl%C3%B6sen&language=de)
 
 **Meaning:** to cash (in); to redeem; to keep (a promise)
 **Forms:** löst ein · löste ein · hat eingelöst

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 7a"
 freq_rank: 5759
 skip: false
+audio: "ausruhen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausruhen
+
+![[ausruhen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausruhen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausruhen&language=de)
 
 **Meaning:** to rest
 **Forms:** ruht aus · ruhte aus · hat ausgeruht

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 8c"
 freq_rank: 5524
 skip: false
+audio: "zustimmen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zustimmen
+
+![[zustimmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zustimmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zustimmen&language=de)
 
 **Meaning:** to agree
 **Forms:** stimmt zu · stimmte zu · hat zugestimmt

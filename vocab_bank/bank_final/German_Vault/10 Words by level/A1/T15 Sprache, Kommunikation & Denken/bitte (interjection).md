@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7c"
 freq_rank: 406
 skip: false
+audio: "bitte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/interjection"]
 status: "new"
 ---
 <!-- bank:start -->
 # bitte
+
+![[bitte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bitte&language=de)
 
 **Meaning:** please; you're welcome
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

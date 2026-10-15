@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 12a"
 freq_rank: 1725
 skip: false
+audio: "überprüfen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überprüfen
+
+![[überprüfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberpr%C3%BCfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberpr%C3%BCfen&language=de)
 
 **Meaning:** to check
 **Forms:** überprüft · überprüfte · hat überprüft

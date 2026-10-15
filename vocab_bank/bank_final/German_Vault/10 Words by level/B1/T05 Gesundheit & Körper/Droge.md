@@ -15,11 +15,16 @@ id: "B5937"
 goethe_level: "B1"
 freq_rank: 3551
 skip: false
+audio: "Droge.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Droge
+
+![[Droge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Droge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Droge&language=de)
 
 **Meaning:** drug
 **Plural:** Drogen

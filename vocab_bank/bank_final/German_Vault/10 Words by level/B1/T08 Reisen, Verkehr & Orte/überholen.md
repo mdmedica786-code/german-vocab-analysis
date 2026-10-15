@@ -13,11 +13,16 @@ id: "B6625"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "überholen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überholen
+
+![[überholen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberholen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberholen&language=de)
 
 **Meaning:** to overtake
 **Forms:** überholt · überholte · hat überholt

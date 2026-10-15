@@ -15,11 +15,16 @@ id: "B2441"
 netzwerk: "A2 K6 7a"
 freq_rank: 9999
 skip: false
+audio: "Fernfahrerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fernfahrerin
+
+![[Fernfahrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernfahrerin&language=de)
 
 **Meaning:** long-distance lorry driver (f)
 **Plural:** Fernfahrerinnen

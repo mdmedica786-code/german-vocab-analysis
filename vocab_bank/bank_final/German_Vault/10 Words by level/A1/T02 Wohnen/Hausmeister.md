@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 5e"
 freq_rank: 5759
 skip: false
+audio: "Hausmeister.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hausmeister
+
+![[Hausmeister.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausmeister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmeister&language=de)
 
 **Meaning:** caretaker (m)
 **Plural:** Hausmeister

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1778"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kundenstamm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kundenstamm
+
+![[Kundenstamm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kundenstamm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundenstamm&language=de)
 
 **Meaning:** customer base
 **Plural:** Kundenstämme

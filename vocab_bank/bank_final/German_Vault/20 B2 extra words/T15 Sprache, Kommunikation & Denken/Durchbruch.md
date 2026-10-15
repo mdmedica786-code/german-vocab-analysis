@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3654"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Durchbruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Durchbruch
+
+![[Durchbruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchbruch&language=de)
 
 **Meaning:** breakthrough
 **Plural:** Durchbrüche

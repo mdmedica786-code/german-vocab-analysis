@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0929"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Fachhochschule.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fachhochschule
+
+![[Fachhochschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachhochschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachhochschule&language=de)
 
 **Meaning:** university of applied sciences
 **Plural:** Fachhochschulen

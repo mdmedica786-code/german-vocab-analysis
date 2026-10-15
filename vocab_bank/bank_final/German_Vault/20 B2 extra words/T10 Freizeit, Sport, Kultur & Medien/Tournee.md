@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4500"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Tournee.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Tournee
+
+![[Tournee.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tournee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tournee&language=de)
 
 **Meaning:** tour (of a band or theatre)
 **Plural:** Tourneen

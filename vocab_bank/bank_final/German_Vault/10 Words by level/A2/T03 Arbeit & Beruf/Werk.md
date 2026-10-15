@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 474
 skip: false
+audio: "Werk.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Werk
+
+![[Werk.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werk&language=de)
 
 **Meaning:** factory; plant; work (of art)
 **Plural:** Werke

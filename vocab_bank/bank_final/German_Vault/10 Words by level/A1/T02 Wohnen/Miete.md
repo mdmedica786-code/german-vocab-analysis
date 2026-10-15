@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3b"
 freq_rank: 4535
 skip: false
+audio: "Miete.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Miete
+
+![[Miete.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Miete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Miete&language=de)
 
 **Meaning:** rent
 **Plural:** Mieten

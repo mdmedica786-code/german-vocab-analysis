@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 503
 skip: false
+audio: "beobachten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beobachten
+
+![[beobachten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beobachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beobachten&language=de)
 
 **Meaning:** to observe
 **Forms:** beobachtet · beobachtete · hat beobachtet

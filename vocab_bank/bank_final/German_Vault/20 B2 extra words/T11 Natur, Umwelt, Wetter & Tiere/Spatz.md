@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1958"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Spatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spatz
+
+![[Spatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spatz&language=de)
 
 **Meaning:** sparrow
 **Plural:** Spatzen

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 8b"
 freq_rank: 2041
 skip: false
+audio: "dumm.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # dumm
+
+![[dumm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dumm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dumm&language=de)
 
 **Meaning:** stupid
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

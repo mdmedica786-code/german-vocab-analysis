@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Lerncoach
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lerncoach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lerncoach&language=de)
+
 **Meaning:** learning coach
 **Plural:** Lerncoachs
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

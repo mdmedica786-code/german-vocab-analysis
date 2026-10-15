@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 1 ÜB"
 freq_rank: 2768
 skip: false
+audio: "Motor.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Motor
+
+![[Motor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Motor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motor&language=de)
 
 **Meaning:** engine; motor
 **Plural:** Motoren

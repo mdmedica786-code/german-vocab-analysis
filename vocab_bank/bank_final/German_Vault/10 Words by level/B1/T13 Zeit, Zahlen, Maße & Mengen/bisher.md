@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1b"
 freq_rank: 583
 skip: false
+audio: "bisher.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bisher
+
+![[bisher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bisher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bisher&language=de)
 
 **Meaning:** so far
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

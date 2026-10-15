@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Briefstandard
 
+[▶️ YouGlish](https://youglish.com/pronounce/Briefstandard/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefstandard&language=de)
+
 **Meaning:** letter template; standard letter format
 **Plural:** Briefstandards
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

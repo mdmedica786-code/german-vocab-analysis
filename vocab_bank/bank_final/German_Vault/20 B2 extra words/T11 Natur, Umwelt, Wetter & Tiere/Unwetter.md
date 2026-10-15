@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0713"
 exam_use: ["Hören", "Alltag"]
 skip: false
+audio: "Unwetter.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Unwetter
+
+![[Unwetter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unwetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unwetter&language=de)
 
 **Meaning:** storm; severe weather
 **Plural:** Unwetter

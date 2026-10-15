@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Volleyball
 
+[▶️ YouGlish](https://youglish.com/pronounce/Volleyball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volleyball&language=de)
+
 **Meaning:** volleyball
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

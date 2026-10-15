@@ -12,11 +12,16 @@ id: "B6566"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "stilistisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stilistisch
+
+![[stilistisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stilistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stilistisch&language=de)
 
 **Meaning:** stylistic
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

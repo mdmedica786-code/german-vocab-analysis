@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 1113
 skip: false
+audio: "Einführung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einführung
+
+![[Einführung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einf%C3%BChrung&language=de)
 
 **Meaning:** introduction
 **Plural:** Einführungen

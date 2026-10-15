@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 3c"
 freq_rank: 5307
 skip: false
+audio: "Einkauf.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einkauf
+
+![[Einkauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkauf&language=de)
 
 **Meaning:** shopping
 **Plural:** Einkäufe

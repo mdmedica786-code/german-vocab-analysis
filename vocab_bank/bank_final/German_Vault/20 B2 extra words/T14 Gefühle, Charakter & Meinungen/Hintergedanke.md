@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1495"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Hintergedanke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hintergedanke
+
+![[Hintergedanke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hintergedanke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hintergedanke&language=de)
 
 **Meaning:** ulterior motive
 **Plural:** Hintergedanken

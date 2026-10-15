@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2302"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "gemustert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # gemustert
+
+![[gemustert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gemustert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gemustert&language=de)
 
 **Meaning:** patterned
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

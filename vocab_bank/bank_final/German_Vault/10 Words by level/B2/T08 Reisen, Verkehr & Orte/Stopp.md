@@ -14,11 +14,16 @@ bank: "main"
 id: "B6192"
 freq_rank: 4823
 skip: false
+audio: "Stopp.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stopp
+
+![[Stopp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stopp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stopp&language=de)
 
 **Meaning:** stop
 **Plural:** Stopps

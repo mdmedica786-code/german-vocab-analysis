@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 2a"
 freq_rank: 2566
 skip: false
+audio: "einsam.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # einsam
+
+![[einsam.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsam&language=de)
 
 **Meaning:** lonely
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

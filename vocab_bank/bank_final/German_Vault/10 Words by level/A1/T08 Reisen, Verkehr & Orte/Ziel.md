@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 8"
 freq_rank: 323
 skip: false
+audio: "Ziel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ziel
+
+![[Ziel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ziel&language=de)
 
 **Meaning:** goal
 **Plural:** Ziele

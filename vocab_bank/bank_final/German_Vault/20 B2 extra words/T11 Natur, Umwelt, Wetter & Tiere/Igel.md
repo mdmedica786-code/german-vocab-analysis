@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1950"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Igel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Igel
+
+![[Igel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Igel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Igel&language=de)
 
 **Meaning:** hedgehog
 **Plural:** Igel

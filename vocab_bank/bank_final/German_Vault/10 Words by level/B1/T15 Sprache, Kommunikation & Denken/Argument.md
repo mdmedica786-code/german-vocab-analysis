@@ -15,11 +15,16 @@ id: "B4002"
 netzwerk: "B1 K5 10"
 freq_rank: 1682
 skip: false
+audio: "Argument.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Argument
+
+![[Argument.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Argument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Argument&language=de)
 
 **Meaning:** argument
 **Plural:** Argumente

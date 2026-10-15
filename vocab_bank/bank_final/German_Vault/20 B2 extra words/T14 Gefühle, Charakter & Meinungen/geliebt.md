@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2839"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "geliebt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # geliebt
+
+![[geliebt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geliebt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geliebt&language=de)
 
 **Meaning:** beloved
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

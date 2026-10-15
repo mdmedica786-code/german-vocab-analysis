@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7a"
 freq_rank: 1837
 skip: false
+audio: "Nachmittag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachmittag
+
+![[Nachmittag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachmittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachmittag&language=de)
 
 **Meaning:** afternoon
 **Plural:** Nachmittage

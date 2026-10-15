@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4608"
 exam_use: ["Grammatik", "Schreiben"]
 skip: false
-status: "new"
+audio: "Vorsilbe.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Vorsilbe
+
+![[Vorsilbe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorsilbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsilbe&language=de)
 
 **Meaning:** prefix
 **Plural:** Vorsilben

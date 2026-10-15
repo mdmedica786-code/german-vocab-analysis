@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Flugzeug
 
+[▶️ YouGlish](https://youglish.com/pronounce/Flugzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flugzeug&language=de)
+
 **Meaning:** airplane
 **Plural:** Flugzeuge
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

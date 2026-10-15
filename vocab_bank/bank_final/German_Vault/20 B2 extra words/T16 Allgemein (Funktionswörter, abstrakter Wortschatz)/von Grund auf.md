@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # von Grund auf
 
+[▶️ YouGlish](https://youglish.com/pronounce/von%20Grund%20auf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=von%20Grund%20auf&language=de)
+
 **Meaning:** from the ground up; fundamentally
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

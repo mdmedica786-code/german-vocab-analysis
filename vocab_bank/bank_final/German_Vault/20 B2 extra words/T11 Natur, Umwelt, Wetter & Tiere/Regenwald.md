@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0684"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Regenwald.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Regenwald
+
+![[Regenwald.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regenwald/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regenwald&language=de)
 
 **Meaning:** rainforest
 **Plural:** Regenwälder

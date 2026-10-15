@@ -15,11 +15,13 @@ id: "D4093"
 exam_use: ["Medien", "Lesen"]
 skip: false
 check: "?Schreibung (üblich: Kabarettbühne)"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kabarett-Bühne
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kabarett-B%C3%BChne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarett-B%C3%BChne&language=de)
 
 **Meaning:** cabaret stage
 **Plural:** Kabarett-Bühnen

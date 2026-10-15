@@ -15,11 +15,16 @@ id: "B4977"
 netzwerk: "B1 K11 12b"
 freq_rank: 4847
 skip: false
+audio: "Einheimische.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Einheimische
+
+![[Einheimische.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einheimische/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einheimische&language=de)
 
 **Meaning:** native
 **Plural:** Einheimischen

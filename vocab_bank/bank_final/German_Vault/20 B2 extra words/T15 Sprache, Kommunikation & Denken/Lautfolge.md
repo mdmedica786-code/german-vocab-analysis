@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4168"
 exam_use: ["Hören", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Lautfolge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Hören", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lautfolge
+
+![[Lautfolge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lautfolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lautfolge&language=de)
 
 **Meaning:** sequence of sounds
 **Plural:** Lautfolgen

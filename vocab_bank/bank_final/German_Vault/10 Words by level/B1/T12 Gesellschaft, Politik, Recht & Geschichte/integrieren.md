@@ -13,11 +13,16 @@ id: "B5374"
 goethe_level: "B1"
 freq_rank: 1671
 skip: false
+audio: "integrieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # integrieren
+
+![[integrieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/integrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=integrieren&language=de)
 
 **Meaning:** to integrate
 **Forms:** integriert · integrierte · hat integriert

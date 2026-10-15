@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 11b"
 freq_rank: 1432
 skip: false
+audio: "Dauer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dauer
+
+![[Dauer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dauer&language=de)
 
 **Meaning:** duration
 **Plural:** –

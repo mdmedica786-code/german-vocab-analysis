@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2821"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Konstellation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konstellation
+
+![[Konstellation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konstellation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konstellation&language=de)
 
 **Meaning:** constellation; situation
 **Plural:** Konstellationen

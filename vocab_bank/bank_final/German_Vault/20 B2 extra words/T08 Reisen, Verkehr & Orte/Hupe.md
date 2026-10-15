@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4063"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Hupe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Hupe
+
+![[Hupe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hupe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hupe&language=de)
 
 **Meaning:** horn (of a car)
 **Plural:** Hupen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2513"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "strahlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # strahlen
+
+![[strahlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strahlen&language=de)
 
 **Meaning:** to shine; to beam
 **Forms:** strahlt · strahlte · hat gestrahlt

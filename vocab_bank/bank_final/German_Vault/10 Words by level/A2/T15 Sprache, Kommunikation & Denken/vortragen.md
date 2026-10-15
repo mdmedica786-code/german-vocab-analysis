@@ -13,11 +13,16 @@ id: "B2809"
 netzwerk: "A2 K8 10b"
 freq_rank: 5759
 skip: false
+audio: "vortragen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vortragen
+
+![[vortragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vortragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vortragen&language=de)
 
 **Meaning:** to present
 **Forms:** trägt vor · trug vor · hat vorgetragen

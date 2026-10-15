@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3140"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "tasten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # tasten
+
+![[tasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tasten&language=de)
 
 **Meaning:** to feel; to grope
 **Forms:** tastet · tastete · hat getastet

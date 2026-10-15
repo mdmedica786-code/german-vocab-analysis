@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 10d"
 freq_rank: 87
 skip: false
+audio: "stellen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stellen
+
+![[stellen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stellen&language=de)
 
 **Meaning:** to put (upright); to set; to ask (a question)
 **Other senses:** to set

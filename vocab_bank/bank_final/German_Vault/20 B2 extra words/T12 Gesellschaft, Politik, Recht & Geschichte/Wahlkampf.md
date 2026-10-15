@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0490"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Wahlkampf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wahlkampf
+
+![[Wahlkampf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahlkampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlkampf&language=de)
 
 **Meaning:** election campaign
 **Plural:** Wahlkämpfe

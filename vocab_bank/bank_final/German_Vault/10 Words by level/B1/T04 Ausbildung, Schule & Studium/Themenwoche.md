@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Themenwoche
 
+[▶️ YouGlish](https://youglish.com/pronounce/Themenwoche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Themenwoche&language=de)
+
 **Meaning:** theme week
 **Plural:** Themenwochen
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

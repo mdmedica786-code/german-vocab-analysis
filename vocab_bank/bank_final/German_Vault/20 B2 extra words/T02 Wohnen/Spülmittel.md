@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1388"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Spülmittel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Spülmittel
+
+![[Spülmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%BClmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%BClmittel&language=de)
 
 **Meaning:** washing-up liquid
 **Plural:** Spülmittel

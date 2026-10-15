@@ -15,11 +15,16 @@ id: "B4604"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Zoodirektor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zoodirektor
+
+![[Zoodirektor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zoodirektor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zoodirektor&language=de)
 
 **Meaning:** zoo director (m)
 **Plural:** Zoodirektoren

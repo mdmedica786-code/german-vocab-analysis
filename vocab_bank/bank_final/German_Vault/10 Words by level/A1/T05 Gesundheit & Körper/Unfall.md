@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 8a"
 freq_rank: 2734
 skip: false
+audio: "Unfall.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Unfall
+
+![[Unfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unfall&language=de)
 
 **Meaning:** accident
 **Plural:** Unfälle

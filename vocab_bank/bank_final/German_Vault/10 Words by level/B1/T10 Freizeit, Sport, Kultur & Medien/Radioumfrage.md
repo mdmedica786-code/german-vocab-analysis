@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Radioumfrage
 
+[▶️ YouGlish](https://youglish.com/pronounce/Radioumfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radioumfrage&language=de)
+
 **Meaning:** radio survey
 **Plural:** Radioumfragen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

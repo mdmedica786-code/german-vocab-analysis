@@ -13,11 +13,16 @@ id: "B5934"
 goethe_level: "B1"
 freq_rank: 3542
 skip: false
+audio: "speisen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # speisen
+
+![[speisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/speisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=speisen&language=de)
 
 **Meaning:** to dine; to eat (formal)
 **Forms:** speist · speiste · hat gespeist

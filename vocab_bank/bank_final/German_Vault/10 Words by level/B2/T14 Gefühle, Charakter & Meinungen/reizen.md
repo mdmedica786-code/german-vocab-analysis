@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # reizen
 
+[▶️ YouGlish](https://youglish.com/pronounce/reizen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reizen&language=de)
+
 **Meaning:** to irritate; to attract
 **Forms:** reizt · reizte · hat gereizt
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

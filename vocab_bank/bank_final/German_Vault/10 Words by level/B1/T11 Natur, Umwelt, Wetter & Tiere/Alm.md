@@ -15,11 +15,16 @@ id: "B3334"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "Alm.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Alm
+
+![[Alm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alm&language=de)
 
 **Meaning:** alpine pasture (alp)
 **Plural:** Almen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4450"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Sprechtempo.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Sprechtempo
+
+![[Sprechtempo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprechtempo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprechtempo&language=de)
 
 **Meaning:** speaking speed; speech rate
 **Plural:** Sprechtempos

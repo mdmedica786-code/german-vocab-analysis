@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 2782
 skip: false
+audio: "vorwärts.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorwärts
+
+![[vorwärts.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorw%C3%A4rts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorw%C3%A4rts&language=de)
 
 **Meaning:** forward
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

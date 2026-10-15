@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4308"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Phrase.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Phrase
+
+![[Phrase.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Phrase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Phrase&language=de)
 
 **Meaning:** phrase; empty phrase
 **Plural:** Phrasen

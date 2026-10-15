@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 3856
 skip: false
+audio: "nachmittags.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachmittags
+
+![[nachmittags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachmittags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachmittags&language=de)
 
 **Meaning:** in the afternoon
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

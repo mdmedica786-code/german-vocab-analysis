@@ -13,11 +13,16 @@ id: "B5003"
 netzwerk: "B1 K11 12b ÜB"
 freq_rank: 4147
 skip: false
+audio: "anschauen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anschauen
+
+![[anschauen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anschauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anschauen&language=de)
 
 **Meaning:** to look at
 **Forms:** schaut an · schaute an · hat angeschaut

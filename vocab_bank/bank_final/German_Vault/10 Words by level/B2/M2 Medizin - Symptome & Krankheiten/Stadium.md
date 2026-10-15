@@ -14,11 +14,16 @@ bank: "main"
 id: "B5887"
 freq_rank: 3321
 skip: false
+audio: "Stadium.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stadium
+
+![[Stadium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadium&language=de)
 
 **Meaning:** stage; stadium
 **Plural:** Stadien

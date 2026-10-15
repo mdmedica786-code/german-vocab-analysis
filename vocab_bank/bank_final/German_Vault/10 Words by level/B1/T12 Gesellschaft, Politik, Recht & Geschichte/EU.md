@@ -15,11 +15,16 @@ id: "B4849"
 netzwerk: "B1 K10 10a"
 freq_rank: 2000
 skip: false
+audio: "EU.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die EU
+
+![[EU.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/EU/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=EU&language=de)
 
 **Meaning:** EU
 **Plural:** –

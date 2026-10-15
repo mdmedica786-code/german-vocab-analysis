@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4338"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Pudel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Pudel
+
+![[Pudel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pudel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pudel&language=de)
 
 **Meaning:** poodle
 **Plural:** Pudel

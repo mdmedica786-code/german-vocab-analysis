@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ferienclub
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ferienclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ferienclub&language=de)
+
 **Meaning:** holiday club
 **Plural:** Ferienclubs
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

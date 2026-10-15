@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4555"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "updaten.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # updaten
+
+![[updaten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/updaten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=updaten&language=de)
 
 **Meaning:** to update
 **Forms:** updatet · updatete · hat geupdatet

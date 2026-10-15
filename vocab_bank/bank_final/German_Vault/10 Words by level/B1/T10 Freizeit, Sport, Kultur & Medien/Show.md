@@ -15,11 +15,16 @@ id: "B6085"
 goethe_level: "B1"
 freq_rank: 4250
 skip: false
+audio: "Show.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Show
+
+![[Show.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Show/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Show&language=de)
 
 **Meaning:** show
 **Plural:** Shows

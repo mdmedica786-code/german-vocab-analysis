@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0736"
 exam_use: ["Lesen"]
 skip: false
+audio: "Bestäubung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bestäubung
+
+![[Bestäubung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Best%C3%A4ubung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Best%C3%A4ubung&language=de)
 
 **Meaning:** pollination
 **Plural:** –

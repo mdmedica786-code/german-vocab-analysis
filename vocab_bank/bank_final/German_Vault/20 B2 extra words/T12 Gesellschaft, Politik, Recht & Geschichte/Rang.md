@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2633"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Rang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rang
+
+![[Rang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rang&language=de)
 
 **Meaning:** rank; position; tier
 **Plural:** Ränge

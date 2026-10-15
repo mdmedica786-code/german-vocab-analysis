@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0590"
 exam_use: ["Alltag"]
 skip: false
+audio: "Upload.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Upload
+
+![[Upload.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Upload/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Upload&language=de)
 
 **Meaning:** upload
 **Plural:** Uploads

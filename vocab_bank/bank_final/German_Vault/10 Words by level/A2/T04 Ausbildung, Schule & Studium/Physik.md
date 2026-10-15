@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Physik
 
+[▶️ YouGlish](https://youglish.com/pronounce/Physik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physik&language=de)
+
 **Meaning:** physics
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

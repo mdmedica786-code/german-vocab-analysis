@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2474"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Substanz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Substanz
+
+![[Substanz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Substanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Substanz&language=de)
 
 **Meaning:** substance
 **Plural:** Substanzen

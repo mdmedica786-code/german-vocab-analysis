@@ -13,11 +13,16 @@ id: "B6338"
 goethe_level: "B1"
 freq_rank: 5746
 skip: false
+audio: "schwitzen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwitzen
+
+![[schwitzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwitzen&language=de)
 
 **Meaning:** to sweat
 **Forms:** schwitzt · schwitzte · hat geschwitzt

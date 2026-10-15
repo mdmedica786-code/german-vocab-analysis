@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 5621
 skip: false
+audio: "Kilo.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kilo
+
+![[Kilo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kilo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kilo&language=de)
 
 **Meaning:** kilo
 **Plural:** Kilos

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1559"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "betrübt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # betrübt
+
+![[betrübt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betr%C3%BCbt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betr%C3%BCbt&language=de)
 
 **Meaning:** saddened; sad
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

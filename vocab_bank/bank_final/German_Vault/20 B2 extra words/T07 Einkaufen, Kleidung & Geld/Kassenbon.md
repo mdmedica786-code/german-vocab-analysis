@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1089"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kassenbon.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kassenbon
+
+![[Kassenbon.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kassenbon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kassenbon&language=de)
 
 **Meaning:** till receipt
 **Plural:** Kassenbons

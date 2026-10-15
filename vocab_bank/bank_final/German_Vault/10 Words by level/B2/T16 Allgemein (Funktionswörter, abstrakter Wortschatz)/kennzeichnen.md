@@ -12,11 +12,16 @@ bank: "main"
 id: "B5400"
 freq_rank: 1796
 skip: false
+audio: "kennzeichnen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kennzeichnen
+
+![[kennzeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kennzeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kennzeichnen&language=de)
 
 **Meaning:** to mark; to label
 **Forms:** kennzeichnet · kennzeichnete · hat gekennzeichnet

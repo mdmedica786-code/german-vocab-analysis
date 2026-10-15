@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 11"
 freq_rank: 347
 skip: false
+audio: "helfen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # helfen
+
+![[helfen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/helfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=helfen&language=de)
 
 **Meaning:** to help
 **Forms:** hilft · half · hat geholfen

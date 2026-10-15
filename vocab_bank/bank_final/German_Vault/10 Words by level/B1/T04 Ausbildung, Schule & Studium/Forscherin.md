@@ -15,11 +15,16 @@ id: "B4475"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Forscherin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Forscherin
+
+![[Forscherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forscherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forscherin&language=de)
 
 **Meaning:** researcher (f)
 **Plural:** Forscherinnen

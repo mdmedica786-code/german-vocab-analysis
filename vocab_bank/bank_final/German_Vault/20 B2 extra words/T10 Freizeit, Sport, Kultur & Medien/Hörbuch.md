@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4054"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Hörbuch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Hörbuch
+
+![[Hörbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rbuch&language=de)
 
 **Meaning:** audiobook
 **Plural:** Hörbücher

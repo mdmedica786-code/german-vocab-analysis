@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 5d"
 freq_rank: 5759
 skip: false
+audio: "abheben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abheben
+
+![[abheben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abheben&language=de)
 
 **Meaning:** to withdraw
 **Forms:** hebt ab · hob ab · hat abgehoben

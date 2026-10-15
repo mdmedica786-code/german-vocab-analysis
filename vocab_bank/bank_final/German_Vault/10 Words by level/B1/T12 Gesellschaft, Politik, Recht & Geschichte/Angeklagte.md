@@ -15,11 +15,16 @@ id: "B3717"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 4664
 skip: false
+audio: "Angeklagte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Angeklagte
+
+![[Angeklagte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angeklagte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angeklagte&language=de)
 
 **Meaning:** defendant
 **Plural:** Angeklagten

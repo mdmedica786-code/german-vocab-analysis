@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6c"
 freq_rank: 108
 skip: false
+audio: "fragen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fragen
+
+![[fragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fragen&language=de)
 
 **Meaning:** to ask
 **Forms:** fragt · fragte · hat gefragt

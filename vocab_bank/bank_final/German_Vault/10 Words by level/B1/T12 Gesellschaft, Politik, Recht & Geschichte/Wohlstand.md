@@ -15,11 +15,16 @@ id: "B5086"
 netzwerk: "B1 K12 7a"
 freq_rank: 4343
 skip: false
+audio: "Wohlstand.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wohlstand
+
+![[Wohlstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohlstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohlstand&language=de)
 
 **Meaning:** prosperity
 **Plural:** –

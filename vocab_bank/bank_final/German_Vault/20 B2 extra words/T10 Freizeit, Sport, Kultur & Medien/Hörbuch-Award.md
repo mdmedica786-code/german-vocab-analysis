@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4053"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Hörbuch-Award
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rbuch-Award/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rbuch-Award&language=de)
 
 **Meaning:** audiobook award
 **Plural:** Hörbuch-Awards

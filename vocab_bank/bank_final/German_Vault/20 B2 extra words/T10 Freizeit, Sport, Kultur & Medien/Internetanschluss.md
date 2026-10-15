@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0584"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Internetanschluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Internetanschluss
+
+![[Internetanschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Internetanschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internetanschluss&language=de)
 
 **Meaning:** internet connection
 **Plural:** Internetanschlüsse

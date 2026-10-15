@@ -14,11 +14,16 @@ bank: "main"
 id: "B5590"
 freq_rank: 2438
 skip: false
+audio: "Publikation.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Publikation
+
+![[Publikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Publikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Publikation&language=de)
 
 **Meaning:** publication
 **Plural:** Publikationen

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 9c"
 freq_rank: 1774
 skip: false
+audio: "informieren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # informieren
+
+![[informieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/informieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=informieren&language=de)
 
 **Meaning:** to inform
 **Forms:** informiert · informierte · hat informiert

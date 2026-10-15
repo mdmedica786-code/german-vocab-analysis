@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2869"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Sprung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sprung
+
+![[Sprung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprung&language=de)
 
 **Meaning:** jump; leap
 **Plural:** Sprünge

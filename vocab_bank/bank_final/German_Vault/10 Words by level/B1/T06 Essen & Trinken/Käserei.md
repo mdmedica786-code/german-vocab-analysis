@@ -15,11 +15,16 @@ id: "B3351"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "Käserei.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Käserei
+
+![[Käserei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4serei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4serei&language=de)
 
 **Meaning:** cheese factory
 **Plural:** Käsereien

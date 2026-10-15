@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 5a"
 freq_rank: 5759
 skip: false
+audio: "Musikerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Musikerin
+
+![[Musikerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikerin&language=de)
 
 **Meaning:** musician (f)
 **Plural:** Musikerinnen

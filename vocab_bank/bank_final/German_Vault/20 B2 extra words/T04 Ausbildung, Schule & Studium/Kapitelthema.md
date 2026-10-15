@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4098"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kapitelthema
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kapitelthema/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kapitelthema&language=de)
 
 **Meaning:** chapter topic
 **Plural:** Kapitelthemen

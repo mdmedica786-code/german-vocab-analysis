@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4518"
 exam_use: ["Alltag", "Grammatik"]
 skip: false
-status: "new"
+audio: "umeinander.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adverb", "exam/Alltag", "exam/Grammatik"]
+status: "new"
 ---
 <!-- bank:start -->
 # umeinander
+
+![[umeinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umeinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umeinander&language=de)
 
 **Meaning:** about each other; around each other
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

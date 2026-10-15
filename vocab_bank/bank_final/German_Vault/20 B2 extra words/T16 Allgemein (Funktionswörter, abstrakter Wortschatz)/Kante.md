@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2833"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kante.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kante
+
+![[Kante.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kante/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kante&language=de)
 
 **Meaning:** edge
 **Plural:** Kanten

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5908"
 freq_rank: 3449
 skip: false
+audio: "Weiterentwicklung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weiterentwicklung
+
+![[Weiterentwicklung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weiterentwicklung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weiterentwicklung&language=de)
 
 **Meaning:** further development
 **Plural:** Weiterentwicklungen

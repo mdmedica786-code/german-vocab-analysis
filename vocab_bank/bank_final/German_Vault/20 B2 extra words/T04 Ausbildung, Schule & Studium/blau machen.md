@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2085"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "blau machen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # blau machen
+
+![[blau machen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blau%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blau%20machen&language=de)
 
 **Meaning:** to skip work or school
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

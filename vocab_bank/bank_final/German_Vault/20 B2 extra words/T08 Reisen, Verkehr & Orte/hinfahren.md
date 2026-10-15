@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4042"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "hinfahren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # hinfahren
+
+![[hinfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinfahren&language=de)
 
 **Meaning:** to go there; to drive there
 **Forms:** fährt hin · fuhr hin · ist hingefahren

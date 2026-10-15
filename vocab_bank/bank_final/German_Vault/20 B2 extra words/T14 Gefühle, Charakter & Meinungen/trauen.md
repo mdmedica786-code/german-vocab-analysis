@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2661"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "trauen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # trauen
+
+![[trauen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trauen&language=de)
 
 **Meaning:** to trust; to dare; to marry
 **Forms:** traut · traute · hat getraut

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2872"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "erwischen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwischen
+
+![[erwischen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwischen&language=de)
 
 **Meaning:** to catch; to get hold of
 **Forms:** erwischt · erwischte · hat erwischt

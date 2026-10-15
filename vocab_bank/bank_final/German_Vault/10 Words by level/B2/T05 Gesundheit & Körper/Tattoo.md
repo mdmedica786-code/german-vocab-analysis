@@ -14,11 +14,16 @@ bank: "main"
 id: "B6316"
 freq_rank: 5515
 skip: false
+audio: "Tattoo.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tattoo
+
+![[Tattoo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tattoo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tattoo&language=de)
 
 **Meaning:** tattoo
 **Plural:** Tattoos

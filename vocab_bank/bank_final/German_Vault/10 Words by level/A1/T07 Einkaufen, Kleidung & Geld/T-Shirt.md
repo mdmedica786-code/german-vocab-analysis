@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 1a"
 freq_rank: 3000
 skip: false
+audio: "T-Shirt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das T-Shirt
+
+![[T-Shirt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T-Shirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T-Shirt&language=de)
 
 **Meaning:** t-shirt
 **Plural:** T-Shirts

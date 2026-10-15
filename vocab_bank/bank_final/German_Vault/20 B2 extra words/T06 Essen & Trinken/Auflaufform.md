@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2278"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Auflaufform.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auflaufform
+
+![[Auflaufform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auflaufform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auflaufform&language=de)
 
 **Meaning:** baking dish; casserole dish
 **Plural:** Auflaufformen

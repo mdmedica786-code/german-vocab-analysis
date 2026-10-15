@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3978"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Gartenmöbel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gartenmöbel
+
+![[Gartenmöbel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gartenm%C3%B6bel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gartenm%C3%B6bel&language=de)
 
 **Meaning:** garden furniture
 **Plural:** Gartenmöbel

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # beschäftigt sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/besch%C3%A4ftigt%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%A4ftigt%20sein&language=de)
+
 **Meaning:** to be busy
 **Forms:** ist beschäftigt · war beschäftigt · ist beschäftigt gewesen
 **Grammar:** + mit + Dat.

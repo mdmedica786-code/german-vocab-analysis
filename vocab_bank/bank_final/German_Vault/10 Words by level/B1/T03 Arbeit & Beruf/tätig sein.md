@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # tätig sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/t%C3%A4tig%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=t%C3%A4tig%20sein&language=de)
+
 **Meaning:** to work; to be active
 **Forms:** ist tätig · war tätig · ist tätig gewesen
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6095"
 freq_rank: 4326
 skip: false
+audio: "Investor.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Investor
+
+![[Investor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Investor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Investor&language=de)
 
 **Meaning:** investor
 **Plural:** Investoren

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 6a"
 freq_rank: 2652
 skip: false
+audio: "Akku.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Akku
+
+![[Akku.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Akku/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akku&language=de)
 
 **Meaning:** battery
 **Plural:** Akkus

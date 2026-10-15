@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1846"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verweilen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verweilen
+
+![[verweilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verweilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verweilen&language=de)
 
 **Meaning:** to linger; to stay
 **Forms:** verweilt · verweilte · hat verweilt

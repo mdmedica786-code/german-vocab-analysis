@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Putzfirma
 
+[▶️ YouGlish](https://youglish.com/pronounce/Putzfirma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Putzfirma&language=de)
+
 **Meaning:** cleaning company
 **Plural:** Putzfirmen
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

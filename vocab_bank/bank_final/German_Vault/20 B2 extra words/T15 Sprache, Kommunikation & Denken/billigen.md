@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0274"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "billigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # billigen
+
+![[billigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/billigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=billigen&language=de)
 
 **Meaning:** to approve; to sanction
 **Forms:** billigt · billigte · hat gebilligt

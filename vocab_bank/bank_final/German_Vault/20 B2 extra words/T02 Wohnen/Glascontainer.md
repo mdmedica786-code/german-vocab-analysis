@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1400"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Glascontainer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Glascontainer
+
+![[Glascontainer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glascontainer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glascontainer&language=de)
 
 **Meaning:** bottle bank
 **Plural:** Glascontainer

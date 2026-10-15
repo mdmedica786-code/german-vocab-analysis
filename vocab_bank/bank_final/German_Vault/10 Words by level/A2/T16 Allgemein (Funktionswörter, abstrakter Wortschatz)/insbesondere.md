@@ -12,11 +12,16 @@ id: "B3123"
 netzwerk: "A2 K12 1b"
 freq_rank: 412
 skip: false
+audio: "insbesondere.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # insbesondere
+
+![[insbesondere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/insbesondere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=insbesondere&language=de)
 
 **Meaning:** especially
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

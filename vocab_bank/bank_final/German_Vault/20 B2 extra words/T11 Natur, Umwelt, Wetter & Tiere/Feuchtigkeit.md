@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3314"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Feuchtigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feuchtigkeit
+
+![[Feuchtigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuchtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuchtigkeit&language=de)
 
 **Meaning:** moisture; humidity; dampness
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 3"
 freq_rank: 5759
 skip: false
+audio: "bloggen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bloggen
+
+![[bloggen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bloggen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bloggen&language=de)
 
 **Meaning:** to blog
 **Forms:** bloggt · bloggte · hat gebloggt

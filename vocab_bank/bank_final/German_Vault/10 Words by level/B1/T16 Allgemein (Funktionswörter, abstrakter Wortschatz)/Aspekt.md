@@ -15,11 +15,16 @@ id: "B3653"
 netzwerk: "B1 K3 9a"
 freq_rank: 722
 skip: false
+audio: "Aspekt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aspekt
+
+![[Aspekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aspekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aspekt&language=de)
 
 **Meaning:** aspect
 **Plural:** Aspekte

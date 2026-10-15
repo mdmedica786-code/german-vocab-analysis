@@ -13,11 +13,16 @@ id: "B2781"
 netzwerk: "A2 K8 9a"
 freq_rank: 1159
 skip: false
+audio: "existieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # existieren
+
+![[existieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/existieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=existieren&language=de)
 
 **Meaning:** to exist
 **Forms:** existiert · existierte · hat existiert

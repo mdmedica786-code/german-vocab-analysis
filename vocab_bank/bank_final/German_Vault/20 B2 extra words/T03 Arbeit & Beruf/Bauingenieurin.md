@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3780"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Bauingenieurin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Bauingenieurin
+
+![[Bauingenieurin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauingenieurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauingenieurin&language=de)
 
 **Meaning:** civil engineer (female)
 **Plural:** Bauingenieurinnen

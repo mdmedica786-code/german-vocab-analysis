@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2059"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Öl ins Feuer gießen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Öl ins Feuer gießen
+
+![[Öl ins Feuer gießen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96l%20ins%20Feuer%20gie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96l%20ins%20Feuer%20gie%C3%9Fen&language=de)
 
 **Meaning:** to add fuel to the fire
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

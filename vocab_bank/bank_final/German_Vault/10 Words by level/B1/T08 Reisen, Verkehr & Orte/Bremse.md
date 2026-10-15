@@ -15,11 +15,16 @@ id: "B6382"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Bremse.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bremse
+
+![[Bremse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bremse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bremse&language=de)
 
 **Meaning:** brake
 **Plural:** Bremsen

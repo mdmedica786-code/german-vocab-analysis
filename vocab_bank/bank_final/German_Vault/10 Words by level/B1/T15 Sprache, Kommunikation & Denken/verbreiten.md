@@ -13,11 +13,16 @@ id: "B4807"
 netzwerk: "B1 K10 5a"
 freq_rank: 1480
 skip: false
+audio: "verbreiten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbreiten
+
+![[verbreiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbreiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbreiten&language=de)
 
 **Meaning:** to spread
 **Forms:** verbreitet · verbreitete · hat verbreitet

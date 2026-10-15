@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 4704
 skip: false
+audio: "Neuigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Neuigkeit
+
+![[Neuigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neuigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuigkeit&language=de)
 
 **Meaning:** news
 **Plural:** Neuigkeiten

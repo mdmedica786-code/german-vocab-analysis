@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1143"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Taufe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taufe
+
+![[Taufe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taufe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taufe&language=de)
 
 **Meaning:** baptism; christening
 **Plural:** Taufen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3218"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Besetzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besetzung
+
+![[Besetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besetzung&language=de)
 
 **Meaning:** occupation; cast; staffing
 **Plural:** Besetzungen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0910"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "vorlegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorlegen
+
+![[vorlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorlegen&language=de)
 
 **Meaning:** to present; to submit
 **Forms:** legt vor · legte vor · hat vorgelegt

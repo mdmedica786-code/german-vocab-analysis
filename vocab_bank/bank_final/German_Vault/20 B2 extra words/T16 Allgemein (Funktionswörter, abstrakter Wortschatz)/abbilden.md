@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3037"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "abbilden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # abbilden
+
+![[abbilden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abbilden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abbilden&language=de)
 
 **Meaning:** to depict; to reproduce
 **Forms:** bildet ab · bildete ab · hat abgebildet

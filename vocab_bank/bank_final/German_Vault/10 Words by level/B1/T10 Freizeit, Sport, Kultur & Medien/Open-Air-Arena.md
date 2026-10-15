@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Open-Air-Arena
 
+[▶️ YouGlish](https://youglish.com/pronounce/Open-Air-Arena/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Open-Air-Arena&language=de)
+
 **Meaning:** open air arena
 **Plural:** Open-Air-Arenen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

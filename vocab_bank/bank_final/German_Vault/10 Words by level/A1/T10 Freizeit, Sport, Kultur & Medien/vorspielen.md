@@ -13,11 +13,16 @@ id: "B1548"
 netzwerk: "A1 K10 12"
 freq_rank: 5759
 skip: false
+audio: "vorspielen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorspielen
+
+![[vorspielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorspielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorspielen&language=de)
 
 **Meaning:** to act out
 **Forms:** spielt vor · spielte vor · hat vorgespielt

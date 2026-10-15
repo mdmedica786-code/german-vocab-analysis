@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # dabei haben
 
+[▶️ YouGlish](https://youglish.com/pronounce/dabei%20haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dabei%20haben&language=de)
+
 **Meaning:** to have sth on oneself
 **Forms:** hat dabei · hatte dabei · hat dabei gehabt
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

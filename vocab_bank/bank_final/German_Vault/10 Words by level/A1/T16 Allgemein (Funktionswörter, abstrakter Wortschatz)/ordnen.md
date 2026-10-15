@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 12a"
 freq_rank: 2999
 skip: false
+audio: "ordnen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ordnen
+
+![[ordnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ordnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ordnen&language=de)
 
 **Meaning:** to arrange
 **Forms:** ordnet · ordnete · hat geordnet

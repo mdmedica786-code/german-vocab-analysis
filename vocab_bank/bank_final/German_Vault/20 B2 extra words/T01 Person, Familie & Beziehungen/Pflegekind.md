@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1140"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Pflegekind.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pflegekind
+
+![[Pflegekind.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflegekind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegekind&language=de)
 
 **Meaning:** foster child
 **Plural:** Pflegekinder

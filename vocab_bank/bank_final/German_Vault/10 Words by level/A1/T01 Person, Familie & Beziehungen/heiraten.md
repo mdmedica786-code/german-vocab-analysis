@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # heiraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/heiraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heiraten&language=de)
+
 **Meaning:** to marry
 **Forms:** heiratet · heiratete · hat geheiratet
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

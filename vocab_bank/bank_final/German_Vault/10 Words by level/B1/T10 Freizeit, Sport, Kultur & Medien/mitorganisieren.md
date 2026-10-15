@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # mitorganisieren
 
+[▶️ YouGlish](https://youglish.com/pronounce/mitorganisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitorganisieren&language=de)
+
 **Meaning:** to help organise
 **Forms:** organisiert mit · organisierte mit · hat mitorganisiert
 **Grammar:** separable (mit-)

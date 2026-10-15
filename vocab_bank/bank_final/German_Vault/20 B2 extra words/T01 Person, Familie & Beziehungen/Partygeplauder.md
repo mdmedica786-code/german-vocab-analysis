@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4290"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Partygeplauder
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partygeplauder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partygeplauder&language=de)
 
 **Meaning:** party chat; small talk at a party
 **Plural:** –

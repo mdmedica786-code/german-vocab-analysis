@@ -11,11 +11,16 @@ bank: "main"
 id: "B5474"
 freq_rank: 2049
 skip: false
+audio: "folglich.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # folglich
+
+![[folglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/folglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=folglich&language=de)
 
 **Meaning:** consequently
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

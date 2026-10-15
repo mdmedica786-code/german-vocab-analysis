@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 6a"
 freq_rank: 315
 skip: false
+audio: "Möglichkeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Möglichkeit
+
+![[Möglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6glichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6glichkeit&language=de)
 
 **Meaning:** possibility
 **Plural:** Möglichkeiten

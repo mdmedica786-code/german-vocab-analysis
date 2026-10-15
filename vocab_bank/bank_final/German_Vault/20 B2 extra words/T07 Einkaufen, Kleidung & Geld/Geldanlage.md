@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1049"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Geldanlage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geldanlage
+
+![[Geldanlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geldanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geldanlage&language=de)
 
 **Meaning:** investment
 **Plural:** Geldanlagen

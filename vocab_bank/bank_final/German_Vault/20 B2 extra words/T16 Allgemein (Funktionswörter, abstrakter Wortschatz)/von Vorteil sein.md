@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # von Vorteil sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/von%20Vorteil%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=von%20Vorteil%20sein&language=de)
+
 **Meaning:** to be an advantage
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

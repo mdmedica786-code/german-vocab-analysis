@@ -15,11 +15,16 @@ id: "B3776"
 netzwerk: "B1 K4 7a"
 freq_rank: 1724
 skip: false
+audio: "Variante.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Variante
+
+![[Variante.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Variante/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Variante&language=de)
 
 **Meaning:** variant
 **Plural:** Varianten

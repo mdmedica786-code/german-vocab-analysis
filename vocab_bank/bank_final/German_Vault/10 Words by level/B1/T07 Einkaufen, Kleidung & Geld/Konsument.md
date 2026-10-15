@@ -15,11 +15,16 @@ id: "B5068"
 netzwerk: "B1 K12 7a"
 freq_rank: 3560
 skip: false
+audio: "Konsument.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konsument
+
+![[Konsument.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsument&language=de)
 
 **Meaning:** consumer (m)
 **Plural:** Konsumenten

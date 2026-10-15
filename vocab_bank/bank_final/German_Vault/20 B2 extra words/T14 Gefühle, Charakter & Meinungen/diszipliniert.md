@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3868"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "diszipliniert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # diszipliniert
+
+![[diszipliniert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diszipliniert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diszipliniert&language=de)
 
 **Meaning:** disciplined
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1390"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Waschbecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Waschbecken
+
+![[Waschbecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Waschbecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschbecken&language=de)
 
 **Meaning:** washbasin; sink
 **Plural:** Waschbecken

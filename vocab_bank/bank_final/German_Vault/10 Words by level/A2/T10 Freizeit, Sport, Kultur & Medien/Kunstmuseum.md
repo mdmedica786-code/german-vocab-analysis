@@ -15,11 +15,16 @@ id: "B2426"
 netzwerk: "A2 K6 6"
 freq_rank: 5759
 skip: false
+audio: "Kunstmuseum.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kunstmuseum
+
+![[Kunstmuseum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstmuseum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstmuseum&language=de)
 
 **Meaning:** art museum
 **Plural:** Kunstmuseen

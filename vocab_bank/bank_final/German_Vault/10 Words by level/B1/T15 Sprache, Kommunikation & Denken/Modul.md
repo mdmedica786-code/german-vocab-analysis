@@ -15,11 +15,16 @@ id: "B6245"
 goethe_level: "B1"
 freq_rank: 5051
 skip: false
+audio: "Modul.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Modul
+
+![[Modul.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Modul/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modul&language=de)
 
 **Meaning:** module
 **Plural:** Module

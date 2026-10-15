@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 6c ÜB"
 freq_rank: 1746
 skip: false
+audio: "Botschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Botschaft
+
+![[Botschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Botschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Botschaft&language=de)
 
 **Meaning:** embassy; message
 **Plural:** Botschaften

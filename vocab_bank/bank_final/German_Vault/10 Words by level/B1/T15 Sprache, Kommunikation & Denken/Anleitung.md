@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3a"
 freq_rank: 4264
 skip: false
+audio: "Anleitung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anleitung
+
+![[Anleitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anleitung&language=de)
 
 **Meaning:** instruction
 **Plural:** Anleitungen

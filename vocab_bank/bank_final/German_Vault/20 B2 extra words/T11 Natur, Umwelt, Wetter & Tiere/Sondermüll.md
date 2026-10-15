@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0700"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Sondermüll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sondermüll
+
+![[Sondermüll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonderm%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonderm%C3%BCll&language=de)
 
 **Meaning:** hazardous waste
 **Plural:** –

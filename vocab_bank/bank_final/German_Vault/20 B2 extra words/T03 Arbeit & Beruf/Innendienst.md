@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1777"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Innendienst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Innendienst
+
+![[Innendienst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Innendienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Innendienst&language=de)
 
 **Meaning:** office-based service
 **Plural:** –

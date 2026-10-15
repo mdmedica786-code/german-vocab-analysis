@@ -12,11 +12,16 @@ bank: "main"
 id: "B5512"
 freq_rank: 2179
 skip: false
+audio: "schlucken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlucken
+
+![[schlucken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlucken&language=de)
 
 **Meaning:** to swallow
 **Forms:** schluckt · schluckte · hat geschluckt

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3c"
 freq_rank: 1461
 skip: false
+audio: "Auswahl.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auswahl
+
+![[Auswahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auswahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswahl&language=de)
 
 **Meaning:** selection
 **Plural:** –

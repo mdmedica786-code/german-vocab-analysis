@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2644"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "massiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # massiv
+
+![[massiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/massiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=massiv&language=de)
 
 **Meaning:** massive; solid
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

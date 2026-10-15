@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3592"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Mühle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mühle
+
+![[Mühle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BChle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BChle&language=de)
 
 **Meaning:** mill
 **Plural:** Mühlen

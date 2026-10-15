@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2909"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "bedrohen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedrohen
+
+![[bedrohen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedrohen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedrohen&language=de)
 
 **Meaning:** to threaten
 **Forms:** bedroht · bedrohte · hat bedroht

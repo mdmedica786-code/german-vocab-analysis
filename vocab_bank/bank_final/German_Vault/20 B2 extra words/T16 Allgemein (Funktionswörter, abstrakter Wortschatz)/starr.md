@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2514"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "starr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # starr
+
+![[starr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/starr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=starr&language=de)
 
 **Meaning:** rigid; fixed; stiff
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

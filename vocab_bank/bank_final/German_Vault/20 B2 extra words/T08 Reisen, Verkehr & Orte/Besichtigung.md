@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0989"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Besichtigung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besichtigung
+
+![[Besichtigung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besichtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besichtigung&language=de)
 
 **Meaning:** visit; viewing; tour
 **Plural:** Besichtigungen

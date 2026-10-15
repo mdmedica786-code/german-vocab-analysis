@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Fauteuil.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fauteuil
+
+![[Fauteuil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fauteuil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fauteuil&language=de)
 
 **Meaning:** armchair
 **Plural:** Fauteuils

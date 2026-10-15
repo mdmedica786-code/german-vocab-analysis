@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 1a"
 freq_rank: 581
 skip: false
+audio: "eng.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eng
+
+![[eng.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eng/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eng&language=de)
 
 **Meaning:** tight
 **Forms:** enger – am engsten

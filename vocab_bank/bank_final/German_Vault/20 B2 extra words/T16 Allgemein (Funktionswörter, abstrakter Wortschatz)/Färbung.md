@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3570"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Färbung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Färbung
+
+![[Färbung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%A4rbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%A4rbung&language=de)
 
 **Meaning:** colouring; tint; tone
 **Plural:** Färbungen

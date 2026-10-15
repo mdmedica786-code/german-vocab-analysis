@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # zweihundert
 
+[▶️ YouGlish](https://youglish.com/pronounce/zweihundert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweihundert&language=de)
+
 **Meaning:** two hundred
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

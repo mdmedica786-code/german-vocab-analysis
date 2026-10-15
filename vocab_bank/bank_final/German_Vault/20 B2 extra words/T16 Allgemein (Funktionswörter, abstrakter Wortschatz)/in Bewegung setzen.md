@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Bewegung setzen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Bewegung%20setzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Bewegung%20setzen&language=de)
+
 **Meaning:** to set in motion
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

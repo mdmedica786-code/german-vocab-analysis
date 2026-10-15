@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 1a"
 freq_rank: 1178
 skip: false
+audio: "verbringen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbringen
+
+![[verbringen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbringen&language=de)
 
 **Meaning:** to spend (time)
 **Forms:** verbringt · verbrachte · hat verbracht

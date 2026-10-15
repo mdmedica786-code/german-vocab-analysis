@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1923"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Muttersprachler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Muttersprachler
+
+![[Muttersprachler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Muttersprachler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muttersprachler&language=de)
 
 **Meaning:** native speaker
 **Plural:** Muttersprachler

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 2b"
 freq_rank: 240
 skip: false
+audio: "richtig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # richtig
+
+![[richtig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/richtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=richtig&language=de)
 
 **Meaning:** correct; right
 **Other senses:** really

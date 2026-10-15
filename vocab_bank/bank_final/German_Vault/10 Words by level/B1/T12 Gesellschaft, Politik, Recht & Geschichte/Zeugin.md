@@ -15,11 +15,16 @@ id: "B6613"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Zeugin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeugin
+
+![[Zeugin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeugin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeugin&language=de)
 
 **Meaning:** witness (f)
 **Plural:** Zeuginnen

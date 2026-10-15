@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 1780
 skip: false
+audio: "Regen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Regen
+
+![[Regen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regen&language=de)
 
 **Meaning:** rain
 **Plural:** Regen

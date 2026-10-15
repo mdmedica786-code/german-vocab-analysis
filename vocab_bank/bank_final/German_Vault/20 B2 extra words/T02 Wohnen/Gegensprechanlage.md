@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1395"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Gegensprechanlage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gegensprechanlage
+
+![[Gegensprechanlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegensprechanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegensprechanlage&language=de)
 
 **Meaning:** intercom
 **Plural:** Gegensprechanlagen

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Lernplakat
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lernplakat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernplakat&language=de)
+
 **Meaning:** revision poster
 **Plural:** Lernplakate
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

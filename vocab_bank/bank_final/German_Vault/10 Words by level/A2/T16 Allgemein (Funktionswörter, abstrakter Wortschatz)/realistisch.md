@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3a"
 freq_rank: 4100
 skip: false
+audio: "realistisch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # realistisch
+
+![[realistisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/realistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=realistisch&language=de)
 
 **Meaning:** realistic
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

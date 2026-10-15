@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 2029
 skip: false
+audio: "Klinik.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klinik
+
+![[Klinik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klinik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klinik&language=de)
 
 **Meaning:** hospital
 **Plural:** Kliniken

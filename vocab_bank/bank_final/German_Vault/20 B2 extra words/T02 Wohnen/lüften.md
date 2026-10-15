@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1708"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "lüften.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # lüften
+
+![[lüften.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%BCften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%BCften&language=de)
 
 **Meaning:** to air; to ventilate
 **Forms:** lüftet · lüftete · hat gelüftet

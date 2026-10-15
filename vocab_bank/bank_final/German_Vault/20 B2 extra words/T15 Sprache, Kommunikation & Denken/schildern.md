@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2650"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "schildern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schildern
+
+![[schildern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schildern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schildern&language=de)
 
 **Meaning:** to describe; to depict
 **Forms:** schildert · schilderte · hat geschildert

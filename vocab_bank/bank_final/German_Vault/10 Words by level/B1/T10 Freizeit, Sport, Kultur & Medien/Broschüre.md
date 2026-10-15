@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Broschüre.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Broschüre
+
+![[Broschüre.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brosch%C3%BCre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brosch%C3%BCre&language=de)
 
 **Meaning:** brochure
 **Plural:** Broschüren

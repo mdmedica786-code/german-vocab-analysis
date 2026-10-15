@@ -12,11 +12,16 @@ id: "B6254"
 goethe_level: "A2"
 freq_rank: 5112
 skip: false
+audio: "viermal.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # viermal
+
+![[viermal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/viermal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=viermal&language=de)
 
 **Meaning:** four times
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

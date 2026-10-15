@@ -15,11 +15,16 @@ id: "B6217"
 goethe_level: "B1"
 freq_rank: 4943
 skip: false
+audio: "Bundespräsident.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bundespräsident
+
+![[Bundespräsident.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundespr%C3%A4sident/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundespr%C3%A4sident&language=de)
 
 **Meaning:** Federal President (m)
 **Plural:** Bundespräsidenten

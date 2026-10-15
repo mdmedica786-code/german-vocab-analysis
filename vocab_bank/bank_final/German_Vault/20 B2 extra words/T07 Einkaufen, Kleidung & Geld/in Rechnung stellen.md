@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0101"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "in Rechnung stellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/phrase", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Rechnung stellen
+
+![[in Rechnung stellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Rechnung%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Rechnung%20stellen&language=de)
 
 **Meaning:** to charge; to bill
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

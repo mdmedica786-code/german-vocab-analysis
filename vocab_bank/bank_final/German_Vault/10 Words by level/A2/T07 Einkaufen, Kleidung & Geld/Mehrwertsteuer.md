@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Mehrwertsteuer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mehrwertsteuer
+
+![[Mehrwertsteuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehrwertsteuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrwertsteuer&language=de)
 
 **Meaning:** value-added tax (VAT)
 **Plural:** –

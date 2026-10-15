@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2014"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Watt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Watt
+
+![[Watt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Watt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Watt&language=de)
 
 **Meaning:** tidal flats; mudflats
 **Plural:** Watten

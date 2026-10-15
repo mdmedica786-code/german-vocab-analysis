@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3257"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Manuskript.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Manuskript
+
+![[Manuskript.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Manuskript/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Manuskript&language=de)
 
 **Meaning:** manuscript; typescript
 **Plural:** Manuskripte

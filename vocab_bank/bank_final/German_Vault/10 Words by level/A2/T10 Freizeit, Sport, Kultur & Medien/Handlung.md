@@ -15,11 +15,16 @@ id: "B2168"
 netzwerk: "A2 K3 13b"
 freq_rank: 925
 skip: false
+audio: "Handlung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Handlung
+
+![[Handlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handlung&language=de)
 
 **Meaning:** plot
 **Plural:** Handlungen

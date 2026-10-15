@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0246"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "misslingen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # misslingen
+
+![[misslingen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/misslingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=misslingen&language=de)
 
 **Meaning:** to fail; to go wrong
 **Forms:** misslingt · misslang · ist misslungen

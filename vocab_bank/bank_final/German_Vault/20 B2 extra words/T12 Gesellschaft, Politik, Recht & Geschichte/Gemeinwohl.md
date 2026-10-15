@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3992"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Gemeinwohl.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gemeinwohl
+
+![[Gemeinwohl.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gemeinwohl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinwohl&language=de)
 
 **Meaning:** common good; public interest
 **Plural:** –

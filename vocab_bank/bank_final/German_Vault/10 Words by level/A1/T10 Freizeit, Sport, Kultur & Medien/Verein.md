@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Verein
 
+[▶️ YouGlish](https://youglish.com/pronounce/Verein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verein&language=de)
+
 **Meaning:** club
 **Plural:** Vereine
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

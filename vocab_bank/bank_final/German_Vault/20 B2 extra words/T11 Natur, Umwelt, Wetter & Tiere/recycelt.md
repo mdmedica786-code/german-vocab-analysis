@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4350"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "recycelt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # recycelt
+
+![[recycelt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/recycelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recycelt&language=de)
 
 **Meaning:** recycled
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

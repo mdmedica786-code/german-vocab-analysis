@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Präpositionalergänzung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4positionalerg%C3%A4nzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4positionalerg%C3%A4nzung&language=de)
+
 **Meaning:** prepositional complement
 **Plural:** Präpositionalergänzungen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

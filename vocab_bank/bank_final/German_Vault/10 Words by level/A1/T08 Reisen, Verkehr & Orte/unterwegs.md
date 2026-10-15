@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 12b"
 freq_rank: 1418
 skip: false
+audio: "unterwegs.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterwegs
+
+![[unterwegs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterwegs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterwegs&language=de)
 
 **Meaning:** on the way
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

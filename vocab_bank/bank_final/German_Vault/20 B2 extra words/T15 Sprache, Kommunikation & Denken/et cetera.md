@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4683"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # et cetera
+
+[▶️ YouGlish](https://youglish.com/pronounce/et%20cetera/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=et%20cetera&language=de)
 
 **Meaning:** and so on; etc.
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

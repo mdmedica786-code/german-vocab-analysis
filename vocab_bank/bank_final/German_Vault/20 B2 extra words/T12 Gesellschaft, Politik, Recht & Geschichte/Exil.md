@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3489"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Exil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Exil
+
+![[Exil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Exil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exil&language=de)
 
 **Meaning:** exile
 **Plural:** Exile

@@ -15,11 +15,16 @@ id: "B0860"
 netzwerk: "A1 K5 10b"
 freq_rank: 5759
 skip: false
+audio: "Saxofon.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Saxofon
+
+![[Saxofon.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Saxofon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saxofon&language=de)
 
 **Meaning:** saxophone
 **Plural:** Saxofone

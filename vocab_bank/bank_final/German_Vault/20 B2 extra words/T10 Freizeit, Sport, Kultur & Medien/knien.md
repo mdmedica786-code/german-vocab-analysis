@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1704"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "knien.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # knien
+
+![[knien.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/knien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knien&language=de)
 
 **Meaning:** to kneel
 **Forms:** kniet · kniete · hat/ist gekniet

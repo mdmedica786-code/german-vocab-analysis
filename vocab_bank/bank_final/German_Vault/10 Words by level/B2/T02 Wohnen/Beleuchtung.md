@@ -14,11 +14,16 @@ bank: "main"
 id: "B6171"
 freq_rank: 4739
 skip: false
+audio: "Beleuchtung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beleuchtung
+
+![[Beleuchtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beleuchtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beleuchtung&language=de)
 
 **Meaning:** lighting
 **Plural:** Beleuchtungen

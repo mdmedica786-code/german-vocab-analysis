@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7b"
 freq_rank: 2851
 skip: false
+audio: "minus.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # minus
+
+![[minus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/minus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=minus&language=de)
 
 **Meaning:** minus
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

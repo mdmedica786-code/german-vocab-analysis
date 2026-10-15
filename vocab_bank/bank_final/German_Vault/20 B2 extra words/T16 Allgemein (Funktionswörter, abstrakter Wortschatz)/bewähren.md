@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0242"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "bewähren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewähren
+
+![[bewähren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bew%C3%A4hren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bew%C3%A4hren&language=de)
 
 **Meaning:** to prove its worth
 **Forms:** bewährt sich · bewährte sich · hat sich bewährt

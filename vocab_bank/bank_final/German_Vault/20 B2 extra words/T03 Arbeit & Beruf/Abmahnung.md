@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0470"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Abmahnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abmahnung
+
+![[Abmahnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abmahnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abmahnung&language=de)
 
 **Meaning:** formal warning
 **Plural:** Abmahnungen

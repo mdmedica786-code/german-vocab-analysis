@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 12b"
 freq_rank: 5293
 skip: false
+audio: "Saison.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Saison
+
+![[Saison.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Saison/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saison&language=de)
 
 **Meaning:** season
 **Plural:** Saisons

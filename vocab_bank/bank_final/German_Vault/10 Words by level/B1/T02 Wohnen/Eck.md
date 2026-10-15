@@ -15,11 +15,16 @@ id: "B6223"
 goethe_level: "B1"
 freq_rank: 4956
 skip: false
+audio: "Eck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eck
+
+![[Eck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eck&language=de)
 
 **Meaning:** corner (S. German, Austrian)
 **Plural:** Ecke

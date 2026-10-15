@@ -15,11 +15,16 @@ id: "B6549"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Schweizerische Eidgenossenschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schweizerische Eidgenossenschaft
+
+![[Schweizerische Eidgenossenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schweizerische%20Eidgenossenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweizerische%20Eidgenossenschaft&language=de)
 
 **Meaning:** Swiss Confederation
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0542"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Kindergeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kindergeld
+
+![[Kindergeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kindergeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindergeld&language=de)
 
 **Meaning:** child benefit
 **Plural:** –

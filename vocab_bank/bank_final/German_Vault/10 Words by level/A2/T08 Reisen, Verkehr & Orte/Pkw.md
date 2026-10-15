@@ -15,11 +15,16 @@ id: "B2557"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 2000
 skip: false
+audio: "Pkw.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pkw
+
+![[Pkw.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pkw/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pkw&language=de)
 
 **Meaning:** motorcar
 **Plural:** Pkws

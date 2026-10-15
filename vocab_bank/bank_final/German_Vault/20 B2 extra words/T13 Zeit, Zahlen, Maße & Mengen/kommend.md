@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2557"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "kommend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # kommend
+
+![[kommend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kommend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommend&language=de)
 
 **Meaning:** coming; next
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

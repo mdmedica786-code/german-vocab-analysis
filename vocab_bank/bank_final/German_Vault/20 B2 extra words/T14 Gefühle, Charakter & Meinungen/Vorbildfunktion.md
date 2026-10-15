@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1527"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Vorbildfunktion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorbildfunktion
+
+![[Vorbildfunktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorbildfunktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorbildfunktion&language=de)
 
 **Meaning:** role-model function
 **Plural:** Vorbildfunktionen

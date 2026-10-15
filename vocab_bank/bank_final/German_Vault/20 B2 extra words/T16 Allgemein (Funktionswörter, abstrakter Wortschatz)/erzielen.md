@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0207"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erzielen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erzielen
+
+![[erzielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erzielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erzielen&language=de)
 
 **Meaning:** to achieve; to score
 **Forms:** erzielt · erzielte · hat erzielt

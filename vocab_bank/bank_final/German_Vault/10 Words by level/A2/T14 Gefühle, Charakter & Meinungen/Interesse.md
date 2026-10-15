@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 460
 skip: false
+audio: "Interesse.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Interesse
+
+![[Interesse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interesse&language=de)
 
 **Meaning:** interest
 **Plural:** Interessen

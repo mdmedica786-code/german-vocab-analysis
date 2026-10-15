@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hausfrau.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausfrau
+
+![[Hausfrau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausfrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausfrau&language=de)
 
 **Meaning:** housewife; homemaker (f)
 **Plural:** Hausfrauen

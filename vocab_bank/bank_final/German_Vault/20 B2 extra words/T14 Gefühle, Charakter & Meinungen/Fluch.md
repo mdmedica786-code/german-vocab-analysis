@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Fluch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fluch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fluch&language=de)
+
 **Meaning:** curse
 **Plural:** Flüche
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

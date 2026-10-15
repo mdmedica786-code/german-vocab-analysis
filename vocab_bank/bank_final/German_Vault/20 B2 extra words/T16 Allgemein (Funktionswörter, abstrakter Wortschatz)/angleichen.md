@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0842"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "angleichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # angleichen
+
+![[angleichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angleichen&language=de)
 
 **Meaning:** to align; to adjust
 **Forms:** gleicht an · glich an · hat angeglichen

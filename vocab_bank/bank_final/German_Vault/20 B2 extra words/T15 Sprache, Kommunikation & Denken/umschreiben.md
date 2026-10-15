@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4520"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "umschreiben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # umschreiben
+
+![[umschreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umschreiben&language=de)
 
 **Meaning:** to paraphrase; to describe in other words
 **Forms:** umschreibt · umschrieb · hat umschrieben

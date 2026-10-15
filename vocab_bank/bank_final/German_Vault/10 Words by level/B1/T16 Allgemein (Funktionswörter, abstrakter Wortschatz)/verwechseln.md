@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6c"
 freq_rank: 4785
 skip: false
+audio: "verwechseln.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwechseln
+
+![[verwechseln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verwechseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verwechseln&language=de)
 
 **Meaning:** to confuse
 **Forms:** verwechselt · verwechselte · hat verwechselt

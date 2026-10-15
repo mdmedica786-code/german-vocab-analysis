@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1833"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "spekulieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # spekulieren
+
+![[spekulieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spekulieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spekulieren&language=de)
 
 **Meaning:** to speculate
 **Forms:** spekuliert · spekulierte · hat spekuliert

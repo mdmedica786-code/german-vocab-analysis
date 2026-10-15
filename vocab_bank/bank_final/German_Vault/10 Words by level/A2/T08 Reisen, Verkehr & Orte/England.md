@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # England
 
+[▶️ YouGlish](https://youglish.com/pronounce/England/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=England&language=de)
+
 **Meaning:** England
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

@@ -12,11 +12,16 @@ bank: "main"
 id: "B5825"
 freq_rank: 3027
 skip: false
+audio: "aufzeigen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufzeigen
+
+![[aufzeigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufzeigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufzeigen&language=de)
 
 **Meaning:** to point out; to show
 **Forms:** zeigt auf · zeigte auf · hat aufgezeigt

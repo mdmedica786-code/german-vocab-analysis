@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1029"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Fahrverbot.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fahrverbot
+
+![[Fahrverbot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrverbot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrverbot&language=de)
 
 **Meaning:** driving ban
 **Plural:** Fahrverbote

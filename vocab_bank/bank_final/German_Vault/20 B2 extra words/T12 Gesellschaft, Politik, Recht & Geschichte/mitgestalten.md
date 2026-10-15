@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4237"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "mitgestalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # mitgestalten
+
+![[mitgestalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitgestalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitgestalten&language=de)
 
 **Meaning:** to help shape; to co-design
 **Forms:** gestaltet mit · gestaltete mit · hat mitgestaltet

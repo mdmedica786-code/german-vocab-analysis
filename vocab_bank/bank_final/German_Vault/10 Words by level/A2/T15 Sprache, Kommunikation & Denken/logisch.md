@@ -12,11 +12,16 @@ id: "B2169"
 netzwerk: "A2 K3 13b"
 freq_rank: 1979
 skip: false
+audio: "logisch.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # logisch
+
+![[logisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/logisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=logisch&language=de)
 
 **Meaning:** logical
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

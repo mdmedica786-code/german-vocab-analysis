@@ -15,11 +15,16 @@ id: "B0304"
 netzwerk: "A1 K2 6a"
 freq_rank: 5759
 skip: false
+audio: "Taxifahrerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taxifahrerin
+
+![[Taxifahrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taxifahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxifahrerin&language=de)
 
 **Meaning:** taxi driver (f)
 **Plural:** Taxifahrerinnen

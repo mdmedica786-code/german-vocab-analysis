@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4022"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Grundidee.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Grundidee
+
+![[Grundidee.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundidee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundidee&language=de)
 
 **Meaning:** basic idea
 **Plural:** Grundideen

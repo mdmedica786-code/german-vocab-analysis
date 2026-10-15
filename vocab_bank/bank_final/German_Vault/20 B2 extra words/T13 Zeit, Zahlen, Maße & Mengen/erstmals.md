@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2570"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "erstmals.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erstmals
+
+![[erstmals.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erstmals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erstmals&language=de)
 
 **Meaning:** for the first time
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

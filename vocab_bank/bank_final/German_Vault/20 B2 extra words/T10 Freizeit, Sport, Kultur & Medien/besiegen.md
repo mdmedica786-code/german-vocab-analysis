@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1232"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "besiegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # besiegen
+
+![[besiegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besiegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besiegen&language=de)
 
 **Meaning:** to defeat; to overcome
 **Forms:** besiegt · besiegte · hat besiegt

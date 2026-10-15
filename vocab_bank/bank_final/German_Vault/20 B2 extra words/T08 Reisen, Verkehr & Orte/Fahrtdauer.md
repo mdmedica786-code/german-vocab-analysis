@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3933"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fahrtdauer
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrtdauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrtdauer&language=de)
 
 **Meaning:** journey time; duration of the trip
 **Plural:** –

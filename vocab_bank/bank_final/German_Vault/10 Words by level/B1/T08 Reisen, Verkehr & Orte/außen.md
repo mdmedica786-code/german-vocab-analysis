@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # außen
 
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Fen&language=de)
+
 **Meaning:** outside
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

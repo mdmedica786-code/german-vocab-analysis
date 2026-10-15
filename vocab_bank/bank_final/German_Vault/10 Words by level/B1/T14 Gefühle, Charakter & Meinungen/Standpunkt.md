@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 10"
 freq_rank: 2935
 skip: false
+audio: "Standpunkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Standpunkt
+
+![[Standpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Standpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standpunkt&language=de)
 
 **Meaning:** point of view; standpoint
 **Plural:** Standpunkte

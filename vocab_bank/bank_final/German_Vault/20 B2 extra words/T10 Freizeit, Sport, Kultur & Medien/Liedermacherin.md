@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4194"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Liedermacherin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Liedermacherin
+
+![[Liedermacherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liedermacherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liedermacherin&language=de)
 
 **Meaning:** singer-songwriter (female)
 **Plural:** Liedermacherinnen

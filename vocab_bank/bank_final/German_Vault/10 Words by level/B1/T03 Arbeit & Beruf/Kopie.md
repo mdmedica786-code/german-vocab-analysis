@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 5c"
 freq_rank: 4416
 skip: false
+audio: "Kopie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kopie
+
+![[Kopie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kopie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopie&language=de)
 
 **Meaning:** copy
 **Plural:** Kopien

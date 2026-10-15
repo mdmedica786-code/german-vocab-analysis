@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 1c"
 freq_rank: 1062
 skip: false
+audio: "täglich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # täglich
+
+![[täglich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/t%C3%A4glich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=t%C3%A4glich&language=de)
 
 **Meaning:** daily
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

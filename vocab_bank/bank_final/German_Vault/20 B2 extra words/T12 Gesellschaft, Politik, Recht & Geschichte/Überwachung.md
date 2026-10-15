@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0632"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Überwachung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überwachung
+
+![[Überwachung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberwachung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberwachung&language=de)
 
 **Meaning:** surveillance; monitoring
 **Plural:** –

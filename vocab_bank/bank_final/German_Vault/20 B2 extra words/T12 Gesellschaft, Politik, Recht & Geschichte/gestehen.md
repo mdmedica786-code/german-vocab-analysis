@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1273"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gestehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gestehen
+
+![[gestehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gestehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestehen&language=de)
 
 **Meaning:** to confess; to admit
 **Forms:** gesteht · gestand · hat gestanden

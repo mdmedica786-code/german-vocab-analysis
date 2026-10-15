@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2554"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Offizier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Offizier
+
+![[Offizier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Offizier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Offizier&language=de)
 
 **Meaning:** officer
 **Plural:** Offiziere

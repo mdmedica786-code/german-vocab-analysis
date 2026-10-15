@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2871"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "allerlei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # allerlei
+
+![[allerlei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allerlei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allerlei&language=de)
 
 **Meaning:** all sorts of; various
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

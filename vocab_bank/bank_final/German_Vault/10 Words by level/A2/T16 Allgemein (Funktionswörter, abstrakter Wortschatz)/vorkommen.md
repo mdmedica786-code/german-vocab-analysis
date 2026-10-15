@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 3c"
 freq_rank: 1401
 skip: false
+audio: "vorkommen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorkommen
+
+![[vorkommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorkommen&language=de)
 
 **Meaning:** to happen
 **Forms:** kommt vor · kam vor · ist vorgekommen

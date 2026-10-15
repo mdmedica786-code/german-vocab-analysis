@@ -15,11 +15,16 @@ id: "B5034"
 netzwerk: "B1 K12 3c"
 freq_rank: 5759
 skip: false
+audio: "Kontoführungsgebühr.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kontoführungsgebühr
+
+![[Kontoführungsgebühr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontof%C3%BChrungsgeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontof%C3%BChrungsgeb%C3%BChr&language=de)
 
 **Meaning:** account maintenance charge
 **Plural:** Kontoführungsgebühren

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4096"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Kabarettistin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kabarettistin
+
+![[Kabarettistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kabarettistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarettistin&language=de)
 
 **Meaning:** cabaret artist (female); satirist
 **Plural:** Kabarettistinnen

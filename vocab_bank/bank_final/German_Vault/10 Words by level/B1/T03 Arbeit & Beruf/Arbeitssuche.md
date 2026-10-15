@@ -15,11 +15,16 @@ id: "B4754"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Arbeitssuche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitssuche
+
+![[Arbeitssuche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitssuche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitssuche&language=de)
 
 **Meaning:** job search
 **Plural:** –

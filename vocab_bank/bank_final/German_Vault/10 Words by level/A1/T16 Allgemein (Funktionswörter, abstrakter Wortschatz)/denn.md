@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 3a"
 freq_rank: 82
 skip: false
+audio: "denn.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # denn
+
+![[denn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/denn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=denn&language=de)
 
 **Meaning:** then (here: modal particle)
 **Other senses:** because

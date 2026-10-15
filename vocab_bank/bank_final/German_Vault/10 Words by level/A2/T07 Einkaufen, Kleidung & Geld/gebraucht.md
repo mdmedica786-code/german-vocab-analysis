@@ -12,11 +12,16 @@ id: "B2659"
 netzwerk: "A2 K8 1b"
 freq_rank: 1032
 skip: false
+audio: "gebraucht.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gebraucht
+
+![[gebraucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gebraucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gebraucht&language=de)
 
 **Meaning:** used
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

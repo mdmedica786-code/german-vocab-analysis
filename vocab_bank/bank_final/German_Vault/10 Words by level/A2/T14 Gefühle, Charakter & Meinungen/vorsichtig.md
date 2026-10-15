@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 8b"
 freq_rank: 1047
 skip: false
+audio: "vorsichtig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorsichtig
+
+![[vorsichtig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorsichtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorsichtig&language=de)
 
 **Meaning:** careful
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B3440"
 netzwerk: "B1 K2 6b"
 freq_rank: 5759
 skip: false
+audio: "hinsehen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinsehen
+
+![[hinsehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinsehen&language=de)
 
 **Meaning:** to look
 **Forms:** sieht hin · sah hin · hat hingesehen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 2a"
 freq_rank: 875
 skip: false
+audio: "Tätigkeit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tätigkeit
+
+![[Tätigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%A4tigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%A4tigkeit&language=de)
 
 **Meaning:** occupation
 **Plural:** Tätigkeiten

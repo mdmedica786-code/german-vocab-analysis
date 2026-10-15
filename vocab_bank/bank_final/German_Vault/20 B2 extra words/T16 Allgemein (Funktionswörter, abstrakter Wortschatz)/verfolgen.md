@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0208"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verfolgen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verfolgen
+
+![[verfolgen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verfolgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfolgen&language=de)
 
 **Meaning:** to pursue; to follow; to chase
 **Forms:** verfolgt · verfolgte · hat verfolgt

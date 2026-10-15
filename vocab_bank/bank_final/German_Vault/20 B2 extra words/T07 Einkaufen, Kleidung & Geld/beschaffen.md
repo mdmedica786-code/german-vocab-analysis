@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3248"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beschaffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschaffen
+
+![[beschaffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschaffen&language=de)
 
 **Meaning:** to obtain; to procure
 **Forms:** beschafft · beschaffte · hat beschafft

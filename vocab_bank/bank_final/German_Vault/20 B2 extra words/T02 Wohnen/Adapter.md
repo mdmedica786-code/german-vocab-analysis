@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0642"
 exam_use: ["Alltag"]
 skip: false
+audio: "Adapter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Adapter
+
+![[Adapter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Adapter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adapter&language=de)
 
 **Meaning:** adapter
 **Plural:** Adapter

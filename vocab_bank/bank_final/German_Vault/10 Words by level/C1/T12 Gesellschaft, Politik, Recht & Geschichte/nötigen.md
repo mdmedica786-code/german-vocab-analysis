@@ -12,11 +12,16 @@ bank: "main"
 id: "B5718"
 freq_rank: 2849
 skip: false
+audio: "nötigen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nötigen
+
+![[nötigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%B6tigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%B6tigen&language=de)
 
 **Meaning:** to compel; to urge
 **Forms:** nötigt · nötigte · hat genötigt

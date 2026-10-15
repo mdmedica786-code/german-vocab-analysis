@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sein&language=de)
+
 **Meaning:** to be
 **Other senses:** to be here: to happen; his
 **Forms:** ist · war · ist gewesen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1821"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "grenzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # grenzen
+
+![[grenzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/grenzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grenzen&language=de)
 
 **Meaning:** to border on
 **Forms:** grenzt · grenzte · hat gegrenzt

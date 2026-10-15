@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2631"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "quasi.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # quasi
+
+![[quasi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/quasi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=quasi&language=de)
 
 **Meaning:** virtually; so to speak
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

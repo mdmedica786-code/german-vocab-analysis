@@ -15,11 +15,16 @@ id: "B3245"
 netzwerk: "A2 K12 11b"
 freq_rank: 960
 skip: false
+audio: "Hintergrund.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hintergrund
+
+![[Hintergrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hintergrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hintergrund&language=de)
 
 **Meaning:** background
 **Plural:** Hintergründe

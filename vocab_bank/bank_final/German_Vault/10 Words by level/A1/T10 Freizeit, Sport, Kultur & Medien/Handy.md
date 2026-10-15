@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K1 9c"
 freq_rank: 1584
 skip: false
+audio: "Handy.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Handy
+
+![[Handy.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handy/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handy&language=de)
 
 **Meaning:** mobile phone
 **Plural:** Handys

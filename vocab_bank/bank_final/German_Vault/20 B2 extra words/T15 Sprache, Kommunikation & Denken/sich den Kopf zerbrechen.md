@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2068"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "sich den Kopf zerbrechen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # sich den Kopf zerbrechen
+
+![[sich den Kopf zerbrechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sich%20den%20Kopf%20zerbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20den%20Kopf%20zerbrechen&language=de)
 
 **Meaning:** to rack one's brains
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

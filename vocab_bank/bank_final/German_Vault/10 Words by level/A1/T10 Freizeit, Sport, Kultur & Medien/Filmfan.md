@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Filmfan
 
+[▶️ YouGlish](https://youglish.com/pronounce/Filmfan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmfan&language=de)
+
 **Meaning:** film fan
 **Plural:** Filmfans
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

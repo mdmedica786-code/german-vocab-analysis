@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1224"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "auswandern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auswandern
+
+![[auswandern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auswandern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswandern&language=de)
 
 **Meaning:** to emigrate
 **Forms:** wandert aus · wanderte aus · ist ausgewandert

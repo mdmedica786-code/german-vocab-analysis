@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7a"
 freq_rank: 75
 skip: false
+audio: "viel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # viel
+
+![[viel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/viel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=viel&language=de)
 
 **Meaning:** a lot; much
 **Forms:** mehr – am meisten

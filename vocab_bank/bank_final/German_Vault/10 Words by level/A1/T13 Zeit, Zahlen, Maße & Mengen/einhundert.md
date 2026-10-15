@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # einhundert
 
+[▶️ YouGlish](https://youglish.com/pronounce/einhundert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einhundert&language=de)
+
 **Meaning:** one hundred
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

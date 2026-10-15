@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2444"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Hinblick.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hinblick
+
+![[Hinblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hinblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hinblick&language=de)
 
 **Meaning:** view; regard (only in "im Hinblick auf")
 **Plural:** –

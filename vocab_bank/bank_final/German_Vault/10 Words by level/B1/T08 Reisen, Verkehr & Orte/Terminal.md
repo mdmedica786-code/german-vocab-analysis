@@ -15,11 +15,16 @@ id: "B6339"
 goethe_level: "B1"
 freq_rank: 5746
 skip: false
+audio: "Terminal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Terminal
+
+![[Terminal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Terminal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Terminal&language=de)
 
 **Meaning:** terminal
 **Plural:** Terminals

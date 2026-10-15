@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0369"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Konsens.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konsens
+
+![[Konsens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsens&language=de)
 
 **Meaning:** consensus
 **Plural:** Konsense

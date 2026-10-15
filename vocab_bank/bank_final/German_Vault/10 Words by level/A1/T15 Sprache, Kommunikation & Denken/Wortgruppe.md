@@ -15,11 +15,16 @@ id: "B0744"
 netzwerk: "A1 K4 10c"
 freq_rank: 5759
 skip: false
+audio: "Wortgruppe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wortgruppe
+
+![[Wortgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortgruppe&language=de)
 
 **Meaning:** word group
 **Plural:** Wortgruppen

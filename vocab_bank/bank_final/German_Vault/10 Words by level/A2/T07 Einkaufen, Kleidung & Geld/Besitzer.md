@@ -15,11 +15,16 @@ id: "B3012"
 netzwerk: "A2 K10 12a"
 freq_rank: 2932
 skip: false
+audio: "Besitzer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Besitzer
+
+![[Besitzer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besitzer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besitzer&language=de)
 
 **Meaning:** owner (m)
 **Plural:** Besitzer

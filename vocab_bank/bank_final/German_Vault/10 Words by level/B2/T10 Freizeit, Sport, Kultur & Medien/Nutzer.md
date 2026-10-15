@@ -14,11 +14,16 @@ bank: "main"
 id: "B5830"
 freq_rank: 3055
 skip: false
+audio: "Nutzer.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nutzer
+
+![[Nutzer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nutzer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nutzer&language=de)
 
 **Meaning:** user
 **Plural:** Nutzer

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 123
 skip: false
+audio: "dabei.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dabei
+
+![[dabei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dabei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dabei&language=de)
 
 **Meaning:** there; with it; at the same time
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B4944"
 netzwerk: "B1 K11 8b"
 freq_rank: 5759
 skip: false
+audio: "Gesundheitssystem.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gesundheitssystem
+
+![[Gesundheitssystem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesundheitssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitssystem&language=de)
 
 **Meaning:** healthcare system
 **Plural:** Gesundheitssysteme

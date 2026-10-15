@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 5512
 skip: false
+audio: "optimistisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # optimistisch
+
+![[optimistisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/optimistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optimistisch&language=de)
 
 **Meaning:** optimistic
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

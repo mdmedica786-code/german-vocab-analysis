@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3508"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Urheber.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Urheber
+
+![[Urheber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urheber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urheber&language=de)
 
 **Meaning:** originator; author; creator
 **Plural:** Urheber

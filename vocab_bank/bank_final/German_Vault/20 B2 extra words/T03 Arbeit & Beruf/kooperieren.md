@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1825"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "kooperieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # kooperieren
+
+![[kooperieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kooperieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kooperieren&language=de)
 
 **Meaning:** to cooperate
 **Forms:** kooperiert · kooperierte · hat kooperiert

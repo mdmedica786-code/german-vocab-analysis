@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 5a"
 freq_rank: 1657
 skip: false
+audio: "erstellen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erstellen
+
+![[erstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erstellen&language=de)
 
 **Meaning:** to create
 **Forms:** erstellt · erstellte · hat erstellt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2888"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Matrix.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Matrix
+
+![[Matrix.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Matrix/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Matrix&language=de)
 
 **Meaning:** matrix
 **Plural:** Matrizen

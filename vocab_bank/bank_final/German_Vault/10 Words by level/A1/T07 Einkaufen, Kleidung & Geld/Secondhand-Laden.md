@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Secondhand-Laden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Secondhand-Laden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Secondhand-Laden&language=de)
+
 **Meaning:** secondhand shop
 **Plural:** Secondhand-Läden
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

@@ -12,11 +12,16 @@ id: "B4537"
 netzwerk: "B1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "familienfreundlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # familienfreundlich
+
+![[familienfreundlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/familienfreundlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=familienfreundlich&language=de)
 
 **Meaning:** family friendly
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

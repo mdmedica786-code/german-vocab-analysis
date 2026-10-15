@@ -13,11 +13,16 @@ id: "B2695"
 netzwerk: "A2 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "weiterarbeiten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiterarbeiten
+
+![[weiterarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterarbeiten&language=de)
 
 **Meaning:** to continue working
 **Forms:** arbeitet weiter · arbeitete weiter · hat weitergearbeitet

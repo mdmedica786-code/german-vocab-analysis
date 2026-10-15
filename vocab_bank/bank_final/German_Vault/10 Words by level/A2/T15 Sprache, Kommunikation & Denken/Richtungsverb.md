@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Richtungsverb
 
+[▶️ YouGlish](https://youglish.com/pronounce/Richtungsverb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richtungsverb&language=de)
+
 **Meaning:** verb of direction
 **Plural:** Richtungsverben
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3008"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "kriechen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # kriechen
+
+![[kriechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kriechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kriechen&language=de)
 
 **Meaning:** to crawl; to creep
 **Forms:** kriecht · kroch · ist gekrochen

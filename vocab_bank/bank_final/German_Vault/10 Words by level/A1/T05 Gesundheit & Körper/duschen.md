@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 1a"
 freq_rank: 5047
 skip: false
+audio: "duschen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # duschen
+
+![[duschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/duschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=duschen&language=de)
 
 **Meaning:** to shower
 **Forms:** duscht · duschte · hat geduscht

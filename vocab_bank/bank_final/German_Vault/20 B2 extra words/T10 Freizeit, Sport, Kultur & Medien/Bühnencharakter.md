@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3826"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Bühnencharakter
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BChnencharakter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BChnencharakter&language=de)
 
 **Meaning:** stage character; stage persona
 **Plural:** Bühnencharaktere

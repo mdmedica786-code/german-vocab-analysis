@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2823"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Dichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dichtung
+
+![[Dichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dichtung&language=de)
 
 **Meaning:** poetry; seal
 **Plural:** Dichtungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3808"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Betreiberin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Betreiberin
+
+![[Betreiberin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betreiberin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreiberin&language=de)
 
 **Meaning:** operator (female); owner (of a business)
 **Plural:** Betreiberinnen

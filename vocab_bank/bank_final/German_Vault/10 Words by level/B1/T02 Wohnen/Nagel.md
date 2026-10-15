@@ -15,11 +15,16 @@ id: "B6203"
 goethe_level: "B1"
 freq_rank: 4863
 skip: false
+audio: "Nagel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nagel
+
+![[Nagel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nagel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nagel&language=de)
 
 **Meaning:** nail
 **Plural:** Nägel

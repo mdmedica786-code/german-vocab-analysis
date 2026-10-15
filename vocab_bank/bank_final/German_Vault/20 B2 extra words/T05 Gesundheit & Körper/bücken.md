@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3452"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "bücken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bücken
+
+![[bücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCcken&language=de)
 
 **Meaning:** to bend down; to stoop
 **Forms:** bückt sich · bückte sich · hat sich gebückt

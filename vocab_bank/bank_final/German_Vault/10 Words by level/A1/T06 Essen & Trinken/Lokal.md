@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 14a"
 freq_rank: 2216
 skip: false
+audio: "lokal.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lokal
+
+![[lokal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lokal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lokal&language=de)
 
 **Meaning:** restaurant
 **Plural:** Lokale

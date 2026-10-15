@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Fotozubehör
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fotozubeh%C3%B6r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotozubeh%C3%B6r&language=de)
+
 **Meaning:** photographic accessories
 **Plural:** –
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

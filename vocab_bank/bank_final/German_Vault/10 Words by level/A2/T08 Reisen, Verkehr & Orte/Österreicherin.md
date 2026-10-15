@@ -15,11 +15,16 @@ id: "B6623"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Österreicherin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Österreicherin
+
+![[Österreicherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96sterreicherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96sterreicherin&language=de)
 
 **Meaning:** Austrian (f)
 **Plural:** Österreicherinnen

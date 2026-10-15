@@ -15,11 +15,16 @@ id: "B4168"
 netzwerk: "B1 K6 9b"
 freq_rank: 4167
 skip: false
+audio: "Melodie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Melodie
+
+![[Melodie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Melodie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Melodie&language=de)
 
 **Meaning:** melody
 **Plural:** Melodien

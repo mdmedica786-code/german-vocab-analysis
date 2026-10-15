@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 1108
 skip: false
+audio: "passen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # passen
+
+![[passen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/passen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=passen&language=de)
 
 **Meaning:** to fit; to match; to suit
 **Forms:** passt · passte · hat gepasst

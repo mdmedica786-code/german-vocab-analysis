@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 4652
 skip: false
+audio: "achtzehn.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # achtzehn
+
+![[achtzehn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/achtzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=achtzehn&language=de)
 
 **Meaning:** eighteen
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

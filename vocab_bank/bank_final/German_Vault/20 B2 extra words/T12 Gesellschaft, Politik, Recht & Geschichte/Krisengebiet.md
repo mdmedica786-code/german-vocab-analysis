@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4152"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Krisengebiet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Krisengebiet
+
+![[Krisengebiet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krisengebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krisengebiet&language=de)
 
 **Meaning:** crisis area; conflict zone
 **Plural:** Krisengebiete

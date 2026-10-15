@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1724"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "seufzen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # seufzen
+
+![[seufzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seufzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seufzen&language=de)
 
 **Meaning:** to sigh
 **Forms:** seufzt · seufzte · hat geseufzt

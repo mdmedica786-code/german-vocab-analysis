@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3401"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Aufrechterhaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufrechterhaltung
+
+![[Aufrechterhaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufrechterhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufrechterhaltung&language=de)
 
 **Meaning:** maintenance; upholding
 **Plural:** –

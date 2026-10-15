@@ -15,11 +15,16 @@ id: "B2677"
 netzwerk: "A2 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "Fahrstunde.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fahrstunde
+
+![[Fahrstunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrstunde&language=de)
 
 **Meaning:** driving lesson
 **Plural:** Fahrstunden

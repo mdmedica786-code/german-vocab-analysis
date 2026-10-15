@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 4014
 skip: false
+audio: "Rente.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rente
+
+![[Rente.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rente/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rente&language=de)
 
 **Meaning:** pension; retirement
 **Plural:** Renten

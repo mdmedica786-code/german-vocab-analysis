@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 5759
 skip: false
+audio: "abfahren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abfahren
+
+![[abfahren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abfahren&language=de)
 
 **Meaning:** to depart
 **Forms:** fährt ab · fuhr ab · ist abgefahren

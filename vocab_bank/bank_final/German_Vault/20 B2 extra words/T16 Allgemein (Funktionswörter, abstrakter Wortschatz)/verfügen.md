@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1798"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verfügen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verfügen
+
+![[verfügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verf%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verf%C3%BCgen&language=de)
 
 **Meaning:** to have at one's disposal; to order
 **Forms:** verfügt · verfügte · hat verfügt

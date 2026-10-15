@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2436"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "unbekannt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # unbekannt
+
+![[unbekannt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unbekannt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unbekannt&language=de)
 
 **Meaning:** unknown
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

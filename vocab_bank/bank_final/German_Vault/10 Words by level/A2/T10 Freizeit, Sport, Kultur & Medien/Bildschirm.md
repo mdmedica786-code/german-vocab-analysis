@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 1a ÜB"
 freq_rank: 3085
 skip: false
+audio: "Bildschirm.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bildschirm
+
+![[Bildschirm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildschirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildschirm&language=de)
 
 **Meaning:** screen
 **Plural:** Bildschirme

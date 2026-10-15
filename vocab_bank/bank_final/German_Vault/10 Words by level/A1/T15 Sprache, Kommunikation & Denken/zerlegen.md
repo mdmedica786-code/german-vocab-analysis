@@ -13,11 +13,16 @@ id: "B1337"
 netzwerk: "A1 K8 13b"
 freq_rank: 5759
 skip: false
+audio: "zerlegen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zerlegen
+
+![[zerlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zerlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerlegen&language=de)
 
 **Meaning:** to disassemble
 **Forms:** zerlegt · zerlegte · hat zerlegt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1755"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Dienstreise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dienstreise
+
+![[Dienstreise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dienstreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dienstreise&language=de)
 
 **Meaning:** business trip
 **Plural:** Dienstreisen

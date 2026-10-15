@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Ihr
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ihr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ihr&language=de)
+
 **Meaning:** your (formal)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

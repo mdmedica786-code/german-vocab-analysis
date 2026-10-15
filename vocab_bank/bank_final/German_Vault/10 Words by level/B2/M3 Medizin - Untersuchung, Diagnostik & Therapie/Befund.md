@@ -14,11 +14,16 @@ bank: "main"
 id: "B5429"
 freq_rank: 1936
 skip: false
+audio: "Befund.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Befund
+
+![[Befund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Befund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befund&language=de)
 
 **Meaning:** finding; result
 **Plural:** Befunde

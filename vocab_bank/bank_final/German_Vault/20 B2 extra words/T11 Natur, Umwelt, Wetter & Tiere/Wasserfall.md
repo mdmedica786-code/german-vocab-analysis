@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2009"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wasserfall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wasserfall
+
+![[Wasserfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wasserfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserfall&language=de)
 
 **Meaning:** waterfall
 **Plural:** Wasserfälle

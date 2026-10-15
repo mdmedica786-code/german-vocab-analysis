@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 12b ÜB"
 freq_rank: 842
 skip: false
+audio: "springen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # springen
+
+![[springen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/springen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=springen&language=de)
 
 **Meaning:** to jump
 **Forms:** springt · sprang · ist gesprungen

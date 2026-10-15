@@ -12,11 +12,16 @@ id: "B3821"
 netzwerk: "B1 K4 10c"
 freq_rank: 2934
 skip: false
+audio: "qualifiziert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # qualifiziert
+
+![[qualifiziert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/qualifiziert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=qualifiziert&language=de)
 
 **Meaning:** qualified
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3130"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Regime.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Regime
+
+![[Regime.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regime/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regime&language=de)
 
 **Meaning:** regime
 **Plural:** Regime

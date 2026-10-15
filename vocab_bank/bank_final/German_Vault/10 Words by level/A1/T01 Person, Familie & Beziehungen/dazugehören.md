@@ -13,11 +13,16 @@ id: "B1328"
 netzwerk: "A1 K8 13b"
 freq_rank: 5759
 skip: false
+audio: "dazugehören.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dazugehören
+
+![[dazugehören.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dazugeh%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazugeh%C3%B6ren&language=de)
 
 **Meaning:** to belong to it; to be part of it
 **Forms:** gehört dazu · gehörte dazu · hat dazugehört

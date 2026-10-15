@@ -15,11 +15,16 @@ id: "B4573"
 netzwerk: "B1 K9 3a"
 freq_rank: 5759
 skip: false
+audio: "Putzmann.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Putzmann
+
+![[Putzmann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Putzmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Putzmann&language=de)
 
 **Meaning:** cleaner (m)
 **Plural:** Putzmänner

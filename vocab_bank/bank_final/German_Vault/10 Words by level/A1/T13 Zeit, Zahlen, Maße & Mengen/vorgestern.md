@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 4b"
 freq_rank: 5759
 skip: false
+audio: "vorgestern.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorgestern
+
+![[vorgestern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorgestern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorgestern&language=de)
 
 **Meaning:** day before yesterday
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

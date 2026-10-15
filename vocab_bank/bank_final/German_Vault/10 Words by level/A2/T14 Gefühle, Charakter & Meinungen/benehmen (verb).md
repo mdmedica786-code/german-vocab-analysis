@@ -13,11 +13,16 @@ id: "B2855"
 netzwerk: "A2 K9 5a"
 freq_rank: 2683
 skip: false
+audio: "benehmen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # benehmen
+
+![[benehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/benehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=benehmen&language=de)
 
 **Meaning:** to behave
 **Forms:** benimmt · benahm · hat benommen

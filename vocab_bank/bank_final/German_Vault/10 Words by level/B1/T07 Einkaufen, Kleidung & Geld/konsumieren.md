@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 1b"
 freq_rank: 5759
 skip: false
+audio: "konsumieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # konsumieren
+
+![[konsumieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konsumieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konsumieren&language=de)
 
 **Meaning:** to consume
 **Forms:** konsumiert · konsumierte · hat konsumiert

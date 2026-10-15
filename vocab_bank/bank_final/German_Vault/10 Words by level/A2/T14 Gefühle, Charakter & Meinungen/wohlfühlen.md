@@ -13,11 +13,16 @@ id: "B2270"
 netzwerk: "A2 K4 11a"
 freq_rank: 5759
 skip: false
+audio: "wohlfühlen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wohlfühlen
+
+![[wohlfühlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wohlf%C3%BChlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wohlf%C3%BChlen&language=de)
 
 **Meaning:** to feel comfortable
 **Forms:** fühlt wohl · fühlte wohl · hat wohlgefühlt

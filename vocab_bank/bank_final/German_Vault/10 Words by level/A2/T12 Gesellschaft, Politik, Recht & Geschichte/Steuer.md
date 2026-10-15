@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 3075
 skip: false
+audio: "Steuer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Steuer
+
+![[Steuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuer&language=de)
 
 **Meaning:** tax
 **Plural:** Steuern

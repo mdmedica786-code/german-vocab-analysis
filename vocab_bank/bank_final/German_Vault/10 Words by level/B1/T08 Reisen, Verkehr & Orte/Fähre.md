@@ -15,11 +15,16 @@ id: "B6311"
 goethe_level: "B1"
 freq_rank: 5515
 skip: false
+audio: "Fähre.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fähre
+
+![[Fähre.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%A4hre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%A4hre&language=de)
 
 **Meaning:** ferry
 **Plural:** Fähren

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 5759
 skip: false
+audio: "heizen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # heizen
+
+![[heizen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heizen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heizen&language=de)
 
 **Meaning:** to heat
 **Forms:** heizt · heizte · hat geheizt

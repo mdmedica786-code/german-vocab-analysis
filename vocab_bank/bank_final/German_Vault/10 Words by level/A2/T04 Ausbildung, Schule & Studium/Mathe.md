@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Mathe
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mathe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mathe&language=de)
+
 **Meaning:** math
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0559"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Embargo.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Embargo
+
+![[Embargo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Embargo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Embargo&language=de)
 
 **Meaning:** embargo
 **Plural:** Embargos

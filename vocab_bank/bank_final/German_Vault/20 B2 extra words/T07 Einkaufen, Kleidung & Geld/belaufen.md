@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1807"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "belaufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # belaufen
+
+![[belaufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/belaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=belaufen&language=de)
 
 **Meaning:** to amount to
 **Forms:** beläuft sich · belief sich · hat sich belaufen

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 11b"
 freq_rank: 1824
 skip: false
+audio: "Wolke.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wolke
+
+![[Wolke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wolke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wolke&language=de)
 
 **Meaning:** cloud
 **Plural:** Wolken

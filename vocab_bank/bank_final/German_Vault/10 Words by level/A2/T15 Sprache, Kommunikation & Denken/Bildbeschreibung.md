@@ -15,11 +15,16 @@ id: "B3236"
 netzwerk: "A2 K12 11a"
 freq_rank: 5759
 skip: false
+audio: "Bildbeschreibung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bildbeschreibung
+
+![[Bildbeschreibung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildbeschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildbeschreibung&language=de)
 
 **Meaning:** description of a picture
 **Plural:** Bildbeschreibungen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 1c"
 freq_rank: 2147
 skip: false
+audio: "Medizin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Medizin
+
+![[Medizin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medizin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizin&language=de)
 
 **Meaning:** medicine (drug); medicine (subject)
 **Plural:** –

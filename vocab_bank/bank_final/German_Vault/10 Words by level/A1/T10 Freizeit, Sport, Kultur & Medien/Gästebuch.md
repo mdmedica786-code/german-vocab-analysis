@@ -15,11 +15,16 @@ id: "B0846"
 netzwerk: "A1 K5 10a"
 freq_rank: 5759
 skip: false
+audio: "Gästebuch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gästebuch
+
+![[Gästebuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4stebuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4stebuch&language=de)
 
 **Meaning:** guestbook
 **Plural:** Gästebücher

@@ -15,11 +15,16 @@ id: "B4071"
 netzwerk: "B1 K5 13e"
 freq_rank: 5759
 skip: false
+audio: "Finalsatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Finalsatz
+
+![[Finalsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Finalsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finalsatz&language=de)
 
 **Meaning:** purpose clause
 **Plural:** Finalsätze

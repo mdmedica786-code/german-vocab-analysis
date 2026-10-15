@@ -13,11 +13,16 @@ id: "B5848"
 goethe_level: "B1"
 freq_rank: 3136
 skip: false
+audio: "verbrennen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbrennen
+
+![[verbrennen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbrennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbrennen&language=de)
 
 **Meaning:** to burn
 **Forms:** verbrennt · verbrannte · hat verbrannt

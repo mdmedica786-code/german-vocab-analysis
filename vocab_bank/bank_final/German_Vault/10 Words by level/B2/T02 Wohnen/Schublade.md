@@ -14,11 +14,16 @@ bank: "main"
 id: "B6195"
 freq_rank: 4834
 skip: false
+audio: "Schublade.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schublade
+
+![[Schublade.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schublade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schublade&language=de)
 
 **Meaning:** drawer
 **Plural:** Schubladen

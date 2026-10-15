@@ -14,11 +14,16 @@ bank: "main"
 id: "B5754"
 freq_rank: 2947
 skip: false
+audio: "Rauch.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rauch
+
+![[Rauch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rauch&language=de)
 
 **Meaning:** smoke
 **Plural:** –

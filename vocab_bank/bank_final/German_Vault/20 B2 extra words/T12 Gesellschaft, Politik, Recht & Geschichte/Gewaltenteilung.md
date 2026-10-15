@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0564"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gewaltenteilung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gewaltenteilung
+
+![[Gewaltenteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewaltenteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewaltenteilung&language=de)
 
 **Meaning:** separation of powers
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5536"
 freq_rank: 2235
 skip: false
+audio: "Schwanz.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schwanz
+
+![[Schwanz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwanz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwanz&language=de)
 
 **Meaning:** tail
 **Plural:** Schwänze

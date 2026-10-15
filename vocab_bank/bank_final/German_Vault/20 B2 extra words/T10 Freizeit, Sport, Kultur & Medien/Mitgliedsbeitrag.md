@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1411"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Mitgliedsbeitrag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mitgliedsbeitrag
+
+![[Mitgliedsbeitrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitgliedsbeitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitgliedsbeitrag&language=de)
 
 **Meaning:** membership fee
 **Plural:** Mitgliedsbeiträge

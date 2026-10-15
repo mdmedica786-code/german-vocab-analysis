@@ -15,11 +15,16 @@ id: "B4970"
 netzwerk: "B1 K11 10"
 freq_rank: 2218
 skip: false
+audio: "Umbau.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umbau
+
+![[Umbau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umbau&language=de)
 
 **Meaning:** conversion; renovation
 **Plural:** Umbauten

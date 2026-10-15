@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1841"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verhandeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verhandeln
+
+![[verhandeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verhandeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhandeln&language=de)
 
 **Meaning:** to negotiate; to hear (a case)
 **Forms:** verhandelt · verhandelte · hat verhandelt

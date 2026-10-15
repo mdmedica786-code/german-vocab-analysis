@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4273"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Niederschrift.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Niederschrift
+
+![[Niederschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Niederschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederschrift&language=de)
 
 **Meaning:** written record; minutes; transcript
 **Plural:** Niederschriften

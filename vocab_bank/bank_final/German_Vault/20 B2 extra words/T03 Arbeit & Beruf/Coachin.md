@@ -15,11 +15,13 @@ id: "D3841"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
 check: "spelling?"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Coachin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Coachin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coachin&language=de)
 
 **Meaning:** coach (female)
 **Plural:** Coachinnen

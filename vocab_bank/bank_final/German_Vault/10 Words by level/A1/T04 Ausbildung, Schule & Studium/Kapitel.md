@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 6c"
 freq_rank: 336
 skip: false
+audio: "Kapitel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kapitel
+
+![[Kapitel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kapitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kapitel&language=de)
 
 **Meaning:** chapter
 **Plural:** Kapitel

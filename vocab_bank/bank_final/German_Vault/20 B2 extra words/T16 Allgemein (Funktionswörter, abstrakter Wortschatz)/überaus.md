@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2777"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "überaus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # überaus
+
+![[überaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberaus&language=de)
 
 **Meaning:** extremely; exceedingly
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

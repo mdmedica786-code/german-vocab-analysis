@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1677"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "vorlaut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorlaut
+
+![[vorlaut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorlaut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorlaut&language=de)
 
 **Meaning:** cheeky; forward
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

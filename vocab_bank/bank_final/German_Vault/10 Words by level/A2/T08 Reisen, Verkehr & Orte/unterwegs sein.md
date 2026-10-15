@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # unterwegs sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/unterwegs%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterwegs%20sein&language=de)
+
 **Meaning:** to be on the way; to be out and about
 **Forms:** ist unterwegs · war unterwegs · ist unterwegs gewesen
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

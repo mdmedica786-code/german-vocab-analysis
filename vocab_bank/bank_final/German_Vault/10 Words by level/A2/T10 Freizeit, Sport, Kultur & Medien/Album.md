@@ -15,11 +15,16 @@ id: "B2408"
 netzwerk: "A2 K6 5a"
 freq_rank: 2000
 skip: false
+audio: "Album.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Album
+
+![[Album.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Album/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Album&language=de)
 
 **Meaning:** album
 **Plural:** Alben

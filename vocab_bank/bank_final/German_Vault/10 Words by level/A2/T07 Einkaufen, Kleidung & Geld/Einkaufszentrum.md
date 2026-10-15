@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 5754
 skip: false
+audio: "Einkaufszentrum.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Einkaufszentrum
+
+![[Einkaufszentrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einkaufszentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkaufszentrum&language=de)
 
 **Meaning:** shopping centre
 **Plural:** Einkaufszentren

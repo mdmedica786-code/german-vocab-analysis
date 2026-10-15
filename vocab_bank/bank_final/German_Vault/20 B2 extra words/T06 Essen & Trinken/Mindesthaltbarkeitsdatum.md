@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1381"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Mindesthaltbarkeitsdatum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mindesthaltbarkeitsdatum
+
+![[Mindesthaltbarkeitsdatum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mindesthaltbarkeitsdatum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mindesthaltbarkeitsdatum&language=de)
 
 **Meaning:** best-before date
 **Plural:** Mindesthaltbarkeitsdaten

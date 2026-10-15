@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4035"
 exam_use: ["Hören", "Sprechen"]
 skip: false
-status: "new"
+audio: "heraushören.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Hören", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # heraushören
+
+![[heraushören.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heraush%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heraush%C3%B6ren&language=de)
 
 **Meaning:** to detect (by listening); to hear (in a voice)
 **Forms:** hört heraus · hörte heraus · hat herausgehört

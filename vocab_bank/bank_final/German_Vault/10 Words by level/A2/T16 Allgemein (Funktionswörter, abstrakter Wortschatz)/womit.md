@@ -12,11 +12,16 @@ id: "B3057"
 netzwerk: "A2 K11 2c"
 freq_rank: 2098
 skip: false
+audio: "womit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # womit
+
+![[womit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/womit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=womit&language=de)
 
 **Meaning:** with what
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

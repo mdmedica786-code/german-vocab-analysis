@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1331"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "beiläufig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beiläufig
+
+![[beiläufig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beil%C3%A4ufig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beil%C3%A4ufig&language=de)
 
 **Meaning:** casual; in passing
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

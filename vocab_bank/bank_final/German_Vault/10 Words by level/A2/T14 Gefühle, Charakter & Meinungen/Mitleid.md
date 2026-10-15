@@ -15,11 +15,16 @@ id: "B3079"
 netzwerk: "A2 K11 9a"
 freq_rank: 3105
 skip: false
+audio: "Mitleid.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mitleid
+
+![[Mitleid.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitleid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitleid&language=de)
 
 **Meaning:** pity, compassion
 **Plural:** –

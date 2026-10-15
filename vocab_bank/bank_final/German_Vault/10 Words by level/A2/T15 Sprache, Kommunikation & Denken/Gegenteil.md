@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 12a ÜB"
 freq_rank: 1435
 skip: false
+audio: "Gegenteil.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gegenteil
+
+![[Gegenteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegenteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenteil&language=de)
 
 **Meaning:** opposite
 **Plural:** Gegenteile

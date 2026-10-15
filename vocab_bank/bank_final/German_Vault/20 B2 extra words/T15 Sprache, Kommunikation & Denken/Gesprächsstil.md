@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4004"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Gesprächsstil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gesprächsstil
+
+![[Gesprächsstil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gespr%C3%A4chsstil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gespr%C3%A4chsstil&language=de)
 
 **Meaning:** conversational style
 **Plural:** Gesprächsstile

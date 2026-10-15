@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3553"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Implikation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Implikation
+
+![[Implikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Implikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Implikation&language=de)
 
 **Meaning:** implication
 **Plural:** Implikationen

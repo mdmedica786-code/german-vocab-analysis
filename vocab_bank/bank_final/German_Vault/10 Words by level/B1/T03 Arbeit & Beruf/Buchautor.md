@@ -15,11 +15,16 @@ id: "B3562"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Buchautor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Buchautor
+
+![[Buchautor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchautor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchautor&language=de)
 
 **Meaning:** author (m)
 **Plural:** Buchautoren

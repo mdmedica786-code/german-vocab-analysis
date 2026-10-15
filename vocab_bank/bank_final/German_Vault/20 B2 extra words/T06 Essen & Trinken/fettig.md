@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2299"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "fettig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # fettig
+
+![[fettig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fettig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fettig&language=de)
 
 **Meaning:** greasy; oily
 **Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

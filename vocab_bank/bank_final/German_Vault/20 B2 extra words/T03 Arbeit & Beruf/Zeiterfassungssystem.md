@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4660"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Zeiterfassungssystem
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeiterfassungssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeiterfassungssystem&language=de)
 
 **Meaning:** time-recording system; time clock
 **Plural:** Zeiterfassungssysteme

@@ -12,11 +12,16 @@ id: "B0480"
 netzwerk: "A1 K3 2a"
 freq_rank: 4694
 skip: false
+audio: "moin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/interjection"]
 status: "new"
 ---
 <!-- bank:start -->
 # moin
+
+![[moin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/moin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=moin&language=de)
 
 **Meaning:** hello; good morning (northern Germany)
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** regional

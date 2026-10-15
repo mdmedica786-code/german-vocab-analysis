@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3194"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verfassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verfassen
+
+![[verfassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verfassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfassen&language=de)
 
 **Meaning:** to write; to compose; to draft
 **Forms:** verfasst · verfasste · hat verfasst

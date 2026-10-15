@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 6b ÜB"
 freq_rank: 1082
 skip: false
+audio: "Nase.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nase
+
+![[Nase.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nase&language=de)
 
 **Meaning:** nose
 **Plural:** Nasen

@@ -13,11 +13,16 @@ id: "B3910"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5287
 skip: false
+audio: "erforschen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erforschen
+
+![[erforschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erforschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erforschen&language=de)
 
 **Meaning:** to research; to explore
 **Forms:** erforscht · erforschte · hat erforscht

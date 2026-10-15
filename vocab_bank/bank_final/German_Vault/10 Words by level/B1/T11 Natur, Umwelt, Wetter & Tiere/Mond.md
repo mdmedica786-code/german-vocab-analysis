@@ -15,11 +15,16 @@ id: "B5566"
 goethe_level: "B1"
 freq_rank: 2365
 skip: false
+audio: "Mond.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mond
+
+![[Mond.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mond/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mond&language=de)
 
 **Meaning:** moon
 **Plural:** Monde

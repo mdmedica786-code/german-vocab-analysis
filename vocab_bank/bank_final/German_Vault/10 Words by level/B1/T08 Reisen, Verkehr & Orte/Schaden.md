@@ -15,11 +15,16 @@ id: "B5888"
 goethe_level: "B1"
 freq_rank: 3323
 skip: false
+audio: "schaden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schaden
+
+![[schaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaden&language=de)
 
 **Meaning:** damage
 **Plural:** Schäden

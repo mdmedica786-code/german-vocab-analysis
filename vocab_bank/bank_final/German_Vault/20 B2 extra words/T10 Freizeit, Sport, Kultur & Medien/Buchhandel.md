@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3824"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Buchhandel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Buchhandel
+
+![[Buchhandel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchhandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchhandel&language=de)
 
 **Meaning:** book trade; bookselling
 **Plural:** –

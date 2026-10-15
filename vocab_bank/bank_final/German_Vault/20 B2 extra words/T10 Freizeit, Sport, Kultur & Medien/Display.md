@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3377"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Display.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Display
+
+![[Display.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Display/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Display&language=de)
 
 **Meaning:** display; screen
 **Plural:** Displays

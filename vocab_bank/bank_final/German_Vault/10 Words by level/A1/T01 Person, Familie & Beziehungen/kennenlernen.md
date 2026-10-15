@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 7a"
 freq_rank: 1604
 skip: false
+audio: "kennenlernen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kennenlernen
+
+![[kennenlernen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kennenlernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kennenlernen&language=de)
 
 **Meaning:** to get to know
 **Forms:** lernt kennen · lernte kennen · hat kennengelernt

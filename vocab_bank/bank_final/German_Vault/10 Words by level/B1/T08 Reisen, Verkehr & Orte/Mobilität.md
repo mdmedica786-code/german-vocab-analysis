@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 4445
 skip: false
+audio: "Mobilität.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mobilität
+
+![[Mobilität.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mobilit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mobilit%C3%A4t&language=de)
 
 **Meaning:** mobility
 **Plural:** –

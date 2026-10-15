@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Streit geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Streit%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Streit%20geraten&language=de)
+
 **Meaning:** to get into an argument
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

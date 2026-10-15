@@ -15,11 +15,16 @@ id: "B2165"
 netzwerk: "A2 K3 13a"
 freq_rank: 5759
 skip: false
+audio: "Kinobesuch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kinobesuch
+
+![[Kinobesuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinobesuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinobesuch&language=de)
 
 **Meaning:** visit to the cinema
 **Plural:** Kinobesuche

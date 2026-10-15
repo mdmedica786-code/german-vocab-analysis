@@ -15,11 +15,16 @@ id: "B4502"
 netzwerk: "B1 K8 6c"
 freq_rank: 3471
 skip: false
+audio: "Heilung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heilung
+
+![[Heilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heilung&language=de)
 
 **Meaning:** cure; healing
 **Plural:** Heilungen

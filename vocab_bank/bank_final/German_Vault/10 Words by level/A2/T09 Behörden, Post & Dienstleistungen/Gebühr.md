@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5756
 skip: false
+audio: "Gebühr.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gebühr
+
+![[Gebühr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%BChr&language=de)
 
 **Meaning:** fee
 **Plural:** Gebühren

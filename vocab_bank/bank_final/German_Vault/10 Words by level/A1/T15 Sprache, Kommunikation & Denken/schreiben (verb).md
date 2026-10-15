@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7b"
 freq_rank: 270
 skip: false
+audio: "schreiben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schreiben
+
+![[schreiben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schreiben&language=de)
 
 **Meaning:** to write
 **Forms:** schreibt · schrieb · hat geschrieben

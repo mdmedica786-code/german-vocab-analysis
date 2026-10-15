@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4428"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "sortieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # sortieren
+
+![[sortieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sortieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sortieren&language=de)
 
 **Meaning:** to sort; to arrange
 **Forms:** sortiert · sortierte · hat sortiert

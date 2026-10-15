@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3267"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Gender.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gender
+
+![[Gender.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gender&language=de)
 
 **Meaning:** gender (social)
 **Plural:** –

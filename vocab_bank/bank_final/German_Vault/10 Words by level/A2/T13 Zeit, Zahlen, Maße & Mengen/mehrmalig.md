@@ -12,11 +12,16 @@ id: "B3037"
 netzwerk: "A2 K10 12e"
 freq_rank: 5759
 skip: false
+audio: "mehrmalig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # mehrmalig
+
+![[mehrmalig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mehrmalig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mehrmalig&language=de)
 
 **Meaning:** repeated
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

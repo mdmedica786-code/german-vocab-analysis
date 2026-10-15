@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 5a"
 freq_rank: 5759
 skip: false
+audio: "Import.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Import
+
+![[Import.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Import/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Import&language=de)
 
 **Meaning:** import
 **Plural:** Importe

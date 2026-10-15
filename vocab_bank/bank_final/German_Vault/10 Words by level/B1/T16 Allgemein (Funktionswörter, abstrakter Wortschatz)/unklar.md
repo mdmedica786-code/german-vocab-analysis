@@ -11,11 +11,16 @@ bank: "main"
 id: "B5984"
 freq_rank: 3798
 skip: false
+audio: "unklar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unklar
+
+![[unklar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unklar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unklar&language=de)
 
 **Meaning:** unclear
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

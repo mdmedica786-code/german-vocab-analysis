@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1191"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "abwehren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abwehren
+
+![[abwehren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abwehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abwehren&language=de)
 
 **Meaning:** to ward off; to fend off
 **Forms:** wehrt ab · wehrte ab · hat abgewehrt

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 6c"
 freq_rank: 5759
 skip: false
+audio: "leihen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leihen
+
+![[leihen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leihen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leihen&language=de)
 
 **Meaning:** to borrow; to lend
 **Forms:** leiht · lieh · hat geliehen

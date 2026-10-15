@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 12c"
 freq_rank: 5519
 skip: false
+audio: "Stockwerk.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stockwerk
+
+![[Stockwerk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stockwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stockwerk&language=de)
 
 **Meaning:** floor
 **Plural:** Stockwerke

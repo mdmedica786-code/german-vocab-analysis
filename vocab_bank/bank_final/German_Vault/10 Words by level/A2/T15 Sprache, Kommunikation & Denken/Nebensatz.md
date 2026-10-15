@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Nebensatz
 
+[▶️ YouGlish](https://youglish.com/pronounce/Nebensatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebensatz&language=de)
+
 **Meaning:** subordinate clause
 **Plural:** Nebensätze
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

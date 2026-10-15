@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2217"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ablesung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ablesung
+
+![[Ablesung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ablesung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ablesung&language=de)
 
 **Meaning:** meter reading
 **Plural:** Ablesungen

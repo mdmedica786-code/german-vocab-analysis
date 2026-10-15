@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # im Vordergrund stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/im%20Vordergrund%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=im%20Vordergrund%20stehen&language=de)
+
 **Meaning:** to be in the foreground; to take priority
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3477"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Vergrößerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vergrößerung
+
+![[Vergrößerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vergr%C3%B6%C3%9Ferung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vergr%C3%B6%C3%9Ferung&language=de)
 
 **Meaning:** enlargement; expansion
 **Plural:** Vergrößerungen

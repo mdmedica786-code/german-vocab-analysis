@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 4b"
 freq_rank: 928
 skip: false
+audio: "sodass.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # sodass
+
+![[sodass.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sodass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sodass&language=de)
 
 **Meaning:** so that
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

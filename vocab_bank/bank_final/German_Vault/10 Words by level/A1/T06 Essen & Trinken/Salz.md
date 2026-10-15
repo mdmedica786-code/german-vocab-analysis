@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 2277
 skip: false
+audio: "Salz.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Salz
+
+![[Salz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Salz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salz&language=de)
 
 **Meaning:** salt
 **Plural:** Salze

@@ -15,11 +15,16 @@ id: "B5331"
 goethe_level: "B1"
 freq_rank: 1458
 skip: false
+audio: "Vertreter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vertreter
+
+![[Vertreter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertreter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertreter&language=de)
 
 **Meaning:** representative; substitute (m)
 **Plural:** Vertreter

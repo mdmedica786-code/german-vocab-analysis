@@ -14,11 +14,16 @@ bank: "main"
 id: "B5720"
 freq_rank: 2852
 skip: false
+audio: "Diagnostik.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Diagnostik
+
+![[Diagnostik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diagnostik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diagnostik&language=de)
 
 **Meaning:** diagnostics
 **Plural:** –

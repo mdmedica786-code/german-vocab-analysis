@@ -14,11 +14,16 @@ bank: "main"
 id: "B5751"
 freq_rank: 2934
 skip: false
+audio: "Satire.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Satire
+
+![[Satire.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satire/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satire&language=de)
 
 **Meaning:** satire
 **Plural:** Satiren

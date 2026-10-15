@@ -15,11 +15,16 @@ id: "B1054"
 netzwerk: "A1 K7 1a"
 freq_rank: 5759
 skip: false
+audio: "Arbeitsalltag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsalltag
+
+![[Arbeitsalltag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsalltag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsalltag&language=de)
 
 **Meaning:** workday
 **Plural:** –

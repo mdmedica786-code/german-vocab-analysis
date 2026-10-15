@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 12c"
 freq_rank: 3079
 skip: false
+audio: "Zettel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zettel
+
+![[Zettel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zettel&language=de)
 
 **Meaning:** slip of paper; note
 **Plural:** Zettel

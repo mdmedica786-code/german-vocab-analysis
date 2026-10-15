@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 5a ÜB"
 freq_rank: 420
 skip: false
+audio: "genug.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # genug
+
+![[genug.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/genug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=genug&language=de)
 
 **Meaning:** enough
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

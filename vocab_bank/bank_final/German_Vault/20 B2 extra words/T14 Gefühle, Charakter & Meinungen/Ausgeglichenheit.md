@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1165"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ausgeglichenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausgeglichenheit
+
+![[Ausgeglichenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgeglichenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgeglichenheit&language=de)
 
 **Meaning:** balance; even temper
 **Plural:** –

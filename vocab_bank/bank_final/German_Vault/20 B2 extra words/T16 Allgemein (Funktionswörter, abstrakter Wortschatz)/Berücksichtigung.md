@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2469"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Berücksichtigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berücksichtigung
+
+![[Berücksichtigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ber%C3%BCcksichtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ber%C3%BCcksichtigung&language=de)
 
 **Meaning:** consideration; taking into account
 **Plural:** –

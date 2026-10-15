@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3500"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "schrittweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schrittweise
+
+![[schrittweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schrittweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schrittweise&language=de)
 
 **Meaning:** step by step; gradual
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

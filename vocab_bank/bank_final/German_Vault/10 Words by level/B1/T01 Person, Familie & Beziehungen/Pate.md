@@ -15,11 +15,16 @@ id: "B4773"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Pate.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pate
+
+![[Pate.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pate/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pate&language=de)
 
 **Meaning:** godfather
 **Plural:** Paten

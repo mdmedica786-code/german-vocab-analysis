@@ -15,11 +15,16 @@ id: "B3259"
 netzwerk: "B1 K1 2"
 freq_rank: 4097
 skip: false
+audio: "Genuss.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Genuss
+
+![[Genuss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Genuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genuss&language=de)
 
 **Meaning:** enjoyment; pleasure; consumption
 **Plural:** –

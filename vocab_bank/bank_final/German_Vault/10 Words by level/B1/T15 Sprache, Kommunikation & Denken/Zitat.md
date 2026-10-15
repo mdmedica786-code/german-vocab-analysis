@@ -15,11 +15,16 @@ id: "B4111"
 netzwerk: "B1 K6 5a"
 freq_rank: 2640
 skip: false
+audio: "Zitat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zitat
+
+![[Zitat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zitat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zitat&language=de)
 
 **Meaning:** quotation; quote
 **Plural:** Zitate

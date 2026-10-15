@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4257"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "namenlos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # namenlos
+
+![[namenlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/namenlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=namenlos&language=de)
 
 **Meaning:** nameless; anonymous
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

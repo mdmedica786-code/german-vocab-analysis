@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4312"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Plastikabfall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Plastikabfall
+
+![[Plastikabfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plastikabfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plastikabfall&language=de)
 
 **Meaning:** plastic waste
 **Plural:** Plastikabfälle

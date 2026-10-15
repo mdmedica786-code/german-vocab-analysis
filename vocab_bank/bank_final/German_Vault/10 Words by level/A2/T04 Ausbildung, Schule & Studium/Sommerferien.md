@@ -15,11 +15,16 @@ id: "B1984"
 netzwerk: "A2 K2 3a"
 freq_rank: 5512
 skip: false
+audio: "Sommerferien.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sommerferien
+
+![[Sommerferien.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sommerferien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sommerferien&language=de)
 
 **Meaning:** summer holidays
 **Plural:** (Pl.)

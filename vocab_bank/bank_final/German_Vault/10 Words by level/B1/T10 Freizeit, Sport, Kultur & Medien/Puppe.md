@@ -15,11 +15,16 @@ id: "B6241"
 goethe_level: "B1"
 freq_rank: 5033
 skip: false
+audio: "Puppe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Puppe
+
+![[Puppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Puppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Puppe&language=de)
 
 **Meaning:** doll
 **Plural:** Puppen

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 3a"
 freq_rank: 2843
 skip: false
+audio: "Comic.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Comic
+
+![[Comic.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Comic/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Comic&language=de)
 
 **Meaning:** comic book
 **Plural:** Comics

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3668"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "strikt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # strikt
+
+![[strikt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strikt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strikt&language=de)
 
 **Meaning:** strict
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

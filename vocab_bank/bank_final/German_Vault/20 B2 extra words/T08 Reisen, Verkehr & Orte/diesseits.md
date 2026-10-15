@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0035"
 exam_use: ["Lesen"]
 skip: false
+audio: "diesseits.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/preposition", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # diesseits
+
+![[diesseits.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diesseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diesseits&language=de)
 
 **Meaning:** on this side of
 **Case:** + Gen.

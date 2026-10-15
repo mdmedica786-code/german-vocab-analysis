@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 2430
 skip: false
+audio: "Mehrheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mehrheit
+
+![[Mehrheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehrheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrheit&language=de)
 
 **Meaning:** majority
 **Plural:** Mehrheiten

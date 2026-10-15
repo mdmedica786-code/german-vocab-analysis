@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4330"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Projektfest
+
+[▶️ YouGlish](https://youglish.com/pronounce/Projektfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Projektfest&language=de)
 
 **Meaning:** project celebration; project party
 **Plural:** Projektfeste

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 10a"
 freq_rank: 4268
 skip: false
+audio: "Kasse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kasse
+
+![[Kasse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kasse&language=de)
 
 **Meaning:** cashier
 **Plural:** Kassen

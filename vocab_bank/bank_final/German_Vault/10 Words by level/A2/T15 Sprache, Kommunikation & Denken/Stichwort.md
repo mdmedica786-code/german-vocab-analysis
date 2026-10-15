@@ -15,11 +15,16 @@ id: "B3069"
 netzwerk: "A2 K11 5a"
 freq_rank: 4178
 skip: false
+audio: "Stichwort.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stichwort
+
+![[Stichwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stichwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stichwort&language=de)
 
 **Meaning:** keyword
 **Plural:** Stichwörter

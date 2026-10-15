@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3748"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "ausatmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # ausatmen
+
+![[ausatmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausatmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausatmen&language=de)
 
 **Meaning:** to breathe out; to exhale
 **Forms:** atmet aus · atmete aus · hat ausgeatmet

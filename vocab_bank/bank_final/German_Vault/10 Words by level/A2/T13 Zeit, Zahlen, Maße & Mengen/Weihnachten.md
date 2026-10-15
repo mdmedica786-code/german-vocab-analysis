@@ -15,11 +15,16 @@ id: "B5763"
 goethe_level: "A2"
 freq_rank: 2978
 skip: false
+audio: "Weihnachten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Weihnachten
+
+![[Weihnachten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weihnachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weihnachten&language=de)
 
 **Meaning:** Christmas
 **Plural:** –

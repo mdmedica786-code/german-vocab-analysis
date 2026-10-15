@@ -11,11 +11,16 @@ bank: "main"
 id: "B5220"
 freq_rank: 870
 skip: false
+audio: "abgeschlossen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # abgeschlossen
+
+![[abgeschlossen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abgeschlossen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abgeschlossen&language=de)
 
 **Meaning:** completed; locked
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

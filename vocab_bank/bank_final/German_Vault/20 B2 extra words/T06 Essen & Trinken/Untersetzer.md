@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2279"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Untersetzer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Untersetzer
+
+![[Untersetzer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untersetzer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untersetzer&language=de)
 
 **Meaning:** coaster; mat (under a pot)
 **Plural:** Untersetzer

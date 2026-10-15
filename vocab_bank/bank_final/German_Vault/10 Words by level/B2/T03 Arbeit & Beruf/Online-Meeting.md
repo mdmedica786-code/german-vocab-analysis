@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Online-Meeting
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Meeting/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Meeting&language=de)
+
 **Meaning:** online meeting
 **Plural:** Online-Meetings
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

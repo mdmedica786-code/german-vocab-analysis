@@ -15,11 +15,16 @@ id: "B2771"
 netzwerk: "A2 K8 7a"
 freq_rank: 5759
 skip: false
+audio: "Filmprojekt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Filmprojekt
+
+![[Filmprojekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Filmprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmprojekt&language=de)
 
 **Meaning:** film project
 **Plural:** Filmprojekte

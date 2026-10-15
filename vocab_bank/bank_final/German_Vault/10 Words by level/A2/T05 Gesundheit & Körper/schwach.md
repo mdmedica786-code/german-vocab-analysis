@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K3 5b"
 freq_rank: 1054
 skip: false
+audio: "schwach.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwach
+
+![[schwach.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwach&language=de)
 
 **Meaning:** weak
 **Forms:** schwächer – am schwächsten

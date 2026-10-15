@@ -14,11 +14,16 @@ bank: "main"
 id: "B5986"
 freq_rank: 3801
 skip: false
+audio: "Zuständigkeit.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zuständigkeit
+
+![[Zuständigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zust%C3%A4ndigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zust%C3%A4ndigkeit&language=de)
 
 **Meaning:** responsibility; jurisdiction
 **Plural:** Zuständigkeiten

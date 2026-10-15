@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0731"
 exam_use: ["Lesen"]
 skip: false
+audio: "Forstwirtschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Forstwirtschaft
+
+![[Forstwirtschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forstwirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forstwirtschaft&language=de)
 
 **Meaning:** forestry
 **Plural:** –

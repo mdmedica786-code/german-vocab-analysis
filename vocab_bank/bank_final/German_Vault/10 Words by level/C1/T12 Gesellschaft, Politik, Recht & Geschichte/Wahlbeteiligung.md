@@ -14,11 +14,16 @@ bank: "main"
 id: "B6183"
 freq_rank: 4785
 skip: false
+audio: "Wahlbeteiligung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wahlbeteiligung
+
+![[Wahlbeteiligung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahlbeteiligung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlbeteiligung&language=de)
 
 **Meaning:** voter turnout
 **Plural:** –

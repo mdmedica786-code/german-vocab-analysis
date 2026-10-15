@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 8c"
 freq_rank: 711
 skip: false
+audio: "Meinung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meinung
+
+![[Meinung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meinung&language=de)
 
 **Meaning:** opinion
 **Plural:** Meinungen

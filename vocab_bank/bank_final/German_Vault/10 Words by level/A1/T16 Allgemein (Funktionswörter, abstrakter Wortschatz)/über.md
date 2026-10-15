@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # über
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCber&language=de)
+
 **Meaning:** about; over; above
 **Other senses:** over; across; long
 **Case:** + Akk.

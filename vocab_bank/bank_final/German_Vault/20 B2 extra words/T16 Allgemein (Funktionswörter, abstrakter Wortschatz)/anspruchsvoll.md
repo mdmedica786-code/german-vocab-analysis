@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0753"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "anspruchsvoll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anspruchsvoll
+
+![[anspruchsvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anspruchsvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anspruchsvoll&language=de)
 
 **Meaning:** demanding; sophisticated
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

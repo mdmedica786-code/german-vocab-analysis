@@ -13,11 +13,16 @@ id: "B4956"
 netzwerk: "B1 K11 9a"
 freq_rank: 2358
 skip: false
+audio: "werten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # werten
+
+![[werten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/werten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werten&language=de)
 
 **Meaning:** to assess; to rate
 **Forms:** wertet · wertete · hat gewertet

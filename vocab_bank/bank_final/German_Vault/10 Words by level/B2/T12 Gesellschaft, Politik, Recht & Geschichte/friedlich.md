@@ -11,11 +11,16 @@ bank: "main"
 id: "B6005"
 freq_rank: 3895
 skip: false
+audio: "friedlich.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # friedlich
+
+![[friedlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/friedlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=friedlich&language=de)
 
 **Meaning:** peaceful
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 9a"
 freq_rank: 4694
 skip: false
+audio: "lila.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # lila
+
+![[lila.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lila/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lila&language=de)
 
 **Meaning:** purple
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

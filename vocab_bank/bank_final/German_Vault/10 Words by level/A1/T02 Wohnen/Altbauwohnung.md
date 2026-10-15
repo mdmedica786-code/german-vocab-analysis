@@ -15,11 +15,16 @@ id: "B1441"
 netzwerk: "A1 K9 10a"
 freq_rank: 5759
 skip: false
+audio: "Altbauwohnung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Altbauwohnung
+
+![[Altbauwohnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altbauwohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altbauwohnung&language=de)
 
 **Meaning:** flat in an old building
 **Plural:** Altbauwohnungen

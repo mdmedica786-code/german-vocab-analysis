@@ -15,11 +15,16 @@ id: "B4124"
 netzwerk: "B1 K6 7b"
 freq_rank: 9999
 skip: false
+audio: "Erholungsmöglichkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erholungsmöglichkeit
+
+![[Erholungsmöglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erholungsm%C3%B6glichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erholungsm%C3%B6glichkeit&language=de)
 
 **Meaning:** opportunity for recreation
 **Plural:** Erholungsmöglichkeiten

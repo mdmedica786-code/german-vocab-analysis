@@ -14,11 +14,16 @@ bank: "main"
 id: "B6170"
 freq_rank: 4737
 skip: false
+audio: "Abgabe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abgabe
+
+![[Abgabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgabe&language=de)
 
 **Meaning:** submission; handing in
 **Plural:** Abgaben

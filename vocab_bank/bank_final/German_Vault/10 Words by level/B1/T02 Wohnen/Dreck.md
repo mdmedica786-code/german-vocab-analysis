@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 1b"
 freq_rank: 4169
 skip: false
+audio: "Dreck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dreck
+
+![[Dreck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dreck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dreck&language=de)
 
 **Meaning:** dirt
 **Plural:** –

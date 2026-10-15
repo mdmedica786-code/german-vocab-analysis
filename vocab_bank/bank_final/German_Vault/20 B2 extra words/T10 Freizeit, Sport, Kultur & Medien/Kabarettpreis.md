@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4097"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kabarettpreis
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kabarettpreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarettpreis&language=de)
 
 **Meaning:** cabaret prize
 **Plural:** Kabarettpreise

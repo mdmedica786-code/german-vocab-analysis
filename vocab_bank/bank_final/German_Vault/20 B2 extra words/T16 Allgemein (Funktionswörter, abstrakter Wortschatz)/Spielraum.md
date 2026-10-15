@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0313"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Spielraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spielraum
+
+![[Spielraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielraum&language=de)
 
 **Meaning:** room for manoeuvre; leeway
 **Plural:** Spielräume

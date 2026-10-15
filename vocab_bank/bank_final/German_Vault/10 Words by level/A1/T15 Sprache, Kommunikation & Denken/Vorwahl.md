@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Vorwahl.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorwahl
+
+![[Vorwahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorwahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorwahl&language=de)
 
 **Meaning:** dialling code
 **Plural:** Vorwahlen

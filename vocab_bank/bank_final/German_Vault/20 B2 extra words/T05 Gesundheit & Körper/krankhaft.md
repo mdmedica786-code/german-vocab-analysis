@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4141"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "krankhaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # krankhaft
+
+![[krankhaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/krankhaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=krankhaft&language=de)
 
 **Meaning:** pathological; morbid
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

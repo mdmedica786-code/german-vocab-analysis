@@ -15,11 +15,16 @@ id: "B2368"
 netzwerk: "A2 K5 8b"
 freq_rank: 4219
 skip: false
+audio: "Entspannung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entspannung
+
+![[Entspannung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entspannung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entspannung&language=de)
 
 **Meaning:** relaxation
 **Plural:** –

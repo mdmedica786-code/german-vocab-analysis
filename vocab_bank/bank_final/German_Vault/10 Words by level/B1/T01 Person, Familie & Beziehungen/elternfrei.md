@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # elternfrei
 
+[▶️ YouGlish](https://youglish.com/pronounce/elternfrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elternfrei&language=de)
+
 **Meaning:** without parents
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5945"
 freq_rank: 3569
 skip: false
+audio: "via.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # via
+
+![[via.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/via/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=via&language=de)
 
 **Meaning:** via
 **Case:** + Akk.

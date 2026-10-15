@@ -15,11 +15,16 @@ id: "B1745"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Winterjacke.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Winterjacke
+
+![[Winterjacke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Winterjacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winterjacke&language=de)
 
 **Meaning:** winter coat
 **Plural:** Winterjacken

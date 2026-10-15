@@ -12,11 +12,16 @@ id: "B4656"
 netzwerk: "B1 K9 8c"
 freq_rank: 5759
 skip: false
+audio: "chaotisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # chaotisch
+
+![[chaotisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/chaotisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chaotisch&language=de)
 
 **Meaning:** chaotic
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

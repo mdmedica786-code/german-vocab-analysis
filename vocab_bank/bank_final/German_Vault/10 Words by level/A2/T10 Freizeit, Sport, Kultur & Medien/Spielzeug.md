@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 5b"
 freq_rank: 5553
 skip: false
+audio: "Spielzeug.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Spielzeug
+
+![[Spielzeug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielzeug&language=de)
 
 **Meaning:** toy
 **Plural:** Spielzeuge

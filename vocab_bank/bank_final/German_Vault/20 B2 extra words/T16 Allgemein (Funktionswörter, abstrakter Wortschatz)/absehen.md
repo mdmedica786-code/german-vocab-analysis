@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0838"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "absehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # absehen
+
+![[absehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/absehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=absehen&language=de)
 
 **Meaning:** to refrain from; to foresee
 **Forms:** sieht ab · sah ab · hat abgesehen

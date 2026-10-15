@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1a"
 freq_rank: 55
 skip: false
+audio: "gut (1).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gut
+
+![[gut (1).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gut&language=de)
 
 **Meaning:** good
 **Other senses:** alright

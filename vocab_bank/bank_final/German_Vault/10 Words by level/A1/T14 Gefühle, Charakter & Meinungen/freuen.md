@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 5a"
 freq_rank: 836
 skip: false
+audio: "freuen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # freuen
+
+![[freuen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freuen&language=de)
 
 **Meaning:** to be glad; to look forward to (sich freuen)
 **Forms:** freut · freute · hat gefreut

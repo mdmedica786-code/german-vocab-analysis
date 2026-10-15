@@ -14,11 +14,16 @@ bank: "main"
 id: "B6137"
 freq_rank: 4566
 skip: false
+audio: "Beutel.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beutel
+
+![[Beutel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beutel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beutel&language=de)
 
 **Meaning:** bag; pouch
 **Plural:** Beutel

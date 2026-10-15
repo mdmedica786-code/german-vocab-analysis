@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 4823
 skip: false
+audio: "Tankstelle.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tankstelle
+
+![[Tankstelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tankstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tankstelle&language=de)
 
 **Meaning:** petrol station
 **Plural:** Tankstellen

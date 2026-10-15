@@ -15,11 +15,16 @@ id: "B5460"
 goethe_level: "B1"
 freq_rank: 2000
 skip: false
+audio: "Tote.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tote
+
+![[Tote.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tote&language=de)
 
 **Meaning:** dead person
 **Plural:** Toten

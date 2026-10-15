@@ -14,11 +14,16 @@ bank: "main"
 id: "B5546"
 freq_rank: 2278
 skip: false
+audio: "Vereinbarung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vereinbarung
+
+![[Vereinbarung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vereinbarung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vereinbarung&language=de)
 
 **Meaning:** agreement; arrangement
 **Plural:** Vereinbarungen

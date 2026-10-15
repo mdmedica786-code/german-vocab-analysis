@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2247"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Deo.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Deo
+
+![[Deo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deo&language=de)
 
 **Meaning:** deodorant
 **Plural:** Deos

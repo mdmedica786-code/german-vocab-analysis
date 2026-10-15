@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0556"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Fraktion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fraktion
+
+![[Fraktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fraktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fraktion&language=de)
 
 **Meaning:** parliamentary group
 **Plural:** Fraktionen

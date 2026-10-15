@@ -13,11 +13,16 @@ id: "B4935"
 netzwerk: "B1 K11 8b"
 freq_rank: 924
 skip: false
+audio: "berücksichtigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # berücksichtigen
+
+![[berücksichtigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ber%C3%BCcksichtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ber%C3%BCcksichtigen&language=de)
 
 **Meaning:** to consider
 **Forms:** berücksichtigt · berücksichtigte · hat berücksichtigt

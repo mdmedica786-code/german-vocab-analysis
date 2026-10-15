@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0020"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "annähernd.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # annähernd
+
+![[annähernd.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ann%C3%A4hernd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ann%C3%A4hernd&language=de)
 
 **Meaning:** approximately; almost
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

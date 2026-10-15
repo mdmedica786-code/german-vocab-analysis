@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2578"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Periode.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Periode
+
+![[Periode.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Periode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Periode&language=de)
 
 **Meaning:** period
 **Plural:** Perioden

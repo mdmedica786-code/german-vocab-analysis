@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 10"
 freq_rank: 1241
 skip: false
+audio: "Rand.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rand
+
+![[Rand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rand&language=de)
 
 **Meaning:** edge
 **Plural:** Ränder

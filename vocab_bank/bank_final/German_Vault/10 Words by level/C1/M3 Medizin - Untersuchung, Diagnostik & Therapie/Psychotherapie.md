@@ -14,11 +14,16 @@ bank: "main"
 id: "B5993"
 freq_rank: 3829
 skip: false
+audio: "Psychotherapie.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Psychotherapie
+
+![[Psychotherapie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Psychotherapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychotherapie&language=de)
 
 **Meaning:** psychotherapy
 **Plural:** Psychotherapien

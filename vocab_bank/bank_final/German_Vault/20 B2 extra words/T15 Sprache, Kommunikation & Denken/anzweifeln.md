@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0230"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "anzweifeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anzweifeln
+
+![[anzweifeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anzweifeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anzweifeln&language=de)
 
 **Meaning:** to doubt; to question
 **Forms:** zweifelt an · zweifelte an · hat angezweifelt

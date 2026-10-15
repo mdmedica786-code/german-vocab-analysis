@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3952"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Foodtruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Foodtruck
+
+![[Foodtruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Foodtruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Foodtruck&language=de)
 
 **Meaning:** food truck
 **Plural:** Foodtrucks

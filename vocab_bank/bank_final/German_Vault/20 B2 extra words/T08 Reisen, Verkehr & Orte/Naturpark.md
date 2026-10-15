@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0738"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Naturpark.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Naturpark
+
+![[Naturpark.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Naturpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturpark&language=de)
 
 **Meaning:** nature park
 **Plural:** Naturparks

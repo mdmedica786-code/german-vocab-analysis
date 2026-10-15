@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 13b"
 freq_rank: 3099
 skip: false
+audio: "vergeblich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergeblich
+
+![[vergeblich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergeblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergeblich&language=de)
 
 **Meaning:** in vain; futile
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

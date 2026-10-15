@@ -14,11 +14,16 @@ bank: "main"
 id: "B5910"
 freq_rank: 3460
 skip: false
+audio: "Anzeichen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Anzeichen
+
+![[Anzeichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzeichen&language=de)
 
 **Meaning:** sign; indication
 **Plural:** Anzeichen

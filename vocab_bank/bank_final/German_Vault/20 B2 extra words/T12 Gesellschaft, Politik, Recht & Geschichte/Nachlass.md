@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1146"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Nachlass.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachlass
+
+![[Nachlass.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachlass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachlass&language=de)
 
 **Meaning:** estate (of a deceased person); discount
 **Plural:** Nachlässe

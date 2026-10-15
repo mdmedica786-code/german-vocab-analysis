@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 6a"
 freq_rank: 2174
 skip: false
+audio: "Fahrzeug.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fahrzeug
+
+![[Fahrzeug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrzeug&language=de)
 
 **Meaning:** vehicle
 **Plural:** Fahrzeuge

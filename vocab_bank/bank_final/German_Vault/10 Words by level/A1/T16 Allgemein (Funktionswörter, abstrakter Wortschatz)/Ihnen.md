@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Ihnen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ihnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ihnen&language=de)
+
 **Meaning:** you (formal, dat.)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2904"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "fachlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # fachlich
+
+![[fachlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fachlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fachlich&language=de)
 
 **Meaning:** professional; technical
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

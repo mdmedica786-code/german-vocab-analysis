@@ -14,11 +14,16 @@ bank: "main"
 id: "B6189"
 freq_rank: 4820
 skip: false
+audio: "Demenz.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Demenz
+
+![[Demenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Demenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demenz&language=de)
 
 **Meaning:** dementia
 **Plural:** Demenzen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5524"
 freq_rank: 2215
 skip: false
+audio: "Regie.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regie
+
+![[Regie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regie&language=de)
 
 **Meaning:** direction (film, theatre)
 **Plural:** –

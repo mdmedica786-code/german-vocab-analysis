@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0845"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "anordnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # anordnen
+
+![[anordnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anordnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anordnen&language=de)
 
 **Meaning:** to order; to arrange
 **Forms:** ordnet an · ordnete an · hat angeordnet

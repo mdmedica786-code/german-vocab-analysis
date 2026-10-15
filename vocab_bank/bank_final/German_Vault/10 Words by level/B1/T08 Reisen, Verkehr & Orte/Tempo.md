@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 1b"
 freq_rank: 3350
 skip: false
+audio: "Tempo.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tempo
+
+![[Tempo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tempo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tempo&language=de)
 
 **Meaning:** speed
 **Plural:** Tempi

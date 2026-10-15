@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0964"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Rückgang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rückgang
+
+![[Rückgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckgang&language=de)
 
 **Meaning:** decline; decrease
 **Plural:** Rückgänge

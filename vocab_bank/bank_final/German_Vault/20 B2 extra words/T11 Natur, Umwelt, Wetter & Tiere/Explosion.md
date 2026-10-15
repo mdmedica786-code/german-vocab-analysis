@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3284"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Explosion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Explosion
+
+![[Explosion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Explosion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Explosion&language=de)
 
 **Meaning:** explosion
 **Plural:** Explosionen

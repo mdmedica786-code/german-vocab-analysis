@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 935
 skip: false
+audio: "erfolgreich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfolgreich
+
+![[erfolgreich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfolgreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfolgreich&language=de)
 
 **Meaning:** successful
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

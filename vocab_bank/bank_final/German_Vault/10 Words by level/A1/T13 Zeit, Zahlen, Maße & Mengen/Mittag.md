@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9a"
 freq_rank: 2842
 skip: false
+audio: "Mittag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mittag
+
+![[Mittag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittag&language=de)
 
 **Meaning:** noon
 **Plural:** Mittage

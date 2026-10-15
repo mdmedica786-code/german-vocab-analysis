@@ -15,11 +15,16 @@ id: "B3407"
 netzwerk: "B1 K2 4b"
 freq_rank: 5512
 skip: false
+audio: "Stick.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stick
+
+![[Stick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stick&language=de)
 
 **Meaning:** memory stick
 **Plural:** Sticks

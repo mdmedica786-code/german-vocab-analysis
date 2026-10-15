@@ -13,11 +13,16 @@ id: "B4753"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "alarmieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # alarmieren
+
+![[alarmieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/alarmieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=alarmieren&language=de)
 
 **Meaning:** to alert
 **Forms:** alarmiert · alarmierte · hat alarmiert

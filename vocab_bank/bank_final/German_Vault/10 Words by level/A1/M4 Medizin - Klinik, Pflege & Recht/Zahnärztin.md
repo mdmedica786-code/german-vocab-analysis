@@ -15,11 +15,16 @@ id: "B1110"
 netzwerk: "A1 K7 5e"
 freq_rank: 5759
 skip: false
+audio: "Zahnärztin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zahnärztin
+
+![[Zahnärztin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahn%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahn%C3%A4rztin&language=de)
 
 **Meaning:** dentist (f)
 **Plural:** Zahnärztinnen

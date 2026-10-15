@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Positionsverb
 
+[▶️ YouGlish](https://youglish.com/pronounce/Positionsverb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Positionsverb&language=de)
+
 **Meaning:** verb of position
 **Plural:** Positionsverben
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

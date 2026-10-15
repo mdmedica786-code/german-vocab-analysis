@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Stadtinformation
 
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtinformation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtinformation&language=de)
+
 **Meaning:** city information office
 **Plural:** Stadtinformationen
 **Level:** B1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

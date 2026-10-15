@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2b"
 freq_rank: 29
 skip: false
+audio: "so.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # so
+
+![[so.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/so/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=so&language=de)
 
 **Meaning:** so
 **Other senses:** such; as; in that way

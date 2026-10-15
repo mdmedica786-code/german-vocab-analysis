@@ -15,11 +15,16 @@ id: "B2457"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Neuanfang.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Neuanfang
+
+![[Neuanfang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neuanfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuanfang&language=de)
 
 **Meaning:** new beginning
 **Plural:** Neuanfänge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3898"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Entscheidungsfindung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Entscheidungsfindung
+
+![[Entscheidungsfindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entscheidungsfindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entscheidungsfindung&language=de)
 
 **Meaning:** decision-making
 **Plural:** –

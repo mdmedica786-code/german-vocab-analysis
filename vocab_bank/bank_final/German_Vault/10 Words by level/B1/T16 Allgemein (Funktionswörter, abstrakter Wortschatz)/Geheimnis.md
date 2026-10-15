@@ -15,11 +15,16 @@ id: "B5351"
 goethe_level: "B1"
 freq_rank: 1571
 skip: false
+audio: "Geheimnis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geheimnis
+
+![[Geheimnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geheimnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geheimnis&language=de)
 
 **Meaning:** secret
 **Plural:** Geheimnisse

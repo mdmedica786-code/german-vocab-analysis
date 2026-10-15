@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1052"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Hypothek.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hypothek
+
+![[Hypothek.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hypothek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hypothek&language=de)
 
 **Meaning:** mortgage
 **Plural:** Hypotheken

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6281"
 freq_rank: 5327
 skip: false
+audio: "Champagner.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Champagner
+
+![[Champagner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Champagner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Champagner&language=de)
 
 **Meaning:** champagne
 **Plural:** Champagner

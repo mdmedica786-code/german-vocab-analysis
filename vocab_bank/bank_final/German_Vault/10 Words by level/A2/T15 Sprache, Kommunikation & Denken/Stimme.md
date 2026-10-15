@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 7a"
 freq_rank: 313
 skip: false
+audio: "Stimme.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stimme
+
+![[Stimme.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stimme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stimme&language=de)
 
 **Meaning:** voice
 **Plural:** Stimmen

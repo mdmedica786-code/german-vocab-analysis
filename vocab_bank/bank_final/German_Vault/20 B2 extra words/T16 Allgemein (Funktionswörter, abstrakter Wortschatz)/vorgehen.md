@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1847"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "vorgehen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorgehen
+
+![[vorgehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorgehen&language=de)
 
 **Meaning:** to proceed; to take precedence; to be fast (clock)
 **Forms:** geht vor · ging vor · ist vorgegangen

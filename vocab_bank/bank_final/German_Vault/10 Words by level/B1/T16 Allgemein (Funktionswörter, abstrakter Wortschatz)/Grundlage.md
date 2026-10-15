@@ -14,11 +14,16 @@ bank: "main"
 id: "B5187"
 freq_rank: 611
 skip: false
+audio: "Grundlage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grundlage
+
+![[Grundlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundlage&language=de)
 
 **Meaning:** basis; foundation
 **Plural:** Grundlagen

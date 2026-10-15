@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2366"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "kross.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/adjective", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # kross
+
+![[kross.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kross/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kross&language=de)
 
 **Meaning:** crispy
 **Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

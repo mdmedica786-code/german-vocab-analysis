@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1020"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Parkgebühr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Parkgebühr
+
+![[Parkgebühr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parkgeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkgeb%C3%BChr&language=de)
 
 **Meaning:** parking fee
 **Plural:** Parkgebühren

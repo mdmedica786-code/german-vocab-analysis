@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 1798
 skip: false
+audio: "Verwaltung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwaltung
+
+![[Verwaltung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwaltung&language=de)
 
 **Meaning:** administration
 **Plural:** –

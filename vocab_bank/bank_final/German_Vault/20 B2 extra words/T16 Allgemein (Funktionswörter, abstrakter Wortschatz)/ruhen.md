@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2564"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ruhen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ruhen
+
+![[ruhen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ruhen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ruhen&language=de)
 
 **Meaning:** to rest; to lie dormant
 **Forms:** ruht · ruhte · hat geruht

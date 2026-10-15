@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Fahrplan.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrplan
+
+![[Fahrplan.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrplan&language=de)
 
 **Meaning:** timetable
 **Plural:** Fahrpläne

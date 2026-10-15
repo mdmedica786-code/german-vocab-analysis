@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1009"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Zwischenstopp.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zwischenstopp
+
+![[Zwischenstopp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwischenstopp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwischenstopp&language=de)
 
 **Meaning:** stopover; stop on the way
 **Plural:** Zwischenstopps

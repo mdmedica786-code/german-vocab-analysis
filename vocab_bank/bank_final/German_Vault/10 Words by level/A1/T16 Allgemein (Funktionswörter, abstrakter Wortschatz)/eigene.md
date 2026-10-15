@@ -12,11 +12,16 @@ id: "B0402"
 netzwerk: "A1 K2 11b"
 freq_rank: 267
 skip: false
+audio: "eigene.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eigene
+
+![[eigene.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eigene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eigene&language=de)
 
 **Meaning:** own
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -12,11 +12,16 @@ id: "B0899"
 netzwerk: "A1 K5 14"
 freq_rank: 5759
 skip: false
+audio: "unhöflich.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unhöflich
+
+![[unhöflich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unh%C3%B6flich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unh%C3%B6flich&language=de)
 
 **Meaning:** impolite
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

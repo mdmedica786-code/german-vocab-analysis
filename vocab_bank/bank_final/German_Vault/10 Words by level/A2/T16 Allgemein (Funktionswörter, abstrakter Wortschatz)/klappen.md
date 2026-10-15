@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 1b"
 freq_rank: 3002
 skip: false
+audio: "klappen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klappen
+
+![[klappen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klappen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klappen&language=de)
 
 **Meaning:** to work out; to go well (colloquial)
 **Forms:** klappt · klappte · hat geklappt

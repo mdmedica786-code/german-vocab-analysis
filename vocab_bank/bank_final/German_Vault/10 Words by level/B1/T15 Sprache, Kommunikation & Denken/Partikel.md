@@ -15,11 +15,16 @@ id: "B4842"
 netzwerk: "B1 K10 7d"
 freq_rank: 5759
 skip: false
+audio: "Partikel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Partikel
+
+![[Partikel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partikel&language=de)
 
 **Meaning:** particle
 **Plural:** Partikeln

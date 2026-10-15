@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3168"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Vieh.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vieh
+
+![[Vieh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vieh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vieh&language=de)
 
 **Meaning:** cattle; livestock
 **Plural:** –

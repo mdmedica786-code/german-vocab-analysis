@@ -15,11 +15,16 @@ id: "B2615"
 netzwerk: "A2 K7 10a"
 freq_rank: 1656
 skip: false
+audio: "Kombination.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kombination
+
+![[Kombination.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kombination/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kombination&language=de)
 
 **Meaning:** combination
 **Plural:** Kombinationen

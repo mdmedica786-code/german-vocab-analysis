@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 8c"
 freq_rank: 2575
 skip: false
+audio: "ablehnen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ablehnen
+
+![[ablehnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ablehnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ablehnen&language=de)
 
 **Meaning:** to refuse
 **Forms:** lehnt ab · lehnte ab · hat abgelehnt

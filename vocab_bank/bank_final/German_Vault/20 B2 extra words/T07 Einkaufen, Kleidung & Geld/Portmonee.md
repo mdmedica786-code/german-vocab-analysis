@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4322"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Portmonee
+
+[▶️ YouGlish](https://youglish.com/pronounce/Portmonee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portmonee&language=de)
 
 **Meaning:** wallet; purse (variant of Portemonnaie)
 **Plural:** Portmonees

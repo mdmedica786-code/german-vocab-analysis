@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1015
 skip: false
+audio: "Gelegenheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gelegenheit
+
+![[Gelegenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gelegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gelegenheit&language=de)
 
 **Meaning:** opportunity
 **Plural:** Gelegenheiten

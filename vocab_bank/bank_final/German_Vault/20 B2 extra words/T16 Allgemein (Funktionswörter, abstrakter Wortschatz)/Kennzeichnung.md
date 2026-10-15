@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3334"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kennzeichnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kennzeichnung
+
+![[Kennzeichnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kennzeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kennzeichnung&language=de)
 
 **Meaning:** labelling; marking; identification
 **Plural:** Kennzeichnungen

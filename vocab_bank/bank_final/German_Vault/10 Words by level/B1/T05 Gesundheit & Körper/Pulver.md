@@ -15,11 +15,16 @@ id: "B4399"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 5090
 skip: false
+audio: "Pulver.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pulver
+
+![[Pulver.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pulver/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pulver&language=de)
 
 **Meaning:** powder
 **Plural:** Pulver

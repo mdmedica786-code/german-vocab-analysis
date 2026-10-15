@@ -14,11 +14,16 @@ bank: "main"
 id: "B5694"
 freq_rank: 2810
 skip: false
+audio: "Bearbeitung.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bearbeitung
+
+![[Bearbeitung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bearbeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bearbeitung&language=de)
 
 **Meaning:** processing; handling
 **Plural:** Bearbeitungen

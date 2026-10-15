@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Überstunde
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberstunde&language=de)
+
 **Meaning:** overtime
 **Plural:** Überstunden
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

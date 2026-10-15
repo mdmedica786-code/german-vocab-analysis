@@ -15,11 +15,16 @@ id: "B2421"
 netzwerk: "A2 K6 5a"
 freq_rank: 5759
 skip: false
+audio: "Trattoria.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Trattoria
+
+![[Trattoria.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trattoria/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trattoria&language=de)
 
 **Meaning:** trattoria
 **Plural:** Trattorien

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Du-Botschaft
 
+[▶️ YouGlish](https://youglish.com/pronounce/Du-Botschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Du-Botschaft&language=de)
+
 **Meaning:** you-message (accusatory statement)
 **Plural:** Du-Botschaften
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

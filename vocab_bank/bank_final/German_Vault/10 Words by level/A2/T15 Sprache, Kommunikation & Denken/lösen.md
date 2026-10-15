@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 589
 skip: false
+audio: "lösen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lösen
+
+![[lösen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%B6sen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%B6sen&language=de)
 
 **Meaning:** to solve
 **Forms:** löst · löste · hat gelöst

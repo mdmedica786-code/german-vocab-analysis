@@ -15,11 +15,16 @@ id: "B5047"
 netzwerk: "B1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "Kontodaten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kontodaten
+
+![[Kontodaten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontodaten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontodaten&language=de)
 
 **Meaning:** account information
 **Plural:** (Pl.)

@@ -15,11 +15,16 @@ id: "B6470"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Kassette.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kassette
+
+![[Kassette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kassette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kassette&language=de)
 
 **Meaning:** cassette
 **Plural:** Kassetten

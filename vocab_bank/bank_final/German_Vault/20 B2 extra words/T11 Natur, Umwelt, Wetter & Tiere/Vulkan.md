@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0709"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Vulkan.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vulkan
+
+![[Vulkan.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vulkan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vulkan&language=de)
 
 **Meaning:** volcano
 **Plural:** Vulkane

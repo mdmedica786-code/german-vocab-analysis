@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dir
 
+[▶️ YouGlish](https://youglish.com/pronounce/dir/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dir&language=de)
+
 **Meaning:** you (dat.)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

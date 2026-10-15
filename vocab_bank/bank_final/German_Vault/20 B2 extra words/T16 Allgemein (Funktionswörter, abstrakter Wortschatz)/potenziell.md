@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2900"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "potenziell.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # potenziell
+
+![[potenziell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/potenziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=potenziell&language=de)
 
 **Meaning:** potential
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

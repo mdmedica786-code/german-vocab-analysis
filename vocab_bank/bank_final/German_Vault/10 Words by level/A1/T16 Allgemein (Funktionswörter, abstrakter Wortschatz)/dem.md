@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # dem
 
+[▶️ YouGlish](https://youglish.com/pronounce/dem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dem&language=de)
+
 **Meaning:** the
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

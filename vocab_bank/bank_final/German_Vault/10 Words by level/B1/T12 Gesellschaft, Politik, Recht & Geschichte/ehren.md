@@ -13,11 +13,16 @@ id: "B3584"
 netzwerk: "B1 K3 3c"
 freq_rank: 3394
 skip: false
+audio: "ehren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ehren
+
+![[ehren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehren&language=de)
 
 **Meaning:** to honour
 **Forms:** ehrt · ehrte · hat geehrt

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Zahnbürste.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zahnbürste
+
+![[Zahnbürste.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahnb%C3%BCrste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnb%C3%BCrste&language=de)
 
 **Meaning:** toothbrush
 **Plural:** Zahnbürsten

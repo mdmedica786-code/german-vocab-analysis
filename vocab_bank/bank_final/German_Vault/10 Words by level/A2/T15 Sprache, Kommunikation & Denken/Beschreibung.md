@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 8e"
 freq_rank: 1186
 skip: false
+audio: "Beschreibung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beschreibung
+
+![[Beschreibung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschreibung&language=de)
 
 **Meaning:** description
 **Plural:** Beschreibungen

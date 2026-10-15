@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 1b"
 freq_rank: 2000
 skip: false
+audio: "Schloss.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schloss
+
+![[Schloss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schloss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schloss&language=de)
 
 **Meaning:** castle; lock
 **Plural:** Schlösser

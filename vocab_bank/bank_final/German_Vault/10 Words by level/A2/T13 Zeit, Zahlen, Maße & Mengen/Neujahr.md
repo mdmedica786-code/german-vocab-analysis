@@ -15,11 +15,16 @@ id: "B6511"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Neujahr.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Neujahr
+
+![[Neujahr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neujahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neujahr&language=de)
 
 **Meaning:** New Year
 **Plural:** –

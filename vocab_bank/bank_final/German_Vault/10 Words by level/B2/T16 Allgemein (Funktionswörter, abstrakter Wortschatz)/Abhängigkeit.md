@@ -14,11 +14,16 @@ bank: "main"
 id: "B5386"
 freq_rank: 1730
 skip: false
+audio: "Abhängigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abhängigkeit
+
+![[Abhängigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abh%C3%A4ngigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abh%C3%A4ngigkeit&language=de)
 
 **Meaning:** dependence; addiction
 **Plural:** Abhängigkeiten

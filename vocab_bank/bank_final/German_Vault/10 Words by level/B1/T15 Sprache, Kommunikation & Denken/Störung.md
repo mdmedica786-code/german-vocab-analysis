@@ -15,11 +15,16 @@ id: "B5276"
 goethe_level: "B1"
 freq_rank: 1173
 skip: false
+audio: "Störung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Störung
+
+![[Störung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/St%C3%B6rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%B6rung&language=de)
 
 **Meaning:** disturbance; interruption; disorder
 **Plural:** Störungen

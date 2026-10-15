@@ -12,11 +12,16 @@ id: "B4942"
 netzwerk: "B1 K11 8b"
 freq_rank: 795
 skip: false
+audio: "gesellschaftlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gesellschaftlich
+
+![[gesellschaftlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gesellschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesellschaftlich&language=de)
 
 **Meaning:** social
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

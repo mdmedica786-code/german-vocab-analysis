@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Fanartikel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fanartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fanartikel&language=de)
+
 **Meaning:** team merchandise
 **Plural:** Fanartikel
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B6579"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "twittern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # twittern
+
+![[twittern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/twittern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=twittern&language=de)
 
 **Meaning:** to tweet
 **Forms:** twittert · twitterte · hat getwittert

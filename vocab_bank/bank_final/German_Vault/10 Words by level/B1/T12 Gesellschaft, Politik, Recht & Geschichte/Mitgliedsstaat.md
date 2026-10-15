@@ -15,11 +15,16 @@ id: "B4876"
 netzwerk: "B1 K10 11a"
 freq_rank: 5759
 skip: false
+audio: "Mitgliedsstaat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mitgliedsstaat
+
+![[Mitgliedsstaat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitgliedsstaat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitgliedsstaat&language=de)
 
 **Meaning:** member state
 **Plural:** Mitgliedsstaaten

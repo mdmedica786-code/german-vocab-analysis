@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0631"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Datenleck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Datenleck
+
+![[Datenleck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datenleck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datenleck&language=de)
 
 **Meaning:** data leak
 **Plural:** Datenlecks

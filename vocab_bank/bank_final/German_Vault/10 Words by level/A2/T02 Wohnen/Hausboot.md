@@ -15,11 +15,16 @@ id: "B2923"
 netzwerk: "A2 K10 1b"
 freq_rank: 5759
 skip: false
+audio: "Hausboot.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hausboot
+
+![[Hausboot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausboot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausboot&language=de)
 
 **Meaning:** houseboat
 **Plural:** Hausboote

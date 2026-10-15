@@ -13,11 +13,16 @@ id: "B6301"
 goethe_level: "B1"
 freq_rank: 5490
 skip: false
+audio: "behindern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # behindern
+
+![[behindern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/behindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behindern&language=de)
 
 **Meaning:** to hinder; to obstruct
 **Forms:** behindert · behinderte · hat behindert

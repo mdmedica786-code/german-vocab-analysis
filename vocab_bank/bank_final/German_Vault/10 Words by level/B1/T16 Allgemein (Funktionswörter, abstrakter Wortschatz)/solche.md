@@ -12,11 +12,16 @@ id: "B3308"
 netzwerk: "B1 K1 8b"
 freq_rank: 204
 skip: false
+audio: "solche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # solche
+
+![[solche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/solche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=solche&language=de)
 
 **Meaning:** such; such a
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

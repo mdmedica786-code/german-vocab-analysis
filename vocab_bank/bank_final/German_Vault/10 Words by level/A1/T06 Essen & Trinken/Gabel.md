@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 11c ÜB"
 freq_rank: 5075
 skip: false
+audio: "Gabel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gabel
+
+![[Gabel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gabel&language=de)
 
 **Meaning:** fork
 **Plural:** Gabeln

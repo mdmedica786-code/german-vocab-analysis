@@ -15,11 +15,16 @@ id: "B2199"
 netzwerk: "A2 K4 3b"
 freq_rank: 5759
 skip: false
+audio: "Horrorfilm.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Horrorfilm
+
+![[Horrorfilm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Horrorfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Horrorfilm&language=de)
 
 **Meaning:** horror film
 **Plural:** Horrorfilme

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2630"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Steuerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Steuerung
+
+![[Steuerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steuerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuerung&language=de)
 
 **Meaning:** control; steering; management
 **Plural:** Steuerungen

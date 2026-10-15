@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4379"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Schauspielberuf
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspielberuf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspielberuf&language=de)
 
 **Meaning:** acting profession
 **Plural:** Schauspielberufe

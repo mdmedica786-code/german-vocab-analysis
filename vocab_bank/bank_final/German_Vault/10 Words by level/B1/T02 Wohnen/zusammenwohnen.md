@@ -13,11 +13,16 @@ id: "B4253"
 netzwerk: "B1 K7 2b"
 freq_rank: 5759
 skip: false
+audio: "zusammenwohnen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenwohnen
+
+![[zusammenwohnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenwohnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenwohnen&language=de)
 
 **Meaning:** to live together
 **Forms:** wohnt zusammen · wohnte zusammen · hat zusammengewohnt

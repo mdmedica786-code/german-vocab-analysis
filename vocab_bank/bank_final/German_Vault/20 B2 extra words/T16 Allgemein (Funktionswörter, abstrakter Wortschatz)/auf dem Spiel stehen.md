@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0190"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "auf dem Spiel stehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auf dem Spiel stehen
+
+![[auf dem Spiel stehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20dem%20Spiel%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20dem%20Spiel%20stehen&language=de)
 
 **Meaning:** to be at stake
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

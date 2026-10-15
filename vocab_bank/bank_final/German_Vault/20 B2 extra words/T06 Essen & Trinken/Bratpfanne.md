@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1427"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Bratpfanne.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bratpfanne
+
+![[Bratpfanne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bratpfanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bratpfanne&language=de)
 
 **Meaning:** frying pan
 **Plural:** Bratpfannen

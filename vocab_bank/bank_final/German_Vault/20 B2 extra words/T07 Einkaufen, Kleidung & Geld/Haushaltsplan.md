@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1051"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Haushaltsplan.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Haushaltsplan
+
+![[Haushaltsplan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haushaltsplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haushaltsplan&language=de)
 
 **Meaning:** budget plan
 **Plural:** Haushaltspläne

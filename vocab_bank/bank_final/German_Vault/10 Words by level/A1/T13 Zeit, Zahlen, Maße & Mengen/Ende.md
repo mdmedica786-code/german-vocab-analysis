@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 13a"
 freq_rank: 221
 skip: false
+audio: "Ende.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ende
+
+![[Ende.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ende&language=de)
 
 **Meaning:** end
 **Plural:** Enden

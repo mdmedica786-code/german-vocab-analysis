@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3a"
 freq_rank: 291
 skip: false
+audio: "Buch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Buch
+
+![[Buch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buch&language=de)
 
 **Meaning:** book
 **Plural:** Bücher

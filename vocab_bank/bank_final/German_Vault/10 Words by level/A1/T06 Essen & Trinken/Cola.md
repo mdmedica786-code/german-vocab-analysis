@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 1a"
 freq_rank: 5502
 skip: false
+audio: "Cola.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Cola
+
+![[Cola.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Cola/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cola&language=de)
 
 **Meaning:** cola
 **Plural:** Colas

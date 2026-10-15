@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3052"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "erschaffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # erschaffen
+
+![[erschaffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erschaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschaffen&language=de)
 
 **Meaning:** to create
 **Forms:** erschafft · erschuf · hat erschaffen

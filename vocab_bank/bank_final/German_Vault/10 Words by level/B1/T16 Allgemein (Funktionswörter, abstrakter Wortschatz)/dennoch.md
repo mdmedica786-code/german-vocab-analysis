@@ -11,11 +11,16 @@ bank: "main"
 id: "B5182"
 freq_rank: 591
 skip: false
+audio: "dennoch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dennoch
+
+![[dennoch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dennoch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dennoch&language=de)
 
 **Meaning:** nevertheless; still
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

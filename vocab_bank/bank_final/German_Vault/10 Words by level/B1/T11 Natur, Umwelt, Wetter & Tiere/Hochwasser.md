@@ -15,11 +15,16 @@ id: "B4766"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Hochwasser.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hochwasser
+
+![[Hochwasser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochwasser&language=de)
 
 **Meaning:** flood
 **Plural:** Hochwasser

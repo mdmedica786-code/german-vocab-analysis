@@ -13,11 +13,16 @@ id: "B4568"
 netzwerk: "B1 K9 1b"
 freq_rank: 5759
 skip: false
+audio: "weiterentwickeln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiterentwickeln
+
+![[weiterentwickeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterentwickeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterentwickeln&language=de)
 
 **Meaning:** to develop further
 **Forms:** entwickelt weiter · entwickelte weiter · hat weiterentwickelt

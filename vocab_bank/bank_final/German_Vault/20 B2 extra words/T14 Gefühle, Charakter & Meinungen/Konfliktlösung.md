@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4126"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Konfliktlösung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Konfliktlösung
+
+![[Konfliktlösung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktl%C3%B6sung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktl%C3%B6sung&language=de)
 
 **Meaning:** conflict resolution
 **Plural:** Konfliktlösungen

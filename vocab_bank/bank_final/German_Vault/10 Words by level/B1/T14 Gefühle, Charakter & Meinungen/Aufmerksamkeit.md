@@ -15,11 +15,16 @@ id: "B3839"
 netzwerk: "B1 K4 13b"
 freq_rank: 1058
 skip: false
+audio: "Aufmerksamkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufmerksamkeit
+
+![[Aufmerksamkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufmerksamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufmerksamkeit&language=de)
 
 **Meaning:** attention
 **Plural:** –

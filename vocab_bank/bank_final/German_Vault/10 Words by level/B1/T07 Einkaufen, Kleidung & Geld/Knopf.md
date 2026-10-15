@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3e"
 freq_rank: 4353
 skip: false
+audio: "Knopf.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Knopf
+
+![[Knopf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Knopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knopf&language=de)
 
 **Meaning:** button
 **Plural:** Knöpfe

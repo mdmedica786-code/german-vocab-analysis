@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2632"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Gabe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gabe
+
+![[Gabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gabe&language=de)
 
 **Meaning:** gift; talent; donation
 **Plural:** Gaben

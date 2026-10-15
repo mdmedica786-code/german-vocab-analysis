@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zu Hilfe kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zu%20Hilfe%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu%20Hilfe%20kommen&language=de)
+
 **Meaning:** to come to the aid of
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2959"
 exam_use: ["Wissenschaft", "Hören"]
 skip: false
+audio: "Frequenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frequenz
+
+![[Frequenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frequenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frequenz&language=de)
 
 **Meaning:** frequency
 **Plural:** Frequenzen

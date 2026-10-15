@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4090"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Jugendclub
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jugendclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendclub&language=de)
 
 **Meaning:** youth club
 **Plural:** Jugendclubs

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4038"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "herunterspielen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # herunterspielen
+
+![[herunterspielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herunterspielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterspielen&language=de)
 
 **Meaning:** to play down; to downplay
 **Forms:** spielt herunter · spielte herunter · hat heruntergespielt

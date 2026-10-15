@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10c"
 freq_rank: 287
 skip: false
+audio: "Problem.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Problem
+
+![[Problem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Problem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Problem&language=de)
 
 **Meaning:** problem
 **Plural:** Probleme

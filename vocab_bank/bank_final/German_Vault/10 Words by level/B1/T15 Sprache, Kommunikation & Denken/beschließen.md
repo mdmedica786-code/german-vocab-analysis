@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 2b"
 freq_rank: 1542
 skip: false
+audio: "beschließen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschließen
+
+![[beschließen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschlie%C3%9Fen&language=de)
 
 **Meaning:** to decide
 **Forms:** beschließt · beschloss · hat beschlossen

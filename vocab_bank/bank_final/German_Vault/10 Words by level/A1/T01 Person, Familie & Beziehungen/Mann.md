@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 8a"
 freq_rank: 92
 skip: false
+audio: "Mann.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mann
+
+![[Mann.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mann&language=de)
 
 **Meaning:** man
 **Other senses:** husband

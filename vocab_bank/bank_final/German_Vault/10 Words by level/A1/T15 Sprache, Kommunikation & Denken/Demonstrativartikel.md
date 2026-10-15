@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Demonstrativartikel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Demonstrativartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demonstrativartikel&language=de)
+
 **Meaning:** demonstrative article
 **Plural:** Demonstrativartikel
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

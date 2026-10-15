@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3683"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Reinheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reinheit
+
+![[Reinheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reinheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinheit&language=de)
 
 **Meaning:** purity; cleanliness
 **Plural:** –

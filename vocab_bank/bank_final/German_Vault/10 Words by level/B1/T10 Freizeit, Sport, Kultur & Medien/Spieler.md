@@ -15,11 +15,16 @@ id: "B5660"
 goethe_level: "B1"
 freq_rank: 2696
 skip: false
+audio: "Spieler.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spieler
+
+![[Spieler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spieler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spieler&language=de)
 
 **Meaning:** player
 **Plural:** Spieler

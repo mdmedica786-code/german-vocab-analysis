@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1868"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Existenzminimum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Existenzminimum
+
+![[Existenzminimum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Existenzminimum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Existenzminimum&language=de)
 
 **Meaning:** subsistence level
 **Plural:** –

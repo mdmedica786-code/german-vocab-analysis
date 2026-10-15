@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4049"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
+audio: "Hochsprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Hochsprache
+
+![[Hochsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochsprache&language=de)
 
 **Meaning:** standard language; standard German
 **Plural:** Hochsprachen

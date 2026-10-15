@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2744"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "sicherstellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # sicherstellen
+
+![[sicherstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sicherstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sicherstellen&language=de)
 
 **Meaning:** to ensure; to secure; to confiscate
 **Forms:** stellt sicher · stellte sicher · hat sichergestellt

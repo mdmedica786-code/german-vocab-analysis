@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 1484
 skip: false
+audio: "Rechnung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rechnung
+
+![[Rechnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechnung&language=de)
 
 **Meaning:** bill
 **Plural:** Rechnungen

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 903
 skip: false
+audio: "zählen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zählen
+
+![[zählen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/z%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%A4hlen&language=de)
 
 **Meaning:** to count
 **Forms:** zählt · zählte · hat gezählt

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7b"
 freq_rank: 555
 skip: false
+audio: "Gespräch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gespräch
+
+![[Gespräch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gespr%C3%A4ch&language=de)
 
 **Meaning:** conversation; talk
 **Plural:** Gespräche

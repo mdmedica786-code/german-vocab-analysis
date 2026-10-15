@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # usw.
 
+[▶️ YouGlish](https://youglish.com/pronounce/usw./german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=usw.&language=de)
+
 **Meaning:** etc. (and so on)
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 **Note:** Abbreviation of und so weiter.

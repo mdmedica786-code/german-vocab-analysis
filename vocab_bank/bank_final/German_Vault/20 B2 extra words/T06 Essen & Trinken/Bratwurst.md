@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1435"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Bratwurst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bratwurst
+
+![[Bratwurst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bratwurst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bratwurst&language=de)
 
 **Meaning:** fried sausage; bratwurst
 **Plural:** Bratwürste

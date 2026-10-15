@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Betriebsausflug
 
+[▶️ YouGlish](https://youglish.com/pronounce/Betriebsausflug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betriebsausflug&language=de)
+
 **Meaning:** company outing
 **Plural:** Betriebsausflüge
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

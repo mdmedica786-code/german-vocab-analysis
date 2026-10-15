@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3848"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Computersprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Computersprache
+
+![[Computersprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Computersprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computersprache&language=de)
 
 **Meaning:** programming language; computer language
 **Plural:** Computersprachen

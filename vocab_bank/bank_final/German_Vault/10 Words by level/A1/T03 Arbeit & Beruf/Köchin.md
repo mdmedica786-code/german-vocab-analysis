@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Köchin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Köchin
+
+![[Köchin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6chin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6chin&language=de)
 
 **Meaning:** cook (f)
 **Plural:** Köchinnen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1200"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "antreiben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # antreiben
+
+![[antreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/antreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antreiben&language=de)
 
 **Meaning:** to drive; to urge on
 **Forms:** treibt an · trieb an · hat angetrieben

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1102"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Möbelpacker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Möbelpacker
+
+![[Möbelpacker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6belpacker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6belpacker&language=de)
 
 **Meaning:** furniture mover; removal man
 **Plural:** Möbelpacker

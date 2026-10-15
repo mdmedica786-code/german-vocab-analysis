@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2498"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "gleiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # gleiten
+
+![[gleiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gleiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gleiten&language=de)
 
 **Meaning:** to glide; to slide
 **Forms:** gleitet · glitt · ist geglitten

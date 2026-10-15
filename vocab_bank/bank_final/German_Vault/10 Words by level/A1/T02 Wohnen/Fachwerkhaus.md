@@ -15,11 +15,16 @@ id: "B1443"
 netzwerk: "A1 K9 10a"
 freq_rank: 5759
 skip: false
+audio: "Fachwerkhaus.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fachwerkhaus
+
+![[Fachwerkhaus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachwerkhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachwerkhaus&language=de)
 
 **Meaning:** half-timber house
 **Plural:** Fachwerkhäuser

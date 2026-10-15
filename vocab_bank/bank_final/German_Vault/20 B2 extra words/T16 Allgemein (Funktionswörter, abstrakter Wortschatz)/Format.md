@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3041"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Format.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Format
+
+![[Format.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Format/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Format&language=de)
 
 **Meaning:** format; size
 **Plural:** Formate

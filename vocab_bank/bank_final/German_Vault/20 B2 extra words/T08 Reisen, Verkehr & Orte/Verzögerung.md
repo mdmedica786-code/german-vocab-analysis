@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3540"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Verzögerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verzögerung
+
+![[Verzögerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verz%C3%B6gerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verz%C3%B6gerung&language=de)
 
 **Meaning:** delay
 **Plural:** Verzögerungen

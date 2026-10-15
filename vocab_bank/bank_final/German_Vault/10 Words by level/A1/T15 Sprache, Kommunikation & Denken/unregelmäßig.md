@@ -12,11 +12,16 @@ id: "B0779"
 netzwerk: "A1 K4 11"
 freq_rank: 5759
 skip: false
+audio: "unregelmäßig.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unregelmäßig
+
+![[unregelmäßig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unregelm%C3%A4%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unregelm%C3%A4%C3%9Fig&language=de)
 
 **Meaning:** irregular (irregular verbs)
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

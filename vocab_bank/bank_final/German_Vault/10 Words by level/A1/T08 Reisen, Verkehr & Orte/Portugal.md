@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Portugal
 
+[▶️ YouGlish](https://youglish.com/pronounce/Portugal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portugal&language=de)
+
 **Meaning:** Portugal
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

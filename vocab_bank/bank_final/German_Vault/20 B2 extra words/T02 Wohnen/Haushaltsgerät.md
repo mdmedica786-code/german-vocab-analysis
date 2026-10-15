@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1094"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Haushaltsgerät.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Haushaltsgerät
+
+![[Haushaltsgerät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haushaltsger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haushaltsger%C3%A4t&language=de)
 
 **Meaning:** household appliance
 **Plural:** Haushaltsgeräte

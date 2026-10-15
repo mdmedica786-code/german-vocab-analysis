@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die W-Frage
 
+[▶️ YouGlish](https://youglish.com/pronounce/W-Frage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W-Frage&language=de)
+
 **Meaning:** w-question
 **Plural:** W-Fragen
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

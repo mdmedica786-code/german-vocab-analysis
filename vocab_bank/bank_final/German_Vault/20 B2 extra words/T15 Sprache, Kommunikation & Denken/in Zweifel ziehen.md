@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Zweifel ziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Zweifel%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Zweifel%20ziehen&language=de)
+
 **Meaning:** to call into question
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

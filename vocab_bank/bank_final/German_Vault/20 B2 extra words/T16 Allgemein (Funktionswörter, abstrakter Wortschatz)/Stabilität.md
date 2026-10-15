@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2793"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Stabilität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stabilität
+
+![[Stabilität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stabilit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stabilit%C3%A4t&language=de)
 
 **Meaning:** stability
 **Plural:** –

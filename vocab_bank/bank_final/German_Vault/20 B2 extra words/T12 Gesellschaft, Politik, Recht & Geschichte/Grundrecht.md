@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0483"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Grundrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Grundrecht
+
+![[Grundrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundrecht&language=de)
 
 **Meaning:** fundamental right
 **Plural:** Grundrechte

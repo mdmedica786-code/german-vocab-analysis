@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 3a"
 freq_rank: 2383
 skip: false
+audio: "Überraschung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überraschung
+
+![[Überraschung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberraschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberraschung&language=de)
 
 **Meaning:** surprise
 **Plural:** Überraschungen

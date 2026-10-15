@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2215"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kurzschluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kurzschluss
+
+![[Kurzschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurzschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurzschluss&language=de)
 
 **Meaning:** short circuit
 **Plural:** Kurzschlüsse

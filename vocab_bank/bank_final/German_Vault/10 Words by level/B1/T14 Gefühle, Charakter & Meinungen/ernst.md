@@ -12,11 +12,16 @@ id: "B5178"
 goethe_level: "B1"
 freq_rank: 580
 skip: false
+audio: "ernst.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ernst
+
+![[ernst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ernst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ernst&language=de)
 
 **Meaning:** serious
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

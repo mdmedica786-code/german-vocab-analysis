@@ -15,11 +15,16 @@ id: "B4750"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 5391
 skip: false
+audio: "Vorurteil.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vorurteil
+
+![[Vorurteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorurteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorurteil&language=de)
 
 **Meaning:** prejudice
 **Plural:** Vorurteile

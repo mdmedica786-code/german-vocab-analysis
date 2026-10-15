@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0310"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Gleichgewicht.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gleichgewicht
+
+![[Gleichgewicht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gleichgewicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gleichgewicht&language=de)
 
 **Meaning:** balance; equilibrium
 **Plural:** –

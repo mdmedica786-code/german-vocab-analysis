@@ -15,11 +15,16 @@ id: "B4287"
 netzwerk: "B1 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Ehegattin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ehegattin
+
+![[Ehegattin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehegattin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehegattin&language=de)
 
 **Meaning:** spouse (f)
 **Plural:** Ehegattinnen

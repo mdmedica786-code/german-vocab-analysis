@@ -13,11 +13,16 @@ id: "B4519"
 netzwerk: "B1 K8 11a"
 freq_rank: 1433
 skip: false
+audio: "vermitteln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vermitteln
+
+![[vermitteln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vermitteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vermitteln&language=de)
 
 **Meaning:** to convey
 **Other senses:** to mediate

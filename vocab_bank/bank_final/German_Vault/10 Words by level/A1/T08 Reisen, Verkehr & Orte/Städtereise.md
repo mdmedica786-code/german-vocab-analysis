@@ -15,11 +15,16 @@ id: "B1749"
 netzwerk: "A1 K12 3a"
 freq_rank: 5759
 skip: false
+audio: "Städtereise.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Städtereise
+
+![[Städtereise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/St%C3%A4dtereise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%A4dtereise&language=de)
 
 **Meaning:** city trip
 **Plural:** Städtereisen

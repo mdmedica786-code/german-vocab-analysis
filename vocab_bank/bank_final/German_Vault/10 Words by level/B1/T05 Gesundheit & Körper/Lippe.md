@@ -15,11 +15,16 @@ id: "B5194"
 goethe_level: "B1"
 freq_rank: 662
 skip: false
+audio: "Lippe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lippe
+
+![[Lippe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lippe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lippe&language=de)
 
 **Meaning:** lip
 **Plural:** Lippen

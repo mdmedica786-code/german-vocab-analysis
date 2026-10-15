@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 6a"
 freq_rank: 542
 skip: false
+audio: "Stück.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stück
+
+![[Stück.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/St%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%BCck&language=de)
 
 **Meaning:** piece
 **Plural:** Stücke

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K8 6b"
 freq_rank: 2424
 skip: false
+audio: "ausländisch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausländisch
+
+![[ausländisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausl%C3%A4ndisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausl%C3%A4ndisch&language=de)
 
 **Meaning:** foreign
 **Level:** A1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

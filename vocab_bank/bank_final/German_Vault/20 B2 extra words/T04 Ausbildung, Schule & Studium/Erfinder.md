@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0637"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Erfinder.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Erfinder
+
+![[Erfinder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erfinder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfinder&language=de)
 
 **Meaning:** inventor
 **Plural:** Erfinder

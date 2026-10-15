@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3575"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Leitfaden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leitfaden
+
+![[Leitfaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leitfaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitfaden&language=de)
 
 **Meaning:** guide; manual; guideline
 **Plural:** Leitfäden

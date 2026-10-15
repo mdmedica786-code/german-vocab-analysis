@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2709"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "unterwerfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterwerfen
+
+![[unterwerfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterwerfen&language=de)
 
 **Meaning:** to subjugate; to subject
 **Forms:** unterwirft · unterwarf · hat unterworfen

@@ -11,11 +11,16 @@ bank: "main"
 id: "B6344"
 freq_rank: 5754
 skip: false
+audio: "unterhaltsam.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterhaltsam
+
+![[unterhaltsam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterhaltsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterhaltsam&language=de)
 
 **Meaning:** entertaining
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

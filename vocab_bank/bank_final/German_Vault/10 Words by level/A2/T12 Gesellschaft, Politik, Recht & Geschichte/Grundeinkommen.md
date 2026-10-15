@@ -15,11 +15,16 @@ id: "B2511"
 netzwerk: "A2 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "Grundeinkommen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Grundeinkommen
+
+![[Grundeinkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundeinkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundeinkommen&language=de)
 
 **Meaning:** basic income
 **Plural:** Grundeinkommen

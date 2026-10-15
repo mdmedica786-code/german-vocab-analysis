@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2207"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Speicherkarte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Speicherkarte
+
+![[Speicherkarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Speicherkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speicherkarte&language=de)
 
 **Meaning:** memory card
 **Plural:** Speicherkarten

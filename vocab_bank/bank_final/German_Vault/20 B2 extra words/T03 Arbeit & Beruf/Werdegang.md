@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0395"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Werdegang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Werdegang
+
+![[Werdegang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werdegang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werdegang&language=de)
 
 **Meaning:** career; development (path)
 **Plural:** Werdegänge

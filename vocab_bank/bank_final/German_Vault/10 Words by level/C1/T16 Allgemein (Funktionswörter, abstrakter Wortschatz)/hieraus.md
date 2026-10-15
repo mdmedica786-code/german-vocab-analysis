@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # hieraus
 
+[▶️ YouGlish](https://youglish.com/pronounce/hieraus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hieraus&language=de)
+
 **Meaning:** from this
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

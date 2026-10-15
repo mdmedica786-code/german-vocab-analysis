@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3561"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "ausgiebig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgiebig
+
+![[ausgiebig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgiebig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgiebig&language=de)
 
 **Meaning:** extensive; lavish; thorough
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4606"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Vorkenntnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Vorkenntnis
+
+![[Vorkenntnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorkenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorkenntnis&language=de)
 
 **Meaning:** prior knowledge; previous knowledge
 **Plural:** Vorkenntnisse

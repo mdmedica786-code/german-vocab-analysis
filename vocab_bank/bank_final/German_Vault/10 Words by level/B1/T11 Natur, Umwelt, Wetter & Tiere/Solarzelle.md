@@ -15,11 +15,16 @@ id: "B4141"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Solarzelle.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Solarzelle
+
+![[Solarzelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Solarzelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solarzelle&language=de)
 
 **Meaning:** solar cell
 **Plural:** Solarzellen

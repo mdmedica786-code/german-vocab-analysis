@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 3488
 skip: false
+audio: "klagen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klagen
+
+![[klagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klagen&language=de)
 
 **Meaning:** to lament
 **Forms:** klagt · klagte · hat geklagt

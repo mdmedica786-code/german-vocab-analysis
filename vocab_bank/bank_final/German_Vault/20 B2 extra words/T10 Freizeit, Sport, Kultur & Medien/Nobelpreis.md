@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4274"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Nobelpreis.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Nobelpreis
+
+![[Nobelpreis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nobelpreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nobelpreis&language=de)
 
 **Meaning:** Nobel Prize
 **Plural:** Nobelpreise

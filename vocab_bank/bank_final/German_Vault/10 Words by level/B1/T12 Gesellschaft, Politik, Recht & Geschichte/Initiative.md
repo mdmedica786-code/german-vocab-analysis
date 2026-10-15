@@ -15,11 +15,16 @@ id: "B4989"
 netzwerk: "B1 K11 12b"
 freq_rank: 2656
 skip: false
+audio: "Initiative.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Initiative
+
+![[Initiative.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Initiative/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Initiative&language=de)
 
 **Meaning:** initiative
 **Plural:** Initiativen

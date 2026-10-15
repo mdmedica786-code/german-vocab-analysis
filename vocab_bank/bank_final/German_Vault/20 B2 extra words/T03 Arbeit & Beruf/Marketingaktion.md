@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4209"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Marketingaktion
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marketingaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marketingaktion&language=de)
 
 **Meaning:** marketing campaign; promotion
 **Plural:** Marketingaktionen

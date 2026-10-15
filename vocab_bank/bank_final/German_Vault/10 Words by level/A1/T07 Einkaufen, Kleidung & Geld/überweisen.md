@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "überweisen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überweisen
+
+![[überweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberweisen&language=de)
 
 **Meaning:** to transfer; to refer (a patient)
 **Forms:** überweist · überwies · hat überwiesen

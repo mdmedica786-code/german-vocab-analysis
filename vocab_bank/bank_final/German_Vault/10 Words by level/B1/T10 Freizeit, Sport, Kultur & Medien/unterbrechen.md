@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 10"
 freq_rank: 1340
 skip: false
+audio: "unterbrechen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterbrechen
+
+![[unterbrechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterbrechen&language=de)
 
 **Meaning:** to interrupt
 **Forms:** unterbricht · unterbrach · hat unterbrochen

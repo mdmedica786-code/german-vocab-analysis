@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Chance ergreifen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Chance%20ergreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chance%20ergreifen&language=de)
+
 **Meaning:** to seize the opportunity
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

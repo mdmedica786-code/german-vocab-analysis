@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4293"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Pedal.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Pedal
+
+![[Pedal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pedal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pedal&language=de)
 
 **Meaning:** pedal
 **Plural:** Pedale

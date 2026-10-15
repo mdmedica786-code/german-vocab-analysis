@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 3d"
 freq_rank: 5759
 skip: false
+audio: "umsteigen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umsteigen
+
+![[umsteigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umsteigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umsteigen&language=de)
 
 **Meaning:** to transfer
 **Forms:** steigt um · stieg um · ist umgestiegen

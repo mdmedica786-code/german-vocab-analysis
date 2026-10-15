@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2296"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "durchlässig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchlässig
+
+![[durchlässig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchl%C3%A4ssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchl%C3%A4ssig&language=de)
 
 **Meaning:** permeable; porous
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B4514"
 netzwerk: "B1 K8 10a"
 freq_rank: 1590
 skip: false
+audio: "Zunge.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zunge
+
+![[Zunge.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zunge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zunge&language=de)
 
 **Meaning:** tongue
 **Plural:** Zungen

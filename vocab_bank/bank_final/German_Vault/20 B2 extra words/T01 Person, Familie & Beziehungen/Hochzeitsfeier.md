@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1142"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Hochzeitsfeier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hochzeitsfeier
+
+![[Hochzeitsfeier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochzeitsfeier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochzeitsfeier&language=de)
 
 **Meaning:** wedding celebration
 **Plural:** Hochzeitsfeiern

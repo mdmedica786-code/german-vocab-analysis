@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Reisebüro-Mitarbeiter
 
+[▶️ YouGlish](https://youglish.com/pronounce/Reiseb%C3%BCro-Mitarbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reiseb%C3%BCro-Mitarbeiter&language=de)
+
 **Meaning:** travel agent (m)
 **Plural:** Reisebüro-Mitarbeiter
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

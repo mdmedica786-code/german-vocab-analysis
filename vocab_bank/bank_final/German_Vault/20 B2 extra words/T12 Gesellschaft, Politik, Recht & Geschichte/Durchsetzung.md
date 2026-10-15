@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3042"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Durchsetzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Durchsetzung
+
+![[Durchsetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchsetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchsetzung&language=de)
 
 **Meaning:** enforcement; implementation
 **Plural:** –

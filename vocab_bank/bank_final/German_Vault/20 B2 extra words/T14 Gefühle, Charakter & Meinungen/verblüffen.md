@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2975"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "verblüffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verblüffen
+
+![[verblüffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbl%C3%BCffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbl%C3%BCffen&language=de)
 
 **Meaning:** to astonish; to baffle
 **Forms:** verblüfft · verblüffte · hat verblüfft

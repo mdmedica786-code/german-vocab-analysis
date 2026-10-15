@@ -12,11 +12,16 @@ id: "B6282"
 goethe_level: "B1"
 freq_rank: 5342
 skip: false
+audio: "verdächtig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdächtig
+
+![[verdächtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verd%C3%A4chtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verd%C3%A4chtig&language=de)
 
 **Meaning:** suspicious
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

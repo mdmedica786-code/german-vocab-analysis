@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 10a"
 freq_rank: 3758
 skip: false
+audio: "Kasten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kasten
+
+![[Kasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kasten&language=de)
 
 **Meaning:** box
 **Plural:** Kästen

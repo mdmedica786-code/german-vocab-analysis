@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4417"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Social-Media-Kanal
+
+[▶️ YouGlish](https://youglish.com/pronounce/Social-Media-Kanal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social-Media-Kanal&language=de)
 
 **Meaning:** social media channel
 **Plural:** Social-Media-Kanäle

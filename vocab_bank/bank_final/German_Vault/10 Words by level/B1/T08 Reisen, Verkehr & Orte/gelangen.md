@@ -13,11 +13,16 @@ id: "B4476"
 netzwerk: "B1 K8 6b"
 freq_rank: 953
 skip: false
+audio: "gelangen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelangen
+
+![[gelangen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelangen&language=de)
 
 **Meaning:** to reach; to get to
 **Forms:** gelangt · gelangte · ist gelangt

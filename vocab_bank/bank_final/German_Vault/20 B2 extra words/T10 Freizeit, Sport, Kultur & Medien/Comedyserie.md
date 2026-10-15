@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3845"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Comedyserie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Comedyserie
+
+![[Comedyserie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Comedyserie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Comedyserie&language=de)
 
 **Meaning:** comedy series
 **Plural:** Comedyserien

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3591"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ruine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ruine
+
+![[Ruine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ruine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruine&language=de)
 
 **Meaning:** ruin; ruins
 **Plural:** Ruinen

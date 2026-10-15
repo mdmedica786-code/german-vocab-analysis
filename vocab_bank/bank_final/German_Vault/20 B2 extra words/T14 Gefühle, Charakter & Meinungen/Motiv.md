@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0294"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Motiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Motiv
+
+![[Motiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Motiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motiv&language=de)
 
 **Meaning:** motive; motif
 **Plural:** Motive

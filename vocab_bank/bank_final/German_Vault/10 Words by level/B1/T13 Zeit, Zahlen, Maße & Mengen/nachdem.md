@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 2b"
 freq_rank: 393
 skip: false
+audio: "nachdem.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachdem
+
+![[nachdem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachdem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachdem&language=de)
 
 **Meaning:** after
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

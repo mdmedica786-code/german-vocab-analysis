@@ -15,11 +15,16 @@ id: "B3833"
 netzwerk: "B1 K4 12b"
 freq_rank: 5759
 skip: false
+audio: "Interessent.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Interessent
+
+![[Interessent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interessent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interessent&language=de)
 
 **Meaning:** interested person (m); prospective candidate
 **Plural:** Interessenten

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Sozialkunde
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialkunde&language=de)
+
 **Meaning:** social studies
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 9a"
 freq_rank: 2128
 skip: false
+audio: "Ticket.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ticket
+
+![[Ticket.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ticket/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ticket&language=de)
 
 **Meaning:** ticket
 **Plural:** Tickets

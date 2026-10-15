@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1901"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Wohngemeinschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wohngemeinschaft
+
+![[Wohngemeinschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohngemeinschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohngemeinschaft&language=de)
 
 **Meaning:** shared flat
 **Plural:** Wohngemeinschaften

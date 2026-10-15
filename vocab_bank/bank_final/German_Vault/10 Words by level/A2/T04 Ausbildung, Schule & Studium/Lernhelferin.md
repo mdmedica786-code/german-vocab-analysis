@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Lernhelferin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lernhelferin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernhelferin&language=de)
+
 **Meaning:** tutor (f)
 **Plural:** Lernhelferinnen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

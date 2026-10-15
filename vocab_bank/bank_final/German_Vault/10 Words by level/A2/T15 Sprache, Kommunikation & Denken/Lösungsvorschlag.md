@@ -15,11 +15,16 @@ id: "B2619"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Lösungsvorschlag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lösungsvorschlag
+
+![[Lösungsvorschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6sungsvorschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6sungsvorschlag&language=de)
 
 **Meaning:** proposed solution
 **Plural:** Lösungsvorschläge

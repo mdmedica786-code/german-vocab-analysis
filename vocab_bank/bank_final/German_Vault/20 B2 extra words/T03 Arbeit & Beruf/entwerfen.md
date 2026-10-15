@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0890"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entwerfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entwerfen
+
+![[entwerfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entwerfen&language=de)
 
 **Meaning:** to design; to draft
 **Forms:** entwirft · entwarf · hat entworfen

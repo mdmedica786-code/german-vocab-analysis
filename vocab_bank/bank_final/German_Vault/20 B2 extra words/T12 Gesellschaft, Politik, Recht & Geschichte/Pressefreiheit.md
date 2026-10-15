@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0530"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Pressefreiheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pressefreiheit
+
+![[Pressefreiheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pressefreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pressefreiheit&language=de)
 
 **Meaning:** freedom of the press
 **Plural:** –

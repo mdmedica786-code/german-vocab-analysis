@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 11a"
 freq_rank: 1452
 skip: false
+audio: "kriegen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kriegen
+
+![[kriegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kriegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kriegen&language=de)
 
 **Meaning:** to get
 **Forms:** kriegt · kriegte · hat gekriegt

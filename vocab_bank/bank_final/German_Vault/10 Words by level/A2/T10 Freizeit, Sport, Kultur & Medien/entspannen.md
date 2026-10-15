@@ -13,11 +13,16 @@ id: "B2831"
 netzwerk: "A2 K9 1b"
 freq_rank: 2135
 skip: false
+audio: "entspannen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entspannen
+
+![[entspannen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entspannen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entspannen&language=de)
 
 **Meaning:** to relax
 **Forms:** entspannt · entspannte · hat entspannt

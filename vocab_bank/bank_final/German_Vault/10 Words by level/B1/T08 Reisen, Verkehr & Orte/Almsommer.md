@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Almsommer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Almsommer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Almsommer&language=de)
+
 **Meaning:** summer on the alp
 **Plural:** Almsommer
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

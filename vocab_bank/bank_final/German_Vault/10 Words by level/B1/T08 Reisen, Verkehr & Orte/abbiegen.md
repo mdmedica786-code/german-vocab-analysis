@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "abbiegen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abbiegen
+
+![[abbiegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abbiegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abbiegen&language=de)
 
 **Meaning:** to turn
 **Forms:** biegt ab · bog ab · ist abgebogen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3088"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vorfeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vorfeld
+
+![[Vorfeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfeld&language=de)
 
 **Meaning:** run-up; preliminary stage (only in "im Vorfeld")
 **Plural:** –

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Brücke
 
+[▶️ YouGlish](https://youglish.com/pronounce/Br%C3%BCcke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%BCcke&language=de)
+
 **Meaning:** bridge
 **Plural:** Brücken
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

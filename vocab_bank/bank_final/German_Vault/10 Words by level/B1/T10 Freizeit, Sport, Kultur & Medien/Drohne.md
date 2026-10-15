@@ -15,11 +15,16 @@ id: "B4076"
 netzwerk: "B1 K6 1a"
 freq_rank: 5759
 skip: false
+audio: "Drohne.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Drohne
+
+![[Drohne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drohne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drohne&language=de)
 
 **Meaning:** drone
 **Plural:** Drohnen

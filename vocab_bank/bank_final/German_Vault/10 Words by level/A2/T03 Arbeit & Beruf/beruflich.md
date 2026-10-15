@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 1599
 skip: false
+audio: "beruflich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beruflich
+
+![[beruflich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beruflich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beruflich&language=de)
 
 **Meaning:** professional
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

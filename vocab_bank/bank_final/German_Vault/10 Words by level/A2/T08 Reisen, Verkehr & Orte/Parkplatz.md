@@ -15,11 +15,16 @@ id: "B2537"
 netzwerk: "A2 K7 1 ÜB"
 freq_rank: 3184
 skip: false
+audio: "Parkplatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Parkplatz
+
+![[Parkplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parkplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parkplatz&language=de)
 
 **Meaning:** parking lot
 **Plural:** Parkplätze

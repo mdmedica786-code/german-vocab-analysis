@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 7a"
 freq_rank: 2610
 skip: false
+audio: "Training.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Training
+
+![[Training.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Training/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Training&language=de)
 
 **Meaning:** training; practice session
 **Plural:** Trainings

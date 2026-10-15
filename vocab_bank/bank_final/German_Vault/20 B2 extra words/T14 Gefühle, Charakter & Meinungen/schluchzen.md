@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2851"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "schluchzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # schluchzen
+
+![[schluchzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schluchzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schluchzen&language=de)
 
 **Meaning:** to sob
 **Forms:** schluchzt · schluchzte · hat geschluchzt

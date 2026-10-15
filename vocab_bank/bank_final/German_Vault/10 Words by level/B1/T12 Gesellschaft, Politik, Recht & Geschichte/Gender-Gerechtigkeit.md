@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Gender-Gerechtigkeit
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gender-Gerechtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gender-Gerechtigkeit&language=de)
+
 **Meaning:** gender equality, gender equity
 **Plural:** –
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5545"
 freq_rank: 2267
 skip: false
+audio: "Nacken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nacken
+
+![[Nacken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nacken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nacken&language=de)
 
 **Meaning:** neck (back of the neck); nape
 **Plural:** Nacken

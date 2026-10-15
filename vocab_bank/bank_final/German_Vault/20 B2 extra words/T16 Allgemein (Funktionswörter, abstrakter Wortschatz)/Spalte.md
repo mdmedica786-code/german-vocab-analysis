@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2853"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Spalte.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spalte
+
+![[Spalte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spalte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spalte&language=de)
 
 **Meaning:** column; crack
 **Plural:** Spalten

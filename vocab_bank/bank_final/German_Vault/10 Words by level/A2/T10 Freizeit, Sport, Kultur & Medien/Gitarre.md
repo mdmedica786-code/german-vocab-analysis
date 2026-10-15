@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 1b"
 freq_rank: 2216
 skip: false
+audio: "Gitarre.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gitarre
+
+![[Gitarre.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gitarre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gitarre&language=de)
 
 **Meaning:** guitar
 **Plural:** Gitarren

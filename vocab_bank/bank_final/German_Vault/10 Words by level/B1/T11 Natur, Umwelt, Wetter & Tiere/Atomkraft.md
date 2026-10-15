@@ -15,11 +15,16 @@ id: "B4872"
 netzwerk: "B1 K10 11a"
 freq_rank: 5759
 skip: false
+audio: "Atomkraft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Atomkraft
+
+![[Atomkraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Atomkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atomkraft&language=de)
 
 **Meaning:** atomic power
 **Plural:** –

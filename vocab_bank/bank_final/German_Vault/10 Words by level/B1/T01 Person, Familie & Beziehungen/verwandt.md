@@ -12,11 +12,16 @@ id: "B5669"
 goethe_level: "B1"
 freq_rank: 2750
 skip: false
+audio: "verwandt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwandt
+
+![[verwandt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verwandt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verwandt&language=de)
 
 **Meaning:** related
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

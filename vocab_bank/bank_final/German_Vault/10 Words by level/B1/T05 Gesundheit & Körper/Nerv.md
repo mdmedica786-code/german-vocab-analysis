@@ -15,11 +15,16 @@ id: "B5602"
 goethe_level: "B1"
 freq_rank: 2487
 skip: false
+audio: "Nerv.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nerv
+
+![[Nerv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nerv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nerv&language=de)
 
 **Meaning:** nerve
 **Plural:** Nerven

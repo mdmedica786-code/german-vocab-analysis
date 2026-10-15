@@ -13,11 +13,16 @@ id: "B3749"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 3000
 skip: false
+audio: "ernst nehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ernst nehmen
+
+![[ernst nehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ernst%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ernst%20nehmen&language=de)
 
 **Meaning:** to take sth seriously
 **Forms:** nimmt ernst · nahm ernst · hat ernst genommen

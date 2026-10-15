@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2020"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Raureif.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Raureif
+
+![[Raureif.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Raureif/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raureif&language=de)
 
 **Meaning:** hoarfrost
 **Plural:** –

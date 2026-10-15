@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3635"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Vorwand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorwand
+
+![[Vorwand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorwand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorwand&language=de)
 
 **Meaning:** pretext; excuse
 **Plural:** Vorwände

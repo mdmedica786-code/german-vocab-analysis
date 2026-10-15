@@ -15,11 +15,16 @@ id: "B2189"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Schulranzen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schulranzen
+
+![[Schulranzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schulranzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulranzen&language=de)
 
 **Meaning:** school bag
 **Plural:** Schulranzen

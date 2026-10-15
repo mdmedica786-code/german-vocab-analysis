@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1182"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Untertreibung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Untertreibung
+
+![[Untertreibung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untertreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untertreibung&language=de)
 
 **Meaning:** understatement
 **Plural:** Untertreibungen

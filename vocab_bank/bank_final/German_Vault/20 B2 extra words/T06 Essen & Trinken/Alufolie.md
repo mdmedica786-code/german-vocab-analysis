@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2256"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Alufolie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Alufolie
+
+![[Alufolie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alufolie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alufolie&language=de)
 
 **Meaning:** aluminium foil
 **Plural:** Alufolien

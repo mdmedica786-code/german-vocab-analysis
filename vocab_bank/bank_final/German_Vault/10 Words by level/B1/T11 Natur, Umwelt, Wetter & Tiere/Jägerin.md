@@ -15,11 +15,16 @@ id: "B4708"
 netzwerk: "B1 K9 13b"
 freq_rank: 5759
 skip: false
+audio: "Jägerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jägerin
+
+![[Jägerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/J%C3%A4gerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=J%C3%A4gerin&language=de)
 
 **Meaning:** hunter (f)
 **Plural:** Jägerinnen

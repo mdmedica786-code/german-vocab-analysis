@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 1431
 skip: false
+audio: "rennen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rennen
+
+![[rennen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rennen&language=de)
 
 **Meaning:** to run
 **Forms:** rennt · rannte · ist gerannt

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 8b"
 freq_rank: 898
 skip: false
+audio: "kritisch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kritisch
+
+![[kritisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kritisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kritisch&language=de)
 
 **Meaning:** critical
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

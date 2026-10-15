@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3180"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Zeitgenosse.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeitgenosse
+
+![[Zeitgenosse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitgenosse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitgenosse&language=de)
 
 **Meaning:** contemporary; (sometimes humorous) character; person
 **Plural:** Zeitgenossen

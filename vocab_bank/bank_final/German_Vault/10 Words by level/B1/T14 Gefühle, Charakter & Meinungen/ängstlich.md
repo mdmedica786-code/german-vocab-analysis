@@ -12,11 +12,16 @@ id: "B5885"
 goethe_level: "B1"
 freq_rank: 3309
 skip: false
+audio: "ängstlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ängstlich
+
+![[ängstlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%A4ngstlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4ngstlich&language=de)
 
 **Meaning:** anxious; timid
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3549"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bestrebung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bestrebung
+
+![[Bestrebung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bestrebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestrebung&language=de)
 
 **Meaning:** effort; endeavour
 **Plural:** Bestrebungen

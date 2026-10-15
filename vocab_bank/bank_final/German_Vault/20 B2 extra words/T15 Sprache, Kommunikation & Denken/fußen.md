@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1820"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "fußen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # fußen
+
+![[fußen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fu%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fu%C3%9Fen&language=de)
 
 **Meaning:** to be based on
 **Forms:** fußt · fußte · hat gefußt

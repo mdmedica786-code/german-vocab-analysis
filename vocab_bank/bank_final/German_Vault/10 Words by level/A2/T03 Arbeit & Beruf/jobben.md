@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 1c"
 freq_rank: 5759
 skip: false
+audio: "jobben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jobben
+
+![[jobben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jobben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jobben&language=de)
 
 **Meaning:** to temp
 **Forms:** jobbt · jobbte · hat gejobbt

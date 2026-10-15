@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1389"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kleiderbügel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kleiderbügel
+
+![[Kleiderbügel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleiderb%C3%BCgel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleiderb%C3%BCgel&language=de)
 
 **Meaning:** clothes hanger
 **Plural:** Kleiderbügel

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0541"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Wohngeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wohngeld
+
+![[Wohngeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohngeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohngeld&language=de)
 
 **Meaning:** housing benefit
 **Plural:** –

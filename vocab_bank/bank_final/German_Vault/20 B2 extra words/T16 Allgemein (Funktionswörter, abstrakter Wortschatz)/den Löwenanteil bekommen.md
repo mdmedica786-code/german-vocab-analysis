@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # den Löwenanteil bekommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/den%20L%C3%B6wenanteil%20bekommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=den%20L%C3%B6wenanteil%20bekommen&language=de)
+
 **Meaning:** to get the lion's share
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

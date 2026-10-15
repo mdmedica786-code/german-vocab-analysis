@@ -15,11 +15,16 @@ id: "B4374"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Pfannkuchen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pfannkuchen
+
+![[Pfannkuchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfannkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfannkuchen&language=de)
 
 **Meaning:** pancake
 **Plural:** Pfannkuchen

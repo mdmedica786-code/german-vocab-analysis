@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Leseverstehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Leseverstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leseverstehen&language=de)
+
 **Meaning:** reading comprehension
 **Plural:** –
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

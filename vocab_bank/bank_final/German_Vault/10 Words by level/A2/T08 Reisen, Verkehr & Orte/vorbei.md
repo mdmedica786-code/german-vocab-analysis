@@ -12,11 +12,16 @@ id: "B5199"
 goethe_level: "A2"
 freq_rank: 694
 skip: false
+audio: "vorbei.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorbei
+
+![[vorbei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorbei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbei&language=de)
 
 **Meaning:** past; over
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

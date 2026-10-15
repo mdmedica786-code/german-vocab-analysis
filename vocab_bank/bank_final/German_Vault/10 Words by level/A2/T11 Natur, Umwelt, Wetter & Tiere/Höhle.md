@@ -15,11 +15,16 @@ id: "B2895"
 netzwerk: "A2 K9 12a"
 freq_rank: 2128
 skip: false
+audio: "Höhle.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Höhle
+
+![[Höhle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6hle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6hle&language=de)
 
 **Meaning:** cave
 **Plural:** Höhlen

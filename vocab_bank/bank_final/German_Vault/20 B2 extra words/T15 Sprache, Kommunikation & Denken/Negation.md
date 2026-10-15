@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4265"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
-status: "new"
+audio: "Negation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Negation
+
+![[Negation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Negation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Negation&language=de)
 
 **Meaning:** negation
 **Plural:** Negationen

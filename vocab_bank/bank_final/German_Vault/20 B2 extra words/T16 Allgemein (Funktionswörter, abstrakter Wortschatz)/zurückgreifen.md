@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1852"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "zurückgreifen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückgreifen
+
+![[zurückgreifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckgreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckgreifen&language=de)
 
 **Meaning:** to fall back on; to resort to
 **Forms:** greift zurück · griff zurück · hat zurückgegriffen

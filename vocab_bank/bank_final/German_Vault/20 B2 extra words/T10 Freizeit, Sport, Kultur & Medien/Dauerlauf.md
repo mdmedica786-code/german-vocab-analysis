@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3856"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Dauerlauf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Dauerlauf
+
+![[Dauerlauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dauerlauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dauerlauf&language=de)
 
 **Meaning:** endurance run; long-distance jog
 **Plural:** Dauerläufe

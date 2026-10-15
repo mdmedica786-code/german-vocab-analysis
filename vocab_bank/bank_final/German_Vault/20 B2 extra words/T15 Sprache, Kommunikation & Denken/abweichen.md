@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0273"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "abweichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abweichen
+
+![[abweichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abweichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abweichen&language=de)
 
 **Meaning:** to deviate; to differ
 **Forms:** weicht ab · wich ab · ist abgewichen

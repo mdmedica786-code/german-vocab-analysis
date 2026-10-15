@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2c"
 freq_rank: 1069
 skip: false
+audio: "Geschäft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geschäft
+
+![[Geschäft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ft&language=de)
 
 **Meaning:** shop
 **Plural:** Geschäfte

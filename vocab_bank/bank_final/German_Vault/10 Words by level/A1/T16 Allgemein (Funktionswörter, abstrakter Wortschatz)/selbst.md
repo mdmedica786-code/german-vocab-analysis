@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 14a"
 freq_rank: 90
 skip: false
+audio: "selbst.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # selbst
+
+![[selbst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/selbst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selbst&language=de)
 
 **Meaning:** oneself
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 1a"
 freq_rank: 2265
 skip: false
+audio: "nervös.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nervös
+
+![[nervös.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nerv%C3%B6s/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nerv%C3%B6s&language=de)
 
 **Meaning:** nervous
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

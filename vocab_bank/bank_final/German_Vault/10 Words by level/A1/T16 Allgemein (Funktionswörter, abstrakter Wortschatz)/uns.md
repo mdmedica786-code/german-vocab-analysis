@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # uns
 
+[▶️ YouGlish](https://youglish.com/pronounce/uns/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=uns&language=de)
+
 **Meaning:** us; (bei uns) at our place
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

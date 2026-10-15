@@ -13,11 +13,16 @@ id: "B0257"
 netzwerk: "A1 K2 4a"
 freq_rank: 5759
 skip: false
+audio: "nachsprechen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachsprechen
+
+![[nachsprechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachsprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachsprechen&language=de)
 
 **Meaning:** to repeat (after sb.)
 **Forms:** spricht nach · sprach nach · hat nachgesprochen

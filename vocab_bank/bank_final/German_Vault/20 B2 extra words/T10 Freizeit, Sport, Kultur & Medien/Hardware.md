@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0583"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Hardware.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hardware
+
+![[Hardware.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hardware/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hardware&language=de)
 
 **Meaning:** hardware
 **Plural:** –

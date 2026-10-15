@@ -13,11 +13,16 @@ id: "B4917"
 netzwerk: "B1 K11 6b"
 freq_rank: 5759
 skip: false
+audio: "herunterfahren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herunterfahren
+
+![[herunterfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herunterfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterfahren&language=de)
 
 **Meaning:** to shut down (computer)
 **Forms:** fährt herunter · fuhr herunter · hat heruntergefahren

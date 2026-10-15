@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1742"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Fahrlehrer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrlehrer
+
+![[Fahrlehrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrlehrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrlehrer&language=de)
 
 **Meaning:** driving instructor
 **Plural:** Fahrlehrer

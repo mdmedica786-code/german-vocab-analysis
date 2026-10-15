@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 4790
 skip: false
+audio: "Ärztin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ärztin
+
+![[Ärztin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%84rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%84rztin&language=de)
 
 **Meaning:** doctor (f)
 **Plural:** Ärztinnen

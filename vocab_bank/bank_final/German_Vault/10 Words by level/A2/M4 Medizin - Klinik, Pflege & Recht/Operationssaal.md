@@ -15,11 +15,16 @@ id: "B2462"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Operationssaal.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Operationssaal
+
+![[Operationssaal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Operationssaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Operationssaal&language=de)
 
 **Meaning:** operating theatre
 **Plural:** Operationssäle

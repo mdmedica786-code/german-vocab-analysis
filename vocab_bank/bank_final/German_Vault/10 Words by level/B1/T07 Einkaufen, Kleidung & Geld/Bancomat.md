@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bancomat
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bancomat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bancomat&language=de)
+
 **Meaning:** cash machine (Swiss)
 **Plural:** Bancomaten
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** regional

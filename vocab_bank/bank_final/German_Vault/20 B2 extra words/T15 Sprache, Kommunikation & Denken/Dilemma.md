@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3392"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Dilemma.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dilemma
+
+![[Dilemma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dilemma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dilemma&language=de)
 
 **Meaning:** dilemma
 **Plural:** Dilemmas

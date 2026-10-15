@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 3039
 skip: false
+audio: "Akademie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Akademie
+
+![[Akademie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Akademie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akademie&language=de)
 
 **Meaning:** academy
 **Plural:** Akademien

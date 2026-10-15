@@ -15,11 +15,16 @@ id: "B4571"
 netzwerk: "B1 K9 2b"
 freq_rank: 5759
 skip: false
+audio: "Kunstobjekt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kunstobjekt
+
+![[Kunstobjekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstobjekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstobjekt&language=de)
 
 **Meaning:** artwork
 **Plural:** Kunstobjekte

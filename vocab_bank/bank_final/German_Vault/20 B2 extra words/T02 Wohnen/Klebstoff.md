@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2286"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Klebstoff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klebstoff
+
+![[Klebstoff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klebstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klebstoff&language=de)
 
 **Meaning:** glue; adhesive
 **Plural:** Klebstoffe

@@ -15,11 +15,16 @@ id: "B2628"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Stadtbewohner.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtbewohner
+
+![[Stadtbewohner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtbewohner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtbewohner&language=de)
 
 **Meaning:** city dweller (m)
 **Plural:** Stadtbewohner

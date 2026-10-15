@@ -15,11 +15,16 @@ id: "B1320"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Physiotherapeut.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Physiotherapeut
+
+![[Physiotherapeut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Physiotherapeut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physiotherapeut&language=de)
 
 **Meaning:** physical therapist (m)
 **Plural:** Physiotherapeuten

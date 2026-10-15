@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3a"
 freq_rank: 85
 skip: false
+audio: "Zeit.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeit
+
+![[Zeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeit&language=de)
 
 **Meaning:** time
 **Plural:** Zeiten

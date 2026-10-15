@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 2198
 skip: false
+audio: "Alkohol.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Alkohol
+
+![[Alkohol.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alkohol/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alkohol&language=de)
 
 **Meaning:** alcohol
 **Plural:** –

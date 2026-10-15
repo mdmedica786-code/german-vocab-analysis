@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 13a"
 freq_rank: 362
 skip: false
+audio: "Ergebnis.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ergebnis
+
+![[Ergebnis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ergebnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ergebnis&language=de)
 
 **Meaning:** result
 **Plural:** Ergebnisse

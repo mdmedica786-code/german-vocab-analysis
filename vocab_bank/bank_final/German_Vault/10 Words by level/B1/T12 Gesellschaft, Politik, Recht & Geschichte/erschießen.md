@@ -13,11 +13,16 @@ id: "B4705"
 netzwerk: "B1 K9 13b"
 freq_rank: 4323
 skip: false
+audio: "erschießen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erschießen
+
+![[erschießen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erschie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschie%C3%9Fen&language=de)
 
 **Meaning:** to shoot
 **Forms:** erschießt · erschoss · hat erschossen

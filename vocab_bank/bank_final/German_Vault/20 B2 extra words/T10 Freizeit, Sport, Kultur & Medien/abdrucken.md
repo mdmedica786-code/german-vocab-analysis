@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3559"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "abdrucken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # abdrucken
+
+![[abdrucken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abdrucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abdrucken&language=de)
 
 **Meaning:** to print; to publish (in print)
 **Forms:** druckt ab · druckte ab · hat abgedruckt

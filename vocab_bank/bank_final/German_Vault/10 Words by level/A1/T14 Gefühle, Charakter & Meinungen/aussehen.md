@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 7a"
 freq_rank: 844
 skip: false
+audio: "aussehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aussehen
+
+![[aussehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussehen&language=de)
 
 **Meaning:** to look
 **Forms:** sieht aus · sah aus · hat ausgesehen

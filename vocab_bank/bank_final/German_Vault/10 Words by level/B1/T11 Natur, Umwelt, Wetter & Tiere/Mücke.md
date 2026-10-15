@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Mücke.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mücke
+
+![[Mücke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCcke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCcke&language=de)
 
 **Meaning:** mosquito
 **Plural:** Mücken

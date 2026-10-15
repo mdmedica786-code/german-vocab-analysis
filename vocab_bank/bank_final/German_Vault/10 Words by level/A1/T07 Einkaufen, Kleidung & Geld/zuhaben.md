@@ -13,11 +13,16 @@ id: "B1672"
 netzwerk: "A1 K11 11b ÜB"
 freq_rank: 5759
 skip: false
+audio: "zuhaben.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuhaben
+
+![[zuhaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuhaben&language=de)
 
 **Meaning:** to be closed
 **Forms:** hat zu · hatte zu · hat zugehabt

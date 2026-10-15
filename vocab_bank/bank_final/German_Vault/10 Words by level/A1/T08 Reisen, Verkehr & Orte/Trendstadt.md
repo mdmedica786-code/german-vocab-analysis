@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Trendstadt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Trendstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trendstadt&language=de)
+
 **Meaning:** trendy city
 **Plural:** Trendstädte
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

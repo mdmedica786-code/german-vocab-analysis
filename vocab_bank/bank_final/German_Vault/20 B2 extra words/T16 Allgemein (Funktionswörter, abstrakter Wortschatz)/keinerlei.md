@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2507"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "keinerlei.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # keinerlei
+
+![[keinerlei.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/keinerlei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=keinerlei&language=de)
 
 **Meaning:** no ... whatsoever
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

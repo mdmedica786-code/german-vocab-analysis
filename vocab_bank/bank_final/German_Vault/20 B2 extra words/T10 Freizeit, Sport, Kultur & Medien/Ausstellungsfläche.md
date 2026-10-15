@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3760"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Ausstellungsfläche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Ausstellungsfläche
+
+![[Ausstellungsfläche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausstellungsfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausstellungsfl%C3%A4che&language=de)
 
 **Meaning:** exhibition space
 **Plural:** Ausstellungsflächen

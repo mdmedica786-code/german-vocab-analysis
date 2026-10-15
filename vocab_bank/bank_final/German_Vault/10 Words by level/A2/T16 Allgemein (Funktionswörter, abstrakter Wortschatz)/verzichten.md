@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11d"
 freq_rank: 1576
 skip: false
+audio: "verzichten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verzichten
+
+![[verzichten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verzichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzichten&language=de)
 
 **Meaning:** to give up sth
 **Forms:** verzichtet · verzichtete · hat verzichtet

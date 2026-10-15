@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 8b"
 freq_rank: 1539
 skip: false
+audio: "riesig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # riesig
+
+![[riesig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/riesig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riesig&language=de)
 
 **Meaning:** vast
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

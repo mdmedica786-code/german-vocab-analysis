@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 6c"
 freq_rank: 1207
 skip: false
+audio: "funktionieren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # funktionieren
+
+![[funktionieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/funktionieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=funktionieren&language=de)
 
 **Meaning:** to work
 **Forms:** funktioniert · funktionierte · hat funktioniert

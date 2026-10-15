@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4162"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Kupplung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kupplung
+
+![[Kupplung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kupplung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kupplung&language=de)
 
 **Meaning:** clutch; coupling
 **Plural:** Kupplungen

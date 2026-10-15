@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4165"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kurzurlaub.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kurzurlaub
+
+![[Kurzurlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurzurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurzurlaub&language=de)
 
 **Meaning:** short holiday; short break
 **Plural:** Kurzurlaube

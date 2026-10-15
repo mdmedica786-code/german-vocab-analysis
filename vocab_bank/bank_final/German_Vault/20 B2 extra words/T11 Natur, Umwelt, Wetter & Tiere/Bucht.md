@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2004"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Bucht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bucht
+
+![[Bucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bucht&language=de)
 
 **Meaning:** bay; cove
 **Plural:** Buchten

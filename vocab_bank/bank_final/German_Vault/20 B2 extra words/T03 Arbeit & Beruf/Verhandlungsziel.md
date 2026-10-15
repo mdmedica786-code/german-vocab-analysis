@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4571"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Verhandlungsziel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Verhandlungsziel
+
+![[Verhandlungsziel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verhandlungsziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verhandlungsziel&language=de)
 
 **Meaning:** negotiation goal
 **Plural:** Verhandlungsziele

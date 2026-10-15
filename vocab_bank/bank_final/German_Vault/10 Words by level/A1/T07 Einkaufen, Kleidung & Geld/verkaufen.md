@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 13a"
 freq_rank: 1394
 skip: false
+audio: "verkaufen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verkaufen
+
+![[verkaufen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verkaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verkaufen&language=de)
 
 **Meaning:** to sell
 **Forms:** verkauft · verkaufte · hat verkauft

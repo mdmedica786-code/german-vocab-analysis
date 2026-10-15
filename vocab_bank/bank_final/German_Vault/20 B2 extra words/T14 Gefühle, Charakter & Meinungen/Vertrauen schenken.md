@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Vertrauen schenken
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vertrauen%20schenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertrauen%20schenken&language=de)
+
 **Meaning:** to trust; to place trust in
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

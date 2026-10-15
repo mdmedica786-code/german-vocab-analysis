@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3025"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Stellungnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stellungnahme
+
+![[Stellungnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stellungnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellungnahme&language=de)
 
 **Meaning:** statement; opinion
 **Plural:** Stellungnahmen

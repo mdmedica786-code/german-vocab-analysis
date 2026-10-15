@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 2a"
 freq_rank: 2496
 skip: false
+audio: "Zucker.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zucker
+
+![[Zucker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zucker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zucker&language=de)
 
 **Meaning:** sugar
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 1a ÜB"
 freq_rank: 2233
 skip: false
+audio: "Dach.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dach
+
+![[Dach.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dach&language=de)
 
 **Meaning:** roof
 **Plural:** Dächer

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "Stipendium.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stipendium
+
+![[Stipendium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stipendium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stipendium&language=de)
 
 **Meaning:** scholarship
 **Plural:** Stipendien

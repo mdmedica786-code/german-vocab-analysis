@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3011"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Typus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Typus
+
+![[Typus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Typus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Typus&language=de)
 
 **Meaning:** type
 **Plural:** Typen

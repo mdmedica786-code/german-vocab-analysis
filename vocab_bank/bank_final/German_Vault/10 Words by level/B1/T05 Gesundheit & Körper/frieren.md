@@ -13,11 +13,16 @@ id: "B6445"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "frieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # frieren
+
+![[frieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/frieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=frieren&language=de)
 
 **Meaning:** to be cold; to freeze
 **Forms:** friert · fror · hat gefroren

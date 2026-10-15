@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Sportclub
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sportclub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportclub&language=de)
+
 **Meaning:** sports club
 **Plural:** Sportclubs
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0849"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "anvertrauen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anvertrauen
+
+![[anvertrauen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anvertrauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anvertrauen&language=de)
 
 **Meaning:** to entrust; to confide
 **Forms:** vertraut an · vertraute an · hat anvertraut

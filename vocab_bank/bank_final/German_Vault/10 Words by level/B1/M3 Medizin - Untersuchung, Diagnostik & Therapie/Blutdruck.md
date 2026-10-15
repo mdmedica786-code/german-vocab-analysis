@@ -14,11 +14,16 @@ bank: "main"
 id: "B6146"
 freq_rank: 4603
 skip: false
+audio: "Blutdruck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Blutdruck
+
+![[Blutdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blutdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blutdruck&language=de)
 
 **Meaning:** blood pressure
 **Plural:** –

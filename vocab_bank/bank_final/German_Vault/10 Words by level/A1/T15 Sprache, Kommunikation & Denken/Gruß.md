@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10c"
 freq_rank: 3096
 skip: false
+audio: "Gruß.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gruß
+
+![[Gruß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gru%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gru%C3%9F&language=de)
 
 **Meaning:** greeting
 **Plural:** Grüße

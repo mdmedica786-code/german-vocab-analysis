@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a ÜB"
 freq_rank: 2407
 skip: false
+audio: "Großmutter.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Großmutter
+
+![[Großmutter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fmutter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fmutter&language=de)
 
 **Meaning:** grandmother
 **Plural:** Großmütter

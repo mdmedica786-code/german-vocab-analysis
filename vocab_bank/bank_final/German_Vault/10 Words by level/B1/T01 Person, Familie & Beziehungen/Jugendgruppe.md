@@ -15,11 +15,16 @@ id: "B4767"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Jugendgruppe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jugendgruppe
+
+![[Jugendgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jugendgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendgruppe&language=de)
 
 **Meaning:** youth group
 **Plural:** Jugendgruppen

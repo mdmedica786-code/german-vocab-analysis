@@ -12,11 +12,16 @@ id: "B5131"
 netzwerk: "B1 K12 11b"
 freq_rank: 3296
 skip: false
+audio: "symbolisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # symbolisch
+
+![[symbolisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/symbolisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=symbolisch&language=de)
 
 **Meaning:** symbolic
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

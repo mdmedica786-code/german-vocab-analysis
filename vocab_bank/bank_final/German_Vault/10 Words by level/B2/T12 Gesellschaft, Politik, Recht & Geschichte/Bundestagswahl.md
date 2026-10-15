@@ -14,11 +14,16 @@ bank: "main"
 id: "B5923"
 freq_rank: 3534
 skip: false
+audio: "Bundestagswahl.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bundestagswahl
+
+![[Bundestagswahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundestagswahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundestagswahl&language=de)
 
 **Meaning:** federal election
 **Plural:** Bundestagswahlen

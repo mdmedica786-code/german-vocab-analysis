@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2411"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "vollkommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # vollkommen
+
+![[vollkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vollkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vollkommen&language=de)
 
 **Meaning:** perfect; complete
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

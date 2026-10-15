@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1057"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Rückzahlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückzahlung
+
+![[Rückzahlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckzahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckzahlung&language=de)
 
 **Meaning:** repayment; refund
 **Plural:** Rückzahlungen

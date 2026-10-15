@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 3b"
 freq_rank: 1801
 skip: false
+audio: "planen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # planen
+
+![[planen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/planen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=planen&language=de)
 
 **Meaning:** to plan
 **Forms:** plant · plante · hat geplant

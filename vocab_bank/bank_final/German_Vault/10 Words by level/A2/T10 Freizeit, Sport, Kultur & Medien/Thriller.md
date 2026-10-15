@@ -15,11 +15,16 @@ id: "B2144"
 netzwerk: "A2 K3 12a"
 freq_rank: 4847
 skip: false
+audio: "Thriller.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Thriller
+
+![[Thriller.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Thriller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thriller&language=de)
 
 **Meaning:** thriller
 **Plural:** Thriller

@@ -12,11 +12,16 @@ id: "B5151"
 goethe_level: "B1"
 freq_rank: 394
 skip: false
+audio: "indem.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # indem
+
+![[indem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/indem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=indem&language=de)
 
 **Meaning:** by (doing sth.); while
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

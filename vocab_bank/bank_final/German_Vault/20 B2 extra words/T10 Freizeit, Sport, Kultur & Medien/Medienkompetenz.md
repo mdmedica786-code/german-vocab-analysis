@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0610"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Medienkompetenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Medienkompetenz
+
+![[Medienkompetenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medienkompetenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medienkompetenz&language=de)
 
 **Meaning:** media literacy
 **Plural:** –

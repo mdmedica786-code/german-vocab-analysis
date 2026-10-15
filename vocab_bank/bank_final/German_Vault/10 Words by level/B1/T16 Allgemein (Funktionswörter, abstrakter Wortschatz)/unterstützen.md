@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 1063
 skip: false
+audio: "unterstützen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterstützen
+
+![[unterstützen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterst%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterst%C3%BCtzen&language=de)
 
 **Meaning:** to support
 **Forms:** unterstützt · unterstützte · hat unterstützt

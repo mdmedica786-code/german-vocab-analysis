@@ -12,11 +12,16 @@ id: "B5079"
 netzwerk: "B1 K12 7a"
 freq_rank: 4526
 skip: false
+audio: "überzeugend.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # überzeugend
+
+![[überzeugend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberzeugend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberzeugend&language=de)
 
 **Meaning:** convincing
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

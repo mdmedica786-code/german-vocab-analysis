@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Wegwerfbecher
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wegwerfbecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wegwerfbecher&language=de)
+
 **Meaning:** disposable cup
 **Plural:** Wegwerfbecher
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

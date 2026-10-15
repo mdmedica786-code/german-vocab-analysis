@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4191"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Lichtverhältnis.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Lichtverhältnis
+
+![[Lichtverhältnis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lichtverh%C3%A4ltnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lichtverh%C3%A4ltnis&language=de)
 
 **Meaning:** lighting conditions
 **Plural:** Lichtverhältnisse

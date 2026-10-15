@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1608"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "idyllisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # idyllisch
+
+![[idyllisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/idyllisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=idyllisch&language=de)
 
 **Meaning:** idyllic
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

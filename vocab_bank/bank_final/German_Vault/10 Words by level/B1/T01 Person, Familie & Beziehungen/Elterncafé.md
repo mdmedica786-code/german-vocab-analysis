@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Elterncafé
 
+[▶️ YouGlish](https://youglish.com/pronounce/Elterncaf%C3%A9/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elterncaf%C3%A9&language=de)
+
 **Meaning:** parents' café
 **Plural:** Elterncafés
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

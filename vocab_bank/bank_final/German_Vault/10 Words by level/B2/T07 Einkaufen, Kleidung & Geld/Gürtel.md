@@ -14,11 +14,16 @@ bank: "main"
 id: "B5944"
 freq_rank: 3567
 skip: false
+audio: "Gürtel.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gürtel
+
+![[Gürtel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%BCrtel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%BCrtel&language=de)
 
 **Meaning:** belt
 **Plural:** Gürtel

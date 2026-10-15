@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # aus
 
+[▶️ YouGlish](https://youglish.com/pronounce/aus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aus&language=de)
+
 **Meaning:** out (of)
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

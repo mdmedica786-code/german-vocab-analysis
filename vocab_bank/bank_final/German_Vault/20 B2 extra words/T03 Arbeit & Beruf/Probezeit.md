@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0407"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Probezeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Probezeit
+
+![[Probezeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Probezeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Probezeit&language=de)
 
 **Meaning:** probation period
 **Plural:** Probezeiten

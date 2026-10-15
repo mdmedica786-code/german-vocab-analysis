@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1464"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Verhältnismäßigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verhältnismäßigkeit
+
+![[Verhältnismäßigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verh%C3%A4ltnism%C3%A4%C3%9Figkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verh%C3%A4ltnism%C3%A4%C3%9Figkeit&language=de)
 
 **Meaning:** proportionality
 **Plural:** –

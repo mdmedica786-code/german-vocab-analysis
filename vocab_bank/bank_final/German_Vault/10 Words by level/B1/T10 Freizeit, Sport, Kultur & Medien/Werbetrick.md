@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Werbetrick
 
+[▶️ YouGlish](https://youglish.com/pronounce/Werbetrick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbetrick&language=de)
+
 **Meaning:** advertising trick
 **Plural:** Werbetricks
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3696"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Abwärtstrend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Abwärtstrend
+
+![[Abwärtstrend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abw%C3%A4rtstrend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abw%C3%A4rtstrend&language=de)
 
 **Meaning:** downward trend
 **Plural:** Abwärtstrends

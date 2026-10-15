@@ -15,11 +15,16 @@ id: "B5010"
 netzwerk: "B1 K11 13b"
 freq_rank: 5759
 skip: false
+audio: "Geschäftspartnerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschäftspartnerin
+
+![[Geschäftspartnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftspartnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftspartnerin&language=de)
 
 **Meaning:** business partner (f)
 **Plural:** Geschäftspartnerinnen

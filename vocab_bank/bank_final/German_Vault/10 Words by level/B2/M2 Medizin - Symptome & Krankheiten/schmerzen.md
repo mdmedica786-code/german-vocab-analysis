@@ -12,11 +12,16 @@ bank: "main"
 id: "B6207"
 freq_rank: 4874
 skip: false
+audio: "schmerzen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # schmerzen
+
+![[schmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmerzen&language=de)
 
 **Meaning:** to hurt; to ache
 **Forms:** schmerzt · schmerzte · hat geschmerzt

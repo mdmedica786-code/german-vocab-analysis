@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 9a"
 freq_rank: 4668
 skip: false
+audio: "Architekt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Architekt
+
+![[Architekt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Architekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architekt&language=de)
 
 **Meaning:** architect (m)
 **Plural:** Architekten

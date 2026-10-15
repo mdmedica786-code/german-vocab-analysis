@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0217"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "andeuten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # andeuten
+
+![[andeuten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/andeuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=andeuten&language=de)
 
 **Meaning:** to hint at; to indicate
 **Forms:** deutet an · deutete an · hat angedeutet

@@ -13,11 +13,16 @@ id: "B5083"
 netzwerk: "B1 K12 7a"
 freq_rank: 2053
 skip: false
+audio: "verlegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verlegen
+
+![[verlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlegen&language=de)
 
 **Meaning:** to move
 **Forms:** verlegt · verlegte · hat verlegt

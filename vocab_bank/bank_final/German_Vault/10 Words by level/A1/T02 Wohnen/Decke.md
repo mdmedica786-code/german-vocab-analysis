@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 10a"
 freq_rank: 1497
 skip: false
+audio: "Decke.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Decke
+
+![[Decke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Decke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Decke&language=de)
 
 **Meaning:** ceiling; blanket
 **Plural:** Decken

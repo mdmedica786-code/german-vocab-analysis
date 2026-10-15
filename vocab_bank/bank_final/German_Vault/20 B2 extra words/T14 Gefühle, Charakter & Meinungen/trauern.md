@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1836"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "trauern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # trauern
+
+![[trauern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trauern&language=de)
 
 **Meaning:** to mourn; to grieve
 **Forms:** trauert · trauerte · hat getrauert

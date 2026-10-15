@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0663"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Erderwärmung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erderwärmung
+
+![[Erderwärmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erderw%C3%A4rmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erderw%C3%A4rmung&language=de)
 
 **Meaning:** global warming
 **Plural:** –

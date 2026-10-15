@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1326"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "zanken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zanken
+
+![[zanken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zanken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zanken&language=de)
 
 **Meaning:** to squabble; to quarrel
 **Forms:** zankt · zankte · hat gezankt

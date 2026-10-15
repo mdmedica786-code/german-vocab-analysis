@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2565"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "räumlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # räumlich
+
+![[räumlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%A4umlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%A4umlich&language=de)
 
 **Meaning:** spatial; of space
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

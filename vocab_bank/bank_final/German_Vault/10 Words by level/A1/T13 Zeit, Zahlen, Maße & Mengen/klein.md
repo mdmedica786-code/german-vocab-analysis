@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 11"
 freq_rank: 98
 skip: false
+audio: "klein.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # klein
+
+![[klein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klein&language=de)
 
 **Meaning:** small
 **Forms:** kleiner – am kleinsten

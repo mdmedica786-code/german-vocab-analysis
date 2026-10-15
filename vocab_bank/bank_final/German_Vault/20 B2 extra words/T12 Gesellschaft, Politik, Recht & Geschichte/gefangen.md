@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2422"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gefangen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gefangen
+
+![[gefangen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gefangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gefangen&language=de)
 
 **Meaning:** captured; trapped
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

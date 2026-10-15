@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4536"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Unfallzeitpunkt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unfallzeitpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unfallzeitpunkt&language=de)
 
 **Meaning:** time of the accident
 **Plural:** Unfallzeitpunkte

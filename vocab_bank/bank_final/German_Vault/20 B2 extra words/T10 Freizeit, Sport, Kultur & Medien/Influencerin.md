@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4072"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Influencerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Influencerin
+
+![[Influencerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Influencerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Influencerin&language=de)
 
 **Meaning:** influencer (female)
 **Plural:** Influencerinnen

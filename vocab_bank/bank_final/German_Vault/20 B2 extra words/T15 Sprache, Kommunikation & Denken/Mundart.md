@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1926"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Mundart.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mundart
+
+![[Mundart.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mundart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mundart&language=de)
 
 **Meaning:** dialect
 **Plural:** Mundarten

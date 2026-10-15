@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2873"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vorsitzende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Vorsitzende
+
+![[Vorsitzende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorsitzende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsitzende&language=de)
 
 **Meaning:** chairperson; chair
 **Plural:** Vorsitzende

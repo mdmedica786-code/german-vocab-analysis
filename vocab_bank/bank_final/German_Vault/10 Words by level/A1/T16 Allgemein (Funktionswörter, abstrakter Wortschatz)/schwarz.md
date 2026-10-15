@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 9a"
 freq_rank: 397
 skip: false
+audio: "schwarz.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwarz
+
+![[schwarz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwarz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwarz&language=de)
 
 **Meaning:** black
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

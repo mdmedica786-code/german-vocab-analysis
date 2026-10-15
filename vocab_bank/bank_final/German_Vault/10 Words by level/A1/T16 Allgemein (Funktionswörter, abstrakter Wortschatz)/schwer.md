@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 9c"
 freq_rank: 271
 skip: false
+audio: "schwer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwer
+
+![[schwer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwer&language=de)
 
 **Meaning:** difficult; heavy; severe
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

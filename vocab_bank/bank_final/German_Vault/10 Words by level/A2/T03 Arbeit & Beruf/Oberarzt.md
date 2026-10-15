@@ -15,11 +15,16 @@ id: "B2460"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Oberarzt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Oberarzt
+
+![[Oberarzt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oberarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberarzt&language=de)
 
 **Meaning:** senior physician (m)
 **Plural:** Oberärzte

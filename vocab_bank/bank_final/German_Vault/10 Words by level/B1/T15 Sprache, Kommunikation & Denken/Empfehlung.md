@@ -15,11 +15,16 @@ id: "B5552"
 goethe_level: "B1"
 freq_rank: 2301
 skip: false
+audio: "Empfehlung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Empfehlung
+
+![[Empfehlung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Empfehlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Empfehlung&language=de)
 
 **Meaning:** recommendation
 **Plural:** Empfehlungen

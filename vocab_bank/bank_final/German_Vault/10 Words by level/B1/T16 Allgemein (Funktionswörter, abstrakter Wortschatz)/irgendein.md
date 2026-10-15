@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 4b"
 freq_rank: 999
 skip: false
+audio: "irgendein.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/pronoun"]
 status: "new"
 ---
 <!-- bank:start -->
 # irgendein
+
+![[irgendein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/irgendein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irgendein&language=de)
 
 **Meaning:** some
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

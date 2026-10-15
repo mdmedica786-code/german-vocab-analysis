@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0923"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Bildungsweg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bildungsweg
+
+![[Bildungsweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildungsweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildungsweg&language=de)
 
 **Meaning:** educational path
 **Plural:** Bildungswege

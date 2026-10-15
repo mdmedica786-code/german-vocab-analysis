@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der USB-Stick
 
+[▶️ YouGlish](https://youglish.com/pronounce/USB-Stick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=USB-Stick&language=de)
+
 **Meaning:** USB stick
 **Plural:** USB-Sticks
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

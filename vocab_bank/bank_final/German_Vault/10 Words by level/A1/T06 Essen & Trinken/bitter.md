@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K1 10 ÜB"
 freq_rank: 3582
 skip: false
+audio: "bitter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bitter
+
+![[bitter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bitter&language=de)
 
 **Meaning:** bitter
 **Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

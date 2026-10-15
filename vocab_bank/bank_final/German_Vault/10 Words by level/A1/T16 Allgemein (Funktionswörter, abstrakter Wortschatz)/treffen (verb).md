@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 1a"
 freq_rank: 266
 skip: false
+audio: "treffen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # treffen
+
+![[treffen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=treffen&language=de)
 
 **Meaning:** to meet; to hit; to make (a decision)
 **Forms:** trifft · traf · hat getroffen

@@ -15,11 +15,16 @@ id: "B1978"
 netzwerk: "A2 K2 3a"
 freq_rank: 3580
 skip: false
+audio: "Hauptsache.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauptsache
+
+![[Hauptsache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptsache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptsache&language=de)
 
 **Meaning:** main point
 **Plural:** Hauptsachen

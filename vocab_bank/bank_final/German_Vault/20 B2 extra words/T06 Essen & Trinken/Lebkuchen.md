@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1431"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Lebkuchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lebkuchen
+
+![[Lebkuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebkuchen&language=de)
 
 **Meaning:** gingerbread
 **Plural:** Lebkuchen

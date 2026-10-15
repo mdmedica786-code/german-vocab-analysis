@@ -13,11 +13,16 @@ id: "B5311"
 goethe_level: "B1"
 freq_rank: 1367
 skip: false
+audio: "erschrecken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erschrecken
+
+![[erschrecken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erschrecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschrecken&language=de)
 
 **Meaning:** to frighten; to startle
 **Forms:** erschreckt · erschreckte · hat erschreckt

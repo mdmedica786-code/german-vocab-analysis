@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1698"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "glänzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # glänzen
+
+![[glänzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gl%C3%A4nzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%A4nzen&language=de)
 
 **Meaning:** to shine; to gleam; to excel
 **Forms:** glänzt · glänzte · hat geglänzt

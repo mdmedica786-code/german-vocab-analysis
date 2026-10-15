@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 3c"
 freq_rank: 3351
 skip: false
+audio: "Fortsetzung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fortsetzung
+
+![[Fortsetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fortsetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fortsetzung&language=de)
 
 **Meaning:** sequel
 **Plural:** Fortsetzungen

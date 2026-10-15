@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3648"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Präferenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Präferenz
+
+![[Präferenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4ferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4ferenz&language=de)
 
 **Meaning:** preference
 **Plural:** Präferenzen

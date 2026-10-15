@@ -15,11 +15,16 @@ id: "B5918"
 goethe_level: "B1"
 freq_rank: 3517
 skip: false
+audio: "Urkunde.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Urkunde
+
+![[Urkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urkunde&language=de)
 
 **Meaning:** certificate; document
 **Plural:** Urkunden

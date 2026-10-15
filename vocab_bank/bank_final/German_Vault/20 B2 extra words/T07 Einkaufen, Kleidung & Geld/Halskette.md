@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1442"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Halskette.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Halskette
+
+![[Halskette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Halskette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halskette&language=de)
 
 **Meaning:** necklace
 **Plural:** Halsketten

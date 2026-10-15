@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10a"
 freq_rank: 1849
 skip: false
+audio: "begrüßen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # begrüßen
+
+![[begrüßen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begr%C3%BC%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begr%C3%BC%C3%9Fen&language=de)
 
 **Meaning:** to greet
 **Forms:** begrüßt · begrüßte · hat begrüßt

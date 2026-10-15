@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0606"
 exam_use: ["Lesen"]
 skip: false
+audio: "Kolumne.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kolumne
+
+![[Kolumne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kolumne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kolumne&language=de)
 
 **Meaning:** column (newspaper)
 **Plural:** Kolumnen

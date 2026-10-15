@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 1243
 skip: false
+audio: "Bevölkerung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bevölkerung
+
+![[Bevölkerung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bev%C3%B6lkerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bev%C3%B6lkerung&language=de)
 
 **Meaning:** population
 **Plural:** Bevölkerungen

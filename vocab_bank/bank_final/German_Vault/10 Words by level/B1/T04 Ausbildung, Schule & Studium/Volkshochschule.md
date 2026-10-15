@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Volkshochschule.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Volkshochschule
+
+![[Volkshochschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Volkshochschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volkshochschule&language=de)
 
 **Meaning:** adult education centre
 **Plural:** Volkshochschulen

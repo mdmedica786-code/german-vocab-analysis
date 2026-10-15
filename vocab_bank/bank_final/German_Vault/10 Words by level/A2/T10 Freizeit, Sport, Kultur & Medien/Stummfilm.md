@@ -15,11 +15,16 @@ id: "B2773"
 netzwerk: "A2 K8 7a"
 freq_rank: 5759
 skip: false
+audio: "Stummfilm.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stummfilm
+
+![[Stummfilm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stummfilm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stummfilm&language=de)
 
 **Meaning:** silent film
 **Plural:** Stummfilme

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3586"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "demnächst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # demnächst
+
+![[demnächst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/demn%C3%A4chst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demn%C3%A4chst&language=de)
 
 **Meaning:** soon; shortly
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

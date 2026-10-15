@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0366"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Intention.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Intention
+
+![[Intention.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Intention/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Intention&language=de)
 
 **Meaning:** intention
 **Plural:** Intentionen

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Sofort-Überweisung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sofort-%C3%9Cberweisung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sofort-%C3%9Cberweisung&language=de)
+
 **Meaning:** instant bank transfer
 **Plural:** Sofort-Überweisungen
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

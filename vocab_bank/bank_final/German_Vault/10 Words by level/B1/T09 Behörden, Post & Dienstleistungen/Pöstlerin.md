@@ -17,11 +17,16 @@ freq_rank: 9999
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Pöstlerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pöstlerin
+
+![[Pöstlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/P%C3%B6stlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%B6stlerin&language=de)
 
 **Meaning:** postwoman (Swiss)
 **Plural:** Pöstlerinnen

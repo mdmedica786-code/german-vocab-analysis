@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3a"
 freq_rank: 631
 skip: false
+audio: "bloß.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bloß
+
+![[bloß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blo%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blo%C3%9F&language=de)
 
 **Meaning:** only; just; merely
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

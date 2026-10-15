@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2231"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Sockelleiste.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sockelleiste
+
+![[Sockelleiste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sockelleiste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sockelleiste&language=de)
 
 **Meaning:** skirting board
 **Plural:** Sockelleisten

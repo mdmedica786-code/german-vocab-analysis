@@ -14,11 +14,16 @@ bank: "main"
 id: "B5922"
 freq_rank: 3533
 skip: false
+audio: "Standort.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Standort
+
+![[Standort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Standort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standort&language=de)
 
 **Meaning:** location; site
 **Plural:** Standorte

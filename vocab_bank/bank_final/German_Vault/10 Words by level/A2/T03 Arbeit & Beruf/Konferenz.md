@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 3756
 skip: false
+audio: "Konferenz.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konferenz
+
+![[Konferenz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konferenz&language=de)
 
 **Meaning:** conference
 **Plural:** Konferenzen

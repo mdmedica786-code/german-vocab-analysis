@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4272"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Neurophysiologin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Neurophysiologin
+
+![[Neurophysiologin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neurophysiologin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neurophysiologin&language=de)
 
 **Meaning:** neurophysiologist (female)
 **Plural:** Neurophysiologinnen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 2649
 skip: false
+audio: "Teilnahme.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Teilnahme
+
+![[Teilnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teilnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilnahme&language=de)
 
 **Meaning:** participation
 **Plural:** –

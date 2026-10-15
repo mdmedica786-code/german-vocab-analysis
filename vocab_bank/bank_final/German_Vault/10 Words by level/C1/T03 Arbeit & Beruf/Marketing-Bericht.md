@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Marketing-Bericht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Marketing-Bericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marketing-Bericht&language=de)
+
 **Meaning:** marketing report
 **Plural:** Marketing-Berichte
 **Level:** C1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

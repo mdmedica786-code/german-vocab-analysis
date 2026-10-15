@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1008"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Gepäckaufbewahrung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gepäckaufbewahrung
+
+![[Gepäckaufbewahrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gep%C3%A4ckaufbewahrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gep%C3%A4ckaufbewahrung&language=de)
 
 **Meaning:** left-luggage office
 **Plural:** Gepäckaufbewahrungen

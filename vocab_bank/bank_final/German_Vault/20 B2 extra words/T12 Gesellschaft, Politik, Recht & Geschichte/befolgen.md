@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0868"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "befolgen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # befolgen
+
+![[befolgen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befolgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befolgen&language=de)
 
 **Meaning:** to follow; to obey
 **Forms:** befolgt · befolgte · hat befolgt

@@ -15,11 +15,16 @@ id: "B0660"
 netzwerk: "A1 K4 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Olive.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Olive
+
+![[Olive.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Olive/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olive&language=de)
 
 **Meaning:** olive
 **Plural:** Oliven

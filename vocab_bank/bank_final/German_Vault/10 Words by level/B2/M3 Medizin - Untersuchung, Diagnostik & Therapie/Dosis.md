@@ -14,11 +14,16 @@ bank: "main"
 id: "B6087"
 freq_rank: 4261
 skip: false
+audio: "Dosis.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dosis
+
+![[Dosis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dosis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dosis&language=de)
 
 **Meaning:** dose
 **Plural:** Dosen

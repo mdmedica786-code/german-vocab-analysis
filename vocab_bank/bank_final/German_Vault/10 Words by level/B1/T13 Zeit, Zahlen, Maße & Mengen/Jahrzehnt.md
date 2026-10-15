@@ -15,11 +15,16 @@ id: "B5469"
 goethe_level: "B1"
 freq_rank: 2027
 skip: false
+audio: "Jahrzehnt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Jahrzehnt
+
+![[Jahrzehnt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahrzehnt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrzehnt&language=de)
 
 **Meaning:** decade
 **Plural:** Jahrzehnte

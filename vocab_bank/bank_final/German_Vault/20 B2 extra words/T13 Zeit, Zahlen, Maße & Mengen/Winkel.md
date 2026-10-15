@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2583"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Winkel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Winkel
+
+![[Winkel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Winkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Winkel&language=de)
 
 **Meaning:** angle; corner
 **Plural:** Winkel

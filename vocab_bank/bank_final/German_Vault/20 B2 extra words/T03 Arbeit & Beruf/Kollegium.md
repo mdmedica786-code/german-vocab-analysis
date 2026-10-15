@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0418"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Kollegium.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kollegium
+
+![[Kollegium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kollegium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kollegium&language=de)
 
 **Meaning:** staff; body of colleagues
 **Plural:** Kollegien

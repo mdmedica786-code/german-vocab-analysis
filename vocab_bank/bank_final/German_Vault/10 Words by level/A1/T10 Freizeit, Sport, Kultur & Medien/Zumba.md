@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Zumba
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zumba/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zumba&language=de)
+
 **Meaning:** zumba
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

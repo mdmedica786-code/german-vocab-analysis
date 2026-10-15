@@ -13,11 +13,16 @@ id: "B5515"
 goethe_level: "B1"
 freq_rank: 2190
 skip: false
+audio: "winken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # winken
+
+![[winken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/winken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=winken&language=de)
 
 **Meaning:** to wave
 **Forms:** winkt · winkte · hat gewinkt

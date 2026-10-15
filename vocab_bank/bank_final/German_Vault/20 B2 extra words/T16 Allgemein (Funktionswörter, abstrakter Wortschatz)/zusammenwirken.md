@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3584"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zusammenwirken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenwirken
+
+![[zusammenwirken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenwirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenwirken&language=de)
 
 **Meaning:** to work together; to interact
 **Forms:** wirkt zusammen · wirkte zusammen · hat zusammengewirkt

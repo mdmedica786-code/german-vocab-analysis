@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0768"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "gelassen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelassen
+
+![[gelassen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelassen&language=de)
 
 **Meaning:** calm; composed
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

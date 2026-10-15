@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0520"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Resozialisierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Resozialisierung
+
+![[Resozialisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Resozialisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Resozialisierung&language=de)
 
 **Meaning:** rehabilitation (into society)
 **Plural:** –

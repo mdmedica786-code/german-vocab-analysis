@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 2a"
 freq_rank: 255
 skip: false
+audio: "Person.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Person
+
+![[Person.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Person/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Person&language=de)
 
 **Meaning:** person
 **Plural:** Personen

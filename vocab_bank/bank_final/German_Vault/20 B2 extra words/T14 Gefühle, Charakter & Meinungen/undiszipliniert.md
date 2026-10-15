@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4531"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "undiszipliniert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # undiszipliniert
+
+![[undiszipliniert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/undiszipliniert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=undiszipliniert&language=de)
 
 **Meaning:** undisciplined
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

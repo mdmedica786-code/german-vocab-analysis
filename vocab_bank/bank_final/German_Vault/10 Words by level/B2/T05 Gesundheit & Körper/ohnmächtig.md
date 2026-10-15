@@ -11,11 +11,16 @@ bank: "main"
 id: "B6289"
 freq_rank: 5386
 skip: false
+audio: "ohnmächtig.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # ohnmächtig
+
+![[ohnmächtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ohnm%C3%A4chtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ohnm%C3%A4chtig&language=de)
 
 **Meaning:** unconscious; fainted
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2275"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Schneidebrett.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schneidebrett
+
+![[Schneidebrett.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schneidebrett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneidebrett&language=de)
 
 **Meaning:** chopping board
 **Plural:** Schneidebretter

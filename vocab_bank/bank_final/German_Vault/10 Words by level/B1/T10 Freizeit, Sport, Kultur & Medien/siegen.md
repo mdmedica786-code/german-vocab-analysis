@@ -13,11 +13,16 @@ id: "B5361"
 goethe_level: "B1"
 freq_rank: 1623
 skip: false
+audio: "siegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # siegen
+
+![[siegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/siegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=siegen&language=de)
 
 **Meaning:** to win; to be victorious
 **Forms:** siegt · siegte · hat gesiegt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1088"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Rückgabe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückgabe
+
+![[Rückgabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckgabe&language=de)
 
 **Meaning:** return; handing back
 **Plural:** Rückgaben

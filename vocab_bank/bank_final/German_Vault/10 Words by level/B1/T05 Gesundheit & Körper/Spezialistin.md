@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Spezialistin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spezialistin
+
+![[Spezialistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spezialistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spezialistin&language=de)
 
 **Meaning:** specialist (f)
 **Plural:** Spezialistinnen

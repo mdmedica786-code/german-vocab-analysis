@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 8c"
 freq_rank: 249
 skip: false
+audio: "zweit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # zweit
+
+![[zweit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zweit&language=de)
 
 **Meaning:** second; (zu zweit) in pairs, as two
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

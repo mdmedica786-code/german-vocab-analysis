@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 490
 skip: false
+audio: "Gesetz.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gesetz
+
+![[Gesetz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesetz&language=de)
 
 **Meaning:** law
 **Plural:** Gesetze

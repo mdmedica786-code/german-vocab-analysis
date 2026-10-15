@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3143"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Abgrund.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abgrund
+
+![[Abgrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abgrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgrund&language=de)
 
 **Meaning:** abyss; precipice
 **Plural:** Abgründe

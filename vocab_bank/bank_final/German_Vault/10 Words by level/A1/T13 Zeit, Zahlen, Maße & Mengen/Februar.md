@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 10a"
 freq_rank: 1785
 skip: false
+audio: "Februar.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Februar
+
+![[Februar.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Februar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Februar&language=de)
 
 **Meaning:** February
 **Plural:** –

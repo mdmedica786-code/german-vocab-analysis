@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3883"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "einleben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # einleben
+
+![[einleben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einleben&language=de)
 
 **Meaning:** to settle in; to get used to a new place
 **Forms:** lebt sich ein · lebte sich ein · hat sich eingelebt

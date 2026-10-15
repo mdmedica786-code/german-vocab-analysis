@@ -12,11 +12,16 @@ id: "B4483"
 netzwerk: "B1 K8 6b"
 freq_rank: 2380
 skip: false
+audio: "mithilfe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # mithilfe
+
+![[mithilfe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mithilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mithilfe&language=de)
 
 **Meaning:** with the help of
 **Case:** von + Dat.

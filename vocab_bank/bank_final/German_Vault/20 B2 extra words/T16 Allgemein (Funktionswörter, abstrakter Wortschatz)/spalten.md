@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3075"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "spalten.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # spalten
+
+![[spalten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spalten&language=de)
 
 **Meaning:** to split; to divide
 **Forms:** spaltet · spaltete · hat gespalten

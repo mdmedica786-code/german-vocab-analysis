@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2974"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "zusammenfassend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenfassend
+
+![[zusammenfassend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenfassend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenfassend&language=de)
 
 **Meaning:** summarising; in summary
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

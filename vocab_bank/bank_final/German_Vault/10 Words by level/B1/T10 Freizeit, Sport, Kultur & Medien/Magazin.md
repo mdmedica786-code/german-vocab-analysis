@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6b"
 freq_rank: 4910
 skip: false
+audio: "Magazin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Magazin
+
+![[Magazin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Magazin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magazin&language=de)
 
 **Meaning:** magazine
 **Plural:** Magazine

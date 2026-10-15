@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3766"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Automobil.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Automobil
+
+![[Automobil.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Automobil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automobil&language=de)
 
 **Meaning:** automobile; car
 **Plural:** Automobile

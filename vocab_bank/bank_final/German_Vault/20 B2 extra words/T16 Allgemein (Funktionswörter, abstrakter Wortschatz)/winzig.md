@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2343"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "winzig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # winzig
+
+![[winzig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/winzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=winzig&language=de)
 
 **Meaning:** tiny
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1501"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Loyalität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Loyalität
+
+![[Loyalität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Loyalit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Loyalit%C3%A4t&language=de)
 
 **Meaning:** loyalty
 **Plural:** Loyalitäten

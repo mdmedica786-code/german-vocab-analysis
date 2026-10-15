@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 118
 skip: false
+audio: "hoch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # hoch
+
+![[hoch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hoch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hoch&language=de)
 
 **Meaning:** high
 **Forms:** hoher/hohe/hohes (before nouns); höher – am höchsten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3352"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Sorte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sorte
+
+![[Sorte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sorte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sorte&language=de)
 
 **Meaning:** kind; sort; variety
 **Plural:** Sorten

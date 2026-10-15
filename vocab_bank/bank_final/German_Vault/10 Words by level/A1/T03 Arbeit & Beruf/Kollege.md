@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 978
 skip: false
+audio: "Kollege.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kollege
+
+![[Kollege.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kollege/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kollege&language=de)
 
 **Meaning:** colleague (m)
 **Plural:** Kollegen

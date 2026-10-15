@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2651"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Güte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Güte
+
+![[Güte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%BCte&language=de)
 
 **Meaning:** kindness; quality
 **Plural:** –

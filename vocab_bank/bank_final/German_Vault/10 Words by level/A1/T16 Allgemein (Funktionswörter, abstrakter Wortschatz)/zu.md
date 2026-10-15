@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zu
 
+[▶️ YouGlish](https://youglish.com/pronounce/zu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu&language=de)
+
 **Meaning:** to; at; too
 **Other senses:** too
 **Case:** + Dat.

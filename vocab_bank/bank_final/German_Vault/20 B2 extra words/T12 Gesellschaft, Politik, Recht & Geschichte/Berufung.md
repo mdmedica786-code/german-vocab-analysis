@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0510"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Berufung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berufung
+
+![[Berufung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufung&language=de)
 
 **Meaning:** appeal; vocation; calling
 **Plural:** Berufungen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0256"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "intensivieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # intensivieren
+
+![[intensivieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/intensivieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=intensivieren&language=de)
 
 **Meaning:** to intensify
 **Forms:** intensiviert · intensivierte · hat intensiviert

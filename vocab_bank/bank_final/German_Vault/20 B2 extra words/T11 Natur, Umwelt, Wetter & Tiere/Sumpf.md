@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2005"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Sumpf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sumpf
+
+![[Sumpf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sumpf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sumpf&language=de)
 
 **Meaning:** swamp; marsh
 **Plural:** Sümpfe

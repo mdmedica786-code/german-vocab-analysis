@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 1b"
 freq_rank: 1864
 skip: false
+audio: "Bier.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bier
+
+![[Bier.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bier&language=de)
 
 **Meaning:** beer
 **Plural:** Biere

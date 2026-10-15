@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 8b"
 freq_rank: 814
 skip: false
+audio: "offenbar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # offenbar
+
+![[offenbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/offenbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=offenbar&language=de)
 
 **Meaning:** apparently; obviously
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

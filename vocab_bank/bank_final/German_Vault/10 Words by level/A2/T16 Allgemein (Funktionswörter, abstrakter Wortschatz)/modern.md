@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 2a"
 freq_rank: 640
 skip: false
+audio: "modern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # modern
+
+![[modern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/modern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=modern&language=de)
 
 **Meaning:** modern
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

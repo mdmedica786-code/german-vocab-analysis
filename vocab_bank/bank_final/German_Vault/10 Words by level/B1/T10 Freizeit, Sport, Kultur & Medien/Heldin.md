@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Heldin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heldin
+
+![[Heldin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heldin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heldin&language=de)
 
 **Meaning:** hero (f)
 **Plural:** Heldinnen

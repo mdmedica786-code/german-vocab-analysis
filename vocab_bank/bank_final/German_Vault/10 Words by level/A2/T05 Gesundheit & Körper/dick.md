@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 12c"
 freq_rank: 878
 skip: false
+audio: "dick.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # dick
+
+![[dick.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dick&language=de)
 
 **Meaning:** thick
 **Forms:** dicker – am dicksten

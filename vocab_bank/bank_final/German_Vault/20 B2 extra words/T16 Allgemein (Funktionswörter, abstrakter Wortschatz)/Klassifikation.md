@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3221"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Klassifikation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klassifikation
+
+![[Klassifikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klassifikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassifikation&language=de)
 
 **Meaning:** classification
 **Plural:** Klassifikationen

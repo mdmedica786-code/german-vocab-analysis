@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 3a"
 freq_rank: 1382
 skip: false
+audio: "Zentrum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zentrum
+
+![[Zentrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zentrum&language=de)
 
 **Meaning:** centre
 **Plural:** Zentren

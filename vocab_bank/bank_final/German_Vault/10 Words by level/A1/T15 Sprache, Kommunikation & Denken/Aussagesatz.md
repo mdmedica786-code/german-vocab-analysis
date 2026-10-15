@@ -15,11 +15,16 @@ id: "B0097"
 netzwerk: "A1 K1 4b"
 freq_rank: 5759
 skip: false
+audio: "Aussagesatz.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aussagesatz
+
+![[Aussagesatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussagesatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussagesatz&language=de)
 
 **Meaning:** declarative sentence
 **Plural:** Aussagesätze

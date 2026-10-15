@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 268
 skip: false
+audio: "Tür.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tür
+
+![[Tür.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCr&language=de)
 
 **Meaning:** door
 **Plural:** Türen

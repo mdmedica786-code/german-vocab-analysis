@@ -15,11 +15,16 @@ id: "B0789"
 netzwerk: "A1 K5 1a"
 freq_rank: 4646
 skip: false
+audio: "Uni.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Uni
+
+![[Uni.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Uni/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uni&language=de)
 
 **Meaning:** university
 **Plural:** Unis

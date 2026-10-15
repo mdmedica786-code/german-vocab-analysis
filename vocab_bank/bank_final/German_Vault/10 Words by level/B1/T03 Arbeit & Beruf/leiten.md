@@ -13,11 +13,16 @@ id: "B5321"
 goethe_level: "B1"
 freq_rank: 1416
 skip: false
+audio: "leiten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leiten
+
+![[leiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leiten&language=de)
 
 **Meaning:** to lead; to manage
 **Forms:** leitet · leitete · hat geleitet

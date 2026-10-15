@@ -14,11 +14,16 @@ bank: "main"
 id: "B5448"
 freq_rank: 2000
 skip: false
+audio: "Date.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Date
+
+![[Date.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Date/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Date&language=de)
 
 **Meaning:** date (romantic meeting)
 **Plural:** Dates

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1436"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Radler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Radler
+
+![[Radler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radler&language=de)
 
 **Meaning:** shandy (beer and lemonade)
 **Plural:** Radler

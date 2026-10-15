@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1261"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "erneuern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erneuern
+
+![[erneuern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erneuern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erneuern&language=de)
 
 **Meaning:** to renew; to renovate
 **Forms:** erneuert · erneuerte · hat erneuert

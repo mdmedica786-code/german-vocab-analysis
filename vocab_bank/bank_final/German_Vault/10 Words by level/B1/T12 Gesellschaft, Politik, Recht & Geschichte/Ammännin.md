@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ammännin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Amm%C3%A4nnin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amm%C3%A4nnin&language=de)
+
 **Meaning:** chief of a municipality (f) (Swiss)
 **Plural:** Ammänninnen
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** regional

@@ -15,11 +15,16 @@ id: "B4974"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Autowerkstatt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Autowerkstatt
+
+![[Autowerkstatt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autowerkstatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autowerkstatt&language=de)
 
 **Meaning:** garage
 **Plural:** Autowerkstätten

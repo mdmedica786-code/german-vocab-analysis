@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 4827
 skip: false
+audio: "anstrengen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anstrengen
+
+![[anstrengen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anstrengen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstrengen&language=de)
 
 **Meaning:** to tire; to make an effort
 **Forms:** strengt sich an · strengte sich an · hat sich angestrengt

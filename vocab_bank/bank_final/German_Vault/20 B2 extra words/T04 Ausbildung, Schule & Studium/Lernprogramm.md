@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4183"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Lernprogramm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Lernprogramm
+
+![[Lernprogramm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernprogramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernprogramm&language=de)
 
 **Meaning:** learning programme; tutorial software
 **Plural:** Lernprogramme

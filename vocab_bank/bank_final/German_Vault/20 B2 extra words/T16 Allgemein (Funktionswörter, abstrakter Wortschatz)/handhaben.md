@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1276"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "handhaben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # handhaben
+
+![[handhaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/handhaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=handhaben&language=de)
 
 **Meaning:** to handle; to operate
 **Forms:** handhabt · handhabte · hat gehandhabt

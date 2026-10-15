@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 2a"
 freq_rank: 562
 skip: false
+audio: "vergessen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergessen
+
+![[vergessen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergessen&language=de)
 
 **Meaning:** to forget
 **Forms:** vergisst · vergaß · hat vergessen

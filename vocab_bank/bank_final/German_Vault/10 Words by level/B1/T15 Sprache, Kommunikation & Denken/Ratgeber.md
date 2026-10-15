@@ -15,11 +15,16 @@ id: "B3802"
 netzwerk: "B1 K4 8b"
 freq_rank: 4785
 skip: false
+audio: "Ratgeber.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ratgeber
+
+![[Ratgeber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ratgeber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratgeber&language=de)
 
 **Meaning:** advisor; guidebook
 **Plural:** Ratgeber

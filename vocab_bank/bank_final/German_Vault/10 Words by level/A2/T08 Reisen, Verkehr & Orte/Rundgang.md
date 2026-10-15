@@ -15,11 +15,16 @@ id: "B6541"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Rundgang.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rundgang
+
+![[Rundgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rundgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rundgang&language=de)
 
 **Meaning:** tour; walk round
 **Plural:** Rundgänge

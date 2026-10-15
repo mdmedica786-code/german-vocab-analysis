@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3261"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Laufzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Laufzeit
+
+![[Laufzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laufzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laufzeit&language=de)
 
 **Meaning:** term; duration; running time
 **Plural:** Laufzeiten

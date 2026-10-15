@@ -13,11 +13,16 @@ id: "B1309"
 netzwerk: "A1 K8 12c"
 freq_rank: 5759
 skip: false
+audio: "aufhängen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufhängen
+
+![[aufhängen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufh%C3%A4ngen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufh%C3%A4ngen&language=de)
 
 **Meaning:** to hang up
 **Forms:** hängt auf · hängte auf · hat aufgehängt

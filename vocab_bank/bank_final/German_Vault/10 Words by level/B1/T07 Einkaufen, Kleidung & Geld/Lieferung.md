@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 8b"
 freq_rank: 4571
 skip: false
+audio: "Lieferung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lieferung
+
+![[Lieferung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieferung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieferung&language=de)
 
 **Meaning:** shipment
 **Plural:** Lieferungen

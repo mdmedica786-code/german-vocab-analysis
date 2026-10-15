@@ -13,11 +13,16 @@ id: "B4882"
 netzwerk: "B1 K10 11a"
 freq_rank: 5759
 skip: false
+audio: "unterzeichnen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterzeichnen
+
+![[unterzeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterzeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterzeichnen&language=de)
 
 **Meaning:** to sign
 **Forms:** unterzeichnet · unterzeichnete · hat unterzeichnet

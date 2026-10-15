@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3631"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Kleinigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kleinigkeit
+
+![[Kleinigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleinigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleinigkeit&language=de)
 
 **Meaning:** trifle; small thing; small gift
 **Plural:** Kleinigkeiten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0969"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Auswendiglernen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Auswendiglernen
+
+![[Auswendiglernen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auswendiglernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswendiglernen&language=de)
 
 **Meaning:** learning by heart; rote learning
 **Plural:** –

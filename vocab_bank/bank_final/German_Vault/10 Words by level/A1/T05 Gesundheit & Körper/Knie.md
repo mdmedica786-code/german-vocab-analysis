@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 6a"
 freq_rank: 1530
 skip: false
+audio: "Knie.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Knie
+
+![[Knie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Knie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knie&language=de)
 
 **Meaning:** knee
 **Plural:** Knie

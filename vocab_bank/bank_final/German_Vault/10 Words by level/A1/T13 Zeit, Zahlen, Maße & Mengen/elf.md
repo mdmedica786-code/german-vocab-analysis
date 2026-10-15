@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 2744
 skip: false
+audio: "elf.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # elf
+
+![[elf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/elf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elf&language=de)
 
 **Meaning:** eleven
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

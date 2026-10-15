@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 895
 skip: false
+audio: "auftreten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auftreten
+
+![[auftreten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auftreten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auftreten&language=de)
 
 **Meaning:** to appear; to perform; to occur
 **Forms:** tritt auf · trat auf · ist aufgetreten

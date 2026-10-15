@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1699"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "hämmern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # hämmern
+
+![[hämmern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%A4mmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%A4mmern&language=de)
 
 **Meaning:** to hammer; to pound
 **Forms:** hämmert · hämmerte · hat gehämmert

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 2a"
 freq_rank: 84
 skip: false
+audio: "sehr.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sehr
+
+![[sehr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sehr&language=de)
 
 **Meaning:** very
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1923"
 netzwerk: "A2 K1 9c"
 freq_rank: 5759
 skip: false
+audio: "WC.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das WC
+
+![[WC.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/WC/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=WC&language=de)
 
 **Meaning:** WC (water closet)
 **Plural:** WCs

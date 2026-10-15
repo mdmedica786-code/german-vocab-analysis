@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3189"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ausrüstung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausrüstung
+
+![[Ausrüstung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausr%C3%BCstung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausr%C3%BCstung&language=de)
 
 **Meaning:** equipment; gear
 **Plural:** Ausrüstungen

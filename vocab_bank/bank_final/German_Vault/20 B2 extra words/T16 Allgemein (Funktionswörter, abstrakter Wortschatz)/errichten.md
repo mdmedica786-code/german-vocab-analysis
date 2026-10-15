@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2582"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "errichten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # errichten
+
+![[errichten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/errichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=errichten&language=de)
 
 **Meaning:** to erect; to build; to set up
 **Forms:** errichtet · errichtete · hat errichtet

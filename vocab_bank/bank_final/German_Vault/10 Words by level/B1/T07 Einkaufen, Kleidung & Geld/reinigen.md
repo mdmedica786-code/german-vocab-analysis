@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3e"
 freq_rank: 5478
 skip: false
+audio: "reinigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reinigen
+
+![[reinigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reinigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reinigen&language=de)
 
 **Meaning:** to clean
 **Forms:** reinigt · reinigte · hat gereinigt

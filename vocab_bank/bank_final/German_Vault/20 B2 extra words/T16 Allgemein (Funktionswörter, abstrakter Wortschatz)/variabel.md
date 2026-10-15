@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2431"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "variabel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # variabel
+
+![[variabel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/variabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=variabel&language=de)
 
 **Meaning:** variable; flexible
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

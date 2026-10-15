@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1243"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "eindringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # eindringen
+
+![[eindringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eindringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eindringen&language=de)
 
 **Meaning:** to penetrate; to break in
 **Forms:** dringt ein · drang ein · ist eingedrungen

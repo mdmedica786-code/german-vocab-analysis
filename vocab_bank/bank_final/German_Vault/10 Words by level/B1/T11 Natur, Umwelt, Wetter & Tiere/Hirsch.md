@@ -15,11 +15,16 @@ id: "B4334"
 netzwerk: "B1 K7 12b"
 freq_rank: 4863
 skip: false
+audio: "Hirsch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hirsch
+
+![[Hirsch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hirsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hirsch&language=de)
 
 **Meaning:** stag
 **Plural:** Hirsche

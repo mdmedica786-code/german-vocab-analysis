@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4547"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "unschön.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # unschön
+
+![[unschön.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unsch%C3%B6n/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unsch%C3%B6n&language=de)
 
 **Meaning:** unpleasant; unattractive
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

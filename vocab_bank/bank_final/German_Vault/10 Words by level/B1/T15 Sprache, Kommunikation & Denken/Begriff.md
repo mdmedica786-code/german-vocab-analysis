@@ -15,11 +15,16 @@ id: "B3932"
 netzwerk: "B1 K5 3"
 freq_rank: 1228
 skip: false
+audio: "Begriff.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Begriff
+
+![[Begriff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begriff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begriff&language=de)
 
 **Meaning:** term
 **Plural:** Begriffe

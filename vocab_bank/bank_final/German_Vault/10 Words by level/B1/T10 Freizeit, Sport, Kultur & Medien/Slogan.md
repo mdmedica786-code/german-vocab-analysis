@@ -15,11 +15,16 @@ id: "B3374"
 netzwerk: "B1 K2 1b"
 freq_rank: 5759
 skip: false
+audio: "Slogan.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Slogan
+
+![[Slogan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Slogan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Slogan&language=de)
 
 **Meaning:** slogan
 **Plural:** Slogans

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3186"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Ministerium.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ministerium
+
+![[Ministerium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ministerium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ministerium&language=de)
 
 **Meaning:** ministry (government department)
 **Plural:** Ministerien

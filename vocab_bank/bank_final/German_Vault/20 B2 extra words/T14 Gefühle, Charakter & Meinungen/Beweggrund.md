@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1453"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Beweggrund.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beweggrund
+
+![[Beweggrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beweggrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beweggrund&language=de)
 
 **Meaning:** motive; reason
 **Plural:** Beweggründe

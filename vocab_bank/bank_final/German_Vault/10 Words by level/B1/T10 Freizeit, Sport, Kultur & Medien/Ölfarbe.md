@@ -15,11 +15,16 @@ id: "B4638"
 netzwerk: "B1 K9 7b"
 freq_rank: 5759
 skip: false
+audio: "Ölfarbe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ölfarbe
+
+![[Ölfarbe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96lfarbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96lfarbe&language=de)
 
 **Meaning:** oil colour
 **Plural:** Ölfarben

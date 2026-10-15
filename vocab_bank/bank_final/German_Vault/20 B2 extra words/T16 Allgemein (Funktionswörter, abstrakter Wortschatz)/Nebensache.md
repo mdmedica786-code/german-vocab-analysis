@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4264"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Nebensache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Nebensache
+
+![[Nebensache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nebensache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebensache&language=de)
 
 **Meaning:** minor matter; side issue
 **Plural:** Nebensachen

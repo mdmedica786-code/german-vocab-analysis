@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Trompetenunterricht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Trompetenunterricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trompetenunterricht&language=de)
+
 **Meaning:** trumpet lessons
 **Plural:** –
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

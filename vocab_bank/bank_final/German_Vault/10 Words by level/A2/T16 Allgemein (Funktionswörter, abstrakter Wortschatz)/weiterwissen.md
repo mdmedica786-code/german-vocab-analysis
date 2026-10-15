@@ -13,11 +13,16 @@ id: "B2674"
 netzwerk: "A2 K8 1b"
 freq_rank: 5759
 skip: false
+audio: "weiterwissen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiterwissen
+
+![[weiterwissen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterwissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterwissen&language=de)
 
 **Meaning:** to know what to do next
 **Forms:** weiß weiter · wusste weiter · hat weitergewusst

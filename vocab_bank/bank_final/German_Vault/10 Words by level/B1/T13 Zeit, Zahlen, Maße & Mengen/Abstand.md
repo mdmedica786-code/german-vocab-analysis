@@ -14,11 +14,16 @@ bank: "main"
 id: "B5324"
 freq_rank: 1422
 skip: false
+audio: "Abstand.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abstand
+
+![[Abstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstand&language=de)
 
 **Meaning:** distance; gap
 **Plural:** Abstände

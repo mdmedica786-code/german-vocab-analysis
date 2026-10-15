@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12a"
 freq_rank: 89
 skip: false
+audio: "neu.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # neu
+
+![[neu.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/neu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neu&language=de)
 
 **Meaning:** new
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

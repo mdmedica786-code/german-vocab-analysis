@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1a"
 freq_rank: 1668
 skip: false
+audio: "Behörde.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Behörde
+
+![[Behörde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beh%C3%B6rde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beh%C3%B6rde&language=de)
 
 **Meaning:** authority, government agency
 **Plural:** Behörden

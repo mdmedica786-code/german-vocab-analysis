@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3627"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Weitergabe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weitergabe
+
+![[Weitergabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weitergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weitergabe&language=de)
 
 **Meaning:** passing on; transmission; disclosure
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3082"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Renaissance.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Renaissance
+
+![[Renaissance.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Renaissance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Renaissance&language=de)
 
 **Meaning:** Renaissance
 **Plural:** –

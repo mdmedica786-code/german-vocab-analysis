@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Museumsnacht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Museumsnacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museumsnacht&language=de)
+
 **Meaning:** museum night
 **Plural:** Museumsnächte
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

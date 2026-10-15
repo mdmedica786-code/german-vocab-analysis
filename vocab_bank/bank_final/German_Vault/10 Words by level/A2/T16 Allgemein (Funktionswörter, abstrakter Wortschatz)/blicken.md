@@ -13,11 +13,16 @@ id: "B2676"
 netzwerk: "A2 K8 3a"
 freq_rank: 370
 skip: false
+audio: "blicken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # blicken
+
+![[blicken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blicken&language=de)
 
 **Meaning:** to look; to glance; (colloquial) to get it
 **Forms:** blickt · blickte · hat geblickt

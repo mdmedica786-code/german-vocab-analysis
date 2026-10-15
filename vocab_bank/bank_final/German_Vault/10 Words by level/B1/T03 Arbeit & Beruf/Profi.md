@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 2000
 skip: false
+audio: "Profi.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Profi
+
+![[Profi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Profi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Profi&language=de)
 
 **Meaning:** professional
 **Plural:** Profis

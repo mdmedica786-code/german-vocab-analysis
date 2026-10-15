@@ -15,11 +15,16 @@ id: "B4880"
 netzwerk: "B1 K10 11a"
 freq_rank: 4469
 skip: false
+audio: "Toleranz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Toleranz
+
+![[Toleranz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Toleranz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toleranz&language=de)
 
 **Meaning:** tolerance
 **Plural:** –

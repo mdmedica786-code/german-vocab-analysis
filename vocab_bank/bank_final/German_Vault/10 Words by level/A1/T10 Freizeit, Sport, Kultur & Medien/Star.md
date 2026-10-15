@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 1b"
 freq_rank: 4472
 skip: false
+audio: "Star.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Star
+
+![[Star.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Star/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Star&language=de)
 
 **Meaning:** star
 **Plural:** Stars

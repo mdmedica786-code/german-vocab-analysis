@@ -15,11 +15,16 @@ id: "B2606"
 netzwerk: "A2 K7 9a"
 freq_rank: 9999
 skip: false
+audio: "Wortgrenze.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wortgrenze
+
+![[Wortgrenze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortgrenze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortgrenze&language=de)
 
 **Meaning:** word boundary
 **Plural:** Wortgrenzen

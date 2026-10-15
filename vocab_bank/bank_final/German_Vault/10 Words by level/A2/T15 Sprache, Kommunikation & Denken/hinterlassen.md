@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 12b"
 freq_rank: 2322
 skip: false
+audio: "hinterlassen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinterlassen
+
+![[hinterlassen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinterlassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinterlassen&language=de)
 
 **Meaning:** to leave (behind)
 **Forms:** hinterlässt · hinterließ · hat hinterlassen

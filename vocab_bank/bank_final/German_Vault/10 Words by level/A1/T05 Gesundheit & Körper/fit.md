@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 1c"
 freq_rank: 4559
 skip: false
+audio: "fit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fit
+
+![[fit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fit&language=de)
 
 **Meaning:** fit
 **Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

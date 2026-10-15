@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # rumliegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/rumliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rumliegen&language=de)
+
 **Meaning:** to lie around
 **Forms:** liegt rum · lag rum · hat rumgelegen
 **Grammar:** separable (rum-)

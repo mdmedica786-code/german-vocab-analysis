@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1137"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Generationenkonflikt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Generationenkonflikt
+
+![[Generationenkonflikt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Generationenkonflikt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Generationenkonflikt&language=de)
 
 **Meaning:** generation gap; conflict between generations
 **Plural:** Generationenkonflikte

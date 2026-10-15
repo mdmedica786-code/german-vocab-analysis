@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 11a"
 freq_rank: 2226
 skip: false
+audio: "Süden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Süden
+
+![[Süden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%BCden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BCden&language=de)
 
 **Meaning:** South
 **Plural:** –

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schultyp
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schultyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schultyp&language=de)
+
 **Meaning:** school type
 **Plural:** Schultypen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6150"
 freq_rank: 4622
 skip: false
+audio: "Verlängerung.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verlängerung
+
+![[Verlängerung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verl%C3%A4ngerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verl%C3%A4ngerung&language=de)
 
 **Meaning:** extension
 **Plural:** Verlängerungen

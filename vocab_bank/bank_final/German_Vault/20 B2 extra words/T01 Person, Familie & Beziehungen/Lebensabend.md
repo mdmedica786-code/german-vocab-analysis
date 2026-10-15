@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1878"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Lebensabend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lebensabend
+
+![[Lebensabend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensabend&language=de)
 
 **Meaning:** old age; twilight years
 **Plural:** –

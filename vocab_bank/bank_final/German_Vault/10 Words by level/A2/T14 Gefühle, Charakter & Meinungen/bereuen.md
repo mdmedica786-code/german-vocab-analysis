@@ -13,11 +13,16 @@ id: "B2431"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "bereuen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bereuen
+
+![[bereuen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bereuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereuen&language=de)
 
 **Meaning:** to regret
 **Forms:** bereut · bereute · hat bereut

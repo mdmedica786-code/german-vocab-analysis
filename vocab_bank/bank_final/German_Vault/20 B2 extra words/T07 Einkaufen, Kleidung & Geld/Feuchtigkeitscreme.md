@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2251"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Feuchtigkeitscreme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feuchtigkeitscreme
+
+![[Feuchtigkeitscreme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuchtigkeitscreme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuchtigkeitscreme&language=de)
 
 **Meaning:** moisturiser
 **Plural:** Feuchtigkeitscremes

@@ -15,11 +15,16 @@ id: "B5099"
 netzwerk: "B1 K12 10a"
 freq_rank: 5759
 skip: false
+audio: "Kleingeld.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kleingeld
+
+![[Kleingeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleingeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleingeld&language=de)
 
 **Meaning:** small change
 **Plural:** –

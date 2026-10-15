@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2029"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Bodenerosion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bodenerosion
+
+![[Bodenerosion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bodenerosion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bodenerosion&language=de)
 
 **Meaning:** soil erosion
 **Plural:** Bodenerosionen

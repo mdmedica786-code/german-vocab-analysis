@@ -12,11 +12,16 @@ id: "B2567"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 3060
 skip: false
+audio: "ungeduldig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungeduldig
+
+![[ungeduldig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungeduldig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungeduldig&language=de)
 
 **Meaning:** impatient
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

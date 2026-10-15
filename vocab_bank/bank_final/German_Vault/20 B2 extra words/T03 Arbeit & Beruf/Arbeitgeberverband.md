@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3717"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Arbeitgeberverband.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitgeberverband
+
+![[Arbeitgeberverband.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitgeberverband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitgeberverband&language=de)
 
 **Meaning:** employers' association
 **Plural:** Arbeitgeberverbände

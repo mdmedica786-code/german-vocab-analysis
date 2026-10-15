@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 2000
 skip: false
+audio: "Stelle.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stelle
+
+![[Stelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stelle&language=de)
 
 **Meaning:** position; place; job
 **Plural:** Stellen

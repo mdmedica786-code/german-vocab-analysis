@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # sich etwas zu Herzen nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sich%20etwas%20zu%20Herzen%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20etwas%20zu%20Herzen%20nehmen&language=de)
+
 **Meaning:** to take something to heart
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3330"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Kupfer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kupfer
+
+![[Kupfer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kupfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kupfer&language=de)
 
 **Meaning:** copper
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 3241
 skip: false
+audio: "schalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schalten
+
+![[schalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schalten&language=de)
 
 **Meaning:** to switch
 **Forms:** schaltet · schaltete · hat geschaltet

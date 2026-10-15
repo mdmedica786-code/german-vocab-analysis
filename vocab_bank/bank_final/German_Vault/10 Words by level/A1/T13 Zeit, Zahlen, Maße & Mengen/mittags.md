@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 4808
 skip: false
+audio: "mittags.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mittags
+
+![[mittags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mittags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mittags&language=de)
 
 **Meaning:** at noon
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 5a"
 freq_rank: 805
 skip: false
+audio: "ständig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ständig
+
+![[ständig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%A4ndig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%A4ndig&language=de)
 
 **Meaning:** constant
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

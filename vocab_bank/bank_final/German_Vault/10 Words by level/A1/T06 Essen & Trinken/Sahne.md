@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 2a"
 freq_rank: 5330
 skip: false
+audio: "Sahne.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sahne
+
+![[Sahne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sahne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sahne&language=de)
 
 **Meaning:** cream
 **Plural:** –

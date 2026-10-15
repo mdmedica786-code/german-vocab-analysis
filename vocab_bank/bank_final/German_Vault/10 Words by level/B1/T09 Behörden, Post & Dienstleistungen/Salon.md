@@ -15,11 +15,16 @@ id: "B6003"
 goethe_level: "B1"
 freq_rank: 3892
 skip: false
+audio: "Salon.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Salon
+
+![[Salon.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Salon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salon&language=de)
 
 **Meaning:** salon; hairdresser's
 **Plural:** Salons

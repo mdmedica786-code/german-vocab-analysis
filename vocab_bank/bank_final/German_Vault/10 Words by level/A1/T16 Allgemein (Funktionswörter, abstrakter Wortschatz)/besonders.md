@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 4a"
 freq_rank: 262
 skip: false
+audio: "besonders.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # besonders
+
+![[besonders.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besonders/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besonders&language=de)
 
 **Meaning:** special
 **Other senses:** especially

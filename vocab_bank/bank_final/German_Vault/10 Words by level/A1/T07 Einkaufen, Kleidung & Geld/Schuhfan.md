@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schuhfan
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schuhfan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuhfan&language=de)
+
 **Meaning:** shoe fan
 **Plural:** Schuhfans
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

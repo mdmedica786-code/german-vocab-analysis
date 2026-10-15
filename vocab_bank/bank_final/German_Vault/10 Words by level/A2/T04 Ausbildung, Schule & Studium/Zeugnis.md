@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Zeugnis
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zeugnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeugnis&language=de)
+
 **Meaning:** report card
 **Plural:** Zeugnisse
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

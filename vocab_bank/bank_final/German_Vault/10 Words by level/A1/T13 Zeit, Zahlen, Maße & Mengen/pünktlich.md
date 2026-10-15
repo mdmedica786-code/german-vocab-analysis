@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 15b"
 freq_rank: 4104
 skip: false
+audio: "pünktlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # pünktlich
+
+![[pünktlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/p%C3%BCnktlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=p%C3%BCnktlich&language=de)
 
 **Meaning:** on time, punctual
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

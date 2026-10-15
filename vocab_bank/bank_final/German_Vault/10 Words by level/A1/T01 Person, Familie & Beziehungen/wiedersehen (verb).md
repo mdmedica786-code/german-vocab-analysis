@@ -13,11 +13,16 @@ id: "B5768"
 goethe_level: "A1"
 freq_rank: 2996
 skip: false
+audio: "wiedersehen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wiedersehen
+
+![[wiedersehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wiedersehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wiedersehen&language=de)
 
 **Meaning:** to see again
 **Forms:** sieht wieder · sah wieder · hat wiedergesehen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4050"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Höchstgeschwindigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Höchstgeschwindigkeit
+
+![[Höchstgeschwindigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6chstgeschwindigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6chstgeschwindigkeit&language=de)
 
 **Meaning:** top speed; maximum speed
 **Plural:** Höchstgeschwindigkeiten

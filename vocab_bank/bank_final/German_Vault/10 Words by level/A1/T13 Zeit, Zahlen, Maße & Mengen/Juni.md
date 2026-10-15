@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 10a"
 freq_rank: 1356
 skip: false
+audio: "Juni.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Juni
+
+![[Juni.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Juni/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Juni&language=de)
 
 **Meaning:** June
 **Plural:** –

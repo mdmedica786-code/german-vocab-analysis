@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 4728
 skip: false
+audio: "konservativ.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # konservativ
+
+![[konservativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konservativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konservativ&language=de)
 
 **Meaning:** conservative
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

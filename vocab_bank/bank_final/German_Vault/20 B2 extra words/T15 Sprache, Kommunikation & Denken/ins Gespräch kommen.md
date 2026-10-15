@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0193"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "ins Gespräch kommen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ins Gespräch kommen
+
+![[ins Gespräch kommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ins%20Gespr%C3%A4ch%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ins%20Gespr%C3%A4ch%20kommen&language=de)
 
 **Meaning:** to get into conversation
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

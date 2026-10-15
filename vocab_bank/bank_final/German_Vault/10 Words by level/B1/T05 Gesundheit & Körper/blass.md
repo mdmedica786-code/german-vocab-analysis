@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 3953
 skip: false
+audio: "blass.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # blass
+
+![[blass.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blass&language=de)
 
 **Meaning:** pale
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3497"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Eroberung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eroberung
+
+![[Eroberung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eroberung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eroberung&language=de)
 
 **Meaning:** conquest; capture
 **Plural:** Eroberungen

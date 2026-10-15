@@ -13,11 +13,16 @@ id: "B1631"
 netzwerk: "A1 K11 9a"
 freq_rank: 5759
 skip: false
+audio: "shoppen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # shoppen
+
+![[shoppen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/shoppen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=shoppen&language=de)
 
 **Meaning:** to shop
 **Forms:** shoppt · shoppte · hat geshoppt

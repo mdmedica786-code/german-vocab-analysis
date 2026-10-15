@@ -15,11 +15,16 @@ id: "B5714"
 goethe_level: "B1"
 freq_rank: 2848
 skip: false
+audio: "Alarm.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Alarm
+
+![[Alarm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alarm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alarm&language=de)
 
 **Meaning:** alarm
 **Plural:** Alarme

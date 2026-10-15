@@ -15,11 +15,16 @@ id: "B0736"
 netzwerk: "A1 K4 10a"
 freq_rank: 5759
 skip: false
+audio: "Mindmap.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mindmap
+
+![[Mindmap.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mindmap/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mindmap&language=de)
 
 **Meaning:** mind map
 **Plural:** Mindmaps

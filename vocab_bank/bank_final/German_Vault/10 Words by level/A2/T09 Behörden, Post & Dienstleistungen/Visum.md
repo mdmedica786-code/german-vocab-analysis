@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 5d"
 freq_rank: 5759
 skip: false
+audio: "Visum.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Visum
+
+![[Visum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Visum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Visum&language=de)
 
 **Meaning:** visa
 **Plural:** Visa

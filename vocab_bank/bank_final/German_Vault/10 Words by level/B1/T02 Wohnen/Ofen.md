@@ -15,11 +15,16 @@ id: "B5964"
 goethe_level: "B1"
 freq_rank: 3645
 skip: false
+audio: "Ofen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ofen
+
+![[Ofen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ofen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ofen&language=de)
 
 **Meaning:** oven
 **Plural:** Öfen

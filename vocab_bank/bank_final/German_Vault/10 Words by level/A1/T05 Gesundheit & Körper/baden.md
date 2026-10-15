@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 10b"
 freq_rank: 2010
 skip: false
+audio: "baden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # baden
+
+![[baden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/baden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=baden&language=de)
 
 **Meaning:** to bath
 **Forms:** badet · badete · hat gebadet

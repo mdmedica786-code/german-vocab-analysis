@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1283"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "kapitulieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # kapitulieren
+
+![[kapitulieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kapitulieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kapitulieren&language=de)
 
 **Meaning:** to surrender; to give up
 **Forms:** kapituliert · kapitulierte · hat kapituliert

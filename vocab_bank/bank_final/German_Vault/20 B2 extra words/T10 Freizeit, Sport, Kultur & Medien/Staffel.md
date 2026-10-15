@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1945"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Staffel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Staffel
+
+![[Staffel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Staffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staffel&language=de)
 
 **Meaning:** season (of a series); relay
 **Plural:** Staffeln

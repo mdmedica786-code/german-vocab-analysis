@@ -14,11 +14,16 @@ bank: "main"
 id: "B6148"
 freq_rank: 4616
 skip: false
+audio: "Trauma.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Trauma
+
+![[Trauma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trauma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trauma&language=de)
 
 **Meaning:** trauma
 **Plural:** Traumata

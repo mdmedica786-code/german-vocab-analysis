@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0697"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Kompost.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kompost
+
+![[Kompost.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kompost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kompost&language=de)
 
 **Meaning:** compost
 **Plural:** –

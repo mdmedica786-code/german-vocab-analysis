@@ -15,11 +15,16 @@ id: "B3097"
 netzwerk: "A2 K11 11a"
 freq_rank: 2898
 skip: false
+audio: "Lücke.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lücke
+
+![[Lücke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%BCcke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%BCcke&language=de)
 
 **Meaning:** gap
 **Plural:** Lücken

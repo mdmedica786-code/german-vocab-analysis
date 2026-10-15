@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0680"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Nachhaltigkeit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachhaltigkeit
+
+![[Nachhaltigkeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachhaltigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachhaltigkeit&language=de)
 
 **Meaning:** sustainability
 **Plural:** –

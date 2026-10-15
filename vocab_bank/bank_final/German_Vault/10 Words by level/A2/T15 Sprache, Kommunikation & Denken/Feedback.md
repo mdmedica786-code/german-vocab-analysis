@@ -15,11 +15,16 @@ id: "B2745"
 netzwerk: "A2 K8 6b"
 freq_rank: 4172
 skip: false
+audio: "Feedback.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Feedback
+
+![[Feedback.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feedback/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feedback&language=de)
 
 **Meaning:** feedback
 **Plural:** Feedbacks

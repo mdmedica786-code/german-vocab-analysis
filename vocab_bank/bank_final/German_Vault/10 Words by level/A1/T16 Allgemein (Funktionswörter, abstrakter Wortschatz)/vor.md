@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # vor
 
+[▶️ YouGlish](https://youglish.com/pronounce/vor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vor&language=de)
+
 **Meaning:** before
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

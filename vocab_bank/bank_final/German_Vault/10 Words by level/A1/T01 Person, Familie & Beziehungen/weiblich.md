@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 1519
 skip: false
+audio: "weiblich.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiblich
+
+![[weiblich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiblich&language=de)
 
 **Meaning:** female
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

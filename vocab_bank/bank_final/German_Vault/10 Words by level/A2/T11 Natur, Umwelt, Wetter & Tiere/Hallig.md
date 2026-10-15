@@ -15,11 +15,16 @@ id: "B2922"
 netzwerk: "A2 K10 1b"
 freq_rank: 5759
 skip: false
+audio: "Hallig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hallig
+
+![[Hallig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hallig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hallig&language=de)
 
 **Meaning:** hallig
 **Plural:** Halligen

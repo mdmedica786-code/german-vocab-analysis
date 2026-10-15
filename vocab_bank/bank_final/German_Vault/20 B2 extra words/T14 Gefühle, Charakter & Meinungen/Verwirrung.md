@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2945"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Verwirrung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwirrung
+
+![[Verwirrung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwirrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwirrung&language=de)
 
 **Meaning:** confusion
 **Plural:** –

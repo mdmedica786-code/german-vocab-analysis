@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2905"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Silber.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Silber
+
+![[Silber.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Silber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Silber&language=de)
 
 **Meaning:** silver
 **Plural:** –

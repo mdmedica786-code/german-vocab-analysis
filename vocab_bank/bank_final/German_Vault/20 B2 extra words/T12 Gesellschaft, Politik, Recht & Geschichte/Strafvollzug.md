@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0519"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Strafvollzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Strafvollzug
+
+![[Strafvollzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strafvollzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strafvollzug&language=de)
 
 **Meaning:** prison system; execution of sentence
 **Plural:** –

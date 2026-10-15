@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2604"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Mörder.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mörder
+
+![[Mörder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6rder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6rder&language=de)
 
 **Meaning:** murderer
 **Plural:** Mörder

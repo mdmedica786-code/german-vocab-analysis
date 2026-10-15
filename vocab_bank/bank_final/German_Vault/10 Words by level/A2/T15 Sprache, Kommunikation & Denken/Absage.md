@@ -15,11 +15,16 @@ id: "B2203"
 netzwerk: "A2 K4 3e"
 freq_rank: 4863
 skip: false
+audio: "Absage.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Absage
+
+![[Absage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Absage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Absage&language=de)
 
 **Meaning:** cancellation
 **Plural:** Absagen

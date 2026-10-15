@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Freizeitkleidung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeitkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitkleidung&language=de)
+
 **Meaning:** leisure clothes
 **Plural:** –
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

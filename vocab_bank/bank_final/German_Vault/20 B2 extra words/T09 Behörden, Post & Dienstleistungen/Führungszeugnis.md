@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1113"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Führungszeugnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Führungszeugnis
+
+![[Führungszeugnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrungszeugnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrungszeugnis&language=de)
 
 **Meaning:** certificate of good conduct
 **Plural:** Führungszeugnisse

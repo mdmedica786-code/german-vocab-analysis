@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4523"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "umweltschonend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # umweltschonend
+
+![[umweltschonend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umweltschonend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umweltschonend&language=de)
 
 **Meaning:** environmentally friendly; eco-friendly
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0512"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Ordnungswidrigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ordnungswidrigkeit
+
+![[Ordnungswidrigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ordnungswidrigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordnungswidrigkeit&language=de)
 
 **Meaning:** administrative offence
 **Plural:** Ordnungswidrigkeiten

@@ -13,11 +13,16 @@ id: "B4202"
 netzwerk: "B1 K6 10b"
 freq_rank: 445
 skip: false
+audio: "bezeichnen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bezeichnen
+
+![[bezeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bezeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bezeichnen&language=de)
 
 **Meaning:** to describe; to call; to designate
 **Forms:** bezeichnet · bezeichnete · hat bezeichnet

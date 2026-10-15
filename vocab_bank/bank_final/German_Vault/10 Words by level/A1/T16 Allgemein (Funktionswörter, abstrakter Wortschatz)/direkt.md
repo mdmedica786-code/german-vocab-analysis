@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 3c"
 freq_rank: 345
 skip: false
+audio: "direkt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # direkt
+
+![[direkt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/direkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=direkt&language=de)
 
 **Meaning:** direct
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

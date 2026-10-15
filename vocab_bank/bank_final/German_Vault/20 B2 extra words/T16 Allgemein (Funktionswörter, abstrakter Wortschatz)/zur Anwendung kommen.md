@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Anwendung kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Anwendung%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Anwendung%20kommen&language=de)
+
 **Meaning:** to be applied; to come into use
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

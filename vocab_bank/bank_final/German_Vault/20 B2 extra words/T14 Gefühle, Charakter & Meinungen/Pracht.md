@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3430"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Pracht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pracht
+
+![[Pracht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pracht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pracht&language=de)
 
 **Meaning:** splendour; magnificence
 **Plural:** –

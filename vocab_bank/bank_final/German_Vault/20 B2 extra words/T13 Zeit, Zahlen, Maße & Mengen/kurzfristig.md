@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0776"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "kurzfristig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # kurzfristig
+
+![[kurzfristig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kurzfristig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kurzfristig&language=de)
 
 **Meaning:** short-term; at short notice
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0397"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Zielsetzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zielsetzung
+
+![[Zielsetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zielsetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zielsetzung&language=de)
 
 **Meaning:** objective; goal-setting
 **Plural:** Zielsetzungen

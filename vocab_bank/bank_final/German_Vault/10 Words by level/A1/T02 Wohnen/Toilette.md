@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 1a"
 freq_rank: 3571
 skip: false
+audio: "Toilette.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Toilette
+
+![[Toilette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Toilette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toilette&language=de)
 
 **Meaning:** toilet
 **Plural:** Toiletten

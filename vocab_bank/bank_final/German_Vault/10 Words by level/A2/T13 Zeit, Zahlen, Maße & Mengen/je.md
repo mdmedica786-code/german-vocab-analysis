@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 3a"
 freq_rank: 289
 skip: false
+audio: "je.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # je
+
+![[je.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/je/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=je&language=de)
 
 **Meaning:** each; per; ever
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

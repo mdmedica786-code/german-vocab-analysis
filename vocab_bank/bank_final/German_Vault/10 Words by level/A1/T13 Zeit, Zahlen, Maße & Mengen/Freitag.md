@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 3405
 skip: false
+audio: "Freitag.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Freitag
+
+![[Freitag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freitag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freitag&language=de)
 
 **Meaning:** Friday
 **Plural:** Freitage

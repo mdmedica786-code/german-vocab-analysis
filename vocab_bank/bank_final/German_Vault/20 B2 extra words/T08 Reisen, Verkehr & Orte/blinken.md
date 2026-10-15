@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3821"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "blinken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # blinken
+
+![[blinken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blinken&language=de)
 
 **Meaning:** to flash; to indicate (with a car); to blink
 **Forms:** blinkt · blinkte · hat geblinkt

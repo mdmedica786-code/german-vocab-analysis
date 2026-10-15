@@ -15,11 +15,16 @@ id: "B6054"
 goethe_level: "B1"
 freq_rank: 4100
 skip: false
+audio: "Batterie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Batterie
+
+![[Batterie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Batterie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Batterie&language=de)
 
 **Meaning:** battery
 **Plural:** Batterien

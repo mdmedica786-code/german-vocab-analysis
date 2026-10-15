@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1a"
 freq_rank: 449
 skip: false
+audio: "König.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der König
+
+![[König.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6nig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6nig&language=de)
 
 **Meaning:** king
 **Plural:** Könige

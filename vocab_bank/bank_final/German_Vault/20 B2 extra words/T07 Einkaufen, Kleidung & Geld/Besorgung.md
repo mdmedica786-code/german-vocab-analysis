@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3802"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Besorgung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Besorgung
+
+![[Besorgung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besorgung&language=de)
 
 **Meaning:** errand; purchase
 **Plural:** Besorgungen

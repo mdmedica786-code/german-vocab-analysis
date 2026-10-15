@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # teilnehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/teilnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teilnehmen&language=de)
+
 **Meaning:** to participate
 **Forms:** nimmt teil · nahm teil · hat teilgenommen
 **Grammar:** separable (teil-)

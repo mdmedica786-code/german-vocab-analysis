@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 1c"
 freq_rank: 65
 skip: false
+audio: "doch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/particle"]
 status: "new"
 ---
 <!-- bank:start -->
 # doch
+
+![[doch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/doch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=doch&language=de)
 
 **Meaning:** yes (to a negative question); but; after all
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

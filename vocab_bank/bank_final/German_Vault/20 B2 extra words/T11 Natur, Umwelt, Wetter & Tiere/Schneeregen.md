@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2023"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Schneeregen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schneeregen
+
+![[Schneeregen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schneeregen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneeregen&language=de)
 
 **Meaning:** sleet
 **Plural:** –

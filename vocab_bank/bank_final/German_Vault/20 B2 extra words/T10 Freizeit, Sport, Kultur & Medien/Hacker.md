@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0582"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Hacker.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hacker
+
+![[Hacker.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hacker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hacker&language=de)
 
 **Meaning:** hacker
 **Plural:** Hacker

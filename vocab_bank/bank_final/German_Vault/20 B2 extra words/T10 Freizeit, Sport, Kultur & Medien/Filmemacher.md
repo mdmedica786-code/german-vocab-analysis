@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3942"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Filmemacher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Filmemacher
+
+![[Filmemacher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Filmemacher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmemacher&language=de)
 
 **Meaning:** filmmaker (male)
 **Plural:** Filmemacher

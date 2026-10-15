@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3149"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "gebildet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gebildet
+
+![[gebildet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gebildet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gebildet&language=de)
 
 **Meaning:** educated; cultured
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B6016"
 goethe_level: "A1"
 freq_rank: 3957
 skip: false
+audio: "Ausländer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausländer
+
+![[Ausländer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausl%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausl%C3%A4nder&language=de)
 
 **Meaning:** foreigner
 **Plural:** Ausländer

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1430"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Glühwein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Glühwein
+
+![[Glühwein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BChwein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BChwein&language=de)
 
 **Meaning:** mulled wine
 **Plural:** Glühweine

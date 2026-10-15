@@ -15,11 +15,16 @@ id: "B6377"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Betriebsrätin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Betriebsrätin
+
+![[Betriebsrätin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betriebsr%C3%A4tin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betriebsr%C3%A4tin&language=de)
 
 **Meaning:** works council member (f)
 **Plural:** Betriebsrätinnen

@@ -15,11 +15,16 @@ id: "B4293"
 netzwerk: "B1 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Familienleben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Familienleben
+
+![[Familienleben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familienleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienleben&language=de)
 
 **Meaning:** family life
 **Plural:** –

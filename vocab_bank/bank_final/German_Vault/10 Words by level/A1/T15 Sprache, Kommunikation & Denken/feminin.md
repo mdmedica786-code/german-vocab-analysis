@@ -12,11 +12,16 @@ id: "B0282"
 netzwerk: "A1 K2 6a"
 freq_rank: 5759
 skip: false
+audio: "feminin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # feminin
+
+![[feminin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/feminin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feminin&language=de)
 
 **Meaning:** feminine
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

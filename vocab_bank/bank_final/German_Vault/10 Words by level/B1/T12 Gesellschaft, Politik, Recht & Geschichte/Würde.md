@@ -15,11 +15,16 @@ id: "B4884"
 netzwerk: "B1 K10 11a"
 freq_rank: 2000
 skip: false
+audio: "Würde.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Würde
+
+![[Würde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%BCrde&language=de)
 
 **Meaning:** dignity
 **Plural:** –

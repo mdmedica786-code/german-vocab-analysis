@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0288"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Dimension.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dimension
+
+![[Dimension.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dimension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dimension&language=de)
 
 **Meaning:** dimension; scale
 **Plural:** Dimensionen

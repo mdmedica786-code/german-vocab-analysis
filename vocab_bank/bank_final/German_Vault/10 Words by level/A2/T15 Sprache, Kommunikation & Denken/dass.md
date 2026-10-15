@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dass
 
+[▶️ YouGlish](https://youglish.com/pronounce/dass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dass&language=de)
+
 **Meaning:** that
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

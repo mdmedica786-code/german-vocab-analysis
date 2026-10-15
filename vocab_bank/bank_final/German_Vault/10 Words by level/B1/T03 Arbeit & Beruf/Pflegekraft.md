@@ -15,11 +15,16 @@ id: "B3522"
 netzwerk: "B1 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "Pflegekraft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflegekraft
+
+![[Pflegekraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflegekraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegekraft&language=de)
 
 **Meaning:** caregiver
 **Plural:** Pflegekräfte

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2c"
 freq_rank: 2401
 skip: false
+audio: "warnen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # warnen
+
+![[warnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/warnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=warnen&language=de)
 
 **Meaning:** to warn
 **Forms:** warnt · warnte · hat gewarnt

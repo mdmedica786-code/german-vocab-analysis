@@ -12,11 +12,16 @@ id: "B3027"
 netzwerk: "A2 K10 12c"
 freq_rank: 4524
 skip: false
+audio: "blitzschnell.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # blitzschnell
+
+![[blitzschnell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blitzschnell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blitzschnell&language=de)
 
 **Meaning:** lightning-fast
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

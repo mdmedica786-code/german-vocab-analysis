@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # bewusstlos
 
+[▶️ YouGlish](https://youglish.com/pronounce/bewusstlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewusstlos&language=de)
+
 **Meaning:** unconscious
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

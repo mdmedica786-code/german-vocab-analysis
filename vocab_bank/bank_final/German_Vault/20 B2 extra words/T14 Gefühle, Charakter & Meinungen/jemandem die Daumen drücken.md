@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem die Daumen drücken
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20die%20Daumen%20dr%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20die%20Daumen%20dr%C3%BCcken&language=de)
+
 **Meaning:** to keep one's fingers crossed for someone
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

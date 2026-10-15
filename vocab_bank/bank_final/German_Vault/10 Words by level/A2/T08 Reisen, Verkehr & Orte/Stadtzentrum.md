@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Stadtzentrum
 
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtzentrum&language=de)
+
 **Meaning:** city centre
 **Plural:** Stadtzentren
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1090"
 netzwerk: "A1 K7 3c"
 freq_rank: 5759
 skip: false
+audio: "Wortanfang.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wortanfang
+
+![[Wortanfang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortanfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortanfang&language=de)
 
 **Meaning:** beginning of the word
 **Plural:** Wortanfänge

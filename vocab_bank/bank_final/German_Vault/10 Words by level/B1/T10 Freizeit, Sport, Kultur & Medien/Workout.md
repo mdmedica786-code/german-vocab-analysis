@@ -15,11 +15,16 @@ id: "B3545"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Workout.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Workout
+
+![[Workout.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Workout/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Workout&language=de)
 
 **Meaning:** workout
 **Plural:** Workouts

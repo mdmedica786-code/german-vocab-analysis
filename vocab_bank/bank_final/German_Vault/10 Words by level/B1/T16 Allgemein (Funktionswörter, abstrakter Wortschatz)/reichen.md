@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 435
 skip: false
+audio: "reichen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reichen
+
+![[reichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reichen&language=de)
 
 **Meaning:** to be enough; to hand; to reach
 **Forms:** reicht · reichte · hat gereicht

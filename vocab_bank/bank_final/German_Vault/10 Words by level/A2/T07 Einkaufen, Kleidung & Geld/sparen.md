@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 3753
 skip: false
+audio: "sparen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sparen
+
+![[sparen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sparen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sparen&language=de)
 
 **Meaning:** to save
 **Forms:** spart · sparte · hat gespart

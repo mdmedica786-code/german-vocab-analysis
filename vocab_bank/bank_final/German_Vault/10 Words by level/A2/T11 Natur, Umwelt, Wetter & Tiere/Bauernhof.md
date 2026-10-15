@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 1a"
 freq_rank: 5746
 skip: false
+audio: "Bauernhof.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bauernhof
+
+![[Bauernhof.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauernhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauernhof&language=de)
 
 **Meaning:** farm
 **Plural:** Bauernhöfe

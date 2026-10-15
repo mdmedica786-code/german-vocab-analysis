@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0919"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ausbilder.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausbilder
+
+![[Ausbilder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbilder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbilder&language=de)
 
 **Meaning:** trainer; instructor (in vocational training)
 **Plural:** Ausbilder

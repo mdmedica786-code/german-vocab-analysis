@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Schritte unternehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schritte%20unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schritte%20unternehmen&language=de)
+
 **Meaning:** to take steps
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

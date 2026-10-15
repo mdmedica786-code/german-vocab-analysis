@@ -12,11 +12,16 @@ bank: "main"
 id: "B5379"
 freq_rank: 1692
 skip: false
+audio: "leuchten.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leuchten
+
+![[leuchten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leuchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leuchten&language=de)
 
 **Meaning:** to shine; to glow
 **Forms:** leuchtet · leuchtete · hat geleuchtet

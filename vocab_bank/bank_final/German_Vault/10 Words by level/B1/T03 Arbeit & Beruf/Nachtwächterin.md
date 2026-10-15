@@ -15,11 +15,16 @@ id: "B5122"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Nachtwächterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachtwächterin
+
+![[Nachtwächterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachtw%C3%A4chterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtw%C3%A4chterin&language=de)
 
 **Meaning:** night watchwoman
 **Plural:** Nachtwächterinnen

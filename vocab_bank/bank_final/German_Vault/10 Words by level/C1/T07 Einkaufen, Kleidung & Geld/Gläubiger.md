@@ -14,11 +14,16 @@ bank: "main"
 id: "B5855"
 freq_rank: 3158
 skip: false
+audio: "Gläubiger.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gläubiger
+
+![[Gläubiger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%A4ubiger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%A4ubiger&language=de)
 
 **Meaning:** creditor
 **Plural:** Gläubiger

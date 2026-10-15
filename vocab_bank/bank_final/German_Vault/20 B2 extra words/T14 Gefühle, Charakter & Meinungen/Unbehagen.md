@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3390"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Unbehagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Unbehagen
+
+![[Unbehagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unbehagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unbehagen&language=de)
 
 **Meaning:** unease; discomfort
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3198"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Brauch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Brauch
+
+![[Brauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brauch&language=de)
 
 **Meaning:** custom; tradition
 **Plural:** Bräuche

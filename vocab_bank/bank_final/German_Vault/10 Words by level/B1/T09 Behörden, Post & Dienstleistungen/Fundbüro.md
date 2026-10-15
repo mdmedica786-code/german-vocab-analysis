@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Fundbüro.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fundbüro
+
+![[Fundbüro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fundb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fundb%C3%BCro&language=de)
 
 **Meaning:** lost and found office
 **Plural:** Fundbüros

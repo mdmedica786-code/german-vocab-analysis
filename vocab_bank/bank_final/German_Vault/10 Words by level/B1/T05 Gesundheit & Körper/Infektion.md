@@ -15,11 +15,16 @@ id: "B5616"
 goethe_level: "B1"
 freq_rank: 2550
 skip: false
+audio: "Infektion.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Infektion
+
+![[Infektion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Infektion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infektion&language=de)
 
 **Meaning:** infection
 **Plural:** Infektionen

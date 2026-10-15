@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1226"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "befreunden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # befreunden
+
+![[befreunden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befreunden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befreunden&language=de)
 
 **Meaning:** to make friends; to become friends
 **Forms:** befreundet sich · befreundete sich · hat sich befreundet

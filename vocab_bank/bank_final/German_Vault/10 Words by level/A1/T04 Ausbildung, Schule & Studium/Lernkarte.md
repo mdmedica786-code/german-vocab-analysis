@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Lernkarte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lernkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernkarte&language=de)
+
 **Meaning:** flashcard; learning card
 **Plural:** Lernkarten
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B5081"
 netzwerk: "B1 K12 7a"
 freq_rank: 3869
 skip: false
+audio: "Verbraucher.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verbraucher
+
+![[Verbraucher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbraucher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbraucher&language=de)
 
 **Meaning:** consumer (m)
 **Plural:** Verbraucher

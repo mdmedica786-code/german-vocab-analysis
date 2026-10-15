@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1426"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Vollkornbrot.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vollkornbrot
+
+![[Vollkornbrot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollkornbrot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollkornbrot&language=de)
 
 **Meaning:** wholemeal bread
 **Plural:** Vollkornbrote

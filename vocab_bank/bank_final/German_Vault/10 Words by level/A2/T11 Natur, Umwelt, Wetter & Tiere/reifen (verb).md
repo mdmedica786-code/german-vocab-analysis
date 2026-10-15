@@ -13,11 +13,16 @@ id: "B5955"
 goethe_level: "A2"
 freq_rank: 3617
 skip: false
+audio: "reifen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reifen
+
+![[reifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reifen&language=de)
 
 **Meaning:** to ripen; to mature
 **Forms:** reift · reifte · ist gereift

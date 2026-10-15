@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 9c"
 freq_rank: 1141
 skip: false
+audio: "dahin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dahin
+
+![[dahin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dahin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dahin&language=de)
 
 **Meaning:** there
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

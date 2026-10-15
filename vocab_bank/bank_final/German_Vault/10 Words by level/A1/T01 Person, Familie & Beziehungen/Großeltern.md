@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a ÜB"
 freq_rank: 4473
 skip: false
+audio: "Großeltern.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Großeltern
+
+![[Großeltern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Feltern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Feltern&language=de)
 
 **Meaning:** grandparents
 **Plural:** (Pl.)

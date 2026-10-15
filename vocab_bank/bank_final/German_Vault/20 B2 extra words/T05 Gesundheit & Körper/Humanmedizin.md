@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4059"
 exam_use: ["Wissenschaft", "Alltag"]
 skip: false
-status: "new"
+audio: "Humanmedizin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Humanmedizin
+
+![[Humanmedizin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Humanmedizin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Humanmedizin&language=de)
 
 **Meaning:** human medicine
 **Plural:** –

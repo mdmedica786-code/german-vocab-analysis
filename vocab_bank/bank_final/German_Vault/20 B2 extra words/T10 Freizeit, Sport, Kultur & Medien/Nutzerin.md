@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4277"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Nutzerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Nutzerin
+
+![[Nutzerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nutzerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nutzerin&language=de)
 
 **Meaning:** user (female)
 **Plural:** Nutzerinnen

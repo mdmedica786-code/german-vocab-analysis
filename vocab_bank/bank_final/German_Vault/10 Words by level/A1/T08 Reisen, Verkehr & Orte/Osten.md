@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 11a"
 freq_rank: 2033
 skip: false
+audio: "Osten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Osten
+
+![[Osten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Osten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Osten&language=de)
 
 **Meaning:** East
 **Plural:** –

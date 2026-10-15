@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3667"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zeitgleich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zeitgleich
+
+![[zeitgleich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zeitgleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeitgleich&language=de)
 
 **Meaning:** simultaneous; at the same time
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 10a"
 freq_rank: 543
 skip: false
+audio: "ansehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansehen
+
+![[ansehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansehen&language=de)
 
 **Meaning:** to look at
 **Forms:** sieht an · sah an · hat angesehen

@@ -12,11 +12,16 @@ id: "B6605"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "wertlos.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wertlos
+
+![[wertlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wertlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wertlos&language=de)
 
 **Meaning:** worthless
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

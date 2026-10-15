@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "hageln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hageln
+
+![[hageln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hageln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hageln&language=de)
 
 **Meaning:** to hail
 **Forms:** hagelt · hagelte · hat gehagelt

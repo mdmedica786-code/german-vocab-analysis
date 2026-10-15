@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1262"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "erpressen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # erpressen
+
+![[erpressen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erpressen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erpressen&language=de)
 
 **Meaning:** to blackmail; to extort
 **Forms:** erpresst · erpresste · hat erpresst

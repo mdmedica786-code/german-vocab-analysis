@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4123"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Konfliktbearbeitung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktbearbeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktbearbeitung&language=de)
 
 **Meaning:** conflict management; handling of conflicts
 **Plural:** –

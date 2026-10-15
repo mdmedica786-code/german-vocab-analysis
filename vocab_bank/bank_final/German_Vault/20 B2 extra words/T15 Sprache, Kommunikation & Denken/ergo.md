@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1366"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "ergo.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ergo
+
+![[ergo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ergo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ergo&language=de)
 
 **Meaning:** therefore; hence
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

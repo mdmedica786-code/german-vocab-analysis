@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 11b"
 freq_rank: 340
 skip: false
+audio: "lächeln.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lächeln
+
+![[lächeln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%A4cheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%A4cheln&language=de)
 
 **Meaning:** to smile
 **Forms:** lächelt · lächelte · hat gelächelt

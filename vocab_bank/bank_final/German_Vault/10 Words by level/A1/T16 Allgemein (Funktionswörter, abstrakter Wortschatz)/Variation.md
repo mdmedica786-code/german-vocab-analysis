@@ -15,11 +15,16 @@ id: "B1709"
 netzwerk: "A1 K11 12b"
 freq_rank: 3468
 skip: false
+audio: "Variation.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Variation
+
+![[Variation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Variation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Variation&language=de)
 
 **Meaning:** variation
 **Plural:** Variationen

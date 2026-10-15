@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3b"
 freq_rank: 2799
 skip: false
+audio: "verschieben.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschieben
+
+![[verschieben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschieben&language=de)
 
 **Meaning:** to postpone
 **Forms:** verschiebt · verschob · hat verschoben

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Englischlehrer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Englischlehrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Englischlehrer&language=de)
+
 **Meaning:** English teacher (m)
 **Plural:** Englischlehrer
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

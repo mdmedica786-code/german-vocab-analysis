@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4611"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Wählerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Wählerin
+
+![[Wählerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4hlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4hlerin&language=de)
 
 **Meaning:** voter (female)
 **Plural:** Wählerinnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3296"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Täuschung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Täuschung
+
+![[Täuschung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%A4uschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%A4uschung&language=de)
 
 **Meaning:** deception; illusion; fraud
 **Plural:** Täuschungen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 10"
 freq_rank: 1050
 skip: false
+audio: "Diskussion.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Diskussion
+
+![[Diskussion.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diskussion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diskussion&language=de)
 
 **Meaning:** discussion
 **Plural:** Diskussionen

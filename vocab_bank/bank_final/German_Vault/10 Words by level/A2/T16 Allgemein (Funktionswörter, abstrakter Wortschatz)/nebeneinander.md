@@ -12,11 +12,16 @@ id: "B2406"
 netzwerk: "A2 K6 4b"
 freq_rank: 2733
 skip: false
+audio: "nebeneinander.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nebeneinander
+
+![[nebeneinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nebeneinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nebeneinander&language=de)
 
 **Meaning:** next to each other
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

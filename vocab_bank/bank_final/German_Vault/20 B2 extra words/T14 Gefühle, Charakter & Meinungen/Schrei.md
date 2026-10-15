@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2636"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Schrei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schrei
+
+![[Schrei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schrei&language=de)
 
 **Meaning:** scream; cry
 **Plural:** Schreie

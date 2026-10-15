@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3204"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zusammenspiel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zusammenspiel
+
+![[Zusammenspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusammenspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammenspiel&language=de)
 
 **Meaning:** interplay; teamwork
 **Plural:** –

@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # supernett
 
+[▶️ YouGlish](https://youglish.com/pronounce/supernett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=supernett&language=de)
+
 **Meaning:** super nice
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial
 

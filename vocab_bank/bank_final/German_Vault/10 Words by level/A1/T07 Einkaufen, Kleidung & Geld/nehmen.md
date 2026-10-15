@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 95
 skip: false
+audio: "nehmen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nehmen
+
+![[nehmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nehmen&language=de)
 
 **Meaning:** to take
 **Forms:** nimmt · nahm · hat genommen

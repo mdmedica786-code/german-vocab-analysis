@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1949"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Eichhörnchen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eichhörnchen
+
+![[Eichhörnchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eichh%C3%B6rnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eichh%C3%B6rnchen&language=de)
 
 **Meaning:** squirrel
 **Plural:** Eichhörnchen

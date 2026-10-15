@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4147"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Krebspatientin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Krebspatientin
+
+![[Krebspatientin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krebspatientin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebspatientin&language=de)
 
 **Meaning:** cancer patient (female)
 **Plural:** Krebspatientinnen

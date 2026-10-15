@@ -13,11 +13,16 @@ id: "B4936"
 netzwerk: "B1 K11 8b"
 freq_rank: 498
 skip: false
+audio: "betreffen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betreffen
+
+![[betreffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betreffen&language=de)
 
 **Meaning:** to concern
 **Forms:** betrifft · betraf · hat betroffen

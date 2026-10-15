@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1244"
 exam_use: ["Sprechen", "Hören"]
 skip: false
+audio: "einleuchten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # einleuchten
+
+![[einleuchten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einleuchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einleuchten&language=de)
 
 **Meaning:** to make sense; to be plausible
 **Forms:** leuchtet ein · leuchtete ein · hat eingeleuchtet

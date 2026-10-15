@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Semesterticket
 
+[▶️ YouGlish](https://youglish.com/pronounce/Semesterticket/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Semesterticket&language=de)
+
 **Meaning:** semester ticket (student travel pass)
 **Plural:** Semestertickets
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

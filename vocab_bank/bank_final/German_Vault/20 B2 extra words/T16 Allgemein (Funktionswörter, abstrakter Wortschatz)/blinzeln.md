@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2926"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "blinzeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # blinzeln
+
+![[blinzeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blinzeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blinzeln&language=de)
 
 **Meaning:** to blink; to squint
 **Forms:** blinzelt · blinzelte · hat geblinzelt

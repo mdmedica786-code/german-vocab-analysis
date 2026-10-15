@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7a"
 freq_rank: 80
 skip: false
+audio: "Jahr.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Jahr
+
+![[Jahr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahr&language=de)
 
 **Meaning:** year
 **Plural:** Jahre

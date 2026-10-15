@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1152"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Takt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Takt
+
+![[Takt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Takt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Takt&language=de)
 
 **Meaning:** tact; beat; bar (music)
 **Plural:** Takte

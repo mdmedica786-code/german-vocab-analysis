@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3526"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "merklich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # merklich
+
+![[merklich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/merklich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=merklich&language=de)
 
 **Meaning:** noticeable; marked
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

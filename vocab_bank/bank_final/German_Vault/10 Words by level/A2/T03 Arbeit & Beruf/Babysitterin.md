@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 9a"
 freq_rank: 5759
 skip: false
+audio: "Babysitterin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Babysitterin
+
+![[Babysitterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Babysitterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Babysitterin&language=de)
 
 **Meaning:** babysitter (f)
 **Plural:** Babysitterinnen

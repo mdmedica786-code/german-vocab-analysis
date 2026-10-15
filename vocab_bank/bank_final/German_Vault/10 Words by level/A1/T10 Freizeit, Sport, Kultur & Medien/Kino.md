@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 3680
 skip: false
+audio: "Kino.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kino
+
+![[Kino.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kino/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kino&language=de)
 
 **Meaning:** cinema; movie theater
 **Plural:** Kinos

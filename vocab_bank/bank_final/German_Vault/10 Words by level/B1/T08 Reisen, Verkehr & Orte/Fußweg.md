@@ -15,11 +15,16 @@ id: "B4126"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Fußweg.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußweg
+
+![[Fußweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fweg&language=de)
 
 **Meaning:** footpath; walk
 **Plural:** Fußwege

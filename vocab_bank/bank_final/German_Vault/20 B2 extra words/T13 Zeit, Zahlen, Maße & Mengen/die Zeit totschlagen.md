@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2046"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "die Zeit totschlagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeit totschlagen
+
+![[die Zeit totschlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/die%20Zeit%20totschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=die%20Zeit%20totschlagen&language=de)
 
 **Meaning:** to kill time
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

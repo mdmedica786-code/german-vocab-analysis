@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2947"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Untergang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Untergang
+
+![[Untergang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untergang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untergang&language=de)
 
 **Meaning:** downfall; sinking; sunset
 **Plural:** Untergänge

@@ -15,11 +15,16 @@ id: "B0818"
 netzwerk: "A1 K5 7b"
 freq_rank: 5759
 skip: false
+audio: "Musikschule.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Musikschule
+
+![[Musikschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikschule&language=de)
 
 **Meaning:** music school; conservatoire
 **Plural:** Musikschulen

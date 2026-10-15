@@ -15,11 +15,16 @@ id: "B1688"
 netzwerk: "A1 K11 12a"
 freq_rank: 5759
 skip: false
+audio: "Modedesignerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Modedesignerin
+
+![[Modedesignerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Modedesignerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modedesignerin&language=de)
 
 **Meaning:** fashion designer (f)
 **Plural:** Modedesignerinnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3010"
 exam_use: ["Grammatik", "Wissenschaft"]
 skip: false
+audio: "Ableitung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Grammatik", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ableitung
+
+![[Ableitung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ableitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ableitung&language=de)
 
 **Meaning:** derivation; deduction
 **Plural:** Ableitungen

@@ -15,11 +15,16 @@ id: "B3441"
 netzwerk: "B1 K2 6b"
 freq_rank: 5759
 skip: false
+audio: "Jalousie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jalousie
+
+![[Jalousie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jalousie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jalousie&language=de)
 
 **Meaning:** shutter
 **Plural:** Jalousien

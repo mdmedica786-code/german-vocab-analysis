@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3695"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Abteilungsleiterin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Abteilungsleiterin
+
+![[Abteilungsleiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abteilungsleiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abteilungsleiterin&language=de)
 
 **Meaning:** head of department (female)
 **Plural:** Abteilungsleiterinnen

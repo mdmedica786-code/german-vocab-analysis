@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1752"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Steuerberater.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Steuerberater
+
+![[Steuerberater.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steuerberater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuerberater&language=de)
 
 **Meaning:** tax adviser
 **Plural:** Steuerberater

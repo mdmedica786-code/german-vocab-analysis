@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 8a"
 freq_rank: 1397
 skip: false
+audio: "erleichtern.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erleichtern
+
+![[erleichtern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erleichtern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erleichtern&language=de)
 
 **Meaning:** to make easier; to relieve
 **Forms:** erleichtert · erleichterte · hat erleichtert

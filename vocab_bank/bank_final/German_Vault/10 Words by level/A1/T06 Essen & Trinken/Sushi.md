@@ -15,11 +15,16 @@ id: "B0729"
 netzwerk: "A1 K4 9a"
 freq_rank: 5759
 skip: false
+audio: "Sushi.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sushi
+
+![[Sushi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sushi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sushi&language=de)
 
 **Meaning:** sushi
 **Plural:** Sushis

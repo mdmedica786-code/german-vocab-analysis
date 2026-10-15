@@ -15,11 +15,16 @@ id: "B3730"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Menschenkenntnis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Menschenkenntnis
+
+![[Menschenkenntnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menschenkenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenkenntnis&language=de)
 
 **Meaning:** judgement of character; people skills
 **Plural:** –

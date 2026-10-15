@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 12b"
 freq_rank: 4545
 skip: false
+audio: "Virus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Virus
+
+![[Virus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Virus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Virus&language=de)
 
 **Meaning:** virus
 **Plural:** Viren

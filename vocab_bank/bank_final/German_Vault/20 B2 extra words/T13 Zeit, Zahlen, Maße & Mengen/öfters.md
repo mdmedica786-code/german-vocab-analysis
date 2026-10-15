@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3384"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "öfters.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # öfters
+
+![[öfters.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%B6fters/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6fters&language=de)
 
 **Meaning:** often; repeatedly
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

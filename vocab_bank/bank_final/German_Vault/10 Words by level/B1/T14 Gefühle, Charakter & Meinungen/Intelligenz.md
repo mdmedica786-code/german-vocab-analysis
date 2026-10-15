@@ -15,11 +15,16 @@ id: "B5755"
 goethe_level: "B1"
 freq_rank: 2949
 skip: false
+audio: "Intelligenz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Intelligenz
+
+![[Intelligenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Intelligenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Intelligenz&language=de)
 
 **Meaning:** intelligence
 **Plural:** –

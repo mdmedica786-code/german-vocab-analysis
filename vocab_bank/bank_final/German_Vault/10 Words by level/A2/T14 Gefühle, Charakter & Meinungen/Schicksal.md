@@ -15,11 +15,16 @@ id: "B2155"
 netzwerk: "A2 K3 12b"
 freq_rank: 1402
 skip: false
+audio: "Schicksal.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schicksal
+
+![[Schicksal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schicksal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schicksal&language=de)
 
 **Meaning:** fate; destiny
 **Plural:** Schicksale

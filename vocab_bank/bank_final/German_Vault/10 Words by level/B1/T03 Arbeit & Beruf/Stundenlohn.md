@@ -15,11 +15,16 @@ id: "B3827"
 netzwerk: "B1 K4 12a"
 freq_rank: 5759
 skip: false
+audio: "Stundenlohn.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stundenlohn
+
+![[Stundenlohn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stundenlohn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stundenlohn&language=de)
 
 **Meaning:** hourly wage
 **Plural:** Stundenlöhne

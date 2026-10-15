@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 5b"
 freq_rank: 731
 skip: false
+audio: "Kunst.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kunst
+
+![[Kunst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunst&language=de)
 
 **Meaning:** art
 **Plural:** Künste

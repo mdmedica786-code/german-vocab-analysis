@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 15a"
 freq_rank: 256
 skip: false
+audio: "sitzen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sitzen
+
+![[sitzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sitzen&language=de)
 
 **Meaning:** to sit
 **Forms:** sitzt · saß · hat gesessen

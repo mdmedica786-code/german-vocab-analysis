@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4612"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "wahrheitsgemäß.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # wahrheitsgemäß
+
+![[wahrheitsgemäß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wahrheitsgem%C3%A4%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahrheitsgem%C3%A4%C3%9F&language=de)
 
 **Meaning:** truthful; truthfully
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

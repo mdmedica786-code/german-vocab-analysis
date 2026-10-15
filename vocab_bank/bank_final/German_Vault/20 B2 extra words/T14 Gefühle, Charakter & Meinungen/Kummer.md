@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2854"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Kummer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kummer
+
+![[Kummer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kummer&language=de)
 
 **Meaning:** grief; sorrow; worry
 **Plural:** –

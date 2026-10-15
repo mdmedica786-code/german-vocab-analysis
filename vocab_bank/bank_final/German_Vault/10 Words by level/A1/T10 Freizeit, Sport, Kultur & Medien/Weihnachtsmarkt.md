@@ -15,11 +15,16 @@ id: "B1566"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Weihnachtsmarkt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Weihnachtsmarkt
+
+![[Weihnachtsmarkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weihnachtsmarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weihnachtsmarkt&language=de)
 
 **Meaning:** Christmas market
 **Plural:** Weihnachtsmärkte

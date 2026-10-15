@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0355"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gefälle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gefälle
+
+![[Gefälle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gef%C3%A4lle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gef%C3%A4lle&language=de)
 
 **Meaning:** gradient; gap; disparity
 **Plural:** Gefälle

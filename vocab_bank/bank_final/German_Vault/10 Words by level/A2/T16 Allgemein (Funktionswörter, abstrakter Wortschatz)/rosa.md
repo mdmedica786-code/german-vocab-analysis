@@ -12,11 +12,16 @@ id: "B5658"
 goethe_level: "A2"
 freq_rank: 2693
 skip: false
+audio: "rosa.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # rosa
+
+![[rosa.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rosa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rosa&language=de)
 
 **Meaning:** pink
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

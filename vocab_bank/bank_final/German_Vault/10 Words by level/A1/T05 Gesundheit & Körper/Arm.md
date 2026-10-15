@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 5b"
 freq_rank: 596
 skip: false
+audio: "Arm.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arm
+
+![[Arm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arm&language=de)
 
 **Meaning:** arm
 **Plural:** Arme

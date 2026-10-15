@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Umwelttipp
 
+[▶️ YouGlish](https://youglish.com/pronounce/Umwelttipp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umwelttipp&language=de)
+
 **Meaning:** tip for the environment
 **Plural:** Umwelttipps
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Verdacht geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Verdacht%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Verdacht%20geraten&language=de)
+
 **Meaning:** to come under suspicion
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

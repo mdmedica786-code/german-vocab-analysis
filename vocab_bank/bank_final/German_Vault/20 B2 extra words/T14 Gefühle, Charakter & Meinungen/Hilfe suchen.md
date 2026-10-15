@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Hilfe suchen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hilfe%20suchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfe%20suchen&language=de)
+
 **Meaning:** to seek help
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

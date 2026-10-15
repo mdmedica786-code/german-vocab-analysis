@@ -11,11 +11,16 @@ bank: "main"
 id: "B5822"
 freq_rank: 3004
 skip: false
+audio: "inmitten.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # inmitten
+
+![[inmitten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/inmitten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inmitten&language=de)
 
 **Meaning:** in the middle of
 **Case:** + Gen.

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2533"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Unterscheidung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterscheidung
+
+![[Unterscheidung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterscheidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterscheidung&language=de)
 
 **Meaning:** distinction; differentiation
 **Plural:** Unterscheidungen

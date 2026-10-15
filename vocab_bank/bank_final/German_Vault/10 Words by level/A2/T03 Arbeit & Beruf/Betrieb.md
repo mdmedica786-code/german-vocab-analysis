@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 2778
 skip: false
+audio: "Betrieb.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Betrieb
+
+![[Betrieb.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betrieb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrieb&language=de)
 
 **Meaning:** company; business
 **Plural:** Betriebe

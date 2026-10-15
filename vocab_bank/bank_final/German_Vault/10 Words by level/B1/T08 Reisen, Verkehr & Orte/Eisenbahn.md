@@ -15,11 +15,16 @@ id: "B6294"
 goethe_level: "B1"
 freq_rank: 5419
 skip: false
+audio: "Eisenbahn.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eisenbahn
+
+![[Eisenbahn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eisenbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eisenbahn&language=de)
 
 **Meaning:** railway
 **Plural:** Eisenbahnen

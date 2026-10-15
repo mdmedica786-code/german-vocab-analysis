@@ -15,11 +15,16 @@ id: "B4921"
 netzwerk: "B1 K11 6b"
 freq_rank: 4136
 skip: false
+audio: "Korb.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Korb
+
+![[Korb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korb&language=de)
 
 **Meaning:** basket
 **Plural:** Körbe

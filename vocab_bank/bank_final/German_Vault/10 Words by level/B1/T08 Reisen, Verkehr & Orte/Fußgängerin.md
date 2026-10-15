@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 1b"
 freq_rank: 5759
 skip: false
+audio: "Fußgängerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fußgängerin
+
+![[Fußgängerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fg%C3%A4ngerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fg%C3%A4ngerin&language=de)
 
 **Meaning:** pedestrian (f)
 **Plural:** Fußgängerinnen

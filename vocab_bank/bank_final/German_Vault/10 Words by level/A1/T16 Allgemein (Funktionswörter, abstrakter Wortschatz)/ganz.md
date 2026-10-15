@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 2a"
 freq_rank: 70
 skip: false
+audio: "ganz.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ganz
+
+![[ganz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ganz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ganz&language=de)
 
 **Meaning:** quite; entirely; whole
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

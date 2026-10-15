@@ -15,11 +15,16 @@ id: "B6446"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Fundsachen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fundsachen
+
+![[Fundsachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fundsachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fundsachen&language=de)
 
 **Meaning:** lost property
 **Plural:** (Pl.)

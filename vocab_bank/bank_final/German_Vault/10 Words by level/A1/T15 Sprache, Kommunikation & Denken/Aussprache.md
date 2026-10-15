@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 3c"
 freq_rank: 5267
 skip: false
+audio: "Aussprache.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aussprache
+
+![[Aussprache.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussprache&language=de)
 
 **Meaning:** pronunciation
 **Plural:** –

@@ -13,11 +13,16 @@ id: "B6259"
 goethe_level: "B1"
 freq_rank: 5135
 skip: false
+audio: "ausreichen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausreichen
+
+![[ausreichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausreichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausreichen&language=de)
 
 **Meaning:** to be enough; to last
 **Forms:** reicht aus · reichte aus · hat ausgereicht

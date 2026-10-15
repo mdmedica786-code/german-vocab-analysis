@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4261"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Naturerscheinung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Naturerscheinung
+
+![[Naturerscheinung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Naturerscheinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturerscheinung&language=de)
 
 **Meaning:** natural phenomenon
 **Plural:** Naturerscheinungen

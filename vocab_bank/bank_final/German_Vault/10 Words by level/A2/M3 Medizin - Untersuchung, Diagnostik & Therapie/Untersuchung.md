@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 480
 skip: false
+audio: "Untersuchung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Untersuchung
+
+![[Untersuchung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untersuchung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untersuchung&language=de)
 
 **Meaning:** examination; investigation; (medical) check-up
 **Plural:** Untersuchungen

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Daten-Chip
 
+[▶️ YouGlish](https://youglish.com/pronounce/Daten-Chip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daten-Chip&language=de)
+
 **Meaning:** data chip
 **Plural:** Daten-Chips
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

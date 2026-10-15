@@ -15,11 +15,16 @@ id: "B1014"
 netzwerk: "A1 K6 14a"
 freq_rank: 5759
 skip: false
+audio: "Selbstbedienung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Selbstbedienung
+
+![[Selbstbedienung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Selbstbedienung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstbedienung&language=de)
 
 **Meaning:** self-service
 **Plural:** –

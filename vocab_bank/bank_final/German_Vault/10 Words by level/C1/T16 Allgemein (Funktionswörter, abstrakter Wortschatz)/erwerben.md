@@ -12,11 +12,16 @@ bank: "main"
 id: "B5535"
 freq_rank: 2232
 skip: false
+audio: "erwerben.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwerben
+
+![[erwerben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwerben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwerben&language=de)
 
 **Meaning:** to acquire; to purchase
 **Forms:** erwirbt · erwarb · hat erworben

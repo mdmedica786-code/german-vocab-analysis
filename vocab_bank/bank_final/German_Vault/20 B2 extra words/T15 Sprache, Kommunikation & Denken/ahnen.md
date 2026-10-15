@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2482"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "ahnen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ahnen
+
+![[ahnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ahnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ahnen&language=de)
 
 **Meaning:** to suspect; to have a feeling
 **Forms:** ahnt · ahnte · hat geahnt

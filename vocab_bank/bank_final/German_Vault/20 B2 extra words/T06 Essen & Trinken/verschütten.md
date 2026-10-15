@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1734"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "verschütten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschütten
+
+![[verschütten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versch%C3%BCtten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versch%C3%BCtten&language=de)
 
 **Meaning:** to spill
 **Forms:** verschüttet · verschüttete · hat verschüttet

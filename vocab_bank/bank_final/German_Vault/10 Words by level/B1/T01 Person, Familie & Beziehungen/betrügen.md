@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 10a"
 freq_rank: 5095
 skip: false
+audio: "betrügen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betrügen
+
+![[betrügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betr%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betr%C3%BCgen&language=de)
 
 **Meaning:** to deceive; to cheat on
 **Forms:** betrügt · betrog · hat betrogen

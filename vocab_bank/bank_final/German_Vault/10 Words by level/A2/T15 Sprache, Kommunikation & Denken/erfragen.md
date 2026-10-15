@@ -13,11 +13,16 @@ id: "B2650"
 netzwerk: "A2 K7 13d"
 freq_rank: 5759
 skip: false
+audio: "erfragen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfragen
+
+![[erfragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfragen&language=de)
 
 **Meaning:** to ask for sth
 **Forms:** erfragt · erfragte · hat erfragt

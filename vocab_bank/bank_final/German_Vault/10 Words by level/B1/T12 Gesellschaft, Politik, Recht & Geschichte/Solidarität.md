@@ -15,11 +15,16 @@ id: "B4879"
 netzwerk: "B1 K10 11a"
 freq_rank: 4393
 skip: false
+audio: "Solidarität.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Solidarität
+
+![[Solidarität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Solidarit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solidarit%C3%A4t&language=de)
 
 **Meaning:** solidarity
 **Plural:** –

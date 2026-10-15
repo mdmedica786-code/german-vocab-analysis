@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1061"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Umsatzsteuer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umsatzsteuer
+
+![[Umsatzsteuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umsatzsteuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umsatzsteuer&language=de)
 
 **Meaning:** value-added tax; sales tax
 **Plural:** –

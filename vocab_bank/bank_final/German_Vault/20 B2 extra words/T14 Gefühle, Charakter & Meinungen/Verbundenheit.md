@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1523"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Verbundenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verbundenheit
+
+![[Verbundenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbundenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbundenheit&language=de)
 
 **Meaning:** attachment; solidarity
 **Plural:** –

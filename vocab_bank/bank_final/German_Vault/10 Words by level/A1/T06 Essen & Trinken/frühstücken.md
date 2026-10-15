@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9a"
 freq_rank: 5759
 skip: false
+audio: "frühstücken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # frühstücken
+
+![[frühstücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fr%C3%BChst%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fr%C3%BChst%C3%BCcken&language=de)
 
 **Meaning:** to eat breakfast
 **Forms:** frühstückt · frühstückte · hat gefrühstückt

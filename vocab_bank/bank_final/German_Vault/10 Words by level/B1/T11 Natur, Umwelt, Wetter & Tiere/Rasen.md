@@ -15,11 +15,16 @@ id: "B5690"
 goethe_level: "B1"
 freq_rank: 2804
 skip: false
+audio: "Rasen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rasen
+
+![[Rasen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rasen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rasen&language=de)
 
 **Meaning:** lawn
 **Plural:** Rasen

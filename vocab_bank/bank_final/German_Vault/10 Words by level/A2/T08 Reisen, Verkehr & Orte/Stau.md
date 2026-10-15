@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 1 ÜB"
 freq_rank: 4100
 skip: false
+audio: "Stau.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stau
+
+![[Stau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stau&language=de)
 
 **Meaning:** traffic jam
 **Plural:** Staus

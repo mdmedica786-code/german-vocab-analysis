@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1220"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "ausscheiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausscheiden
+
+![[ausscheiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausscheiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausscheiden&language=de)
 
 **Meaning:** to drop out; to retire; to be eliminated
 **Forms:** scheidet aus · schied aus · ist ausgeschieden

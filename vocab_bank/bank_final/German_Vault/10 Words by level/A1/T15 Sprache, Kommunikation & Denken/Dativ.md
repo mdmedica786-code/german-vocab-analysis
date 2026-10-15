@@ -15,11 +15,16 @@ id: "B1086"
 netzwerk: "A1 K7 3c"
 freq_rank: 5759
 skip: false
+audio: "Dativ.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dativ
+
+![[Dativ.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dativ&language=de)
 
 **Meaning:** dative
 **Plural:** Dative

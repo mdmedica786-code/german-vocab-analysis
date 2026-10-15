@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Anzeige erstatten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anzeige%20erstatten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzeige%20erstatten&language=de)
+
 **Meaning:** to report (a crime); to file a complaint
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

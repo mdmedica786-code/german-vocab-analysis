@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2782"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Schema.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schema
+
+![[Schema.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schema/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schema&language=de)
 
 **Meaning:** scheme; pattern
 **Plural:** Schemata

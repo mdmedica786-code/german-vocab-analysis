@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1a"
 freq_rank: 486
 skip: false
+audio: "öffentlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # öffentlich
+
+![[öffentlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%B6ffentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6ffentlich&language=de)
 
 **Meaning:** public
 **Level:** A2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

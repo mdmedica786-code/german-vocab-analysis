@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Steak.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Steak
+
+![[Steak.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steak/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steak&language=de)
 
 **Meaning:** steak
 **Plural:** Steaks

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0599"
 exam_use: ["Lesen"]
 skip: false
+audio: "Feuilleton.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Feuilleton
+
+![[Feuilleton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuilleton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuilleton&language=de)
 
 **Meaning:** arts section; culture pages
 **Plural:** Feuilletons

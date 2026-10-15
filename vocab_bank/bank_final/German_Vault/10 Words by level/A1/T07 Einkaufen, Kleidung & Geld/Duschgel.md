@@ -15,11 +15,16 @@ id: "B1637"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Duschgel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Duschgel
+
+![[Duschgel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Duschgel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Duschgel&language=de)
 
 **Meaning:** shower gel
 **Plural:** Duschgels

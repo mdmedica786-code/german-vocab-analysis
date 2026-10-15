@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 9a"
 freq_rank: 1210
 skip: false
+audio: "grau.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # grau
+
+![[grau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/grau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grau&language=de)
 
 **Meaning:** gray
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

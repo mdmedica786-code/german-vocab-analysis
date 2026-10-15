@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1c"
 freq_rank: 1023
 skip: false
+audio: "ursprünglich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ursprünglich
+
+![[ursprünglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/urspr%C3%BCnglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=urspr%C3%BCnglich&language=de)
 
 **Meaning:** originally
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

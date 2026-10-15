@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3083"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Thematik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Thematik
+
+![[Thematik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Thematik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thematik&language=de)
 
 **Meaning:** subject matter; theme
 **Plural:** Thematiken

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 4316
 skip: false
+audio: "Ausflug.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausflug
+
+![[Ausflug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausflug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausflug&language=de)
 
 **Meaning:** excursion
 **Plural:** Ausflüge

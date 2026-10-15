@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0993"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Beifall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beifall
+
+![[Beifall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beifall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beifall&language=de)
 
 **Meaning:** applause
 **Plural:** –

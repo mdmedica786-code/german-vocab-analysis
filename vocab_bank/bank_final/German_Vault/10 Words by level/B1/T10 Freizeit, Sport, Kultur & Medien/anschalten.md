@@ -13,11 +13,16 @@ id: "B3409"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "anschalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anschalten
+
+![[anschalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anschalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anschalten&language=de)
 
 **Meaning:** to switch on
 **Forms:** schaltet an · schaltete an · hat angeschaltet

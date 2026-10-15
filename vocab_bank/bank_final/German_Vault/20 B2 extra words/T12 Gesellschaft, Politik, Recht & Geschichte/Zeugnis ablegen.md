@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Zeugnis ablegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zeugnis%20ablegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeugnis%20ablegen&language=de)
+
 **Meaning:** to bear witness; to testify
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

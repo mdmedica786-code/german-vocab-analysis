@@ -13,11 +13,16 @@ id: "B6535"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "rasieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rasieren
+
+![[rasieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rasieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rasieren&language=de)
 
 **Meaning:** to shave
 **Forms:** rasiert · rasierte · hat rasiert

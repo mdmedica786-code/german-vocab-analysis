@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1603"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "großspurig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # großspurig
+
+![[großspurig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gro%C3%9Fspurig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gro%C3%9Fspurig&language=de)
 
 **Meaning:** pompous; boastful
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

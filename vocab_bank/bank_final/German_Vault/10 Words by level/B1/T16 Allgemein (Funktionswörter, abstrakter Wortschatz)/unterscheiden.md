@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 4b"
 freq_rank: 558
 skip: false
+audio: "unterscheiden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterscheiden
+
+![[unterscheiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterscheiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterscheiden&language=de)
 
 **Meaning:** to distinguish
 **Forms:** unterscheidet · unterschied · hat unterschieden

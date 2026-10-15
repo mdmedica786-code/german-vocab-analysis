@@ -15,11 +15,16 @@ id: "B4313"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "Schauspielkarriere.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schauspielkarriere
+
+![[Schauspielkarriere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspielkarriere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspielkarriere&language=de)
 
 **Meaning:** acting career
 **Plural:** Schauspielkarrieren

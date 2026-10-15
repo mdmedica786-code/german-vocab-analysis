@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2797"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Zerstörung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zerstörung
+
+![[Zerstörung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zerst%C3%B6rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zerst%C3%B6rung&language=de)
 
 **Meaning:** destruction
 **Plural:** Zerstörungen

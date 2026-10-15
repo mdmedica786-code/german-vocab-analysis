@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 622
 skip: false
+audio: "Reihe.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reihe
+
+![[Reihe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reihe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reihe&language=de)
 
 **Meaning:** row
 **Plural:** Reihen

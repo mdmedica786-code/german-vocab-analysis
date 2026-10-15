@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Wetterbericht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wetterbericht
+
+![[Wetterbericht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wetterbericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetterbericht&language=de)
 
 **Meaning:** weather report
 **Plural:** Wetterberichte

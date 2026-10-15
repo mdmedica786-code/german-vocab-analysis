@@ -14,11 +14,16 @@ bank: "main"
 id: "B5383"
 freq_rank: 1711
 skip: false
+audio: "Verbesserung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verbesserung
+
+![[Verbesserung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbesserung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbesserung&language=de)
 
 **Meaning:** improvement
 **Plural:** Verbesserungen

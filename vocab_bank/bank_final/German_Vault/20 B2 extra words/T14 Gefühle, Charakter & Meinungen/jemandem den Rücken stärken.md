@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2082"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "jemandem den Rücken stärken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # jemandem den Rücken stärken
+
+![[jemandem den Rücken stärken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20den%20R%C3%BCcken%20st%C3%A4rken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20den%20R%C3%BCcken%20st%C3%A4rken&language=de)
 
 **Meaning:** to back someone up
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

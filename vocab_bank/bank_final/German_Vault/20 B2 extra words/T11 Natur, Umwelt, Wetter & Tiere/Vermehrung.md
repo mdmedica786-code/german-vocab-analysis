@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3639"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vermehrung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vermehrung
+
+![[Vermehrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vermehrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermehrung&language=de)
 
 **Meaning:** increase; multiplication; reproduction
 **Plural:** Vermehrungen

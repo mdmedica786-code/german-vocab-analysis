@@ -14,11 +14,16 @@ bank: "main"
 id: "B5430"
 freq_rank: 1938
 skip: false
+audio: "Richtlinie.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Richtlinie
+
+![[Richtlinie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Richtlinie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richtlinie&language=de)
 
 **Meaning:** guideline; directive
 **Plural:** Richtlinien

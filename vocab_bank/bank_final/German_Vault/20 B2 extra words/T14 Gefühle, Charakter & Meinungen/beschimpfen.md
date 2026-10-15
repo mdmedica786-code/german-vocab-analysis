@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1231"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "beschimpfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschimpfen
+
+![[beschimpfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschimpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschimpfen&language=de)
 
 **Meaning:** to insult; to abuse
 **Forms:** beschimpft · beschimpfte · hat beschimpft

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2266"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Reibe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reibe
+
+![[Reibe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reibe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reibe&language=de)
 
 **Meaning:** grater
 **Plural:** Reiben

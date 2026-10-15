@@ -13,11 +13,16 @@ id: "B2583"
 netzwerk: "A2 K7 6c"
 freq_rank: 5212
 skip: false
+audio: "abstellen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abstellen
+
+![[abstellen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abstellen&language=de)
 
 **Meaning:** to park; to turn off
 **Forms:** stellt ab · stellte ab · hat abgestellt

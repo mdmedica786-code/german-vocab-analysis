@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3291"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "instinktiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # instinktiv
+
+![[instinktiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/instinktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=instinktiv&language=de)
 
 **Meaning:** instinctive; by instinct
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

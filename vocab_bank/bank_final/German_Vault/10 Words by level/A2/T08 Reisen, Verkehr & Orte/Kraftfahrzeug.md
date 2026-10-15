@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Kraftfahrzeug.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kraftfahrzeug
+
+![[Kraftfahrzeug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kraftfahrzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraftfahrzeug&language=de)
 
 **Meaning:** motor vehicle
 **Plural:** Kraftfahrzeuge

@@ -15,11 +15,16 @@ id: "B1017"
 netzwerk: "A1 K6 14a"
 freq_rank: 5759
 skip: false
+audio: "Strandbar.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strandbar
+
+![[Strandbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strandbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strandbar&language=de)
 
 **Meaning:** beach bar
 **Plural:** Strandbars

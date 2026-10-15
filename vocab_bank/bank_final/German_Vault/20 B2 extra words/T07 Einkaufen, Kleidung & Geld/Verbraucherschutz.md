@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0528"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Verbraucherschutz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verbraucherschutz
+
+![[Verbraucherschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbraucherschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbraucherschutz&language=de)
 
 **Meaning:** consumer protection
 **Plural:** –

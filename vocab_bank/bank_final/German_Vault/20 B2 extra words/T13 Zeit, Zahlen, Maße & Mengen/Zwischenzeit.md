@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3124"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Zwischenzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zwischenzeit
+
+![[Zwischenzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwischenzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwischenzeit&language=de)
 
 **Meaning:** meantime (only in "in der Zwischenzeit")
 **Plural:** –

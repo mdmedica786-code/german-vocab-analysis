@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4633"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "weiterschlafen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # weiterschlafen
+
+![[weiterschlafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterschlafen&language=de)
 
 **Meaning:** to go on sleeping; to sleep on
 **Forms:** schläft weiter · schlief weiter · hat weitergeschlafen

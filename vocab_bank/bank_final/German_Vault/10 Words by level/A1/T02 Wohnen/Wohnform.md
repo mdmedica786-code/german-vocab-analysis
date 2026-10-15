@@ -15,11 +15,16 @@ id: "B1456"
 netzwerk: "A1 K9 10c"
 freq_rank: 5759
 skip: false
+audio: "Wohnform.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wohnform
+
+![[Wohnform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnform&language=de)
 
 **Meaning:** form of housing
 **Plural:** Wohnformen

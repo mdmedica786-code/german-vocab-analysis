@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 3b"
 freq_rank: 137
 skip: false
+audio: "sprechen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sprechen
+
+![[sprechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sprechen&language=de)
 
 **Meaning:** to speak
 **Forms:** spricht · sprach · hat gesprochen

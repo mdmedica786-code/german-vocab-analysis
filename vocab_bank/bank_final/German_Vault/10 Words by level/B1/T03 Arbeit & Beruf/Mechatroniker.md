@@ -15,11 +15,16 @@ id: "B3710"
 netzwerk: "B1 K4 1b"
 freq_rank: 5759
 skip: false
+audio: "Mechatroniker.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mechatroniker
+
+![[Mechatroniker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mechatroniker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mechatroniker&language=de)
 
 **Meaning:** mechatronics technician (m)
 **Plural:** Mechatroniker

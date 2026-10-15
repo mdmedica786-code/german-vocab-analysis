@@ -14,11 +14,16 @@ bank: "main"
 id: "B6298"
 freq_rank: 5467
 skip: false
+audio: "Leitlinie.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leitlinie
+
+![[Leitlinie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leitlinie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitlinie&language=de)
 
 **Meaning:** guideline
 **Plural:** Leitlinien

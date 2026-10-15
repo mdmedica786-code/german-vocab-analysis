@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Paradeiser
 
+[▶️ YouGlish](https://youglish.com/pronounce/Paradeiser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paradeiser&language=de)
+
 **Meaning:** tomato (Austrian)
 **Plural:** Paradeiser
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional

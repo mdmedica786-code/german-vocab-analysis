@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "faulenzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # faulenzen
+
+![[faulenzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/faulenzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=faulenzen&language=de)
 
 **Meaning:** to lounge around
 **Forms:** faulenzt · faulenzte · hat gefaulenzt

@@ -15,11 +15,16 @@ id: "B5043"
 netzwerk: "B1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "Dauerauftrag.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dauerauftrag
+
+![[Dauerauftrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dauerauftrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dauerauftrag&language=de)
 
 **Meaning:** recurring payment, standing order
 **Plural:** Daueraufträge

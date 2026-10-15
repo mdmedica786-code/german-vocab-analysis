@@ -12,11 +12,16 @@ id: "B3403"
 netzwerk: "B1 K2 4b"
 freq_rank: 567
 skip: false
+audio: "darum.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # darum
+
+![[darum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/darum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=darum&language=de)
 
 **Meaning:** that's why
 **Other senses:** for that reason; about it; that is why

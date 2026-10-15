@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1291"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "protzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # protzen
+
+![[protzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/protzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=protzen&language=de)
 
 **Meaning:** to show off
 **Forms:** protzt · protzte · hat geprotzt

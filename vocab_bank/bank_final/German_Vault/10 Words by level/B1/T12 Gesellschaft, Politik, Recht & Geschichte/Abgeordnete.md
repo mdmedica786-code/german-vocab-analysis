@@ -15,11 +15,16 @@ id: "B4726"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 2215
 skip: false
+audio: "Abgeordnete.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Abgeordnete
+
+![[Abgeordnete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abgeordnete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgeordnete&language=de)
 
 **Meaning:** member of parliament (MP)
 **Plural:** Abgeordneten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4336"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Protein.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Protein
+
+![[Protein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Protein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protein&language=de)
 
 **Meaning:** protein
 **Plural:** Proteine

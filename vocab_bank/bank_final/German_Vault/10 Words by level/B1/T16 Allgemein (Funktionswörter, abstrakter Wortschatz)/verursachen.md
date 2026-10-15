@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1583
 skip: false
+audio: "verursachen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verursachen
+
+![[verursachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verursachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verursachen&language=de)
 
 **Meaning:** to cause
 **Forms:** verursacht · verursachte · hat verursacht

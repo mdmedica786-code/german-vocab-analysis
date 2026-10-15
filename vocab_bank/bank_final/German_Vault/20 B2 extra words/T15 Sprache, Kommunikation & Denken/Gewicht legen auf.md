@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Gewicht legen auf
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gewicht%20legen%20auf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewicht%20legen%20auf&language=de)
+
 **Meaning:** to put emphasis on
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

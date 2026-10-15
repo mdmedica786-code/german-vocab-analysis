@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1144"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Beileid.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Beileid
+
+![[Beileid.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beileid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beileid&language=de)
 
 **Meaning:** condolences
 **Plural:** –

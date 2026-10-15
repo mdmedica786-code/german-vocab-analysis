@@ -15,11 +15,16 @@ id: "B1555"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Festspiel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Festspiel
+
+![[Festspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Festspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festspiel&language=de)
 
 **Meaning:** festival production
 **Plural:** Festspiele

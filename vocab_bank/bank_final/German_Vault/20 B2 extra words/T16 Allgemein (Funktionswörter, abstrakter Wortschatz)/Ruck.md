@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2954"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ruck
+
+![[Ruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruck&language=de)
 
 **Meaning:** jerk; jolt
 **Plural:** Rucke

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0619"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Werbespot.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Werbespot
+
+![[Werbespot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werbespot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbespot&language=de)
 
 **Meaning:** advertisement; commercial
 **Plural:** Werbespots

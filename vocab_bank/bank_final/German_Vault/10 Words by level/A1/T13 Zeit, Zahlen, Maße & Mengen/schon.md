@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 2b"
 freq_rank: 71
 skip: false
+audio: "schon.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schon
+
+![[schon.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schon&language=de)
 
 **Meaning:** already
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

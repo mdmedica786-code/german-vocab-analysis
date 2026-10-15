@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3799"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Berufseinstieg
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufseinstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufseinstieg&language=de)
 
 **Meaning:** start of one's career; entry into working life
 **Plural:** Berufseinstiege

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 5d"
 freq_rank: 4879
 skip: false
+audio: "gültig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gültig
+
+![[gültig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/g%C3%BCltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=g%C3%BCltig&language=de)
 
 **Meaning:** valid
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

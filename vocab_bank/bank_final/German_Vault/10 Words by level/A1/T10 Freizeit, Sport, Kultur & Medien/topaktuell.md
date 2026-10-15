@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # topaktuell
 
+[▶️ YouGlish](https://youglish.com/pronounce/topaktuell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=topaktuell&language=de)
+
 **Meaning:** cutting-edge
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

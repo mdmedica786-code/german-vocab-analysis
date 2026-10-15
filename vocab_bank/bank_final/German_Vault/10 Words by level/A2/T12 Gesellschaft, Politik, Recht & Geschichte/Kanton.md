@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 2934
 skip: false
+audio: "Kanton.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kanton
+
+![[Kanton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kanton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kanton&language=de)
 
 **Meaning:** canton
 **Plural:** Kantone

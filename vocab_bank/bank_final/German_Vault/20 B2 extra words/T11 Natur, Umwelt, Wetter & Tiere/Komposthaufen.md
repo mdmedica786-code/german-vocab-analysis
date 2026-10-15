@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2238"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Komposthaufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Komposthaufen
+
+![[Komposthaufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komposthaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komposthaufen&language=de)
 
 **Meaning:** compost heap
 **Plural:** Komposthaufen

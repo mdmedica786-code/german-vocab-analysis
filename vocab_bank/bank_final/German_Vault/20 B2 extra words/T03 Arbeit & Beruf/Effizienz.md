@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2931"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Effizienz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Effizienz
+
+![[Effizienz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Effizienz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Effizienz&language=de)
 
 **Meaning:** efficiency
 **Plural:** –

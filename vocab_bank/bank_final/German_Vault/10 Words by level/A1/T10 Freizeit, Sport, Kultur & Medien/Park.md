@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 8"
 freq_rank: 2032
 skip: false
+audio: "Park.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Park
+
+![[Park.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Park/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Park&language=de)
 
 **Meaning:** park
 **Plural:** Parks

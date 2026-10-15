@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0948"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Studiengebühr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Studiengebühr
+
+![[Studiengebühr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Studiengeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studiengeb%C3%BChr&language=de)
 
 **Meaning:** tuition fee
 **Plural:** Studiengebühren

@@ -15,11 +15,16 @@ id: "B3576"
 netzwerk: "B1 K3 3c"
 freq_rank: 9999
 skip: false
+audio: "Wildhüterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wildhüterin
+
+![[Wildhüterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wildh%C3%BCterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildh%C3%BCterin&language=de)
 
 **Meaning:** gamekeeper (f)
 **Plural:** Wildhüterinnen

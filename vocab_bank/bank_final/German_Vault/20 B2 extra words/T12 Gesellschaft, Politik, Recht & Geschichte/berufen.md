@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1809"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "berufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # berufen
+
+![[berufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/berufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berufen&language=de)
 
 **Meaning:** to refer to; to appoint
 **Forms:** beruft sich · berief sich · hat sich berufen

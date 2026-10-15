@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4480"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Tellerrand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Tellerrand
+
+![[Tellerrand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tellerrand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tellerrand&language=de)
 
 **Meaning:** rim of the plate (über den Tellerrand blicken: to look beyond one's own limited view)
 **Plural:** –

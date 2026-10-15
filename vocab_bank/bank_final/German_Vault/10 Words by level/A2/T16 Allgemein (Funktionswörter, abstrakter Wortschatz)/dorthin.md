@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 2058
 skip: false
+audio: "dorthin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dorthin
+
+![[dorthin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dorthin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dorthin&language=de)
 
 **Meaning:** there
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

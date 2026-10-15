@@ -15,11 +15,16 @@ id: "B1588"
 netzwerk: "A1 K11 2a"
 freq_rank: 5759
 skip: false
+audio: "Krawatte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krawatte
+
+![[Krawatte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krawatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krawatte&language=de)
 
 **Meaning:** tie
 **Plural:** Krawatten

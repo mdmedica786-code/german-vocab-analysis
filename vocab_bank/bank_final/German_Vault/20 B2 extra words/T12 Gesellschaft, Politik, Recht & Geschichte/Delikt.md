@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0513"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Delikt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Delikt
+
+![[Delikt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Delikt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Delikt&language=de)
 
 **Meaning:** offence; crime
 **Plural:** Delikte

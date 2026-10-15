@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 1a"
 freq_rank: 2215
 skip: false
+audio: "Jacke.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jacke
+
+![[Jacke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jacke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jacke&language=de)
 
 **Meaning:** jacket
 **Plural:** Jacken

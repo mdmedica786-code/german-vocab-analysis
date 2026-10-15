@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13e"
 freq_rank: 5759
 skip: false
+audio: "Teilnehmerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Teilnehmerin
+
+![[Teilnehmerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teilnehmerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilnehmerin&language=de)
 
 **Meaning:** participant (f)
 **Plural:** Teilnehmerinnen

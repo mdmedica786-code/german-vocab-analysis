@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 11b"
 freq_rank: 5759
 skip: false
+audio: "Fremdsprache.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fremdsprache
+
+![[Fremdsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fremdsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdsprache&language=de)
 
 **Meaning:** foreign language
 **Plural:** Fremdsprachen

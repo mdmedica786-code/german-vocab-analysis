@@ -12,11 +12,16 @@ id: "B0049"
 netzwerk: "A1 K1 2a"
 freq_rank: 5759
 skip: false
+audio: "ciao.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/interjection"]
 status: "new"
 ---
 <!-- bank:start -->
 # ciao
+
+![[ciao.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ciao/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ciao&language=de)
 
 **Meaning:** bye
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** informal

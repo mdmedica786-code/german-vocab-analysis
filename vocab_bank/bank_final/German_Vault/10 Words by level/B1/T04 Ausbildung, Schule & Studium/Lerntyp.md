@@ -15,11 +15,16 @@ id: "B4521"
 netzwerk: "B1 K8 11b"
 freq_rank: 5759
 skip: false
+audio: "Lerntyp.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lerntyp
+
+![[Lerntyp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lerntyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lerntyp&language=de)
 
 **Meaning:** learning type
 **Plural:** Lerntypen

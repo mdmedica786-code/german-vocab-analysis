@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Probetag
 
+[▶️ YouGlish](https://youglish.com/pronounce/Probetag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Probetag&language=de)
+
 **Meaning:** trial day
 **Plural:** Probetage
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

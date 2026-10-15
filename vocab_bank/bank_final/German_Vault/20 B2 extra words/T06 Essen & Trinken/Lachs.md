@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1974"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Lachs.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lachs
+
+![[Lachs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lachs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lachs&language=de)
 
 **Meaning:** salmon
 **Plural:** Lachse

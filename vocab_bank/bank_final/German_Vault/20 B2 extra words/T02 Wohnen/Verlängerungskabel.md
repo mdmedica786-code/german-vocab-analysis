@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2204"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Verlängerungskabel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verlängerungskabel
+
+![[Verlängerungskabel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verl%C3%A4ngerungskabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verl%C3%A4ngerungskabel&language=de)
 
 **Meaning:** extension cable
 **Plural:** Verlängerungskabel

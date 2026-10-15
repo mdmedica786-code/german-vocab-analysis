@@ -15,11 +15,16 @@ id: "B1651"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Parfümerie.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Parfümerie
+
+![[Parfümerie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parf%C3%BCmerie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parf%C3%BCmerie&language=de)
 
 **Meaning:** perfumery
 **Plural:** Parfümerien

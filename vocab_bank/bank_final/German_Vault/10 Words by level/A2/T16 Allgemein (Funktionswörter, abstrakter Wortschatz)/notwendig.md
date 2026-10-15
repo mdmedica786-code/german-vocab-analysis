@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 1b"
 freq_rank: 548
 skip: false
+audio: "notwendig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # notwendig
+
+![[notwendig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/notwendig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=notwendig&language=de)
 
 **Meaning:** necessary
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

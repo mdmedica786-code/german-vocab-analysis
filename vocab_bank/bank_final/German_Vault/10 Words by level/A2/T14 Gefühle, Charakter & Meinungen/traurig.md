@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 3a"
 freq_rank: 1425
 skip: false
+audio: "traurig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # traurig
+
+![[traurig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/traurig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=traurig&language=de)
 
 **Meaning:** sad
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

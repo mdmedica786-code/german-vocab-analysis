@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a ÜB"
 freq_rank: 4653
 skip: false
+audio: "Mütze.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mütze
+
+![[Mütze.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCtze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCtze&language=de)
 
 **Meaning:** hat; cap
 **Plural:** Mützen

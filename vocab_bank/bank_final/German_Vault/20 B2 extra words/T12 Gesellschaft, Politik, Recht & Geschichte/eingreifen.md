@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0881"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "eingreifen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # eingreifen
+
+![[eingreifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eingreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eingreifen&language=de)
 
 **Meaning:** to intervene; to step in
 **Forms:** greift ein · griff ein · hat eingegriffen

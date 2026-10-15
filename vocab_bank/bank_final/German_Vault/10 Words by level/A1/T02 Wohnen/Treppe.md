@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 10a"
 freq_rank: 1213
 skip: false
+audio: "Treppe.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Treppe
+
+![[Treppe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Treppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treppe&language=de)
 
 **Meaning:** stairs
 **Plural:** Treppen

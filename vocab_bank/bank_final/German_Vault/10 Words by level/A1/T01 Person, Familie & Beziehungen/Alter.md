@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 5b"
 freq_rank: 2000
 skip: false
+audio: "Alter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Alter
+
+![[Alter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alter&language=de)
 
 **Meaning:** age
 **Plural:** –

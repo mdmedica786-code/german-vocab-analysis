@@ -15,11 +15,16 @@ id: "B2412"
 netzwerk: "A2 K6 5a"
 freq_rank: 5685
 skip: false
+audio: "Klassiker.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klassiker
+
+![[Klassiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klassiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassiker&language=de)
 
 **Meaning:** classic
 **Plural:** Klassiker

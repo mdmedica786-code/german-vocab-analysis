@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 12a"
 freq_rank: 5759
 skip: false
+audio: "Schnupfen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schnupfen
+
+![[Schnupfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schnupfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnupfen&language=de)
 
 **Meaning:** common cold
 **Plural:** Schnupfen

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Geltung kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Geltung%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Geltung%20kommen&language=de)
+
 **Meaning:** to show to advantage
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

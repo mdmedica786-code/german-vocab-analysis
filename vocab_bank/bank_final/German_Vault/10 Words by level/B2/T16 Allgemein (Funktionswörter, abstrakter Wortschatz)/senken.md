@@ -12,11 +12,16 @@ bank: "main"
 id: "B5382"
 freq_rank: 1707
 skip: false
+audio: "senken.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # senken
+
+![[senken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/senken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=senken&language=de)
 
 **Meaning:** to lower; to reduce
 **Forms:** senkt · senkte · hat gesenkt

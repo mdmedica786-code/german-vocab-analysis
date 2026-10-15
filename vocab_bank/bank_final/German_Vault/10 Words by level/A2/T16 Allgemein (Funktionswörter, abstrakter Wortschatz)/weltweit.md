@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 10a"
 freq_rank: 2563
 skip: false
+audio: "weltweit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # weltweit
+
+![[weltweit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weltweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weltweit&language=de)
 
 **Meaning:** worldwide
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

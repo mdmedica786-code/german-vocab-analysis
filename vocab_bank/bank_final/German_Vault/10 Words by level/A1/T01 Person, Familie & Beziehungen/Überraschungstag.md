@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Überraschungstag
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberraschungstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberraschungstag&language=de)
+
 **Meaning:** surprise day
 **Plural:** Überraschungstage
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

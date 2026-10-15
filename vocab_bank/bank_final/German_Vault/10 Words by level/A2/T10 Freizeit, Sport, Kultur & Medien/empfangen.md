@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9c"
 freq_rank: 1891
 skip: false
+audio: "empfangen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # empfangen
+
+![[empfangen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/empfangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=empfangen&language=de)
 
 **Meaning:** to receive; to welcome
 **Forms:** empfängt · empfing · hat empfangen

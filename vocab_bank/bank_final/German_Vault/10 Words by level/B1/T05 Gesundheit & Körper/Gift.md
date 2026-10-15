@@ -15,11 +15,16 @@ id: "B5991"
 goethe_level: "B1"
 freq_rank: 3817
 skip: false
+audio: "Gift.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gift
+
+![[Gift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gift&language=de)
 
 **Meaning:** poison
 **Plural:** Gifte

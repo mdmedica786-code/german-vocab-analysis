@@ -15,11 +15,16 @@ id: "B4783"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Croissant.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Croissant
+
+![[Croissant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Croissant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Croissant&language=de)
 
 **Meaning:** croissant
 **Plural:** Croissants

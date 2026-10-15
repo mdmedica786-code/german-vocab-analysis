@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3419"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Teilung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Teilung
+
+![[Teilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilung&language=de)
 
 **Meaning:** division; partition
 **Plural:** Teilungen

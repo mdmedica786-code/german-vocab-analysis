@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4311"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Planetarium.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Planetarium
+
+![[Planetarium.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Planetarium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Planetarium&language=de)
 
 **Meaning:** planetarium
 **Plural:** Planetarien

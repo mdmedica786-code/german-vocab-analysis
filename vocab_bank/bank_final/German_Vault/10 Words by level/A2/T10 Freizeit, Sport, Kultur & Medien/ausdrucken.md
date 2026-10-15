@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 6c"
 freq_rank: 5515
 skip: false
+audio: "ausdrucken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausdrucken
+
+![[ausdrucken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausdrucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausdrucken&language=de)
 
 **Meaning:** to print
 **Forms:** druckt aus · druckte aus · hat ausgedruckt

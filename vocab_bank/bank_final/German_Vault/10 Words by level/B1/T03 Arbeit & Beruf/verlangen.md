@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 9a"
 freq_rank: 676
 skip: false
+audio: "verlangen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verlangen
+
+![[verlangen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verlangen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlangen&language=de)
 
 **Meaning:** to demand; to ask for
 **Forms:** verlangt · verlangte · hat verlangt

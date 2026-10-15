@@ -15,11 +15,16 @@ id: "B4201"
 netzwerk: "B1 K6 10b"
 freq_rank: 5759
 skip: false
+audio: "Songtitel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Songtitel
+
+![[Songtitel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Songtitel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Songtitel&language=de)
 
 **Meaning:** song title
 **Plural:** Songtitel

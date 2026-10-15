@@ -15,11 +15,16 @@ id: "B5277"
 goethe_level: "B1"
 freq_rank: 1180
 skip: false
+audio: "Gemeinde.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gemeinde
+
+![[Gemeinde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gemeinde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinde&language=de)
 
 **Meaning:** municipality; community; parish
 **Plural:** Gemeinden

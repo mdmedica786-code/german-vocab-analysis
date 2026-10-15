@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1844"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verschulden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschulden
+
+![[verschulden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschulden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschulden&language=de)
 
 **Meaning:** to be to blame for; to cause (through one's own fault)
 **Forms:** verschuldet · verschuldete · hat verschuldet

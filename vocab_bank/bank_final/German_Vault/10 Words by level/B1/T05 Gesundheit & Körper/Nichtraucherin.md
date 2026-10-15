@@ -15,11 +15,16 @@ id: "B6513"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Nichtraucherin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nichtraucherin
+
+![[Nichtraucherin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nichtraucherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nichtraucherin&language=de)
 
 **Meaning:** non-smoker (f)
 **Plural:** Nichtraucherinnen

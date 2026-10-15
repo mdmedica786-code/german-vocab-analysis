@@ -13,11 +13,16 @@ id: "B4995"
 netzwerk: "B1 K11 12b"
 freq_rank: 1612
 skip: false
+audio: "rollen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rollen
+
+![[rollen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rollen&language=de)
 
 **Meaning:** to roll
 **Forms:** rollt · rollte · ist gerollt

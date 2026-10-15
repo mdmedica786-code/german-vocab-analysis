@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 10c"
 freq_rank: 5759
 skip: false
+audio: "Bleistift.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bleistift
+
+![[Bleistift.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bleistift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bleistift&language=de)
 
 **Meaning:** pencil
 **Plural:** Bleistifte

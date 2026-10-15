@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 2813
 skip: false
+audio: "Trend.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Trend
+
+![[Trend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trend&language=de)
 
 **Meaning:** trend
 **Plural:** Trends

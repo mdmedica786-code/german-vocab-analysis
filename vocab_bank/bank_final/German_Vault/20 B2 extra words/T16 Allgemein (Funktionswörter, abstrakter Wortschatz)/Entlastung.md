@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0346"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Entlastung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entlastung
+
+![[Entlastung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entlastung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entlastung&language=de)
 
 **Meaning:** relief; easing of the burden
 **Plural:** Entlastungen

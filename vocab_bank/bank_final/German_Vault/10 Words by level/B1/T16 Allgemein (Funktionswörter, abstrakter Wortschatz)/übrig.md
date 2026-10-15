@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3b"
 freq_rank: 620
 skip: false
+audio: "übrig.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # übrig
+
+![[übrig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbrig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbrig&language=de)
 
 **Meaning:** left over; remaining
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

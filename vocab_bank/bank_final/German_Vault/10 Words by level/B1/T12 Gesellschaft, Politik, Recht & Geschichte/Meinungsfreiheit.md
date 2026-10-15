@@ -15,11 +15,16 @@ id: "B4751"
 netzwerk: "B1 K10 2a"
 freq_rank: 3537
 skip: false
+audio: "Meinungsfreiheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meinungsfreiheit
+
+![[Meinungsfreiheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meinungsfreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meinungsfreiheit&language=de)
 
 **Meaning:** freedom of opinion
 **Plural:** –

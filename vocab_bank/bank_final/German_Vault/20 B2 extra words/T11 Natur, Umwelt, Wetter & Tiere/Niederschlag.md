@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0717"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Niederschlag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Niederschlag
+
+![[Niederschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Niederschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederschlag&language=de)
 
 **Meaning:** precipitation (rain, snow)
 **Plural:** Niederschläge

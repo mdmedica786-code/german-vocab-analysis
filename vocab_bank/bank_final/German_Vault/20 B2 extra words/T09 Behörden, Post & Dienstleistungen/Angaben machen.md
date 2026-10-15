@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Angaben machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Angaben%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angaben%20machen&language=de)
+
 **Meaning:** to give information; to state
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

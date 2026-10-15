@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3671"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Dichter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dichter
+
+![[Dichter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dichter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dichter&language=de)
 
 **Meaning:** poet
 **Plural:** Dichter

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3e"
 freq_rank: 5759
 skip: false
+audio: "nähen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nähen
+
+![[nähen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%A4hen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%A4hen&language=de)
 
 **Meaning:** to sew
 **Forms:** näht · nähte · hat genäht

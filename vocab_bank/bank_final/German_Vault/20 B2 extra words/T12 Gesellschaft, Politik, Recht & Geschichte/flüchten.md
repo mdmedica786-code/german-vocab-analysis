@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1819"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "flüchten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # flüchten
+
+![[flüchten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCchten&language=de)
 
 **Meaning:** to flee; to escape
 **Forms:** flüchtet · flüchtete · ist geflüchtet

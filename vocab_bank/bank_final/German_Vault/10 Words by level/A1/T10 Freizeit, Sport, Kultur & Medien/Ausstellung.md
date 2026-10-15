@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Ausstellung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ausstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausstellung&language=de)
+
 **Meaning:** exhibition
 **Plural:** Ausstellungen
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

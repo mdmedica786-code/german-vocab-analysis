@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4157"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Kundenverhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kundenverhalten
+
+![[Kundenverhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kundenverhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundenverhalten&language=de)
 
 **Meaning:** customer behaviour
 **Plural:** –

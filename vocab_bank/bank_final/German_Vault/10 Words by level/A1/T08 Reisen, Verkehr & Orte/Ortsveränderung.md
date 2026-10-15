@@ -15,11 +15,16 @@ id: "B1533"
 netzwerk: "A1 K10 8a"
 freq_rank: 5759
 skip: false
+audio: "Ortsveränderung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ortsveränderung
+
+![[Ortsveränderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ortsver%C3%A4nderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ortsver%C3%A4nderung&language=de)
 
 **Meaning:** change of location
 **Plural:** Ortsveränderungen

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # dazulernen
 
+[▶️ YouGlish](https://youglish.com/pronounce/dazulernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazulernen&language=de)
+
 **Meaning:** to learn something new
 **Forms:** lernt dazu · lernte dazu · hat dazugelernt
 **Grammar:** separable (dazu-)

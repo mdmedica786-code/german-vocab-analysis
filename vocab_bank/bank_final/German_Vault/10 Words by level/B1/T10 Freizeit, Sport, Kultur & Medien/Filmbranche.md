@@ -15,11 +15,16 @@ id: "B4473"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Filmbranche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Filmbranche
+
+![[Filmbranche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Filmbranche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmbranche&language=de)
 
 **Meaning:** film industry
 **Plural:** Filmbranchen

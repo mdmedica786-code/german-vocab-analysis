@@ -15,11 +15,16 @@ id: "B5497"
 goethe_level: "A1"
 freq_rank: 2121
 skip: false
+audio: "Halle.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Halle
+
+![[Halle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Halle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halle&language=de)
 
 **Meaning:** hall; large building
 **Plural:** Hallen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 3d"
 freq_rank: 3447
 skip: false
+audio: "Katastrophe.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Katastrophe
+
+![[Katastrophe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Katastrophe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katastrophe&language=de)
 
 **Meaning:** catastrophe
 **Plural:** Katastrophen

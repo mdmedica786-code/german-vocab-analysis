@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3829"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Büroraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Büroraum
+
+![[Büroraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCroraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCroraum&language=de)
 
 **Meaning:** office space; office room
 **Plural:** Büroräume

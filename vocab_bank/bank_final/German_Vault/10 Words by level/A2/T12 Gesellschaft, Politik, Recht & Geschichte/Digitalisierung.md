@@ -15,11 +15,16 @@ id: "B2507"
 netzwerk: "A2 K6 13b"
 freq_rank: 5618
 skip: false
+audio: "Digitalisierung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Digitalisierung
+
+![[Digitalisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Digitalisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Digitalisierung&language=de)
 
 **Meaning:** digitisation
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1123"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Kränkung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kränkung
+
+![[Kränkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kr%C3%A4nkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kr%C3%A4nkung&language=de)
 
 **Meaning:** insult; hurt feelings
 **Plural:** Kränkungen

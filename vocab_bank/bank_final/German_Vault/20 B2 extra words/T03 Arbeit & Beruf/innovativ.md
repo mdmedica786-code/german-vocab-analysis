@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4078"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "innovativ.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # innovativ
+
+![[innovativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/innovativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=innovativ&language=de)
 
 **Meaning:** innovative
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

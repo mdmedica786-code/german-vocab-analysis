@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 5c"
 freq_rank: 696
 skip: false
+audio: "hoffen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hoffen
+
+![[hoffen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hoffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hoffen&language=de)
 
 **Meaning:** to hope
 **Forms:** hofft · hoffte · hat gehofft

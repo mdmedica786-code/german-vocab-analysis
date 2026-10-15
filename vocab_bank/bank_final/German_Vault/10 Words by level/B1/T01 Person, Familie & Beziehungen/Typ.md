@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 3b"
 freq_rank: 839
 skip: false
+audio: "Typ.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Typ
+
+![[Typ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Typ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Typ&language=de)
 
 **Meaning:** type; guy
 **Plural:** Typen

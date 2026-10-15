@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Verwendung finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Verwendung%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwendung%20finden&language=de)
+
 **Meaning:** to be used
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

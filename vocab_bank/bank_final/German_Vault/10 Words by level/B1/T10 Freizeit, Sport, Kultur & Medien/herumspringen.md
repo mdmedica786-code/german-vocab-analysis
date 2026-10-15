@@ -13,11 +13,16 @@ id: "B4624"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 5759
 skip: false
+audio: "herumspringen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herumspringen
+
+![[herumspringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herumspringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herumspringen&language=de)
 
 **Meaning:** to jump around
 **Forms:** springt herum · sprang herum · ist herumgesprungen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1281"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "hinzufügen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinzufügen
+
+![[hinzufügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinzuf%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinzuf%C3%BCgen&language=de)
 
 **Meaning:** to add
 **Forms:** fügt hinzu · fügte hinzu · hat hinzugefügt

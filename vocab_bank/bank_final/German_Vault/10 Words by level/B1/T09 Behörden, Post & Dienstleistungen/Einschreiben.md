@@ -15,11 +15,16 @@ id: "B6415"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Einschreiben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Einschreiben
+
+![[Einschreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschreiben&language=de)
 
 **Meaning:** registered mail
 **Plural:** Einschreiben

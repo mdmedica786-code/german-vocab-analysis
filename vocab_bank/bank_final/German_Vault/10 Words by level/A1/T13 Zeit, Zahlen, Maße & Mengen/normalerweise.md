@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 11"
 freq_rank: 1954
 skip: false
+audio: "normalerweise.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # normalerweise
+
+![[normalerweise.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/normalerweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=normalerweise&language=de)
 
 **Meaning:** normally
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

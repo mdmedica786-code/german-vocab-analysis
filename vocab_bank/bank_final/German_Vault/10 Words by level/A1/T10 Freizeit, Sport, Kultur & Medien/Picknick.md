@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 3a"
 freq_rank: 5759
 skip: false
+audio: "Picknick.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Picknick
+
+![[Picknick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Picknick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Picknick&language=de)
 
 **Meaning:** picnic
 **Plural:** Picknicks

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4628"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "wegfallen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # wegfallen
+
+![[wegfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wegfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wegfallen&language=de)
 
 **Meaning:** to be dropped; to no longer apply; to cease
 **Forms:** fällt weg · fiel weg · ist weggefallen

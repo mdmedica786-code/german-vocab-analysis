@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4080"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
-status: "new"
+audio: "Interjektion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Interjektion
+
+![[Interjektion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interjektion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interjektion&language=de)
 
 **Meaning:** interjection
 **Plural:** Interjektionen

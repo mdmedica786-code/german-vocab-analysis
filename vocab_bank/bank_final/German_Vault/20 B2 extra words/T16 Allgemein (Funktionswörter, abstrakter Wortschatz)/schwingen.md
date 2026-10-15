@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2623"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "schwingen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwingen
+
+![[schwingen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwingen&language=de)
 
 **Meaning:** to swing; to vibrate
 **Forms:** schwingt · schwang · hat geschwungen

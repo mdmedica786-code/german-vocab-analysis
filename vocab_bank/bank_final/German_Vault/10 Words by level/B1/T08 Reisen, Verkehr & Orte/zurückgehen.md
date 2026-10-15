@@ -13,11 +13,16 @@ id: "B3423"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5746
 skip: false
+audio: "zurückgehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückgehen
+
+![[zurückgehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckgehen&language=de)
 
 **Meaning:** to go back
 **Forms:** geht zurück · ging zurück · ist zurückgegangen

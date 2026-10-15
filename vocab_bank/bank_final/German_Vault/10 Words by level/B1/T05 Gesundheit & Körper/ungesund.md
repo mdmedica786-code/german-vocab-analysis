@@ -12,11 +12,16 @@ id: "B3503"
 netzwerk: "B1 K2 11"
 freq_rank: 5759
 skip: false
+audio: "ungesund.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungesund
+
+![[ungesund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungesund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungesund&language=de)
 
 **Meaning:** unhealthy
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 13b"
 freq_rank: 2980
 skip: false
+audio: "Verbot.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verbot
+
+![[Verbot.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbot&language=de)
 
 **Meaning:** prohibition
 **Plural:** Verbote

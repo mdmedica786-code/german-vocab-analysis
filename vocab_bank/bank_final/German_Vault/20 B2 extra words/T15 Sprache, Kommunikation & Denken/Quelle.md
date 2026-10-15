@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0296"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Quelle.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Quelle
+
+![[Quelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quelle&language=de)
 
 **Meaning:** source; spring
 **Plural:** Quellen

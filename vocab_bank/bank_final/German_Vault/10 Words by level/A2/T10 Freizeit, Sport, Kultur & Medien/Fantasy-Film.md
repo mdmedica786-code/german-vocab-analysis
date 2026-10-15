@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Fantasy-Film
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fantasy-Film/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fantasy-Film&language=de)
+
 **Meaning:** fantasy film
 **Plural:** Fantasy-Filme
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

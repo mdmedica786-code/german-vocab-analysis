@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1217"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ausloten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausloten
+
+![[ausloten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausloten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausloten&language=de)
 
 **Meaning:** to sound out; to explore
 **Forms:** lotet aus · lotete aus · hat ausgelotet

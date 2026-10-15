@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 12b"
 freq_rank: 2495
 skip: false
+audio: "Tipp.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tipp
+
+![[Tipp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tipp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tipp&language=de)
 
 **Meaning:** tip
 **Plural:** Tipps

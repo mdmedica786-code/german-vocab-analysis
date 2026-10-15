@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0595"
 exam_use: ["Lesen"]
 skip: false
+audio: "Boulevardpresse.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Boulevardpresse
+
+![[Boulevardpresse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Boulevardpresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boulevardpresse&language=de)
 
 **Meaning:** tabloid press
 **Plural:** –

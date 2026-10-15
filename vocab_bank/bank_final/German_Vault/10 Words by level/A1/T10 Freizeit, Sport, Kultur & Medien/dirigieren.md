@@ -13,11 +13,16 @@ id: "B0545"
 netzwerk: "A1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "dirigieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dirigieren
+
+![[dirigieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dirigieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dirigieren&language=de)
 
 **Meaning:** to conduct
 **Forms:** dirigiert · dirigierte · hat dirigiert

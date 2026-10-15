@@ -12,11 +12,16 @@ id: "B2276"
 netzwerk: "A2 K4 12a ÜB"
 freq_rank: 5759
 skip: false
+audio: "unordentlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unordentlich
+
+![[unordentlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unordentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unordentlich&language=de)
 
 **Meaning:** messy
 **Level:** A2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

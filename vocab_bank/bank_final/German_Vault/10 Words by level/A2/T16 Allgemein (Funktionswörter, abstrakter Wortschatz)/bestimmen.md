@@ -13,11 +13,16 @@ id: "B2602"
 netzwerk: "A2 K7 8e"
 freq_rank: 165
 skip: false
+audio: "bestimmen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestimmen
+
+![[bestimmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestimmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestimmen&language=de)
 
 **Meaning:** to determine; to decide
 **Forms:** bestimmt · bestimmte · hat bestimmt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3674"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Schwager.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schwager
+
+![[Schwager.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwager/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwager&language=de)
 
 **Meaning:** brother-in-law
 **Plural:** Schwäger

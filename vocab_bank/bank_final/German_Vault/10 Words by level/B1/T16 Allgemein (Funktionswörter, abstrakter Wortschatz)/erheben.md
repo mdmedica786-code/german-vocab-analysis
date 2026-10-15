@@ -12,11 +12,16 @@ bank: "main"
 id: "B5184"
 freq_rank: 602
 skip: false
+audio: "erheben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erheben
+
+![[erheben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erheben&language=de)
 
 **Meaning:** to raise; to levy; to collect (data)
 **Forms:** erhebt · erhob · hat erhoben

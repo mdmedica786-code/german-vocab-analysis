@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3986"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "gegenüberstehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # gegenüberstehen
+
+![[gegenüberstehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gegen%C3%BCberstehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegen%C3%BCberstehen&language=de)
 
 **Meaning:** to face; to be opposed to; to stand opposite
 **Forms:** steht gegenüber · stand gegenüber · hat gegenübergestanden

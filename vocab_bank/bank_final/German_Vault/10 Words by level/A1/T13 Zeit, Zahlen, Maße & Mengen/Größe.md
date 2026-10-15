@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 5b"
 freq_rank: 806
 skip: false
+audio: "Größe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Größe
+
+![[Größe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gr%C3%B6%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gr%C3%B6%C3%9Fe&language=de)
 
 **Meaning:** size; height; greatness
 **Plural:** Größen

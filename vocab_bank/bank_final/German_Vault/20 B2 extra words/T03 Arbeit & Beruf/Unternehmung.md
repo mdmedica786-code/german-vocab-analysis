@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2595"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Unternehmung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unternehmung
+
+![[Unternehmung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unternehmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmung&language=de)
 
 **Meaning:** undertaking; outing
 **Plural:** Unternehmungen

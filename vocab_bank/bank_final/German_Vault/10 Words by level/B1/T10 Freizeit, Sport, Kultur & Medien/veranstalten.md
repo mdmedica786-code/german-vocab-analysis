@@ -13,11 +13,16 @@ id: "B4661"
 netzwerk: "B1 K9 8d"
 freq_rank: 4943
 skip: false
+audio: "veranstalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # veranstalten
+
+![[veranstalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/veranstalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=veranstalten&language=de)
 
 **Meaning:** to organize
 **Forms:** veranstaltet · veranstaltete · hat veranstaltet

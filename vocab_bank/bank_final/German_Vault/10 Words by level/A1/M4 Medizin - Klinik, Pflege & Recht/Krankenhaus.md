@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 7a"
 freq_rank: 1821
 skip: false
+audio: "Krankenhaus.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Krankenhaus
+
+![[Krankenhaus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankenhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenhaus&language=de)
 
 **Meaning:** hospital
 **Plural:** Krankenhäuser

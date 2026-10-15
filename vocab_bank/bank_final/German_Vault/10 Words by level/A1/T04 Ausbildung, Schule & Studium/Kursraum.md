@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kursraum
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kursraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursraum&language=de)
+
 **Meaning:** classroom; course room
 **Plural:** Kursräume
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

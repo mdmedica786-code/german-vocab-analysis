@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 5759
 skip: false
+audio: "zumachen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zumachen
+
+![[zumachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zumachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zumachen&language=de)
 
 **Meaning:** to close
 **Forms:** macht zu · machte zu · hat zugemacht

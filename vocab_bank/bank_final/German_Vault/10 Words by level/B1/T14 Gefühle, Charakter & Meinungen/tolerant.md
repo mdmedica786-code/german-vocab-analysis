@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "tolerant.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # tolerant
+
+![[tolerant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tolerant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tolerant&language=de)
 
 **Meaning:** tolerant
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

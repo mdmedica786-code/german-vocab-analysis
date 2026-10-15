@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3513"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "vereinfachen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vereinfachen
+
+![[vereinfachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vereinfachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vereinfachen&language=de)
 
 **Meaning:** to simplify
 **Forms:** vereinfacht · vereinfachte · hat vereinfacht

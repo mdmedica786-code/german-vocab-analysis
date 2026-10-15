@@ -13,11 +13,16 @@ id: "B4159"
 netzwerk: "B1 K6 8a"
 freq_rank: 5759
 skip: false
+audio: "umformulieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umformulieren
+
+![[umformulieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umformulieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umformulieren&language=de)
 
 **Meaning:** to rephrase
 **Forms:** formuliert um · formulierte um · hat umformuliert

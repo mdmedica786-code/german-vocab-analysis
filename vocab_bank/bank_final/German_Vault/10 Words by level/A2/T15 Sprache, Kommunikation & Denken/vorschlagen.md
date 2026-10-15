@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # vorschlagen
 
+[▶️ YouGlish](https://youglish.com/pronounce/vorschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorschlagen&language=de)
+
 **Meaning:** to suggest
 **Forms:** schlägt vor · schlug vor · hat vorgeschlagen
 **Grammar:** separable (vor-)

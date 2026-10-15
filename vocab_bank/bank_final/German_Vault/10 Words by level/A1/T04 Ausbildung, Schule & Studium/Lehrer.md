@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 9a"
 freq_rank: 1165
 skip: false
+audio: "Lehrer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lehrer
+
+![[Lehrer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrer&language=de)
 
 **Meaning:** teacher (m)
 **Plural:** Lehrer

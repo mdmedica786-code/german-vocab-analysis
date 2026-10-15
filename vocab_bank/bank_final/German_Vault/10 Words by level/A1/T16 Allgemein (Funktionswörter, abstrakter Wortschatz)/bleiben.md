@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7b"
 freq_rank: 116
 skip: false
+audio: "bleiben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bleiben
+
+![[bleiben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bleiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bleiben&language=de)
 
 **Meaning:** to stay
 **Forms:** bleibt · blieb · ist geblieben

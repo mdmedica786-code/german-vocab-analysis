@@ -14,11 +14,16 @@ bank: "main"
 id: "B6240"
 freq_rank: 5016
 skip: false
+audio: "Schwindel.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schwindel
+
+![[Schwindel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwindel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwindel&language=de)
 
 **Meaning:** dizziness; swindle
 **Plural:** –

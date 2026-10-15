@@ -15,11 +15,16 @@ id: "B0196"
 netzwerk: "A1 K1 8e"
 freq_rank: 2105
 skip: false
+audio: "Subjekt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Subjekt
+
+![[Subjekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Subjekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Subjekt&language=de)
 
 **Meaning:** subject
 **Plural:** Subjekte

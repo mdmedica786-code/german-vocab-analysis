@@ -12,11 +12,16 @@ bank: "main"
 id: "B5978"
 freq_rank: 3776
 skip: false
+audio: "beeindrucken.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beeindrucken
+
+![[beeindrucken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beeindrucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beeindrucken&language=de)
 
 **Meaning:** to impress
 **Forms:** beeindruckt · beeindruckte · hat beeindruckt

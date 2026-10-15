@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0444"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Konzern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konzern
+
+![[Konzern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzern&language=de)
 
 **Meaning:** corporation; group
 **Plural:** Konzerne

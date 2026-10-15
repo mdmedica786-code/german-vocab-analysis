@@ -15,11 +15,16 @@ id: "B2396"
 netzwerk: "A2 K6 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Bahnhofshalle.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bahnhofshalle
+
+![[Bahnhofshalle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bahnhofshalle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnhofshalle&language=de)
 
 **Meaning:** station hall
 **Plural:** Bahnhofshallen

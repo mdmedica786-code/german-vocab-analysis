@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2242"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wanderschuh.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wanderschuh
+
+![[Wanderschuh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wanderschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wanderschuh&language=de)
 
 **Meaning:** hiking boot
 **Plural:** Wanderschuhe

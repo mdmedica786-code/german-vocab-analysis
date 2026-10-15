@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 2815
 skip: false
+audio: "Zuschauer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zuschauer
+
+![[Zuschauer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuschauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuschauer&language=de)
 
 **Meaning:** spectator (m)
 **Plural:** Zuschauer

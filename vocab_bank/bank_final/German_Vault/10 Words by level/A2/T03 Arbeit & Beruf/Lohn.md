@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 2a"
 freq_rank: 3288
 skip: false
+audio: "Lohn.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lohn
+
+![[Lohn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lohn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lohn&language=de)
 
 **Meaning:** wage
 **Plural:** Löhne

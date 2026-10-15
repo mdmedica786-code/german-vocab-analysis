@@ -15,11 +15,16 @@ id: "B6199"
 goethe_level: "B1"
 freq_rank: 4847
 skip: false
+audio: "Wohnsitz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wohnsitz
+
+![[Wohnsitz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnsitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnsitz&language=de)
 
 **Meaning:** residence; place of residence
 **Plural:** Wohnsitze

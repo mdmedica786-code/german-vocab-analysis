@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4136"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Korrektheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Korrektheit
+
+![[Korrektheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korrektheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrektheit&language=de)
 
 **Meaning:** correctness
 **Plural:** –

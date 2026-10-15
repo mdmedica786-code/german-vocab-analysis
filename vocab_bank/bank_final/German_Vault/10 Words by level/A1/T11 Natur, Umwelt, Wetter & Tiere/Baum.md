@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 11a"
 freq_rank: 807
 skip: false
+audio: "Baum.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Baum
+
+![[Baum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Baum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Baum&language=de)
 
 **Meaning:** tree
 **Plural:** Bäume

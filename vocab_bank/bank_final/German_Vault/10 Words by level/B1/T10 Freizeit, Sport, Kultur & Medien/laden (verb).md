@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5b"
 freq_rank: 1354
 skip: false
+audio: "laden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # laden
+
+![[laden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/laden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=laden&language=de)
 
 **Meaning:** to load; to charge
 **Forms:** lädt · lud · hat geladen

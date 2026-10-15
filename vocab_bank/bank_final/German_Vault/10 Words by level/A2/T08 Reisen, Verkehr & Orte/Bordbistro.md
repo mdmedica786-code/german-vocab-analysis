@@ -15,11 +15,16 @@ id: "B2573"
 netzwerk: "A2 K7 5a"
 freq_rank: 5759
 skip: false
+audio: "Bordbistro.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bordbistro
+
+![[Bordbistro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bordbistro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bordbistro&language=de)
 
 **Meaning:** on-board bistro
 **Plural:** Bordbistros

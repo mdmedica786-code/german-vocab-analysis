@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3453"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Ausbreitung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausbreitung
+
+![[Ausbreitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbreitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbreitung&language=de)
 
 **Meaning:** spread; expansion
 **Plural:** –

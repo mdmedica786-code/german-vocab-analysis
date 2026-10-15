@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2813"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Passage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Passage
+
+![[Passage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passage&language=de)
 
 **Meaning:** passage
 **Plural:** Passagen

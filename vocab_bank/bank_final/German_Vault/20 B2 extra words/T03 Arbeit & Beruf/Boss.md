@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3309"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Boss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Boss
+
+![[Boss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Boss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boss&language=de)
 
 **Meaning:** boss (colloquial)
 **Plural:** Bosse

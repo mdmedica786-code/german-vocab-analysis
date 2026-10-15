@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 8a"
 freq_rank: 4093
 skip: false
+audio: "Meldung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meldung
+
+![[Meldung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meldung&language=de)
 
 **Meaning:** report; announcement
 **Plural:** Meldungen

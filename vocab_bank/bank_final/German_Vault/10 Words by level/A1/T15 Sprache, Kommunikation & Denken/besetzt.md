@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 12"
 freq_rank: 1211
 skip: false
+audio: "besetzt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # besetzt
+
+![[besetzt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besetzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besetzt&language=de)
 
 **Meaning:** busy
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

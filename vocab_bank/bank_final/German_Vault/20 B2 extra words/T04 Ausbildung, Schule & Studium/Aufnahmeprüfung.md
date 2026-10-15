@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0918"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Aufnahmeprüfung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufnahmeprüfung
+
+![[Aufnahmeprüfung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufnahmepr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufnahmepr%C3%BCfung&language=de)
 
 **Meaning:** entrance exam
 **Plural:** Aufnahmeprüfungen

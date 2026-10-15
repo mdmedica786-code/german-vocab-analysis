@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3242"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Aufteilung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufteilung
+
+![[Aufteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufteilung&language=de)
 
 **Meaning:** division; distribution; allocation
 **Plural:** Aufteilungen

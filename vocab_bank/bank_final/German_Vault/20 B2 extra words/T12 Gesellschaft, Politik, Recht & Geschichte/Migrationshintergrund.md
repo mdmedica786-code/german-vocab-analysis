@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1882"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Migrationshintergrund.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Migrationshintergrund
+
+![[Migrationshintergrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Migrationshintergrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Migrationshintergrund&language=de)
 
 **Meaning:** migrant background
 **Plural:** –

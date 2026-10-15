@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # das Wort ergreifen
 
+[▶️ YouGlish](https://youglish.com/pronounce/das%20Wort%20ergreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das%20Wort%20ergreifen&language=de)
+
 **Meaning:** to take the floor
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

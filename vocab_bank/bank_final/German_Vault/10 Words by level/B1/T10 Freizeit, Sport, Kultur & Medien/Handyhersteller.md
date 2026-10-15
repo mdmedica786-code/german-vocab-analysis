@@ -15,11 +15,16 @@ id: "B5065"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Handyhersteller.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handyhersteller
+
+![[Handyhersteller.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handyhersteller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handyhersteller&language=de)
 
 **Meaning:** mobile phone manufacturer
 **Plural:** Handyhersteller

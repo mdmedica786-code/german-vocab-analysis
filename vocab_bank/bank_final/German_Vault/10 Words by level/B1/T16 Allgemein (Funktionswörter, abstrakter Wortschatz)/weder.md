@@ -11,11 +11,16 @@ bank: "main"
 id: "B5179"
 freq_rank: 582
 skip: false
+audio: "weder.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # weder
+
+![[weder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weder&language=de)
 
 **Meaning:** neither ... nor (weder ... noch)
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

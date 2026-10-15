@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 4517
 skip: false
+audio: "Umweltschutz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umweltschutz
+
+![[Umweltschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltschutz&language=de)
 
 **Meaning:** environmental protection
 **Plural:** –

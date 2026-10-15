@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0876"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beschleunigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschleunigen
+
+![[beschleunigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschleunigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschleunigen&language=de)
 
 **Meaning:** to accelerate; to speed up
 **Forms:** beschleunigt · beschleunigte · hat beschleunigt

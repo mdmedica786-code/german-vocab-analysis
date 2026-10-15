@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0383"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Schwelle.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schwelle
+
+![[Schwelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwelle&language=de)
 
 **Meaning:** threshold; doorstep
 **Plural:** Schwellen

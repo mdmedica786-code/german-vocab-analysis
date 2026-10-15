@@ -14,11 +14,16 @@ bank: "main"
 id: "B6173"
 freq_rank: 4751
 skip: false
+audio: "Wechselwirkung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wechselwirkung
+
+![[Wechselwirkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wechselwirkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wechselwirkung&language=de)
 
 **Meaning:** interaction
 **Plural:** Wechselwirkungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4291"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Passant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Passant
+
+![[Passant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passant&language=de)
 
 **Meaning:** passer-by (male)
 **Plural:** Passanten

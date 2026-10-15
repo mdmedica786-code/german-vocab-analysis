@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0391"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Verschiebung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verschiebung
+
+![[Verschiebung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verschiebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschiebung&language=de)
 
 **Meaning:** shift; postponement
 **Plural:** Verschiebungen

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 10b"
 freq_rank: 3205
 skip: false
+audio: "zuhören.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuhören
+
+![[zuhören.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuh%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuh%C3%B6ren&language=de)
 
 **Meaning:** to listen
 **Forms:** hört zu · hörte zu · hat zugehört

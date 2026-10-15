@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "streiken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # streiken
+
+![[streiken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streiken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streiken&language=de)
 
 **Meaning:** to go on strike
 **Forms:** streikt · streikte · hat gestreikt

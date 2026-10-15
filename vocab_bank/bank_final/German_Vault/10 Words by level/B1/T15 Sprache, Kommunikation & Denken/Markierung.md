@@ -15,11 +15,16 @@ id: "B4356"
 netzwerk: "B1 K7 13b"
 freq_rank: 5759
 skip: false
+audio: "Markierung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Markierung
+
+![[Markierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Markierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markierung&language=de)
 
 **Meaning:** marking
 **Plural:** Markierungen

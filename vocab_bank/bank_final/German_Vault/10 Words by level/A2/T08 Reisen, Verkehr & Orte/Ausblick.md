@@ -15,11 +15,16 @@ id: "B3242"
 netzwerk: "A2 K12 11b"
 freq_rank: 3936
 skip: false
+audio: "Ausblick.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausblick
+
+![[Ausblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausblick&language=de)
 
 **Meaning:** view
 **Plural:** Ausblicke

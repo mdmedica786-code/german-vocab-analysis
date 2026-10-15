@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3049"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Seufzer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Seufzer
+
+![[Seufzer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seufzer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seufzer&language=de)
 
 **Meaning:** sigh
 **Plural:** Seufzer

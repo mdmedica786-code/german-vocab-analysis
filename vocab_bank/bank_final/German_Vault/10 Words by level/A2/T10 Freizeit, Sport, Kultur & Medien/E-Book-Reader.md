@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der E-Book-Reader
 
+[▶️ YouGlish](https://youglish.com/pronounce/E-Book-Reader/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Book-Reader&language=de)
+
 **Meaning:** e-book reader
 **Plural:** E-Book-Reader
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

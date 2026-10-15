@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Beitrag leisten
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Beitrag%20leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Beitrag%20leisten&language=de)
+
 **Meaning:** to make a contribution
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

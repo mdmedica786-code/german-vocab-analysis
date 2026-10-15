@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1939"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Klappentext.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klappentext
+
+![[Klappentext.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klappentext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klappentext&language=de)
 
 **Meaning:** blurb
 **Plural:** Klappentexte

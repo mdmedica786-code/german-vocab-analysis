@@ -14,11 +14,16 @@ bank: "main"
 id: "B5648"
 freq_rank: 2652
 skip: false
+audio: "Coach.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Coach
+
+![[Coach.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Coach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coach&language=de)
 
 **Meaning:** coach
 **Plural:** Coaches

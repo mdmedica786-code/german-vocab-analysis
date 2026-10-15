@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 6a"
 freq_rank: 384
 skip: false
+audio: "sonst.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sonst
+
+![[sonst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sonst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sonst&language=de)
 
 **Meaning:** otherwise
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

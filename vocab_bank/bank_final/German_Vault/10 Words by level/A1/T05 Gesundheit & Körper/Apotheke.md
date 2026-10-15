@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 8b"
 freq_rank: 2855
 skip: false
+audio: "Apotheke.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Apotheke
+
+![[Apotheke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Apotheke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apotheke&language=de)
 
 **Meaning:** pharmacy
 **Plural:** Apotheken

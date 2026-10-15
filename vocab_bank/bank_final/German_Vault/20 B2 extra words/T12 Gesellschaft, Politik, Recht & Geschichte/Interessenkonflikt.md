@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1460"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Interessenkonflikt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Interessenkonflikt
+
+![[Interessenkonflikt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interessenkonflikt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interessenkonflikt&language=de)
 
 **Meaning:** conflict of interest
 **Plural:** Interessenkonflikte

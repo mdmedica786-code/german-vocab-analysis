@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3492"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "niederschlagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # niederschlagen
+
+![[niederschlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/niederschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niederschlagen&language=de)
 
 **Meaning:** to knock down; to suppress; (sich) to be reflected
 **Forms:** schlägt nieder · schlug nieder · hat niedergeschlagen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3550"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "herausstellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # herausstellen
+
+![[herausstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herausstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herausstellen&language=de)
 
 **Meaning:** to emphasise; (sich) to turn out
 **Forms:** stellt sich heraus · stellte sich heraus · hat sich herausgestellt

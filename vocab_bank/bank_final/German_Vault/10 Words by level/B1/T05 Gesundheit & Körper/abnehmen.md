@@ -13,11 +13,16 @@ id: "B5676"
 goethe_level: "B1"
 freq_rank: 2764
 skip: false
+audio: "abnehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abnehmen
+
+![[abnehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abnehmen&language=de)
 
 **Meaning:** to take off; to lose weight; to decrease
 **Forms:** nimmt ab · nahm ab · hat abgenommen

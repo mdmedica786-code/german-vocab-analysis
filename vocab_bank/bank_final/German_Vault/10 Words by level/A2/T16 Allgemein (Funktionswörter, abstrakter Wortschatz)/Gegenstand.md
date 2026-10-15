@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 10b"
 freq_rank: 761
 skip: false
+audio: "Gegenstand.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gegenstand
+
+![[Gegenstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegenstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenstand&language=de)
 
 **Meaning:** object; item; subject
 **Plural:** Gegenstände

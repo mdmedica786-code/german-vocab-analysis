@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1623"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "niedergeschlagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # niedergeschlagen
+
+![[niedergeschlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/niedergeschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niedergeschlagen&language=de)
 
 **Meaning:** downcast; dejected
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

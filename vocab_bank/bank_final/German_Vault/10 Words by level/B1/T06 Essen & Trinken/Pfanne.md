@@ -15,11 +15,16 @@ id: "B6113"
 goethe_level: "B1"
 freq_rank: 4475
 skip: false
+audio: "Pfanne.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pfanne
+
+![[Pfanne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfanne&language=de)
 
 **Meaning:** pan
 **Plural:** Pfannen

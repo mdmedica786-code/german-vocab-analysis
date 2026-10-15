@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 808
 skip: false
+audio: "Wald.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wald
+
+![[Wald.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wald/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wald&language=de)
 
 **Meaning:** forest
 **Plural:** Wälder

@@ -15,11 +15,16 @@ id: "B1942"
 netzwerk: "A2 K2 1c"
 freq_rank: 5759
 skip: false
+audio: "Altenpflegerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Altenpflegerin
+
+![[Altenpflegerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altenpflegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altenpflegerin&language=de)
 
 **Meaning:** geriatric nurse (f)
 **Plural:** Altenpflegerinnen

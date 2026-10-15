@@ -15,11 +15,16 @@ id: "B3659"
 netzwerk: "B1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "Pfennig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pfennig
+
+![[Pfennig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfennig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfennig&language=de)
 
 **Meaning:** penny
 **Plural:** Pfennige

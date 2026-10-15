@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 8a"
 freq_rank: 2685
 skip: false
+audio: "zusammenfassen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenfassen
+
+![[zusammenfassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenfassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenfassen&language=de)
 
 **Meaning:** to summarize
 **Forms:** fasst zusammen · fasste zusammen · hat zusammengefasst

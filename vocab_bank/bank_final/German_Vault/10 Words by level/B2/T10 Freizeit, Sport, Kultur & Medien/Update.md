@@ -14,11 +14,16 @@ bank: "main"
 id: "B5461"
 freq_rank: 2000
 skip: false
+audio: "Update.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Update
+
+![[Update.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Update/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Update&language=de)
 
 **Meaning:** update
 **Plural:** Updates

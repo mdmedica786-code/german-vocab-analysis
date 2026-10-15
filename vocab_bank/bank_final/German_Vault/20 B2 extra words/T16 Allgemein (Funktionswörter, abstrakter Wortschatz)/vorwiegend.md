@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0032"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "vorwiegend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorwiegend
+
+![[vorwiegend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorwiegend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorwiegend&language=de)
 
 **Meaning:** predominantly; mainly
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B4777"
 netzwerk: "B1 K10 3b"
 freq_rank: 4877
 skip: false
+audio: "spenden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spenden
+
+![[spenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spenden&language=de)
 
 **Meaning:** to donate
 **Forms:** spendet · spendete · hat gespendet

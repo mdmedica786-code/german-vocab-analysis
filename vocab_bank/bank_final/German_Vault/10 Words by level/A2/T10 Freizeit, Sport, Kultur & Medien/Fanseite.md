@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Fanseite
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fanseite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fanseite&language=de)
+
 **Meaning:** fan page
 **Plural:** Fanseiten
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

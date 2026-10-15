@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Uni-Mensa
 
+[▶️ YouGlish](https://youglish.com/pronounce/Uni-Mensa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uni-Mensa&language=de)
+
 **Meaning:** university cafeteria
 **Plural:** Uni-Mensen
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

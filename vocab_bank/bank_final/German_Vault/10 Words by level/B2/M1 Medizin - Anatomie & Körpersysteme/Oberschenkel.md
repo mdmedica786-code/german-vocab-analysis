@@ -14,11 +14,16 @@ bank: "main"
 id: "B6012"
 freq_rank: 3935
 skip: false
+audio: "Oberschenkel.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Oberschenkel
+
+![[Oberschenkel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oberschenkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberschenkel&language=de)
 
 **Meaning:** thigh
 **Plural:** Oberschenkel

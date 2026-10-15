@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0229"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "vorwerfen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorwerfen
+
+![[vorwerfen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorwerfen&language=de)
 
 **Meaning:** to reproach; to accuse
 **Forms:** wirft vor · warf vor · hat vorgeworfen

@@ -12,11 +12,16 @@ id: "B0498"
 netzwerk: "A1 K3 4a"
 freq_rank: 5759
 skip: false
+audio: "unbestimmt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unbestimmt
+
+![[unbestimmt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unbestimmt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unbestimmt&language=de)
 
 **Meaning:** indefinite; vague
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

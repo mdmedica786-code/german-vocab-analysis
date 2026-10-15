@@ -15,11 +15,16 @@ id: "B0844"
 netzwerk: "A1 K5 9"
 freq_rank: 5759
 skip: false
+audio: "Wortende.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wortende
+
+![[Wortende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortende&language=de)
 
 **Meaning:** ending of the word
 **Plural:** Wortenden

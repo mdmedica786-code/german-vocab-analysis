@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0215"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "hindeuten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hindeuten
+
+![[hindeuten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hindeuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hindeuten&language=de)
 
 **Meaning:** to point to; to indicate
 **Forms:** deutet hin · deutete hin · hat hingedeutet

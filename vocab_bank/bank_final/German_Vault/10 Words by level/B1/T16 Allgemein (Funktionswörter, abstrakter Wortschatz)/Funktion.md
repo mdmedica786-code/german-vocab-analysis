@@ -15,11 +15,16 @@ id: "B4765"
 netzwerk: "B1 K10 3b"
 freq_rank: 471
 skip: false
+audio: "Funktion.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Funktion
+
+![[Funktion.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Funktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Funktion&language=de)
 
 **Meaning:** function
 **Plural:** Funktionen

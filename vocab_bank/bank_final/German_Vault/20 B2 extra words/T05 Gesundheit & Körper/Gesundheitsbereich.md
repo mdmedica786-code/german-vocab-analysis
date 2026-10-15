@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4010"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Gesundheitsbereich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gesundheitsbereich
+
+![[Gesundheitsbereich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesundheitsbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitsbereich&language=de)
 
 **Meaning:** health sector; health field
 **Plural:** Gesundheitsbereiche

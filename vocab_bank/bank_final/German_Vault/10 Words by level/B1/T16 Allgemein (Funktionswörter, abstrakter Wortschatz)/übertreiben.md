@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 9a"
 freq_rank: 4229
 skip: false
+audio: "übertreiben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # übertreiben
+
+![[übertreiben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbertreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbertreiben&language=de)
 
 **Meaning:** to exaggerate
 **Forms:** übertreibt · übertrieb · hat übertrieben

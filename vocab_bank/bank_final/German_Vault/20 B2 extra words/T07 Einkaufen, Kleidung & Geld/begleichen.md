@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1227"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "begleichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # begleichen
+
+![[begleichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begleichen&language=de)
 
 **Meaning:** to settle (a bill); to pay
 **Forms:** begleicht · beglich · hat beglichen

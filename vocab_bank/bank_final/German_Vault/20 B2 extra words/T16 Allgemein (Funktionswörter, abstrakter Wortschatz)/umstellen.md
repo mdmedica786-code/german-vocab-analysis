@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0263"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "umstellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # umstellen
+
+![[umstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umstellen&language=de)
 
 **Meaning:** to switch; to rearrange
 **Forms:** stellt um · stellte um · hat umgestellt

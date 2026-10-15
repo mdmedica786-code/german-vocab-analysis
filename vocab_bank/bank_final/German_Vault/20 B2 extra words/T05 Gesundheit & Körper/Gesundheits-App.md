@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4008"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gesundheits-App
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesundheits-App/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheits-App&language=de)
 
 **Meaning:** health app
 **Plural:** Gesundheits-Apps

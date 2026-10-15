@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1068"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Hausverwaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausverwaltung
+
+![[Hausverwaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausverwaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausverwaltung&language=de)
 
 **Meaning:** property management
 **Plural:** Hausverwaltungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1503"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Missachtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Missachtung
+
+![[Missachtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Missachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Missachtung&language=de)
 
 **Meaning:** disregard; contempt
 **Plural:** Missachtungen

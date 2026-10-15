@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 833
 skip: false
+audio: "aufnehmen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufnehmen
+
+![[aufnehmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufnehmen&language=de)
 
 **Meaning:** to record
 **Other senses:** to take in; to admit (a patient)

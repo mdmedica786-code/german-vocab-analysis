@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0473"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Referenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Referenz
+
+![[Referenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Referenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Referenz&language=de)
 
 **Meaning:** reference; testimonial
 **Plural:** Referenzen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 3934
 skip: false
+audio: "Arbeitslosigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitslosigkeit
+
+![[Arbeitslosigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitslosigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitslosigkeit&language=de)
 
 **Meaning:** unemployment
 **Plural:** –

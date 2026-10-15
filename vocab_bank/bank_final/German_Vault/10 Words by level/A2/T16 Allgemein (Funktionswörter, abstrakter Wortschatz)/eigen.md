@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K7 10a"
 freq_rank: 140
 skip: false
+audio: "eigen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eigen
+
+![[eigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eigen&language=de)
 
 **Meaning:** own
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

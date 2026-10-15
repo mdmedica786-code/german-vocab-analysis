@@ -11,11 +11,16 @@ bank: "main"
 id: "B6162"
 freq_rank: 4694
 skip: false
+audio: "optisch.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # optisch
+
+![[optisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/optisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=optisch&language=de)
 
 **Meaning:** visual; optical
 **Level:** C1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3913"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "ersticken.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ersticken
+
+![[ersticken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ersticken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ersticken&language=de)
 
 **Meaning:** to suffocate; to choke
 **Forms:** erstickt · erstickte · ist erstickt

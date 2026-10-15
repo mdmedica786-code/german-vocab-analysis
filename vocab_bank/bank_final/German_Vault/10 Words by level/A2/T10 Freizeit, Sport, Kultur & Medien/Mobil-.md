@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Mobil-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mobil-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mobil-&language=de)
+
 **Meaning:** mobile
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

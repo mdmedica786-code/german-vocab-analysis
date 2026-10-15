@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 14"
 freq_rank: 841
 skip: false
+audio: "vorher.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorher
+
+![[vorher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorher&language=de)
 
 **Meaning:** before
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

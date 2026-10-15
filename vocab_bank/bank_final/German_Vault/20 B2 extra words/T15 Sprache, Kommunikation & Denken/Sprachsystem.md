@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4447"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Sprachsystem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Sprachsystem
+
+![[Sprachsystem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachsystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachsystem&language=de)
 
 **Meaning:** language system
 **Plural:** Sprachsysteme

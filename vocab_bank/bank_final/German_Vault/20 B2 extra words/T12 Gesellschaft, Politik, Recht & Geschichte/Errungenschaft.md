@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3910"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Errungenschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Errungenschaft
+
+![[Errungenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Errungenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Errungenschaft&language=de)
 
 **Meaning:** achievement; accomplishment
 **Plural:** Errungenschaften

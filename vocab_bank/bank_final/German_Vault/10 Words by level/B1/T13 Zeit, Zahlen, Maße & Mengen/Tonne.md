@@ -15,11 +15,16 @@ id: "B3984"
 netzwerk: "B1 K5 8a"
 freq_rank: 4987
 skip: false
+audio: "Tonne.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tonne
+
+![[Tonne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tonne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tonne&language=de)
 
 **Meaning:** tonne; bin
 **Plural:** Tonnen

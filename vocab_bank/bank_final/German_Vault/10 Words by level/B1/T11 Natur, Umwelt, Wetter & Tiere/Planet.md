@@ -15,11 +15,16 @@ id: "B4083"
 netzwerk: "B1 K6 1a"
 freq_rank: 2338
 skip: false
+audio: "Planet.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Planet
+
+![[Planet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Planet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Planet&language=de)
 
 **Meaning:** planet
 **Plural:** Planeten

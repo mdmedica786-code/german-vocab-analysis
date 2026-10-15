@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3484"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Zeitlang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeitlang
+
+![[Zeitlang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitlang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitlang&language=de)
 
 **Meaning:** while; period (only in "eine Zeitlang")
 **Plural:** –

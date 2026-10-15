@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Urlaubstyp
 
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubstyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubstyp&language=de)
+
 **Meaning:** holiday type
 **Plural:** Urlaubstypen
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

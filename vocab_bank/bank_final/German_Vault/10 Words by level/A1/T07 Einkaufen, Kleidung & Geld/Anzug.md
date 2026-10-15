@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a"
 freq_rank: 3419
 skip: false
+audio: "Anzug.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anzug
+
+![[Anzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anzug&language=de)
 
 **Meaning:** suit
 **Plural:** Anzüge

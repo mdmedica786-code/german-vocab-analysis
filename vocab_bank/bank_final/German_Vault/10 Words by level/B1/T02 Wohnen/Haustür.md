@@ -15,11 +15,16 @@ id: "B3439"
 netzwerk: "B1 K2 6b"
 freq_rank: 2934
 skip: false
+audio: "Haustür.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Haustür
+
+![[Haustür.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haust%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haust%C3%BCr&language=de)
 
 **Meaning:** front door
 **Plural:** Haustüren

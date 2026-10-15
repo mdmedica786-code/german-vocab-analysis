@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2541"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bürgerlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bürgerlich
+
+![[bürgerlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCrgerlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCrgerlich&language=de)
 
 **Meaning:** civil; middle-class
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

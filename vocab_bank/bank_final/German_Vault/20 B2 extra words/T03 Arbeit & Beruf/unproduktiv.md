@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4546"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "unproduktiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # unproduktiv
+
+![[unproduktiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unproduktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unproduktiv&language=de)
 
 **Meaning:** unproductive
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

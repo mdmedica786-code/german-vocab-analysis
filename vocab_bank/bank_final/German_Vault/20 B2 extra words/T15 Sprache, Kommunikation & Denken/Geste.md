@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Geste
 
+[▶️ YouGlish](https://youglish.com/pronounce/Geste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geste&language=de)
+
 **Meaning:** gesture
 **Plural:** Gesten
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

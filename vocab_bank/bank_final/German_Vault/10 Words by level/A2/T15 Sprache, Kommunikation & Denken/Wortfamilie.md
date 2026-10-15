@@ -15,11 +15,16 @@ id: "B2912"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "Wortfamilie.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wortfamilie
+
+![[Wortfamilie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortfamilie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortfamilie&language=de)
 
 **Meaning:** word family
 **Plural:** Wortfamilien

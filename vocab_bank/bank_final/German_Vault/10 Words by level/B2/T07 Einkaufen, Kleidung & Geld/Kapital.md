@@ -14,11 +14,16 @@ bank: "main"
 id: "B5431"
 freq_rank: 1939
 skip: false
+audio: "Kapital.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kapital
+
+![[Kapital.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kapital/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kapital&language=de)
 
 **Meaning:** capital
 **Plural:** –

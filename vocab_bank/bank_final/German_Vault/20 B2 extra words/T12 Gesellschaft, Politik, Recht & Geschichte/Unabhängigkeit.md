@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1521"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Unabhängigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unabhängigkeit
+
+![[Unabhängigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unabh%C3%A4ngigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unabh%C3%A4ngigkeit&language=de)
 
 **Meaning:** independence
 **Plural:** –

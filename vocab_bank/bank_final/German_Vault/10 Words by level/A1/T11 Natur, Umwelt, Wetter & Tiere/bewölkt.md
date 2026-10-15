@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "bewölkt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewölkt
+
+![[bewölkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bew%C3%B6lkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bew%C3%B6lkt&language=de)
 
 **Meaning:** cloudy
 **Level:** A1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

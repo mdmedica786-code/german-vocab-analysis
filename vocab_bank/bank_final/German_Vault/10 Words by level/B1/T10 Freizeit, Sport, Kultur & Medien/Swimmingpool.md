@@ -15,11 +15,16 @@ id: "B6574"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Swimmingpool.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Swimmingpool
+
+![[Swimmingpool.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Swimmingpool/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Swimmingpool&language=de)
 
 **Meaning:** swimming pool
 **Plural:** Swimmingpools

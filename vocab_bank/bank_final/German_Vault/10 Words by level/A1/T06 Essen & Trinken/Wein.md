@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K10 5a"
 freq_rank: 1478
 skip: false
+audio: "Wein.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wein
+
+![[Wein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wein&language=de)
 
 **Meaning:** wine
 **Plural:** Weine

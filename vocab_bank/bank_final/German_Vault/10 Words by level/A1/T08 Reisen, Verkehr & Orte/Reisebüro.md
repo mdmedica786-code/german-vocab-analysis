@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Reisebüro.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Reisebüro
+
+![[Reisebüro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reiseb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reiseb%C3%BCro&language=de)
 
 **Meaning:** travel agency
 **Plural:** Reisebüros

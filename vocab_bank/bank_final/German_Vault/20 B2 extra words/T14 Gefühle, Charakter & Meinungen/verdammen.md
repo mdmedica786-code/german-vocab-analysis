@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2410"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "verdammen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdammen
+
+![[verdammen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verdammen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdammen&language=de)
 
 **Meaning:** to condemn; to damn
 **Forms:** verdammt · verdammte · hat verdammt

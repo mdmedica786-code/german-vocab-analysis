@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4025"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "habilitieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # habilitieren
+
+![[habilitieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/habilitieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=habilitieren&language=de)
 
 **Meaning:** to qualify as a university lecturer (Habilitation)
 **Forms:** habilitiert · habilitierte · hat habilitiert

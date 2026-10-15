@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2856"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ausgestaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausgestaltung
+
+![[Ausgestaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgestaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgestaltung&language=de)
 
 **Meaning:** design; shaping; arrangement
 **Plural:** Ausgestaltungen

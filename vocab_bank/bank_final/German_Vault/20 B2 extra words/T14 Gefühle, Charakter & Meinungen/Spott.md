@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1180"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Spott.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spott
+
+![[Spott.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spott/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spott&language=de)
 
 **Meaning:** mockery; ridicule
 **Plural:** –

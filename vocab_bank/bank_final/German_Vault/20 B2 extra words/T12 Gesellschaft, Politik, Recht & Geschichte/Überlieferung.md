@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3081"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Überlieferung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überlieferung
+
+![[Überlieferung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberlieferung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberlieferung&language=de)
 
 **Meaning:** tradition; handing down
 **Plural:** Überlieferungen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0277"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "würdigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # würdigen
+
+![[würdigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCrdigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCrdigen&language=de)
 
 **Meaning:** to recognise; to pay tribute to
 **Forms:** würdigt · würdigte · hat gewürdigt

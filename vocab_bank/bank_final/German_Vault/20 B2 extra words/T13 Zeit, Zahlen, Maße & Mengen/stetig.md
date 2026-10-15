@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2935"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "stetig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # stetig
+
+![[stetig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stetig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stetig&language=de)
 
 **Meaning:** steady; constant
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1616"
 netzwerk: "A1 K11 4b"
 freq_rank: 2854
 skip: false
+audio: "Klamotten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klamotten
+
+![[Klamotten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klamotten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klamotten&language=de)
 
 **Meaning:** clothes
 **Plural:** (Pl.)

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0666"
 exam_use: ["Lesen"]
 skip: false
+audio: "Flächenverbrauch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Flächenverbrauch
+
+![[Flächenverbrauch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%A4chenverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%A4chenverbrauch&language=de)
 
 **Meaning:** land consumption
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13a"
 freq_rank: 608
 skip: false
+audio: "verändern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verändern
+
+![[verändern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ver%C3%A4ndern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ver%C3%A4ndern&language=de)
 
 **Meaning:** to change
 **Forms:** verändert · veränderte · hat verändert

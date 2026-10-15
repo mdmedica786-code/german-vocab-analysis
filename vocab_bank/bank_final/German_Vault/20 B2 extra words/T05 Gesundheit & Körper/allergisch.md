@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3705"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "allergisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # allergisch
+
+![[allergisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allergisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allergisch&language=de)
 
 **Meaning:** allergic
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

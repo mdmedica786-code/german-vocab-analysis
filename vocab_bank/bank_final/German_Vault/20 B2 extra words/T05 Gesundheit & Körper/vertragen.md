@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3531"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "vertragen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vertragen
+
+![[vertragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vertragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertragen&language=de)
 
 **Meaning:** to tolerate; to bear; to get on (sich vertragen)
 **Forms:** verträgt · vertrug · hat vertragen

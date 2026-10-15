@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2778"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Verteidigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verteidigung
+
+![[Verteidigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verteidigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verteidigung&language=de)
 
 **Meaning:** defence
 **Plural:** Verteidigungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3612"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Skizze.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Skizze
+
+![[Skizze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skizze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skizze&language=de)
 
 **Meaning:** sketch; outline
 **Plural:** Skizzen

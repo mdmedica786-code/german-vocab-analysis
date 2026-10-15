@@ -15,11 +15,16 @@ id: "B6536"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Raucher.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Raucher
+
+![[Raucher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Raucher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raucher&language=de)
 
 **Meaning:** smoker (m)
 **Plural:** Raucher

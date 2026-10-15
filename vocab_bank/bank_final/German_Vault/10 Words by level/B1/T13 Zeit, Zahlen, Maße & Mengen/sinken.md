@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 6b"
 freq_rank: 1246
 skip: false
+audio: "sinken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sinken
+
+![[sinken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sinken&language=de)
 
 **Meaning:** to sink
 **Forms:** sinkt · sank · ist gesunken

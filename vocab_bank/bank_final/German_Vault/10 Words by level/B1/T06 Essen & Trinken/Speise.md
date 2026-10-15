@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Speise.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Speise
+
+![[Speise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Speise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speise&language=de)
 
 **Meaning:** food
 **Plural:** Speisen

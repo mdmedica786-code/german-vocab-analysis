@@ -15,11 +15,16 @@ id: "B5016"
 netzwerk: "B1 K12 3a"
 freq_rank: 5759
 skip: false
+audio: "Kontoauszug.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kontoauszug
+
+![[Kontoauszug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontoauszug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontoauszug&language=de)
 
 **Meaning:** bank statement
 **Plural:** Kontoauszüge

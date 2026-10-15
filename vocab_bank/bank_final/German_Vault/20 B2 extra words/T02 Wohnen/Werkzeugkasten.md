@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2202"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Werkzeugkasten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Werkzeugkasten
+
+![[Werkzeugkasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werkzeugkasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkzeugkasten&language=de)
 
 **Meaning:** toolbox
 **Plural:** Werkzeugkästen

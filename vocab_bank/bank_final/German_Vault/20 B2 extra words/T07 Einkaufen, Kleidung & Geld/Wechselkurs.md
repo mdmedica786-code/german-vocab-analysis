@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1066"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Wechselkurs.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wechselkurs
+
+![[Wechselkurs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wechselkurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wechselkurs&language=de)
 
 **Meaning:** exchange rate
 **Plural:** Wechselkurse

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Tschechien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Tschechien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tschechien&language=de)
+
 **Meaning:** Czech Republic
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

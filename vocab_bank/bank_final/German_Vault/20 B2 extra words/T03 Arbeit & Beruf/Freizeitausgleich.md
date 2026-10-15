@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3964"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "Freizeitausgleich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Freizeitausgleich
+
+![[Freizeitausgleich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeitausgleich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitausgleich&language=de)
 
 **Meaning:** time off in lieu; compensatory time off
 **Plural:** –

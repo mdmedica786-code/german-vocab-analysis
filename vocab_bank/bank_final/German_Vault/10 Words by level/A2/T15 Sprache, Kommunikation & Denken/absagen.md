@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # absagen
 
+[▶️ YouGlish](https://youglish.com/pronounce/absagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=absagen&language=de)
+
 **Meaning:** to cancel
 **Forms:** sagt ab · sagte ab · hat abgesagt
 **Grammar:** separable (ab-)

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 5726
 skip: false
+audio: "installieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # installieren
+
+![[installieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/installieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=installieren&language=de)
 
 **Meaning:** to install
 **Forms:** installiert · installierte · hat installiert

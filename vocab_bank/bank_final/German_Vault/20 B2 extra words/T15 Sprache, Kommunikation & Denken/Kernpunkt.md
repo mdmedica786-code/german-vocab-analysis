@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1461"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Kernpunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kernpunkt
+
+![[Kernpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kernpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kernpunkt&language=de)
 
 **Meaning:** crux; main point
 **Plural:** Kernpunkte

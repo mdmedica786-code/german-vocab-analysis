@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 1065
 skip: false
+audio: "beinahe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beinahe
+
+![[beinahe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beinahe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beinahe&language=de)
 
 **Meaning:** almost
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

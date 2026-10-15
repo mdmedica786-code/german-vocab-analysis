@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7a"
 freq_rank: 317
 skip: false
+audio: "warten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # warten
+
+![[warten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/warten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=warten&language=de)
 
 **Meaning:** to wait
 **Forms:** wartet · wartete · hat gewartet

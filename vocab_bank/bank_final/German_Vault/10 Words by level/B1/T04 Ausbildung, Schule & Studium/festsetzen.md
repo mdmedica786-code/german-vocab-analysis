@@ -13,11 +13,16 @@ id: "B6435"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "festsetzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # festsetzen
+
+![[festsetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/festsetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=festsetzen&language=de)
 
 **Meaning:** to set; to fix
 **Forms:** setzt fest · setzte fest · hat festgesetzt

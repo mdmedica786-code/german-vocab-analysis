@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1830"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "richten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # richten
+
+![[richten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/richten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=richten&language=de)
 
 **Meaning:** to direct; to address; to fix
 **Forms:** richtet · richtete · hat gerichtet

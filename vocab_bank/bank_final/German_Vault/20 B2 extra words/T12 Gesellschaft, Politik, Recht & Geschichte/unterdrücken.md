@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2571"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "unterdrücken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterdrücken
+
+![[unterdrücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterdr%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterdr%C3%BCcken&language=de)
 
 **Meaning:** to suppress; to oppress
 **Forms:** unterdrückt · unterdrückte · hat unterdrückt

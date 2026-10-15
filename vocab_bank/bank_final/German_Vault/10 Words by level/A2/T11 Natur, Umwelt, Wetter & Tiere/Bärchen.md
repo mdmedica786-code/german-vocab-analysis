@@ -15,11 +15,16 @@ id: "B2991"
 netzwerk: "A2 K10 10c"
 freq_rank: 5759
 skip: false
+audio: "Bärchen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bärchen
+
+![[Bärchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4rchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4rchen&language=de)
 
 **Meaning:** little bear
 **Plural:** Bärchen

@@ -15,11 +15,16 @@ id: "B1676"
 netzwerk: "A1 K11 12a"
 freq_rank: 3030
 skip: false
+audio: "Design.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Design
+
+![[Design.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Design/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Design&language=de)
 
 **Meaning:** design
 **Plural:** Designs

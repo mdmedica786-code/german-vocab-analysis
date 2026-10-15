@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # meistabonniert
 
+[▶️ YouGlish](https://youglish.com/pronounce/meistabonniert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meistabonniert&language=de)
+
 **Meaning:** most often subscribed to
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

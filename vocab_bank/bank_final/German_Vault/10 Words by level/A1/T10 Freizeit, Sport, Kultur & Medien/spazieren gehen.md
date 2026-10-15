@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 3b"
 freq_rank: 4093
 skip: false
+audio: "spazieren gehen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spazieren gehen
+
+![[spazieren gehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spazieren%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spazieren%20gehen&language=de)
 
 **Meaning:** to go for a walk
 **Forms:** geht spazieren · ging spazieren · ist spazieren gegangen

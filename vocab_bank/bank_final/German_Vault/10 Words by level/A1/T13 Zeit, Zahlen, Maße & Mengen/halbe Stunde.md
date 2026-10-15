@@ -15,11 +15,16 @@ id: "B0909"
 netzwerk: "A1 K5 15b"
 freq_rank: 3000
 skip: false
+audio: "halbe Stunde.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die halbe Stunde
+
+![[halbe Stunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/halbe%20Stunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=halbe%20Stunde&language=de)
 
 **Meaning:** half an hour
 **Plural:** halbe Stunden

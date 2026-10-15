@@ -15,11 +15,16 @@ id: "B4268"
 netzwerk: "B1 K7 8a"
 freq_rank: 3819
 skip: false
+audio: "Harmonie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Harmonie
+
+![[Harmonie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Harmonie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Harmonie&language=de)
 
 **Meaning:** harmony
 **Plural:** Harmonien

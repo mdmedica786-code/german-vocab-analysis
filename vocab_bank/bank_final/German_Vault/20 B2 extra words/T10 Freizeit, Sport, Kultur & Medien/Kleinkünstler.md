@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4107"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Kleinkünstler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kleinkünstler
+
+![[Kleinkünstler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleink%C3%BCnstler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleink%C3%BCnstler&language=de)
 
 **Meaning:** cabaret performer; small-stage artist (male)
 **Plural:** Kleinkünstler

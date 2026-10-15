@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3072"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Haken.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Haken
+
+![[Haken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haken&language=de)
 
 **Meaning:** hook; catch
 **Plural:** Haken

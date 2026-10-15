@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0967"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Lernstrategie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lernstrategie
+
+![[Lernstrategie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernstrategie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernstrategie&language=de)
 
 **Meaning:** learning strategy
 **Plural:** Lernstrategien

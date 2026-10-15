@@ -15,11 +15,16 @@ id: "B4173"
 netzwerk: "B1 K6 9c"
 freq_rank: 4956
 skip: false
+audio: "Hürde.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hürde
+
+![[Hürde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCrde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCrde&language=de)
 
 **Meaning:** hurdle; obstacle
 **Plural:** Hürden

@@ -15,11 +15,16 @@ id: "B6158"
 goethe_level: "B1"
 freq_rank: 4677
 skip: false
+audio: "Nadel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nadel
+
+![[Nadel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nadel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nadel&language=de)
 
 **Meaning:** needle
 **Plural:** Nadeln

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2222"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Tapete.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tapete
+
+![[Tapete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tapete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tapete&language=de)
 
 **Meaning:** wallpaper
 **Plural:** Tapeten

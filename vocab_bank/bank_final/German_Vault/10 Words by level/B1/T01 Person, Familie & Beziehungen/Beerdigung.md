@@ -15,11 +15,16 @@ id: "B4466"
 netzwerk: "B1 K8 6b"
 freq_rank: 5162
 skip: false
+audio: "Beerdigung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beerdigung
+
+![[Beerdigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beerdigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beerdigung&language=de)
 
 **Meaning:** funeral
 **Plural:** Beerdigungen

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 6"
 freq_rank: 5759
 skip: false
+audio: "preiswert.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # preiswert
+
+![[preiswert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/preiswert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=preiswert&language=de)
 
 **Meaning:** inexpensive; good value
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

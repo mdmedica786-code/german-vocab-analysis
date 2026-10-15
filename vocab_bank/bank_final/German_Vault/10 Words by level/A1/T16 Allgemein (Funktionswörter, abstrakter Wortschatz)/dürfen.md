@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # dürfen
 
+[▶️ YouGlish](https://youglish.com/pronounce/d%C3%BCrfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=d%C3%BCrfen&language=de)
+
 **Meaning:** to be allowed to
 **Forms:** darf · durfte · hat gedurft
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

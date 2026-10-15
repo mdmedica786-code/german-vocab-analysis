@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0328"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Auslegung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auslegung
+
+![[Auslegung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auslegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auslegung&language=de)
 
 **Meaning:** interpretation
 **Plural:** Auslegungen

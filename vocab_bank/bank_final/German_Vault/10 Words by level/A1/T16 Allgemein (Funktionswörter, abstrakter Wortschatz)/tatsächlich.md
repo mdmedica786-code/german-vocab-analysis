@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 7a"
 freq_rank: 373
 skip: false
+audio: "tatsächlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # tatsächlich
+
+![[tatsächlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tats%C3%A4chlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tats%C3%A4chlich&language=de)
 
 **Meaning:** actually
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B2685"
 netzwerk: "A2 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "Magenschmerzen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Magenschmerzen
+
+![[Magenschmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Magenschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magenschmerzen&language=de)
 
 **Meaning:** stomach ache
 **Plural:** (Pl.)

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 7a"
 freq_rank: 531
 skip: false
+audio: "trotz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # trotz
+
+![[trotz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trotz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trotz&language=de)
 
 **Meaning:** despite
 **Case:** + Gen.

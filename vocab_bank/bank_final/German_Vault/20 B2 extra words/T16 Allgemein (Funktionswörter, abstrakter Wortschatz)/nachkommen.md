@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2915"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "nachkommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachkommen
+
+![[nachkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachkommen&language=de)
 
 **Meaning:** to comply with; to follow later
 **Forms:** kommt nach · kam nach · ist nachgekommen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5317"
 freq_rank: 1393
 skip: false
+audio: "Norm.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Norm
+
+![[Norm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Norm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Norm&language=de)
 
 **Meaning:** norm; standard
 **Plural:** Normen

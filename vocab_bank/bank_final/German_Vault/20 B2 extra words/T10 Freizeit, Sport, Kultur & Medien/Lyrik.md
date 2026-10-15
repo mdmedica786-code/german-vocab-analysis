@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3530"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Lyrik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lyrik
+
+![[Lyrik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lyrik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lyrik&language=de)
 
 **Meaning:** poetry; lyric poetry
 **Plural:** –

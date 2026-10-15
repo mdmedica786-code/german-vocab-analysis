@@ -15,11 +15,16 @@ id: "B2455"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Medizinerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Medizinerin
+
+![[Medizinerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medizinerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizinerin&language=de)
 
 **Meaning:** doctor (f); physician (f)
 **Plural:** Medizinerinnen

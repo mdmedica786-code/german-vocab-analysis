@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3179"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vollendung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vollendung
+
+![[Vollendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollendung&language=de)
 
 **Meaning:** completion; perfection
 **Plural:** –

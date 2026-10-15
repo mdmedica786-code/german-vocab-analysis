@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 4b"
 freq_rank: 858
 skip: false
+audio: "Reaktion.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reaktion
+
+![[Reaktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reaktion&language=de)
 
 **Meaning:** reaction
 **Plural:** Reaktionen

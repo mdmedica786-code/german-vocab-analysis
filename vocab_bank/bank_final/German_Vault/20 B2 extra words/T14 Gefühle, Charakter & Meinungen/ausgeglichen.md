@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1543"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "ausgeglichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgeglichen
+
+![[ausgeglichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgeglichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgeglichen&language=de)
 
 **Meaning:** balanced; even-tempered
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

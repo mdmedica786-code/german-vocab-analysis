@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0447"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Freiberufler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Freiberufler
+
+![[Freiberufler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freiberufler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiberufler&language=de)
 
 **Meaning:** freelancer; self-employed professional
 **Plural:** Freiberufler

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2491"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Herrschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Herrschaft
+
+![[Herrschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herrschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herrschaft&language=de)
 
 **Meaning:** rule; dominion
 **Plural:** Herrschaften

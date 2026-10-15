@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1401"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kundenkarte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kundenkarte
+
+![[Kundenkarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kundenkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundenkarte&language=de)
 
 **Meaning:** loyalty card; customer card
 **Plural:** Kundenkarten

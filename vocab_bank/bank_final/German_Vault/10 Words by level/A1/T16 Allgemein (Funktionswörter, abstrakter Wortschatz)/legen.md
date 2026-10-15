@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K10 5c"
 freq_rank: 198
 skip: false
+audio: "legen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # legen
+
+![[legen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/legen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=legen&language=de)
 
 **Meaning:** to lay; to put (down)
 **Other senses:** sich legen: to lie down

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3a"
 freq_rank: 2862
 skip: false
+audio: "rasen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rasen
+
+![[rasen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rasen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rasen&language=de)
 
 **Meaning:** to speed; to race
 **Forms:** rast · raste · ist gerast

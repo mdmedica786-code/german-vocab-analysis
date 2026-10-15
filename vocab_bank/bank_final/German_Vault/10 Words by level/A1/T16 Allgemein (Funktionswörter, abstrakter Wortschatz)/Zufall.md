@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 5c"
 freq_rank: 2149
 skip: false
+audio: "Zufall.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zufall
+
+![[Zufall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zufall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zufall&language=de)
 
 **Meaning:** coincidence
 **Plural:** Zufälle

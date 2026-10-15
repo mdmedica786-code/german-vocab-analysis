@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2492"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gewaltig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewaltig
+
+![[gewaltig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gewaltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gewaltig&language=de)
 
 **Meaning:** huge; mighty; tremendous
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

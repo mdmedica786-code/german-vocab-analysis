@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Schiff
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schiff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schiff&language=de)
+
 **Meaning:** ship
 **Plural:** Schiffe
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

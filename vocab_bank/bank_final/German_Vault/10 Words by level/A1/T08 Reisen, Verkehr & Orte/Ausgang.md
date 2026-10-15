@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 2418
 skip: false
+audio: "Ausgang.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausgang
+
+![[Ausgang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgang&language=de)
 
 **Meaning:** exit
 **Plural:** Ausgänge

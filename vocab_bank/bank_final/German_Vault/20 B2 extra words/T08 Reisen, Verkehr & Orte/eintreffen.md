@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2832"
 exam_use: ["Hören", "Schreiben"]
 skip: false
+audio: "eintreffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Hören", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # eintreffen
+
+![[eintreffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eintreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eintreffen&language=de)
 
 **Meaning:** to arrive; to come true
 **Forms:** trifft ein · traf ein · ist eingetroffen

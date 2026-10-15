@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3953"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Förderwerk
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%B6rderwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%B6rderwerk&language=de)
 
 **Meaning:** funding organisation; scholarship foundation
 **Plural:** Förderwerke

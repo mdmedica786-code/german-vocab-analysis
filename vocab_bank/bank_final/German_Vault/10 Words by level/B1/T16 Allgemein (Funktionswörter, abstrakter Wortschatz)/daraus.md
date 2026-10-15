@@ -11,11 +11,16 @@ bank: "main"
 id: "B5201"
 freq_rank: 704
 skip: false
+audio: "daraus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # daraus
+
+![[daraus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/daraus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=daraus&language=de)
 
 **Meaning:** out of it; from that
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

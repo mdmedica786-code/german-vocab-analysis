@@ -15,11 +15,16 @@ id: "B5289"
 goethe_level: "B1"
 freq_rank: 1222
 skip: false
+audio: "Änderung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Änderung
+
+![[Änderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%84nderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%84nderung&language=de)
 
 **Meaning:** change; alteration
 **Plural:** Änderungen

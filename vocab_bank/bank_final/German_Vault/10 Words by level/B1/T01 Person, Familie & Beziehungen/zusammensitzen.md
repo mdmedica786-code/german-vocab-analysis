@@ -13,11 +13,16 @@ id: "B3771"
 netzwerk: "B1 K4 6c"
 freq_rank: 5759
 skip: false
+audio: "zusammensitzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammensitzen
+
+![[zusammensitzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammensitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammensitzen&language=de)
 
 **Meaning:** to sit with
 **Forms:** sitzt zusammen · saß zusammen · hat zusammengesessen

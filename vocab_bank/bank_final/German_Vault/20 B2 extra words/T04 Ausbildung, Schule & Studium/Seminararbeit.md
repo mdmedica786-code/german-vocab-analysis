@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0946"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Seminararbeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Seminararbeit
+
+![[Seminararbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seminararbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seminararbeit&language=de)
 
 **Meaning:** seminar paper; term paper
 **Plural:** Seminararbeiten

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # quer
 
+[▶️ YouGlish](https://youglish.com/pronounce/quer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=quer&language=de)
+
 **Meaning:** across
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

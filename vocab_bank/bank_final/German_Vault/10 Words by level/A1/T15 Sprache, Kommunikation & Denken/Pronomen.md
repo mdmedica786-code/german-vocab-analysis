@@ -15,11 +15,16 @@ id: "B0864"
 netzwerk: "A1 K5 10c"
 freq_rank: 5759
 skip: false
+audio: "Pronomen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pronomen
+
+![[Pronomen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pronomen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pronomen&language=de)
 
 **Meaning:** pronoun
 **Plural:** Pronomen

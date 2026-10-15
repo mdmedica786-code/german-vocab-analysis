@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0710"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Lawine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lawine
+
+![[Lawine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lawine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lawine&language=de)
 
 **Meaning:** avalanche
 **Plural:** Lawinen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 6a"
 freq_rank: 955
 skip: false
+audio: "Medien.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Medien
+
+![[Medien.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medien&language=de)
 
 **Meaning:** media
 **Plural:** (Pl.)

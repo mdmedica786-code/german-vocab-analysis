@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4602"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "voranbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # voranbringen
+
+![[voranbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/voranbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=voranbringen&language=de)
 
 **Meaning:** to advance; to move forward; to further
 **Forms:** bringt voran · brachte voran · hat vorangebracht

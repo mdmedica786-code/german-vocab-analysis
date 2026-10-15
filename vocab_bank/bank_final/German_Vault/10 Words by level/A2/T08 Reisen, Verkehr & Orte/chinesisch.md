@@ -12,11 +12,16 @@ id: "B2651"
 netzwerk: "A2 K8 1a"
 freq_rank: 2680
 skip: false
+audio: "chinesisch.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # chinesisch
+
+![[chinesisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/chinesisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chinesisch&language=de)
 
 **Meaning:** Chinese
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

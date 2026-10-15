@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # etwas auf die lange Bank schieben
 
+[▶️ YouGlish](https://youglish.com/pronounce/etwas%20auf%20die%20lange%20Bank%20schieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=etwas%20auf%20die%20lange%20Bank%20schieben&language=de)
+
 **Meaning:** to put something off
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

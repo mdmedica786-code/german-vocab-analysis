@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 10c"
 freq_rank: 154
 skip: false
+audio: "ziehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ziehen
+
+![[ziehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ziehen&language=de)
 
 **Meaning:** to pull; to draw; (ist) to move
 **Forms:** zieht · zog · hat gezogen

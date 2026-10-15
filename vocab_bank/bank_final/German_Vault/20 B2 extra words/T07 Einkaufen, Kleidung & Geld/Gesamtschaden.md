@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3997"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Gesamtschaden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gesamtschaden
+
+![[Gesamtschaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesamtschaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesamtschaden&language=de)
 
 **Meaning:** total damage
 **Plural:** Gesamtschäden

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 785
 skip: false
+audio: "leider.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leider
+
+![[leider.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leider/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leider&language=de)
 
 **Meaning:** unfortunately
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

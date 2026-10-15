@@ -15,11 +15,16 @@ id: "B6048"
 goethe_level: "B1"
 freq_rank: 4093
 skip: false
+audio: "Verlierer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verlierer
+
+![[Verlierer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verlierer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlierer&language=de)
 
 **Meaning:** loser
 **Plural:** Verlierer

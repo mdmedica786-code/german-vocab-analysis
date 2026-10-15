@@ -15,11 +15,16 @@ id: "B2815"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Matte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Matte
+
+![[Matte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Matte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Matte&language=de)
 
 **Meaning:** mat
 **Plural:** Matten

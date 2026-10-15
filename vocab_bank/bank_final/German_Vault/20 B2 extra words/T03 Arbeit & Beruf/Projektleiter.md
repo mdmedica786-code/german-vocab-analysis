@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4331"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Projektleiter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Projektleiter
+
+![[Projektleiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Projektleiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Projektleiter&language=de)
 
 **Meaning:** project manager (male)
 **Plural:** Projektleiter

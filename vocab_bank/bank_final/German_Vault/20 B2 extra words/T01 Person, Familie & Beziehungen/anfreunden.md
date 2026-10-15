@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1192"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "anfreunden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # anfreunden
+
+![[anfreunden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anfreunden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anfreunden&language=de)
 
 **Meaning:** to make friends; to get used to (an idea)
 **Forms:** freundet sich an · freundete sich an · hat sich angefreundet

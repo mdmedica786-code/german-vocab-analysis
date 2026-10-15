@@ -15,11 +15,16 @@ id: "B2575"
 netzwerk: "A2 K7 6a"
 freq_rank: 5759
 skip: false
+audio: "Bordcomputer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bordcomputer
+
+![[Bordcomputer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bordcomputer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bordcomputer&language=de)
 
 **Meaning:** on-board computer
 **Plural:** Bordcomputer

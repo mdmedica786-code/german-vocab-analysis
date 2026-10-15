@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1155"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Macke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Macke
+
+![[Macke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Macke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Macke&language=de)
 
 **Meaning:** quirk; foible (colloquial)
 **Plural:** Macken

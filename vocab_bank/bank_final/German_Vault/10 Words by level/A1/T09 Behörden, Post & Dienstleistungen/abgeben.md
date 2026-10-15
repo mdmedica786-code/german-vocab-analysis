@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 3c"
 freq_rank: 2162
 skip: false
+audio: "abgeben.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abgeben
+
+![[abgeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abgeben&language=de)
 
 **Meaning:** to hand in; to submit; to give
 **Forms:** gibt ab · gab ab · hat abgegeben

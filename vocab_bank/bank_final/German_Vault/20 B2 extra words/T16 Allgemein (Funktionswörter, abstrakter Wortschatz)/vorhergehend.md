@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3563"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "vorhergehend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorhergehend
+
+![[vorhergehend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorhergehend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorhergehend&language=de)
 
 **Meaning:** previous; preceding
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

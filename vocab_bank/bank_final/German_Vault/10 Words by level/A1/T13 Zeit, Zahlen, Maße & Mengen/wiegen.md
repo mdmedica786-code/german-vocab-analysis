@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 4"
 freq_rank: 5759
 skip: false
+audio: "wiegen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wiegen
+
+![[wiegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wiegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wiegen&language=de)
 
 **Meaning:** to weigh
 **Forms:** wiegt · wog · hat gewogen

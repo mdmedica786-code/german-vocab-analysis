@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3621"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "hervorbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hervorbringen
+
+![[hervorbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hervorbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hervorbringen&language=de)
 
 **Meaning:** to produce; to bring forth
 **Forms:** bringt hervor · brachte hervor · hat hervorgebracht

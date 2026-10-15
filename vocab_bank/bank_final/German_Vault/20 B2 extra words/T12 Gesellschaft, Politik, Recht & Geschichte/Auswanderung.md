@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0480"
 exam_use: ["Lesen"]
 skip: false
+audio: "Auswanderung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auswanderung
+
+![[Auswanderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auswanderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswanderung&language=de)
 
 **Meaning:** emigration
 **Plural:** –

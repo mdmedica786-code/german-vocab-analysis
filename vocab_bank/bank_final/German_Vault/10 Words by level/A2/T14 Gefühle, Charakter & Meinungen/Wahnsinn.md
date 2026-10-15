@@ -15,11 +15,16 @@ id: "B2850"
 netzwerk: "A2 K9 3d"
 freq_rank: 3486
 skip: false
+audio: "Wahnsinn.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wahnsinn
+
+![[Wahnsinn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahnsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahnsinn&language=de)
 
 **Meaning:** madness; insanity; (colloquial) awesome, crazy
 **Plural:** –

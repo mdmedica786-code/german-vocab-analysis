@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 1 ÜB"
 freq_rank: 4099
 skip: false
+audio: "Ampel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ampel
+
+![[Ampel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ampel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ampel&language=de)
 
 **Meaning:** traffic light
 **Plural:** Ampeln

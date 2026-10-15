@@ -15,11 +15,16 @@ id: "D3699"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
 check: "?plural"
-status: "new"
+audio: "Agens.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Agens
+
+![[Agens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Agens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Agens&language=de)
 
 **Meaning:** agent (grammar: the one who acts)
 **Plural:** Agenzien

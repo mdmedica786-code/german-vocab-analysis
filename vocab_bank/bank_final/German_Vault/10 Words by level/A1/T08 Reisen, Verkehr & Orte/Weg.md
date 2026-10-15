@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Weg
 
+[▶️ YouGlish](https://youglish.com/pronounce/Weg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weg&language=de)
+
 **Meaning:** way
 **Other senses:** path
 **Plural:** Wege

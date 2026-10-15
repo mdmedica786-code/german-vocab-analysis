@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3763"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Autohändlerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Autohändlerin
+
+![[Autohändlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autoh%C3%A4ndlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoh%C3%A4ndlerin&language=de)
 
 **Meaning:** car dealer (female)
 **Plural:** Autohändlerinnen

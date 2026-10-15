@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12a"
 freq_rank: 472
 skip: false
+audio: "nämlich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nämlich
+
+![[nämlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%A4mlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%A4mlich&language=de)
 
 **Meaning:** namely; the thing is; you see
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2a"
 freq_rank: 4421
 skip: false
+audio: "Salat.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Salat
+
+![[Salat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Salat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salat&language=de)
 
 **Meaning:** salad
 **Plural:** Salate

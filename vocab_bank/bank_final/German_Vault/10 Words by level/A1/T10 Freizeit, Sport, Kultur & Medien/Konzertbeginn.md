@@ -15,11 +15,16 @@ id: "B1038"
 netzwerk: "A1 K6 15a"
 freq_rank: 5759
 skip: false
+audio: "Konzertbeginn.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konzertbeginn
+
+![[Konzertbeginn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzertbeginn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzertbeginn&language=de)
 
 **Meaning:** beginning of the concert
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4296"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "performen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # performen
+
+![[performen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/performen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=performen&language=de)
 
 **Meaning:** to perform (on stage); to perform (financially)
 **Forms:** performt · performte · hat performt

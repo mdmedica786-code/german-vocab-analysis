@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Ketchup.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Ketchup
+
+![[Ketchup.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ketchup/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ketchup&language=de)
 
 **Meaning:** ketchup
 **Plural:** Ketchups

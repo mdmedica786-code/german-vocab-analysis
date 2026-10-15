@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 3b"
 freq_rank: 4576
 skip: false
+audio: "Galerie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Galerie
+
+![[Galerie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Galerie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Galerie&language=de)
 
 **Meaning:** gallery
 **Plural:** Galerien

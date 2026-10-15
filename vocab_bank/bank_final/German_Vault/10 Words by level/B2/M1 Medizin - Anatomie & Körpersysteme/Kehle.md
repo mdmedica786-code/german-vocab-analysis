@@ -14,11 +14,16 @@ bank: "main"
 id: "B5634"
 freq_rank: 2611
 skip: false
+audio: "Kehle.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kehle
+
+![[Kehle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kehle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kehle&language=de)
 
 **Meaning:** throat
 **Plural:** Kehlen

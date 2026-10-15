@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Verbteil
 
+[▶️ YouGlish](https://youglish.com/pronounce/Verbteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbteil&language=de)
+
 **Meaning:** part of the verb
 **Plural:** Verbteile
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

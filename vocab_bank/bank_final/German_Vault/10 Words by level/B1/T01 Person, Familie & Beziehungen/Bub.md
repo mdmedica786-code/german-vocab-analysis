@@ -15,11 +15,16 @@ id: "B6386"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Bub.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bub
+
+![[Bub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bub&language=de)
 
 **Meaning:** boy (S. German, Swiss, Austrian)
 **Plural:** Buben

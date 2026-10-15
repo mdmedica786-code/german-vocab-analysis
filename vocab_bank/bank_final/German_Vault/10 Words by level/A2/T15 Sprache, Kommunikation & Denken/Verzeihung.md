@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 3c"
 freq_rank: 5302
 skip: false
+audio: "Verzeihung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verzeihung
+
+![[Verzeihung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verzeihung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verzeihung&language=de)
 
 **Meaning:** pardon; forgiveness (Verzeihung! = Excuse me!)
 **Plural:** –

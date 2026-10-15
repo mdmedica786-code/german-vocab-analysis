@@ -15,11 +15,16 @@ id: "B6134"
 goethe_level: "B1"
 freq_rank: 4552
 skip: false
+audio: "Korridor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Korridor
+
+![[Korridor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korridor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korridor&language=de)
 
 **Meaning:** corridor
 **Plural:** Korridore

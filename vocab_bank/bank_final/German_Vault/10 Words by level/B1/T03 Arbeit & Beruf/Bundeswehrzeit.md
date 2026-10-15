@@ -15,11 +15,16 @@ id: "B3564"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Bundeswehrzeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bundeswehrzeit
+
+![[Bundeswehrzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundeswehrzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundeswehrzeit&language=de)
 
 **Meaning:** time in the armed forces
 **Plural:** Bundeswehrzeiten

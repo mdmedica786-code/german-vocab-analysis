@@ -14,11 +14,16 @@ bank: "main"
 id: "B6104"
 freq_rank: 4371
 skip: false
+audio: "Fragebogen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fragebogen
+
+![[Fragebogen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fragebogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fragebogen&language=de)
 
 **Meaning:** questionnaire
 **Plural:** Fragebögen

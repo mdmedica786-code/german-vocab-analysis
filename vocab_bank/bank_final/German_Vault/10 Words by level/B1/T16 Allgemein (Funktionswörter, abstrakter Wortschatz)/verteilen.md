@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 1503
 skip: false
+audio: "verteilen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verteilen
+
+![[verteilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verteilen&language=de)
 
 **Meaning:** to distribute
 **Forms:** verteilt · verteilte · hat verteilt

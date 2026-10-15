@@ -14,11 +14,16 @@ bank: "main"
 id: "B5365"
 freq_rank: 1626
 skip: false
+audio: "Angelegenheit.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Angelegenheit
+
+![[Angelegenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angelegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angelegenheit&language=de)
 
 **Meaning:** matter; affair
 **Plural:** Angelegenheiten

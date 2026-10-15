@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3068"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Stärkung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stärkung
+
+![[Stärkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/St%C3%A4rkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%A4rkung&language=de)
 
 **Meaning:** strengthening
 **Plural:** Stärkungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1884"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Notunterkunft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Notunterkunft
+
+![[Notunterkunft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notunterkunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notunterkunft&language=de)
 
 **Meaning:** emergency shelter
 **Plural:** Notunterkünfte

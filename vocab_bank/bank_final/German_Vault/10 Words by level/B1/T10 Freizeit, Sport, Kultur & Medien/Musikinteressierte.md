@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # Musikinteressierte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Musikinteressierte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikinteressierte&language=de)
+
 **Meaning:** person interested in music
 **Plural:** Musikinteressierten
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

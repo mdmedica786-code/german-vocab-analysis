@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1760"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Großraumbüro.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Großraumbüro
+
+![[Großraumbüro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fraumb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fraumb%C3%BCro&language=de)
 
 **Meaning:** open-plan office
 **Plural:** Großraumbüros

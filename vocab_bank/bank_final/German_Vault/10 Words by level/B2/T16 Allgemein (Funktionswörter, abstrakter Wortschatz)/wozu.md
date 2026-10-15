@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # wozu
 
+[▶️ YouGlish](https://youglish.com/pronounce/wozu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wozu&language=de)
+
 **Meaning:** what for; why
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

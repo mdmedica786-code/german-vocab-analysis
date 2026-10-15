@@ -12,11 +12,16 @@ id: "B4411"
 netzwerk: "B1 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "unbequem.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unbequem
+
+![[unbequem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unbequem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unbequem&language=de)
 
 **Meaning:** uncomfortable
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

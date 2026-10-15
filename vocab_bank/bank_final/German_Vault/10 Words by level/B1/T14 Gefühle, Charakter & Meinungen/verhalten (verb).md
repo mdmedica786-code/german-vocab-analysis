@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 455
 skip: false
+audio: "Verhalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verhalten
+
+![[Verhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhalten&language=de)
 
 **Meaning:** to behave
 **Forms:** verhält · verhielt · hat verhalten

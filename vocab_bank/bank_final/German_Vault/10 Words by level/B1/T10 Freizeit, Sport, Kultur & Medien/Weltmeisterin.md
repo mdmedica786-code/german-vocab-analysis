@@ -15,11 +15,16 @@ id: "B3612"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Weltmeisterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weltmeisterin
+
+![[Weltmeisterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weltmeisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltmeisterin&language=de)
 
 **Meaning:** world champion (f)
 **Plural:** Weltmeisterinnen

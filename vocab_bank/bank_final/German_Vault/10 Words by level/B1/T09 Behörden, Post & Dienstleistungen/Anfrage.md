@@ -15,11 +15,16 @@ id: "B4805"
 netzwerk: "B1 K10 4b"
 freq_rank: 4884
 skip: false
+audio: "Anfrage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anfrage
+
+![[Anfrage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anfrage&language=de)
 
 **Meaning:** enquiry
 **Plural:** Anfragen

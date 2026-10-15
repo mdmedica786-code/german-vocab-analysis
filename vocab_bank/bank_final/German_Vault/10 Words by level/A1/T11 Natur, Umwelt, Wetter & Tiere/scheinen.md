@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 5a"
 freq_rank: 174
 skip: false
+audio: "scheinen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # scheinen
+
+![[scheinen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/scheinen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheinen&language=de)
 
 **Meaning:** to shine; to seem
 **Forms:** scheint · schien · hat geschienen

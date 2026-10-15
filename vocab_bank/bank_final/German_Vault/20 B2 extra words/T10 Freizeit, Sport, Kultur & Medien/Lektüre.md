@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2867"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Lektüre.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lektüre
+
+![[Lektüre.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lekt%C3%BCre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lekt%C3%BCre&language=de)
 
 **Meaning:** reading; reading matter
 **Plural:** Lektüren

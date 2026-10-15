@@ -15,11 +15,16 @@ id: "B2078"
 netzwerk: "A2 K3 1b"
 freq_rank: 5759
 skip: false
+audio: "Spielekonsole.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spielekonsole
+
+![[Spielekonsole.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielekonsole/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielekonsole&language=de)
 
 **Meaning:** video game console
 **Plural:** Spielekonsolen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4099"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Karies.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Karies
+
+![[Karies.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Karies/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karies&language=de)
 
 **Meaning:** tooth decay; caries
 **Plural:** –

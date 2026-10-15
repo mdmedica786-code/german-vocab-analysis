@@ -15,11 +15,16 @@ id: "B1285"
 netzwerk: "A1 K8 10c"
 freq_rank: 2082
 skip: false
+audio: "Anweisung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anweisung
+
+![[Anweisung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anweisung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anweisung&language=de)
 
 **Meaning:** instruction
 **Plural:** Anweisungen

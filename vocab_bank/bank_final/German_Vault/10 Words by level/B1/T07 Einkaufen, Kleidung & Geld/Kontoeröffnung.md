@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Kontoeröffnung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kontoer%C3%B6ffnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontoer%C3%B6ffnung&language=de)
+
 **Meaning:** account opening
 **Plural:** Kontoeröffnungen
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

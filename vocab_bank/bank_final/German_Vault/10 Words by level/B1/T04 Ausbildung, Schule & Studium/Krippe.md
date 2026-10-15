@@ -15,11 +15,16 @@ id: "B6479"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Krippe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krippe
+
+![[Krippe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krippe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krippe&language=de)
 
 **Meaning:** crèche; nursery
 **Plural:** Krippen

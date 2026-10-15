@@ -15,11 +15,16 @@ id: "B5025"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 5759
 skip: false
+audio: "IBAN.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die IBAN
+
+![[IBAN.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/IBAN/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=IBAN&language=de)
 
 **Meaning:** IBAN
 **Plural:** IBANs

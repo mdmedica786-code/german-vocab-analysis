@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 4a"
 freq_rank: 1316
 skip: false
+audio: "Prüfung.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Prüfung
+
+![[Prüfung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%BCfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%BCfung&language=de)
 
 **Meaning:** test, exam
 **Plural:** Prüfungen

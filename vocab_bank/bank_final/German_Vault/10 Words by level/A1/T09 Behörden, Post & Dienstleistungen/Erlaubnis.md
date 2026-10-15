@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 13b"
 freq_rank: 3249
 skip: false
+audio: "Erlaubnis.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erlaubnis
+
+![[Erlaubnis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erlaubnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erlaubnis&language=de)
 
 **Meaning:** permission
 **Plural:** –

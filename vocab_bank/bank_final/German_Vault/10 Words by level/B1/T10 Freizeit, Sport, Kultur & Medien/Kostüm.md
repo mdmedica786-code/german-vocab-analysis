@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7a ÜB"
 freq_rank: 4706
 skip: false
+audio: "Kostüm.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kostüm
+
+![[Kostüm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kost%C3%BCm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kost%C3%BCm&language=de)
 
 **Meaning:** costume
 **Plural:** Kostüme

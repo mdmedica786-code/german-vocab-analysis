@@ -13,11 +13,16 @@ id: "B0766"
 netzwerk: "A1 K4 11"
 freq_rank: 5759
 skip: false
+audio: "schälen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schälen
+
+![[schälen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4len/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4len&language=de)
 
 **Meaning:** to peel
 **Forms:** schält · schälte · hat geschält

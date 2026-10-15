@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 11b"
 freq_rank: 1252
 skip: false
+audio: "Blatt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Blatt
+
+![[Blatt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blatt&language=de)
 
 **Meaning:** sheet of paper
 **Other senses:** leaf

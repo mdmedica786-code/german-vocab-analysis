@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1050"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Guthaben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Guthaben
+
+![[Guthaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Guthaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Guthaben&language=de)
 
 **Meaning:** credit balance; credit
 **Plural:** Guthaben

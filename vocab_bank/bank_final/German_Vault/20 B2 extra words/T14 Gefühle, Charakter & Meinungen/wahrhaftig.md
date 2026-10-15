@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3108"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "wahrhaftig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # wahrhaftig
+
+![[wahrhaftig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wahrhaftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wahrhaftig&language=de)
 
 **Meaning:** truthful; real; truly
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3836"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # Checkup
+
+[▶️ YouGlish](https://youglish.com/pronounce/Checkup/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Checkup&language=de)
 
 **Meaning:** check-up; medical examination
 **Plural:** Checkups

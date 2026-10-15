@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 13a"
 freq_rank: 774
 skip: false
+audio: "glücklich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # glücklich
+
+![[glücklich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gl%C3%BCcklich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%BCcklich&language=de)
 
 **Meaning:** happy
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

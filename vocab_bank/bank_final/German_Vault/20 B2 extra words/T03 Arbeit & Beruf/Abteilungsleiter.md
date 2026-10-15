@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1762"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Abteilungsleiter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abteilungsleiter
+
+![[Abteilungsleiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abteilungsleiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abteilungsleiter&language=de)
 
 **Meaning:** head of department
 **Plural:** Abteilungsleiter

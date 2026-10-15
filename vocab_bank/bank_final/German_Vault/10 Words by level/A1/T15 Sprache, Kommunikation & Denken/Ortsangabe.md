@@ -15,11 +15,16 @@ id: "B1108"
 netzwerk: "A1 K7 5d"
 freq_rank: 5759
 skip: false
+audio: "Ortsangabe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ortsangabe
+
+![[Ortsangabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ortsangabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ortsangabe&language=de)
 
 **Meaning:** location
 **Plural:** Ortsangaben

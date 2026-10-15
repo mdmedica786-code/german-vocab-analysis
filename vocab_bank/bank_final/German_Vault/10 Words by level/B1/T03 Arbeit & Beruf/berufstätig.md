@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 2b"
 freq_rank: 5759
 skip: false
+audio: "berufstätig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # berufstätig
+
+![[berufstätig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/berufst%C3%A4tig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berufst%C3%A4tig&language=de)
 
 **Meaning:** employed; working
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0546"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Ballungsraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ballungsraum
+
+![[Ballungsraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ballungsraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ballungsraum&language=de)
 
 **Meaning:** conurbation; densely populated area
 **Plural:** Ballungsräume

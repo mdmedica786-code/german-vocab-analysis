@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 7a"
 freq_rank: 2000
 skip: false
+audio: "Lkw.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lkw
+
+![[Lkw.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lkw/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lkw&language=de)
 
 **Meaning:** lorry; truck
 **Plural:** Lkws

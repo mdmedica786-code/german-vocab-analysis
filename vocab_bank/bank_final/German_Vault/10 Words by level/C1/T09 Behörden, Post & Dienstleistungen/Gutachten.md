@@ -14,11 +14,16 @@ bank: "main"
 id: "B5970"
 freq_rank: 3714
 skip: false
+audio: "Gutachten.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gutachten
+
+![[Gutachten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gutachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gutachten&language=de)
 
 **Meaning:** expert opinion; report
 **Plural:** Gutachten

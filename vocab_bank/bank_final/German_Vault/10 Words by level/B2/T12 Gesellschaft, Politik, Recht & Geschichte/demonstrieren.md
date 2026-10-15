@@ -12,11 +12,16 @@ bank: "main"
 id: "B5749"
 freq_rank: 2934
 skip: false
+audio: "demonstrieren.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # demonstrieren
+
+![[demonstrieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/demonstrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demonstrieren&language=de)
 
 **Meaning:** to demonstrate; to protest
 **Forms:** demonstriert · demonstrierte · hat demonstriert

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5913"
 freq_rank: 3473
 skip: false
+audio: "funktional.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # funktional
+
+![[funktional.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/funktional/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=funktional&language=de)
 
 **Meaning:** functional
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

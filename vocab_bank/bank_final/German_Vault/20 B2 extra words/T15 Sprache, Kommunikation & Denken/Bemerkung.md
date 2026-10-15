@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2477"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Bemerkung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bemerkung
+
+![[Bemerkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bemerkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bemerkung&language=de)
 
 **Meaning:** remark; comment
 **Plural:** Bemerkungen

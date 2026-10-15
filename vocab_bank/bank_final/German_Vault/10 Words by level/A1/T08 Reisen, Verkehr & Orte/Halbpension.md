@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "B1 K1 7"
 freq_rank: 5759
 skip: false
+audio: "Halbpension.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Halbpension
+
+![[Halbpension.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Halbpension/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halbpension&language=de)
 
 **Meaning:** half board
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1420"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Tierheim.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tierheim
+
+![[Tierheim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierheim&language=de)
 
 **Meaning:** animal shelter
 **Plural:** Tierheime

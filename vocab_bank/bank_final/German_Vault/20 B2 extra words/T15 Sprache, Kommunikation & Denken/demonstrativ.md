@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3858"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "demonstrativ.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # demonstrativ
+
+![[demonstrativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/demonstrativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=demonstrativ&language=de)
 
 **Meaning:** demonstrative; pointed; ostentatious
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hackfleisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hackfleisch
+
+![[Hackfleisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hackfleisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hackfleisch&language=de)
 
 **Meaning:** ground meat
 **Plural:** –

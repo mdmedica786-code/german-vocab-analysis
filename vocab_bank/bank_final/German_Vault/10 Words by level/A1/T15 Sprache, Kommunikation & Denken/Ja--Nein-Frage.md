@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Ja-/Nein-Frage
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ja-/Nein-Frage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ja-/Nein-Frage&language=de)
+
 **Meaning:** yes-/no-question
 **Plural:** Ja-/Nein-Fragen
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

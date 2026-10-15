@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Sprache bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Sprache%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Sprache%20bringen&language=de)
+
 **Meaning:** to bring up; to raise
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

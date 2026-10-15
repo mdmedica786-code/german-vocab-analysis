@@ -12,11 +12,16 @@ id: "B0093"
 netzwerk: "A1 K1 3b"
 freq_rank: 130
 skip: false
+audio: "welche.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # welche
+
+![[welche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/welche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=welche&language=de)
 
 **Meaning:** which; some
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 11a"
 freq_rank: 97
 skip: false
+audio: "weit.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # weit
+
+![[weit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weit&language=de)
 
 **Meaning:** far; wide; loose
 **Forms:** weiter – am weitesten

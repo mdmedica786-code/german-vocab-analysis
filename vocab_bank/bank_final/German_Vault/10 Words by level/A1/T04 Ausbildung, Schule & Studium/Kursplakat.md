@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kursplakat
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kursplakat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursplakat&language=de)
+
 **Meaning:** course poster
 **Plural:** Kursplakate
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

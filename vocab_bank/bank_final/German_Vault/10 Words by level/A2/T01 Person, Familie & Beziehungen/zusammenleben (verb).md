@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zusammenleben
 
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenleben&language=de)
+
 **Meaning:** to live together
 **Forms:** lebt zusammen · lebte zusammen · hat zusammengelebt
 **Grammar:** separable (zusammen-)

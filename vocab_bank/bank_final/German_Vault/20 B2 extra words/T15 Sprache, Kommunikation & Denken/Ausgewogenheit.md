@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1467"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Ausgewogenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausgewogenheit
+
+![[Ausgewogenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgewogenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgewogenheit&language=de)
 
 **Meaning:** balance; fairness
 **Plural:** –

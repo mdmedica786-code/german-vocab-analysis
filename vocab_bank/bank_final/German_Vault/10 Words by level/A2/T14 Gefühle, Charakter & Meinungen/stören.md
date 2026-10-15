@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 11b"
 freq_rank: 1406
 skip: false
+audio: "stören.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stören
+
+![[stören.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%B6ren&language=de)
 
 **Meaning:** to disturb
 **Forms:** stört · störte · hat gestört

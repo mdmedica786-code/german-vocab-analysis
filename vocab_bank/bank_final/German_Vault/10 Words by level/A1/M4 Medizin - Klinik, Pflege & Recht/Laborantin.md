@@ -15,11 +15,16 @@ id: "B1317"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Laborantin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Laborantin
+
+![[Laborantin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laborantin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laborantin&language=de)
 
 **Meaning:** lab assistant (f)
 **Plural:** Laborantinnen

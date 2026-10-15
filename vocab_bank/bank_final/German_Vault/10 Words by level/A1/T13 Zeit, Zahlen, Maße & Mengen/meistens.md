@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 7a"
 freq_rank: 1629
 skip: false
+audio: "meistens.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # meistens
+
+![[meistens.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/meistens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meistens&language=de)
 
 **Meaning:** mostly
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

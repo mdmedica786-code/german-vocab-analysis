@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4541"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "ungewohnt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ungewohnt
+
+![[ungewohnt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungewohnt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungewohnt&language=de)
 
 **Meaning:** unusual; unaccustomed
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

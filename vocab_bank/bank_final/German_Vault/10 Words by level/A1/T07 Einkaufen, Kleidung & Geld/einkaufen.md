@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2a"
 freq_rank: 4088
 skip: false
+audio: "einkaufen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einkaufen
+
+![[einkaufen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einkaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einkaufen&language=de)
 
 **Meaning:** to shop
 **Forms:** kauft ein · kaufte ein · hat eingekauft

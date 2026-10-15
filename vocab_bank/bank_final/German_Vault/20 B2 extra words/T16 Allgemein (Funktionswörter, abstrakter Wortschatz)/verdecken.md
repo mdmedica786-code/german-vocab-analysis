@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3501"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "verdecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdecken
+
+![[verdecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verdecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdecken&language=de)
 
 **Meaning:** to cover; to hide; to conceal
 **Forms:** verdeckt · verdeckte · hat verdeckt

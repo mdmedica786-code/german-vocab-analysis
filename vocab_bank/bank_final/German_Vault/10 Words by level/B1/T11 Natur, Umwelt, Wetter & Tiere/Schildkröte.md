@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Schildkröte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schildkröte
+
+![[Schildkröte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schildkr%C3%B6te/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schildkr%C3%B6te&language=de)
 
 **Meaning:** turtle
 **Plural:** Schildkröten

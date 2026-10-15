@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 7a"
 freq_rank: 281
 skip: false
+audio: "sozial.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sozial
+
+![[sozial.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sozial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sozial&language=de)
 
 **Meaning:** social
 **Level:** A2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

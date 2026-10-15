@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 12a"
 freq_rank: 1686
 skip: false
+audio: "besorgen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # besorgen
+
+![[besorgen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besorgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besorgen&language=de)
 
 **Meaning:** to get
 **Forms:** besorgt · besorgte · hat besorgt

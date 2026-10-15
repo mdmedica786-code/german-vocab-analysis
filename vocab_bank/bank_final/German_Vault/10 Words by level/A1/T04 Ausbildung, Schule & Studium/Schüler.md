@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Schüler
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%BCler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%BCler&language=de)
+
 **Meaning:** pupil (m)
 **Plural:** Schüler
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

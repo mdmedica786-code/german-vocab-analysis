@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Beschwerde einlegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Beschwerde%20einlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschwerde%20einlegen&language=de)
+
 **Meaning:** to lodge a complaint
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

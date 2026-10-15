@@ -15,11 +15,16 @@ id: "B4203"
 netzwerk: "B1 K6 10b"
 freq_rank: 1518
 skip: false
+audio: "Bezeichnung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bezeichnung
+
+![[Bezeichnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bezeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezeichnung&language=de)
 
 **Meaning:** term
 **Plural:** Bezeichnungen

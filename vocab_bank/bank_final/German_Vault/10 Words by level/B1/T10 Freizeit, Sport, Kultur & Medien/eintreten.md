@@ -13,11 +13,16 @@ id: "B5238"
 goethe_level: "B1"
 freq_rank: 1008
 skip: false
+audio: "eintreten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eintreten
+
+![[eintreten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eintreten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eintreten&language=de)
 
 **Meaning:** to enter; to join
 **Forms:** tritt ein · trat ein · ist eingetreten

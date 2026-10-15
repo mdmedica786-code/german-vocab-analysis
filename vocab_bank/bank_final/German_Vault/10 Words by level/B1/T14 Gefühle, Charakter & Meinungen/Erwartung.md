@@ -15,11 +15,16 @@ id: "B4242"
 netzwerk: "B1 K7 2b"
 freq_rank: 1473
 skip: false
+audio: "Erwartung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erwartung
+
+![[Erwartung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erwartung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erwartung&language=de)
 
 **Meaning:** expectation
 **Plural:** Erwartungen

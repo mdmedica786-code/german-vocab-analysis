@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 495
 skip: false
+audio: "kosten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kosten
+
+![[kosten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kosten&language=de)
 
 **Meaning:** to cost; to taste
 **Forms:** kostet · kostete · hat gekostet

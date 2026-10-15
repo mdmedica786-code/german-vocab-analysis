@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 4436
 skip: false
+audio: "Vertretung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vertretung
+
+![[Vertretung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertretung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertretung&language=de)
 
 **Meaning:** substitute; cover; representation
 **Plural:** Vertretungen

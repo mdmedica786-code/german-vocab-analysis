@@ -12,11 +12,16 @@ id: "B4920"
 netzwerk: "B1 K11 6b"
 freq_rank: 2645
 skip: false
+audio: "konzentriert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # konzentriert
+
+![[konzentriert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konzentriert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konzentriert&language=de)
 
 **Meaning:** concentrated; focused
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Nation
 
+[▶️ YouGlish](https://youglish.com/pronounce/Nation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nation&language=de)
+
 **Meaning:** nation
 **Plural:** Nationen
 **Level:** A2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

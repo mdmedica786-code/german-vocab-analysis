@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2205"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Glühbirne.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Glühbirne
+
+![[Glühbirne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BChbirne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BChbirne&language=de)
 
 **Meaning:** light bulb
 **Plural:** Glühbirnen

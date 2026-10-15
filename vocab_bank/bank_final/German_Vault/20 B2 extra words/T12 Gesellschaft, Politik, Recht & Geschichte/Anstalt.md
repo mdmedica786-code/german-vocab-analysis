@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2714"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Anstalt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anstalt
+
+![[Anstalt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anstalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anstalt&language=de)
 
 **Meaning:** institution
 **Plural:** Anstalten

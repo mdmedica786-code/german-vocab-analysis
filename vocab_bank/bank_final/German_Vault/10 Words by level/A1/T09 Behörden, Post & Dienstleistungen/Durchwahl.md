@@ -15,11 +15,16 @@ id: "B1541"
 netzwerk: "A1 K10 11a"
 freq_rank: 5759
 skip: false
+audio: "Durchwahl.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Durchwahl
+
+![[Durchwahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchwahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchwahl&language=de)
 
 **Meaning:** extension; direct dial
 **Plural:** Durchwahlen

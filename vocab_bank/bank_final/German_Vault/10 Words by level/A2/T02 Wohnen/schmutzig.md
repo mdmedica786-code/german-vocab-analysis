@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 5a"
 freq_rank: 5759
 skip: false
+audio: "schmutzig.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schmutzig
+
+![[schmutzig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schmutzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmutzig&language=de)
 
 **Meaning:** dirty
 **Level:** A2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

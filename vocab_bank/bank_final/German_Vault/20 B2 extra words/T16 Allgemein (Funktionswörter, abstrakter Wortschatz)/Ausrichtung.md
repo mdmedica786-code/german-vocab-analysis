@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2722"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ausrichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausrichtung
+
+![[Ausrichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausrichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausrichtung&language=de)
 
 **Meaning:** orientation; alignment; focus
 **Plural:** Ausrichtungen

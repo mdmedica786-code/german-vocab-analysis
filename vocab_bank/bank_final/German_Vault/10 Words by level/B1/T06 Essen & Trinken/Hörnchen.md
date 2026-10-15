@@ -15,11 +15,16 @@ id: "B4786"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hörnchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hörnchen
+
+![[Hörnchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rnchen&language=de)
 
 **Meaning:** croissant
 **Plural:** Hörnchen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1960"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ameise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ameise
+
+![[Ameise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ameise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ameise&language=de)
 
 **Meaning:** ant
 **Plural:** Ameisen

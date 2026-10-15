@@ -17,11 +17,16 @@ freq_rank: 1227
 skip: true
 skip_reason: "duplicate of B2322 (learn that entry)"
 check: "dup:B2322"
+audio: "Kenntnisse.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kenntnisse
+
+![[Kenntnisse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kenntnisse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kenntnisse&language=de)
 
 **Meaning:** knowledge; skills
 **Plural:** (Pl.)

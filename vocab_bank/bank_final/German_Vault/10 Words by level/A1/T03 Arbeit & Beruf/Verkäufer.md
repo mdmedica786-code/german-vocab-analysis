@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 9a"
 freq_rank: 3364
 skip: false
+audio: "Verkäufer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verkäufer
+
+![[Verkäufer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verk%C3%A4ufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verk%C3%A4ufer&language=de)
 
 **Meaning:** salesperson (m)
 **Plural:** Verkäufer

@@ -12,11 +12,16 @@ id: "B4943"
 netzwerk: "B1 K11 8b"
 freq_rank: 1327
 skip: false
+audio: "gesetzlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gesetzlich
+
+![[gesetzlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gesetzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesetzlich&language=de)
 
 **Meaning:** statutory
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

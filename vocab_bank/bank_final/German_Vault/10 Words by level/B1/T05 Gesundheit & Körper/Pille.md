@@ -15,11 +15,16 @@ id: "B6220"
 goethe_level: "B1"
 freq_rank: 4943
 skip: false
+audio: "Pille.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pille
+
+![[Pille.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pille&language=de)
 
 **Meaning:** pill
 **Plural:** Pillen

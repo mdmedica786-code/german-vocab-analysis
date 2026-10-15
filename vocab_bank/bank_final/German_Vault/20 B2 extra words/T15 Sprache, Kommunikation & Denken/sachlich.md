@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3023"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "sachlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # sachlich
+
+![[sachlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sachlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sachlich&language=de)
 
 **Meaning:** objective; factual
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

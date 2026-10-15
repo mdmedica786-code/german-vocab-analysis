@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4174"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "LED-Lampe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die LED-Lampe
+
+![[LED-Lampe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/LED-Lampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=LED-Lampe&language=de)
 
 **Meaning:** LED lamp
 **Plural:** LED-Lampen

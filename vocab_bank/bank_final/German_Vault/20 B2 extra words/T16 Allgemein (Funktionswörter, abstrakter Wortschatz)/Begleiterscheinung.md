@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1469"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Begleiterscheinung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begleiterscheinung
+
+![[Begleiterscheinung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begleiterscheinung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begleiterscheinung&language=de)
 
 **Meaning:** side effect; accompanying phenomenon
 **Plural:** Begleiterscheinungen

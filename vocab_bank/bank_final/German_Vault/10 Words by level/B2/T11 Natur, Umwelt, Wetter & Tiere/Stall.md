@@ -14,11 +14,16 @@ bank: "main"
 id: "B5950"
 freq_rank: 3605
 skip: false
+audio: "Stall.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stall
+
+![[Stall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stall&language=de)
 
 **Meaning:** stable; barn
 **Plural:** Ställe

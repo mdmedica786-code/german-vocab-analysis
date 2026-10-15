@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 3a"
 freq_rank: 2352
 skip: false
+audio: "einladen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einladen
+
+![[einladen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einladen&language=de)
 
 **Meaning:** to invite
 **Forms:** lädt ein · lud ein · hat eingeladen

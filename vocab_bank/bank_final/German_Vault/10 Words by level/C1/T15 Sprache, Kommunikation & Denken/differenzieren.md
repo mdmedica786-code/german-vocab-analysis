@@ -12,11 +12,16 @@ bank: "main"
 id: "B5596"
 freq_rank: 2464
 skip: false
+audio: "differenzieren.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # differenzieren
+
+![[differenzieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/differenzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=differenzieren&language=de)
 
 **Meaning:** to differentiate
 **Forms:** differenziert · differenzierte · hat differenziert

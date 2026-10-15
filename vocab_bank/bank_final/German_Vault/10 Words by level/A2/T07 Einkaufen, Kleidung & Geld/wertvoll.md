@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 7a"
 freq_rank: 2911
 skip: false
+audio: "wertvoll.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wertvoll
+
+![[wertvoll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wertvoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wertvoll&language=de)
 
 **Meaning:** valuable
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

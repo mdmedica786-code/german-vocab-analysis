@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Pläne schmieden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Pl%C3%A4ne%20schmieden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pl%C3%A4ne%20schmieden&language=de)
+
 **Meaning:** to make plans
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

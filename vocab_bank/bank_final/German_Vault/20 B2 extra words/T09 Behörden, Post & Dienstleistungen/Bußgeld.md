@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1019"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Bußgeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bußgeld
+
+![[Bußgeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bu%C3%9Fgeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bu%C3%9Fgeld&language=de)
 
 **Meaning:** fine (for a minor offence)
 **Plural:** Bußgelder

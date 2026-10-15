@@ -15,11 +15,16 @@ id: "B4556"
 netzwerk: "B1 K9 1b"
 freq_rank: 5759
 skip: false
+audio: "Espressokanne.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Espressokanne
+
+![[Espressokanne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Espressokanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Espressokanne&language=de)
 
 **Meaning:** espresso pot (moka pot)
 **Plural:** Espressokannen

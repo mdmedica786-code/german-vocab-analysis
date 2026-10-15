@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2810"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Nachfolger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachfolger
+
+![[Nachfolger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachfolger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachfolger&language=de)
 
 **Meaning:** successor
 **Plural:** Nachfolger

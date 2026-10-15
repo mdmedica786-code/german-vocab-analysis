@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 9c"
 freq_rank: 1377
 skip: false
+audio: "nachdenken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachdenken
+
+![[nachdenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachdenken&language=de)
 
 **Meaning:** to think (about)
 **Forms:** denkt nach · dachte nach · hat nachgedacht

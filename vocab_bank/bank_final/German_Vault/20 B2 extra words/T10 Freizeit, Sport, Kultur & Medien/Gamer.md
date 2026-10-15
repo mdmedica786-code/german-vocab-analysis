@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3974"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Gamer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gamer
+
+![[Gamer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gamer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamer&language=de)
 
 **Meaning:** gamer
 **Plural:** Gamer

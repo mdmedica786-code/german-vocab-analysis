@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Textanfang
 
+[▶️ YouGlish](https://youglish.com/pronounce/Textanfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textanfang&language=de)
+
 **Meaning:** beginning of the text
 **Plural:** Textanfänge
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

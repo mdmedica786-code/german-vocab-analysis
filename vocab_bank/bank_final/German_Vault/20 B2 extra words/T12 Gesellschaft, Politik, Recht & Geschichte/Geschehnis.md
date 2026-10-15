@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4000"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Geschehnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Geschehnis
+
+![[Geschehnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschehnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschehnis&language=de)
 
 **Meaning:** event; occurrence
 **Plural:** Geschehnisse

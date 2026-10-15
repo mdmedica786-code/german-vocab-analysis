@@ -15,11 +15,16 @@ id: "B2987"
 netzwerk: "A2 K10 7c"
 freq_rank: 1986
 skip: false
+audio: "Zeitraum.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeitraum
+
+![[Zeitraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitraum&language=de)
 
 **Meaning:** period
 **Plural:** Zeiträume

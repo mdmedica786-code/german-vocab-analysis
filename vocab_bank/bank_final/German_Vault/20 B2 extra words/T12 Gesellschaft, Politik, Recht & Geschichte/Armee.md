@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2528"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Armee.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Armee
+
+![[Armee.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Armee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Armee&language=de)
 
 **Meaning:** army
 **Plural:** Armeen

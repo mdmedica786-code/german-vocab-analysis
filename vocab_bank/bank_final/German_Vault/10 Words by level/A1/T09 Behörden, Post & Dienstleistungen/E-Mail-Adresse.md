@@ -15,11 +15,16 @@ id: "B0144"
 netzwerk: "A1 K1 7b"
 freq_rank: 3000
 skip: false
+audio: "E-Mail-Adresse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die E-Mail-Adresse
+
+![[E-Mail-Adresse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/E-Mail-Adresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Mail-Adresse&language=de)
 
 **Meaning:** email address
 **Plural:** E-Mail-Adressen

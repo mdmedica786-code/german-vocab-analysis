@@ -15,11 +15,16 @@ id: "B6151"
 goethe_level: "B1"
 freq_rank: 4639
 skip: false
+audio: "Sieger.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sieger
+
+![[Sieger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sieger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sieger&language=de)
 
 **Meaning:** winner
 **Plural:** Sieger

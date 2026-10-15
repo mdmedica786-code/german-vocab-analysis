@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4256"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Nachthälfte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Nachthälfte
+
+![[Nachthälfte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachth%C3%A4lfte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachth%C3%A4lfte&language=de)
 
 **Meaning:** half of the night
 **Plural:** Nachthälften

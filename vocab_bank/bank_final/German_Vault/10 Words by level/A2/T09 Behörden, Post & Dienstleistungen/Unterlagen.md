@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 2a ÜB"
 freq_rank: 2690
 skip: false
+audio: "Unterlagen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterlagen
+
+![[Unterlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterlagen&language=de)
 
 **Meaning:** documents
 **Plural:** (Pl.)

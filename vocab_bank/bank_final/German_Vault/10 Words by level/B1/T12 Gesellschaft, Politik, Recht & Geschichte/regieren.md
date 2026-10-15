@@ -13,11 +13,16 @@ id: "B5012"
 netzwerk: "B1 K12 1a"
 freq_rank: 4517
 skip: false
+audio: "regieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # regieren
+
+![[regieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/regieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regieren&language=de)
 
 **Meaning:** to rule
 **Forms:** regiert · regierte · hat regiert

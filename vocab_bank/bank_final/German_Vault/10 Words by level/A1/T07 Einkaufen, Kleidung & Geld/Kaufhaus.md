@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 1 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Kaufhaus.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kaufhaus
+
+![[Kaufhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaufhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaufhaus&language=de)
 
 **Meaning:** department store
 **Plural:** Kaufhäuser

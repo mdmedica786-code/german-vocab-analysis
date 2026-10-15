@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 2505
 skip: false
+audio: "einnehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einnehmen
+
+![[einnehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einnehmen&language=de)
 
 **Meaning:** to take
 **Other senses:** to take in

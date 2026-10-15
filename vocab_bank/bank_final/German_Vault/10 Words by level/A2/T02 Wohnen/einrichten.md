@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 2294
 skip: false
+audio: "einrichten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einrichten
+
+![[einrichten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einrichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einrichten&language=de)
 
 **Meaning:** to furnish
 **Forms:** richtet ein · richtete ein · hat eingerichtet

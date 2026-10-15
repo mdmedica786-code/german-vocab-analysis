@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3013"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Abnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abnahme
+
+![[Abnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abnahme&language=de)
 
 **Meaning:** decrease; acceptance (of work)
 **Plural:** Abnahmen

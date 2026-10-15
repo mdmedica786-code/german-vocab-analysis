@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # bei
 
+[▶️ YouGlish](https://youglish.com/pronounce/bei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bei&language=de)
+
 **Meaning:** at
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

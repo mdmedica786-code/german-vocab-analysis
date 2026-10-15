@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0257"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "steigern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # steigern
+
+![[steigern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/steigern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=steigern&language=de)
 
 **Meaning:** to increase; to boost
 **Forms:** steigert · steigerte · hat gesteigert

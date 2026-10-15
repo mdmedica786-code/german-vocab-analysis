@@ -15,11 +15,16 @@ id: "B1288"
 netzwerk: "A1 K8 10c"
 freq_rank: 5759
 skip: false
+audio: "Rückenschmerzen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückenschmerzen
+
+![[Rückenschmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckenschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckenschmerzen&language=de)
 
 **Meaning:** back pain
 **Plural:** (Pl.)

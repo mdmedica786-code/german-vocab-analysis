@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 5759
 skip: false
+audio: "abonnieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abonnieren
+
+![[abonnieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abonnieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abonnieren&language=de)
 
 **Meaning:** to subscribe to sth
 **Forms:** abonniert · abonnierte · hat abonniert

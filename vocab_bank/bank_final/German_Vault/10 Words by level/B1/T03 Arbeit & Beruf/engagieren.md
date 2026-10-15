@@ -13,11 +13,16 @@ id: "B4066"
 netzwerk: "B1 K5 13e"
 freq_rank: 5291
 skip: false
+audio: "engagieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # engagieren
+
+![[engagieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/engagieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=engagieren&language=de)
 
 **Meaning:** to be involved
 **Forms:** engagiert sich · engagierte sich · hat sich engagiert

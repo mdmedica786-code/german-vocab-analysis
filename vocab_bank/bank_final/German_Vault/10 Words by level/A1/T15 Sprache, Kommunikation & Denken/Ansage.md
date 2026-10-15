@@ -15,11 +15,16 @@ id: "B6359"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Ansage.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ansage
+
+![[Ansage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ansage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ansage&language=de)
 
 **Meaning:** announcement
 **Plural:** Ansagen

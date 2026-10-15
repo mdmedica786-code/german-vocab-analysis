@@ -12,11 +12,16 @@ id: "B6407"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "eckig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eckig
+
+![[eckig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eckig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eckig&language=de)
 
 **Meaning:** angular; square
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

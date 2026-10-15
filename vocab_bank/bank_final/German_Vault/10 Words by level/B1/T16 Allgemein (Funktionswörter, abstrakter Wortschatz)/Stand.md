@@ -15,11 +15,16 @@ id: "B3807"
 netzwerk: "B1 K4 8b"
 freq_rank: 4478
 skip: false
+audio: "Stand.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stand
+
+![[Stand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stand&language=de)
 
 **Meaning:** status; state of affairs
 **Plural:** –

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3487"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "endlos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # endlos
+
+![[endlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/endlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=endlos&language=de)
 
 **Meaning:** endless; infinite
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

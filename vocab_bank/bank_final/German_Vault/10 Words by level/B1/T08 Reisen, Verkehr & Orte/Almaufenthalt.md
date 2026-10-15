@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Almaufenthalt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Almaufenthalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Almaufenthalt&language=de)
+
 **Meaning:** visit to an alp
 **Plural:** Almaufenthalte
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

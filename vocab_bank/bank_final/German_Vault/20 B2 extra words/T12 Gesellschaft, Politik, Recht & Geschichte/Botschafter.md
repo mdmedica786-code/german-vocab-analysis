@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3357"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Botschafter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Botschafter
+
+![[Botschafter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Botschafter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Botschafter&language=de)
 
 **Meaning:** ambassador
 **Plural:** Botschafter

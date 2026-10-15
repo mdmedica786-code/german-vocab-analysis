@@ -12,11 +12,16 @@ id: "B5508"
 goethe_level: "B1"
 freq_rank: 2154
 skip: false
+audio: "hinterher.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinterher
+
+![[hinterher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinterher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinterher&language=de)
 
 **Meaning:** afterwards
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

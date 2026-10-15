@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2090"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "nach Strich und Faden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nach Strich und Faden
+
+![[nach Strich und Faden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nach%20Strich%20und%20Faden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nach%20Strich%20und%20Faden&language=de)
 
 **Meaning:** thoroughly (usually negative)
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

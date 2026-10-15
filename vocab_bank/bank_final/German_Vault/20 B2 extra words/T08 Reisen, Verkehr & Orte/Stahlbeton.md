@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4455"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Stahlbeton.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Stahlbeton
+
+![[Stahlbeton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stahlbeton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stahlbeton&language=de)
 
 **Meaning:** reinforced concrete
 **Plural:** –

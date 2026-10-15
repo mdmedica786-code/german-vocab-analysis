@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 7a"
 freq_rank: 5010
 skip: false
+audio: "Kalender.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kalender
+
+![[Kalender.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kalender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kalender&language=de)
 
 **Meaning:** calendar
 **Plural:** Kalender

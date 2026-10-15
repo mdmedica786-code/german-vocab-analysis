@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 7a"
 freq_rank: 4053
 skip: false
+audio: "streiten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # streiten
+
+![[streiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streiten&language=de)
 
 **Meaning:** to argue
 **Forms:** streitet · stritt · hat gestritten

@@ -15,11 +15,16 @@ id: "B6393"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Castingshow.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Castingshow
+
+![[Castingshow.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Castingshow/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Castingshow&language=de)
 
 **Meaning:** casting show
 **Plural:** Castingshows

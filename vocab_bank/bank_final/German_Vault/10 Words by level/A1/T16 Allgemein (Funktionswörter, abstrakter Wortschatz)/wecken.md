@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 7a"
 freq_rank: 1994
 skip: false
+audio: "wecken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wecken
+
+![[wecken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wecken&language=de)
 
 **Meaning:** to wake up
 **Forms:** weckt · weckte · hat geweckt

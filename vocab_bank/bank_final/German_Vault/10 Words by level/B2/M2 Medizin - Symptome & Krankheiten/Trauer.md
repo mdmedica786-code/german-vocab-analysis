@@ -14,11 +14,16 @@ bank: "main"
 id: "B5639"
 freq_rank: 2625
 skip: false
+audio: "Trauer.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Trauer
+
+![[Trauer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trauer&language=de)
 
 **Meaning:** grief; mourning
 **Plural:** –

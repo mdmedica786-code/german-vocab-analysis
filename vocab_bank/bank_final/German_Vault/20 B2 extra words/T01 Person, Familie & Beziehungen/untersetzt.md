@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2359"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "untersetzt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # untersetzt
+
+![[untersetzt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/untersetzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=untersetzt&language=de)
 
 **Meaning:** thickset; stocky
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

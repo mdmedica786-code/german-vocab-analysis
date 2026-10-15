@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0311"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Neigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Neigung
+
+![[Neigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neigung&language=de)
 
 **Meaning:** inclination; tendency; slope
 **Plural:** Neigungen

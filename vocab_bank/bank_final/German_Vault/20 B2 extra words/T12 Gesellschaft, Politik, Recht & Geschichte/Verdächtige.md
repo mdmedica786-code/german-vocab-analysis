@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0514"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Verdächtige.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # Verdächtige
+
+![[Verdächtige.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verd%C3%A4chtige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verd%C3%A4chtige&language=de)
 
 **Meaning:** suspect
 **Plural:** Verdächtigen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5732"
 freq_rank: 2883
 skip: false
+audio: "Ablehnung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ablehnung
+
+![[Ablehnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ablehnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ablehnung&language=de)
 
 **Meaning:** rejection; refusal
 **Plural:** Ablehnungen

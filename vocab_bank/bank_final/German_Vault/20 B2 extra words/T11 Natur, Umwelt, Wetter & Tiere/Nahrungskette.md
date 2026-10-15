@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2031"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Nahrungskette.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nahrungskette
+
+![[Nahrungskette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nahrungskette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nahrungskette&language=de)
 
 **Meaning:** food chain
 **Plural:** Nahrungsketten

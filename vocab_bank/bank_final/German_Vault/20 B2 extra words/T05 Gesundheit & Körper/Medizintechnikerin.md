@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4215"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Medizintechnikerin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Medizintechnikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Medizintechnikerin&language=de)
 
 **Meaning:** medical technician (female); biomedical engineer
 **Plural:** Medizintechnikerinnen

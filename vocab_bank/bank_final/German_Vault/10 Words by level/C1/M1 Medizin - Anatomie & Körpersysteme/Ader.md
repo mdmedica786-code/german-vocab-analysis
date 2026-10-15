@@ -14,11 +14,16 @@ bank: "main"
 id: "B6102"
 freq_rank: 4356
 skip: false
+audio: "Ader.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ader
+
+![[Ader.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ader/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ader&language=de)
 
 **Meaning:** vein; blood vessel
 **Plural:** Adern

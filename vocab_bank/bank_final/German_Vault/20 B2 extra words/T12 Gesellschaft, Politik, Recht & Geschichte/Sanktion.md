@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0558"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Sanktion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sanktion
+
+![[Sanktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sanktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sanktion&language=de)
 
 **Meaning:** sanction
 **Plural:** Sanktionen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0552"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zivilgesellschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zivilgesellschaft
+
+![[Zivilgesellschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zivilgesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zivilgesellschaft&language=de)
 
 **Meaning:** civil society
 **Plural:** –

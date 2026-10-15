@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6a"
 freq_rank: 1525
 skip: false
+audio: "Bauch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bauch
+
+![[Bauch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauch&language=de)
 
 **Meaning:** stomach; belly; abdomen
 **Plural:** Bäuche

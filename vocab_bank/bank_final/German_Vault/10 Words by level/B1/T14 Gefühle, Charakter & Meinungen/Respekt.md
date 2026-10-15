@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1a"
 freq_rank: 2767
 skip: false
+audio: "Respekt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Respekt
+
+![[Respekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Respekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Respekt&language=de)
 
 **Meaning:** respect
 **Plural:** –

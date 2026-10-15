@@ -15,11 +15,16 @@ id: "B6439"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Finnin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Finnin
+
+![[Finnin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Finnin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finnin&language=de)
 
 **Meaning:** Finn (f)
 **Plural:** Finninnen

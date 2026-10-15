@@ -15,11 +15,16 @@ id: "B5358"
 goethe_level: "B1"
 freq_rank: 1619
 skip: false
+audio: "Lager.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lager
+
+![[Lager.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lager/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lager&language=de)
 
 **Meaning:** warehouse; stockroom; camp
 **Plural:** Lager

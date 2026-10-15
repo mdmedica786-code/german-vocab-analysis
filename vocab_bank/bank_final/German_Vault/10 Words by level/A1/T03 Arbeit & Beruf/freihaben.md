@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # freihaben
 
+[▶️ YouGlish](https://youglish.com/pronounce/freihaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freihaben&language=de)
+
 **Meaning:** to have time off; to have a day off
 **Forms:** hat frei · hatte frei · hat freigehabt
 **Grammar:** separable (frei-)

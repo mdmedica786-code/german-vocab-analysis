@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1350"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "sodann.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # sodann
+
+![[sodann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sodann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sodann&language=de)
 
 **Meaning:** then; thereupon
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

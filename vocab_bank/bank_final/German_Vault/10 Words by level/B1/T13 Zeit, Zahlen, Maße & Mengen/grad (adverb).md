@@ -12,11 +12,16 @@ id: "B4172"
 netzwerk: "B1 K6 9c"
 freq_rank: 452
 skip: false
+audio: "Grad.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # grad
+
+![[Grad.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/grad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grad&language=de)
 
 **Meaning:** just; at the moment
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** colloquial

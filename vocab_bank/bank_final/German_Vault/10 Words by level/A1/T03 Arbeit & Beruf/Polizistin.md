@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Polizistin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Polizistin
+
+![[Polizistin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Polizistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polizistin&language=de)
 
 **Meaning:** police officer (f)
 **Plural:** Polizistinnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1106"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Antragsteller.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Antragsteller
+
+![[Antragsteller.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Antragsteller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antragsteller&language=de)
 
 **Meaning:** applicant
 **Plural:** Antragsteller

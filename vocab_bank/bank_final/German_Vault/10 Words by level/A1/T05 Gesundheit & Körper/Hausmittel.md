@@ -15,11 +15,16 @@ id: "B1301"
 netzwerk: "A1 K8 12b"
 freq_rank: 5759
 skip: false
+audio: "Hausmittel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hausmittel
+
+![[Hausmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausmittel&language=de)
 
 **Meaning:** home remedy
 **Plural:** Hausmittel

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0109"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "zu Wort kommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zu Wort kommen
+
+![[zu Wort kommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zu%20Wort%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu%20Wort%20kommen&language=de)
 
 **Meaning:** to get a chance to speak
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

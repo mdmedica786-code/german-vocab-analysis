@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Coversong
 
+[▶️ YouGlish](https://youglish.com/pronounce/Coversong/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coversong&language=de)
+
 **Meaning:** cover song
 **Plural:** Coversongs
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

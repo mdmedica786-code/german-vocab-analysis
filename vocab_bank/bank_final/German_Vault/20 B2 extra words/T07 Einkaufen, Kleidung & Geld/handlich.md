@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2306"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "handlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # handlich
+
+![[handlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/handlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=handlich&language=de)
 
 **Meaning:** handy; easy to handle
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

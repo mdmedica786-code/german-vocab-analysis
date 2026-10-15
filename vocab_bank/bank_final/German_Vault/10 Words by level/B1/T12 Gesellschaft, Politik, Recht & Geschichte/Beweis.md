@@ -15,11 +15,16 @@ id: "B5333"
 goethe_level: "B1"
 freq_rank: 1469
 skip: false
+audio: "Beweis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beweis
+
+![[Beweis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beweis&language=de)
 
 **Meaning:** proof; evidence
 **Plural:** Beweise

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kinderabteil
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderabteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderabteil&language=de)
+
 **Meaning:** children's compartment
 **Plural:** Kinderabteile
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

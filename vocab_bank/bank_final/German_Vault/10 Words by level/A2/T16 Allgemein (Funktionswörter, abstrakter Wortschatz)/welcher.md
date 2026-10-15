@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # welcher
 
+[▶️ YouGlish](https://youglish.com/pronounce/welcher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=welcher&language=de)
+
 **Meaning:** which
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

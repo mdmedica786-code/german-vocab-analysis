@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3328"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Fertigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fertigkeit
+
+![[Fertigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fertigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fertigkeit&language=de)
 
 **Meaning:** skill; proficiency
 **Plural:** Fertigkeiten

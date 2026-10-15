@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3404"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Identifizierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Identifizierung
+
+![[Identifizierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Identifizierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Identifizierung&language=de)
 
 **Meaning:** identification
 **Plural:** Identifizierungen

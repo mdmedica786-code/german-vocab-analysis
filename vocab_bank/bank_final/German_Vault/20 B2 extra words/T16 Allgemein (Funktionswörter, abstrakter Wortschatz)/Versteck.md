@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3026"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Versteck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Versteck
+
+![[Versteck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versteck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versteck&language=de)
 
 **Meaning:** hiding place
 **Plural:** Verstecke

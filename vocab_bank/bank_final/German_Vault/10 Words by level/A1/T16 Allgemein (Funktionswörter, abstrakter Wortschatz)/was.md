@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # was
 
+[▶️ YouGlish](https://youglish.com/pronounce/was/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=was&language=de)
+
 **Meaning:** what?
 **Other senses:** something
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

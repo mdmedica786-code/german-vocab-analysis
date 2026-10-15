@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Werbeanzeige
 
+[▶️ YouGlish](https://youglish.com/pronounce/Werbeanzeige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbeanzeige&language=de)
+
 **Meaning:** advertisement
 **Plural:** Werbeanzeigen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B6528"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Profisportler.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Profisportler
+
+![[Profisportler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Profisportler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Profisportler&language=de)
 
 **Meaning:** professional athlete (m)
 **Plural:** Profisportler

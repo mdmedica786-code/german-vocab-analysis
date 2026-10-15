@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Magazinbericht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Magazinbericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magazinbericht&language=de)
+
 **Meaning:** magazine report
 **Plural:** Magazinberichte
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B6019"
 goethe_level: "B1"
 freq_rank: 3970
 skip: false
+audio: "wetten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wetten
+
+![[wetten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wetten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wetten&language=de)
 
 **Meaning:** to bet
 **Forms:** wettet · wettete · hat gewettet

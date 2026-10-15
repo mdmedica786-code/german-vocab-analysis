@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Kontakt treten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Kontakt%20treten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Kontakt%20treten&language=de)
+
 **Meaning:** to get in touch; to make contact
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

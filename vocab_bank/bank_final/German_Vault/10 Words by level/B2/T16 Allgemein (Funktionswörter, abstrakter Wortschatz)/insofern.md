@@ -11,11 +11,16 @@ bank: "main"
 id: "B5305"
 freq_rank: 1329
 skip: false
+audio: "insofern.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # insofern
+
+![[insofern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/insofern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=insofern&language=de)
 
 **Meaning:** in this respect; to that extent
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

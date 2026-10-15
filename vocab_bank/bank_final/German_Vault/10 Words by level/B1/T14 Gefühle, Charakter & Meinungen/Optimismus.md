@@ -15,11 +15,16 @@ id: "B3598"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Optimismus.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Optimismus
+
+![[Optimismus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Optimismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Optimismus&language=de)
 
 **Meaning:** optimism
 **Plural:** –

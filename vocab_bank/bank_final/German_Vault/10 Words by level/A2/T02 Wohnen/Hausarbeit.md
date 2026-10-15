@@ -15,11 +15,16 @@ id: "B2512"
 netzwerk: "A2 K6 13b"
 freq_rank: 5456
 skip: false
+audio: "Hausarbeit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausarbeit
+
+![[Hausarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausarbeit&language=de)
 
 **Meaning:** housework; term paper
 **Plural:** Hausarbeiten

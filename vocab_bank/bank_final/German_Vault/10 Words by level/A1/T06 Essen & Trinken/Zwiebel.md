@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 11"
 freq_rank: 3696
 skip: false
+audio: "Zwiebel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zwiebel
+
+![[Zwiebel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwiebel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwiebel&language=de)
 
 **Meaning:** onion
 **Plural:** Zwiebeln

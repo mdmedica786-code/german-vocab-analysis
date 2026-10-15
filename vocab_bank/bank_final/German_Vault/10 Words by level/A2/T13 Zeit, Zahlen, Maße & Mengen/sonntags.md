@@ -12,11 +12,16 @@ id: "B6040"
 goethe_level: "A2"
 freq_rank: 4061
 skip: false
+audio: "sonntags.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sonntags
+
+![[sonntags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sonntags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sonntags&language=de)
 
 **Meaning:** on Sundays
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

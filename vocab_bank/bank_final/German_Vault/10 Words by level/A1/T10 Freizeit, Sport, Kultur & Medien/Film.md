@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 9a"
 freq_rank: 1028
 skip: false
+audio: "Film.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Film
+
+![[Film.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Film/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Film&language=de)
 
 **Meaning:** film
 **Plural:** Filme

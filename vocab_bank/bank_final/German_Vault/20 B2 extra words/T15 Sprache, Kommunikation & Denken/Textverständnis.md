@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0976"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Textverständnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Textverständnis
+
+![[Textverständnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Textverst%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textverst%C3%A4ndnis&language=de)
 
 **Meaning:** text comprehension
 **Plural:** –

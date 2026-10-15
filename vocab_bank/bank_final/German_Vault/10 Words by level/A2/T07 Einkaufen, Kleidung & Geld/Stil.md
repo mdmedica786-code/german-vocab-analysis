@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12b"
 freq_rank: 2362
 skip: false
+audio: "Stil.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stil
+
+![[Stil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stil&language=de)
 
 **Meaning:** style
 **Plural:** Stile

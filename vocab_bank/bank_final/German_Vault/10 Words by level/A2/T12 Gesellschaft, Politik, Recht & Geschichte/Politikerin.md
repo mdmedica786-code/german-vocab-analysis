@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 5112
 skip: false
+audio: "Politikerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Politikerin
+
+![[Politikerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Politikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politikerin&language=de)
 
 **Meaning:** politician (f)
 **Plural:** Politikerinnen

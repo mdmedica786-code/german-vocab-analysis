@@ -14,11 +14,16 @@ bank: "main"
 id: "B5589"
 freq_rank: 2436
 skip: false
+audio: "Psychologie.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Psychologie
+
+![[Psychologie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Psychologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychologie&language=de)
 
 **Meaning:** psychology
 **Plural:** –

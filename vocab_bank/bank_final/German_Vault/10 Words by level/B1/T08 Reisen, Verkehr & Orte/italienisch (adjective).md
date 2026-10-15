@@ -12,11 +12,16 @@ id: "B3501"
 netzwerk: "B1 K2 11"
 freq_rank: 2286
 skip: false
+audio: "italienisch.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # italienisch
+
+![[italienisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/italienisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=italienisch&language=de)
 
 **Meaning:** Italian
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

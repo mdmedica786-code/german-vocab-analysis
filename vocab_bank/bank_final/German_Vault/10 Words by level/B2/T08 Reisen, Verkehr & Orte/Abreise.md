@@ -14,11 +14,16 @@ bank: "main"
 id: "B6096"
 freq_rank: 4330
 skip: false
+audio: "Abreise.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abreise
+
+![[Abreise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abreise&language=de)
 
 **Meaning:** departure
 **Plural:** Abreisen

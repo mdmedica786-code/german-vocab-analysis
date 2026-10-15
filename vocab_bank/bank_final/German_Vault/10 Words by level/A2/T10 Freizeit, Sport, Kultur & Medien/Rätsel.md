@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K8 1a"
 freq_rank: 3532
 skip: false
+audio: "Rätsel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Rätsel
+
+![[Rätsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%A4tsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%A4tsel&language=de)
 
 **Meaning:** riddle
 **Plural:** Rätsel

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Japanisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Japanisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Japanisch&language=de)
+
 **Meaning:** Japanese
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 5515
 skip: false
+audio: "Schere.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schere
+
+![[Schere.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schere&language=de)
 
 **Meaning:** scissors
 **Plural:** Scheren

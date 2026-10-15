@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 568
 skip: false
+audio: "sorgen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sorgen
+
+![[sorgen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sorgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sorgen&language=de)
 
 **Meaning:** to see to (sorgen für); to ensure
 **Forms:** sorgt · sorgte · hat gesorgt

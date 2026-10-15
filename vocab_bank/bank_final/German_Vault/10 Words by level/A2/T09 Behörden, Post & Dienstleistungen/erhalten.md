@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 288
 skip: false
+audio: "erhalten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erhalten
+
+![[erhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erhalten&language=de)
 
 **Meaning:** to receive
 **Forms:** erhält · erhielt · hat erhalten

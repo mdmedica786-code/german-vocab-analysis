@@ -13,11 +13,16 @@ id: "B6505"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "nachschlagen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachschlagen
+
+![[nachschlagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachschlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachschlagen&language=de)
 
 **Meaning:** to look up
 **Forms:** schlägt nach · schlug nach · hat nachgeschlagen

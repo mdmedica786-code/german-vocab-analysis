@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4461"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "stehenbleiben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # stehenbleiben
+
+![[stehenbleiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stehenbleiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stehenbleiben&language=de)
 
 **Meaning:** to stop; to remain standing
 **Forms:** bleibt stehen · blieb stehen · ist stehengeblieben

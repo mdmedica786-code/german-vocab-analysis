@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 9a"
 freq_rank: 2645
 skip: false
+audio: "Orchester.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Orchester
+
+![[Orchester.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Orchester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orchester&language=de)
 
 **Meaning:** orchestra
 **Plural:** Orchester

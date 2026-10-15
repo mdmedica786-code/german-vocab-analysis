@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4470"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Systembiologie
+
+[▶️ YouGlish](https://youglish.com/pronounce/Systembiologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Systembiologie&language=de)
 
 **Meaning:** systems biology
 **Plural:** –

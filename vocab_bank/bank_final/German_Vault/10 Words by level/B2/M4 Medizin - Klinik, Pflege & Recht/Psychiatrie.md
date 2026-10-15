@@ -14,11 +14,16 @@ bank: "main"
 id: "B6157"
 freq_rank: 4674
 skip: false
+audio: "Psychiatrie.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Psychiatrie
+
+![[Psychiatrie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Psychiatrie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychiatrie&language=de)
 
 **Meaning:** psychiatry
 **Plural:** Psychiatrien

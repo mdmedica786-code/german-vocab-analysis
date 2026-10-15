@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2551"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Übergang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Übergang
+
+![[Übergang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbergang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbergang&language=de)
 
 **Meaning:** transition; crossing
 **Plural:** Übergänge

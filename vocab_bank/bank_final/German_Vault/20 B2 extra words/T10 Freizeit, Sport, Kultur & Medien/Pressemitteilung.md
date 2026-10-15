@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0613"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Pressemitteilung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pressemitteilung
+
+![[Pressemitteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pressemitteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pressemitteilung&language=de)
 
 **Meaning:** press release
 **Plural:** Pressemitteilungen

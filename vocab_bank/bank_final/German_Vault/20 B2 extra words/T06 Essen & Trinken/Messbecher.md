@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2271"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Messbecher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Messbecher
+
+![[Messbecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Messbecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messbecher&language=de)
 
 **Meaning:** measuring jug
 **Plural:** Messbecher

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0390"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Vernunft.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vernunft
+
+![[Vernunft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vernunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vernunft&language=de)
 
 **Meaning:** reason; common sense
 **Plural:** –

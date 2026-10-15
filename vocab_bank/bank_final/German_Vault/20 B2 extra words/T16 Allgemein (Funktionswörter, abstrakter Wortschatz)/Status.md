@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2502"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Status.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Status
+
+![[Status.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Status/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Status&language=de)
 
 **Meaning:** status
 **Plural:** Status

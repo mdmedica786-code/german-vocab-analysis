@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 1830
 skip: false
+audio: "Student.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Student
+
+![[Student.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Student/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Student&language=de)
 
 **Meaning:** student (m)
 **Plural:** Studenten

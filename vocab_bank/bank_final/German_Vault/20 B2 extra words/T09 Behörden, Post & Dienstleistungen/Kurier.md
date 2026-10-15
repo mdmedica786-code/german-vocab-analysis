@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1745"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Kurier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kurier
+
+![[Kurier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurier&language=de)
 
 **Meaning:** courier
 **Plural:** Kuriere

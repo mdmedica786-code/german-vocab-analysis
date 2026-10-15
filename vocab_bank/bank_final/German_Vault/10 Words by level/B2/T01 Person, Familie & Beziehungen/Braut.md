@@ -14,11 +14,16 @@ bank: "main"
 id: "B5899"
 freq_rank: 3403
 skip: false
+audio: "Braut.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Braut
+
+![[Braut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Braut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Braut&language=de)
 
 **Meaning:** bride
 **Plural:** Bräute

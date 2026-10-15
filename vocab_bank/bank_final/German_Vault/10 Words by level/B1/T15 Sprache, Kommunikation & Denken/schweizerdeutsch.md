@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # schweizerdeutsch
 
+[▶️ YouGlish](https://youglish.com/pronounce/schweizerdeutsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schweizerdeutsch&language=de)
+
 **Meaning:** Swiss German
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** regional
 

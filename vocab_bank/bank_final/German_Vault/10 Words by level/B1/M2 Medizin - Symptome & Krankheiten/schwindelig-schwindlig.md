@@ -12,11 +12,16 @@ id: "B4410"
 netzwerk: "B1 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "schwindelig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwindelig/schwindlig
+
+![[schwindelig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwindelig/schwindlig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwindelig/schwindlig&language=de)
 
 **Meaning:** dizzy
 **Level:** B1 · **Topic:** [[M2 Medizin - Symptome & Krankheiten]] · **Register:** neutral

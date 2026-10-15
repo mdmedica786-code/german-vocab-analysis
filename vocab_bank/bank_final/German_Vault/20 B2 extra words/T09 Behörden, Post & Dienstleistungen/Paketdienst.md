@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1115"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Paketdienst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Paketdienst
+
+![[Paketdienst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Paketdienst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paketdienst&language=de)
 
 **Meaning:** parcel service
 **Plural:** Paketdienste

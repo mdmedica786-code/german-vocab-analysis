@@ -14,11 +14,16 @@ bank: "main"
 id: "B5352"
 freq_rank: 1578
 skip: false
+audio: "Symptom.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Symptom
+
+![[Symptom.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Symptom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Symptom&language=de)
 
 **Meaning:** symptom
 **Plural:** Symptome

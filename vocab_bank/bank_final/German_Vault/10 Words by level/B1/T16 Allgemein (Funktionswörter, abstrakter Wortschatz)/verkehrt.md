@@ -12,11 +12,16 @@ id: "B3696"
 netzwerk: "B1 K3 10b"
 freq_rank: 3534
 skip: false
+audio: "verkehrt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verkehrt
+
+![[verkehrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verkehrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verkehrt&language=de)
 
 **Meaning:** wrong; the wrong way round
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

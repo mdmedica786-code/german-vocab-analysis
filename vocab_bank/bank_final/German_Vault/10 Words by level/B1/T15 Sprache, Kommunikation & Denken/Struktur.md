@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 9b"
 freq_rank: 658
 skip: false
+audio: "Struktur.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Struktur
+
+![[Struktur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Struktur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Struktur&language=de)
 
 **Meaning:** structure
 **Plural:** Strukturen

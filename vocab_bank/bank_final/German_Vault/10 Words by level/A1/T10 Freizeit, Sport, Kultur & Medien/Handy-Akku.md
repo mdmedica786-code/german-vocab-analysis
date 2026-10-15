@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Handy-Akku
 
+[▶️ YouGlish](https://youglish.com/pronounce/Handy-Akku/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handy-Akku&language=de)
+
 **Meaning:** phone battery
 **Plural:** Handy-Akkus
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

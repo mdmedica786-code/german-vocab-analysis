@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 1917
 skip: false
+audio: "komplett.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # komplett
+
+![[komplett.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/komplett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=komplett&language=de)
 
 **Meaning:** complete
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

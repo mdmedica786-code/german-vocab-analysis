@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1391"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Abfluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abfluss
+
+![[Abfluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abfluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfluss&language=de)
 
 **Meaning:** drain; outflow
 **Plural:** Abflüsse

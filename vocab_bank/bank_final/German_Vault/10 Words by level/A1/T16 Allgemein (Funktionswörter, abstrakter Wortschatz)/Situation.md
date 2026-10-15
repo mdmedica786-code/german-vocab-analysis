@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 2b"
 freq_rank: 417
 skip: false
+audio: "Situation.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Situation
+
+![[Situation.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Situation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Situation&language=de)
 
 **Meaning:** situation
 **Plural:** Situationen

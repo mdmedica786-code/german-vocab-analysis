@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4295"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Pendlerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Pendlerin
+
+![[Pendlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pendlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pendlerin&language=de)
 
 **Meaning:** commuter (female)
 **Plural:** Pendlerinnen

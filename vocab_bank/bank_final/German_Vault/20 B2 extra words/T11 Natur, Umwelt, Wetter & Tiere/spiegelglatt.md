@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2329"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "spiegelglatt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # spiegelglatt
+
+![[spiegelglatt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spiegelglatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spiegelglatt&language=de)
 
 **Meaning:** smooth as glass; icy
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

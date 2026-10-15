@@ -14,11 +14,16 @@ bank: "main"
 id: "B5190"
 freq_rank: 642
 skip: false
+audio: "Anwendung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anwendung
+
+![[Anwendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anwendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anwendung&language=de)
 
 **Meaning:** application; use
 **Plural:** Anwendungen

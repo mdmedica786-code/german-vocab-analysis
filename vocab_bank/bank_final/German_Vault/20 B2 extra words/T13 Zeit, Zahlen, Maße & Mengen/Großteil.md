@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2766"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Großteil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Großteil
+
+![[Großteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fteil&language=de)
 
 **Meaning:** major part; majority
 **Plural:** –

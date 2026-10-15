@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4044"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "hinkommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # hinkommen
+
+![[hinkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinkommen&language=de)
 
 **Meaning:** to get there; to arrive; to work out (colloquial)
 **Forms:** kommt hin · kam hin · ist hingekommen

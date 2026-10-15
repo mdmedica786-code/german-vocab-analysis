@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3239"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "darlegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # darlegen
+
+![[darlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/darlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=darlegen&language=de)
 
 **Meaning:** to explain; to set out; to present
 **Forms:** legt dar · legte dar · hat dargelegt

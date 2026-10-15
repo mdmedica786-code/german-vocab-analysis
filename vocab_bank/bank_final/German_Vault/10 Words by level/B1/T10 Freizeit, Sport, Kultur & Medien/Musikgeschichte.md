@@ -15,11 +15,16 @@ id: "B4310"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "Musikgeschichte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Musikgeschichte
+
+![[Musikgeschichte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgeschichte&language=de)
 
 **Meaning:** history of music
 **Plural:** –

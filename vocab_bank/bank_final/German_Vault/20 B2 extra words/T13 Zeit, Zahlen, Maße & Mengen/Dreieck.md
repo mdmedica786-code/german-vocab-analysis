@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3565"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Dreieck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dreieck
+
+![[Dreieck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dreieck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dreieck&language=de)
 
 **Meaning:** triangle
 **Plural:** Dreiecke

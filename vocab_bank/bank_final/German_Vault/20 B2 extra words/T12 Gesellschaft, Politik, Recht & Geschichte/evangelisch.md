@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3094"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "evangelisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # evangelisch
+
+![[evangelisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/evangelisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=evangelisch&language=de)
 
 **Meaning:** Protestant; Lutheran
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

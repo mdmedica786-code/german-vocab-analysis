@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 453
 skip: false
+audio: "drehen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drehen
+
+![[drehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drehen&language=de)
 
 **Meaning:** to turn
 **Forms:** dreht · drehte · hat gedreht

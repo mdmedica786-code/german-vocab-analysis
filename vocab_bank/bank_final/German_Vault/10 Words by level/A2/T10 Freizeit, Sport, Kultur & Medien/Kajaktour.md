@@ -15,11 +15,16 @@ id: "B3078"
 netzwerk: "A2 K11 9a"
 freq_rank: 5759
 skip: false
+audio: "Kajaktour.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kajaktour
+
+![[Kajaktour.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kajaktour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kajaktour&language=de)
 
 **Meaning:** kayak tour
 **Plural:** Kajaktouren

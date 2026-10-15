@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0670"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Klimaschutz.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klimaschutz
+
+![[Klimaschutz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klimaschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaschutz&language=de)
 
 **Meaning:** climate protection
 **Plural:** –

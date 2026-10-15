@@ -15,11 +15,16 @@ id: "B1735"
 netzwerk: "A1 K12 1b"
 freq_rank: 5547
 skip: false
+audio: "Handschuh.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handschuh
+
+![[Handschuh.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handschuh&language=de)
 
 **Meaning:** glove
 **Plural:** Handschuhe

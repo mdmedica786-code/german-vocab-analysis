@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 3111
 skip: false
+audio: "Ware.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ware
+
+![[Ware.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ware/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ware&language=de)
 
 **Meaning:** goods, merchandise
 **Plural:** Waren

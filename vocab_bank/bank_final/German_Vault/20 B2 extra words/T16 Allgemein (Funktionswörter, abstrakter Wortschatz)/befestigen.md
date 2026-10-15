@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2979"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "befestigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # befestigen
+
+![[befestigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befestigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befestigen&language=de)
 
 **Meaning:** to fasten; to fix; to attach
 **Forms:** befestigt · befestigte · hat befestigt

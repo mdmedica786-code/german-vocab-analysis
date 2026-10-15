@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4368"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Salzstreuer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Salzstreuer
+
+![[Salzstreuer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Salzstreuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salzstreuer&language=de)
 
 **Meaning:** salt shaker
 **Plural:** Salzstreuer

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 2674
 skip: false
+audio: "mitbringen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitbringen
+
+![[mitbringen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitbringen&language=de)
 
 **Meaning:** to bring
 **Forms:** bringt mit · brachte mit · hat mitgebracht

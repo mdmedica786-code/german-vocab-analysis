@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 4b"
 freq_rank: 334
 skip: false
+audio: "Sache.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sache
+
+![[Sache.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sache&language=de)
 
 **Meaning:** thing
 **Plural:** Sachen

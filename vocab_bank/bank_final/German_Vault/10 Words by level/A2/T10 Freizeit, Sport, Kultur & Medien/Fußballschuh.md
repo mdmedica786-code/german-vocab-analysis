@@ -15,11 +15,16 @@ id: "B2812"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Fußballschuh.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußballschuh
+
+![[Fußballschuh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballschuh&language=de)
 
 **Meaning:** football boot
 **Plural:** Fußballschuhe

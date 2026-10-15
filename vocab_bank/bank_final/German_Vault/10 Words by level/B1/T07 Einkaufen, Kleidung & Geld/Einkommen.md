@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 2624
 skip: false
+audio: "Einkommen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Einkommen
+
+![[Einkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einkommen&language=de)
 
 **Meaning:** income
 **Plural:** Einkommen

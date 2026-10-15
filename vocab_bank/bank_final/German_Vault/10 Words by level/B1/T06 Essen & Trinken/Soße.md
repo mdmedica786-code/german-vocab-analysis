@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Soße.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Soße
+
+![[Soße.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/So%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=So%C3%9Fe&language=de)
 
 **Meaning:** sauce
 **Plural:** Soßen

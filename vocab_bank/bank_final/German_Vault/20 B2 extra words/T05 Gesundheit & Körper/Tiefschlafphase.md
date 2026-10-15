@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4492"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Tiefschlafphase
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiefschlafphase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiefschlafphase&language=de)
 
 **Meaning:** deep-sleep phase
 **Plural:** Tiefschlafphasen

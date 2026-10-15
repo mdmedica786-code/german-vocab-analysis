@@ -15,11 +15,16 @@ id: "B2470"
 netzwerk: "A2 K6 8a"
 freq_rank: 5759
 skip: false
+audio: "Altersangabe.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Altersangabe
+
+![[Altersangabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altersangabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altersangabe&language=de)
 
 **Meaning:** age statement
 **Plural:** Altersangaben

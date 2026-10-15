@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2285"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Lineal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lineal
+
+![[Lineal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lineal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lineal&language=de)
 
 **Meaning:** ruler
 **Plural:** Lineale

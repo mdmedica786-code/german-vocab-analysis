@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3659"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Überfall.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Überfall
+
+![[Überfall.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberfall&language=de)
 
 **Meaning:** robbery; attack; raid
 **Plural:** Überfälle

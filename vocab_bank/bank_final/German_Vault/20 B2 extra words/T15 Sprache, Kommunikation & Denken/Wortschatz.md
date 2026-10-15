@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0972"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Wortschatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wortschatz
+
+![[Wortschatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortschatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortschatz&language=de)
 
 **Meaning:** vocabulary
 **Plural:** Wortschätze

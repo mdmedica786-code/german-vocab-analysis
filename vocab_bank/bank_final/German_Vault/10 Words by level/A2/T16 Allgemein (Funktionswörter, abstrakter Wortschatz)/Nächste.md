@@ -15,11 +15,16 @@ id: "B2360"
 netzwerk: "A2 K5 6d"
 freq_rank: 2000
 skip: false
+audio: "Nächste.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Nächste
+
+![[Nächste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/N%C3%A4chste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=N%C3%A4chste&language=de)
 
 **Meaning:** next one
 **Plural:** Nächsten

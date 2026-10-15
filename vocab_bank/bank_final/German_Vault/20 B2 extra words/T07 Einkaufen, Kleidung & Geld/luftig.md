@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2313"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "luftig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # luftig
+
+![[luftig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/luftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=luftig&language=de)
 
 **Meaning:** airy; light
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

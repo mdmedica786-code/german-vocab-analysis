@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 2073
 skip: false
+audio: "Antrag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Antrag
+
+![[Antrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Antrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antrag&language=de)
 
 **Meaning:** application
 **Plural:** Anträge

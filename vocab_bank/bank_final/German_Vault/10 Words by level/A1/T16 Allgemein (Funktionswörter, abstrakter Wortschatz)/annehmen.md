@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 1a"
 freq_rank: 517
 skip: false
+audio: "annehmen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # annehmen
+
+![[annehmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/annehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=annehmen&language=de)
 
 **Meaning:** to accept
 **Forms:** nimmt an · nahm an · hat angenommen

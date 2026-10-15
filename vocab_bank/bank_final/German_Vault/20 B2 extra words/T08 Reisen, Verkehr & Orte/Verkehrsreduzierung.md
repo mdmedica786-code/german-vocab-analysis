@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4580"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verkehrsreduzierung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrsreduzierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsreduzierung&language=de)
 
 **Meaning:** reduction of traffic
 **Plural:** Verkehrsreduzierungen

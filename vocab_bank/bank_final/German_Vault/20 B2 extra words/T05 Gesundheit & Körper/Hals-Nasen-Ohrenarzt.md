@@ -15,11 +15,13 @@ id: "D4026"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
 check: "?Schreibung (Duden: Hals-Nasen-Ohren-Arzt)"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Hals-Nasen-Ohrenarzt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hals-Nasen-Ohrenarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hals-Nasen-Ohrenarzt&language=de)
 
 **Meaning:** ear, nose and throat doctor (male)
 **Plural:** Hals-Nasen-Ohrenärzte

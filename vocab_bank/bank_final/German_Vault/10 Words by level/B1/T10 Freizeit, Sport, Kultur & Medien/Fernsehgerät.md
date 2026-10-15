@@ -15,11 +15,16 @@ id: "B4433"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Fernsehgerät.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fernsehgerät
+
+![[Fernsehgerät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernsehger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernsehger%C3%A4t&language=de)
 
 **Meaning:** television
 **Plural:** Fernsehgeräte

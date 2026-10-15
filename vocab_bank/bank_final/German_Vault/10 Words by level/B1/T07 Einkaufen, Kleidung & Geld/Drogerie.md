@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Drogerie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Drogerie
+
+![[Drogerie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drogerie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drogerie&language=de)
 
 **Meaning:** drug store
 **Plural:** Drogerien

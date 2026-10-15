@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Neue Mittelschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Neue%20Mittelschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neue%20Mittelschule&language=de)
+
 **Meaning:** Austrian lower secondary school (NMS)
 **Plural:** –
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

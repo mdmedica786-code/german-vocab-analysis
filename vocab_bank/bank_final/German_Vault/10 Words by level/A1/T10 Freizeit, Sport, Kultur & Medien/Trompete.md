@@ -15,11 +15,16 @@ id: "B0811"
 netzwerk: "A1 K5 7a"
 freq_rank: 5759
 skip: false
+audio: "Trompete.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Trompete
+
+![[Trompete.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trompete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trompete&language=de)
 
 **Meaning:** trumpet
 **Plural:** Trompeten

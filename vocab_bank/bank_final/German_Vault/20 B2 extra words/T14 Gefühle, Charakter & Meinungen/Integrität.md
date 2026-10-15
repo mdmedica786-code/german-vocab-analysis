@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1498"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Integrität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Integrität
+
+![[Integrität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Integrit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Integrit%C3%A4t&language=de)
 
 **Meaning:** integrity
 **Plural:** –

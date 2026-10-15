@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3673"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Geländer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geländer
+
+![[Geländer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gel%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gel%C3%A4nder&language=de)
 
 **Meaning:** railing; banister
 **Plural:** Geländer

@@ -15,11 +15,16 @@ id: "B1720"
 netzwerk: "A1 K11 12c"
 freq_rank: 4847
 skip: false
+audio: "Öffnungszeiten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Öffnungszeiten
+
+![[Öffnungszeiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96ffnungszeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96ffnungszeiten&language=de)
 
 **Meaning:** opening hours
 **Plural:** (Pl.)

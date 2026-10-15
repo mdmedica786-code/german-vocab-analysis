@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1423"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Welpe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Welpe
+
+![[Welpe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Welpe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Welpe&language=de)
 
 **Meaning:** puppy
 **Plural:** Welpen

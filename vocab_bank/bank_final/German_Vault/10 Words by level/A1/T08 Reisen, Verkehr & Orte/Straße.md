@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 476
 skip: false
+audio: "Straße.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Straße
+
+![[Straße.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stra%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stra%C3%9Fe&language=de)
 
 **Meaning:** street
 **Plural:** Straßen

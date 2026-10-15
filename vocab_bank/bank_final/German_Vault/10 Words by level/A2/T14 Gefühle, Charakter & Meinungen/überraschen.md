@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 5b"
 freq_rank: 1117
 skip: false
+audio: "überraschen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überraschen
+
+![[überraschen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberraschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberraschen&language=de)
 
 **Meaning:** to surprise
 **Forms:** überrascht · überraschte · hat überrascht

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Gesamtschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gesamtschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesamtschule&language=de)
+
 **Meaning:** comprehensive school
 **Plural:** Gesamtschulen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

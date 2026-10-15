@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 7b"
 freq_rank: 4962
 skip: false
+audio: "geradeaus.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # geradeaus
+
+![[geradeaus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geradeaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geradeaus&language=de)
 
 **Meaning:** straight ahead
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # reiten
 
+[▶️ YouGlish](https://youglish.com/pronounce/reiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reiten&language=de)
+
 **Meaning:** horseback riding
 **Forms:** reitet · ritt · ist geritten
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

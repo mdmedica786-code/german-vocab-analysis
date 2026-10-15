@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 1a"
 freq_rank: 1400
 skip: false
+audio: "tauchen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # tauchen
+
+![[tauchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tauchen&language=de)
 
 **Meaning:** to dive
 **Forms:** taucht · tauchte · ist/hat getaucht

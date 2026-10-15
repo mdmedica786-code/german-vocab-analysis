@@ -15,11 +15,16 @@ id: "B4331"
 netzwerk: "B1 K7 12b"
 freq_rank: 5759
 skip: false
+audio: "Fabel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fabel
+
+![[Fabel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fabel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fabel&language=de)
 
 **Meaning:** fable
 **Plural:** Fabeln

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "Postkarte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Postkarte
+
+![[Postkarte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Postkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Postkarte&language=de)
 
 **Meaning:** postcard
 **Plural:** Postkarten

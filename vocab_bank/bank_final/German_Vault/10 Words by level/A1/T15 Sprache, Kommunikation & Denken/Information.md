@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7c"
 freq_rank: 392
 skip: false
+audio: "Information.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Information
+
+![[Information.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Information/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Information&language=de)
 
 **Meaning:** information
 **Plural:** Informationen

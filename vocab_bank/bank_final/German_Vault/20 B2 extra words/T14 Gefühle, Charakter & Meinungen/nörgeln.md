@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1290"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "nörgeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nörgeln
+
+![[nörgeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%B6rgeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%B6rgeln&language=de)
 
 **Meaning:** to carp; to nag
 **Forms:** nörgelt · nörgelte · hat genörgelt

@@ -15,11 +15,16 @@ id: "B6417"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Einzahlung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einzahlung
+
+![[Einzahlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einzahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzahlung&language=de)
 
 **Meaning:** payment; deposit
 **Plural:** Einzahlungen

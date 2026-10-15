@@ -14,11 +14,16 @@ bank: "main"
 id: "B5513"
 freq_rank: 2181
 skip: false
+audio: "Beteiligung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beteiligung
+
+![[Beteiligung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beteiligung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beteiligung&language=de)
 
 **Meaning:** participation; involvement; share
 **Plural:** Beteiligungen

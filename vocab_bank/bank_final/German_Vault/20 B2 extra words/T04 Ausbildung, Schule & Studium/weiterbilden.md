@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4631"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "weiterbilden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # weiterbilden
+
+![[weiterbilden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterbilden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterbilden&language=de)
 
 **Meaning:** to continue one's education; to undertake further training; (sich) to do further training
 **Forms:** bildet weiter · bildete weiter · hat weitergebildet

@@ -12,11 +12,16 @@ id: "B5118"
 netzwerk: "B1 K12 11b"
 freq_rank: 2107
 skip: false
+audio: "katholisch.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # katholisch
+
+![[katholisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/katholisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=katholisch&language=de)
 
 **Meaning:** Catholic
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

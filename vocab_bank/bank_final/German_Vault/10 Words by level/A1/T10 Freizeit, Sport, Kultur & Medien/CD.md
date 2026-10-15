@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 10a"
 freq_rank: 2000
 skip: false
+audio: "CD.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die CD
+
+![[CD.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/CD/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=CD&language=de)
 
 **Meaning:** CD
 **Plural:** CDs

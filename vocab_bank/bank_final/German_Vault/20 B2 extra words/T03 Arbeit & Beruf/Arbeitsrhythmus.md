@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3727"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsrhythmus
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsrhythmus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsrhythmus&language=de)
 
 **Meaning:** work rhythm
 **Plural:** Arbeitsrhythmen

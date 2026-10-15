@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 6b"
 freq_rank: 1595
 skip: false
+audio: "Test.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Test
+
+![[Test.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Test/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Test&language=de)
 
 **Meaning:** test
 **Plural:** Tests

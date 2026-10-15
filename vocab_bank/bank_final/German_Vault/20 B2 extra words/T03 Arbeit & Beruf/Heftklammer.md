@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2287"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Heftklammer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Heftklammer
+
+![[Heftklammer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heftklammer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heftklammer&language=de)
 
 **Meaning:** staple
 **Plural:** Heftklammern

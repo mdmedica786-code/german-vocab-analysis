@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 8b"
 freq_rank: 2934
 skip: false
+audio: "Angestellte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Angestellte
+
+![[Angestellte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angestellte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angestellte&language=de)
 
 **Meaning:** employee
 **Plural:** Angestellten

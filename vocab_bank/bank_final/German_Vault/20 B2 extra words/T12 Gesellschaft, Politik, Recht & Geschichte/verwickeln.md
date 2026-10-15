@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3620"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "verwickeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwickeln
+
+![[verwickeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verwickeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verwickeln&language=de)
 
 **Meaning:** to involve; to entangle
 **Forms:** verwickelt · verwickelte · hat verwickelt

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # bis
 
+[▶️ YouGlish](https://youglish.com/pronounce/bis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bis&language=de)
+
 **Meaning:** until
 **Case:** + Akk.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

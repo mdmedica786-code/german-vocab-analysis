@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0258"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "schrumpfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # schrumpfen
+
+![[schrumpfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schrumpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schrumpfen&language=de)
 
 **Meaning:** to shrink
 **Forms:** schrumpft · schrumpfte · ist geschrumpft

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 11b ÜB"
 freq_rank: 915
 skip: false
+audio: "geschlossen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # geschlossen
+
+![[geschlossen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geschlossen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschlossen&language=de)
 
 **Meaning:** closed
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

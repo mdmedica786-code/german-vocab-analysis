@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 11c"
 freq_rank: 1795
 skip: false
+audio: "vorn.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorn
+
+![[vorn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorn&language=de)
 
 **Meaning:** at the front
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

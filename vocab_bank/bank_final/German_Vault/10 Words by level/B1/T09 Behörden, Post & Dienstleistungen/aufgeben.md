@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 6d"
 freq_rank: 1653
 skip: false
+audio: "aufgeben.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufgeben
+
+![[aufgeben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufgeben&language=de)
 
 **Meaning:** to give up; to abandon; to post
 **Forms:** gibt auf · gab auf · hat aufgegeben

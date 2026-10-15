@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 12b"
 freq_rank: 4084
 skip: false
+audio: "nirgendwo.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nirgendwo
+
+![[nirgendwo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nirgendwo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nirgendwo&language=de)
 
 **Meaning:** nowhere
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

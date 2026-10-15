@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0458"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Pauschale.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pauschale
+
+![[Pauschale.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pauschale/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pauschale&language=de)
 
 **Meaning:** flat rate; lump sum
 **Plural:** Pauschalen

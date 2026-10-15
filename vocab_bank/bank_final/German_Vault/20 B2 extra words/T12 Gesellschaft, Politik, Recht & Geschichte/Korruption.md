@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0522"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Korruption.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Korruption
+
+![[Korruption.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korruption/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korruption&language=de)
 
 **Meaning:** corruption
 **Plural:** –

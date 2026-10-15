@@ -15,11 +15,16 @@ id: "B1344"
 netzwerk: "A1 K9 1a"
 freq_rank: 4618
 skip: false
+audio: "Arbeitszimmer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitszimmer
+
+![[Arbeitszimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitszimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitszimmer&language=de)
 
 **Meaning:** study; home office
 **Plural:** Arbeitszimmer

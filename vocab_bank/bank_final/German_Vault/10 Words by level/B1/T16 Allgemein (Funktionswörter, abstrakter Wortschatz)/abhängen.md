@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 3001
 skip: false
+audio: "abhängen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abhängen
+
+![[abhängen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abh%C3%A4ngen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abh%C3%A4ngen&language=de)
 
 **Meaning:** to be dependent on
 **Forms:** hängt ab · hing ab · hat abgehangen

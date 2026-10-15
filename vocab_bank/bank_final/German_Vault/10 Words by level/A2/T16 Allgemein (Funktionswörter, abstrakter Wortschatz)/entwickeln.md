@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 6a"
 freq_rank: 403
 skip: false
+audio: "entwickeln.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entwickeln
+
+![[entwickeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entwickeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entwickeln&language=de)
 
 **Meaning:** to develop
 **Forms:** entwickelt · entwickelte · hat entwickelt

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 2197
 skip: false
+audio: "kochen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kochen
+
+![[kochen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kochen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kochen&language=de)
 
 **Meaning:** to cook
 **Forms:** kocht · kochte · hat gekocht

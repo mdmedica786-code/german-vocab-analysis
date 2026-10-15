@@ -15,11 +15,16 @@ id: "B6495"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Metzger.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Metzger
+
+![[Metzger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Metzger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Metzger&language=de)
 
 **Meaning:** butcher
 **Plural:** Metzger

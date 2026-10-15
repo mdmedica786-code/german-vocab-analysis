@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 1407
 skip: false
+audio: "Team.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Team
+
+![[Team.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Team/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Team&language=de)
 
 **Meaning:** team
 **Plural:** Teams

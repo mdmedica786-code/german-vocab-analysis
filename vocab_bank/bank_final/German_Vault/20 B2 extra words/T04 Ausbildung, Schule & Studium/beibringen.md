@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3520"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "beibringen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beibringen
+
+![[beibringen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beibringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beibringen&language=de)
 
 **Meaning:** to teach; to impart; to produce (evidence)
 **Forms:** bringt bei · brachte bei · hat beigebracht

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3660"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Verurteilung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verurteilung
+
+![[Verurteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verurteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verurteilung&language=de)
 
 **Meaning:** conviction; condemnation
 **Plural:** Verurteilungen

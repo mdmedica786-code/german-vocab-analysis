@@ -15,11 +15,16 @@ id: "B3150"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 4987
 skip: false
+audio: "Abkürzung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abkürzung
+
+![[Abkürzung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abk%C3%BCrzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abk%C3%BCrzung&language=de)
 
 **Meaning:** abbreviation
 **Plural:** Abkürzungen

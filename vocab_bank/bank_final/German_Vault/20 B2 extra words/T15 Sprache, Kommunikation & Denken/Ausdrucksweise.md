@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0979"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Ausdrucksweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausdrucksweise
+
+![[Ausdrucksweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausdrucksweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausdrucksweise&language=de)
 
 **Meaning:** manner of expression; wording
 **Plural:** Ausdrucksweisen

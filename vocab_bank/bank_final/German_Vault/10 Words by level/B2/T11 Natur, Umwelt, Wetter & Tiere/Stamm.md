@@ -14,11 +14,16 @@ bank: "main"
 id: "B5581"
 freq_rank: 2406
 skip: false
+audio: "Stamm.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stamm
+
+![[Stamm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stamm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stamm&language=de)
 
 **Meaning:** trunk; stem; tribe
 **Plural:** Stämme

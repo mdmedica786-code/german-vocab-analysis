@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2850"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Tagebuch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tagebuch
+
+![[Tagebuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tagebuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tagebuch&language=de)
 
 **Meaning:** diary; journal
 **Plural:** Tagebücher

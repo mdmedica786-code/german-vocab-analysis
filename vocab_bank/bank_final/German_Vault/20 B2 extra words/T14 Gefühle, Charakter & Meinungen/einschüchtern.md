@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1248"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "einschüchtern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschüchtern
+
+![[einschüchtern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsch%C3%BCchtern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsch%C3%BCchtern&language=de)
 
 **Meaning:** to intimidate
 **Forms:** schüchtert ein · schüchterte ein · hat eingeschüchtert

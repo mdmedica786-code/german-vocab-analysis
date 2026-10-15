@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4503"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # tricky
+
+[▶️ YouGlish](https://youglish.com/pronounce/tricky/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tricky&language=de)
 
 **Meaning:** tricky; difficult
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** informal

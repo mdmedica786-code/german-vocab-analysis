@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3971"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "fundiert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # fundiert
+
+![[fundiert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fundiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fundiert&language=de)
 
 **Meaning:** well-founded; sound; solid
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

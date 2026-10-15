@@ -15,11 +15,16 @@ id: "B6384"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Briefumschlag.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Briefumschlag
+
+![[Briefumschlag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Briefumschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefumschlag&language=de)
 
 **Meaning:** envelope
 **Plural:** Briefumschläge

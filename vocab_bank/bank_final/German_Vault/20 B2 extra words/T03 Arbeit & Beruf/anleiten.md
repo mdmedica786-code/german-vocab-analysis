@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3711"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "anleiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # anleiten
+
+![[anleiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anleiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anleiten&language=de)
 
 **Meaning:** to instruct; to guide; to train
 **Forms:** leitet an · leitete an · hat angeleitet

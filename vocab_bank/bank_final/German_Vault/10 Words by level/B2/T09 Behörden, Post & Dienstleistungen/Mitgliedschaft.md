@@ -14,11 +14,16 @@ bank: "main"
 id: "B6141"
 freq_rank: 4596
 skip: false
+audio: "Mitgliedschaft.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitgliedschaft
+
+![[Mitgliedschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitgliedschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitgliedschaft&language=de)
 
 **Meaning:** membership
 **Plural:** Mitgliedschaften

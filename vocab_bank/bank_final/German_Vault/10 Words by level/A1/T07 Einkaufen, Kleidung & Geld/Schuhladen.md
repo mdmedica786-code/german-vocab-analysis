@@ -15,11 +15,16 @@ id: "B1705"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Schuhladen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schuhladen
+
+![[Schuhladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schuhladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuhladen&language=de)
 
 **Meaning:** shoe shop
 **Plural:** Schuhläden

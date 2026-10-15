@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1337"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "diesbezüglich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # diesbezüglich
+
+![[diesbezüglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diesbez%C3%BCglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diesbez%C3%BCglich&language=de)
 
 **Meaning:** in this regard; concerning this
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

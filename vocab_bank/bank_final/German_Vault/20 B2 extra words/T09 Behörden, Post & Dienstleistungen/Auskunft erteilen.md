@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Auskunft erteilen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Auskunft%20erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auskunft%20erteilen&language=de)
+
 **Meaning:** to give information
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

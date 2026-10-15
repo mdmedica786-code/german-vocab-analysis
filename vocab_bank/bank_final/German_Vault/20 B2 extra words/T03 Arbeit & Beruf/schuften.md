@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1299"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "schuften.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # schuften
+
+![[schuften.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schuften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schuften&language=de)
 
 **Meaning:** to slave away; to toil
 **Forms:** schuftet · schuftete · hat geschuftet

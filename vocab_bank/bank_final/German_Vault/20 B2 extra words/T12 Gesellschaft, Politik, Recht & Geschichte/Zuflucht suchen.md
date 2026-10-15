@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Zuflucht suchen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zuflucht%20suchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuflucht%20suchen&language=de)
+
 **Meaning:** to seek refuge
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0265"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "begünstigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # begünstigen
+
+![[begünstigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beg%C3%BCnstigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beg%C3%BCnstigen&language=de)
 
 **Meaning:** to favour; to facilitate
 **Forms:** begünstigt · begünstigte · hat begünstigt

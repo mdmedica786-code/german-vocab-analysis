@@ -15,11 +15,16 @@ id: "B5376"
 goethe_level: "B1"
 freq_rank: 1684
 skip: false
+audio: "Bund.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bund
+
+![[Bund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bund&language=de)
 
 **Meaning:** federation; Federal Government
 **Plural:** Bünde

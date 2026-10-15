@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 1594
 skip: false
+audio: "Öffentlichkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Öffentlichkeit
+
+![[Öffentlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96ffentlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96ffentlichkeit&language=de)
 
 **Meaning:** public
 **Plural:** –

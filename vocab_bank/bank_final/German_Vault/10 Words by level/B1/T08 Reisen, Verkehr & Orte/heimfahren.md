@@ -13,11 +13,16 @@ id: "B3347"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "heimfahren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # heimfahren
+
+![[heimfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heimfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heimfahren&language=de)
 
 **Meaning:** to go home
 **Forms:** fährt heim · fuhr heim · ist heimgefahren

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1572"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "einfallsreich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einfallsreich
+
+![[einfallsreich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einfallsreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einfallsreich&language=de)
 
 **Meaning:** inventive; imaginative
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1414"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Elfmeter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Elfmeter
+
+![[Elfmeter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elfmeter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elfmeter&language=de)
 
 **Meaning:** penalty kick
 **Plural:** Elfmeter

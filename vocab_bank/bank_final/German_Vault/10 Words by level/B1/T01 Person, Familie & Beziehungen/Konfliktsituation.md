@@ -15,11 +15,16 @@ id: "B4258"
 netzwerk: "B1 K7 6a"
 freq_rank: 5759
 skip: false
+audio: "Konfliktsituation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konfliktsituation
+
+![[Konfliktsituation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktsituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktsituation&language=de)
 
 **Meaning:** conflict situation
 **Plural:** Konfliktsituationen

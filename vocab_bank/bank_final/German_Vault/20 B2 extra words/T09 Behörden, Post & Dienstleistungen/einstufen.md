@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0884"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "einstufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einstufen
+
+![[einstufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einstufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einstufen&language=de)
 
 **Meaning:** to classify; to rate
 **Forms:** stuft ein · stufte ein · hat eingestuft

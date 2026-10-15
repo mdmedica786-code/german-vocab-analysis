@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0104"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "zum Vorschein kommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zum Vorschein kommen
+
+![[zum Vorschein kommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Vorschein%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Vorschein%20kommen&language=de)
 
 **Meaning:** to come to light; to emerge
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

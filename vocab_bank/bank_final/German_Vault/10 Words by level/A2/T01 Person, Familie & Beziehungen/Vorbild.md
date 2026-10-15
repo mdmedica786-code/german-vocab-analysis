@@ -15,11 +15,16 @@ id: "B2861"
 netzwerk: "A2 K9 5a"
 freq_rank: 2847
 skip: false
+audio: "Vorbild.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vorbild
+
+![[Vorbild.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorbild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorbild&language=de)
 
 **Meaning:** role model
 **Plural:** Vorbilder

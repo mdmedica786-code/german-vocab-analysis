@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2218"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Nebenkostenabrechnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nebenkostenabrechnung
+
+![[Nebenkostenabrechnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nebenkostenabrechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenkostenabrechnung&language=de)
 
 **Meaning:** utilities statement
 **Plural:** Nebenkostenabrechnungen

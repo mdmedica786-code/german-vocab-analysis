@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 2473
 skip: false
+audio: "Einnahme.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einnahme
+
+![[Einnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einnahme&language=de)
 
 **Meaning:** income; revenue; intake
 **Plural:** Einnahmen

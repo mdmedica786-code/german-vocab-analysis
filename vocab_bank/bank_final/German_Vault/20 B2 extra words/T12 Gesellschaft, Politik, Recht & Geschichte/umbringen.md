@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2626"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "umbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # umbringen
+
+![[umbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umbringen&language=de)
 
 **Meaning:** to kill; to murder
 **Forms:** bringt um · brachte um · hat umgebracht

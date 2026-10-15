@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2768"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Stich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stich
+
+![[Stich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stich&language=de)
 
 **Meaning:** sting; stitch; prick
 **Plural:** Stiche

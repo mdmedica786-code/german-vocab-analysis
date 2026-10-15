@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3096"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Korrektur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Korrektur
+
+![[Korrektur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Korrektur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Korrektur&language=de)
 
 **Meaning:** correction
 **Plural:** Korrekturen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2295"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "diesig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # diesig
+
+![[diesig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diesig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diesig&language=de)
 
 **Meaning:** hazy; misty
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

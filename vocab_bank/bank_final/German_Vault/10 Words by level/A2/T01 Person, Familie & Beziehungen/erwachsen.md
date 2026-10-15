@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 3a"
 freq_rank: 1555
 skip: false
+audio: "erwachsen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwachsen
+
+![[erwachsen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwachsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwachsen&language=de)
 
 **Meaning:** grown-up
 **Level:** A2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

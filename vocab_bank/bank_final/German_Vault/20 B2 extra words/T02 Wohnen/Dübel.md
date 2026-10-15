@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2203"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Dübel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dübel
+
+![[Dübel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCbel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCbel&language=de)
 
 **Meaning:** wall plug
 **Plural:** Dübel

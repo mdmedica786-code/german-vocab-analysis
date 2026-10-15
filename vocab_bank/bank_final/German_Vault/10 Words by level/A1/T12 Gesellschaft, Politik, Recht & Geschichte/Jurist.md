@@ -15,11 +15,16 @@ id: "B0379"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5366
 skip: false
+audio: "Jurist.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Jurist
+
+![[Jurist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jurist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jurist&language=de)
 
 **Meaning:** lawyer; legal expert
 **Plural:** Juristen

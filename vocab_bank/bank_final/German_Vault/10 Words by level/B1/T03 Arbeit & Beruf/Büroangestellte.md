@@ -15,11 +15,16 @@ id: "B3650"
 netzwerk: "B1 K3 8a"
 freq_rank: 5759
 skip: false
+audio: "Büroangestellte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Büroangestellte
+
+![[Büroangestellte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCroangestellte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCroangestellte&language=de)
 
 **Meaning:** office worker
 **Plural:** Büroangestellten

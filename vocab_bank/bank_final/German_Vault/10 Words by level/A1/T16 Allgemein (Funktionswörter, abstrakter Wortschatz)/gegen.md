@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 10b"
 freq_rank: 128
 skip: false
+audio: "gegen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # gegen
+
+![[gegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegen&language=de)
 
 **Meaning:** against
 **Case:** + Akk.

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0813"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "bodenständig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bodenständig
+
+![[bodenständig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bodenst%C3%A4ndig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bodenst%C3%A4ndig&language=de)
 
 **Meaning:** down-to-earth; grounded
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

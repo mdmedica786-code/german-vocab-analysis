@@ -15,11 +15,16 @@ id: "B4976"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Bootstour.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bootstour
+
+![[Bootstour.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bootstour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bootstour&language=de)
 
 **Meaning:** boat trip
 **Plural:** Bootstouren

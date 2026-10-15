@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Lieblings-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lieblings-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieblings-&language=de)
+
 **Meaning:** favourite
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 3a"
 freq_rank: 1695
 skip: false
+audio: "wütend.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wütend
+
+![[wütend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/w%C3%BCtend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%BCtend&language=de)
 
 **Meaning:** angry
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

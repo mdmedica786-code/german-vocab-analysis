@@ -15,11 +15,16 @@ id: "B5268"
 goethe_level: "B1"
 freq_rank: 1132
 skip: false
+audio: "Einrichtung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einrichtung
+
+![[Einrichtung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einrichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einrichtung&language=de)
 
 **Meaning:** furnishings; facility; institution
 **Plural:** Einrichtungen

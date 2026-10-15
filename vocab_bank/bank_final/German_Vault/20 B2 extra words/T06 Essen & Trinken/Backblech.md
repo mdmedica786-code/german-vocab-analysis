@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2276"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Backblech.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Backblech
+
+![[Backblech.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Backblech/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backblech&language=de)
 
 **Meaning:** baking tray
 **Plural:** Backbleche

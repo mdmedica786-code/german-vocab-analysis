@@ -15,11 +15,16 @@ id: "B6296"
 goethe_level: "B1"
 freq_rank: 5454
 skip: false
+audio: "Nichte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nichte
+
+![[Nichte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nichte&language=de)
 
 **Meaning:** niece
 **Plural:** Nichten

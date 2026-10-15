@@ -15,11 +15,16 @@ id: "B4927"
 netzwerk: "B1 K11 6b"
 freq_rank: 5466
 skip: false
+audio: "Übergabe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übergabe
+
+![[Übergabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbergabe&language=de)
 
 **Meaning:** handover
 **Plural:** Übergaben

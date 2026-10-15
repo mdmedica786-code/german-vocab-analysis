@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 5b"
 freq_rank: 1846
 skip: false
+audio: "Museum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Museum
+
+![[Museum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Museum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museum&language=de)
 
 **Meaning:** museum
 **Plural:** Museen

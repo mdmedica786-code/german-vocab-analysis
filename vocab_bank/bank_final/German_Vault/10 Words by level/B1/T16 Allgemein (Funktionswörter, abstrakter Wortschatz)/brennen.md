@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 9a"
 freq_rank: 1486
 skip: false
+audio: "brennen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # brennen
+
+![[brennen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/brennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brennen&language=de)
 
 **Meaning:** to burn
 **Forms:** brennt · brannte · hat gebrannt

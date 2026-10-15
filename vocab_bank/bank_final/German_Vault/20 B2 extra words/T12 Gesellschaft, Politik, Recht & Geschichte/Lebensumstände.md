@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4173"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Lebensumstände.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lebensumstände
+
+![[Lebensumstände.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensumst%C3%A4nde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensumst%C3%A4nde&language=de)
 
 **Meaning:** living conditions; circumstances (of life)
 **Plural:** (Pl.)

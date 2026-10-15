@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4031"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Häuserblock.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Häuserblock
+
+![[Häuserblock.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4userblock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4userblock&language=de)
 
 **Meaning:** block of houses; city block
 **Plural:** Häuserblöcke

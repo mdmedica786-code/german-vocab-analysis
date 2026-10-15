@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3310"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Leinwand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leinwand
+
+![[Leinwand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leinwand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leinwand&language=de)
 
 **Meaning:** screen (cinema); canvas
 **Plural:** Leinwände

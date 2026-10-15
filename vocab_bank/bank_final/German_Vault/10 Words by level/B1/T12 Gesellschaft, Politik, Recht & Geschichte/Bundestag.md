@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 4337
 skip: false
+audio: "Bundestag.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bundestag
+
+![[Bundestag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundestag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundestag&language=de)
 
 **Meaning:** Bundestag
 **Plural:** –

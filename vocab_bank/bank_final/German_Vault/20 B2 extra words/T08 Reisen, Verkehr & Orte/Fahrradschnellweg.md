@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3929"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Fahrradschnellweg
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrradschnellweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrradschnellweg&language=de)
 
 **Meaning:** cycle superhighway; fast cycle route
 **Plural:** Fahrradschnellwege

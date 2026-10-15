@@ -15,11 +15,16 @@ id: "B2434"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Busfahrer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Busfahrer
+
+![[Busfahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Busfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Busfahrer&language=de)
 
 **Meaning:** bus driver (m)
 **Plural:** Busfahrer

@@ -13,11 +13,16 @@ id: "B2852"
 netzwerk: "A2 K9 4"
 freq_rank: 4987
 skip: false
+audio: "mitspielen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitspielen
+
+![[mitspielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitspielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitspielen&language=de)
 
 **Meaning:** to join in; to play along; to act in
 **Forms:** spielt mit · spielte mit · hat mitgespielt

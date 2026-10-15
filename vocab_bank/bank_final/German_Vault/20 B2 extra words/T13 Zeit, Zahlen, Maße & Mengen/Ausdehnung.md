@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2877"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Ausdehnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausdehnung
+
+![[Ausdehnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausdehnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausdehnung&language=de)
 
 **Meaning:** expansion; extent
 **Plural:** Ausdehnungen

@@ -15,11 +15,16 @@ id: "B4105"
 netzwerk: "B1 K6 4b"
 freq_rank: 5759
 skip: false
+audio: "Hauptproblem.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hauptproblem
+
+![[Hauptproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptproblem&language=de)
 
 **Meaning:** main problem
 **Plural:** Hauptprobleme

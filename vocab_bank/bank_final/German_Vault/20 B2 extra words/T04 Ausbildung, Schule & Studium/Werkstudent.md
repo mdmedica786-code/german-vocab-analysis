@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1758"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Werkstudent.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Werkstudent
+
+![[Werkstudent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werkstudent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkstudent&language=de)
 
 **Meaning:** working student
 **Plural:** Werkstudenten

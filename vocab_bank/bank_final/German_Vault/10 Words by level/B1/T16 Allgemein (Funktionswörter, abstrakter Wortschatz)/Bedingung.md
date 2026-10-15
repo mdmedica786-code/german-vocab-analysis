@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1a"
 freq_rank: 717
 skip: false
+audio: "Bedingung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bedingung
+
+![[Bedingung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bedingung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedingung&language=de)
 
 **Meaning:** condition
 **Plural:** Bedingungen

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 7a"
 freq_rank: 1138
 skip: false
+audio: "außerhalb.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # außerhalb
+
+![[außerhalb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Ferhalb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Ferhalb&language=de)
 
 **Meaning:** outside of
 **Other senses:** outside

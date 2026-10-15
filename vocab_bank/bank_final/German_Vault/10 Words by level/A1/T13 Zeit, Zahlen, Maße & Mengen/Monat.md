@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 10a"
 freq_rank: 475
 skip: false
+audio: "Monat.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Monat
+
+![[Monat.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Monat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monat&language=de)
 
 **Meaning:** month
 **Plural:** Monate

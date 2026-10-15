@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1282"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "imponieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # imponieren
+
+![[imponieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/imponieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=imponieren&language=de)
 
 **Meaning:** to impress
 **Forms:** imponiert · imponierte · hat imponiert

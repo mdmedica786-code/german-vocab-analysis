@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Chat-Nachricht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Chat-Nachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chat-Nachricht&language=de)
+
 **Meaning:** chat message
 **Plural:** Chat-Nachrichten
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

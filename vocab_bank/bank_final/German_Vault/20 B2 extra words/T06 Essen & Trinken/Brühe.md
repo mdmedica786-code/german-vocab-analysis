@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1378"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Brühe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Brühe
+
+![[Brühe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Br%C3%BChe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%BChe&language=de)
 
 **Meaning:** broth; stock
 **Plural:** Brühen

@@ -15,11 +15,16 @@ id: "B1306"
 netzwerk: "A1 K8 12b"
 freq_rank: 5759
 skip: false
+audio: "Suppenhuhn.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Suppenhuhn
+
+![[Suppenhuhn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Suppenhuhn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suppenhuhn&language=de)
 
 **Meaning:** chicken for soup
 **Plural:** Suppenhühner

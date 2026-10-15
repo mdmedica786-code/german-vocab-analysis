@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1014"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Raststätte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Raststätte
+
+![[Raststätte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rastst%C3%A4tte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rastst%C3%A4tte&language=de)
 
 **Meaning:** motorway service area
 **Plural:** Raststätten

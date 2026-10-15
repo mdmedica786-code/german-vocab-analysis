@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4516"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Umbauarbeiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Umbauarbeiten
+
+![[Umbauarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umbauarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umbauarbeiten&language=de)
 
 **Meaning:** renovation work; conversion work
 **Plural:** (Pl.)

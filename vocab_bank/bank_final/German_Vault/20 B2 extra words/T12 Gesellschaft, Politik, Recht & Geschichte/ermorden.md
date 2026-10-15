@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2911"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "ermorden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # ermorden
+
+![[ermorden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ermorden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ermorden&language=de)
 
 **Meaning:** to murder; to assassinate
 **Forms:** ermordet · ermordete · hat ermordet

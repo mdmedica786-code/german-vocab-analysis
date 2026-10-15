@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Küchenteam
 
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCchenteam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCchenteam&language=de)
+
 **Meaning:** kitchen staff
 **Plural:** Küchenteams
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

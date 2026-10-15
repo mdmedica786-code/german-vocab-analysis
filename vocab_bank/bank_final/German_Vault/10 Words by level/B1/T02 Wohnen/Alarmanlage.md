@@ -15,11 +15,16 @@ id: "B3432"
 netzwerk: "B1 K2 6b"
 freq_rank: 5759
 skip: false
+audio: "Alarmanlage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Alarmanlage
+
+![[Alarmanlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alarmanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alarmanlage&language=de)
 
 **Meaning:** alarm (system)
 **Plural:** Alarmanlagen

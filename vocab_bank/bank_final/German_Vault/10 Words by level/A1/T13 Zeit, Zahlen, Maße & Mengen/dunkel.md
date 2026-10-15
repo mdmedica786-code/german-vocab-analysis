@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 3d"
 freq_rank: 463
 skip: false
+audio: "dunkel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # dunkel
+
+![[dunkel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dunkel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dunkel&language=de)
 
 **Meaning:** dark
 **Forms:** dunkler – am dunkelsten

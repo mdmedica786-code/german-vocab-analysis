@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3875"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "durchblicken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # durchblicken
+
+![[durchblicken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchblicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchblicken&language=de)
 
 **Meaning:** to understand; to get the hang of (colloquial); to look through
 **Forms:** blickt durch · blickte durch · hat durchgeblickt

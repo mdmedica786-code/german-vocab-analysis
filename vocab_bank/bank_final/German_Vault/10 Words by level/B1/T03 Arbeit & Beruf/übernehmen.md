@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 730
 skip: false
+audio: "übernehmen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # übernehmen
+
+![[übernehmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbernehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbernehmen&language=de)
 
 **Meaning:** to take on
 **Forms:** übernimmt · übernahm · hat übernommen

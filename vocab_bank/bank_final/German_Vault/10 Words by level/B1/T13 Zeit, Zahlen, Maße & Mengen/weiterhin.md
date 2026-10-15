@@ -11,11 +11,16 @@ bank: "main"
 id: "B5223"
 freq_rank: 919
 skip: false
+audio: "weiterhin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiterhin
+
+![[weiterhin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterhin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterhin&language=de)
 
 **Meaning:** still; furthermore; continuing
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

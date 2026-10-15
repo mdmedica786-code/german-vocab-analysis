@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4167"
 exam_use: ["Medien", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Launchen
+
+[▶️ YouGlish](https://youglish.com/pronounce/Launchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Launchen&language=de)
 
 **Meaning:** launching; launch process
 **Plural:** –

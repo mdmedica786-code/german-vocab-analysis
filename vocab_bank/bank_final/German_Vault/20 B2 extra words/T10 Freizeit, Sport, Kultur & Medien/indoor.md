@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4070"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "indoor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # indoor
+
+![[indoor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/indoor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=indoor&language=de)
 
 **Meaning:** indoor (inside buildings)
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

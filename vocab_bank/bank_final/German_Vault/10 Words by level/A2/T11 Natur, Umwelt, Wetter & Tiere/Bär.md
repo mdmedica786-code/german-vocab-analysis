@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 10c"
 freq_rank: 3393
 skip: false
+audio: "Bär.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bär
+
+![[Bär.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4r&language=de)
 
 **Meaning:** bear
 **Plural:** Bären

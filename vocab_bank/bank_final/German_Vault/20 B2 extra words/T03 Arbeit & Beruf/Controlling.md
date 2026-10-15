@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2868"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Controlling.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Controlling
+
+![[Controlling.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Controlling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Controlling&language=de)
 
 **Meaning:** controlling (business)
 **Plural:** –

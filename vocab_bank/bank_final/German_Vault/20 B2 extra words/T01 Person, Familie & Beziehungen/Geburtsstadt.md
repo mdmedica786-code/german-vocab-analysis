@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3982"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Geburtsstadt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Geburtsstadt
+
+![[Geburtsstadt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtsstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsstadt&language=de)
 
 **Meaning:** city of birth; home town
 **Plural:** Geburtsstädte

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Kunsthalle
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kunsthalle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunsthalle&language=de)
+
 **Meaning:** art gallery
 **Plural:** Kunsthallen
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

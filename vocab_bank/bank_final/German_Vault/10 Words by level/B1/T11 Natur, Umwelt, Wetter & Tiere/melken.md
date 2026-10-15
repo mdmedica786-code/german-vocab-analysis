@@ -13,11 +13,16 @@ id: "B3352"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "melken.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # melken
+
+![[melken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/melken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=melken&language=de)
 
 **Meaning:** to milk
 **Forms:** melkt · melkte · hat gemolken

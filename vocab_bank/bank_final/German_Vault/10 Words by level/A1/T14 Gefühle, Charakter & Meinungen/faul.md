@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 1c"
 freq_rank: 2848
 skip: false
+audio: "faul.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # faul
+
+![[faul.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/faul/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=faul&language=de)
 
 **Meaning:** lazy
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

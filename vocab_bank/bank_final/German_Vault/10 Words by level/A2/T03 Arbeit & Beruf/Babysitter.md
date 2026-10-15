@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 9a"
 freq_rank: 5759
 skip: false
+audio: "Babysitter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Babysitter
+
+![[Babysitter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Babysitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Babysitter&language=de)
 
 **Meaning:** babysitter (m)
 **Plural:** Babysitter

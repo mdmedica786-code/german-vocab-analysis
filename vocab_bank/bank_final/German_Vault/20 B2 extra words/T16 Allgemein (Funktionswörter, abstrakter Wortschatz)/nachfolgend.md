@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2506"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "nachfolgend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachfolgend
+
+![[nachfolgend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachfolgend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachfolgend&language=de)
 
 **Meaning:** following; below
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

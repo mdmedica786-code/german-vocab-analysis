@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 2a"
 freq_rank: 3975
 skip: false
+audio: "beraten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beraten
+
+![[beraten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beraten&language=de)
 
 **Meaning:** to advise
 **Forms:** berät · beriet · hat beraten

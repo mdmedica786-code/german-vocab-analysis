@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 11a"
 freq_rank: 1778
 skip: false
+audio: "Blume.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Blume
+
+![[Blume.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blume/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blume&language=de)
 
 **Meaning:** flower
 **Plural:** Blumen

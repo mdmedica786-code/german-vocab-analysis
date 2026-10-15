@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 8c"
 freq_rank: 175
 skip: false
+audio: "fallen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fallen
+
+![[fallen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fallen&language=de)
 
 **Meaning:** to fall
 **Forms:** fällt · fiel · ist gefallen

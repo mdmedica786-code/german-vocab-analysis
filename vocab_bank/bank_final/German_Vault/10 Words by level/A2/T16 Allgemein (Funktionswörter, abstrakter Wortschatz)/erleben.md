@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 5a"
 freq_rank: 624
 skip: false
+audio: "erleben.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erleben
+
+![[erleben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erleben&language=de)
 
 **Meaning:** to experience
 **Forms:** erlebt · erlebte · hat erlebt

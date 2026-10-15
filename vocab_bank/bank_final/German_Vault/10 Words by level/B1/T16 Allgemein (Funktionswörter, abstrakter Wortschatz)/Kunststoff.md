@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 8a"
 freq_rank: 5512
 skip: false
+audio: "Kunststoff.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kunststoff
+
+![[Kunststoff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunststoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunststoff&language=de)
 
 **Meaning:** plastic
 **Plural:** Kunststoffe

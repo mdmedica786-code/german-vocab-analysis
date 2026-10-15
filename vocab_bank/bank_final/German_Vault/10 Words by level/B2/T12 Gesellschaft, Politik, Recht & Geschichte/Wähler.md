@@ -14,11 +14,16 @@ bank: "main"
 id: "B6333"
 freq_rank: 5732
 skip: false
+audio: "Wähler.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wähler
+
+![[Wähler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4hler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4hler&language=de)
 
 **Meaning:** voter
 **Plural:** Wähler

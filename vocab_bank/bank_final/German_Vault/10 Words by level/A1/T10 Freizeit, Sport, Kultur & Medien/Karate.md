@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Karate
 
+[▶️ YouGlish](https://youglish.com/pronounce/Karate/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karate&language=de)
+
 **Meaning:** karate
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

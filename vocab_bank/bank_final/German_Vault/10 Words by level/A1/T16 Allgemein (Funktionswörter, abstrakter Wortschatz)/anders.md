@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 2a"
 freq_rank: 372
 skip: false
+audio: "anders.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anders
+
+![[anders.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anders/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anders&language=de)
 
 **Meaning:** different
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

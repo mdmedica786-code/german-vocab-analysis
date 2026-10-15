@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3095"
 exam_use: ["Medien", "Alltag"]
 skip: false
+audio: "Wiedergabe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wiedergabe
+
+![[Wiedergabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wiedergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wiedergabe&language=de)
 
 **Meaning:** reproduction; playback; rendering
 **Plural:** Wiedergaben

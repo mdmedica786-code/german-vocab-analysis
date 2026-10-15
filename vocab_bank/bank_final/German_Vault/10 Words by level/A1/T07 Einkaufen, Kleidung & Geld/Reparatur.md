@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K8 9a"
 freq_rank: 4863
 skip: false
+audio: "Reparatur.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reparatur
+
+![[Reparatur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reparatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reparatur&language=de)
 
 **Meaning:** repair
 **Plural:** Reparaturen

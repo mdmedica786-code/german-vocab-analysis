@@ -12,11 +12,16 @@ id: "B4363"
 netzwerk: "B1 K8 1a"
 freq_rank: 5631
 skip: false
+audio: "blutig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # blutig
+
+![[blutig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blutig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blutig&language=de)
 
 **Meaning:** bloody
 **Level:** B1 · **Topic:** [[M2 Medizin - Symptome & Krankheiten]] · **Register:** neutral

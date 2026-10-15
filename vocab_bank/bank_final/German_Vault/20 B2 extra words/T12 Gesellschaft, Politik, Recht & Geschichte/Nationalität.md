@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4260"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Nationalität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Nationalität
+
+![[Nationalität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nationalit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalit%C3%A4t&language=de)
 
 **Meaning:** nationality
 **Plural:** Nationalitäten

@@ -15,11 +15,16 @@ id: "B3620"
 netzwerk: "B1 K3 4d"
 freq_rank: 5759
 skip: false
+audio: "Stadtfest.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stadtfest
+
+![[Stadtfest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtfest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtfest&language=de)
 
 **Meaning:** city festival
 **Plural:** Stadtfeste

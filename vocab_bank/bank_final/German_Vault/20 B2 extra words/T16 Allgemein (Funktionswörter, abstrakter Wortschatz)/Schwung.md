@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3199"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Schwung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schwung
+
+![[Schwung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwung&language=de)
 
 **Meaning:** momentum; swing; drive
 **Plural:** Schwünge

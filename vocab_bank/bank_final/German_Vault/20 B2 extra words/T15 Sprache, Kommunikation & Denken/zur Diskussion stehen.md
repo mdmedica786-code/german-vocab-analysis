@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Diskussion stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Diskussion%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Diskussion%20stehen&language=de)
+
 **Meaning:** to be under discussion
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

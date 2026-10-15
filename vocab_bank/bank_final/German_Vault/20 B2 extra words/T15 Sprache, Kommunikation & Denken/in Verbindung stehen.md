@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Verbindung stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Verbindung%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Verbindung%20stehen&language=de)
+
 **Meaning:** to be connected; to be in contact
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

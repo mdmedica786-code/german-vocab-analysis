@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3605"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "ununterbrochen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ununterbrochen
+
+![[ununterbrochen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ununterbrochen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ununterbrochen&language=de)
 
 **Meaning:** continuous; non-stop
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

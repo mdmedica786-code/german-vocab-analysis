@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Pluralendung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Pluralendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pluralendung&language=de)
+
 **Meaning:** plural ending
 **Plural:** Pluralendungen
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

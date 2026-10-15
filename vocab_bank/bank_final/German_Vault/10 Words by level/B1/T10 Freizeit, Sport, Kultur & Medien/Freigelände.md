@@ -15,11 +15,16 @@ id: "B4540"
 netzwerk: "B1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Freigelände.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Freigelände
+
+![[Freigelände.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freigel%C3%A4nde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freigel%C3%A4nde&language=de)
 
 **Meaning:** open-air site
 **Plural:** Freigelände

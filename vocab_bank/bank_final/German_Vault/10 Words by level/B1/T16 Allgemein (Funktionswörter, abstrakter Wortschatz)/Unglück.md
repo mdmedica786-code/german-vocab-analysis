@@ -15,11 +15,16 @@ id: "B5622"
 goethe_level: "B1"
 freq_rank: 2592
 skip: false
+audio: "Unglück.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Unglück
+
+![[Unglück.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ungl%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungl%C3%BCck&language=de)
 
 **Meaning:** misfortune; accident
 **Plural:** Unglücke

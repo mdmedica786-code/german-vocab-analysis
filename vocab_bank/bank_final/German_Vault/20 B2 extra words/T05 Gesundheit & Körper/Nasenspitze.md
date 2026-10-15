@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4258"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Nasenspitze.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Nasenspitze
+
+![[Nasenspitze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nasenspitze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nasenspitze&language=de)
 
 **Meaning:** tip of the nose
 **Plural:** Nasenspitzen

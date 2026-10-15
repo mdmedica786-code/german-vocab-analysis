@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1398"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Putzmittel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Putzmittel
+
+![[Putzmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Putzmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Putzmittel&language=de)
 
 **Meaning:** cleaning product
 **Plural:** Putzmittel

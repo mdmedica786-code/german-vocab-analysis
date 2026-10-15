@@ -15,11 +15,16 @@ id: "B3740"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Schreiner.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schreiner
+
+![[Schreiner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schreiner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schreiner&language=de)
 
 **Meaning:** carpenter; joiner (m)
 **Plural:** Schreiner

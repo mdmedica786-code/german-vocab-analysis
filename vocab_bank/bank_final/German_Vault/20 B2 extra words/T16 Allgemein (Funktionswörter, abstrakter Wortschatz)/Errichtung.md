@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2996"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Errichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Errichtung
+
+![[Errichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Errichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Errichtung&language=de)
 
 **Meaning:** erection; establishment
 **Plural:** Errichtungen

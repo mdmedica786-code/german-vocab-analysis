@@ -13,11 +13,16 @@ id: "B6588"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "verabredet sein.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verabredet sein
+
+![[verabredet sein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verabredet%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verabredet%20sein&language=de)
 
 **Meaning:** to have arranged to meet
 **Forms:** ist verabredet · war verabredet · ist verabredet gewesen

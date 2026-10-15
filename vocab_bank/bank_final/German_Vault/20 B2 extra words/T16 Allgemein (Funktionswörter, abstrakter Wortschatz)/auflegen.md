@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3593"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "auflegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auflegen
+
+![[auflegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auflegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auflegen&language=de)
 
 **Meaning:** to hang up (phone); to put on; to publish (print run)
 **Forms:** legt auf · legte auf · hat aufgelegt

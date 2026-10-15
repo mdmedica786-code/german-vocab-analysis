@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4132"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kontrolltermin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontrolltermin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontrolltermin&language=de)
 
 **Meaning:** follow-up appointment; check-up appointment
 **Plural:** Kontrolltermine

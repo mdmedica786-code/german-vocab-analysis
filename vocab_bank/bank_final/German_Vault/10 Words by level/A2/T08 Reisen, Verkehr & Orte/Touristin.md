@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 8b"
 freq_rank: 5759
 skip: false
+audio: "Touristin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Touristin
+
+![[Touristin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Touristin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Touristin&language=de)
 
 **Meaning:** tourist (f)
 **Plural:** Touristinnen

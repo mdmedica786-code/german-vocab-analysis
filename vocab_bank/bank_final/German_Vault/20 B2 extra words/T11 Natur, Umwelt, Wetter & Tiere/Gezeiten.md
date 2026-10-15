@@ -13,11 +13,16 @@ bank: "b2"
 id: "D2017"
 exam_use: ["Wissenschaft", "Hören"]
 skip: false
+audio: "Gezeiten.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # Gezeiten
+
+![[Gezeiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gezeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gezeiten&language=de)
 
 **Meaning:** tides
 **Plural:** Gezeiten

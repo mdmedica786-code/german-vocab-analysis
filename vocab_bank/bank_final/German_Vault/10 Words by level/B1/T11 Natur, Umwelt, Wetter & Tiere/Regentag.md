@@ -15,11 +15,16 @@ id: "B3634"
 netzwerk: "B1 K3 5e"
 freq_rank: 5759
 skip: false
+audio: "Regentag.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Regentag
+
+![[Regentag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regentag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regentag&language=de)
 
 **Meaning:** rainy day
 **Plural:** Regentage

@@ -15,11 +15,16 @@ id: "B1982"
 netzwerk: "A2 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Riesenspaß.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Riesenspaß
+
+![[Riesenspaß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Riesenspa%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Riesenspa%C3%9F&language=de)
 
 **Meaning:** lots of fun
 **Plural:** –

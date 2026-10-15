@@ -13,11 +13,16 @@ id: "B3750"
 netzwerk: "B1 K4 3"
 freq_rank: 4372
 skip: false
+audio: "aushalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aushalten
+
+![[aushalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aushalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aushalten&language=de)
 
 **Meaning:** to endure; to bear
 **Forms:** hält aus · hielt aus · hat ausgehalten

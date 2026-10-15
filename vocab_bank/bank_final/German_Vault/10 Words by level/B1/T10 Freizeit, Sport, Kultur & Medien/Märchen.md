@@ -15,11 +15,16 @@ id: "B5856"
 goethe_level: "B1"
 freq_rank: 3174
 skip: false
+audio: "Märchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Märchen
+
+![[Märchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4rchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4rchen&language=de)
 
 **Meaning:** fairy tale
 **Plural:** Märchen

@@ -13,11 +13,16 @@ id: "B3930"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5759
 skip: false
+audio: "verschwenden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschwenden
+
+![[verschwenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschwenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschwenden&language=de)
 
 **Meaning:** to waste
 **Forms:** verschwendet · verschwendete · hat verschwendet

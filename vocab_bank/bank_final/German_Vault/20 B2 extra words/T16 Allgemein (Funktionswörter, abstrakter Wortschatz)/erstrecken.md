@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3012"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "erstrecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erstrecken
+
+![[erstrecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erstrecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erstrecken&language=de)
 
 **Meaning:** to extend; to stretch
 **Forms:** erstreckt sich · erstreckte sich · hat sich erstreckt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1595"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "gelungen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelungen
+
+![[gelungen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelungen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelungen&language=de)
 
 **Meaning:** successful; well done
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

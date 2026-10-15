@@ -13,11 +13,16 @@ id: "B2000"
 netzwerk: "A2 K2 6a"
 freq_rank: 1158
 skip: false
+audio: "betonen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betonen
+
+![[betonen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betonen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betonen&language=de)
 
 **Meaning:** to emphasize
 **Forms:** betont · betonte · hat betont

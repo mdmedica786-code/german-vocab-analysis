@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2a"
 freq_rank: 1103
 skip: false
+audio: "schützen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # schützen
+
+![[schützen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%BCtzen&language=de)
 
 **Meaning:** to protect
 **Forms:** schützt · schützte · hat geschützt

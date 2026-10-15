@@ -11,11 +11,16 @@ bank: "main"
 id: "B5262"
 freq_rank: 1106
 skip: false
+audio: "gemäß.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # gemäß
+
+![[gemäß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gem%C3%A4%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gem%C3%A4%C3%9F&language=de)
 
 **Meaning:** according to
 **Case:** + Dat.

@@ -15,11 +15,16 @@ id: "B2461"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Oberärztin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Oberärztin
+
+![[Oberärztin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ober%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ober%C3%A4rztin&language=de)
 
 **Meaning:** senior physician (f)
 **Plural:** Oberärztinnen

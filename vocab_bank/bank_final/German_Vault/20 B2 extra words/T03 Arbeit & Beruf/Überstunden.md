@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0412"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Überstunden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überstunden
+
+![[Überstunden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberstunden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberstunden&language=de)
 
 **Meaning:** overtime
 **Plural:** (Pl.)

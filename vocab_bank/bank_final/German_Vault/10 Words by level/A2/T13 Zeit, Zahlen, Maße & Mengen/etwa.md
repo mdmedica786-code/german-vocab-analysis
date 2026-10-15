@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 11a"
 freq_rank: 197
 skip: false
+audio: "etwa.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # etwa
+
+![[etwa.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/etwa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=etwa&language=de)
 
 **Meaning:** approximately
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

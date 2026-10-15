@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Trendviertel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Trendviertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trendviertel&language=de)
+
 **Meaning:** trending district
 **Plural:** Trendviertel
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

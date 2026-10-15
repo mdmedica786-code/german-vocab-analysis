@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # sich Gedanken machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sich%20Gedanken%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20Gedanken%20machen&language=de)
+
 **Meaning:** to think about; to give thought to
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

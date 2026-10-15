@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0293"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Maßstab.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Maßstab
+
+![[Maßstab.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ma%C3%9Fstab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ma%C3%9Fstab&language=de)
 
 **Meaning:** standard; scale (map)
 **Plural:** Maßstäbe

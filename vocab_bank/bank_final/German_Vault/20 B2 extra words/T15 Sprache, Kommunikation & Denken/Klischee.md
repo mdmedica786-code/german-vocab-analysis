@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1154"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Klischee.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klischee
+
+![[Klischee.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klischee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klischee&language=de)
 
 **Meaning:** cliché; stereotype
 **Plural:** Klischees

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2000"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Haselnuss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Haselnuss
+
+![[Haselnuss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haselnuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haselnuss&language=de)
 
 **Meaning:** hazelnut
 **Plural:** Haselnüsse

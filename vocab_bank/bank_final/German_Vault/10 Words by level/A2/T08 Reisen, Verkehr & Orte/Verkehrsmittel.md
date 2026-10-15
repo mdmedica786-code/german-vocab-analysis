@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Verkehrsmittel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrsmittel
+
+![[Verkehrsmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrsmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsmittel&language=de)
 
 **Meaning:** means of transport
 **Plural:** Verkehrsmittel

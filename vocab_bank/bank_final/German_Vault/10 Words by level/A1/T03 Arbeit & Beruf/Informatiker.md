@@ -15,11 +15,16 @@ id: "B0362"
 netzwerk: "A1 K2 9a"
 freq_rank: 5759
 skip: false
+audio: "Informatiker.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Informatiker
+
+![[Informatiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Informatiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Informatiker&language=de)
 
 **Meaning:** computer scientist (m)
 **Plural:** Informatiker

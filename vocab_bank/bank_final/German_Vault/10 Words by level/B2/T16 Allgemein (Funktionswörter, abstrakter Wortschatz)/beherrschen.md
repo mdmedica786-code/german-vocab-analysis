@@ -12,11 +12,16 @@ bank: "main"
 id: "B5401"
 freq_rank: 1800
 skip: false
+audio: "beherrschen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beherrschen
+
+![[beherrschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beherrschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beherrschen&language=de)
 
 **Meaning:** to master; to control
 **Forms:** beherrscht · beherrschte · hat beherrscht

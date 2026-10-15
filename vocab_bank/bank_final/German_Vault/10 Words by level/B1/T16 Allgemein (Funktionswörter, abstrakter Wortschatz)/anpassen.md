@@ -13,11 +13,16 @@ id: "B3455"
 netzwerk: "B1 K2 6d"
 freq_rank: 1998
 skip: false
+audio: "anpassen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anpassen
+
+![[anpassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anpassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anpassen&language=de)
 
 **Meaning:** to adjust
 **Forms:** passt an · passte an · hat angepasst

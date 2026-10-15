@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Steh-Sitz-Tisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Steh-Sitz-Tisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steh-Sitz-Tisch&language=de)
+
 **Meaning:** stand-sit-table
 **Plural:** Steh-Sitz-Tische
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

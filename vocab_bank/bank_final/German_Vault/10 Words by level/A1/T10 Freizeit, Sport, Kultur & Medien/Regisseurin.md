@@ -15,11 +15,16 @@ id: "B0555"
 netzwerk: "A1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "Regisseurin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regisseurin
+
+![[Regisseurin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regisseurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regisseurin&language=de)
 
 **Meaning:** director (f)
 **Plural:** Regisseurinnen

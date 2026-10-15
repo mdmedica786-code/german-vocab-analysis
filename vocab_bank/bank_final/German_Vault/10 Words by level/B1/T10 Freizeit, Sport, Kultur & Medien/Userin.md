@@ -15,11 +15,16 @@ id: "B6587"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Userin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Userin
+
+![[Userin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Userin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Userin&language=de)
 
 **Meaning:** user (f)
 **Plural:** Userinnen

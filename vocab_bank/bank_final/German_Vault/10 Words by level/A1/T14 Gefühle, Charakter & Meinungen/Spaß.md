@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 1451
 skip: false
+audio: "Spaß.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spaß
+
+![[Spaß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spa%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spa%C3%9F&language=de)
 
 **Meaning:** fun
 **Plural:** –

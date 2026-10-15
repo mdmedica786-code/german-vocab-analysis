@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2459"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Interpretation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Interpretation
+
+![[Interpretation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interpretation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interpretation&language=de)
 
 **Meaning:** interpretation
 **Plural:** Interpretationen

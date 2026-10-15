@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 1c"
 freq_rank: 1617
 skip: false
+audio: "müde.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # müde
+
+![[müde.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/m%C3%BCde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=m%C3%BCde&language=de)
 
 **Meaning:** tired
 **Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

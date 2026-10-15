@@ -15,11 +15,16 @@ id: "B1804"
 netzwerk: "A1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Schaffnerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schaffnerin
+
+![[Schaffnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schaffnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaffnerin&language=de)
 
 **Meaning:** conductor (f)
 **Plural:** Schaffnerinnen

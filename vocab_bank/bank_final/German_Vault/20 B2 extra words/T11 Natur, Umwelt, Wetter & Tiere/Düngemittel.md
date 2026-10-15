@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0727"
 exam_use: ["Lesen"]
 skip: false
+audio: "Düngemittel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Düngemittel
+
+![[Düngemittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCngemittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCngemittel&language=de)
 
 **Meaning:** fertiliser
 **Plural:** Düngemittel

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6021"
 freq_rank: 3988
 skip: false
+audio: "Kamin.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kamin
+
+![[Kamin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kamin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kamin&language=de)
 
 **Meaning:** fireplace; chimney
 **Plural:** Kamine

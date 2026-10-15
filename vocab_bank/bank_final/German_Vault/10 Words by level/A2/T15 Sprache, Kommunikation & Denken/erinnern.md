@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 5c"
 freq_rank: 415
 skip: false
+audio: "erinnern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erinnern
+
+![[erinnern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erinnern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erinnern&language=de)
 
 **Meaning:** to remember
 **Forms:** erinnert · erinnerte · hat erinnert

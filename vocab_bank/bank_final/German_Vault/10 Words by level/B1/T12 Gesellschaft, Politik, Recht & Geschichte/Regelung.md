@@ -14,11 +14,16 @@ bank: "main"
 id: "B5269"
 freq_rank: 1139
 skip: false
+audio: "Regelung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regelung
+
+![[Regelung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regelung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regelung&language=de)
 
 **Meaning:** regulation; arrangement
 **Plural:** Regelungen

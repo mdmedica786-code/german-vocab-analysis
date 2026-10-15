@@ -15,11 +15,16 @@ id: "B3600"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Powerfrau.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Powerfrau
+
+![[Powerfrau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Powerfrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Powerfrau&language=de)
 
 **Meaning:** power woman
 **Plural:** Powerfrauen

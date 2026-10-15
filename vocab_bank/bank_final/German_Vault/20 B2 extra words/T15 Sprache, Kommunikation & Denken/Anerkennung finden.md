@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Anerkennung finden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anerkennung%20finden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anerkennung%20finden&language=de)
+
 **Meaning:** to gain recognition
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

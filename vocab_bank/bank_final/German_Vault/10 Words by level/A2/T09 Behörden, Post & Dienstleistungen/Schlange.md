@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 11c"
 freq_rank: 2450
 skip: false
+audio: "Schlange.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlange
+
+![[Schlange.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlange&language=de)
 
 **Meaning:** queue
 **Plural:** Schlangen

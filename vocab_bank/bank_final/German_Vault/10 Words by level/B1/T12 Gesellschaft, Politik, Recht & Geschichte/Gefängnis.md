@@ -15,11 +15,16 @@ id: "B5623"
 goethe_level: "B1"
 freq_rank: 2593
 skip: false
+audio: "Gefängnis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gefängnis
+
+![[Gefängnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gef%C3%A4ngnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gef%C3%A4ngnis&language=de)
 
 **Meaning:** prison
 **Plural:** Gefängnisse

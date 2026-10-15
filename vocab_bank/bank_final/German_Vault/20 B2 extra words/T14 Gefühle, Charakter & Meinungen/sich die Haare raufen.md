@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # sich die Haare raufen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sich%20die%20Haare%20raufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20die%20Haare%20raufen&language=de)
+
 **Meaning:** to tear one's hair out
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

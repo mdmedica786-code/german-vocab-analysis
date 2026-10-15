@@ -17,11 +17,16 @@ freq_rank: 2594
 skip: true
 skip_reason: "duplicate of B0608 (learn that entry)"
 check: "dup:B0608"
+audio: "Öl.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Öl
+
+![[Öl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96l/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96l&language=de)
 
 **Meaning:** oil
 **Plural:** Öle

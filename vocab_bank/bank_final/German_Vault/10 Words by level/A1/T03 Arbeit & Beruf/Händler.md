@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 3455
 skip: false
+audio: "Händler.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Händler
+
+![[Händler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ndler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ndler&language=de)
 
 **Meaning:** merchant (m)
 **Plural:** Händler

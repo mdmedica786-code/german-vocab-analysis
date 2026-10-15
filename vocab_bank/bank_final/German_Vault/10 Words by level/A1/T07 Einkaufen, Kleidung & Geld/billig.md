@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3c"
 freq_rank: 4742
 skip: false
+audio: "billig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # billig
+
+![[billig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/billig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=billig&language=de)
 
 **Meaning:** cheap
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

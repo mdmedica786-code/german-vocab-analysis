@@ -12,11 +12,16 @@ id: "B5362"
 goethe_level: "A1"
 freq_rank: 1623
 skip: false
+audio: "vierte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # vierte
+
+![[vierte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vierte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vierte&language=de)
 
 **Meaning:** fourth
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1055"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Rechnungsbetrag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rechnungsbetrag
+
+![[Rechnungsbetrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechnungsbetrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechnungsbetrag&language=de)
 
 **Meaning:** invoice amount
 **Plural:** Rechnungsbeträge

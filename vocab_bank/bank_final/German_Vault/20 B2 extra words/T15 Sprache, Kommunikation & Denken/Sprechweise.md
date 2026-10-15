@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4451"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Sprechweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Sprechweise
+
+![[Sprechweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprechweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprechweise&language=de)
 
 **Meaning:** way of speaking; manner of speech
 **Plural:** Sprechweisen

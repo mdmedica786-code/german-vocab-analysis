@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0426"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Steuerlast.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Steuerlast
+
+![[Steuerlast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steuerlast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steuerlast&language=de)
 
 **Meaning:** tax burden
 **Plural:** Steuerlasten

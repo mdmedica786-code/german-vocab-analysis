@@ -15,11 +15,16 @@ id: "B6194"
 goethe_level: "B1"
 freq_rank: 4828
 skip: false
+audio: "User.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der User
+
+![[User.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/User/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=User&language=de)
 
 **Meaning:** user
 **Plural:** User

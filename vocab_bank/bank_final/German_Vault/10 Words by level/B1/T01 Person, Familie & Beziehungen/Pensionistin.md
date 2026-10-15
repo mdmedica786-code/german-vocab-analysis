@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Pensionistin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pensionistin
+
+![[Pensionistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pensionistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pensionistin&language=de)
 
 **Meaning:** pensioner (f) (Austrian)
 **Plural:** Pensionistinnen

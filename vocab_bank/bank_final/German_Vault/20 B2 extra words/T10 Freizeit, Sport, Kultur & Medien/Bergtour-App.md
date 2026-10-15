@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3795"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Bergtour-App
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bergtour-App/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergtour-App&language=de)
 
 **Meaning:** hiking app (for mountain tours)
 **Plural:** Bergtour-Apps

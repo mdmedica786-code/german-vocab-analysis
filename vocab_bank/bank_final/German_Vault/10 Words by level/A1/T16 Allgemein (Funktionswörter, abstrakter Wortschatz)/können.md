@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # können
 
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%B6nnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%B6nnen&language=de)
+
 **Meaning:** to be able to
 **Forms:** kann · konnte · hat gekonnt
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

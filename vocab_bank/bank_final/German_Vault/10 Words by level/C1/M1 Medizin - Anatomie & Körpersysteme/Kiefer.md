@@ -14,11 +14,16 @@ bank: "main"
 id: "B6233"
 freq_rank: 4960
 skip: false
+audio: "Kiefer.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kiefer
+
+![[Kiefer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kiefer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kiefer&language=de)
 
 **Meaning:** jaw; pine tree (die Kiefer)
 **Plural:** Kiefer

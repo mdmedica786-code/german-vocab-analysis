@@ -14,11 +14,16 @@ bank: "main"
 id: "B6046"
 freq_rank: 4092
 skip: false
+audio: "Arbeitsmarkt.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsmarkt
+
+![[Arbeitsmarkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsmarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsmarkt&language=de)
 
 **Meaning:** labour market
 **Plural:** Arbeitsmärkte

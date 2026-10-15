@@ -15,11 +15,16 @@ id: "B2997"
 netzwerk: "A2 K10 10c"
 freq_rank: 5759
 skip: false
+audio: "Mäuschen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mäuschen
+
+![[Mäuschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4uschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4uschen&language=de)
 
 **Meaning:** little mouse
 **Plural:** Mäuschen

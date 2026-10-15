@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1268"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "feilschen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # feilschen
+
+![[feilschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/feilschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feilschen&language=de)
 
 **Meaning:** to haggle; to bargain
 **Forms:** feilscht · feilschte · hat gefeilscht

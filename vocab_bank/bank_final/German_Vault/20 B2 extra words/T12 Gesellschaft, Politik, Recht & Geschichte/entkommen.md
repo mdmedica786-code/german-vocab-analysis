@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1254"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "entkommen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # entkommen
+
+![[entkommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entkommen&language=de)
 
 **Meaning:** to escape; to get away
 **Forms:** entkommt · entkam · ist entkommen

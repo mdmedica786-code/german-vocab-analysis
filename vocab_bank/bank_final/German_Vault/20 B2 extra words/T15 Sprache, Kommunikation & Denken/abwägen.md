@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0233"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "abwägen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abwägen
+
+![[abwägen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abw%C3%A4gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abw%C3%A4gen&language=de)
 
 **Meaning:** to weigh up; to consider carefully
 **Forms:** wägt ab · wog ab · hat abgewogen

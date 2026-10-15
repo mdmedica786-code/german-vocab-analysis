@@ -15,11 +15,16 @@ id: "B6244"
 goethe_level: "B1"
 freq_rank: 5050
 skip: false
+audio: "Ehepaar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ehepaar
+
+![[Ehepaar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehepaar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehepaar&language=de)
 
 **Meaning:** married couple
 **Plural:** Ehepaare

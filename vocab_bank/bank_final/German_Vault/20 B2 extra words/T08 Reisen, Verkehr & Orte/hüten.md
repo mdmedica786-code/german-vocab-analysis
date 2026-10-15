@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3525"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "hüten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hüten
+
+![[hüten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%BCten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%BCten&language=de)
 
 **Meaning:** to guard; to look after; to tend
 **Forms:** hütet · hütete · hat gehütet

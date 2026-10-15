@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a"
 freq_rank: 1225
 skip: false
+audio: "Kleid.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kleid
+
+![[Kleid.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleid&language=de)
 
 **Meaning:** dress
 **Plural:** Kleider

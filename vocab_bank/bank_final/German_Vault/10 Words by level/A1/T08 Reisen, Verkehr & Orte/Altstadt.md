@@ -15,11 +15,16 @@ id: "B0747"
 netzwerk: "A1 K4 11"
 freq_rank: 5181
 skip: false
+audio: "Altstadt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Altstadt
+
+![[Altstadt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altstadt&language=de)
 
 **Meaning:** old town; historic city centre
 **Plural:** Altstädte

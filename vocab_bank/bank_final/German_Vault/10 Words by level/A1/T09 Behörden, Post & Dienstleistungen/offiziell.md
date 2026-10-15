@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 5a"
 freq_rank: 1818
 skip: false
+audio: "offiziell.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # offiziell
+
+![[offiziell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/offiziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=offiziell&language=de)
 
 **Meaning:** official
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1363"
 netzwerk: "A1 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Spülmaschine.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spülmaschine
+
+![[Spülmaschine.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%BClmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%BClmaschine&language=de)
 
 **Meaning:** dishwasher
 **Plural:** Spülmaschinen

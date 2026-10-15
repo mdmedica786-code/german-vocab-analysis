@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # gültig sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/g%C3%BCltig%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=g%C3%BCltig%20sein&language=de)
+
 **Meaning:** to be valid
 **Forms:** ist gültig · war gültig · ist gültig gewesen
 **Level:** A2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

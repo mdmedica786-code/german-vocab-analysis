@@ -15,11 +15,16 @@ id: "B4311"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "Pianist.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pianist
+
+![[Pianist.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pianist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pianist&language=de)
 
 **Meaning:** pianist (m)
 **Plural:** Pianisten

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1715"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "salzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # salzen
+
+![[salzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/salzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=salzen&language=de)
 
 **Meaning:** to salt
 **Forms:** salzt · salzte · hat gesalzen

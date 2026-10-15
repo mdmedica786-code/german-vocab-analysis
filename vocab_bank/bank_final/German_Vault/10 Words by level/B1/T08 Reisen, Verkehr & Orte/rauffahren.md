@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # rauffahren
 
+[▶️ YouGlish](https://youglish.com/pronounce/rauffahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rauffahren&language=de)
+
 **Meaning:** to drive up
 **Forms:** fährt rauf · fuhr rauf · ist raufgefahren
 **Grammar:** separable (rauf-)

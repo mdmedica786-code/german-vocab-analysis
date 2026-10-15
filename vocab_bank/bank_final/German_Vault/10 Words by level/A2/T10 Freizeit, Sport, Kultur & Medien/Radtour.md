@@ -15,11 +15,16 @@ id: "B2853"
 netzwerk: "A2 K9 4"
 freq_rank: 5759
 skip: false
+audio: "Radtour.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Radtour
+
+![[Radtour.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radtour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radtour&language=de)
 
 **Meaning:** bike ride
 **Plural:** Radtouren

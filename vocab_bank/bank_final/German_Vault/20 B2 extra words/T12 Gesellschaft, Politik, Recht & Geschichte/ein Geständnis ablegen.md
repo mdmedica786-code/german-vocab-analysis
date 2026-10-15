@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # ein Geständnis ablegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/ein%20Gest%C3%A4ndnis%20ablegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ein%20Gest%C3%A4ndnis%20ablegen&language=de)
+
 **Meaning:** to make a confession
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

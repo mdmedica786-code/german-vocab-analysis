@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4279"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Nutzungsdauer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Nutzungsdauer
+
+![[Nutzungsdauer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nutzungsdauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nutzungsdauer&language=de)
 
 **Meaning:** period of use; useful life
 **Plural:** –

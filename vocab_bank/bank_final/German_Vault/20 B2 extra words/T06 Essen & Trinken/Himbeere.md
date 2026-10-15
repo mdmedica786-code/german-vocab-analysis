@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1993"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Himbeere.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Himbeere
+
+![[Himbeere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Himbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Himbeere&language=de)
 
 **Meaning:** raspberry
 **Plural:** Himbeeren

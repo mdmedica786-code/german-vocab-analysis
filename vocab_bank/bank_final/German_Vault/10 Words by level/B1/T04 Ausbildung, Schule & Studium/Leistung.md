@@ -15,11 +15,16 @@ id: "B5180"
 goethe_level: "B1"
 freq_rank: 584
 skip: false
+audio: "Leistung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leistung
+
+![[Leistung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leistung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leistung&language=de)
 
 **Meaning:** performance; achievement; service
 **Plural:** Leistungen

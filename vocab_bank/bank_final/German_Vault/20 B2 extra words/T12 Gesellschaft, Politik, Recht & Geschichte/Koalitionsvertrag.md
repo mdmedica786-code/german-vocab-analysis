@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0487"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Koalitionsvertrag.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Koalitionsvertrag
+
+![[Koalitionsvertrag.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Koalitionsvertrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koalitionsvertrag&language=de)
 
 **Meaning:** coalition agreement
 **Plural:** Koalitionsverträge

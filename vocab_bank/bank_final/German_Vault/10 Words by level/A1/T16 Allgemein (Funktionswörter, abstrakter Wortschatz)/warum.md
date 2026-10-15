@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # warum
 
+[▶️ YouGlish](https://youglish.com/pronounce/warum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=warum&language=de)
+
 **Meaning:** why
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

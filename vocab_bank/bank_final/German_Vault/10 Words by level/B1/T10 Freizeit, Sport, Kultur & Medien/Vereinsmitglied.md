@@ -15,11 +15,16 @@ id: "B4779"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Vereinsmitglied.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vereinsmitglied
+
+![[Vereinsmitglied.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vereinsmitglied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vereinsmitglied&language=de)
 
 **Meaning:** club member
 **Plural:** Vereinsmitglieder

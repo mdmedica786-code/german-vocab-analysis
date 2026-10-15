@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3195"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "erschüttern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # erschüttern
+
+![[erschüttern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ersch%C3%BCttern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ersch%C3%BCttern&language=de)
 
 **Meaning:** to shake; to shock; to shatter
 **Forms:** erschüttert · erschütterte · hat erschüttert

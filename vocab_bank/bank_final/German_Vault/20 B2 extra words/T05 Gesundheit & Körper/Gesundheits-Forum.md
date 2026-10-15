@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4009"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gesundheits-Forum
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesundheits-Forum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheits-Forum&language=de)
 
 **Meaning:** health forum
 **Plural:** Gesundheits-Foren

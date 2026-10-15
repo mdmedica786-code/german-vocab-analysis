@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "haltbar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # haltbar
+
+![[haltbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/haltbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=haltbar&language=de)
 
 **Meaning:** durable; long-lasting
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

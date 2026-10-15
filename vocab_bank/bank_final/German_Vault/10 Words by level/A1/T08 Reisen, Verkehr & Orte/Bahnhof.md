@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Bahnhof
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bahnhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnhof&language=de)
+
 **Meaning:** train station
 **Plural:** Bahnhöfe
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

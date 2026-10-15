@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b"
 freq_rank: 2243
 skip: false
+audio: "Herkunft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Herkunft
+
+![[Herkunft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herkunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herkunft&language=de)
 
 **Meaning:** origin
 **Plural:** Herkünfte

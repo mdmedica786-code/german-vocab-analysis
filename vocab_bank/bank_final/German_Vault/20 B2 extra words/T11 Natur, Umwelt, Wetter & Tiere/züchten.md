@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4668"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "züchten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # züchten
+
+![[züchten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/z%C3%BCchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%BCchten&language=de)
 
 **Meaning:** to breed; to grow (plants)
 **Forms:** züchtet · züchtete · hat gezüchtet

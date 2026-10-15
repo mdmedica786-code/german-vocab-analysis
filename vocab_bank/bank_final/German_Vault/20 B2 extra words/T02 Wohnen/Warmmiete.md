@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1080"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Warmmiete.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Warmmiete
+
+![[Warmmiete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Warmmiete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Warmmiete&language=de)
 
 **Meaning:** rent including heating and utilities
 **Plural:** Warmmieten

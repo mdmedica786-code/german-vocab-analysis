@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3790"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Bekanntheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Bekanntheit
+
+![[Bekanntheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bekanntheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekanntheit&language=de)
 
 **Meaning:** fame; popularity; being well known
 **Plural:** –

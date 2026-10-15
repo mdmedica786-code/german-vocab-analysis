@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 348
 skip: false
+audio: "laut.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # laut
+
+![[laut.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/laut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=laut&language=de)
 
 **Meaning:** loud; (prep.) according to
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

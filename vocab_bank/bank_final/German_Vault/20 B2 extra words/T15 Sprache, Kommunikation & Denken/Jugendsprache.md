@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1928"
 exam_use: ["Sprechen", "Medien"]
 skip: false
+audio: "Jugendsprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jugendsprache
+
+![[Jugendsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jugendsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendsprache&language=de)
 
 **Meaning:** youth slang
 **Plural:** Jugendsprachen

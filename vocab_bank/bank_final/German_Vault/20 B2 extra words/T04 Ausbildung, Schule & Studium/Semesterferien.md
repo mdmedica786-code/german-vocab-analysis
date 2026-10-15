@@ -13,11 +13,16 @@ bank: "b2"
 id: "D0945"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Semesterferien.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Semesterferien
+
+![[Semesterferien.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Semesterferien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Semesterferien&language=de)
 
 **Meaning:** semester break
 **Plural:** Semesterferien

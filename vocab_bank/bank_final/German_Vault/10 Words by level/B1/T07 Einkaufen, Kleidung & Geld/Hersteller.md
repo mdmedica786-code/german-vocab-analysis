@@ -15,11 +15,16 @@ id: "B5886"
 goethe_level: "B1"
 freq_rank: 3311
 skip: false
+audio: "Hersteller.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hersteller
+
+![[Hersteller.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hersteller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hersteller&language=de)
 
 **Meaning:** manufacturer
 **Plural:** Hersteller

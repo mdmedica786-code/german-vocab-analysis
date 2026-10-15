@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2a"
 freq_rank: 1392
 skip: false
+audio: "Region.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Region
+
+![[Region.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Region/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Region&language=de)
 
 **Meaning:** region
 **Plural:** Regionen

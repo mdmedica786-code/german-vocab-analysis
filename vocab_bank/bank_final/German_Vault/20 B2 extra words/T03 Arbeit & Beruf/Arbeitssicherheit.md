@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0467"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Arbeitssicherheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitssicherheit
+
+![[Arbeitssicherheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitssicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitssicherheit&language=de)
 
 **Meaning:** safety at work
 **Plural:** –

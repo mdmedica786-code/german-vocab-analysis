@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 1162
 skip: false
+audio: "packen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # packen
+
+![[packen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/packen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=packen&language=de)
 
 **Meaning:** to pack
 **Forms:** packt · packte · hat gepackt

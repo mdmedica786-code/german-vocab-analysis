@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0629"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Shitstorm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Shitstorm
+
+![[Shitstorm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Shitstorm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Shitstorm&language=de)
 
 **Meaning:** online outrage; storm of criticism
 **Plural:** Shitstorms

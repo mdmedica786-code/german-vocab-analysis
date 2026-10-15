@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das PDF-Dokument
 
+[▶️ YouGlish](https://youglish.com/pronounce/PDF-Dokument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=PDF-Dokument&language=de)
+
 **Meaning:** PDF document
 **Plural:** PDF-Dokumente
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

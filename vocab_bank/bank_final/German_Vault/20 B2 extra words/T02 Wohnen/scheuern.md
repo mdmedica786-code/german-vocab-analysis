@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1717"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "scheuern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # scheuern
+
+![[scheuern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/scheuern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheuern&language=de)
 
 **Meaning:** to scrub; to chafe
 **Forms:** scheuert · scheuerte · hat gescheuert

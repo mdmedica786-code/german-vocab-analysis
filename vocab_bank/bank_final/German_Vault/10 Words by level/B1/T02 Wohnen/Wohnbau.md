@@ -15,11 +15,16 @@ id: "B4972"
 netzwerk: "B1 K11 10"
 freq_rank: 5759
 skip: false
+audio: "Wohnbau.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wohnbau
+
+![[Wohnbau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnbau&language=de)
 
 **Meaning:** housing construction
 **Plural:** –

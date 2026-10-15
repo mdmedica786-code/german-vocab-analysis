@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 1765
 skip: false
+audio: "kühl.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kühl
+
+![[kühl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BChl&language=de)
 
 **Meaning:** cool
 **Level:** A2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4462"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Stilmittel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Stilmittel
+
+![[Stilmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stilmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stilmittel&language=de)
 
 **Meaning:** stylistic device
 **Plural:** Stilmittel

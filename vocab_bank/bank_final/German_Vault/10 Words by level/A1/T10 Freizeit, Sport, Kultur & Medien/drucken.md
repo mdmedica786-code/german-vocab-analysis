@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 6a"
 freq_rank: 4314
 skip: false
+audio: "drucken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drucken
+
+![[drucken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drucken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drucken&language=de)
 
 **Meaning:** to print
 **Forms:** druckt · druckte · hat gedruckt

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0280"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "bemängeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bemängeln
+
+![[bemängeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bem%C3%A4ngeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bem%C3%A4ngeln&language=de)
 
 **Meaning:** to find fault with; to criticise
 **Forms:** bemängelt · bemängelte · hat bemängelt

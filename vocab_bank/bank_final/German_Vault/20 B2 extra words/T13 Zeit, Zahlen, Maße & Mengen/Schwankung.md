@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0965"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Schwankung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schwankung
+
+![[Schwankung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwankung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwankung&language=de)
 
 **Meaning:** fluctuation
 **Plural:** Schwankungen

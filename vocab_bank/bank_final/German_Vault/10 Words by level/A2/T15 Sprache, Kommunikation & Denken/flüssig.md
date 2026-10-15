@@ -12,11 +12,16 @@ id: "B2807"
 netzwerk: "A2 K8 10b"
 freq_rank: 5759
 skip: false
+audio: "flüssig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # flüssig
+
+![[flüssig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCssig&language=de)
 
 **Meaning:** fluent; liquid
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

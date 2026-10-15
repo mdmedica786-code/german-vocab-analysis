@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1570"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "eigensinnig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # eigensinnig
+
+![[eigensinnig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eigensinnig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eigensinnig&language=de)
 
 **Meaning:** headstrong; obstinate
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

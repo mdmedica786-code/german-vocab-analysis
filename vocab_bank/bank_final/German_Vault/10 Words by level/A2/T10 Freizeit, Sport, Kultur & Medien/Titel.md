@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 11a"
 freq_rank: 1270
 skip: false
+audio: "Titel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Titel
+
+![[Titel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Titel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Titel&language=de)
 
 **Meaning:** title
 **Plural:** Titel

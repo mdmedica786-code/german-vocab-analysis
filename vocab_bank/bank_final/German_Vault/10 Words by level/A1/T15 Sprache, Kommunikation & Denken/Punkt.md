@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 7b"
 freq_rank: 492
 skip: false
+audio: "Punkt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Punkt
+
+![[Punkt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Punkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Punkt&language=de)
 
 **Meaning:** period (full stop); point; dot
 **Plural:** Punkte

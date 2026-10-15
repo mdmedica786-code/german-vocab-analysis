@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3625"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Abrechnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abrechnung
+
+![[Abrechnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abrechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abrechnung&language=de)
 
 **Meaning:** bill; statement; settlement
 **Plural:** Abrechnungen

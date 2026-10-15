@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 6a"
 freq_rank: 4517
 skip: false
+audio: "Treffpunkt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Treffpunkt
+
+![[Treffpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Treffpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treffpunkt&language=de)
 
 **Meaning:** meeting point
 **Plural:** Treffpunkte

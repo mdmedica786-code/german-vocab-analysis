@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1885"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Pendler.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pendler
+
+![[Pendler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pendler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pendler&language=de)
 
 **Meaning:** commuter
 **Plural:** Pendler

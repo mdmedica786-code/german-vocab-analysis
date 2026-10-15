@@ -15,11 +15,16 @@ id: "B1107"
 netzwerk: "A1 K7 5d"
 freq_rank: 5759
 skip: false
+audio: "Kurzform.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kurzform
+
+![[Kurzform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurzform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurzform&language=de)
 
 **Meaning:** shortened form
 **Plural:** Kurzformen

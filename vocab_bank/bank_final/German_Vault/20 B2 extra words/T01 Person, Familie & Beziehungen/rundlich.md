@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2356"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "rundlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rundlich
+
+![[rundlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rundlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rundlich&language=de)
 
 **Meaning:** roundish; plump
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

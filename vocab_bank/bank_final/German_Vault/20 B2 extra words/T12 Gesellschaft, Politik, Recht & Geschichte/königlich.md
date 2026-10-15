@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2677"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "königlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # königlich
+
+![[königlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%B6niglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%B6niglich&language=de)
 
 **Meaning:** royal
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

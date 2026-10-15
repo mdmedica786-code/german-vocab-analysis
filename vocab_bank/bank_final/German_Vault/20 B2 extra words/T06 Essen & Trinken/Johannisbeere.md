@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1995"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Johannisbeere.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Johannisbeere
+
+![[Johannisbeere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Johannisbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Johannisbeere&language=de)
 
 **Meaning:** redcurrant; blackcurrant
 **Plural:** Johannisbeeren

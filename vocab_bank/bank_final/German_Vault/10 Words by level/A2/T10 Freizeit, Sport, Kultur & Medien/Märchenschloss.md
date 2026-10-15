@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Märchenschloss
 
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4rchenschloss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4rchenschloss&language=de)
+
 **Meaning:** fairytale castle
 **Plural:** Märchenschlösser
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

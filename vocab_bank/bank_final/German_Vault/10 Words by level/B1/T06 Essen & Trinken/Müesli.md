@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "duplicate of B0607 (learn that entry)"
 check: "dup:B0607"
+audio: "Müesli.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Müesli
+
+![[Müesli.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCesli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCesli&language=de)
 
 **Meaning:** muesli (Swiss spelling)
 **Plural:** Müesli

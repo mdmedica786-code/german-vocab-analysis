@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 1279
 skip: false
+audio: "Firma.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Firma
+
+![[Firma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Firma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firma&language=de)
 
 **Meaning:** company
 **Plural:** Firmen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6198"
 freq_rank: 4847
 skip: false
+audio: "Kontinent.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kontinent
+
+![[Kontinent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontinent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontinent&language=de)
 
 **Meaning:** continent
 **Plural:** Kontinente

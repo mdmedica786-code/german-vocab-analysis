@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2960"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "begraben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # begraben
+
+![[begraben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begraben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begraben&language=de)
 
 **Meaning:** to bury
 **Forms:** begräbt · begrub · hat begraben

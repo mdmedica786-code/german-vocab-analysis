@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0474"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Bewerbungsmappe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewerbungsmappe
+
+![[Bewerbungsmappe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerbungsmappe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbungsmappe&language=de)
 
 **Meaning:** application folder
 **Plural:** Bewerbungsmappen

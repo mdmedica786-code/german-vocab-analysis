@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1371"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "vorab.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorab
+
+![[vorab.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorab&language=de)
 
 **Meaning:** in advance; beforehand
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

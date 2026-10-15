@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3589"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Drehung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Drehung
+
+![[Drehung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drehung&language=de)
 
 **Meaning:** turn; rotation
 **Plural:** Drehungen

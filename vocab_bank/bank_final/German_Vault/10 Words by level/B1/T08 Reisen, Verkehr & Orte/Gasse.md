@@ -15,11 +15,16 @@ id: "B4986"
 netzwerk: "B1 K11 12b"
 freq_rank: 3041
 skip: false
+audio: "Gasse.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gasse
+
+![[Gasse.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gasse&language=de)
 
 **Meaning:** alley
 **Plural:** Gassen

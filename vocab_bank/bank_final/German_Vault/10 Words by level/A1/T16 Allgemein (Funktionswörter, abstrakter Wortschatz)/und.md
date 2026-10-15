@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # und
 
+[▶️ YouGlish](https://youglish.com/pronounce/und/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=und&language=de)
+
 **Meaning:** and
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

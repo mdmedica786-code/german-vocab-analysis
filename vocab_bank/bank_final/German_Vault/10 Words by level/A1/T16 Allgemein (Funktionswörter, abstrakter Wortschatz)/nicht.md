@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # nicht
 
+[▶️ YouGlish](https://youglish.com/pronounce/nicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nicht&language=de)
+
 **Meaning:** not
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

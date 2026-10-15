@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 5b"
 freq_rank: 432
 skip: false
+audio: "innerhalb.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # innerhalb
+
+![[innerhalb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/innerhalb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=innerhalb&language=de)
 
 **Meaning:** within
 **Case:** + Gen.

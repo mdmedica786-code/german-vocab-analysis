@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4091"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Jugendzentrum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Jugendzentrum
+
+![[Jugendzentrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jugendzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jugendzentrum&language=de)
 
 **Meaning:** youth centre
 **Plural:** Jugendzentren

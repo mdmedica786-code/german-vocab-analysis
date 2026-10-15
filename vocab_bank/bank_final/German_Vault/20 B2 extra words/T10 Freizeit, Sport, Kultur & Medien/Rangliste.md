@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4343"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Rangliste.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Rangliste
+
+![[Rangliste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rangliste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rangliste&language=de)
 
 **Meaning:** ranking; league table
 **Plural:** Ranglisten

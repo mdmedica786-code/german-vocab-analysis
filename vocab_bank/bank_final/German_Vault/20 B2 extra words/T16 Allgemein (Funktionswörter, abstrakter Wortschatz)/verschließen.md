@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2762"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "verschließen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verschließen
+
+![[verschließen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verschlie%C3%9Fen&language=de)
 
 **Meaning:** to lock; to close; to shut
 **Forms:** verschließt · verschloss · hat verschlossen

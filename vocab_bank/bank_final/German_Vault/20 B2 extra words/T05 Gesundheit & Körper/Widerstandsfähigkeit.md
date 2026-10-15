@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4638"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Widerstandsfähigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Widerstandsfähigkeit
+
+![[Widerstandsfähigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Widerstandsf%C3%A4higkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerstandsf%C3%A4higkeit&language=de)
 
 **Meaning:** resilience; resistance
 **Plural:** –

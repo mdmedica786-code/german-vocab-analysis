@@ -15,11 +15,16 @@ id: "B5889"
 goethe_level: "A2"
 freq_rank: 3326
 skip: false
+audio: "Brille.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Brille
+
+![[Brille.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brille&language=de)
 
 **Meaning:** glasses
 **Plural:** Brillen

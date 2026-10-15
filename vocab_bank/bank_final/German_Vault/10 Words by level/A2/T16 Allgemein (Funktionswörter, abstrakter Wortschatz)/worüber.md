@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 1b"
 freq_rank: 3766
 skip: false
+audio: "worüber.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # worüber
+
+![[worüber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wor%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wor%C3%BCber&language=de)
 
 **Meaning:** about
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

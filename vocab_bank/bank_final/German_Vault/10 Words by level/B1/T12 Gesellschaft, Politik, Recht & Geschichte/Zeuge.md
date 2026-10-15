@@ -15,11 +15,16 @@ id: "B6022"
 goethe_level: "B1"
 freq_rank: 3990
 skip: false
+audio: "Zeuge.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeuge
+
+![[Zeuge.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeuge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeuge&language=de)
 
 **Meaning:** witness
 **Plural:** Zeugen

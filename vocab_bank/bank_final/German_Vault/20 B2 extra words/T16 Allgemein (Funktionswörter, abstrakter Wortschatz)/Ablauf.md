@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2481"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ablauf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ablauf
+
+![[Ablauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ablauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ablauf&language=de)
 
 **Meaning:** course; process; expiry
 **Plural:** Abläufe

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 4545
 skip: false
+audio: "Vollzeit.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vollzeit
+
+![[Vollzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollzeit&language=de)
 
 **Meaning:** full-time
 **Plural:** –

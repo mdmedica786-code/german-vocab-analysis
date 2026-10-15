@@ -11,11 +11,16 @@ bank: "main"
 id: "B6033"
 freq_rank: 4036
 skip: false
+audio: "gegeneinander.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gegeneinander
+
+![[gegeneinander.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gegeneinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegeneinander&language=de)
 
 **Meaning:** against each other
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

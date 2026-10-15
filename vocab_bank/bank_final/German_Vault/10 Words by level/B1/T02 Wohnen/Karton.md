@@ -15,11 +15,16 @@ id: "B3764"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Karton.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Karton
+
+![[Karton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Karton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karton&language=de)
 
 **Meaning:** cardboard box; carton
 **Plural:** Kartons

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0450"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Reklamation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reklamation
+
+![[Reklamation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reklamation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reklamation&language=de)
 
 **Meaning:** complaint (about goods); claim
 **Plural:** Reklamationen

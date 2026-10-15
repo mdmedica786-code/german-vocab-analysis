@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 232
 skip: false
+audio: "einzeln.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # einzeln
+
+![[einzeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einzeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einzeln&language=de)
 
 **Meaning:** single; individual
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

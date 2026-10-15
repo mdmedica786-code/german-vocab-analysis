@@ -15,11 +15,16 @@ id: "B1200"
 netzwerk: "A1 K8 1c"
 freq_rank: 5759
 skip: false
+audio: "Süßigkeit.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Süßigkeit
+
+![[Süßigkeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%BC%C3%9Figkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BC%C3%9Figkeit&language=de)
 
 **Meaning:** sweet
 **Plural:** Süßigkeiten

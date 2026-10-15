@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1148"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Gastfreundschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gastfreundschaft
+
+![[Gastfreundschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gastfreundschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastfreundschaft&language=de)
 
 **Meaning:** hospitality
 **Plural:** –

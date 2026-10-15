@@ -14,11 +14,16 @@ bank: "main"
 id: "B5821"
 freq_rank: 3003
 skip: false
+audio: "Anregung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anregung
+
+![[Anregung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anregung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anregung&language=de)
 
 **Meaning:** suggestion; stimulation
 **Plural:** Anregungen

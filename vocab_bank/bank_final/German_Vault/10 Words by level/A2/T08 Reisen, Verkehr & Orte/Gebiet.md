@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 1038
 skip: false
+audio: "Gebiet.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gebiet
+
+![[Gebiet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebiet&language=de)
 
 **Meaning:** area
 **Plural:** Gebiete

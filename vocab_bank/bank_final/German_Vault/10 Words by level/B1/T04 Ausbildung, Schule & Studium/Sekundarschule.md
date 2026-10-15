@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Sekundarschule.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sekundarschule
+
+![[Sekundarschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sekundarschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekundarschule&language=de)
 
 **Meaning:** secondary school (Swiss)
 **Plural:** Sekundarschulen

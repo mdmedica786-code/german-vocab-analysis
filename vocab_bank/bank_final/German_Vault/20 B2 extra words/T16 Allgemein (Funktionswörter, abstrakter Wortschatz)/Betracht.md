@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Betracht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Betracht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betracht&language=de)
+
 **Meaning:** consideration (only in "in Betracht")
 **Plural:** –
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

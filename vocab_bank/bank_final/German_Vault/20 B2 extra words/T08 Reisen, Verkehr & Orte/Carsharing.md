@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3834"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Carsharing.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Carsharing
+
+![[Carsharing.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Carsharing/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Carsharing&language=de)
 
 **Meaning:** car sharing
 **Plural:** –

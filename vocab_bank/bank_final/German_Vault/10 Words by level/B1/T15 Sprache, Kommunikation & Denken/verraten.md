@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 1490
 skip: false
+audio: "verraten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verraten
+
+![[verraten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verraten&language=de)
 
 **Meaning:** to reveal; to betray
 **Forms:** verrät · verriet · hat verraten

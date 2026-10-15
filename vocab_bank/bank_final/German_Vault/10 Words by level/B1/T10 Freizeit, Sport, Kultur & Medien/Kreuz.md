@@ -15,11 +15,16 @@ id: "B5454"
 goethe_level: "B1"
 freq_rank: 2000
 skip: false
+audio: "Kreuz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kreuz
+
+![[Kreuz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreuz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreuz&language=de)
 
 **Meaning:** cross
 **Plural:** Kreuze

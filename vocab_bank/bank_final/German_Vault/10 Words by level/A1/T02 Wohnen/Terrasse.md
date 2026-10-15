@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 3a"
 freq_rank: 3281
 skip: false
+audio: "Terrasse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Terrasse
+
+![[Terrasse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Terrasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Terrasse&language=de)
 
 **Meaning:** patio
 **Plural:** Terrassen

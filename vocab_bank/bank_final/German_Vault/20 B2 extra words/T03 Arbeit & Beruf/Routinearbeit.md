@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4359"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Routinearbeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Routinearbeit
+
+![[Routinearbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Routinearbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Routinearbeit&language=de)
 
 **Meaning:** routine work; routine task
 **Plural:** Routinearbeiten

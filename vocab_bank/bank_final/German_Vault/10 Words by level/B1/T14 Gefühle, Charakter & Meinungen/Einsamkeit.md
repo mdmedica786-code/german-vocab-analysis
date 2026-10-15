@@ -15,11 +15,16 @@ id: "B3340"
 netzwerk: "B1 K1 13a"
 freq_rank: 3201
 skip: false
+audio: "Einsamkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einsamkeit
+
+![[Einsamkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einsamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einsamkeit&language=de)
 
 **Meaning:** solitude
 **Plural:** –

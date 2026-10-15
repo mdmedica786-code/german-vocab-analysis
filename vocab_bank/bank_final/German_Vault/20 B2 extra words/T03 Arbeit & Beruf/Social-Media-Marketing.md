@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4420"
 exam_use: ["Medien", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Social-Media-Marketing
+
+[▶️ YouGlish](https://youglish.com/pronounce/Social-Media-Marketing/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social-Media-Marketing&language=de)
 
 **Meaning:** social media marketing
 **Plural:** –

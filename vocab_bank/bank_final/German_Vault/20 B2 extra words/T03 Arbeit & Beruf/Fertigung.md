@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0439"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Fertigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fertigung
+
+![[Fertigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fertigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fertigung&language=de)
 
 **Meaning:** production; manufacturing
 **Plural:** Fertigungen

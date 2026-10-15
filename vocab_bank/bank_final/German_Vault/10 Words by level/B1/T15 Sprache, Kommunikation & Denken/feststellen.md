@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 2b"
 freq_rank: 853
 skip: false
+audio: "feststellen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # feststellen
+
+![[feststellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/feststellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feststellen&language=de)
 
 **Meaning:** to notice; to establish; to realise
 **Forms:** stellt fest · stellte fest · hat festgestellt

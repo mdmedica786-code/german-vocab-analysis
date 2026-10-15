@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3527"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Verwunderung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwunderung
+
+![[Verwunderung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwunderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwunderung&language=de)
 
 **Meaning:** astonishment; surprise
 **Plural:** –

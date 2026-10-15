@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3811"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Bilderrätsel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Bilderrätsel
+
+![[Bilderrätsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bilderr%C3%A4tsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilderr%C3%A4tsel&language=de)
 
 **Meaning:** picture puzzle; rebus
 **Plural:** Bilderrätsel

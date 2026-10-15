@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1013"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Sperrung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sperrung
+
+![[Sperrung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sperrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sperrung&language=de)
 
 **Meaning:** closure; blocking
 **Plural:** Sperrungen

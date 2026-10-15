@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4646"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Wohntrend
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohntrend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohntrend&language=de)
 
 **Meaning:** interior trend; living trend
 **Plural:** Wohntrends

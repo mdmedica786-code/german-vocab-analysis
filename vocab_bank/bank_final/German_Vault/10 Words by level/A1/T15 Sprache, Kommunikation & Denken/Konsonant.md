@@ -15,11 +15,16 @@ id: "B0502"
 netzwerk: "A1 K3 5a"
 freq_rank: 5759
 skip: false
+audio: "Konsonant.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konsonant
+
+![[Konsonant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsonant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsonant&language=de)
 
 **Meaning:** consonant
 **Plural:** Konsonanten

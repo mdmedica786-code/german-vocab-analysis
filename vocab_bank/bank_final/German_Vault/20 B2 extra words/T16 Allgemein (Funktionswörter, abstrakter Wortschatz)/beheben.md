@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3787"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "beheben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # beheben
+
+![[beheben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beheben&language=de)
 
 **Meaning:** to fix; to remedy; to eliminate
 **Forms:** behebt · behob · hat behoben

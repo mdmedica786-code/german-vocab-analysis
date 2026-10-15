@@ -14,11 +14,16 @@ bank: "main"
 id: "B5232"
 freq_rank: 986
 skip: false
+audio: "Stirn.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stirn
+
+![[Stirn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stirn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stirn&language=de)
 
 **Meaning:** forehead
 **Plural:** Stirnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0535"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Geflüchtete.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # Geflüchtete
+
+![[Geflüchtete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gefl%C3%BCchtete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefl%C3%BCchtete&language=de)
 
 **Meaning:** refugee
 **Plural:** Geflüchteten

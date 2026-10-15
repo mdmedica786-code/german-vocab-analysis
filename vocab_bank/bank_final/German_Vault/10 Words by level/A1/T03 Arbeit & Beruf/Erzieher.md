@@ -15,11 +15,16 @@ id: "B0373"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5112
 skip: false
+audio: "Erzieher.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Erzieher
+
+![[Erzieher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erzieher&language=de)
 
 **Meaning:** kindergarten teacher (m)
 **Plural:** Erzieher

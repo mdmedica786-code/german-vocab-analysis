@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # vorgeschrieben sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/vorgeschrieben%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorgeschrieben%20sein&language=de)
+
 **Meaning:** to be mandatory
 **Forms:** ist vorgeschrieben · war vorgeschrieben · ist vorgeschrieben gewesen
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

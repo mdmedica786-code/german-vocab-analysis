@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 1862
 skip: false
+audio: "Computer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Computer
+
+![[Computer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Computer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computer&language=de)
 
 **Meaning:** computer
 **Plural:** Computer

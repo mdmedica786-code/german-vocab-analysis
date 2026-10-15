@@ -15,11 +15,16 @@ id: "B6179"
 goethe_level: "B1"
 freq_rank: 4785
 skip: false
+audio: "Killer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Killer
+
+![[Killer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Killer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Killer&language=de)
 
 **Meaning:** killer
 **Plural:** Killer

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3770"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Backpulver.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Backpulver
+
+![[Backpulver.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Backpulver/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backpulver&language=de)
 
 **Meaning:** baking powder
 **Plural:** –

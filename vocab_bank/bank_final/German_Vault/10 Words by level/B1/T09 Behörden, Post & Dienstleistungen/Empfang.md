@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 3304
 skip: false
+audio: "Empfang.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Empfang
+
+![[Empfang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Empfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Empfang&language=de)
 
 **Meaning:** reception
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 5a ÜB"
 freq_rank: 3774
 skip: false
+audio: "Konto.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Konto
+
+![[Konto.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konto&language=de)
 
 **Meaning:** account
 **Plural:** Konten

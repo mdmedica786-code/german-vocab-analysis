@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2400"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "starren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # starren
+
+![[starren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/starren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=starren&language=de)
 
 **Meaning:** to stare
 **Forms:** starrt · starrte · hat gestarrt

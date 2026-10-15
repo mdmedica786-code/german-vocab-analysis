@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1309"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "verärgern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verärgern
+
+![[verärgern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ver%C3%A4rgern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ver%C3%A4rgern&language=de)
 
 **Meaning:** to annoy; to anger
 **Forms:** verärgert · verärgerte · hat verärgert

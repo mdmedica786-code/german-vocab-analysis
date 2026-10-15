@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 12b"
 freq_rank: 3692
 skip: false
+audio: "Erfindung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erfindung
+
+![[Erfindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erfindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfindung&language=de)
 
 **Meaning:** invention
 **Plural:** Erfindungen

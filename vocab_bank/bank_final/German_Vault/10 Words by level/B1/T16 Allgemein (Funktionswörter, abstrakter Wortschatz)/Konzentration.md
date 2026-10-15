@@ -15,11 +15,16 @@ id: "B4319"
 netzwerk: "B1 K7 11c"
 freq_rank: 2215
 skip: false
+audio: "Konzentration.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konzentration
+
+![[Konzentration.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzentration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzentration&language=de)
 
 **Meaning:** concentration; (substance) level
 **Plural:** –

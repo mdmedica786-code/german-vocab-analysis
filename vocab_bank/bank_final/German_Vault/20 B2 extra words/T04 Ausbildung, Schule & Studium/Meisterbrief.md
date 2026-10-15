@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1910"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Meisterbrief.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Meisterbrief
+
+![[Meisterbrief.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meisterbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meisterbrief&language=de)
 
 **Meaning:** master craftsman's certificate
 **Plural:** Meisterbriefe

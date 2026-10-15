@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 6b"
 freq_rank: 473
 skip: false
+audio: "Verhältnis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verhältnis
+
+![[Verhältnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verh%C3%A4ltnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verh%C3%A4ltnis&language=de)
 
 **Meaning:** relationship; ratio; (pl.) conditions
 **Plural:** Verhältnisse

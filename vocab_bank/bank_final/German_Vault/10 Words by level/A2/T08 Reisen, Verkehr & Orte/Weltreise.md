@@ -15,11 +15,16 @@ id: "B2021"
 netzwerk: "A2 K2 9a"
 freq_rank: 5759
 skip: false
+audio: "Weltreise.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weltreise
+
+![[Weltreise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weltreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltreise&language=de)
 
 **Meaning:** world trip
 **Plural:** Weltreisen

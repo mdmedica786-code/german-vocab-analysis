@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 12a"
 freq_rank: 1031
 skip: false
+audio: "Angabe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Angabe
+
+![[Angabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angabe&language=de)
 
 **Meaning:** information; statement; detail
 **Plural:** Angaben

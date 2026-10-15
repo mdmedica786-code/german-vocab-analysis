@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2451"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "strecken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # strecken
+
+![[strecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strecken&language=de)
 
 **Meaning:** to stretch; to extend
 **Forms:** streckt · streckte · hat gestreckt

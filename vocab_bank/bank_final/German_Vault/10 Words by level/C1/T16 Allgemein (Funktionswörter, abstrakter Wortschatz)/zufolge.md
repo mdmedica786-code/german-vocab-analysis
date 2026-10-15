@@ -11,11 +11,16 @@ bank: "main"
 id: "B5642"
 freq_rank: 2631
 skip: false
+audio: "zufolge.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # zufolge
+
+![[zufolge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zufolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zufolge&language=de)
 
 **Meaning:** according to
 **Case:** + Dat.

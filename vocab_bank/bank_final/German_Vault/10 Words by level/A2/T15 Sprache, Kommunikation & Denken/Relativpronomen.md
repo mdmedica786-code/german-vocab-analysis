@@ -15,11 +15,16 @@ id: "B3217"
 netzwerk: "A2 K12 7d"
 freq_rank: 5759
 skip: false
+audio: "Relativpronomen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Relativpronomen
+
+![[Relativpronomen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Relativpronomen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Relativpronomen&language=de)
 
 **Meaning:** relative pronoun
 **Plural:** Relativpronomen

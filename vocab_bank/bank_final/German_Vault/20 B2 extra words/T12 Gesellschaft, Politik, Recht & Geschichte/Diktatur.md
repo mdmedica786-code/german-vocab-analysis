@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0478"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Diktatur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Diktatur
+
+![[Diktatur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diktatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diktatur&language=de)
 
 **Meaning:** dictatorship
 **Plural:** Diktaturen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6341"
 freq_rank: 5754
 skip: false
+audio: "Fachbereich.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fachbereich
+
+![[Fachbereich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachbereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachbereich&language=de)
 
 **Meaning:** department; field of study
 **Plural:** Fachbereiche

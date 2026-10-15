@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 10a"
 freq_rank: 922
 skip: false
+audio: "Farbe.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Farbe
+
+![[Farbe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Farbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Farbe&language=de)
 
 **Meaning:** colour
 **Plural:** Farben

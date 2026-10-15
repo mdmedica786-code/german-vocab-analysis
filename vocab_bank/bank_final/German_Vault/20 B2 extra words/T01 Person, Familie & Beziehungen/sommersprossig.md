@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2357"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "sommersprossig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # sommersprossig
+
+![[sommersprossig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sommersprossig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sommersprossig&language=de)
 
 **Meaning:** freckled
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

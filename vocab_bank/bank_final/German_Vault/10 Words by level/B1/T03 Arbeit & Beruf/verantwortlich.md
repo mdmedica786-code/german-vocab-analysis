@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7a"
 freq_rank: 1368
 skip: false
+audio: "verantwortlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verantwortlich
+
+![[verantwortlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verantwortlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verantwortlich&language=de)
 
 **Meaning:** responsible
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

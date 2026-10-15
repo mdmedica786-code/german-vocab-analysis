@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 2000
 skip: false
+audio: "Recht.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Recht
+
+![[Recht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Recht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Recht&language=de)
 
 **Meaning:** law; right
 **Plural:** Rechte

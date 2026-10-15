@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0759"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bemerkenswert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bemerkenswert
+
+![[bemerkenswert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bemerkenswert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bemerkenswert&language=de)
 
 **Meaning:** remarkable; noteworthy
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B2872"
 netzwerk: "A2 K9 10a"
 freq_rank: 5759
 skip: false
+audio: "Hochseilgarten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hochseilgarten
+
+![[Hochseilgarten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochseilgarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochseilgarten&language=de)
 
 **Meaning:** high ropes course
 **Plural:** Hochseilgärten

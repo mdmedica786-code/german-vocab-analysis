@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0952"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Stichprobe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stichprobe
+
+![[Stichprobe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stichprobe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stichprobe&language=de)
 
 **Meaning:** sample; spot check
 **Plural:** Stichproben

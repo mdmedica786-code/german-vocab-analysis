@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 8a"
 freq_rank: 2021
 skip: false
+audio: "Streit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Streit
+
+![[Streit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streit&language=de)
 
 **Meaning:** argument; quarrel
 **Plural:** Streite

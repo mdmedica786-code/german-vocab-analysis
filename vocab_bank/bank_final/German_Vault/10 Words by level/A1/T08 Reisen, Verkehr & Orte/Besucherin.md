@@ -15,11 +15,16 @@ id: "B0446"
 netzwerk: "A1 K3 1b"
 freq_rank: 5759
 skip: false
+audio: "Besucherin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besucherin
+
+![[Besucherin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besucherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besucherin&language=de)
 
 **Meaning:** visitor (f)
 **Plural:** Besucherinnen

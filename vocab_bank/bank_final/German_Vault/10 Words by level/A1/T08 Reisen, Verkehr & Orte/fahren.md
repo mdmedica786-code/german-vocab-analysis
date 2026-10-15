@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7a"
 freq_rank: 202
 skip: false
+audio: "fahren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fahren
+
+![[fahren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fahren&language=de)
 
 **Meaning:** to drive; to go (by vehicle)
 **Forms:** fährt · fuhr · ist gefahren

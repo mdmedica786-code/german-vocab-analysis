@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3260"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "trösten.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # trösten
+
+![[trösten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tr%C3%B6sten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tr%C3%B6sten&language=de)
 
 **Meaning:** to comfort; to console
 **Forms:** tröstet · tröstete · hat getröstet

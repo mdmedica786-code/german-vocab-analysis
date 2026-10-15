@@ -15,11 +15,16 @@ id: "B4382"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "Wasserflasche.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wasserflasche
+
+![[Wasserflasche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wasserflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserflasche&language=de)
 
 **Meaning:** water bottle
 **Plural:** Wasserflaschen

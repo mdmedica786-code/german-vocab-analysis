@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2866"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Szenario.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Szenario
+
+![[Szenario.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Szenario/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Szenario&language=de)
 
 **Meaning:** scenario
 **Plural:** Szenarien

@@ -15,11 +15,16 @@ id: "B4547"
 netzwerk: "B1 K8 13a"
 freq_rank: 1756
 skip: false
+audio: "Schönheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schönheit
+
+![[Schönheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6nheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6nheit&language=de)
 
 **Meaning:** beauty
 **Plural:** Schönheiten

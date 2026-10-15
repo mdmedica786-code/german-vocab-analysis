@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1880"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Lebenserwartung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lebenserwartung
+
+![[Lebenserwartung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebenserwartung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebenserwartung&language=de)
 
 **Meaning:** life expectancy
 **Plural:** Lebenserwartungen

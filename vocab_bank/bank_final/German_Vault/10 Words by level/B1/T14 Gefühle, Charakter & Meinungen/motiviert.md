@@ -12,11 +12,16 @@ id: "B4525"
 netzwerk: "B1 K8 11c"
 freq_rank: 2843
 skip: false
+audio: "motiviert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # motiviert
+
+![[motiviert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/motiviert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=motiviert&language=de)
 
 **Meaning:** motivated
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

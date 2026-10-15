@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0206"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bewerkstelligen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewerkstelligen
+
+![[bewerkstelligen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bewerkstelligen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewerkstelligen&language=de)
 
 **Meaning:** to manage; to bring about
 **Forms:** bewerkstelligt · bewerkstelligte · hat bewerkstelligt

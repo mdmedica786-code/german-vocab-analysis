@@ -13,11 +13,16 @@ id: "B0948"
 netzwerk: "A1 K6 6a"
 freq_rank: 5759
 skip: false
+audio: "einsammeln.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einsammeln
+
+![[einsammeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einsammeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einsammeln&language=de)
 
 **Meaning:** to collect
 **Forms:** sammelt ein · sammelte ein · hat eingesammelt

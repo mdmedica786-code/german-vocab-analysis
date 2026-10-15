@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1897"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Vereinsleben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vereinsleben
+
+![[Vereinsleben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vereinsleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vereinsleben&language=de)
 
 **Meaning:** club life; life of clubs
 **Plural:** –

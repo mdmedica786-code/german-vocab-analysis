@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3137"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gläubig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gläubig
+
+![[gläubig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gl%C3%A4ubig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gl%C3%A4ubig&language=de)
 
 **Meaning:** religious; devout
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

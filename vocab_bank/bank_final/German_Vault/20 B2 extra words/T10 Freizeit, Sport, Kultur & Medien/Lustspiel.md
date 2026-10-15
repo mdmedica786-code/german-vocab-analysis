@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0996"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Lustspiel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lustspiel
+
+![[Lustspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lustspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lustspiel&language=de)
 
 **Meaning:** comedy (play)
 **Plural:** Lustspiele

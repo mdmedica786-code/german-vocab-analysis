@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Klasse
 
+[▶️ YouGlish](https://youglish.com/pronounce/Klasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klasse&language=de)
+
 **Meaning:** class
 **Plural:** Klassen
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

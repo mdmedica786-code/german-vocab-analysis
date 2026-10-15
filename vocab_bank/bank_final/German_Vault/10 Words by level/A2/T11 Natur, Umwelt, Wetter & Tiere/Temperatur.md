@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 1491
 skip: false
+audio: "Temperatur.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Temperatur
+
+![[Temperatur.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Temperatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Temperatur&language=de)
 
 **Meaning:** temperature
 **Plural:** Temperaturen

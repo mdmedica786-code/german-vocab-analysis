@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2419"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "christlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # christlich
+
+![[christlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/christlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=christlich&language=de)
 
 **Meaning:** Christian
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

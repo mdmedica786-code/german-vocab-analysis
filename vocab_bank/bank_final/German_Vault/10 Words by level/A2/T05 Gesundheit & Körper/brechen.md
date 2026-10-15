@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 708
 skip: false
+audio: "brechen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # brechen
+
+![[brechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/brechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brechen&language=de)
 
 **Meaning:** to break; to fracture
 **Forms:** bricht · brach · ist/hat gebrochen

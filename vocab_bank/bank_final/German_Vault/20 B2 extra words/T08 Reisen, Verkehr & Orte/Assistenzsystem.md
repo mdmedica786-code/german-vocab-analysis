@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3737"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Assistenzsystem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Assistenzsystem
+
+![[Assistenzsystem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Assistenzsystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Assistenzsystem&language=de)
 
 **Meaning:** assistance system; driver-assistance system
 **Plural:** Assistenzsysteme

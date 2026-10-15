@@ -14,11 +14,16 @@ bank: "main"
 id: "B5377"
 freq_rank: 1690
 skip: false
+audio: "Wandel.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wandel
+
+![[Wandel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wandel&language=de)
 
 **Meaning:** change
 **Plural:** –

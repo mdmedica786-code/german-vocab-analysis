@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 2a"
 freq_rank: 1667
 skip: false
+audio: "eröffnen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eröffnen
+
+![[eröffnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/er%C3%B6ffnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=er%C3%B6ffnen&language=de)
 
 **Meaning:** to open
 **Forms:** eröffnet · eröffnete · hat eröffnet

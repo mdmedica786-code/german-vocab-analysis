@@ -13,11 +13,16 @@ id: "B6379"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "blühen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # blühen
+
+![[blühen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bl%C3%BChen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bl%C3%BChen&language=de)
 
 **Meaning:** to bloom
 **Forms:** blüht · blühte · hat geblüht

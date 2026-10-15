@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 6c"
 freq_rank: 5759
 skip: false
+audio: "auspacken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auspacken
+
+![[auspacken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auspacken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auspacken&language=de)
 
 **Meaning:** to unpack
 **Forms:** packt aus · packte aus · hat ausgepackt

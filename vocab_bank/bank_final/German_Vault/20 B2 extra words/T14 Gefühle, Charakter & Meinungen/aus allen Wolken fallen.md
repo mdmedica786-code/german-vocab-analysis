@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2048"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "aus allen Wolken fallen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # aus allen Wolken fallen
+
+![[aus allen Wolken fallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aus%20allen%20Wolken%20fallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aus%20allen%20Wolken%20fallen&language=de)
 
 **Meaning:** to be flabbergasted
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

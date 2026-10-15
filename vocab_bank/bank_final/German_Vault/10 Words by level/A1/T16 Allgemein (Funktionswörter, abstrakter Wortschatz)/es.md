@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # es
 
+[▶️ YouGlish](https://youglish.com/pronounce/es/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=es&language=de)
+
 **Meaning:** it
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5313"
 freq_rank: 1371
 skip: false
+audio: "zeitlich.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # zeitlich
+
+![[zeitlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zeitlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeitlich&language=de)
 
 **Meaning:** time-related; temporal
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

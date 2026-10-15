@@ -15,11 +15,16 @@ id: "B5049"
 netzwerk: "B1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "Log-in.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Log-in
+
+![[Log-in.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Log-in/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Log-in&language=de)
 
 **Meaning:** log-in
 **Plural:** Log-ins

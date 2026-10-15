@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 501
 skip: false
+audio: "Schulter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schulter
+
+![[Schulter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schulter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulter&language=de)
 
 **Meaning:** shoulder
 **Plural:** Schultern

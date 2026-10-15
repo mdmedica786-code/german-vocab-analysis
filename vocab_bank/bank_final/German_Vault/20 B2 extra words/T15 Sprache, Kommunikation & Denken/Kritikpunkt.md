@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0370"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Kritikpunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kritikpunkt
+
+![[Kritikpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kritikpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kritikpunkt&language=de)
 
 **Meaning:** point of criticism
 **Plural:** Kritikpunkte

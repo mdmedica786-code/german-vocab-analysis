@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2647"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Auflösung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auflösung
+
+![[Auflösung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufl%C3%B6sung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufl%C3%B6sung&language=de)
 
 **Meaning:** dissolution; resolution; solution
 **Plural:** Auflösungen

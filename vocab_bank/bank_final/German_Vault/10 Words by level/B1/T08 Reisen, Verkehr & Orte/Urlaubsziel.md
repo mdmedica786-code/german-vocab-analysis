@@ -15,11 +15,16 @@ id: "B3274"
 netzwerk: "B1 K1 3b"
 freq_rank: 5759
 skip: false
+audio: "Urlaubsziel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Urlaubsziel
+
+![[Urlaubsziel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsziel&language=de)
 
 **Meaning:** holiday destination
 **Plural:** Urlaubsziele

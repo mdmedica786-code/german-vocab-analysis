@@ -12,11 +12,16 @@ id: "B3457"
 netzwerk: "B1 K2 6d"
 freq_rank: 5759
 skip: false
+audio: "Hightech.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Hightech
+
+![[Hightech.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hightech/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hightech&language=de)
 
 **Meaning:** high tech
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

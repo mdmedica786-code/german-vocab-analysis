@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 11a"
 freq_rank: 2191
 skip: false
+audio: "gewöhnen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewöhnen
+
+![[gewöhnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gew%C3%B6hnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gew%C3%B6hnen&language=de)
 
 **Meaning:** to get used to
 **Forms:** gewöhnt · gewöhnte · hat gewöhnt

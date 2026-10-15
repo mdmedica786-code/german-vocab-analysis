@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # außer Frage stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Fer%20Frage%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Fer%20Frage%20stehen&language=de)
+
 **Meaning:** to be beyond question
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

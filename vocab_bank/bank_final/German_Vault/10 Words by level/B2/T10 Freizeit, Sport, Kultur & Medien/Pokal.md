@@ -14,11 +14,16 @@ bank: "main"
 id: "B5498"
 freq_rank: 2121
 skip: false
+audio: "Pokal.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pokal
+
+![[Pokal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pokal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pokal&language=de)
 
 **Meaning:** trophy; cup
 **Plural:** Pokale

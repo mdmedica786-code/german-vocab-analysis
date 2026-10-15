@@ -15,11 +15,16 @@ id: "B0352"
 netzwerk: "A1 K2 8a"
 freq_rank: 5759
 skip: false
+audio: "Singular.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Singular
+
+![[Singular.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Singular/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Singular&language=de)
 
 **Meaning:** singular
 **Plural:** Singulare

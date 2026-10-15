@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Primarschule.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Primarschule
+
+![[Primarschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Primarschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Primarschule&language=de)
 
 **Meaning:** primary school (Swiss)
 **Plural:** Primarschulen

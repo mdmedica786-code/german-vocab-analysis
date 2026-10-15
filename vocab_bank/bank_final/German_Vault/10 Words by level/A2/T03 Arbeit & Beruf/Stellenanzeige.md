@@ -15,11 +15,16 @@ id: "B2323"
 netzwerk: "A2 K5 2a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Stellenanzeige.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stellenanzeige
+
+![[Stellenanzeige.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stellenanzeige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellenanzeige&language=de)
 
 **Meaning:** job advertisement
 **Plural:** Stellenanzeigen

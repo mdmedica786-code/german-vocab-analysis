@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Mechatronikerin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mechatronikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mechatronikerin&language=de)
+
 **Meaning:** mechatronics technician (f)
 **Plural:** Mechatronikerinnen
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

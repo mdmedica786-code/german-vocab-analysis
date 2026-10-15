@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0331"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Beharrlichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beharrlichkeit
+
+![[Beharrlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beharrlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beharrlichkeit&language=de)
 
 **Meaning:** persistence; tenacity
 **Plural:** –

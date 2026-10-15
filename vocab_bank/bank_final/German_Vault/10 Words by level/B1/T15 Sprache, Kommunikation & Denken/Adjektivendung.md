@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Adjektivendung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Adjektivendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adjektivendung&language=de)
+
 **Meaning:** adjective ending
 **Plural:** Adjektivendungen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

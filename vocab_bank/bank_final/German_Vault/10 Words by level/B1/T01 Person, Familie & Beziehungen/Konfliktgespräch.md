@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Konfliktgespräch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktgespr%C3%A4ch&language=de)
+
 **Meaning:** conflict discussion
 **Plural:** Konfliktgespräche
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

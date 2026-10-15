@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0846"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "ansammeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansammeln
+
+![[ansammeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansammeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansammeln&language=de)
 
 **Meaning:** to accumulate; to gather
 **Forms:** sammelt sich an · sammelte sich an · hat sich angesammelt

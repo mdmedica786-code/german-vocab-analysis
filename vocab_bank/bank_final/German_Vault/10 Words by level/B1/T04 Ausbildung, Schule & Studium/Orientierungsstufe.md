@@ -15,11 +15,16 @@ id: "B6517"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Orientierungsstufe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Orientierungsstufe
+
+![[Orientierungsstufe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Orientierungsstufe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Orientierungsstufe&language=de)
 
 **Meaning:** orientation stage (school years 5 and 6)
 **Plural:** Orientierungsstufen

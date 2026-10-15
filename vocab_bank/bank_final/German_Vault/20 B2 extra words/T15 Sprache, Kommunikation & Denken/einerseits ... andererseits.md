@@ -11,11 +11,13 @@ bank: "b2"
 id: "D3887"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # einerseits ... andererseits ...
+
+[▶️ YouGlish](https://youglish.com/pronounce/einerseits%20...%20andererseits%20.../german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einerseits%20...%20andererseits%20...&language=de)
 
 **Meaning:** on the one hand ... on the other hand ...
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

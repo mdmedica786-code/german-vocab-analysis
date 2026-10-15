@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 4b"
 freq_rank: 1161
 skip: false
+audio: "ankommen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ankommen
+
+![[ankommen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ankommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ankommen&language=de)
 
 **Meaning:** to arrive; to depend on (es kommt darauf an)
 **Forms:** kommt an · kam an · ist angekommen

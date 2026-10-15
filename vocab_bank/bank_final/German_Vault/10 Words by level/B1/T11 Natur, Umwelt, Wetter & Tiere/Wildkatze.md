@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Wildkatze
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wildkatze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildkatze&language=de)
+
 **Meaning:** wild cat
 **Plural:** Wildkatzen
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

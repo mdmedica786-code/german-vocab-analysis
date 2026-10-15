@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4271"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Neurophysiologe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Neurophysiologe
+
+![[Neurophysiologe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neurophysiologe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neurophysiologe&language=de)
 
 **Meaning:** neurophysiologist (male)
 **Plural:** Neurophysiologen

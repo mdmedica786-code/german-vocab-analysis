@@ -14,11 +14,16 @@ bank: "main"
 id: "B6336"
 freq_rank: 5746
 skip: false
+audio: "Beliebtheit.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beliebtheit
+
+![[Beliebtheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beliebtheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beliebtheit&language=de)
 
 **Meaning:** popularity
 **Plural:** –

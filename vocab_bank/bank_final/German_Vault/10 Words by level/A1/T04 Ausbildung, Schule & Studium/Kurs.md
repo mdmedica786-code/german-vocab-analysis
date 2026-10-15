@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6c"
 freq_rank: 2220
 skip: false
+audio: "Kurs.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kurs
+
+![[Kurs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurs&language=de)
 
 **Meaning:** course
 **Plural:** Kurse

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0320"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Wirksamkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wirksamkeit
+
+![[Wirksamkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirksamkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirksamkeit&language=de)
 
 **Meaning:** effectiveness
 **Plural:** –

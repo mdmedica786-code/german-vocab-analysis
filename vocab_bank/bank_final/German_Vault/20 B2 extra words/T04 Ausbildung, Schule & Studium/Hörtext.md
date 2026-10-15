@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4057"
 exam_use: ["Hören", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Hören", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Hörtext
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rtext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rtext&language=de)
 
 **Meaning:** listening text; listening comprehension text
 **Plural:** Hörtexte

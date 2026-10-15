@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0648"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Solaranlage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Solaranlage
+
+![[Solaranlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Solaranlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solaranlage&language=de)
 
 **Meaning:** solar power system; solar panels
 **Plural:** Solaranlagen

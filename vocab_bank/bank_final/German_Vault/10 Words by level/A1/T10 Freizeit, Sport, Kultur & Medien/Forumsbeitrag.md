@@ -15,11 +15,16 @@ id: "B1300"
 netzwerk: "A1 K8 12b"
 freq_rank: 5759
 skip: false
+audio: "Forumsbeitrag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Forumsbeitrag
+
+![[Forumsbeitrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forumsbeitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forumsbeitrag&language=de)
 
 **Meaning:** forum post
 **Plural:** Forumsbeiträge

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Artikelbild
 
+[▶️ YouGlish](https://youglish.com/pronounce/Artikelbild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Artikelbild&language=de)
+
 **Meaning:** picture with an article
 **Plural:** Artikelbilder
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

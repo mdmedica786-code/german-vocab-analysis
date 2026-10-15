@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0986"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Ausleihe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausleihe
+
+![[Ausleihe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausleihe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausleihe&language=de)
 
 **Meaning:** lending; loan desk
 **Plural:** Ausleihen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4388"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "schlapp.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # schlapp
+
+![[schlapp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlapp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlapp&language=de)
 
 **Meaning:** limp; weak; run-down
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

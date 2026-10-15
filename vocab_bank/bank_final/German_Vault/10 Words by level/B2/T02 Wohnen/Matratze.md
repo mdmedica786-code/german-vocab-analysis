@@ -14,11 +14,16 @@ bank: "main"
 id: "B6293"
 freq_rank: 5416
 skip: false
+audio: "Matratze.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Matratze
+
+![[Matratze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Matratze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Matratze&language=de)
 
 **Meaning:** mattress
 **Plural:** Matratzen

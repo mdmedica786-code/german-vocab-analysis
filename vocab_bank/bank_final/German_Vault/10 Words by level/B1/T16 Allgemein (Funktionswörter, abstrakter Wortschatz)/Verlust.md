@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 5c"
 freq_rank: 1299
 skip: false
+audio: "Verlust.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verlust
+
+![[Verlust.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verlust/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlust&language=de)
 
 **Meaning:** loss
 **Plural:** Verluste

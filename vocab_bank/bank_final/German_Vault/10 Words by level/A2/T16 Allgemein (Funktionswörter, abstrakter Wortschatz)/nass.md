@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 1b"
 freq_rank: 2877
 skip: false
+audio: "nass.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nass
+
+![[nass.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nass/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nass&language=de)
 
 **Meaning:** wet
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

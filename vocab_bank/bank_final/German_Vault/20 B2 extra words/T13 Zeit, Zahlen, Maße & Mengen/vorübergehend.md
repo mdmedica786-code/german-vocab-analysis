@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0014"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "vorübergehend.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorübergehend
+
+![[vorübergehend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vor%C3%BCbergehend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vor%C3%BCbergehend&language=de)
 
 **Meaning:** temporarily
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

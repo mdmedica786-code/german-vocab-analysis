@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2730"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Dutzend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dutzend
+
+![[Dutzend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dutzend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dutzend&language=de)
 
 **Meaning:** dozen
 **Plural:** Dutzende

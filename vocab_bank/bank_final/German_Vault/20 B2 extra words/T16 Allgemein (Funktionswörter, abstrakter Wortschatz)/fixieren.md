@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3131"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "fixieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # fixieren
+
+![[fixieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fixieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fixieren&language=de)
 
 **Meaning:** to fix; to fixate on
 **Forms:** fixiert · fixierte · hat fixiert

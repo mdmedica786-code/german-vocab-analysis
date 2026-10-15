@@ -15,11 +15,16 @@ id: "B2691"
 netzwerk: "A2 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "Zeitplan.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeitplan
+
+![[Zeitplan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitplan&language=de)
 
 **Meaning:** schedule
 **Plural:** Zeitpläne

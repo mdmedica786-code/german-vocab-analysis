@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1718"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "schimmern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # schimmern
+
+![[schimmern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schimmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schimmern&language=de)
 
 **Meaning:** to shimmer; to glimmer
 **Forms:** schimmert · schimmerte · hat geschimmert

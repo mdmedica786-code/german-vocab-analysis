@@ -15,11 +15,16 @@ id: "B1189"
 netzwerk: "A1 K8 1c"
 freq_rank: 2000
 skip: false
+audio: "erste.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Erste
+
+![[erste.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erste&language=de)
 
 **Meaning:** first
 **Plural:** Ersten

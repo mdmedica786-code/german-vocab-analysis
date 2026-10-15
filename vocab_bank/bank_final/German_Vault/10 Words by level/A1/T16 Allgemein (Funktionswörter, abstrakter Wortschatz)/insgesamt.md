@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 824
 skip: false
+audio: "insgesamt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # insgesamt
+
+![[insgesamt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/insgesamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=insgesamt&language=de)
 
 **Meaning:** all together
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

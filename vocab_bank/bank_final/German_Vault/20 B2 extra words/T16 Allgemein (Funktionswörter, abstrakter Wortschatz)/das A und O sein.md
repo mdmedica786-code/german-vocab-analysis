@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # das A und O sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/das%20A%20und%20O%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das%20A%20und%20O%20sein&language=de)
+
 **Meaning:** to be the be-all and end-all; to be essential
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

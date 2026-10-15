@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3332"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Börse.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Börse
+
+![[Börse.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%B6rse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%B6rse&language=de)
 
 **Meaning:** stock exchange; market
 **Plural:** Börsen

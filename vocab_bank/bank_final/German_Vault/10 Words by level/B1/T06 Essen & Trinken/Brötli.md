@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Brötli
 
+[▶️ YouGlish](https://youglish.com/pronounce/Br%C3%B6tli/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Br%C3%B6tli&language=de)
+
 **Meaning:** bread roll (Swiss)
 **Plural:** Brötli
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional

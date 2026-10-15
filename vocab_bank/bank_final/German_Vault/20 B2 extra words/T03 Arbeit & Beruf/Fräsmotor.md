@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3961"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Fräsmotor
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fr%C3%A4smotor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fr%C3%A4smotor&language=de)
 
 **Meaning:** milling motor
 **Plural:** Fräsmotoren

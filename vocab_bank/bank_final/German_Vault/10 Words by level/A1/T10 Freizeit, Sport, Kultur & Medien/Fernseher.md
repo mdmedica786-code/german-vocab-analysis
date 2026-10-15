@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 1a"
 freq_rank: 3643
 skip: false
+audio: "Fernseher.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fernseher
+
+![[Fernseher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fernseher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fernseher&language=de)
 
 **Meaning:** television
 **Plural:** Fernseher

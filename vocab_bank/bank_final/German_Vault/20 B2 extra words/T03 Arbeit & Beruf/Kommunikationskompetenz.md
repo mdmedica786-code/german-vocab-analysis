@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4115"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kommunikationskompetenz
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommunikationskompetenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationskompetenz&language=de)
 
 **Meaning:** communication skills; communicative competence
 **Plural:** Kommunikationskompetenzen

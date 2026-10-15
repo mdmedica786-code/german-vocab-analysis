@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2725"
 exam_use: ["Sprechen", "Hören"]
 skip: false
+audio: "Chaos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Sprechen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Chaos
+
+![[Chaos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chaos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chaos&language=de)
 
 **Meaning:** chaos
 **Plural:** –

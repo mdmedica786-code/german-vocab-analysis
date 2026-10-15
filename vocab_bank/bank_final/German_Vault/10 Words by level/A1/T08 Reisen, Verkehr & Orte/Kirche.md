@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Kirche
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kirche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kirche&language=de)
+
 **Meaning:** church
 **Plural:** Kirchen
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

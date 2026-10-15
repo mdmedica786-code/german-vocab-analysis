@@ -14,11 +14,16 @@ bank: "main"
 id: "B5947"
 freq_rank: 3584
 skip: false
+audio: "Irrtum.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Irrtum
+
+![[Irrtum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Irrtum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Irrtum&language=de)
 
 **Meaning:** mistake; error
 **Plural:** Irrtümer

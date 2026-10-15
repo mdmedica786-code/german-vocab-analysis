@@ -15,11 +15,16 @@ id: "B3221"
 netzwerk: "A2 K12 9a"
 freq_rank: 5746
 skip: false
+audio: "Hauptrolle.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauptrolle
+
+![[Hauptrolle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptrolle&language=de)
 
 **Meaning:** lead role
 **Plural:** Hauptrollen

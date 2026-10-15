@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # worauf
 
+[▶️ YouGlish](https://youglish.com/pronounce/worauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=worauf&language=de)
+
 **Meaning:** what + prep.
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

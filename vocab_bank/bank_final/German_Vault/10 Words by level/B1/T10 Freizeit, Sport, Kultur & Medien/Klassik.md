@@ -15,11 +15,16 @@ id: "B4479"
 netzwerk: "B1 K8 6b"
 freq_rank: 4847
 skip: false
+audio: "Klassik.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klassik
+
+![[Klassik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klassik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassik&language=de)
 
 **Meaning:** classical music
 **Plural:** –

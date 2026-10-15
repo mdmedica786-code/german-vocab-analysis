@@ -11,11 +11,16 @@ bank: "main"
 id: "B5729"
 freq_rank: 2871
 skip: false
+audio: "therapeutisch.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # therapeutisch
+
+![[therapeutisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/therapeutisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=therapeutisch&language=de)
 
 **Meaning:** therapeutic
 **Level:** C1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

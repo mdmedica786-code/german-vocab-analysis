@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 12"
 freq_rank: 5759
 skip: false
+audio: "leidtun.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leidtun
+
+![[leidtun.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leidtun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leidtun&language=de)
 
 **Meaning:** to be sorry
 **Forms:** tut leid · tat leid · hat leidgetan

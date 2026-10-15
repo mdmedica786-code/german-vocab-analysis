@@ -12,11 +12,16 @@ id: "B1166"
 netzwerk: "A1 K7 9c"
 freq_rank: 2000
 skip: false
+audio: "meisten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/pronoun"]
 status: "new"
 ---
 <!-- bank:start -->
 # meisten
+
+![[meisten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/meisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meisten&language=de)
 
 **Meaning:** most
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

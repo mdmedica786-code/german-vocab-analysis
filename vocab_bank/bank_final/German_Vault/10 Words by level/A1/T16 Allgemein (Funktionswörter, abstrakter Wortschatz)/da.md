@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # da
 
+[▶️ YouGlish](https://youglish.com/pronounce/da/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=da&language=de)
+
 **Meaning:** there
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1334"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bisweilen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bisweilen
+
+![[bisweilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bisweilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bisweilen&language=de)
 
 **Meaning:** at times; occasionally
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

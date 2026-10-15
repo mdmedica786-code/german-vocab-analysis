@@ -13,11 +13,16 @@ id: "B1809"
 netzwerk: "A1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "zurückfahren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückfahren
+
+![[zurückfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckfahren&language=de)
 
 **Meaning:** to drive back
 **Forms:** fährt zurück · fuhr zurück · ist zurückgefahren

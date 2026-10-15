@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Regierungsrätin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Regierungsr%C3%A4tin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regierungsr%C3%A4tin&language=de)
+
 **Meaning:** cantonal government member (f) (Swiss)
 **Plural:** Regierungsrätinnen
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** regional

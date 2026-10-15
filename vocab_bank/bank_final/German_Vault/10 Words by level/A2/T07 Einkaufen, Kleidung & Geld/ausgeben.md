@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 2a"
 freq_rank: 4451
 skip: false
+audio: "ausgeben.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgeben
+
+![[ausgeben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgeben&language=de)
 
 **Meaning:** to spend
 **Forms:** gibt aus · gab aus · hat ausgegeben

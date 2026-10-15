@@ -14,11 +14,16 @@ bank: "main"
 id: "B5960"
 freq_rank: 3628
 skip: false
+audio: "Bruch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bruch
+
+![[Bruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bruch&language=de)
 
 **Meaning:** fracture; break
 **Plural:** Brüche

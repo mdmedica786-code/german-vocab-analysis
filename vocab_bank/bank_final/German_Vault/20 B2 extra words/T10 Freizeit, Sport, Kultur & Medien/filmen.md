@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3272"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "filmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # filmen
+
+![[filmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/filmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=filmen&language=de)
 
 **Meaning:** to film; to record on video
 **Forms:** filmt · filmte · hat gefilmt

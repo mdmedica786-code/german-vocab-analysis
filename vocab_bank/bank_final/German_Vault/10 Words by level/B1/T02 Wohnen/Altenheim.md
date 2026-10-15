@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Altenheim.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Altenheim
+
+![[Altenheim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altenheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altenheim&language=de)
 
 **Meaning:** care home/ care facility
 **Plural:** Altenheime

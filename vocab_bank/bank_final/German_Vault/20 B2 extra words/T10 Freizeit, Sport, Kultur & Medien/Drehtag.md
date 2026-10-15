@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3872"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Drehtag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Drehtag
+
+![[Drehtag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drehtag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drehtag&language=de)
 
 **Meaning:** shooting day (film)
 **Plural:** Drehtage

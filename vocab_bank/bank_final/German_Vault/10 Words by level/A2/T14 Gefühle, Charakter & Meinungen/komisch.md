@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 7c"
 freq_rank: 3190
 skip: false
+audio: "komisch.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # komisch
+
+![[komisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/komisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=komisch&language=de)
 
 **Meaning:** funny; strange
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

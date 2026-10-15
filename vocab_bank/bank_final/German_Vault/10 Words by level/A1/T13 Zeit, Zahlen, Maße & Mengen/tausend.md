@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # tausend
 
+[▶️ YouGlish](https://youglish.com/pronounce/tausend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tausend&language=de)
+
 **Meaning:** thousand
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

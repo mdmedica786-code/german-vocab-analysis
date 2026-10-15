@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0322"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Abgrenzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abgrenzung
+
+![[Abgrenzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abgrenzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abgrenzung&language=de)
 
 **Meaning:** distinction; demarcation
 **Plural:** Abgrenzungen

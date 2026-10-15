@@ -15,11 +15,16 @@ id: "B4634"
 netzwerk: "B1 K9 7b"
 freq_rank: 5759
 skip: false
+audio: "Aquarell.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Aquarell
+
+![[Aquarell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aquarell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aquarell&language=de)
 
 **Meaning:** watercolour
 **Plural:** Aquarelle

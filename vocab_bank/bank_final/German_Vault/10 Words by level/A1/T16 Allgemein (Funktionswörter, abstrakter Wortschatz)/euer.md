@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # euer
 
+[▶️ YouGlish](https://youglish.com/pronounce/euer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=euer&language=de)
+
 **Meaning:** your
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

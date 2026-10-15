@@ -12,11 +12,16 @@ id: "B6597"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "violett.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # violett
+
+![[violett.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/violett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=violett&language=de)
 
 **Meaning:** purple; violet
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

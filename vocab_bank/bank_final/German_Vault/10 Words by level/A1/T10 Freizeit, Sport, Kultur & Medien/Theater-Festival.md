@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Theater-Festival
 
+[▶️ YouGlish](https://youglish.com/pronounce/Theater-Festival/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theater-Festival&language=de)
+
 **Meaning:** theatre festival
 **Plural:** Theater-Festivals
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

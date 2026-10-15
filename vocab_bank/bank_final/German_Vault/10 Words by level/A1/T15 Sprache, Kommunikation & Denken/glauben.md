@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 1a"
 freq_rank: 151
 skip: false
+audio: "glauben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # glauben
+
+![[glauben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/glauben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=glauben&language=de)
 
 **Meaning:** to believe
 **Forms:** glaubt · glaubte · hat geglaubt

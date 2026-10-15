@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Bio-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bio-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bio-&language=de)
+
 **Meaning:** organic (organic products)
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral
 

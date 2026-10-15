@@ -11,11 +11,16 @@ bank: "main"
 id: "B5733"
 freq_rank: 2887
 skip: false
+audio: "samt.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # samt
+
+![[samt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/samt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=samt&language=de)
 
 **Meaning:** together with
 **Case:** + Dat.

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Voraussetzungen schaffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Voraussetzungen%20schaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Voraussetzungen%20schaffen&language=de)
+
 **Meaning:** to create the conditions
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

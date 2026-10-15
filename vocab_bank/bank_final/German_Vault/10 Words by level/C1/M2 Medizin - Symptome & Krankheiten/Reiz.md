@@ -14,11 +14,16 @@ bank: "main"
 id: "B5626"
 freq_rank: 2597
 skip: false
+audio: "Reiz.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Reiz
+
+![[Reiz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reiz&language=de)
 
 **Meaning:** stimulus; charm; irritation
 **Plural:** Reize

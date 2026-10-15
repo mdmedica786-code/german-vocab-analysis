@@ -12,11 +12,16 @@ id: "B5203"
 goethe_level: "B1"
 freq_rank: 743
 skip: false
+audio: "dicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # dicht
+
+![[dicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dicht&language=de)
 
 **Meaning:** tight; dense; sealed
 **Forms:** dichter – am dichtesten

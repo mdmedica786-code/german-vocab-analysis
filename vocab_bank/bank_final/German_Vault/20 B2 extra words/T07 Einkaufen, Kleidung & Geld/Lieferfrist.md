@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1090"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Lieferfrist.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lieferfrist
+
+![[Lieferfrist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieferfrist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieferfrist&language=de)
 
 **Meaning:** delivery period
 **Plural:** Lieferfristen

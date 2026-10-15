@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Kontakt aufnehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kontakt%20aufnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontakt%20aufnehmen&language=de)
+
 **Meaning:** to get in touch
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

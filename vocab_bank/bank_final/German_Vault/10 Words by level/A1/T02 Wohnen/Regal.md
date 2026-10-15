@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 1a"
 freq_rank: 4572
 skip: false
+audio: "Regal.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Regal
+
+![[Regal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regal&language=de)
 
 **Meaning:** shelf
 **Plural:** Regale

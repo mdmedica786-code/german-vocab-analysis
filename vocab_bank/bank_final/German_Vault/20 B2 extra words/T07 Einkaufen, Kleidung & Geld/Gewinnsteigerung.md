@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4016"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Gewinnsteigerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gewinnsteigerung
+
+![[Gewinnsteigerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewinnsteigerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewinnsteigerung&language=de)
 
 **Meaning:** increase in profits
 **Plural:** Gewinnsteigerungen

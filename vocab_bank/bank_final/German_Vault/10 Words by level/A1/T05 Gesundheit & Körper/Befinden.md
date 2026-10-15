@@ -15,11 +15,16 @@ id: "B0190"
 netzwerk: "A1 K1 8e"
 freq_rank: 2000
 skip: false
+audio: "Befinden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Befinden
+
+![[Befinden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Befinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befinden&language=de)
 
 **Meaning:** condition; state of health; well-being
 **Plural:** –

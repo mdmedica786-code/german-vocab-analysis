@@ -15,11 +15,16 @@ id: "B2840"
 netzwerk: "A2 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Fußballfan.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußballfan
+
+![[Fußballfan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballfan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballfan&language=de)
 
 **Meaning:** football fan
 **Plural:** Fußballfans

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0516"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Festnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Festnahme
+
+![[Festnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Festnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festnahme&language=de)
 
 **Meaning:** arrest
 **Plural:** Festnahmen

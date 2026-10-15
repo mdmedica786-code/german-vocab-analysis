@@ -14,11 +14,16 @@ bank: "main"
 id: "B6116"
 freq_rank: 4497
 skip: false
+audio: "Indikation.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Indikation
+
+![[Indikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Indikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indikation&language=de)
 
 **Meaning:** indication
 **Plural:** Indikationen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2968"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einbeziehung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einbeziehung
+
+![[Einbeziehung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einbeziehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einbeziehung&language=de)
 
 **Meaning:** inclusion; involvement
 **Plural:** –

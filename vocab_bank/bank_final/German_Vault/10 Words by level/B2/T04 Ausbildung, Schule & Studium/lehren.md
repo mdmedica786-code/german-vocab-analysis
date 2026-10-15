@@ -12,11 +12,16 @@ bank: "main"
 id: "B5410"
 freq_rank: 1840
 skip: false
+audio: "lehren.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lehren
+
+![[lehren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lehren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lehren&language=de)
 
 **Meaning:** to teach
 **Forms:** lehrt · lehrte · hat gelehrt

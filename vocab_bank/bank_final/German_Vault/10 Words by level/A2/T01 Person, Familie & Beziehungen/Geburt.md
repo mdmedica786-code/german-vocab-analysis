@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 1a"
 freq_rank: 1672
 skip: false
+audio: "Geburt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geburt
+
+![[Geburt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburt&language=de)
 
 **Meaning:** birth
 **Plural:** Geburten

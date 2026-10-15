@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 12b"
 freq_rank: 338
 skip: false
+audio: "Bereich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bereich
+
+![[Bereich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bereich&language=de)
 
 **Meaning:** area
 **Plural:** Bereiche

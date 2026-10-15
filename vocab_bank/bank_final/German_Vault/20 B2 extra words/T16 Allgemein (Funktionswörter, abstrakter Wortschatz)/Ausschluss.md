@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3056"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Ausschluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausschluss
+
+![[Ausschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausschluss&language=de)
 
 **Meaning:** exclusion; expulsion
 **Plural:** Ausschlüsse

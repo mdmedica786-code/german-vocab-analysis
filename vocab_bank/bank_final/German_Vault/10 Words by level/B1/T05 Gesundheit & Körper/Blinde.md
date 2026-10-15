@@ -15,11 +15,16 @@ id: "B4731"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Blinde.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Blinde
+
+![[Blinde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blinde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blinde&language=de)
 
 **Meaning:** blind person
 **Plural:** Blinden

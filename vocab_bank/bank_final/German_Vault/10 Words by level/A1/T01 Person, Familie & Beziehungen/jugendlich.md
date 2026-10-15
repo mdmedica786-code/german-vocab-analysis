@@ -12,11 +12,16 @@ id: "B5236"
 goethe_level: "A1"
 freq_rank: 998
 skip: false
+audio: "jugendlich.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # jugendlich
+
+![[jugendlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jugendlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jugendlich&language=de)
 
 **Meaning:** youthful; juvenile
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

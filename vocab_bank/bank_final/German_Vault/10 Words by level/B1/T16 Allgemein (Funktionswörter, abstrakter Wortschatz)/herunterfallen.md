@@ -13,11 +13,16 @@ id: "B3388"
 netzwerk: "B1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "herunterfallen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herunterfallen
+
+![[herunterfallen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herunterfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herunterfallen&language=de)
 
 **Meaning:** to fall
 **Forms:** fällt herunter · fiel herunter · ist heruntergefallen

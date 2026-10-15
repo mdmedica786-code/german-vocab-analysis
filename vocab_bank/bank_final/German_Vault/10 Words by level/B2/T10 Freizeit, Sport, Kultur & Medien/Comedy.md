@@ -14,11 +14,16 @@ bank: "main"
 id: "B6056"
 freq_rank: 4100
 skip: false
+audio: "Comedy.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Comedy
+
+![[Comedy.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Comedy/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Comedy&language=de)
 
 **Meaning:** comedy (genre)
 **Plural:** –

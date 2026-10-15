@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 6b ÜB"
 freq_rank: 209
 skip: false
+audio: "Gesicht.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gesicht
+
+![[Gesicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesicht&language=de)
 
 **Meaning:** face
 **Plural:** Gesichter

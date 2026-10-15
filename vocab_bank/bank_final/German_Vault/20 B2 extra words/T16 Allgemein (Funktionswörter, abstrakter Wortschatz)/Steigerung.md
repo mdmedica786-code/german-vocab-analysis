@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2702"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Steigerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Steigerung
+
+![[Steigerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Steigerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Steigerung&language=de)
 
 **Meaning:** increase; improvement
 **Plural:** Steigerungen

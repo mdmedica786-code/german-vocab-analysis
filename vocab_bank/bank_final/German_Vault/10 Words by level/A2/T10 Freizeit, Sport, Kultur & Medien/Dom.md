@@ -15,11 +15,16 @@ id: "B2313"
 netzwerk: "A2 K5 2a"
 freq_rank: 4700
 skip: false
+audio: "Dom.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dom
+
+![[Dom.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dom&language=de)
 
 **Meaning:** cathedral
 **Plural:** Dome

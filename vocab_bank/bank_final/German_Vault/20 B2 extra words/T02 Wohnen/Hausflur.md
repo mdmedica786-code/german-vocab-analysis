@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1394"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Hausflur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hausflur
+
+![[Hausflur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausflur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausflur&language=de)
 
 **Meaning:** hallway; entrance hall (of a building)
 **Plural:** Hausflure

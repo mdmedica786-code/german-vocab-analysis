@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1621"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "naiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # naiv
+
+![[naiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/naiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=naiv&language=de)
 
 **Meaning:** naive
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B3972"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Müllberg.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Müllberg
+
+![[Müllberg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllberg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllberg&language=de)
 
 **Meaning:** mountain of rubbish
 **Plural:** Müllberge

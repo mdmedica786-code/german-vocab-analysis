@@ -15,11 +15,16 @@ id: "B1421"
 netzwerk: "A1 K9 6a"
 freq_rank: 5759
 skip: false
+audio: "Einweihungsfeier.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einweihungsfeier
+
+![[Einweihungsfeier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einweihungsfeier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einweihungsfeier&language=de)
 
 **Meaning:** house warming
 **Plural:** Einweihungsfeiern

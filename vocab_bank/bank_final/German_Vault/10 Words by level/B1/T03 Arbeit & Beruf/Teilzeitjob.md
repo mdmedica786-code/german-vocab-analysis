@@ -15,11 +15,16 @@ id: "B3828"
 netzwerk: "B1 K4 12a"
 freq_rank: 5759
 skip: false
+audio: "Teilzeitjob.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Teilzeitjob
+
+![[Teilzeitjob.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teilzeitjob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilzeitjob&language=de)
 
 **Meaning:** part-time job
 **Plural:** Teilzeitjobs

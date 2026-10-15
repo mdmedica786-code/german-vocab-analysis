@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0899"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "erwirken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwirken
+
+![[erwirken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erwirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erwirken&language=de)
 
 **Meaning:** to obtain; to secure
 **Forms:** erwirkt · erwirkte · hat erwirkt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2892"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einhaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einhaltung
+
+![[Einhaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einhaltung&language=de)
 
 **Meaning:** compliance; observance
 **Plural:** –

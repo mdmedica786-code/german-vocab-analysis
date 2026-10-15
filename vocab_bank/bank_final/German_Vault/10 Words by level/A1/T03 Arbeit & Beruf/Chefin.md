@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 4099
 skip: false
+audio: "Chefin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Chefin
+
+![[Chefin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chefin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chefin&language=de)
 
 **Meaning:** boss (f)
 **Plural:** Chefinnen

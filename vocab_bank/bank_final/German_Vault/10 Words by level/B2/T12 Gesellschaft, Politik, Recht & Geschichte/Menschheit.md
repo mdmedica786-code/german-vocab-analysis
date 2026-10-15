@@ -14,11 +14,16 @@ bank: "main"
 id: "B5472"
 freq_rank: 2045
 skip: false
+audio: "Menschheit.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Menschheit
+
+![[Menschheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menschheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschheit&language=de)
 
 **Meaning:** humankind
 **Plural:** –

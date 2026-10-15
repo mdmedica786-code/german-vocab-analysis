@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 5b"
 freq_rank: 5759
 skip: false
+audio: "Sonnabend.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonnabend
+
+![[Sonnabend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonnabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnabend&language=de)
 
 **Meaning:** Saturday
 **Plural:** Sonnabende

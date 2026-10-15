@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 11"
 freq_rank: 138
 skip: false
+audio: "führen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # führen
+
+![[führen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BChren&language=de)
 
 **Meaning:** to lead; to conduct; to run
 **Forms:** führt · führte · hat geführt

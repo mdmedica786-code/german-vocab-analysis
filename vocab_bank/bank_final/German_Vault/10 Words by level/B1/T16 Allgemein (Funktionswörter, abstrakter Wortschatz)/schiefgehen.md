@@ -13,11 +13,16 @@ id: "B3321"
 netzwerk: "B1 K1 9a"
 freq_rank: 5759
 skip: false
+audio: "schiefgehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schiefgehen
+
+![[schiefgehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schiefgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schiefgehen&language=de)
 
 **Meaning:** to go wrong
 **Forms:** geht schief · ging schief · ist schiefgegangen

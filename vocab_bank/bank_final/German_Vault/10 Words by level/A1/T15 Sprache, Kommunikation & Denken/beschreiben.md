@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 8a"
 freq_rank: 439
 skip: false
+audio: "beschreiben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschreiben
+
+![[beschreiben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschreiben&language=de)
 
 **Meaning:** to describe
 **Forms:** beschreibt · beschrieb · hat beschrieben

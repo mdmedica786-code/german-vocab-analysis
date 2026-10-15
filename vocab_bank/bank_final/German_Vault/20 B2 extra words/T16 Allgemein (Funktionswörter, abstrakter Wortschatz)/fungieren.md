@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3662"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "fungieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # fungieren
+
+![[fungieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fungieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fungieren&language=de)
 
 **Meaning:** to act (as); to serve (as)
 **Forms:** fungiert · fungierte · hat fungiert

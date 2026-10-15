@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 8"
 freq_rank: 2000
 skip: false
+audio: "mal.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mal
+
+![[mal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mal&language=de)
 
 **Meaning:** time (occasion)
 **Plural:** Male

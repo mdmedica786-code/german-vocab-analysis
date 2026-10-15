@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 2b"
 freq_rank: 5759
 skip: false
+audio: "einpacken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einpacken
+
+![[einpacken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einpacken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einpacken&language=de)
 
 **Meaning:** to pack
 **Forms:** packt ein · packte ein · hat eingepackt

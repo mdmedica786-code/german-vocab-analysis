@@ -15,11 +15,16 @@ id: "B1341"
 netzwerk: "A1 K8 13b"
 freq_rank: 2620
 skip: false
+audio: "Gebot.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gebot
+
+![[Gebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebot&language=de)
 
 **Meaning:** commandment; rule; requirement
 **Plural:** Gebote

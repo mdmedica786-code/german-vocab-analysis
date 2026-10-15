@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2992"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Verwertung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwertung
+
+![[Verwertung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwertung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwertung&language=de)
 
 **Meaning:** utilisation; recycling
 **Plural:** –

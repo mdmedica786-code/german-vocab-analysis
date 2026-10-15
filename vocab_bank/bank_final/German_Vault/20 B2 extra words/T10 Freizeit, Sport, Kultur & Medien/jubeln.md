@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1701"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "jubeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # jubeln
+
+![[jubeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jubeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jubeln&language=de)
 
 **Meaning:** to cheer; to rejoice
 **Forms:** jubelt · jubelte · hat gejubelt

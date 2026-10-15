@@ -13,11 +13,16 @@ id: "B5191"
 goethe_level: "B1"
 freq_rank: 655
 skip: false
+audio: "stoßen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # stoßen
+
+![[stoßen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sto%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sto%C3%9Fen&language=de)
 
 **Meaning:** to bump; to knock; to push
 **Forms:** stößt · stieß · hat gestoßen

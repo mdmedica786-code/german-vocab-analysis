@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0830"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "reichlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # reichlich
+
+![[reichlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reichlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reichlich&language=de)
 
 **Meaning:** ample; plentiful
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

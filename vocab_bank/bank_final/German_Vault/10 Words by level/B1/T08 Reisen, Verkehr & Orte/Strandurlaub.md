@@ -15,11 +15,16 @@ id: "B3312"
 netzwerk: "B1 K1 8b"
 freq_rank: 5759
 skip: false
+audio: "Strandurlaub.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Strandurlaub
+
+![[Strandurlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strandurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strandurlaub&language=de)
 
 **Meaning:** holiday at the beach
 **Plural:** Strandurlaube

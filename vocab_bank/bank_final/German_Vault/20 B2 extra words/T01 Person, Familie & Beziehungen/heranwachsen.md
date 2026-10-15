@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1278"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "heranwachsen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # heranwachsen
+
+![[heranwachsen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heranwachsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heranwachsen&language=de)
 
 **Meaning:** to grow up; to mature
 **Forms:** wächst heran · wuchs heran · ist herangewachsen

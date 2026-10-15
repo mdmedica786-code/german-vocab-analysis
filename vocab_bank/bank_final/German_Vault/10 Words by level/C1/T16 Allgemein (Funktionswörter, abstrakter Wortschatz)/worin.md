@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # worin
 
+[▶️ YouGlish](https://youglish.com/pronounce/worin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=worin&language=de)
+
 **Meaning:** in what; wherein
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

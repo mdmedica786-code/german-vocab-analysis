@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Mountainbike.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mountainbike
+
+![[Mountainbike.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mountainbike/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mountainbike&language=de)
 
 **Meaning:** mountain bike
 **Plural:** Mountainbikes

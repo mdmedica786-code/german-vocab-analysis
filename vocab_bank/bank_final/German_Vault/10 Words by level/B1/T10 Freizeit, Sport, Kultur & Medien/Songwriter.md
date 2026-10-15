@@ -15,11 +15,16 @@ id: "B4197"
 netzwerk: "B1 K6 10a"
 freq_rank: 5759
 skip: false
+audio: "Songwriter.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Songwriter
+
+![[Songwriter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Songwriter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Songwriter&language=de)
 
 **Meaning:** songwriter (m)
 **Plural:** Songwriter

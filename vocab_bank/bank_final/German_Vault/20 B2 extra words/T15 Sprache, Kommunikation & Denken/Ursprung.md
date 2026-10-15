@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0389"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ursprung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ursprung
+
+![[Ursprung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ursprung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ursprung&language=de)
 
 **Meaning:** origin; source
 **Plural:** Ursprünge

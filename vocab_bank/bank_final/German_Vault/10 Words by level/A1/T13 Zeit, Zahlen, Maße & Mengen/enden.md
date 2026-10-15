@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 15a"
 freq_rank: 1267
 skip: false
+audio: "enden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # enden
+
+![[enden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/enden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=enden&language=de)
 
 **Meaning:** to end
 **Forms:** endet · endete · hat geendet

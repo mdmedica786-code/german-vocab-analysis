@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K2 7c"
 freq_rank: 166
 skip: false
+audio: "weiter.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiter
+
+![[weiter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiter&language=de)
 
 **Meaning:** further; on; onward
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

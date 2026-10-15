@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1085"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Sperrmüll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sperrmüll
+
+![[Sperrmüll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sperrm%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sperrm%C3%BCll&language=de)
 
 **Meaning:** bulky waste
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 1b ÜB"
 freq_rank: 3404
 skip: false
+audio: "Mannschaft.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mannschaft
+
+![[Mannschaft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mannschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mannschaft&language=de)
 
 **Meaning:** team
 **Plural:** Mannschaften

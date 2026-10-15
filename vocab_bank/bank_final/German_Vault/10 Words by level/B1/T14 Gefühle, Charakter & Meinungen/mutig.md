@@ -12,11 +12,16 @@ id: "B6147"
 goethe_level: "B1"
 freq_rank: 4607
 skip: false
+audio: "mutig.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # mutig
+
+![[mutig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mutig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mutig&language=de)
 
 **Meaning:** brave
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

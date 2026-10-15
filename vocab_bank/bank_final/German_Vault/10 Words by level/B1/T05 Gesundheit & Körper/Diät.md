@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 4545
 skip: false
+audio: "Diät.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Diät
+
+![[Diät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Di%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Di%C3%A4t&language=de)
 
 **Meaning:** diet
 **Plural:** Diäten

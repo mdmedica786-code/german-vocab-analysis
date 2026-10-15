@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 3a"
 freq_rank: 1649
 skip: false
+audio: "ehrlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ehrlich
+
+![[ehrlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ehrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehrlich&language=de)
 
 **Meaning:** honest; honestly
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

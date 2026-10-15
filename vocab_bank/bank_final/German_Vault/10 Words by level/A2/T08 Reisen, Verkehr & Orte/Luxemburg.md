@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Luxemburg
 
+[▶️ YouGlish](https://youglish.com/pronounce/Luxemburg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxemburg&language=de)
+
 **Meaning:** Luxembourg
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

@@ -15,11 +15,16 @@ id: "B2312"
 netzwerk: "A2 K5 2a"
 freq_rank: 3005
 skip: false
+audio: "Daumen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Daumen
+
+![[Daumen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Daumen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daumen&language=de)
 
 **Meaning:** thumb
 **Plural:** Daumen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12 ÜB"
 freq_rank: 5759
 skip: false
+audio: "Krokodil.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Krokodil
+
+![[Krokodil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krokodil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krokodil&language=de)
 
 **Meaning:** crocodile
 **Plural:** Krokodile

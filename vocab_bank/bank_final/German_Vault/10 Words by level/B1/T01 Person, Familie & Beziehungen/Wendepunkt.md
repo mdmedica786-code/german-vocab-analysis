@@ -15,11 +15,16 @@ id: "B3556"
 netzwerk: "B1 K3 3b"
 freq_rank: 5759
 skip: false
+audio: "Wendepunkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wendepunkt
+
+![[Wendepunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wendepunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wendepunkt&language=de)
 
 **Meaning:** turning point
 **Plural:** Wendepunkte

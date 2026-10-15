@@ -15,11 +15,16 @@ id: "B4299"
 netzwerk: "B1 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Promi.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Promi
+
+![[Promi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Promi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Promi&language=de)
 
 **Meaning:** celebrity
 **Plural:** Promis

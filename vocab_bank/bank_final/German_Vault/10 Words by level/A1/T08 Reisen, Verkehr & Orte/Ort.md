@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1d"
 freq_rank: 410
 skip: false
+audio: "Ort.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ort
+
+![[Ort.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ort&language=de)
 
 **Meaning:** place; location; village/town
 **Plural:** Orte

@@ -13,11 +13,16 @@ bank: "b2"
 id: "D4574"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verkaufszahlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # Verkaufszahlen
+
+![[Verkaufszahlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkaufszahlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkaufszahlen&language=de)
 
 **Meaning:** sales figures
 **Plural:** Verkaufszahlen

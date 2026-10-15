@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1253"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "enthüllen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # enthüllen
+
+![[enthüllen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/enth%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=enth%C3%BCllen&language=de)
 
 **Meaning:** to reveal; to unveil
 **Forms:** enthüllt · enthüllte · hat enthüllt

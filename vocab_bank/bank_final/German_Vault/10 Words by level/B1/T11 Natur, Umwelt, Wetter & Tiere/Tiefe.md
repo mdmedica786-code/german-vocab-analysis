@@ -15,11 +15,16 @@ id: "B4180"
 netzwerk: "B1 K6 9c"
 freq_rank: 2000
 skip: false
+audio: "Tiefe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tiefe
+
+![[Tiefe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiefe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiefe&language=de)
 
 **Meaning:** depth
 **Plural:** Tiefen

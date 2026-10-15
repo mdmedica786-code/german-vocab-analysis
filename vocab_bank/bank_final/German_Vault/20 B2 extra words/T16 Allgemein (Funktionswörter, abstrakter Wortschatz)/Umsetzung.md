@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2458"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Umsetzung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umsetzung
+
+![[Umsetzung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umsetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umsetzung&language=de)
 
 **Meaning:** implementation; realisation
 **Plural:** Umsetzungen

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 8a"
 freq_rank: 2304
 skip: false
+audio: "jederzeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # jederzeit
+
+![[jederzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jederzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jederzeit&language=de)
 
 **Meaning:** at any time
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1069"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Hausordnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausordnung
+
+![[Hausordnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausordnung&language=de)
 
 **Meaning:** house rules
 **Plural:** Hausordnungen

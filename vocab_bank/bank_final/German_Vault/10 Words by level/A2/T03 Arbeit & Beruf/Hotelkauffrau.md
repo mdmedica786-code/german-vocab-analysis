@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Hotelkauffrau
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hotelkauffrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hotelkauffrau&language=de)
+
 **Meaning:** management assistant in hotel and hospitality (f)
 **Plural:** Hotelkauffrauen
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0306"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Berechnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berechnung
+
+![[Berechnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berechnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berechnung&language=de)
 
 **Meaning:** calculation
 **Plural:** Berechnungen

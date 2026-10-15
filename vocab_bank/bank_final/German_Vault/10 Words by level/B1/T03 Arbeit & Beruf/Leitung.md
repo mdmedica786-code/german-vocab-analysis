@@ -15,11 +15,16 @@ id: "B5479"
 goethe_level: "B1"
 freq_rank: 2069
 skip: false
+audio: "Leitung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leitung
+
+![[Leitung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitung&language=de)
 
 **Meaning:** management; leadership; line (phone/pipe)
 **Plural:** Leitungen

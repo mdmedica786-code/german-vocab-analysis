@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 6b"
 freq_rank: 956
 skip: false
+audio: "vermutlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vermutlich
+
+![[vermutlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vermutlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vermutlich&language=de)
 
 **Meaning:** presumably
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

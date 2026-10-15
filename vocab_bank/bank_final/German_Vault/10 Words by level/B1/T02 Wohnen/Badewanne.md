@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 8b"
 freq_rank: 4956
 skip: false
+audio: "Badewanne.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Badewanne
+
+![[Badewanne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Badewanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badewanne&language=de)
 
 **Meaning:** bathtub
 **Plural:** Badewannen

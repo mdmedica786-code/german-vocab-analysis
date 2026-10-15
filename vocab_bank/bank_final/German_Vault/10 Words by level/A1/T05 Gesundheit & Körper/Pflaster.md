@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 11a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Pflaster.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pflaster
+
+![[Pflaster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflaster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflaster&language=de)
 
 **Meaning:** plaster
 **Plural:** Pflaster

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3197"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Aufruf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufruf
+
+![[Aufruf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufruf&language=de)
 
 **Meaning:** appeal; call; summons
 **Plural:** Aufrufe

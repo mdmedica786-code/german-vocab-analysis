@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 1119
 skip: false
+audio: "knapp.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # knapp
+
+![[knapp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/knapp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knapp&language=de)
 
 **Meaning:** scarce; tight; barely
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

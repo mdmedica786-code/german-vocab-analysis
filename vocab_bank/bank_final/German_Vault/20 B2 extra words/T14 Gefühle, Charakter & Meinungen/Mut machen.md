@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Mut machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mut%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mut%20machen&language=de)
+
 **Meaning:** to encourage
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

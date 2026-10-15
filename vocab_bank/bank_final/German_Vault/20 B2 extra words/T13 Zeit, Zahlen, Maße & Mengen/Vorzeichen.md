@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3421"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vorzeichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vorzeichen
+
+![[Vorzeichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorzeichen&language=de)
 
 **Meaning:** sign (maths); omen; indication
 **Plural:** Vorzeichen

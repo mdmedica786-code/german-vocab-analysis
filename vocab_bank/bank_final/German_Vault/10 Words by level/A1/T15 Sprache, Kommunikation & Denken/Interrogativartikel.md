@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Interrogativartikel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Interrogativartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interrogativartikel&language=de)
+
 **Meaning:** interrogative article
 **Plural:** Interrogativartikel
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

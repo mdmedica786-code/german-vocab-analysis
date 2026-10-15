@@ -15,11 +15,16 @@ id: "B2799"
 netzwerk: "A2 K8 10b"
 freq_rank: 4239
 skip: false
+audio: "Gliederung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gliederung
+
+![[Gliederung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gliederung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gliederung&language=de)
 
 **Meaning:** outline
 **Plural:** Gliederungen

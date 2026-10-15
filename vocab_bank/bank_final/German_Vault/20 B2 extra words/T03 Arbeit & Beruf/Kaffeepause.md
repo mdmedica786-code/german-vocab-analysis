@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1437"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kaffeepause.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kaffeepause
+
+![[Kaffeepause.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaffeepause/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeepause&language=de)
 
 **Meaning:** coffee break
 **Plural:** Kaffeepausen

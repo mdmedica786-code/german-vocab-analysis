@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3749"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "ausbeuten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # ausbeuten
+
+![[ausbeuten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausbeuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausbeuten&language=de)
 
 **Meaning:** to exploit
 **Forms:** beutet aus · beutete aus · hat ausgebeutet

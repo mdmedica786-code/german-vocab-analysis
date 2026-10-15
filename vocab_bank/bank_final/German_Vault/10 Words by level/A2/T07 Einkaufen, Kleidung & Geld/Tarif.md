@@ -15,11 +15,16 @@ id: "B2580"
 netzwerk: "A2 K7 6a"
 freq_rank: 4863
 skip: false
+audio: "Tarif.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tarif
+
+![[Tarif.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tarif/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tarif&language=de)
 
 **Meaning:** rate
 **Plural:** Tarife

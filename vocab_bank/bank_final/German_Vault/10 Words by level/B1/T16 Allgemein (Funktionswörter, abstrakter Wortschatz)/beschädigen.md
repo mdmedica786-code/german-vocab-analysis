@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "beschädigen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschädigen
+
+![[beschädigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besch%C3%A4digen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%A4digen&language=de)
 
 **Meaning:** to damage
 **Forms:** beschädigt · beschädigte · hat beschädigt

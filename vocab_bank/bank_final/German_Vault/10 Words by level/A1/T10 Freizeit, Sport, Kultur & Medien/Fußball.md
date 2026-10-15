@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Fußball
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fball&language=de)
+
 **Meaning:** football
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

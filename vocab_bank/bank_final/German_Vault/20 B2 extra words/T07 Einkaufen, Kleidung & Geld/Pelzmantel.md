@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4294"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Pelzmantel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Pelzmantel
+
+![[Pelzmantel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pelzmantel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pelzmantel&language=de)
 
 **Meaning:** fur coat
 **Plural:** Pelzmäntel

@@ -15,11 +15,16 @@ id: "B3204"
 netzwerk: "A2 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Nachrichtensprecher.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachrichtensprecher
+
+![[Nachrichtensprecher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachrichtensprecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichtensprecher&language=de)
 
 **Meaning:** newsreader (m)
 **Plural:** Nachrichtensprecher

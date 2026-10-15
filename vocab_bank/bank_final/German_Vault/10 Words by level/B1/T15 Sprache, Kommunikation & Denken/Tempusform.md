@@ -15,11 +15,16 @@ id: "B3665"
 netzwerk: "B1 K3 9b"
 freq_rank: 9999
 skip: false
+audio: "Tempusform.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tempusform
+
+![[Tempusform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tempusform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tempusform&language=de)
 
 **Meaning:** tense (form)
 **Plural:** Tempusformen

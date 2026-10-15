@@ -15,11 +15,16 @@ id: "B4924"
 netzwerk: "B1 K11 6b"
 freq_rank: 9999
 skip: false
+audio: "Reinigungsfahrzeug.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Reinigungsfahrzeug
+
+![[Reinigungsfahrzeug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reinigungsfahrzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigungsfahrzeug&language=de)
 
 **Meaning:** street cleaning vehicle
 **Plural:** Reinigungsfahrzeuge

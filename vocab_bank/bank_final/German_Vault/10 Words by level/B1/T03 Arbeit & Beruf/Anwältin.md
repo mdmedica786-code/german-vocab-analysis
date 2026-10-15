@@ -15,11 +15,16 @@ id: "B6363"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Anwältin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anwältin
+
+![[Anwältin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anw%C3%A4ltin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anw%C3%A4ltin&language=de)
 
 **Meaning:** lawyer (f)
 **Plural:** Anwältinnen

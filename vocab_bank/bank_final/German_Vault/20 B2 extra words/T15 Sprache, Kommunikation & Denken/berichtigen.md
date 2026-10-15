@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1230"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "berichtigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # berichtigen
+
+![[berichtigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/berichtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berichtigen&language=de)
 
 **Meaning:** to correct; to rectify
 **Forms:** berichtigt · berichtigte · hat berichtigt

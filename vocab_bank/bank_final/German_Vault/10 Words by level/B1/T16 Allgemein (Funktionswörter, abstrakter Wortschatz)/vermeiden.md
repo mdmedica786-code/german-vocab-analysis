@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 8a"
 freq_rank: 1137
 skip: false
+audio: "vermeiden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vermeiden
+
+![[vermeiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vermeiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vermeiden&language=de)
 
 **Meaning:** to avoid
 **Forms:** vermeidet · vermied · hat vermieden

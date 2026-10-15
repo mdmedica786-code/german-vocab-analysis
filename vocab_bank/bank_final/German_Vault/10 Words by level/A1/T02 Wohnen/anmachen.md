@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 6a"
 freq_rank: 5759
 skip: false
+audio: "anmachen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anmachen
+
+![[anmachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anmachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anmachen&language=de)
 
 **Meaning:** to turn on
 **Forms:** macht an · machte an · hat angemacht

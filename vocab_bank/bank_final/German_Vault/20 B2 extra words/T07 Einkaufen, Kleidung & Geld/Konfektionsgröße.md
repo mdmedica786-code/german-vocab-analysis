@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1405"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Konfektionsgröße.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konfektionsgröße
+
+![[Konfektionsgröße.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfektionsgr%C3%B6%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfektionsgr%C3%B6%C3%9Fe&language=de)
 
 **Meaning:** clothing size
 **Plural:** Konfektionsgrößen

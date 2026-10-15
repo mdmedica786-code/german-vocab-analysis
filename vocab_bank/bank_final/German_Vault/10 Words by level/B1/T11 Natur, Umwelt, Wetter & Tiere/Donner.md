@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 11a"
 freq_rank: 5220
 skip: false
+audio: "Donner.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Donner
+
+![[Donner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Donner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Donner&language=de)
 
 **Meaning:** thunder
 **Plural:** Donner

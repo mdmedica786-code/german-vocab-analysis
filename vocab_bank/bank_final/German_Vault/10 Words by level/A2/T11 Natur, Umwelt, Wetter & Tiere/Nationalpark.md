@@ -15,11 +15,16 @@ id: "B2898"
 netzwerk: "A2 K9 12a"
 freq_rank: 4943
 skip: false
+audio: "Nationalpark.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nationalpark
+
+![[Nationalpark.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nationalpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalpark&language=de)
 
 **Meaning:** national park
 **Plural:** Nationalparks

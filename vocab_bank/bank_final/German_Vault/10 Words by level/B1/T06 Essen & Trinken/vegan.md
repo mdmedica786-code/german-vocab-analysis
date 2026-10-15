@@ -12,11 +12,16 @@ id: "B3542"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 4100
 skip: false
+audio: "vegan.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # vegan
+
+![[vegan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vegan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vegan&language=de)
 
 **Meaning:** vegan
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 11a"
 freq_rank: 3000
 skip: false
+audio: "dabei sein.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dabei sein
+
+![[dabei sein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dabei%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dabei%20sein&language=de)
 
 **Meaning:** to be there; to be included; to take part
 **Forms:** ist dabei · war dabei · ist dabei gewesen

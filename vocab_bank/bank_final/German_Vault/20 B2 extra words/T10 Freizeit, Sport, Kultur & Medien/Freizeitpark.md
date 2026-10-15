@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3966"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Freizeitpark.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Freizeitpark
+
+![[Freizeitpark.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeitpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitpark&language=de)
 
 **Meaning:** amusement park; theme park
 **Plural:** Freizeitparks

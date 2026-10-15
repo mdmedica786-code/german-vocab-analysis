@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4632"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Weiterbildungsmöglichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Weiterbildungsmöglichkeit
+
+![[Weiterbildungsmöglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weiterbildungsm%C3%B6glichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weiterbildungsm%C3%B6glichkeit&language=de)
 
 **Meaning:** opportunity for further training
 **Plural:** Weiterbildungsmöglichkeiten

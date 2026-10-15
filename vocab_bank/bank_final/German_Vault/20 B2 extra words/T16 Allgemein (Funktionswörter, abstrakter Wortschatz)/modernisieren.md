@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4244"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "modernisieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # modernisieren
+
+![[modernisieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/modernisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=modernisieren&language=de)
 
 **Meaning:** to modernise
 **Forms:** modernisiert · modernisierte · hat modernisiert

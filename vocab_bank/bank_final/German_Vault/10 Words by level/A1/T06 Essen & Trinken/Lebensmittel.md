@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 2585
 skip: false
+audio: "Lebensmittel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lebensmittel
+
+![[Lebensmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensmittel&language=de)
 
 **Meaning:** groceries
 **Plural:** (Pl.)

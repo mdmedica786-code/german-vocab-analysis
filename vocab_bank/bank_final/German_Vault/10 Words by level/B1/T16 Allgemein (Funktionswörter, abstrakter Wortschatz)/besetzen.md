@@ -13,11 +13,16 @@ id: "B5583"
 goethe_level: "B1"
 freq_rank: 2409
 skip: false
+audio: "besetzen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # besetzen
+
+![[besetzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besetzen&language=de)
 
 **Meaning:** to occupy; to fill (a post)
 **Forms:** besetzt · besetzte · hat besetzt

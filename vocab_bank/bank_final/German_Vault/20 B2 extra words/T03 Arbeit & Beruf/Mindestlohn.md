@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1756"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Mindestlohn.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mindestlohn
+
+![[Mindestlohn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mindestlohn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mindestlohn&language=de)
 
 **Meaning:** minimum wage
 **Plural:** Mindestlöhne

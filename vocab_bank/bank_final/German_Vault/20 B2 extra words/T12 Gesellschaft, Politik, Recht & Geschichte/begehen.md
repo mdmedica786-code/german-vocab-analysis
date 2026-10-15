@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2624"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "begehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # begehen
+
+![[begehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begehen&language=de)
 
 **Meaning:** to commit; to celebrate
 **Forms:** begeht · beging · hat begangen

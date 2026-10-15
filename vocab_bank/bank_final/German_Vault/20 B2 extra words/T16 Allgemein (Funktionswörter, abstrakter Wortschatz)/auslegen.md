@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3207"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "auslegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auslegen
+
+![[auslegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auslegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auslegen&language=de)
 
 **Meaning:** to interpret; to lay out; to design
 **Forms:** legt aus · legte aus · hat ausgelegt

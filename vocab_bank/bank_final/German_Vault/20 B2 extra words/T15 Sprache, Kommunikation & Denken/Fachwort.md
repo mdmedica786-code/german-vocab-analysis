@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3927"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Fachwort.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Fachwort
+
+![[Fachwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachwort&language=de)
 
 **Meaning:** technical term
 **Plural:** Fachwörter

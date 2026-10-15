@@ -15,11 +15,16 @@ id: "B0755"
 netzwerk: "A1 K4 11"
 freq_rank: 5759
 skip: false
+audio: "Fischgericht.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fischgericht
+
+![[Fischgericht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fischgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fischgericht&language=de)
 
 **Meaning:** fish dish
 **Plural:** Fischgerichte

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 13a"
 freq_rank: 681
 skip: false
+audio: "Praxis.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Praxis
+
+![[Praxis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Praxis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Praxis&language=de)
 
 **Meaning:** surgery; (doctor's) practice
 **Plural:** Praxen

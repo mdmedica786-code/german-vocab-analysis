@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 1c"
 freq_rank: 2832
 skip: false
+audio: "Reihenfolge.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reihenfolge
+
+![[Reihenfolge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reihenfolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reihenfolge&language=de)
 
 **Meaning:** sequence
 **Plural:** Reihenfolgen

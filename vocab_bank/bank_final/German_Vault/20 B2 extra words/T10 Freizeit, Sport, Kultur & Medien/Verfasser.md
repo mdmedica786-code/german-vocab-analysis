@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2719"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Verfasser.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verfasser
+
+![[Verfasser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verfasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verfasser&language=de)
 
 **Meaning:** author; writer
 **Plural:** Verfasser

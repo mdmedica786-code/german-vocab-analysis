@@ -15,11 +15,16 @@ id: "B2178"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Brautkleid.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Brautkleid
+
+![[Brautkleid.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brautkleid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brautkleid&language=de)
 
 **Meaning:** wedding dress
 **Plural:** Brautkleider

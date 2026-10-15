@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 1a"
 freq_rank: 829
 skip: false
+audio: "besuchen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # besuchen
+
+![[besuchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besuchen&language=de)
 
 **Meaning:** to visit
 **Forms:** besucht · besuchte · hat besucht

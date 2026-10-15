@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1302"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "sträuben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # sträuben
+
+![[sträuben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/str%C3%A4uben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=str%C3%A4uben&language=de)
 
 **Meaning:** to resist; to bristle
 **Forms:** sträubt sich · sträubte sich · hat sich gesträubt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2499"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Ruf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ruf
+
+![[Ruf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ruf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruf&language=de)
 
 **Meaning:** call; reputation
 **Plural:** Rufe

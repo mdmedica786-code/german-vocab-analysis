@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 5b"
 freq_rank: 4517
 skip: false
+audio: "sympathisch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sympathisch
+
+![[sympathisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sympathisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sympathisch&language=de)
 
 **Meaning:** likeable
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

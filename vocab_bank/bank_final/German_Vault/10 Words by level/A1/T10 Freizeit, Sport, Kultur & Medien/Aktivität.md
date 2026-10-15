@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 15a"
 freq_rank: 1099
 skip: false
+audio: "Aktivität.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aktivität
+
+![[Aktivität.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aktivit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aktivit%C3%A4t&language=de)
 
 **Meaning:** activity
 **Plural:** Aktivitäten

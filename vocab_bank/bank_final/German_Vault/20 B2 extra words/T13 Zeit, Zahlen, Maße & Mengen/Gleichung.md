@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2517"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Gleichung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gleichung
+
+![[Gleichung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gleichung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gleichung&language=de)
 
 **Meaning:** equation
 **Plural:** Gleichungen

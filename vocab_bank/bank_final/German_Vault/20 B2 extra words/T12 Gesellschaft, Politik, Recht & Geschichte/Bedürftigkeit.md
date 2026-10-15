@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1858"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Bedürftigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bedürftigkeit
+
+![[Bedürftigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bed%C3%BCrftigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bed%C3%BCrftigkeit&language=de)
 
 **Meaning:** neediness; need
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 822
 skip: false
+audio: "beteiligen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beteiligen
+
+![[beteiligen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beteiligen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beteiligen&language=de)
 
 **Meaning:** to participate
 **Forms:** beteiligt sich · beteiligte sich · hat sich beteiligt

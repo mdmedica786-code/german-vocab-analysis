@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 11"
 freq_rank: 5759
 skip: false
+audio: "Dessert.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dessert
+
+![[Dessert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dessert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dessert&language=de)
 
 **Meaning:** dessert
 **Plural:** Desserts

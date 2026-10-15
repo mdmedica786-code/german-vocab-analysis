@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4345"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Raumsituation
+
+[▶️ YouGlish](https://youglish.com/pronounce/Raumsituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raumsituation&language=de)
 
 **Meaning:** space situation; availability of rooms
 **Plural:** Raumsituationen

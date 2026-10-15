@@ -15,11 +15,16 @@ id: "B0083"
 netzwerk: "A1 K1 3b"
 freq_rank: 3172
 skip: false
+audio: "Verb.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verb
+
+![[Verb.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verb&language=de)
 
 **Meaning:** verb
 **Plural:** Verben

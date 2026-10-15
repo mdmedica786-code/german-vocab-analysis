@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 742
 skip: false
+audio: "erforderlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # erforderlich
+
+![[erforderlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erforderlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erforderlich&language=de)
 
 **Meaning:** required
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

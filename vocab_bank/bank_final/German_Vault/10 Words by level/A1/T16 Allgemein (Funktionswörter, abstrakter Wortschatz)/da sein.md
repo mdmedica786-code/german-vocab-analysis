@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # da sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/da%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=da%20sein&language=de)
+
 **Meaning:** to be there; to be present
 **Forms:** ist da · war da · ist da gewesen
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

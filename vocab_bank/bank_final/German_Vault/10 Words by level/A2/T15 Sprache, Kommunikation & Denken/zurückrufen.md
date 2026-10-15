@@ -13,11 +13,16 @@ id: "B2499"
 netzwerk: "A2 K6 12b"
 freq_rank: 5759
 skip: false
+audio: "zurückrufen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückrufen
+
+![[zurückrufen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckrufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckrufen&language=de)
 
 **Meaning:** to call sb back
 **Forms:** ruft zurück · rief zurück · hat zurückgerufen

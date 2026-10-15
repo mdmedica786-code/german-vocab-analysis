@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 6a"
 freq_rank: 1593
 skip: false
+audio: "bestimmt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestimmt
+
+![[bestimmt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestimmt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestimmt&language=de)
 
 **Meaning:** certain; definite
 **Other senses:** definitely

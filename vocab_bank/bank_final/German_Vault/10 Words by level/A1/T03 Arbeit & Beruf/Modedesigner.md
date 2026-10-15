@@ -15,11 +15,16 @@ id: "B1687"
 netzwerk: "A1 K11 12a"
 freq_rank: 5759
 skip: false
+audio: "Modedesigner.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Modedesigner
+
+![[Modedesigner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Modedesigner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modedesigner&language=de)
 
 **Meaning:** fashion designer (m)
 **Plural:** Modedesigner

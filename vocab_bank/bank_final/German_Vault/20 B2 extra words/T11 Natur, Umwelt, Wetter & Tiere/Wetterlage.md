@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0719"
 exam_use: ["Hören"]
 skip: false
+audio: "Wetterlage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wetterlage
+
+![[Wetterlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wetterlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetterlage&language=de)
 
 **Meaning:** weather situation
 **Plural:** Wetterlagen

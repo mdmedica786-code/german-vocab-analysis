@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 1b ÜB"
 freq_rank: 876
 skip: false
+audio: "schießen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schießen
+
+![[schießen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schie%C3%9Fen&language=de)
 
 **Meaning:** to shoot
 **Forms:** schießt · schoss · hat geschossen

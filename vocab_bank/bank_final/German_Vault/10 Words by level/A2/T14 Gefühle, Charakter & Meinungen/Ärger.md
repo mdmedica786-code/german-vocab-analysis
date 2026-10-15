@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 1b"
 freq_rank: 2490
 skip: false
+audio: "Ärger.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ärger
+
+![[Ärger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%84rger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%84rger&language=de)
 
 **Meaning:** anger
 **Plural:** –

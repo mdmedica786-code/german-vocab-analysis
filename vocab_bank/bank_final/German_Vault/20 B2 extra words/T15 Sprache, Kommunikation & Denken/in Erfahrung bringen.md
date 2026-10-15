@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Erfahrung bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Erfahrung%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Erfahrung%20bringen&language=de)
+
 **Meaning:** to find out; to learn
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

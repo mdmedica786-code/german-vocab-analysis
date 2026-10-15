@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Berufung einlegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Berufung%20einlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufung%20einlegen&language=de)
+
 **Meaning:** to lodge an appeal
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

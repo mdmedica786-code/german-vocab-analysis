@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3b"
 freq_rank: 2686
 skip: false
+audio: "Wochenende.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wochenende
+
+![[Wochenende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wochenende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wochenende&language=de)
 
 **Meaning:** weekend
 **Plural:** Wochenenden

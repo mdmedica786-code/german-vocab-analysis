@@ -13,11 +13,16 @@ id: "B4340"
 netzwerk: "B1 K7 12b"
 freq_rank: 9999
 skip: false
+audio: "zurückbrüllen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückbrüllen
+
+![[zurückbrüllen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckbr%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckbr%C3%BCllen&language=de)
 
 **Meaning:** to roar back
 **Forms:** brüllt zurück · brüllte zurück · hat zurückgebrüllt

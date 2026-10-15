@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 407
 skip: false
+audio: "Beziehung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beziehung
+
+![[Beziehung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beziehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beziehung&language=de)
 
 **Meaning:** relationship
 **Plural:** Beziehungen

@@ -13,11 +13,16 @@ id: "B5204"
 goethe_level: "B1"
 freq_rank: 746
 skip: false
+audio: "treiben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # treiben
+
+![[treiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/treiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=treiben&language=de)
 
 **Meaning:** to do (sport); to drive; to push
 **Forms:** treibt · trieb · hat getrieben

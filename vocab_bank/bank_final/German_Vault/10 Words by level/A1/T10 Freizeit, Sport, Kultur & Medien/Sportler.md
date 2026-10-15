@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 13a"
 freq_rank: 2218
 skip: false
+audio: "Sportler.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sportler
+
+![[Sportler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportler&language=de)
 
 **Meaning:** athlete (m)
 **Plural:** Sportler

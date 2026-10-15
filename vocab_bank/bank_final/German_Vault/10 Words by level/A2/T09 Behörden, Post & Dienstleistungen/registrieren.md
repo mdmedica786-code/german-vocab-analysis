@@ -13,11 +13,16 @@ id: "B2579"
 netzwerk: "A2 K7 6a"
 freq_rank: 3501
 skip: false
+audio: "registrieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # registrieren
+
+![[registrieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/registrieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=registrieren&language=de)
 
 **Meaning:** to register
 **Forms:** registriert · registrierte · hat registriert

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0958"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Fachliteratur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fachliteratur
+
+![[Fachliteratur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachliteratur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachliteratur&language=de)
 
 **Meaning:** specialist literature
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3192"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "strafen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # strafen
+
+![[strafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strafen&language=de)
 
 **Meaning:** to punish
 **Forms:** straft · strafte · hat gestraft

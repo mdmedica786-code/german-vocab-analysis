@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12a"
 freq_rank: 4903
 skip: false
+audio: "Schaf.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schaf
+
+![[Schaf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schaf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaf&language=de)
 
 **Meaning:** sheep
 **Plural:** Schafe

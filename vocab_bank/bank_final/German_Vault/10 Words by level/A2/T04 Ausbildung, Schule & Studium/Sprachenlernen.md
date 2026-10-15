@@ -15,11 +15,16 @@ id: "B2763"
 netzwerk: "A2 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Sprachenlernen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sprachenlernen
+
+![[Sprachenlernen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachenlernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachenlernen&language=de)
 
 **Meaning:** learning languages
 **Plural:** –

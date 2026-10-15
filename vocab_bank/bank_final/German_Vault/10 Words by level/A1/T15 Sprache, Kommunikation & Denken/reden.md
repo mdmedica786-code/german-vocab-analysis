@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 9c"
 freq_rank: 267
 skip: false
+audio: "reden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reden
+
+![[reden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reden&language=de)
 
 **Meaning:** to talk
 **Forms:** redet · redete · hat geredet

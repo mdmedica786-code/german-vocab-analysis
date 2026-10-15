@@ -14,11 +14,16 @@ bank: "main"
 id: "B6119"
 freq_rank: 4517
 skip: false
+audio: "Petition.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Petition
+
+![[Petition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Petition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Petition&language=de)
 
 **Meaning:** petition
 **Plural:** Petitionen

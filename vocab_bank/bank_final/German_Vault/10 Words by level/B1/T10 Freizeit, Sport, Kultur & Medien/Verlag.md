@@ -15,11 +15,16 @@ id: "B5192"
 goethe_level: "B1"
 freq_rank: 656
 skip: false
+audio: "Verlag.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verlag
+
+![[Verlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlag&language=de)
 
 **Meaning:** publisher; publishing house
 **Plural:** Verlage

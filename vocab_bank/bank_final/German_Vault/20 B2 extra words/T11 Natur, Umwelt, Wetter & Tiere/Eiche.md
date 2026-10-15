@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1979"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Eiche.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eiche
+
+![[Eiche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eiche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eiche&language=de)
 
 **Meaning:** oak
 **Plural:** Eichen

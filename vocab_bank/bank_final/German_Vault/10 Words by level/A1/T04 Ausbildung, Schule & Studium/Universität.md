@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 7a"
 freq_rank: 859
 skip: false
+audio: "Universität.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Universität
+
+![[Universität.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Universit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Universit%C3%A4t&language=de)
 
 **Meaning:** university
 **Plural:** Universitäten

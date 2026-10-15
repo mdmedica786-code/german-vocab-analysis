@@ -15,11 +15,16 @@ id: "B3549"
 netzwerk: "B1 K3 3b"
 freq_rank: 5759
 skip: false
+audio: "Krisensituation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krisensituation
+
+![[Krisensituation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krisensituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krisensituation&language=de)
 
 **Meaning:** crisis (situation)
 **Plural:** Krisensituationen

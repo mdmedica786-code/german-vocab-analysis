@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0239"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bedürfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedürfen
+
+![[bedürfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bed%C3%BCrfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bed%C3%BCrfen&language=de)
 
 **Meaning:** to require; to need
 **Forms:** bedarf · bedurfte · hat bedurft

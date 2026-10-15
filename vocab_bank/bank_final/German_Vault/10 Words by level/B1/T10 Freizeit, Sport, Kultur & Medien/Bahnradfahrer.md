@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Bahnradfahrer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bahnradfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnradfahrer&language=de)
+
 **Meaning:** track bicycle driver (m)
 **Plural:** Bahnradfahrer
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

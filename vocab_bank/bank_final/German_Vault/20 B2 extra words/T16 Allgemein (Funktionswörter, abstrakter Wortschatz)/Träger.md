@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2580"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Träger.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Träger
+
+![[Träger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tr%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tr%C3%A4ger&language=de)
 
 **Meaning:** carrier; bearer; sponsor (of an institution)
 **Plural:** Träger

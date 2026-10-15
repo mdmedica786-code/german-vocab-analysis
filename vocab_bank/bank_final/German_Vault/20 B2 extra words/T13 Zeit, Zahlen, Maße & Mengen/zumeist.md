@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2579"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "zumeist.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zumeist
+
+![[zumeist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zumeist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zumeist&language=de)
 
 **Meaning:** mostly; usually
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

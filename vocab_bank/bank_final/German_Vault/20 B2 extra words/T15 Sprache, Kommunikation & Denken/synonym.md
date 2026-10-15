@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3603"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "synonym.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # synonym
+
+![[synonym.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/synonym/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=synonym&language=de)
 
 **Meaning:** synonymous
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

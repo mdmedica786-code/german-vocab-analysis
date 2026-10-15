@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3181"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Rhetorik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rhetorik
+
+![[Rhetorik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rhetorik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rhetorik&language=de)
 
 **Meaning:** rhetoric
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3882"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "einblenden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # einblenden
+
+![[einblenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einblenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einblenden&language=de)
 
 **Meaning:** to fade in; to show (on screen); to display
 **Forms:** blendet ein · blendete ein · hat eingeblendet

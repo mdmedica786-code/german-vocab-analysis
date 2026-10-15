@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4567"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "vergesslich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # vergesslich
+
+![[vergesslich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergesslich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergesslich&language=de)
 
 **Meaning:** forgetful
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

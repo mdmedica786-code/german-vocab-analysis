@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4626"
 exam_use: ["Grammatik", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Grammatik", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # weder ... noch ...
+
+[▶️ YouGlish](https://youglish.com/pronounce/weder%20...%20noch%20.../german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weder%20...%20noch%20...&language=de)
 
 **Meaning:** neither ... nor ...
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

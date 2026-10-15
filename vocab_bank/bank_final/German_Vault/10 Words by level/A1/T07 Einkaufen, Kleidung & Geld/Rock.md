@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 1a"
 freq_rank: 2760
 skip: false
+audio: "Rock.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rock
+
+![[Rock.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rock&language=de)
 
 **Meaning:** skirt; rock (music)
 **Plural:** Röcke

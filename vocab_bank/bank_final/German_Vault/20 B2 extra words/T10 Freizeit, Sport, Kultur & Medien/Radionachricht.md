@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4341"
 exam_use: ["Medien", "Hören"]
 skip: false
-status: "new"
+audio: "Radionachricht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Radionachricht
+
+![[Radionachricht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radionachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radionachricht&language=de)
 
 **Meaning:** radio news item; radio news
 **Plural:** Radionachrichten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4170"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Lebensbedingung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lebensbedingung
+
+![[Lebensbedingung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensbedingung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensbedingung&language=de)
 
 **Meaning:** living condition
 **Plural:** Lebensbedingungen

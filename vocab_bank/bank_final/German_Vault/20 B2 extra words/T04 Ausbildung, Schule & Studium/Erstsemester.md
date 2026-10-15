@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0927"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Erstsemester.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Erstsemester
+
+![[Erstsemester.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erstsemester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erstsemester&language=de)
 
 **Meaning:** first-semester student
 **Plural:** Erstsemester

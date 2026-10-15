@@ -14,11 +14,16 @@ bank: "main"
 id: "B5717"
 freq_rank: 2849
 skip: false
+audio: "Demonstration.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Demonstration
+
+![[Demonstration.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Demonstration/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demonstration&language=de)
 
 **Meaning:** demonstration; protest
 **Plural:** Demonstrationen

@@ -15,11 +15,16 @@ id: "B2372"
 netzwerk: "A2 K5 8b"
 freq_rank: 1105
 skip: false
+audio: "Kaiser.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kaiser
+
+![[Kaiser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaiser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaiser&language=de)
 
 **Meaning:** emperor
 **Plural:** Kaiser

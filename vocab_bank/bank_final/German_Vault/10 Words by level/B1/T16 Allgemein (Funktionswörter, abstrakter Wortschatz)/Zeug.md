@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 9a"
 freq_rank: 2941
 skip: false
+audio: "Zeug.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zeug
+
+![[Zeug.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeug&language=de)
 
 **Meaning:** stuff
 **Plural:** –

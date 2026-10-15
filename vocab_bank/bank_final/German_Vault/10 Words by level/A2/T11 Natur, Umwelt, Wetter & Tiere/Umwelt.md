@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 1652
 skip: false
+audio: "Umwelt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umwelt
+
+![[Umwelt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umwelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umwelt&language=de)
 
 **Meaning:** environment
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 685
 skip: false
+audio: "schicken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schicken
+
+![[schicken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schicken&language=de)
 
 **Meaning:** to send
 **Forms:** schickt · schickte · hat geschickt

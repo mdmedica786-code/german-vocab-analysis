@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3901"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "entschlüsseln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # entschlüsseln
+
+![[entschlüsseln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entschl%C3%BCsseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entschl%C3%BCsseln&language=de)
 
 **Meaning:** to decode; to decipher
 **Forms:** entschlüsselt · entschlüsselte · hat entschlüsselt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2167"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "zur Welt bringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/phrase", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zur Welt bringen
+
+![[zur Welt bringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Welt%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Welt%20bringen&language=de)
 
 **Meaning:** to give birth to
 **Level:** B2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

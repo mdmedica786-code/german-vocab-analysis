@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K4 11a"
 freq_rank: 544
 skip: false
+audio: "fremd.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fremd
+
+![[fremd.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fremd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fremd&language=de)
 
 **Meaning:** foreign; strange; unfamiliar
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

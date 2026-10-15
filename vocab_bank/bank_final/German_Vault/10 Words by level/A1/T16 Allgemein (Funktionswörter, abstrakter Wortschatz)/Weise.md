@@ -15,11 +15,16 @@ id: "B1814"
 netzwerk: "A1 K12 7c"
 freq_rank: 310
 skip: false
+audio: "Weise.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weise
+
+![[Weise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weise&language=de)
 
 **Meaning:** manner
 **Plural:** Weisen

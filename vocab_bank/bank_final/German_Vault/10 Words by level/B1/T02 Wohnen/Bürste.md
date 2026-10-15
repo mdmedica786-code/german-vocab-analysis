@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Bürste.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bürste
+
+![[Bürste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrste&language=de)
 
 **Meaning:** brush
 **Plural:** Bürsten

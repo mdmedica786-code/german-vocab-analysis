@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 3c"
 freq_rank: 2854
 skip: false
+audio: "Lärm.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lärm
+
+![[Lärm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%A4rm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%A4rm&language=de)
 
 **Meaning:** noise
 **Plural:** –

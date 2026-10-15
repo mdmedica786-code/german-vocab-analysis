@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K6 11b"
 freq_rank: 5759
 skip: false
+audio: "Anrufbeantworter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anrufbeantworter
+
+![[Anrufbeantworter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anrufbeantworter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anrufbeantworter&language=de)
 
 **Meaning:** answering machine
 **Plural:** Anrufbeantworter

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5234"
 freq_rank: 994
 skip: false
+audio: "Anforderung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anforderung
+
+![[Anforderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anforderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anforderung&language=de)
 
 **Meaning:** requirement; demand
 **Plural:** Anforderungen

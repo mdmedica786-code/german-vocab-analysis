@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0763"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "entscheidend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # entscheidend
+
+![[entscheidend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entscheidend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entscheidend&language=de)
 
 **Meaning:** decisive; crucial
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

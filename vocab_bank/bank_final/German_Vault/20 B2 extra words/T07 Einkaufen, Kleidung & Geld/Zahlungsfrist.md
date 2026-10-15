@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0456"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Zahlungsfrist.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zahlungsfrist
+
+![[Zahlungsfrist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahlungsfrist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahlungsfrist&language=de)
 
 **Meaning:** payment deadline
 **Plural:** Zahlungsfristen

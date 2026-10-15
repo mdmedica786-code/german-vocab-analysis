@@ -15,11 +15,16 @@ id: "B3319"
 netzwerk: "B1 K1 9a"
 freq_rank: 5759
 skip: false
+audio: "Kofferraum.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kofferraum
+
+![[Kofferraum.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kofferraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kofferraum&language=de)
 
 **Meaning:** car boot
 **Plural:** Kofferräume

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 3a"
 freq_rank: 1170
 skip: false
+audio: "schenken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schenken
+
+![[schenken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schenken&language=de)
 
 **Meaning:** to give (as a gift)
 **Forms:** schenkt · schenkte · hat geschenkt

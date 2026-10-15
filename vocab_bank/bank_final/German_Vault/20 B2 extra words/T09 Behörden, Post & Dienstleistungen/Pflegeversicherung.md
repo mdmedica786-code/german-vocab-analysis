@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1888"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Pflegeversicherung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflegeversicherung
+
+![[Pflegeversicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflegeversicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegeversicherung&language=de)
 
 **Meaning:** long-term care insurance
 **Plural:** Pflegeversicherungen

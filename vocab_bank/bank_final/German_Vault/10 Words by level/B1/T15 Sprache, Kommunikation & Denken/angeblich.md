@@ -12,11 +12,16 @@ id: "B4281"
 netzwerk: "B1 K7 10a"
 freq_rank: 2321
 skip: false
+audio: "angeblich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # angeblich
+
+![[angeblich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angeblich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angeblich&language=de)
 
 **Meaning:** allegedly; supposedly
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

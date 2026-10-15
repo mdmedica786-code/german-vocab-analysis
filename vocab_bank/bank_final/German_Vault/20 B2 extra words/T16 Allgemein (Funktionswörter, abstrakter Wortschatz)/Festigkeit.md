@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3581"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Festigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Festigkeit
+
+![[Festigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Festigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Festigkeit&language=de)
 
 **Meaning:** firmness; strength; stability
 **Plural:** –

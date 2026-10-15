@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 2584
 skip: false
+audio: "Nebel.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nebel
+
+![[Nebel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nebel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebel&language=de)
 
 **Meaning:** fog
 **Plural:** Nebel

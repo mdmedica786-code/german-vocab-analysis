@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1710"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "pfeifen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # pfeifen
+
+![[pfeifen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pfeifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pfeifen&language=de)
 
 **Meaning:** to whistle
 **Forms:** pfeift · pfiff · hat gepfiffen

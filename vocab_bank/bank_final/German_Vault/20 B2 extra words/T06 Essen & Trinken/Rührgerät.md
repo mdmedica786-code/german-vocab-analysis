@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4363"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Rührgerät.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Rührgerät
+
+![[Rührgerät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BChrger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BChrger%C3%A4t&language=de)
 
 **Meaning:** hand mixer; electric whisk
 **Plural:** Rührgeräte

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 2a"
 freq_rank: 5217
 skip: false
+audio: "Supermarkt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Supermarkt
+
+![[Supermarkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Supermarkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Supermarkt&language=de)
 
 **Meaning:** supermarket
 **Plural:** Supermärkte

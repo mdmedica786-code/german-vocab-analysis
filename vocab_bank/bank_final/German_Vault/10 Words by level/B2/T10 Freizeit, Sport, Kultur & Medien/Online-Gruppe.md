@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Online-Gruppe
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Gruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Gruppe&language=de)
+
 **Meaning:** online group
 **Plural:** Online-Gruppen
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

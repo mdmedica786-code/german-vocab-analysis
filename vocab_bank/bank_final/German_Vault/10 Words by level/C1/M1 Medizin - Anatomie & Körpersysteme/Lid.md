@@ -14,11 +14,16 @@ bank: "main"
 id: "B6330"
 freq_rank: 5703
 skip: false
+audio: "Lid.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lid
+
+![[Lid.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lid&language=de)
 
 **Meaning:** eyelid
 **Plural:** Lider

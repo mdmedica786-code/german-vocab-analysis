@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1739"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "zischen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zischen
+
+![[zischen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zischen&language=de)
 
 **Meaning:** to hiss; to fizz
 **Forms:** zischt · zischte · hat gezischt

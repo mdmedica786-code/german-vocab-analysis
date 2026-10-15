@@ -14,11 +14,16 @@ bank: "main"
 id: "B6101"
 freq_rank: 4355
 skip: false
+audio: "Belohnung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Belohnung
+
+![[Belohnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Belohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Belohnung&language=de)
 
 **Meaning:** reward
 **Plural:** Belohnungen

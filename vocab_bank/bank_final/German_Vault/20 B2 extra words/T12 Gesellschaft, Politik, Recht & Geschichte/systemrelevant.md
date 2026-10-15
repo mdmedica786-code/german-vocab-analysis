@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4471"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "systemrelevant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # systemrelevant
+
+![[systemrelevant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/systemrelevant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=systemrelevant&language=de)
 
 **Meaning:** system-relevant; essential to the system
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

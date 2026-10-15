@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 2753
 skip: false
+audio: "anstellen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anstellen
+
+![[anstellen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstellen&language=de)
 
 **Meaning:** to hire
 **Forms:** stellt an · stellte an · hat angestellt

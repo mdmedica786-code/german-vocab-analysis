@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0332"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Benachteiligung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Benachteiligung
+
+![[Benachteiligung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benachteiligung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benachteiligung&language=de)
 
 **Meaning:** disadvantage; discrimination
 **Plural:** Benachteiligungen

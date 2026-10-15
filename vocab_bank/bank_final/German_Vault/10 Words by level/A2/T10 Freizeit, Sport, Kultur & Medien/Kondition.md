@@ -15,11 +15,16 @@ id: "B2869"
 netzwerk: "A2 K9 8a"
 freq_rank: 5759
 skip: false
+audio: "Kondition.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kondition
+
+![[Kondition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kondition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kondition&language=de)
 
 **Meaning:** stamina
 **Plural:** –

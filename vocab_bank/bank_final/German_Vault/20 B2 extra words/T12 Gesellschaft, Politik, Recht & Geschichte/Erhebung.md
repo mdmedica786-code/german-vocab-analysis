@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2752"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Erhebung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erhebung
+
+![[Erhebung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erhebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erhebung&language=de)
 
 **Meaning:** survey; elevation; uprising
 **Plural:** Erhebungen

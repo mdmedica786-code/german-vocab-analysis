@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 5512
 skip: false
+audio: "Leiterin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leiterin
+
+![[Leiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leiterin&language=de)
 
 **Meaning:** director (f)
 **Plural:** Leiterinnen

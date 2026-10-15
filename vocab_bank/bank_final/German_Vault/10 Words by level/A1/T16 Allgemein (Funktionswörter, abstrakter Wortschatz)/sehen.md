@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sehen&language=de)
+
 **Meaning:** to see
 **Forms:** sieht · sah · hat gesehen
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

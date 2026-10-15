@@ -15,11 +15,16 @@ id: "B3878"
 netzwerk: "B1 K5 1a"
 freq_rank: 2215
 skip: false
+audio: "Autofahrer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Autofahrer
+
+![[Autofahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autofahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autofahrer&language=de)
 
 **Meaning:** driver (m); motorist
 **Plural:** Autofahrer

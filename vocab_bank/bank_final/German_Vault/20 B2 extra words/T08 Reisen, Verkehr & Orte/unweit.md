@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0038"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "unweit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/preposition", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # unweit
+
+![[unweit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unweit&language=de)
 
 **Meaning:** not far from
 **Case:** + Gen.

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1900"
 exam_use: ["Sprechen", "Medien"]
 skip: false
+audio: "Wegwerfgesellschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Sprechen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wegwerfgesellschaft
+
+![[Wegwerfgesellschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wegwerfgesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wegwerfgesellschaft&language=de)
 
 **Meaning:** throwaway society
 **Plural:** –

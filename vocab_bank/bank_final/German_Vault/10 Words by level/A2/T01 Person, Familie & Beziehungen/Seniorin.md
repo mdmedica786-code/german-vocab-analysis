@@ -15,11 +15,16 @@ id: "B2789"
 netzwerk: "A2 K8 9a"
 freq_rank: 5759
 skip: false
+audio: "Seniorin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Seniorin
+
+![[Seniorin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seniorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seniorin&language=de)
 
 **Meaning:** senior (f)
 **Plural:** Seniorinnen

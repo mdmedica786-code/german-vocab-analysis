@@ -15,11 +15,16 @@ id: "B2936"
 netzwerk: "A2 K10 1b"
 freq_rank: 5759
 skip: false
+audio: "Wagenburg.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wagenburg
+
+![[Wagenburg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wagenburg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wagenburg&language=de)
 
 **Meaning:** wagon fort
 **Plural:** Wagenburgen

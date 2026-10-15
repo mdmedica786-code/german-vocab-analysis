@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 10b"
 freq_rank: 442
 skip: false
+audio: "Thema.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Thema
+
+![[Thema.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Thema/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Thema&language=de)
 
 **Meaning:** topic
 **Plural:** Themen

@@ -15,11 +15,16 @@ id: "B4770"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Nachtzeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachtzeit
+
+![[Nachtzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachtzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachtzeit&language=de)
 
 **Meaning:** nighttime
 **Plural:** Nachtzeiten

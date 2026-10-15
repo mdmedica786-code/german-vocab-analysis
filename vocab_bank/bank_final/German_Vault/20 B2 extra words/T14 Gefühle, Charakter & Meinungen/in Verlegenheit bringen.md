@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Verlegenheit bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Verlegenheit%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Verlegenheit%20bringen&language=de)
+
 **Meaning:** to embarrass
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

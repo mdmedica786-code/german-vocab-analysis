@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 7a"
 freq_rank: 1361
 skip: false
+audio: "froh.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # froh
+
+![[froh.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/froh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=froh&language=de)
 
 **Meaning:** glad
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

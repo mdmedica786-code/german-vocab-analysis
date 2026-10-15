@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0992"
 exam_use: ["Medien", "Sprechen"]
 skip: false
+audio: "Nebenrolle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nebenrolle
+
+![[Nebenrolle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nebenrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenrolle&language=de)
 
 **Meaning:** supporting role
 **Plural:** Nebenrollen

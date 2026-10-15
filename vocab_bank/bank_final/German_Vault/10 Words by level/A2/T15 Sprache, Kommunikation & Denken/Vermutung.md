@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Vermutung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vermutung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermutung&language=de)
+
 **Meaning:** assumption
 **Plural:** Vermutungen
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

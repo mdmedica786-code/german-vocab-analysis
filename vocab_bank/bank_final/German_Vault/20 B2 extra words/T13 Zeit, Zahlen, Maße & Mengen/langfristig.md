@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0777"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "langfristig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # langfristig
+
+![[langfristig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/langfristig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=langfristig&language=de)
 
 **Meaning:** long-term
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

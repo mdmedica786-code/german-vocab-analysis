@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 2a"
 freq_rank: 1753
 skip: false
+audio: "Kleidung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kleidung
+
+![[Kleidung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleidung&language=de)
 
 **Meaning:** clothes
 **Plural:** –

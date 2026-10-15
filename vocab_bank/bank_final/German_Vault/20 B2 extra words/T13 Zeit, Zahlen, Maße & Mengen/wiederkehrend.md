@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4640"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "wiederkehrend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # wiederkehrend
+
+![[wiederkehrend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wiederkehrend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wiederkehrend&language=de)
 
 **Meaning:** recurring
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

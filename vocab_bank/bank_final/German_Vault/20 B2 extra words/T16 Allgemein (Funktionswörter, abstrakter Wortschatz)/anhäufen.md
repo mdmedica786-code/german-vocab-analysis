@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0843"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "anhäufen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # anhäufen
+
+![[anhäufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anh%C3%A4ufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anh%C3%A4ufen&language=de)
 
 **Meaning:** to accumulate; to pile up
 **Forms:** häuft an · häufte an · hat angehäuft

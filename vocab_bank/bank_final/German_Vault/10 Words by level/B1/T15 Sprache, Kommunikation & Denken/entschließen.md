@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 2100
 skip: false
+audio: "entschließen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entschließen
+
+![[entschließen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entschlie%C3%9Fen&language=de)
 
 **Meaning:** to decide
 **Forms:** entschließt · entschloss · hat entschlossen

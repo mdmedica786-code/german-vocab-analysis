@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 6"
 freq_rank: 2381
 skip: false
+audio: "mischen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mischen
+
+![[mischen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mischen&language=de)
 
 **Meaning:** to mix
 **Forms:** mischt · mischte · hat gemischt

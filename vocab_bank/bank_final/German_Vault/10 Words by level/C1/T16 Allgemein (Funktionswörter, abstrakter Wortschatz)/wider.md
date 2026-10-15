@@ -11,11 +11,16 @@ bank: "main"
 id: "B5487"
 freq_rank: 2102
 skip: false
+audio: "wider.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # wider
+
+![[wider.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wider/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wider&language=de)
 
 **Meaning:** against; contrary to
 **Case:** + Akk.

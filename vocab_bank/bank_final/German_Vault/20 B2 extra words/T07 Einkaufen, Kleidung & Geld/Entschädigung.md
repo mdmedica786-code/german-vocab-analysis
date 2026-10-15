@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3462"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Entschädigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entschädigung
+
+![[Entschädigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entsch%C3%A4digung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entsch%C3%A4digung&language=de)
 
 **Meaning:** compensation
 **Plural:** Entschädigungen

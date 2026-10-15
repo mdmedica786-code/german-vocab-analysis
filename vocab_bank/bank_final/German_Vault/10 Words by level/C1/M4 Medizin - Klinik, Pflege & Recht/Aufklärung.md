@@ -14,11 +14,16 @@ bank: "main"
 id: "B5521"
 freq_rank: 2208
 skip: false
+audio: "Aufklärung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufklärung
+
+![[Aufklärung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufkl%C3%A4rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufkl%C3%A4rung&language=de)
 
 **Meaning:** information; education; enlightenment
 **Plural:** –

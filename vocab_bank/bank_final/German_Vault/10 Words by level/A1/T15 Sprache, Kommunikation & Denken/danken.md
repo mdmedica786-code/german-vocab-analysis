@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 11a"
 freq_rank: 718
 skip: false
+audio: "danken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # danken
+
+![[danken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/danken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=danken&language=de)
 
 **Meaning:** to thank
 **Forms:** dankt · dankte · hat gedankt

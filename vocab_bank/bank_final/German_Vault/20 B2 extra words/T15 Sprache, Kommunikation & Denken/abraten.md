@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0837"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "abraten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # abraten
+
+![[abraten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abraten&language=de)
 
 **Meaning:** to advise against
 **Forms:** rät ab · riet ab · hat abgeraten

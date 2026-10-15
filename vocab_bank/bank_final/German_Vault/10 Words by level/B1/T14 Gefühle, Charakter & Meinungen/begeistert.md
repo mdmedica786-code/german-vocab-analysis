@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 2412
 skip: false
+audio: "begeistert.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # begeistert
+
+![[begeistert.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begeistert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begeistert&language=de)
 
 **Meaning:** enthusiastic
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

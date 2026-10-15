@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # weil
 
+[▶️ YouGlish](https://youglish.com/pronounce/weil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weil&language=de)
+
 **Meaning:** because
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

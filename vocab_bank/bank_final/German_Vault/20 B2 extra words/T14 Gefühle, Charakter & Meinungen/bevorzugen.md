@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2949"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "bevorzugen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bevorzugen
+
+![[bevorzugen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bevorzugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bevorzugen&language=de)
 
 **Meaning:** to prefer; to favour
 **Forms:** bevorzugt · bevorzugte · hat bevorzugt

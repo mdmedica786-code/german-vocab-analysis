@@ -15,11 +15,16 @@ id: "B2520"
 netzwerk: "A2 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "Telefonkonferenz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Telefonkonferenz
+
+![[Telefonkonferenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Telefonkonferenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonkonferenz&language=de)
 
 **Meaning:** conference call
 **Plural:** Telefonkonferenzen

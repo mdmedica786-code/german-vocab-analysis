@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0534"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Asylbewerber.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Asylbewerber
+
+![[Asylbewerber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Asylbewerber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asylbewerber&language=de)
 
 **Meaning:** asylum seeker
 **Plural:** Asylbewerber

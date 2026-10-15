@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0074"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "in Kraft treten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Kraft treten
+
+![[in Kraft treten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Kraft%20treten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Kraft%20treten&language=de)
 
 **Meaning:** to come into force
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4621"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Wartezimmer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Wartezimmer
+
+![[Wartezimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wartezimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wartezimmer&language=de)
 
 **Meaning:** waiting room
 **Plural:** Wartezimmer

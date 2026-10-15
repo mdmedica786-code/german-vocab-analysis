@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 1a"
 freq_rank: 5746
 skip: false
+audio: "kopieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kopieren
+
+![[kopieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kopieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kopieren&language=de)
 
 **Meaning:** to copy
 **Forms:** kopiert · kopierte · hat kopiert

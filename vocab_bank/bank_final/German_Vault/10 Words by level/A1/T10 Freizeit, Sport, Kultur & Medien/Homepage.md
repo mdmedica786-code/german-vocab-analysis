@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 10a"
 freq_rank: 2000
 skip: false
+audio: "Homepage.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Homepage
+
+![[Homepage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Homepage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Homepage&language=de)
 
 **Meaning:** homepage
 **Plural:** Homepages

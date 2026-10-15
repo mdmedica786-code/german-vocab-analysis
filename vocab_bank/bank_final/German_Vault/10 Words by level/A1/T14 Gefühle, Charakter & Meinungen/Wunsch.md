@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 3b"
 freq_rank: 1211
 skip: false
+audio: "Wunsch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wunsch
+
+![[Wunsch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wunsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wunsch&language=de)
 
 **Meaning:** wish
 **Plural:** Wünsche

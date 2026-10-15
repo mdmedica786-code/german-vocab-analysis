@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0040"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "in Betracht ziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Betracht ziehen
+
+![[in Betracht ziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Betracht%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Betracht%20ziehen&language=de)
 
 **Meaning:** to consider; to take into account
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2414"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erweisen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erweisen
+
+![[erweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erweisen&language=de)
 
 **Meaning:** to prove; to show (oneself)
 **Forms:** erweist sich · erwies sich · hat sich erwiesen

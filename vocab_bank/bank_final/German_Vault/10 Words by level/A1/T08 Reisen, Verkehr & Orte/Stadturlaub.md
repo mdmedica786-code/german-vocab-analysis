@@ -15,11 +15,16 @@ id: "B1729"
 netzwerk: "A1 K12 1a"
 freq_rank: 9999
 skip: false
+audio: "Stadturlaub.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadturlaub
+
+![[Stadturlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadturlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadturlaub&language=de)
 
 **Meaning:** city trip
 **Plural:** Stadturlaube

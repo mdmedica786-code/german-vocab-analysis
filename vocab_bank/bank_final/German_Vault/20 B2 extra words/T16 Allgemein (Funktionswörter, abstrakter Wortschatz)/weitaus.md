@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2825"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "weitaus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # weitaus
+
+![[weitaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weitaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weitaus&language=de)
 
 **Meaning:** far; by far
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

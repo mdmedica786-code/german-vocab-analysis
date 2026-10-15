@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 1950
 skip: false
+audio: "Angehörige.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Angehörige
+
+![[Angehörige.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angeh%C3%B6rige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angeh%C3%B6rige&language=de)
 
 **Meaning:** relative
 **Plural:** Angehörigen

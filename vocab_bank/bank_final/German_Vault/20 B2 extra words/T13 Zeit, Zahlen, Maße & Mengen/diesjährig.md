@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3866"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "diesjährig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # diesjährig
+
+![[diesjährig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diesj%C3%A4hrig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diesj%C3%A4hrig&language=de)
 
 **Meaning:** this year's
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

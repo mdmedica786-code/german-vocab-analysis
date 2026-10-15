@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0549"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Chancengleichheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Chancengleichheit
+
+![[Chancengleichheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chancengleichheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chancengleichheit&language=de)
 
 **Meaning:** equal opportunities
 **Plural:** –

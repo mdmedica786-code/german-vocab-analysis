@@ -15,11 +15,16 @@ id: "B3209"
 netzwerk: "A2 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Sammlerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sammlerin
+
+![[Sammlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sammlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sammlerin&language=de)
 
 **Meaning:** collector (f)
 **Plural:** Sammlerinnen

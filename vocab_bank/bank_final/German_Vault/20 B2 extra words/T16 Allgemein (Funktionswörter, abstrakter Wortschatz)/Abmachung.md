@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3693"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Abmachung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Abmachung
+
+![[Abmachung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abmachung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abmachung&language=de)
 
 **Meaning:** agreement; arrangement
 **Plural:** Abmachungen

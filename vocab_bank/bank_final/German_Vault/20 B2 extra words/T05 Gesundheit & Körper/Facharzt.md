@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3923"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Facharzt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Facharzt
+
+![[Facharzt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Facharzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Facharzt&language=de)
 
 **Meaning:** specialist doctor (male)
 **Plural:** Fachärzte

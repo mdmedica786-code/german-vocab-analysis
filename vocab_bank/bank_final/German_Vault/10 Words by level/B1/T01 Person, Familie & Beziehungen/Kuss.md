@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 1741
 skip: false
+audio: "Kuss.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kuss
+
+![[Kuss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kuss&language=de)
 
 **Meaning:** kiss
 **Plural:** Küsse

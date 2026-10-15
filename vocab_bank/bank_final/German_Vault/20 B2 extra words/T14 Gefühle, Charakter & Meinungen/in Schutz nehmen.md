@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Schutz nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Schutz%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Schutz%20nehmen&language=de)
+
 **Meaning:** to defend; to stand up for
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

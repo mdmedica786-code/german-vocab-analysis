@@ -15,11 +15,16 @@ id: "B3613"
 netzwerk: "B1 K3 3c"
 freq_rank: 4512
 skip: false
+audio: "Wirbelsäule.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wirbelsäule
+
+![[Wirbelsäule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirbels%C3%A4ule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirbels%C3%A4ule&language=de)
 
 **Meaning:** spine
 **Plural:** Wirbelsäulen

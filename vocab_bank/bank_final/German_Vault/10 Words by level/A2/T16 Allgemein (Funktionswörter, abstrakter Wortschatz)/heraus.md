@@ -12,11 +12,16 @@ id: "B5166"
 goethe_level: "A2"
 freq_rank: 504
 skip: false
+audio: "heraus.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # heraus
+
+![[heraus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heraus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heraus&language=de)
 
 **Meaning:** out (towards the speaker)
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

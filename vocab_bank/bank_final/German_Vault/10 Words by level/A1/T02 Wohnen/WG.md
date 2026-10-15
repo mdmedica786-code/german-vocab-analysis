@@ -15,11 +15,16 @@ id: "B1465"
 netzwerk: "A1 K9 11a"
 freq_rank: 2849
 skip: false
+audio: "WG.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die WG
+
+![[WG.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/WG/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=WG&language=de)
 
 **Meaning:** flat share
 **Plural:** WGs

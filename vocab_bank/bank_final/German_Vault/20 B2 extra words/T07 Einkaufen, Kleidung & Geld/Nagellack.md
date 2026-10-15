@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2250"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Nagellack.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nagellack
+
+![[Nagellack.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nagellack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nagellack&language=de)
 
 **Meaning:** nail varnish
 **Plural:** Nagellacke

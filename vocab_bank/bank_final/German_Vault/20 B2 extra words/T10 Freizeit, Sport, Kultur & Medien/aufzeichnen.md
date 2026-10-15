@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1211"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "aufzeichnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufzeichnen
+
+![[aufzeichnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufzeichnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufzeichnen&language=de)
 
 **Meaning:** to record; to note down
 **Forms:** zeichnet auf · zeichnete auf · hat aufgezeichnet

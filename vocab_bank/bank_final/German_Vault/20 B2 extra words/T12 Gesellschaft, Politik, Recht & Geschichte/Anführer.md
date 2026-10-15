@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2978"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Anführer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anführer
+
+![[Anführer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anf%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anf%C3%BChrer&language=de)
 
 **Meaning:** leader; ringleader
 **Plural:** Anführer

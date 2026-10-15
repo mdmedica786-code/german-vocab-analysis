@@ -12,11 +12,16 @@ id: "B4241"
 netzwerk: "B1 K7 2b"
 freq_rank: 787
 skip: false
+audio: "entgegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # entgegen
+
+![[entgegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entgegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entgegen&language=de)
 
 **Meaning:** contrary to; towards
 **Case:** + Dat.

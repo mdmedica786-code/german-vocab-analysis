@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 885
 skip: false
+audio: "wachsen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wachsen
+
+![[wachsen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wachsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wachsen&language=de)
 
 **Meaning:** to grow
 **Forms:** wächst · wuchs · ist gewachsen

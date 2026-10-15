@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4292"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Passantin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Passantin
+
+![[Passantin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passantin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passantin&language=de)
 
 **Meaning:** passer-by (female)
 **Plural:** Passantinnen

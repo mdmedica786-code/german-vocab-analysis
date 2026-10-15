@@ -15,11 +15,16 @@ id: "B4478"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Käsekuchen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Käsekuchen
+
+![[Käsekuchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4sekuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4sekuchen&language=de)
 
 **Meaning:** cheesecake
 **Plural:** Käsekuchen

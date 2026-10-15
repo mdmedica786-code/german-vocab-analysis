@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0484"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gesetzgebung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gesetzgebung
+
+![[Gesetzgebung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesetzgebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesetzgebung&language=de)
 
 **Meaning:** legislation
 **Plural:** –

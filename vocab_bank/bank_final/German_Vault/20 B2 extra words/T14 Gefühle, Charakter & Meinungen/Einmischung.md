@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1482"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Einmischung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einmischung
+
+![[Einmischung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einmischung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einmischung&language=de)
 
 **Meaning:** interference; meddling
 **Plural:** Einmischungen

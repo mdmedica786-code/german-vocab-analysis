@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a ÜB"
 freq_rank: 2854
 skip: false
+audio: "Verwandte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Verwandte
+
+![[Verwandte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwandte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwandte&language=de)
 
 **Meaning:** relative
 **Plural:** Verwandten

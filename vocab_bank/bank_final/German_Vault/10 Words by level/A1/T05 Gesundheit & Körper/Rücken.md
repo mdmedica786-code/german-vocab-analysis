@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 6a"
 freq_rank: 683
 skip: false
+audio: "Rücken.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rücken
+
+![[Rücken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCcken&language=de)
 
 **Meaning:** back
 **Plural:** Rücken

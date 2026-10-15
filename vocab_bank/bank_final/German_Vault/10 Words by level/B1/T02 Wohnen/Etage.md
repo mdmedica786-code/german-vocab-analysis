@@ -15,11 +15,16 @@ id: "B6256"
 goethe_level: "B1"
 freq_rank: 5123
 skip: false
+audio: "Etage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Etage
+
+![[Etage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Etage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Etage&language=de)
 
 **Meaning:** floor; storey
 **Plural:** Etagen

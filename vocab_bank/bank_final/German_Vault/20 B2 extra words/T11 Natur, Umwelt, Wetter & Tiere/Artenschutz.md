@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0656"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Artenschutz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Artenschutz
+
+![[Artenschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Artenschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Artenschutz&language=de)
 
 **Meaning:** species protection
 **Plural:** –

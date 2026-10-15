@@ -15,11 +15,16 @@ id: "B4041"
 netzwerk: "B1 K5 13a"
 freq_rank: 5759
 skip: false
+audio: "Hauskatze.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauskatze
+
+![[Hauskatze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauskatze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauskatze&language=de)
 
 **Meaning:** domestic cat
 **Plural:** Hauskatzen

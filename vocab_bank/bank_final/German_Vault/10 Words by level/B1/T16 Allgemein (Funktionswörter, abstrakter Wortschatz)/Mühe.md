@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3b"
 freq_rank: 1403
 skip: false
+audio: "Mühe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mühe
+
+![[Mühe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BChe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BChe&language=de)
 
 **Meaning:** effort
 **Plural:** Mühen

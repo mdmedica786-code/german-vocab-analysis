@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4357"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Restaurantbesuch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Restaurantbesuch
+
+![[Restaurantbesuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Restaurantbesuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Restaurantbesuch&language=de)
 
 **Meaning:** visit to a restaurant
 **Plural:** Restaurantbesuche

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Haus
 
+[▶️ YouGlish](https://youglish.com/pronounce/Haus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haus&language=de)
+
 **Meaning:** house
 **Plural:** Häuser
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

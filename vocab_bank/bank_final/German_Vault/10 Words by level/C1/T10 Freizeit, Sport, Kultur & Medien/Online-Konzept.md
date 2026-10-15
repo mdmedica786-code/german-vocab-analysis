@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Online-Konzept
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Konzept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Konzept&language=de)
+
 **Meaning:** online concept
 **Plural:** Online-Konzepte
 **Level:** C1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

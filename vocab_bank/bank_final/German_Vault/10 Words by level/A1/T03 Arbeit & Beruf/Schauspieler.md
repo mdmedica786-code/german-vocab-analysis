@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 9a"
 freq_rank: 3610
 skip: false
+audio: "Schauspieler.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schauspieler
+
+![[Schauspieler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspieler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspieler&language=de)
 
 **Meaning:** actor
 **Plural:** Schauspieler

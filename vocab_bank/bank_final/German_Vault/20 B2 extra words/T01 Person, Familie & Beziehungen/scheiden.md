@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3234"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "scheiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # scheiden
+
+![[scheiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/scheiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scheiden&language=de)
 
 **Meaning:** to part; to depart; to divorce (sich scheiden lassen)
 **Forms:** scheidet · schied · ist geschieden

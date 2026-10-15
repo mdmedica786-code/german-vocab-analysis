@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Poulet
 
+[▶️ YouGlish](https://youglish.com/pronounce/Poulet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poulet&language=de)
+
 **Meaning:** chicken (Swiss)
 **Plural:** Poulets
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** regional

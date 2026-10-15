@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0832"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "unvermeidlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # unvermeidlich
+
+![[unvermeidlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unvermeidlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unvermeidlich&language=de)
 
 **Meaning:** unavoidable; inevitable
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

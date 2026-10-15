@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4598"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # vielzählig
+
+[▶️ YouGlish](https://youglish.com/pronounce/vielz%C3%A4hlig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vielz%C3%A4hlig&language=de)
 
 **Meaning:** numerous
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

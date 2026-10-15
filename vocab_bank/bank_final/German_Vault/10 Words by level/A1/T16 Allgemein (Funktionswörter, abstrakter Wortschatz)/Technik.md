@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K11 10a"
 freq_rank: 1060
 skip: false
+audio: "Technik.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Technik
+
+![[Technik.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Technik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technik&language=de)
 
 **Meaning:** technology
 **Plural:** Techniken

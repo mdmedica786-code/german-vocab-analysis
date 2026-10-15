@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0586"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Speicher.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Speicher
+
+![[Speicher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Speicher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speicher&language=de)
 
 **Meaning:** memory; storage; store
 **Plural:** Speicher

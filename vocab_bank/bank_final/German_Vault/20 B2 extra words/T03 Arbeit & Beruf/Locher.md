@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2289"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Locher.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Locher
+
+![[Locher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Locher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Locher&language=de)
 
 **Meaning:** hole punch
 **Plural:** Locher

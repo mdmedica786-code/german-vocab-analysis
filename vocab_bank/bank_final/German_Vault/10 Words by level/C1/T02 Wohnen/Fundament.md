@@ -14,11 +14,16 @@ bank: "main"
 id: "B6135"
 freq_rank: 4555
 skip: false
+audio: "Fundament.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fundament
+
+![[Fundament.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fundament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fundament&language=de)
 
 **Meaning:** foundation
 **Plural:** Fundamente

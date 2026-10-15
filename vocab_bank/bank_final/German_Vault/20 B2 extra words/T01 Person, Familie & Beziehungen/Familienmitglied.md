@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3936"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Familienmitglied.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Familienmitglied
+
+![[Familienmitglied.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familienmitglied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienmitglied&language=de)
 
 **Meaning:** family member
 **Plural:** Familienmitglieder

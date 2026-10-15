@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem auf die Nerven gehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20auf%20die%20Nerven%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20auf%20die%20Nerven%20gehen&language=de)
+
 **Meaning:** to get on someone's nerves
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -13,11 +13,16 @@ id: "B2062"
 netzwerk: "A2 K3 1a"
 freq_rank: 5532
 skip: false
+audio: "ausprobieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausprobieren
+
+![[ausprobieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausprobieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausprobieren&language=de)
 
 **Meaning:** to try
 **Forms:** probiert aus · probierte aus · hat ausprobiert

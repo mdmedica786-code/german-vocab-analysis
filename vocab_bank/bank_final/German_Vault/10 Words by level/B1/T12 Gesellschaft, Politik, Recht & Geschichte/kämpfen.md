@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1109
 skip: false
+audio: "kämpfen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kämpfen
+
+![[kämpfen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%A4mpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%A4mpfen&language=de)
 
 **Meaning:** to fight
 **Forms:** kämpft · kämpfte · hat gekämpft

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1065"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vertragsabschluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vertragsabschluss
+
+![[Vertragsabschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertragsabschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertragsabschluss&language=de)
 
 **Meaning:** conclusion of a contract
 **Plural:** Vertragsabschlüsse

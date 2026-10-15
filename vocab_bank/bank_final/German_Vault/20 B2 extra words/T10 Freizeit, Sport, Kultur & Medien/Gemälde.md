@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2862"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Gemälde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gemälde
+
+![[Gemälde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gem%C3%A4lde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gem%C3%A4lde&language=de)
 
 **Meaning:** painting
 **Plural:** Gemälde

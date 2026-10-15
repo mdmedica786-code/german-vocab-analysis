@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1782"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Sanierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sanierung
+
+![[Sanierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sanierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sanierung&language=de)
 
 **Meaning:** renovation; restructuring
 **Plural:** Sanierungen

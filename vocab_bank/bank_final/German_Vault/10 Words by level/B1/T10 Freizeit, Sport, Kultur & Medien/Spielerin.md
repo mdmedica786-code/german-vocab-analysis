@@ -15,11 +15,16 @@ id: "B6556"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Spielerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spielerin
+
+![[Spielerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielerin&language=de)
 
 **Meaning:** player (f)
 **Plural:** Spielerinnen

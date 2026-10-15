@@ -15,11 +15,16 @@ id: "B5477"
 goethe_level: "B1"
 freq_rank: 2059
 skip: false
+audio: "Gewinn.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gewinn
+
+![[Gewinn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewinn&language=de)
 
 **Meaning:** profit; prize
 **Plural:** Gewinne

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 2606
 skip: false
+audio: "stumm.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # stumm
+
+![[stumm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stumm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stumm&language=de)
 
 **Meaning:** mute
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

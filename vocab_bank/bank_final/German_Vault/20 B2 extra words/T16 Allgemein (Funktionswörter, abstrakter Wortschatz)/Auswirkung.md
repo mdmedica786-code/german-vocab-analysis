@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0304"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Auswirkung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auswirkung
+
+![[Auswirkung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auswirkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswirkung&language=de)
 
 **Meaning:** effect; impact
 **Plural:** Auswirkungen

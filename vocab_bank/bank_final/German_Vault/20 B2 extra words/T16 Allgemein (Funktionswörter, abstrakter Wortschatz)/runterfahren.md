@@ -12,11 +12,13 @@ bank: "b2"
 id: "D4364"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # runterfahren
+
+[▶️ YouGlish](https://youglish.com/pronounce/runterfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=runterfahren&language=de)
 
 **Meaning:** to shut down; to power down; to scale down (colloquial)
 **Forms:** fährt runter · fuhr runter · hat runtergefahren

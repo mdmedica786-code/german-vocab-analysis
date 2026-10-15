@@ -15,11 +15,16 @@ id: "B4869"
 netzwerk: "B1 K10 10b"
 freq_rank: 2551
 skip: false
+audio: "Weltkrieg.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Weltkrieg
+
+![[Weltkrieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weltkrieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltkrieg&language=de)
 
 **Meaning:** world war
 **Plural:** Weltkriege

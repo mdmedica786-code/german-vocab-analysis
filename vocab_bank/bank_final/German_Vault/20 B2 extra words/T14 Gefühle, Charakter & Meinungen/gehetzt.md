@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1593"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gehetzt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gehetzt
+
+![[gehetzt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gehetzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gehetzt&language=de)
 
 **Meaning:** harried; rushed
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4566"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "verfilmen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # verfilmen
+
+![[verfilmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verfilmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verfilmen&language=de)
 
 **Meaning:** to adapt for film; to film (a book)
 **Forms:** verfilmt · verfilmte · hat verfilmt

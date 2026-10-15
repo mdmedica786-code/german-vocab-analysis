@@ -15,11 +15,16 @@ id: "B1333"
 netzwerk: "A1 K8 13b"
 freq_rank: 1175
 skip: false
+audio: "Kontext.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kontext
+
+![[Kontext.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontext/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontext&language=de)
 
 **Meaning:** context
 **Plural:** Kontexte

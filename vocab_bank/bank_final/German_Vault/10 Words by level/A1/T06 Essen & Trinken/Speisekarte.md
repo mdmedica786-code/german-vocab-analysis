@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 11"
 freq_rank: 5759
 skip: false
+audio: "Speisekarte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Speisekarte
+
+![[Speisekarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Speisekarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speisekarte&language=de)
 
 **Meaning:** menu
 **Plural:** Speisekarten

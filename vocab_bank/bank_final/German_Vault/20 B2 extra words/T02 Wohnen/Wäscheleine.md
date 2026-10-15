@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1396"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wäscheleine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wäscheleine
+
+![[Wäscheleine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4scheleine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4scheleine&language=de)
 
 **Meaning:** clothesline
 **Plural:** Wäscheleinen

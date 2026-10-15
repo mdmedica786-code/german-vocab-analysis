@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3909"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Erprobungsphase.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Erprobungsphase
+
+![[Erprobungsphase.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erprobungsphase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erprobungsphase&language=de)
 
 **Meaning:** testing phase; trial period
 **Plural:** Erprobungsphasen

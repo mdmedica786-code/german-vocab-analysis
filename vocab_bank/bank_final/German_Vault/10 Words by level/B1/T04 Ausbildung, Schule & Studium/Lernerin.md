@@ -15,11 +15,16 @@ id: "B6632"
 goethe_level: "B1"
 freq_rank: 9999
 skip: false
+audio: "Lernerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lernerin
+
+![[Lernerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernerin&language=de)
 
 **Meaning:** learner (f)
 **Plural:** Lernerinnen

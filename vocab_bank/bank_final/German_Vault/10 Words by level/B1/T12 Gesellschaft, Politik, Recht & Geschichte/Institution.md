@@ -15,11 +15,16 @@ id: "B3791"
 netzwerk: "B1 K4 8b"
 freq_rank: 1447
 skip: false
+audio: "Institution.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Institution
+
+![[Institution.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Institution/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Institution&language=de)
 
 **Meaning:** institution
 **Plural:** Institutionen

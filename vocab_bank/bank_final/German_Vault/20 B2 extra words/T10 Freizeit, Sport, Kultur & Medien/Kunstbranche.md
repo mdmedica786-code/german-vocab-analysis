@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4159"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kunstbranche
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstbranche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstbranche&language=de)
 
 **Meaning:** art industry; art business
 **Plural:** Kunstbranchen

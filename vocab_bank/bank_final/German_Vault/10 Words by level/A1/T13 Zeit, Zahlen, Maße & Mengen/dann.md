@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 49
 skip: false
+audio: "dann.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dann
+
+![[dann.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dann&language=de)
 
 **Meaning:** then
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

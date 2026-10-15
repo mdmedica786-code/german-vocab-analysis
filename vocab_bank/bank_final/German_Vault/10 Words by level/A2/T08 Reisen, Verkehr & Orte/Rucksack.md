@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 4b"
 freq_rank: 3507
 skip: false
+audio: "Rucksack.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rucksack
+
+![[Rucksack.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rucksack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rucksack&language=de)
 
 **Meaning:** backpack
 **Plural:** Rucksäcke

@@ -15,11 +15,16 @@ id: "B2488"
 netzwerk: "A2 K6 11b"
 freq_rank: 5759
 skip: false
+audio: "Telefonat.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Telefonat
+
+![[Telefonat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Telefonat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Telefonat&language=de)
 
 **Meaning:** phone call
 **Plural:** Telefonate

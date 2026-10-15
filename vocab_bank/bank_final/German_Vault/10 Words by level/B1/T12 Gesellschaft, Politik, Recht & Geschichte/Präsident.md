@@ -15,11 +15,16 @@ id: "B4222"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1764
 skip: false
+audio: "Präsident.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Präsident
+
+![[Präsident.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4sident/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4sident&language=de)
 
 **Meaning:** president (m)
 **Plural:** Präsidenten

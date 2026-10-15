@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # selbstbewusst
 
+[▶️ YouGlish](https://youglish.com/pronounce/selbstbewusst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selbstbewusst&language=de)
+
 **Meaning:** self-confident
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

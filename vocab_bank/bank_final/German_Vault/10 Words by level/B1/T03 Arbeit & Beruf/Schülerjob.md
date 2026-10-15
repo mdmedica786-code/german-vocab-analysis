@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Schülerjob
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%BClerjob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%BClerjob&language=de)
+
 **Meaning:** pupil's part-time job
 **Plural:** Schülerjobs
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

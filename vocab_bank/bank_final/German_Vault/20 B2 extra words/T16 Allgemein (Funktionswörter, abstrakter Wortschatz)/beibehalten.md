@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3461"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "beibehalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beibehalten
+
+![[beibehalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beibehalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beibehalten&language=de)
 
 **Meaning:** to keep; to maintain; to retain
 **Forms:** behält bei · behielt bei · hat beibehalten

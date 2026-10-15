@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 12b"
 freq_rank: 5759
 skip: false
+audio: "populär.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # populär
+
+![[populär.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/popul%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=popul%C3%A4r&language=de)
 
 **Meaning:** popular
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

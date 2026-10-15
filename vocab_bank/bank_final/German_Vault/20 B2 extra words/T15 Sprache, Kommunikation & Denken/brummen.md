@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2884"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "brummen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # brummen
+
+![[brummen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/brummen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brummen&language=de)
 
 **Meaning:** to hum; to growl; to grumble
 **Forms:** brummt · brummte · hat gebrummt

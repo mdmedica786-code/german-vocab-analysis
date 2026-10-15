@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3928"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "fahrerlos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/adjective", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # fahrerlos
+
+![[fahrerlos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fahrerlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fahrerlos&language=de)
 
 **Meaning:** driverless
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

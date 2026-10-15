@@ -12,11 +12,16 @@ id: "B5337"
 goethe_level: "B1"
 freq_rank: 1495
 skip: false
+audio: "Drittel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # drittel
+
+![[Drittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drittel&language=de)
 
 **Meaning:** third (fraction)
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

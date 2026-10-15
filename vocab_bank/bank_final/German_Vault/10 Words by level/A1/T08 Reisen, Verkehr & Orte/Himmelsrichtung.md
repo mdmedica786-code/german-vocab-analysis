@@ -15,11 +15,16 @@ id: "B1825"
 netzwerk: "A1 K12 11a"
 freq_rank: 5759
 skip: false
+audio: "Himmelsrichtung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Himmelsrichtung
+
+![[Himmelsrichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Himmelsrichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Himmelsrichtung&language=de)
 
 **Meaning:** cardinal direction
 **Plural:** Himmelsrichtungen

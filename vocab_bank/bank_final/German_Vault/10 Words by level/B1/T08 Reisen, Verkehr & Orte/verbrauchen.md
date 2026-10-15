@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 1a"
 freq_rank: 5458
 skip: false
+audio: "verbrauchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbrauchen
+
+![[verbrauchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbrauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbrauchen&language=de)
 
 **Meaning:** to use up
 **Forms:** verbraucht · verbrauchte · hat verbraucht

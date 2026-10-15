@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 3131
 skip: false
+audio: "anschließen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anschließen
+
+![[anschließen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anschlie%C3%9Fen&language=de)
 
 **Meaning:** to connect; to attach
 **Other senses:** sich: to join (a group); to agree with

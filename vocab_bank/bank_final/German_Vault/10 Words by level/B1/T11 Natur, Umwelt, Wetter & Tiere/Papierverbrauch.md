@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Papierverbrauch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Papierverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papierverbrauch&language=de)
+
 **Meaning:** paper consumption
 **Plural:** –
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

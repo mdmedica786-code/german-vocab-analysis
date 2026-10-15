@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 11a"
 freq_rank: 2319
 skip: false
+audio: "Verkehr.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verkehr
+
+![[Verkehr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehr&language=de)
 
 **Meaning:** traffic
 **Plural:** –

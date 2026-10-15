@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4207"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Maklerbüro.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Maklerbüro
+
+![[Maklerbüro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maklerb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maklerb%C3%BCro&language=de)
 
 **Meaning:** estate agent's office; brokerage office
 **Plural:** Maklerbüros

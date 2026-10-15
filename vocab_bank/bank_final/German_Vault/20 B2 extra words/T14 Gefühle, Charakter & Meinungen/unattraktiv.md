@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4526"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "unattraktiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unattraktiv
+
+![[unattraktiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unattraktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unattraktiv&language=de)
 
 **Meaning:** unattractive
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

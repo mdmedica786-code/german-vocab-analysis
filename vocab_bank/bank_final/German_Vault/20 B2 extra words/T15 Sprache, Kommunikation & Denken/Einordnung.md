@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0343"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einordnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einordnung
+
+![[Einordnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einordnung&language=de)
 
 **Meaning:** classification; categorisation
 **Plural:** Einordnungen

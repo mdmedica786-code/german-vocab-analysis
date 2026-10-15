@@ -15,11 +15,16 @@ id: "B0982"
 netzwerk: "A1 K6 11"
 freq_rank: 5759
 skip: false
+audio: "Tomatensuppe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tomatensuppe
+
+![[Tomatensuppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tomatensuppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tomatensuppe&language=de)
 
 **Meaning:** tomato soup
 **Plural:** Tomatensuppen

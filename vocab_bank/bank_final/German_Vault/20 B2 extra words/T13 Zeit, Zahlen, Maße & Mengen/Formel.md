@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2505"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Formel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Formel
+
+![[Formel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Formel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Formel&language=de)
 
 **Meaning:** formula
 **Plural:** Formeln

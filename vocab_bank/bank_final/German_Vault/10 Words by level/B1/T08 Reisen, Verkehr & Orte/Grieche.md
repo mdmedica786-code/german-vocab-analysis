@@ -15,11 +15,16 @@ id: "B5938"
 goethe_level: "B1"
 freq_rank: 3553
 skip: false
+audio: "Grieche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Grieche
+
+![[Grieche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grieche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grieche&language=de)
 
 **Meaning:** Greek man
 **Plural:** Griechen

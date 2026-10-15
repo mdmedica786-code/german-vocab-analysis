@@ -14,11 +14,16 @@ bank: "main"
 id: "B5478"
 freq_rank: 2065
 skip: false
+audio: "Akt.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Akt
+
+![[Akt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Akt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akt&language=de)
 
 **Meaning:** act (of a play); nude (art)
 **Plural:** Akte

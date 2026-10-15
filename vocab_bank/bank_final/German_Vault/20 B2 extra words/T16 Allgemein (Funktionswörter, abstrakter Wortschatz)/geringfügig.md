@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0769"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "geringfügig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # geringfügig
+
+![[geringfügig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geringf%C3%BCgig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geringf%C3%BCgig&language=de)
 
 **Meaning:** minor; slight
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

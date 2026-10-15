@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 3"
 freq_rank: 1745
 skip: false
+audio: "berechnen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # berechnen
+
+![[berechnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/berechnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berechnen&language=de)
 
 **Meaning:** to calculate
 **Forms:** berechnet · berechnete · hat berechnet

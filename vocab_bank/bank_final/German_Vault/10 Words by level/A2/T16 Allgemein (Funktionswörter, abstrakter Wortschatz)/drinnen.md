@@ -12,11 +12,16 @@ id: "B5838"
 goethe_level: "A2"
 freq_rank: 3090
 skip: false
+audio: "drinnen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drinnen
+
+![[drinnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drinnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drinnen&language=de)
 
 **Meaning:** inside; indoors
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

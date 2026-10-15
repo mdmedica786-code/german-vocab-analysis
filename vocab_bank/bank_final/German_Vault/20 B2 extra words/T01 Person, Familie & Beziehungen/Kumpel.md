@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3425"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Kumpel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kumpel
+
+![[Kumpel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kumpel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kumpel&language=de)
 
 **Meaning:** mate; buddy (colloquial)
 **Plural:** Kumpel

@@ -15,11 +15,16 @@ id: "B4307"
 netzwerk: "B1 K7 11b"
 freq_rank: 5512
 skip: false
+audio: "Komponist.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Komponist
+
+![[Komponist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komponist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komponist&language=de)
 
 **Meaning:** composer (m)
 **Plural:** Komponisten

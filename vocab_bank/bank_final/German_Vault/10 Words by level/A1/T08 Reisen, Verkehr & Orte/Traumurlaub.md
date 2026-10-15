@@ -15,11 +15,16 @@ id: "B1861"
 netzwerk: "A1 K12 12b"
 freq_rank: 5759
 skip: false
+audio: "Traumurlaub.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Traumurlaub
+
+![[Traumurlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Traumurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traumurlaub&language=de)
 
 **Meaning:** dream holiday
 **Plural:** Traumurlaube

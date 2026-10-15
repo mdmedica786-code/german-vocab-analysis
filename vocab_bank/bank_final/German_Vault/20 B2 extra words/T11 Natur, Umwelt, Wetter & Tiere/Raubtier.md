@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0732"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Raubtier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Raubtier
+
+![[Raubtier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Raubtier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Raubtier&language=de)
 
 **Meaning:** predator; beast of prey
 **Plural:** Raubtiere

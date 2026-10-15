@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1727"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "sprühen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # sprühen
+
+![[sprühen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spr%C3%BChen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spr%C3%BChen&language=de)
 
 **Meaning:** to spray; to sparkle
 **Forms:** sprüht · sprühte · hat/ist gesprüht

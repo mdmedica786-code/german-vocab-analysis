@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 5b"
 freq_rank: 1645
 skip: false
+audio: "Gewicht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gewicht
+
+![[Gewicht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewicht&language=de)
 
 **Meaning:** weight
 **Plural:** –

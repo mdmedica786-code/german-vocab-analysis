@@ -14,11 +14,16 @@ bank: "main"
 id: "B5319"
 freq_rank: 1410
 skip: false
+audio: "Geräusch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geräusch
+
+![[Geräusch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ger%C3%A4usch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ger%C3%A4usch&language=de)
 
 **Meaning:** noise; sound
 **Plural:** Geräusche

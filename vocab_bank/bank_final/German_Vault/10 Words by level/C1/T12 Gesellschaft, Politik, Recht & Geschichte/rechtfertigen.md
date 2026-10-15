@@ -12,11 +12,16 @@ bank: "main"
 id: "B5588"
 freq_rank: 2434
 skip: false
+audio: "rechtfertigen.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rechtfertigen
+
+![[rechtfertigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rechtfertigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechtfertigen&language=de)
 
 **Meaning:** to justify
 **Forms:** rechtfertigt · rechtfertigte · hat gerechtfertigt

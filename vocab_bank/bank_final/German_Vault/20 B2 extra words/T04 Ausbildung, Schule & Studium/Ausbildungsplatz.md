@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1909"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Ausbildungsplatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausbildungsplatz
+
+![[Ausbildungsplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbildungsplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbildungsplatz&language=de)
 
 **Meaning:** training place; apprenticeship position
 **Plural:** Ausbildungsplätze

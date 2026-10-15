@@ -14,11 +14,16 @@ bank: "main"
 id: "B6063"
 freq_rank: 4124
 skip: false
+audio: "Register.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Register
+
+![[Register.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Register/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Register&language=de)
 
 **Meaning:** register; index
 **Plural:** Register

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1053"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Lastschrift.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lastschrift
+
+![[Lastschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lastschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lastschrift&language=de)
 
 **Meaning:** direct debit
 **Plural:** Lastschriften

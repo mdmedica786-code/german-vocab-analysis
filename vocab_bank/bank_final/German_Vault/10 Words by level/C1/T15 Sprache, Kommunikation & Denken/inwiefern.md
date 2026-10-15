@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # inwiefern
 
+[▶️ YouGlish](https://youglish.com/pronounce/inwiefern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inwiefern&language=de)
+
 **Meaning:** to what extent; in what way
 **Level:** C1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

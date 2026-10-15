@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Ammann
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ammann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ammann&language=de)
+
 **Meaning:** chief of a municipality (Swiss)
 **Plural:** Ammänner
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** regional

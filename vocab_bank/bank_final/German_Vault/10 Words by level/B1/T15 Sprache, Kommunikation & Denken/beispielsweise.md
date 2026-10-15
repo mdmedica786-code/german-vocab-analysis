@@ -11,11 +11,16 @@ bank: "main"
 id: "B5188"
 freq_rank: 612
 skip: false
+audio: "beispielsweise.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beispielsweise
+
+![[beispielsweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beispielsweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beispielsweise&language=de)
 
 **Meaning:** for example
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

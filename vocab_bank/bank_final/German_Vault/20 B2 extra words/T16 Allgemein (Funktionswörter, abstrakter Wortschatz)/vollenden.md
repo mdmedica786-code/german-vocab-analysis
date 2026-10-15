@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3190"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "vollenden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # vollenden
+
+![[vollenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vollenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vollenden&language=de)
 
 **Meaning:** to complete; to finish; to perfect
 **Forms:** vollendet · vollendete · hat vollendet

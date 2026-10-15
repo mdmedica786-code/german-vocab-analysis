@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 2714
 skip: false
+audio: "Unternehmer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Unternehmer
+
+![[Unternehmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unternehmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unternehmer&language=de)
 
 **Meaning:** entrepreneur; businessman
 **Plural:** Unternehmer

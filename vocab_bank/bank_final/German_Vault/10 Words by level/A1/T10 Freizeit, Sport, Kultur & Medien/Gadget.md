@@ -15,11 +15,16 @@ id: "B1714"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Gadget.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gadget
+
+![[Gadget.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gadget/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gadget&language=de)
 
 **Meaning:** gadget
 **Plural:** Gadgets

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4595"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "Verwendungszweck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Verwendungszweck
+
+![[Verwendungszweck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwendungszweck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwendungszweck&language=de)
 
 **Meaning:** intended use; payment reference
 **Plural:** Verwendungszwecke

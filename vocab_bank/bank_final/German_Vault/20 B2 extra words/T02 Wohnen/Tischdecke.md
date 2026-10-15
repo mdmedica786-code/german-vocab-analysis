@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2280"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Tischdecke.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tischdecke
+
+![[Tischdecke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tischdecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tischdecke&language=de)
 
 **Meaning:** tablecloth
 **Plural:** Tischdecken

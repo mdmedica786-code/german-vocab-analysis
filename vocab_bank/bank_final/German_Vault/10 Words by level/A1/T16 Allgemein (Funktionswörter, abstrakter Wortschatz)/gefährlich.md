@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 2a"
 freq_rank: 1226
 skip: false
+audio: "gefährlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gefährlich
+
+![[gefährlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gef%C3%A4hrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gef%C3%A4hrlich&language=de)
 
 **Meaning:** dangerous
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

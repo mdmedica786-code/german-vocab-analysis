@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 12b"
 freq_rank: 5759
 skip: false
+audio: "Rückmeldung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückmeldung
+
+![[Rückmeldung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckmeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckmeldung&language=de)
 
 **Meaning:** feedback; response
 **Plural:** Rückmeldungen

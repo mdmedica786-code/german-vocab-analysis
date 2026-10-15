@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 9b"
 freq_rank: 239
 skip: false
+audio: "erkennen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erkennen
+
+![[erkennen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erkennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erkennen&language=de)
 
 **Meaning:** to recognise; to realise
 **Forms:** erkennt · erkannte · hat erkannt

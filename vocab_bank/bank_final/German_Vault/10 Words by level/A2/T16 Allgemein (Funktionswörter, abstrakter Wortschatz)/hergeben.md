@@ -13,11 +13,16 @@ id: "B3016"
 netzwerk: "A2 K10 12a"
 freq_rank: 5759
 skip: false
+audio: "hergeben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hergeben
+
+![[hergeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hergeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hergeben&language=de)
 
 **Meaning:** to give away
 **Forms:** gibt her · gab her · hat hergegeben

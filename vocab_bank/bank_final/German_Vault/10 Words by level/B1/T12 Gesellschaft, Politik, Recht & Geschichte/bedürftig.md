@@ -12,11 +12,16 @@ id: "B4757"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "bedürftig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedürftig
+
+![[bedürftig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bed%C3%BCrftig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bed%C3%BCrftig&language=de)
 
 **Meaning:** needy
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

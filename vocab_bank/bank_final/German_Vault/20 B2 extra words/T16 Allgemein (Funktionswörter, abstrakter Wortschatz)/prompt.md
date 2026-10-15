@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3335"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "prompt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # prompt
+
+![[prompt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/prompt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=prompt&language=de)
 
 **Meaning:** prompt; immediate
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

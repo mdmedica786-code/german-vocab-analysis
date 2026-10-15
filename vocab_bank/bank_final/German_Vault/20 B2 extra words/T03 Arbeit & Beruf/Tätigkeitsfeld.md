@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4474"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Tätigkeitsfeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Tätigkeitsfeld
+
+![[Tätigkeitsfeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%A4tigkeitsfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%A4tigkeitsfeld&language=de)
 
 **Meaning:** field of activity; area of work
 **Plural:** Tätigkeitsfelder

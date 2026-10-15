@@ -15,11 +15,16 @@ id: "B2134"
 netzwerk: "A2 K3 11c"
 freq_rank: 2000
 skip: false
+audio: "Letzte (322).ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Letzte
+
+![[Letzte (322).ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Letzte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Letzte&language=de)
 
 **Meaning:** last one; last person
 **Plural:** Letzten

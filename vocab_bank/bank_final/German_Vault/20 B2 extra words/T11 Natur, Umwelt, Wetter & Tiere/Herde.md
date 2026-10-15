@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2037"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Herde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Herde
+
+![[Herde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herde&language=de)
 
 **Meaning:** herd; flock
 **Plural:** Herden

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Auftrag geben
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Auftrag%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Auftrag%20geben&language=de)
+
 **Meaning:** to commission; to order
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 

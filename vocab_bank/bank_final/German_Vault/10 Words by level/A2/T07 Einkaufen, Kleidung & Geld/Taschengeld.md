@@ -15,11 +15,16 @@ id: "B6576"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Taschengeld.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Taschengeld
+
+![[Taschengeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taschengeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschengeld&language=de)
 
 **Meaning:** pocket money
 **Plural:** –

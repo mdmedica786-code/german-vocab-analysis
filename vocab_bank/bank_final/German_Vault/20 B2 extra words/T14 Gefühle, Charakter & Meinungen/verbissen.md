@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1668"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verbissen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbissen
+
+![[verbissen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbissen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbissen&language=de)
 
 **Meaning:** dogged; grim
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

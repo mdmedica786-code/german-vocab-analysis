@@ -12,11 +12,16 @@ id: "B4888"
 netzwerk: "B1 K10 12b"
 freq_rank: 3181
 skip: false
+audio: "abschließend.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abschließend
+
+![[abschließend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abschlie%C3%9Fend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abschlie%C3%9Fend&language=de)
 
 **Meaning:** finally; in conclusion
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

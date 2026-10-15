@@ -15,11 +15,16 @@ id: "B2605"
 netzwerk: "A2 K7 9a"
 freq_rank: 5759
 skip: false
+audio: "Wohnungsschlüssel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wohnungsschlüssel
+
+![[Wohnungsschlüssel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnungsschl%C3%BCssel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnungsschl%C3%BCssel&language=de)
 
 **Meaning:** key to the flat
 **Plural:** Wohnungsschlüssel

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1036"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Abzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abzug
+
+![[Abzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abzug&language=de)
 
 **Meaning:** deduction; withdrawal
 **Plural:** Abzüge

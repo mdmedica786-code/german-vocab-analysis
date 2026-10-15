@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 1a"
 freq_rank: 4785
 skip: false
+audio: "Abfall.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abfall
+
+![[Abfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfall&language=de)
 
 **Meaning:** waste
 **Plural:** Abfälle

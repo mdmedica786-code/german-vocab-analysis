@@ -15,11 +15,16 @@ id: "B4355"
 netzwerk: "B1 K7 13a"
 freq_rank: 5759
 skip: false
+audio: "Satzteil.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Satzteil
+
+![[Satzteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satzteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzteil&language=de)
 
 **Meaning:** part of the sentence
 **Plural:** Satzteile

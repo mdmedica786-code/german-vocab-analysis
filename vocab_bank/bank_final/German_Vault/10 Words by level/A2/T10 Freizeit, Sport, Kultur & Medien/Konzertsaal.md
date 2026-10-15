@@ -15,11 +15,16 @@ id: "B2530"
 netzwerk: "A2 K7 1a"
 freq_rank: 5759
 skip: false
+audio: "Konzertsaal.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konzertsaal
+
+![[Konzertsaal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzertsaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzertsaal&language=de)
 
 **Meaning:** concert hall
 **Plural:** Konzertsäle

@@ -15,11 +15,16 @@ id: "B0678"
 netzwerk: "A1 K4 6a"
 freq_rank: 5759
 skip: false
+audio: "Kassenzettel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kassenzettel
+
+![[Kassenzettel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kassenzettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kassenzettel&language=de)
 
 **Meaning:** receipt
 **Plural:** Kassenzettel

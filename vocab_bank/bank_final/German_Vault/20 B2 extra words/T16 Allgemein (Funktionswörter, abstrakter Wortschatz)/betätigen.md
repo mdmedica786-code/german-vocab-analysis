@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3807"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "betätigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # betätigen
+
+![[betätigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bet%C3%A4tigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bet%C3%A4tigen&language=de)
 
 **Meaning:** to operate; to press; (sich) to be active
 **Forms:** betätigt · betätigte · hat betätigt

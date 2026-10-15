@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3557"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "überwältigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # überwältigen
+
+![[überwältigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberw%C3%A4ltigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberw%C3%A4ltigen&language=de)
 
 **Meaning:** to overwhelm; to overpower
 **Forms:** überwältigt · überwältigte · hat überwältigt

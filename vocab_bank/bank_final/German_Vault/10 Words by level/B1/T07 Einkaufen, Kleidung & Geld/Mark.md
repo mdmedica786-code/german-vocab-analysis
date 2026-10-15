@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Mark
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mark&language=de)
+
 **Meaning:** German Mark
 **Plural:** Mark
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

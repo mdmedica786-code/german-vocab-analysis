@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0425"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Zuschuss.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zuschuss
+
+![[Zuschuss.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuschuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuschuss&language=de)
 
 **Meaning:** grant; subsidy; contribution
 **Plural:** Zuschüsse

@@ -15,11 +15,16 @@ id: "B2433"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Berufswechsel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Berufswechsel
+
+![[Berufswechsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufswechsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufswechsel&language=de)
 
 **Meaning:** career change
 **Plural:** Berufswechsel

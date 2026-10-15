@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 15a"
 freq_rank: 2000
 skip: false
+audio: "bar.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bar
+
+![[bar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bar&language=de)
 
 **Meaning:** bar
 **Plural:** Bars

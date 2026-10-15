@@ -14,11 +14,16 @@ bank: "main"
 id: "B5719"
 freq_rank: 2849
 skip: false
+audio: "Tumor.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tumor
+
+![[Tumor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tumor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tumor&language=de)
 
 **Meaning:** tumour
 **Plural:** Tumoren

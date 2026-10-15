@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # die Initiative ergreifen
 
+[▶️ YouGlish](https://youglish.com/pronounce/die%20Initiative%20ergreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=die%20Initiative%20ergreifen&language=de)
+
 **Meaning:** to take the initiative
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

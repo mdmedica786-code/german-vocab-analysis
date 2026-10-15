@@ -15,11 +15,16 @@ id: "B0303"
 netzwerk: "A1 K2 6a"
 freq_rank: 5759
 skip: false
+audio: "Taxifahrer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Taxifahrer
+
+![[Taxifahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taxifahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxifahrer&language=de)
 
 **Meaning:** taxi driver (m)
 **Plural:** Taxifahrer

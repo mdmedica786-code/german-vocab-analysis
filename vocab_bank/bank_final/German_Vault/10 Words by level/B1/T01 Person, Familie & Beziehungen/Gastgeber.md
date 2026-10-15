@@ -15,11 +15,16 @@ id: "B3677"
 netzwerk: "B1 K3 10b"
 freq_rank: 2851
 skip: false
+audio: "Gastgeber.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gastgeber
+
+![[Gastgeber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gastgeber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastgeber&language=de)
 
 **Meaning:** host (m)
 **Plural:** Gastgeber

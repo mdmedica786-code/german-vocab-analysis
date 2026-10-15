@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1454"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Defizit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Defizit
+
+![[Defizit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Defizit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Defizit&language=de)
 
 **Meaning:** deficit; shortfall
 **Plural:** Defizite

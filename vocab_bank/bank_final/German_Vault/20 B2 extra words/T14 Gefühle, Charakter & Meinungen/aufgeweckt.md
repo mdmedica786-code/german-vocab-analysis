@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1541"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "aufgeweckt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufgeweckt
+
+![[aufgeweckt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufgeweckt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufgeweckt&language=de)
 
 **Meaning:** bright; alert
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

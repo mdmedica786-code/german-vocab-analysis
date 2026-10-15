@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0476"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Bürgerinitiative.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bürgerinitiative
+
+![[Bürgerinitiative.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgerinitiative/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgerinitiative&language=de)
 
 **Meaning:** citizens' initiative
 **Plural:** Bürgerinitiativen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2999"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Wortlaut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wortlaut
+
+![[Wortlaut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortlaut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortlaut&language=de)
 
 **Meaning:** wording; text
 **Plural:** –

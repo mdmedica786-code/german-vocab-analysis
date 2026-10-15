@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3393"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "ungemein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungemein
+
+![[ungemein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungemein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungemein&language=de)
 
 **Meaning:** immensely; extremely
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

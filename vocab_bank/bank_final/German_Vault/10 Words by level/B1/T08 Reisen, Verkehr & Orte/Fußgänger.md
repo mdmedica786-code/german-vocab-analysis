@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 1b"
 freq_rank: 4517
 skip: false
+audio: "Fußgänger.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußgänger
+
+![[Fußgänger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fg%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fg%C3%A4nger&language=de)
 
 **Meaning:** pedestrian (m)
 **Plural:** Fußgänger

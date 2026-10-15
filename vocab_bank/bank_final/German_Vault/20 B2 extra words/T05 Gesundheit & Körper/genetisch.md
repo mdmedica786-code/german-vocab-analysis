@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3529"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "genetisch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # genetisch
+
+![[genetisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/genetisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=genetisch&language=de)
 
 **Meaning:** genetic
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

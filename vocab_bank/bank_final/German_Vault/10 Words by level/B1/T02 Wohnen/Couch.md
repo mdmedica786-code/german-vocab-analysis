@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 10d"
 freq_rank: 3772
 skip: false
+audio: "Couch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Couch
+
+![[Couch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Couch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Couch&language=de)
 
 **Meaning:** couch
 **Plural:** Couchs

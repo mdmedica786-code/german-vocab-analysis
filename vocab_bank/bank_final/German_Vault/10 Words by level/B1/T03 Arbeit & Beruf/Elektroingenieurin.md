@@ -15,11 +15,16 @@ id: "B3722"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 9999
 skip: false
+audio: "Elektroingenieurin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Elektroingenieurin
+
+![[Elektroingenieurin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elektroingenieurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroingenieurin&language=de)
 
 **Meaning:** electrical engineer (f)
 **Plural:** Elektroingenieurinnen

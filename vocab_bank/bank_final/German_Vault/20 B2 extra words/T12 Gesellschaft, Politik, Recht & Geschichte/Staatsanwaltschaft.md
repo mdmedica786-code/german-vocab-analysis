@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0502"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Staatsanwaltschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Staatsanwaltschaft
+
+![[Staatsanwaltschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Staatsanwaltschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staatsanwaltschaft&language=de)
 
 **Meaning:** public prosecutor's office
 **Plural:** Staatsanwaltschaften

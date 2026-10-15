@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 1a ÜB"
 freq_rank: 2159
 skip: false
+audio: "Keller.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Keller
+
+![[Keller.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Keller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Keller&language=de)
 
 **Meaning:** basement
 **Plural:** Keller

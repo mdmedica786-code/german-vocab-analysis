@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 849
 skip: false
+audio: "Hinweis.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hinweis
+
+![[Hinweis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hinweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hinweis&language=de)
 
 **Meaning:** hint; clue; notice
 **Plural:** Hinweise

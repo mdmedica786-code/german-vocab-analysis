@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2686"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "vorüber.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorüber
+
+![[vorüber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vor%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vor%C3%BCber&language=de)
 
 **Meaning:** past; over
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

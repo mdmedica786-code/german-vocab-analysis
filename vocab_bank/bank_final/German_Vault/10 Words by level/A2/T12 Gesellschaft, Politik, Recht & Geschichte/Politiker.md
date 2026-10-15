@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 2830
 skip: false
+audio: "Politiker.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Politiker
+
+![[Politiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Politiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politiker&language=de)
 
 **Meaning:** politician (m)
 **Plural:** Politiker

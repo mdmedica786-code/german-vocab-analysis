@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Stellung nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Stellung%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellung%20nehmen&language=de)
+
 **Meaning:** to comment; to take a position
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

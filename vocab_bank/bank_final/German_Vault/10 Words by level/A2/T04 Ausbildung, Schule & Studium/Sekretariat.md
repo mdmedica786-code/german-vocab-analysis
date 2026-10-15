@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Sekretariat.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sekretariat
+
+![[Sekretariat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sekretariat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekretariat&language=de)
 
 **Meaning:** secretary's office; administrative office
 **Plural:** Sekretariate

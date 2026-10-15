@@ -15,11 +15,16 @@ id: "B4127"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "Grünfläche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grünfläche
+
+![[Grünfläche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gr%C3%BCnfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gr%C3%BCnfl%C3%A4che&language=de)
 
 **Meaning:** green space
 **Plural:** Grünflächen

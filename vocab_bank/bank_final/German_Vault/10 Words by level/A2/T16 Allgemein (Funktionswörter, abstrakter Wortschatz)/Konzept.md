@@ -15,11 +15,16 @@ id: "B2582"
 netzwerk: "A2 K7 6b"
 freq_rank: 825
 skip: false
+audio: "Konzept.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Konzept
+
+![[Konzept.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konzept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzept&language=de)
 
 **Meaning:** concept
 **Plural:** Konzepte

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Bewerbungsfoto
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerbungsfoto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbungsfoto&language=de)
+
 **Meaning:** application photo; CV photo
 **Plural:** Bewerbungsfotos
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

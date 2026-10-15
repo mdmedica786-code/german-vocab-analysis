@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 6b"
 freq_rank: 99
 skip: false
+audio: "zwischen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwischen
+
+![[zwischen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwischen&language=de)
 
 **Meaning:** between
 **Case:** + Akk./Dat.

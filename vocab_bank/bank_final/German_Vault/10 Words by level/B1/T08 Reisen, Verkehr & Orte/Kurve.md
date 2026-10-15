@@ -15,11 +15,16 @@ id: "B5563"
 goethe_level: "B1"
 freq_rank: 2350
 skip: false
+audio: "Kurve.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kurve
+
+![[Kurve.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kurve/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurve&language=de)
 
 **Meaning:** bend; curve
 **Plural:** Kurven

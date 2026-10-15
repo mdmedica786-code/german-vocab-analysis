@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1126"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Neid.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Neid
+
+![[Neid.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neid&language=de)
 
 **Meaning:** envy
 **Plural:** –

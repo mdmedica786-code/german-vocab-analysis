@@ -15,11 +15,16 @@ id: "B1570"
 netzwerk: "A1 K10 13d"
 freq_rank: 5759
 skip: false
+audio: "Statist.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Statist
+
+![[Statist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Statist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Statist&language=de)
 
 **Meaning:** extra (m)
 **Plural:** Statisten

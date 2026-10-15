@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 3e"
 freq_rank: 680
 skip: false
+audio: "Zukunft.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zukunft
+
+![[Zukunft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zukunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zukunft&language=de)
 
 **Meaning:** future
 **Plural:** –

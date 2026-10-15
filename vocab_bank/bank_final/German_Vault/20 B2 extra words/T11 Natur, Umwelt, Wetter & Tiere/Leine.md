@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1421"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Leine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leine
+
+![[Leine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leine&language=de)
 
 **Meaning:** lead; leash; line
 **Plural:** Leinen

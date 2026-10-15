@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 5759
 skip: false
+audio: "Passagierin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Passagierin
+
+![[Passagierin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passagierin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passagierin&language=de)
 
 **Meaning:** passenger (f)
 **Plural:** Passagierinnen

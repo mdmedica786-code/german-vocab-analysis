@@ -15,11 +15,16 @@ id: "B4563"
 netzwerk: "B1 K9 1b"
 freq_rank: 5136
 skip: false
+audio: "Kunstwerk.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kunstwerk
+
+![[Kunstwerk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstwerk&language=de)
 
 **Meaning:** artwork
 **Plural:** Kunstwerke

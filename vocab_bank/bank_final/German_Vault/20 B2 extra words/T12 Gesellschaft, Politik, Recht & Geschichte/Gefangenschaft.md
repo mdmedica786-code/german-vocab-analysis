@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3546"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Gefangenschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gefangenschaft
+
+![[Gefangenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gefangenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefangenschaft&language=de)
 
 **Meaning:** captivity; imprisonment
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4582"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Verkehrssystem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrssystem
+
+![[Verkehrssystem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrssystem&language=de)
 
 **Meaning:** transport system
 **Plural:** Verkehrssysteme

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0601"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Glaubwürdigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Glaubwürdigkeit
+
+![[Glaubwürdigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glaubw%C3%BCrdigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glaubw%C3%BCrdigkeit&language=de)
 
 **Meaning:** credibility
 **Plural:** –

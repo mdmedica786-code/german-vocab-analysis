@@ -14,11 +14,16 @@ bank: "main"
 id: "B6267"
 freq_rank: 5227
 skip: false
+audio: "Naturwissenschaft.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Naturwissenschaft
+
+![[Naturwissenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Naturwissenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturwissenschaft&language=de)
 
 **Meaning:** natural science
 **Plural:** Naturwissenschaften

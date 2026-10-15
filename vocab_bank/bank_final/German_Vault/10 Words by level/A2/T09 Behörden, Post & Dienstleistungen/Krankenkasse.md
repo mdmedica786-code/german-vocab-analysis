@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 5305
 skip: false
+audio: "Krankenkasse.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krankenkasse
+
+![[Krankenkasse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankenkasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenkasse&language=de)
 
 **Meaning:** health insurance company
 **Plural:** Krankenkassen

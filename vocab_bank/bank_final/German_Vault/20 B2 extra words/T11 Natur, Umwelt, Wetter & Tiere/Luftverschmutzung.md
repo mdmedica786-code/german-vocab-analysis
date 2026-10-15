@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0675"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Luftverschmutzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Luftverschmutzung
+
+![[Luftverschmutzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luftverschmutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftverschmutzung&language=de)
 
 **Meaning:** air pollution
 **Plural:** –

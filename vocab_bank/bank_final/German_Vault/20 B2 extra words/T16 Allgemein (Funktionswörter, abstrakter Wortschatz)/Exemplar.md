@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3585"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Exemplar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Exemplar
+
+![[Exemplar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Exemplar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exemplar&language=de)
 
 **Meaning:** copy; specimen
 **Plural:** Exemplare

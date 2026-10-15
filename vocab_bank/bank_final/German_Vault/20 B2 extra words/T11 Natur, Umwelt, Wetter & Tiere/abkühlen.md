@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3688"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "abkühlen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # abkühlen
+
+![[abkühlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abk%C3%BChlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abk%C3%BChlen&language=de)
 
 **Meaning:** to cool down; to cool (something) down
 **Forms:** kühlt ab · kühlte ab · hat abgekühlt

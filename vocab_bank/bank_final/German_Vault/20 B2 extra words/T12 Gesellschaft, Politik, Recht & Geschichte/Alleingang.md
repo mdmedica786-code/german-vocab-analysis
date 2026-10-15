@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1854"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Alleingang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Alleingang
+
+![[Alleingang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alleingang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alleingang&language=de)
 
 **Meaning:** solo effort; going it alone
 **Plural:** Alleingänge

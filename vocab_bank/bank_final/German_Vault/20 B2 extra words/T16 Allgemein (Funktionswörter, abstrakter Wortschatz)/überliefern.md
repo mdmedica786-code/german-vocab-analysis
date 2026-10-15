@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3376"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "überliefern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # überliefern
+
+![[überliefern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberliefern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberliefern&language=de)
 
 **Meaning:** to hand down; to pass on
 **Forms:** überliefert · überlieferte · hat überliefert

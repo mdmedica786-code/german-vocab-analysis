@@ -13,11 +13,16 @@ id: "B5992"
 goethe_level: "B1"
 freq_rank: 3822
 skip: false
+audio: "bestrafen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestrafen
+
+![[bestrafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestrafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestrafen&language=de)
 
 **Meaning:** to punish
 **Forms:** bestraft · bestrafte · hat bestraft

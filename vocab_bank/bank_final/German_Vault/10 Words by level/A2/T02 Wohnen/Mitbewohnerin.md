@@ -15,11 +15,16 @@ id: "B2981"
 netzwerk: "A2 K10 6c"
 freq_rank: 5759
 skip: false
+audio: "Mitbewohnerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitbewohnerin
+
+![[Mitbewohnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitbewohnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitbewohnerin&language=de)
 
 **Meaning:** flatmate (f)
 **Plural:** Mitbewohnerinnen

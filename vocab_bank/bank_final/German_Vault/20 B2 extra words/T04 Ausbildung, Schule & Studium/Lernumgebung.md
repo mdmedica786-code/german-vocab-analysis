@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4186"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lernumgebung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernumgebung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernumgebung&language=de)
 
 **Meaning:** learning environment
 **Plural:** Lernumgebungen

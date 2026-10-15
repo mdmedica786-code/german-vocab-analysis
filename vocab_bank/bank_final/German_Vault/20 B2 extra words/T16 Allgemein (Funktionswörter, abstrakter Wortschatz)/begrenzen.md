@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3784"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "begrenzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # begrenzen
+
+![[begrenzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begrenzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begrenzen&language=de)
 
 **Meaning:** to limit; to restrict; to border
 **Forms:** begrenzt · begrenzte · hat begrenzt

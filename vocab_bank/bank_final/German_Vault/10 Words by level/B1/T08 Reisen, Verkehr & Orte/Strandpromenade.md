@@ -15,11 +15,16 @@ id: "B3311"
 netzwerk: "B1 K1 8b"
 freq_rank: 5759
 skip: false
+audio: "Strandpromenade.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strandpromenade
+
+![[Strandpromenade.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strandpromenade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strandpromenade&language=de)
 
 **Meaning:** beach side promenade
 **Plural:** Strandpromenaden

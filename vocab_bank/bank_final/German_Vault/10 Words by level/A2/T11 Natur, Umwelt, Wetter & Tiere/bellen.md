@@ -13,11 +13,16 @@ id: "B2945"
 netzwerk: "A2 K10 3c"
 freq_rank: 5759
 skip: false
+audio: "bellen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bellen
+
+![[bellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bellen&language=de)
 
 **Meaning:** to bark
 **Forms:** bellt · bellte · hat gebellt

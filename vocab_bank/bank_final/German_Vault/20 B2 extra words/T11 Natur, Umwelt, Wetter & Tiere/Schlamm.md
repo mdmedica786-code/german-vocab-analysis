@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3680"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Schlamm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlamm
+
+![[Schlamm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlamm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlamm&language=de)
 
 **Meaning:** mud
 **Plural:** –

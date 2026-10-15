@@ -14,11 +14,16 @@ bank: "main"
 id: "B5539"
 freq_rank: 2244
 skip: false
+audio: "Wechsel.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wechsel
+
+![[Wechsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wechsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wechsel&language=de)
 
 **Meaning:** change; switch; exchange
 **Plural:** Wechsel

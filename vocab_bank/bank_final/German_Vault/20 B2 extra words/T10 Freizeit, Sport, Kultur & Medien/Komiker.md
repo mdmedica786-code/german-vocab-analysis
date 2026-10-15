@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4113"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Komiker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Komiker
+
+![[Komiker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Komiker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Komiker&language=de)
 
 **Meaning:** comedian (male)
 **Plural:** Komiker

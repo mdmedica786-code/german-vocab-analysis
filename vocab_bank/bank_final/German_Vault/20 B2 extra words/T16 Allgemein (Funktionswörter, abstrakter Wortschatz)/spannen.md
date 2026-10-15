@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1725"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "spannen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # spannen
+
+![[spannen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spannen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spannen&language=de)
 
 **Meaning:** to stretch; to tighten; to be tight
 **Forms:** spannt · spannte · hat gespannt

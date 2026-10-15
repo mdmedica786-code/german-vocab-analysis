@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4055"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Hörbuchpreis
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rbuchpreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rbuchpreis&language=de)
 
 **Meaning:** audiobook prize
 **Plural:** Hörbuchpreise

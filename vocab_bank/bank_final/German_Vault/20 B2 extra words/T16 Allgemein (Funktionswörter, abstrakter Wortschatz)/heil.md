@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2755"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "heil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # heil
+
+![[heil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heil&language=de)
 
 **Meaning:** unhurt; intact; whole
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

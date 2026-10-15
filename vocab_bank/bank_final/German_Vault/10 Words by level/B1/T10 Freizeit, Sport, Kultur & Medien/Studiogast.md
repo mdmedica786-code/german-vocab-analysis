@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Studiogast
 
+[▶️ YouGlish](https://youglish.com/pronounce/Studiogast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studiogast&language=de)
+
 **Meaning:** studio guest
 **Plural:** Studiogäste
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

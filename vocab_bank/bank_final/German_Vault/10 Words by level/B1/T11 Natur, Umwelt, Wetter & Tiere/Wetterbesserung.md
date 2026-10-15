@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Wetterbesserung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wetterbesserung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetterbesserung&language=de)
+
 **Meaning:** weather improvement
 **Plural:** –
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

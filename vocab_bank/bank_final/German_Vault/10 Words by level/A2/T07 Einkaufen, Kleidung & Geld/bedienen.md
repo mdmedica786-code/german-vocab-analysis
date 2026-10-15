@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 2143
 skip: false
+audio: "bedienen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedienen
+
+![[bedienen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedienen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedienen&language=de)
 
 **Meaning:** to serve
 **Other senses:** to use

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4659"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Zeilennummer
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeilennummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeilennummer&language=de)
 
 **Meaning:** line number
 **Plural:** Zeilennummern

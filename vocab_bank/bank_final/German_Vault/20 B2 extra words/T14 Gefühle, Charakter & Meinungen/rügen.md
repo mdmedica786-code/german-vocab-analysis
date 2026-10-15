@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1297"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "rügen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # rügen
+
+![[rügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BCgen&language=de)
 
 **Meaning:** to reprimand; to criticise
 **Forms:** rügt · rügte · hat gerügt

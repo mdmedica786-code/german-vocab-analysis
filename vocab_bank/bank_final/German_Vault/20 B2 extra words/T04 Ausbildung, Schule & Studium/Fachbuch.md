@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0984"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Fachbuch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fachbuch
+
+![[Fachbuch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachbuch&language=de)
 
 **Meaning:** specialist book
 **Plural:** Fachbücher

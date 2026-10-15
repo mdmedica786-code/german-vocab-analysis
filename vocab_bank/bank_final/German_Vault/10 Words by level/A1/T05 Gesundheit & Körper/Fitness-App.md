@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Fitness-App
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fitness-App/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fitness-App&language=de)
+
 **Meaning:** fitness app
 **Plural:** Fitness-Apps
 **Level:** A1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

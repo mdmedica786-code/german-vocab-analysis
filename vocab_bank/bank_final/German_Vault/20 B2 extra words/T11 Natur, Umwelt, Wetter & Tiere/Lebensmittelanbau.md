@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4172"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Lebensmittelanbau
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensmittelanbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensmittelanbau&language=de)
 
 **Meaning:** food cultivation; growing of food
 **Plural:** –

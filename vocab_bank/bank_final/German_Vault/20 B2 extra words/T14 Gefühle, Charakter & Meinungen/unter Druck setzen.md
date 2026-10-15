@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Druck setzen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Druck%20setzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Druck%20setzen&language=de)
+
 **Meaning:** to put under pressure
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

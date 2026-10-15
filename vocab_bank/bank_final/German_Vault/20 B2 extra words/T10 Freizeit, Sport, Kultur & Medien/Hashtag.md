@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0625"
 exam_use: ["Alltag"]
 skip: false
+audio: "Hashtag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hashtag
+
+![[Hashtag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hashtag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hashtag&language=de)
 
 **Meaning:** hashtag
 **Plural:** Hashtags

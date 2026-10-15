@@ -14,11 +14,16 @@ bank: "main"
 id: "B5738"
 freq_rank: 2893
 skip: false
+audio: "Problematik.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Problematik
+
+![[Problematik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Problematik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Problematik&language=de)
 
 **Meaning:** problem; set of issues
 **Plural:** Problematiken

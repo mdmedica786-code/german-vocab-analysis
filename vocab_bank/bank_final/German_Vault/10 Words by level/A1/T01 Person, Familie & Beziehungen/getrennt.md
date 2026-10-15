@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 12a"
 freq_rank: 1033
 skip: false
+audio: "getrennt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # getrennt
+
+![[getrennt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/getrennt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=getrennt&language=de)
 
 **Meaning:** separate
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

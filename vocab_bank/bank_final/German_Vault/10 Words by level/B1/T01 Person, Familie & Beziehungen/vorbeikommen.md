@@ -13,11 +13,16 @@ id: "B3835"
 netzwerk: "B1 K4 12b"
 freq_rank: 5759
 skip: false
+audio: "vorbeikommen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorbeikommen
+
+![[vorbeikommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorbeikommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbeikommen&language=de)
 
 **Meaning:** to come by; to drop in
 **Forms:** kommt vorbei · kam vorbei · ist vorbeigekommen

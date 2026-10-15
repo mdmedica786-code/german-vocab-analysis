@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4188"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "lesefreundlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # lesefreundlich
+
+![[lesefreundlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lesefreundlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lesefreundlich&language=de)
 
 **Meaning:** easy to read; reader-friendly
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

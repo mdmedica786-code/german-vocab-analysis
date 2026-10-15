@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4601"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Vollbremsung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Vollbremsung
+
+![[Vollbremsung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vollbremsung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vollbremsung&language=de)
 
 **Meaning:** emergency stop; full braking
 **Plural:** Vollbremsungen

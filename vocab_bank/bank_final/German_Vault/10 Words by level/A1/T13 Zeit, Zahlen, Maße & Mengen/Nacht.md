@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 15a"
 freq_rank: 350
 skip: false
+audio: "Nacht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nacht
+
+![[Nacht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nacht&language=de)
 
 **Meaning:** night
 **Plural:** Nächte

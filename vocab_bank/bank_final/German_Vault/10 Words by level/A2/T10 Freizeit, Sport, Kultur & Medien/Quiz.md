@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 9a"
 freq_rank: 5759
 skip: false
+audio: "Quiz.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Quiz
+
+![[Quiz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quiz&language=de)
 
 **Meaning:** quiz
 **Plural:** –

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # einundzwanzig
 
+[▶️ YouGlish](https://youglish.com/pronounce/einundzwanzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einundzwanzig&language=de)
+
 **Meaning:** twenty-one
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

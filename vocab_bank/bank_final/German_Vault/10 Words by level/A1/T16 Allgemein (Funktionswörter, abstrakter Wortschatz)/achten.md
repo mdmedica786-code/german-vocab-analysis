@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 5a"
 freq_rank: 1242
 skip: false
+audio: "achten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # achten
+
+![[achten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/achten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=achten&language=de)
 
 **Meaning:** to pay attention to; to respect
 **Forms:** achtet · achtete · hat geachtet

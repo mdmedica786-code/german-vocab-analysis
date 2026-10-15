@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 8a"
 freq_rank: 5759
 skip: false
+audio: "Salbe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Salbe
+
+![[Salbe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Salbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Salbe&language=de)
 
 **Meaning:** ointment
 **Plural:** Salben

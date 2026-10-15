@@ -15,11 +15,16 @@ id: "B4867"
 netzwerk: "B1 K10 10b"
 freq_rank: 5759
 skip: false
+audio: "Skeptikerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Skeptikerin
+
+![[Skeptikerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skeptikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skeptikerin&language=de)
 
 **Meaning:** sceptic (f)
 **Plural:** Skeptikerinnen

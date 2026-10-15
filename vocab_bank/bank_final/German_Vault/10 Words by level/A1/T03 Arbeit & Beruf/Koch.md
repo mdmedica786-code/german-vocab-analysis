@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 3091
 skip: false
+audio: "Koch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Koch
+
+![[Koch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Koch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koch&language=de)
 
 **Meaning:** cook (m)
 **Plural:** Köche

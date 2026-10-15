@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hallenbad.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hallenbad
+
+![[Hallenbad.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hallenbad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hallenbad&language=de)
 
 **Meaning:** indoor swimming pool
 **Plural:** Hallenbäder

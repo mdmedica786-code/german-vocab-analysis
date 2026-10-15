@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1379"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Fertiggericht.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fertiggericht
+
+![[Fertiggericht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fertiggericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fertiggericht&language=de)
 
 **Meaning:** ready meal
 **Plural:** Fertiggerichte

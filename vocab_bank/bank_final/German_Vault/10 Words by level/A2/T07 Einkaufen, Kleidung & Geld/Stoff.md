@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3a"
 freq_rank: 1171
 skip: false
+audio: "Stoff.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stoff
+
+![[Stoff.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stoff&language=de)
 
 **Meaning:** material; fabric; substance
 **Plural:** Stoffe

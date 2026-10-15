@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 1136
 skip: false
+audio: "Figur.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Figur
+
+![[Figur.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Figur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Figur&language=de)
 
 **Meaning:** figure; character
 **Plural:** Figuren

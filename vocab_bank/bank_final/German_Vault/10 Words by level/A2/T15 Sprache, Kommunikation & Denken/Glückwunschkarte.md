@@ -15,11 +15,16 @@ id: "B2207"
 netzwerk: "A2 K4 3e"
 freq_rank: 5759
 skip: false
+audio: "Glückwunschkarte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Glückwunschkarte
+
+![[Glückwunschkarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BCckwunschkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BCckwunschkarte&language=de)
 
 **Meaning:** congratulations card
 **Plural:** Glückwunschkarten

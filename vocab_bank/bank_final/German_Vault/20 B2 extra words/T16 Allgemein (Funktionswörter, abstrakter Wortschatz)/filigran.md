@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2300"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "filigran.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # filigran
+
+![[filigran.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/filigran/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=filigran&language=de)
 
 **Meaning:** delicate; filigree
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

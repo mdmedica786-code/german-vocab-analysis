@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Fach
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fach&language=de)
+
 **Meaning:** subject
 **Other senses:** compartment
 **Plural:** Fächer

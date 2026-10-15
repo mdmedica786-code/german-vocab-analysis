@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1452"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Betrachtungsweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Betrachtungsweise
+
+![[Betrachtungsweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betrachtungsweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrachtungsweise&language=de)
 
 **Meaning:** way of looking at things; approach
 **Plural:** Betrachtungsweisen

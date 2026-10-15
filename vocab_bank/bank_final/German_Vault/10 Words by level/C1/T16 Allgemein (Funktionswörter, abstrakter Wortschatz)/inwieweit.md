@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # inwieweit
 
+[▶️ YouGlish](https://youglish.com/pronounce/inwieweit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inwieweit&language=de)
+
 **Meaning:** to what extent
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

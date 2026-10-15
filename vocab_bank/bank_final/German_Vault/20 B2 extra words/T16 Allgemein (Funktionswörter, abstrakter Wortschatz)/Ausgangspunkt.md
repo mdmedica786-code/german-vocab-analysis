@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2645"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ausgangspunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausgangspunkt
+
+![[Ausgangspunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausgangspunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausgangspunkt&language=de)
 
 **Meaning:** starting point
 **Plural:** Ausgangspunkte

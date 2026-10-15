@@ -15,11 +15,16 @@ id: "B6202"
 goethe_level: "B1"
 freq_rank: 4863
 skip: false
+audio: "Landung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Landung
+
+![[Landung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Landung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Landung&language=de)
 
 **Meaning:** landing
 **Plural:** Landungen

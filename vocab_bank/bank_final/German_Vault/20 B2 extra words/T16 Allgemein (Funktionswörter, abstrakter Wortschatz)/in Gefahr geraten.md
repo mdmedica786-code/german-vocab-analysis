@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Gefahr geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Gefahr%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Gefahr%20geraten&language=de)
+
 **Meaning:** to get into danger
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

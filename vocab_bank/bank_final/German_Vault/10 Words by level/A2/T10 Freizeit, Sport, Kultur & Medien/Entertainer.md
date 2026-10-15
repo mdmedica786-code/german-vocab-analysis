@@ -15,11 +15,16 @@ id: "B2148"
 netzwerk: "A2 K3 12b"
 freq_rank: 5759
 skip: false
+audio: "Entertainer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Entertainer
+
+![[Entertainer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entertainer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entertainer&language=de)
 
 **Meaning:** entertainer (m)
 **Plural:** Entertainer

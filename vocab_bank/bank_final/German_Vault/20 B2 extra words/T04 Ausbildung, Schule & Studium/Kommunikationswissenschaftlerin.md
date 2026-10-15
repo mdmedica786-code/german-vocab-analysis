@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4118"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Kommunikationswissenschaftlerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kommunikationswissenschaftlerin
+
+![[Kommunikationswissenschaftlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kommunikationswissenschaftlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kommunikationswissenschaftlerin&language=de)
 
 **Meaning:** communication scientist (female)
 **Plural:** Kommunikationswissenschaftlerinnen

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5833"
 freq_rank: 3074
 skip: false
+audio: "seitens.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # seitens
+
+![[seitens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seitens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seitens&language=de)
 
 **Meaning:** on the part of
 **Case:** + Gen.

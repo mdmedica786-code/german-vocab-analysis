@@ -14,11 +14,16 @@ bank: "main"
 id: "B6055"
 freq_rank: 4100
 skip: false
+audio: "Challenge.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Challenge
+
+![[Challenge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Challenge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Challenge&language=de)
 
 **Meaning:** challenge
 **Plural:** Challenges

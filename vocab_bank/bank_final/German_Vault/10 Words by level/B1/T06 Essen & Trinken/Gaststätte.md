@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Gaststätte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gaststätte
+
+![[Gaststätte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gastst%C3%A4tte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastst%C3%A4tte&language=de)
 
 **Meaning:** restaurant
 **Plural:** Gaststätten

@@ -15,11 +15,16 @@ id: "B4049"
 netzwerk: "B1 K5 13a"
 freq_rank: 9999
 skip: false
+audio: "Mitfahrbank.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitfahrbank
+
+![[Mitfahrbank.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitfahrbank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitfahrbank&language=de)
 
 **Meaning:** ride-share bench
 **Plural:** Mitfahrbänke

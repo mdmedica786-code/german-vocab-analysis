@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Gummiwanne
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gummiwanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gummiwanne&language=de)
+
 **Meaning:** rubber tub
 **Plural:** Gummiwannen
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

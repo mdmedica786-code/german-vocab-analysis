@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3472"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Nachhinein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nachhinein
+
+![[Nachhinein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachhinein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachhinein&language=de)
 
 **Meaning:** hindsight (only in "im Nachhinein")
 **Plural:** –

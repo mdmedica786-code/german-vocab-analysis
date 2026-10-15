@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2539"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vielzahl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vielzahl
+
+![[Vielzahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vielzahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vielzahl&language=de)
 
 **Meaning:** large number; multitude
 **Plural:** –

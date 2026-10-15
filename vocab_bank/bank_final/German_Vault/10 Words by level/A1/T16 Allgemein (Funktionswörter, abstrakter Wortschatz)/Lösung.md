@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 2b"
 freq_rank: 595
 skip: false
+audio: "Lösung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lösung
+
+![[Lösung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6sung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6sung&language=de)
 
 **Meaning:** solution
 **Plural:** Lösungen

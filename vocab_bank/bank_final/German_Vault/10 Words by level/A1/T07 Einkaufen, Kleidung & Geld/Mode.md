@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 10a"
 freq_rank: 3590
 skip: false
+audio: "Mode.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mode
+
+![[Mode.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mode&language=de)
 
 **Meaning:** fashion
 **Plural:** Moden

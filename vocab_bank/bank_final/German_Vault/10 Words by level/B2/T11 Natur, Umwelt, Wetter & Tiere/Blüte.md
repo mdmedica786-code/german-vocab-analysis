@@ -14,11 +14,16 @@ bank: "main"
 id: "B5731"
 freq_rank: 2879
 skip: false
+audio: "Blüte.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Blüte
+
+![[Blüte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bl%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bl%C3%BCte&language=de)
 
 **Meaning:** blossom
 **Plural:** Blüten

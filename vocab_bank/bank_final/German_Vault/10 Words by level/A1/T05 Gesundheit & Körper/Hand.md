@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6a"
 freq_rank: 109
 skip: false
+audio: "Hand.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hand
+
+![[Hand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hand&language=de)
 
 **Meaning:** hand
 **Plural:** Hände

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1035"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Abschlag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abschlag
+
+![[Abschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschlag&language=de)
 
 **Meaning:** discount; advance payment
 **Plural:** Abschläge

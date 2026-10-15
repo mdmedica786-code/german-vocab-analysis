@@ -13,11 +13,16 @@ id: "B6315"
 goethe_level: "B1"
 freq_rank: 5515
 skip: false
+audio: "protestieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # protestieren
+
+![[protestieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/protestieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=protestieren&language=de)
 
 **Meaning:** to protest
 **Forms:** protestiert · protestierte · hat protestiert

@@ -15,11 +15,16 @@ id: "B2342"
 netzwerk: "A2 K5 3c"
 freq_rank: 5571
 skip: false
+audio: "Diebstahl.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Diebstahl
+
+![[Diebstahl.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diebstahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diebstahl&language=de)
 
 **Meaning:** theft
 **Plural:** Diebstähle

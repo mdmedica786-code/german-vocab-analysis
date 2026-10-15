@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0468"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Urlaubsanspruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Urlaubsanspruch
+
+![[Urlaubsanspruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsanspruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsanspruch&language=de)
 
 **Meaning:** holiday entitlement
 **Plural:** Urlaubsansprüche

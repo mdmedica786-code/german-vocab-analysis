@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 14a"
 freq_rank: 5759
 skip: false
+audio: "Kaffeehaus.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kaffeehaus
+
+![[Kaffeehaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaffeehaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeehaus&language=de)
 
 **Meaning:** coffee shop
 **Plural:** Kaffeehäuser

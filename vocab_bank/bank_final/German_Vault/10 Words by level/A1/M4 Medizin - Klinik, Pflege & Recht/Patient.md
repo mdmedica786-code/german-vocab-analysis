@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 7a"
 freq_rank: 421
 skip: false
+audio: "Patient.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Patient
+
+![[Patient.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Patient/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Patient&language=de)
 
 **Meaning:** patient (m)
 **Plural:** Patienten

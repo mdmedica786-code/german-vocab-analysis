@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 5b"
 freq_rank: 1449
 skip: false
+audio: "Liste.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Liste
+
+![[Liste.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liste&language=de)
 
 **Meaning:** list
 **Plural:** Listen

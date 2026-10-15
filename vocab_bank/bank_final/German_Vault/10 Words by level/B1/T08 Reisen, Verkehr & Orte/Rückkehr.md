@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 2175
 skip: false
+audio: "Rückkehr.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückkehr
+
+![[Rückkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckkehr&language=de)
 
 **Meaning:** return
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 10d"
 freq_rank: 4534
 skip: false
+audio: "Plakat.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Plakat
+
+![[Plakat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plakat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plakat&language=de)
 
 **Meaning:** poster
 **Plural:** Plakate

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0423"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Etat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Etat
+
+![[Etat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Etat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Etat&language=de)
 
 **Meaning:** budget
 **Plural:** Etats

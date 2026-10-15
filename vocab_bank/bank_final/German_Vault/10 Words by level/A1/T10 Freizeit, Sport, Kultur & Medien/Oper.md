@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 3908
 skip: false
+audio: "Oper.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Oper
+
+![[Oper.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oper&language=de)
 
 **Meaning:** opera
 **Plural:** Opern

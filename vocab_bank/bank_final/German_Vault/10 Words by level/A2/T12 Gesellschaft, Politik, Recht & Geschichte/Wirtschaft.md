@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Wirtschaft
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wirtschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirtschaft&language=de)
+
 **Meaning:** economy
 **Level:** A2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 **Note:** ohne Artikel

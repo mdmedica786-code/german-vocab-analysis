@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 8b"
 freq_rank: 714
 skip: false
+audio: "Ruhe.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ruhe
+
+![[Ruhe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ruhe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ruhe&language=de)
 
 **Meaning:** quiet; peace; rest
 **Plural:** –

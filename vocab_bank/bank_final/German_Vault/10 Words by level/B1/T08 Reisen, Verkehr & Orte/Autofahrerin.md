@@ -15,11 +15,16 @@ id: "B3879"
 netzwerk: "B1 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Autofahrerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Autofahrerin
+
+![[Autofahrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autofahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autofahrerin&language=de)
 
 **Meaning:** driver (f); motorist
 **Plural:** Autofahrerinnen

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 1558
 skip: false
+audio: "schaden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schaden
+
+![[schaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schaden&language=de)
 
 **Meaning:** to harm
 **Forms:** schadet · schadete · hat geschadet

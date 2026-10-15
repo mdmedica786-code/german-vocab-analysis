@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1732"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "umrühren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # umrühren
+
+![[umrühren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umr%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umr%C3%BChren&language=de)
 
 **Meaning:** to stir
 **Forms:** rührt um · rührte um · hat umgerührt

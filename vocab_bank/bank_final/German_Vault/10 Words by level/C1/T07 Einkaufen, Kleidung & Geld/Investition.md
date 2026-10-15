@@ -14,11 +14,16 @@ bank: "main"
 id: "B5578"
 freq_rank: 2402
 skip: false
+audio: "Investition.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Investition
+
+![[Investition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Investition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Investition&language=de)
 
 **Meaning:** investment
 **Plural:** Investitionen

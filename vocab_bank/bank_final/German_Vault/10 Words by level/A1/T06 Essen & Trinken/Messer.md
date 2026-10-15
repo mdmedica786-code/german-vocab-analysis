@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 11c ÜB"
 freq_rank: 1983
 skip: false
+audio: "Messer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Messer
+
+![[Messer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Messer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messer&language=de)
 
 **Meaning:** knife
 **Plural:** Messer

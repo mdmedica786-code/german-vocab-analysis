@@ -13,11 +13,16 @@ id: "B2087"
 netzwerk: "A2 K3 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "weiterleiten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiterleiten
+
+![[weiterleiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterleiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterleiten&language=de)
 
 **Meaning:** to forward
 **Forms:** leitet weiter · leitete weiter · hat weitergeleitet

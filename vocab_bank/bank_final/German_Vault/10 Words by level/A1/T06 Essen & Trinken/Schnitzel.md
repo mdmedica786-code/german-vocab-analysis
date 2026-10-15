@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 11"
 freq_rank: 4847
 skip: false
+audio: "Schnitzel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schnitzel
+
+![[Schnitzel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schnitzel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnitzel&language=de)
 
 **Meaning:** schnitzel
 **Plural:** Schnitzel

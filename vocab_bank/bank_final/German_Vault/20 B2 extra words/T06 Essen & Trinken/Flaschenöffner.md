@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2274"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Flaschenöffner.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Flaschenöffner
+
+![[Flaschenöffner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flaschen%C3%B6ffner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flaschen%C3%B6ffner&language=de)
 
 **Meaning:** bottle opener
 **Plural:** Flaschenöffner

@@ -15,11 +15,16 @@ id: "B4911"
 netzwerk: "B1 K11 6b"
 freq_rank: 5759
 skip: false
+audio: "Backstube.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Backstube
+
+![[Backstube.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Backstube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backstube&language=de)
 
 **Meaning:** bakery (workshop)
 **Plural:** Backstuben

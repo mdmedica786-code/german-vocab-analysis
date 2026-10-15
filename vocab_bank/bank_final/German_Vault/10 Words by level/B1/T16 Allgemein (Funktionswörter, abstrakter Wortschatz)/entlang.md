@@ -12,11 +12,16 @@ id: "B5279"
 goethe_level: "B1"
 freq_rank: 1183
 skip: false
+audio: "entlang.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # entlang
+
+![[entlang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entlang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entlang&language=de)
 
 **Meaning:** along
 **Case:** + Akk. (die Straße entlang)

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2446"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Identität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Identität
+
+![[Identität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Identit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Identit%C3%A4t&language=de)
 
 **Meaning:** identity
 **Plural:** Identitäten

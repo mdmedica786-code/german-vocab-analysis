@@ -12,11 +12,16 @@ id: "B6454"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "gleichberechtigt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gleichberechtigt
+
+![[gleichberechtigt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gleichberechtigt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gleichberechtigt&language=de)
 
 **Meaning:** having equal rights
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

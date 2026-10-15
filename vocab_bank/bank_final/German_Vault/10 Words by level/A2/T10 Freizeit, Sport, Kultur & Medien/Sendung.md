@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 1b"
 freq_rank: 3986
 skip: false
+audio: "Sendung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sendung
+
+![[Sendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sendung&language=de)
 
 **Meaning:** programme
 **Plural:** Sendungen

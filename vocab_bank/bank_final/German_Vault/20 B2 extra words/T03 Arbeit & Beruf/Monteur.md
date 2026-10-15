@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1789"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Monteur.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Monteur
+
+![[Monteur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Monteur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monteur&language=de)
 
 **Meaning:** fitter; installation technician
 **Plural:** Monteure

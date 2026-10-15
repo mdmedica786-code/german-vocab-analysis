@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1159"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Stärke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stärke
+
+![[Stärke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/St%C3%A4rke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=St%C3%A4rke&language=de)
 
 **Meaning:** strength; starch
 **Plural:** Stärken

@@ -13,11 +13,16 @@ id: "B2794"
 netzwerk: "A2 K8 9a"
 freq_rank: 5759
 skip: false
+audio: "wegwerfen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wegwerfen
+
+![[wegwerfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wegwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wegwerfen&language=de)
 
 **Meaning:** to throw away
 **Forms:** wirft weg · warf weg · hat weggeworfen

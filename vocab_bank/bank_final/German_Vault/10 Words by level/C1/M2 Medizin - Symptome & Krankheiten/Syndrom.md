@@ -14,11 +14,16 @@ bank: "main"
 id: "B5698"
 freq_rank: 2823
 skip: false
+audio: "Syndrom.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Syndrom
+
+![[Syndrom.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Syndrom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Syndrom&language=de)
 
 **Meaning:** syndrome
 **Plural:** Syndrome

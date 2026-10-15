@@ -15,11 +15,16 @@ id: "B2176"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Babykleidung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Babykleidung
+
+![[Babykleidung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Babykleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Babykleidung&language=de)
 
 **Meaning:** baby clothes
 **Plural:** –

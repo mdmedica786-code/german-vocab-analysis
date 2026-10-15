@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3496"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Lehrkraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lehrkraft
+
+![[Lehrkraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrkraft&language=de)
 
 **Meaning:** teacher; member of teaching staff
 **Plural:** Lehrkräfte

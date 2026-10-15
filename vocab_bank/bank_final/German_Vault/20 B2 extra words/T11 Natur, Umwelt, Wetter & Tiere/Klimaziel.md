@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0671"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Klimaziel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klimaziel
+
+![[Klimaziel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klimaziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaziel&language=de)
 
 **Meaning:** climate target
 **Plural:** Klimaziele

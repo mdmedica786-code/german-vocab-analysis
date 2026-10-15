@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1915"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Integrationskurs.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Integrationskurs
+
+![[Integrationskurs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Integrationskurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Integrationskurs&language=de)
 
 **Meaning:** integration course
 **Plural:** Integrationskurse

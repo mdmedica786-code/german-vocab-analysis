@@ -15,11 +15,16 @@ id: "B2239"
 netzwerk: "A2 K4 10a"
 freq_rank: 4785
 skip: false
+audio: "Feuerwerk.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Feuerwerk
+
+![[Feuerwerk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuerwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwerk&language=de)
 
 **Meaning:** fireworks
 **Plural:** Feuerwerke

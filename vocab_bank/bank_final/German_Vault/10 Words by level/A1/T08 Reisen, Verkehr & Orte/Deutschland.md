@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Deutschland
 
+[▶️ YouGlish](https://youglish.com/pronounce/Deutschland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deutschland&language=de)
+
 **Meaning:** Germany
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

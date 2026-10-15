@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 11"
 freq_rank: 2397
 skip: false
+audio: "Eis.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Eis
+
+![[Eis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eis&language=de)
 
 **Meaning:** ice cream; ice
 **Plural:** –

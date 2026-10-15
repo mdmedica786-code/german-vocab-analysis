@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 9a"
 freq_rank: 5759
 skip: false
+audio: "spülen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spülen
+
+![[spülen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sp%C3%BClen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sp%C3%BClen&language=de)
 
 **Meaning:** to rinse; to wash up
 **Forms:** spült · spülte · hat gespült

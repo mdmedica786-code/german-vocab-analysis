@@ -13,11 +13,16 @@ id: "B6469"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "kaputtmachen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kaputtmachen
+
+![[kaputtmachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kaputtmachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kaputtmachen&language=de)
 
 **Meaning:** to break
 **Forms:** macht kaputt · machte kaputt · hat kaputtgemacht

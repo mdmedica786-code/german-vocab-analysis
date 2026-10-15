@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2488"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Standard.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Standard
+
+![[Standard.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Standard/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standard&language=de)
 
 **Meaning:** standard; level
 **Plural:** Standards

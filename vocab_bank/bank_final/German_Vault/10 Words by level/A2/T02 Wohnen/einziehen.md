@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 6b"
 freq_rank: 5698
 skip: false
+audio: "einziehen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einziehen
+
+![[einziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einziehen&language=de)
 
 **Meaning:** to move in
 **Forms:** zieht ein · zog ein · ist eingezogen

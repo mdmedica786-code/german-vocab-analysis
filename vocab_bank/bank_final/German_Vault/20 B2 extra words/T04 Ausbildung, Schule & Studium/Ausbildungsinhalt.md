@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3754"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Ausbildungsinhalt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausbildungsinhalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausbildungsinhalt&language=de)
 
 **Meaning:** training content; subject of the training
 **Plural:** Ausbildungsinhalte

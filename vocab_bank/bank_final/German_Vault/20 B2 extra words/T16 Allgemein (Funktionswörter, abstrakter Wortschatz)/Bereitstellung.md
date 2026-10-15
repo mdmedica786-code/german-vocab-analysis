@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3214"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bereitstellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bereitstellung
+
+![[Bereitstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bereitstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bereitstellung&language=de)
 
 **Meaning:** provision; making available
 **Plural:** Bereitstellungen

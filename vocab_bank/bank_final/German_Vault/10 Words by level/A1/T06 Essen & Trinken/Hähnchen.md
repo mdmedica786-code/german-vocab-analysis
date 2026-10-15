@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Hähnchen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hähnchen
+
+![[Hähnchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4hnchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4hnchen&language=de)
 
 **Meaning:** chicken
 **Plural:** Hähnchen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0571"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Schwellenland.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schwellenland
+
+![[Schwellenland.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwellenland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwellenland&language=de)
 
 **Meaning:** emerging economy; newly industrialised country
 **Plural:** Schwellenländer

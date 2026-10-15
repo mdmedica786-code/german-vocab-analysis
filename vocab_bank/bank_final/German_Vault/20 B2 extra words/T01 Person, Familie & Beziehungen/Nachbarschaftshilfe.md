@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1883"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Nachbarschaftshilfe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachbarschaftshilfe
+
+![[Nachbarschaftshilfe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbarschaftshilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarschaftshilfe&language=de)
 
 **Meaning:** neighbourly help
 **Plural:** –

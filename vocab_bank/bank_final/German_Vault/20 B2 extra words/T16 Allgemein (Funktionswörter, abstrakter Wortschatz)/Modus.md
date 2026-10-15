@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2976"
 exam_use: ["Grammatik", "Wissenschaft"]
 skip: false
+audio: "Modus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Grammatik", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Modus
+
+![[Modus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Modus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modus&language=de)
 
 **Meaning:** mode; mood (grammar)
 **Plural:** Modi

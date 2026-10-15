@@ -12,11 +12,16 @@ bank: "main"
 id: "B5647"
 freq_rank: 2645
 skip: false
+audio: "erteilen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erteilen
+
+![[erteilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erteilen&language=de)
 
 **Meaning:** to give; to grant
 **Forms:** erteilt · erteilte · hat erteilt

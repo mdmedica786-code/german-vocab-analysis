@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 1b"
 freq_rank: 4922
 skip: false
+audio: "Klavier.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klavier
+
+![[Klavier.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klavier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klavier&language=de)
 
 **Meaning:** piano
 **Plural:** Klaviere

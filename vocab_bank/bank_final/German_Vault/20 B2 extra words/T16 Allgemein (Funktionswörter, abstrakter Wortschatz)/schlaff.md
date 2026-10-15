@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2324"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "schlaff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlaff
+
+![[schlaff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlaff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlaff&language=de)
 
 **Meaning:** limp; slack
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

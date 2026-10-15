@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3276"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Reformation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reformation
+
+![[Reformation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reformation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reformation&language=de)
 
 **Meaning:** Reformation (historical movement)
 **Plural:** Reformationen

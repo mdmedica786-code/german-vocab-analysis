@@ -13,11 +13,16 @@ id: "B6420"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "erkältet sein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erkältet sein
+
+![[erkältet sein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erk%C3%A4ltet%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erk%C3%A4ltet%20sein&language=de)
 
 **Meaning:** to have a cold
 **Forms:** ist erkältet · war erkältet · ist erkältet gewesen

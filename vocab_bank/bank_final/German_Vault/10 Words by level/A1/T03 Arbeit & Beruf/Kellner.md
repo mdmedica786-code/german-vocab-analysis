@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 3879
 skip: false
+audio: "Kellner.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kellner
+
+![[Kellner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kellner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kellner&language=de)
 
 **Meaning:** waiter
 **Plural:** Kellner

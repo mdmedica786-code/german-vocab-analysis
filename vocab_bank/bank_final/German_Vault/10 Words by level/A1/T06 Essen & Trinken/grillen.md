@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3a"
 freq_rank: 4847
 skip: false
+audio: "grillen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # grillen
+
+![[grillen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/grillen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=grillen&language=de)
 
 **Meaning:** to barbecue
 **Forms:** grillt · grillte · hat gegrillt

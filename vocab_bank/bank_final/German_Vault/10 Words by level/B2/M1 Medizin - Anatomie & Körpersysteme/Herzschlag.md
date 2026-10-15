@@ -14,11 +14,16 @@ bank: "main"
 id: "B6208"
 freq_rank: 4886
 skip: false
+audio: "Herzschlag.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Herzschlag
+
+![[Herzschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herzschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herzschlag&language=de)
 
 **Meaning:** heartbeat
 **Plural:** Herzschläge

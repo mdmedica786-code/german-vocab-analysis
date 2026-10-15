@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 10a"
 freq_rank: 4855
 skip: false
+audio: "Bundesland.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bundesland
+
+![[Bundesland.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesland&language=de)
 
 **Meaning:** state
 **Plural:** Bundesländer

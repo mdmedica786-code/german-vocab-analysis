@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "donnern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # donnern
+
+![[donnern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/donnern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=donnern&language=de)
 
 **Meaning:** to thunder
 **Forms:** donnert · donnerte · hat gedonnert

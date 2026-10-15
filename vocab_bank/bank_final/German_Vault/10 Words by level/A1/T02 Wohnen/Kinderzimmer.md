@@ -15,11 +15,16 @@ id: "B1352"
 netzwerk: "A1 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Kinderzimmer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kinderzimmer
+
+![[Kinderzimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderzimmer&language=de)
 
 **Meaning:** nursery
 **Plural:** Kinderzimmer

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1834"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "stützen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # stützen
+
+![[stützen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%BCtzen&language=de)
 
 **Meaning:** to support; to base on
 **Forms:** stützt · stützte · hat gestützt

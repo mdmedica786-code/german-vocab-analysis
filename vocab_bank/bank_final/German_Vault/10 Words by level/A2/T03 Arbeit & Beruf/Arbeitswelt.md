@@ -15,11 +15,16 @@ id: "B2044"
 netzwerk: "A2 K2 11b"
 freq_rank: 5759
 skip: false
+audio: "Arbeitswelt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitswelt
+
+![[Arbeitswelt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitswelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitswelt&language=de)
 
 **Meaning:** work environment
 **Plural:** –

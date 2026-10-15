@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # rockig
 
+[▶️ YouGlish](https://youglish.com/pronounce/rockig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rockig&language=de)
+
 **Meaning:** rocking
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 

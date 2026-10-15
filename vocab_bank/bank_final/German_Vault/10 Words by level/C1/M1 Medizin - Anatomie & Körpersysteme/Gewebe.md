@@ -14,11 +14,16 @@ bank: "main"
 id: "B5841"
 freq_rank: 3116
 skip: false
+audio: "Gewebe.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gewebe
+
+![[Gewebe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewebe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewebe&language=de)
 
 **Meaning:** tissue
 **Plural:** Gewebe

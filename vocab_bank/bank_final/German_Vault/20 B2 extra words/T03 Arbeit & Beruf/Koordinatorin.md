@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4135"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Koordinatorin.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Koordinatorin
+
+![[Koordinatorin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Koordinatorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koordinatorin&language=de)
 
 **Meaning:** coordinator (female)
 **Plural:** Koordinatorinnen

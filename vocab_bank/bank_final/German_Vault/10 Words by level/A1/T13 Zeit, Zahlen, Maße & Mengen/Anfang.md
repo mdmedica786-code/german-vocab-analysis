@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 13a"
 freq_rank: 641
 skip: false
+audio: "Anfang.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anfang
+
+![[Anfang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anfang&language=de)
 
 **Meaning:** beginning
 **Plural:** Anfänge

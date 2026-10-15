@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 12b"
 freq_rank: 3366
 skip: false
+audio: "bequem.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bequem
+
+![[bequem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bequem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bequem&language=de)
 
 **Meaning:** comfortable
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

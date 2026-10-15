@@ -12,11 +12,16 @@ id: "B3823"
 netzwerk: "B1 K4 12a"
 freq_rank: 566
 skip: false
+audio: "gesucht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gesucht
+
+![[gesucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gesucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gesucht&language=de)
 
 **Meaning:** wanted; sought
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

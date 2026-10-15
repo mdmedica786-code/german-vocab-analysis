@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Verbindung setzen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Verbindung%20setzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Verbindung%20setzen&language=de)
+
 **Meaning:** to get in touch (with)
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

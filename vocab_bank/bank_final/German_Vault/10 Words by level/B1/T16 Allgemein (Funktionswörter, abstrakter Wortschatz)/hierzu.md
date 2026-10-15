@@ -11,11 +11,16 @@ bank: "main"
 id: "B5251"
 freq_rank: 1036
 skip: false
+audio: "hierzu.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hierzu
+
+![[hierzu.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hierzu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hierzu&language=de)
 
 **Meaning:** on this; to this
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

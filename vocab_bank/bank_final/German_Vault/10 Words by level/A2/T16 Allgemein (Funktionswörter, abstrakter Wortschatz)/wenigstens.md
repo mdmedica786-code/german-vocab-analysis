@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 3a"
 freq_rank: 802
 skip: false
+audio: "wenigstens.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wenigstens
+
+![[wenigstens.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wenigstens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wenigstens&language=de)
 
 **Meaning:** at least
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

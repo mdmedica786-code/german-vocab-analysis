@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3a"
 freq_rank: 739
 skip: false
+audio: "hart.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # hart
+
+![[hart.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hart&language=de)
 
 **Meaning:** hard; tough; harsh
 **Forms:** härter – am härtesten

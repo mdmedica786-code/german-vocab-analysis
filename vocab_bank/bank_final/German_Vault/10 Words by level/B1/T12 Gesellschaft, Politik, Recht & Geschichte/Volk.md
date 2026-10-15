@@ -14,11 +14,16 @@ bank: "main"
 id: "B5177"
 freq_rank: 566
 skip: false
+audio: "Volk.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Volk
+
+![[Volk.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Volk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volk&language=de)
 
 **Meaning:** people; nation
 **Plural:** Völker

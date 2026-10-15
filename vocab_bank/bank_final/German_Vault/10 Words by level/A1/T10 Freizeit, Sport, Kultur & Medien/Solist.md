@@ -15,11 +15,16 @@ id: "B0559"
 netzwerk: "A1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "Solist.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Solist
+
+![[Solist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Solist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Solist&language=de)
 
 **Meaning:** soloist (m)
 **Plural:** Solisten

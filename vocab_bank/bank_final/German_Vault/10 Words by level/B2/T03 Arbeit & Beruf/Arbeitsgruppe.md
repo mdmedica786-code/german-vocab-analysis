@@ -14,11 +14,16 @@ bank: "main"
 id: "B6304"
 freq_rank: 5512
 skip: false
+audio: "Arbeitsgruppe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitsgruppe
+
+![[Arbeitsgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsgruppe&language=de)
 
 **Meaning:** working group
 **Plural:** Arbeitsgruppen

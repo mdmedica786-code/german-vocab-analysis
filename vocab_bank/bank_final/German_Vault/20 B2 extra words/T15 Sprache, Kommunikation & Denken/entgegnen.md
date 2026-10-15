@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1815"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "entgegnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # entgegnen
+
+![[entgegnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entgegnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entgegnen&language=de)
 
 **Meaning:** to reply; to retort
 **Forms:** entgegnet · entgegnete · hat entgegnet

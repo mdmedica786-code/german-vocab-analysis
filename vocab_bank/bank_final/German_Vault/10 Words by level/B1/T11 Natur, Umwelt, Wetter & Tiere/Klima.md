@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 3657
 skip: false
+audio: "Klima.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klima
+
+![[Klima.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klima/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klima&language=de)
 
 **Meaning:** climate
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3061"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Herausgeber.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Herausgeber
+
+![[Herausgeber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herausgeber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herausgeber&language=de)
 
 **Meaning:** publisher; editor
 **Plural:** Herausgeber

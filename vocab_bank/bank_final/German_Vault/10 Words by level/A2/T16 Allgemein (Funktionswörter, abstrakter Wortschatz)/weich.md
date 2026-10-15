@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K9 1b"
 freq_rank: 1962
 skip: false
+audio: "weich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # weich
+
+![[weich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weich&language=de)
 
 **Meaning:** soft
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

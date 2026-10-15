@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7b"
 freq_rank: 121
 skip: false
+audio: "Kind.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kind
+
+![[Kind.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kind&language=de)
 
 **Meaning:** child
 **Plural:** Kinder

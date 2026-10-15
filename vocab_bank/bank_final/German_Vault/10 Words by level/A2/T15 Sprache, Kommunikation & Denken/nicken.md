@@ -12,11 +12,16 @@ bank: "main"
 id: "B5162"
 freq_rank: 484
 skip: false
+audio: "nicken.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nicken
+
+![[nicken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nicken&language=de)
 
 **Meaning:** to nod
 **Forms:** nickt · nickte · hat genickt

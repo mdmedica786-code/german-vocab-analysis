@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2563"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Mittelalter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mittelalter
+
+![[Mittelalter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittelalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelalter&language=de)
 
 **Meaning:** Middle Ages
 **Plural:** –

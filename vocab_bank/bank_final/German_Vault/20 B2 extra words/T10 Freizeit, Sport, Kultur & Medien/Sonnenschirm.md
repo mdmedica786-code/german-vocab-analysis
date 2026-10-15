@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2240"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Sonnenschirm.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonnenschirm
+
+![[Sonnenschirm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonnenschirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenschirm&language=de)
 
 **Meaning:** parasol
 **Plural:** Sonnenschirme

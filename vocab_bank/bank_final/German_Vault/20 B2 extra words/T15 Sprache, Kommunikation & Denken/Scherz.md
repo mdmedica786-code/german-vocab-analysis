@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3047"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Scherz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Scherz
+
+![[Scherz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Scherz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Scherz&language=de)
 
 **Meaning:** joke
 **Plural:** Scherze

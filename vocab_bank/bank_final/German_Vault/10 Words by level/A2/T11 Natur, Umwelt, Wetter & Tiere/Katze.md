@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 10c"
 freq_rank: 1836
 skip: false
+audio: "Katze.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Katze
+
+![[Katze.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Katze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katze&language=de)
 
 **Meaning:** cat
 **Plural:** Katzen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2613"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
+audio: "quantitativ.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Wissenschaft", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # quantitativ
+
+![[quantitativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/quantitativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=quantitativ&language=de)
 
 **Meaning:** quantitative
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

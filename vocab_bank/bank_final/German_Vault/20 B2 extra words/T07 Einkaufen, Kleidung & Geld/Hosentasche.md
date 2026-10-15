@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3473"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Hosentasche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hosentasche
+
+![[Hosentasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hosentasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hosentasche&language=de)
 
 **Meaning:** trouser pocket
 **Plural:** Hosentaschen

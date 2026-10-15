@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2928"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "opfern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # opfern
+
+![[opfern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/opfern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=opfern&language=de)
 
 **Meaning:** to sacrifice
 **Forms:** opfert · opferte · hat geopfert

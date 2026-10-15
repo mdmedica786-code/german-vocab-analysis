@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 10a"
 freq_rank: 4871
 skip: false
+audio: "Überschrift.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überschrift
+
+![[Überschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberschrift&language=de)
 
 **Meaning:** heading
 **Plural:** Überschriften

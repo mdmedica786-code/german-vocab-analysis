@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4198"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lösungszahl
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6sungszahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6sungszahl&language=de)
 
 **Meaning:** solution number; answer number
 **Plural:** Lösungszahlen

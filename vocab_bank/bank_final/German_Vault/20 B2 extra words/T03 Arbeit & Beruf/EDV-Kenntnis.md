@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3878"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die EDV-Kenntnis
+
+[▶️ YouGlish](https://youglish.com/pronounce/EDV-Kenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=EDV-Kenntnis&language=de)
 
 **Meaning:** IT skills; computer skills
 **Plural:** EDV-Kenntnisse

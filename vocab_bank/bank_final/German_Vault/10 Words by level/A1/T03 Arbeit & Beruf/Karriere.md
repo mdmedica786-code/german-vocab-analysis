@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 2a"
 freq_rank: 2859
 skip: false
+audio: "Karriere.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Karriere
+
+![[Karriere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Karriere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karriere&language=de)
 
 **Meaning:** career
 **Plural:** Karrieren

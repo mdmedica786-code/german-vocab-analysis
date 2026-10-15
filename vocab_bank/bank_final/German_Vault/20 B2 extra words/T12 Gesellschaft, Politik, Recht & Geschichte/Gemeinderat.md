@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0499"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Gemeinderat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gemeinderat
+
+![[Gemeinderat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gemeinderat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinderat&language=de)
 
 **Meaning:** municipal council
 **Plural:** Gemeinderäte

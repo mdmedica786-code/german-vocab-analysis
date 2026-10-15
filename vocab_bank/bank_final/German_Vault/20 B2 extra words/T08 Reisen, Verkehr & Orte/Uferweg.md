@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4514"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Uferweg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Uferweg
+
+![[Uferweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Uferweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uferweg&language=de)
 
 **Meaning:** riverside path; path along the shore
 **Plural:** Uferwege

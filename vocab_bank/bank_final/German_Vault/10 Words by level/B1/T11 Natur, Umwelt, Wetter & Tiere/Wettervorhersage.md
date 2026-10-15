@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 11b"
 freq_rank: 5759
 skip: false
+audio: "Wettervorhersage.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wettervorhersage
+
+![[Wettervorhersage.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wettervorhersage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wettervorhersage&language=de)
 
 **Meaning:** weather forecast
 **Plural:** Wettervorhersagen

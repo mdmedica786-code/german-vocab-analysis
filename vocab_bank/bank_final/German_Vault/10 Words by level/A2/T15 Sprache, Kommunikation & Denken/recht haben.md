@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 2"
 freq_rank: 3000
 skip: false
+audio: "recht haben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # recht haben
+
+![[recht haben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/recht%20haben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recht%20haben&language=de)
 
 **Meaning:** to be right
 **Forms:** hat recht · hatte recht · hat recht gehabt

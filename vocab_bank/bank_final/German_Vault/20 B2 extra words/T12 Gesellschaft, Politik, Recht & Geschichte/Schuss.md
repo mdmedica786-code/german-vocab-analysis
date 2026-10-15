@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2667"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Schuss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schuss
+
+![[Schuss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuss&language=de)
 
 **Meaning:** shot; dash (of liquid)
 **Plural:** Schüsse

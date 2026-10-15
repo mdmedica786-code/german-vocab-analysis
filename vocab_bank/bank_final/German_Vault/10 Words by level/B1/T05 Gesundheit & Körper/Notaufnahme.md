@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Notaufnahme.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Notaufnahme
+
+![[Notaufnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notaufnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notaufnahme&language=de)
 
 **Meaning:** emergency room
 **Plural:** Notaufnahmen

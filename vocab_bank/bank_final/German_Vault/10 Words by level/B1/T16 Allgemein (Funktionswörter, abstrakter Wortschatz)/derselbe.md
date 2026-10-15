@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 3b"
 freq_rank: 294
 skip: false
+audio: "derselbe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # derselbe
+
+![[derselbe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/derselbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=derselbe&language=de)
 
 **Meaning:** the same
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

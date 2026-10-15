@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Station
 
+[▶️ YouGlish](https://youglish.com/pronounce/Station/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Station&language=de)
+
 **Meaning:** station
 **Plural:** Stationen
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

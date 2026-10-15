@@ -15,11 +15,16 @@ id: "B2889"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "Führerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Führerin
+
+![[Führerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrerin&language=de)
 
 **Meaning:** guide (f); leader
 **Plural:** Führerinnen

@@ -13,11 +13,16 @@ id: "B4714"
 netzwerk: "B1 K9 13b"
 freq_rank: 5759
 skip: false
+audio: "vorbeifliegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorbeifliegen
+
+![[vorbeifliegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorbeifliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorbeifliegen&language=de)
 
 **Meaning:** to fly past
 **Forms:** fliegt vorbei · flog vorbei · ist vorbeigeflogen

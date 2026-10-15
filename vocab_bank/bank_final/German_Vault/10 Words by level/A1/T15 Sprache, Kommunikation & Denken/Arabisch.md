@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Arabisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Arabisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arabisch&language=de)
+
 **Meaning:** Arabic
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

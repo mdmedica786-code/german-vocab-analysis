@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4459"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Startup.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Startup
+
+![[Startup.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Startup/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Startup&language=de)
 
 **Meaning:** start-up (company)
 **Plural:** Startups

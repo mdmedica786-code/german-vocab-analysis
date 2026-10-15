@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 1233
 skip: false
+audio: "sichtbar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # sichtbar
+
+![[sichtbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sichtbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sichtbar&language=de)
 
 **Meaning:** visible
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

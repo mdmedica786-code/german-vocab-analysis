@@ -11,11 +11,16 @@ bank: "main"
 id: "B5214"
 freq_rank: 832
 skip: false
+audio: "entweder.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # entweder
+
+![[entweder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entweder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entweder&language=de)
 
 **Meaning:** either (entweder ... oder)
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

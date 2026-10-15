@@ -15,11 +15,16 @@ id: "B4420"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Bademantel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bademantel
+
+![[Bademantel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bademantel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bademantel&language=de)
 
 **Meaning:** bathrobe
 **Plural:** Bademäntel

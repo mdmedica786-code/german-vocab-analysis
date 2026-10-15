@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 9d"
 freq_rank: 1283
 skip: false
+audio: "seltsam.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # seltsam
+
+![[seltsam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seltsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seltsam&language=de)
 
 **Meaning:** odd
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

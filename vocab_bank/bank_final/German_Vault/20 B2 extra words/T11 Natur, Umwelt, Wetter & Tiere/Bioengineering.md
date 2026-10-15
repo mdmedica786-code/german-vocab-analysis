@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3815"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Bioengineering
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bioengineering/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bioengineering&language=de)
 
 **Meaning:** bioengineering
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B5127"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Sozialsiedlung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sozialsiedlung
+
+![[Sozialsiedlung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialsiedlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialsiedlung&language=de)
 
 **Meaning:** social housing project
 **Plural:** Sozialsiedlungen

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 1302
 skip: false
+audio: "niedrig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # niedrig
+
+![[niedrig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/niedrig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niedrig&language=de)
 
 **Meaning:** low
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

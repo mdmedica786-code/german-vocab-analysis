@@ -15,11 +15,16 @@ id: "B1699"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Individualist.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Individualist
+
+![[Individualist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Individualist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Individualist&language=de)
 
 **Meaning:** individualist (m)
 **Plural:** Individualisten

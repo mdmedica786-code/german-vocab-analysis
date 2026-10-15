@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1138"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Lebensgefährte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lebensgefährte
+
+![[Lebensgefährte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensgef%C3%A4hrte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensgef%C3%A4hrte&language=de)
 
 **Meaning:** life partner
 **Plural:** Lebensgefährten

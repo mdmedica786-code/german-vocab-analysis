@@ -12,11 +12,16 @@ id: "B4366"
 netzwerk: "B1 K8 1a"
 freq_rank: 5759
 skip: false
+audio: "eiskalt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # eiskalt
+
+![[eiskalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eiskalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eiskalt&language=de)
 
 **Meaning:** ice cold
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

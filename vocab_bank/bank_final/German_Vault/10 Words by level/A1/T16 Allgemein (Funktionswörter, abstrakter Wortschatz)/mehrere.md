@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 6a"
 freq_rank: 380
 skip: false
+audio: "mehrere.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # mehrere
+
+![[mehrere.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mehrere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mehrere&language=de)
 
 **Meaning:** several
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

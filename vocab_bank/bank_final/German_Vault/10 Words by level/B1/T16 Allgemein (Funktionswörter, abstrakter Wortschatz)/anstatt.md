@@ -11,11 +11,16 @@ bank: "main"
 id: "B5518"
 freq_rank: 2201
 skip: false
+audio: "anstatt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # anstatt
+
+![[anstatt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anstatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstatt&language=de)
 
 **Meaning:** instead of
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0615"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Rundfunk.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rundfunk
+
+![[Rundfunk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rundfunk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rundfunk&language=de)
 
 **Meaning:** broadcasting; radio
 **Plural:** –

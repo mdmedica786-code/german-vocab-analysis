@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 10b"
 freq_rank: 143
 skip: false
+audio: "bringen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bringen
+
+![[bringen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bringen&language=de)
 
 **Meaning:** to bring
 **Forms:** bringt · brachte · hat gebracht

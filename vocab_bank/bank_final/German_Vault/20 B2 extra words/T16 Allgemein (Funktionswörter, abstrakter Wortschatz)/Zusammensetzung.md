@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2728"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Zusammensetzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zusammensetzung
+
+![[Zusammensetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusammensetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammensetzung&language=de)
 
 **Meaning:** composition; make-up
 **Plural:** Zusammensetzungen

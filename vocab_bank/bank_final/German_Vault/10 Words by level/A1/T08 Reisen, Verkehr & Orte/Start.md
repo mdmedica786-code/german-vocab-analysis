@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 8"
 freq_rank: 3338
 skip: false
+audio: "Start.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Start
+
+![[Start.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Start/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Start&language=de)
 
 **Meaning:** start; take-off
 **Plural:** Starts

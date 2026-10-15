@@ -12,11 +12,16 @@ id: "B5471"
 goethe_level: "A2"
 freq_rank: 2040
 skip: false
+audio: "herein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herein
+
+![[herein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herein&language=de)
 
 **Meaning:** in; come in
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

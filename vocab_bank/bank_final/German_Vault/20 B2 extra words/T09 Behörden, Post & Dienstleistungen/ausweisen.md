@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3616"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "ausweisen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausweisen
+
+![[ausweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausweisen&language=de)
 
 **Meaning:** to expel; to identify; (sich) to prove one's identity
 **Forms:** weist aus · wies aus · hat ausgewiesen

@@ -13,11 +13,16 @@ id: "B1302"
 netzwerk: "A1 K8 12b"
 freq_rank: 5759
 skip: false
+audio: "inhalieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # inhalieren
+
+![[inhalieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/inhalieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inhalieren&language=de)
 
 **Meaning:** to inhale
 **Forms:** inhaliert · inhalierte · hat inhaliert

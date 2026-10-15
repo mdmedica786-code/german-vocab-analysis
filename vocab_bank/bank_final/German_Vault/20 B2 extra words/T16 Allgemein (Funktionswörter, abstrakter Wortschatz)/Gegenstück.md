@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0358"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gegenstück.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gegenstück
+
+![[Gegenstück.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegenst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenst%C3%BCck&language=de)
 
 **Meaning:** counterpart; opposite
 **Plural:** Gegenstücke

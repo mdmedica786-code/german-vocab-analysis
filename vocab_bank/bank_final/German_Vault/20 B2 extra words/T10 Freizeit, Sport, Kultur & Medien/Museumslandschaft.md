@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4249"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Museumslandschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Museumslandschaft
+
+![[Museumslandschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Museumslandschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museumslandschaft&language=de)
 
 **Meaning:** museum landscape; range of museums
 **Plural:** Museumslandschaften

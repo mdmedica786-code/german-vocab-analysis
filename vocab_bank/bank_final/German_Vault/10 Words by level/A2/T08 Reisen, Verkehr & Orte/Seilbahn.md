@@ -15,11 +15,16 @@ id: "B2626"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Seilbahn.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Seilbahn
+
+![[Seilbahn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seilbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seilbahn&language=de)
 
 **Meaning:** cable car
 **Plural:** Seilbahnen

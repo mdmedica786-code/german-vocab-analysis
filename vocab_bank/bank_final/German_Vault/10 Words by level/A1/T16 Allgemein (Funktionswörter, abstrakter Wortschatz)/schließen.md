@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 333
 skip: false
+audio: "schließen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schließen
+
+![[schließen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlie%C3%9Fen&language=de)
 
 **Meaning:** to close; to conclude; to lock
 **Forms:** schließt · schloss · hat geschlossen

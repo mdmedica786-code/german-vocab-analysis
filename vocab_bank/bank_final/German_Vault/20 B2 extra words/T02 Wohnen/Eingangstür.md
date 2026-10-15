@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3597"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Eingangstür.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eingangstür
+
+![[Eingangstür.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eingangst%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eingangst%C3%BCr&language=de)
 
 **Meaning:** front door; entrance door
 **Plural:** Eingangstüren

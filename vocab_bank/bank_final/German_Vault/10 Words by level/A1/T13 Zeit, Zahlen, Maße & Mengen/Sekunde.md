@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 15b"
 freq_rank: 930
 skip: false
+audio: "Sekunde.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sekunde
+
+![[Sekunde.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sekunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekunde&language=de)
 
 **Meaning:** second
 **Plural:** Sekunden

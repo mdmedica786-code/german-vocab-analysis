@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 12a"
 freq_rank: 3017
 skip: false
+audio: "Hauptstadt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauptstadt
+
+![[Hauptstadt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptstadt&language=de)
 
 **Meaning:** capital city
 **Plural:** Hauptstädte

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 7a"
 freq_rank: 712
 skip: false
+audio: "Mitglied.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mitglied
+
+![[Mitglied.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitglied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitglied&language=de)
 
 **Meaning:** member
 **Plural:** Mitglieder

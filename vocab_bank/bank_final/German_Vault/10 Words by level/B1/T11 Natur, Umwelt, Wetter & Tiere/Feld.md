@@ -15,11 +15,16 @@ id: "B5217"
 goethe_level: "B1"
 freq_rank: 852
 skip: false
+audio: "Feld.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Feld
+
+![[Feld.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feld&language=de)
 
 **Meaning:** field
 **Plural:** Felder

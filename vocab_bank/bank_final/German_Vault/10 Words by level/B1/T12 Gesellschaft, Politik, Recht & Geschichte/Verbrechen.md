@@ -15,11 +15,16 @@ id: "B3745"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 2480
 skip: false
+audio: "Verbrechen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verbrechen
+
+![[Verbrechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbrechen&language=de)
 
 **Meaning:** crime
 **Plural:** Verbrechen

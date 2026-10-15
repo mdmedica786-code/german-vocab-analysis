@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0646"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Elektroauto.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Elektroauto
+
+![[Elektroauto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elektroauto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroauto&language=de)
 
 **Meaning:** electric car
 **Plural:** Elektroautos

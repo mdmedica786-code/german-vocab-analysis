@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0028"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "gewissermaßen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewissermaßen
+
+![[gewissermaßen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gewisserma%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gewisserma%C3%9Fen&language=de)
 
 **Meaning:** so to speak; in a way
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

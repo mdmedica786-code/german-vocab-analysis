@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # wen
 
+[▶️ YouGlish](https://youglish.com/pronounce/wen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wen&language=de)
+
 **Meaning:** whom
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

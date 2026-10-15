@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 13a"
 freq_rank: 3246
 skip: false
+audio: "Einwohner.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einwohner
+
+![[Einwohner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einwohner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwohner&language=de)
 
 **Meaning:** inhabitant (m)
 **Plural:** Einwohner

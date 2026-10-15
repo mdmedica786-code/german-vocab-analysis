@@ -15,11 +15,16 @@ id: "B2058"
 netzwerk: "A2 K2 12a"
 freq_rank: 5759
 skip: false
+audio: "Klassenzimmer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klassenzimmer
+
+![[Klassenzimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klassenzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klassenzimmer&language=de)
 
 **Meaning:** classroom
 **Plural:** Klassenzimmer

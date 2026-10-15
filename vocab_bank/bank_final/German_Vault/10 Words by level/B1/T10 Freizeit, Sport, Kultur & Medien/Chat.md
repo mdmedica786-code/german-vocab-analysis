@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 4a"
 freq_rank: 2000
 skip: false
+audio: "Chat.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Chat
+
+![[Chat.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chat&language=de)
 
 **Meaning:** chat
 **Plural:** Chats

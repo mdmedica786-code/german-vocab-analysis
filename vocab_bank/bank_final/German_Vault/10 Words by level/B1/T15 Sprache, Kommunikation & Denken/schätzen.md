@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1357
 skip: false
+audio: "schätzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schätzen
+
+![[schätzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4tzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4tzen&language=de)
 
 **Meaning:** to guess
 **Other senses:** to value

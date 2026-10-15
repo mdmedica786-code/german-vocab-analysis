@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4101"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Katzenklo.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Katzenklo
+
+![[Katzenklo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Katzenklo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katzenklo&language=de)
 
 **Meaning:** cat litter tray; cat toilet
 **Plural:** Katzenklos

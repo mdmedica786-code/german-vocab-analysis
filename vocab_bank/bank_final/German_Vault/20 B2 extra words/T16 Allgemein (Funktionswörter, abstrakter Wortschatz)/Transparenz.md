@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2980"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Transparenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Transparenz
+
+![[Transparenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Transparenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transparenz&language=de)
 
 **Meaning:** transparency
 **Plural:** –

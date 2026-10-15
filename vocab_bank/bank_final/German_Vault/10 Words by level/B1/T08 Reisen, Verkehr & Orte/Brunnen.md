@@ -15,11 +15,16 @@ id: "B4555"
 netzwerk: "B1 K9 1b"
 freq_rank: 3568
 skip: false
+audio: "Brunnen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Brunnen
+
+![[Brunnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brunnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brunnen&language=de)
 
 **Meaning:** fountain; well
 **Plural:** Brunnen

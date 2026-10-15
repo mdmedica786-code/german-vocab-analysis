@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3854"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Dachterrassenwohnung
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dachterrassenwohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dachterrassenwohnung&language=de)
 
 **Meaning:** apartment with a roof terrace
 **Plural:** Dachterrassenwohnungen

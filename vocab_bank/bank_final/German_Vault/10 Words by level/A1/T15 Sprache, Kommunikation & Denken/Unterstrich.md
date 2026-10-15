@@ -15,11 +15,16 @@ id: "B0151"
 netzwerk: "A1 K1 7b"
 freq_rank: 5759
 skip: false
+audio: "Unterstrich.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Unterstrich
+
+![[Unterstrich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterstrich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterstrich&language=de)
 
 **Meaning:** underscore
 **Plural:** Unterstriche

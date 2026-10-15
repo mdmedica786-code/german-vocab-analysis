@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 10a"
 freq_rank: 456
 skip: false
+audio: "schlecht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlecht
+
+![[schlecht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlecht&language=de)
 
 **Meaning:** bad
 **Forms:** schlechter – am schlechtesten

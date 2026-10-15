@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Rätoromanisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%A4toromanisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%A4toromanisch&language=de)
+
 **Meaning:** Romansh
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -12,11 +12,16 @@ bank: "main"
 id: "B5239"
 freq_rank: 1010
 skip: false
+audio: "aussagen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aussagen
+
+![[aussagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aussagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aussagen&language=de)
 
 **Meaning:** to testify; to state
 **Forms:** sagt aus · sagte aus · hat ausgesagt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1665"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verbittert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbittert
+
+![[verbittert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbittert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbittert&language=de)
 
 **Meaning:** embittered; bitter
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

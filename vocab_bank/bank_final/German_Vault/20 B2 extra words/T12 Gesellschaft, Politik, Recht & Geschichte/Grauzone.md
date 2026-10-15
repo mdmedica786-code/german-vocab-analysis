@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1492"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Grauzone.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grauzone
+
+![[Grauzone.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grauzone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grauzone&language=de)
 
 **Meaning:** grey area
 **Plural:** Grauzonen

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 11b"
 freq_rank: 1445
 skip: false
+audio: "Grad.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Grad
+
+![[Grad.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grad&language=de)
 
 **Meaning:** degree
 **Plural:** Grade

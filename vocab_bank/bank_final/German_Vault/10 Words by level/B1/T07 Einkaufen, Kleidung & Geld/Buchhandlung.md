@@ -15,11 +15,16 @@ id: "B6228"
 goethe_level: "B1"
 freq_rank: 4958
 skip: false
+audio: "Buchhandlung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Buchhandlung
+
+![[Buchhandlung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchhandlung&language=de)
 
 **Meaning:** bookshop
 **Plural:** Buchhandlungen

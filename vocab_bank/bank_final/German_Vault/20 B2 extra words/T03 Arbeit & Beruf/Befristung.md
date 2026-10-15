@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0405"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Befristung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Befristung
+
+![[Befristung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Befristung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befristung&language=de)
 
 **Meaning:** time limit; fixed term
 **Plural:** Befristungen

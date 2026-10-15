@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 11"
 freq_rank: 2420
 skip: false
+audio: "waschen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # waschen
+
+![[waschen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/waschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=waschen&language=de)
 
 **Meaning:** to wash
 **Forms:** wäscht · wusch · hat gewaschen

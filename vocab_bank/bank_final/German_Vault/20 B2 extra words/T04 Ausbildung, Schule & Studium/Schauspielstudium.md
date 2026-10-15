@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4381"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Schauspielstudium
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schauspielstudium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schauspielstudium&language=de)
 
 **Meaning:** acting studies; drama degree
 **Plural:** –

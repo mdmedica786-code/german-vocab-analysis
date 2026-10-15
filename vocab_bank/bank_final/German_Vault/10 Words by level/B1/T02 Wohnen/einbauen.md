@@ -13,11 +13,16 @@ id: "B4364"
 netzwerk: "B1 K8 1a"
 freq_rank: 5425
 skip: false
+audio: "einbauen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einbauen
+
+![[einbauen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einbauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einbauen&language=de)
 
 **Meaning:** to build in
 **Forms:** baut ein · baute ein · hat eingebaut

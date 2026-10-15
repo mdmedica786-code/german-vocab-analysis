@@ -12,11 +12,16 @@ id: "B3492"
 netzwerk: "B1 K2 10b"
 freq_rank: 976
 skip: false
+audio: "überrascht.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # überrascht
+
+![[überrascht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberrascht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberrascht&language=de)
 
 **Meaning:** surprised
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

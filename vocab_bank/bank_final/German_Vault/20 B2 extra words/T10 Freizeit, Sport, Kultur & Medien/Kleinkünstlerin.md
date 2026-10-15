@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4108"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Kleinkünstlerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kleinkünstlerin
+
+![[Kleinkünstlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleink%C3%BCnstlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleink%C3%BCnstlerin&language=de)
 
 **Meaning:** cabaret performer; small-stage artist (female)
 **Plural:** Kleinkünstlerinnen

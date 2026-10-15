@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0667"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Gletscher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gletscher
+
+![[Gletscher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gletscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gletscher&language=de)
 
 **Meaning:** glacier
 **Plural:** Gletscher

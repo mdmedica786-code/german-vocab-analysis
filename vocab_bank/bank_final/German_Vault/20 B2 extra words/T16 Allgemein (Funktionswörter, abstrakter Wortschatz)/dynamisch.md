@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2675"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "dynamisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # dynamisch
+
+![[dynamisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dynamisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dynamisch&language=de)
 
 **Meaning:** dynamic
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

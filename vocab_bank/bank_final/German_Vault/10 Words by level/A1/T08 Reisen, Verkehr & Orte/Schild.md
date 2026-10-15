@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 11b ÜB"
 freq_rank: 3198
 skip: false
+audio: "Schild.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schild
+
+![[Schild.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schild&language=de)
 
 **Meaning:** sign
 **Plural:** Schilder

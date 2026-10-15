@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 3a"
 freq_rank: 307
 skip: false
+audio: "Herz.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Herz
+
+![[Herz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herz&language=de)
 
 **Meaning:** heart
 **Plural:** Herzen

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 13b"
 freq_rank: 329
 skip: false
+audio: "überhaupt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überhaupt
+
+![[überhaupt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberhaupt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberhaupt&language=de)
 
 **Meaning:** at all
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

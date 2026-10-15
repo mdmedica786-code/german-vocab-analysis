@@ -15,11 +15,16 @@ id: "B1305"
 netzwerk: "A1 K8 12b"
 freq_rank: 5759
 skip: false
+audio: "Schlaftablette.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlaftablette
+
+![[Schlaftablette.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlaftablette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlaftablette&language=de)
 
 **Meaning:** sleeping pill
 **Plural:** Schlaftabletten

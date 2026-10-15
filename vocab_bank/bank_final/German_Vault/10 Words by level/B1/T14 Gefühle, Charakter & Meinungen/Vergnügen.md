@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 12a"
 freq_rank: 2388
 skip: false
+audio: "vergnügen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vergnügen
+
+![[vergnügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vergn%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vergn%C3%BCgen&language=de)
 
 **Meaning:** enjoyment, delight
 **Plural:** Vergnügen

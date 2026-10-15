@@ -13,11 +13,16 @@ id: "B4413"
 netzwerk: "B1 K8 4b"
 freq_rank: 5759
 skip: false
+audio: "kämmen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kämmen
+
+![[kämmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%A4mmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%A4mmen&language=de)
 
 **Meaning:** to comb
 **Forms:** kämmt sich · kämmte sich · hat sich gekämmt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1500"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Leichtsinn.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leichtsinn
+
+![[Leichtsinn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leichtsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leichtsinn&language=de)
 
 **Meaning:** recklessness; carelessness
 **Plural:** –

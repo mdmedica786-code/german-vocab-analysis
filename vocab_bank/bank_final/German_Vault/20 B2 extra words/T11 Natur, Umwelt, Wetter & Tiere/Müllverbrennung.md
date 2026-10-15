@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0702"
 exam_use: ["Lesen"]
 skip: false
+audio: "Müllverbrennung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Müllverbrennung
+
+![[Müllverbrennung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllverbrennung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllverbrennung&language=de)
 
 **Meaning:** waste incineration
 **Plural:** –

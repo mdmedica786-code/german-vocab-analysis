@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4206"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Lyrikerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lyrikerin
+
+![[Lyrikerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lyrikerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lyrikerin&language=de)
 
 **Meaning:** poet; lyric poet (female)
 **Plural:** Lyrikerinnen

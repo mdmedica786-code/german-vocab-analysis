@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3823"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Bravo.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/particle", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # Bravo
+
+![[Bravo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bravo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bravo&language=de)
 
 **Meaning:** bravo; well done
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

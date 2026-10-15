@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2849"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Praktik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Praktik
+
+![[Praktik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Praktik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Praktik&language=de)
 
 **Meaning:** practice; method
 **Plural:** Praktiken

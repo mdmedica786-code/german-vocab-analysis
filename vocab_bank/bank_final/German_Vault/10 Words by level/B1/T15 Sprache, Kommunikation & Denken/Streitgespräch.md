@@ -15,11 +15,16 @@ id: "B4276"
 netzwerk: "B1 K7 9a"
 freq_rank: 5759
 skip: false
+audio: "Streitgespräch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Streitgespräch
+
+![[Streitgespräch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streitgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streitgespr%C3%A4ch&language=de)
 
 **Meaning:** debate; argument
 **Plural:** Streitgespräche

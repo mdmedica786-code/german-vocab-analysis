@@ -15,11 +15,16 @@ id: "B3921"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 1463
 skip: false
+audio: "Ressource.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ressource
+
+![[Ressource.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ressource/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ressource&language=de)
 
 **Meaning:** resource
 **Plural:** Ressourcen

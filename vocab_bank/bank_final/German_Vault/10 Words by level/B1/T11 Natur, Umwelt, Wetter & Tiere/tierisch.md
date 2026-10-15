@@ -12,11 +12,16 @@ id: "B4574"
 netzwerk: "B1 K9 3a"
 freq_rank: 5759
 skip: false
+audio: "tierisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # tierisch
+
+![[tierisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tierisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tierisch&language=de)
 
 **Meaning:** animal; animal-based
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

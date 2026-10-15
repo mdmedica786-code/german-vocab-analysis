@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3741"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "aufreißen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # aufreißen
+
+![[aufreißen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufrei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrei%C3%9Fen&language=de)
 
 **Meaning:** to tear open; to rip open; to throw open
 **Forms:** reißt auf · riss auf · hat aufgerissen

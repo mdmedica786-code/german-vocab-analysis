@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3636"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Sonnenuntergang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonnenuntergang
+
+![[Sonnenuntergang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonnenuntergang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenuntergang&language=de)
 
 **Meaning:** sunset
 **Plural:** Sonnenuntergänge

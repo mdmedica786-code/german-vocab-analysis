@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Sportteam
 
+[▶️ YouGlish](https://youglish.com/pronounce/Sportteam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportteam&language=de)
+
 **Meaning:** sports team
 **Plural:** Sportteams
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

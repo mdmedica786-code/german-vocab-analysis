@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 11c"
 freq_rank: 523
 skip: false
+audio: "still.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # still
+
+![[still.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/still/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=still&language=de)
 
 **Meaning:** silent
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

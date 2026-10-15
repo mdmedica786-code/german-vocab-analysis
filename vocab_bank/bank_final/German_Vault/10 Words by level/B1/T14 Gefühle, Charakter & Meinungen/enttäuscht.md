@@ -12,11 +12,16 @@ id: "B3303"
 netzwerk: "B1 K1 8b"
 freq_rank: 1211
 skip: false
+audio: "enttäuscht.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # enttäuscht
+
+![[enttäuscht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entt%C3%A4uscht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entt%C3%A4uscht&language=de)
 
 **Meaning:** disappointed
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

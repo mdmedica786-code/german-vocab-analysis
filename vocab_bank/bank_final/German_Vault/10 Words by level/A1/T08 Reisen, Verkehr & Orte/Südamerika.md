@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Südamerika
 
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%BCdamerika/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BCdamerika&language=de)
+
 **Meaning:** South America
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

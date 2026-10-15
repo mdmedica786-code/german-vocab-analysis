@@ -15,11 +15,16 @@ id: "B2603"
 netzwerk: "A2 K7 9a"
 freq_rank: 5759
 skip: false
+audio: "Platzreservierung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Platzreservierung
+
+![[Platzreservierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Platzreservierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platzreservierung&language=de)
 
 **Meaning:** seat reservation
 **Plural:** Platzreservierungen

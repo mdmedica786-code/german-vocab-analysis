@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1925"
 exam_use: ["Sprechen", "Hören"]
 skip: false
+audio: "Hochdeutsch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hochdeutsch
+
+![[Hochdeutsch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochdeutsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochdeutsch&language=de)
 
 **Meaning:** standard German
 **Plural:** –

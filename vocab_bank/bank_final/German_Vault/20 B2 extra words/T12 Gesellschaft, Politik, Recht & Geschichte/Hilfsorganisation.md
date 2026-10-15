@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1874"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Hilfsorganisation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hilfsorganisation
+
+![[Hilfsorganisation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hilfsorganisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfsorganisation&language=de)
 
 **Meaning:** aid organisation
 **Plural:** Hilfsorganisationen

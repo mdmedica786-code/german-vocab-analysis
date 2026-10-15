@@ -15,11 +15,16 @@ id: "B3224"
 netzwerk: "A2 K12 10a"
 freq_rank: 4386
 skip: false
+audio: "Malerei.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Malerei
+
+![[Malerei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Malerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Malerei&language=de)
 
 **Meaning:** painting
 **Plural:** Malereien

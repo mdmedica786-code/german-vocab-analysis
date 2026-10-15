@@ -11,11 +11,16 @@ bank: "main"
 id: "B5582"
 freq_rank: 2408
 skip: false
+audio: "aufeinander.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufeinander
+
+![[aufeinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufeinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufeinander&language=de)
 
 **Meaning:** on top of each other; one another
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

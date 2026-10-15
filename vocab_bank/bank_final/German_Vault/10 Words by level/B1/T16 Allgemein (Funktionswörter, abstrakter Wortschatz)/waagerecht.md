@@ -12,11 +12,16 @@ id: "B6601"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "waagerecht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # waagerecht
+
+![[waagerecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/waagerecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=waagerecht&language=de)
 
 **Meaning:** horizontal
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

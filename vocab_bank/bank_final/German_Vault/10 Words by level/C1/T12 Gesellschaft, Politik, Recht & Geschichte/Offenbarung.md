@@ -14,11 +14,16 @@ bank: "main"
 id: "B5983"
 freq_rank: 3797
 skip: false
+audio: "Offenbarung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Offenbarung
+
+![[Offenbarung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Offenbarung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Offenbarung&language=de)
 
 **Meaning:** revelation
 **Plural:** Offenbarungen

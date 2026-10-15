@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 2779
 skip: false
+audio: "Versicherung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Versicherung
+
+![[Versicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherung&language=de)
 
 **Meaning:** insurance
 **Plural:** Versicherungen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 869
 skip: false
+audio: "Chance.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Chance
+
+![[Chance.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chance&language=de)
 
 **Meaning:** opportunity
 **Plural:** Chancen

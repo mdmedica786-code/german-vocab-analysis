@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1961
 skip: false
+audio: "Held.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Held
+
+![[Held.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Held/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Held&language=de)
 
 **Meaning:** hero (m)
 **Plural:** Helden

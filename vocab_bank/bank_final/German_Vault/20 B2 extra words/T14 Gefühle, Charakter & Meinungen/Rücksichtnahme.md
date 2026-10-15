@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1127"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Rücksichtnahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rücksichtnahme
+
+![[Rücksichtnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCcksichtnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCcksichtnahme&language=de)
 
 **Meaning:** consideration for others
 **Plural:** –

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Willkür
 
+[▶️ YouGlish](https://youglish.com/pronounce/Willk%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Willk%C3%BCr&language=de)
+
 **Meaning:** arbitrariness; despotism
 **Plural:** –
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

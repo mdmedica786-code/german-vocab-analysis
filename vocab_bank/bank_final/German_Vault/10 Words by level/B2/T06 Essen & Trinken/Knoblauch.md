@@ -14,11 +14,16 @@ bank: "main"
 id: "B6287"
 freq_rank: 5362
 skip: false
+audio: "Knoblauch.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Knoblauch
+
+![[Knoblauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Knoblauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knoblauch&language=de)
 
 **Meaning:** garlic
 **Plural:** –

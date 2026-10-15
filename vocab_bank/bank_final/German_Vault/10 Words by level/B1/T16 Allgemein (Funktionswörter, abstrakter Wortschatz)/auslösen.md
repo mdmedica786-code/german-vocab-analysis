@@ -13,11 +13,16 @@ id: "B4465"
 netzwerk: "B1 K8 6b"
 freq_rank: 2165
 skip: false
+audio: "auslösen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auslösen
+
+![[auslösen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausl%C3%B6sen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausl%C3%B6sen&language=de)
 
 **Meaning:** to trigger; to cause
 **Forms:** löst aus · löste aus · hat ausgelöst

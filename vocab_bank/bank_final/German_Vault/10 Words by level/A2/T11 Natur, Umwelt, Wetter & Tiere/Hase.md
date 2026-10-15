@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 10c"
 freq_rank: 5112
 skip: false
+audio: "Hase.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hase
+
+![[Hase.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hase&language=de)
 
 **Meaning:** rabbit
 **Plural:** Hasen

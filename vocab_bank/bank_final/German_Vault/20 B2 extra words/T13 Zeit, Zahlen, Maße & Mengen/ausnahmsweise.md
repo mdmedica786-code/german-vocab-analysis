@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3101"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "ausnahmsweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausnahmsweise
+
+![[ausnahmsweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausnahmsweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausnahmsweise&language=de)
 
 **Meaning:** as an exception; for once
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3445"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "antreffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # antreffen
+
+![[antreffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/antreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antreffen&language=de)
 
 **Meaning:** to find (someone); to come across
 **Forms:** trifft an · traf an · hat angetroffen

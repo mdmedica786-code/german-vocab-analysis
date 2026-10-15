@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4148"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kreisausschuss
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreisausschuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreisausschuss&language=de)
 
 **Meaning:** district committee
 **Plural:** Kreisausschüsse

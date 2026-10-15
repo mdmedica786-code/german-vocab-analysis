@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1372"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "vorerst.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorerst
+
+![[vorerst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorerst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorerst&language=de)
 
 **Meaning:** for the time being; for now
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

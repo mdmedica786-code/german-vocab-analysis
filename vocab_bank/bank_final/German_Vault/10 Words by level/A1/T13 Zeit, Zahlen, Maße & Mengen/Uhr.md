@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 11"
 freq_rank: 467
 skip: false
+audio: "Uhr.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Uhr
+
+![[Uhr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Uhr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uhr&language=de)
 
 **Meaning:** o'clock; clock; watch
 **Plural:** Uhren

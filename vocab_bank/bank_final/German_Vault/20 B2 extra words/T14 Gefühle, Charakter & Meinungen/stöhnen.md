@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1303"
 exam_use: ["Hören", "Sprechen"]
 skip: false
+audio: "stöhnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Hören", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # stöhnen
+
+![[stöhnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%B6hnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%B6hnen&language=de)
 
 **Meaning:** to groan; to moan
 **Forms:** stöhnt · stöhnte · hat gestöhnt

@@ -15,11 +15,16 @@ id: "B6429"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Fasnacht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fasnacht
+
+![[Fasnacht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fasnacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fasnacht&language=de)
 
 **Meaning:** carnival (Swiss, S. German)
 **Plural:** –

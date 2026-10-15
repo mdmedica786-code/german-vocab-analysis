@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1317"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "verleumden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # verleumden
+
+![[verleumden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verleumden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verleumden&language=de)
 
 **Meaning:** to slander; to defame
 **Forms:** verleumdet · verleumdete · hat verleumdet

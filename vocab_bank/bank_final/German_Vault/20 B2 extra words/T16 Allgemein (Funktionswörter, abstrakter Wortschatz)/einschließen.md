@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0237"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "einschließen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschließen
+
+![[einschließen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einschlie%C3%9Fen&language=de)
 
 **Meaning:** to include; to lock in
 **Forms:** schließt ein · schloss ein · hat eingeschlossen

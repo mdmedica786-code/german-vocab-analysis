@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 1869
 skip: false
+audio: "Förderung.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Förderung
+
+![[Förderung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%B6rderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%B6rderung&language=de)
 
 **Meaning:** funding
 **Plural:** Förderungen

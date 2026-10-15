@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 6a"
 freq_rank: 5443
 skip: false
+audio: "Tüte.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tüte
+
+![[Tüte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCte&language=de)
 
 **Meaning:** bag
 **Plural:** Tüten

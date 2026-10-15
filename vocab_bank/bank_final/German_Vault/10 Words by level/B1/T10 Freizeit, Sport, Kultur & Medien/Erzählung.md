@@ -15,11 +15,16 @@ id: "B5349"
 goethe_level: "B1"
 freq_rank: 1566
 skip: false
+audio: "Erzählung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erzählung
+
+![[Erzählung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erz%C3%A4hlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erz%C3%A4hlung&language=de)
 
 **Meaning:** story; narrative
 **Plural:** Erzählungen

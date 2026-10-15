@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0419"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Belegschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Belegschaft
+
+![[Belegschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Belegschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Belegschaft&language=de)
 
 **Meaning:** workforce; staff
 **Plural:** Belegschaften

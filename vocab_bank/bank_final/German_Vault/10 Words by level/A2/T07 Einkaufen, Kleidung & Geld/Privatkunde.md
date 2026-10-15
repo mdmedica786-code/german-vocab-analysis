@@ -15,11 +15,16 @@ id: "B3164"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Privatkunde.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Privatkunde
+
+![[Privatkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Privatkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Privatkunde&language=de)
 
 **Meaning:** private client
 **Plural:** Privatkunden

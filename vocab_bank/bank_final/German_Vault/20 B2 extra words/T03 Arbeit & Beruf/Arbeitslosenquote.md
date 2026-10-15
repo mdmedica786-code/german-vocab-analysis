@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0434"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Arbeitslosenquote.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitslosenquote
+
+![[Arbeitslosenquote.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitslosenquote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitslosenquote&language=de)
 
 **Meaning:** unemployment rate
 **Plural:** Arbeitslosenquoten

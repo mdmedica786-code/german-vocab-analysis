@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1590"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "gefährdet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # gefährdet
+
+![[gefährdet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gef%C3%A4hrdet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gef%C3%A4hrdet&language=de)
 
 **Meaning:** endangered; at risk
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

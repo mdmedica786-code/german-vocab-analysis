@@ -15,11 +15,16 @@ id: "B4672"
 netzwerk: "B1 K9 10d"
 freq_rank: 5759
 skip: false
+audio: "Detektivin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Detektivin
+
+![[Detektivin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Detektivin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Detektivin&language=de)
 
 **Meaning:** detective (f)
 **Plural:** Detektivinnen

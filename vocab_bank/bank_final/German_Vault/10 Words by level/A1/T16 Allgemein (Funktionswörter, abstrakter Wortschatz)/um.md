@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # um
 
+[▶️ YouGlish](https://youglish.com/pronounce/um/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=um&language=de)
+
 **Meaning:** at
 **Other senses:** for; around
 **Case:** + Akk.

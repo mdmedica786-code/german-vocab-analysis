@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # man
 
+[▶️ YouGlish](https://youglish.com/pronounce/man/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=man&language=de)
+
 **Meaning:** one
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

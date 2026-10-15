@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5b"
 freq_rank: 5188
 skip: false
+audio: "Garantie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Garantie
+
+![[Garantie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Garantie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Garantie&language=de)
 
 **Meaning:** guarantee; warranty
 **Plural:** Garantien

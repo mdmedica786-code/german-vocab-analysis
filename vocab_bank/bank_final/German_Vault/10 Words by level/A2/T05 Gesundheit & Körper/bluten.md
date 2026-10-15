@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "bluten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bluten
+
+![[bluten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bluten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bluten&language=de)
 
 **Meaning:** to bleed
 **Forms:** blutet · blutete · hat geblutet

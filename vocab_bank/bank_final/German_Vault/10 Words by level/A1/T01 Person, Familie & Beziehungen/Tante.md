@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 5a"
 freq_rank: 1533
 skip: false
+audio: "Tante.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tante
+
+![[Tante.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tante/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tante&language=de)
 
 **Meaning:** aunt
 **Plural:** Tanten

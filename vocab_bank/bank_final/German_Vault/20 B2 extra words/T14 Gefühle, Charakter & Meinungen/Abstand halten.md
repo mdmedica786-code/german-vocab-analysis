@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Abstand halten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Abstand%20halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstand%20halten&language=de)
+
 **Meaning:** to keep one's distance
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

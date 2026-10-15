@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6b"
 freq_rank: 2717
 skip: false
+audio: "markieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # markieren
+
+![[markieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/markieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=markieren&language=de)
 
 **Meaning:** to highlight
 **Forms:** markiert · markierte · hat markiert

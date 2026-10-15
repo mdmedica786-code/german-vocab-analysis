@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3920"
 exam_use: ["Wissenschaft", "Alltag"]
 skip: false
-status: "new"
+audio: "experimentieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Wissenschaft", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # experimentieren
+
+![[experimentieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/experimentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=experimentieren&language=de)
 
 **Meaning:** to experiment
 **Forms:** experimentiert · experimentierte · hat experimentiert

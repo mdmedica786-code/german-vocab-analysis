@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 5632
 skip: false
+audio: "circa.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # circa
+
+![[circa.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/circa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=circa&language=de)
 
 **Meaning:** approximately (= approx.)
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

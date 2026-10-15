@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # auf
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf&language=de)
+
 **Meaning:** on; onto; up
 **Other senses:** on; on; upon; open
 **Case:** + Akk.

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1064"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Versicherungsschutz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Versicherungsschutz
+
+![[Versicherungsschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versicherungsschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherungsschutz&language=de)
 
 **Meaning:** insurance coverage
 **Plural:** –

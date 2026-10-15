@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1212"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "ausbrechen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausbrechen
+
+![[ausbrechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausbrechen&language=de)
 
 **Meaning:** to break out; to erupt
 **Forms:** bricht aus · brach aus · ist ausgebrochen

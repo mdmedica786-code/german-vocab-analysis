@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4112"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "knüpfen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # knüpfen
+
+![[knüpfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kn%C3%BCpfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kn%C3%BCpfen&language=de)
 
 **Meaning:** to tie; to knot; to make (contacts)
 **Forms:** knüpft · knüpfte · hat geknüpft

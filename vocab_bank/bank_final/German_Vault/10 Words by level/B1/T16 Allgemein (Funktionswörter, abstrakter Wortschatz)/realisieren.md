@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 4a"
 freq_rank: 2230
 skip: false
+audio: "realisieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # realisieren
+
+![[realisieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/realisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=realisieren&language=de)
 
 **Meaning:** to realize
 **Forms:** realisiert · realisierte · hat realisiert

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Auszubildende.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Auszubildende
+
+![[Auszubildende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auszubildende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszubildende&language=de)
 
 **Meaning:** apprentice
 **Plural:** Auszubildenden

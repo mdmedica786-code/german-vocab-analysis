@@ -11,11 +11,16 @@ bank: "main"
 id: "B5557"
 freq_rank: 2326
 skip: false
+audio: "zustande.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zustande
+
+![[zustande.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zustande/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zustande&language=de)
 
 **Meaning:** about; into being (zustande kommen = to come about)
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

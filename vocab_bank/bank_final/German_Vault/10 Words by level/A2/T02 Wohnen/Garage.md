@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 5237
 skip: false
+audio: "Garage.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Garage
+
+![[Garage.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Garage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Garage&language=de)
 
 **Meaning:** garage
 **Plural:** Garagen

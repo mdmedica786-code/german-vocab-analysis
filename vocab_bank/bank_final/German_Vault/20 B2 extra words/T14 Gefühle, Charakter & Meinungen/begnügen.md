@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1228"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "begnügen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # begnügen
+
+![[begnügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begn%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begn%C3%BCgen&language=de)
 
 **Meaning:** to content oneself (with)
 **Forms:** begnügt sich · begnügte sich · hat sich begnügt

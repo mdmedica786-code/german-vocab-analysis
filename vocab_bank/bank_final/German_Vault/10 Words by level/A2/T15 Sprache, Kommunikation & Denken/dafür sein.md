@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 10c"
 freq_rank: 3000
 skip: false
+audio: "dafür sein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dafür sein
+
+![[dafür sein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/daf%C3%BCr%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=daf%C3%BCr%20sein&language=de)
 
 **Meaning:** to approve
 **Forms:** ist dafür · war dafür · ist dafür gewesen

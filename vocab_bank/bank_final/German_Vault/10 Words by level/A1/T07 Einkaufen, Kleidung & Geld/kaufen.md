@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2c"
 freq_rank: 949
 skip: false
+audio: "kaufen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kaufen
+
+![[kaufen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kaufen&language=de)
 
 **Meaning:** to buy
 **Forms:** kauft · kaufte · hat gekauft

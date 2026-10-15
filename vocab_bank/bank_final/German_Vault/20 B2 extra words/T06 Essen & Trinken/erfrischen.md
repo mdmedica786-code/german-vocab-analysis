@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1258"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "erfrischen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfrischen
+
+![[erfrischen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfrischen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfrischen&language=de)
 
 **Meaning:** to refresh
 **Forms:** erfrischt · erfrischte · hat erfrischt

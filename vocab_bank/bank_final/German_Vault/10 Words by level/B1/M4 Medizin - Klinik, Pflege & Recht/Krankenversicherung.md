@@ -14,11 +14,16 @@ bank: "main"
 id: "B6273"
 freq_rank: 5270
 skip: false
+audio: "Krankenversicherung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krankenversicherung
+
+![[Krankenversicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankenversicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenversicherung&language=de)
 
 **Meaning:** health insurance
 **Plural:** Krankenversicherungen

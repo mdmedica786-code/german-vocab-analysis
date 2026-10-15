@@ -13,11 +13,16 @@ id: "B1477"
 netzwerk: "A1 K10 1a"
 freq_rank: 4958
 skip: false
+audio: "segeln.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # segeln
+
+![[segeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/segeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=segeln&language=de)
 
 **Meaning:** to sail
 **Forms:** segelt · segelte · hat/ist gesegelt

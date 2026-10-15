@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 5746
 skip: false
+audio: "ausfüllen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausfüllen
+
+![[ausfüllen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausf%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausf%C3%BCllen&language=de)
 
 **Meaning:** to fill in
 **Other senses:** to fill (in)

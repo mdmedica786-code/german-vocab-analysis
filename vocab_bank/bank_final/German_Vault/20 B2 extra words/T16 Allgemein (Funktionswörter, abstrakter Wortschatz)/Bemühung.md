@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0305"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bemühung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bemühung
+
+![[Bemühung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bem%C3%BChung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bem%C3%BChung&language=de)
 
 **Meaning:** effort; endeavour
 **Plural:** Bemühungen

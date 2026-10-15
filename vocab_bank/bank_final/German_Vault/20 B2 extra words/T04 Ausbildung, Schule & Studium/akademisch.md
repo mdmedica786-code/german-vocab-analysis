@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3319"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "akademisch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # akademisch
+
+![[akademisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/akademisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=akademisch&language=de)
 
 **Meaning:** academic
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

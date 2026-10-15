@@ -12,11 +12,16 @@ id: "B6584"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Ukrainisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ukrainisch
+
+![[Ukrainisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ukrainisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ukrainisch&language=de)
 
 **Meaning:** Ukrainian
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

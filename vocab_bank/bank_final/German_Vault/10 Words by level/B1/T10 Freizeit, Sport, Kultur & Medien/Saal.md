@@ -15,11 +15,16 @@ id: "B5696"
 goethe_level: "B1"
 freq_rank: 2812
 skip: false
+audio: "Saal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Saal
+
+![[Saal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Saal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saal&language=de)
 
 **Meaning:** hall
 **Plural:** Säle

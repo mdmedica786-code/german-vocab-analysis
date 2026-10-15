@@ -15,11 +15,16 @@ id: "B3604"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Selbstständigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Selbstständigkeit
+
+![[Selbstständigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Selbstst%C3%A4ndigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstst%C3%A4ndigkeit&language=de)
 
 **Meaning:** independence
 **Plural:** –

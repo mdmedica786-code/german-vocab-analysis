@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3889"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Einrichtungsfrage
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einrichtungsfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einrichtungsfrage&language=de)
 
 **Meaning:** question of furnishing; interior design matter
 **Plural:** Einrichtungsfragen

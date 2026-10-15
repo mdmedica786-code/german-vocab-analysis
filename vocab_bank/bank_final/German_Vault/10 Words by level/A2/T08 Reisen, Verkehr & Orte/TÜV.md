@@ -15,11 +15,16 @@ id: "B2560"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 4958
 skip: false
+audio: "TÜV.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der TÜV
+
+![[TÜV.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%9CV/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%9CV&language=de)
 
 **Meaning:** MOT (test)
 **Plural:** –

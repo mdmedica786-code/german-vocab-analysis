@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2282"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Bilderrahmen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bilderrahmen
+
+![[Bilderrahmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bilderrahmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bilderrahmen&language=de)
 
 **Meaning:** picture frame
 **Plural:** Bilderrahmen

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Klavier-Experiment
 
+[▶️ YouGlish](https://youglish.com/pronounce/Klavier-Experiment/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klavier-Experiment&language=de)
+
 **Meaning:** piano experiment
 **Plural:** Klavier-Experimente
 **Level:** C1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

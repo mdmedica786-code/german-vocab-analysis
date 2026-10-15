@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Kindertagesstätte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kindertagesstätte
+
+![[Kindertagesstätte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kindertagesst%C3%A4tte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kindertagesst%C3%A4tte&language=de)
 
 **Meaning:** day-care centre (Kita)
 **Plural:** Kindertagesstätten

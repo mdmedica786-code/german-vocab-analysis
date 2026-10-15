@@ -12,11 +12,16 @@ id: "B2669"
 netzwerk: "A2 K8 1b"
 freq_rank: 5759
 skip: false
+audio: "pensioniert.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # pensioniert
+
+![[pensioniert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pensioniert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pensioniert&language=de)
 
 **Meaning:** retired
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

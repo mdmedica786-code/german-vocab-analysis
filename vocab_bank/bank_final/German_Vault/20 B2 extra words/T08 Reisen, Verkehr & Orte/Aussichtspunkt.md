@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1418"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Aussichtspunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aussichtspunkt
+
+![[Aussichtspunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussichtspunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussichtspunkt&language=de)
 
 **Meaning:** viewpoint; vantage point
 **Plural:** Aussichtspunkte

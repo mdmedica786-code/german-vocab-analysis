@@ -14,11 +14,16 @@ bank: "main"
 id: "B6332"
 freq_rank: 5729
 skip: false
+audio: "Psychologe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Psychologe
+
+![[Psychologe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Psychologe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychologe&language=de)
 
 **Meaning:** psychologist (m)
 **Plural:** Psychologen

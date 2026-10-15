@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3080"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Bewunderung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewunderung
+
+![[Bewunderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewunderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewunderung&language=de)
 
 **Meaning:** admiration
 **Plural:** –

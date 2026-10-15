@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zu Protokoll geben
 
+[▶️ YouGlish](https://youglish.com/pronounce/zu%20Protokoll%20geben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu%20Protokoll%20geben&language=de)
+
 **Meaning:** to put on record; to state officially
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

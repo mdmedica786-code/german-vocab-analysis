@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4560"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Urlaubszeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Urlaubszeit
+
+![[Urlaubszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubszeit&language=de)
 
 **Meaning:** holiday period; holiday season
 **Plural:** Urlaubszeiten

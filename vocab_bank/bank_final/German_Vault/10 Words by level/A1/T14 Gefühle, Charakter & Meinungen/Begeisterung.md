@@ -15,11 +15,16 @@ id: "B1427"
 netzwerk: "A1 K9 7a"
 freq_rank: 2930
 skip: false
+audio: "Begeisterung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begeisterung
+
+![[Begeisterung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begeisterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begeisterung&language=de)
 
 **Meaning:** enthusiasm
 **Plural:** –

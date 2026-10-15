@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Theatermacherin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Theatermacherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theatermacherin&language=de)
+
 **Meaning:** theatre maker (f)
 **Plural:** Theatermacherinnen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

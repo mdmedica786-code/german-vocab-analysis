@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 1a"
 freq_rank: 5759
 skip: false
+audio: "betreuen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betreuen
+
+![[betreuen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betreuen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betreuen&language=de)
 
 **Meaning:** to supervise
 **Forms:** betreut · betreute · hat betreut

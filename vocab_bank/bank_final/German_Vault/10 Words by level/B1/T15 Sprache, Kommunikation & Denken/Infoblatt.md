@@ -15,11 +15,16 @@ id: "B4439"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Infoblatt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Infoblatt
+
+![[Infoblatt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Infoblatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infoblatt&language=de)
 
 **Meaning:** fact sheet
 **Plural:** Infoblätter

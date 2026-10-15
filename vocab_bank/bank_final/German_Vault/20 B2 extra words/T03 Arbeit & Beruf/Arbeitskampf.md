@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0465"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Arbeitskampf.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitskampf
+
+![[Arbeitskampf.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitskampf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitskampf&language=de)
 
 **Meaning:** industrial action
 **Plural:** Arbeitskämpfe

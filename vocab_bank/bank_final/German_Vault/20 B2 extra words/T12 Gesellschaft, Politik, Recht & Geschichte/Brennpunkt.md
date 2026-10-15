@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1861"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Brennpunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Brennpunkt
+
+![[Brennpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brennpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brennpunkt&language=de)
 
 **Meaning:** focal point; trouble spot
 **Plural:** Brennpunkte

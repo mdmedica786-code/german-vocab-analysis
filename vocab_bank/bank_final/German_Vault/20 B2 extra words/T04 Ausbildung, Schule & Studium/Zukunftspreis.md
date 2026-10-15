@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4672"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Zukunftspreis
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zukunftspreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zukunftspreis&language=de)
 
 **Meaning:** future award; prize for innovation
 **Plural:** Zukunftspreise

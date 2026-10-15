@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0259"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "ansteigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansteigen
+
+![[ansteigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansteigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansteigen&language=de)
 
 **Meaning:** to rise; to go up
 **Forms:** steigt an · stieg an · ist angestiegen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1576"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "empört.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # empört
+
+![[empört.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/emp%C3%B6rt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=emp%C3%B6rt&language=de)
 
 **Meaning:** indignant; outraged
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

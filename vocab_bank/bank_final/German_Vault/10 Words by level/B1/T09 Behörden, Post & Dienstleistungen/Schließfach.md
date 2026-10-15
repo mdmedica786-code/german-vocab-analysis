@@ -15,11 +15,16 @@ id: "B4449"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Schließfach.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schließfach
+
+![[Schließfach.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlie%C3%9Ffach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlie%C3%9Ffach&language=de)
 
 **Meaning:** locker; safe-deposit box
 **Plural:** Schließfächer

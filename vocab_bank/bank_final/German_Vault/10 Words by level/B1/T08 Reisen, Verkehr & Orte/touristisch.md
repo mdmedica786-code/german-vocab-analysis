@@ -12,11 +12,16 @@ id: "B5132"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "touristisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # touristisch
+
+![[touristisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/touristisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=touristisch&language=de)
 
 **Meaning:** tourist (adj.)
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

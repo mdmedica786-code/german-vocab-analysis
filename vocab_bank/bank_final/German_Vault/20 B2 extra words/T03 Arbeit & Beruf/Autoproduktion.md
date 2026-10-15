@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3767"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Autoproduktion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Autoproduktion
+
+![[Autoproduktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autoproduktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoproduktion&language=de)
 
 **Meaning:** car production
 **Plural:** –

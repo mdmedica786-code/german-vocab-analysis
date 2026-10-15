@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 2786
 skip: false
+audio: "Ernährung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ernährung
+
+![[Ernährung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ern%C3%A4hrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ern%C3%A4hrung&language=de)
 
 **Meaning:** nutrition
 **Plural:** –

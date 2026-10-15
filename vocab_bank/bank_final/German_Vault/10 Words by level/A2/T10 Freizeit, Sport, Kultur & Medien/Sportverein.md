@@ -15,11 +15,16 @@ id: "B2839"
 netzwerk: "A2 K9 3a"
 freq_rank: 5759
 skip: false
+audio: "Sportverein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sportverein
+
+![[Sportverein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportverein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportverein&language=de)
 
 **Meaning:** sports club
 **Plural:** Sportvereine

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3698"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "adaptieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # adaptieren
+
+![[adaptieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/adaptieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=adaptieren&language=de)
 
 **Meaning:** to adapt; to modify
 **Forms:** adaptiert · adaptierte · hat adaptiert

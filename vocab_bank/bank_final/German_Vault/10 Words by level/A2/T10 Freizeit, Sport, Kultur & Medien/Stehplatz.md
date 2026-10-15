@@ -15,11 +15,16 @@ id: "B3170"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Stehplatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stehplatz
+
+![[Stehplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stehplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stehplatz&language=de)
 
 **Meaning:** standing place
 **Plural:** Stehplätze

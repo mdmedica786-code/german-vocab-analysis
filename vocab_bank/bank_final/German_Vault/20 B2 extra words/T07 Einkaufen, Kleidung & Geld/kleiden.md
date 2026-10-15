@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2985"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "kleiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # kleiden
+
+![[kleiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kleiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kleiden&language=de)
 
 **Meaning:** to dress; to clothe
 **Forms:** kleidet sich · kleidete sich · hat sich gekleidet

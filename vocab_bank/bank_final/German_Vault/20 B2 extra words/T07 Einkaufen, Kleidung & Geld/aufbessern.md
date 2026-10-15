@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0850"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "aufbessern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufbessern
+
+![[aufbessern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufbessern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbessern&language=de)
 
 **Meaning:** to improve; to top up
 **Forms:** bessert auf · besserte auf · hat aufgebessert

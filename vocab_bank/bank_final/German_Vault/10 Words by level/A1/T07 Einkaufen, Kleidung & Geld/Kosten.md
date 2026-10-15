@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 1b"
 freq_rank: 2000
 skip: false
+audio: "kosten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kosten
+
+![[kosten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kosten&language=de)
 
 **Meaning:** costs; expenses
 **Plural:** (Pl.)

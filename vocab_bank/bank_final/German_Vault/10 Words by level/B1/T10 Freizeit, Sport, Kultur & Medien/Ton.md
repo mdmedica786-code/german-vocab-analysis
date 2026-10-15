@@ -15,11 +15,16 @@ id: "B4493"
 netzwerk: "B1 K8 6b"
 freq_rank: 1115
 skip: false
+audio: "Ton.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ton
+
+![[Ton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ton&language=de)
 
 **Meaning:** sound; tone; clay
 **Plural:** Töne

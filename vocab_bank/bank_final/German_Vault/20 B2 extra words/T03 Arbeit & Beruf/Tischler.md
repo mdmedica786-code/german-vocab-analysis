@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1753"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Tischler.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tischler
+
+![[Tischler.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tischler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tischler&language=de)
 
 **Meaning:** carpenter; joiner
 **Plural:** Tischler

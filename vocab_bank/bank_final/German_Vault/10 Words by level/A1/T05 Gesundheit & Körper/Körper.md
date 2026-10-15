@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 6a"
 freq_rank: 297
 skip: false
+audio: "Körper.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Körper
+
+![[Körper.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6rper/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6rper&language=de)
 
 **Meaning:** body
 **Plural:** Körper

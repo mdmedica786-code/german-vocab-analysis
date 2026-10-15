@@ -13,11 +13,16 @@ id: "B5041"
 netzwerk: "B1 K12 5a"
 freq_rank: 5759
 skip: false
+audio: "anfallen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anfallen
+
+![[anfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anfallen&language=de)
 
 **Meaning:** to arise
 **Forms:** fällt an · fiel an · ist angefallen

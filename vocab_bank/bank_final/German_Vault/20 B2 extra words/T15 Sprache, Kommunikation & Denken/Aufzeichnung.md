@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2964"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Aufzeichnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufzeichnung
+
+![[Aufzeichnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufzeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufzeichnung&language=de)
 
 **Meaning:** record; notes; recording
 **Plural:** Aufzeichnungen

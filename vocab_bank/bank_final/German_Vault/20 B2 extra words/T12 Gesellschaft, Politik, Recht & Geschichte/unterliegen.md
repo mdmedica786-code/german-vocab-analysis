@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1839"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "unterliegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterliegen
+
+![[unterliegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterliegen&language=de)
 
 **Meaning:** to be subject to; to lose to
 **Forms:** unterliegt · unterlag · ist unterlegen

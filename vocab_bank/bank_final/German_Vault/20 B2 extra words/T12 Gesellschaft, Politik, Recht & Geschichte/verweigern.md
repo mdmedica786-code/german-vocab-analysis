@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0909"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verweigern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verweigern
+
+![[verweigern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verweigern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verweigern&language=de)
 
 **Meaning:** to refuse; to deny
 **Forms:** verweigert · verweigerte · hat verweigert

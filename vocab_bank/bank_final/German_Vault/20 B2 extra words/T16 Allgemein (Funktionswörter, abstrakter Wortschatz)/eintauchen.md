@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3885"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "eintauchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # eintauchen
+
+![[eintauchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eintauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eintauchen&language=de)
 
 **Meaning:** to dive in; to immerse oneself
 **Forms:** taucht ein · tauchte ein · ist eingetaucht

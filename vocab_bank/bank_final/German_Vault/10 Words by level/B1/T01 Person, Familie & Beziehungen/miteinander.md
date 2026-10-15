@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 763
 skip: false
+audio: "miteinander.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # miteinander
+
+![[miteinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/miteinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=miteinander&language=de)
 
 **Meaning:** with each other; together
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

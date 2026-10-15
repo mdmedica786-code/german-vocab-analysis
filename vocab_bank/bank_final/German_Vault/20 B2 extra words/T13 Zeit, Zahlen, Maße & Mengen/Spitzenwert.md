@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4440"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Spitzenwert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Spitzenwert
+
+![[Spitzenwert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spitzenwert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spitzenwert&language=de)
 
 **Meaning:** peak value; top value
 **Plural:** Spitzenwerte

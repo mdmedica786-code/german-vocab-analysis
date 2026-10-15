@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0974"
 exam_use: ["Schreiben", "Grammatik"]
 skip: false
+audio: "Zeichensetzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Grammatik"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeichensetzung
+
+![[Zeichensetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeichensetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichensetzung&language=de)
 
 **Meaning:** punctuation
 **Plural:** –

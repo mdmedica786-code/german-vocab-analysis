@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kursabschluss
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kursabschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kursabschluss&language=de)
+
 **Meaning:** course completion
 **Plural:** Kursabschlüsse
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

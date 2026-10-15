@@ -15,11 +15,16 @@ id: "B4175"
 netzwerk: "B1 K6 9c"
 freq_rank: 5759
 skip: false
+audio: "Liedzeile.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Liedzeile
+
+![[Liedzeile.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liedzeile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liedzeile&language=de)
 
 **Meaning:** line of a song
 **Plural:** Liedzeilen

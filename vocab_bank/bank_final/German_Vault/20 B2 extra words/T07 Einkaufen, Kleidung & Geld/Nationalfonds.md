@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4259"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Nationalfonds
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nationalfonds/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nationalfonds&language=de)
 
 **Meaning:** national fund
 **Plural:** Nationalfonds

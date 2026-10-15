@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0459"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Honorar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Honorar
+
+![[Honorar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Honorar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Honorar&language=de)
 
 **Meaning:** fee (for freelance work)
 **Plural:** Honorare

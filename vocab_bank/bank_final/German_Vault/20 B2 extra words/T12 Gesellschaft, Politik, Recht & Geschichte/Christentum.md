@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2674"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Christentum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Christentum
+
+![[Christentum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Christentum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Christentum&language=de)
 
 **Meaning:** Christianity
 **Plural:** –

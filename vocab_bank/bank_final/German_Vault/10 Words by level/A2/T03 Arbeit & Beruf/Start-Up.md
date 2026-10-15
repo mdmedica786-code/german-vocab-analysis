@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Start-Up
 
+[▶️ YouGlish](https://youglish.com/pronounce/Start-Up/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Start-Up&language=de)
+
 **Meaning:** start-up
 **Plural:** Start-Ups
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

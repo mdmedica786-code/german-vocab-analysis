@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4371"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "saubermachen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # saubermachen
+
+![[saubermachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/saubermachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=saubermachen&language=de)
 
 **Meaning:** to clean (up)
 **Forms:** macht sauber · machte sauber · hat saubergemacht

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # ich
 
+[▶️ YouGlish](https://youglish.com/pronounce/ich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ich&language=de)
+
 **Meaning:** I
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

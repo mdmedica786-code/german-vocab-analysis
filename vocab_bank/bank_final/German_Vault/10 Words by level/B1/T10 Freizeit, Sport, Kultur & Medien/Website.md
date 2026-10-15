@@ -14,11 +14,16 @@ bank: "main"
 id: "B5982"
 freq_rank: 3793
 skip: false
+audio: "Website.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Website
+
+![[Website.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Website/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Website&language=de)
 
 **Meaning:** website
 **Plural:** Websites

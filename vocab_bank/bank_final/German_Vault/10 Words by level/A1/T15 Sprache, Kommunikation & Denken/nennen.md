@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 3c"
 freq_rank: 293
 skip: false
+audio: "nennen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nennen
+
+![[nennen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nennen&language=de)
 
 **Meaning:** to name
 **Forms:** nennt · nannte · hat genannt

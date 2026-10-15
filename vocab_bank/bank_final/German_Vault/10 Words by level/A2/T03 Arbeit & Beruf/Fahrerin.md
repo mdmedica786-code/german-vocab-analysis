@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 1b"
 freq_rank: 5759
 skip: false
+audio: "Fahrerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fahrerin
+
+![[Fahrerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrerin&language=de)
 
 **Meaning:** driver (f)
 **Plural:** Fahrerinnen

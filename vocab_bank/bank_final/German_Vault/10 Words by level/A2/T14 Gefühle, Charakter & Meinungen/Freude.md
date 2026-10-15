@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 8b"
 freq_rank: 798
 skip: false
+audio: "Freude.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freude
+
+![[Freude.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freude&language=de)
 
 **Meaning:** joy
 **Plural:** Freuden

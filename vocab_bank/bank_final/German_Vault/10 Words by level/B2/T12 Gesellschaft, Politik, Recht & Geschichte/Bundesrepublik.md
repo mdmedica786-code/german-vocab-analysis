@@ -14,11 +14,16 @@ bank: "main"
 id: "B5447"
 freq_rank: 2000
 skip: false
+audio: "Bundesrepublik.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bundesrepublik
+
+![[Bundesrepublik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesrepublik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesrepublik&language=de)
 
 **Meaning:** Federal Republic
 **Plural:** Bundesrepubliken

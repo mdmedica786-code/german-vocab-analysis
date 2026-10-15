@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # einverstanden sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/einverstanden%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einverstanden%20sein&language=de)
+
 **Meaning:** to agree
 **Forms:** ist einverstanden · war einverstanden · ist einverstanden gewesen
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

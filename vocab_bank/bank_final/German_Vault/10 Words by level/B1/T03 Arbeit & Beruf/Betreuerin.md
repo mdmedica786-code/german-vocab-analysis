@@ -15,11 +15,16 @@ id: "B6375"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Betreuerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Betreuerin
+
+![[Betreuerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betreuerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreuerin&language=de)
 
 **Meaning:** carer; supervisor (f)
 **Plural:** Betreuerinnen

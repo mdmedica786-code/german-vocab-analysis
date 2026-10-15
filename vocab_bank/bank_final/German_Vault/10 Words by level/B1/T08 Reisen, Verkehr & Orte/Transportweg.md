@@ -15,11 +15,16 @@ id: "B3899"
 netzwerk: "B1 K5 2a"
 freq_rank: 5759
 skip: false
+audio: "Transportweg.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Transportweg
+
+![[Transportweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Transportweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transportweg&language=de)
 
 **Meaning:** transport route
 **Plural:** Transportwege

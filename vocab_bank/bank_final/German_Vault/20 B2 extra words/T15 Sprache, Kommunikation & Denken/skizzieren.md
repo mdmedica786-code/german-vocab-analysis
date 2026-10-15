@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3652"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "skizzieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # skizzieren
+
+![[skizzieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/skizzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=skizzieren&language=de)
 
 **Meaning:** to sketch; to outline
 **Forms:** skizziert · skizzierte · hat skizziert

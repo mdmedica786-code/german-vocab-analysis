@@ -15,11 +15,16 @@ id: "B2398"
 netzwerk: "A2 K6 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Fahrgast.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrgast
+
+![[Fahrgast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrgast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrgast&language=de)
 
 **Meaning:** passenger
 **Plural:** Fahrgäste

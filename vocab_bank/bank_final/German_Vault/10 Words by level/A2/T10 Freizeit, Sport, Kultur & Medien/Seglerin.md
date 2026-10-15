@@ -15,11 +15,16 @@ id: "B2246"
 netzwerk: "A2 K4 10a"
 freq_rank: 5759
 skip: false
+audio: "Seglerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Seglerin
+
+![[Seglerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seglerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seglerin&language=de)
 
 **Meaning:** sailor (f)
 **Plural:** Seglerinnen

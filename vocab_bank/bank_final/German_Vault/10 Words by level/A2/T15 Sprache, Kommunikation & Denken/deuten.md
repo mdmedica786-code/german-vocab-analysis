@@ -13,11 +13,16 @@ id: "B3238"
 netzwerk: "A2 K12 11a"
 freq_rank: 933
 skip: false
+audio: "deuten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # deuten
+
+![[deuten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/deuten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deuten&language=de)
 
 **Meaning:** to point; to indicate; to interpret
 **Forms:** deutet · deutete · hat gedeutet

@@ -15,11 +15,16 @@ id: "B6474"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Klingel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klingel
+
+![[Klingel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klingel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klingel&language=de)
 
 **Meaning:** bell
 **Plural:** Klingeln

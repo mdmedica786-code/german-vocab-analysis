@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wenn
 
+[▶️ YouGlish](https://youglish.com/pronounce/wenn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wenn&language=de)
+
 **Meaning:** when
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

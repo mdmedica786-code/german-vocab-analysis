@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8b ÜB"
 freq_rank: 381
 skip: false
+audio: "Mädchen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mädchen
+
+![[Mädchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%A4dchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%A4dchen&language=de)
 
 **Meaning:** girl
 **Plural:** Mädchen

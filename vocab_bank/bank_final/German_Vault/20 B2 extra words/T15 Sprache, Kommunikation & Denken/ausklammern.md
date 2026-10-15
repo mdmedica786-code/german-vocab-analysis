@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1215"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ausklammern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausklammern
+
+![[ausklammern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausklammern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausklammern&language=de)
 
 **Meaning:** to exclude; to leave out
 **Forms:** klammert aus · klammerte aus · hat ausgeklammert

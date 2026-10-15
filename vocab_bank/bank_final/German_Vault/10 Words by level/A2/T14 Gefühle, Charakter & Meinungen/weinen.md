@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 12a"
 freq_rank: 1404
 skip: false
+audio: "weinen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weinen
+
+![[weinen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weinen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weinen&language=de)
 
 **Meaning:** to cry
 **Forms:** weint · weinte · hat geweint

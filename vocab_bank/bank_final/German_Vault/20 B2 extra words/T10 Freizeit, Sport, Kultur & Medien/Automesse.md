@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3765"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Automesse
+
+[▶️ YouGlish](https://youglish.com/pronounce/Automesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automesse&language=de)
 
 **Meaning:** car show; motor show
 **Plural:** Automessen

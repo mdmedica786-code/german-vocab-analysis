@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9d"
 freq_rank: 2803
 skip: false
+audio: "Aufenthalt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufenthalt
+
+![[Aufenthalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufenthalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufenthalt&language=de)
 
 **Meaning:** stay
 **Plural:** Aufenthalte

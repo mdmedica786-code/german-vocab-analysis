@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 8a"
 freq_rank: 4943
 skip: false
+audio: "Frisur.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frisur
+
+![[Frisur.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frisur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frisur&language=de)
 
 **Meaning:** hair style
 **Plural:** Frisuren

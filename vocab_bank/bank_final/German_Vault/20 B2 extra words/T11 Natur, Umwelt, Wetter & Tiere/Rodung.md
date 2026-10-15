@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0729"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Rodung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rodung
+
+![[Rodung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rodung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rodung&language=de)
 
 **Meaning:** clearing; deforestation
 **Plural:** Rodungen

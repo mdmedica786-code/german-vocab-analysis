@@ -12,11 +12,16 @@ id: "B4183"
 netzwerk: "B1 K6 9d"
 freq_rank: 5759
 skip: false
+audio: "kitschig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kitschig
+
+![[kitschig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kitschig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kitschig&language=de)
 
 **Meaning:** kitschy; tacky
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

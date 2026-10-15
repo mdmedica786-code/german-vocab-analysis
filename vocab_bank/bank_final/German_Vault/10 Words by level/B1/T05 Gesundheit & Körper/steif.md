@@ -12,11 +12,16 @@ id: "B3864"
 netzwerk: "B1 K4 13b"
 freq_rank: 3945
 skip: false
+audio: "steif.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # steif
+
+![[steif.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/steif/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=steif&language=de)
 
 **Meaning:** stiff
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

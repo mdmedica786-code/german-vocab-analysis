@@ -15,11 +15,16 @@ id: "B0371"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Elektriker.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Elektriker
+
+![[Elektriker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elektriker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektriker&language=de)
 
 **Meaning:** electrician (m)
 **Plural:** Elektriker

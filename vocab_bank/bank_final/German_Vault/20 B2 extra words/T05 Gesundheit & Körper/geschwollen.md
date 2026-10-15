@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4001"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "geschwollen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # geschwollen
+
+![[geschwollen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geschwollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschwollen&language=de)
 
 **Meaning:** swollen
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

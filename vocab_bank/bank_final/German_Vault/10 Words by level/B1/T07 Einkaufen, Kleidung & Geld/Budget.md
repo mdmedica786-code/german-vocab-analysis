@@ -15,11 +15,16 @@ id: "B4960"
 netzwerk: "B1 K11 10"
 freq_rank: 5643
 skip: false
+audio: "Budget.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Budget
+
+![[Budget.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Budget/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Budget&language=de)
 
 **Meaning:** budget
 **Plural:** Budgets

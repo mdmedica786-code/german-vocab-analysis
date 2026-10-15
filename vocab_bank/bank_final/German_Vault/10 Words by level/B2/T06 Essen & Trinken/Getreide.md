@@ -14,11 +14,16 @@ bank: "main"
 id: "B6276"
 freq_rank: 5299
 skip: false
+audio: "Getreide.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Getreide
+
+![[Getreide.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Getreide/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Getreide&language=de)
 
 **Meaning:** grain; cereal
 **Plural:** Getreide

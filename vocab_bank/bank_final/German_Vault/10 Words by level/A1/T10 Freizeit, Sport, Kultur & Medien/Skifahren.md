@@ -15,11 +15,16 @@ id: "B1819"
 netzwerk: "A1 K12 7d"
 freq_rank: 5759
 skip: false
+audio: "Skifahren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Skifahren
+
+![[Skifahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skifahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skifahren&language=de)
 
 **Meaning:** skiing
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1690"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "betteln.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # betteln
+
+![[betteln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betteln&language=de)
 
 **Meaning:** to beg
 **Forms:** bettelt · bettelte · hat gebettelt

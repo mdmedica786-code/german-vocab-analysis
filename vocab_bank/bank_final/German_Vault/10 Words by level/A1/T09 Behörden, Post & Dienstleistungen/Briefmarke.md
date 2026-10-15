@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "B1 K9 10d"
 freq_rank: 5759
 skip: false
+audio: "Briefmarke.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Briefmarke
+
+![[Briefmarke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Briefmarke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefmarke&language=de)
 
 **Meaning:** postage stamp
 **Plural:** Briefmarken

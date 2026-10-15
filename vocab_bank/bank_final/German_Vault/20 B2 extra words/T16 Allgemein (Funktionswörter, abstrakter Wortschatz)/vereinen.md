@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2587"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "vereinen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # vereinen
+
+![[vereinen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vereinen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vereinen&language=de)
 
 **Meaning:** to unite; to combine
 **Forms:** vereint · vereinte · hat vereint

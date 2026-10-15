@@ -14,11 +14,16 @@ bank: "main"
 id: "B6324"
 freq_rank: 5630
 skip: false
+audio: "Gelenk.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gelenk
+
+![[Gelenk.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gelenk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gelenk&language=de)
 
 **Meaning:** joint
 **Plural:** Gelenke

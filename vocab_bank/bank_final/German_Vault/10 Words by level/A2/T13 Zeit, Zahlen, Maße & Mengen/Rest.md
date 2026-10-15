@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 1111
 skip: false
+audio: "Rest.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rest
+
+![[Rest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rest&language=de)
 
 **Meaning:** rest
 **Plural:** Reste

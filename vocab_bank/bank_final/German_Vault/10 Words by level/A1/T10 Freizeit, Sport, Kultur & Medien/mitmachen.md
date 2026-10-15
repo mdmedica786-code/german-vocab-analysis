@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 2128
 skip: false
+audio: "mitmachen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitmachen
+
+![[mitmachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitmachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitmachen&language=de)
 
 **Meaning:** to join in, to participate
 **Forms:** macht mit · machte mit · hat mitgemacht

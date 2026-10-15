@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2076"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "mit dem Feuer spielen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # mit dem Feuer spielen
+
+![[mit dem Feuer spielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mit%20dem%20Feuer%20spielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mit%20dem%20Feuer%20spielen&language=de)
 
 **Meaning:** to play with fire
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

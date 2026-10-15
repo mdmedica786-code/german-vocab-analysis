@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4248"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Museumsinsel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Museumsinsel
+
+![[Museumsinsel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Museumsinsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Museumsinsel&language=de)
 
 **Meaning:** Museum Island; island of museums
 **Plural:** Museumsinseln

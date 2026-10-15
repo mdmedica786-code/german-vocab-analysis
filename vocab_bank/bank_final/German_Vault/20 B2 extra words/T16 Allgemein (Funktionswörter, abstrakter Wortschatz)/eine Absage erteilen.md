@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Absage erteilen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Absage%20erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Absage%20erteilen&language=de)
+
 **Meaning:** to reject; to turn down
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

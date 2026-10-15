@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0393"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Vorrang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorrang
+
+![[Vorrang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorrang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorrang&language=de)
 
 **Meaning:** priority; precedence
 **Plural:** –

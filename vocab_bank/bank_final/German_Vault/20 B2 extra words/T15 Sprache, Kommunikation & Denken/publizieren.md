@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3539"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "publizieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # publizieren
+
+![[publizieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/publizieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=publizieren&language=de)
 
 **Meaning:** to publish
 **Forms:** publiziert · publizierte · hat publiziert

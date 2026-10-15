@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1700"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "hetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # hetzen
+
+![[hetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hetzen&language=de)
 
 **Meaning:** to rush; to incite
 **Forms:** hetzt · hetzte · hat/ist gehetzt

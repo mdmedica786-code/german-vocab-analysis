@@ -11,11 +11,16 @@ bank: "main"
 id: "B5233"
 freq_rank: 989
 skip: false
+audio: "hingegen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hingegen
+
+![[hingegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hingegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hingegen&language=de)
 
 **Meaning:** on the other hand; whereas
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

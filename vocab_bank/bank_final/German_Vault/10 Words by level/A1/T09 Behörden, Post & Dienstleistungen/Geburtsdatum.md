@@ -15,11 +15,16 @@ id: "B0407"
 netzwerk: "A1 K2 12a"
 freq_rank: 5759
 skip: false
+audio: "Geburtsdatum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geburtsdatum
+
+![[Geburtsdatum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtsdatum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsdatum&language=de)
 
 **Meaning:** date of birth
 **Plural:** Geburtsdaten

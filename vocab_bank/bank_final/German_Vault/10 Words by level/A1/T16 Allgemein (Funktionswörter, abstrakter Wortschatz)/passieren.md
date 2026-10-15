@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 10b"
 freq_rank: 572
 skip: false
+audio: "passieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # passieren
+
+![[passieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/passieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=passieren&language=de)
 
 **Meaning:** to happen
 **Forms:** passiert · passierte · ist passiert

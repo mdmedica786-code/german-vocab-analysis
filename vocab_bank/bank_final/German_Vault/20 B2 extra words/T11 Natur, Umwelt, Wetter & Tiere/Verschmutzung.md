@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4588"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Verschmutzung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Verschmutzung
+
+![[Verschmutzung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verschmutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschmutzung&language=de)
 
 **Meaning:** pollution; dirt
 **Plural:** Verschmutzungen

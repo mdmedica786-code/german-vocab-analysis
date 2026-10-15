@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2865"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "einlassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einlassen
+
+![[einlassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einlassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einlassen&language=de)
 
 **Meaning:** to get involved in; to let in
 **Forms:** lässt sich ein · ließ sich ein · hat sich eingelassen

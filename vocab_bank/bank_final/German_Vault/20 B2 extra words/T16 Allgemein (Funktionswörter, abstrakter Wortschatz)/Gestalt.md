@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2406"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gestalt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gestalt
+
+![[Gestalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gestalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestalt&language=de)
 
 **Meaning:** shape; figure; form
 **Plural:** Gestalten

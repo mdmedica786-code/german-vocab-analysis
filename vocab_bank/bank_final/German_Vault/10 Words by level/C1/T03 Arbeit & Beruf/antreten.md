@@ -12,11 +12,16 @@ bank: "main"
 id: "B5715"
 freq_rank: 2849
 skip: false
+audio: "antreten.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # antreten
+
+![[antreten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/antreten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antreten&language=de)
 
 **Meaning:** to start (a job); to line up
 **Forms:** tritt an · trat an · ist angetreten

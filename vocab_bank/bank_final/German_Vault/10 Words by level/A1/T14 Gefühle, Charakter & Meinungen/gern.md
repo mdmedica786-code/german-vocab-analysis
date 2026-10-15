@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 1"
 freq_rank: 636
 skip: false
+audio: "gern.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gern
+
+![[gern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gern&language=de)
 
 **Meaning:** gladly; with pleasure
 **Forms:** lieber – am liebsten

@@ -15,11 +15,16 @@ id: "B4194"
 netzwerk: "B1 K6 10a"
 freq_rank: 4545
 skip: false
+audio: "Charts.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Charts
+
+![[Charts.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Charts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charts&language=de)
 
 **Meaning:** charts
 **Plural:** (Pl.)

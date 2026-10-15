@@ -15,11 +15,16 @@ id: "B3817"
 netzwerk: "B1 K4 10a"
 freq_rank: 5759
 skip: false
+audio: "Arbeitnehmerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitnehmerin
+
+![[Arbeitnehmerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitnehmerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitnehmerin&language=de)
 
 **Meaning:** employee (f)
 **Plural:** Arbeitnehmerinnen

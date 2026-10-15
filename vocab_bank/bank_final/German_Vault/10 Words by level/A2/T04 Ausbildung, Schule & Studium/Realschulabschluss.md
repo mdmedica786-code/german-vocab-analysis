@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Realschulabschluss
 
+[▶️ YouGlish](https://youglish.com/pronounce/Realschulabschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Realschulabschluss&language=de)
+
 **Meaning:** intermediate school-leaving certificate (Realschule)
 **Plural:** Realschulabschlüsse
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

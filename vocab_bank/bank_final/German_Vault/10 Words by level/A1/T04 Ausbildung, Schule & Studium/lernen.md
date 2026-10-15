@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 8a"
 freq_rank: 416
 skip: false
+audio: "lernen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lernen
+
+![[lernen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lernen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lernen&language=de)
 
 **Meaning:** to learn
 **Forms:** lernt · lernte · hat gelernt

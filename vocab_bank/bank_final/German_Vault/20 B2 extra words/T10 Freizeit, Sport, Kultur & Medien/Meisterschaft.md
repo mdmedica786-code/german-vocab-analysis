@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1417"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Meisterschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meisterschaft
+
+![[Meisterschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meisterschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meisterschaft&language=de)
 
 **Meaning:** championship
 **Plural:** Meisterschaften

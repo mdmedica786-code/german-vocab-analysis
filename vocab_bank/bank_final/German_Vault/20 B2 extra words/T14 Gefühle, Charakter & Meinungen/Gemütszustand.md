@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1157"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gemütszustand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gemütszustand
+
+![[Gemütszustand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gem%C3%BCtszustand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gem%C3%BCtszustand&language=de)
 
 **Meaning:** state of mind
 **Plural:** Gemütszustände

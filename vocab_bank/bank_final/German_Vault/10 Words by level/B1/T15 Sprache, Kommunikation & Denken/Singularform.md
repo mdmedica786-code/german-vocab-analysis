@@ -15,11 +15,16 @@ id: "B4909"
 netzwerk: "B1 K11 5"
 freq_rank: 5759
 skip: false
+audio: "Singularform.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Singularform
+
+![[Singularform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Singularform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Singularform&language=de)
 
 **Meaning:** singular form
 **Plural:** Singularformen

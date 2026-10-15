@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1547"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "bedrückt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedrückt
+
+![[bedrückt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedr%C3%BCckt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedr%C3%BCckt&language=de)
 
 **Meaning:** depressed; dejected
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

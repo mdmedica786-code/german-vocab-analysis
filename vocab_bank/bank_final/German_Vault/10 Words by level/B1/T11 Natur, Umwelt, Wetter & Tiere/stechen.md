@@ -13,11 +13,16 @@ id: "B6231"
 goethe_level: "B1"
 freq_rank: 4958
 skip: false
+audio: "stechen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stechen
+
+![[stechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stechen&language=de)
 
 **Meaning:** to sting; to stab
 **Forms:** sticht · stach · hat gestochen

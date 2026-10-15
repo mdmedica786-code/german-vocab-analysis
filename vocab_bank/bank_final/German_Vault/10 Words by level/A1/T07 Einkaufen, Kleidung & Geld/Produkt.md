@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 10b"
 freq_rank: 702
 skip: false
+audio: "Produkt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Produkt
+
+![[Produkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Produkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Produkt&language=de)
 
 **Meaning:** product
 **Plural:** Produkte

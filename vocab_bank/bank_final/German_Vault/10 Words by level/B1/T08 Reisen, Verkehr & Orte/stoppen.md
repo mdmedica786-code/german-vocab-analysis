@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5706
 skip: false
+audio: "stoppen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stoppen
+
+![[stoppen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stoppen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stoppen&language=de)
 
 **Meaning:** to stop
 **Forms:** stoppt · stoppte · hat gestoppt

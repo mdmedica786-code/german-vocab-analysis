@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2692"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "übersehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # übersehen
+
+![[übersehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbersehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbersehen&language=de)
 
 **Meaning:** to overlook; to miss
 **Forms:** übersieht · übersah · hat übersehen

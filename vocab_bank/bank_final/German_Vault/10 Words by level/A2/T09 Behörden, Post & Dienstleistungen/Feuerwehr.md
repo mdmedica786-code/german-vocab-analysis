@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1d"
 freq_rank: 2000
 skip: false
+audio: "Feuerwehr.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feuerwehr
+
+![[Feuerwehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuerwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwehr&language=de)
 
 **Meaning:** fire brigade
 **Plural:** –

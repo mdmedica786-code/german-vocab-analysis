@@ -15,11 +15,16 @@ id: "B3978"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Pfand.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pfand
+
+![[Pfand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfand&language=de)
 
 **Meaning:** deposit
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 7b"
 freq_rank: 5759
 skip: false
+audio: "unterstreichen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterstreichen
+
+![[unterstreichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterstreichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterstreichen&language=de)
 
 **Meaning:** to underline
 **Forms:** unterstreicht · unterstrich · hat unterstrichen

@@ -12,11 +12,16 @@ id: "B2590"
 netzwerk: "A2 K7 6c"
 freq_rank: 5515
 skip: false
+audio: "telefonisch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # telefonisch
+
+![[telefonisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/telefonisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=telefonisch&language=de)
 
 **Meaning:** by phone
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

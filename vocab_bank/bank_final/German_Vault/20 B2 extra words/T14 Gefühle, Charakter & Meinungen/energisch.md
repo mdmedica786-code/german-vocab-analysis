@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3048"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "energisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # energisch
+
+![[energisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/energisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=energisch&language=de)
 
 **Meaning:** energetic; firm; vigorous
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

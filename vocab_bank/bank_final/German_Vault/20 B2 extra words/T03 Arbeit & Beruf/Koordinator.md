@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4134"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Koordinator.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Koordinator
+
+![[Koordinator.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Koordinator/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koordinator&language=de)
 
 **Meaning:** coordinator (male)
 **Plural:** Koordinatoren

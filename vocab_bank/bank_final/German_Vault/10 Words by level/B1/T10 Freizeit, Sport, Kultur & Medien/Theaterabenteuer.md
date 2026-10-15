@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Theaterabenteuer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Theaterabenteuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theaterabenteuer&language=de)
+
 **Meaning:** theatre adventure
 **Plural:** Theaterabenteuer
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

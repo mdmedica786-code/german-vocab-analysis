@@ -15,11 +15,16 @@ id: "B6136"
 goethe_level: "B1"
 freq_rank: 4564
 skip: false
+audio: "Protest.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Protest
+
+![[Protest.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Protest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Protest&language=de)
 
 **Meaning:** protest
 **Plural:** Proteste

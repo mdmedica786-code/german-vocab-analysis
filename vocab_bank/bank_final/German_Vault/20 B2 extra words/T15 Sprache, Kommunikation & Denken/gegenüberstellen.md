@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0271"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "gegenüberstellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gegenüberstellen
+
+![[gegenüberstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gegen%C3%BCberstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gegen%C3%BCberstellen&language=de)
 
 **Meaning:** to compare; to juxtapose
 **Forms:** stellt gegenüber · stellte gegenüber · hat gegenübergestellt

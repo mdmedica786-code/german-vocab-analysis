@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 8b"
 freq_rank: 698
 skip: false
+audio: "Anspruch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anspruch
+
+![[Anspruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anspruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anspruch&language=de)
 
 **Meaning:** entitlement
 **Plural:** Ansprüche

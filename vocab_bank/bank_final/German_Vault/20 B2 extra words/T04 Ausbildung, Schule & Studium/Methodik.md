@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0374"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Methodik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Methodik
+
+![[Methodik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Methodik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Methodik&language=de)
 
 **Meaning:** methodology
 **Plural:** Methodiken

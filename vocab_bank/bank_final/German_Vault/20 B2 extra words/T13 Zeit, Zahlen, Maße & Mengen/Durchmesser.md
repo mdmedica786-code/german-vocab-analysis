@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2818"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Durchmesser.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Durchmesser
+
+![[Durchmesser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durchmesser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durchmesser&language=de)
 
 **Meaning:** diameter
 **Plural:** Durchmesser

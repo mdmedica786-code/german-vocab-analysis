@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Richterin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Richterin
+
+![[Richterin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Richterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richterin&language=de)
 
 **Meaning:** judge (f)
 **Plural:** Richterinnen

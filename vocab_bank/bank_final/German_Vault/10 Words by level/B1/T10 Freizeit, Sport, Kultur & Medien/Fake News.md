@@ -15,11 +15,16 @@ id: "B4292"
 netzwerk: "B1 K7 10a"
 freq_rank: 3000
 skip: false
+audio: "Fake News.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fake News
+
+![[Fake News.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fake%20News/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fake%20News&language=de)
 
 **Meaning:** fake news
 **Plural:** (Pl.)

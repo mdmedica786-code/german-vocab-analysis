@@ -15,11 +15,16 @@ id: "B0192"
 netzwerk: "A1 K1 8e"
 freq_rank: 4344
 skip: false
+audio: "Grammatik.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grammatik
+
+![[Grammatik.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grammatik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grammatik&language=de)
 
 **Meaning:** grammar
 **Plural:** Grammatiken

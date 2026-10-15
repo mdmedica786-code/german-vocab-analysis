@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in den Hintergrund treten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20den%20Hintergrund%20treten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20den%20Hintergrund%20treten&language=de)
+
 **Meaning:** to take a back seat
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

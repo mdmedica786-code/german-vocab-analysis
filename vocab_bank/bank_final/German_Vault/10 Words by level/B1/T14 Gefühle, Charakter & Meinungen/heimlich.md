@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 12b"
 freq_rank: 2868
 skip: false
+audio: "heimlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # heimlich
+
+![[heimlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heimlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heimlich&language=de)
 
 **Meaning:** secret
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

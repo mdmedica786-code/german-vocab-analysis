@@ -13,11 +13,16 @@ id: "B2770"
 netzwerk: "A2 K8 6b"
 freq_rank: 4823
 skip: false
+audio: "zusammenarbeiten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenarbeiten
+
+![[zusammenarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenarbeiten&language=de)
 
 **Meaning:** to work together
 **Forms:** arbeitet zusammen · arbeitete zusammen · hat zusammengearbeitet

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2377"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "drückend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # drückend
+
+![[drückend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dr%C3%BCckend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dr%C3%BCckend&language=de)
 
 **Meaning:** oppressive; sultry
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

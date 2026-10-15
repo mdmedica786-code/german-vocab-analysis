@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3363"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Tatbestand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tatbestand
+
+![[Tatbestand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tatbestand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tatbestand&language=de)
 
 **Meaning:** facts of the case; offence (legal)
 **Plural:** Tatbestände

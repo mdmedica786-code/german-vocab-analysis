@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Forumsname
 
+[▶️ YouGlish](https://youglish.com/pronounce/Forumsname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forumsname&language=de)
+
 **Meaning:** forum name
 **Plural:** Forumsnamen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

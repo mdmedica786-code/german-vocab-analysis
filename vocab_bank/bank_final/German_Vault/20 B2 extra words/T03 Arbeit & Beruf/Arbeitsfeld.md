@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3721"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Arbeitsfeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitsfeld
+
+![[Arbeitsfeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsfeld&language=de)
 
 **Meaning:** field of work
 **Plural:** Arbeitsfelder

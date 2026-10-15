@@ -13,11 +13,16 @@ id: "B6269"
 goethe_level: "B1"
 freq_rank: 5249
 skip: false
+audio: "überreden.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überreden
+
+![[überreden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberreden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberreden&language=de)
 
 **Meaning:** to persuade; to talk into
 **Forms:** überredet · überredete · hat überredet

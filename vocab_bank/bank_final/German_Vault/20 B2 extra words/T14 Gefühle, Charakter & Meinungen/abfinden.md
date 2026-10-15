@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1183"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "abfinden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abfinden
+
+![[abfinden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abfinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abfinden&language=de)
 
 **Meaning:** to come to terms with; to put up with
 **Forms:** findet sich ab · fand sich ab · hat sich abgefunden

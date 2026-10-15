@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # sich
 
+[▶️ YouGlish](https://youglish.com/pronounce/sich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich&language=de)
+
 **Meaning:** oneself
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Mietspiegel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mietspiegel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mietspiegel&language=de)
+
 **Meaning:** rent index
 **Plural:** Mietspiegel
 **Level:** B2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

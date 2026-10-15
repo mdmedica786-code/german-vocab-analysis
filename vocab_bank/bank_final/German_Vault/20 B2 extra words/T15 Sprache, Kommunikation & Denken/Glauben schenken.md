@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Glauben schenken
 
+[▶️ YouGlish](https://youglish.com/pronounce/Glauben%20schenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glauben%20schenken&language=de)
+
 **Meaning:** to believe; to give credence
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a ÜB"
 freq_rank: 2497
 skip: false
+audio: "Mantel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mantel
+
+![[Mantel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mantel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mantel&language=de)
 
 **Meaning:** coat
 **Plural:** Mäntel

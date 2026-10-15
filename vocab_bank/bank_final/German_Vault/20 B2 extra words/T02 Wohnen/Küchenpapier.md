@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2252"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Küchenpapier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Küchenpapier
+
+![[Küchenpapier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCchenpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCchenpapier&language=de)
 
 **Meaning:** kitchen roll
 **Plural:** –

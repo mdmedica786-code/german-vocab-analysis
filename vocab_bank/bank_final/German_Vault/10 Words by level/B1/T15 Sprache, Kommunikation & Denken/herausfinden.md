@@ -13,11 +13,16 @@ id: "B4824"
 netzwerk: "B1 K10 7b"
 freq_rank: 1737
 skip: false
+audio: "herausfinden.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herausfinden
+
+![[herausfinden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herausfinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herausfinden&language=de)
 
 **Meaning:** to find out
 **Forms:** findet heraus · fand heraus · hat herausgefunden

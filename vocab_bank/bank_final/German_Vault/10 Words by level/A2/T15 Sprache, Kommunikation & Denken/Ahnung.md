@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 6c"
 freq_rank: 1315
 skip: false
+audio: "Ahnung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ahnung
+
+![[Ahnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ahnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ahnung&language=de)
 
 **Meaning:** idea; notion (keine Ahnung = no idea)
 **Plural:** Ahnungen

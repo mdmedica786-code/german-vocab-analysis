@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 1a"
 freq_rank: 1291
 skip: false
+audio: "gefallen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gefallen
+
+![[gefallen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gefallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gefallen&language=de)
 
 **Meaning:** to please; to be liked
 **Forms:** gefällt · gefiel · hat gefallen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0672"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Kohlendioxid.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kohlendioxid
+
+![[Kohlendioxid.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kohlendioxid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kohlendioxid&language=de)
 
 **Meaning:** carbon dioxide
 **Plural:** –

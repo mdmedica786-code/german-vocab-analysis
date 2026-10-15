@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1003"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Pauschalreise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pauschalreise
+
+![[Pauschalreise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pauschalreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pauschalreise&language=de)
 
 **Meaning:** package holiday
 **Plural:** Pauschalreisen

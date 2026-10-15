@@ -14,11 +14,16 @@ bank: "main"
 id: "B5844"
 freq_rank: 3129
 skip: false
+audio: "Finanzierung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Finanzierung
+
+![[Finanzierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Finanzierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finanzierung&language=de)
 
 **Meaning:** financing
 **Plural:** Finanzierungen

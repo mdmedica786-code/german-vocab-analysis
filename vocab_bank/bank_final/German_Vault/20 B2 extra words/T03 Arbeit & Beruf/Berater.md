@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2807"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Berater.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Berater
+
+![[Berater.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berater&language=de)
 
 **Meaning:** adviser; consultant
 **Plural:** Berater

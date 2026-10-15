@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3542"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "knallen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # knallen
+
+![[knallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/knallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knallen&language=de)
 
 **Meaning:** to bang; to pop; to slam
 **Forms:** knallt · knallte · hat/ist geknallt

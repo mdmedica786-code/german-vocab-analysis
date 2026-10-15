@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2835"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "konfrontieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # konfrontieren
+
+![[konfrontieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konfrontieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konfrontieren&language=de)
 
 **Meaning:** to confront
 **Forms:** konfrontiert · konfrontierte · hat konfrontiert

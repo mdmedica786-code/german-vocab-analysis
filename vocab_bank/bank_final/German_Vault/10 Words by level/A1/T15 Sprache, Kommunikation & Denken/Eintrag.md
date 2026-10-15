@@ -15,11 +15,16 @@ id: "B0854"
 netzwerk: "A1 K5 10b"
 freq_rank: 4485
 skip: false
+audio: "Eintrag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Eintrag
+
+![[Eintrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eintrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eintrag&language=de)
 
 **Meaning:** entry
 **Plural:** Einträge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2035"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Revier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Revier
+
+![[Revier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Revier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Revier&language=de)
 
 **Meaning:** territory; district
 **Plural:** Reviere

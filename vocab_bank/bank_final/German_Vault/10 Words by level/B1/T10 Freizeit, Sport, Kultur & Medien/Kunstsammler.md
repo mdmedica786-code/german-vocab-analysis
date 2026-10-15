@@ -15,11 +15,16 @@ id: "B4682"
 netzwerk: "B1 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "Kunstsammler.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kunstsammler
+
+![[Kunstsammler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstsammler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstsammler&language=de)
 
 **Meaning:** art collector (m)
 **Plural:** Kunstsammler

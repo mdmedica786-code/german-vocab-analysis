@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1163"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Faulheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Faulheit
+
+![[Faulheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Faulheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faulheit&language=de)
 
 **Meaning:** laziness
 **Plural:** –

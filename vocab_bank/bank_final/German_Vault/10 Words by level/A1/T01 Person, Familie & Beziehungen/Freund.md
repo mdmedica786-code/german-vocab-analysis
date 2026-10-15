@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 286
 skip: false
+audio: "Freund.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Freund
+
+![[Freund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freund&language=de)
 
 **Meaning:** friend
 **Plural:** Freunde

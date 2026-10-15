@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4337"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Psychoanalyse.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Psychoanalyse
+
+![[Psychoanalyse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Psychoanalyse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Psychoanalyse&language=de)
 
 **Meaning:** psychoanalysis
 **Plural:** Psychoanalysen

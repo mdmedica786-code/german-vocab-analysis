@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 4b"
 freq_rank: 1450
 skip: false
+audio: "empfehlen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # empfehlen
+
+![[empfehlen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/empfehlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=empfehlen&language=de)
 
 **Meaning:** to recommend
 **Forms:** empfiehlt · empfahl · hat empfohlen

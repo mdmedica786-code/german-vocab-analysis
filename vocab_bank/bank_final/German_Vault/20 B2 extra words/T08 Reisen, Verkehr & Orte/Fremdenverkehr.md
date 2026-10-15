@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1006"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Fremdenverkehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fremdenverkehr
+
+![[Fremdenverkehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fremdenverkehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fremdenverkehr&language=de)
 
 **Meaning:** tourism
 **Plural:** –

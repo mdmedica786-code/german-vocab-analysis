@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0902"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "überbrücken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # überbrücken
+
+![[überbrücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberbr%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberbr%C3%BCcken&language=de)
 
 **Meaning:** to bridge; to tide over
 **Forms:** überbrückt · überbrückte · hat überbrückt

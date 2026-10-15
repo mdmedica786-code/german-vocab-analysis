@@ -15,11 +15,16 @@ id: "B6573"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Suchtmittel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Suchtmittel
+
+![[Suchtmittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Suchtmittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suchtmittel&language=de)
 
 **Meaning:** addictive substance
 **Plural:** Suchtmittel

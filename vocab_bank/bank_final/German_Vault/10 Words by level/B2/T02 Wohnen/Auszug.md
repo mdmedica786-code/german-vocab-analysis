@@ -14,11 +14,16 @@ bank: "main"
 id: "B6112"
 freq_rank: 4467
 skip: false
+audio: "Auszug.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Auszug
+
+![[Auszug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auszug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszug&language=de)
 
 **Meaning:** move out; extract
 **Plural:** Auszüge

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1472"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Beschwichtigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beschwichtigung
+
+![[Beschwichtigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beschwichtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschwichtigung&language=de)
 
 **Meaning:** appeasement; soothing
 **Plural:** Beschwichtigungen

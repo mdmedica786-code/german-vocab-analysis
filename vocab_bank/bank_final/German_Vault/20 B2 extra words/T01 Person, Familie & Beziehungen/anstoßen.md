@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0848"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "anstoßen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anstoßen
+
+![[anstoßen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansto%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansto%C3%9Fen&language=de)
 
 **Meaning:** to clink glasses; to bump; to initiate
 **Forms:** stößt an · stieß an · hat/ist angestoßen

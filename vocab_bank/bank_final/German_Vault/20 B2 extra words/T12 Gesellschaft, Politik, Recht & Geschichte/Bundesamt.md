@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3441"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bundesamt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bundesamt
+
+![[Bundesamt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesamt&language=de)
 
 **Meaning:** federal office
 **Plural:** Bundesämter

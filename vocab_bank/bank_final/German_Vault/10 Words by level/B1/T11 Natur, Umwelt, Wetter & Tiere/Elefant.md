@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 5b"
 freq_rank: 5759
 skip: false
+audio: "Elefant.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Elefant
+
+![[Elefant.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elefant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elefant&language=de)
 
 **Meaning:** elephant
 **Plural:** Elefanten

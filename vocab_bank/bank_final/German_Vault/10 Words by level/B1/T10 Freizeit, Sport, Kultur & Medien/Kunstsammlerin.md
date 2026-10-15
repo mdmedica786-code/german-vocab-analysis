@@ -15,11 +15,16 @@ id: "B4683"
 netzwerk: "B1 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "Kunstsammlerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kunstsammlerin
+
+![[Kunstsammlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstsammlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstsammlerin&language=de)
 
 **Meaning:** art collector (f)
 **Plural:** Kunstsammlerinnen

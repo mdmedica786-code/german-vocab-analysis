@@ -15,11 +15,16 @@ id: "B3669"
 netzwerk: "B1 K3 10a"
 freq_rank: 4093
 skip: false
+audio: "Benehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Benehmen
+
+![[Benehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benehmen&language=de)
 
 **Meaning:** behaviour
 **Plural:** –

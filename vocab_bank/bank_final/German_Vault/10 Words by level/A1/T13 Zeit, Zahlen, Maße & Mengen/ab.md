@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 7b"
 freq_rank: 132
 skip: false
+audio: "ab.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # ab
+
+![[ab.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ab&language=de)
 
 **Meaning:** from
 **Other senses:** off

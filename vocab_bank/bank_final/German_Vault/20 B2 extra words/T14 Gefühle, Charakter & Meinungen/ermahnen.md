@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1260"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ermahnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ermahnen
+
+![[ermahnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ermahnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ermahnen&language=de)
 
 **Meaning:** to admonish; to warn
 **Forms:** ermahnt · ermahnte · hat ermahnt

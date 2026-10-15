@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K7 1 ÜB"
 freq_rank: 122
 skip: false
+audio: "halten (19).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # halten
+
+![[halten (19).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=halten&language=de)
 
 **Meaning:** to hold; to stop; to keep
 **Forms:** hält · hielt · hat gehalten

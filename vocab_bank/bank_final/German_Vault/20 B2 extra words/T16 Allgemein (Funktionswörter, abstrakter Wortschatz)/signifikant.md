@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2561"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
+audio: "signifikant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Wissenschaft", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # signifikant
+
+![[signifikant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/signifikant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=signifikant&language=de)
 
 **Meaning:** significant
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

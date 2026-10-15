@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 6d"
 freq_rank: 5759
 skip: false
+audio: "Sozialarbeiterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sozialarbeiterin
+
+![[Sozialarbeiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialarbeiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialarbeiterin&language=de)
 
 **Meaning:** social worker (f)
 **Plural:** Sozialarbeiterinnen

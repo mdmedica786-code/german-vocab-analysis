@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0351"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Ernüchterung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ernüchterung
+
+![[Ernüchterung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ern%C3%BCchterung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ern%C3%BCchterung&language=de)
 
 **Meaning:** disillusionment; sobering
 **Plural:** Ernüchterungen

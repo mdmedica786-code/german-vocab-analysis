@@ -15,11 +15,16 @@ id: "B2540"
 netzwerk: "A2 K7 2"
 freq_rank: 5759
 skip: false
+audio: "Navi.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Navi
+
+![[Navi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Navi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Navi&language=de)
 
 **Meaning:** satnav
 **Plural:** Navis

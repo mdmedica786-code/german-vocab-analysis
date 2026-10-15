@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 3b"
 freq_rank: 5759
 skip: false
+audio: "Leserin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leserin
+
+![[Leserin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leserin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leserin&language=de)
 
 **Meaning:** reader (f)
 **Plural:** Leserinnen

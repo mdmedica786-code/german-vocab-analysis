@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 10d"
 freq_rank: 1076
 skip: false
+audio: "Stufe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stufe
+
+![[Stufe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stufe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stufe&language=de)
 
 **Meaning:** step; level
 **Plural:** Stufen

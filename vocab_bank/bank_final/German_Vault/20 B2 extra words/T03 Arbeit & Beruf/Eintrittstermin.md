@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3892"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Eintrittstermin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Eintrittstermin
+
+![[Eintrittstermin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eintrittstermin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eintrittstermin&language=de)
 
 **Meaning:** start date (at a company); date of joining
 **Plural:** Eintrittstermine

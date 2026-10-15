@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 6a"
 freq_rank: 2136
 skip: false
+audio: "hoffentlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hoffentlich
+
+![[hoffentlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hoffentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hoffentlich&language=de)
 
 **Meaning:** hopefully
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

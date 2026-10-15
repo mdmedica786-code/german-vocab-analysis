@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 4"
 freq_rank: 5759
 skip: false
+audio: "vorlesen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorlesen
+
+![[vorlesen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorlesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorlesen&language=de)
 
 **Meaning:** to read aloud
 **Forms:** liest vor · las vor · hat vorgelesen

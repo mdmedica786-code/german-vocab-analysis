@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0376"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Nuance.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nuance
+
+![[Nuance.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nuance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nuance&language=de)
 
 **Meaning:** nuance; shade
 **Plural:** Nuancen

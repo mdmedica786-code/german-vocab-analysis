@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1763"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Geschäftsführer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geschäftsführer
+
+![[Geschäftsführer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsf%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsf%C3%BChrer&language=de)
 
 **Meaning:** managing director
 **Plural:** Geschäftsführer

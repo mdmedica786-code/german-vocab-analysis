@@ -14,11 +14,16 @@ bank: "main"
 id: "B5703"
 freq_rank: 2831
 skip: false
+audio: "Schwäche.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schwäche
+
+![[Schwäche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schw%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schw%C3%A4che&language=de)
 
 **Meaning:** weakness
 **Plural:** Schwächen

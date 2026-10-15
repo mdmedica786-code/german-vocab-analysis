@@ -15,11 +15,16 @@ id: "B2550"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 2216
 skip: false
+audio: "Diesel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Diesel
+
+![[Diesel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diesel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diesel&language=de)
 
 **Meaning:** diesel
 **Plural:** Diesel

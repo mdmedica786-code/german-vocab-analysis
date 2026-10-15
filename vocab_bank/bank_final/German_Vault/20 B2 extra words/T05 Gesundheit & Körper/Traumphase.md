@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4502"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Traumphase.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Traumphase
+
+![[Traumphase.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Traumphase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traumphase&language=de)
 
 **Meaning:** dream phase; REM phase
 **Plural:** Traumphasen

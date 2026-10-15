@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 3"
 freq_rank: 357
 skip: false
+audio: "Gruppe.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gruppe
+
+![[Gruppe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gruppe&language=de)
 
 **Meaning:** group
 **Plural:** Gruppen

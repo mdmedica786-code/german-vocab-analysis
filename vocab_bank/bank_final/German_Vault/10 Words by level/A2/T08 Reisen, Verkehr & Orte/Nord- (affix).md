@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Nord-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Nord-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nord-&language=de)
+
 **Meaning:** north
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

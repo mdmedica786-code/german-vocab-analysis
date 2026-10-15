@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 3c"
 freq_rank: 5759
 skip: false
+audio: "stinken.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stinken
+
+![[stinken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stinken&language=de)
 
 **Meaning:** to stink
 **Forms:** stinkt · stank · hat gestunken

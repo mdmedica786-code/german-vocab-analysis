@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 10c"
 freq_rank: 535
 skip: false
+audio: "Methode.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Methode
+
+![[Methode.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Methode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Methode&language=de)
 
 **Meaning:** method
 **Plural:** Methoden

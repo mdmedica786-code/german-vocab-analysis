@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0526"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Mietrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mietrecht
+
+![[Mietrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mietrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mietrecht&language=de)
 
 **Meaning:** tenancy law
 **Plural:** –

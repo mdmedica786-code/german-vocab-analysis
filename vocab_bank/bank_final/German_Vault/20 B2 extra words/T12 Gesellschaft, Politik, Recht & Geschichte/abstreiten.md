@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1190"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "abstreiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abstreiten
+
+![[abstreiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abstreiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abstreiten&language=de)
 
 **Meaning:** to deny; to dispute
 **Forms:** streitet ab · stritt ab · hat abgestritten

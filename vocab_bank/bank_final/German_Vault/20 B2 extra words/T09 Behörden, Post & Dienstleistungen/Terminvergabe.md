@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1108"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Terminvergabe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Terminvergabe
+
+![[Terminvergabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Terminvergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Terminvergabe&language=de)
 
 **Meaning:** appointment scheduling
 **Plural:** –

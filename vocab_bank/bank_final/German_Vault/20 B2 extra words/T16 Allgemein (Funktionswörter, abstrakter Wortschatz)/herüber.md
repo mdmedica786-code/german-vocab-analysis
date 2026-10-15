@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2896"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "herüber.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # herüber
+
+![[herüber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/her%C3%BCber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=her%C3%BCber&language=de)
 
 **Meaning:** over (to the speaker); across
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

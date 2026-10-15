@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5168
 skip: false
+audio: "Ernte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ernte
+
+![[Ernte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ernte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ernte&language=de)
 
 **Meaning:** harvest
 **Plural:** Ernten

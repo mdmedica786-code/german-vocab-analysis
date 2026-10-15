@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2937"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Deck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Deck
+
+![[Deck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deck&language=de)
 
 **Meaning:** deck
 **Plural:** Decks

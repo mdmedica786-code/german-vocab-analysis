@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # überfragt sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberfragt%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberfragt%20sein&language=de)
+
 **Meaning:** to be stumped
 **Forms:** ist überfragt · war überfragt · ist überfragt gewesen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

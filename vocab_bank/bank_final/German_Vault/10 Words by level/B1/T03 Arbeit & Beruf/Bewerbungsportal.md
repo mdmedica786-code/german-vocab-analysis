@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Bewerbungsportal
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerbungsportal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbungsportal&language=de)
+
 **Meaning:** application portal
 **Plural:** Bewerbungsportale
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

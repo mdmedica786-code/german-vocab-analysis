@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2420"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "lehnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # lehnen
+
+![[lehnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lehnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lehnen&language=de)
 
 **Meaning:** to lean
 **Forms:** lehnt · lehnte · hat gelehnt

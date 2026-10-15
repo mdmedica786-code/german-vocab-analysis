@@ -15,11 +15,16 @@ id: "B3798"
 netzwerk: "B1 K4 8b"
 freq_rank: 5759
 skip: false
+audio: "Personalchef.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Personalchef
+
+![[Personalchef.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personalchef/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personalchef&language=de)
 
 **Meaning:** HR manager (m)
 **Plural:** Personalchefs

@@ -15,11 +15,16 @@ id: "B6369"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Ballett.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ballett
+
+![[Ballett.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ballett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ballett&language=de)
 
 **Meaning:** ballet
 **Plural:** Ballette

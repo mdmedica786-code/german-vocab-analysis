@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2016"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Flut.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Flut
+
+![[Flut.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flut&language=de)
 
 **Meaning:** high tide; flood
 **Plural:** Fluten

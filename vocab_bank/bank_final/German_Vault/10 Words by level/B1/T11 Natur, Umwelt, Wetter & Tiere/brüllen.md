@@ -13,11 +13,16 @@ id: "B4329"
 netzwerk: "B1 K7 12b"
 freq_rank: 5759
 skip: false
+audio: "brüllen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # brüllen
+
+![[brüllen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/br%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=br%C3%BCllen&language=de)
 
 **Meaning:** to roar; to shout
 **Forms:** brüllt · brüllte · hat gebrüllt

@@ -15,11 +15,16 @@ id: "B1204"
 netzwerk: "A1 K8 2a"
 freq_rank: 5759
 skip: false
+audio: "Sprachnachricht.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sprachnachricht
+
+![[Sprachnachricht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachnachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachnachricht&language=de)
 
 **Meaning:** voice message
 **Plural:** Sprachnachrichten

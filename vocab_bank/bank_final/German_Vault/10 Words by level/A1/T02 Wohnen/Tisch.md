@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 5b"
 freq_rank: 516
 skip: false
+audio: "Tisch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tisch
+
+![[Tisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tisch&language=de)
 
 **Meaning:** table
 **Plural:** Tische

@@ -15,11 +15,16 @@ id: "B6423"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Fachfrau.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fachfrau
+
+![[Fachfrau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachfrau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachfrau&language=de)
 
 **Meaning:** expert (f)
 **Plural:** Fachfrauen

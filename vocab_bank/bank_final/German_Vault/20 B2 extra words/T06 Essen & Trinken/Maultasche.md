@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1432"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Maultasche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Maultasche
+
+![[Maultasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maultasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maultasche&language=de)
 
 **Meaning:** Swabian stuffed pasta (Maultasche)
 **Plural:** Maultaschen

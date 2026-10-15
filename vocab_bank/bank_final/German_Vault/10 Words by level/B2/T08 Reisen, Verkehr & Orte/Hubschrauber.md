@@ -14,11 +14,16 @@ bank: "main"
 id: "B6038"
 freq_rank: 4061
 skip: false
+audio: "Hubschrauber.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hubschrauber
+
+![[Hubschrauber.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hubschrauber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hubschrauber&language=de)
 
 **Meaning:** helicopter
 **Plural:** Hubschrauber

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 9a"
 freq_rank: 5759
 skip: false
+audio: "Lehrling.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lehrling
+
+![[Lehrling.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrling&language=de)
 
 **Meaning:** apprentice
 **Plural:** Lehrlinge

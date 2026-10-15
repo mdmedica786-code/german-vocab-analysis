@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 13b"
 freq_rank: 2581
 skip: false
+audio: "Veranstaltung.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Veranstaltung
+
+![[Veranstaltung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Veranstaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Veranstaltung&language=de)
 
 **Meaning:** event
 **Plural:** Veranstaltungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3722"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Arbeitsform.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitsform
+
+![[Arbeitsform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsform&language=de)
 
 **Meaning:** form of work; working method
 **Plural:** Arbeitsformen

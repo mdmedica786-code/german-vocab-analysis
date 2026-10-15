@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1992"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Erdbeere.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erdbeere
+
+![[Erdbeere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erdbeere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erdbeere&language=de)
 
 **Meaning:** strawberry
 **Plural:** Erdbeeren

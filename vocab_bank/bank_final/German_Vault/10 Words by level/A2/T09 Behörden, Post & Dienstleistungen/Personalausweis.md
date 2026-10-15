@@ -15,11 +15,16 @@ id: "B2346"
 netzwerk: "A2 K5 3c"
 freq_rank: 5759
 skip: false
+audio: "Personalausweis.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Personalausweis
+
+![[Personalausweis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personalausweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personalausweis&language=de)
 
 **Meaning:** ID card
 **Plural:** Personalausweise

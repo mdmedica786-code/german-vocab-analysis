@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1252"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "entgehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # entgehen
+
+![[entgehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entgehen&language=de)
 
 **Meaning:** to escape; to miss
 **Forms:** entgeht · entging · ist entgangen

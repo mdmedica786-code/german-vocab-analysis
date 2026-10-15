@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 11c ÜB"
 freq_rank: 4486
 skip: false
+audio: "Löffel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Löffel
+
+![[Löffel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6ffel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6ffel&language=de)
 
 **Meaning:** spoon
 **Plural:** Löffel

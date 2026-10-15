@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4138"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Kraftstoff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kraftstoff
+
+![[Kraftstoff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kraftstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraftstoff&language=de)
 
 **Meaning:** fuel
 **Plural:** Kraftstoffe

@@ -15,11 +15,16 @@ id: "B2243"
 netzwerk: "A2 K4 10a"
 freq_rank: 5759
 skip: false
+audio: "Segelregatta.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Segelregatta
+
+![[Segelregatta.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Segelregatta/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segelregatta&language=de)
 
 **Meaning:** sailing regatta
 **Plural:** Segelregatten

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 7a"
 freq_rank: 5759
 skip: false
+audio: "langweilen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # langweilen
+
+![[langweilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/langweilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=langweilen&language=de)
 
 **Meaning:** to be bored
 **Forms:** langweilt · langweilte · hat gelangweilt

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0567"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Nachbarland.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nachbarland
+
+![[Nachbarland.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbarland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarland&language=de)
 
 **Meaning:** neighbouring country
 **Plural:** Nachbarländer

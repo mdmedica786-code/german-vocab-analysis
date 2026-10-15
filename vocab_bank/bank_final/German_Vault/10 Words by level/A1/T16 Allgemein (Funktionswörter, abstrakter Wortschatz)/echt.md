@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 793
 skip: false
+audio: "echt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # echt
+
+![[echt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/echt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=echt&language=de)
 
 **Meaning:** real; really (colloq.)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** colloquial

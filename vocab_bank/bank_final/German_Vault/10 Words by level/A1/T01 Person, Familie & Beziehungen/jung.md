@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3c"
 freq_rank: 146
 skip: false
+audio: "jung.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # jung
+
+![[jung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jung&language=de)
 
 **Meaning:** young
 **Forms:** jünger – am jüngsten

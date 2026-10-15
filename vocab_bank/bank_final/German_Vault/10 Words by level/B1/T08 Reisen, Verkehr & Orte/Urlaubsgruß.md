@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Urlaubsgruß
 
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsgru%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsgru%C3%9F&language=de)
+
 **Meaning:** greetings from abroad
 **Plural:** Urlaubsgrüße
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

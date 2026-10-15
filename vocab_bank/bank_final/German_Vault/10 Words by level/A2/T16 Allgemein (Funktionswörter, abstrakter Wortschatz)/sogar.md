@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 11a"
 freq_rank: 246
 skip: false
+audio: "sogar.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sogar
+
+![[sogar.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sogar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sogar&language=de)
 
 **Meaning:** even
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

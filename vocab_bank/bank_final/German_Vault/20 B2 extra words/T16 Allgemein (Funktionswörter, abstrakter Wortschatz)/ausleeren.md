@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3751"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "ausleeren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ausleeren
+
+![[ausleeren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausleeren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausleeren&language=de)
 
 **Meaning:** to empty out
 **Forms:** leert aus · leerte aus · hat ausgeleert

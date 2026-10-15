@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1329"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ansatzweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansatzweise
+
+![[ansatzweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansatzweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansatzweise&language=de)
 
 **Meaning:** to some extent; at least in part
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

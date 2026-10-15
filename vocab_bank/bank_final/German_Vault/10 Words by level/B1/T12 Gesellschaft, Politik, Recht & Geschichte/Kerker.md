@@ -15,11 +15,16 @@ id: "B4709"
 netzwerk: "B1 K9 13b"
 freq_rank: 5759
 skip: false
+audio: "Kerker.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kerker
+
+![[Kerker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kerker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kerker&language=de)
 
 **Meaning:** dungeon
 **Plural:** Kerker

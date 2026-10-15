@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0339"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Eigenart.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eigenart
+
+![[Eigenart.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigenart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigenart&language=de)
 
 **Meaning:** peculiarity; characteristic
 **Plural:** Eigenarten

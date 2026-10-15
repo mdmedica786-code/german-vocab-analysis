@@ -15,11 +15,16 @@ id: "B2046"
 netzwerk: "A2 K2 11b"
 freq_rank: 5759
 skip: false
+audio: "Arzthelferin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arzthelferin
+
+![[Arzthelferin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arzthelferin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arzthelferin&language=de)
 
 **Meaning:** doctor's assistant (f)
 **Plural:** Arzthelferinnen

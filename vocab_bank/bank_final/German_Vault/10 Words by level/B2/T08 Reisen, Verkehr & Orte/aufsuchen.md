@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # aufsuchen
 
+[▶️ YouGlish](https://youglish.com/pronounce/aufsuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufsuchen&language=de)
+
 **Meaning:** to visit; to go to see
 **Forms:** sucht auf · suchte auf · hat aufgesucht
 **Grammar:** separable (auf-)

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3812"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Bildungschance.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Bildungschance
+
+![[Bildungschance.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildungschance/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildungschance&language=de)
 
 **Meaning:** educational opportunity
 **Plural:** Bildungschancen

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Espresso-Kanne
 
+[▶️ YouGlish](https://youglish.com/pronounce/Espresso-Kanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Espresso-Kanne&language=de)
+
 **Meaning:** Italian coffee pot
 **Plural:** Espresso-Kannen
 **Level:** B1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

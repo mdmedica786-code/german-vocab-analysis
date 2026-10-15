@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 7a"
 freq_rank: 1527
 skip: false
+audio: "finanziell.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # finanziell
+
+![[finanziell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/finanziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=finanziell&language=de)
 
 **Meaning:** financial
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

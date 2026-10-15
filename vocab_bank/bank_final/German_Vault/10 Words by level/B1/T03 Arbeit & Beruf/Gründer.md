@@ -15,11 +15,16 @@ id: "B4665"
 netzwerk: "B1 K9 10b"
 freq_rank: 4989
 skip: false
+audio: "Gründer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gründer
+
+![[Gründer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gr%C3%BCnder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gr%C3%BCnder&language=de)
 
 **Meaning:** founder (m)
 **Plural:** Gründer

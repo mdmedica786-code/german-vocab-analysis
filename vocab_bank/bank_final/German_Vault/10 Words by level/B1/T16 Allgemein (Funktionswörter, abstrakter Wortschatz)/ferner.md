@@ -11,11 +11,16 @@ bank: "main"
 id: "B5293"
 freq_rank: 1240
 skip: false
+audio: "ferner.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ferner
+
+![[ferner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ferner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ferner&language=de)
 
 **Meaning:** furthermore; in addition
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

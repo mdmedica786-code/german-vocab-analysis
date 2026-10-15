@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3476"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "beunruhigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # beunruhigen
+
+![[beunruhigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beunruhigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beunruhigen&language=de)
 
 **Meaning:** to worry; to alarm
 **Forms:** beunruhigt · beunruhigte · hat beunruhigt

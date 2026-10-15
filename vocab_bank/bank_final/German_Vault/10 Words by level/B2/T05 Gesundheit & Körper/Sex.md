@@ -14,11 +14,16 @@ bank: "main"
 id: "B5490"
 freq_rank: 2108
 skip: false
+audio: "Sex.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sex
+
+![[Sex.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sex/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sex&language=de)
 
 **Meaning:** sex
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B0503"
 netzwerk: "A1 K3 5a"
 freq_rank: 5759
 skip: false
+audio: "Vokal.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vokal
+
+![[Vokal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vokal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokal&language=de)
 
 **Meaning:** vowel
 **Plural:** Vokale

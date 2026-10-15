@@ -15,11 +15,16 @@ id: "B1718"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Stichpunkt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stichpunkt
+
+![[Stichpunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stichpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stichpunkt&language=de)
 
 **Meaning:** bullet point
 **Plural:** Stichpunkte

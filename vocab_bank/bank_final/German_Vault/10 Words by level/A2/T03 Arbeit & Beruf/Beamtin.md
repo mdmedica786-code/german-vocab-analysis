@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 5759
 skip: false
+audio: "Beamtin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beamtin
+
+![[Beamtin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beamtin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beamtin&language=de)
 
 **Meaning:** official (f)
 **Plural:** Beamtinnen

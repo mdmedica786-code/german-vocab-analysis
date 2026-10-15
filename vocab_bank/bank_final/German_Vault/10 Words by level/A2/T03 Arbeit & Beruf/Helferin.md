@@ -15,11 +15,16 @@ id: "B3094"
 netzwerk: "A2 K11 11a"
 freq_rank: 5759
 skip: false
+audio: "Helferin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Helferin
+
+![[Helferin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Helferin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Helferin&language=de)
 
 **Meaning:** helper (f)
 **Plural:** Helferinnen

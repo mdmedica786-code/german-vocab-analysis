@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0782"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "naheliegend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # naheliegend
+
+![[naheliegend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/naheliegend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=naheliegend&language=de)
 
 **Meaning:** obvious; natural
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B3640"
 netzwerk: "B1 K3 6b"
 freq_rank: 4099
 skip: false
+audio: "Zuneigung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zuneigung
+
+![[Zuneigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuneigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuneigung&language=de)
 
 **Meaning:** affection
 **Plural:** –

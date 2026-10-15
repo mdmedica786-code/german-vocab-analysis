@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 1a"
 freq_rank: 2591
 skip: false
+audio: "Hemd.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hemd
+
+![[Hemd.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hemd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hemd&language=de)
 
 **Meaning:** shirt
 **Plural:** Hemden

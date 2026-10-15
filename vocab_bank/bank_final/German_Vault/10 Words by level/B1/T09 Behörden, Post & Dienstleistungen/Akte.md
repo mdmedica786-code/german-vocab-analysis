@@ -15,11 +15,16 @@ id: "B3715"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 3185
 skip: false
+audio: "Akte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Akte
+
+![[Akte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Akte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Akte&language=de)
 
 **Meaning:** file; record
 **Plural:** Akten

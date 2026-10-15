@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 7a"
 freq_rank: 866
 skip: false
+audio: "Spiel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Spiel
+
+![[Spiel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spiel&language=de)
 
 **Meaning:** game
 **Plural:** Spiele

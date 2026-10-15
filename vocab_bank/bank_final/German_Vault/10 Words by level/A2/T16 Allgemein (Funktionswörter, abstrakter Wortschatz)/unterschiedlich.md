@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 6c"
 freq_rank: 364
 skip: false
+audio: "unterschiedlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterschiedlich
+
+![[unterschiedlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterschiedlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterschiedlich&language=de)
 
 **Meaning:** different
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

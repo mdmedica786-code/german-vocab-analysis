@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 5a"
 freq_rank: 4869
 skip: false
+audio: "Menü.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Menü
+
+![[Menü.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Men%C3%BC/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Men%C3%BC&language=de)
 
 **Meaning:** menu
 **Plural:** Menüs

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 451
 skip: false
+audio: "spüren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # spüren
+
+![[spüren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sp%C3%BCren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sp%C3%BCren&language=de)
 
 **Meaning:** to sense
 **Forms:** spürt · spürte · hat gespürt

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6023"
 freq_rank: 3992
 skip: false
+audio: "Erforschung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erforschung
+
+![[Erforschung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erforschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erforschung&language=de)
 
 **Meaning:** research; exploration
 **Plural:** –

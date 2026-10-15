@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 7"
 freq_rank: 869
 skip: false
+audio: "fernsehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fernsehen
+
+![[fernsehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fernsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fernsehen&language=de)
 
 **Meaning:** to watch television
 **Forms:** sieht fern · sah fern · hat ferngesehen

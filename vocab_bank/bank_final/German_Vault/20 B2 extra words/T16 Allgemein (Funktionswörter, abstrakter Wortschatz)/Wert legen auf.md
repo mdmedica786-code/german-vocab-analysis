@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Wert legen auf
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wert%20legen%20auf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wert%20legen%20auf&language=de)
+
 **Meaning:** to attach importance to
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4178"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Leitpunkt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leitpunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leitpunkt&language=de)
 
 **Meaning:** guiding point; key point
 **Plural:** Leitpunkte

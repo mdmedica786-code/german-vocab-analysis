@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4448"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Sprachtyp.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sprachtyp
+
+![[Sprachtyp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachtyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachtyp&language=de)
 
 **Meaning:** type of language; language type
 **Plural:** Sprachtypen

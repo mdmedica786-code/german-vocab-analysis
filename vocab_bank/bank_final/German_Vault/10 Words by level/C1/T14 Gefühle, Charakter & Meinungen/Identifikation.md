@@ -14,11 +14,16 @@ bank: "main"
 id: "B5903"
 freq_rank: 3433
 skip: false
+audio: "Identifikation.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Identifikation
+
+![[Identifikation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Identifikation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Identifikation&language=de)
 
 **Meaning:** identification
 **Plural:** Identifikationen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0006"
 exam_use: ["Schreiben", "Grammatik"]
 skip: false
+audio: "es sei denn.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/conjunction", "exam/Schreiben", "exam/Grammatik"]
 status: "new"
 ---
 <!-- bank:start -->
 # es sei denn
+
+![[es sei denn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/es%20sei%20denn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=es%20sei%20denn&language=de)
 
 **Meaning:** unless
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

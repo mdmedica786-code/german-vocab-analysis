@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0406"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "Kündigungsfrist.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kündigungsfrist
+
+![[Kündigungsfrist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCndigungsfrist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCndigungsfrist&language=de)
 
 **Meaning:** notice period
 **Plural:** Kündigungsfristen

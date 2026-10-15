@@ -14,11 +14,16 @@ bank: "main"
 id: "B5406"
 freq_rank: 1822
 skip: false
+audio: "Organ.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Organ
+
+![[Organ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Organ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Organ&language=de)
 
 **Meaning:** organ
 **Plural:** Organe

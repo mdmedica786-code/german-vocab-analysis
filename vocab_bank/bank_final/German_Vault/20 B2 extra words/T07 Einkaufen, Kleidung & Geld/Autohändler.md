@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3762"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Autohändler.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Autohändler
+
+![[Autohändler.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autoh%C3%A4ndler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoh%C3%A4ndler&language=de)
 
 **Meaning:** car dealer (male)
 **Plural:** Autohändler

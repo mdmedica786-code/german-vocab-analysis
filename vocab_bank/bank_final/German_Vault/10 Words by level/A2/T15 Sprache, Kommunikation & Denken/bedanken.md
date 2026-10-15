@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 4b"
 freq_rank: 3686
 skip: false
+audio: "bedanken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedanken
+
+![[bedanken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedanken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedanken&language=de)
 
 **Meaning:** to thank
 **Forms:** bedankt · bedankte · hat bedankt

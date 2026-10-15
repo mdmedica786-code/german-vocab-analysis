@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3958"
 exam_use: ["Wissenschaft", "Schreiben"]
 skip: false
-status: "new"
+audio: "Forschungsrichtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Forschungsrichtung
+
+![[Forschungsrichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forschungsrichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forschungsrichtung&language=de)
 
 **Meaning:** line of research; research direction
 **Plural:** Forschungsrichtungen

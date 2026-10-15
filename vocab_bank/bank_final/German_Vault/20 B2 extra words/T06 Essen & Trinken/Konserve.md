@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1380"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Konserve.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konserve
+
+![[Konserve.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konserve/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konserve&language=de)
 
 **Meaning:** tinned food
 **Plural:** Konserven

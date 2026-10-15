@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2556"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "interpretieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # interpretieren
+
+![[interpretieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/interpretieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=interpretieren&language=de)
 
 **Meaning:** to interpret
 **Forms:** interpretiert · interpretierte · hat interpretiert

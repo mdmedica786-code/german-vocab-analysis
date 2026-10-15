@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2225"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Klebeband.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Klebeband
+
+![[Klebeband.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klebeband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klebeband&language=de)
 
 **Meaning:** adhesive tape
 **Plural:** Klebebänder

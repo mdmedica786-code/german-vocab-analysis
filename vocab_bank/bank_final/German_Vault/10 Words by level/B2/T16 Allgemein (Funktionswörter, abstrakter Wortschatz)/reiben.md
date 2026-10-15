@@ -12,11 +12,16 @@ bank: "main"
 id: "B5687"
 freq_rank: 2801
 skip: false
+audio: "reiben.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reiben
+
+![[reiben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reiben&language=de)
 
 **Meaning:** to rub; to grate
 **Forms:** reibt · rieb · hat gerieben

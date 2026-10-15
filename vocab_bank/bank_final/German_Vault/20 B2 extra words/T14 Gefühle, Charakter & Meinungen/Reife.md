@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1510"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Reife.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reife
+
+![[Reife.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reife/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reife&language=de)
 
 **Meaning:** maturity; ripeness
 **Plural:** –

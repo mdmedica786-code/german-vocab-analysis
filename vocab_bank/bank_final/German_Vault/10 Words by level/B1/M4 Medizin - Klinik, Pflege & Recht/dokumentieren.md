@@ -13,11 +13,16 @@ id: "B4316"
 netzwerk: "B1 K7 11c"
 freq_rank: 2943
 skip: false
+audio: "dokumentieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # dokumentieren
+
+![[dokumentieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dokumentieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dokumentieren&language=de)
 
 **Meaning:** to document
 **Forms:** dokumentiert · dokumentierte · hat dokumentiert

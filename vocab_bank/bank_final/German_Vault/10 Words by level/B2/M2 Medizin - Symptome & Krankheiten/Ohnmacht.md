@@ -14,11 +14,16 @@ bank: "main"
 id: "B6062"
 freq_rank: 4121
 skip: false
+audio: "Ohnmacht.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ohnmacht
+
+![[Ohnmacht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ohnmacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ohnmacht&language=de)
 
 **Meaning:** fainting; unconsciousness
 **Plural:** Ohnmachten

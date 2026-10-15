@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4387"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
+audio: "Schlagfertigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Schlagfertigkeit
+
+![[Schlagfertigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlagfertigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlagfertigkeit&language=de)
 
 **Meaning:** quick wit; repartee
 **Plural:** –

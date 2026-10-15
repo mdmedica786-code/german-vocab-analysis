@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 3c"
 freq_rank: 2389
 skip: false
+audio: "Bescheid.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bescheid
+
+![[Bescheid.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bescheid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bescheid&language=de)
 
 **Meaning:** notice; decision
 **Plural:** –

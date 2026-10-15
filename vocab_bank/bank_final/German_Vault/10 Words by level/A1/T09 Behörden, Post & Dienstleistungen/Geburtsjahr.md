@@ -15,11 +15,16 @@ id: "B6449"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Geburtsjahr.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geburtsjahr
+
+![[Geburtsjahr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtsjahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtsjahr&language=de)
 
 **Meaning:** year of birth
 **Plural:** Geburtsjahre

@@ -12,11 +12,16 @@ id: "B5673"
 goethe_level: "B1"
 freq_rank: 2758
 skip: false
+audio: "schlank.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlank
+
+![[schlank.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlank&language=de)
 
 **Meaning:** slim
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 3c"
 freq_rank: 1984
 skip: false
+audio: "glatt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # glatt
+
+![[glatt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/glatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=glatt&language=de)
 
 **Meaning:** smooth
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

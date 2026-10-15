@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3707"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Amtsbescheid
+
+[▶️ YouGlish](https://youglish.com/pronounce/Amtsbescheid/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amtsbescheid&language=de)
 
 **Meaning:** official notice; official decision
 **Plural:** Amtsbescheide

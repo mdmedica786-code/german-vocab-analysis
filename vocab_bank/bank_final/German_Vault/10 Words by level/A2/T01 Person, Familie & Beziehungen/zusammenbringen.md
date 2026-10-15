@@ -13,11 +13,16 @@ id: "B2796"
 netzwerk: "A2 K8 9a"
 freq_rank: 5759
 skip: false
+audio: "zusammenbringen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammenbringen
+
+![[zusammenbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammenbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammenbringen&language=de)
 
 **Meaning:** to bring together
 **Forms:** bringt zusammen · brachte zusammen · hat zusammengebracht

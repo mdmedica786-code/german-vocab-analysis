@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # los sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/los%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=los%20sein&language=de)
+
 **Meaning:** to be up
 **Forms:** ist los · war los · ist los gewesen
 **Grammar:** separable (los-)

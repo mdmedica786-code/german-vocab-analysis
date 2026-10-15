@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 2212
 skip: false
+audio: "Bühne.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bühne
+
+![[Bühne.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BChne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BChne&language=de)
 
 **Meaning:** stage
 **Plural:** Bühnen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 5759
 skip: false
+audio: "Vorort.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorort
+
+![[Vorort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorort&language=de)
 
 **Meaning:** suburb
 **Plural:** Vororte

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3623"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Bruchteil.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bruchteil
+
+![[Bruchteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bruchteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bruchteil&language=de)
 
 **Meaning:** fraction; tiny part
 **Plural:** Bruchteile

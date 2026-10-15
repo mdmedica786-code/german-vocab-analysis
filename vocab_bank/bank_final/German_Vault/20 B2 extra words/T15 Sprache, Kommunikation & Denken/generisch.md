@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3995"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
-status: "new"
+audio: "generisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Grammatik", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # generisch
+
+![[generisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/generisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=generisch&language=de)
 
 **Meaning:** generic
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

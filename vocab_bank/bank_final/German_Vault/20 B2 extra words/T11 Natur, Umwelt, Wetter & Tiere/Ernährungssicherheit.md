@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0664"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Ernährungssicherheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ernährungssicherheit
+
+![[Ernährungssicherheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ern%C3%A4hrungssicherheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ern%C3%A4hrungssicherheit&language=de)
 
 **Meaning:** food security
 **Plural:** –

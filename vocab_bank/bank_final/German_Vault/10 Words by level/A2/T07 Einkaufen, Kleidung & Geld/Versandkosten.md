@@ -15,11 +15,16 @@ id: "B3176"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Versandkosten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Versandkosten
+
+![[Versandkosten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versandkosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versandkosten&language=de)
 
 **Meaning:** shipping cost
 **Plural:** (Pl.)

@@ -15,11 +15,16 @@ id: "B2614"
 netzwerk: "A2 K7 10a"
 freq_rank: 5338
 skip: false
+audio: "Innenstadt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Innenstadt
+
+![[Innenstadt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Innenstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Innenstadt&language=de)
 
 **Meaning:** city centre
 **Plural:** Innenstädte

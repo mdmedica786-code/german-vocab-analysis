@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1274"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "grübeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # grübeln
+
+![[grübeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BCbeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BCbeln&language=de)
 
 **Meaning:** to brood; to ponder
 **Forms:** grübelt · grübelte · hat gegrübelt

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zum Einsatz kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Einsatz%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Einsatz%20kommen&language=de)
+
 **Meaning:** to be used; to be deployed
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

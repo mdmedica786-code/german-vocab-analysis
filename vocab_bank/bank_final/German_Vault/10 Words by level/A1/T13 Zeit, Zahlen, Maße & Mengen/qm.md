@@ -15,11 +15,16 @@ id: "B1376"
 netzwerk: "A1 K9 3a"
 freq_rank: 5759
 skip: false
+audio: "qm.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der qm
+
+![[qm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/qm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=qm&language=de)
 
 **Meaning:** sq m (= square metre)
 **Plural:** Quadratmeter

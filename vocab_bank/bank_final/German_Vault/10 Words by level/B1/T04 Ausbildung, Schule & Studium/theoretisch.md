@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 1126
 skip: false
+audio: "theoretisch.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # theoretisch
+
+![[theoretisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/theoretisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=theoretisch&language=de)
 
 **Meaning:** theoretical
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

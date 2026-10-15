@@ -15,11 +15,16 @@ id: "B2403"
 netzwerk: "A2 K6 4b"
 freq_rank: 5759
 skip: false
+audio: "Fahrkartenschalter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrkartenschalter
+
+![[Fahrkartenschalter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrkartenschalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrkartenschalter&language=de)
 
 **Meaning:** ticket office
 **Plural:** Fahrkartenschalter

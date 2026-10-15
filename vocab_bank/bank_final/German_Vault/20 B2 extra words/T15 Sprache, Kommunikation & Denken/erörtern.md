@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3243"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "erörtern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erörtern
+
+![[erörtern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/er%C3%B6rtern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=er%C3%B6rtern&language=de)
 
 **Meaning:** to discuss; to debate; to examine
 **Forms:** erörtert · erörterte · hat erörtert

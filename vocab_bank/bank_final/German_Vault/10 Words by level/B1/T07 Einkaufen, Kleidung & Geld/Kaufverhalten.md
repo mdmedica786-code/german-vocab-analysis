@@ -15,11 +15,16 @@ id: "B3489"
 netzwerk: "B1 K2 10b"
 freq_rank: 5759
 skip: false
+audio: "Kaufverhalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kaufverhalten
+
+![[Kaufverhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaufverhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaufverhalten&language=de)
 
 **Meaning:** shopping behaviour
 **Plural:** Kaufverhalten

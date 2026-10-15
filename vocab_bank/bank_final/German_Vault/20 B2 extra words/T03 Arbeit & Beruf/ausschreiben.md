@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3752"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "ausschreiben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ausschreiben
+
+![[ausschreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausschreiben&language=de)
 
 **Meaning:** to write out; to advertise (a job); to announce
 **Forms:** schreibt aus · schrieb aus · hat ausgeschrieben

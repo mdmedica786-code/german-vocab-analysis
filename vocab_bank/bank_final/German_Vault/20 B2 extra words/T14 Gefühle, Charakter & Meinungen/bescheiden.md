@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0812"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "bescheiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # bescheiden
+
+![[bescheiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bescheiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bescheiden&language=de)
 
 **Meaning:** modest; humble
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

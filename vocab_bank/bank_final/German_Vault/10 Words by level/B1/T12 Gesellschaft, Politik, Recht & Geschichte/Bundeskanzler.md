@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 4534
 skip: false
+audio: "Bundeskanzler.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bundeskanzler
+
+![[Bundeskanzler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundeskanzler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundeskanzler&language=de)
 
 **Meaning:** chancellor (m)
 **Plural:** Bundeskanzler

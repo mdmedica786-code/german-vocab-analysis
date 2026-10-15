@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K3 8b"
 freq_rank: 745
 skip: false
+audio: "teilen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # teilen
+
+![[teilen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/teilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teilen&language=de)
 
 **Meaning:** to share
 **Forms:** teilt · teilte · hat geteilt

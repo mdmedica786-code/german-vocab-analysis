@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2462"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Gestaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gestaltung
+
+![[Gestaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gestaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gestaltung&language=de)
 
 **Meaning:** design; shaping; organisation
 **Plural:** Gestaltungen

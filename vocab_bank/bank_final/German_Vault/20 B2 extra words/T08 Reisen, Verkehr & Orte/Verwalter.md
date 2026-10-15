@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3479"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Verwalter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verwalter
+
+![[Verwalter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwalter&language=de)
 
 **Meaning:** administrator; manager (property)
 **Plural:** Verwalter

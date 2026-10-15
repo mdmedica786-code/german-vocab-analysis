@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2100"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "nach und nach.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # nach und nach
+
+![[nach und nach.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nach%20und%20nach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nach%20und%20nach&language=de)
 
 **Meaning:** little by little; gradually
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

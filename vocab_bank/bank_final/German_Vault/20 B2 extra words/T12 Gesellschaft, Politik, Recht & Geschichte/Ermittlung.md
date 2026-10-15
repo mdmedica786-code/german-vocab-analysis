@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0515"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Ermittlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ermittlung
+
+![[Ermittlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ermittlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ermittlung&language=de)
 
 **Meaning:** investigation; inquiry
 **Plural:** Ermittlungen

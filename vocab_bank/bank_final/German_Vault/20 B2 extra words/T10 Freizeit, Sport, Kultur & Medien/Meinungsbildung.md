@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0611"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Meinungsbildung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meinungsbildung
+
+![[Meinungsbildung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meinungsbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meinungsbildung&language=de)
 
 **Meaning:** formation of opinion
 **Plural:** –

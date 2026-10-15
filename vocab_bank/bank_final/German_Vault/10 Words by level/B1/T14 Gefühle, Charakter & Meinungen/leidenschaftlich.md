@@ -12,11 +12,16 @@ id: "B4309"
 netzwerk: "B1 K7 11b"
 freq_rank: 4904
 skip: false
+audio: "leidenschaftlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # leidenschaftlich
+
+![[leidenschaftlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leidenschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leidenschaftlich&language=de)
 
 **Meaning:** passionate
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

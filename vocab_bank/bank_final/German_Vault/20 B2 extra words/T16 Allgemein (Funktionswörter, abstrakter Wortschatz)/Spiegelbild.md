@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3664"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Spiegelbild.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Spiegelbild
+
+![[Spiegelbild.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spiegelbild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spiegelbild&language=de)
 
 **Meaning:** reflection; mirror image
 **Plural:** Spiegelbilder

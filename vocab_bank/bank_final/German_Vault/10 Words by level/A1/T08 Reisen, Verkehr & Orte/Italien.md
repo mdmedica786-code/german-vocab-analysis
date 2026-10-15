@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Italien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Italien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Italien&language=de)
+
 **Meaning:** Italy
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

@@ -12,11 +12,13 @@ bank: "b2"
 id: "D3743"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # aufeinanderstoßen
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufeinandersto%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufeinandersto%C3%9Fen&language=de)
 
 **Meaning:** to collide; to clash
 **Forms:** stößt aufeinander · stieß aufeinander · ist aufeinandergestoßen

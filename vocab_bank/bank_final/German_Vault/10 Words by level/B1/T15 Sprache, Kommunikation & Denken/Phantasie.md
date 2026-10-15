@@ -15,11 +15,16 @@ id: "B5867"
 goethe_level: "B1"
 freq_rank: 3219
 skip: false
+audio: "Phantasie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Phantasie
+
+![[Phantasie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Phantasie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Phantasie&language=de)
 
 **Meaning:** imagination
 **Plural:** Phantasien

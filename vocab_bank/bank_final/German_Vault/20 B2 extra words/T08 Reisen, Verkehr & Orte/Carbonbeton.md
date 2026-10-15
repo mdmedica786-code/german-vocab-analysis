@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3833"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Carbonbeton
+
+[▶️ YouGlish](https://youglish.com/pronounce/Carbonbeton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Carbonbeton&language=de)
 
 **Meaning:** carbon concrete
 **Plural:** –

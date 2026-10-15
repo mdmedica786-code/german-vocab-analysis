@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1323"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "verzweifeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verzweifeln
+
+![[verzweifeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verzweifeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzweifeln&language=de)
 
 **Meaning:** to despair
 **Forms:** verzweifelt · verzweifelte · ist verzweifelt

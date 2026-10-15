@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4151"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kribbeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kribbeln
+
+![[Kribbeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kribbeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kribbeln&language=de)
 
 **Meaning:** tingling; pins and needles
 **Plural:** –

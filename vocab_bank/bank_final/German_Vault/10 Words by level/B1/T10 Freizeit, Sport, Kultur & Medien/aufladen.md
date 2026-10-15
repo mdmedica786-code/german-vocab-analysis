@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "aufladen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufladen
+
+![[aufladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufladen&language=de)
 
 **Meaning:** to charge
 **Forms:** lädt auf · lud auf · hat aufgeladen

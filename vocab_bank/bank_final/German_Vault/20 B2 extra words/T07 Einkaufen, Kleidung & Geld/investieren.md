@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3356"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "investieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # investieren
+
+![[investieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/investieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=investieren&language=de)
 
 **Meaning:** to invest
 **Forms:** investiert · investierte · hat investiert

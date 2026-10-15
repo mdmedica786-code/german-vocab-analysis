@@ -11,11 +11,16 @@ bank: "main"
 id: "B5252"
 freq_rank: 1037
 skip: false
+audio: "offensichtlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # offensichtlich
+
+![[offensichtlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/offensichtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=offensichtlich&language=de)
 
 **Meaning:** obvious; evidently
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

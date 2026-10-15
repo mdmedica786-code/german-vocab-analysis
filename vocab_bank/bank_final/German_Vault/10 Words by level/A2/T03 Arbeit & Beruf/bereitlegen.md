@@ -13,11 +13,16 @@ id: "B2481"
 netzwerk: "A2 K6 11b"
 freq_rank: 5759
 skip: false
+audio: "bereitlegen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bereitlegen
+
+![[bereitlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bereitlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereitlegen&language=de)
 
 **Meaning:** to keep ready
 **Forms:** legt bereit · legte bereit · hat bereitgelegt

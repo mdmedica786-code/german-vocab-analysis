@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0827"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "gleichgültig.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gleichgültig
+
+![[gleichgültig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gleichg%C3%BCltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gleichg%C3%BCltig&language=de)
 
 **Meaning:** indifferent; unconcerned
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

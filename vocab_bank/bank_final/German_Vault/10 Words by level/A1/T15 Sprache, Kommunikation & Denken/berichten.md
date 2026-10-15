@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9b"
 freq_rank: 783
 skip: false
+audio: "berichten.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # berichten
+
+![[berichten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/berichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=berichten&language=de)
 
 **Meaning:** to report
 **Forms:** berichtet · berichtete · hat berichtet

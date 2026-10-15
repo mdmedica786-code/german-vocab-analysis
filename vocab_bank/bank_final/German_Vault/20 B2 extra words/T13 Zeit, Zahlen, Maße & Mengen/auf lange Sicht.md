@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # auf lange Sicht
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20lange%20Sicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20lange%20Sicht&language=de)
+
 **Meaning:** in the long run
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

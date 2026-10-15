@@ -11,11 +11,16 @@ bank: "main"
 id: "B5421"
 freq_rank: 1904
 skip: false
+audio: "daraufhin.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # daraufhin
+
+![[daraufhin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/daraufhin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=daraufhin&language=de)
 
 **Meaning:** thereupon; as a result
 **Level:** C1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

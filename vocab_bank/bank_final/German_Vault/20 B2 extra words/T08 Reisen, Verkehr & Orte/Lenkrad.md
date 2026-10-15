@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4180"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Lenkrad.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Lenkrad
+
+![[Lenkrad.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lenkrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lenkrad&language=de)
 
 **Meaning:** steering wheel
 **Plural:** Lenkräder

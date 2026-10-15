@@ -14,11 +14,16 @@ bank: "main"
 id: "B5722"
 freq_rank: 2854
 skip: false
+audio: "Handball.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handball
+
+![[Handball.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handball&language=de)
 
 **Meaning:** handball
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4175"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "leichtfallen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # leichtfallen
+
+![[leichtfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leichtfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leichtfallen&language=de)
 
 **Meaning:** to come easily; to be easy (for someone)
 **Forms:** fällt leicht · fiel leicht · ist leichtgefallen

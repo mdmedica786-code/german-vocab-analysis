@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K12 7a"
 freq_rank: 974
 skip: false
+audio: "bestätigen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestätigen
+
+![[bestätigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/best%C3%A4tigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=best%C3%A4tigen&language=de)
 
 **Meaning:** to confirm
 **Forms:** bestätigt · bestätigte · hat bestätigt

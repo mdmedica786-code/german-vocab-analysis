@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a"
 freq_rank: 5759
 skip: false
+audio: "Friseurin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Friseurin
+
+![[Friseurin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Friseurin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friseurin&language=de)
 
 **Meaning:** hairdresser (f)
 **Plural:** Friseurinnen

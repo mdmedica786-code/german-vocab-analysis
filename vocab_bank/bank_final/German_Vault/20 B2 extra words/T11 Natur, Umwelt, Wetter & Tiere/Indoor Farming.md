@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4071"
 exam_use: ["Wissenschaft", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Indoor Farming
+
+[▶️ YouGlish](https://youglish.com/pronounce/Indoor%20Farming/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indoor%20Farming&language=de)
 
 **Meaning:** indoor farming
 **Plural:** –

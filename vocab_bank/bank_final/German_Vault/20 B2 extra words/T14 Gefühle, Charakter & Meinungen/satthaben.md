@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4370"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "satthaben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # satthaben
+
+![[satthaben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/satthaben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=satthaben&language=de)
 
 **Meaning:** to be fed up with; to have had enough of
 **Forms:** hat satt · hatte satt · hat sattgehabt

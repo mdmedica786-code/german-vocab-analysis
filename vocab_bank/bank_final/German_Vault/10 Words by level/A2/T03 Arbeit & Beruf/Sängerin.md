@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 5a"
 freq_rank: 2804
 skip: false
+audio: "Sängerin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sängerin
+
+![[Sängerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4ngerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4ngerin&language=de)
 
 **Meaning:** singer (f)
 **Plural:** Sängerinnen

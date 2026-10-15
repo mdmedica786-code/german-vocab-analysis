@@ -15,11 +15,16 @@ id: "B2162"
 netzwerk: "A2 K3 12c"
 freq_rank: 5759
 skip: false
+audio: "Hauptperson.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauptperson
+
+![[Hauptperson.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptperson/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptperson&language=de)
 
 **Meaning:** main character
 **Plural:** Hauptpersonen

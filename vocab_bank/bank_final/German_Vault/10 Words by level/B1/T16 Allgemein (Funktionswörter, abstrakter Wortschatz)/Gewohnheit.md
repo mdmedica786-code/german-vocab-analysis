@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 2794
 skip: false
+audio: "Gewohnheit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gewohnheit
+
+![[Gewohnheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewohnheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewohnheit&language=de)
 
 **Meaning:** habit
 **Plural:** Gewohnheiten

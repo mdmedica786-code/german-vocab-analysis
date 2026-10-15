@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2672"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Ausprägung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausprägung
+
+![[Ausprägung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auspr%C3%A4gung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auspr%C3%A4gung&language=de)
 
 **Meaning:** manifestation; degree
 **Plural:** Ausprägungen

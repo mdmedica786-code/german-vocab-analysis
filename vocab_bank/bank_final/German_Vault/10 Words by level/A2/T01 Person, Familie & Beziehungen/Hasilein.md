@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Hasilein
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hasilein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hasilein&language=de)
+
 **Meaning:** little rabbit
 **Plural:** –
 **Level:** A2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

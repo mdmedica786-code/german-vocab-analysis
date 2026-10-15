@@ -15,11 +15,16 @@ id: "B4599"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Preiskategorie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Preiskategorie
+
+![[Preiskategorie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Preiskategorie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preiskategorie&language=de)
 
 **Meaning:** price category
 **Plural:** Preiskategorien

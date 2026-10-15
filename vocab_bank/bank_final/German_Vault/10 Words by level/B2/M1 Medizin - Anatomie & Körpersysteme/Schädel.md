@@ -14,11 +14,16 @@ bank: "main"
 id: "B5761"
 freq_rank: 2974
 skip: false
+audio: "Schädel.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schädel
+
+![[Schädel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%A4del/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%A4del&language=de)
 
 **Meaning:** skull
 **Plural:** Schädel

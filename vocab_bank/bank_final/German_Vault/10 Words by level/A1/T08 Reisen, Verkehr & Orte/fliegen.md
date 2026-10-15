@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 897
 skip: false
+audio: "fliegen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fliegen
+
+![[fliegen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fliegen&language=de)
 
 **Meaning:** to fly
 **Forms:** fliegt · flog · ist geflogen

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Gehaltsverhandlung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gehaltsverhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehaltsverhandlung&language=de)
+
 **Meaning:** salary negotiation
 **Plural:** Gehaltsverhandlungen
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

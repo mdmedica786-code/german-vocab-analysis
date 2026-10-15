@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2434"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Annahme.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Annahme
+
+![[Annahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Annahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Annahme&language=de)
 
 **Meaning:** assumption; acceptance
 **Plural:** Annahmen

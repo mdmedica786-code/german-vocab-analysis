@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1525"
 exam_use: ["Hören", "Sprechen"]
 skip: false
+audio: "Verständigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Hören", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verständigung
+
+![[Verständigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verst%C3%A4ndigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verst%C3%A4ndigung&language=de)
 
 **Meaning:** communication; understanding
 **Plural:** –

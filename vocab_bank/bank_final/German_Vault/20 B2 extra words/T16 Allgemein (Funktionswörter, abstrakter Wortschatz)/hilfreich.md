@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2664"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "hilfreich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # hilfreich
+
+![[hilfreich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hilfreich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hilfreich&language=de)
 
 **Meaning:** helpful
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1129"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Selbstbewusstsein.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Selbstbewusstsein
+
+![[Selbstbewusstsein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Selbstbewusstsein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstbewusstsein&language=de)
 
 **Meaning:** self-confidence
 **Plural:** –

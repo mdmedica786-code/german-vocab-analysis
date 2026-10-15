@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Entschluss fassen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Entschluss%20fassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Entschluss%20fassen&language=de)
+
 **Meaning:** to make up one's mind
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

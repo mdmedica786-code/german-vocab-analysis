@@ -17,11 +17,16 @@ freq_rank: 3146
 skip: true
 skip_reason: "duplicate of B0262 (learn that entry)"
 check: "dup:B0262"
+audio: "Café.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Café
+
+![[Café.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Caf%C3%A9/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Caf%C3%A9&language=de)
 
 **Meaning:** café
 **Plural:** Cafés

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2998"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "rauschen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rauschen
+
+![[rauschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rauschen&language=de)
 
 **Meaning:** to rustle; to roar; to rush
 **Forms:** rauscht · rauschte · hat/ist gerauscht

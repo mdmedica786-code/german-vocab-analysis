@@ -15,11 +15,16 @@ id: "B5417"
 goethe_level: "B1"
 freq_rank: 1868
 skip: false
+audio: "Gegner.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gegner
+
+![[Gegner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegner&language=de)
 
 **Meaning:** opponent
 **Plural:** Gegner

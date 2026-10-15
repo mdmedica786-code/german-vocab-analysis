@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4384"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Schlafengehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Schlafengehen
+
+![[Schlafengehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlafengehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafengehen&language=de)
 
 **Meaning:** going to bed; bedtime
 **Plural:** –

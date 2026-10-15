@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 10b"
 freq_rank: 5232
 skip: false
+audio: "Song.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Song
+
+![[Song.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Song/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Song&language=de)
 
 **Meaning:** song
 **Plural:** Songs

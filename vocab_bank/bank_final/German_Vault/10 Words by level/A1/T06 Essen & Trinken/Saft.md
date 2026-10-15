@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 5a"
 freq_rank: 4200
 skip: false
+audio: "Saft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Saft
+
+![[Saft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Saft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Saft&language=de)
 
 **Meaning:** juice
 **Plural:** Säfte

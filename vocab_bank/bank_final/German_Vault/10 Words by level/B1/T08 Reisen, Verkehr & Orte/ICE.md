@@ -15,11 +15,16 @@ id: "B3328"
 netzwerk: "B1 K1 11a"
 freq_rank: 2216
 skip: false
+audio: "ICE.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der ICE
+
+![[ICE.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ICE/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ICE&language=de)
 
 **Meaning:** ICE
 **Plural:** ICEs

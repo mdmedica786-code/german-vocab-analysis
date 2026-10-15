@@ -15,11 +15,16 @@ id: "B3557"
 netzwerk: "B1 K3 3b"
 freq_rank: 5759
 skip: false
+audio: "Zeitschriftenartikel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zeitschriftenartikel
+
+![[Zeitschriftenartikel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitschriftenartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitschriftenartikel&language=de)
 
 **Meaning:** newspaper article
 **Plural:** Zeitschriftenartikel

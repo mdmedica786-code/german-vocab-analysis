@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2518"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Engel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Engel
+
+![[Engel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Engel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Engel&language=de)
 
 **Meaning:** angel
 **Plural:** Engel

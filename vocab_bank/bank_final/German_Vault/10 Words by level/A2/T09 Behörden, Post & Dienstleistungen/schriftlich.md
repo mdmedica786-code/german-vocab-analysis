@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # schriftlich
 
+[▶️ YouGlish](https://youglish.com/pronounce/schriftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schriftlich&language=de)
+
 **Meaning:** written
 **Level:** A2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

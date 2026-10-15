@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Mathematik
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mathematik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mathematik&language=de)
+
 **Meaning:** mathematics
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 **Note:** ohne Artikel

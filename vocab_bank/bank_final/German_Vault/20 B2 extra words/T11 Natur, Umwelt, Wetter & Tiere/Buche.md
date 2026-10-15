@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1978"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Buche.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Buche
+
+![[Buche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buche&language=de)
 
 **Meaning:** beech
 **Plural:** Buchen

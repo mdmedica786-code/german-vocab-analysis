@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1022"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Fahrgemeinschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fahrgemeinschaft
+
+![[Fahrgemeinschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrgemeinschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrgemeinschaft&language=de)
 
 **Meaning:** carpool
 **Plural:** Fahrgemeinschaften

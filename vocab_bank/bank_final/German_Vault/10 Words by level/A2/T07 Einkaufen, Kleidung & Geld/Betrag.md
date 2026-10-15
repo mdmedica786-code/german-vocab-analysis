@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 3c"
 freq_rank: 2229
 skip: false
+audio: "Betrag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Betrag
+
+![[Betrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betrag&language=de)
 
 **Meaning:** amount
 **Plural:** Beträge

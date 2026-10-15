@@ -11,11 +11,16 @@ bank: "main"
 id: "B6065"
 freq_rank: 4134
 skip: false
+audio: "fassungslos.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fassungslos
+
+![[fassungslos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fassungslos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fassungslos&language=de)
 
 **Meaning:** stunned; speechless
 **Level:** C1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

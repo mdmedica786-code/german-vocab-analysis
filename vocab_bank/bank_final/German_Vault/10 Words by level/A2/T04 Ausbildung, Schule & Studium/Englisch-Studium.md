@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Englisch-Studium
 
+[▶️ YouGlish](https://youglish.com/pronounce/Englisch-Studium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Englisch-Studium&language=de)
+
 **Meaning:** English degree
 **Plural:** –
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

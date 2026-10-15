@@ -15,11 +15,16 @@ id: "B1099"
 netzwerk: "A1 K7 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Kontonummer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kontonummer
+
+![[Kontonummer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontonummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontonummer&language=de)
 
 **Meaning:** account number
 **Plural:** Kontonummern

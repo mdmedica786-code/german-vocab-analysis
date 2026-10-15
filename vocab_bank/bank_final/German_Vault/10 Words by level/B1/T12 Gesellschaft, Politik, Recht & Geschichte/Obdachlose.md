@@ -15,11 +15,16 @@ id: "B4923"
 netzwerk: "B1 K11 6b"
 freq_rank: 5759
 skip: false
+audio: "Obdachlose.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Obdachlose
+
+![[Obdachlose.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Obdachlose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Obdachlose&language=de)
 
 **Meaning:** homeless person
 **Plural:** Obdachlosen

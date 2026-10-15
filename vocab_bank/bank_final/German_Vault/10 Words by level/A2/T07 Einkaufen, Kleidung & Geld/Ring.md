@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 1a"
 freq_rank: 1977
 skip: false
+audio: "Ring.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ring
+
+![[Ring.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ring/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ring&language=de)
 
 **Meaning:** ring
 **Plural:** Ringe

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1997"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kirsche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kirsche
+
+![[Kirsche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kirsche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kirsche&language=de)
 
 **Meaning:** cherry
 **Plural:** Kirschen

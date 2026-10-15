@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 2a"
 freq_rank: 954
 skip: false
+audio: "Fehler.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fehler
+
+![[Fehler.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fehler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fehler&language=de)
 
 **Meaning:** mistake
 **Plural:** Fehler

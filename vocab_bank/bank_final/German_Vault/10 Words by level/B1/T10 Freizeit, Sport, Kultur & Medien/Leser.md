@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 3b"
 freq_rank: 1415
 skip: false
+audio: "Leser.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leser
+
+![[Leser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leser&language=de)
 
 **Meaning:** reader (m)
 **Plural:** Leser

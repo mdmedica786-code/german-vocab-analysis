@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 6d ÜB"
 freq_rank: 3466
 skip: false
+audio: "Dose.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dose
+
+![[Dose.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dose&language=de)
 
 **Meaning:** tin; can
 **Plural:** Dosen

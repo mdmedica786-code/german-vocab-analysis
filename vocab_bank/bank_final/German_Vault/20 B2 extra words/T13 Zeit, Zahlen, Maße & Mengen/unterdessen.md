@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1354"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "unterdessen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterdessen
+
+![[unterdessen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterdessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterdessen&language=de)
 
 **Meaning:** meanwhile; in the meantime
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

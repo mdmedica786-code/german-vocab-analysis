@@ -15,11 +15,16 @@ id: "B2105"
 netzwerk: "A2 K3 6b"
 freq_rank: 5759
 skip: false
+audio: "Superlativ.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Superlativ
+
+![[Superlativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Superlativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Superlativ&language=de)
 
 **Meaning:** superlative
 **Plural:** Superlative

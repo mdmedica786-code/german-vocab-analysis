@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4321"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Polster.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Polster
+
+![[Polster.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Polster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Polster&language=de)
 
 **Meaning:** cushion; padding
 **Plural:** Polster

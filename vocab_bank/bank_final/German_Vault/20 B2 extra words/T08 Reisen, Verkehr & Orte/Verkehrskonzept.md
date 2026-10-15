@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4578"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verkehrskonzept.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrskonzept
+
+![[Verkehrskonzept.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrskonzept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrskonzept&language=de)
 
 **Meaning:** transport concept; traffic plan
 **Plural:** Verkehrskonzepte

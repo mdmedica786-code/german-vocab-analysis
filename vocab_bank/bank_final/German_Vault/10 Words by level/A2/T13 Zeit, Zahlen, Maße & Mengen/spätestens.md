@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9c"
 freq_rank: 2537
 skip: false
+audio: "spätestens.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spätestens
+
+![[spätestens.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sp%C3%A4testens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sp%C3%A4testens&language=de)
 
 **Meaning:** at the latest
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

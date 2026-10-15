@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Antwortbogen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Antwortbogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antwortbogen&language=de)
+
 **Meaning:** answer sheet
 **Plural:** Antwortbogen
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13c"
 freq_rank: 2026
 skip: false
+audio: "Geschwindigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschwindigkeit
+
+![[Geschwindigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschwindigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschwindigkeit&language=de)
 
 **Meaning:** speed
 **Plural:** Geschwindigkeiten

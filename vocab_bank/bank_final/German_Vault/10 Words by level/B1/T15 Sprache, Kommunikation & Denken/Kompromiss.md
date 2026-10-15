@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 4a"
 freq_rank: 4100
 skip: false
+audio: "Kompromiss.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kompromiss
+
+![[Kompromiss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kompromiss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kompromiss&language=de)
 
 **Meaning:** compromise
 **Plural:** Kompromisse

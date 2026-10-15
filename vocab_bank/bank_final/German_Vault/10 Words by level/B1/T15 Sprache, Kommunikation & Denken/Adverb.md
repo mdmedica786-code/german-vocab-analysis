@@ -15,11 +15,16 @@ id: "B3505"
 netzwerk: "B1 K2 11"
 freq_rank: 5759
 skip: false
+audio: "Adverb.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Adverb
+
+![[Adverb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Adverb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adverb&language=de)
 
 **Meaning:** adverb
 **Plural:** Adverbien

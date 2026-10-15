@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0617"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Talkshow.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Talkshow
+
+![[Talkshow.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Talkshow/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Talkshow&language=de)
 
 **Meaning:** talk show
 **Plural:** Talkshows

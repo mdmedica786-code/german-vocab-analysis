@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Arbeit
 
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeit&language=de)
+
 **Meaning:** work
 **Plural:** Arbeiten
 **Level:** A1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

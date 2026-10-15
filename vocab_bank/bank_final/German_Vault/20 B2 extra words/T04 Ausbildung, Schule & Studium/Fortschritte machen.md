@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Fortschritte machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fortschritte%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fortschritte%20machen&language=de)
+
 **Meaning:** to make progress
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 

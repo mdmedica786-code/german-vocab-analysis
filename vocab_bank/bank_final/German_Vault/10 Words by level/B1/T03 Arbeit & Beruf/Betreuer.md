@@ -15,11 +15,16 @@ id: "B6340"
 goethe_level: "B1"
 freq_rank: 5754
 skip: false
+audio: "Betreuer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Betreuer
+
+![[Betreuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Betreuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Betreuer&language=de)
 
 **Meaning:** carer; supervisor (m)
 **Plural:** Betreuer

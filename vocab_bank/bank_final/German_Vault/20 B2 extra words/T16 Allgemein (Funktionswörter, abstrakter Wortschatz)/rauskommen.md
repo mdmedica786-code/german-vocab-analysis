@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4346"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "rauskommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # rauskommen
+
+![[rauskommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rauskommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rauskommen&language=de)
 
 **Meaning:** to come out; to get out; to be revealed (colloquial)
 **Forms:** kommt raus · kam raus · ist rausgekommen

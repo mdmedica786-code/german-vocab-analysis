@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 2274
 skip: false
+audio: "dreißig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # dreißig
+
+![[dreißig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drei%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drei%C3%9Fig&language=de)
 
 **Meaning:** thirty
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

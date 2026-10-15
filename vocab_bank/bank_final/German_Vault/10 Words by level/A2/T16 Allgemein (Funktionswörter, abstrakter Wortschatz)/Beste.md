@@ -15,11 +15,16 @@ id: "B2332"
 netzwerk: "A2 K5 3c"
 freq_rank: 2000
 skip: false
+audio: "Beste.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Beste
+
+![[Beste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beste&language=de)
 
 **Meaning:** best
 **Plural:** –

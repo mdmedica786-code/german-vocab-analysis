@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2920"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Teilchen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Teilchen
+
+![[Teilchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teilchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teilchen&language=de)
 
 **Meaning:** particle; small piece
 **Plural:** Teilchen

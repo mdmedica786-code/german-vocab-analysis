@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 1a"
 freq_rank: 2545
 skip: false
+audio: "Sieg.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sieg
+
+![[Sieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sieg&language=de)
 
 **Meaning:** victory
 **Plural:** Siege

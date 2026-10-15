@@ -15,11 +15,16 @@ id: "B3515"
 netzwerk: "B1 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "Gruppenarbeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gruppenarbeit
+
+![[Gruppenarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gruppenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gruppenarbeit&language=de)
 
 **Meaning:** group work
 **Plural:** Gruppenarbeiten

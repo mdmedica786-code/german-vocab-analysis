@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3090"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Last.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Last
+
+![[Last.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Last/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Last&language=de)
 
 **Meaning:** load; burden
 **Plural:** Lasten

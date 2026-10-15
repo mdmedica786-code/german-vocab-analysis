@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1365"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ausnahmslos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausnahmslos
+
+![[ausnahmslos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausnahmslos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausnahmslos&language=de)
 
 **Meaning:** without exception
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

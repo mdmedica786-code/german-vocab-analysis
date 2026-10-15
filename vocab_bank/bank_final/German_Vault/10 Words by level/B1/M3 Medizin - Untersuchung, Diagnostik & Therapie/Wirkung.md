@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 6b"
 freq_rank: 546
 skip: false
+audio: "Wirkung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wirkung
+
+![[Wirkung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirkung&language=de)
 
 **Meaning:** effect
 **Plural:** Wirkungen

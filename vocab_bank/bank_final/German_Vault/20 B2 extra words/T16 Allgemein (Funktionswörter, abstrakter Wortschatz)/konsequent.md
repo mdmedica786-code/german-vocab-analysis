@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2927"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "konsequent.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # konsequent
+
+![[konsequent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konsequent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konsequent&language=de)
 
 **Meaning:** consistent; resolute
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

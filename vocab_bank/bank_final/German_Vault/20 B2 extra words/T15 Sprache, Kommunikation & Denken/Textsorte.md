@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4484"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Textsorte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Textsorte
+
+![[Textsorte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Textsorte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textsorte&language=de)
 
 **Meaning:** type of text; genre
 **Plural:** Textsorten

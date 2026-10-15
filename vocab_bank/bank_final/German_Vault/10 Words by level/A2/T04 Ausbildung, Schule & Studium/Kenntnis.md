@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 2a ÜB"
 freq_rank: 1227
 skip: false
+audio: "Kenntnis.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kenntnis
+
+![[Kenntnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kenntnis&language=de)
 
 **Meaning:** knowledge
 **Plural:** Kenntnisse

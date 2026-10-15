@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2841"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Unsinn.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Unsinn
+
+![[Unsinn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unsinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unsinn&language=de)
 
 **Meaning:** nonsense
 **Plural:** –

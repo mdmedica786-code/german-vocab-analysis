@@ -13,11 +13,16 @@ id: "B4091"
 netzwerk: "B1 K6 3a"
 freq_rank: 1149
 skip: false
+audio: "vornehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vornehmen
+
+![[vornehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vornehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vornehmen&language=de)
 
 **Meaning:** to plan to do; to undertake
 **Forms:** nimmt vor · nahm vor · hat vorgenommen

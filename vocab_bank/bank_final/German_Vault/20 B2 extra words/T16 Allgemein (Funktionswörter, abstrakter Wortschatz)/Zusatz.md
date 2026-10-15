@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3113"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Zusatz.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zusatz
+
+![[Zusatz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusatz&language=de)
 
 **Meaning:** addition; additive
 **Plural:** Zusätze

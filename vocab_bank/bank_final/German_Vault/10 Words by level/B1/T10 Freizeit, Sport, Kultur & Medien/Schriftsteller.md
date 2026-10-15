@@ -15,11 +15,16 @@ id: "B5672"
 goethe_level: "B1"
 freq_rank: 2757
 skip: false
+audio: "Schriftsteller.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schriftsteller
+
+![[Schriftsteller.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schriftsteller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schriftsteller&language=de)
 
 **Meaning:** writer; author
 **Plural:** Schriftsteller

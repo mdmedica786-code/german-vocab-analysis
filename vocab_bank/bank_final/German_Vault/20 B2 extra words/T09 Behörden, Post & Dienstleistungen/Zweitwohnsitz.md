@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1903"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Zweitwohnsitz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zweitwohnsitz
+
+![[Zweitwohnsitz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zweitwohnsitz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zweitwohnsitz&language=de)
 
 **Meaning:** second home; secondary residence
 **Plural:** Zweitwohnsitze

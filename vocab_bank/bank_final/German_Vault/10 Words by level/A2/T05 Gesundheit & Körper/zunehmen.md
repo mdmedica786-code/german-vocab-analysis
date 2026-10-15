@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "zunehmen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zunehmen
+
+![[zunehmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zunehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zunehmen&language=de)
 
 **Meaning:** to increase; to put on weight
 **Forms:** nimmt zu · nahm zu · hat zugenommen

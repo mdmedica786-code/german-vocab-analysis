@@ -14,11 +14,16 @@ netzwerk: "B1 K4 10a"
 freq_rank: 5759
 skip: false
 check: "ocr?"
+audio: "kleinmachen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kleinmachen
+
+![[kleinmachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kleinmachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kleinmachen&language=de)
 
 **Meaning:** to belittle oneself
 **Forms:** macht klein · machte klein · hat kleingemacht

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3128"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Legende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Legende
+
+![[Legende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Legende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Legende&language=de)
 
 **Meaning:** legend; key (of a map)
 **Plural:** Legenden

@@ -15,11 +15,16 @@ id: "B4165"
 netzwerk: "B1 K6 8d"
 freq_rank: 5759
 skip: false
+audio: "Verkehrssituation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verkehrssituation
+
+![[Verkehrssituation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrssituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrssituation&language=de)
 
 **Meaning:** traffic situation
 **Plural:** Verkehrssituationen

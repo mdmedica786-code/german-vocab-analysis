@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4204"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Lungenkrankheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lungenkrankheit
+
+![[Lungenkrankheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lungenkrankheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lungenkrankheit&language=de)
 
 **Meaning:** lung disease
 **Plural:** Lungenkrankheiten

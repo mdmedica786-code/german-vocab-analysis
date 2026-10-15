@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0961"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Sozialwissenschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sozialwissenschaft
+
+![[Sozialwissenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialwissenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialwissenschaft&language=de)
 
 **Meaning:** social science
 **Plural:** Sozialwissenschaften

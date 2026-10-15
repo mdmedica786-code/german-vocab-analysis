@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # runterwerfen
 
+[▶️ YouGlish](https://youglish.com/pronounce/runterwerfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=runterwerfen&language=de)
+
 **Meaning:** to throw down
 **Forms:** wirft runter · warf runter · hat runtergeworfen
 **Grammar:** separable (runter-)

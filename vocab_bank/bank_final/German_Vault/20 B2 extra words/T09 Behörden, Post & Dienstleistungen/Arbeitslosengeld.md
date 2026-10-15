@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0540"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Arbeitslosengeld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitslosengeld
+
+![[Arbeitslosengeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitslosengeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitslosengeld&language=de)
 
 **Meaning:** unemployment benefit
 **Plural:** –

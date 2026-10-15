@@ -14,11 +14,16 @@ bank: "main"
 id: "B6285"
 freq_rank: 5356
 skip: false
+audio: "Arzneimittel.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Arzneimittel
+
+![[Arzneimittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arzneimittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arzneimittel&language=de)
 
 **Meaning:** medicine; drug
 **Plural:** Arzneimittel

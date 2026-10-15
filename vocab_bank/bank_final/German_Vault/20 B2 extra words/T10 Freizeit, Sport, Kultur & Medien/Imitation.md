@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4065"
 exam_use: ["Medien", "Sprechen"]
 skip: false
-status: "new"
+audio: "Imitation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Imitation
+
+![[Imitation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Imitation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Imitation&language=de)
 
 **Meaning:** imitation; copy
 **Plural:** Imitationen

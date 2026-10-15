@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 5b"
 freq_rank: 4534
 skip: false
+audio: "aufwachen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufwachen
+
+![[aufwachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufwachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufwachen&language=de)
 
 **Meaning:** to wake up
 **Forms:** wacht auf · wachte auf · ist aufgewacht

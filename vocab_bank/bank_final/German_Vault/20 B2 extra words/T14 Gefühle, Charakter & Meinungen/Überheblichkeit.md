@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4508"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
+audio: "Überheblichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Überheblichkeit
+
+![[Überheblichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberheblichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberheblichkeit&language=de)
 
 **Meaning:** arrogance; conceit
 **Plural:** –

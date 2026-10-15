@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4669"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Zugänglichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Zugänglichkeit
+
+![[Zugänglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zug%C3%A4nglichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zug%C3%A4nglichkeit&language=de)
 
 **Meaning:** accessibility
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 93
 skip: false
+audio: "Mensch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mensch
+
+![[Mensch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mensch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mensch&language=de)
 
 **Meaning:** person; human being
 **Other senses:** man!; jeez! (interjection)

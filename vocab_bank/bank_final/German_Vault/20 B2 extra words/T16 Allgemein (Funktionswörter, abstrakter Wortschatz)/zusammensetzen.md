@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4674"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "zusammensetzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # zusammensetzen
+
+![[zusammensetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammensetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammensetzen&language=de)
 
 **Meaning:** to put together; to assemble; (sich) to consist of
 **Forms:** setzt zusammen · setzte zusammen · hat zusammengesetzt

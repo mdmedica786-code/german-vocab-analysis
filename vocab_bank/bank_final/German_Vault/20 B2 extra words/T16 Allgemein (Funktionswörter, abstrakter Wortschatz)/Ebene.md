@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2394"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ebene.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ebene
+
+![[Ebene.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ebene/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ebene&language=de)
 
 **Meaning:** level; plane; plain
 **Plural:** Ebenen

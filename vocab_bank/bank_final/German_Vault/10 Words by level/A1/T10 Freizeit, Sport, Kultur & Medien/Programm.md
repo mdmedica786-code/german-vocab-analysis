@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 15a"
 freq_rank: 940
 skip: false
+audio: "Programm.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Programm
+
+![[Programm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Programm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Programm&language=de)
 
 **Meaning:** program
 **Plural:** Programme

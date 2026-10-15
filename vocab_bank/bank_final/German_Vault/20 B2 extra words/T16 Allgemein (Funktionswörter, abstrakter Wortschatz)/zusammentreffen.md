@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3511"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "zusammentreffen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammentreffen
+
+![[zusammentreffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammentreffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammentreffen&language=de)
 
 **Meaning:** to meet; to coincide
 **Forms:** trifft zusammen · traf zusammen · ist zusammengetroffen

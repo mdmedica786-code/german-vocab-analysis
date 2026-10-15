@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # kein
 
+[▶️ YouGlish](https://youglish.com/pronounce/kein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kein&language=de)
+
 **Meaning:** no
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

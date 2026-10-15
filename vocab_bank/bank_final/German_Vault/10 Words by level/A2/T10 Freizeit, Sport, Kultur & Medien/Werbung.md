@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 6a"
 freq_rank: 2361
 skip: false
+audio: "Werbung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Werbung
+
+![[Werbung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbung&language=de)
 
 **Meaning:** advertisement
 **Plural:** Werbungen

@@ -15,11 +15,16 @@ id: "B4503"
 netzwerk: "B1 K8 7a"
 freq_rank: 2268
 skip: false
+audio: "Einschränkung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einschränkung
+
+![[Einschränkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einschr%C3%A4nkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschr%C3%A4nkung&language=de)
 
 **Meaning:** limitation
 **Plural:** Einschränkungen

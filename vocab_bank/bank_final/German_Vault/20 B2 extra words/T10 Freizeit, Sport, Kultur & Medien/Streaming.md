@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0616"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Streaming.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Streaming
+
+![[Streaming.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streaming/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streaming&language=de)
 
 **Meaning:** streaming
 **Plural:** –

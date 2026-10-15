@@ -15,11 +15,16 @@ id: "B2140"
 netzwerk: "A2 K3 12a"
 freq_rank: 4093
 skip: false
+audio: "Komödie.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Komödie
+
+![[Komödie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kom%C3%B6die/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kom%C3%B6die&language=de)
 
 **Meaning:** comedy
 **Plural:** Komödien

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2527"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Option.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Option
+
+![[Option.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Option/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Option&language=de)
 
 **Meaning:** option
 **Plural:** Optionen

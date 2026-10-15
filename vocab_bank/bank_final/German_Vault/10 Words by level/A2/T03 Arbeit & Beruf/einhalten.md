@@ -13,11 +13,16 @@ id: "B2389"
 netzwerk: "A2 K6 2a"
 freq_rank: 4892
 skip: false
+audio: "einhalten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einhalten
+
+![[einhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einhalten&language=de)
 
 **Meaning:** to keep to; to comply with
 **Forms:** hält ein · hielt ein · hat eingehalten

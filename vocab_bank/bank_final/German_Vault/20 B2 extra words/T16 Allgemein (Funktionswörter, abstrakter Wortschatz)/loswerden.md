@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3657"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "loswerden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # loswerden
+
+![[loswerden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/loswerden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=loswerden&language=de)
 
 **Meaning:** to get rid of; to be rid of
 **Forms:** wird los · wurde los · ist losgeworden

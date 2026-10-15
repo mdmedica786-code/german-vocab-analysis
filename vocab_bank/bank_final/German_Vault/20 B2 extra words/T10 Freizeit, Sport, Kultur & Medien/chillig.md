@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3839"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "chillig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # chillig
+
+![[chillig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/chillig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=chillig&language=de)
 
 **Meaning:** relaxed; chilled-out (colloquial)
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** colloquial

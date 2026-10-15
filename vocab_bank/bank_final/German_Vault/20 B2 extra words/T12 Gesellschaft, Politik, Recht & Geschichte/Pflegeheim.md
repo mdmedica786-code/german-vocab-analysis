@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1887"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Pflegeheim.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pflegeheim
+
+![[Pflegeheim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflegeheim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflegeheim&language=de)
 
 **Meaning:** nursing home
 **Plural:** Pflegeheime

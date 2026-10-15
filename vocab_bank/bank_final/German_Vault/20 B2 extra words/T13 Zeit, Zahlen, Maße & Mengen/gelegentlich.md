@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2495"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "gelegentlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelegentlich
+
+![[gelegentlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelegentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelegentlich&language=de)
 
 **Meaning:** occasionally
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "Arbeiterin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeiterin
+
+![[Arbeiterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeiterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeiterin&language=de)
 
 **Meaning:** worker (f)
 **Plural:** Arbeiterinnen

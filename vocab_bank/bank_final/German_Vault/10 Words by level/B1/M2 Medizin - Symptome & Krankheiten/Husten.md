@@ -15,11 +15,16 @@ id: "B6235"
 goethe_level: "B1"
 freq_rank: 4987
 skip: false
+audio: "Husten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Husten
+
+![[Husten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Husten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Husten&language=de)
 
 **Meaning:** cough
 **Plural:** –

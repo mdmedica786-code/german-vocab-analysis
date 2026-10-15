@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0947"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Studiengang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Studiengang
+
+![[Studiengang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Studiengang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Studiengang&language=de)
 
 **Meaning:** degree programme; course of study
 **Plural:** Studiengänge

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2592"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "linear.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # linear
+
+![[linear.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/linear/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=linear&language=de)
 
 **Meaning:** linear
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

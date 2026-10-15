@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6a"
 freq_rank: 2134
 skip: false
+audio: "Technologie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Technologie
+
+![[Technologie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Technologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technologie&language=de)
 
 **Meaning:** technology
 **Plural:** Technologien

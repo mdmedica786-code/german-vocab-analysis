@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0211"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "herbeiführen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # herbeiführen
+
+![[herbeiführen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herbeif%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herbeif%C3%BChren&language=de)
 
 **Meaning:** to bring about; to cause
 **Forms:** führt herbei · führte herbei · hat herbeigeführt

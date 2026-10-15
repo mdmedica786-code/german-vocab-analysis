@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Türkei
 
+[▶️ YouGlish](https://youglish.com/pronounce/T%C3%BCrkei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=T%C3%BCrkei&language=de)
+
 **Meaning:** Turkey
 **Plural:** –
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

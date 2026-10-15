@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3485"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "auftragen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auftragen
+
+![[auftragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auftragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auftragen&language=de)
 
 **Meaning:** to apply; to spread on; to serve
 **Forms:** trägt auf · trug auf · hat aufgetragen

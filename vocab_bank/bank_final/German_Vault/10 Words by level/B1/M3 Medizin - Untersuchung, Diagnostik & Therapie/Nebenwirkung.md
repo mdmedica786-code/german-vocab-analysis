@@ -14,11 +14,16 @@ bank: "main"
 id: "B6001"
 freq_rank: 3874
 skip: false
+audio: "Nebenwirkung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nebenwirkung
+
+![[Nebenwirkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nebenwirkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenwirkung&language=de)
 
 **Meaning:** side effect
 **Plural:** Nebenwirkungen

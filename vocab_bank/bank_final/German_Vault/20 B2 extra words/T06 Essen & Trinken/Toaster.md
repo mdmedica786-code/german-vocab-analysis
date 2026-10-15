@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2263"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Toaster.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Toaster
+
+![[Toaster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Toaster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toaster&language=de)
 
 **Meaning:** toaster
 **Plural:** Toaster

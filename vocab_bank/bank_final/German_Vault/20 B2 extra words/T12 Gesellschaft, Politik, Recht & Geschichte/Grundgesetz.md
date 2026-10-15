@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0482"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Grundgesetz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Grundgesetz
+
+![[Grundgesetz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundgesetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundgesetz&language=de)
 
 **Meaning:** Basic Law (German constitution)
 **Plural:** –

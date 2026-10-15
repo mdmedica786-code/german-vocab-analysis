@@ -15,11 +15,16 @@ id: "B5088"
 netzwerk: "B1 K12 9a"
 freq_rank: 2000
 skip: false
+audio: "Versprechen (789).ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Versprechen
+
+![[Versprechen (789).ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versprechen&language=de)
 
 **Meaning:** promise
 **Plural:** Versprechen

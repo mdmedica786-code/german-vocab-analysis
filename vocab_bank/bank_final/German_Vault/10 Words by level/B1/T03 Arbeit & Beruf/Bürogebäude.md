@@ -15,11 +15,16 @@ id: "B4889"
 netzwerk: "B1 K11 1b"
 freq_rank: 5759
 skip: false
+audio: "Bürogebäude.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bürogebäude
+
+![[Bürogebäude.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrogeb%C3%A4ude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrogeb%C3%A4ude&language=de)
 
 **Meaning:** office building
 **Plural:** Bürogebäude

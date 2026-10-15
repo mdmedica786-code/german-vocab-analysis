@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2322"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "samtig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # samtig
+
+![[samtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/samtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=samtig&language=de)
 
 **Meaning:** velvety
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

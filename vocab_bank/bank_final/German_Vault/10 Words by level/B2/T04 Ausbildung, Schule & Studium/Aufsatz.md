@@ -14,11 +14,16 @@ bank: "main"
 id: "B5705"
 freq_rank: 2837
 skip: false
+audio: "Aufsatz.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufsatz
+
+![[Aufsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufsatz&language=de)
 
 **Meaning:** essay
 **Plural:** Aufsätze

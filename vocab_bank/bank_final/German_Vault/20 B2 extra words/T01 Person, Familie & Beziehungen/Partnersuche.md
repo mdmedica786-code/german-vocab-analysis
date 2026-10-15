@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4289"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Partnersuche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Partnersuche
+
+![[Partnersuche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partnersuche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partnersuche&language=de)
 
 **Meaning:** search for a partner
 **Plural:** –

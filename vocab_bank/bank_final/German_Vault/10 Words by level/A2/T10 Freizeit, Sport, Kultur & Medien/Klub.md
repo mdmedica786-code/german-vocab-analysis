@@ -15,11 +15,16 @@ id: "B5631"
 goethe_level: "A2"
 freq_rank: 2605
 skip: false
+audio: "Klub.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klub
+
+![[Klub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klub&language=de)
 
 **Meaning:** club
 **Plural:** Klubs

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2717"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "blättern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # blättern
+
+![[blättern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bl%C3%A4ttern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bl%C3%A4ttern&language=de)
 
 **Meaning:** to leaf through; to flick through
 **Forms:** blättert · blätterte · hat geblättert

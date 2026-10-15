@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3544"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "ungestört.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungestört
+
+![[ungestört.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungest%C3%B6rt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungest%C3%B6rt&language=de)
 
 **Meaning:** undisturbed; uninterrupted
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

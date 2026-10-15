@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3459"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Milieu.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Milieu
+
+![[Milieu.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Milieu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Milieu&language=de)
 
 **Meaning:** social environment; milieu
 **Plural:** Milieus

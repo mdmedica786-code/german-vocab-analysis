@@ -15,11 +15,16 @@ id: "B2205"
 netzwerk: "A2 K4 3e"
 freq_rank: 5759
 skip: false
+audio: "Brautpaar.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Brautpaar
+
+![[Brautpaar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brautpaar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brautpaar&language=de)
 
 **Meaning:** bride and groom; newlyweds
 **Plural:** Brautpaare

@@ -15,11 +15,16 @@ id: "B2132"
 netzwerk: "A2 K3 11c"
 freq_rank: 5759
 skip: false
+audio: "Anfangsbuchstabe.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anfangsbuchstabe
+
+![[Anfangsbuchstabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anfangsbuchstabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anfangsbuchstabe&language=de)
 
 **Meaning:** first letter; initial
 **Plural:** Anfangsbuchstaben

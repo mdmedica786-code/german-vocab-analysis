@@ -15,11 +15,16 @@ id: "B6357"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Angestellter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Angestellter
+
+![[Angestellter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angestellter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angestellter&language=de)
 
 **Meaning:** employee (m)
 **Plural:** Angestellten

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 6b ÜB"
 freq_rank: 721
 skip: false
+audio: "Ohr.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ohr
+
+![[Ohr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ohr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ohr&language=de)
 
 **Meaning:** ear
 **Plural:** Ohren

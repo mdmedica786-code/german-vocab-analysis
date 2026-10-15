@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7a"
 freq_rank: 2413
 skip: false
+audio: "Geburtstag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geburtstag
+
+![[Geburtstag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geburtstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geburtstag&language=de)
 
 **Meaning:** birthday
 **Plural:** Geburtstage

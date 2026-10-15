@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # renovieren
 
+[▶️ YouGlish](https://youglish.com/pronounce/renovieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=renovieren&language=de)
+
 **Meaning:** to renovate
 **Forms:** renoviert · renovierte · hat renoviert
 **Level:** A2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

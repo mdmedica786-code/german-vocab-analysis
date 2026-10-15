@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "B1 K5 8a"
 freq_rank: 1014
 skip: false
+audio: "liefern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # liefern
+
+![[liefern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/liefern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=liefern&language=de)
 
 **Meaning:** to deliver
 **Forms:** liefert · lieferte · hat geliefert

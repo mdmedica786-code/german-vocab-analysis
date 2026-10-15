@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1015"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Pannenhilfe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pannenhilfe
+
+![[Pannenhilfe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pannenhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pannenhilfe&language=de)
 
 **Meaning:** breakdown assistance
 **Plural:** –

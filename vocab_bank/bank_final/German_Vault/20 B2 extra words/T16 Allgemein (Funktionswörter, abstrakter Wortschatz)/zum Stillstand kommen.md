@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zum Stillstand kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Stillstand%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Stillstand%20kommen&language=de)
+
 **Meaning:** to come to a standstill
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

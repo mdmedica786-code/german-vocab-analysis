@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # in
 
+[▶️ YouGlish](https://youglish.com/pronounce/in/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in&language=de)
+
 **Meaning:** in; into
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -12,11 +12,16 @@ id: "B5270"
 goethe_level: "B1"
 freq_rank: 1145
 skip: false
+audio: "Schuld.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schuld
+
+![[Schuld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schuld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schuld&language=de)
 
 **Meaning:** to blame; guilty
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

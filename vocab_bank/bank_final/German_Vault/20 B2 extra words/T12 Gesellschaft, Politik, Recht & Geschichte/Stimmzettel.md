@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0494"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Stimmzettel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stimmzettel
+
+![[Stimmzettel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stimmzettel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stimmzettel&language=de)
 
 **Meaning:** ballot paper
 **Plural:** Stimmzettel

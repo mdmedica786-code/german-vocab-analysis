@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 835
 skip: false
+audio: "Ursache.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ursache
+
+![[Ursache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ursache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ursache&language=de)
 
 **Meaning:** cause
 **Plural:** Ursachen

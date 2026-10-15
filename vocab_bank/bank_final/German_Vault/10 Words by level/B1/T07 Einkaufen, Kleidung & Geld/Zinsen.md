@@ -15,11 +15,16 @@ id: "B5499"
 goethe_level: "B1"
 freq_rank: 2121
 skip: false
+audio: "Zinsen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zinsen
+
+![[Zinsen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zinsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zinsen&language=de)
 
 **Meaning:** interest (on money)
 **Plural:** (Pl.)

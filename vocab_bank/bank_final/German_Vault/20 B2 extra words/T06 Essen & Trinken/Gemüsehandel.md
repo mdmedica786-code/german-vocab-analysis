@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3993"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gemüsehandel
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gem%C3%BCsehandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gem%C3%BCsehandel&language=de)
 
 **Meaning:** vegetable trade; greengrocer's business
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1081"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kaltmiete.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kaltmiete
+
+![[Kaltmiete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaltmiete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaltmiete&language=de)
 
 **Meaning:** basic rent (excluding utilities)
 **Plural:** Kaltmieten

@@ -15,11 +15,16 @@ id: "B3973"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Mülleimer.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mülleimer
+
+![[Mülleimer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BClleimer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BClleimer&language=de)
 
 **Meaning:** rubbish bin
 **Plural:** Mülleimer

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Zimmer
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zimmer&language=de)
+
 **Meaning:** room
 **Plural:** Zimmer
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

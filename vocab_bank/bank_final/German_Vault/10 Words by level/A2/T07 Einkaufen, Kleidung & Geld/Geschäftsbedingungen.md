@@ -15,11 +15,16 @@ id: "B3156"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Geschäftsbedingungen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geschäftsbedingungen
+
+![[Geschäftsbedingungen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsbedingungen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsbedingungen&language=de)
 
 **Meaning:** business conditions
 **Plural:** (Pl.)

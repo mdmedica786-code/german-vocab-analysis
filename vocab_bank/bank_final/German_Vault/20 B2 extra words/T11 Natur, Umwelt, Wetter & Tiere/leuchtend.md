@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3467"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "leuchtend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # leuchtend
+
+![[leuchtend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leuchtend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leuchtend&language=de)
 
 **Meaning:** bright; glowing; vivid
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

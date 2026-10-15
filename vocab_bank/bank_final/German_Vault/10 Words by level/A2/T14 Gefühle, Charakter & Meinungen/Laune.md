@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 3e"
 freq_rank: 2817
 skip: false
+audio: "Laune.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Laune
+
+![[Laune.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laune/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laune&language=de)
 
 **Meaning:** mood
 **Plural:** –

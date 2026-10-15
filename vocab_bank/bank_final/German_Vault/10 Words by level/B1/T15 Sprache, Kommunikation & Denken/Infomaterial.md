@@ -15,11 +15,16 @@ id: "B4044"
 netzwerk: "B1 K5 13a"
 freq_rank: 5759
 skip: false
+audio: "Infomaterial.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Infomaterial
+
+![[Infomaterial.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Infomaterial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Infomaterial&language=de)
 
 **Meaning:** information material
 **Plural:** Infomaterialien

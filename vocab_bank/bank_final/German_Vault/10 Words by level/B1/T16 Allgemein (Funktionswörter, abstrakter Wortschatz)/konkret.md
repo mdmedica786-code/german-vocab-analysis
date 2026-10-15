@@ -12,11 +12,16 @@ id: "B4106"
 netzwerk: "B1 K6 4b"
 freq_rank: 781
 skip: false
+audio: "konkret.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # konkret
+
+![[konkret.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konkret/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konkret&language=de)
 
 **Meaning:** concrete
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1484"
 exam_use: ["Schreiben", "Medien"]
 skip: false
+audio: "Einseitigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einseitigkeit
+
+![[Einseitigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einseitigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einseitigkeit&language=de)
 
 **Meaning:** one-sidedness
 **Plural:** –

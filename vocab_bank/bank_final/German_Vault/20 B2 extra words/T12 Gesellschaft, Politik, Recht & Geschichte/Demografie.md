@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0544"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Demografie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Demografie
+
+![[Demografie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Demografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demografie&language=de)
 
 **Meaning:** demography
 **Plural:** –

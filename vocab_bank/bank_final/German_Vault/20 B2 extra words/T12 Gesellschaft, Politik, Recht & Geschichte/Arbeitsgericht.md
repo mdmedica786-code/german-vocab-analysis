@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3723"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Arbeitsgericht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Arbeitsgericht
+
+![[Arbeitsgericht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsgericht&language=de)
 
 **Meaning:** labour court
 **Plural:** Arbeitsgerichte

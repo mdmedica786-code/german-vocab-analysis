@@ -15,11 +15,16 @@ id: "B4516"
 netzwerk: "B1 K8 11a"
 freq_rank: 2334
 skip: false
+audio: "Motivation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Motivation
+
+![[Motivation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Motivation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motivation&language=de)
 
 **Meaning:** motivation
 **Plural:** –

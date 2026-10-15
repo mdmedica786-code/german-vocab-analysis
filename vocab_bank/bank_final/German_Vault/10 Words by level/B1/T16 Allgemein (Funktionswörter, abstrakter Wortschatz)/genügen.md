@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 1464
 skip: false
+audio: "genügen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # genügen
+
+![[genügen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gen%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gen%C3%BCgen&language=de)
 
 **Meaning:** to suffice
 **Forms:** genügt · genügte · hat genügt

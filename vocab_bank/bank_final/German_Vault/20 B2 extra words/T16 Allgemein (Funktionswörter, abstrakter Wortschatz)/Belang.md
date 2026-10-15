@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3415"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Belang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Belang
+
+![[Belang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Belang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Belang&language=de)
 
 **Meaning:** concern; interest; importance
 **Plural:** Belange

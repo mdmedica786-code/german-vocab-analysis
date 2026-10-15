@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 1b"
 freq_rank: 5675
 skip: false
+audio: "beeilen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beeilen
+
+![[beeilen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beeilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beeilen&language=de)
 
 **Meaning:** to hurry (up)
 **Forms:** beeilt · beeilte · hat beeilt

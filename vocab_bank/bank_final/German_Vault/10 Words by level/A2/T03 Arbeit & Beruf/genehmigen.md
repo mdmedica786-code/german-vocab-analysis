@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 5759
 skip: false
+audio: "genehmigen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # genehmigen
+
+![[genehmigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/genehmigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=genehmigen&language=de)
 
 **Meaning:** to approve
 **Forms:** genehmigt · genehmigte · hat genehmigt

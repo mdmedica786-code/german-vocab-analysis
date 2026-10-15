@@ -15,11 +15,16 @@ id: "B4325"
 netzwerk: "B1 K7 12a"
 freq_rank: 2216
 skip: false
+audio: "Fuchs.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fuchs
+
+![[Fuchs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fuchs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fuchs&language=de)
 
 **Meaning:** fox
 **Plural:** Füchse

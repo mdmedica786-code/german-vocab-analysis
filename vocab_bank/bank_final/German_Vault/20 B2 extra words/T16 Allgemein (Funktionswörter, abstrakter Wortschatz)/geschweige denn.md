@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # geschweige denn
 
+[▶️ YouGlish](https://youglish.com/pronounce/geschweige%20denn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschweige%20denn&language=de)
+
 **Meaning:** let alone
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

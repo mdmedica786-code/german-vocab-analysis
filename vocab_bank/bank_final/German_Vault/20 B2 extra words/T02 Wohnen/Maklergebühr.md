@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1084"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Maklergebühr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Maklergebühr
+
+![[Maklergebühr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maklergeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maklergeb%C3%BChr&language=de)
 
 **Meaning:** estate agent's fee
 **Plural:** Maklergebühren

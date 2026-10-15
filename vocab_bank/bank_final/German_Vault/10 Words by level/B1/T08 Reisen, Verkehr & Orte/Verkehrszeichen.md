@@ -15,11 +15,16 @@ id: "B6590"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Verkehrszeichen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrszeichen
+
+![[Verkehrszeichen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrszeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrszeichen&language=de)
 
 **Meaning:** traffic sign
 **Plural:** Verkehrszeichen

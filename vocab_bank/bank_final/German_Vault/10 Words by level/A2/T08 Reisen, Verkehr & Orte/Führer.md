@@ -15,11 +15,16 @@ id: "B2888"
 netzwerk: "A2 K9 12a"
 freq_rank: 2580
 skip: false
+audio: "Führer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Führer
+
+![[Führer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BChrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BChrer&language=de)
 
 **Meaning:** guide (m); leader
 **Plural:** Führer

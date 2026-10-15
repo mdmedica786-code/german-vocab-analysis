@@ -15,11 +15,16 @@ id: "B1321"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Physiotherapeutin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Physiotherapeutin
+
+![[Physiotherapeutin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Physiotherapeutin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Physiotherapeutin&language=de)
 
 **Meaning:** physical therapist (f)
 **Plural:** Physiotherapeutinnen

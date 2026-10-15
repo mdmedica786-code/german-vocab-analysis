@@ -15,11 +15,16 @@ id: "B3330"
 netzwerk: "B1 K1 12b"
 freq_rank: 5759
 skip: false
+audio: "Bushaltestelle.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bushaltestelle
+
+![[Bushaltestelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bushaltestelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bushaltestelle&language=de)
 
 **Meaning:** bus stop
 **Plural:** Bushaltestellen

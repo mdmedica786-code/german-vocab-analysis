@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1740"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "zwinkern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwinkern
+
+![[zwinkern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwinkern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwinkern&language=de)
 
 **Meaning:** to wink
 **Forms:** zwinkert · zwinkerte · hat gezwinkert

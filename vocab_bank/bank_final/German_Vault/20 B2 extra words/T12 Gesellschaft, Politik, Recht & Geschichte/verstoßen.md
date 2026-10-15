@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1800"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "verstoßen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # verstoßen
+
+![[verstoßen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versto%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versto%C3%9Fen&language=de)
 
 **Meaning:** to violate; to break (a rule)
 **Forms:** verstößt · verstieß · hat verstoßen

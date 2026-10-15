@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 2194
 skip: false
+audio: "Buchstabe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Buchstabe
+
+![[Buchstabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchstabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchstabe&language=de)
 
 **Meaning:** letter
 **Plural:** Buchstaben

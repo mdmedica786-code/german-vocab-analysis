@@ -15,11 +15,16 @@ id: "B4729"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 1083
 skip: false
+audio: "Bedürfnis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bedürfnis
+
+![[Bedürfnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bed%C3%BCrfnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bed%C3%BCrfnis&language=de)
 
 **Meaning:** need
 **Plural:** Bedürfnisse

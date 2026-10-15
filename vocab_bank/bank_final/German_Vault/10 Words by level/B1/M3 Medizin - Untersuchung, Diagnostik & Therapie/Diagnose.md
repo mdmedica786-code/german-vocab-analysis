@@ -15,11 +15,16 @@ id: "B3514"
 netzwerk: "B1 K3 1a"
 freq_rank: 2288
 skip: false
+audio: "Diagnose.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Diagnose
+
+![[Diagnose.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diagnose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diagnose&language=de)
 
 **Meaning:** diagnosis
 **Plural:** Diagnosen

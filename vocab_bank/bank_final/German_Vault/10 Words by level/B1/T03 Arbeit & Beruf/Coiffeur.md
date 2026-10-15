@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Coiffeur.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Coiffeur
+
+![[Coiffeur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Coiffeur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Coiffeur&language=de)
 
 **Meaning:** hairdresser (m) (Swiss)
 **Plural:** Coiffeure

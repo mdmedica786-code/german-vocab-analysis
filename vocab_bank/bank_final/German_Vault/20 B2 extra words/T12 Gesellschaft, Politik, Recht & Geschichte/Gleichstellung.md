@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0481"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gleichstellung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gleichstellung
+
+![[Gleichstellung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gleichstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gleichstellung&language=de)
 
 **Meaning:** equality (of treatment); equal opportunities
 **Plural:** –

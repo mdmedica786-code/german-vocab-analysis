@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 3a"
 freq_rank: 2030
 skip: false
+audio: "toll.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # toll
+
+![[toll.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/toll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=toll&language=de)
 
 **Meaning:** great
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** informal

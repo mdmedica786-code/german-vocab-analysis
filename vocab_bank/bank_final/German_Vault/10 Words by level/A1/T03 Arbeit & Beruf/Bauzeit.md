@@ -15,11 +15,16 @@ id: "B0444"
 netzwerk: "A1 K3 1b"
 freq_rank: 5759
 skip: false
+audio: "Bauzeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bauzeit
+
+![[Bauzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauzeit&language=de)
 
 **Meaning:** construction period
 **Plural:** –

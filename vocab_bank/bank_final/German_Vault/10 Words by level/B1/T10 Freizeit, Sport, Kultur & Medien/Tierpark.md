@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Tierpark.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tierpark
+
+![[Tierpark.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierpark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierpark&language=de)
 
 **Meaning:** zoo
 **Plural:** Tierparks

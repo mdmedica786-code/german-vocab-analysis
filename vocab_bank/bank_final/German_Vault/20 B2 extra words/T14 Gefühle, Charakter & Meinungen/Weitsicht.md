@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1529"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Weitsicht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weitsicht
+
+![[Weitsicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weitsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weitsicht&language=de)
 
 **Meaning:** foresight
 **Plural:** –

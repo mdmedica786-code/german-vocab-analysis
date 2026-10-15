@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 9"
 freq_rank: 638
 skip: false
+audio: "Regel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regel
+
+![[Regel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regel&language=de)
 
 **Meaning:** rule
 **Plural:** Regeln

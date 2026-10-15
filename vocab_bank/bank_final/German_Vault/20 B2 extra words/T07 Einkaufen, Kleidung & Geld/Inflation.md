@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0430"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Inflation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Inflation
+
+![[Inflation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inflation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inflation&language=de)
 
 **Meaning:** inflation
 **Plural:** –

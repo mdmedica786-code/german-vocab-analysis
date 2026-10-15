@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3509"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Stabilisierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stabilisierung
+
+![[Stabilisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stabilisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stabilisierung&language=de)
 
 **Meaning:** stabilisation
 **Plural:** Stabilisierungen

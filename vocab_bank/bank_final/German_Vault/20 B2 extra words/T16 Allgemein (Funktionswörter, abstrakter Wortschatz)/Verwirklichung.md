@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3015"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Verwirklichung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verwirklichung
+
+![[Verwirklichung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwirklichung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwirklichung&language=de)
 
 **Meaning:** realisation; fulfilment
 **Plural:** Verwirklichungen

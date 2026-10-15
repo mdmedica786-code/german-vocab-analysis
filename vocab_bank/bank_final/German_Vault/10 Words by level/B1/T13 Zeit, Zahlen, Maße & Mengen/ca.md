@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # ca.
 
+[▶️ YouGlish](https://youglish.com/pronounce/ca./german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ca.&language=de)
+
 **Meaning:** approx. (approximately)
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 **Note:** Abbreviation of circa; read aloud: zirka.

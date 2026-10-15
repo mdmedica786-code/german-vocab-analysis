@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 7a"
 freq_rank: 2055
 skip: false
+audio: "nachts.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachts
+
+![[nachts.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachts&language=de)
 
 **Meaning:** at night
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

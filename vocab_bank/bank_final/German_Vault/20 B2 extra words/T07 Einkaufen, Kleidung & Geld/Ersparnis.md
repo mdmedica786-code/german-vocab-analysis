@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1047"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ersparnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ersparnis
+
+![[Ersparnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ersparnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ersparnis&language=de)
 
 **Meaning:** saving; savings
 **Plural:** Ersparnisse

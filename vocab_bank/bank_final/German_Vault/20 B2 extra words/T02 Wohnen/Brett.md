@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3490"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Brett.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Brett
+
+![[Brett.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brett&language=de)
 
 **Meaning:** board; plank; shelf
 **Plural:** Bretter

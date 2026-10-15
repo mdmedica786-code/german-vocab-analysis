@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0394"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Wandlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wandlung
+
+![[Wandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wandlung&language=de)
 
 **Meaning:** change; transformation
 **Plural:** Wandlungen

@@ -15,11 +15,16 @@ id: "B6569"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Streichholz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Streichholz
+
+![[Streichholz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streichholz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streichholz&language=de)
 
 **Meaning:** match
 **Plural:** Streichhölzer

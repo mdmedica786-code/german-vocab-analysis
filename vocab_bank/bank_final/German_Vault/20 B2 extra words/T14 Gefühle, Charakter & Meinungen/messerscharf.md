@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4225"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
-status: "new"
+audio: "messerscharf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # messerscharf
+
+![[messerscharf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/messerscharf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=messerscharf&language=de)
 
 **Meaning:** razor-sharp; very sharp
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

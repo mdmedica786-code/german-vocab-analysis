@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # das
 
+[▶️ YouGlish](https://youglish.com/pronounce/das/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das&language=de)
+
 **Meaning:** the (definite article, neuter)
 **Other senses:** this
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

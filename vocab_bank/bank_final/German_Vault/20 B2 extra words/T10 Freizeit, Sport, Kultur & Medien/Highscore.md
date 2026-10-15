@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4039"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Highscore.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Highscore
+
+![[Highscore.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Highscore/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Highscore&language=de)
 
 **Meaning:** high score
 **Plural:** Highscores

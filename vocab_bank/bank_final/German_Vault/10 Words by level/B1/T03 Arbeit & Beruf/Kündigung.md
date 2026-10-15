@@ -15,11 +15,16 @@ id: "B5871"
 goethe_level: "B1"
 freq_rank: 3230
 skip: false
+audio: "Kündigung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kündigung
+
+![[Kündigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCndigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCndigung&language=de)
 
 **Meaning:** dismissal; notice
 **Plural:** Kündigungen

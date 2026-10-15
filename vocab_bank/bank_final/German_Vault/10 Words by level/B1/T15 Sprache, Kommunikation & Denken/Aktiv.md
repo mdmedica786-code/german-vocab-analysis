@@ -15,11 +15,16 @@ id: "B4801"
 netzwerk: "B1 K10 4a"
 freq_rank: 2000
 skip: false
+audio: "Aktiv (716).ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Aktiv
+
+![[Aktiv (716).ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aktiv&language=de)
 
 **Meaning:** active
 **Plural:** –

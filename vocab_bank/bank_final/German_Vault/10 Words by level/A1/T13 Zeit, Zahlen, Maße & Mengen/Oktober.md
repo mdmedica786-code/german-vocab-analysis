@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 10a"
 freq_rank: 1460
 skip: false
+audio: "Oktober.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Oktober
+
+![[Oktober.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oktober/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oktober&language=de)
 
 **Meaning:** October
 **Plural:** –

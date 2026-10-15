@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0505"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Zeugenaussage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeugenaussage
+
+![[Zeugenaussage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeugenaussage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeugenaussage&language=de)
 
 **Meaning:** witness statement
 **Plural:** Zeugenaussagen

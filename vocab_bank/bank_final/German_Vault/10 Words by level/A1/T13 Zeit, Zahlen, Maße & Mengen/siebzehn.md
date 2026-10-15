@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 5650
 skip: false
+audio: "siebzehn.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # siebzehn
+
+![[siebzehn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/siebzehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=siebzehn&language=de)
 
 **Meaning:** seventeen
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

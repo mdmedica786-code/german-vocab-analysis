@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0416"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Quereinsteiger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Quereinsteiger
+
+![[Quereinsteiger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quereinsteiger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quereinsteiger&language=de)
 
 **Meaning:** career changer; lateral entrant
 **Plural:** Quereinsteiger

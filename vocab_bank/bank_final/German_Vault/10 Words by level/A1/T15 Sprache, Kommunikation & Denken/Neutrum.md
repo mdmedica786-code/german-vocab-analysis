@@ -15,11 +15,16 @@ id: "B0292"
 netzwerk: "A1 K2 6a"
 freq_rank: 5759
 skip: false
+audio: "Neutrum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Neutrum
+
+![[Neutrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neutrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neutrum&language=de)
 
 **Meaning:** neuter
 **Plural:** Neutra

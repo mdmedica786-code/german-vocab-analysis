@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1643"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "schlau.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlau
+
+![[schlau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlau&language=de)
 
 **Meaning:** clever; smart
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

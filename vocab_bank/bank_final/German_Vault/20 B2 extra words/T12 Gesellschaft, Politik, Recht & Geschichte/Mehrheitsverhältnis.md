@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0495"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Mehrheitsverhältnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mehrheitsverhältnis
+
+![[Mehrheitsverhältnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehrheitsverh%C3%A4ltnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrheitsverh%C3%A4ltnis&language=de)
 
 **Meaning:** distribution of votes; majority situation
 **Plural:** Mehrheitsverhältnisse

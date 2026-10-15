@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2729"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gleichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gleichen
+
+![[gleichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gleichen&language=de)
 
 **Meaning:** to resemble; to be like
 **Forms:** gleicht · glich · hat geglichen

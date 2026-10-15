@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 5b"
 freq_rank: 920
 skip: false
+audio: "dauern.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dauern
+
+![[dauern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dauern&language=de)
 
 **Meaning:** to last
 **Forms:** dauert · dauerte · hat gedauert

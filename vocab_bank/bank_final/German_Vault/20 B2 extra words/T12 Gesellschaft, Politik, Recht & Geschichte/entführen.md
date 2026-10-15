@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3524"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "entführen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # entführen
+
+![[entführen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entf%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entf%C3%BChren&language=de)
 
 **Meaning:** to kidnap; to abduct
 **Forms:** entführt · entführte · hat entführt

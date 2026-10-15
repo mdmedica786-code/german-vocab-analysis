@@ -12,11 +12,16 @@ bank: "main"
 id: "B5416"
 freq_rank: 1867
 skip: false
+audio: "drohen.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drohen
+
+![[drohen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/drohen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=drohen&language=de)
 
 **Meaning:** to threaten
 **Forms:** droht · drohte · hat gedroht

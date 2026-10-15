@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3074"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "verspüren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verspüren
+
+![[verspüren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versp%C3%BCren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versp%C3%BCren&language=de)
 
 **Meaning:** to feel; to sense
 **Forms:** verspürt · verspürte · hat verspürt

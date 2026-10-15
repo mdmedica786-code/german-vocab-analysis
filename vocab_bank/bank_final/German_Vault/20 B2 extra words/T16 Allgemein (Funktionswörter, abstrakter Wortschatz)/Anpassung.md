@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0325"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Anpassung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anpassung
+
+![[Anpassung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anpassung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anpassung&language=de)
 
 **Meaning:** adjustment; adaptation
 **Plural:** Anpassungen

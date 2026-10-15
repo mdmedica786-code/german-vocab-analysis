@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Debatte stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Debatte%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Debatte%20stehen&language=de)
+
 **Meaning:** to be under discussion
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

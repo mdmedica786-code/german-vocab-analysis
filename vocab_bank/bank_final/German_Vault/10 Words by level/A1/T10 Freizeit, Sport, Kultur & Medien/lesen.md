@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 2a"
 freq_rank: 366
 skip: false
+audio: "lesen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lesen
+
+![[lesen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lesen&language=de)
 
 **Meaning:** to read
 **Forms:** liest · las · hat gelesen

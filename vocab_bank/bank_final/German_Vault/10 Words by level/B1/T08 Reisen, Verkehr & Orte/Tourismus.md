@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 13a"
 freq_rank: 5079
 skip: false
+audio: "Tourismus.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tourismus
+
+![[Tourismus.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tourismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tourismus&language=de)
 
 **Meaning:** tourism
 **Plural:** –

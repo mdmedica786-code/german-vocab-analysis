@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1415"
 exam_use: ["Medien", "Schreiben"]
 skip: false
+audio: "Aufstieg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufstieg
+
+![[Aufstieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufstieg&language=de)
 
 **Meaning:** promotion; ascent; rise
 **Plural:** Aufstiege

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 3346
 skip: false
+audio: "Maler.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Maler
+
+![[Maler.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Maler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Maler&language=de)
 
 **Meaning:** painter (m)
 **Plural:** Maler

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2253"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Toilettenpapier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Toilettenpapier
+
+![[Toilettenpapier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Toilettenpapier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Toilettenpapier&language=de)
 
 **Meaning:** toilet paper
 **Plural:** –

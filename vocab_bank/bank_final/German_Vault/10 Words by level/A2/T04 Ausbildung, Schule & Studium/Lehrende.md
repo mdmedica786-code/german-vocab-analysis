@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # Lehrende
 
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrende&language=de)
+
 **Meaning:** teacher
 **Plural:** Lehrenden
 **Forms:** der Lehrende; die Lehrende; die Lehrenden

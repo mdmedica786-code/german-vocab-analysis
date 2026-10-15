@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Ungarisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ungarisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungarisch&language=de)
+
 **Meaning:** Hungarian
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

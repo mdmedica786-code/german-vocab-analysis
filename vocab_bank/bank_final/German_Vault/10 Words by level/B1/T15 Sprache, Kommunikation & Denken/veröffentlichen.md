@@ -12,11 +12,16 @@ bank: "main"
 id: "B5159"
 freq_rank: 466
 skip: false
+audio: "veröffentlichen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # veröffentlichen
+
+![[veröffentlichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ver%C3%B6ffentlichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ver%C3%B6ffentlichen&language=de)
 
 **Meaning:** to publish; to release
 **Forms:** veröffentlicht · veröffentlichte · hat veröffentlicht

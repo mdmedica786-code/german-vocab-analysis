@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 9b"
 freq_rank: 4279
 skip: false
+audio: "neulich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # neulich
+
+![[neulich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/neulich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=neulich&language=de)
 
 **Meaning:** recently
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

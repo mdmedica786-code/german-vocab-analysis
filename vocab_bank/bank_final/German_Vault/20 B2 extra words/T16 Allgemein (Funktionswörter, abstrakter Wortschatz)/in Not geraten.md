@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Not geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Not%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Not%20geraten&language=de)
+
 **Meaning:** to get into difficulty
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

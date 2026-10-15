@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 6c"
 freq_rank: 278
 skip: false
+audio: "erreichen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erreichen
+
+![[erreichen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erreichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erreichen&language=de)
 
 **Meaning:** to reach
 **Forms:** erreicht · erreichte · hat erreicht

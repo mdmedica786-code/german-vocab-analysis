@@ -15,11 +15,16 @@ id: "B1736"
 netzwerk: "A1 K12 1b"
 freq_rank: 4611
 skip: false
+audio: "Handtasche.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Handtasche
+
+![[Handtasche.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handtasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handtasche&language=de)
 
 **Meaning:** handbag
 **Plural:** Handtaschen

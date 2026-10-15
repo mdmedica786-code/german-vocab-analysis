@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4533"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Unfallbericht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Unfallbericht
+
+![[Unfallbericht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unfallbericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unfallbericht&language=de)
 
 **Meaning:** accident report
 **Plural:** Unfallberichte

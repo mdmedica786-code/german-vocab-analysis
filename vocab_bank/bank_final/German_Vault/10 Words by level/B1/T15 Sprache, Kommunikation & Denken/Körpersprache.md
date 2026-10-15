@@ -15,11 +15,16 @@ id: "B3854"
 netzwerk: "B1 K4 13b"
 freq_rank: 5759
 skip: false
+audio: "Körpersprache.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Körpersprache
+
+![[Körpersprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6rpersprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6rpersprache&language=de)
 
 **Meaning:** body language
 **Plural:** –

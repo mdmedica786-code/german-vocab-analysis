@@ -12,11 +12,16 @@ id: "B3963"
 netzwerk: "B1 K5 8a"
 freq_rank: 1692
 skip: false
+audio: "erhältlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # erhältlich
+
+![[erhältlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erh%C3%A4ltlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erh%C3%A4ltlich&language=de)
 
 **Meaning:** available
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0721"
 exam_use: ["Hören"]
 skip: false
+audio: "Tiefdruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tiefdruck
+
+![[Tiefdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiefdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiefdruck&language=de)
 
 **Meaning:** low pressure
 **Plural:** –

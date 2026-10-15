@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3240"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Dämmerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dämmerung
+
+![[Dämmerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/D%C3%A4mmerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%A4mmerung&language=de)
 
 **Meaning:** dusk; dawn; twilight
 **Plural:** –

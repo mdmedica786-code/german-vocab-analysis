@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3894"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Einzelperson.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Einzelperson
+
+![[Einzelperson.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einzelperson/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzelperson&language=de)
 
 **Meaning:** individual person
 **Plural:** Einzelpersonen

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Entscheidung treffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Entscheidung%20treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Entscheidung%20treffen&language=de)
+
 **Meaning:** to make a decision
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

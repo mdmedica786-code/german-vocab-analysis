@@ -13,11 +13,16 @@ id: "B2635"
 netzwerk: "A2 K7 10c"
 freq_rank: 3000
 skip: false
+audio: "dagegen sein.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dagegen sein
+
+![[dagegen sein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dagegen%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dagegen%20sein&language=de)
 
 **Meaning:** to disapprove
 **Forms:** ist dagegen · war dagegen · ist dagegen gewesen

@@ -13,11 +13,16 @@ id: "B5107"
 netzwerk: "B1 K12 10c"
 freq_rank: 3719
 skip: false
+audio: "räuspern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # räuspern
+
+![[räuspern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%A4uspern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%A4uspern&language=de)
 
 **Meaning:** to clear one's throat
 **Forms:** räuspert sich · räusperte sich · hat sich geräuspert

@@ -15,11 +15,16 @@ id: "B6337"
 goethe_level: "B1"
 freq_rank: 5746
 skip: false
+audio: "Klimaanlage.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Klimaanlage
+
+![[Klimaanlage.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klimaanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimaanlage&language=de)
 
 **Meaning:** air conditioning
 **Plural:** Klimaanlagen

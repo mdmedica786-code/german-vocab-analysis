@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1304"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "tratschen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # tratschen
+
+![[tratschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tratschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tratschen&language=de)
 
 **Meaning:** to gossip
 **Forms:** tratscht · tratschte · hat getratscht

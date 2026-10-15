@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 4a"
 freq_rank: 601
 skip: false
+audio: "gelingen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelingen
+
+![[gelingen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelingen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelingen&language=de)
 
 **Meaning:** to succeed
 **Forms:** gelingt · gelang · ist gelungen

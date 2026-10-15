@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3b"
 freq_rank: 637
 skip: false
+audio: "erfüllen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfüllen
+
+![[erfüllen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erf%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erf%C3%BCllen&language=de)
 
 **Meaning:** to fulfil; to meet; to fill
 **Forms:** erfüllt · erfüllte · hat erfüllt

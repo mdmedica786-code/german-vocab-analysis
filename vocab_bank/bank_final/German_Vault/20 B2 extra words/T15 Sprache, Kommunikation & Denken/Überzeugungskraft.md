@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1520"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Überzeugungskraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überzeugungskraft
+
+![[Überzeugungskraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberzeugungskraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberzeugungskraft&language=de)
 
 **Meaning:** persuasiveness
 **Plural:** –

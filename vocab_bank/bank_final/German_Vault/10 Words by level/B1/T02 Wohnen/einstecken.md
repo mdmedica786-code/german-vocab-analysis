@@ -13,11 +13,16 @@ id: "B3380"
 netzwerk: "B1 K2 1b ÜB"
 freq_rank: 5759
 skip: false
+audio: "einstecken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einstecken
+
+![[einstecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einstecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einstecken&language=de)
 
 **Meaning:** to plug (in)
 **Forms:** steckt ein · steckte ein · hat eingesteckt

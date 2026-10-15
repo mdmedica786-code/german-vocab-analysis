@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K9 10d"
 freq_rank: 3729
 skip: false
+audio: "Topf.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Topf
+
+![[Topf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Topf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Topf&language=de)
 
 **Meaning:** pot
 **Plural:** Töpfe

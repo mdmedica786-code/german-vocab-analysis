@@ -14,11 +14,16 @@ bank: "main"
 id: "B5912"
 freq_rank: 3463
 skip: false
+audio: "Becken.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Becken
+
+![[Becken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Becken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Becken&language=de)
 
 **Meaning:** pelvis; basin
 **Plural:** Becken

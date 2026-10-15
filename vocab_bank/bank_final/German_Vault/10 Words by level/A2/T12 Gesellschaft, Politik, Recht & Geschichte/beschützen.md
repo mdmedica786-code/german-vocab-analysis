@@ -13,11 +13,16 @@ id: "B2293"
 netzwerk: "A2 K5 1b"
 freq_rank: 4286
 skip: false
+audio: "beschützen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschützen
+
+![[beschützen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besch%C3%BCtzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%BCtzen&language=de)
 
 **Meaning:** to protect
 **Forms:** beschützt · beschützte · hat beschützt

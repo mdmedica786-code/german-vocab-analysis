@@ -15,11 +15,16 @@ id: "B2994"
 netzwerk: "A2 K10 10c"
 freq_rank: 5759
 skip: false
+audio: "Kätzchen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kätzchen
+
+![[Kätzchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4tzchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4tzchen&language=de)
 
 **Meaning:** kitty
 **Plural:** Kätzchen

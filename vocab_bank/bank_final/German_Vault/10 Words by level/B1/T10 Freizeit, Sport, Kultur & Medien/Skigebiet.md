@@ -15,11 +15,16 @@ id: "B3295"
 netzwerk: "B1 K1 7"
 freq_rank: 5759
 skip: false
+audio: "Skigebiet.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Skigebiet
+
+![[Skigebiet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skigebiet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skigebiet&language=de)
 
 **Meaning:** ski resort
 **Plural:** Skigebiete

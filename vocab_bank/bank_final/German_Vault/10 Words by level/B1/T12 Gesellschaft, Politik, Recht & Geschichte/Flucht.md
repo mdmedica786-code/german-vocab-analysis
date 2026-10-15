@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 1804
 skip: false
+audio: "Flucht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Flucht
+
+![[Flucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flucht&language=de)
 
 **Meaning:** escape
 **Plural:** –

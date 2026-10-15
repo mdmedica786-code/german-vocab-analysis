@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4263"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Navigationssystem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Navigationssystem
+
+![[Navigationssystem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Navigationssystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Navigationssystem&language=de)
 
 **Meaning:** navigation system; sat nav
 **Plural:** Navigationssysteme

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Parade-Rolle
 
+[▶️ YouGlish](https://youglish.com/pronounce/Parade-Rolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parade-Rolle&language=de)
+
 **Meaning:** showpiece role; star role
 **Plural:** Parade-Rollen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

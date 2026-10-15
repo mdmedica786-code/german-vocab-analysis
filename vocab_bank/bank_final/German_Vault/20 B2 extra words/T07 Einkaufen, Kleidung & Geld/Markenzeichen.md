@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4208"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "Markenzeichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Markenzeichen
+
+![[Markenzeichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Markenzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markenzeichen&language=de)
 
 **Meaning:** trademark; hallmark
 **Plural:** Markenzeichen

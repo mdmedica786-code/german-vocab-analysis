@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Technik-Branche
 
+[▶️ YouGlish](https://youglish.com/pronounce/Technik-Branche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technik-Branche&language=de)
+
 **Meaning:** tech industry
 **Plural:** Technik-Branchen
 **Level:** C1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

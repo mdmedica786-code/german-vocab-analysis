@@ -15,11 +15,16 @@ id: "B4684"
 netzwerk: "B1 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "Missverständnis.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Missverständnis
+
+![[Missverständnis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Missverst%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Missverst%C3%A4ndnis&language=de)
 
 **Meaning:** misunderstanding
 **Plural:** Missverständnisse

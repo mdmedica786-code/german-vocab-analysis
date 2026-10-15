@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 8a"
 freq_rank: 4663
 skip: false
+audio: "Unterschrift.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unterschrift
+
+![[Unterschrift.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unterschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unterschrift&language=de)
 
 **Meaning:** signature
 **Plural:** Unterschriften

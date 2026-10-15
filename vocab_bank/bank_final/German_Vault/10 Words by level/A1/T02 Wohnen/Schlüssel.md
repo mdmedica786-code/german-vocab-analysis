@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 1632
 skip: false
+audio: "Schlüssel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlüssel
+
+![[Schlüssel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schl%C3%BCssel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schl%C3%BCssel&language=de)
 
 **Meaning:** key
 **Plural:** Schlüssel

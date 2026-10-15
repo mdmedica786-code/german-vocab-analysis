@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1866"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Ellbogengesellschaft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ellbogengesellschaft
+
+![[Ellbogengesellschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ellbogengesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ellbogengesellschaft&language=de)
 
 **Meaning:** dog-eat-dog society
 **Plural:** –

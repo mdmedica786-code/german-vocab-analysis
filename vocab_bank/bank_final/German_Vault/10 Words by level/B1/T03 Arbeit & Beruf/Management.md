@@ -14,11 +14,16 @@ bank: "main"
 id: "B5257"
 freq_rank: 1087
 skip: false
+audio: "Management.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Management
+
+![[Management.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Management/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Management&language=de)
 
 **Meaning:** management
 **Plural:** –

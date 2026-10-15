@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 10c"
 freq_rank: 1278
 skip: false
+audio: "Papier.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Papier
+
+![[Papier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Papier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papier&language=de)
 
 **Meaning:** paper
 **Plural:** Papiere

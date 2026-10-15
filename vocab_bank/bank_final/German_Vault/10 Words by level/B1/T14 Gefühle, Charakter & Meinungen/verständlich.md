@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 9d"
 freq_rank: 2681
 skip: false
+audio: "verständlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verständlich
+
+![[verständlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verst%C3%A4ndlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verst%C3%A4ndlich&language=de)
 
 **Meaning:** understandable
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

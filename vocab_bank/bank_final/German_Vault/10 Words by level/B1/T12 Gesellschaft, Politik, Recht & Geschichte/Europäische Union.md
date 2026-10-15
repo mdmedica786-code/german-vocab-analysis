@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 10b"
 freq_rank: 3000
 skip: false
+audio: "Europäische Union.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Europäische Union
+
+![[Europäische Union.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4ische%20Union/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4ische%20Union&language=de)
 
 **Meaning:** European Union (= EU)
 **Plural:** –

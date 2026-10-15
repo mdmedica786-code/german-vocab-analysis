@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 11b"
 freq_rank: 1094
 skip: false
+audio: "verhindern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verhindern
+
+![[verhindern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verhindern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verhindern&language=de)
 
 **Meaning:** to prevent
 **Forms:** verhindert · verhinderte · hat verhindert

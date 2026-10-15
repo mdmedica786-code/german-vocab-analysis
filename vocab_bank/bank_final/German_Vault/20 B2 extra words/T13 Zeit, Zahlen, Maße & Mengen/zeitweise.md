@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0013"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "zeitweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zeitweise
+
+![[zeitweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zeitweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zeitweise&language=de)
 
 **Meaning:** at times; temporarily
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

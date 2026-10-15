@@ -14,11 +14,16 @@ bank: "main"
 id: "B5606"
 freq_rank: 2515
 skip: false
+audio: "Innovation.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Innovation
+
+![[Innovation.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Innovation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Innovation&language=de)
 
 **Meaning:** innovation
 **Plural:** Innovationen

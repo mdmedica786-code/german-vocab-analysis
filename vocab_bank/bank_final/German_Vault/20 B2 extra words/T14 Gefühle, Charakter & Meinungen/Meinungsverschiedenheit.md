@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4219"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Meinungsverschiedenheit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Meinungsverschiedenheit
+
+![[Meinungsverschiedenheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meinungsverschiedenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meinungsverschiedenheit&language=de)
 
 **Meaning:** difference of opinion; disagreement
 **Plural:** Meinungsverschiedenheiten

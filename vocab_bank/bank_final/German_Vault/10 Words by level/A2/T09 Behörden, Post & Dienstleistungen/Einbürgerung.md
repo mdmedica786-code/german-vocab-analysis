@@ -15,11 +15,16 @@ id: "B2343"
 netzwerk: "A2 K5 3c"
 freq_rank: 5759
 skip: false
+audio: "Einbürgerung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einbürgerung
+
+![[Einbürgerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einb%C3%BCrgerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einb%C3%BCrgerung&language=de)
 
 **Meaning:** naturalisation
 **Plural:** Einbürgerungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2210"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Handyvertrag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handyvertrag
+
+![[Handyvertrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handyvertrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handyvertrag&language=de)
 
 **Meaning:** mobile phone contract
 **Plural:** Handyverträge

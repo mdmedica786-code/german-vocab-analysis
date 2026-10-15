@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0386"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Stellenwert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stellenwert
+
+![[Stellenwert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stellenwert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellenwert&language=de)
 
 **Meaning:** importance; status
 **Plural:** –

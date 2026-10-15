@@ -15,11 +15,16 @@ id: "B6274"
 goethe_level: "A2"
 freq_rank: 5272
 skip: false
+audio: "Schirm.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schirm
+
+![[Schirm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schirm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schirm&language=de)
 
 **Meaning:** umbrella
 **Plural:** Schirme

@@ -12,11 +12,16 @@ id: "B0543"
 netzwerk: "A1 K3 9a"
 freq_rank: 4119
 skip: false
+audio: "deutschsprachig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # deutschsprachig
+
+![[deutschsprachig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/deutschsprachig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deutschsprachig&language=de)
 
 **Meaning:** German-speaking
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

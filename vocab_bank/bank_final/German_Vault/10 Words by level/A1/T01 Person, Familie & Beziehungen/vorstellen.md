@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 5b"
 freq_rank: 649
 skip: false
+audio: "vorstellen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorstellen
+
+![[vorstellen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorstellen&language=de)
 
 **Meaning:** to introduce; to present
 **Other senses:** sich (Dat.) vorstellen: to imagine

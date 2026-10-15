@@ -13,11 +13,16 @@ id: "B4636"
 netzwerk: "B1 K9 7b"
 freq_rank: 3234
 skip: false
+audio: "erarbeiten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erarbeiten
+
+![[erarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erarbeiten&language=de)
 
 **Meaning:** to work out; to develop
 **Forms:** erarbeitet · erarbeitete · hat erarbeitet

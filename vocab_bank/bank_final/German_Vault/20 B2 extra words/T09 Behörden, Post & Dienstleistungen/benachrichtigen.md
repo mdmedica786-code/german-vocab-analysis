@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1808"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "benachrichtigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # benachrichtigen
+
+![[benachrichtigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/benachrichtigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=benachrichtigen&language=de)
 
 **Meaning:** to notify; to inform
 **Forms:** benachrichtigt · benachrichtigte · hat benachrichtigt

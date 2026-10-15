@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0724"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Massentierhaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Massentierhaltung
+
+![[Massentierhaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Massentierhaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Massentierhaltung&language=de)
 
 **Meaning:** factory farming
 **Plural:** –

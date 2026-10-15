@@ -15,11 +15,16 @@ id: "B4052"
 netzwerk: "B1 K5 13a"
 freq_rank: 9999
 skip: false
+audio: "Naturfreundin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Naturfreundin
+
+![[Naturfreundin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Naturfreundin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturfreundin&language=de)
 
 **Meaning:** nature lover (f)
 **Plural:** Naturfreundinnen

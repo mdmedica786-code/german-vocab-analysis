@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 1 ÜB"
 freq_rank: 2000
 skip: false
+audio: "reifen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Reifen
+
+![[reifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reifen&language=de)
 
 **Meaning:** tyre
 **Plural:** Reifen

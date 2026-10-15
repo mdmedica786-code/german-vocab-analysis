@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0413"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Gleitzeit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gleitzeit
+
+![[Gleitzeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gleitzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gleitzeit&language=de)
 
 **Meaning:** flexible working hours
 **Plural:** –

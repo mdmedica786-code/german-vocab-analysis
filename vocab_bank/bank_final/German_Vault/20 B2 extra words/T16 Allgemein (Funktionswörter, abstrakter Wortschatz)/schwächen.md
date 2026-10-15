@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2794"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "schwächen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwächen
+
+![[schwächen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schw%C3%A4chen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schw%C3%A4chen&language=de)
 
 **Meaning:** to weaken
 **Forms:** schwächt · schwächte · hat geschwächt

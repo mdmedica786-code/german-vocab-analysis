@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4438"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Spielleitung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Spielleitung
+
+![[Spielleitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielleitung&language=de)
 
 **Meaning:** game management; refereeing; game master
 **Plural:** Spielleitungen

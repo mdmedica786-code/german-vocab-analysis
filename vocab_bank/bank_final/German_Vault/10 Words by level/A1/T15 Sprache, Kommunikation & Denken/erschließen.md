@@ -13,11 +13,16 @@ id: "B1330"
 netzwerk: "A1 K8 13b"
 freq_rank: 4854
 skip: false
+audio: "erschließen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erschließen
+
+![[erschließen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erschlie%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschlie%C3%9Fen&language=de)
 
 **Meaning:** to infer; to open up
 **Forms:** erschließt · erschloss · hat erschlossen

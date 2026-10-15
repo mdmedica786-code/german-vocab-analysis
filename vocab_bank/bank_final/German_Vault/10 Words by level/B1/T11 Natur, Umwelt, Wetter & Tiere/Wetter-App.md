@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Wetter-App
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wetter-App/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wetter-App&language=de)
+
 **Meaning:** weather app
 **Plural:** Wetter-Apps
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

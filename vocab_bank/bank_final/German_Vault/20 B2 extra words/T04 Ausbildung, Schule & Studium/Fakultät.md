@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3112"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Fakultät.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fakultät
+
+![[Fakultät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fakult%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fakult%C3%A4t&language=de)
 
 **Meaning:** faculty (university)
 **Plural:** Fakultäten

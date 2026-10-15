@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3c ÜB"
 freq_rank: 4404
 skip: false
+audio: "Reis.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Reis
+
+![[Reis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reis&language=de)
 
 **Meaning:** rice
 **Plural:** –

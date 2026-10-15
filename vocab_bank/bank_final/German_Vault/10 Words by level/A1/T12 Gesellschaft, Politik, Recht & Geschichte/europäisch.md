@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "B1 K5 1a"
 freq_rank: 590
 skip: false
+audio: "europäisch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # europäisch
+
+![[europäisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/europ%C3%A4isch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=europ%C3%A4isch&language=de)
 
 **Meaning:** European
 **Level:** A1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

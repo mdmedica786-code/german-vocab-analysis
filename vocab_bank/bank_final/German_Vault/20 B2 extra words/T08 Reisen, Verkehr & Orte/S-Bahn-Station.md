@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4366"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die S-Bahn-Station
+
+[▶️ YouGlish](https://youglish.com/pronounce/S-Bahn-Station/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S-Bahn-Station&language=de)
 
 **Meaning:** suburban train station
 **Plural:** S-Bahn-Stationen

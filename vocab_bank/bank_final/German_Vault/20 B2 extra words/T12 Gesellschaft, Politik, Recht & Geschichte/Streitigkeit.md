@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3629"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Streitigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Streitigkeit
+
+![[Streitigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streitigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streitigkeit&language=de)
 
 **Meaning:** dispute; quarrel
 **Plural:** Streitigkeiten

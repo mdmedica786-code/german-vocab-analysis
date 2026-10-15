@@ -15,11 +15,16 @@ id: "B5723"
 goethe_level: "A2"
 freq_rank: 2854
 skip: false
+audio: "Ostern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ostern
+
+![[Ostern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ostern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ostern&language=de)
 
 **Meaning:** Easter
 **Plural:** –

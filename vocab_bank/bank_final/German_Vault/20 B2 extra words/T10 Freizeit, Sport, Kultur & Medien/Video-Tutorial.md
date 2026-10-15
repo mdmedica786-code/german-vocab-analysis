@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4597"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Video-Tutorial
+
+[▶️ YouGlish](https://youglish.com/pronounce/Video-Tutorial/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Video-Tutorial&language=de)
 
 **Meaning:** video tutorial
 **Plural:** Video-Tutorials

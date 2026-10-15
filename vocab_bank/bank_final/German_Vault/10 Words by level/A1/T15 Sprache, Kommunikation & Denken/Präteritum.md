@@ -15,11 +15,16 @@ id: "B1000"
 netzwerk: "A1 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "Präteritum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Präteritum
+
+![[Präteritum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%A4teritum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%A4teritum&language=de)
 
 **Meaning:** simple past
 **Plural:** Präterita

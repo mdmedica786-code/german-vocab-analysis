@@ -15,11 +15,16 @@ id: "B4697"
 netzwerk: "B1 K9 12b"
 freq_rank: 2000
 skip: false
+audio: "Treffen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Treffen
+
+![[Treffen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Treffen&language=de)
 
 **Meaning:** meeting
 **Plural:** Treffen

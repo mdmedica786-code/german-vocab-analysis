@@ -11,11 +11,16 @@ bank: "main"
 id: "B6091"
 freq_rank: 4298
 skip: false
+audio: "örtlich.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # örtlich
+
+![[örtlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%B6rtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%B6rtlich&language=de)
 
 **Meaning:** local
 **Level:** C1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

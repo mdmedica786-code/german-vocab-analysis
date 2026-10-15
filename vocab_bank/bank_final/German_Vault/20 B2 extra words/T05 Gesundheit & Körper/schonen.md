@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4390"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "schonen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # schonen
+
+![[schonen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schonen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schonen&language=de)
 
 **Meaning:** to spare; to protect; (sich) to take it easy
 **Forms:** schont · schonte · hat geschont

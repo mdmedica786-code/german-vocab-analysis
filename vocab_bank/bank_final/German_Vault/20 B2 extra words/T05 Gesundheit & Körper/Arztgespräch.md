@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3736"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Arztgespräch
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arztgespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztgespr%C3%A4ch&language=de)
 
 **Meaning:** consultation with a doctor
 **Plural:** Arztgespräche

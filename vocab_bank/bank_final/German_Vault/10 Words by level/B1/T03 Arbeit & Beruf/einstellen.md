@@ -13,11 +13,16 @@ id: "B5426"
 goethe_level: "B1"
 freq_rank: 1922
 skip: false
+audio: "einstellen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einstellen
+
+![[einstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einstellen&language=de)
 
 **Meaning:** to hire; to stop; to adjust
 **Forms:** stellt ein · stellte ein · hat eingestellt

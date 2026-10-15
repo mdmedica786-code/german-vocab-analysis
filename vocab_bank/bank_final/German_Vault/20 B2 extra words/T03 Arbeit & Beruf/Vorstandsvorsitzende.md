@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4609"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Vorstandsvorsitzende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # Vorstandsvorsitzende
+
+![[Vorstandsvorsitzende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorstandsvorsitzende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorstandsvorsitzende&language=de)
 
 **Meaning:** chair of the board; CEO
 **Plural:** Vorstandsvorsitzenden

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Portemonnaie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Portemonnaie
+
+![[Portemonnaie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Portemonnaie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Portemonnaie&language=de)
 
 **Meaning:** wallet
 **Plural:** Portemonnaies

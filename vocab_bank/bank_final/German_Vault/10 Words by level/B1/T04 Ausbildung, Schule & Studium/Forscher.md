@@ -15,11 +15,16 @@ id: "B4474"
 netzwerk: "B1 K8 6b"
 freq_rank: 3376
 skip: false
+audio: "Forscher.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Forscher
+
+![[Forscher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forscher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forscher&language=de)
 
 **Meaning:** researcher (m)
 **Plural:** Forscher

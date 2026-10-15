@@ -15,11 +15,16 @@ id: "B6561"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Stecker.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stecker
+
+![[Stecker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stecker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stecker&language=de)
 
 **Meaning:** plug
 **Plural:** Stecker

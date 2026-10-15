@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Rage geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Rage%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Rage%20geraten&language=de)
+
 **Meaning:** to fly into a rage
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

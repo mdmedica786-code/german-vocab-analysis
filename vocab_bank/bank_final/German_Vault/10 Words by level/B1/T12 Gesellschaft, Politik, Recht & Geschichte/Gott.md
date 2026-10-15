@@ -15,11 +15,16 @@ id: "B5142"
 goethe_level: "B1"
 freq_rank: 181
 skip: false
+audio: "Gott.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gott
+
+![[Gott.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gott/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gott&language=de)
 
 **Meaning:** God; god
 **Plural:** Götter

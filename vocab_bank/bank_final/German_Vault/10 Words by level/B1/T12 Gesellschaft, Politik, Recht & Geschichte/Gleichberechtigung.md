@@ -15,11 +15,16 @@ id: "B4722"
 netzwerk: "B1 K10 1a"
 freq_rank: 5112
 skip: false
+audio: "Gleichberechtigung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gleichberechtigung
+
+![[Gleichberechtigung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gleichberechtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gleichberechtigung&language=de)
 
 **Meaning:** equality
 **Plural:** –

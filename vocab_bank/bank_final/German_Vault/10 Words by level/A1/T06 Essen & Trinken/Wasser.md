@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 303
 skip: false
+audio: "Wasser.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wasser
+
+![[Wasser.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasser&language=de)
 
 **Meaning:** water
 **Plural:** Wasser

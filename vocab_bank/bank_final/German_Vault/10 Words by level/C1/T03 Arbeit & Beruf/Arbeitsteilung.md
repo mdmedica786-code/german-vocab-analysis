@@ -14,11 +14,16 @@ bank: "main"
 id: "B6283"
 freq_rank: 5352
 skip: false
+audio: "Arbeitsteilung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitsteilung
+
+![[Arbeitsteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsteilung&language=de)
 
 **Meaning:** division of labour
 **Plural:** –

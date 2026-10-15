@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10a"
 freq_rank: 2290
 skip: false
+audio: "Sport.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sport
+
+![[Sport.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sport/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sport&language=de)
 
 **Meaning:** sport
 **Plural:** –

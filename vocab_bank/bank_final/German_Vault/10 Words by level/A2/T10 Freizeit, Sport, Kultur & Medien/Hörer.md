@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 7a"
 freq_rank: 3261
 skip: false
+audio: "Hörer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hörer
+
+![[Hörer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rer&language=de)
 
 **Meaning:** listener (m)
 **Plural:** Hörer

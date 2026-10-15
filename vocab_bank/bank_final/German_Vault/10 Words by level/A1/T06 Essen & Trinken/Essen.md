@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3a"
 freq_rank: 2000
 skip: false
+audio: "essen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Essen
+
+![[essen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Essen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Essen&language=de)
 
 **Meaning:** food; meal
 **Plural:** Essen

@@ -15,11 +15,16 @@ id: "B2327"
 netzwerk: "A2 K5 3c"
 freq_rank: 5099
 skip: false
+audio: "Bezahlung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bezahlung
+
+![[Bezahlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bezahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bezahlung&language=de)
 
 **Meaning:** payment
 **Plural:** Bezahlungen

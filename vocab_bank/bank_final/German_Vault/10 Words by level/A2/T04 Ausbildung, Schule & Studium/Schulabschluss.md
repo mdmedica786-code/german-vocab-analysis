@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Schulabschluss
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schulabschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulabschluss&language=de)
+
 **Meaning:** graduation
 **Plural:** Schulabschlüsse
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

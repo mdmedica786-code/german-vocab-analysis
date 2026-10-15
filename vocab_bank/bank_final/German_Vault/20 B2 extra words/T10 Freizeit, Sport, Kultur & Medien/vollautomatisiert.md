@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4600"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # vollautomatisiert
+
+[▶️ YouGlish](https://youglish.com/pronounce/vollautomatisiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vollautomatisiert&language=de)
 
 **Meaning:** fully automated
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

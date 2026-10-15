@@ -15,11 +15,16 @@ id: "B6608"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Wissenschaftlerin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wissenschaftlerin
+
+![[Wissenschaftlerin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wissenschaftlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wissenschaftlerin&language=de)
 
 **Meaning:** scientist (f)
 **Plural:** Wissenschaftlerinnen

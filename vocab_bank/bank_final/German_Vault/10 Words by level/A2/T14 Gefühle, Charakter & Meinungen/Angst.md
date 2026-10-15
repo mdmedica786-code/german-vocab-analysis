@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 9c"
 freq_rank: 385
 skip: false
+audio: "Angst.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Angst
+
+![[Angst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Angst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Angst&language=de)
 
 **Meaning:** fear
 **Plural:** Ängste

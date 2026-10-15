@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Gang kommen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Gang%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Gang%20kommen&language=de)
+
 **Meaning:** to get going; to get started
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

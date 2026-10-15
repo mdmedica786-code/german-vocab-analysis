@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Stadtpräsidentin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stadtpräsidentin
+
+![[Stadtpräsidentin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtpr%C3%A4sidentin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtpr%C3%A4sidentin&language=de)
 
 **Meaning:** mayor (f) (Swiss)
 **Plural:** Stadtpräsidentinnen

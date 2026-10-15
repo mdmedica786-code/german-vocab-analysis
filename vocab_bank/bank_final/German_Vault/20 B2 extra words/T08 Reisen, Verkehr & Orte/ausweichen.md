@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1804"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "ausweichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausweichen
+
+![[ausweichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausweichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausweichen&language=de)
 
 **Meaning:** to dodge; to evade
 **Forms:** weicht aus · wich aus · ist ausgewichen

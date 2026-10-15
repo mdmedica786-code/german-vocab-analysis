@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2610"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "etablieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # etablieren
+
+![[etablieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/etablieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=etablieren&language=de)
 
 **Meaning:** to establish
 **Forms:** etabliert sich · etablierte sich · hat sich etabliert

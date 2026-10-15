@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0136"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Rechenschaft ablegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # Rechenschaft ablegen
+
+![[Rechenschaft ablegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechenschaft%20ablegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechenschaft%20ablegen&language=de)
 
 **Meaning:** to account for; to render account
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3785"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Begründer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Begründer
+
+![[Begründer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BCnder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BCnder&language=de)
 
 **Meaning:** founder; originator
 **Plural:** Begründer

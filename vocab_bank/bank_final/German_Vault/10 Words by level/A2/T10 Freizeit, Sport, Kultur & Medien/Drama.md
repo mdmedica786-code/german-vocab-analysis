@@ -15,11 +15,16 @@ id: "B2367"
 netzwerk: "A2 K5 8b"
 freq_rank: 3853
 skip: false
+audio: "Drama.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Drama
+
+![[Drama.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drama/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drama&language=de)
 
 **Meaning:** drama
 **Plural:** Dramen

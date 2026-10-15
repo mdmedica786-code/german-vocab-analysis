@@ -13,11 +13,16 @@ id: "B0941"
 netzwerk: "A1 K6 4b"
 freq_rank: 2317
 skip: false
+audio: "aufstellen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufstellen
+
+![[aufstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufstellen&language=de)
 
 **Meaning:** to set up; to put up; to draw up
 **Forms:** stellt auf · stellte auf · hat aufgestellt

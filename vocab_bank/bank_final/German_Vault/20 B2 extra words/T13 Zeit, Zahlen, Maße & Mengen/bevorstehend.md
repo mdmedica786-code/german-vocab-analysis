@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3658"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "bevorstehend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bevorstehend
+
+![[bevorstehend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bevorstehend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bevorstehend&language=de)
 
 **Meaning:** upcoming; imminent
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

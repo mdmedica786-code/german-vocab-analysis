@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1181"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Übertreibung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übertreibung
+
+![[Übertreibung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbertreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbertreibung&language=de)
 
 **Meaning:** exaggeration
 **Plural:** Übertreibungen

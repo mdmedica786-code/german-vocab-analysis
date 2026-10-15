@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Grundschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Grundschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundschule&language=de)
+
 **Meaning:** elementary school
 **Plural:** Grundschulen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

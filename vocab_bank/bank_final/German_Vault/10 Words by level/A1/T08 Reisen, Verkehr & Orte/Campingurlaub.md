@@ -15,11 +15,16 @@ id: "B1726"
 netzwerk: "A1 K12 1a"
 freq_rank: 5759
 skip: false
+audio: "Campingurlaub.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Campingurlaub
+
+![[Campingurlaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Campingurlaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Campingurlaub&language=de)
 
 **Meaning:** camping holiday
 **Plural:** Campingurlaube

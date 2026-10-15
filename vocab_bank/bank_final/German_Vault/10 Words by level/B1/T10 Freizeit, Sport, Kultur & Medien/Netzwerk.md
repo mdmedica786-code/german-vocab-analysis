@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 4c"
 freq_rank: 1717
 skip: false
+audio: "Netzwerk.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Netzwerk
+
+![[Netzwerk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Netzwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Netzwerk&language=de)
 
 **Meaning:** network
 **Plural:** Netzwerke

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6089"
 freq_rank: 4285
 skip: false
+audio: "Muskulatur.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Muskulatur
+
+![[Muskulatur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Muskulatur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muskulatur&language=de)
 
 **Meaning:** musculature
 **Plural:** –

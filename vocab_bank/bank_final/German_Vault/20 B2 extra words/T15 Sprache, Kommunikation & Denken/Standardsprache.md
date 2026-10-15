@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4458"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
+audio: "Standardsprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Standardsprache
+
+![[Standardsprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Standardsprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standardsprache&language=de)
 
 **Meaning:** standard language
 **Plural:** Standardsprachen

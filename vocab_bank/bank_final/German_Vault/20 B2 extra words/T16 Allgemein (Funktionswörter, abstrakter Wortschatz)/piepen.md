@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4309"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "piepen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # piepen
+
+![[piepen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/piepen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=piepen&language=de)
 
 **Meaning:** to beep; to chirp; to squeak
 **Forms:** piept · piepte · hat gepiept

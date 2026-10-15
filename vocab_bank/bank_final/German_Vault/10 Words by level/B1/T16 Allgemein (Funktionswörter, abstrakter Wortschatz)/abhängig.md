@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3c"
 freq_rank: 1502
 skip: false
+audio: "abhängig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # abhängig
+
+![[abhängig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abh%C3%A4ngig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abh%C3%A4ngig&language=de)
 
 **Meaning:** dependent
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

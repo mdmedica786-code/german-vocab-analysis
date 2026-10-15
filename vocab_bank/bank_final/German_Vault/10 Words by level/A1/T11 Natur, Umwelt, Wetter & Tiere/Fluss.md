@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 1b"
 freq_rank: 1520
 skip: false
+audio: "Fluss.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fluss
+
+![[Fluss.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fluss&language=de)
 
 **Meaning:** river
 **Plural:** Flüsse

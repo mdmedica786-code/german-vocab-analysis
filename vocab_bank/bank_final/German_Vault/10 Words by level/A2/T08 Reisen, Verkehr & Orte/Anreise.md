@@ -15,11 +15,16 @@ id: "B2881"
 netzwerk: "A2 K9 12a"
 freq_rank: 5759
 skip: false
+audio: "Anreise.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anreise
+
+![[Anreise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anreise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anreise&language=de)
 
 **Meaning:** journey
 **Plural:** Anreisen

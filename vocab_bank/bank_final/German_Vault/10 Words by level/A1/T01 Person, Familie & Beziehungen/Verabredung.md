@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 5b"
 freq_rank: 5759
 skip: false
+audio: "Verabredung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verabredung
+
+![[Verabredung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verabredung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verabredung&language=de)
 
 **Meaning:** appointment
 **Plural:** Verabredungen

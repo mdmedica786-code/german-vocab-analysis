@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0489"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Regierungspartei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regierungspartei
+
+![[Regierungspartei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regierungspartei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regierungspartei&language=de)
 
 **Meaning:** governing party
 **Plural:** Regierungsparteien

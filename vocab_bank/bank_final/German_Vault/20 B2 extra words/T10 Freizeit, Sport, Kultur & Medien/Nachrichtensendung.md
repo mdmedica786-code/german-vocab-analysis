@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1941"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Nachrichtensendung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachrichtensendung
+
+![[Nachrichtensendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachrichtensendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichtensendung&language=de)
 
 **Meaning:** news programme
 **Plural:** Nachrichtensendungen

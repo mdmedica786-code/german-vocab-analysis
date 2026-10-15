@@ -13,11 +13,16 @@ id: "B6593"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "verpacken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verpacken
+
+![[verpacken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verpacken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verpacken&language=de)
 
 **Meaning:** to pack
 **Forms:** verpackt · verpackte · hat verpackt

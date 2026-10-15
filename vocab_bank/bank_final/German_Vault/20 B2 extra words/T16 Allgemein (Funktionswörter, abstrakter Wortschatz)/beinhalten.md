@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2546"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beinhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beinhalten
+
+![[beinhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beinhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beinhalten&language=de)
 
 **Meaning:** to contain; to include; to involve
 **Forms:** beinhaltet · beinhaltete · hat beinhaltet

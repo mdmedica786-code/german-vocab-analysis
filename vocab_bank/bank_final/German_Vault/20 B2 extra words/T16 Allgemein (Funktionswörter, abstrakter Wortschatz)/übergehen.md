@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1837"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "übergehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # übergehen
+
+![[übergehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbergehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbergehen&language=de)
 
 **Meaning:** to pass over; to switch to
 **Forms:** geht über · ging über · ist übergegangen

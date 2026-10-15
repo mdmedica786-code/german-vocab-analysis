@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1103"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Meldebescheinigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Meldebescheinigung
+
+![[Meldebescheinigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Meldebescheinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Meldebescheinigung&language=de)
 
 **Meaning:** registration certificate
 **Plural:** Meldebescheinigungen

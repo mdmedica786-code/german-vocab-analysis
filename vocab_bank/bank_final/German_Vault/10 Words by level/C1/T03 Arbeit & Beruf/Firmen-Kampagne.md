@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Firmen-Kampagne
 
+[▶️ YouGlish](https://youglish.com/pronounce/Firmen-Kampagne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firmen-Kampagne&language=de)
+
 **Meaning:** company campaign
 **Plural:** Firmen-Kampagnen
 **Level:** C1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

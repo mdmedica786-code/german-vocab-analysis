@@ -15,11 +15,16 @@ id: "B1538"
 netzwerk: "A1 K10 9a"
 freq_rank: 5759
 skip: false
+audio: "Tennisplatz.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tennisplatz
+
+![[Tennisplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tennisplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tennisplatz&language=de)
 
 **Meaning:** tennis court
 **Plural:** Tennisplätze

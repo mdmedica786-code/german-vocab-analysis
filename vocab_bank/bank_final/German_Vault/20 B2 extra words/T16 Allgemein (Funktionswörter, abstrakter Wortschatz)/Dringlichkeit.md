@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0338"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Dringlichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dringlichkeit
+
+![[Dringlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dringlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dringlichkeit&language=de)
 
 **Meaning:** urgency
 **Plural:** –

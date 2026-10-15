@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Schulzeit
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schulzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulzeit&language=de)
+
 **Meaning:** school days
 **Plural:** –
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

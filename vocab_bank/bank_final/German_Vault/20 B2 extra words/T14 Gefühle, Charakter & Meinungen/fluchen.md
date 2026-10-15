@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1270"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "fluchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # fluchen
+
+![[fluchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fluchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fluchen&language=de)
 
 **Meaning:** to swear; to curse
 **Forms:** flucht · fluchte · hat geflucht

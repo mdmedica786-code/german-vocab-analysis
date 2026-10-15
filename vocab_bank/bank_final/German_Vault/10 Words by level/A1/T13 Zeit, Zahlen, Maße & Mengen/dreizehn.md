@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 5101
 skip: false
+audio: "dreizehn.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # dreizehn
+
+![[dreizehn.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dreizehn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dreizehn&language=de)
 
 **Meaning:** thirteen
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

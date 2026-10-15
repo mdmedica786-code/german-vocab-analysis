@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # Prüfende
 
+[▶️ YouGlish](https://youglish.com/pronounce/Pr%C3%BCfende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pr%C3%BCfende&language=de)
+
 **Meaning:** examiner
 **Plural:** Prüfenden
 **Forms:** der Prüfende; die Prüfende; die Prüfenden

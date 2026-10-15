@@ -15,11 +15,16 @@ id: "B1998"
 netzwerk: "A2 K2 5a"
 freq_rank: 5759
 skip: false
+audio: "Theatergruppe.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Theatergruppe
+
+![[Theatergruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Theatergruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theatergruppe&language=de)
 
 **Meaning:** drama group
 **Plural:** Theatergruppen

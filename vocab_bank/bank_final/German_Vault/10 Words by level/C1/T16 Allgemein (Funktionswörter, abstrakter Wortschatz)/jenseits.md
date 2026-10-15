@@ -11,11 +11,16 @@ bank: "main"
 id: "B5413"
 freq_rank: 1853
 skip: false
+audio: "jenseits.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # jenseits
+
+![[jenseits.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/jenseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jenseits&language=de)
 
 **Meaning:** beyond; on the other side of
 **Case:** + Gen.

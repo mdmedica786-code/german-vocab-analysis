@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Ich-Aussage
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ich-Aussage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ich-Aussage&language=de)
+
 **Meaning:** I-statement
 **Plural:** Ich-Aussagen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

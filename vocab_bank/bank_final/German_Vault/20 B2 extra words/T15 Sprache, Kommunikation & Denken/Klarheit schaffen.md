@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Klarheit schaffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Klarheit%20schaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klarheit%20schaffen&language=de)
+
 **Meaning:** to clear things up
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

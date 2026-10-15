@@ -15,11 +15,16 @@ id: "B1654"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Spielwaren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spielwaren
+
+![[Spielwaren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielwaren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielwaren&language=de)
 
 **Meaning:** toys
 **Plural:** (Pl.)

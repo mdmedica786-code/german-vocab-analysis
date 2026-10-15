@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 9a"
 freq_rank: 3388
 skip: false
+audio: "Serie.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Serie
+
+![[Serie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Serie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Serie&language=de)
 
 **Meaning:** series
 **Plural:** Serien

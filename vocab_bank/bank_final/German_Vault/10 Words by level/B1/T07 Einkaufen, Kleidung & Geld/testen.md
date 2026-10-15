@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5c"
 freq_rank: 4307
 skip: false
+audio: "testen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # testen
+
+![[testen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/testen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=testen&language=de)
 
 **Meaning:** to test
 **Forms:** testet · testete · hat getestet

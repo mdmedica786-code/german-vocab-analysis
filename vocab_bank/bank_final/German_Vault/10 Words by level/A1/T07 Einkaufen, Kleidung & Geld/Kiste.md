@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 2894
 skip: false
+audio: "Kiste.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kiste
+
+![[Kiste.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kiste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kiste&language=de)
 
 **Meaning:** box
 **Plural:** Kisten

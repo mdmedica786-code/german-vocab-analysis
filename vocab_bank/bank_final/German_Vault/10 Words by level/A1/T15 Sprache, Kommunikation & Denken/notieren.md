@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 5a"
 freq_rank: 5250
 skip: false
+audio: "notieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # notieren
+
+![[notieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/notieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=notieren&language=de)
 
 **Meaning:** to note
 **Forms:** notiert · notierte · hat notiert

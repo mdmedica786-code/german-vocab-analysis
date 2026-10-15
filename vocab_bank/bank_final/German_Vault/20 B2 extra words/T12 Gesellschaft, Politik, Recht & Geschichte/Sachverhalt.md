@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2619"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Sachverhalt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sachverhalt
+
+![[Sachverhalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sachverhalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sachverhalt&language=de)
 
 **Meaning:** facts of a case; matter
 **Plural:** Sachverhalte

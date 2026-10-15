@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2111"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "in der Regel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # in der Regel
+
+![[in der Regel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20der%20Regel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20der%20Regel&language=de)
 
 **Meaning:** as a rule; usually
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2621"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Vielfalt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vielfalt
+
+![[Vielfalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vielfalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vielfalt&language=de)
 
 **Meaning:** diversity; variety
 **Plural:** –

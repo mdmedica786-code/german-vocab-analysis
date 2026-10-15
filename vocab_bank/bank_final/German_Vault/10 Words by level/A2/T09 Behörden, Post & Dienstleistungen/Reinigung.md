@@ -15,11 +15,16 @@ id: "B6159"
 goethe_level: "A2"
 freq_rank: 4686
 skip: false
+audio: "Reinigung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reinigung
+
+![[Reinigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reinigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reinigung&language=de)
 
 **Meaning:** cleaning; dry cleaner's
 **Plural:** Reinigungen

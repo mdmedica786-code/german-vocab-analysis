@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0399"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Zumutung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zumutung
+
+![[Zumutung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zumutung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zumutung&language=de)
 
 **Meaning:** imposition; outrage
 **Plural:** Zumutungen

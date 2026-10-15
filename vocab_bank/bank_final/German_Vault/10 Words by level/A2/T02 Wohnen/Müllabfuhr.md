@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Müllabfuhr.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Müllabfuhr
+
+![[Müllabfuhr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllabfuhr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllabfuhr&language=de)
 
 **Meaning:** refuse collection
 **Plural:** –

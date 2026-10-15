@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0033"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "anlässlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/preposition", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anlässlich
+
+![[anlässlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anl%C3%A4sslich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anl%C3%A4sslich&language=de)
 
 **Meaning:** on the occasion of
 **Case:** + Gen.

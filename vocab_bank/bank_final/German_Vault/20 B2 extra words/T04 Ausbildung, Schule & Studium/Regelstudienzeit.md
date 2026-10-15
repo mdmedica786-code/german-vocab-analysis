@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0943"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Regelstudienzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regelstudienzeit
+
+![[Regelstudienzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regelstudienzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regelstudienzeit&language=de)
 
 **Meaning:** standard period of study
 **Plural:** Regelstudienzeiten

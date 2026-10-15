@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 9a"
 freq_rank: 1582
 skip: false
+audio: "Produktion.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Produktion
+
+![[Produktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Produktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Produktion&language=de)
 
 **Meaning:** production
 **Plural:** Produktionen

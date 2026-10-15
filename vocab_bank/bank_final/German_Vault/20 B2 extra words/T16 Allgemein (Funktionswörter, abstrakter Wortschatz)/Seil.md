@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3071"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Seil.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Seil
+
+![[Seil.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Seil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Seil&language=de)
 
 **Meaning:** rope
 **Plural:** Seile

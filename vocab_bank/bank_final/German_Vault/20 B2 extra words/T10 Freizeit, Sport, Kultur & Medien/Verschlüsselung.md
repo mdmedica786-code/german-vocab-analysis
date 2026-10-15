@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0591"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Verschlüsselung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verschlüsselung
+
+![[Verschlüsselung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verschl%C3%BCsselung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verschl%C3%BCsselung&language=de)
 
 **Meaning:** encryption
 **Plural:** Verschlüsselungen

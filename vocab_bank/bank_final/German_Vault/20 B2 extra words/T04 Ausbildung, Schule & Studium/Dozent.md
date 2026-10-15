@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0924"
 exam_use: ["Hören", "Alltag"]
 skip: false
+audio: "Dozent.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Hören", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dozent
+
+![[Dozent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dozent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dozent&language=de)
 
 **Meaning:** lecturer
 **Plural:** Dozenten

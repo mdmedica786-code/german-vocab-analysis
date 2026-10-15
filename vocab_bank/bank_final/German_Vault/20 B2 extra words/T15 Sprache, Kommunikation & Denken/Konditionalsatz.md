@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4121"
 exam_use: ["Grammatik", "Schreiben"]
 skip: false
-status: "new"
+audio: "Konditionalsatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Konditionalsatz
+
+![[Konditionalsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konditionalsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konditionalsatz&language=de)
 
 **Meaning:** conditional clause
 **Plural:** Konditionalsätze

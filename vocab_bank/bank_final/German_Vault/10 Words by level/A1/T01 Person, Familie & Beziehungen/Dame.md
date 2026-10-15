@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 8b"
 freq_rank: 967
 skip: false
+audio: "Dame.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dame
+
+![[Dame.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dame/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dame&language=de)
 
 **Meaning:** lady; madam
 **Plural:** Damen

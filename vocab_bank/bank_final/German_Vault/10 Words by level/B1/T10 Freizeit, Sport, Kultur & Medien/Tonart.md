@@ -15,11 +15,16 @@ id: "B4494"
 netzwerk: "B1 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Tonart.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tonart
+
+![[Tonart.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tonart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tonart&language=de)
 
 **Meaning:** key
 **Plural:** Tonarten

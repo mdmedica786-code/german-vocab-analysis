@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3742"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "aufschnappen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # aufschnappen
+
+![[aufschnappen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufschnappen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufschnappen&language=de)
 
 **Meaning:** to pick up (words, information)
 **Forms:** schnappt auf · schnappte auf · hat aufgeschnappt

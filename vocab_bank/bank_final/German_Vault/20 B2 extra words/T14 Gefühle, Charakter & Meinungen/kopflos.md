@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1613"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "kopflos.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # kopflos
+
+![[kopflos.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kopflos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kopflos&language=de)
 
 **Meaning:** panicky; rash; without thinking
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0654"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Stromnetz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Stromnetz
+
+![[Stromnetz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stromnetz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromnetz&language=de)
 
 **Meaning:** power grid
 **Plural:** Stromnetze

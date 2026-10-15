@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Antrag stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Antrag%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Antrag%20stellen&language=de)
+
 **Meaning:** to submit an application
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

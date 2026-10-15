@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Konjunktivform
 
+[▶️ YouGlish](https://youglish.com/pronounce/Konjunktivform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konjunktivform&language=de)
+
 **Meaning:** subjunctive form
 **Plural:** Konjunktivformen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

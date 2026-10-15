@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2212"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Funkloch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Funkloch
+
+![[Funkloch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Funkloch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Funkloch&language=de)
 
 **Meaning:** dead zone (no signal)
 **Plural:** Funklöcher

@@ -13,11 +13,16 @@ id: "B2683"
 netzwerk: "A2 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "kapieren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kapieren
+
+![[kapieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kapieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kapieren&language=de)
 
 **Meaning:** to understand
 **Forms:** kapiert · kapierte · hat kapiert

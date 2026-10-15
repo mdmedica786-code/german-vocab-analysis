@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 5b"
 freq_rank: 518
 skip: false
+audio: "hängen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hängen
+
+![[hängen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%A4ngen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%A4ngen&language=de)
 
 **Meaning:** to hang; to be attached
 **Forms:** hängt · hing · hat gehangen

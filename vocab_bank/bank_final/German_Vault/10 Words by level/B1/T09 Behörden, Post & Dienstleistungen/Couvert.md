@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Couvert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Couvert
+
+![[Couvert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Couvert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Couvert&language=de)
 
 **Meaning:** envelope (Swiss)
 **Plural:** Couverts

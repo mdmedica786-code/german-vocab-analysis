@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Cloud-Lösung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Cloud-L%C3%B6sung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Cloud-L%C3%B6sung&language=de)
+
 **Meaning:** cloud solution
 **Plural:** Cloud-Lösungen
 **Level:** C1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

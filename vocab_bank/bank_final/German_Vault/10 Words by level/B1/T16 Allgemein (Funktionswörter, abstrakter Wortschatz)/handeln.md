@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 3b"
 freq_rank: 250
 skip: false
+audio: "handeln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # handeln
+
+![[handeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/handeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=handeln&language=de)
 
 **Meaning:** to act; to trade; (handeln von) to be about
 **Forms:** handelt · handelte · hat gehandelt

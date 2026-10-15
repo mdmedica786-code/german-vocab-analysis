@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # woran
 
+[▶️ YouGlish](https://youglish.com/pronounce/woran/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=woran&language=de)
+
 **Meaning:** what
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

@@ -15,11 +15,16 @@ id: "B1482"
 netzwerk: "A1 K10 1b"
 freq_rank: 5759
 skip: false
+audio: "Segellehrer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Segellehrer
+
+![[Segellehrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Segellehrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Segellehrer&language=de)
 
 **Meaning:** sailing instructor (m)
 **Plural:** Segellehrer

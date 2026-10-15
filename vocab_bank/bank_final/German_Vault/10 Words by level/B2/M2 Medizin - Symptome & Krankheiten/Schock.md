@@ -14,11 +14,16 @@ bank: "main"
 id: "B5858"
 freq_rank: 3179
 skip: false
+audio: "Schock.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schock
+
+![[Schock.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schock&language=de)
 
 **Meaning:** shock
 **Plural:** Schocks

@@ -15,11 +15,16 @@ id: "B1681"
 netzwerk: "A1 K11 12a"
 freq_rank: 5759
 skip: false
+audio: "Fotografin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fotografin
+
+![[Fotografin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fotografin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fotografin&language=de)
 
 **Meaning:** photographer (f)
 **Plural:** Fotografinnen

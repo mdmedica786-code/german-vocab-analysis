@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4181"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Lerngruppe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lerngruppe
+
+![[Lerngruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lerngruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lerngruppe&language=de)
 
 **Meaning:** study group; learning group
 **Plural:** Lerngruppen

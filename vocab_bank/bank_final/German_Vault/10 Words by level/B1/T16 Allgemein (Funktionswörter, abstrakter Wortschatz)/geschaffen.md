@@ -13,11 +13,16 @@ freq_rank: 1010
 skip: true
 skip_reason: "duplicate of B1198 (learn that entry)"
 check: "dup:B1198"
+audio: "geschaffen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # geschaffen
+
+![[geschaffen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geschaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geschaffen&language=de)
 
 **Meaning:** created; made (participle of schaffen)
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

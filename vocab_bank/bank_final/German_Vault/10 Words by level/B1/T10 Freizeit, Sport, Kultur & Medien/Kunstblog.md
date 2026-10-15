@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kunstblog
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstblog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstblog&language=de)
+
 **Meaning:** art blog
 **Plural:** Kunstblogs
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

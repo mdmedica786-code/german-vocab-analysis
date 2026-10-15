@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 12b"
 freq_rank: 2000
 skip: false
+audio: "bitte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bitte
+
+![[bitte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bitte&language=de)
 
 **Meaning:** request
 **Plural:** Bitten

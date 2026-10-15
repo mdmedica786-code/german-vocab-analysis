@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Hauptschulabschluss
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptschulabschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptschulabschluss&language=de)
+
 **Meaning:** secondary school graduation
 **Plural:** Hauptschulabschlüsse
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

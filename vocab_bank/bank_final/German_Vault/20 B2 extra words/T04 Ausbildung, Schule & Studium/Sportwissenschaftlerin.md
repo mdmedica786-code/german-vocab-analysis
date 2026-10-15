@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4445"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Sportwissenschaftlerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Sportwissenschaftlerin
+
+![[Sportwissenschaftlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportwissenschaftlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportwissenschaftlerin&language=de)
 
 **Meaning:** sports scientist (female)
 **Plural:** Sportwissenschaftlerinnen

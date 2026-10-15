@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Rappen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rappen
+
+![[Rappen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rappen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rappen&language=de)
 
 **Meaning:** centime (Swiss)
 **Plural:** Rappen

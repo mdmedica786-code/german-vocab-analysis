@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 1689
 skip: false
+audio: "Dokument.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dokument
+
+![[Dokument.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dokument/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dokument&language=de)
 
 **Meaning:** document
 **Plural:** Dokumente

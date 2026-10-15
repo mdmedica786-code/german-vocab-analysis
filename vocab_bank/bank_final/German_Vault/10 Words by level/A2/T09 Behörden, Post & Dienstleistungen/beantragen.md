@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 3c"
 freq_rank: 4093
 skip: false
+audio: "beantragen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beantragen
+
+![[beantragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beantragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beantragen&language=de)
 
 **Meaning:** to apply for
 **Forms:** beantragt · beantragte · hat beantragt

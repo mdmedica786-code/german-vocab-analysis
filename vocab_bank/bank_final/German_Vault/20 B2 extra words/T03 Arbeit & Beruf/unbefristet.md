@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4529"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "unbefristet.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unbefristet
+
+![[unbefristet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unbefristet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unbefristet&language=de)
 
 **Meaning:** permanent; for an unlimited period
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

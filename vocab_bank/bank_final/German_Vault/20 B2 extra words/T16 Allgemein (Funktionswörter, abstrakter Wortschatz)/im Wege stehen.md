@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0189"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "im Wege stehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # im Wege stehen
+
+![[im Wege stehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/im%20Wege%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=im%20Wege%20stehen&language=de)
 
 **Meaning:** to stand in the way
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Rathaus
 
+[▶️ YouGlish](https://youglish.com/pronounce/Rathaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rathaus&language=de)
+
 **Meaning:** town hall
 **Plural:** Rathäuser
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

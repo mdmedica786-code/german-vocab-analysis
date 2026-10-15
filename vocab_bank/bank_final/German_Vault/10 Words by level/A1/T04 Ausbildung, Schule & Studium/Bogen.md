@@ -15,11 +15,16 @@ id: "B5538"
 goethe_level: "A1"
 freq_rank: 2241
 skip: false
+audio: "Bogen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bogen
+
+![[Bogen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bogen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bogen&language=de)
 
 **Meaning:** sheet (of paper); bow; curve
 **Plural:** Bögen

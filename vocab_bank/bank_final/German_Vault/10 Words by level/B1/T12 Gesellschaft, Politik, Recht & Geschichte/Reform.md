@@ -15,11 +15,16 @@ id: "B5603"
 goethe_level: "B1"
 freq_rank: 2492
 skip: false
+audio: "Reform.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Reform
+
+![[Reform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reform&language=de)
 
 **Meaning:** reform
 **Plural:** Reformen

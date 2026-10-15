@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 3b"
 freq_rank: 2396
 skip: false
+audio: "rechtzeitig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # rechtzeitig
+
+![[rechtzeitig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rechtzeitig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechtzeitig&language=de)
 
 **Meaning:** on time
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

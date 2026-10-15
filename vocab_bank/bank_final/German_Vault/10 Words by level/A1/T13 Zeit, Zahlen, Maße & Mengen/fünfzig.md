@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 12b"
 freq_rank: 2722
 skip: false
+audio: "fünfzig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # fünfzig
+
+![[fünfzig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCnfzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCnfzig&language=de)
 
 **Meaning:** fifty
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

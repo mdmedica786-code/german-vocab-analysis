@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 2493
 skip: false
+audio: "Kauf.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kauf
+
+![[Kauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kauf&language=de)
 
 **Meaning:** purchase
 **Plural:** Käufe

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 1b"
 freq_rank: 2816
 skip: false
+audio: "Kanal.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kanal
+
+![[Kanal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kanal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kanal&language=de)
 
 **Meaning:** channel
 **Plural:** Kanäle

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Wildtierstation
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wildtierstation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildtierstation&language=de)
+
 **Meaning:** wild animal care facility
 **Plural:** Wildtierstationen
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

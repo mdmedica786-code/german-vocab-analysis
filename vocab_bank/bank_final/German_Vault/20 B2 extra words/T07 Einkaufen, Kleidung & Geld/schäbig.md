@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2323"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "schäbig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schäbig
+
+![[schäbig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4big/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4big&language=de)
 
 **Meaning:** shabby
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

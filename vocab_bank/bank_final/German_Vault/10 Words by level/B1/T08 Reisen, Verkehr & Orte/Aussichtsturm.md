@@ -15,11 +15,16 @@ id: "B4534"
 netzwerk: "B1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Aussichtsturm.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aussichtsturm
+
+![[Aussichtsturm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussichtsturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussichtsturm&language=de)
 
 **Meaning:** observation tower
 **Plural:** Aussichtstürme

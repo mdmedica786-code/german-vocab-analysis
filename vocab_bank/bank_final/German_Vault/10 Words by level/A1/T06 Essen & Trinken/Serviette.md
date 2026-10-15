@@ -15,11 +15,16 @@ id: "B0986"
 netzwerk: "A1 K6 11c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Serviette.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Serviette
+
+![[Serviette.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Serviette/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Serviette&language=de)
 
 **Meaning:** napkin
 **Plural:** Servietten

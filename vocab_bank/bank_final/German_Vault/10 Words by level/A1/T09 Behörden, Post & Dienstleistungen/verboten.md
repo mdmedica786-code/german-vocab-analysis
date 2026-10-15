@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 10b"
 freq_rank: 1032
 skip: false
+audio: "verboten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verboten
+
+![[verboten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verboten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verboten&language=de)
 
 **Meaning:** forbidden
 **Level:** A1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

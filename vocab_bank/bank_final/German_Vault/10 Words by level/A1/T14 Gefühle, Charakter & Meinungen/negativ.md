@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 7b"
 freq_rank: 779
 skip: false
+audio: "negativ.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # negativ
+
+![[negativ.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/negativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=negativ&language=de)
 
 **Meaning:** negative
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

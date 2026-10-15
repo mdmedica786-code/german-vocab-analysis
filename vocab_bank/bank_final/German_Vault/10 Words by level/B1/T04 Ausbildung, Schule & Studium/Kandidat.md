@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 3954
 skip: false
+audio: "Kandidat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kandidat
+
+![[Kandidat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kandidat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kandidat&language=de)
 
 **Meaning:** candidate (m)
 **Plural:** Kandidaten

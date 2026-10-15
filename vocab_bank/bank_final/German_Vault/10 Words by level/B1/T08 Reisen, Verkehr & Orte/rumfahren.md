@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # rumfahren
 
+[▶️ YouGlish](https://youglish.com/pronounce/rumfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rumfahren&language=de)
+
 **Meaning:** to drive around
 **Forms:** fährt rum · fuhr rum · ist rumgefahren
 **Grammar:** separable (rum-)

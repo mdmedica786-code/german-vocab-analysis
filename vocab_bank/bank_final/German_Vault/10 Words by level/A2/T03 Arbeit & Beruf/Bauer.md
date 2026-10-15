@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12a"
 freq_rank: 1378
 skip: false
+audio: "Bauer.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bauer
+
+![[Bauer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauer&language=de)
 
 **Meaning:** farmer (m)
 **Plural:** Bauern

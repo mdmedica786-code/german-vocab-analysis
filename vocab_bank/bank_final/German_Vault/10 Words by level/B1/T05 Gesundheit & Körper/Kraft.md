@@ -15,11 +15,16 @@ id: "B5149"
 goethe_level: "B1"
 freq_rank: 360
 skip: false
+audio: "Kraft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kraft
+
+![[Kraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kraft&language=de)
 
 **Meaning:** strength; force; power
 **Plural:** Kräfte

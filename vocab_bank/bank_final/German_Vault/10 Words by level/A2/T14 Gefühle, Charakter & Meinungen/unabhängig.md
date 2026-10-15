@@ -12,11 +12,16 @@ id: "B2019"
 netzwerk: "A2 K2 9a"
 freq_rank: 962
 skip: false
+audio: "unabhängig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # unabhängig
+
+![[unabhängig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unabh%C3%A4ngig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unabh%C3%A4ngig&language=de)
 
 **Meaning:** independent
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

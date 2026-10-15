@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 9a ÜB"
 freq_rank: 4987
 skip: false
+audio: "Journalistin.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Journalistin
+
+![[Journalistin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Journalistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Journalistin&language=de)
 
 **Meaning:** journalist (f)
 **Plural:** Journalistinnen

@@ -15,11 +15,16 @@ id: "B6583"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Ukrainerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ukrainerin
+
+![[Ukrainerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ukrainerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ukrainerin&language=de)
 
 **Meaning:** Ukrainian (f)
 **Plural:** Ukrainerinnen

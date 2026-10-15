@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2255"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Frischhaltefolie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frischhaltefolie
+
+![[Frischhaltefolie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frischhaltefolie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frischhaltefolie&language=de)
 
 **Meaning:** cling film
 **Plural:** Frischhaltefolien

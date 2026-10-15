@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3813"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Bildungsprojekt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bildungsprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bildungsprojekt&language=de)
 
 **Meaning:** education project
 **Plural:** Bildungsprojekte

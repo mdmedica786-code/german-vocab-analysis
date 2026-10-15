@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Werbeagentur
 
+[▶️ YouGlish](https://youglish.com/pronounce/Werbeagentur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werbeagentur&language=de)
+
 **Meaning:** advertising agency
 **Plural:** Werbeagenturen
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B5389"
 goethe_level: "B1"
 freq_rank: 1738
 skip: false
+audio: "Mangel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mangel
+
+![[Mangel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mangel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mangel&language=de)
 
 **Meaning:** lack; shortage; defect
 **Plural:** Mängel

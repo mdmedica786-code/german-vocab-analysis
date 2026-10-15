@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3117"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "stundenlang.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # stundenlang
+
+![[stundenlang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stundenlang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stundenlang&language=de)
 
 **Meaning:** for hours; lasting hours
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

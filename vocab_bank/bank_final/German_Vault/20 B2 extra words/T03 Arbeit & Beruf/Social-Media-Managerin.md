@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4419"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Social-Media-Managerin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Social-Media-Managerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Social-Media-Managerin&language=de)
 
 **Meaning:** social media manager (female)
 **Plural:** Social-Media-Managerinnen

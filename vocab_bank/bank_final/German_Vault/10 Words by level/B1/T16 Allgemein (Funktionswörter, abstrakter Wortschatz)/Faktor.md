@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 854
 skip: false
+audio: "Faktor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Faktor
+
+![[Faktor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Faktor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faktor&language=de)
 
 **Meaning:** factor
 **Plural:** Faktoren

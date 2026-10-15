@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1937"
 exam_use: ["Grammatik", "Wissenschaft"]
 skip: false
+audio: "Wortbildung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wortbildung
+
+![[Wortbildung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortbildung&language=de)
 
 **Meaning:** word formation
 **Plural:** Wortbildungen

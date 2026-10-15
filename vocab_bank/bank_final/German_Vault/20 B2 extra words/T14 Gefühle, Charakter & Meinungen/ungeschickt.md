@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4540"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "ungeschickt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # ungeschickt
+
+![[ungeschickt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungeschickt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungeschickt&language=de)
 
 **Meaning:** clumsy; awkward
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

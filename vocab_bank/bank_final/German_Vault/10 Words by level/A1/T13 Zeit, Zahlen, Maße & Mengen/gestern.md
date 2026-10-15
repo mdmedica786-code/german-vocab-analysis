@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 9c"
 freq_rank: 1100
 skip: false
+audio: "gestern.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gestern
+
+![[gestern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gestern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestern&language=de)
 
 **Meaning:** yesterday
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

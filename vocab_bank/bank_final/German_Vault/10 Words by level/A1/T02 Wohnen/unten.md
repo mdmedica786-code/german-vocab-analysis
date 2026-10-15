@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 3a ÜB"
 freq_rank: 534
 skip: false
+audio: "unten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unten
+
+![[unten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unten&language=de)
 
 **Meaning:** below
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

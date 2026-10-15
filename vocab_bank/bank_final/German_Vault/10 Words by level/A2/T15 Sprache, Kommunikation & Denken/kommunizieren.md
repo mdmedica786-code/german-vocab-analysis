@@ -13,11 +13,16 @@ id: "B2757"
 netzwerk: "A2 K8 6b"
 freq_rank: 3976
 skip: false
+audio: "kommunizieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kommunizieren
+
+![[kommunizieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kommunizieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommunizieren&language=de)
 
 **Meaning:** to communicate
 **Forms:** kommuniziert · kommunizierte · hat kommuniziert

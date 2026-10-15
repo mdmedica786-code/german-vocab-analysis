@@ -15,11 +15,16 @@ id: "B1712"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Designerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Designerin
+
+![[Designerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Designerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Designerin&language=de)
 
 **Meaning:** designer (f)
 **Plural:** Designerinnen

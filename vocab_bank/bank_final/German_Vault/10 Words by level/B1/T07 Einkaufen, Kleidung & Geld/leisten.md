@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 7a"
 freq_rank: 946
 skip: false
+audio: "leisten.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leisten
+
+![[leisten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leisten&language=de)
 
 **Meaning:** to afford; to achieve; to do
 **Forms:** leistet · leistete · hat geleistet

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6313"
 freq_rank: 5515
 skip: false
+audio: "Mittelfeld.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mittelfeld
+
+![[Mittelfeld.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittelfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelfeld&language=de)
 
 **Meaning:** midfield
 **Plural:** Mittelfelder

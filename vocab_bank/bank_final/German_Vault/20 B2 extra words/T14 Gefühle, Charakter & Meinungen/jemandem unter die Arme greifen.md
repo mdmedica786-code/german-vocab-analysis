@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem unter die Arme greifen
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20unter%20die%20Arme%20greifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20unter%20die%20Arme%20greifen&language=de)
+
 **Meaning:** to give someone a helping hand
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

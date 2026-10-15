@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4128"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Konfliktpartnerin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktpartnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktpartnerin&language=de)
 
 **Meaning:** party to a conflict (female)
 **Plural:** Konfliktpartnerinnen

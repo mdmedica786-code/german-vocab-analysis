@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Vorlesung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vorlesung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorlesung&language=de)
+
 **Meaning:** lecture
 **Plural:** Vorlesungen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

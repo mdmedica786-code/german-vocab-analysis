@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Top-Personal
 
+[▶️ YouGlish](https://youglish.com/pronounce/Top-Personal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Top-Personal&language=de)
+
 **Meaning:** top staff
 **Plural:** –
 **Level:** C1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

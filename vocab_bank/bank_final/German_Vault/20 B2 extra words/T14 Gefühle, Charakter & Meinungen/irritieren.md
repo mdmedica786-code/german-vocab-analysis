@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2969"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "irritieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # irritieren
+
+![[irritieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/irritieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irritieren&language=de)
 
 **Meaning:** to irritate; to confuse
 **Forms:** irritiert · irritierte · hat irritiert

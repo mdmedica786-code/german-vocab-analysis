@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0441"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Sektor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sektor
+
+![[Sektor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sektor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sektor&language=de)
 
 **Meaning:** sector
 **Plural:** Sektoren

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 3b"
 freq_rank: 1488
 skip: false
+audio: "Vorschlag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorschlag
+
+![[Vorschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorschlag&language=de)
 
 **Meaning:** suggestion, recommendation
 **Plural:** Vorschläge

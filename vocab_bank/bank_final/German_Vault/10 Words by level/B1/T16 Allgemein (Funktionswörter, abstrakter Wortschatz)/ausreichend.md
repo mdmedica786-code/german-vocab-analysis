@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 1a"
 freq_rank: 1465
 skip: false
+audio: "ausreichend.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausreichend
+
+![[ausreichend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausreichend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausreichend&language=de)
 
 **Meaning:** sufficient
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

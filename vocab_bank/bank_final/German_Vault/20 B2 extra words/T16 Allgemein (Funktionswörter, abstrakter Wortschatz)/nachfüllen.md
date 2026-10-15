@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4252"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "nachfüllen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # nachfüllen
+
+![[nachfüllen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachf%C3%BCllen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachf%C3%BCllen&language=de)
 
 **Meaning:** to refill; to top up
 **Forms:** füllt nach · füllte nach · hat nachgefüllt

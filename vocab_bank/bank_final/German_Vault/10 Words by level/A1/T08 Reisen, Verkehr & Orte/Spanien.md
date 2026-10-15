@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Spanien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Spanien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spanien&language=de)
+
 **Meaning:** Spain
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

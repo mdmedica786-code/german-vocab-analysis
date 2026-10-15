@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4124"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Konfliktforschung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Konfliktforschung
+
+![[Konfliktforschung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfliktforschung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfliktforschung&language=de)
 
 **Meaning:** conflict research
 **Plural:** –

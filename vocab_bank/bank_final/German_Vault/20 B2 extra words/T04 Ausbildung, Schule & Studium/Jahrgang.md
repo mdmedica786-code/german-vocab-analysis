@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3661"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Jahrgang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Jahrgang
+
+![[Jahrgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahrgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrgang&language=de)
 
 **Meaning:** year group; birth year; vintage
 **Plural:** Jahrgänge

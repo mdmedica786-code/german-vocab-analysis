@@ -12,11 +12,16 @@ id: "B5198"
 goethe_level: "B1"
 freq_rank: 687
 skip: false
+audio: "ehe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # ehe
+
+![[ehe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ehe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehe&language=de)
 
 **Meaning:** before
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

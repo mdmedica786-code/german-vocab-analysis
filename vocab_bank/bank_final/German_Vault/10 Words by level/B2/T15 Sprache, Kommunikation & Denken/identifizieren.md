@@ -12,11 +12,16 @@ bank: "main"
 id: "B5411"
 freq_rank: 1841
 skip: false
+audio: "identifizieren.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # identifizieren
+
+![[identifizieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/identifizieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=identifizieren&language=de)
 
 **Meaning:** to identify
 **Forms:** identifiziert · identifizierte · hat identifiziert

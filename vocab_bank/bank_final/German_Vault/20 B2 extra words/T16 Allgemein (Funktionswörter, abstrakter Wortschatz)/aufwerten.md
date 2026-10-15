@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0858"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "aufwerten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufwerten
+
+![[aufwerten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufwerten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufwerten&language=de)
 
 **Meaning:** to upgrade; to revalue
 **Forms:** wertet auf · wertete auf · hat aufgewertet

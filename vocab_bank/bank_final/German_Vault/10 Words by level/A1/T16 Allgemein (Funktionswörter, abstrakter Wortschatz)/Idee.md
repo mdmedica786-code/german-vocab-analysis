@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 12"
 freq_rank: 496
 skip: false
+audio: "Idee.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Idee
+
+![[Idee.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Idee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Idee&language=de)
 
 **Meaning:** idea
 **Plural:** Ideen

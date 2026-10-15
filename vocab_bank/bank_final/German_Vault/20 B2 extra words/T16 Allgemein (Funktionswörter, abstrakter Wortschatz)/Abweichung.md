@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1447"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Abweichung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abweichung
+
+![[Abweichung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abweichung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abweichung&language=de)
 
 **Meaning:** deviation; discrepancy
 **Plural:** Abweichungen

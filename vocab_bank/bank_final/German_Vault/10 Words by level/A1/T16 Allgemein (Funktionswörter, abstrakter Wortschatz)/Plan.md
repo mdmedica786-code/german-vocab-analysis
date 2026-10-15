@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 2b"
 freq_rank: 821
 skip: false
+audio: "Plan.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Plan
+
+![[Plan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plan&language=de)
 
 **Meaning:** plan
 **Plural:** Pläne

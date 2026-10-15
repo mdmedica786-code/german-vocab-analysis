@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 1288
 skip: false
+audio: "Auftrag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Auftrag
+
+![[Auftrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auftrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auftrag&language=de)
 
 **Meaning:** order; commission; assignment
 **Plural:** Aufträge

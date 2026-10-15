@@ -15,11 +15,16 @@ id: "B2454"
 netzwerk: "A2 K6 7a"
 freq_rank: 2934
 skip: false
+audio: "Mediziner.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mediziner
+
+![[Mediziner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mediziner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mediziner&language=de)
 
 **Meaning:** doctor (m); physician (m)
 **Plural:** Mediziner

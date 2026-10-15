@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 11b"
 freq_rank: 965
 skip: false
+audio: "Traum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Traum
+
+![[Traum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Traum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traum&language=de)
 
 **Meaning:** dream
 **Plural:** Träume

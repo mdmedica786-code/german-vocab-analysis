@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2805"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "versinken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # versinken
+
+![[versinken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versinken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versinken&language=de)
 
 **Meaning:** to sink; to be absorbed
 **Forms:** versinkt · versank · ist versunken

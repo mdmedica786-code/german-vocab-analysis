@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4490"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "tiefgekühlt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # tiefgekühlt
+
+![[tiefgekühlt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tiefgek%C3%BChlt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tiefgek%C3%BChlt&language=de)
 
 **Meaning:** frozen; deep-frozen
 **Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 6a"
 freq_rank: 4460
 skip: false
+audio: "Stift.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stift
+
+![[Stift.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stift&language=de)
 
 **Meaning:** pencil
 **Plural:** Stifte

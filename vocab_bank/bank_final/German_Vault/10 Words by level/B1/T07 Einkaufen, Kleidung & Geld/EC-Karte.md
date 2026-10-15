@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die EC-Karte
 
+[▶️ YouGlish](https://youglish.com/pronounce/EC-Karte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=EC-Karte&language=de)
+
 **Meaning:** debit card
 **Plural:** EC-Karten
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

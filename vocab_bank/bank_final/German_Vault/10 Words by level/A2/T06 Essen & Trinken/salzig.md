@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 10 ÜB"
 freq_rank: 5759
 skip: false
+audio: "salzig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # salzig
+
+![[salzig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/salzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=salzig&language=de)
 
 **Meaning:** salty
 **Level:** A2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 2d"
 freq_rank: 401
 skip: false
+audio: "verwenden.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwenden
+
+![[verwenden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verwenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verwenden&language=de)
 
 **Meaning:** to use
 **Forms:** verwendet · verwendete · hat verwendet

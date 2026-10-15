@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2229"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Laminat.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Laminat
+
+![[Laminat.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laminat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laminat&language=de)
 
 **Meaning:** laminate flooring
 **Plural:** Laminate

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 12a"
 freq_rank: 2311
 skip: false
+audio: "Sturm.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sturm
+
+![[Sturm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sturm&language=de)
 
 **Meaning:** storm
 **Plural:** Stürme

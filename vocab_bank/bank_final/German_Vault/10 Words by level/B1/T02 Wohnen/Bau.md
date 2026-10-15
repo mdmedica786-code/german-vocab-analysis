@@ -15,11 +15,16 @@ id: "B5466"
 goethe_level: "B1"
 freq_rank: 2008
 skip: false
+audio: "Bau.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bau
+
+![[Bau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bau&language=de)
 
 **Meaning:** building; construction
 **Plural:** Bauten

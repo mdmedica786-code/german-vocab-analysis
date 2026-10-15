@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K2 9a"
 freq_rank: 5282
 skip: false
+audio: "Erholung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erholung
+
+![[Erholung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erholung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erholung&language=de)
 
 **Meaning:** rest
 **Plural:** –

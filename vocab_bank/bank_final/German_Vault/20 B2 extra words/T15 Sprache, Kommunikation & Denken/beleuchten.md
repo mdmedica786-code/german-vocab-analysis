@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0874"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "beleuchten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # beleuchten
+
+![[beleuchten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beleuchten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beleuchten&language=de)
 
 **Meaning:** to light up; to examine (a topic)
 **Forms:** beleuchtet · beleuchtete · hat beleuchtet

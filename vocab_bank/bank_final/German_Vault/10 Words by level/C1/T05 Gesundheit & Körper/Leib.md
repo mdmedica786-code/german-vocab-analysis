@@ -14,11 +14,16 @@ bank: "main"
 id: "B5340"
 freq_rank: 1532
 skip: false
+audio: "Leib.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leib
+
+![[Leib.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leib/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leib&language=de)
 
 **Meaning:** body
 **Plural:** Leiber

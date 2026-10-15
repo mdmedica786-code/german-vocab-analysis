@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Abflug.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abflug
+
+![[Abflug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abflug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abflug&language=de)
 
 **Meaning:** take-off; departure (flight)
 **Plural:** Abflüge

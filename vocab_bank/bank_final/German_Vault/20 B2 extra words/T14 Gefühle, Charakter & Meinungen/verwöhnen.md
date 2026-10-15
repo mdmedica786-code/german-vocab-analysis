@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1322"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "verwöhnen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verwöhnen
+
+![[verwöhnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verw%C3%B6hnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verw%C3%B6hnen&language=de)
 
 **Meaning:** to spoil; to pamper
 **Forms:** verwöhnt · verwöhnte · hat verwöhnt

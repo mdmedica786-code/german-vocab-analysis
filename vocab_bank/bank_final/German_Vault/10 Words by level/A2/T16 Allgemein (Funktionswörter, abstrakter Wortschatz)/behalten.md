@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 5a"
 freq_rank: 1287
 skip: false
+audio: "behalten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # behalten
+
+![[behalten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/behalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behalten&language=de)
 
 **Meaning:** to keep
 **Forms:** behält · behielt · hat behalten

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in den Vordergrund stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20den%20Vordergrund%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20den%20Vordergrund%20stellen&language=de)
+
 **Meaning:** to put in the foreground; to emphasise
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

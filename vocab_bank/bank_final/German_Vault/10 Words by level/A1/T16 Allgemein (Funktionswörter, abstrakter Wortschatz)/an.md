@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # an
 
+[▶️ YouGlish](https://youglish.com/pronounce/an/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=an&language=de)
+
 **Meaning:** at
 **Other senses:** to
 **Case:** + Dat.

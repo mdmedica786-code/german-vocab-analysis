@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3b"
 freq_rank: 1073
 skip: false
+audio: "Foto.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Foto
+
+![[Foto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Foto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Foto&language=de)
 
 **Meaning:** photo
 **Plural:** Fotos

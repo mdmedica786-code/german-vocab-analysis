@@ -15,11 +15,16 @@ id: "B5776"
 goethe_level: "B1"
 freq_rank: 3000
 skip: false
+audio: "Bundesrepublik Deutschland.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bundesrepublik Deutschland
+
+![[Bundesrepublik Deutschland.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesrepublik%20Deutschland/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesrepublik%20Deutschland&language=de)
 
 **Meaning:** Federal Republic of Germany
 **Plural:** –

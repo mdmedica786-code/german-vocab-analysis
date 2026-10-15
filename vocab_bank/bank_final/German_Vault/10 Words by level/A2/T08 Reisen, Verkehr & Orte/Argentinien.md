@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Argentinien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Argentinien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Argentinien&language=de)
+
 **Meaning:** Argentina
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

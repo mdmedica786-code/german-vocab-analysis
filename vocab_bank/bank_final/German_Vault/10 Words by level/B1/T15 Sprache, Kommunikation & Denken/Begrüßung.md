@@ -15,11 +15,16 @@ id: "B3672"
 netzwerk: "B1 K3 10b"
 freq_rank: 4331
 skip: false
+audio: "Begrüßung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begrüßung
+
+![[Begrüßung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begr%C3%BC%C3%9Fung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begr%C3%BC%C3%9Fung&language=de)
 
 **Meaning:** greeting
 **Plural:** Begrüßungen

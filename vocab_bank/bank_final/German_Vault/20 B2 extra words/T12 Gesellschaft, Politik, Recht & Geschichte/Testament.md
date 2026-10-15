@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2689"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Testament.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Testament
+
+![[Testament.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Testament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Testament&language=de)
 
 **Meaning:** will; testament
 **Plural:** Testamente

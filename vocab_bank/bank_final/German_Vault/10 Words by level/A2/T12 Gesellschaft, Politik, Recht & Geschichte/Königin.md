@@ -15,11 +15,16 @@ id: "B3118"
 netzwerk: "A2 K12 1a"
 freq_rank: 1856
 skip: false
+audio: "Königin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Königin
+
+![[Königin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%B6nigin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%B6nigin&language=de)
 
 **Meaning:** queen
 **Plural:** Königinnen

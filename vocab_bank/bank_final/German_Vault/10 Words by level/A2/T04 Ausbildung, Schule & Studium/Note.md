@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Note
 
+[▶️ YouGlish](https://youglish.com/pronounce/Note/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Note&language=de)
+
 **Meaning:** grade
 **Plural:** Noten
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B6278"
 goethe_level: "A1"
 freq_rank: 5314
 skip: false
+audio: "Europäer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Europäer
+
+![[Europäer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Europ%C3%A4er/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Europ%C3%A4er&language=de)
 
 **Meaning:** European (man)
 **Plural:** Europäer

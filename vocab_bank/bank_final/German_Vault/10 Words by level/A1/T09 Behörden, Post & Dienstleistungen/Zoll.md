@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "B1 K3 6c ÜB"
 freq_rank: 5038
 skip: false
+audio: "Zoll.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zoll
+
+![[Zoll.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zoll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zoll&language=de)
 
 **Meaning:** customs; inch
 **Plural:** Zölle

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2750"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Sitte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sitte
+
+![[Sitte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sitte&language=de)
 
 **Meaning:** custom; habit
 **Plural:** Sitten

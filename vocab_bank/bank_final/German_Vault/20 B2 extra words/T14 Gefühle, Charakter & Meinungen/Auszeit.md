@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1857"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Auszeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auszeit
+
+![[Auszeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszeit&language=de)
 
 **Meaning:** time out; break
 **Plural:** Auszeiten

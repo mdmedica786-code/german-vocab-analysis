@@ -13,11 +13,16 @@ id: "B5348"
 goethe_level: "B1"
 freq_rank: 1565
 skip: false
+audio: "verlaufen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verlaufen
+
+![[verlaufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verlaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verlaufen&language=de)
 
 **Meaning:** to get lost
 **Forms:** verläuft sich · verlief sich · hat sich verlaufen

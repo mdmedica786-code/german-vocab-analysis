@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Fragen stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fragen%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fragen%20stellen&language=de)
+
 **Meaning:** to ask questions
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Panik geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Panik%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Panik%20geraten&language=de)
+
 **Meaning:** to panic
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

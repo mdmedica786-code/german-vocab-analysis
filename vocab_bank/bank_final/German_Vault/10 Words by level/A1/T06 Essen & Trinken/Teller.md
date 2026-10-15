@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 11c ÜB"
 freq_rank: 2476
 skip: false
+audio: "Teller.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Teller
+
+![[Teller.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teller/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teller&language=de)
 
 **Meaning:** plate
 **Plural:** Teller

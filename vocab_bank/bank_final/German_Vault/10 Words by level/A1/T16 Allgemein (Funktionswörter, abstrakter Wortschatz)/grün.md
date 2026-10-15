@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 11a"
 freq_rank: 913
 skip: false
+audio: "grün.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # grün
+
+![[grün.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BCn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BCn&language=de)
 
 **Meaning:** green
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5941"
 freq_rank: 3558
 skip: false
+audio: "Sichtweise.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sichtweise
+
+![[Sichtweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sichtweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sichtweise&language=de)
 
 **Meaning:** point of view; perspective
 **Plural:** Sichtweisen

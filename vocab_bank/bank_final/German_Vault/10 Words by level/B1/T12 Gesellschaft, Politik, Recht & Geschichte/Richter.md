@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 1600
 skip: false
+audio: "Richter.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Richter
+
+![[Richter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Richter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Richter&language=de)
 
 **Meaning:** judge (m)
 **Plural:** Richter

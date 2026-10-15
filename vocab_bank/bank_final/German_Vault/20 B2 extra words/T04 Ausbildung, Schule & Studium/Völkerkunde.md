@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4599"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Völkerkunde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Völkerkunde
+
+![[Völkerkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/V%C3%B6lkerkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=V%C3%B6lkerkunde&language=de)
 
 **Meaning:** ethnology; cultural anthropology
 **Plural:** –

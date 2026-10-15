@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3656"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Laufbahn.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Laufbahn
+
+![[Laufbahn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laufbahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laufbahn&language=de)
 
 **Meaning:** career; career path
 **Plural:** Laufbahnen

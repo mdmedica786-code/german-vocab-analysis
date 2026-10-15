@@ -15,11 +15,16 @@ id: "B4438"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Hausschuh.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hausschuh
+
+![[Hausschuh.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausschuh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausschuh&language=de)
 
 **Meaning:** slipper
 **Plural:** Hausschuhe

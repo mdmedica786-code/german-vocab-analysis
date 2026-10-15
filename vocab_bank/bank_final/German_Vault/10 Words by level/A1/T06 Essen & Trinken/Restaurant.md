@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 5b"
 freq_rank: 1803
 skip: false
+audio: "Restaurant.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Restaurant
+
+![[Restaurant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Restaurant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Restaurant&language=de)
 
 **Meaning:** restaurant
 **Plural:** Restaurants

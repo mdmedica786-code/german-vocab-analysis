@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1141"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Trauzeuge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Trauzeuge
+
+![[Trauzeuge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trauzeuge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trauzeuge&language=de)
 
 **Meaning:** best man; witness at a wedding
 **Plural:** Trauzeugen

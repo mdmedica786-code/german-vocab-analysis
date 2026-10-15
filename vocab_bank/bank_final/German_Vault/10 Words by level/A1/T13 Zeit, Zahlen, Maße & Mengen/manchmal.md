@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 561
 skip: false
+audio: "manchmal.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # manchmal
+
+![[manchmal.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/manchmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=manchmal&language=de)
 
 **Meaning:** sometimes
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

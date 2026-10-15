@@ -15,11 +15,16 @@ id: "B4038"
 netzwerk: "B1 K5 13a"
 freq_rank: 2697
 skip: false
+audio: "Engagement.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Engagement
+
+![[Engagement.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Engagement/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Engagement&language=de)
 
 **Meaning:** commitment, involvement
 **Plural:** Engagements

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0962"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Prozentsatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Prozentsatz
+
+![[Prozentsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prozentsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prozentsatz&language=de)
 
 **Meaning:** percentage; rate
 **Plural:** Prozentsätze

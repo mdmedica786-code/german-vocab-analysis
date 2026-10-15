@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2011"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Leuchtturm.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leuchtturm
+
+![[Leuchtturm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leuchtturm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leuchtturm&language=de)
 
 **Meaning:** lighthouse
 **Plural:** Leuchttürme

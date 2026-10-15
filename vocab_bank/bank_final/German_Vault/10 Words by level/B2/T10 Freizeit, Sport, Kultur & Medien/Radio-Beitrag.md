@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Radio-Beitrag
 
+[▶️ YouGlish](https://youglish.com/pronounce/Radio-Beitrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radio-Beitrag&language=de)
+
 **Meaning:** radio report
 **Plural:** Radio-Beiträge
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

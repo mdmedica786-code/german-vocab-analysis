@@ -14,11 +14,16 @@ bank: "main"
 id: "B6322"
 freq_rank: 5607
 skip: false
+audio: "Anfall.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anfall
+
+![[Anfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anfall&language=de)
 
 **Meaning:** attack; seizure; fit
 **Plural:** Anfälle

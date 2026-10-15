@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4634"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Weltgeschehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Weltgeschehen
+
+![[Weltgeschehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weltgeschehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weltgeschehen&language=de)
 
 **Meaning:** world events; goings-on in the world
 **Plural:** –

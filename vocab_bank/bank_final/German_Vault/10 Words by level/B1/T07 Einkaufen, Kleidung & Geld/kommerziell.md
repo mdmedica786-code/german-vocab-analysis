@@ -12,11 +12,16 @@ id: "B4305"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "kommerziell.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kommerziell
+
+![[kommerziell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kommerziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kommerziell&language=de)
 
 **Meaning:** commercial
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

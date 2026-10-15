@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3193"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "irgendjemand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/pronoun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # irgendjemand
+
+![[irgendjemand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/irgendjemand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=irgendjemand&language=de)
 
 **Meaning:** somebody; anybody
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

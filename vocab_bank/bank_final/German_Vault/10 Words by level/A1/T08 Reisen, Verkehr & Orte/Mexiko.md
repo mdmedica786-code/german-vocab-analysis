@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Mexiko
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mexiko/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mexiko&language=de)
+
 **Meaning:** Mexico
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

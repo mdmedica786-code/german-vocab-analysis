@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2443"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Spannung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spannung
+
+![[Spannung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spannung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spannung&language=de)
 
 **Meaning:** tension; suspense; voltage
 **Plural:** Spannungen

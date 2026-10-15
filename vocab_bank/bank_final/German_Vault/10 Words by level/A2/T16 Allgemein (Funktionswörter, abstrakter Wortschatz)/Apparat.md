@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K8 5b"
 freq_rank: 3933
 skip: false
+audio: "Apparat.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Apparat
+
+![[Apparat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Apparat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apparat&language=de)
 
 **Meaning:** device; apparatus
 **Plural:** Apparate

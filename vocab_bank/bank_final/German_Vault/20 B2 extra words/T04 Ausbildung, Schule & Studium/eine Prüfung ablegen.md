@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Prüfung ablegen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Pr%C3%BCfung%20ablegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Pr%C3%BCfung%20ablegen&language=de)
+
 **Meaning:** to take an exam
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral
 

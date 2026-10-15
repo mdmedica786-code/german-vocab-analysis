@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das GPS-System
 
+[▶️ YouGlish](https://youglish.com/pronounce/GPS-System/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=GPS-System&language=de)
+
 **Meaning:** GPS system
 **Plural:** GPS-Systeme
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

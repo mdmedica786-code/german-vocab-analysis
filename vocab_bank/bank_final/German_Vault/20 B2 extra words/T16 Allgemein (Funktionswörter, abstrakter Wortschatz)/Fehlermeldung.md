@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3938"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Fehlermeldung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Fehlermeldung
+
+![[Fehlermeldung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fehlermeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fehlermeldung&language=de)
 
 **Meaning:** error message
 **Plural:** Fehlermeldungen

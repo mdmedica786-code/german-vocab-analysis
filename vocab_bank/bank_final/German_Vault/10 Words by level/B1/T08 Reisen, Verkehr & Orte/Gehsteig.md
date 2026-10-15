@@ -15,11 +15,16 @@ id: "B6450"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Gehsteig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gehsteig
+
+![[Gehsteig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gehsteig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gehsteig&language=de)
 
 **Meaning:** pavement (Austrian, S. German)
 **Plural:** Gehsteige

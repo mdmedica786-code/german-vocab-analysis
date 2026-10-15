@@ -14,11 +14,16 @@ bank: "main"
 id: "B5735"
 freq_rank: 2890
 skip: false
+audio: "Niveau.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Niveau
+
+![[Niveau.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Niveau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niveau&language=de)
 
 **Meaning:** level; standard
 **Plural:** Niveaus

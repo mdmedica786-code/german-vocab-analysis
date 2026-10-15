@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4220"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Menschenaffe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Menschenaffe
+
+![[Menschenaffe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menschenaffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenaffe&language=de)
 
 **Meaning:** great ape
 **Plural:** Menschenaffen

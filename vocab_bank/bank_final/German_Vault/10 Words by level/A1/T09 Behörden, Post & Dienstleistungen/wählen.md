@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 12b"
 freq_rank: 727
 skip: false
+audio: "wählen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wählen
+
+![[wählen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/w%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=w%C3%A4hlen&language=de)
 
 **Meaning:** to choose; to dial; to vote
 **Forms:** wählt · wählte · hat gewählt

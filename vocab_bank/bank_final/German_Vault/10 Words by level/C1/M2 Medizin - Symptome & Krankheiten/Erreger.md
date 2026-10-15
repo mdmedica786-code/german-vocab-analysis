@@ -14,11 +14,16 @@ bank: "main"
 id: "B6291"
 freq_rank: 5414
 skip: false
+audio: "Erreger.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Erreger
+
+![[Erreger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erreger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erreger&language=de)
 
 **Meaning:** pathogen
 **Plural:** Erreger

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1806"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bekennen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bekennen
+
+![[bekennen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bekennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bekennen&language=de)
 
 **Meaning:** to profess; to admit to
 **Forms:** bekennt sich · bekannte sich · hat sich bekannt

@@ -13,11 +13,16 @@ id: "B6436"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "feststehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # feststehen
+
+![[feststehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/feststehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=feststehen&language=de)
 
 **Meaning:** to be fixed; to be certain
 **Forms:** steht fest · stand fest · ist festgestanden

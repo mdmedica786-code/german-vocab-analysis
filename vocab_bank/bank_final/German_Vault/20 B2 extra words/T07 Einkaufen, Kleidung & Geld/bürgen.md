@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1811"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bürgen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bürgen
+
+![[bürgen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCrgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCrgen&language=de)
 
 **Meaning:** to vouch; to guarantee
 **Forms:** bürgt · bürgte · hat gebürgt

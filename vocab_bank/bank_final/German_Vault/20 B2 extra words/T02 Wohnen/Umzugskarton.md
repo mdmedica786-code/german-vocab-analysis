@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1101"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Umzugskarton.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umzugskarton
+
+![[Umzugskarton.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umzugskarton/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umzugskarton&language=de)
 
 **Meaning:** moving box
 **Plural:** Umzugskartons

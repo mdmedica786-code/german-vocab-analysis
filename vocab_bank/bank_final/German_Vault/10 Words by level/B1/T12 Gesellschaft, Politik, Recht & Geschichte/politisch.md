@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 290
 skip: false
+audio: "politisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # politisch
+
+![[politisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/politisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=politisch&language=de)
 
 **Meaning:** political
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

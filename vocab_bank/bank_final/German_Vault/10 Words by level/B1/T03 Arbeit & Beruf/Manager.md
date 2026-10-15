@@ -15,11 +15,16 @@ id: "B5736"
 goethe_level: "B1"
 freq_rank: 2891
 skip: false
+audio: "Manager.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Manager
+
+![[Manager.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Manager/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Manager&language=de)
 
 **Meaning:** manager
 **Plural:** Manager

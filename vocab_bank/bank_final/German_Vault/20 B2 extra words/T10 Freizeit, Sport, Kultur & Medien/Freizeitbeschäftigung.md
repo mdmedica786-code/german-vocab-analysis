@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3965"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Freizeitbeschäftigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Freizeitbeschäftigung
+
+![[Freizeitbeschäftigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeitbesch%C3%A4ftigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitbesch%C3%A4ftigung&language=de)
 
 **Meaning:** leisure activity; hobby
 **Plural:** Freizeitbeschäftigungen

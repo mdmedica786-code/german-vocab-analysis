@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0445"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Firmengründung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Firmengründung
+
+![[Firmengründung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Firmengr%C3%BCndung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firmengr%C3%BCndung&language=de)
 
 **Meaning:** founding of a company
 **Plural:** Firmengründungen

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5878"
 freq_rank: 3258
 skip: false
+audio: "Shirt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Shirt
+
+![[Shirt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Shirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Shirt&language=de)
 
 **Meaning:** shirt (T-shirt)
 **Plural:** Shirts

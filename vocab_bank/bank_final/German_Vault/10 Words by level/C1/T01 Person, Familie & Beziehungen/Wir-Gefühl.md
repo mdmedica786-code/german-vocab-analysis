@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Wir-Gefühl
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wir-Gef%C3%BChl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wir-Gef%C3%BChl&language=de)
+
 **Meaning:** sense of togetherness
 **Plural:** –
 **Level:** C1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

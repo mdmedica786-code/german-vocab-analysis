@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1107"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Sachbearbeiter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sachbearbeiter
+
+![[Sachbearbeiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sachbearbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sachbearbeiter&language=de)
 
 **Meaning:** case worker; clerk in charge
 **Plural:** Sachbearbeiter

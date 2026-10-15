@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2902"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Beobachter.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beobachter
+
+![[Beobachter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beobachter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beobachter&language=de)
 
 **Meaning:** observer
 **Plural:** Beobachter

@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Bestseller-Liste
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bestseller-Liste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestseller-Liste&language=de)
+
 **Meaning:** bestseller list
 **Plural:** Bestseller-Listen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

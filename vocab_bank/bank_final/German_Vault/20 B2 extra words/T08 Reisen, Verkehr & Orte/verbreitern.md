@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4563"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "verbreitern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # verbreitern
+
+![[verbreitern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbreitern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbreitern&language=de)
 
 **Meaning:** to widen; to broaden
 **Forms:** verbreitert · verbreiterte · hat verbreitert

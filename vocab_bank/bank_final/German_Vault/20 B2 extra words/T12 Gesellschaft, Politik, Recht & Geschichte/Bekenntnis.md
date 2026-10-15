@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3414"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Bekenntnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bekenntnis
+
+![[Bekenntnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bekenntnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bekenntnis&language=de)
 
 **Meaning:** confession; commitment; declaration
 **Plural:** Bekenntnisse

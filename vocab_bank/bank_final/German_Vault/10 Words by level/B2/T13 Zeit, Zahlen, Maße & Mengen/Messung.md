@@ -14,11 +14,16 @@ bank: "main"
 id: "B5437"
 freq_rank: 1960
 skip: false
+audio: "Messung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T13", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Messung
+
+![[Messung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Messung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messung&language=de)
 
 **Meaning:** measurement
 **Plural:** Messungen

@@ -13,11 +13,16 @@ id: "B3071"
 netzwerk: "A2 K11 6"
 freq_rank: 5759
 skip: false
+audio: "dazuschreiben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dazuschreiben
+
+![[dazuschreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dazuschreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazuschreiben&language=de)
 
 **Meaning:** to add sth
 **Forms:** schreibt dazu · schrieb dazu · hat dazugeschrieben

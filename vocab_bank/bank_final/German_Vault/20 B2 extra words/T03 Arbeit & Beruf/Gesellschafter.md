@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2796"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gesellschafter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gesellschafter
+
+![[Gesellschafter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesellschafter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesellschafter&language=de)
 
 **Meaning:** shareholder; partner
 **Plural:** Gesellschafter

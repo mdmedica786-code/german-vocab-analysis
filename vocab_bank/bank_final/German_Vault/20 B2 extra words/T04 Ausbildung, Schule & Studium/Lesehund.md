@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4189"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Lesehund
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lesehund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lesehund&language=de)
 
 **Meaning:** reading dog (dog that children read aloud to)
 **Plural:** Lesehunde

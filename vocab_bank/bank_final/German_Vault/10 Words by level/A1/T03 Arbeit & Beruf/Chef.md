@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 11"
 freq_rank: 1498
 skip: false
+audio: "Chef.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Chef
+
+![[Chef.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chef/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chef&language=de)
 
 **Meaning:** boss (m)
 **Plural:** Chefs

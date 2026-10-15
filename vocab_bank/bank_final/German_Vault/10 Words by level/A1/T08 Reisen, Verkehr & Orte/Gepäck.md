@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 1b"
 freq_rank: 3873
 skip: false
+audio: "Gepäck.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gepäck
+
+![[Gepäck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gep%C3%A4ck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gep%C3%A4ck&language=de)
 
 **Meaning:** luggage
 **Plural:** –

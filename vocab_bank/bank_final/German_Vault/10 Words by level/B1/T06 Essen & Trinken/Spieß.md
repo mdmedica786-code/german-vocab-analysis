@@ -15,11 +15,16 @@ id: "B4564"
 netzwerk: "B1 K9 1b"
 freq_rank: 5759
 skip: false
+audio: "Spieß.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spieß
+
+![[Spieß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spie%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spie%C3%9F&language=de)
 
 **Meaning:** skewer; spit
 **Plural:** Spieße

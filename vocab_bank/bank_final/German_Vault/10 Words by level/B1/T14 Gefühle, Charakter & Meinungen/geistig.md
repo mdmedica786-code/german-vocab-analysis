@@ -11,11 +11,16 @@ bank: "main"
 id: "B5256"
 freq_rank: 1059
 skip: false
+audio: "geistig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # geistig
+
+![[geistig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geistig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geistig&language=de)
 
 **Meaning:** mental; intellectual
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

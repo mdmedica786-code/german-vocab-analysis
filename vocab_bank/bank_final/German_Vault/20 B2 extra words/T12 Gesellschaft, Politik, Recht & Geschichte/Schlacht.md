@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2635"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Schlacht.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlacht
+
+![[Schlacht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlacht&language=de)
 
 **Meaning:** battle
 **Plural:** Schlachten

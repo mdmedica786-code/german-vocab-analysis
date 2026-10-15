@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Wert legen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wert%20legen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wert%20legen&language=de)
+
 **Meaning:** to attach importance
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

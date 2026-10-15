@@ -12,11 +12,16 @@ bank: "main"
 id: "B5286"
 freq_rank: 1195
 skip: false
+audio: "betreten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betreten
+
+![[betreten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betreten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betreten&language=de)
 
 **Meaning:** to enter; to step onto
 **Forms:** betritt · betrat · hat betreten

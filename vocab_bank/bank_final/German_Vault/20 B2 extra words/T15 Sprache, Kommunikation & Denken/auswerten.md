@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0285"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "auswerten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auswerten
+
+![[auswerten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auswerten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswerten&language=de)
 
 **Meaning:** to evaluate; to analyse
 **Forms:** wertet aus · wertete aus · hat ausgewertet

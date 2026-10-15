@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Auswahl stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Auswahl%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Auswahl%20stehen&language=de)
+
 **Meaning:** to be available to choose from
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral
 

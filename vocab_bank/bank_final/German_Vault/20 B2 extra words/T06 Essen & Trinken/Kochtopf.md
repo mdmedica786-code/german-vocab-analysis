@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1428"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Kochtopf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kochtopf
+
+![[Kochtopf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kochtopf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kochtopf&language=de)
 
 **Meaning:** cooking pot; saucepan
 **Plural:** Kochtöpfe

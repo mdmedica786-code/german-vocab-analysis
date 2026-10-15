@@ -12,11 +12,16 @@ bank: "main"
 id: "B6321"
 freq_rank: 5595
 skip: false
+audio: "erhitzen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erhitzen
+
+![[erhitzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erhitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erhitzen&language=de)
 
 **Meaning:** to heat
 **Forms:** erhitzt · erhitzte · hat erhitzt

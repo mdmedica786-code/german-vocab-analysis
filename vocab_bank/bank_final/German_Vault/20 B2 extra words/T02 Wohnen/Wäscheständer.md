@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1397"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wäscheständer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wäscheständer
+
+![[Wäscheständer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4schest%C3%A4nder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4schest%C3%A4nder&language=de)
 
 **Meaning:** clothes airer
 **Plural:** Wäscheständer

@@ -15,11 +15,16 @@ id: "B4051"
 netzwerk: "B1 K5 13a"
 freq_rank: 5759
 skip: false
+audio: "Naturfreund.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Naturfreund
+
+![[Naturfreund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Naturfreund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Naturfreund&language=de)
 
 **Meaning:** nature lover (m)
 **Plural:** Naturfreunde

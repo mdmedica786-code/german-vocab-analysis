@@ -15,11 +15,16 @@ id: "B6611"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Zange.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zange
+
+![[Zange.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zange&language=de)
 
 **Meaning:** pliers
 **Plural:** Zangen

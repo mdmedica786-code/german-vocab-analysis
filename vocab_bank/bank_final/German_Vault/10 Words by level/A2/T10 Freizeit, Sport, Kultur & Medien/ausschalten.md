@@ -13,11 +13,16 @@ id: "B3070"
 netzwerk: "A2 K11 5b"
 freq_rank: 5746
 skip: false
+audio: "ausschalten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausschalten
+
+![[ausschalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausschalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausschalten&language=de)
 
 **Meaning:** to switch off
 **Forms:** schaltet aus · schaltete aus · hat ausgeschaltet

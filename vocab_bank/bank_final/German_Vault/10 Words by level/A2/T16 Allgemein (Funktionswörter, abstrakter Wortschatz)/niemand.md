@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 11a"
 freq_rank: 374
 skip: false
+audio: "niemand.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/pronoun"]
 status: "new"
 ---
 <!-- bank:start -->
 # niemand
+
+![[niemand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/niemand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=niemand&language=de)
 
 **Meaning:** nobody
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

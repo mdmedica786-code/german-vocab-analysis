@@ -12,11 +12,16 @@ id: "B2985"
 netzwerk: "A2 K10 7c"
 freq_rank: 5515
 skip: false
+audio: "einmalig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # einmalig
+
+![[einmalig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einmalig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einmalig&language=de)
 
 **Meaning:** unique
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

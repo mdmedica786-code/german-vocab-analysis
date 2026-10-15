@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4467"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Streikrecht
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streikrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streikrecht&language=de)
 
 **Meaning:** right to strike
 **Plural:** –

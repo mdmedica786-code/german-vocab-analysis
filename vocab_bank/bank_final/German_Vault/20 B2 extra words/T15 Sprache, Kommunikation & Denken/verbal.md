@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4562"
 exam_use: ["Sprechen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "verbal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Sprechen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # verbal
+
+![[verbal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbal&language=de)
 
 **Meaning:** verbal
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

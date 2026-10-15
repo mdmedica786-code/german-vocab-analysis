@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 4a"
 freq_rank: 187
 skip: false
+audio: "Frage.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Frage
+
+![[Frage.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frage&language=de)
 
 **Meaning:** question
 **Plural:** Fragen

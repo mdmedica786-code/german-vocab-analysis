@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Kurs halten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kurs%20halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurs%20halten&language=de)
+
 **Meaning:** to hold one's course
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

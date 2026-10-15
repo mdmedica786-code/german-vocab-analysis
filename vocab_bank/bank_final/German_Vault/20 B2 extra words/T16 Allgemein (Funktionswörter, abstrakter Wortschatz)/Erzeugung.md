@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3109"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Erzeugung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erzeugung
+
+![[Erzeugung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erzeugung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erzeugung&language=de)
 
 **Meaning:** production; generation
 **Plural:** –

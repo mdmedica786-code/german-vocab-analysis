@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2b"
 freq_rank: 4580
 skip: false
+audio: "Apfel.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Apfel
+
+![[Apfel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Apfel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Apfel&language=de)
 
 **Meaning:** apple
 **Plural:** Äpfel

@@ -15,11 +15,16 @@ id: "B4723"
 netzwerk: "B1 K10 1a"
 freq_rank: 5759
 skip: false
+audio: "Hilfsbereitschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hilfsbereitschaft
+
+![[Hilfsbereitschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hilfsbereitschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hilfsbereitschaft&language=de)
 
 **Meaning:** helpfulness
 **Plural:** –

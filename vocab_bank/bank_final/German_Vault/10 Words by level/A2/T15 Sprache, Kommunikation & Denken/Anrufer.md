@@ -15,11 +15,16 @@ id: "B2492"
 netzwerk: "A2 K6 12b"
 freq_rank: 5759
 skip: false
+audio: "Anrufer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anrufer
+
+![[Anrufer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anrufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anrufer&language=de)
 
 **Meaning:** caller (m)
 **Plural:** Anrufer

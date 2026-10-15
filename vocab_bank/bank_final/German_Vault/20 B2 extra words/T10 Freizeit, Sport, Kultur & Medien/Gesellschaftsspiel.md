@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4003"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Gesellschaftsspiel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gesellschaftsspiel
+
+![[Gesellschaftsspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesellschaftsspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesellschaftsspiel&language=de)
 
 **Meaning:** board game; parlour game
 **Plural:** Gesellschaftsspiele

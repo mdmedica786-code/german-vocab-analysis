@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Fußgängerzone.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fußgängerzone
+
+![[Fußgängerzone.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fg%C3%A4ngerzone/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fg%C3%A4ngerzone&language=de)
 
 **Meaning:** pedestrian zone
 **Plural:** Fußgängerzonen

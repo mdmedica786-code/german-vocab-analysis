@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Ratebild
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ratebild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratebild&language=de)
+
 **Meaning:** picture puzzle
 **Plural:** Ratebilder
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

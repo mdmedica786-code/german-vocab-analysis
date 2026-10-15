@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # d.h.
 
+[▶️ YouGlish](https://youglish.com/pronounce/d.h./german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=d.h.&language=de)
+
 **Meaning:** i.e.; that is
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

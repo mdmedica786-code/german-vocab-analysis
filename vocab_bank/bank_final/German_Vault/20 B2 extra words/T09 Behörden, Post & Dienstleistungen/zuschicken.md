@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4664"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "zuschicken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # zuschicken
+
+![[zuschicken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuschicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuschicken&language=de)
 
 **Meaning:** to send (to someone); to mail
 **Forms:** schickt zu · schickte zu · hat zugeschickt

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0228"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "unterstellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterstellen
+
+![[unterstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterstellen&language=de)
 
 **Meaning:** to insinuate; to assume
 **Forms:** unterstellt · unterstellte · hat unterstellt

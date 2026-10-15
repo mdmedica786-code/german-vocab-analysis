@@ -12,11 +12,16 @@ id: "B2365"
 netzwerk: "A2 K5 8b"
 freq_rank: 148
 skip: false
+audio: "dazu.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dazu
+
+![[dazu.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dazu/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazu&language=de)
 
 **Meaning:** in addition to (that)
 **Other senses:** to that

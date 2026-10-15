@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3596"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "Dummheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dummheit
+
+![[Dummheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dummheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dummheit&language=de)
 
 **Meaning:** stupidity; foolish act
 **Plural:** Dummheiten

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # fit sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/fit%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fit%20sein&language=de)
+
 **Meaning:** to be fit
 **Forms:** ist fit · war fit · ist fit gewesen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

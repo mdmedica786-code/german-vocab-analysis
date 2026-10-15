@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a"
 freq_rank: 911
 skip: false
+audio: "ausgehen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausgehen
+
+![[ausgehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausgehen&language=de)
 
 **Meaning:** to go out; to assume
 **Other senses:** to assume

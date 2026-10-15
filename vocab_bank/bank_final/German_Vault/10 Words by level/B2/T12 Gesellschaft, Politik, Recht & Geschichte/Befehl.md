@@ -14,11 +14,16 @@ bank: "main"
 id: "B5307"
 freq_rank: 1351
 skip: false
+audio: "Befehl.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Befehl
+
+![[Befehl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Befehl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befehl&language=de)
 
 **Meaning:** order; command
 **Plural:** Befehle

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1203"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "aufdrängen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufdrängen
+
+![[aufdrängen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufdr%C3%A4ngen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufdr%C3%A4ngen&language=de)
 
 **Meaning:** to impose; to force upon
 **Forms:** drängt auf · drängte auf · hat aufgedrängt

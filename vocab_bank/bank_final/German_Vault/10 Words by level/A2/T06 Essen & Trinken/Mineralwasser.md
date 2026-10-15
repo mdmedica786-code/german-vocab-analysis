@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 3c"
 freq_rank: 5759
 skip: false
+audio: "Mineralwasser.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mineralwasser
+
+![[Mineralwasser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mineralwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mineralwasser&language=de)
 
 **Meaning:** mineral water
 **Plural:** –

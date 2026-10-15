@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # woher
 
+[▶️ YouGlish](https://youglish.com/pronounce/woher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=woher&language=de)
+
 **Meaning:** from where
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

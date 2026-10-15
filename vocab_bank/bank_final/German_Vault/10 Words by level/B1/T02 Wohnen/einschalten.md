@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6d"
 freq_rank: 4956
 skip: false
+audio: "einschalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschalten
+
+![[einschalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einschalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einschalten&language=de)
 
 **Meaning:** to switch on
 **Forms:** schaltet ein · schaltete ein · hat eingeschaltet

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Bedingungen stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bedingungen%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedingungen%20stellen&language=de)
+
 **Meaning:** to impose conditions
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # die Tiefkühlkost
 
+[▶️ YouGlish](https://youglish.com/pronounce/Tiefk%C3%BChlkost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiefk%C3%BChlkost&language=de)
+
 **Meaning:** frozen food
 **Plural:** –
 **Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

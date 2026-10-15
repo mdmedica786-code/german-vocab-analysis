@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kleiderkauf
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kleiderkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleiderkauf&language=de)
+
 **Meaning:** clothes shopping
 **Plural:** Kleiderkäufe
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

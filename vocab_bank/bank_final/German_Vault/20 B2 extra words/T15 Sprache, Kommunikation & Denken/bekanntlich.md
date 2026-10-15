@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1332"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "bekanntlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bekanntlich
+
+![[bekanntlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bekanntlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bekanntlich&language=de)
 
 **Meaning:** as is well known; as we know
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1485"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Entschlossenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entschlossenheit
+
+![[Entschlossenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entschlossenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entschlossenheit&language=de)
 
 **Meaning:** determination
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5881"
 freq_rank: 3283
 skip: false
+audio: "Erwerb.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Erwerb
+
+![[Erwerb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erwerb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erwerb&language=de)
 
 **Meaning:** acquisition; purchase
 **Plural:** –

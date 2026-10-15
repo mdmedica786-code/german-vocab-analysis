@@ -15,11 +15,16 @@ id: "B3721"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Elektroingenieur.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Elektroingenieur
+
+![[Elektroingenieur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elektroingenieur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elektroingenieur&language=de)
 
 **Meaning:** electrical engineer (m)
 **Plural:** Elektroingenieure

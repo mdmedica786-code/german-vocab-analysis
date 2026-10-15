@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3822"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "börsennotiert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/adjective", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # börsennotiert
+
+![[börsennotiert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/b%C3%B6rsennotiert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%B6rsennotiert&language=de)
 
 **Meaning:** listed on the stock exchange
 **Level:** B2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

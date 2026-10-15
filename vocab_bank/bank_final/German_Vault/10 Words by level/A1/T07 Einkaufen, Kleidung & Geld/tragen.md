@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a"
 freq_rank: 238
 skip: false
+audio: "tragen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # tragen
+
+![[tragen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tragen&language=de)
 
 **Meaning:** to wear
 **Other senses:** to carry

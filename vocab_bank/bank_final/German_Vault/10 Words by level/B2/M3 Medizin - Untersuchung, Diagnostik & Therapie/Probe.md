@@ -14,11 +14,16 @@ bank: "main"
 id: "B5577"
 freq_rank: 2400
 skip: false
+audio: "Probe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Probe
+
+![[Probe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Probe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Probe&language=de)
 
 **Meaning:** sample; rehearsal; test
 **Plural:** Proben

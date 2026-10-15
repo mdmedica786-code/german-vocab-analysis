@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2852"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "schnappen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # schnappen
+
+![[schnappen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schnappen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schnappen&language=de)
 
 **Meaning:** to snap; to snatch; to catch
 **Forms:** schnappt · schnappte · hat geschnappt

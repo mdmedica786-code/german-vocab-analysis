@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12b"
 freq_rank: 668
 skip: false
+audio: "stecken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stecken
+
+![[stecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stecken&language=de)
 
 **Meaning:** to put; to stick; to be stuck in
 **Forms:** steckt · steckte · hat gesteckt

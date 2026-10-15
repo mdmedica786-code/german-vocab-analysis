@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2265"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Pürierstab.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pürierstab
+
+![[Pürierstab.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/P%C3%BCrierstab/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=P%C3%BCrierstab&language=de)
 
 **Meaning:** hand blender
 **Plural:** Pürierstäbe

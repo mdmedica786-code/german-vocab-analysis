@@ -15,11 +15,16 @@ id: "B6478"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Kriminalpolizei.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kriminalpolizei
+
+![[Kriminalpolizei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kriminalpolizei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kriminalpolizei&language=de)
 
 **Meaning:** criminal investigation department
 **Plural:** –

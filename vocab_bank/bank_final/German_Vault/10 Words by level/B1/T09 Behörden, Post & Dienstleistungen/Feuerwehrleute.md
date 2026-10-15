@@ -15,11 +15,16 @@ id: "B4764"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Feuerwehrleute.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feuerwehrleute
+
+![[Feuerwehrleute.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuerwehrleute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerwehrleute&language=de)
 
 **Meaning:** firefighters
 **Plural:** (Pl.)

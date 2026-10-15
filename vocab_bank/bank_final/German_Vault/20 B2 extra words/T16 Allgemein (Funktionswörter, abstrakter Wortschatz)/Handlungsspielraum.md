@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0362"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Handlungsspielraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Handlungsspielraum
+
+![[Handlungsspielraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handlungsspielraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handlungsspielraum&language=de)
 
 **Meaning:** scope for action
 **Plural:** Handlungsspielräume

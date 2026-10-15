@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4542"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Universitätsklinikum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Universitätsklinikum
+
+![[Universitätsklinikum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Universit%C3%A4tsklinikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Universit%C3%A4tsklinikum&language=de)
 
 **Meaning:** university hospital
 **Plural:** Universitätskliniken

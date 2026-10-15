@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 4593
 skip: false
+audio: "Katalog.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Katalog
+
+![[Katalog.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Katalog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Katalog&language=de)
 
 **Meaning:** catalogue
 **Plural:** Kataloge

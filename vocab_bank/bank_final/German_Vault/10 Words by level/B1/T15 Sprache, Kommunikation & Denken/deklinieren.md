@@ -13,11 +13,16 @@ id: "B4069"
 netzwerk: "B1 K5 13e"
 freq_rank: 5759
 skip: false
+audio: "deklinieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # deklinieren
+
+![[deklinieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/deklinieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deklinieren&language=de)
 
 **Meaning:** to decline
 **Forms:** dekliniert · deklinierte · hat dekliniert

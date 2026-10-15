@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # unter Strafe stellen
 
+[▶️ YouGlish](https://youglish.com/pronounce/unter%20Strafe%20stellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter%20Strafe%20stellen&language=de)
+
 **Meaning:** to make punishable
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

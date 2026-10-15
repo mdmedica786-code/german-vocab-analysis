@@ -14,11 +14,16 @@ bank: "main"
 id: "B6036"
 freq_rank: 4060
 skip: false
+audio: "Vorfahr.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorfahr
+
+![[Vorfahr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorfahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfahr&language=de)
 
 **Meaning:** ancestor
 **Plural:** Vorfahren

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 1b"
 freq_rank: 629
 skip: false
+audio: "Höhe.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Höhe
+
+![[Höhe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6he/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6he&language=de)
 
 **Meaning:** height; altitude; level
 **Plural:** Höhen

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # aus der Fassung bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/aus%20der%20Fassung%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aus%20der%20Fassung%20bringen&language=de)
+
 **Meaning:** to throw off balance; to rattle
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

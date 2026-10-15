@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0741"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Gewässer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gewässer
+
+![[Gewässer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gew%C3%A4sser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gew%C3%A4sser&language=de)
 
 **Meaning:** body of water; waters
 **Plural:** Gewässer

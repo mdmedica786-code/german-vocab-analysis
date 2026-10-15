@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 788
 skip: false
+audio: "Partei.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Partei
+
+![[Partei.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partei&language=de)
 
 **Meaning:** political party
 **Plural:** Parteien

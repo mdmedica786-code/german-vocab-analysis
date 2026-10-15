@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2887"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Deckung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Deckung
+
+![[Deckung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deckung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deckung&language=de)
 
 **Meaning:** cover; coverage; collateral
 **Plural:** –

@@ -15,11 +15,16 @@ id: "B2337"
 netzwerk: "A2 K5 3c"
 freq_rank: 5759
 skip: false
+audio: "Zutat.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zutat
+
+![[Zutat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zutat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zutat&language=de)
 
 **Meaning:** ingredient
 **Plural:** Zutaten

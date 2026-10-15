@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4658"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Zeichensprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Zeichensprache
+
+![[Zeichensprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeichensprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichensprache&language=de)
 
 **Meaning:** gestures; sign-based communication (not formal sign language, which is Gebärdensprache)
 **Plural:** Zeichensprachen

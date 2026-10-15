@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 1b ÜB"
 freq_rank: 3227
 skip: false
+audio: "senden.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # senden
+
+![[senden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/senden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=senden&language=de)
 
 **Meaning:** to send
 **Forms:** sendet · sendete/sandte · hat gesendet/gesandt

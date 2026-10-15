@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3b"
 freq_rank: 2150
 skip: false
+audio: "teuer.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # teuer
+
+![[teuer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/teuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=teuer&language=de)
 
 **Meaning:** expensive
 **Forms:** teurer – am teuersten (teure/teurer before nouns)

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1455"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Einschätzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einschätzung
+
+![[Einschätzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einsch%C3%A4tzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einsch%C3%A4tzung&language=de)
 
 **Meaning:** assessment; estimation
 **Plural:** Einschätzungen

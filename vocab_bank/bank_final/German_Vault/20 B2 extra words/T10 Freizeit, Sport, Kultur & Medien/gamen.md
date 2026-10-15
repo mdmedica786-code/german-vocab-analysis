@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3973"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "gamen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # gamen
+
+![[gamen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gamen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gamen&language=de)
 
 **Meaning:** to game; to play video games
 **Forms:** gamt · gamte · hat gegamt

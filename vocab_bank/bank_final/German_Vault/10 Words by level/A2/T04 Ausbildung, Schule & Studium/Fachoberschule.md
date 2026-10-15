@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Fachoberschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fachoberschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachoberschule&language=de)
+
 **Meaning:** higher secondary vocational school
 **Plural:** Fachoberschulen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

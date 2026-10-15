@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 1b"
 freq_rank: 625
 skip: false
+audio: "Ordnung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ordnung
+
+![[Ordnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ordnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordnung&language=de)
 
 **Meaning:** order; tidiness
 **Plural:** –

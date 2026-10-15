@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3092"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "zerren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zerren
+
+![[zerren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zerren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerren&language=de)
 
 **Meaning:** to drag; to tug
 **Forms:** zerrt · zerrte · hat gezerrt

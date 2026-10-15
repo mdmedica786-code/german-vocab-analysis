@@ -15,11 +15,16 @@ id: "B3550"
 netzwerk: "B1 K3 3b"
 freq_rank: 5759
 skip: false
+audio: "Lebensgeschichte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lebensgeschichte
+
+![[Lebensgeschichte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensgeschichte&language=de)
 
 **Meaning:** life story
 **Plural:** Lebensgeschichten

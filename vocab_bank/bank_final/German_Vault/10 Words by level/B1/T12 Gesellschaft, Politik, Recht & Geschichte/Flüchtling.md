@@ -15,11 +15,16 @@ id: "B4984"
 netzwerk: "B1 K11 12b"
 freq_rank: 3983
 skip: false
+audio: "Flüchtling.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Flüchtling
+
+![[Flüchtling.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fl%C3%BCchtling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fl%C3%BCchtling&language=de)
 
 **Meaning:** refugee
 **Plural:** Flüchtlinge

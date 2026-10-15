@@ -12,11 +12,16 @@ bank: "main"
 id: "B6090"
 freq_rank: 4295
 skip: false
+audio: "motivieren.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # motivieren
+
+![[motivieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/motivieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=motivieren&language=de)
 
 **Meaning:** to motivate
 **Forms:** motiviert · motivierte · hat motiviert

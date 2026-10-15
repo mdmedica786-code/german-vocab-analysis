@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 13b"
 freq_rank: 1236
 skip: false
+audio: "Besuch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Besuch
+
+![[Besuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besuch&language=de)
 
 **Meaning:** visit
 **Plural:** Besuche

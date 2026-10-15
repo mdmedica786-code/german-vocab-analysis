@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 3a"
 freq_rank: 605
 skip: false
+audio: "Mitarbeiter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mitarbeiter
+
+![[Mitarbeiter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitarbeiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitarbeiter&language=de)
 
 **Meaning:** employee; colleague (m)
 **Plural:** Mitarbeiter

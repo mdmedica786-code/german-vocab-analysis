@@ -14,11 +14,16 @@ bank: "main"
 id: "B5420"
 freq_rank: 1900
 skip: false
+audio: "Überblick.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Überblick
+
+![[Überblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberblick&language=de)
 
 **Meaning:** overview
 **Plural:** –

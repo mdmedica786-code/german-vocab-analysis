@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3588"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Fiktion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fiktion
+
+![[Fiktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fiktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fiktion&language=de)
 
 **Meaning:** fiction
 **Plural:** Fiktionen

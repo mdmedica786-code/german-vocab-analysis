@@ -15,11 +15,16 @@ id: "B1737"
 netzwerk: "A1 K12 1b"
 freq_rank: 4367
 skip: false
+audio: "Helm.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Helm
+
+![[Helm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Helm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Helm&language=de)
 
 **Meaning:** helmet
 **Plural:** Helme

@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Opfer werden
 
+[▶️ YouGlish](https://youglish.com/pronounce/Opfer%20werden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Opfer%20werden&language=de)
+
 **Meaning:** to fall victim
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

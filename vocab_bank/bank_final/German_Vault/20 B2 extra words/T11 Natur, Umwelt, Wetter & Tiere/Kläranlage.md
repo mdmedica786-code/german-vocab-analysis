@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0704"
 exam_use: ["Lesen"]
 skip: false
+audio: "Kläranlage.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kläranlage
+
+![[Kläranlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kl%C3%A4ranlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kl%C3%A4ranlage&language=de)
 
 **Meaning:** sewage treatment plant
 **Plural:** Kläranlagen

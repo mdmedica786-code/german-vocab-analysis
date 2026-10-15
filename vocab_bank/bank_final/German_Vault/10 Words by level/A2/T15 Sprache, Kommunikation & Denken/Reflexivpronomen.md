@@ -15,11 +15,16 @@ id: "B2220"
 netzwerk: "A2 K4 6a"
 freq_rank: 5759
 skip: false
+audio: "Reflexivpronomen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Reflexivpronomen
+
+![[Reflexivpronomen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reflexivpronomen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reflexivpronomen&language=de)
 
 **Meaning:** reflexive pronoun
 **Plural:** Reflexivpronomen

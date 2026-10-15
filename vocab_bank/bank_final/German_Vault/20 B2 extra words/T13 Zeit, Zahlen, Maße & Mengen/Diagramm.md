@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3313"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Diagramm.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Diagramm
+
+![[Diagramm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Diagramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Diagramm&language=de)
 
 **Meaning:** diagram; chart; graph
 **Plural:** Diagramme

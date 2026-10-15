@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0681"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Ökosystem.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ökosystem
+
+![[Ökosystem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96kosystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96kosystem&language=de)
 
 **Meaning:** ecosystem
 **Plural:** Ökosysteme

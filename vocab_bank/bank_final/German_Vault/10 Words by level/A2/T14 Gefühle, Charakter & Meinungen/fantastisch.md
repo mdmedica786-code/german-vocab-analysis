@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 6"
 freq_rank: 4517
 skip: false
+audio: "fantastisch.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # fantastisch
+
+![[fantastisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fantastisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fantastisch&language=de)
 
 **Meaning:** fantastic
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B2958"
 netzwerk: "A2 K10 5b"
 freq_rank: 5759
 skip: false
+audio: "Lampion.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lampion
+
+![[Lampion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lampion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lampion&language=de)
 
 **Meaning:** paper lantern
 **Plural:** Lampions

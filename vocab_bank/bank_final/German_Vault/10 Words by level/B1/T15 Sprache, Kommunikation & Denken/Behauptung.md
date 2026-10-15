@@ -15,11 +15,16 @@ id: "B4283"
 netzwerk: "B1 K7 10a"
 freq_rank: 3182
 skip: false
+audio: "Behauptung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Behauptung
+
+![[Behauptung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Behauptung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Behauptung&language=de)
 
 **Meaning:** claim
 **Plural:** Behauptungen

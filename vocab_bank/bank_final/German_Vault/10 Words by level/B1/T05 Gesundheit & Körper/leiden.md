@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 6b"
 freq_rank: 860
 skip: false
+audio: "leiden.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # leiden
+
+![[leiden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leiden&language=de)
 
 **Meaning:** to suffer
 **Forms:** leidet · litt · hat gelitten

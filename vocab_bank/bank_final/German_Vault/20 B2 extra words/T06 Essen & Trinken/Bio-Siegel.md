@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # das Bio-Siegel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bio-Siegel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bio-Siegel&language=de)
+
 **Meaning:** organic label
 **Plural:** Bio-Siegel
 **Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

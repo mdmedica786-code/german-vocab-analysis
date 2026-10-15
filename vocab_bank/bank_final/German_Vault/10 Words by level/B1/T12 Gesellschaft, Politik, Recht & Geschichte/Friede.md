@@ -17,11 +17,16 @@ freq_rank: 4951
 skip: true
 skip_reason: "duplicate of B4622 (learn that entry)"
 check: "dup:B4622"
+audio: "Friede.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Friede
+
+![[Friede.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Friede/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Friede&language=de)
 
 **Meaning:** peace
 **Plural:** –

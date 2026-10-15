@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2718"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "erbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # erbringen
+
+![[erbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erbringen&language=de)
 
 **Meaning:** to provide; to yield; to produce
 **Forms:** erbringt · erbrachte · hat erbracht

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 3a"
 freq_rank: 1000
 skip: false
+audio: "aktiv.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # aktiv
+
+![[aktiv.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aktiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aktiv&language=de)
 
 **Meaning:** active
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

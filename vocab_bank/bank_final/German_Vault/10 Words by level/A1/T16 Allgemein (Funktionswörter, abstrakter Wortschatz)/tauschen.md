@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 8c"
 freq_rank: 5537
 skip: false
+audio: "tauschen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # tauschen
+
+![[tauschen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tauschen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tauschen&language=de)
 
 **Meaning:** to swap; to exchange
 **Forms:** tauscht · tauschte · hat getauscht

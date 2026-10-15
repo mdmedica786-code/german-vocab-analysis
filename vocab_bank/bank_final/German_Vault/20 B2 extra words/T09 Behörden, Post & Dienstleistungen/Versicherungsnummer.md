@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4589"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Versicherungsnummer
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versicherungsnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versicherungsnummer&language=de)
 
 **Meaning:** insurance number
 **Plural:** Versicherungsnummern

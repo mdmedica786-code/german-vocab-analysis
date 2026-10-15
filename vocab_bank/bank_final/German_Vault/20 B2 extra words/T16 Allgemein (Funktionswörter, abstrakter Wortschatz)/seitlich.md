@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3009"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "seitlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # seitlich
+
+![[seitlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seitlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seitlich&language=de)
 
 **Meaning:** side; lateral; at the side
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

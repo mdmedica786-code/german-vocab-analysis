@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2704"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "anbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anbringen
+
+![[anbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anbringen&language=de)
 
 **Meaning:** to attach; to put up; to voice
 **Forms:** bringt an · brachte an · hat angebracht

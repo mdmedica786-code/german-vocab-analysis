@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0652"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Kernkraft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kernkraft
+
+![[Kernkraft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kernkraft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kernkraft&language=de)
 
 **Meaning:** nuclear power
 **Plural:** –

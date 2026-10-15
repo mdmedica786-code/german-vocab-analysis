@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 6a"
 freq_rank: 4100
 skip: false
+audio: "Drucker.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Drucker
+
+![[Drucker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Drucker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Drucker&language=de)
 
 **Meaning:** printer
 **Plural:** Drucker

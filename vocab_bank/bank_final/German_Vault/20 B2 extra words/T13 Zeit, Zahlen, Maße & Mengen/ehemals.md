@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1338"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "ehemals.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # ehemals
+
+![[ehemals.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ehemals/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ehemals&language=de)
 
 **Meaning:** formerly; once
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

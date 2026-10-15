@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4169"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Lautstärke.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lautstärke
+
+![[Lautstärke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lautst%C3%A4rke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lautst%C3%A4rke&language=de)
 
 **Meaning:** volume; loudness
 **Plural:** Lautstärken

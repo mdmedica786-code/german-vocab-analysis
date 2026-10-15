@@ -15,11 +15,16 @@ id: "B2574"
 netzwerk: "A2 K7 5a"
 freq_rank: 5759
 skip: false
+audio: "Kinderwagen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kinderwagen
+
+![[Kinderwagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderwagen&language=de)
 
 **Meaning:** pram
 **Plural:** Kinderwagen

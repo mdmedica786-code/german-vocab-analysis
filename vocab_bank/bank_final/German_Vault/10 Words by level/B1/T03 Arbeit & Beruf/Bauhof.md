@@ -15,11 +15,16 @@ id: "B4912"
 netzwerk: "B1 K11 6b"
 freq_rank: 5759
 skip: false
+audio: "Bauhof.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bauhof
+
+![[Bauhof.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bauhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bauhof&language=de)
 
 **Meaning:** construction yard
 **Plural:** Bauhöfe

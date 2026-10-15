@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Bikini.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bikini
+
+![[Bikini.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bikini/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bikini&language=de)
 
 **Meaning:** bikini
 **Plural:** Bikinis

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3904"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Erachten
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erachten&language=de)
 
 **Meaning:** opinion; view (only in "meines Erachtens")
 **Plural:** –

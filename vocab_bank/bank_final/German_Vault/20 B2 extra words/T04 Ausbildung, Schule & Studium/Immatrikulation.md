@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0934"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Immatrikulation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Immatrikulation
+
+![[Immatrikulation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Immatrikulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Immatrikulation&language=de)
 
 **Meaning:** university enrolment
 **Plural:** Immatrikulationen

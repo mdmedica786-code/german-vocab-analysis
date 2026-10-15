@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 3b"
 freq_rank: 560
 skip: false
+audio: "Antwort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Antwort
+
+![[Antwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Antwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Antwort&language=de)
 
 **Meaning:** answer
 **Plural:** Antworten

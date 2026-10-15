@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0744"
 exam_use: ["Lesen"]
 skip: false
+audio: "Moor.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Moor
+
+![[Moor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Moor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moor&language=de)
 
 **Meaning:** bog; moor
 **Plural:** Moore

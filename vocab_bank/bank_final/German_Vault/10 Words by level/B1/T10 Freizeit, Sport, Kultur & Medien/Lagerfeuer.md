@@ -15,11 +15,16 @@ id: "B4219"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Lagerfeuer.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lagerfeuer
+
+![[Lagerfeuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lagerfeuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lagerfeuer&language=de)
 
 **Meaning:** campfire
 **Plural:** Lagerfeuer

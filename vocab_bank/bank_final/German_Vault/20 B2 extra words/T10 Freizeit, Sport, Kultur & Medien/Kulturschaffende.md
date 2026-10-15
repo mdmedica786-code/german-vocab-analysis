@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4155"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Kulturschaffende.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # Kulturschaffende
+
+![[Kulturschaffende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kulturschaffende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturschaffende&language=de)
 
 **Meaning:** person working in the arts; cultural worker
 **Plural:** Kulturschaffenden

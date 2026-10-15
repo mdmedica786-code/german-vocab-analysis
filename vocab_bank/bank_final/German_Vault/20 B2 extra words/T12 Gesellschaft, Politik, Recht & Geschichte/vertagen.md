@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1321"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "vertagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # vertagen
+
+![[vertagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vertagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertagen&language=de)
 
 **Meaning:** to adjourn; to postpone
 **Forms:** vertagt · vertagte · hat vertagt

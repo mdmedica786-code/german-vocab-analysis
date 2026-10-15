@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Folge leisten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Folge%20leisten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Folge%20leisten&language=de)
+
 **Meaning:** to comply with
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

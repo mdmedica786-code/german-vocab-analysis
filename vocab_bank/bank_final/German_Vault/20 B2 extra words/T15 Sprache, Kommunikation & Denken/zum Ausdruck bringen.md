@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zum Ausdruck bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Ausdruck%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Ausdruck%20bringen&language=de)
+
 **Meaning:** to express
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

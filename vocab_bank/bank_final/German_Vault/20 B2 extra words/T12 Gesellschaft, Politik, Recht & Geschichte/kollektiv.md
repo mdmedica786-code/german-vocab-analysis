@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2576"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "kollektiv.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # kollektiv
+
+![[kollektiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kollektiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kollektiv&language=de)
 
 **Meaning:** collective
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3577"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "zünden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zünden
+
+![[zünden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/z%C3%BCnden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=z%C3%BCnden&language=de)
 
 **Meaning:** to ignite; to light; to detonate
 **Forms:** zündet · zündete · hat gezündet

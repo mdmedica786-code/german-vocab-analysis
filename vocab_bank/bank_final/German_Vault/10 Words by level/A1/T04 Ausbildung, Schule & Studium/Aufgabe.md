@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 6"
 freq_rank: 346
 skip: false
+audio: "Aufgabe.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufgabe
+
+![[Aufgabe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufgabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufgabe&language=de)
 
 **Meaning:** task; assignment
 **Plural:** Aufgaben

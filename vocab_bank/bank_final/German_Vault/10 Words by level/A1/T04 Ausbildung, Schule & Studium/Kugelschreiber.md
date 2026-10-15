@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Kugelschreiber.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kugelschreiber
+
+![[Kugelschreiber.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kugelschreiber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kugelschreiber&language=de)
 
 **Meaning:** ballpoint pen
 **Plural:** Kugelschreiber

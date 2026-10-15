@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1999"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Walnuss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Walnuss
+
+![[Walnuss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Walnuss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Walnuss&language=de)
 
 **Meaning:** walnut
 **Plural:** Walnüsse

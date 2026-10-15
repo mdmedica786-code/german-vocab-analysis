@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 9a"
 freq_rank: 3324
 skip: false
+audio: "Wiese.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wiese
+
+![[Wiese.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wiese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wiese&language=de)
 
 **Meaning:** meadow
 **Plural:** Wiesen

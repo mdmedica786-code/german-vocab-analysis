@@ -15,11 +15,16 @@ id: "B3072"
 netzwerk: "A2 K11 7c"
 freq_rank: 5759
 skip: false
+audio: "Beispielsatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beispielsatz
+
+![[Beispielsatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beispielsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beispielsatz&language=de)
 
 **Meaning:** example sentence
 **Plural:** Beispielsätze

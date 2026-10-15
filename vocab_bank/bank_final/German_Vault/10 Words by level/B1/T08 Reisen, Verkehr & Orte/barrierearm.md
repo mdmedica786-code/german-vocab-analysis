@@ -12,11 +12,16 @@ id: "B4535"
 netzwerk: "B1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "barrierearm.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # barrierearm
+
+![[barrierearm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/barrierearm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=barrierearm&language=de)
 
 **Meaning:** with few barriers; partly accessible
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

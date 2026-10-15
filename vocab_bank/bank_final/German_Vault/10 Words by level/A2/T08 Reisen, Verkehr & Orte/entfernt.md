@@ -12,11 +12,16 @@ id: "B2886"
 netzwerk: "A2 K9 12a"
 freq_rank: 460
 skip: false
+audio: "entfernt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # entfernt
+
+![[entfernt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entfernt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entfernt&language=de)
 
 **Meaning:** away
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

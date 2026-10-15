@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 874
 skip: false
+audio: "messen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # messen
+
+![[messen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/messen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=messen&language=de)
 
 **Meaning:** to measure
 **Forms:** misst · maß · hat gemessen

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 12c"
 freq_rank: 5759
 skip: false
+audio: "füttern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # füttern
+
+![[füttern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCttern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCttern&language=de)
 
 **Meaning:** to feed
 **Forms:** füttert · fütterte · hat gefüttert

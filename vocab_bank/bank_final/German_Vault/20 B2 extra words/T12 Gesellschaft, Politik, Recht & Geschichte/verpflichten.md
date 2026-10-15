@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1799"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verpflichten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verpflichten
+
+![[verpflichten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verpflichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verpflichten&language=de)
 
 **Meaning:** to oblige; to commit
 **Forms:** verpflichtet · verpflichtete · hat verpflichtet

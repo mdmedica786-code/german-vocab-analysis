@@ -12,11 +12,16 @@ id: "B6284"
 goethe_level: "B1"
 freq_rank: 5354
 skip: false
+audio: "verabredet.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # verabredet
+
+![[verabredet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verabredet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verabredet&language=de)
 
 **Meaning:** having an appointment; arranged to meet
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

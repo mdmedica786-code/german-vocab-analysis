@@ -14,11 +14,16 @@ bank: "main"
 id: "B5665"
 freq_rank: 2721
 skip: false
+audio: "Horizont.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Horizont
+
+![[Horizont.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Horizont/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Horizont&language=de)
 
 **Meaning:** horizon
 **Plural:** Horizonte

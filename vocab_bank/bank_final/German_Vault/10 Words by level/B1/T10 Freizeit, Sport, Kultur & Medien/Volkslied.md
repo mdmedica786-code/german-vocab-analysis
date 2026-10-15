@@ -15,11 +15,16 @@ id: "B4700"
 netzwerk: "B1 K9 12b"
 freq_rank: 5759
 skip: false
+audio: "Volkslied.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Volkslied
+
+![[Volkslied.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Volkslied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volkslied&language=de)
 
 **Meaning:** folk song
 **Plural:** Volkslieder

@@ -13,11 +13,16 @@ id: "B1299"
 netzwerk: "A1 K8 12b"
 freq_rank: 2906
 skip: false
+audio: "einschlafen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # einschlafen
+
+![[einschlafen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einschlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einschlafen&language=de)
 
 **Meaning:** to fall asleep
 **Forms:** schläft ein · schlief ein · ist eingeschlafen

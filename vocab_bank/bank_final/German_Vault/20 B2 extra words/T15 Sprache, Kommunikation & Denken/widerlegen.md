@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0221"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "widerlegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # widerlegen
+
+![[widerlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/widerlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=widerlegen&language=de)
 
 **Meaning:** to refute; to disprove
 **Forms:** widerlegt · widerlegte · hat widerlegt

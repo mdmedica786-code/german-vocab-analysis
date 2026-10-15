@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1531"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Zuverlässigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zuverlässigkeit
+
+![[Zuverlässigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuverl%C3%A4ssigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuverl%C3%A4ssigkeit&language=de)
 
 **Meaning:** reliability
 **Plural:** –

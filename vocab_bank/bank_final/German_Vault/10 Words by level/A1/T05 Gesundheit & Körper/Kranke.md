@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 1a"
 freq_rank: 2804
 skip: false
+audio: "Kranke.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Kranke
+
+![[Kranke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kranke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kranke&language=de)
 
 **Meaning:** sick person; patient
 **Plural:** Kranken

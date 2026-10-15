@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 1313
 skip: false
+audio: "rechtlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # rechtlich
+
+![[rechtlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rechtlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rechtlich&language=de)
 
 **Meaning:** legal
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 1334
 skip: false
+audio: "selbstverständlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # selbstverständlich
+
+![[selbstverständlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/selbstverst%C3%A4ndlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=selbstverst%C3%A4ndlich&language=de)
 
 **Meaning:** of course
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

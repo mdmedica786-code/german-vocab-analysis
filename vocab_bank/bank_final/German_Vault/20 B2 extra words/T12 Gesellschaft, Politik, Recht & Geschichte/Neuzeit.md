@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2932"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Neuzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Neuzeit
+
+![[Neuzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Neuzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Neuzeit&language=de)
 
 **Meaning:** modern era
 **Plural:** –

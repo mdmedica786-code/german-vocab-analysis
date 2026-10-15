@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 7a"
 freq_rank: 2000
 skip: false
+audio: "Fest.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fest
+
+![[Fest.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fest/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fest&language=de)
 
 **Meaning:** festival
 **Plural:** Feste

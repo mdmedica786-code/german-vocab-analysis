@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 1a ÜB"
 freq_rank: 5738
 skip: false
+audio: "Pilz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pilz
+
+![[Pilz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pilz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pilz&language=de)
 
 **Meaning:** mushroom; fungus
 **Plural:** Pilze

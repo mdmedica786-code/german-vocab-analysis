@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Sprechstunde.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sprechstunde
+
+![[Sprechstunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprechstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprechstunde&language=de)
 
 **Meaning:** consulting hours
 **Plural:** Sprechstunden

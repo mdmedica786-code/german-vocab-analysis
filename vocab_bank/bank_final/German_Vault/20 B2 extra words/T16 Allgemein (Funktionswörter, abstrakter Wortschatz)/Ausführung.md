@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2418"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Ausführung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausführung
+
+![[Ausführung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausf%C3%BChrung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausf%C3%BChrung&language=de)
 
 **Meaning:** execution; version; explanation
 **Plural:** Ausführungen

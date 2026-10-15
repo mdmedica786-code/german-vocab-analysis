@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3825"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Buchprojekt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Buchprojekt
+
+![[Buchprojekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchprojekt&language=de)
 
 **Meaning:** book project
 **Plural:** Buchprojekte

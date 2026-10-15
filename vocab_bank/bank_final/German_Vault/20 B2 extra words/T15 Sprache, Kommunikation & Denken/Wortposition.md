@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4651"
 exam_use: ["Grammatik", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Grammatik", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Wortposition
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortposition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortposition&language=de)
 
 **Meaning:** word position; position of a word
 **Plural:** Wortpositionen

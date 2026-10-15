@@ -15,11 +15,16 @@ id: "B3182"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Campingplatz.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Campingplatz
+
+![[Campingplatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Campingplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Campingplatz&language=de)
 
 **Meaning:** campsite
 **Plural:** Campingplätze

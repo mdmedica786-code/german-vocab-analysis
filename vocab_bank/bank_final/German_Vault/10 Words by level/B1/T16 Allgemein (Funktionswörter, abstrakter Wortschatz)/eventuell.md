@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 5a"
 freq_rank: 2324
 skip: false
+audio: "eventuell.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eventuell
+
+![[eventuell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eventuell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eventuell&language=de)
 
 **Meaning:** possibly; perhaps
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

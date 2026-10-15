@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3024"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Verweis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verweis
+
+![[Verweis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verweis&language=de)
 
 **Meaning:** reference; cross-reference; reprimand
 **Plural:** Verweise

@@ -13,11 +13,16 @@ id: "B5323"
 goethe_level: "B1"
 freq_rank: 1420
 skip: false
+audio: "verstecken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verstecken
+
+![[verstecken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verstecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verstecken&language=de)
 
 **Meaning:** to hide
 **Forms:** versteckt · versteckte · hat versteckt

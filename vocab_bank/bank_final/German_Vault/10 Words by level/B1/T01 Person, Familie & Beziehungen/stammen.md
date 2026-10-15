@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 11b"
 freq_rank: 1286
 skip: false
+audio: "stammen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stammen
+
+![[stammen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stammen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stammen&language=de)
 
 **Meaning:** to originate (from)
 **Forms:** stammt · stammte · hat gestammt

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 6c"
 freq_rank: 615
 skip: false
+audio: "bitten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bitten
+
+![[bitten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bitten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bitten&language=de)
 
 **Meaning:** to ask for; to request
 **Forms:** bittet · bat · hat gebeten

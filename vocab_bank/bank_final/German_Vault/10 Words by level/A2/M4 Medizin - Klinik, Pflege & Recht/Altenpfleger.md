@@ -15,11 +15,16 @@ id: "B1941"
 netzwerk: "A2 K2 1c"
 freq_rank: 5759
 skip: false
+audio: "Altenpfleger.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Altenpfleger
+
+![[Altenpfleger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Altenpfleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Altenpfleger&language=de)
 
 **Meaning:** geriatric nurse (m)
 **Plural:** Altenpfleger

@@ -15,11 +15,16 @@ id: "B5459"
 goethe_level: "B1"
 freq_rank: 2000
 skip: false
+audio: "Tat.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tat
+
+![[Tat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tat&language=de)
 
 **Meaning:** deed; act
 **Plural:** Taten

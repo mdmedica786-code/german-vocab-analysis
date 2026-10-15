@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Vokaländerung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vokal%C3%A4nderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vokal%C3%A4nderung&language=de)
+
 **Meaning:** vowel change
 **Plural:** Vokaländerungen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

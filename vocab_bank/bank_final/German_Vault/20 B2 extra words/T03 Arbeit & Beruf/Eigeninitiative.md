@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1479"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Eigeninitiative.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eigeninitiative
+
+![[Eigeninitiative.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eigeninitiative/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eigeninitiative&language=de)
 
 **Meaning:** own initiative; self-motivation
 **Plural:** –

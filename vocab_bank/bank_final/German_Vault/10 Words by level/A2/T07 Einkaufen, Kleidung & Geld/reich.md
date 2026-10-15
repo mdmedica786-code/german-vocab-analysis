@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 706
 skip: false
+audio: "reich.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # reich
+
+![[reich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reich&language=de)
 
 **Meaning:** rich
 **Forms:** reicher – am reichsten

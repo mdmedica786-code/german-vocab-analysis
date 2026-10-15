@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0931"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Förderunterricht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Förderunterricht
+
+![[Förderunterricht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%B6rderunterricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%B6rderunterricht&language=de)
 
 **Meaning:** supplementary tuition; remedial classes
 **Plural:** –

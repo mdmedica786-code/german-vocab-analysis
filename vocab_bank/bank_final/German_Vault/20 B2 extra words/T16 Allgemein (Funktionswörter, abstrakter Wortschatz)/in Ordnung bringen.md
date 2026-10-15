@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Ordnung bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Ordnung%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Ordnung%20bringen&language=de)
+
 **Meaning:** to put in order; to fix
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

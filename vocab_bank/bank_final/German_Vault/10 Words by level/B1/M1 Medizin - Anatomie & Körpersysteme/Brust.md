@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 2a ÜB"
 freq_rank: 769
 skip: false
+audio: "Brust.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Brust
+
+![[Brust.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brust/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brust&language=de)
 
 **Meaning:** chest; breast
 **Plural:** Brüste

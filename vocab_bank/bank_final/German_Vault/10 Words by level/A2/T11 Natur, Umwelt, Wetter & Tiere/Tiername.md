@@ -15,11 +15,16 @@ id: "B2999"
 netzwerk: "A2 K10 10c"
 freq_rank: 9999
 skip: false
+audio: "Tiername.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tiername
+
+![[Tiername.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiername/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiername&language=de)
 
 **Meaning:** animal name
 **Plural:** Tiernamen

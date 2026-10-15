@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3906"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Erfolgskonzept
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erfolgskonzept/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfolgskonzept&language=de)
 
 **Meaning:** recipe for success; successful concept
 **Plural:** Erfolgskonzepte

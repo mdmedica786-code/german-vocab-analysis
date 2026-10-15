@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # im Mittelpunkt stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/im%20Mittelpunkt%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=im%20Mittelpunkt%20stehen&language=de)
+
 **Meaning:** to be the centre of attention
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

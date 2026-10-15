@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0970"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Zeitmanagement.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zeitmanagement
+
+![[Zeitmanagement.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeitmanagement/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeitmanagement&language=de)
 
 **Meaning:** time management
 **Plural:** –

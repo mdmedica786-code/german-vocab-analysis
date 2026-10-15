@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K11 5a"
 freq_rank: 251
 skip: false
+audio: "meist.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # meist
+
+![[meist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/meist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meist&language=de)
 
 **Meaning:** mostly; most of the time
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

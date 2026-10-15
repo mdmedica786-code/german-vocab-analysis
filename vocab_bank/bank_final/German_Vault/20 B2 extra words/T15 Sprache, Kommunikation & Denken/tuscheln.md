@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1731"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "tuscheln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # tuscheln
+
+![[tuscheln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tuscheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tuscheln&language=de)
 
 **Meaning:** to whisper; to mutter
 **Forms:** tuschelt · tuschelte · hat getuschelt

@@ -15,11 +15,16 @@ id: "B4860"
 netzwerk: "B1 K10 10b"
 freq_rank: 5759
 skip: false
+audio: "Grenzkontrolle.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grenzkontrolle
+
+![[Grenzkontrolle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grenzkontrolle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grenzkontrolle&language=de)
 
 **Meaning:** border control
 **Plural:** Grenzkontrollen

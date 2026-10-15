@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 2a"
 freq_rank: 173
 skip: false
+audio: "hören.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hören
+
+![[hören.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%B6ren&language=de)
 
 **Meaning:** to hear; to listen
 **Forms:** hört · hörte · hat gehört

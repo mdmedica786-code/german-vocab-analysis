@@ -13,11 +13,16 @@ id: "B4208"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1855
 skip: false
+audio: "decken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # decken
+
+![[decken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/decken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=decken&language=de)
 
 **Meaning:** to cover; to lay (the table)
 **Forms:** deckt · deckte · hat gedeckt

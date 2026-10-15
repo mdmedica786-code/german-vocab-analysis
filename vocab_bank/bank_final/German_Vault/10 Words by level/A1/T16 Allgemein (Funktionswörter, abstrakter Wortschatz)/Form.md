@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 3c"
 freq_rank: 216
 skip: false
+audio: "Form.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Form
+
+![[Form.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Form/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Form&language=de)
 
 **Meaning:** form; shape; mould
 **Plural:** Formen

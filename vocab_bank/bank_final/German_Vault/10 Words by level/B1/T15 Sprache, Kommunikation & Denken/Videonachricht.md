@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Videonachricht
 
+[▶️ YouGlish](https://youglish.com/pronounce/Videonachricht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Videonachricht&language=de)
+
 **Meaning:** video message
 **Plural:** Videonachrichten
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

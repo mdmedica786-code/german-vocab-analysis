@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2936"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "herausgeben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # herausgeben
+
+![[herausgeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herausgeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herausgeben&language=de)
 
 **Meaning:** to publish; to hand over; to give change
 **Forms:** gibt heraus · gab heraus · hat herausgegeben

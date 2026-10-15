@@ -15,11 +15,16 @@ id: "B4691"
 netzwerk: "B1 K9 12b"
 freq_rank: 4013
 skip: false
+audio: "Nachbarschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachbarschaft
+
+![[Nachbarschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbarschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarschaft&language=de)
 
 **Meaning:** neighbourhood
 **Plural:** –

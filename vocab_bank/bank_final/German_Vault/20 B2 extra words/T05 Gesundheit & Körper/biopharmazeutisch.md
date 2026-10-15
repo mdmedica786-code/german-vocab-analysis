@@ -11,11 +11,13 @@ bank: "b2"
 id: "D3818"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # biopharmazeutisch
+
+[▶️ YouGlish](https://youglish.com/pronounce/biopharmazeutisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=biopharmazeutisch&language=de)
 
 **Meaning:** biopharmaceutical
 **Level:** B2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

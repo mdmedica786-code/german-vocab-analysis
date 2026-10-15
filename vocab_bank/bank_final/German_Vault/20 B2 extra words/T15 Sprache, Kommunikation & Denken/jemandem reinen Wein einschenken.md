@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem reinen Wein einschenken
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20reinen%20Wein%20einschenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20reinen%20Wein%20einschenken&language=de)
+
 **Meaning:** to tell someone the plain truth
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

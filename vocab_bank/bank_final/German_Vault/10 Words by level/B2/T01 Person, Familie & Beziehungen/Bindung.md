@@ -14,11 +14,16 @@ bank: "main"
 id: "B5440"
 freq_rank: 1974
 skip: false
+audio: "Bindung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bindung
+
+![[Bindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bindung&language=de)
 
 **Meaning:** bond; attachment
 **Plural:** Bindungen

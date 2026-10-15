@@ -15,11 +15,16 @@ id: "B5155"
 goethe_level: "B1"
 freq_rank: 433
 skip: false
+audio: "Zusammenhang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zusammenhang
+
+![[Zusammenhang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusammenhang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammenhang&language=de)
 
 **Meaning:** connection; context
 **Plural:** Zusammenhänge

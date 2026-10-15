@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1404"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Umkleidekabine.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umkleidekabine
+
+![[Umkleidekabine.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umkleidekabine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umkleidekabine&language=de)
 
 **Meaning:** changing cubicle
 **Plural:** Umkleidekabinen

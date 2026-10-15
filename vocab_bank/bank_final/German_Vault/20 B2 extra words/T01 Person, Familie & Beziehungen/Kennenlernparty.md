@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4102"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kennenlernparty
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kennenlernparty/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kennenlernparty&language=de)
 
 **Meaning:** get-to-know-you party; icebreaker party
 **Plural:** Kennenlernpartys

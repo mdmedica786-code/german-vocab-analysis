@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3757"
 exam_use: ["Wissenschaft", "Hören"]
 skip: false
-status: "new"
+audio: "Auslautverhärtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Auslautverhärtung
+
+![[Auslautverhärtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auslautverh%C3%A4rtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auslautverh%C3%A4rtung&language=de)
 
 **Meaning:** final devoicing (of consonants)
 **Plural:** –

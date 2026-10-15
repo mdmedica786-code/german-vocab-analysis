@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1166"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Zufriedenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zufriedenheit
+
+![[Zufriedenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zufriedenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zufriedenheit&language=de)
 
 **Meaning:** satisfaction; contentment
 **Plural:** –

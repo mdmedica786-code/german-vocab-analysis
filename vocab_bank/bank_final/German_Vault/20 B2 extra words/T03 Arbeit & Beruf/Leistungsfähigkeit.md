@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2828"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Leistungsfähigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leistungsfähigkeit
+
+![[Leistungsfähigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leistungsf%C3%A4higkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leistungsf%C3%A4higkeit&language=de)
 
 **Meaning:** performance; capacity
 **Plural:** –

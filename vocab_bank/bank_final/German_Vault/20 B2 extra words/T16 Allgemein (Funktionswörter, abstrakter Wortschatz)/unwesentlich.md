@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4553"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "unwesentlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # unwesentlich
+
+![[unwesentlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unwesentlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unwesentlich&language=de)
 
 **Meaning:** insignificant; minor
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

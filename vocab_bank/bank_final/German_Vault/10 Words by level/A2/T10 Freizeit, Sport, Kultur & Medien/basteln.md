@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 2b"
 freq_rank: 4823
 skip: false
+audio: "basteln.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # basteln
+
+![[basteln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/basteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=basteln&language=de)
 
 **Meaning:** to make sth
 **Forms:** bastelt · bastelte · hat gebastelt

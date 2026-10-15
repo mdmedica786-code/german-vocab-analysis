@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3746"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Aufstiegsmöglichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Aufstiegsmöglichkeit
+
+![[Aufstiegsmöglichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufstiegsm%C3%B6glichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufstiegsm%C3%B6glichkeit&language=de)
 
 **Meaning:** opportunity for advancement; promotion prospect
 **Plural:** Aufstiegsmöglichkeiten

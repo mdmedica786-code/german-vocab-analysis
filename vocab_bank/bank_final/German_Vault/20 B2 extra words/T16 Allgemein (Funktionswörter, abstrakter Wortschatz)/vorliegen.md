@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2435"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "vorliegen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vorliegen
+
+![[vorliegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vorliegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vorliegen&language=de)
 
 **Meaning:** to exist; to be available; to be present
 **Forms:** liegt vor · lag vor · hat vorgelegen

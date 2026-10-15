@@ -12,11 +12,16 @@ id: "B5167"
 goethe_level: "A1"
 freq_rank: 506
 skip: false
+audio: "dritte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # dritte
+
+![[dritte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dritte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dritte&language=de)
 
 **Meaning:** third (ordinal)
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

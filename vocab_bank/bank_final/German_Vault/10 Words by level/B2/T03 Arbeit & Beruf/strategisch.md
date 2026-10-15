@@ -11,11 +11,16 @@ bank: "main"
 id: "B5407"
 freq_rank: 1826
 skip: false
+audio: "strategisch.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # strategisch
+
+![[strategisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/strategisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=strategisch&language=de)
 
 **Meaning:** strategic
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

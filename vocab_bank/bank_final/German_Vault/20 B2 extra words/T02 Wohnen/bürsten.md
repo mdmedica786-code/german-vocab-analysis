@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1694"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "bürsten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # bürsten
+
+![[bürsten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/b%C3%BCrsten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=b%C3%BCrsten&language=de)
 
 **Meaning:** to brush
 **Forms:** bürstet · bürstete · hat gebürstet

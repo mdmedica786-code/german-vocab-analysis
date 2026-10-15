@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # weiterflüstern
 
+[▶️ YouGlish](https://youglish.com/pronounce/weiterfl%C3%BCstern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterfl%C3%BCstern&language=de)
+
 **Meaning:** to pass on in a whisper
 **Forms:** flüstert weiter · flüsterte weiter · hat weitergeflüstert
 **Grammar:** separable (weiter-)

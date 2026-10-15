@@ -15,11 +15,16 @@ id: "B5329"
 goethe_level: "B1"
 freq_rank: 1443
 skip: false
+audio: "Generation.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Generation
+
+![[Generation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Generation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Generation&language=de)
 
 **Meaning:** generation
 **Plural:** Generationen

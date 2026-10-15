@@ -15,11 +15,16 @@ id: "B6486"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Luxemburger.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Luxemburger
+
+![[Luxemburger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luxemburger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luxemburger&language=de)
 
 **Meaning:** Luxembourger (m)
 **Plural:** Luxemburger

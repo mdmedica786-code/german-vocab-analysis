@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 11a"
 freq_rank: 1743
 skip: false
+audio: "träumen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # träumen
+
+![[träumen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/tr%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=tr%C3%A4umen&language=de)
 
 **Meaning:** to dream
 **Forms:** träumt · träumte · hat geträumt

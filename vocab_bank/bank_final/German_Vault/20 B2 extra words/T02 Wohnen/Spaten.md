@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2236"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Spaten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Spaten
+
+![[Spaten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spaten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spaten&language=de)
 
 **Meaning:** spade
 **Plural:** Spaten

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3568"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Charakterisierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Charakterisierung
+
+![[Charakterisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Charakterisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Charakterisierung&language=de)
 
 **Meaning:** characterisation; description
 **Plural:** Charakterisierungen

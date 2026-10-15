@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 1024
 skip: false
+audio: "Internet.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Internet
+
+![[Internet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Internet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internet&language=de)
 
 **Meaning:** internet
 **Plural:** –

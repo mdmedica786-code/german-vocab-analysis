@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 11a"
 freq_rank: 3363
 skip: false
+audio: "Taxi.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Taxi
+
+![[Taxi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taxi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taxi&language=de)
 
 **Meaning:** taxi
 **Plural:** Taxis

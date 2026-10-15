@@ -14,11 +14,16 @@ bank: "main"
 id: "B6043"
 freq_rank: 4073
 skip: false
+audio: "Darm.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Darm
+
+![[Darm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Darm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Darm&language=de)
 
 **Meaning:** intestine; bowel
 **Plural:** Därme

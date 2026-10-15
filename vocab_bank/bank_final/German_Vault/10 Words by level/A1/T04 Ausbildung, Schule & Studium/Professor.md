@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 3a"
 freq_rank: 1305
 skip: false
+audio: "Professor.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Professor
+
+![[Professor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Professor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Professor&language=de)
 
 **Meaning:** professor (m)
 **Plural:** Professoren

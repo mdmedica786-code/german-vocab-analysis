@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6e"
 freq_rank: 4019
 skip: false
+audio: "kürzlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kürzlich
+
+![[kürzlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCrzlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCrzlich&language=de)
 
 **Meaning:** recently
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

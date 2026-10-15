@@ -15,11 +15,16 @@ id: "B4335"
 netzwerk: "B1 K7 12b"
 freq_rank: 3113
 skip: false
+audio: "Jagd.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Jagd
+
+![[Jagd.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jagd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jagd&language=de)
 
 **Meaning:** hunt
 **Plural:** Jagden

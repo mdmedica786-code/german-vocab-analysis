@@ -15,11 +15,16 @@ id: "B4693"
 netzwerk: "B1 K9 12b"
 freq_rank: 5759
 skip: false
+audio: "Schulchor.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schulchor
+
+![[Schulchor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schulchor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulchor&language=de)
 
 **Meaning:** school choir
 **Plural:** Schulchöre

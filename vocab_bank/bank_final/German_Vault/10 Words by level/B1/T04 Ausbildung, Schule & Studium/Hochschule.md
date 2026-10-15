@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 2297
 skip: false
+audio: "Hochschule.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hochschule
+
+![[Hochschule.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochschule&language=de)
 
 **Meaning:** university; institution of higher education
 **Plural:** Hochschulen

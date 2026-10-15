@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1899"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Vorsorge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorsorge
+
+![[Vorsorge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorsorge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorsorge&language=de)
 
 **Meaning:** precaution; provision
 **Plural:** –

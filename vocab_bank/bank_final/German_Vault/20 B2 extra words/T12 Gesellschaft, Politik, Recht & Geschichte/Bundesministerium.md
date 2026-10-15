@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3098"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Bundesministerium.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bundesministerium
+
+![[Bundesministerium.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bundesministerium/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bundesministerium&language=de)
 
 **Meaning:** federal ministry
 **Plural:** Bundesministerien

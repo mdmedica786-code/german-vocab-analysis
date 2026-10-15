@@ -13,11 +13,16 @@ id: "B5211"
 goethe_level: "B1"
 freq_rank: 819
 skip: false
+audio: "erhöhen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erhöhen
+
+![[erhöhen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erh%C3%B6hen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erh%C3%B6hen&language=de)
 
 **Meaning:** to raise; to increase
 **Forms:** erhöht · erhöhte · hat erhöht

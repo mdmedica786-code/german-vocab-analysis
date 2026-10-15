@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Zusammenleben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zusammenleben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammenleben&language=de)
+
 **Meaning:** communal life
 **Plural:** –
 **Level:** B1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

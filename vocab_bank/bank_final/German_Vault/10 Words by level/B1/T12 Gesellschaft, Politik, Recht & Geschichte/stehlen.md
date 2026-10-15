@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12c"
 freq_rank: 3046
 skip: false
+audio: "stehlen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stehlen
+
+![[stehlen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stehlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stehlen&language=de)
 
 **Meaning:** to steal
 **Forms:** stiehlt · stahl · hat gestohlen

@@ -15,11 +15,16 @@ id: "B5193"
 goethe_level: "A2"
 freq_rank: 657
 skip: false
+audio: "Mittel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mittel
+
+![[Mittel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittel&language=de)
 
 **Meaning:** remedy; means; agent
 **Plural:** Mittel

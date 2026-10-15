@@ -11,11 +11,16 @@ bank: "main"
 id: "B5403"
 freq_rank: 1806
 skip: false
+audio: "wirksam.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wirksam
+
+![[wirksam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wirksam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wirksam&language=de)
 
 **Meaning:** effective
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1762"
 netzwerk: "A1 K12 3b"
 freq_rank: 5759
 skip: false
+audio: "Bergtour.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bergtour
+
+![[Bergtour.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bergtour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bergtour&language=de)
 
 **Meaning:** mountain tour
 **Plural:** Bergtouren

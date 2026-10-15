@@ -14,11 +14,16 @@ bank: "main"
 id: "B5547"
 freq_rank: 2283
 skip: false
+audio: "Anstrengung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anstrengung
+
+![[Anstrengung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anstrengung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anstrengung&language=de)
 
 **Meaning:** effort; strain
 **Plural:** Anstrengungen

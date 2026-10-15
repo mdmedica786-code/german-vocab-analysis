@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Zuschauerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zuschauerin
+
+![[Zuschauerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuschauerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuschauerin&language=de)
 
 **Meaning:** spectator (f)
 **Plural:** Zuschauerinnen

@@ -15,11 +15,16 @@ id: "B6193"
 goethe_level: "A2"
 freq_rank: 4823
 skip: false
+audio: "Süßigkeiten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Süßigkeiten
+
+![[Süßigkeiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%BC%C3%9Figkeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%BC%C3%9Figkeiten&language=de)
 
 **Meaning:** sweets
 **Plural:** (Pl.)

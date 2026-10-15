@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1796"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "erkranken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # erkranken
+
+![[erkranken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erkranken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erkranken&language=de)
 
 **Meaning:** to fall ill
 **Forms:** erkrankt · erkrankte · ist erkrankt

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5388"
 freq_rank: 1736
 skip: false
+audio: "Bestandteil.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bestandteil
+
+![[Bestandteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bestandteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestandteil&language=de)
 
 **Meaning:** component; part
 **Plural:** Bestandteile

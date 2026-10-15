@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4339"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Quantenprozessor
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quantenprozessor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quantenprozessor&language=de)
 
 **Meaning:** quantum processor
 **Plural:** Quantenprozessoren

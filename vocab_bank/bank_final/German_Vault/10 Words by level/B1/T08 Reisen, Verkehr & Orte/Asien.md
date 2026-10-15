@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Asien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Asien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Asien&language=de)
+
 **Meaning:** Asia
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

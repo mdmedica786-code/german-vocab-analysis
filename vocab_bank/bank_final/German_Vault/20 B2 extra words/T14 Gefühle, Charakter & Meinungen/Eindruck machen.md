@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Eindruck machen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Eindruck%20machen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eindruck%20machen&language=de)
+
 **Meaning:** to make an impression
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

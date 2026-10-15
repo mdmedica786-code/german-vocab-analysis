@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0765"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "fahrlässig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # fahrlässig
+
+![[fahrlässig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fahrl%C3%A4ssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fahrl%C3%A4ssig&language=de)
 
 **Meaning:** negligent; careless
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

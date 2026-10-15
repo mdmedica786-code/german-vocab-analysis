@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "blitzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # blitzen
+
+![[blitzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/blitzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=blitzen&language=de)
 
 **Meaning:** to flash lightning
 **Forms:** blitzt · blitzte · hat geblitzt

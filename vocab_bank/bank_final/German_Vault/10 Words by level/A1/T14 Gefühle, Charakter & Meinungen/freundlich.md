@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 8b"
 freq_rank: 1041
 skip: false
+audio: "freundlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # freundlich
+
+![[freundlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freundlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freundlich&language=de)
 
 **Meaning:** friendly
 **Forms:** freundlicher – am freundlichsten

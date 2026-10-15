@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 10b"
 freq_rank: 1614
 skip: false
+audio: "aufmerksam.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufmerksam
+
+![[aufmerksam.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufmerksam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufmerksam&language=de)
 
 **Meaning:** attentive
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

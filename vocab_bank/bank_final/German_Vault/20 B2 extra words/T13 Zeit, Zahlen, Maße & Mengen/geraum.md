@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3996"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "geraum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # geraum
+
+![[geraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/geraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geraum&language=de)
 
 **Meaning:** considerable (of time; only in "seit geraumer Zeit")
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

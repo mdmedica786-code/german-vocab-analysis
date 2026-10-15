@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4015"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gewinnerprojekt
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewinnerprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewinnerprojekt&language=de)
 
 **Meaning:** winning project
 **Plural:** Gewinnerprojekte

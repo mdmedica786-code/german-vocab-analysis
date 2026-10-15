@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "Pfleger.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pfleger
+
+![[Pfleger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfleger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfleger&language=de)
 
 **Meaning:** nurse (m)
 **Plural:** Pfleger

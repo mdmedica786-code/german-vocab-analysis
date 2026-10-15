@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 7a"
 freq_rank: 2804
 skip: false
+audio: "Bewerbung.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewerbung
+
+![[Bewerbung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewerbung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewerbung&language=de)
 
 **Meaning:** application
 **Plural:** Bewerbungen

@@ -15,11 +15,16 @@ id: "B3917"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 2934
 skip: false
+audio: "Klimawandel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Klimawandel
+
+![[Klimawandel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Klimawandel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klimawandel&language=de)
 
 **Meaning:** climate change
 **Plural:** –

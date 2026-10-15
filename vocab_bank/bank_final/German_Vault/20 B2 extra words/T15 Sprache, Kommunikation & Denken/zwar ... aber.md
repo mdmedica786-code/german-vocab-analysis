@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4676"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # zwar ... aber ...
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwar%20...%20aber%20.../german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwar%20...%20aber%20...&language=de)
 
 **Meaning:** admittedly ... but ...; it is true that ... but ...
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

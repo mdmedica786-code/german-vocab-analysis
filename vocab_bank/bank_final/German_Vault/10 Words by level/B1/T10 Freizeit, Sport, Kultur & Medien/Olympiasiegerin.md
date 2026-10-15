@@ -15,11 +15,16 @@ id: "B3597"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Olympiasiegerin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Olympiasiegerin
+
+![[Olympiasiegerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Olympiasiegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Olympiasiegerin&language=de)
 
 **Meaning:** Olympic champion (f)
 **Plural:** Olympiasiegerinnen

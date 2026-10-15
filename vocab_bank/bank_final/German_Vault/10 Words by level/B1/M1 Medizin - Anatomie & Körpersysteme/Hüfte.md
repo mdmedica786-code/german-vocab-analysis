@@ -14,11 +14,16 @@ bank: "main"
 id: "B5537"
 freq_rank: 2237
 skip: false
+audio: "Hüfte.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hüfte
+
+![[Hüfte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%BCfte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BCfte&language=de)
 
 **Meaning:** hip
 **Plural:** Hüften

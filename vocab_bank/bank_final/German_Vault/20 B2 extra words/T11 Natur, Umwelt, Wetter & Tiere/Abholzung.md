@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0730"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Abholzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abholzung
+
+![[Abholzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abholzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abholzung&language=de)
 
 **Meaning:** deforestation; felling
 **Plural:** –

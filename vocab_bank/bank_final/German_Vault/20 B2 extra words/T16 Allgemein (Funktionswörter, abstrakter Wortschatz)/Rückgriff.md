@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3678"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Rückgriff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rückgriff
+
+![[Rückgriff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckgriff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckgriff&language=de)
 
 **Meaning:** recourse; falling back (on)
 **Plural:** Rückgriffe

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 7a"
 freq_rank: 5351
 skip: false
+audio: "Sekretär.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sekretär
+
+![[Sekretär.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sekret%C3%A4r/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sekret%C3%A4r&language=de)
 
 **Meaning:** secretary (m)
 **Plural:** Sekretäre

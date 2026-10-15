@@ -15,11 +15,16 @@ id: "B3622"
 netzwerk: "B1 K3 5b"
 freq_rank: 2000
 skip: false
+audio: "Alte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Alte
+
+![[Alte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alte&language=de)
 
 **Meaning:** old man/woman (wieder der/die Alte sein: to be one's old self again)
 **Plural:** Alten

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4316"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "plaudern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # plaudern
+
+![[plaudern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/plaudern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=plaudern&language=de)
 
 **Meaning:** to chat; to have a chat
 **Forms:** plaudert · plauderte · hat geplaudert

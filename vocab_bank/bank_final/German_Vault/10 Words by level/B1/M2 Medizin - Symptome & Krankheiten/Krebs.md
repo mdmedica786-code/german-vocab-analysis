@@ -14,11 +14,16 @@ bank: "main"
 id: "B6039"
 freq_rank: 4061
 skip: false
+audio: "Krebs.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Krebs
+
+![[Krebs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krebs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krebs&language=de)
 
 **Meaning:** cancer; crab
 **Plural:** –

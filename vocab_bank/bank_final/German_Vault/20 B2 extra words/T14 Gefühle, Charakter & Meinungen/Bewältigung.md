@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3065"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bewältigung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewältigung
+
+![[Bewältigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bew%C3%A4ltigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bew%C3%A4ltigung&language=de)
 
 **Meaning:** coping; mastering
 **Plural:** –

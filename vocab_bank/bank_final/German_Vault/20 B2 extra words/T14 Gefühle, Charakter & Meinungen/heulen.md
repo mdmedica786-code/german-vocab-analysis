@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3383"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "heulen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # heulen
+
+![[heulen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heulen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heulen&language=de)
 
 **Meaning:** to howl; to cry (colloquial)
 **Forms:** heult · heulte · hat geheult

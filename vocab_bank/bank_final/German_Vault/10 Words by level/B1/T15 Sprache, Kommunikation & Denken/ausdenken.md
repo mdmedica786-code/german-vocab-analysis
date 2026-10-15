@@ -13,11 +13,16 @@ id: "B4526"
 netzwerk: "B1 K8 12a"
 freq_rank: 5759
 skip: false
+audio: "ausdenken.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausdenken
+
+![[ausdenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausdenken&language=de)
 
 **Meaning:** to think up; to invent
 **Forms:** denkt aus · dachte aus · hat ausgedacht

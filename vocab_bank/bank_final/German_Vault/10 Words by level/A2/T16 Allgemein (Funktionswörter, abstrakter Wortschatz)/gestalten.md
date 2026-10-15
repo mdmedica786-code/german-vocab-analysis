@@ -13,11 +13,16 @@ id: "B2248"
 netzwerk: "A2 K4 10d"
 freq_rank: 992
 skip: false
+audio: "gestalten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gestalten
+
+![[gestalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gestalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestalten&language=de)
 
 **Meaning:** to design; to shape; to organise
 **Forms:** gestaltet · gestaltete · hat gestaltet

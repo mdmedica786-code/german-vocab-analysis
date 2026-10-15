@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # werden
 
+[▶️ YouGlish](https://youglish.com/pronounce/werden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werden&language=de)
+
 **Meaning:** to become; will (future auxiliary)
 **Forms:** wird · wurde · ist geworden
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

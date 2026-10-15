@@ -12,11 +12,16 @@ id: "B0797"
 netzwerk: "A1 K5 5a"
 freq_rank: 5759
 skip: false
+audio: "inoffiziell.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # inoffiziell
+
+![[inoffiziell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/inoffiziell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=inoffiziell&language=de)
 
 **Meaning:** unofficial
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

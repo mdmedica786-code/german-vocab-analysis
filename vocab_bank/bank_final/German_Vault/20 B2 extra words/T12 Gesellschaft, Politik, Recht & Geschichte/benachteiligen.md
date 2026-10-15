@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0875"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "benachteiligen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # benachteiligen
+
+![[benachteiligen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/benachteiligen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=benachteiligen&language=de)
 
 **Meaning:** to disadvantage; to discriminate against
 **Forms:** benachteiligt · benachteiligte · hat benachteiligt

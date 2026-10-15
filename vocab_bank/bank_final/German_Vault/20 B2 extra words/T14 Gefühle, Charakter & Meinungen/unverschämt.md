@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1664"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "unverschämt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # unverschämt
+
+![[unverschämt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unversch%C3%A4mt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unversch%C3%A4mt&language=de)
 
 **Meaning:** impertinent; outrageous
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

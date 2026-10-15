@@ -17,11 +17,16 @@ freq_rank: 9999
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Serviceangestellte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # Serviceangestellte
+
+![[Serviceangestellte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Serviceangestellte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Serviceangestellte&language=de)
 
 **Meaning:** service staff (Swiss)
 **Plural:** Serviceangestellten

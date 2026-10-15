@@ -15,11 +15,16 @@ id: "B6088"
 goethe_level: "B1"
 freq_rank: 4280
 skip: false
+audio: "Leder.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Leder
+
+![[Leder.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leder&language=de)
 
 **Meaning:** leather
 **Plural:** –

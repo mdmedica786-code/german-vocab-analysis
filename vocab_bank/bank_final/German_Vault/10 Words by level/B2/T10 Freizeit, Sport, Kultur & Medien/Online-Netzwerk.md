@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Online-Netzwerk
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Netzwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Netzwerk&language=de)
+
 **Meaning:** online network
 **Plural:** Online-Netzwerke
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

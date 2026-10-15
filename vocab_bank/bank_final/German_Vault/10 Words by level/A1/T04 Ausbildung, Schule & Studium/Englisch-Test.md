@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Englisch-Test
 
+[▶️ YouGlish](https://youglish.com/pronounce/Englisch-Test/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Englisch-Test&language=de)
+
 **Meaning:** English test
 **Plural:** Englisch-Tests
 **Level:** A1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2615"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "zukommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zukommen
+
+![[zukommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zukommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zukommen&language=de)
 
 **Meaning:** to approach; to be ahead; to be due
 **Forms:** kommt zu · kam zu · ist zugekommen

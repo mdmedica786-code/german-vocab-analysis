@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 7c"
 freq_rank: 205
 skip: false
+audio: "Art.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Art
+
+![[Art.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Art/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Art&language=de)
 
 **Meaning:** type; kind; way
 **Plural:** Arten

@@ -12,11 +12,16 @@ id: "B5172"
 goethe_level: "A2"
 freq_rank: 533
 skip: false
+audio: "manch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/determiner"]
 status: "new"
 ---
 <!-- bank:start -->
 # manch
+
+![[manch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/manch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=manch&language=de)
 
 **Meaning:** some; many a
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

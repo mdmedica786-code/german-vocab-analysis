@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Afrika
 
+[▶️ YouGlish](https://youglish.com/pronounce/Afrika/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Afrika&language=de)
+
 **Meaning:** Africa
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

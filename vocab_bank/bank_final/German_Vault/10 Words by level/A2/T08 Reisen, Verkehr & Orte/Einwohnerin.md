@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 13a"
 freq_rank: 5759
 skip: false
+audio: "Einwohnerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einwohnerin
+
+![[Einwohnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einwohnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwohnerin&language=de)
 
 **Meaning:** inhabitant (f)
 **Plural:** Einwohnerinnen

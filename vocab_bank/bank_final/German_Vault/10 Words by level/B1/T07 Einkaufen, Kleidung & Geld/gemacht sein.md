@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # gemacht sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/gemacht%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gemacht%20sein&language=de)
+
 **Meaning:** to be made for
 **Forms:** ist gemacht · war gemacht · ist gemacht gewesen
 **Grammar:** + für + Akk.

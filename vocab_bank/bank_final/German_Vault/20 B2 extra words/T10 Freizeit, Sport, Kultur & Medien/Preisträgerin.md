@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4327"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Preisträgerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Preisträgerin
+
+![[Preisträgerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Preistr%C3%A4gerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preistr%C3%A4gerin&language=de)
 
 **Meaning:** prizewinner (female)
 **Plural:** Preisträgerinnen

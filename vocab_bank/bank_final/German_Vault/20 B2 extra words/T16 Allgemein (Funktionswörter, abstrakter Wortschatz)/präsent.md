@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3229"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "präsent.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # präsent
+
+![[präsent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pr%C3%A4sent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pr%C3%A4sent&language=de)
 
 **Meaning:** present; at hand; in mind
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

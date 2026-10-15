@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3070"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Ideologie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ideologie
+
+![[Ideologie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ideologie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ideologie&language=de)
 
 **Meaning:** ideology
 **Plural:** Ideologien

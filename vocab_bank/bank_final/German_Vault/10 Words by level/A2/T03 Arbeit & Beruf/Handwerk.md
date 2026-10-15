@@ -15,11 +15,16 @@ id: "B2005"
 netzwerk: "A2 K2 7a"
 freq_rank: 4706
 skip: false
+audio: "Handwerk.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Handwerk
+
+![[Handwerk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handwerk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handwerk&language=de)
 
 **Meaning:** trade
 **Plural:** Handwerke

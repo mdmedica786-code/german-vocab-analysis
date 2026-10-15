@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 5759
 skip: false
+audio: "Terminkalender.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Terminkalender
+
+![[Terminkalender.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Terminkalender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Terminkalender&language=de)
 
 **Meaning:** diary; appointment calendar
 **Plural:** Terminkalender

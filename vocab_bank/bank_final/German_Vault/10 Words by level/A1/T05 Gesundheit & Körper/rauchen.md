@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 10b"
 freq_rank: 3666
 skip: false
+audio: "rauchen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # rauchen
+
+![[rauchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rauchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rauchen&language=de)
 
 **Meaning:** to smoke
 **Forms:** raucht · rauchte · hat geraucht

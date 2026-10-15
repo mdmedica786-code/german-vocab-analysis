@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0536"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Aufenthaltserlaubnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufenthaltserlaubnis
+
+![[Aufenthaltserlaubnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufenthaltserlaubnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufenthaltserlaubnis&language=de)
 
 **Meaning:** residence permit
 **Plural:** Aufenthaltserlaubnisse

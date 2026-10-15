@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 3b"
 freq_rank: 3520
 skip: false
+audio: "Käufer.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Käufer
+
+![[Käufer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4ufer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4ufer&language=de)
 
 **Meaning:** buyer (m)
 **Plural:** Käufer

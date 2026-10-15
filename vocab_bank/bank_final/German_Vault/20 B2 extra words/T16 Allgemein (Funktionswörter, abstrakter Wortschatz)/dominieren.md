@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3451"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "dominieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # dominieren
+
+![[dominieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dominieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dominieren&language=de)
 
 **Meaning:** to dominate; to prevail
 **Forms:** dominiert · dominierte · hat dominiert

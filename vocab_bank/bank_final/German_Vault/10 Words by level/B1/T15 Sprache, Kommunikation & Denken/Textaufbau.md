@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Textaufbau
 
+[▶️ YouGlish](https://youglish.com/pronounce/Textaufbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Textaufbau&language=de)
+
 **Meaning:** text structure
 **Plural:** –
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

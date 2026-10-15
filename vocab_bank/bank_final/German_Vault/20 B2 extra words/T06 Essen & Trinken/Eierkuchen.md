@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3880"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Eierkuchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Eierkuchen
+
+![[Eierkuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eierkuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eierkuchen&language=de)
 
 **Meaning:** pancake (esp. in eastern/northern Germany)
 **Plural:** Eierkuchen

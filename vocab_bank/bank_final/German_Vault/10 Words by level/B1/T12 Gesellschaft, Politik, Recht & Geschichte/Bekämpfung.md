@@ -15,11 +15,16 @@ id: "B5062"
 netzwerk: "B1 K12 7a"
 freq_rank: 4891
 skip: false
+audio: "Bekämpfung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bekämpfung
+
+![[Bekämpfung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bek%C3%A4mpfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bek%C3%A4mpfung&language=de)
 
 **Meaning:** combat
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 1"
 freq_rank: 332
 skip: false
+audio: "Leute.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leute
+
+![[Leute.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leute&language=de)
 
 **Meaning:** people
 **Plural:** (Pl.)

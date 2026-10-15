@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1384"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Tagesgericht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tagesgericht
+
+![[Tagesgericht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tagesgericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tagesgericht&language=de)
 
 **Meaning:** dish of the day
 **Plural:** Tagesgerichte

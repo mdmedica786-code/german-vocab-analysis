@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Hauptsatz
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptsatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptsatz&language=de)
+
 **Meaning:** main clause
 **Plural:** Hauptsätze
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

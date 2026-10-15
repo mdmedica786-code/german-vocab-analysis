@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1953"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Marienkäfer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Marienkäfer
+
+![[Marienkäfer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marienk%C3%A4fer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marienk%C3%A4fer&language=de)
 
 **Meaning:** ladybird
 **Plural:** Marienkäfer

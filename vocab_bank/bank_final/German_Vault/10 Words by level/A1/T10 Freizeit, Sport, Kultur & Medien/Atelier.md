@@ -15,11 +15,16 @@ id: "B1673"
 netzwerk: "A1 K11 12a"
 freq_rank: 4987
 skip: false
+audio: "Atelier.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Atelier
+
+![[Atelier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Atelier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atelier&language=de)
 
 **Meaning:** studio
 **Plural:** Ateliers

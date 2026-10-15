@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Perron.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Perron
+
+![[Perron.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Perron/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Perron&language=de)
 
 **Meaning:** platform (Swiss)
 **Plural:** Perrons

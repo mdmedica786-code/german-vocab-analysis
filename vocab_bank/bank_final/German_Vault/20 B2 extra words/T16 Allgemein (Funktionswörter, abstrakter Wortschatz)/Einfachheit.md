@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3545"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Einfachheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einfachheit
+
+![[Einfachheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einfachheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einfachheit&language=de)
 
 **Meaning:** simplicity; ease
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 4b"
 freq_rank: 1130
 skip: false
+audio: "Gang.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gang
+
+![[Gang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gang&language=de)
 
 **Meaning:** aisle; corridor; gait
 **Plural:** Gänge

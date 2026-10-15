@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2966"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Aufstand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufstand
+
+![[Aufstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufstand&language=de)
 
 **Meaning:** uprising; revolt
 **Plural:** Aufstände

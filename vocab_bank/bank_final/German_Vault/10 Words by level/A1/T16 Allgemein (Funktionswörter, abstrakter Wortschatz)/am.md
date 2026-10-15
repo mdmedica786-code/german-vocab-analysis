@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # am
 
+[▶️ YouGlish](https://youglish.com/pronounce/am/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=am&language=de)
+
 **Meaning:** at the; on the (an dem)
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

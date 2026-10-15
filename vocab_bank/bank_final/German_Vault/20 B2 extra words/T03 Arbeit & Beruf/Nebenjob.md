@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1757"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Nebenjob.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nebenjob
+
+![[Nebenjob.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nebenjob/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nebenjob&language=de)
 
 **Meaning:** side job; part-time job
 **Plural:** Nebenjobs

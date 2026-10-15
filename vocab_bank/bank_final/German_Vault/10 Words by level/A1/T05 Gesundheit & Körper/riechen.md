@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6c ÜB"
 freq_rank: 1850
 skip: false
+audio: "riechen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # riechen
+
+![[riechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/riechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riechen&language=de)
 
 **Meaning:** to smell
 **Forms:** riecht · roch · hat gerochen

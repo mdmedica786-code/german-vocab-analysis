@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 6b"
 freq_rank: 710
 skip: false
+audio: "Autor.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Autor
+
+![[Autor.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autor&language=de)
 
 **Meaning:** author (m)
 **Plural:** Autoren

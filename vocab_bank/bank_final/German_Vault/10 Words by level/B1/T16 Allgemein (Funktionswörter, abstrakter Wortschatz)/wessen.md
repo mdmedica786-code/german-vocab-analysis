@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # wessen
 
+[▶️ YouGlish](https://youglish.com/pronounce/wessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wessen&language=de)
+
 **Meaning:** whose
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

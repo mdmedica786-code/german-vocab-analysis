@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1028"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Hauptverkehrszeit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hauptverkehrszeit
+
+![[Hauptverkehrszeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptverkehrszeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptverkehrszeit&language=de)
 
 **Meaning:** peak traffic hours
 **Plural:** Hauptverkehrszeiten

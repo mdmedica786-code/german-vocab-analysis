@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2015"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Ebbe.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ebbe
+
+![[Ebbe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ebbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ebbe&language=de)
 
 **Meaning:** low tide; ebb
 **Plural:** Ebben

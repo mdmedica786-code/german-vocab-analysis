@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "B1 K6 7c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Kiosk.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kiosk
+
+![[Kiosk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kiosk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kiosk&language=de)
 
 **Meaning:** kiosk
 **Plural:** Kioske

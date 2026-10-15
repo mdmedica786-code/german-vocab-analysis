@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 12a"
 freq_rank: 654
 skip: false
+audio: "rund.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # rund
+
+![[rund.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rund&language=de)
 
 **Meaning:** round; around
 **Other senses:** round

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 6a"
 freq_rank: 1262
 skip: false
+audio: "wechseln.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wechseln
+
+![[wechseln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wechseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wechseln&language=de)
 
 **Meaning:** to change; to swap; to exchange
 **Forms:** wechselt · wechselte · hat gewechselt

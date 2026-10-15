@@ -13,11 +13,16 @@ id: "B3398"
 netzwerk: "B1 K2 3e"
 freq_rank: 1191
 skip: false
+audio: "streichen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # streichen
+
+![[streichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/streichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=streichen&language=de)
 
 **Meaning:** to paint; to cross out; to cancel
 **Forms:** streicht · strich · hat gestrichen

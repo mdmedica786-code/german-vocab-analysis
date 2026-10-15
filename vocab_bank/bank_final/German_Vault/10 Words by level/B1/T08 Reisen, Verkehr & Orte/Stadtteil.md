@@ -15,11 +15,16 @@ id: "B4565"
 netzwerk: "B1 K9 1b"
 freq_rank: 2217
 skip: false
+audio: "Stadtteil.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stadtteil
+
+![[Stadtteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtteil&language=de)
 
 **Meaning:** district; part of town
 **Plural:** Stadtteile

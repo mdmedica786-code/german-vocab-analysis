@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4593"
 exam_use: ["Lesen", "Hören"]
 skip: false
-status: "new"
+audio: "Verwaltungschef.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Verwaltungschef
+
+![[Verwaltungschef.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verwaltungschef/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verwaltungschef&language=de)
 
 **Meaning:** head of administration (male)
 **Plural:** Verwaltungschefs

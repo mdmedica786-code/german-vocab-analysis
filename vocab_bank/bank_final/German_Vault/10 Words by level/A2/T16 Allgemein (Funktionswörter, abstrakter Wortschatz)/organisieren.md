@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # organisieren
 
+[▶️ YouGlish](https://youglish.com/pronounce/organisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=organisieren&language=de)
+
 **Meaning:** to organise
 **Forms:** organisiert · organisierte · hat organisiert
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

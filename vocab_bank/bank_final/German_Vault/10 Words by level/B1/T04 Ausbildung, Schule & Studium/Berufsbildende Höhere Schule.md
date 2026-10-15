@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Berufsbildende Höhere Schule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsbildende%20H%C3%B6here%20Schule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsbildende%20H%C3%B6here%20Schule&language=de)
+
 **Meaning:** Austrian vocational secondary school (BHS)
 **Plural:** –
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1402"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Sortiment.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sortiment
+
+![[Sortiment.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sortiment/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sortiment&language=de)
 
 **Meaning:** range of goods; assortment
 **Plural:** Sortimente

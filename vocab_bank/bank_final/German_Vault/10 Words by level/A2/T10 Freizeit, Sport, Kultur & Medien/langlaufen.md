@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # langlaufen
 
+[▶️ YouGlish](https://youglish.com/pronounce/langlaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=langlaufen&language=de)
+
 **Meaning:** to cross-country ski
 **Forms:** läuft lang · lief lang · ist langgelaufen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

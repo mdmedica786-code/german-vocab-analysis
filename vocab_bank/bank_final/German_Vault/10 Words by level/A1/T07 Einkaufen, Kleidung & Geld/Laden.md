@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 3a"
 freq_rank: 5254
 skip: false
+audio: "Laden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Laden
+
+![[Laden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laden&language=de)
 
 **Meaning:** shop
 **Plural:** Läden

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3448"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Zärtlichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zärtlichkeit
+
+![[Zärtlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Z%C3%A4rtlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Z%C3%A4rtlichkeit&language=de)
 
 **Meaning:** tenderness; affection
 **Plural:** Zärtlichkeiten

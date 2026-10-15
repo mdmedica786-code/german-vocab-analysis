@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1598"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "gerührt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gerührt
+
+![[gerührt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ger%C3%BChrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ger%C3%BChrt&language=de)
 
 **Meaning:** moved; touched
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

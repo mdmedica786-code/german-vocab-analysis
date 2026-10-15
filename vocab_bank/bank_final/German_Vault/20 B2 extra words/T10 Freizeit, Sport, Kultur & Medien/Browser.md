@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0576"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Browser.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Browser
+
+![[Browser.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Browser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Browser&language=de)
 
 **Meaning:** browser
 **Plural:** Browser

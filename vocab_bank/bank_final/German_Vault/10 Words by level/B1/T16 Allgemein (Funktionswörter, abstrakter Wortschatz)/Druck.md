@@ -15,11 +15,16 @@ id: "B5230"
 goethe_level: "B1"
 freq_rank: 969
 skip: false
+audio: "Druck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Druck
+
+![[Druck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Druck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Druck&language=de)
 
 **Meaning:** pressure; print
 **Plural:** Drücke

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 7b"
 freq_rank: 3014
 skip: false
+audio: "Mahlzeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mahlzeit
+
+![[Mahlzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mahlzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mahlzeit&language=de)
 
 **Meaning:** meal; (lunchtime greeting)
 **Plural:** Mahlzeiten

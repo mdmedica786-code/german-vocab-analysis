@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # über kurz oder lang
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCber%20kurz%20oder%20lang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCber%20kurz%20oder%20lang&language=de)
+
 **Meaning:** sooner or later
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

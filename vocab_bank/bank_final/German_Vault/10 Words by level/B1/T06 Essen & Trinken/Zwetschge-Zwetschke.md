@@ -15,11 +15,16 @@ id: "B4800"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Zwetschge.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zwetschge/Zwetschke
+
+![[Zwetschge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zwetschge/Zwetschke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwetschge/Zwetschke&language=de)
 
 **Meaning:** plum
 **Plural:** Zwetschge/Zwetschken

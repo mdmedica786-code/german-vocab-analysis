@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 8b"
 freq_rank: 4028
 skip: false
+audio: "Fantasie.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fantasie
+
+![[Fantasie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fantasie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fantasie&language=de)
 
 **Meaning:** fantasy, imagination
 **Plural:** –

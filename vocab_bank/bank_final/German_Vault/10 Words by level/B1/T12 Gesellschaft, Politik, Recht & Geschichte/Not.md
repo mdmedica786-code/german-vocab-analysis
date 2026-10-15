@@ -15,11 +15,16 @@ id: "B4771"
 netzwerk: "B1 K10 3b"
 freq_rank: 2000
 skip: false
+audio: "Not.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Not
+
+![[Not.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Not/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Not&language=de)
 
 **Meaning:** need
 **Plural:** Nöte

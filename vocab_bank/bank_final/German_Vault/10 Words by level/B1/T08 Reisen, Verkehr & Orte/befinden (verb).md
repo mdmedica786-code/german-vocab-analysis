@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 7b"
 freq_rank: 371
 skip: false
+audio: "befinden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # befinden
+
+![[befinden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befinden&language=de)
 
 **Meaning:** to be located
 **Forms:** befindet · befand · hat befunden

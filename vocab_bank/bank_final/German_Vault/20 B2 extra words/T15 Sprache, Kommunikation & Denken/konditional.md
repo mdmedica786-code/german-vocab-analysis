@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4120"
 exam_use: ["Grammatik", "Lesen"]
 skip: false
-status: "new"
+audio: "konditional.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Grammatik", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # konditional
+
+![[konditional.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konditional/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konditional&language=de)
 
 **Meaning:** conditional
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

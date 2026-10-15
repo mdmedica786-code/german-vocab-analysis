@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 7a"
 freq_rank: 1683
 skip: false
+audio: "Übersetzung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Übersetzung
+
+![[Übersetzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cbersetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cbersetzung&language=de)
 
 **Meaning:** translation
 **Plural:** Übersetzungen

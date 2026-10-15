@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4171"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Lebenseinstellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Lebenseinstellung
+
+![[Lebenseinstellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebenseinstellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebenseinstellung&language=de)
 
 **Meaning:** attitude to life; outlook on life
 **Plural:** Lebenseinstellungen

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 9a"
 freq_rank: 180
 skip: false
+audio: "Welt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Welt
+
+![[Welt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Welt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Welt&language=de)
 
 **Meaning:** world
 **Plural:** Welten

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3634"
 exam_use: ["Alltag", "Grammatik"]
 skip: false
+audio: "übereinander.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Alltag", "exam/Grammatik"]
 status: "new"
 ---
 <!-- bank:start -->
 # übereinander
+
+![[übereinander.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbereinander/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbereinander&language=de)
 
 **Meaning:** on top of each other; about each other
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

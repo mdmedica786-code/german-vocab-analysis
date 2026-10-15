@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1720"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "schmelzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # schmelzen
+
+![[schmelzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schmelzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schmelzen&language=de)
 
 **Meaning:** to melt
 **Forms:** schmilzt · schmolz · ist geschmolzen

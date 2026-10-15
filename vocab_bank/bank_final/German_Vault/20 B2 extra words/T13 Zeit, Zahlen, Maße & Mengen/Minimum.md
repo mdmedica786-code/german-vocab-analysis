@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3388"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Minimum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Minimum
+
+![[Minimum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Minimum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minimum&language=de)
 
 **Meaning:** minimum; lowest level
 **Plural:** Minima

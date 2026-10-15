@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Skibus
 
+[▶️ YouGlish](https://youglish.com/pronounce/Skibus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skibus&language=de)
+
 **Meaning:** ski bus
 **Plural:** Skibusse
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

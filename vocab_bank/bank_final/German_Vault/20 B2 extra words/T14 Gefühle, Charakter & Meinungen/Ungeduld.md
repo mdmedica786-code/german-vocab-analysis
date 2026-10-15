@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1173"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Ungeduld.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ungeduld
+
+![[Ungeduld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ungeduld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ungeduld&language=de)
 
 **Meaning:** impatience
 **Plural:** –

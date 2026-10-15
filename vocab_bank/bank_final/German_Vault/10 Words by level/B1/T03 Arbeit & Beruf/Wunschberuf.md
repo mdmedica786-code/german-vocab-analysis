@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Wunschberuf
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wunschberuf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wunschberuf&language=de)
+
 **Meaning:** dream job
 **Plural:** Wunschberufe
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # super
 
+[▶️ YouGlish](https://youglish.com/pronounce/super/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=super&language=de)
+
 **Meaning:** super; great
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial
 

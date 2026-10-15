@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Umweltaktion
 
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltaktion&language=de)
+
 **Meaning:** environmental campaign
 **Plural:** Umweltaktionen
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

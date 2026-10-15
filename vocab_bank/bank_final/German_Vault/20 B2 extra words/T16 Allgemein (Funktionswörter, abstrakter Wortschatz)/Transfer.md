@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3271"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Transfer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Transfer
+
+![[Transfer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Transfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Transfer&language=de)
 
 **Meaning:** transfer; transport
 **Plural:** Transfers

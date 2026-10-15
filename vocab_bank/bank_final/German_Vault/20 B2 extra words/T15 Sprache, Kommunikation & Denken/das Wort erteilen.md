@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # das Wort erteilen
 
+[▶️ YouGlish](https://youglish.com/pronounce/das%20Wort%20erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=das%20Wort%20erteilen&language=de)
+
 **Meaning:** to give the floor
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 5b"
 freq_rank: 1748
 skip: false
+audio: "klopfen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klopfen
+
+![[klopfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klopfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klopfen&language=de)
 
 **Meaning:** to knock
 **Forms:** klopft · klopfte · hat geklopft

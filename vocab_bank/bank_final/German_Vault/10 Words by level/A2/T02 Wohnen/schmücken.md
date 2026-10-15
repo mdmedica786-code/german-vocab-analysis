@@ -13,11 +13,16 @@ id: "B2188"
 netzwerk: "A2 K4 1a"
 freq_rank: 5755
 skip: false
+audio: "schmücken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schmücken
+
+![[schmücken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schm%C3%BCcken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schm%C3%BCcken&language=de)
 
 **Meaning:** to decorate
 **Forms:** schmückt · schmückte · hat geschmückt

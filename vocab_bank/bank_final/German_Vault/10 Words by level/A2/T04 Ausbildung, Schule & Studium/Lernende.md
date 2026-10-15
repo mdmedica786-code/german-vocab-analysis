@@ -15,11 +15,16 @@ id: "B2759"
 netzwerk: "A2 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Lernende.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Lernende
+
+![[Lernende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernende&language=de)
 
 **Meaning:** learner
 **Plural:** Lernenden

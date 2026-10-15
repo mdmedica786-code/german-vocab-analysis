@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Bedienungsanleitung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bedienungsanleitung
+
+![[Bedienungsanleitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bedienungsanleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedienungsanleitung&language=de)
 
 **Meaning:** instruction manual
 **Plural:** Bedienungsanleitungen

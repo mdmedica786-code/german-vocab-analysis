@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # -fach
 
+[▶️ YouGlish](https://youglish.com/pronounce/-fach/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=-fach&language=de)
+
 **Meaning:** "fold" (tenfold)
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

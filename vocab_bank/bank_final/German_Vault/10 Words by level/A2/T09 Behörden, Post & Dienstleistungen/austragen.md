@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "B1 K4 1b"
 freq_rank: 5759
 skip: false
+audio: "austragen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # austragen
+
+![[austragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/austragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=austragen&language=de)
 
 **Meaning:** to deliver
 **Forms:** trägt aus · trug aus · hat ausgetragen

@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 14a"
 freq_rank: 1194
 skip: false
+audio: "geöffnet.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # geöffnet
+
+![[geöffnet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ge%C3%B6ffnet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ge%C3%B6ffnet&language=de)
 
 **Meaning:** open
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

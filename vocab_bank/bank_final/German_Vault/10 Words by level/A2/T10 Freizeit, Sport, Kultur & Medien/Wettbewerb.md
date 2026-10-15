@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 1b ÜB"
 freq_rank: 2632
 skip: false
+audio: "Wettbewerb.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wettbewerb
+
+![[Wettbewerb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wettbewerb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wettbewerb&language=de)
 
 **Meaning:** competition
 **Plural:** Wettbewerbe

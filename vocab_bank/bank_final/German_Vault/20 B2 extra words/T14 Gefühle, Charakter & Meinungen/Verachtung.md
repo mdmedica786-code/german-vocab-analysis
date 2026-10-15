@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1132"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Verachtung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verachtung
+
+![[Verachtung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verachtung&language=de)
 
 **Meaning:** contempt; disdain
 **Plural:** –

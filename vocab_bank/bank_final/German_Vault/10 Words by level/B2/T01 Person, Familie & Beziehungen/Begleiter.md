@@ -14,11 +14,16 @@ bank: "main"
 id: "B5870"
 freq_rank: 3228
 skip: false
+audio: "Begleiter.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Begleiter
+
+![[Begleiter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begleiter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begleiter&language=de)
 
 **Meaning:** companion; escort
 **Plural:** Begleiter

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1328"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "anderweitig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anderweitig
+
+![[anderweitig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anderweitig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anderweitig&language=de)
 
 **Meaning:** elsewhere; otherwise; in another way
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

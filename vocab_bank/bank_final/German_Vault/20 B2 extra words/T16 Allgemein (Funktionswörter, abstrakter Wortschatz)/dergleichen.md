@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2774"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "dergleichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/pronoun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # dergleichen
+
+![[dergleichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dergleichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dergleichen&language=de)
 
 **Meaning:** such things; the like
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

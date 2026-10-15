@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 10d"
 freq_rank: 4335
 skip: false
+audio: "kostenlos.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kostenlos
+
+![[kostenlos.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kostenlos/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kostenlos&language=de)
 
 **Meaning:** free
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

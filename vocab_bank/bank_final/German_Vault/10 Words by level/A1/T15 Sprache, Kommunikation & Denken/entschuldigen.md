@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 15b"
 freq_rank: 1913
 skip: false
+audio: "entschuldigen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entschuldigen
+
+![[entschuldigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entschuldigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entschuldigen&language=de)
 
 **Meaning:** to excuse; to apologise (sich entschuldigen)
 **Forms:** entschuldigt · entschuldigte · hat entschuldigt

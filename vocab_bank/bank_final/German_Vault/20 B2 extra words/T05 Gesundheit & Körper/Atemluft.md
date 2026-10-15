@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3739"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Atemluft.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Atemluft
+
+![[Atemluft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Atemluft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Atemluft&language=de)
 
 **Meaning:** air for breathing; breathing air
 **Plural:** –

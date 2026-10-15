@@ -12,11 +12,16 @@ id: "B5393"
 goethe_level: "B1"
 freq_rank: 1769
 skip: false
+audio: "Griechisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # griechisch
+
+![[Griechisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/griechisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=griechisch&language=de)
 
 **Meaning:** Greek
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

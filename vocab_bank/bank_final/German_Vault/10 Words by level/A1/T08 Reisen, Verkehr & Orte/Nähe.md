@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 3c"
 freq_rank: 672
 skip: false
+audio: "Nähe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nähe
+
+![[Nähe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/N%C3%A4he/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=N%C3%A4he&language=de)
 
 **Meaning:** proximity
 **Plural:** –

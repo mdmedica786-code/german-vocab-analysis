@@ -12,11 +12,16 @@ bank: "main"
 id: "B5225"
 freq_rank: 943
 skip: false
+audio: "betreiben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # betreiben
+
+![[betreiben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betreiben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betreiben&language=de)
 
 **Meaning:** to run; to operate; to pursue
 **Forms:** betreibt · betrieb · hat betrieben

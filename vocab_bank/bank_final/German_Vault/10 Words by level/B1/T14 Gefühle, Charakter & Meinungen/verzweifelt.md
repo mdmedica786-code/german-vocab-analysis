@@ -12,11 +12,16 @@ id: "B3322"
 netzwerk: "B1 K1 9a"
 freq_rank: 2357
 skip: false
+audio: "verzweifelt.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # verzweifelt
+
+![[verzweifelt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verzweifelt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verzweifelt&language=de)
 
 **Meaning:** desperate
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

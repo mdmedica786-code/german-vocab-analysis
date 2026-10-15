@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0835"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "abhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # abhalten
+
+![[abhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abhalten&language=de)
 
 **Meaning:** to hold (a meeting); to keep (from)
 **Forms:** hält ab · hielt ab · hat abgehalten

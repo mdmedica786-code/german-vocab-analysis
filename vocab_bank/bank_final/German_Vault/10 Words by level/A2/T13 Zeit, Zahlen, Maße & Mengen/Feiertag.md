@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 5a"
 freq_rank: 4823
 skip: false
+audio: "Feiertag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Feiertag
+
+![[Feiertag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feiertag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feiertag&language=de)
 
 **Meaning:** public holiday
 **Plural:** Feiertage

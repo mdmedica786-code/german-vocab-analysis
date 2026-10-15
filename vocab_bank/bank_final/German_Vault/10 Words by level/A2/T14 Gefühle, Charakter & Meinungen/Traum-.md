@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Traum-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Traum-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traum-&language=de)
+
 **Meaning:** dream
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

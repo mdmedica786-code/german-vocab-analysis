@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # anmelden
 
+[▶️ YouGlish](https://youglish.com/pronounce/anmelden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anmelden&language=de)
+
 **Meaning:** to sign up
 **Forms:** meldet an · meldete an · hat angemeldet
 **Grammar:** separable (an-)

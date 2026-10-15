@@ -15,11 +15,16 @@ id: "B1993"
 netzwerk: "A2 K2 5a"
 freq_rank: 2000
 skip: false
+audio: "AG.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die AG
+
+![[AG.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/AG/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=AG&language=de)
 
 **Meaning:** work group
 **Plural:** AGs

@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4681"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/phrase", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # jemandem den Kampf ansagen
+
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20den%20Kampf%20ansagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20den%20Kampf%20ansagen&language=de)
 
 **Meaning:** to declare war on someone or something; to take up the fight against
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -13,11 +13,16 @@ id: "B2568"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "weiterfahren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weiterfahren
+
+![[weiterfahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weiterfahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterfahren&language=de)
 
 **Meaning:** to carry on
 **Forms:** fährt weiter · fuhr weiter · ist weitergefahren

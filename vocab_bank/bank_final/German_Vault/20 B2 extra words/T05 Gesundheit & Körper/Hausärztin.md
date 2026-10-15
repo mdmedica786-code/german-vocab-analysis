@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4030"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Hausärztin.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Hausärztin
+
+![[Hausärztin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haus%C3%A4rztin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haus%C3%A4rztin&language=de)
 
 **Meaning:** family doctor; GP (female)
 **Plural:** Hausärztinnen

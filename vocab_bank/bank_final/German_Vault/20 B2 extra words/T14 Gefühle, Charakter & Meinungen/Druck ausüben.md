@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2126"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Druck ausüben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/phrase", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Druck ausüben
+
+![[Druck ausüben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Druck%20aus%C3%BCben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Druck%20aus%C3%BCben&language=de)
 
 **Meaning:** to put pressure on
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

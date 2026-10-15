@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2321"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "rostig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rostig
+
+![[rostig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rostig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rostig&language=de)
 
 **Meaning:** rusty
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

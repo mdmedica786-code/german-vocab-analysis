@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 5759
 skip: false
+audio: "Zuhörerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zuhörerin
+
+![[Zuhörerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuh%C3%B6rerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuh%C3%B6rerin&language=de)
 
 **Meaning:** listener (f); member of the audience
 **Plural:** Zuhörerinnen

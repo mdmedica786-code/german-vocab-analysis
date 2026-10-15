@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0966"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Bevölkerungsgruppe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bevölkerungsgruppe
+
+![[Bevölkerungsgruppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bev%C3%B6lkerungsgruppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bev%C3%B6lkerungsgruppe&language=de)
 
 **Meaning:** population group
 **Plural:** Bevölkerungsgruppen

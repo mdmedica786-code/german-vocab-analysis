@@ -15,11 +15,16 @@ id: "B1334"
 netzwerk: "A1 K8 13b"
 freq_rank: 2913
 skip: false
+audio: "Therapeut.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Therapeut
+
+![[Therapeut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Therapeut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Therapeut&language=de)
 
 **Meaning:** therapist (m)
 **Plural:** Therapeuten

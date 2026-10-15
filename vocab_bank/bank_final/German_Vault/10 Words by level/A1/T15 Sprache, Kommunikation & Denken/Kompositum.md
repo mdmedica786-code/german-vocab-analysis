@@ -15,11 +15,16 @@ id: "B1332"
 netzwerk: "A1 K8 13b"
 freq_rank: 5759
 skip: false
+audio: "Kompositum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kompositum
+
+![[Kompositum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kompositum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kompositum&language=de)
 
 **Meaning:** compound
 **Plural:** Komposita

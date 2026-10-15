@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0004"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "andernfalls.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # andernfalls
+
+![[andernfalls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/andernfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=andernfalls&language=de)
 
 **Meaning:** otherwise; or else
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6044"
 freq_rank: 4074
 skip: false
+audio: "Handgelenk.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Handgelenk
+
+![[Handgelenk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handgelenk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handgelenk&language=de)
 
 **Meaning:** wrist
 **Plural:** Handgelenke

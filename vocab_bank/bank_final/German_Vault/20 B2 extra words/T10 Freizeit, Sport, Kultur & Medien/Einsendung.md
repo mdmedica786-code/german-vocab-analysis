@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3891"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Einsendung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Einsendung
+
+![[Einsendung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einsendung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einsendung&language=de)
 
 **Meaning:** entry; submission; sending in
 **Plural:** Einsendungen

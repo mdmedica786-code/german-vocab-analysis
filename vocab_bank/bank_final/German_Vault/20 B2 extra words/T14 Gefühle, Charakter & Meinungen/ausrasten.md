@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1218"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "ausrasten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausrasten
+
+![[ausrasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausrasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausrasten&language=de)
 
 **Meaning:** to lose it; to flip out
 **Forms:** rastet aus · rastete aus · ist ausgerastet

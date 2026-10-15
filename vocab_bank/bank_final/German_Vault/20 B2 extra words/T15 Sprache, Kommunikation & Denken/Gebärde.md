@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3979"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Gebärde.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gebärde
+
+![[Gebärde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4rde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4rde&language=de)
 
 **Meaning:** sign; gesture (in sign language)
 **Plural:** Gebärden

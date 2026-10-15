@@ -13,11 +13,16 @@ id: "B1212"
 netzwerk: "A1 K8 3a"
 freq_rank: 5759
 skip: false
+audio: "rausgehen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rausgehen
+
+![[rausgehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rausgehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rausgehen&language=de)
 
 **Meaning:** to go outside
 **Forms:** geht raus · ging raus · ist rausgegangen

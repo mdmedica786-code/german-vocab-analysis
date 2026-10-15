@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4662"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "zerschneiden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # zerschneiden
+
+![[zerschneiden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zerschneiden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerschneiden&language=de)
 
 **Meaning:** to cut up; to cut into pieces
 **Forms:** zerschneidet · zerschnitt · hat zerschnitten

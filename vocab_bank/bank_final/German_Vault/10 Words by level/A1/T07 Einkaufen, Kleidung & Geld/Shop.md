@@ -15,11 +15,16 @@ id: "B1706"
 netzwerk: "A1 K11 12b"
 freq_rank: 2000
 skip: false
+audio: "Shop.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Shop
+
+![[Shop.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Shop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Shop&language=de)
 
 **Meaning:** shop
 **Plural:** Shops

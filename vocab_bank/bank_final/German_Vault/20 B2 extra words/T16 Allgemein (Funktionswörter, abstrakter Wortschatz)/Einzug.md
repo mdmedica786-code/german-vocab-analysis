@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3368"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Einzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einzug
+
+![[Einzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzug&language=de)
 
 **Meaning:** moving in; entry; arrival
 **Plural:** Einzüge

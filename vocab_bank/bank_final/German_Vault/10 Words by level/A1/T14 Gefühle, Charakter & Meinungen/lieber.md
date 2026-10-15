@@ -12,11 +12,16 @@ id: "B5181"
 goethe_level: "A1"
 freq_rank: 586
 skip: false
+audio: "lieber.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lieber
+
+![[lieber.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lieber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lieber&language=de)
 
 **Meaning:** rather; preferably
 **Forms:** gern – lieber – am liebsten

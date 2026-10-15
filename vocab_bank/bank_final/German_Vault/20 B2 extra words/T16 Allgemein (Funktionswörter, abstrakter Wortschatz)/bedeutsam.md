@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0758"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bedeutsam.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedeutsam
+
+![[bedeutsam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedeutsam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedeutsam&language=de)
 
 **Meaning:** significant; important
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

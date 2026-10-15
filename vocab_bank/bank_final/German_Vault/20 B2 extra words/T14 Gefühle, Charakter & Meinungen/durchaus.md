@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0026"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "durchaus.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adverb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchaus
+
+![[durchaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchaus&language=de)
 
 **Meaning:** quite; perfectly
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

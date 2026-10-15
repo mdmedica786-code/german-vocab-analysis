@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2957"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Paradies.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Paradies
+
+![[Paradies.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Paradies/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paradies&language=de)
 
 **Meaning:** paradise
 **Plural:** Paradiese

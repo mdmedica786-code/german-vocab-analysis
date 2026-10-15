@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2735"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "zurückziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückziehen
+
+![[zurückziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckziehen&language=de)
 
 **Meaning:** to withdraw; to retreat
 **Forms:** zieht zurück · zog zurück · hat zurückgezogen

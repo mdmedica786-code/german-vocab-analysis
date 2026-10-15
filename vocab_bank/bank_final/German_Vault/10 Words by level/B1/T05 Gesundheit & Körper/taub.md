@@ -12,11 +12,16 @@ id: "B6577"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "taub.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # taub
+
+![[taub.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/taub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=taub&language=de)
 
 **Meaning:** deaf
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

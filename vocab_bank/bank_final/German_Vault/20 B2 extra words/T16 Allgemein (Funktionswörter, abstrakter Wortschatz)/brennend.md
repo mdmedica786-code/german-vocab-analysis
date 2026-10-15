@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3317"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "brennend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # brennend
+
+![[brennend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/brennend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=brennend&language=de)
 
 **Meaning:** burning; urgent
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

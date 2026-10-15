@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 13b"
 freq_rank: 2000
 skip: false
+audio: "Deutsche.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Deutsche
+
+![[Deutsche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deutsche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deutsche&language=de)
 
 **Meaning:** German
 **Plural:** –

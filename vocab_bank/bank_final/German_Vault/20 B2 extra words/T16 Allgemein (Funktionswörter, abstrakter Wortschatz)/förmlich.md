@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2784"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "förmlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # förmlich
+
+![[förmlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%B6rmlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%B6rmlich&language=de)
 
 **Meaning:** formal; literally
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

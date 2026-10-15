@@ -15,11 +15,16 @@ id: "B2572"
 netzwerk: "A2 K7 4b"
 freq_rank: 9999
 skip: false
+audio: "Redewiedergabe.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Redewiedergabe
+
+![[Redewiedergabe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Redewiedergabe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Redewiedergabe&language=de)
 
 **Meaning:** reported speech
 **Plural:** Redewiedergaben

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Game-Entwicklung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Game-Entwicklung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Game-Entwicklung&language=de)
+
 **Meaning:** game development
 **Plural:** –
 **Level:** C1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

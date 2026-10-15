@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0859"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ausarbeiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausarbeiten
+
+![[ausarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausarbeiten&language=de)
 
 **Meaning:** to work out; to draw up
 **Forms:** arbeitet aus · arbeitete aus · hat ausgearbeitet

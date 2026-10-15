@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 1e"
 freq_rank: 1884
 skip: false
+audio: "Nachbar.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachbar
+
+![[Nachbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbar&language=de)
 
 **Meaning:** neighbour (m)
 **Plural:** Nachbarn

@@ -15,11 +15,16 @@ id: "B3052"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 1901
 skip: false
+audio: "Papa.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Papa
+
+![[Papa.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Papa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Papa&language=de)
 
 **Meaning:** daddy
 **Plural:** Papas

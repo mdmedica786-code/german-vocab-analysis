@@ -14,11 +14,16 @@ bank: "main"
 id: "B5309"
 freq_rank: 1355
 skip: false
+audio: "Auseinandersetzung.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auseinandersetzung
+
+![[Auseinandersetzung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auseinandersetzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auseinandersetzung&language=de)
 
 **Meaning:** argument; debate; confrontation
 **Plural:** Auseinandersetzungen

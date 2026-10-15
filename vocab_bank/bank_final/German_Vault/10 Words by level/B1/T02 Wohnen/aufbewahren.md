@@ -13,11 +13,16 @@ id: "B4418"
 netzwerk: "B1 K8 5b"
 freq_rank: 5011
 skip: false
+audio: "aufbewahren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufbewahren
+
+![[aufbewahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufbewahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbewahren&language=de)
 
 **Meaning:** to keep; to store
 **Forms:** bewahrt auf · bewahrte auf · hat aufbewahrt

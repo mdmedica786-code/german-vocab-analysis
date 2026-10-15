@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0231"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "bezweifeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bezweifeln
+
+![[bezweifeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bezweifeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bezweifeln&language=de)
 
 **Meaning:** to doubt
 **Forms:** bezweifelt · bezweifelte · hat bezweifelt

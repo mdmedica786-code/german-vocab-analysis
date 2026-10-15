@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Öko-Duell
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%96ko-Duell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%96ko-Duell&language=de)
+
 **Meaning:** eco-duel
 **Plural:** Öko-Duelle
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

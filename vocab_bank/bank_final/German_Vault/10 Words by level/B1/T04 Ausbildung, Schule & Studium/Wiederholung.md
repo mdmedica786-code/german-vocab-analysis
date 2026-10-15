@@ -15,11 +15,16 @@ id: "B5961"
 goethe_level: "B1"
 freq_rank: 3636
 skip: false
+audio: "Wiederholung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wiederholung
+
+![[Wiederholung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wiederholung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wiederholung&language=de)
 
 **Meaning:** repetition; repeat
 **Plural:** Wiederholungen

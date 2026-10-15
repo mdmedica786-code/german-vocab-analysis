@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4280"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Oberschule.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Oberschule
+
+![[Oberschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Oberschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Oberschule&language=de)
 
 **Meaning:** secondary school (in some German states)
 **Plural:** Oberschulen

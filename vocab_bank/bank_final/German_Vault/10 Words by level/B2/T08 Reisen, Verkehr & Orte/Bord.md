@@ -15,11 +15,16 @@ id: "B5427"
 freq_rank: 1925
 skip: false
 check: "?article"
+audio: "Bord.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bord
+
+![[Bord.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bord/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bord&language=de)
 
 **Meaning:** board (of a ship or plane)
 **Plural:** –

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K1 2"
 freq_rank: 2702
 skip: false
+audio: "drüben.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # drüben
+
+![[drüben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dr%C3%BCben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dr%C3%BCben&language=de)
 
 **Meaning:** over there
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

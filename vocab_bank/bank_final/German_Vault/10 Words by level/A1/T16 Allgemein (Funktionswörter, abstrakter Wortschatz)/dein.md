@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dein
 
+[▶️ YouGlish](https://youglish.com/pronounce/dein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dein&language=de)
+
 **Meaning:** your
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

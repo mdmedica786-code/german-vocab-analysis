@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1924"
 exam_use: ["Wissenschaft", "Sprechen"]
 skip: false
+audio: "Mehrsprachigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Wissenschaft", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mehrsprachigkeit
+
+![[Mehrsprachigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehrsprachigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrsprachigkeit&language=de)
 
 **Meaning:** multilingualism
 **Plural:** –

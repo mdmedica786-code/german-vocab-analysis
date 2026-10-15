@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 4468
 skip: false
+audio: "amüsieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # amüsieren
+
+![[amüsieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/am%C3%BCsieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=am%C3%BCsieren&language=de)
 
 **Meaning:** to enjoy oneself; to amuse
 **Forms:** amüsiert sich · amüsierte sich · hat sich amüsiert

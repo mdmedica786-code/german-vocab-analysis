@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0831"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "riskant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # riskant
+
+![[riskant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/riskant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riskant&language=de)
 
 **Meaning:** risky
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

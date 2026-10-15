@@ -15,11 +15,16 @@ id: "B3680"
 netzwerk: "B1 K3 10b"
 freq_rank: 5759
 skip: false
+audio: "Geschäftsmann.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Geschäftsmann
+
+![[Geschäftsmann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsmann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsmann&language=de)
 
 **Meaning:** business man
 **Plural:** Geschäftsmänner

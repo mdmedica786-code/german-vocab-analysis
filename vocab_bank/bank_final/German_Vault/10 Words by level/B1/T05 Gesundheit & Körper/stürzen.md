@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1196
 skip: false
+audio: "stürzen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # stürzen
+
+![[stürzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/st%C3%BCrzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=st%C3%BCrzen&language=de)
 
 **Meaning:** to fall
 **Forms:** stürzt · stürzte · ist gestürzt

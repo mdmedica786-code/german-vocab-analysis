@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4389"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Schneebesen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Schneebesen
+
+![[Schneebesen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schneebesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schneebesen&language=de)
 
 **Meaning:** whisk
 **Plural:** Schneebesen

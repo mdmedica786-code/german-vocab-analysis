@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2b"
 freq_rank: 339
 skip: false
+audio: "antworten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # antworten
+
+![[antworten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/antworten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=antworten&language=de)
 
 **Meaning:** to answer
 **Forms:** antwortet · antwortete · hat geantwortet

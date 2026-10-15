@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Ausflugstipp
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ausflugstipp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausflugstipp&language=de)
+
 **Meaning:** excursion tip
 **Plural:** Ausflugstipps
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

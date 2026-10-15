@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K3 1b"
 freq_rank: 2565
 skip: false
+audio: "Hafen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hafen
+
+![[Hafen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hafen&language=de)
 
 **Meaning:** harbour
 **Plural:** Häfen

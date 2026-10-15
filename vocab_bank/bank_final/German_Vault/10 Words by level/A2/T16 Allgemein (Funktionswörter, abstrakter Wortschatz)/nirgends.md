@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 11a"
 freq_rank: 3286
 skip: false
+audio: "nirgends.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nirgends
+
+![[nirgends.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nirgends/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nirgends&language=de)
 
 **Meaning:** nowhere
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

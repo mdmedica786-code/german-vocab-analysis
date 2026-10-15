@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1856"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Ausnahmezustand.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausnahmezustand
+
+![[Ausnahmezustand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausnahmezustand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausnahmezustand&language=de)
 
 **Meaning:** state of emergency; exceptional situation
 **Plural:** Ausnahmezustände

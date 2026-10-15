@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Kontrastakzent
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kontrastakzent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontrastakzent&language=de)
+
 **Meaning:** contrastive stress
 **Plural:** Kontrastakzente
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

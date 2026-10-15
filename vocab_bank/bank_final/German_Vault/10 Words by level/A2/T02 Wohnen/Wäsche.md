@@ -15,11 +15,16 @@ id: "B6026"
 goethe_level: "A2"
 freq_rank: 4004
 skip: false
+audio: "Wäsche.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wäsche
+
+![[Wäsche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4sche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4sche&language=de)
 
 **Meaning:** laundry; washing
 **Plural:** –

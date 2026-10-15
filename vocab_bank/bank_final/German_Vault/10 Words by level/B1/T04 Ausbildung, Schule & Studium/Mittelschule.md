@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Mittelschule.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mittelschule
+
+![[Mittelschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mittelschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mittelschule&language=de)
 
 **Meaning:** secondary school (Switzerland, Austria)
 **Plural:** Mittelschulen

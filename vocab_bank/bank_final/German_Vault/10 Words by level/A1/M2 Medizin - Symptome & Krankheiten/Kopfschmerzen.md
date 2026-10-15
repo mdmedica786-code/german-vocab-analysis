@@ -15,11 +15,16 @@ id: "B1287"
 netzwerk: "A1 K8 10c"
 freq_rank: 3534
 skip: false
+audio: "Kopfschmerzen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kopfschmerzen
+
+![[Kopfschmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kopfschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kopfschmerzen&language=de)
 
 **Meaning:** headache
 **Plural:** (Pl.)

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3398"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Überlegenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Überlegenheit
+
+![[Überlegenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%9Cberlegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%9Cberlegenheit&language=de)
 
 **Meaning:** superiority
 **Plural:** –

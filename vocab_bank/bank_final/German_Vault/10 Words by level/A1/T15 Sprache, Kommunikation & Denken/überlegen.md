@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 14"
 freq_rank: 762
 skip: false
+audio: "überlegen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # überlegen
+
+![[überlegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberlegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberlegen&language=de)
 
 **Meaning:** to think about
 **Other senses:** sich: to think about; to consider

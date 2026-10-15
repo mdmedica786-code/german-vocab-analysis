@@ -12,11 +12,16 @@ id: "B5073"
 netzwerk: "B1 K12 7a"
 freq_rank: 3417
 skip: false
+audio: "problematisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # problematisch
+
+![[problematisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/problematisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=problematisch&language=de)
 
 **Meaning:** problematic
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3838"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Chemotherapie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Chemotherapie
+
+![[Chemotherapie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chemotherapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chemotherapie&language=de)
 
 **Meaning:** chemotherapy
 **Plural:** Chemotherapien

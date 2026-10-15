@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2971"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Annäherung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Annäherung
+
+![[Annäherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ann%C3%A4herung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ann%C3%A4herung&language=de)
 
 **Meaning:** approach; rapprochement
 **Plural:** Annäherungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1054"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Nachzahlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachzahlung
+
+![[Nachzahlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachzahlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachzahlung&language=de)
 
 **Meaning:** additional payment; back payment
 **Plural:** Nachzahlungen

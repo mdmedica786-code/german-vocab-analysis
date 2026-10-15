@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1481"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Eindeutigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Eindeutigkeit
+
+![[Eindeutigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Eindeutigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Eindeutigkeit&language=de)
 
 **Meaning:** clarity; unambiguity
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1968"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Qualle.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Qualle
+
+![[Qualle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Qualle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Qualle&language=de)
 
 **Meaning:** jellyfish
 **Plural:** Quallen

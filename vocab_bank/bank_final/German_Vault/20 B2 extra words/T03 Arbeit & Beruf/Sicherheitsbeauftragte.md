@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4407"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Sicherheitsbeauftragte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # Sicherheitsbeauftragte
+
+![[Sicherheitsbeauftragte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sicherheitsbeauftragte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherheitsbeauftragte&language=de)
 
 **Meaning:** safety officer
 **Plural:** Sicherheitsbeauftragten

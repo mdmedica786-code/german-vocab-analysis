@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3223"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Individualität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Individualität
+
+![[Individualität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Individualit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Individualit%C3%A4t&language=de)
 
 **Meaning:** individuality
 **Plural:** –

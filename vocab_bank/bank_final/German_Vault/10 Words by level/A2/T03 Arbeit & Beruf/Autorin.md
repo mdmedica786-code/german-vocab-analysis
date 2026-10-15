@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 6b"
 freq_rank: 3844
 skip: false
+audio: "Autorin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Autorin
+
+![[Autorin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autorin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autorin&language=de)
 
 **Meaning:** author (f)
 **Plural:** Autorinnen

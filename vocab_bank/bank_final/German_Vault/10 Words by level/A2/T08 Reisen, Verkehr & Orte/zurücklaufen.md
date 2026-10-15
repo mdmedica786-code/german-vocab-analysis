@@ -13,11 +13,16 @@ id: "B3023"
 netzwerk: "A2 K10 12a"
 freq_rank: 5759
 skip: false
+audio: "zurücklaufen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurücklaufen
+
+![[zurücklaufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCcklaufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCcklaufen&language=de)
 
 **Meaning:** to run back
 **Forms:** läuft zurück · lief zurück · ist zurückgelaufen

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Nord-
 
+[▶️ YouGlish](https://youglish.com/pronounce/Nord-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nord-&language=de)
+
 **Meaning:** north (combining form)
 **Plural:** –
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

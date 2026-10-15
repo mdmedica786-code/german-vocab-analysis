@@ -14,11 +14,16 @@ bank: "main"
 id: "B6206"
 freq_rank: 4867
 skip: false
+audio: "Penis.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Penis
+
+![[Penis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Penis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Penis&language=de)
 
 **Meaning:** penis
 **Plural:** Penisse

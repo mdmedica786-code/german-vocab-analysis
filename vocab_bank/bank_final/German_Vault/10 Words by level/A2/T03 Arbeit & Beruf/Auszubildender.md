@@ -15,11 +15,16 @@ id: "B6367"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Auszubildender.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Auszubildender
+
+![[Auszubildender.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auszubildender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auszubildender&language=de)
 
 **Meaning:** apprentice; trainee (m)
 **Plural:** Auszubildenden

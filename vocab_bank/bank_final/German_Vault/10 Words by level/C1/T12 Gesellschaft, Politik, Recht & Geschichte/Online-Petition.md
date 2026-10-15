@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Online-Petition
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Petition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Petition&language=de)
+
 **Meaning:** online petition
 **Plural:** Online-Petitionen
 **Level:** C1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

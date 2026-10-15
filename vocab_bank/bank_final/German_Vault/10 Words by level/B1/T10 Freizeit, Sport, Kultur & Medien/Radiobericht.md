@@ -15,11 +15,16 @@ id: "B4954"
 netzwerk: "B1 K11 8d"
 freq_rank: 5759
 skip: false
+audio: "Radiobericht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Radiobericht
+
+![[Radiobericht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radiobericht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radiobericht&language=de)
 
 **Meaning:** radio report
 **Plural:** Radioberichte

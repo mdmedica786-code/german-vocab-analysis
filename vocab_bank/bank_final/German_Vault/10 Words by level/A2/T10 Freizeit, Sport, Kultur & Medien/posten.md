@@ -13,11 +13,16 @@ id: "B2069"
 netzwerk: "A2 K3 1a"
 freq_rank: 1033
 skip: false
+audio: "posten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # posten
+
+![[posten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/posten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=posten&language=de)
 
 **Meaning:** to post
 **Forms:** postet · postete · hat gepostet

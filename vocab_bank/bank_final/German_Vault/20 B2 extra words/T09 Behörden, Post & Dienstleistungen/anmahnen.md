@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0844"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "anmahnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # anmahnen
+
+![[anmahnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anmahnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anmahnen&language=de)
 
 **Meaning:** to demand; to send a reminder about
 **Forms:** mahnt an · mahnte an · hat angemahnt

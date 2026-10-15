@@ -15,11 +15,16 @@ id: "B5428"
 goethe_level: "B1"
 freq_rank: 1933
 skip: false
+audio: "Gedicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gedicht
+
+![[Gedicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gedicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gedicht&language=de)
 
 **Meaning:** poem
 **Plural:** Gedichte

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2423"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "töten.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # töten
+
+![[töten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/t%C3%B6ten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=t%C3%B6ten&language=de)
 
 **Meaning:** to kill
 **Forms:** tötet · tötete · hat getötet

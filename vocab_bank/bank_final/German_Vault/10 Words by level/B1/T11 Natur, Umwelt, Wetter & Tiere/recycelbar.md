@@ -12,11 +12,16 @@ id: "B3979"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "recycelbar.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # recycelbar
+
+![[recycelbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/recycelbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=recycelbar&language=de)
 
 **Meaning:** recyclable
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

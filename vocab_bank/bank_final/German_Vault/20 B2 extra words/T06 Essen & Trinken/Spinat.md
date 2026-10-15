@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4439"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Spinat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Spinat
+
+![[Spinat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spinat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spinat&language=de)
 
 **Meaning:** spinach
 **Plural:** –

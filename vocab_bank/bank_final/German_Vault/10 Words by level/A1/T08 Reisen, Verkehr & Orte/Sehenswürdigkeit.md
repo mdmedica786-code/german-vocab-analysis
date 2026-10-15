@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 6a"
 freq_rank: 5759
 skip: false
+audio: "Sehenswürdigkeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sehenswürdigkeit
+
+![[Sehenswürdigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sehensw%C3%BCrdigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sehensw%C3%BCrdigkeit&language=de)
 
 **Meaning:** tourist attraction
 **Plural:** Sehenswürdigkeiten

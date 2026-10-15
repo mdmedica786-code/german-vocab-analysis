@@ -15,11 +15,16 @@ id: "B3154"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Firmenkunde.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Firmenkunde
+
+![[Firmenkunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Firmenkunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Firmenkunde&language=de)
 
 **Meaning:** business client
 **Plural:** Firmenkunden

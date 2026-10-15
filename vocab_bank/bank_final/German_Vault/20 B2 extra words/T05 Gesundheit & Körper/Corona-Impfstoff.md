@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3850"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Corona-Impfstoff.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Corona-Impfstoff
+
+![[Corona-Impfstoff.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Corona-Impfstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Corona-Impfstoff&language=de)
 
 **Meaning:** coronavirus vaccine
 **Plural:** Corona-Impfstoffe

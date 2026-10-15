@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1536"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "albern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # albern
+
+![[albern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/albern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=albern&language=de)
 
 **Meaning:** silly; childish
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

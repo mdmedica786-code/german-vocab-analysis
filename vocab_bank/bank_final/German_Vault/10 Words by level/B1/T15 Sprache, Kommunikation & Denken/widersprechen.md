@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 10"
 freq_rank: 2248
 skip: false
+audio: "widersprechen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # widersprechen
+
+![[widersprechen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/widersprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=widersprechen&language=de)
 
 **Meaning:** to contradict
 **Forms:** widerspricht · widersprach · hat widersprochen

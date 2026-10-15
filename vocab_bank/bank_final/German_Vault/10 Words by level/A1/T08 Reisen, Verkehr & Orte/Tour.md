@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 10b"
 freq_rank: 3585
 skip: false
+audio: "Tour.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tour
+
+![[Tour.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tour&language=de)
 
 **Meaning:** tour
 **Plural:** Touren

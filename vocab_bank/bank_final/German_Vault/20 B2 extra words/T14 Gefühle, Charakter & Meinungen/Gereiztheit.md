@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1172"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Gereiztheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gereiztheit
+
+![[Gereiztheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gereiztheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gereiztheit&language=de)
 
 **Meaning:** irritability; tetchiness
 **Plural:** –

@@ -12,11 +12,16 @@ id: "B4870"
 netzwerk: "B1 K10 10b"
 freq_rank: 894
 skip: false
+audio: "wirtschaftlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # wirtschaftlich
+
+![[wirtschaftlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wirtschaftlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wirtschaftlich&language=de)
 
 **Meaning:** economic
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

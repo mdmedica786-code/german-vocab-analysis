@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0944"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Schulpflicht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schulpflicht
+
+![[Schulpflicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schulpflicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulpflicht&language=de)
 
 **Meaning:** compulsory schooling
 **Plural:** –

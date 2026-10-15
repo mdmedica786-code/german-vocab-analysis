@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 9c"
 freq_rank: 2444
 skip: false
+audio: "elektronisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # elektronisch
+
+![[elektronisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/elektronisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=elektronisch&language=de)
 
 **Meaning:** electronic
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

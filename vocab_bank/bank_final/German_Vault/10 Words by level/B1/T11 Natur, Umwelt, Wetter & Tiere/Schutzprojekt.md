@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Schutzprojekt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schutzprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schutzprojekt&language=de)
+
 **Meaning:** protection project
 **Plural:** Schutzprojekte
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

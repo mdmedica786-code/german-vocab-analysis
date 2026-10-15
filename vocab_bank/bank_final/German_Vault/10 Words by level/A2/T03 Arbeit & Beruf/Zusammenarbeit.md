@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 13b"
 freq_rank: 1596
 skip: false
+audio: "Zusammenarbeit.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zusammenarbeit
+
+![[Zusammenarbeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zusammenarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zusammenarbeit&language=de)
 
 **Meaning:** cooperation
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 4b ÜB"
 freq_rank: 1156
 skip: false
+audio: "Ecke.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ecke
+
+![[Ecke.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ecke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ecke&language=de)
 
 **Meaning:** corner
 **Plural:** Ecken

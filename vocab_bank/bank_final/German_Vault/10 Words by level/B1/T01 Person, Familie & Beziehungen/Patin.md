@@ -15,11 +15,16 @@ id: "B4775"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Patin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Patin
+
+![[Patin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Patin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Patin&language=de)
 
 **Meaning:** godmother
 **Plural:** Patinnen

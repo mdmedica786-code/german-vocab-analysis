@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 1a"
 freq_rank: 2861
 skip: false
+audio: "Lampe.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lampe
+
+![[Lampe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lampe&language=de)
 
 **Meaning:** lamp
 **Plural:** Lampen

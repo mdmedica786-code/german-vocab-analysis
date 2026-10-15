@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4382"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Scheibenwischer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Scheibenwischer
+
+![[Scheibenwischer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Scheibenwischer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Scheibenwischer&language=de)
 
 **Meaning:** windscreen wiper
 **Plural:** Scheibenwischer

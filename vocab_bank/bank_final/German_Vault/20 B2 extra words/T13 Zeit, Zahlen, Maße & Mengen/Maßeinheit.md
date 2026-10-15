@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4210"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
+audio: "Maßeinheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Maßeinheit
+
+![[Maßeinheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ma%C3%9Feinheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ma%C3%9Feinheit&language=de)
 
 **Meaning:** unit of measurement
 **Plural:** Maßeinheiten

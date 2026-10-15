@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3468"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "nationalsozialistisch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # nationalsozialistisch
+
+![[nationalsozialistisch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nationalsozialistisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nationalsozialistisch&language=de)
 
 **Meaning:** National Socialist; Nazi
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1947"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Abspann.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abspann
+
+![[Abspann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abspann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abspann&language=de)
 
 **Meaning:** closing credits
 **Plural:** Abspänne

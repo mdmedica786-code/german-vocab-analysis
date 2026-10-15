@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # geboren
 
+[▶️ YouGlish](https://youglish.com/pronounce/geboren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=geboren&language=de)
+
 **Meaning:** to be born
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral
 

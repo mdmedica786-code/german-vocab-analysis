@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 1c"
 freq_rank: 4901
 skip: false
+audio: "hungrig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # hungrig
+
+![[hungrig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hungrig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hungrig&language=de)
 
 **Meaning:** hungry
 **Level:** A1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 8b"
 freq_rank: 5759
 skip: false
+audio: "Fachleute.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fachleute
+
+![[Fachleute.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fachleute/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fachleute&language=de)
 
 **Meaning:** specialists
 **Plural:** (Pl.)

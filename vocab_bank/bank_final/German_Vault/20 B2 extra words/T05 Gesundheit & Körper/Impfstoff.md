@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4067"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Impfstoff.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Impfstoff
+
+![[Impfstoff.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Impfstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Impfstoff&language=de)
 
 **Meaning:** vaccine
 **Plural:** Impfstoffe

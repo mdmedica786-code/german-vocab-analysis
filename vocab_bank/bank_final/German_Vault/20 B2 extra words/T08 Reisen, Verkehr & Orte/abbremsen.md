@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3685"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "abbremsen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # abbremsen
+
+![[abbremsen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abbremsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abbremsen&language=de)
 
 **Meaning:** to slow down; to brake
 **Forms:** bremst ab · bremste ab · hat abgebremst

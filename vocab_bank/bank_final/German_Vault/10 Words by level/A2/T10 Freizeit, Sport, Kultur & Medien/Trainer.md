@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 5a"
 freq_rank: 4312
 skip: false
+audio: "Trainer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Trainer
+
+![[Trainer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trainer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trainer&language=de)
 
 **Meaning:** coach; trainer
 **Plural:** Trainer

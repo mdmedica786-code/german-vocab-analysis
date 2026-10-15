@@ -13,11 +13,16 @@ id: "B6187"
 goethe_level: "B1"
 freq_rank: 4814
 skip: false
+audio: "unterlassen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterlassen
+
+![[unterlassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterlassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterlassen&language=de)
 
 **Meaning:** to refrain from; to omit
 **Forms:** unterlässt · unterließ · hat unterlassen

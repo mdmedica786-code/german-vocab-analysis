@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # jemandem ans Herz wachsen
 
+[▶️ YouGlish](https://youglish.com/pronounce/jemandem%20ans%20Herz%20wachsen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=jemandem%20ans%20Herz%20wachsen&language=de)
+
 **Meaning:** to grow fond of someone
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

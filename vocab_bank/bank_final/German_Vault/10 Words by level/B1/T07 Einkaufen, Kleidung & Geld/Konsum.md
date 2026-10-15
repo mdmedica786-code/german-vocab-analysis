@@ -15,11 +15,16 @@ id: "B6028"
 goethe_level: "B1"
 freq_rank: 4011
 skip: false
+audio: "Konsum.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Konsum
+
+![[Konsum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konsum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konsum&language=de)
 
 **Meaning:** consumption
 **Plural:** –

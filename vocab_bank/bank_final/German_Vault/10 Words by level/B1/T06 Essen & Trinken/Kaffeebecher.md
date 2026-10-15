@@ -15,11 +15,16 @@ id: "B3968"
 netzwerk: "B1 K5 8a"
 freq_rank: 5759
 skip: false
+audio: "Kaffeebecher.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kaffeebecher
+
+![[Kaffeebecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaffeebecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaffeebecher&language=de)
 
 **Meaning:** coffee cup
 **Plural:** Kaffeebecher

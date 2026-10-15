@@ -15,11 +15,16 @@ id: "B4415"
 netzwerk: "B1 K8 5a"
 freq_rank: 5759
 skip: false
+audio: "Wertsachen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wertsachen
+
+![[Wertsachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wertsachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wertsachen&language=de)
 
 **Meaning:** valuables
 **Plural:** (Pl.)

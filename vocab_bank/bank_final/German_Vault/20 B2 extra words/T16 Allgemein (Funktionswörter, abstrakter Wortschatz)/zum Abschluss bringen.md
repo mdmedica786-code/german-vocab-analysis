@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zum Abschluss bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zum%20Abschluss%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zum%20Abschluss%20bringen&language=de)
+
 **Meaning:** to bring to a conclusion
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

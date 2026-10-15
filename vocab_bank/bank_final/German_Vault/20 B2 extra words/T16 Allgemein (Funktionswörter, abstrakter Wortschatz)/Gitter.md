@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3213"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Gitter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gitter
+
+![[Gitter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gitter&language=de)
 
 **Meaning:** bars; grille; grid
 **Plural:** Gitter

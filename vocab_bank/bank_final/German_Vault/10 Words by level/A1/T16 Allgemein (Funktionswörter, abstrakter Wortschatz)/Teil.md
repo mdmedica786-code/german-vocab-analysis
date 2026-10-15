@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 10b"
 freq_rank: 192
 skip: false
+audio: "Teil.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Teil
+
+![[Teil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teil&language=de)
 
 **Meaning:** part
 **Plural:** Teile

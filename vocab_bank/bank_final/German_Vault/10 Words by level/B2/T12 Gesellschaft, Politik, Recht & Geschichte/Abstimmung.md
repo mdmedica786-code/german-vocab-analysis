@@ -14,11 +14,16 @@ bank: "main"
 id: "B5995"
 freq_rank: 3846
 skip: false
+audio: "Abstimmung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abstimmung
+
+![[Abstimmung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abstimmung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abstimmung&language=de)
 
 **Meaning:** vote; coordination
 **Plural:** Abstimmungen

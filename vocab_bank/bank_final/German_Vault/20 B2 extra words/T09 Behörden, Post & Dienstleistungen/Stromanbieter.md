@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0655"
 exam_use: ["Alltag"]
 skip: false
+audio: "Stromanbieter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stromanbieter
+
+![[Stromanbieter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stromanbieter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromanbieter&language=de)
 
 **Meaning:** electricity provider
 **Plural:** Stromanbieter

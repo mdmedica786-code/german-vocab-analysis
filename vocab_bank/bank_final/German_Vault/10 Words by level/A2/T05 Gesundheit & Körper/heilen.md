@@ -13,11 +13,16 @@ id: "B3109"
 netzwerk: "A2 K11 12a"
 freq_rank: 3023
 skip: false
+audio: "heilen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # heilen
+
+![[heilen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heilen&language=de)
 
 **Meaning:** to heal
 **Forms:** heilt · heilte · hat geheilt

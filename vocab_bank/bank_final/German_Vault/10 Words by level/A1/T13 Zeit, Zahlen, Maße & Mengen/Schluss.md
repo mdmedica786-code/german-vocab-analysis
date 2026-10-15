@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 3d"
 freq_rank: 1112
 skip: false
+audio: "Schluss.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schluss
+
+![[Schluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schluss&language=de)
 
 **Meaning:** end; conclusion
 **Plural:** Schlüsse

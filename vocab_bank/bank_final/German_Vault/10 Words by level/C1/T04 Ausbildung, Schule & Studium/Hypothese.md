@@ -14,11 +14,16 @@ bank: "main"
 id: "B5516"
 freq_rank: 2195
 skip: false
+audio: "Hypothese.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hypothese
+
+![[Hypothese.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hypothese/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hypothese&language=de)
 
 **Meaning:** hypothesis
 **Plural:** Hypothesen

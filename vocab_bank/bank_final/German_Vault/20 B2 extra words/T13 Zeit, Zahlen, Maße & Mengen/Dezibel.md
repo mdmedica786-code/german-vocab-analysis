@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3864"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Dezibel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Dezibel
+
+![[Dezibel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dezibel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dezibel&language=de)
 
 **Meaning:** decibel
 **Plural:** Dezibel

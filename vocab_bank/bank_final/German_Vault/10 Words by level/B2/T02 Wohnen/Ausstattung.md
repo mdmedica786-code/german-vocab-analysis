@@ -14,11 +14,16 @@ bank: "main"
 id: "B5971"
 freq_rank: 3721
 skip: false
+audio: "Ausstattung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ausstattung
+
+![[Ausstattung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausstattung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausstattung&language=de)
 
 **Meaning:** equipment; furnishings
 **Plural:** Ausstattungen

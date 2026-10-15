@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3708"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Amtssprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Amtssprache
+
+![[Amtssprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Amtssprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amtssprache&language=de)
 
 **Meaning:** official language
 **Plural:** Amtssprachen

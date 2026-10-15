@@ -14,11 +14,16 @@ bank: "main"
 id: "B5760"
 freq_rank: 2972
 skip: false
+audio: "Unruhe.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T14", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unruhe
+
+![[Unruhe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unruhe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unruhe&language=de)
 
 **Meaning:** restlessness; unrest
 **Plural:** –

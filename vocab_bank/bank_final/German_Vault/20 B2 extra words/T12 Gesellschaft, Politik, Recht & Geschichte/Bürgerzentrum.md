@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3828"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Bürgerzentrum.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Bürgerzentrum
+
+![[Bürgerzentrum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgerzentrum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgerzentrum&language=de)
 
 **Meaning:** community centre; civic centre
 **Plural:** Bürgerzentren

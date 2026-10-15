@@ -15,11 +15,16 @@ id: "B5405"
 goethe_level: "B1"
 freq_rank: 1814
 skip: false
+audio: "Abteilung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abteilung
+
+![[Abteilung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abteilung&language=de)
 
 **Meaning:** department
 **Plural:** Abteilungen

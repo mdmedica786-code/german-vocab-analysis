@@ -15,11 +15,16 @@ id: "B2450"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Lastwagen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lastwagen
+
+![[Lastwagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lastwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lastwagen&language=de)
 
 **Meaning:** truck
 **Plural:** Lastwagen

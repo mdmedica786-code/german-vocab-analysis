@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2695"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "analog.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # analog
+
+![[analog.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/analog/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=analog&language=de)
 
 **Meaning:** analogous; analogue
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2568"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "militärisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # militärisch
+
+![[militärisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/milit%C3%A4risch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=milit%C3%A4risch&language=de)
 
 **Meaning:** military
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

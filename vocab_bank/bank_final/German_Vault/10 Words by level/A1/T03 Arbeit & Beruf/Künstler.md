@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 1b"
 freq_rank: 1973
 skip: false
+audio: "Künstler.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Künstler
+
+![[Künstler.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%BCnstler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%BCnstler&language=de)
 
 **Meaning:** artist (m)
 **Plural:** Künstler

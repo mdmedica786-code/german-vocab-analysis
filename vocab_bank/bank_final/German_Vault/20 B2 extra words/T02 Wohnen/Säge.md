@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2201"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Säge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Säge
+
+![[Säge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/S%C3%A4ge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=S%C3%A4ge&language=de)
 
 **Meaning:** saw
 **Plural:** Sägen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 11c"
 freq_rank: 2601
 skip: false
+audio: "Moderator.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Moderator
+
+![[Moderator.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Moderator/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Moderator&language=de)
 
 **Meaning:** presenter (m); moderator
 **Plural:** Moderatoren

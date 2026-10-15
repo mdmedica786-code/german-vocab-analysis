@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4276"
 exam_use: ["Sprechen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "nonverbal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Sprechen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # nonverbal
+
+![[nonverbal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nonverbal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nonverbal&language=de)
 
 **Meaning:** non-verbal
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

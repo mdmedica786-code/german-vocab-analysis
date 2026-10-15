@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3861"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Denkerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Denkerin
+
+![[Denkerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Denkerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Denkerin&language=de)
 
 **Meaning:** thinker (female)
 **Plural:** Denkerinnen

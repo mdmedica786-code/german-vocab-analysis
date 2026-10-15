@@ -15,11 +15,16 @@ id: "B3148"
 netzwerk: "A2 K12 3a"
 freq_rank: 5759
 skip: false
+audio: "Musikfestival.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Musikfestival
+
+![[Musikfestival.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikfestival/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikfestival&language=de)
 
 **Meaning:** music festival
 **Plural:** Musikfestivals

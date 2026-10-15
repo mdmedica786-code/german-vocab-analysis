@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 4a"
 freq_rank: 4897
 skip: false
+audio: "meinetwegen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # meinetwegen
+
+![[meinetwegen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/meinetwegen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=meinetwegen&language=de)
 
 **Meaning:** fine with me
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

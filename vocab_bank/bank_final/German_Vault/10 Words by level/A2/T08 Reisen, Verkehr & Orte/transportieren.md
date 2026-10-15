@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 1b"
 freq_rank: 5142
 skip: false
+audio: "transportieren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # transportieren
+
+![[transportieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/transportieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=transportieren&language=de)
 
 **Meaning:** to transport
 **Forms:** transportiert · transportierte · hat transportiert

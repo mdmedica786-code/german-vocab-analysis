@@ -15,11 +15,16 @@ id: "B4796"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Schlagsahne.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schlagsahne
+
+![[Schlagsahne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlagsahne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlagsahne&language=de)
 
 **Meaning:** whipped cream
 **Plural:** –

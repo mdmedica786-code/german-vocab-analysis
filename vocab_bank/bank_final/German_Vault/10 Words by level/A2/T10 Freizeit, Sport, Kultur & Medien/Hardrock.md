@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Hardrock
 
+[▶️ YouGlish](https://youglish.com/pronounce/Hardrock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hardrock&language=de)
+
 **Meaning:** hard rock
 **Plural:** –
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

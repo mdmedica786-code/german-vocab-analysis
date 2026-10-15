@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4425"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Sondersituation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Sondersituation
+
+![[Sondersituation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sondersituation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sondersituation&language=de)
 
 **Meaning:** special situation; exceptional circumstances
 **Plural:** Sondersituationen

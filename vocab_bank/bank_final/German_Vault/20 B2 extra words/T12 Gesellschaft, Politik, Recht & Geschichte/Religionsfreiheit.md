@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0531"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Religionsfreiheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Religionsfreiheit
+
+![[Religionsfreiheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Religionsfreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Religionsfreiheit&language=de)
 
 **Meaning:** freedom of religion
 **Plural:** –

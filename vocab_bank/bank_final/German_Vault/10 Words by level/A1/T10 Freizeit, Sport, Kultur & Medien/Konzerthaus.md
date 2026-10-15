@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Konzerthaus
 
+[▶️ YouGlish](https://youglish.com/pronounce/Konzerthaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzerthaus&language=de)
+
 **Meaning:** concert hall
 **Plural:** Konzerthäuser
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

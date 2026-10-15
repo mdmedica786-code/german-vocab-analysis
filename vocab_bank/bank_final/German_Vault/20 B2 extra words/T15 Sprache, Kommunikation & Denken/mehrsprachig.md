@@ -11,11 +11,16 @@ bank: "b2"
 id: "D4218"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "mehrsprachig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # mehrsprachig
+
+![[mehrsprachig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mehrsprachig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mehrsprachig&language=de)
 
 **Meaning:** multilingual; bilingual
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

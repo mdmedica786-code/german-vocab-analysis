@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0043"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "zur Verfügung stehen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # zur Verfügung stehen
+
+![[zur Verfügung stehen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Verf%C3%BCgung%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Verf%C3%BCgung%20stehen&language=de)
 
 **Meaning:** to be available
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

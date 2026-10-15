@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Web-Adresse
 
+[▶️ YouGlish](https://youglish.com/pronounce/Web-Adresse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Web-Adresse&language=de)
+
 **Meaning:** web address
 **Plural:** Web-Adressen
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1546"
 netzwerk: "A1 K10 12"
 freq_rank: 5759
 skip: false
+audio: "Computerfirma.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Computerfirma
+
+![[Computerfirma.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Computerfirma/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computerfirma&language=de)
 
 **Meaning:** computer company
 **Plural:** Computerfirmen

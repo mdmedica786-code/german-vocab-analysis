@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Anredeformel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Anredeformel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anredeformel&language=de)
+
 **Meaning:** salutation
 **Plural:** Anredeformeln
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

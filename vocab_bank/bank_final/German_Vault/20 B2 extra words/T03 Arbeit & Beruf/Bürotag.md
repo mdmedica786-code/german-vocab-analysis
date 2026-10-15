@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3830"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Bürotag
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrotag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrotag&language=de)
 
 **Meaning:** day in the office
 **Plural:** Bürotage

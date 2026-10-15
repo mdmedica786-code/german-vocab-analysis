@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0938"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Leistungsnachweis.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leistungsnachweis
+
+![[Leistungsnachweis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leistungsnachweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leistungsnachweis&language=de)
 
 **Meaning:** proof of academic achievement; credit
 **Plural:** Leistungsnachweise

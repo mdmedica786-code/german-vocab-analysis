@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2077"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "den Faden verlieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # den Faden verlieren
+
+![[den Faden verlieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/den%20Faden%20verlieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=den%20Faden%20verlieren&language=de)
 
 **Meaning:** to lose the thread
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3726"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Arbeitsprozess.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitsprozess
+
+![[Arbeitsprozess.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsprozess/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsprozess&language=de)
 
 **Meaning:** work process; workflow
 **Plural:** Arbeitsprozesse

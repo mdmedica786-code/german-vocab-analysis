@@ -15,11 +15,16 @@ id: "B4603"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Verkaufsraum.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verkaufsraum
+
+![[Verkaufsraum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkaufsraum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkaufsraum&language=de)
 
 **Meaning:** showroom
 **Plural:** Verkaufsräume

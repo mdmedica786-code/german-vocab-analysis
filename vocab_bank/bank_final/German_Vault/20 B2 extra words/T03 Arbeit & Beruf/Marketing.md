@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2522"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Marketing.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Marketing
+
+![[Marketing.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marketing/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marketing&language=de)
 
 **Meaning:** marketing
 **Plural:** –

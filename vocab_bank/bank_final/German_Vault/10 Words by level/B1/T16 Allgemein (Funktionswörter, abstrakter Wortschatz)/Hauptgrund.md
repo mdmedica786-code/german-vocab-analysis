@@ -15,11 +15,16 @@ id: "B4987"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Hauptgrund.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hauptgrund
+
+![[Hauptgrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptgrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptgrund&language=de)
 
 **Meaning:** main reason
 **Plural:** Hauptgründe

@@ -15,11 +15,16 @@ id: "B6437"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Feuerzeug.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Feuerzeug
+
+![[Feuerzeug.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feuerzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feuerzeug&language=de)
 
 **Meaning:** lighter
 **Plural:** Feuerzeuge

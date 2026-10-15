@@ -13,11 +13,16 @@ id: "B3309"
 netzwerk: "B1 K1 8b"
 freq_rank: 3981
 skip: false
+audio: "spazieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # spazieren
+
+![[spazieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spazieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spazieren&language=de)
 
 **Meaning:** to go for a walk
 **Forms:** spaziert · spazierte · ist spaziert

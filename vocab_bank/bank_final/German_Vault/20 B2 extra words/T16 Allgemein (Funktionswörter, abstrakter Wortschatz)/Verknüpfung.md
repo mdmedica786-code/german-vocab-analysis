@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2875"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Verknüpfung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verknüpfung
+
+![[Verknüpfung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkn%C3%BCpfung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkn%C3%BCpfung&language=de)
 
 **Meaning:** link; connection
 **Plural:** Verknüpfungen

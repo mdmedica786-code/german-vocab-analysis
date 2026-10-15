@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Brasilien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Brasilien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brasilien&language=de)
+
 **Meaning:** Brazil
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

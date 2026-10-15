@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 1b"
 freq_rank: 1160
 skip: false
+audio: "kümmern.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # kümmern
+
+![[kümmern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCmmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCmmern&language=de)
 
 **Meaning:** to take care of
 **Forms:** kümmert sich · kümmerte sich · hat sich gekümmert

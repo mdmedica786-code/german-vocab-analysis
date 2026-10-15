@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 10d"
 freq_rank: 5759
 skip: false
+audio: "Haustier.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Haustier
+
+![[Haustier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haustier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haustier&language=de)
 
 **Meaning:** pet
 **Plural:** Haustiere

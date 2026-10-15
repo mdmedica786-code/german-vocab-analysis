@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1973"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Forelle.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Forelle
+
+![[Forelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forelle&language=de)
 
 **Meaning:** trout
 **Plural:** Forellen

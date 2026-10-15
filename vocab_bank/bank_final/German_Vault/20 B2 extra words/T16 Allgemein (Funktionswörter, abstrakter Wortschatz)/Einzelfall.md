@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2758"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einzelfall.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einzelfall
+
+![[Einzelfall.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einzelfall/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzelfall&language=de)
 
 **Meaning:** isolated case; individual case
 **Plural:** Einzelfälle

@@ -15,11 +15,16 @@ id: "B0978"
 netzwerk: "A1 K6 11"
 freq_rank: 4785
 skip: false
+audio: "Pommes.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pommes
+
+![[Pommes.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pommes/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pommes&language=de)
 
 **Meaning:** chips
 **Plural:** (Pl.)

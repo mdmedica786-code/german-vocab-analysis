@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0002"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "infolgedessen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # infolgedessen
+
+![[infolgedessen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/infolgedessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=infolgedessen&language=de)
 
 **Meaning:** as a result; consequently
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Bahnradfahrerin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bahnradfahrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bahnradfahrerin&language=de)
+
 **Meaning:** track bicycle driver (f)
 **Plural:** Bahnradfahrerinnen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

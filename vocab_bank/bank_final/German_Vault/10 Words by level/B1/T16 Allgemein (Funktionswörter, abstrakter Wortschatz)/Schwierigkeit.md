@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 1072
 skip: false
+audio: "Schwierigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schwierigkeit
+
+![[Schwierigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwierigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwierigkeit&language=de)
 
 **Meaning:** difficulty
 **Plural:** Schwierigkeiten

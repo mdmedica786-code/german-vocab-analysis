@@ -14,11 +14,16 @@ bank: "main"
 id: "B5627"
 freq_rank: 2601
 skip: false
+audio: "Beschäftigte.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Beschäftigte
+
+![[Beschäftigte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besch%C3%A4ftigte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besch%C3%A4ftigte&language=de)
 
 **Meaning:** employee
 **Plural:** Beschäftigten

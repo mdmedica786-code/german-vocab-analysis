@@ -15,11 +15,16 @@ id: "B3135"
 netzwerk: "A2 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Synchronsprecher.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Synchronsprecher
+
+![[Synchronsprecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Synchronsprecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Synchronsprecher&language=de)
 
 **Meaning:** voice actor
 **Plural:** Synchronsprecher

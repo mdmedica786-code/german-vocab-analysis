@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 1a"
 freq_rank: 324
 skip: false
+audio: "Familie.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Familie
+
+![[Familie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familie&language=de)
 
 **Meaning:** family
 **Plural:** Familien

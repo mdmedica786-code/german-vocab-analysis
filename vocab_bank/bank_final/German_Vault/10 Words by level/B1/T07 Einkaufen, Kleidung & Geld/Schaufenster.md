@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 1b"
 freq_rank: 5759
 skip: false
+audio: "Schaufenster.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Schaufenster
+
+![[Schaufenster.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schaufenster/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaufenster&language=de)
 
 **Meaning:** shop window
 **Plural:** Schaufenster

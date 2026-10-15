@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 5759
 skip: false
+audio: "schädlich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schädlich
+
+![[schädlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%A4dlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%A4dlich&language=de)
 
 **Meaning:** harmful
 **Level:** A2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

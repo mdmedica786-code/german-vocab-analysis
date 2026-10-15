@@ -14,11 +14,16 @@ bank: "main"
 id: "B5267"
 freq_rank: 1127
 skip: false
+audio: "Zelle.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zelle
+
+![[Zelle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zelle&language=de)
 
 **Meaning:** cell
 **Plural:** Zellen

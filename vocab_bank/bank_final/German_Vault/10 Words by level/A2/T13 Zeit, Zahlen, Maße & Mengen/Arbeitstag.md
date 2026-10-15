@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "Arbeitstag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Arbeitstag
+
+![[Arbeitstag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitstag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitstag&language=de)
 
 **Meaning:** workday
 **Plural:** Arbeitstage

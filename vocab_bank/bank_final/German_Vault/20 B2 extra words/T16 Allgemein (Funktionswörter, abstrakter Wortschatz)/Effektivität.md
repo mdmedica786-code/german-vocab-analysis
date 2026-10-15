@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3474"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Effektivität.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Effektivität
+
+![[Effektivität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Effektivit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Effektivit%C3%A4t&language=de)
 
 **Meaning:** effectiveness
 **Plural:** –

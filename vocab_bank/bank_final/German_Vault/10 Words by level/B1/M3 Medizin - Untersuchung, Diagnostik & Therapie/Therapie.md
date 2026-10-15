@@ -15,11 +15,16 @@ id: "B5265"
 goethe_level: "B1"
 freq_rank: 1120
 skip: false
+audio: "Therapie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Therapie
+
+![[Therapie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Therapie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Therapie&language=de)
 
 **Meaning:** therapy; treatment
 **Plural:** Therapien

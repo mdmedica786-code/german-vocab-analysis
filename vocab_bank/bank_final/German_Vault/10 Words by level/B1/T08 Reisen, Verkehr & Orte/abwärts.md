@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 5191
 skip: false
+audio: "abwärts.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # abwärts
+
+![[abwärts.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abw%C3%A4rts/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abw%C3%A4rts&language=de)
 
 **Meaning:** downwards
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1434"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Currywurst.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Currywurst
+
+![[Currywurst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Currywurst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Currywurst&language=de)
 
 **Meaning:** sausage with curry ketchup
 **Plural:** Currywürste

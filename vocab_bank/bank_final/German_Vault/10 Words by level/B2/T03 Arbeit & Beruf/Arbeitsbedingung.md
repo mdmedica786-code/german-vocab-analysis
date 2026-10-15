@@ -14,11 +14,16 @@ bank: "main"
 id: "B6326"
 freq_rank: 5654
 skip: false
+audio: "Arbeitsbedingung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitsbedingung
+
+![[Arbeitsbedingung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsbedingung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsbedingung&language=de)
 
 **Meaning:** working condition
 **Plural:** Arbeitsbedingungen

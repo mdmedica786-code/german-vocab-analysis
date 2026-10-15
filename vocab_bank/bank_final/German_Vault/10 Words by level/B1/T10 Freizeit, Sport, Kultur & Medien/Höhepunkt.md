@@ -15,11 +15,16 @@ id: "B3591"
 netzwerk: "B1 K3 3c"
 freq_rank: 3093
 skip: false
+audio: "Höhepunkt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Höhepunkt
+
+![[Höhepunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6hepunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6hepunkt&language=de)
 
 **Meaning:** peak
 **Plural:** Höhepunkte

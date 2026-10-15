@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2743"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "befriedigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # befriedigen
+
+![[befriedigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befriedigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befriedigen&language=de)
 
 **Meaning:** to satisfy
 **Forms:** befriedigt · befriedigte · hat befriedigt

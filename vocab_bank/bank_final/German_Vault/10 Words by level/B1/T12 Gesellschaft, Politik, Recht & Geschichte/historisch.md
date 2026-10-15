@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 4d"
 freq_rank: 695
 skip: false
+audio: "historisch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # historisch
+
+![[historisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/historisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=historisch&language=de)
 
 **Meaning:** historical
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

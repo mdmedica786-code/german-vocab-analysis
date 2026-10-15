@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 14a"
 freq_rank: 5463
 skip: false
+audio: "Kneipe.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kneipe
+
+![[Kneipe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kneipe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kneipe&language=de)
 
 **Meaning:** bar
 **Plural:** Kneipen

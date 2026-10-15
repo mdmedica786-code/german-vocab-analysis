@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3417"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "riskieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # riskieren
+
+![[riskieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/riskieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=riskieren&language=de)
 
 **Meaning:** to risk
 **Forms:** riskiert · riskierte · hat riskiert

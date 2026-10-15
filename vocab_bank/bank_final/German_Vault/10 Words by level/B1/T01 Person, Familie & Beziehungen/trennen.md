@@ -13,11 +13,16 @@ id: "B5249"
 goethe_level: "B1"
 freq_rank: 1033
 skip: false
+audio: "trennen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # trennen
+
+![[trennen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trennen&language=de)
 
 **Meaning:** to separate; to split up
 **Forms:** trennt · trennte · hat getrennt

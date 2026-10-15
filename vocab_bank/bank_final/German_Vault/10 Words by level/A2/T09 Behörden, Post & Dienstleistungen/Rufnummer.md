@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Rufnummer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rufnummer
+
+![[Rufnummer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rufnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rufnummer&language=de)
 
 **Meaning:** telephone number
 **Plural:** Rufnummern

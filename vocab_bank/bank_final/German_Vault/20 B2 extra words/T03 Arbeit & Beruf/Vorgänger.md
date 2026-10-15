@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3510"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Vorgänger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorgänger
+
+![[Vorgänger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorg%C3%A4nger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorg%C3%A4nger&language=de)
 
 **Meaning:** predecessor
 **Plural:** Vorgänger

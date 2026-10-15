@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 3a ÜB"
 freq_rank: 5306
 skip: false
+audio: "Ausweis.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ausweis
+
+![[Ausweis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ausweis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ausweis&language=de)
 
 **Meaning:** ID card
 **Plural:** Ausweise

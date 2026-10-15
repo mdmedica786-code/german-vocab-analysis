@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1347"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "schlimmstenfalls.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlimmstenfalls
+
+![[schlimmstenfalls.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlimmstenfalls/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlimmstenfalls&language=de)
 
 **Meaning:** at worst; if the worst comes to the worst
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

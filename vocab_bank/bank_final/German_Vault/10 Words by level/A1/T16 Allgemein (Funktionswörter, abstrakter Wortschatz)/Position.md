@@ -15,11 +15,16 @@ id: "B0587"
 netzwerk: "A1 K3 10d"
 freq_rank: 771
 skip: false
+audio: "Position.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Position
+
+![[Position.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Position/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Position&language=de)
 
 **Meaning:** position
 **Plural:** Positionen

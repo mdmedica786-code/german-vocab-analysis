@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2258"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Gefrierbeutel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gefrierbeutel
+
+![[Gefrierbeutel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gefrierbeutel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gefrierbeutel&language=de)
 
 **Meaning:** freezer bag
 **Plural:** Gefrierbeutel

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12 ÜB"
 freq_rank: 4987
 skip: false
+audio: "Fliege.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fliege
+
+![[Fliege.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fliege/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fliege&language=de)
 
 **Meaning:** fly
 **Plural:** Fliegen

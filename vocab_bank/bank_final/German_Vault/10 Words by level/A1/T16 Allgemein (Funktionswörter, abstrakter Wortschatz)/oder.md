@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # oder
 
+[▶️ YouGlish](https://youglish.com/pronounce/oder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=oder&language=de)
+
 **Meaning:** or
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

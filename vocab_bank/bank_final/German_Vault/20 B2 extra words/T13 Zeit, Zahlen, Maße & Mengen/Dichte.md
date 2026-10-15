@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2761"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Dichte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dichte
+
+![[Dichte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dichte&language=de)
 
 **Meaning:** density
 **Plural:** –

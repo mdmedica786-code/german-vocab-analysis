@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3118"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Tunnel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tunnel
+
+![[Tunnel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tunnel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tunnel&language=de)
 
 **Meaning:** tunnel
 **Plural:** Tunnel

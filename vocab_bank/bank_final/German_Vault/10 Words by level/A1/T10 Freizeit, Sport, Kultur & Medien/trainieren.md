@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 4a"
 freq_rank: 5335
 skip: false
+audio: "trainieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # trainieren
+
+![[trainieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/trainieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=trainieren&language=de)
 
 **Meaning:** to train
 **Forms:** trainiert · trainierte · hat trainiert

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5864"
 freq_rank: 3204
 skip: false
+audio: "Armut.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Armut
+
+![[Armut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Armut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Armut&language=de)
 
 **Meaning:** poverty
 **Plural:** –

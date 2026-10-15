@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 957
 skip: false
+audio: "Glas.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Glas
+
+![[Glas.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glas&language=de)
 
 **Meaning:** glass
 **Plural:** Gläser

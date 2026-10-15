@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0634"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Automatisierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Automatisierung
+
+![[Automatisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Automatisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automatisierung&language=de)
 
 **Meaning:** automation
 **Plural:** –

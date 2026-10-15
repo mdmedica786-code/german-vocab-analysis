@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3151"
 exam_use: ["Medien", "Schreiben"]
 skip: false
+audio: "Redaktion.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Medien", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Redaktion
+
+![[Redaktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Redaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Redaktion&language=de)
 
 **Meaning:** editorial office; editorial staff
 **Plural:** Redaktionen

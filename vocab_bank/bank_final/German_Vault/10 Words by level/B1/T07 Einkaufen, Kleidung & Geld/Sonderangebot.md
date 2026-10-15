@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Sonderangebot.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sonderangebot
+
+![[Sonderangebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonderangebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonderangebot&language=de)
 
 **Meaning:** special offer
 **Plural:** Sonderangebote

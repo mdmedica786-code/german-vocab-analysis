@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9d"
 freq_rank: 242
 skip: false
+audio: "folgend.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # folgend
+
+![[folgend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/folgend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=folgend&language=de)
 
 **Meaning:** following
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

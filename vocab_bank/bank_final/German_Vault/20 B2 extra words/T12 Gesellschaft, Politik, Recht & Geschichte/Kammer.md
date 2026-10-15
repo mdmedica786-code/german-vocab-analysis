@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2685"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Kammer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kammer
+
+![[Kammer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kammer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kammer&language=de)
 
 **Meaning:** chamber; association
 **Plural:** Kammern

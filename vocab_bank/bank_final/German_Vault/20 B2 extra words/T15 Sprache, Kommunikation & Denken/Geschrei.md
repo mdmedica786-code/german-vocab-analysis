@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3219"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Geschrei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geschrei
+
+![[Geschrei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geschrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschrei&language=de)
 
 **Meaning:** shouting; screaming; cries
 **Plural:** –

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4154"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kulturfabrik
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kulturfabrik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulturfabrik&language=de)
 
 **Meaning:** arts centre in a former factory; cultural factory
 **Plural:** Kulturfabriken

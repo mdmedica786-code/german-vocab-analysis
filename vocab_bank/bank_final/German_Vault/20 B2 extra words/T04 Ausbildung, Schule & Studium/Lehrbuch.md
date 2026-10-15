@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0983"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Lehrbuch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lehrbuch
+
+![[Lehrbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lehrbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lehrbuch&language=de)
 
 **Meaning:** textbook
 **Plural:** Lehrbücher

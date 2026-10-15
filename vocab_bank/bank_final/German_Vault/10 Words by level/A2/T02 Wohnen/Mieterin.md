@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 6b"
 freq_rank: 5759
 skip: false
+audio: "Mieterin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mieterin
+
+![[Mieterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mieterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mieterin&language=de)
 
 **Meaning:** tenant (f)
 **Plural:** Mieterinnen

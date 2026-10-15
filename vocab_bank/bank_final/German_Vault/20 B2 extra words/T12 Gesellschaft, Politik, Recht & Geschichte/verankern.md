@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3127"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "verankern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verankern
+
+![[verankern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verankern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verankern&language=de)
 
 **Meaning:** to anchor; to enshrine
 **Forms:** verankert · verankerte · hat verankert

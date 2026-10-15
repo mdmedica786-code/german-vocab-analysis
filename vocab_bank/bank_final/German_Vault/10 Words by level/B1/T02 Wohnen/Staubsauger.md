@@ -15,11 +15,16 @@ id: "B3393"
 netzwerk: "B1 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Staubsauger.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Staubsauger
+
+![[Staubsauger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Staubsauger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Staubsauger&language=de)
 
 **Meaning:** vacuum cleaner
 **Plural:** Staubsauger

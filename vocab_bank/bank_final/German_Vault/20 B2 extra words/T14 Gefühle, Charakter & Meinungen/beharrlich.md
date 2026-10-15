@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1550"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beharrlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beharrlich
+
+![[beharrlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beharrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beharrlich&language=de)
 
 **Meaning:** persistent; tenacious
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B2863"
 netzwerk: "A2 K9 5b"
 freq_rank: 4183
 skip: false
+audio: "Kontrast.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kontrast
+
+![[Kontrast.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kontrast/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontrast&language=de)
 
 **Meaning:** contrast
 **Plural:** Kontraste

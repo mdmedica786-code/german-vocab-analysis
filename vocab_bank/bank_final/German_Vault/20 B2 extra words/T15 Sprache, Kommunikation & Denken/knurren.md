@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2788"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "knurren.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # knurren
+
+![[knurren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/knurren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knurren&language=de)
 
 **Meaning:** to growl; to grumble
 **Forms:** knurrt · knurrte · hat geknurrt

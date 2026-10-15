@@ -15,11 +15,16 @@ id: "B1643"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Herrenmode.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Herrenmode
+
+![[Herrenmode.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herrenmode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herrenmode&language=de)
 
 **Meaning:** men's fashion
 **Plural:** Herrenmoden

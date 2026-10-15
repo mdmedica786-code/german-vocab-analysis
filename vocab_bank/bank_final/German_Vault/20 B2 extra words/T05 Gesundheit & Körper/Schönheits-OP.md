@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4391"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Schönheits-OP
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%B6nheits-OP/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%B6nheits-OP&language=de)
 
 **Meaning:** cosmetic surgery
 **Plural:** Schönheits-OPs

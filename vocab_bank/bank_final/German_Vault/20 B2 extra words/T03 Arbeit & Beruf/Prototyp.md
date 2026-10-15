@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0636"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Prototyp.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Prototyp
+
+![[Prototyp.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prototyp/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prototyp&language=de)
 
 **Meaning:** prototype
 **Plural:** Prototypen

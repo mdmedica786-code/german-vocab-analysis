@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 3429
 skip: false
+audio: "Versammlung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Versammlung
+
+![[Versammlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versammlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versammlung&language=de)
 
 **Meaning:** assembly
 **Plural:** Versammlungen

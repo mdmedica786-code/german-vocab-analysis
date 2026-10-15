@@ -15,11 +15,16 @@ id: "B6308"
 goethe_level: "B1"
 freq_rank: 5512
 skip: false
+audio: "Stempel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stempel
+
+![[Stempel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stempel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stempel&language=de)
 
 **Meaning:** stamp
 **Plural:** Stempel

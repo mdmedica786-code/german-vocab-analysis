@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3091"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "bemerkbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bemerkbar
+
+![[bemerkbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bemerkbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bemerkbar&language=de)
 
 **Meaning:** noticeable
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

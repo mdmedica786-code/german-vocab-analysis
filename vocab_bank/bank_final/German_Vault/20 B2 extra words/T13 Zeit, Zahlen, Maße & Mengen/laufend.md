@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2600"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "laufend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # laufend
+
+![[laufend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/laufend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=laufend&language=de)
 
 **Meaning:** current; ongoing; regular
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

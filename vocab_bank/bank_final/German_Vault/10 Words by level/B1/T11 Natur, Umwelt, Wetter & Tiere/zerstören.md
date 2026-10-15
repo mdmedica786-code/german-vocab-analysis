@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 1719
 skip: false
+audio: "zerstören.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zerstören
+
+![[zerstören.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zerst%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerst%C3%B6ren&language=de)
 
 **Meaning:** to destroy
 **Forms:** zerstört · zerstörte · hat zerstört

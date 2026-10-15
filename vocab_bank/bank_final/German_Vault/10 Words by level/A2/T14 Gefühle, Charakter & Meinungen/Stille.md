@@ -15,11 +15,16 @@ id: "B3211"
 netzwerk: "A2 K12 7a"
 freq_rank: 2128
 skip: false
+audio: "Stille.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stille
+
+![[Stille.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stille&language=de)
 
 **Meaning:** silence
 **Plural:** –

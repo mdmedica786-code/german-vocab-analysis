@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K4 9a"
 freq_rank: 478
 skip: false
+audio: "halb.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # halb
+
+![[halb.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/halb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=halb&language=de)
 
 **Meaning:** half; (halb neun) half past eight
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

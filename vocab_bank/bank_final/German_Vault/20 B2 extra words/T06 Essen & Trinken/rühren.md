@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1713"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "rühren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/verb", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # rühren
+
+![[rühren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%BChren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BChren&language=de)
 
 **Meaning:** to stir; to move (emotionally)
 **Forms:** rührt · rührte · hat gerührt

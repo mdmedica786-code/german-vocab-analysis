@@ -13,11 +13,16 @@ id: "B2932"
 netzwerk: "A2 K10 1b"
 freq_rank: 5759
 skip: false
+audio: "schaukeln.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schaukeln
+
+![[schaukeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schaukeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schaukeln&language=de)
 
 **Meaning:** to rock
 **Forms:** schaukelt · schaukelte · hat geschaukelt

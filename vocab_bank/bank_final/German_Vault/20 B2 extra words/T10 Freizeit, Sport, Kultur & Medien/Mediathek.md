@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1943"
 exam_use: ["Medien", "Alltag"]
 skip: false
+audio: "Mediathek.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mediathek
+
+![[Mediathek.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mediathek/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mediathek&language=de)
 
 **Meaning:** online media library
 **Plural:** Mediatheken

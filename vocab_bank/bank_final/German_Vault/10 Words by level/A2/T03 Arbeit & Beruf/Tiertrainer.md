@@ -15,11 +15,16 @@ id: "B2474"
 netzwerk: "A2 K6 9a"
 freq_rank: 5759
 skip: false
+audio: "Tiertrainer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tiertrainer
+
+![[Tiertrainer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tiertrainer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tiertrainer&language=de)
 
 **Meaning:** animal trainer (m)
 **Plural:** Tiertrainer

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2882"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Block.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Block
+
+![[Block.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Block/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Block&language=de)
 
 **Meaning:** block; pad
 **Plural:** Blöcke

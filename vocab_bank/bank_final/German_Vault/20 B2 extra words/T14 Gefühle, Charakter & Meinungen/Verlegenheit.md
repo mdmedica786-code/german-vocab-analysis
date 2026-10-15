@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1133"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Verlegenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verlegenheit
+
+![[Verlegenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verlegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlegenheit&language=de)
 
 **Meaning:** embarrassment; predicament
 **Plural:** Verlegenheiten

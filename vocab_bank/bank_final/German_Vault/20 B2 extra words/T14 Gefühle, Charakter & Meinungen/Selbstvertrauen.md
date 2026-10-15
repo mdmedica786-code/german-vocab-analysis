@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1130"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Selbstvertrauen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Selbstvertrauen
+
+![[Selbstvertrauen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Selbstvertrauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstvertrauen&language=de)
 
 **Meaning:** self-assurance; confidence in oneself
 **Plural:** –

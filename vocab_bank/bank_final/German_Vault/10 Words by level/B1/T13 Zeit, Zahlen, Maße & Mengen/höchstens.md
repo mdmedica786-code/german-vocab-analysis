@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 7"
 freq_rank: 2353
 skip: false
+audio: "höchstens.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # höchstens
+
+![[höchstens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%B6chstens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%B6chstens&language=de)
 
 **Meaning:** at the most
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

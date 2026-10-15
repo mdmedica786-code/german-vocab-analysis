@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3916"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Essverhalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Essverhalten
+
+![[Essverhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Essverhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Essverhalten&language=de)
 
 **Meaning:** eating habits; eating behaviour
 **Plural:** –

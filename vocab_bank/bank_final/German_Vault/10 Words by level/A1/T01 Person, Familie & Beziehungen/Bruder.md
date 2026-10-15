@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a"
 freq_rank: 482
 skip: false
+audio: "Bruder.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bruder
+
+![[Bruder.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bruder/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bruder&language=de)
 
 **Meaning:** brother
 **Plural:** Brüder

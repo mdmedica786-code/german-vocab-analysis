@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4195"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Lieferwagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Lieferwagen
+
+![[Lieferwagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieferwagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieferwagen&language=de)
 
 **Meaning:** delivery van
 **Plural:** Lieferwagen

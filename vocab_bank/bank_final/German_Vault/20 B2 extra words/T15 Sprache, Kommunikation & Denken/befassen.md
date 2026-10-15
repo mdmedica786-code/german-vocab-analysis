@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1805"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "befassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # befassen
+
+![[befassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befassen&language=de)
 
 **Meaning:** to deal with; to concern oneself
 **Forms:** befasst sich · befasste sich · hat sich befasst

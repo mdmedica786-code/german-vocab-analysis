@@ -12,11 +12,16 @@ id: "B3180"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "zuzüglich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuzüglich
+
+![[zuzüglich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuz%C3%BCglich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuz%C3%BCglich&language=de)
 
 **Meaning:** in addition
 **Case:** + Gen.

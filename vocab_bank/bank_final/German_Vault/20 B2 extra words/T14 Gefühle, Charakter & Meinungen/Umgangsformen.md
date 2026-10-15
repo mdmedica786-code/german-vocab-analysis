@@ -13,11 +13,16 @@ bank: "b2"
 id: "D1149"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Umgangsformen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # Umgangsformen
+
+![[Umgangsformen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umgangsformen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umgangsformen&language=de)
 
 **Meaning:** manners; etiquette
 **Plural:** Umgangsformen

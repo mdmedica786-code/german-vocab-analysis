@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2003"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Düne.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Düne
+
+![[Düne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/D%C3%BCne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=D%C3%BCne&language=de)
 
 **Meaning:** dune
 **Plural:** Dünen

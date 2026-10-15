@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Traumwetter
 
+[▶️ YouGlish](https://youglish.com/pronounce/Traumwetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Traumwetter&language=de)
+
 **Meaning:** dream weather
 **Plural:** –
 **Level:** B1 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B1445"
 netzwerk: "A1 K9 10a"
 freq_rank: 5759
 skip: false
+audio: "Hochhaus.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hochhaus
+
+![[Hochhaus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochhaus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochhaus&language=de)
 
 **Meaning:** skyscraper
 **Plural:** Hochhäuser

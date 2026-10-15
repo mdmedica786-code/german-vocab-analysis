@@ -14,11 +14,16 @@ bank: "main"
 id: "B6094"
 freq_rank: 4320
 skip: false
+audio: "Justiz.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Justiz
+
+![[Justiz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Justiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Justiz&language=de)
 
 **Meaning:** judiciary; justice system
 **Plural:** –

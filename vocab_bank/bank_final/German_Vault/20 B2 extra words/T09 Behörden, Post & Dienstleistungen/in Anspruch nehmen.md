@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Anspruch nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Anspruch%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Anspruch%20nehmen&language=de)
+
 **Meaning:** to make use of; to claim
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral
 

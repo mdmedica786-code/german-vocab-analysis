@@ -12,11 +12,16 @@ id: "B0647"
 netzwerk: "A1 K4 3b"
 freq_rank: 63
 skip: false
+audio: "alles.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/pronoun"]
 status: "new"
 ---
 <!-- bank:start -->
 # alles
+
+![[alles.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/alles/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=alles&language=de)
 
 **Meaning:** everything
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

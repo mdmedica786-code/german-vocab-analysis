@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 13a"
 freq_rank: 4175
 skip: false
+audio: "Durst.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Durst
+
+![[Durst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Durst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Durst&language=de)
 
 **Meaning:** thirst
 **Plural:** –

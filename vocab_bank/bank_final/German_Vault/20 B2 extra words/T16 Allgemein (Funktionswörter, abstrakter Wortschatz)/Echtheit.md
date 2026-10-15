@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1478"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Echtheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Echtheit
+
+![[Echtheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Echtheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Echtheit&language=de)
 
 **Meaning:** authenticity
 **Plural:** –

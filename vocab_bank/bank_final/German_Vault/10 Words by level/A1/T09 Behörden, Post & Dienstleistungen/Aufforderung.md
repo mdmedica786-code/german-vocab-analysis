@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 3c"
 freq_rank: 3291
 skip: false
+audio: "Aufforderung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufforderung
+
+![[Aufforderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufforderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufforderung&language=de)
 
 **Meaning:** request
 **Plural:** Aufforderungen

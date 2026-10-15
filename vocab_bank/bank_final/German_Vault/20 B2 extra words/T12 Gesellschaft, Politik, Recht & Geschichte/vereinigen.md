@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2566"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "vereinigen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # vereinigen
+
+![[vereinigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vereinigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vereinigen&language=de)
 
 **Meaning:** to unite; to combine
 **Forms:** vereinigt sich · vereinigte sich · hat sich vereinigt

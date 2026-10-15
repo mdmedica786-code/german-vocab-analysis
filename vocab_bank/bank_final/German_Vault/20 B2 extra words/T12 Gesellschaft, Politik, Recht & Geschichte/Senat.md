@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3203"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Senat.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Senat
+
+![[Senat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Senat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Senat&language=de)
 
 **Meaning:** senate; governing council
 **Plural:** Senate

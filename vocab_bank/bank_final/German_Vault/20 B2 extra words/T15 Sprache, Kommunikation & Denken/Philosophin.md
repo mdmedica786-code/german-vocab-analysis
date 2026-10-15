@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4307"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Philosophin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Philosophin
+
+![[Philosophin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Philosophin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Philosophin&language=de)
 
 **Meaning:** philosopher (female)
 **Plural:** Philosophinnen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1964"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Frosch.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Frosch
+
+![[Frosch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frosch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frosch&language=de)
 
 **Meaning:** frog
 **Plural:** Frösche

@@ -15,11 +15,16 @@ id: "B6059"
 goethe_level: "A2"
 freq_rank: 4100
 skip: false
+audio: "Karneval.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Karneval
+
+![[Karneval.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Karneval/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karneval&language=de)
 
 **Meaning:** carnival
 **Plural:** Karnevale

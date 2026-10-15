@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 9a"
 freq_rank: 990
 skip: false
+audio: "Krankheit.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krankheit
+
+![[Krankheit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankheit&language=de)
 
 **Meaning:** illness
 **Plural:** Krankheiten

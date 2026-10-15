@@ -13,11 +13,16 @@ id: "B5163"
 goethe_level: "B1"
 freq_rank: 488
 skip: false
+audio: "greifen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # greifen
+
+![[greifen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/greifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=greifen&language=de)
 
 **Meaning:** to grab; to reach; to seize
 **Forms:** greift · griff · hat gegriffen

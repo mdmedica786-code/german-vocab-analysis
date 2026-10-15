@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1650"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "spießig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # spießig
+
+![[spießig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spie%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spie%C3%9Fig&language=de)
 
 **Meaning:** stuffy; narrow-minded (colloquial)
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial

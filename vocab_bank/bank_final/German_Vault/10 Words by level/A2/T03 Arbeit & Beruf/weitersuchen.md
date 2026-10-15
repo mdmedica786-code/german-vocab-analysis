@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # weitersuchen
 
+[▶️ YouGlish](https://youglish.com/pronounce/weitersuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weitersuchen&language=de)
+
 **Meaning:** to continue searching
 **Forms:** sucht weiter · suchte weiter · hat weitergesucht
 **Grammar:** separable (weiter-)

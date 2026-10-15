@@ -15,11 +15,16 @@ id: "B1146"
 netzwerk: "A1 K7 7b"
 freq_rank: 5759
 skip: false
+audio: "Sprachinstitut.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sprachinstitut
+
+![[Sprachinstitut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachinstitut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachinstitut&language=de)
 
 **Meaning:** language institute
 **Plural:** Sprachinstitute

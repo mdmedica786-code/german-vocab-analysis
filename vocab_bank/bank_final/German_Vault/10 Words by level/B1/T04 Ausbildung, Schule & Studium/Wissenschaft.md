@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 7a"
 freq_rank: 927
 skip: false
+audio: "Wissenschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wissenschaft
+
+![[Wissenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wissenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wissenschaft&language=de)
 
 **Meaning:** science
 **Plural:** Wissenschaften

@@ -13,11 +13,16 @@ bank: "b2"
 id: "D1433"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Spätzle.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # Spätzle
+
+![[Spätzle.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sp%C3%A4tzle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sp%C3%A4tzle&language=de)
 
 **Meaning:** Swabian egg noodles
 **Plural:** Spätzle

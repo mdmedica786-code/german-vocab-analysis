@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1966"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Käfer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Käfer
+
+![[Käfer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4fer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4fer&language=de)
 
 **Meaning:** beetle
 **Plural:** Käfer

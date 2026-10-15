@@ -15,11 +15,16 @@ id: "B5189"
 goethe_level: "B1"
 freq_rank: 613
 skip: false
+audio: "Theorie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Theorie
+
+![[Theorie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Theorie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theorie&language=de)
 
 **Meaning:** theory
 **Plural:** Theorien

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3646"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Geständnis.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geständnis
+
+![[Geständnis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gest%C3%A4ndnis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gest%C3%A4ndnis&language=de)
 
 **Meaning:** confession
 **Plural:** Geständnisse

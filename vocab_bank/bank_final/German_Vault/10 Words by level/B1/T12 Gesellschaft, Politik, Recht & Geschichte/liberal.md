@@ -12,11 +12,16 @@ id: "B6080"
 goethe_level: "B1"
 freq_rank: 4227
 skip: false
+audio: "liberal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # liberal
+
+![[liberal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/liberal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=liberal&language=de)
 
 **Meaning:** liberal
 **Level:** B1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

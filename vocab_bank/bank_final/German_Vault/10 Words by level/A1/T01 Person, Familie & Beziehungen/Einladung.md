@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3a"
 freq_rank: 3097
 skip: false
+audio: "Einladung.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einladung
+
+![[Einladung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einladung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einladung&language=de)
 
 **Meaning:** invitation
 **Plural:** Einladungen

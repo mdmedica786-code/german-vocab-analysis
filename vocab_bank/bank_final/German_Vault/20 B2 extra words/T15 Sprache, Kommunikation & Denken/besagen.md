@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3016"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "besagen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # besagen
+
+![[besagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besagen&language=de)
 
 **Meaning:** to state; to say; to mean
 **Forms:** besagt · besagte · hat besagt

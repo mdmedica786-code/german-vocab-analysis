@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1026"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Mitfahrer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mitfahrer
+
+![[Mitfahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitfahrer&language=de)
 
 **Meaning:** fellow passenger; passenger
 **Plural:** Mitfahrer

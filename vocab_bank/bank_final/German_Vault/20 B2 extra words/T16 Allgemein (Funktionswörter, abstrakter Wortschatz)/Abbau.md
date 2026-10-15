@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3040"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Abbau.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abbau
+
+![[Abbau.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abbau/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abbau&language=de)
 
 **Meaning:** dismantling; reduction; mining
 **Plural:** –

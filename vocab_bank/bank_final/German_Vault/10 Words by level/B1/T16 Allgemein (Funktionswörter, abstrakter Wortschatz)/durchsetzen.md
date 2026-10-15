@@ -13,11 +13,16 @@ id: "B3907"
 netzwerk: "B1 K5 2b ÜB"
 freq_rank: 2211
 skip: false
+audio: "durchsetzen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # durchsetzen
+
+![[durchsetzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/durchsetzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=durchsetzen&language=de)
 
 **Meaning:** to push through, to force
 **Forms:** setzt durch · setzte durch · hat durchgesetzt

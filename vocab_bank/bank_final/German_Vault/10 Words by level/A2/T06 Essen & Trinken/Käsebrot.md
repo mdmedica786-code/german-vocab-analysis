@@ -15,11 +15,16 @@ id: "B2117"
 netzwerk: "A2 K3 8b"
 freq_rank: 5759
 skip: false
+audio: "Käsebrot.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Käsebrot
+
+![[Käsebrot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4sebrot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4sebrot&language=de)
 
 **Meaning:** cheese sandwich
 **Plural:** Käsebrote

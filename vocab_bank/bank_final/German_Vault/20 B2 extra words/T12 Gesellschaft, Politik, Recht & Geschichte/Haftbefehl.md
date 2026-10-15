@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0517"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Haftbefehl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Haftbefehl
+
+![[Haftbefehl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haftbefehl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haftbefehl&language=de)
 
 **Meaning:** arrest warrant
 **Plural:** Haftbefehle

@@ -15,11 +15,16 @@ id: "B1817"
 netzwerk: "A1 K12 7d"
 freq_rank: 5759
 skip: false
+audio: "Lieblingsfarbe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lieblingsfarbe
+
+![[Lieblingsfarbe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieblingsfarbe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieblingsfarbe&language=de)
 
 **Meaning:** favourite colour
 **Plural:** Lieblingsfarben

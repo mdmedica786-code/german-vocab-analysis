@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2737"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Achse.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Achse
+
+![[Achse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Achse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Achse&language=de)
 
 **Meaning:** axis; axle
 **Plural:** Achsen

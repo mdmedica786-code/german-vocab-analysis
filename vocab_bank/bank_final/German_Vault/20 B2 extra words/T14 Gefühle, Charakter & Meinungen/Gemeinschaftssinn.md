@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3991"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Gemeinschaftssinn
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gemeinschaftssinn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gemeinschaftssinn&language=de)
 
 **Meaning:** sense of community; community spirit
 **Plural:** –

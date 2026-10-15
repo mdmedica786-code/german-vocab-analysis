@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2925"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Ladung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ladung
+
+![[Ladung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ladung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ladung&language=de)
 
 **Meaning:** load; cargo; charge
 **Plural:** Ladungen

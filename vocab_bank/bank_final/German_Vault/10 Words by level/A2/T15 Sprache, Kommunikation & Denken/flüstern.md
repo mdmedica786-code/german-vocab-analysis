@@ -13,11 +13,16 @@ id: "B2133"
 netzwerk: "A2 K3 11c"
 freq_rank: 1010
 skip: false
+audio: "flüstern.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # flüstern
+
+![[flüstern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fl%C3%BCstern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fl%C3%BCstern&language=de)
 
 **Meaning:** to whisper
 **Forms:** flüstert · flüsterte · hat geflüstert

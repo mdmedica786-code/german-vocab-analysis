@@ -15,11 +15,16 @@ id: "B5579"
 goethe_level: "B1"
 freq_rank: 2404
 skip: false
+audio: "Abschied.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Abschied
+
+![[Abschied.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abschied/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abschied&language=de)
 
 **Meaning:** farewell; parting
 **Plural:** Abschiede

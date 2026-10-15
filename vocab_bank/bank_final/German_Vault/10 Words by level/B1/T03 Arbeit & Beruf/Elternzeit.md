@@ -15,11 +15,16 @@ id: "B4938"
 netzwerk: "B1 K11 8b"
 freq_rank: 5759
 skip: false
+audio: "Elternzeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Elternzeit
+
+![[Elternzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Elternzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Elternzeit&language=de)
 
 **Meaning:** parental leave
 **Plural:** –

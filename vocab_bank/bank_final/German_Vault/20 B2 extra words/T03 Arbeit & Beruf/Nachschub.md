@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1775"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Nachschub.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Nachschub
+
+![[Nachschub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachschub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachschub&language=de)
 
 **Meaning:** fresh supplies; reinforcements
 **Plural:** –

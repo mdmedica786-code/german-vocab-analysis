@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Klettergurt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Klettergurt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klettergurt&language=de)
+
 **Meaning:** harness
 **Plural:** Klettergurte
 **Level:** A2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

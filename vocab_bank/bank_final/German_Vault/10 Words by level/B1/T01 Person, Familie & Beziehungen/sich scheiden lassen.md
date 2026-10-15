@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # sich scheiden lassen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sich%20scheiden%20lassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20scheiden%20lassen&language=de)
+
 **Meaning:** to get divorced
 **Forms:** lässt sich scheiden · ließ sich scheiden · hat sich scheiden lassen
 **Grammar:** reflexive

@@ -15,11 +15,16 @@ id: "B3240"
 netzwerk: "A2 K12 11a"
 freq_rank: 2120
 skip: false
+audio: "Vordergrund.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vordergrund
+
+![[Vordergrund.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vordergrund/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vordergrund&language=de)
 
 **Meaning:** foreground
 **Plural:** –

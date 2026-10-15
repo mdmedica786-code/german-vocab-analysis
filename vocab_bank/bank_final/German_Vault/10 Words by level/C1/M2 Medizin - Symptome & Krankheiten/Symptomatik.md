@@ -14,11 +14,16 @@ bank: "main"
 id: "B6132"
 freq_rank: 4550
 skip: false
+audio: "Symptomatik.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Symptomatik
+
+![[Symptomatik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Symptomatik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Symptomatik&language=de)
 
 **Meaning:** symptoms; symptomatology
 **Plural:** –

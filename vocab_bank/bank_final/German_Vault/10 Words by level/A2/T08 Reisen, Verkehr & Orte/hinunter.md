@@ -12,11 +12,16 @@ id: "B2893"
 netzwerk: "A2 K9 12a"
 freq_rank: 1298
 skip: false
+audio: "hinunter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinunter
+
+![[hinunter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinunter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinunter&language=de)
 
 **Meaning:** down
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

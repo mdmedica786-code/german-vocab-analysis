@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Gefahr bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Gefahr%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Gefahr%20bringen&language=de)
+
 **Meaning:** to endanger
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

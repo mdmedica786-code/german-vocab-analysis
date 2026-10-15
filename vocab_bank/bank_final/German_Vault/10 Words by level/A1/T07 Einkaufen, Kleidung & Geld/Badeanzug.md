@@ -15,11 +15,16 @@ id: "B1730"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Badeanzug.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Badeanzug
+
+![[Badeanzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Badeanzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badeanzug&language=de)
 
 **Meaning:** swimsuit
 **Plural:** Badeanzüge

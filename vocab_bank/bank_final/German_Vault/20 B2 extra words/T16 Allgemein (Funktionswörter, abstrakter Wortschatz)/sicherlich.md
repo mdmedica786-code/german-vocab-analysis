@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2448"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "sicherlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # sicherlich
+
+![[sicherlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sicherlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sicherlich&language=de)
 
 **Meaning:** surely; certainly
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

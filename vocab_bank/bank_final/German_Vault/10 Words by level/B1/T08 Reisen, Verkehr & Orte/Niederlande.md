@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Niederlande
 
+[▶️ YouGlish](https://youglish.com/pronounce/Niederlande/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niederlande&language=de)
+
 **Meaning:** Netherlands
 **Plural:** (Pl.)
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

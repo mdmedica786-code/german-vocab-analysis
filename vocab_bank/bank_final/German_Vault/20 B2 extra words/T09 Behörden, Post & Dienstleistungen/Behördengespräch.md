@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3788"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Behördengespräch
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beh%C3%B6rdengespr%C3%A4ch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beh%C3%B6rdengespr%C3%A4ch&language=de)
 
 **Meaning:** conversation with an authority; official meeting
 **Plural:** Behördengespräche

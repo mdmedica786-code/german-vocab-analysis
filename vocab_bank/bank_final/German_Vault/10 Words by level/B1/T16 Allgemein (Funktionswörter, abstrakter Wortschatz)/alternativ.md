@@ -12,11 +12,16 @@ id: "B5263"
 goethe_level: "B1"
 freq_rank: 1114
 skip: false
+audio: "alternativ.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # alternativ
+
+![[alternativ.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/alternativ/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=alternativ&language=de)
 
 **Meaning:** alternative
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

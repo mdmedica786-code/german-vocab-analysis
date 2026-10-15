@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 12b"
 freq_rank: 483
 skip: false
+audio: "steigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # steigen
+
+![[steigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/steigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=steigen&language=de)
 
 **Meaning:** to rise; to climb
 **Forms:** steigt · stieg · ist gestiegen

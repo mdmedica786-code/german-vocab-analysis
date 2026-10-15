@@ -13,11 +13,16 @@ id: "B3618"
 netzwerk: "B1 K3 4d"
 freq_rank: 4517
 skip: false
+audio: "begeistern.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # begeistern
+
+![[begeistern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begeistern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begeistern&language=de)
 
 **Meaning:** to delight, to inspire
 **Forms:** begeistert · begeisterte · hat begeistert

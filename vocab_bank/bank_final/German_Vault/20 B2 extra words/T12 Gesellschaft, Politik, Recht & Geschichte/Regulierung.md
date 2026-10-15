@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3391"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Regulierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Regulierung
+
+![[Regulierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Regulierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Regulierung&language=de)
 
 **Meaning:** regulation; control; settlement
 **Plural:** Regulierungen

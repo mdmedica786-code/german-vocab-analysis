@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a ÜB"
 freq_rank: 3754
 skip: false
+audio: "Stiefel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stiefel
+
+![[Stiefel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stiefel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stiefel&language=de)
 
 **Meaning:** boot
 **Plural:** Stiefel

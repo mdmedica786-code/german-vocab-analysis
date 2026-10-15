@@ -15,11 +15,16 @@ id: "B6052"
 goethe_level: "B1"
 freq_rank: 4100
 skip: false
+audio: "Abo.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Abo
+
+![[Abo.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abo/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abo&language=de)
 
 **Meaning:** subscription
 **Plural:** Abos

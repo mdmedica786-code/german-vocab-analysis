@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 10"
 freq_rank: 477
 skip: false
+audio: "völlig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # völlig
+
+![[völlig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/v%C3%B6llig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=v%C3%B6llig&language=de)
 
 **Meaning:** completely
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

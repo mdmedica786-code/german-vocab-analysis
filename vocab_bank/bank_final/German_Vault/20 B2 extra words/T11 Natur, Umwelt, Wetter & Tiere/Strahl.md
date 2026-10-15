@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3320"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Strahl.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Strahl
+
+![[Strahl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strahl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strahl&language=de)
 
 **Meaning:** ray; beam; jet
 **Plural:** Strahlen

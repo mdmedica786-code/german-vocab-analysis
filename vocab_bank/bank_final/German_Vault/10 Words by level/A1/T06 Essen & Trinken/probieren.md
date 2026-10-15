@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 4427
 skip: false
+audio: "probieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # probieren
+
+![[probieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/probieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=probieren&language=de)
 
 **Meaning:** to try
 **Forms:** probiert · probierte · hat probiert

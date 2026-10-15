@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das Impro-Theater
 
+[▶️ YouGlish](https://youglish.com/pronounce/Impro-Theater/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Impro-Theater&language=de)
+
 **Meaning:** improv theatre
 **Plural:** Impro-Theater
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

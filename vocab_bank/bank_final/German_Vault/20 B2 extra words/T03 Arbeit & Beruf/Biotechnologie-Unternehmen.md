@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3819"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Biotechnologie-Unternehmen
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biotechnologie-Unternehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biotechnologie-Unternehmen&language=de)
 
 **Meaning:** biotechnology company
 **Plural:** Biotechnologie-Unternehmen

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 4100
 skip: false
+audio: "Workshop.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Workshop
+
+![[Workshop.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Workshop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Workshop&language=de)
 
 **Meaning:** workshop
 **Plural:** Workshops

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0529"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Menschenrechte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Menschenrechte
+
+![[Menschenrechte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Menschenrechte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Menschenrechte&language=de)
 
 **Meaning:** human rights
 **Plural:** (Pl.)

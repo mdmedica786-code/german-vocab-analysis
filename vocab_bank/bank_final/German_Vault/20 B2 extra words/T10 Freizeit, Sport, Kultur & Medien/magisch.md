@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2767"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "magisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/adjective", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # magisch
+
+![[magisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/magisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=magisch&language=de)
 
 **Meaning:** magical
 **Level:** B2 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

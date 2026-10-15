@@ -15,11 +15,16 @@ id: "B5444"
 goethe_level: "B1"
 freq_rank: 1991
 skip: false
+audio: "Muskel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Muskel
+
+![[Muskel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Muskel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muskel&language=de)
 
 **Meaning:** muscle
 **Plural:** Muskeln

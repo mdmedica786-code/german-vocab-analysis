@@ -15,11 +15,16 @@ id: "B0416"
 netzwerk: "A1 K2 12b"
 freq_rank: 5759
 skip: false
+audio: "Hausnummer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hausnummer
+
+![[Hausnummer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausnummer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausnummer&language=de)
 
 **Meaning:** house number
 **Plural:** Hausnummern

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Online-Shop
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Shop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Shop&language=de)
+
 **Meaning:** online shop
 **Plural:** Online-Shops
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

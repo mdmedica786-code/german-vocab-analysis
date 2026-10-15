@@ -15,11 +15,16 @@ id: "B1634"
 netzwerk: "A1 K11 10a"
 freq_rank: 5759
 skip: false
+audio: "Bademode.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bademode
+
+![[Bademode.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bademode/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bademode&language=de)
 
 **Meaning:** swimwear
 **Plural:** Bademoden

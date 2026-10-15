@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2461"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "systematisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # systematisch
+
+![[systematisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/systematisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=systematisch&language=de)
 
 **Meaning:** systematic
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

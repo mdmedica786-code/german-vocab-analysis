@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K9 5a"
 freq_rank: 306
 skip: false
+audio: "deshalb.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # deshalb
+
+![[deshalb.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/deshalb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=deshalb&language=de)
 
 **Meaning:** therefore
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

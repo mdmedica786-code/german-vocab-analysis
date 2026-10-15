@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3579"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Gewinnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gewinnung
+
+![[Gewinnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewinnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewinnung&language=de)
 
 **Meaning:** extraction; obtaining; gaining
 **Plural:** –

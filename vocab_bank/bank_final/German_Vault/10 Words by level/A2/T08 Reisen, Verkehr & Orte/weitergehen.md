@@ -13,11 +13,16 @@ id: "B2569"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 3887
 skip: false
+audio: "weitergehen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # weitergehen
+
+![[weitergehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weitergehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weitergehen&language=de)
 
 **Meaning:** to continue
 **Forms:** geht weiter · ging weiter · ist weitergegangen

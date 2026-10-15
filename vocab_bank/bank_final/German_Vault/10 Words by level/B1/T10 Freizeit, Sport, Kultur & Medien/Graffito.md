@@ -15,11 +15,16 @@ id: "B4557"
 netzwerk: "B1 K9 1b"
 freq_rank: 5759
 skip: false
+audio: "Graffito.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Graffito
+
+![[Graffito.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Graffito/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Graffito&language=de)
 
 **Meaning:** graffito (single graffiti)
 **Plural:** Graffiti

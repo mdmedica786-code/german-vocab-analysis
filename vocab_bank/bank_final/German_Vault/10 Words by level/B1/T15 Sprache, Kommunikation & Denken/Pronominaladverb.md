@@ -15,11 +15,16 @@ id: "B3813"
 netzwerk: "B1 K4 9b"
 freq_rank: 9999
 skip: false
+audio: "Pronominaladverb.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pronominaladverb
+
+![[Pronominaladverb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pronominaladverb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pronominaladverb&language=de)
 
 **Meaning:** pronominal adverb
 **Plural:** Pronominaladverbien

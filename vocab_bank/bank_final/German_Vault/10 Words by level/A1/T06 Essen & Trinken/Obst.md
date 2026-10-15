@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9a"
 freq_rank: 3867
 skip: false
+audio: "Obst.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Obst
+
+![[Obst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Obst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Obst&language=de)
 
 **Meaning:** fruit
 **Plural:** –

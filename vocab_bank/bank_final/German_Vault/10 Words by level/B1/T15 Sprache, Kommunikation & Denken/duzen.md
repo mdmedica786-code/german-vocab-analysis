@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 5759
 skip: false
+audio: "duzen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # duzen
+
+![[duzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/duzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=duzen&language=de)
 
 **Meaning:** to use the informal greeting
 **Forms:** duzt · duzte · hat geduzt

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 3b ÜB"
 freq_rank: 1245
 skip: false
+audio: "angeben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # angeben
+
+![[angeben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/angeben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=angeben&language=de)
 
 **Meaning:** to state
 **Forms:** gibt an · gab an · hat angegeben

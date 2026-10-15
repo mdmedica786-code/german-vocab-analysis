@@ -14,11 +14,16 @@ bank: "main"
 id: "B5875"
 freq_rank: 3245
 skip: false
+audio: "Niere.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Niere
+
+![[Niere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Niere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Niere&language=de)
 
 **Meaning:** kidney
 **Plural:** Nieren

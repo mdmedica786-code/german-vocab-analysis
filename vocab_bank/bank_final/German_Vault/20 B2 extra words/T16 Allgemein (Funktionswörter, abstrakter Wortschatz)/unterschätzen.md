@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0907"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "unterschätzen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterschätzen
+
+![[unterschätzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/untersch%C3%A4tzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=untersch%C3%A4tzen&language=de)
 
 **Meaning:** to underestimate
 **Forms:** unterschätzt · unterschätzte · hat unterschätzt

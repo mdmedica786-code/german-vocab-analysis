@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K7 11a"
 freq_rank: 5171
 skip: false
+audio: "Gewitter.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gewitter
+
+![[Gewitter.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewitter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewitter&language=de)
 
 **Meaning:** thunderstorm
 **Plural:** Gewitter

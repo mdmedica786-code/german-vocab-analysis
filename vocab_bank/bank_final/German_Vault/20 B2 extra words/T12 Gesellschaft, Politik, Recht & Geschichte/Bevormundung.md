@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1860"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Bevormundung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bevormundung
+
+![[Bevormundung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bevormundung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bevormundung&language=de)
 
 **Meaning:** paternalism; being treated like a child
 **Plural:** Bevormundungen

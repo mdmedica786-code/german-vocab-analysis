@@ -15,11 +15,16 @@ id: "B2965"
 netzwerk: "A2 K10 5d"
 freq_rank: 588
 skip: false
+audio: "Veränderung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Veränderung
+
+![[Veränderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ver%C3%A4nderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ver%C3%A4nderung&language=de)
 
 **Meaning:** change
 **Plural:** Veränderungen

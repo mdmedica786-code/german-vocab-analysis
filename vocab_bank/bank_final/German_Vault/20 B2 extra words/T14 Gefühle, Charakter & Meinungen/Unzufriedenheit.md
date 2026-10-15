@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1167"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Unzufriedenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Unzufriedenheit
+
+![[Unzufriedenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Unzufriedenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Unzufriedenheit&language=de)
 
 **Meaning:** dissatisfaction
 **Plural:** –

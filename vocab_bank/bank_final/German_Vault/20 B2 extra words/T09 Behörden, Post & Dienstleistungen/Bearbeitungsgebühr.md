@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1040"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Bearbeitungsgebühr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bearbeitungsgebühr
+
+![[Bearbeitungsgebühr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bearbeitungsgeb%C3%BChr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bearbeitungsgeb%C3%BChr&language=de)
 
 **Meaning:** processing fee
 **Plural:** Bearbeitungsgebühren

@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 11a"
 freq_rank: 881
 skip: false
+audio: "schlimm.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlimm
+
+![[schlimm.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlimm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlimm&language=de)
 
 **Meaning:** bad
 **Forms:** schlimmer – am schlimmsten

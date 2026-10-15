@@ -12,11 +12,16 @@ id: "B4422"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "beschildert.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschildert
+
+![[beschildert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschildert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschildert&language=de)
 
 **Meaning:** signposted
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

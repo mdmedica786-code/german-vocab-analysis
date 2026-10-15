@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Gewicht legen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gewicht%20legen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewicht%20legen&language=de)
+
 **Meaning:** to place weight (on)
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1419"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Taschenlampe.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taschenlampe
+
+![[Taschenlampe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taschenlampe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taschenlampe&language=de)
 
 **Meaning:** torch; flashlight
 **Plural:** Taschenlampen

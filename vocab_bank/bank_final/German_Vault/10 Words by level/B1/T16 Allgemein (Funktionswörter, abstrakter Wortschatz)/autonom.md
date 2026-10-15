@@ -12,11 +12,16 @@ id: "B4120"
 netzwerk: "B1 K6 7b"
 freq_rank: 5759
 skip: false
+audio: "autonom.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # autonom
+
+![[autonom.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/autonom/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=autonom&language=de)
 
 **Meaning:** autonomous
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1463"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Strömung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strömung
+
+![[Strömung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Str%C3%B6mung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Str%C3%B6mung&language=de)
 
 **Meaning:** current; trend (movement)
 **Plural:** Strömungen

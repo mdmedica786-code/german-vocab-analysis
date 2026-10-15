@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1489"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Gegenseitigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gegenseitigkeit
+
+![[Gegenseitigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegenseitigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegenseitigkeit&language=de)
 
 **Meaning:** reciprocity; mutuality
 **Plural:** –

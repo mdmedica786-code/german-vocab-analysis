@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1413"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Schiedsrichter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schiedsrichter
+
+![[Schiedsrichter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schiedsrichter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schiedsrichter&language=de)
 
 **Meaning:** referee; umpire
 **Plural:** Schiedsrichter

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0464"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Tarifverhandlung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tarifverhandlung
+
+![[Tarifverhandlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tarifverhandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tarifverhandlung&language=de)
 
 **Meaning:** collective bargaining (talks)
 **Plural:** Tarifverhandlungen

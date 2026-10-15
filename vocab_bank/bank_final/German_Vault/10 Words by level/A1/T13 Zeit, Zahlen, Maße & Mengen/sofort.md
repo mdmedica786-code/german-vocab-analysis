@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 8c"
 freq_rank: 341
 skip: false
+audio: "sofort.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sofort
+
+![[sofort.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sofort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sofort&language=de)
 
 **Meaning:** immediately
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

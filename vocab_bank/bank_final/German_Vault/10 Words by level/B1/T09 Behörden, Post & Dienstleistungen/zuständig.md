@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 1457
 skip: false
+audio: "zuständig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuständig
+
+![[zuständig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zust%C3%A4ndig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zust%C3%A4ndig&language=de)
 
 **Meaning:** responsible
 **Level:** B1 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

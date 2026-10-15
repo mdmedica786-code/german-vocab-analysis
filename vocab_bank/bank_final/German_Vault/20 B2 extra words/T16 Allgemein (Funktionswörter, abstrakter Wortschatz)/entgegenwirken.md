@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0251"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "entgegenwirken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # entgegenwirken
+
+![[entgegenwirken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entgegenwirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entgegenwirken&language=de)
 
 **Meaning:** to counteract
 **Forms:** wirkt entgegen · wirkte entgegen · hat entgegengewirkt

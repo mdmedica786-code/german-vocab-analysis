@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2826"
 exam_use: ["Alltag", "Medien"]
 skip: false
+audio: "Amerikaner.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Amerikaner
+
+![[Amerikaner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Amerikaner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Amerikaner&language=de)
 
 **Meaning:** American
 **Plural:** Amerikaner

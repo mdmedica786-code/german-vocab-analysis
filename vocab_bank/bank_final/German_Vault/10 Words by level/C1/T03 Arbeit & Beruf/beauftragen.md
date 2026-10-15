@@ -12,11 +12,16 @@ bank: "main"
 id: "B6138"
 freq_rank: 4574
 skip: false
+audio: "beauftragen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beauftragen
+
+![[beauftragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beauftragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beauftragen&language=de)
 
 **Meaning:** to commission; to instruct
 **Forms:** beauftragt · beauftragte · hat beauftragt

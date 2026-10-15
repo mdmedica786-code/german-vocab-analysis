@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3987"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Gegnerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gegnerin
+
+![[Gegnerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gegnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gegnerin&language=de)
 
 **Meaning:** opponent (female); adversary
 **Plural:** Gegnerinnen

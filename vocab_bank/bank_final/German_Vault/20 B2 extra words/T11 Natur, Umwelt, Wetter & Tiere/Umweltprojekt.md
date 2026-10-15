@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4522"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Umweltprojekt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Umweltprojekt
+
+![[Umweltprojekt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltprojekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltprojekt&language=de)
 
 **Meaning:** environmental project
 **Plural:** Umweltprojekte

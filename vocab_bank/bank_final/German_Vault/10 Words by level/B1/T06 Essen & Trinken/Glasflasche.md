@@ -15,11 +15,16 @@ id: "B3936"
 netzwerk: "B1 K5 4a"
 freq_rank: 5759
 skip: false
+audio: "Glasflasche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Glasflasche
+
+![[Glasflasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Glasflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Glasflasche&language=de)
 
 **Meaning:** glass bottle
 **Plural:** Glasflaschen

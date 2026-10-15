@@ -15,11 +15,16 @@ id: "B3513"
 netzwerk: "B1 K3 1a"
 freq_rank: 886
 skip: false
+audio: "Behandlung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Behandlung
+
+![[Behandlung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Behandlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Behandlung&language=de)
 
 **Meaning:** treatment
 **Plural:** Behandlungen

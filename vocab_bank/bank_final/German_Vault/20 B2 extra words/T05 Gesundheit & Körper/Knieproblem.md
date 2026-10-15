@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4110"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Knieproblem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Knieproblem
+
+![[Knieproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Knieproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Knieproblem&language=de)
 
 **Meaning:** knee problem
 **Plural:** Knieprobleme

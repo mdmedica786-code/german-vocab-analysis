@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4029"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Hausarzt.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Hausarzt
+
+![[Hausarzt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hausarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hausarzt&language=de)
 
 **Meaning:** family doctor; GP (male)
 **Plural:** Hausärzte

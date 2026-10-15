@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3672"
 exam_use: ["Medien", "Lesen"]
 skip: false
+audio: "Tatort.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Medien", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tatort
+
+![[Tatort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tatort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tatort&language=de)
 
 **Meaning:** crime scene; scene of the crime
 **Plural:** Tatorte

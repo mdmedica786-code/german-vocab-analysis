@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0811"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "aufrichtig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufrichtig
+
+![[aufrichtig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufrichtig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufrichtig&language=de)
 
 **Meaning:** sincere; honest
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

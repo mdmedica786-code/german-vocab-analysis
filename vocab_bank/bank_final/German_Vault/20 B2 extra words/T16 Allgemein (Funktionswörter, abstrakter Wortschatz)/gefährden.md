@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2699"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "gefährden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gefährden
+
+![[gefährden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gef%C3%A4hrden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gef%C3%A4hrden&language=de)
 
 **Meaning:** to endanger; to jeopardise
 **Forms:** gefährdet · gefährdete · hat gefährdet

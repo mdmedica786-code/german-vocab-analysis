@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1383"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Vorspeise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorspeise
+
+![[Vorspeise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorspeise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorspeise&language=de)
 
 **Meaning:** starter; appetiser
 **Plural:** Vorspeisen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0752"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Kleingarten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kleingarten
+
+![[Kleingarten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleingarten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleingarten&language=de)
 
 **Meaning:** allotment garden
 **Plural:** Kleingärten

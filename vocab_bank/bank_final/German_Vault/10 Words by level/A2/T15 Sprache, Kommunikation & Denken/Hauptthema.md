@@ -15,11 +15,16 @@ id: "B2272"
 netzwerk: "A2 K4 11a"
 freq_rank: 5759
 skip: false
+audio: "Hauptthema.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hauptthema
+
+![[Hauptthema.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptthema/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptthema&language=de)
 
 **Meaning:** main topic
 **Plural:** Hauptthemen

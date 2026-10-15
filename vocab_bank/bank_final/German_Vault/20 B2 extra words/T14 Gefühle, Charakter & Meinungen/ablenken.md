@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1186"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "ablenken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ablenken
+
+![[ablenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ablenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ablenken&language=de)
 
 **Meaning:** to distract; to divert
 **Forms:** lenkt ab · lenkte ab · hat abgelenkt

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0771"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "glaubwürdig.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # glaubwürdig
+
+![[glaubwürdig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/glaubw%C3%BCrdig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=glaubw%C3%BCrdig&language=de)
 
 **Meaning:** credible; trustworthy
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

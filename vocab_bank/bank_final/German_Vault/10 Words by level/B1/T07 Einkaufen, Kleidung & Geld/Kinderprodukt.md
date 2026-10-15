@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kinderprodukt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderprodukt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderprodukt&language=de)
+
 **Meaning:** children's product
 **Plural:** Kinderprodukte
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

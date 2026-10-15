@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 4"
 freq_rank: 236
 skip: false
+audio: "zusammen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zusammen
+
+![[zusammen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zusammen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zusammen&language=de)
 
 **Meaning:** together
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1021"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Mitfahrgelegenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitfahrgelegenheit
+
+![[Mitfahrgelegenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitfahrgelegenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitfahrgelegenheit&language=de)
 
 **Meaning:** lift; ride share
 **Plural:** Mitfahrgelegenheiten

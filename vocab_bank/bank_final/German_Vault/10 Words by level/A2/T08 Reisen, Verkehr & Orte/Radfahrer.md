@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 2217
 skip: false
+audio: "Radfahrer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Radfahrer
+
+![[Radfahrer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Radfahrer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Radfahrer&language=de)
 
 **Meaning:** cyclist (m)
 **Plural:** Radfahrer

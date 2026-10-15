@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1869"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Familienplanung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Familienplanung
+
+![[Familienplanung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familienplanung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienplanung&language=de)
 
 **Meaning:** family planning
 **Plural:** –

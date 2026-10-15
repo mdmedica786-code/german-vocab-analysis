@@ -15,11 +15,16 @@ id: "B1281"
 netzwerk: "A1 K8 10b"
 freq_rank: 5759
 skip: false
+audio: "Hustensaft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hustensaft
+
+![[Hustensaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hustensaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hustensaft&language=de)
 
 **Meaning:** cough syrup
 **Plural:** Hustensäfte

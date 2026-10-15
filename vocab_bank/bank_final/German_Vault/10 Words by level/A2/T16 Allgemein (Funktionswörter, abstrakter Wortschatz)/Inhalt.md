@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 626
 skip: false
+audio: "Inhalt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Inhalt
+
+![[Inhalt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Inhalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Inhalt&language=de)
 
 **Meaning:** content
 **Plural:** Inhalte

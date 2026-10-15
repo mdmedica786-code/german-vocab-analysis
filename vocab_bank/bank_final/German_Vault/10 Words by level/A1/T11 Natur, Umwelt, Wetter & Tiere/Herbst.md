@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 10a"
 freq_rank: 2472
 skip: false
+audio: "Herbst.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Herbst
+
+![[Herbst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herbst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herbst&language=de)
 
 **Meaning:** autumn
 **Plural:** –

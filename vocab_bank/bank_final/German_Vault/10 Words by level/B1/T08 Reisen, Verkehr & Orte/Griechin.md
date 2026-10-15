@@ -15,11 +15,16 @@ id: "B6458"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Griechin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Griechin
+
+![[Griechin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Griechin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Griechin&language=de)
 
 **Meaning:** Greek (f)
 **Plural:** Griechinnen

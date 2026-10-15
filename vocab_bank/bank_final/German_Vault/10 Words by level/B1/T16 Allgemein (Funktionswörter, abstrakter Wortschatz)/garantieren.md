@@ -13,11 +13,16 @@ id: "B5916"
 goethe_level: "B1"
 freq_rank: 3510
 skip: false
+audio: "garantieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # garantieren
+
+![[garantieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/garantieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=garantieren&language=de)
 
 **Meaning:** to guarantee
 **Forms:** garantiert · garantierte · hat garantiert

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4088"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Jobmesse
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jobmesse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jobmesse&language=de)
 
 **Meaning:** job fair
 **Plural:** Jobmessen

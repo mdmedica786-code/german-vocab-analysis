@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3740"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "auffahren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # auffahren
+
+![[auffahren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auffahren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auffahren&language=de)
 
 **Meaning:** to drive into the back (of); to drive up
 **Forms:** fährt auf · fuhr auf · ist aufgefahren

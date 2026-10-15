@@ -11,11 +11,16 @@ bank: "main"
 id: "B5650"
 freq_rank: 2661
 skip: false
+audio: "zugunsten.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # zugunsten
+
+![[zugunsten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zugunsten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zugunsten&language=de)
 
 **Meaning:** in favour of
 **Case:** + Gen.

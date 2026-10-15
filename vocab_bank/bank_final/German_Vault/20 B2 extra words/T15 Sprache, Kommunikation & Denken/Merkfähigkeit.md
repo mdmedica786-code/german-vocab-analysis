@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0968"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Merkfähigkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Merkfähigkeit
+
+![[Merkfähigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Merkf%C3%A4higkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Merkf%C3%A4higkeit&language=de)
 
 **Meaning:** ability to remember; retentiveness
 **Plural:** –

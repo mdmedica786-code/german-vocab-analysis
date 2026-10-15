@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 7a"
 freq_rank: 2878
 skip: false
+audio: "Auskunft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auskunft
+
+![[Auskunft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auskunft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auskunft&language=de)
 
 **Meaning:** information
 **Plural:** Auskünfte

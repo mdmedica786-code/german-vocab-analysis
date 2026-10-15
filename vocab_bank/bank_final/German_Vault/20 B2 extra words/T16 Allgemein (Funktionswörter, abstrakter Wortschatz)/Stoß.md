@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3045"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Stoß.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stoß
+
+![[Stoß.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sto%C3%9F/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sto%C3%9F&language=de)
 
 **Meaning:** push; shock; pile
 **Plural:** Stöße

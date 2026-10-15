@@ -15,11 +15,16 @@ id: "B1535"
 netzwerk: "A1 K10 9a"
 freq_rank: 2000
 skip: false
+audio: "Nachrichten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachrichten
+
+![[Nachrichten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachrichten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichten&language=de)
 
 **Meaning:** news
 **Plural:** (Pl.)

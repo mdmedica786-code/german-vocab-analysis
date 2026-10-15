@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K12 1b"
 freq_rank: 337
 skip: false
+audio: "Gesellschaft.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gesellschaft
+
+![[Gesellschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesellschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesellschaft&language=de)
 
 **Meaning:** society
 **Plural:** Gesellschaften

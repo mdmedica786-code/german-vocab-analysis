@@ -12,11 +12,16 @@ id: "B2234"
 netzwerk: "A2 K4 9a"
 freq_rank: 5759
 skip: false
+audio: "gestresst.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gestresst
+
+![[gestresst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gestresst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gestresst&language=de)
 
 **Meaning:** stressed
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

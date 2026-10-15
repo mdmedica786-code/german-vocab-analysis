@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Konzert
 
+[▶️ YouGlish](https://youglish.com/pronounce/Konzert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konzert&language=de)
+
 **Meaning:** concert
 **Plural:** Konzerte
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

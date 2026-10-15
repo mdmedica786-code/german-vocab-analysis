@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Ich-Botschaft
 
+[▶️ YouGlish](https://youglish.com/pronounce/Ich-Botschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ich-Botschaft&language=de)
+
 **Meaning:** I-message
 **Plural:** Ich-Botschaften
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

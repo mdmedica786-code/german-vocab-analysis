@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2659"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Provinz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Provinz
+
+![[Provinz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Provinz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Provinz&language=de)
 
 **Meaning:** province; the sticks
 **Plural:** Provinzen

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 1336
 skip: false
+audio: "Aufnahme.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufnahme
+
+![[Aufnahme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufnahme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufnahme&language=de)
 
 **Meaning:** inclusion
 **Plural:** –

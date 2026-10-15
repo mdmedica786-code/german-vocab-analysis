@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # auf der Tagesordnung stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20der%20Tagesordnung%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20der%20Tagesordnung%20stehen&language=de)
+
 **Meaning:** to be on the agenda
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral
 

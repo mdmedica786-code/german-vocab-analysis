@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 2a"
 freq_rank: 4176
 skip: false
+audio: "Kollegin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kollegin
+
+![[Kollegin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kollegin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kollegin&language=de)
 
 **Meaning:** colleague (f)
 **Plural:** Kolleginnen

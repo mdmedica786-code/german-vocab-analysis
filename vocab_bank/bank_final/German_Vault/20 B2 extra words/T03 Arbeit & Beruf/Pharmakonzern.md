@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4306"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Pharmakonzern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Pharmakonzern
+
+![[Pharmakonzern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pharmakonzern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pharmakonzern&language=de)
 
 **Meaning:** pharmaceutical company
 **Plural:** Pharmakonzerne

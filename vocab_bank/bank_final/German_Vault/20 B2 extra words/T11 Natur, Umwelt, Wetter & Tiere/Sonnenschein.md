@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3432"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Sonnenschein.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonnenschein
+
+![[Sonnenschein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonnenschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonnenschein&language=de)
 
 **Meaning:** sunshine
 **Plural:** –

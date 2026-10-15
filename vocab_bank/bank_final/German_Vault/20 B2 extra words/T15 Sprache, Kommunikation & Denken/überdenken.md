@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0235"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "überdenken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # überdenken
+
+![[überdenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberdenken&language=de)
 
 **Meaning:** to reconsider; to think over
 **Forms:** überdenkt · überdachte · hat überdacht

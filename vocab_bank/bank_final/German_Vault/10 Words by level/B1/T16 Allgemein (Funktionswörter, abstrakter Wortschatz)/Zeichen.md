@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 772
 skip: false
+audio: "Zeichen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Zeichen
+
+![[Zeichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichen&language=de)
 
 **Meaning:** sign; symbol; character
 **Plural:** Zeichen

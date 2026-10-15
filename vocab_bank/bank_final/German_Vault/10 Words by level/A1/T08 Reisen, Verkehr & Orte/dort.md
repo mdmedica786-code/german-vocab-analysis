@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 157
 skip: false
+audio: "dort.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dort
+
+![[dort.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dort&language=de)
 
 **Meaning:** there
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

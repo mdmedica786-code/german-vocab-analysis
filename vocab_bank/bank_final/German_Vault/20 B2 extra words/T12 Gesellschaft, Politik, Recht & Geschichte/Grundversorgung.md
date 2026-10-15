@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1873"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Grundversorgung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grundversorgung
+
+![[Grundversorgung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundversorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundversorgung&language=de)
 
 **Meaning:** basic provision; basic supply
 **Plural:** –

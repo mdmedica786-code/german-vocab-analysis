@@ -15,11 +15,16 @@ id: "B6467"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Kakao.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kakao
+
+![[Kakao.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kakao/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kakao&language=de)
 
 **Meaning:** cocoa
 **Plural:** Kakaos

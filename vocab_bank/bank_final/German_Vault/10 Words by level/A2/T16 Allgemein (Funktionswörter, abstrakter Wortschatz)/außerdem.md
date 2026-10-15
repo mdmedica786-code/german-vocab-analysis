@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 10a"
 freq_rank: 458
 skip: false
+audio: "außerdem.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # außerdem
+
+![[außerdem.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/au%C3%9Ferdem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=au%C3%9Ferdem&language=de)
 
 **Meaning:** besides; in addition
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

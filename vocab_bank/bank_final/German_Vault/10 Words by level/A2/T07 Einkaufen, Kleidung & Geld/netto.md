@@ -12,11 +12,16 @@ id: "B3163"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 4534
 skip: false
+audio: "netto.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # netto
+
+![[netto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/netto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=netto&language=de)
 
 **Meaning:** net
 **Level:** A2 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

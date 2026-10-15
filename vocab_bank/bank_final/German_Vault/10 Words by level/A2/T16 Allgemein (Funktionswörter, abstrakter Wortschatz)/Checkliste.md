@@ -15,11 +15,16 @@ id: "B3024"
 netzwerk: "A2 K10 12b"
 freq_rank: 5759
 skip: false
+audio: "Checkliste.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Checkliste
+
+![[Checkliste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Checkliste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Checkliste&language=de)
 
 **Meaning:** checklist
 **Plural:** Checklisten

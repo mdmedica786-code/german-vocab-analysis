@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "B1 K12 5a"
 freq_rank: 3974
 skip: false
+audio: "eintragen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # eintragen
+
+![[eintragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/eintragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eintragen&language=de)
 
 **Meaning:** to enter; to register
 **Forms:** trägt ein · trug ein · hat eingetragen

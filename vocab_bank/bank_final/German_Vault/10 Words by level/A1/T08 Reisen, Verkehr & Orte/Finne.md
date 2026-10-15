@@ -15,11 +15,16 @@ id: "B6438"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Finne.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Finne
+
+![[Finne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Finne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Finne&language=de)
 
 **Meaning:** Finn (m)
 **Plural:** Finnen

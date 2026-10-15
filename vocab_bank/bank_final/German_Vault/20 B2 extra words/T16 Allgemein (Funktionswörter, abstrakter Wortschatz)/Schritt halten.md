@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Schritt halten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schritt%20halten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schritt%20halten&language=de)
+
 **Meaning:** to keep pace
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

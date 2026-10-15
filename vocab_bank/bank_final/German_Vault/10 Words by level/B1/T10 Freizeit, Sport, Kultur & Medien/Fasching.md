@@ -15,11 +15,16 @@ id: "B6428"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Fasching.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fasching
+
+![[Fasching.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fasching/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fasching&language=de)
 
 **Meaning:** carnival (Austrian, Bavarian)
 **Plural:** Fasching

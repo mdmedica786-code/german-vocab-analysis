@@ -14,11 +14,16 @@ bank: "main"
 id: "B5493"
 freq_rank: 2114
 skip: false
+audio: "Interaktion.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Interaktion
+
+![[Interaktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interaktion&language=de)
 
 **Meaning:** interaction
 **Plural:** Interaktionen

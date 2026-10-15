@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0609"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Lokalzeitung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lokalzeitung
+
+![[Lokalzeitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lokalzeitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lokalzeitung&language=de)
 
 **Meaning:** local newspaper
 **Plural:** Lokalzeitungen

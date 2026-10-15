@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3877"
 exam_use: ["Wissenschaft", "Medien"]
 skip: false
-status: "new"
+audio: "Echtzeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Wissenschaft", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Echtzeit
+
+![[Echtzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Echtzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Echtzeit&language=de)
 
 **Meaning:** real time
 **Plural:** –

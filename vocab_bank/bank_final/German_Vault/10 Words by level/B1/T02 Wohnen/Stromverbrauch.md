@@ -15,11 +15,16 @@ id: "B3997"
 netzwerk: "B1 K5 9c"
 freq_rank: 5759
 skip: false
+audio: "Stromverbrauch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stromverbrauch
+
+![[Stromverbrauch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stromverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stromverbrauch&language=de)
 
 **Meaning:** electricity consumption
 **Plural:** –

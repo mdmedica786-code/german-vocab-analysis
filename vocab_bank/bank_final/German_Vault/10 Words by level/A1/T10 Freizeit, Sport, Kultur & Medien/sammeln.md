@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 1c"
 freq_rank: 1613
 skip: false
+audio: "sammeln.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sammeln
+
+![[sammeln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sammeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sammeln&language=de)
 
 **Meaning:** to collect
 **Forms:** sammelt · sammelte · hat gesammelt

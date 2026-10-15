@@ -15,11 +15,16 @@ id: "B6592"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Vermietung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vermietung
+
+![[Vermietung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vermietung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermietung&language=de)
 
 **Meaning:** renting out; letting
 **Plural:** Vermietungen

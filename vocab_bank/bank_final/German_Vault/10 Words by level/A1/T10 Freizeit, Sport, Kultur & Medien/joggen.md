@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 2a"
 freq_rank: 5759
 skip: false
+audio: "joggen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # joggen
+
+![[joggen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/joggen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=joggen&language=de)
 
 **Meaning:** to jog
 **Forms:** joggt · joggte · ist/hat gejoggt

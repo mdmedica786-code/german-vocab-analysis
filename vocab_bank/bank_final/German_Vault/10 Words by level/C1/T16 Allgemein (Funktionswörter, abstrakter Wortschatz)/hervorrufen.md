@@ -12,11 +12,16 @@ bank: "main"
 id: "B5827"
 freq_rank: 3034
 skip: false
+audio: "hervorrufen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hervorrufen
+
+![[hervorrufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hervorrufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hervorrufen&language=de)
 
 **Meaning:** to cause; to evoke
 **Forms:** ruft hervor · rief hervor · hat hervorgerufen

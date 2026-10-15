@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1767"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Sozialversicherung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sozialversicherung
+
+![[Sozialversicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialversicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialversicherung&language=de)
 
 **Meaning:** social insurance
 **Plural:** Sozialversicherungen

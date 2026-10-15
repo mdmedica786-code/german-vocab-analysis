@@ -13,11 +13,16 @@ id: "B3462"
 netzwerk: "B1 K2 7b"
 freq_rank: 661
 skip: false
+audio: "entsprechen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entsprechen
+
+![[entsprechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entsprechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entsprechen&language=de)
 
 **Meaning:** to correspond
 **Forms:** entspricht · entsprach · hat entsprochen

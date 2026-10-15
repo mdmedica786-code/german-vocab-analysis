@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1797"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "sehnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # sehnen
+
+![[sehnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sehnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sehnen&language=de)
 
 **Meaning:** to long (for)
 **Forms:** sehnt sich · sehnte sich · hat sich gesehnt

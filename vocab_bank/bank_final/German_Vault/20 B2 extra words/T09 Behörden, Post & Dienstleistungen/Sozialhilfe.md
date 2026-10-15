@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0539"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Sozialhilfe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sozialhilfe
+
+![[Sozialhilfe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialhilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialhilfe&language=de)
 
 **Meaning:** social assistance
 **Plural:** –

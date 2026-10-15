@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K10 13a"
 freq_rank: 5759
 skip: false
+audio: "Händlerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Händlerin
+
+![[Händlerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%A4ndlerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%A4ndlerin&language=de)
 
 **Meaning:** merchant (f)
 **Plural:** Händlerinnen

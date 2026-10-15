@@ -15,11 +15,16 @@ id: "B3678"
 netzwerk: "B1 K3 10b"
 freq_rank: 5759
 skip: false
+audio: "Gastgeberin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gastgeberin
+
+![[Gastgeberin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gastgeberin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gastgeberin&language=de)
 
 **Meaning:** host (f)
 **Plural:** Gastgeberinnen

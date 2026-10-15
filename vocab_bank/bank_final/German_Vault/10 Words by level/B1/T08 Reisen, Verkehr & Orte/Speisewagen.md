@@ -15,11 +15,16 @@ id: "B6555"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Speisewagen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Speisewagen
+
+![[Speisewagen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Speisewagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Speisewagen&language=de)
 
 **Meaning:** dining car
 **Plural:** Speisewagen

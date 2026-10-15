@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K6 9b"
 freq_rank: 369
 skip: false
+audio: "häufig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # häufig
+
+![[häufig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/h%C3%A4ufig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=h%C3%A4ufig&language=de)
 
 **Meaning:** often
 **Forms:** häufiger – am häufigsten

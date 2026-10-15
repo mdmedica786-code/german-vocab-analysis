@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3503"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Laie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Laie
+
+![[Laie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laie&language=de)
 
 **Meaning:** layperson; amateur
 **Plural:** Laien

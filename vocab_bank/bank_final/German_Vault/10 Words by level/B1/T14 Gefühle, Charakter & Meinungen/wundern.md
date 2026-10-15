@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 13a"
 freq_rank: 2070
 skip: false
+audio: "wundern.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wundern
+
+![[wundern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wundern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wundern&language=de)
 
 **Meaning:** to be surprised; to wonder
 **Forms:** wundert sich · wunderte sich · hat sich gewundert

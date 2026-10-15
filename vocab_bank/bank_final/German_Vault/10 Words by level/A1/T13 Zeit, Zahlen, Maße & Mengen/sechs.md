@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 6a"
 freq_rank: 830
 skip: false
+audio: "sechs.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # sechs
+
+![[sechs.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sechs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sechs&language=de)
 
 **Meaning:** six
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

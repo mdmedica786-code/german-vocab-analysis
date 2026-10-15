@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0608"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Leserbrief.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Leserbrief
+
+![[Leserbrief.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leserbrief/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leserbrief&language=de)
 
 **Meaning:** letter to the editor
 **Plural:** Leserbriefe

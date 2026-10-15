@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3062"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "Verstärkung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verstärkung
+
+![[Verstärkung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verst%C3%A4rkung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verst%C3%A4rkung&language=de)
 
 **Meaning:** reinforcement; amplification
 **Plural:** Verstärkungen

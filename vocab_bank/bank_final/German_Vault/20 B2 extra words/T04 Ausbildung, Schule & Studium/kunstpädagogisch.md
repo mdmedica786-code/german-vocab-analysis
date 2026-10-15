@@ -11,11 +11,13 @@ bank: "b2"
 id: "D4161"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/adjective", "exam/Wissenschaft", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # kunstpädagogisch
+
+[▶️ YouGlish](https://youglish.com/pronounce/kunstp%C3%A4dagogisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kunstp%C3%A4dagogisch&language=de)
 
 **Meaning:** relating to art education
 **Level:** B2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

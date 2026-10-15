@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3617"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Versöhnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Versöhnung
+
+![[Versöhnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vers%C3%B6hnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vers%C3%B6hnung&language=de)
 
 **Meaning:** reconciliation
 **Plural:** –

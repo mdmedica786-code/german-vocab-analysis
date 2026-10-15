@@ -15,11 +15,16 @@ id: "B1741"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Schlafsack.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schlafsack
+
+![[Schlafsack.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schlafsack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schlafsack&language=de)
 
 **Meaning:** sleeping bag
 **Plural:** Schlafsäcke

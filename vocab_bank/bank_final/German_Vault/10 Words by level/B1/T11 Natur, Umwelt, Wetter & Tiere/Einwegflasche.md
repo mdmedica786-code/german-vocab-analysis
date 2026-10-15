@@ -15,11 +15,16 @@ id: "B3943"
 netzwerk: "B1 K5 4b"
 freq_rank: 5759
 skip: false
+audio: "Einwegflasche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einwegflasche
+
+![[Einwegflasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einwegflasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einwegflasche&language=de)
 
 **Meaning:** disposable bottle
 **Plural:** Einwegflaschen

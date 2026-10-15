@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 3c"
 freq_rank: 3683
 skip: false
+audio: "Dusche.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Dusche
+
+![[Dusche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dusche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dusche&language=de)
 
 **Meaning:** shower
 **Plural:** Duschen

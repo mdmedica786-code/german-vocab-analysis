@@ -15,11 +15,16 @@ id: "B5245"
 goethe_level: "B1"
 freq_rank: 1022
 skip: false
+audio: "Kreis.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kreis
+
+![[Kreis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreis&language=de)
 
 **Meaning:** circle; district
 **Plural:** Kreise

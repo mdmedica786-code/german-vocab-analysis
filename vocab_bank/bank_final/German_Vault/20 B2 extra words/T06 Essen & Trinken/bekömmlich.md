@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2362"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "bekömmlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # bekömmlich
+
+![[bekömmlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bek%C3%B6mmlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bek%C3%B6mmlich&language=de)
 
 **Meaning:** easily digestible; wholesome
 **Level:** B2 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

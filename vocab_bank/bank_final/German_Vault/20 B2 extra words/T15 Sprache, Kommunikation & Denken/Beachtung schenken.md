@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Beachtung schenken
 
+[▶️ YouGlish](https://youglish.com/pronounce/Beachtung%20schenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beachtung%20schenken&language=de)
+
 **Meaning:** to pay attention
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

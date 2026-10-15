@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1462"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Lösungsansatz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lösungsansatz
+
+![[Lösungsansatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6sungsansatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6sungsansatz&language=de)
 
 **Meaning:** approach to a solution
 **Plural:** Lösungsansätze

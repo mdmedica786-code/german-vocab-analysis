@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 11a"
 freq_rank: 188
 skip: false
+audio: "Blick.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Blick
+
+![[Blick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blick&language=de)
 
 **Meaning:** view
 **Plural:** Blicke

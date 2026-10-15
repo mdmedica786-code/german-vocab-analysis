@@ -13,11 +13,16 @@ id: "B2654"
 netzwerk: "A2 K8 1b"
 freq_rank: 2289
 skip: false
+audio: "bearbeiten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bearbeiten
+
+![[bearbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bearbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bearbeiten&language=de)
 
 **Meaning:** to edit
 **Forms:** bearbeitet · bearbeitete · hat bearbeitet

@@ -15,11 +15,16 @@ id: "B1610"
 netzwerk: "A1 K11 4b"
 freq_rank: 5759
 skip: false
+audio: "Sweatshirt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sweatshirt
+
+![[Sweatshirt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sweatshirt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sweatshirt&language=de)
 
 **Meaning:** sweatshirt
 **Plural:** Sweatshirts

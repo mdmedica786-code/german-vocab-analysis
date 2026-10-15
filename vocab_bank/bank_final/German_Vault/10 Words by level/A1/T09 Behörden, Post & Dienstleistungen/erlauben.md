@@ -13,11 +13,16 @@ id: "B5228"
 goethe_level: "A1"
 freq_rank: 959
 skip: false
+audio: "erlauben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erlauben
+
+![[erlauben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erlauben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erlauben&language=de)
 
 **Meaning:** to allow; to permit
 **Forms:** erlaubt · erlaubte · hat erlaubt

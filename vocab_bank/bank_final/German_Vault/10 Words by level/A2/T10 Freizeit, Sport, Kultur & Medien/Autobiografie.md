@@ -15,11 +15,16 @@ id: "B2146"
 netzwerk: "A2 K3 12b"
 freq_rank: 5759
 skip: false
+audio: "Autobiografie.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Autobiografie
+
+![[Autobiografie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autobiografie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autobiografie&language=de)
 
 **Meaning:** autobiography
 **Plural:** Autobiografien

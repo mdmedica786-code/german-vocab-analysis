@@ -15,11 +15,16 @@ id: "B2003"
 netzwerk: "A2 K2 7a"
 freq_rank: 5713
 skip: false
+audio: "Gärtner.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gärtner
+
+![[Gärtner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/G%C3%A4rtner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=G%C3%A4rtner&language=de)
 
 **Meaning:** gardener (m)
 **Plural:** Gärtner

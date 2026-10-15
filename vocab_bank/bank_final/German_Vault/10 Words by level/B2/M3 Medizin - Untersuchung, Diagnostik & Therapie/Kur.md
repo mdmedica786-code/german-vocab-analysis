@@ -14,11 +14,16 @@ bank: "main"
 id: "B6480"
 freq_rank: 5759
 skip: false
+audio: "Kur.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kur
+
+![[Kur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kur&language=de)
 
 **Meaning:** spa treatment; cure
 **Plural:** Kuren

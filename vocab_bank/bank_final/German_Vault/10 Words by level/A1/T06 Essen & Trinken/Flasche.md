@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 1a"
 freq_rank: 1535
 skip: false
+audio: "Flasche (8).wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Flasche
+
+![[Flasche (8).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flasche&language=de)
 
 **Meaning:** bottle
 **Plural:** Flaschen

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0762"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "empfindlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # empfindlich
+
+![[empfindlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/empfindlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=empfindlich&language=de)
 
 **Meaning:** sensitive; delicate; severe
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 13a"
 freq_rank: 1526
 skip: false
+audio: "stattfinden.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stattfinden
+
+![[stattfinden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stattfinden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stattfinden&language=de)
 
 **Meaning:** to take place
 **Forms:** findet statt · fand statt · hat stattgefunden

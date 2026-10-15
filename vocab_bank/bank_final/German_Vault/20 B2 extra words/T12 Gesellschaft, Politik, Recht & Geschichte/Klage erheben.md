@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Klage erheben
 
+[▶️ YouGlish](https://youglish.com/pronounce/Klage%20erheben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Klage%20erheben&language=de)
+
 **Meaning:** to bring an action; to sue
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

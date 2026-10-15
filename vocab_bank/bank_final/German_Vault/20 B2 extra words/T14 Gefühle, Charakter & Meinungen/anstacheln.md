@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0847"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "anstacheln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anstacheln
+
+![[anstacheln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anstacheln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstacheln&language=de)
 
 **Meaning:** to spur on; to incite
 **Forms:** stachelt an · stachelte an · hat angestachelt

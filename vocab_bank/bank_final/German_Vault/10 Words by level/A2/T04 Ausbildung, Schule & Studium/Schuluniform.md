@@ -15,11 +15,16 @@ id: "B1990"
 netzwerk: "A2 K2 3a"
 freq_rank: 5759
 skip: false
+audio: "Schuluniform.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schuluniform
+
+![[Schuluniform.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schuluniform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schuluniform&language=de)
 
 **Meaning:** school uniform
 **Plural:** Schuluniformen

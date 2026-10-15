@@ -15,11 +15,16 @@ id: "B4644"
 netzwerk: "B1 K9 7b"
 freq_rank: 5759
 skip: false
+audio: "Upcycling.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Upcycling
+
+![[Upcycling.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Upcycling/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Upcycling&language=de)
 
 **Meaning:** upcycling
 **Plural:** –

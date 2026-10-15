@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # weg
 
+[▶️ YouGlish](https://youglish.com/pronounce/weg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weg&language=de)
+
 **Meaning:** away; gone
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

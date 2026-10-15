@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2523"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "bedeutend.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedeutend
+
+![[bedeutend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedeutend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedeutend&language=de)
 
 **Meaning:** significant; important
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

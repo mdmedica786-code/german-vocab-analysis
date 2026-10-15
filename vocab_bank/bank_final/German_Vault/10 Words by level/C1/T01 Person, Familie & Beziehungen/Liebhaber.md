@@ -14,11 +14,16 @@ bank: "main"
 id: "B6076"
 freq_rank: 4208
 skip: false
+audio: "Liebhaber.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Liebhaber
+
+![[Liebhaber.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liebhaber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebhaber&language=de)
 
 **Meaning:** lover; enthusiast
 **Plural:** Liebhaber

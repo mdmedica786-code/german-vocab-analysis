@@ -14,11 +14,16 @@ bank: "main"
 id: "B5828"
 freq_rank: 3045
 skip: false
+audio: "Archiv.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Archiv
+
+![[Archiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Archiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Archiv&language=de)
 
 **Meaning:** archive
 **Plural:** Archive

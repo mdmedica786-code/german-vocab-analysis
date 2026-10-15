@@ -15,11 +15,16 @@ id: "B6073"
 goethe_level: "B1"
 freq_rank: 4188
 skip: false
+audio: "Gewerkschaft.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gewerkschaft
+
+![[Gewerkschaft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewerkschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewerkschaft&language=de)
 
 **Meaning:** trade union
 **Plural:** Gewerkschaften

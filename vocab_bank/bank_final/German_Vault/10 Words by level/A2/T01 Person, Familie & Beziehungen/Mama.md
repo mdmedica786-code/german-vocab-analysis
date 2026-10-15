@@ -15,11 +15,16 @@ id: "B2565"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 1500
 skip: false
+audio: "Mama.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mama
+
+![[Mama.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mama/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mama&language=de)
 
 **Meaning:** mum
 **Plural:** Mamas

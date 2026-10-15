@@ -13,11 +13,16 @@ id: "B1624"
 netzwerk: "A1 K11 4b"
 freq_rank: 5759
 skip: false
+audio: "zurückschicken.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurückschicken
+
+![[zurückschicken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckschicken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckschicken&language=de)
 
 **Meaning:** to send back
 **Forms:** schickt zurück · schickte zurück · hat zurückgeschickt

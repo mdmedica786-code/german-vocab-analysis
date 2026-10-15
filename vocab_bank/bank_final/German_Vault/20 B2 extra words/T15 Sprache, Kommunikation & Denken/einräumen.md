@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0218"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "einräumen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einräumen
+
+![[einräumen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einr%C3%A4umen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einr%C3%A4umen&language=de)
 
 **Meaning:** to admit; to concede; to grant
 **Forms:** räumt ein · räumte ein · hat eingeräumt

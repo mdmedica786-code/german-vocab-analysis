@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Wellness-Bereich
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wellness-Bereich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wellness-Bereich&language=de)
+
 **Meaning:** spa area
 **Plural:** Wellness-Bereiche
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

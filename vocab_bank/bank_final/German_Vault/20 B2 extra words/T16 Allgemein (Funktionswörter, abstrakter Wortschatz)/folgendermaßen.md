@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2917"
 exam_use: ["Schreiben", "Hören"]
 skip: false
+audio: "folgendermaßen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # folgendermaßen
+
+![[folgendermaßen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/folgenderma%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=folgenderma%C3%9Fen&language=de)
 
 **Meaning:** as follows; in the following way
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

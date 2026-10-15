@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4230"
 exam_use: ["Alltag", "Hören"]
 skip: false
-status: "new"
+audio: "Mikrofon.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Mikrofon
+
+![[Mikrofon.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mikrofon/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mikrofon&language=de)
 
 **Meaning:** microphone
 **Plural:** Mikrofone

@@ -15,11 +15,16 @@ id: "B6041"
 goethe_level: "B1"
 freq_rank: 4064
 skip: false
+audio: "Mehl.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Mehl
+
+![[Mehl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehl&language=de)
 
 **Meaning:** flour
 **Plural:** –

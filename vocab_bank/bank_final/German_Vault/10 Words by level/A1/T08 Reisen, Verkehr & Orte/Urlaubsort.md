@@ -15,11 +15,16 @@ id: "B1863"
 netzwerk: "A1 K12 12b"
 freq_rank: 5759
 skip: false
+audio: "Urlaubsort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Urlaubsort
+
+![[Urlaubsort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Urlaubsort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Urlaubsort&language=de)
 
 **Meaning:** holiday resort
 **Plural:** Urlaubsorte

@@ -15,11 +15,16 @@ id: "B4086"
 netzwerk: "B1 K6 1a"
 freq_rank: 5759
 skip: false
+audio: "Wohnanlage.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wohnanlage
+
+![[Wohnanlage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnanlage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnanlage&language=de)
 
 **Meaning:** residential complex
 **Plural:** Wohnanlagen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4081"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Internetnutzung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Internetnutzung
+
+![[Internetnutzung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Internetnutzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Internetnutzung&language=de)
 
 **Meaning:** internet use
 **Plural:** –

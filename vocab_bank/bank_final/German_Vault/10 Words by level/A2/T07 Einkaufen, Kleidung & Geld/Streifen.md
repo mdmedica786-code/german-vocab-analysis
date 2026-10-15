@@ -15,11 +15,16 @@ id: "B2904"
 netzwerk: "A2 K9 12a"
 freq_rank: 2121
 skip: false
+audio: "Streifen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Streifen
+
+![[Streifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Streifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Streifen&language=de)
 
 **Meaning:** strip; stripe
 **Plural:** Streifen

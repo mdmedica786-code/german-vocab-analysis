@@ -15,11 +15,16 @@ id: "B2047"
 netzwerk: "A2 K2 11b"
 freq_rank: 5759
 skip: false
+audio: "Arztpraxis.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Arztpraxis
+
+![[Arztpraxis.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arztpraxis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztpraxis&language=de)
 
 **Meaning:** doctor's office
 **Plural:** Arztpraxen

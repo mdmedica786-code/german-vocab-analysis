@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3b"
 freq_rank: 4291
 skip: false
+audio: "Getränk.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Getränk
+
+![[Getränk.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Getr%C3%A4nk/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Getr%C3%A4nk&language=de)
 
 **Meaning:** drink
 **Plural:** Getränke

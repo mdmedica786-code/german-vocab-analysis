@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3941"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "Fettnäpfchen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Fettnäpfchen
+
+![[Fettnäpfchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fettn%C3%A4pfchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fettn%C3%A4pfchen&language=de)
 
 **Meaning:** faux pas; social blunder (ins Fettnäpfchen treten)
 **Plural:** Fettnäpfchen

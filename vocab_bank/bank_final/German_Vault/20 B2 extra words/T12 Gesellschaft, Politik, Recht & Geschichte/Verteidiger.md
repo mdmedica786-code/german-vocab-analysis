@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0504"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Verteidiger.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verteidiger
+
+![[Verteidiger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verteidiger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verteidiger&language=de)
 
 **Meaning:** defence lawyer
 **Plural:** Verteidiger

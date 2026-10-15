@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1832"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "spezialisieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # spezialisieren
+
+![[spezialisieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/spezialisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=spezialisieren&language=de)
 
 **Meaning:** to specialise
 **Forms:** spezialisiert sich · spezialisierte sich · hat sich spezialisiert

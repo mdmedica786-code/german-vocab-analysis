@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2378"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "frostig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/adjective", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # frostig
+
+![[frostig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/frostig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=frostig&language=de)
 
 **Meaning:** frosty; chilly
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral

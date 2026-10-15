@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K11 1b"
 freq_rank: 5611
 skip: false
+audio: "Schmutz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schmutz
+
+![[Schmutz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schmutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schmutz&language=de)
 
 **Meaning:** dirt
 **Plural:** –

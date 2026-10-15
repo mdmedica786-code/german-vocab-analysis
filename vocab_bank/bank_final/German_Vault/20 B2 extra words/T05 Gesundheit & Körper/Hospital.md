@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4058"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Hospital.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Hospital
+
+![[Hospital.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hospital/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hospital&language=de)
 
 **Meaning:** hospital (older/formal word)
 **Plural:** Hospitäler

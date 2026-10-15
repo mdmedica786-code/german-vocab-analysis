@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der
 
+[▶️ YouGlish](https://youglish.com/pronounce/der/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=der&language=de)
+
 **Meaning:** the (definite article, masculine)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

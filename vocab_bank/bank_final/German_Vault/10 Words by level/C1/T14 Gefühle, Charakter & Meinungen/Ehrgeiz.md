@@ -14,11 +14,16 @@ bank: "main"
 id: "B6247"
 freq_rank: 5093
 skip: false
+audio: "Ehrgeiz.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ehrgeiz
+
+![[Ehrgeiz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehrgeiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehrgeiz&language=de)
 
 **Meaning:** ambition
 **Plural:** –

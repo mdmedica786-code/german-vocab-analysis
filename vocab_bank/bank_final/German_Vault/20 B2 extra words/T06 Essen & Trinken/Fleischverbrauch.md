@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3949"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Fleischverbrauch
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fleischverbrauch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fleischverbrauch&language=de)
 
 **Meaning:** meat consumption
 **Plural:** –

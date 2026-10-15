@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "B1 K3 3c"
 freq_rank: 1289
 skip: false
+audio: "lokal.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # lokal
+
+![[lokal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lokal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lokal&language=de)
 
 **Meaning:** local
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

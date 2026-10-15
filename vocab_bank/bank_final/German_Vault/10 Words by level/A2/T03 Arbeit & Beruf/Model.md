@@ -15,11 +15,16 @@ id: "B6100"
 goethe_level: "A2"
 freq_rank: 4354
 skip: false
+audio: "Model.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Model
+
+![[Model.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Model/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Model&language=de)
 
 **Meaning:** fashion model
 **Plural:** Models

@@ -15,11 +15,16 @@ id: "B1325"
 netzwerk: "A1 K8 13a"
 freq_rank: 1107
 skip: false
+audio: "Strategie.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Strategie
+
+![[Strategie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Strategie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Strategie&language=de)
 
 **Meaning:** strategy
 **Plural:** Strategien

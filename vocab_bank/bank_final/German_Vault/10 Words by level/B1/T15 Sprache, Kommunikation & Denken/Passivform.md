@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Passivform
 
+[▶️ YouGlish](https://youglish.com/pronounce/Passivform/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passivform&language=de)
+
 **Meaning:** passive form
 **Plural:** Passivformen
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

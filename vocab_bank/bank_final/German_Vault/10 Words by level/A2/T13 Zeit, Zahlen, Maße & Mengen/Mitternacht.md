@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 6b"
 freq_rank: 3406
 skip: false
+audio: "Mitternacht.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitternacht
+
+![[Mitternacht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitternacht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitternacht&language=de)
 
 **Meaning:** midnight (at midnight)
 **Plural:** –

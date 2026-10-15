@@ -15,11 +15,16 @@ id: "B0294"
 netzwerk: "A1 K2 6a"
 freq_rank: 5759
 skip: false
+audio: "Plural.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Plural
+
+![[Plural.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Plural/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Plural&language=de)
 
 **Meaning:** plural
 **Plural:** Plurale

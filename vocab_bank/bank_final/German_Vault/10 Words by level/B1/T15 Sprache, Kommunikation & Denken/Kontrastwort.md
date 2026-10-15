@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Kontrastwort
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kontrastwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kontrastwort&language=de)
+
 **Meaning:** contrast word
 **Plural:** Kontrastwörter
 **Level:** B1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

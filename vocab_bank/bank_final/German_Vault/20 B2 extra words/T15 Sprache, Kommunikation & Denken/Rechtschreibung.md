@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0973"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Rechtschreibung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rechtschreibung
+
+![[Rechtschreibung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechtschreibung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtschreibung&language=de)
 
 **Meaning:** spelling; orthography
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1741"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Buchhalter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Buchhalter
+
+![[Buchhalter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchhalter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchhalter&language=de)
 
 **Meaning:** bookkeeper; accountant
 **Plural:** Buchhalter

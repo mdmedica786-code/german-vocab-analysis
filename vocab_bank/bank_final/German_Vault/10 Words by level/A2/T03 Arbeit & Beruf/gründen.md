@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 6a"
 freq_rank: 796
 skip: false
+audio: "gründen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # gründen
+
+![[gründen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BCnden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BCnden&language=de)
 
 **Meaning:** to found
 **Forms:** gründet · gründete · hat gegründet

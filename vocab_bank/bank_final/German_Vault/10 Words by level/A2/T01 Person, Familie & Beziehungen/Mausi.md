@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # das Mausi
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mausi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mausi&language=de)
+
 **Meaning:** little mouse
 **Plural:** Mausis
 **Level:** A2 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

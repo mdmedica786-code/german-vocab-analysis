@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 9a"
 freq_rank: 1045
 skip: false
+audio: "Religion.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Religion
+
+![[Religion.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Religion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Religion&language=de)
 
 **Meaning:** religion
 **Plural:** Religionen

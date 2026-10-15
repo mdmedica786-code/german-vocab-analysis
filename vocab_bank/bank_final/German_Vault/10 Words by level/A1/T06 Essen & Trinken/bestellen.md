@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 10a"
 freq_rank: 1842
 skip: false
+audio: "bestellen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestellen
+
+![[bestellen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestellen&language=de)
 
 **Meaning:** to order
 **Forms:** bestellt · bestellte · hat bestellt

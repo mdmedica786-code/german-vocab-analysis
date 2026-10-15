@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2843"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vorwort.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vorwort
+
+![[Vorwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorwort&language=de)
 
 **Meaning:** foreword; preface
 **Plural:** Vorworte

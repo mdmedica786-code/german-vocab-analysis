@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 3a"
 freq_rank: 149
 skip: false
+audio: "vielleicht.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vielleicht
+
+![[vielleicht.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vielleicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vielleicht&language=de)
 
 **Meaning:** maybe
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

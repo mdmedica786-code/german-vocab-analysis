@@ -12,11 +12,16 @@ id: "B5266"
 goethe_level: "B1"
 freq_rank: 1125
 skip: false
+audio: "einerseits.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # einerseits
+
+![[einerseits.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einerseits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einerseits&language=de)
 
 **Meaning:** on the one hand
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1313"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "vergöttern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergöttern
+
+![[vergöttern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verg%C3%B6ttern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verg%C3%B6ttern&language=de)
 
 **Meaning:** to idolise; to worship
 **Forms:** vergöttert · vergötterte · hat vergöttert

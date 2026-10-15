@@ -13,11 +13,16 @@ id: "B3116"
 netzwerk: "A2 K11 12b"
 freq_rank: 1489
 skip: false
+audio: "äußern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # äußern
+
+![[äußern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%A4u%C3%9Fern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%A4u%C3%9Fern&language=de)
 
 **Meaning:** to express
 **Forms:** äußert · äußerte · hat geäußert

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 947
 skip: false
+audio: "bauen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bauen
+
+![[bauen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bauen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bauen&language=de)
 
 **Meaning:** to build
 **Forms:** baut · baute · hat gebaut

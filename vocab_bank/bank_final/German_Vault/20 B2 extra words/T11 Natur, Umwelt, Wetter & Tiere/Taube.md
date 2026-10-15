@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1971"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Taube.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taube
+
+![[Taube.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taube/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taube&language=de)
 
 **Meaning:** pigeon; dove
 **Plural:** Tauben

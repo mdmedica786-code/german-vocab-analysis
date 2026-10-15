@@ -13,11 +13,16 @@ id: "B2299"
 netzwerk: "A2 K5 1b"
 freq_rank: 2605
 skip: false
+audio: "leeren.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # leeren
+
+![[leeren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/leeren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=leeren&language=de)
 
 **Meaning:** to empty
 **Forms:** leert · leerte · hat geleert

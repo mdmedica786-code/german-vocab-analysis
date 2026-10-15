@@ -15,11 +15,16 @@ id: "B4981"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Favoritin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Favoritin
+
+![[Favoritin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Favoritin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Favoritin&language=de)
 
 **Meaning:** favourite (f)
 **Plural:** Favoritinnen

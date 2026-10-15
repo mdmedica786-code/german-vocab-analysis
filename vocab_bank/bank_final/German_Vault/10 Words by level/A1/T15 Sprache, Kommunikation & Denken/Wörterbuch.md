@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 10a"
 freq_rank: 4667
 skip: false
+audio: "Wörterbuch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wörterbuch
+
+![[Wörterbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%B6rterbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%B6rterbuch&language=de)
 
 **Meaning:** dictionary
 **Plural:** Wörterbücher

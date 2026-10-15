@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3460"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Monarchie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Monarchie
+
+![[Monarchie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Monarchie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Monarchie&language=de)
 
 **Meaning:** monarchy
 **Plural:** Monarchien

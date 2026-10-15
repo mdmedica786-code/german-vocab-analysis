@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2516"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Truppe.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Truppe
+
+![[Truppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Truppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Truppe&language=de)
 
 **Meaning:** troop; group; company
 **Plural:** Truppen

@@ -15,11 +15,16 @@ id: "B4758"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Behördengang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Behördengang
+
+![[Behördengang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beh%C3%B6rdengang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beh%C3%B6rdengang&language=de)
 
 **Meaning:** visit to the authorities
 **Plural:** Behördengänge

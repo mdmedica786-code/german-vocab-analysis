@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 10d"
 freq_rank: 5759
 skip: false
+audio: "Umleitung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umleitung
+
+![[Umleitung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umleitung&language=de)
 
 **Meaning:** diversion
 **Plural:** Umleitungen

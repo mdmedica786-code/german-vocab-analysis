@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 12b"
 freq_rank: 3814
 skip: false
+audio: "Talent.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Talent
+
+![[Talent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Talent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Talent&language=de)
 
 **Meaning:** talent
 **Plural:** Talente

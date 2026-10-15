@@ -17,11 +17,16 @@ freq_rank: 5759
 skip: true
 skip_reason: "Austrian/Swiss word: recognise it, but Germany uses the standard word"
 check: "drop?"
+audio: "Faschierte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Faschierte
+
+![[Faschierte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Faschierte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faschierte&language=de)
 
 **Meaning:** minced meat (Austrian)
 **Plural:** –

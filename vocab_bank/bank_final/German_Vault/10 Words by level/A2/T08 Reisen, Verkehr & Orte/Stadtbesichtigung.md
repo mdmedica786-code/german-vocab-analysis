@@ -15,11 +15,16 @@ id: "B2604"
 netzwerk: "A2 K7 9a"
 freq_rank: 5759
 skip: false
+audio: "Stadtbesichtigung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stadtbesichtigung
+
+![[Stadtbesichtigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtbesichtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtbesichtigung&language=de)
 
 **Meaning:** sightseeing tour
 **Plural:** Stadtbesichtigungen

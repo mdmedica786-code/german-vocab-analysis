@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3972"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Fußballtraining.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Fußballtraining
+
+![[Fußballtraining.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fballtraining/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fballtraining&language=de)
 
 **Meaning:** football training
 **Plural:** Fußballtrainings

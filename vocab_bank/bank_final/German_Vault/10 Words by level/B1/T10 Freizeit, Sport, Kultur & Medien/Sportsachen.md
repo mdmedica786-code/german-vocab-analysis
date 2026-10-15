@@ -15,11 +15,16 @@ id: "B4907"
 netzwerk: "B1 K11 4d"
 freq_rank: 5759
 skip: false
+audio: "Sportsachen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sportsachen
+
+![[Sportsachen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportsachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportsachen&language=de)
 
 **Meaning:** sport gear
 **Plural:** (Pl.)

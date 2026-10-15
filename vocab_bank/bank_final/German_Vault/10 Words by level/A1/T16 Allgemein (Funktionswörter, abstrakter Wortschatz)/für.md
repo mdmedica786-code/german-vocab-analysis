@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # für
 
+[▶️ YouGlish](https://youglish.com/pronounce/f%C3%BCr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=f%C3%BCr&language=de)
+
 **Meaning:** for
 **Case:** + Akk.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

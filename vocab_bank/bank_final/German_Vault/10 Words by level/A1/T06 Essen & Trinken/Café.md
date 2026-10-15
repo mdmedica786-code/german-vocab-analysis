@@ -15,11 +15,16 @@ id: "B0262"
 netzwerk: "A1 K2 5b"
 freq_rank: 5759
 skip: false
+audio: "Café.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Café
+
+![[Café.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Caf%C3%A9/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Caf%C3%A9&language=de)
 
 **Meaning:** cafe
 **Plural:** Cafés

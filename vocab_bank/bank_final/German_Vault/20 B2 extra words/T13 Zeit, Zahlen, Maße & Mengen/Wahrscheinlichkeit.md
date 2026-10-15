@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2512"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Wahrscheinlichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wahrscheinlichkeit
+
+![[Wahrscheinlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahrscheinlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahrscheinlichkeit&language=de)
 
 **Meaning:** probability; likelihood
 **Plural:** Wahrscheinlichkeiten

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1706"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "kürzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # kürzen
+
+![[kürzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/k%C3%BCrzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=k%C3%BCrzen&language=de)
 
 **Meaning:** to shorten; to cut
 **Forms:** kürzt · kürzte · hat gekürzt

@@ -12,11 +12,16 @@ id: "B6401"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "dienstags.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dienstags
+
+![[dienstags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dienstags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dienstags&language=de)
 
 **Meaning:** on Tuesdays
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

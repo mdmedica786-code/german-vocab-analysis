@@ -13,11 +13,16 @@ id: "B5208"
 goethe_level: "B1"
 freq_rank: 786
 skip: false
+audio: "schieben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schieben
+
+![[schieben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schieben&language=de)
 
 **Meaning:** to push
 **Forms:** schiebt · schob · hat geschoben

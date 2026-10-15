@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 6c"
 freq_rank: 5754
 skip: false
+audio: "Briefkasten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Briefkasten
+
+![[Briefkasten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Briefkasten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Briefkasten&language=de)
 
 **Meaning:** mailbox
 **Plural:** Briefkästen

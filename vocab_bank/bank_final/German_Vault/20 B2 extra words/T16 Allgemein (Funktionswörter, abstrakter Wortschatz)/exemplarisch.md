@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3059"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "exemplarisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # exemplarisch
+
+![[exemplarisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/exemplarisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=exemplarisch&language=de)
 
 **Meaning:** exemplary; representative
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

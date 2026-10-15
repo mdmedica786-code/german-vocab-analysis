@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a ÜB"
 freq_rank: 3960
 skip: false
+audio: "Opa.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Opa
+
+![[Opa.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Opa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Opa&language=de)
 
 **Meaning:** grandpa
 **Plural:** Opas

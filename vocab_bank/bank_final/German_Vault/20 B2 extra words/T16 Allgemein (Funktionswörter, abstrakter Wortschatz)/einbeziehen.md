@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0236"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "einbeziehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # einbeziehen
+
+![[einbeziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einbeziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einbeziehen&language=de)
 
 **Meaning:** to include; to involve
 **Forms:** bezieht ein · bezog ein · hat einbezogen

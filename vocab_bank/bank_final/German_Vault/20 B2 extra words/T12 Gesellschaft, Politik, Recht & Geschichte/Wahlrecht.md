@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0492"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Wahlrecht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wahlrecht
+
+![[Wahlrecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wahlrecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wahlrecht&language=de)
 
 **Meaning:** right to vote; electoral law
 **Plural:** –

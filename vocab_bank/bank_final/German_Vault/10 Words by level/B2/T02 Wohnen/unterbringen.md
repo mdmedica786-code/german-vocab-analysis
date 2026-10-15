@@ -12,11 +12,16 @@ bank: "main"
 id: "B5988"
 freq_rank: 3811
 skip: false
+audio: "unterbringen.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # unterbringen
+
+![[unterbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unterbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unterbringen&language=de)
 
 **Meaning:** to accommodate; to put up
 **Forms:** bringt unter · brachte unter · hat untergebracht

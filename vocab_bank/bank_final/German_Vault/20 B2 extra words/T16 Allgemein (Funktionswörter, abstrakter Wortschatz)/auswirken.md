@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0865"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "auswirken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # auswirken
+
+![[auswirken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auswirken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auswirken&language=de)
 
 **Meaning:** to affect; to have an effect
 **Forms:** wirkt sich aus · wirkte sich aus · hat sich ausgewirkt

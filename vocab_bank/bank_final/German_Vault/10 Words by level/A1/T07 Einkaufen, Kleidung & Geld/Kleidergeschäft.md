@@ -15,11 +15,16 @@ id: "B1598"
 netzwerk: "A1 K11 3a"
 freq_rank: 5759
 skip: false
+audio: "Kleidergeschäft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kleidergeschäft
+
+![[Kleidergeschäft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kleidergesch%C3%A4ft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kleidergesch%C3%A4ft&language=de)
 
 **Meaning:** clothes shop
 **Plural:** Kleidergeschäfte

@@ -14,11 +14,16 @@ bank: "main"
 id: "B6319"
 freq_rank: 5583
 skip: false
+audio: "Injektion.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Injektion
+
+![[Injektion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Injektion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Injektion&language=de)
 
 **Meaning:** injection
 **Plural:** Injektionen

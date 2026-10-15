@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2112"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "mit Sack und Pack.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/phrase", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # mit Sack und Pack
+
+![[mit Sack und Pack.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mit%20Sack%20und%20Pack/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mit%20Sack%20und%20Pack&language=de)
 
 **Meaning:** with bag and baggage
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 2259
 skip: false
+audio: "Industrie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Industrie
+
+![[Industrie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Industrie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Industrie&language=de)
 
 **Meaning:** industry
 **Plural:** Industrien

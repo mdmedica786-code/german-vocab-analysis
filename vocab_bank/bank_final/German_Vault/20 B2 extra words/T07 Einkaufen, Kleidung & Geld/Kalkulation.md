@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0454"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Kalkulation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kalkulation
+
+![[Kalkulation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kalkulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kalkulation&language=de)
 
 **Meaning:** calculation; costing
 **Plural:** Kalkulationen

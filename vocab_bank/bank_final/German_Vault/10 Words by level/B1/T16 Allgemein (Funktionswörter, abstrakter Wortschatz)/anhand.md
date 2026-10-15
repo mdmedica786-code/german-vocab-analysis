@@ -11,11 +11,16 @@ bank: "main"
 id: "B5273"
 freq_rank: 1153
 skip: false
+audio: "anhand.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # anhand
+
+![[anhand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anhand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anhand&language=de)
 
 **Meaning:** on the basis of
 **Case:** + Gen. | + von

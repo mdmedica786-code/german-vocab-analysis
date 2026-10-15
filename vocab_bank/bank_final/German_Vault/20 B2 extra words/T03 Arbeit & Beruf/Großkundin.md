@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4021"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Großkundin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fkundin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fkundin&language=de)
 
 **Meaning:** major customer; key client (female)
 **Plural:** Großkundinnen

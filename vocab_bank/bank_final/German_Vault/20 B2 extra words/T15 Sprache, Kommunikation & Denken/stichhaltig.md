@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0789"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "stichhaltig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # stichhaltig
+
+![[stichhaltig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stichhaltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stichhaltig&language=de)
 
 **Meaning:** sound; valid
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

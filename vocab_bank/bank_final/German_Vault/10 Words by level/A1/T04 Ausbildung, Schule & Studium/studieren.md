@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 9b"
 freq_rank: 1831
 skip: false
+audio: "studieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # studieren
+
+![[studieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/studieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=studieren&language=de)
 
 **Meaning:** to study
 **Forms:** studiert · studierte · hat studiert

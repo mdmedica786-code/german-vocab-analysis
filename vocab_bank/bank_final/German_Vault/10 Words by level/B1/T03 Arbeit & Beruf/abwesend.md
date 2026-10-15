@@ -12,11 +12,16 @@ id: "B6353"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "abwesend.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # abwesend
+
+![[abwesend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abwesend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abwesend&language=de)
 
 **Meaning:** absent
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

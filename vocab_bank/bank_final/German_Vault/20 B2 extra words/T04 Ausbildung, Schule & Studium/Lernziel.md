@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0939"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Lernziel.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lernziel
+
+![[Lernziel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernziel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernziel&language=de)
 
 **Meaning:** learning objective
 **Plural:** Lernziele

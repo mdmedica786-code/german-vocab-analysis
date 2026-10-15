@@ -15,11 +15,16 @@ id: "B3192"
 netzwerk: "A2 K12 6b"
 freq_rank: 2000
 skip: false
+audio: "Pop.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pop
+
+![[Pop.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pop/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pop&language=de)
 
 **Meaning:** pop
 **Plural:** –

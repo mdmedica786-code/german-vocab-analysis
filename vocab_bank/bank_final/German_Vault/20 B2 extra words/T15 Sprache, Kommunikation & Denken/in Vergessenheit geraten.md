@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # in Vergessenheit geraten
 
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Vergessenheit%20geraten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Vergessenheit%20geraten&language=de)
+
 **Meaning:** to be forgotten; to fall into oblivion
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3912"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "erschließbar.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # erschließbar
+
+![[erschließbar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erschlie%C3%9Fbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erschlie%C3%9Fbar&language=de)
 
 **Meaning:** inferable; can be worked out (e.g. from context)
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1063"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Vermögen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Vermögen
+
+![[Vermögen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verm%C3%B6gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verm%C3%B6gen&language=de)
 
 **Meaning:** fortune; assets
 **Plural:** Vermögen

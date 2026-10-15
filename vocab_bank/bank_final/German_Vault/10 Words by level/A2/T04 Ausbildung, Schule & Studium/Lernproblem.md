@@ -15,11 +15,16 @@ id: "B2692"
 netzwerk: "A2 K8 3b"
 freq_rank: 9999
 skip: false
+audio: "Lernproblem.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lernproblem
+
+![[Lernproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lernproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lernproblem&language=de)
 
 **Meaning:** learning problem
 **Plural:** Lernprobleme

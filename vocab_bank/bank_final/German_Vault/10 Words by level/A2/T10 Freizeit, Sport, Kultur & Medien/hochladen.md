@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 8b"
 freq_rank: 5759
 skip: false
+audio: "hochladen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hochladen
+
+![[hochladen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hochladen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hochladen&language=de)
 
 **Meaning:** to upload
 **Forms:** lädt hoch · lud hoch · hat hochgeladen

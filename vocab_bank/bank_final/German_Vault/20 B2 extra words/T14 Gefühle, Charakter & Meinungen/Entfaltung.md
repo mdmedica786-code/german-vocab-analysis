@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0345"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Entfaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entfaltung
+
+![[Entfaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entfaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entfaltung&language=de)
 
 **Meaning:** development; unfolding
 **Plural:** –

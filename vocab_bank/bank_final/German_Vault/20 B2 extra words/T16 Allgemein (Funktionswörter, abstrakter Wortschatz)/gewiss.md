@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2383"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "gewiss.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # gewiss
+
+![[gewiss.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gewiss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gewiss&language=de)
 
 **Meaning:** certain; sure; some
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

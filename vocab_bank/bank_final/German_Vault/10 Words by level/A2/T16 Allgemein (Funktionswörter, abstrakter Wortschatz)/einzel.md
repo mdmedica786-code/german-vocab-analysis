@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # einzel
 
+[▶️ YouGlish](https://youglish.com/pronounce/einzel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einzel&language=de)
+
 **Meaning:** single; individual (prefix)
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 **Note:** mostly a prefix (Einzelzimmer, Einzelkind)

@@ -12,11 +12,16 @@ id: "B3246"
 netzwerk: "A2 K12 12c"
 freq_rank: 1002
 skip: false
+audio: "anschließend.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anschließend
+
+![[anschließend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anschlie%C3%9Fend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anschlie%C3%9Fend&language=de)
 
 **Meaning:** afterwards; subsequently
 **Level:** A2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

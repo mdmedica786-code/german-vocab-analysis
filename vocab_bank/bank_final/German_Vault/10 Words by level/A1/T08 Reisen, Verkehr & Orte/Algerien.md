@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Algerien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Algerien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Algerien&language=de)
+
 **Meaning:** Algeria
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

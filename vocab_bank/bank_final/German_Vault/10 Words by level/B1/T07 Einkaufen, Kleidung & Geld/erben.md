@@ -13,11 +13,16 @@ id: "B3546"
 netzwerk: "B1 K3 3a"
 freq_rank: 3481
 skip: false
+audio: "erben.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # erben
+
+![[erben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erben&language=de)
 
 **Meaning:** to inherit
 **Forms:** erbt · erbte · hat geerbt

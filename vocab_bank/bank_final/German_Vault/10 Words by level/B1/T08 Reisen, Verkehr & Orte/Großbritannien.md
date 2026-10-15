@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Großbritannien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fbritannien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fbritannien&language=de)
+
 **Meaning:** Great Britain
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

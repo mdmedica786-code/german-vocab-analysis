@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0307"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Beschaffenheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beschaffenheit
+
+![[Beschaffenheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beschaffenheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beschaffenheit&language=de)
 
 **Meaning:** nature; condition; texture
 **Plural:** –

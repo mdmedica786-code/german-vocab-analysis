@@ -15,11 +15,16 @@ id: "B5116"
 netzwerk: "B1 K12 11b"
 freq_rank: 5525
 skip: false
+audio: "Immobilie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Immobilie
+
+![[Immobilie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Immobilie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Immobilie&language=de)
 
 **Meaning:** real estate
 **Plural:** Immobilien

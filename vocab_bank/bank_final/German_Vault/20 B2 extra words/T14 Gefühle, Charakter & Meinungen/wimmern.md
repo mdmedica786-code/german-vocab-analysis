@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1325"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "wimmern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # wimmern
+
+![[wimmern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wimmern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wimmern&language=de)
 
 **Meaning:** to whimper
 **Forms:** wimmert · wimmerte · hat gewimmert

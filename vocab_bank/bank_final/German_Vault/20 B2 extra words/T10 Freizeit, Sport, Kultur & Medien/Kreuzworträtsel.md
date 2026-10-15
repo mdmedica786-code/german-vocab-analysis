@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4150"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kreuzworträtsel.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kreuzworträtsel
+
+![[Kreuzworträtsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kreuzwortr%C3%A4tsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kreuzwortr%C3%A4tsel&language=de)
 
 **Meaning:** crossword puzzle
 **Plural:** Kreuzworträtsel

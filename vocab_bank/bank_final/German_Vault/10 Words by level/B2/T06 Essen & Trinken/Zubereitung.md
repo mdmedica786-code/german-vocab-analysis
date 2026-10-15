@@ -14,11 +14,16 @@ bank: "main"
 id: "B6266"
 freq_rank: 5210
 skip: false
+audio: "Zubereitung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zubereitung
+
+![[Zubereitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zubereitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zubereitung&language=de)
 
 **Meaning:** preparation (of food)
 **Plural:** Zubereitungen

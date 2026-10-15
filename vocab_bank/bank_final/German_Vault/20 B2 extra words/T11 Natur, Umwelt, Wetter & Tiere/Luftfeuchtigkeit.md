@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0718"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Luftfeuchtigkeit.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Luftfeuchtigkeit
+
+![[Luftfeuchtigkeit.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luftfeuchtigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luftfeuchtigkeit&language=de)
 
 **Meaning:** humidity
 **Plural:** –

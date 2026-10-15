@@ -13,11 +13,16 @@ id: "B5318"
 goethe_level: "B1"
 freq_rank: 1405
 skip: false
+audio: "festhalten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # festhalten
+
+![[festhalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/festhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=festhalten&language=de)
 
 **Meaning:** to hold on; to record
 **Forms:** hält fest · hielt fest · hat festgehalten

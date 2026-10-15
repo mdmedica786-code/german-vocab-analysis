@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 11b ÜB"
 freq_rank: 3000
 skip: false
+audio: "auf sein.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auf sein
+
+![[auf sein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20sein&language=de)
 
 **Meaning:** to be open
 **Forms:** ist auf · war auf · ist auf gewesen

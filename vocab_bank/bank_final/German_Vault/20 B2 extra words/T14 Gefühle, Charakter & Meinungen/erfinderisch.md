@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1579"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "erfinderisch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erfinderisch
+
+![[erfinderisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erfinderisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erfinderisch&language=de)
 
 **Meaning:** inventive; resourceful
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

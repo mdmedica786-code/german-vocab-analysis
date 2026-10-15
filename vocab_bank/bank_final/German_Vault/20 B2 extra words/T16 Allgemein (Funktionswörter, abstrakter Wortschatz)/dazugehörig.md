@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3857"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "dazugehörig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # dazugehörig
+
+![[dazugehörig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dazugeh%C3%B6rig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazugeh%C3%B6rig&language=de)
 
 **Meaning:** associated; related; belonging to it
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

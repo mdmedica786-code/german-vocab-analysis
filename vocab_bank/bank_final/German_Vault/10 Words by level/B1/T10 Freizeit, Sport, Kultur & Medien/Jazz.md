@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 7b"
 freq_rank: 2217
 skip: false
+audio: "Jazz.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Jazz
+
+![[Jazz.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jazz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jazz&language=de)
 
 **Meaning:** jazz
 **Plural:** –

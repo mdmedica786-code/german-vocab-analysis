@@ -14,11 +14,16 @@ freq_rank: 5512
 skip: true
 skip_reason: "duplicate of B0704 (learn that entry)"
 check: "dup:B0704"
+audio: "Prost.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/interjection", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # Prost
+
+![[Prost.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prost&language=de)
 
 **Meaning:** cheers
 **Level:** B1 · **Topic:** [[T06 Essen & Trinken]] · **Register:** neutral

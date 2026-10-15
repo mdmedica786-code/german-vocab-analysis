@@ -15,11 +15,16 @@ id: "B4312"
 netzwerk: "B1 K7 11b"
 freq_rank: 5759
 skip: false
+audio: "Pianistin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pianistin
+
+![[Pianistin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pianistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pianistin&language=de)
 
 **Meaning:** pianist (f)
 **Plural:** Pianistinnen

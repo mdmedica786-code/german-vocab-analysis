@@ -15,11 +15,16 @@ id: "B4763"
 netzwerk: "B1 K10 3b"
 freq_rank: 3000
 skip: false
+audio: "Erste Hilfe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erste Hilfe
+
+![[Erste Hilfe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erste%20Hilfe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erste%20Hilfe&language=de)
 
 **Meaning:** first aid
 **Plural:** –

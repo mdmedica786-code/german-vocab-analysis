@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 1a"
 freq_rank: 5754
 skip: false
+audio: "checken.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # checken
+
+![[checken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/checken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=checken&language=de)
 
 **Meaning:** to check
 **Forms:** checkt · checkte · hat gecheckt

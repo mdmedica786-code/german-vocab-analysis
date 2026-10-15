@@ -15,11 +15,16 @@ id: "B0258"
 netzwerk: "A1 K2 4a"
 freq_rank: 5759
 skip: false
+audio: "Satzmelodie.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Satzmelodie
+
+![[Satzmelodie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satzmelodie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzmelodie&language=de)
 
 **Meaning:** intonation
 **Plural:** Satzmelodien

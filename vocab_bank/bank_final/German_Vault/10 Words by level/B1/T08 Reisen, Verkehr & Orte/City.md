@@ -15,11 +15,16 @@ id: "B5868"
 goethe_level: "B1"
 freq_rank: 3220
 skip: false
+audio: "City.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die City
+
+![[City.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/City/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=City&language=de)
 
 **Meaning:** city centre; city
 **Plural:** Citys

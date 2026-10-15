@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2382"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "betrachten.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # betrachten
+
+![[betrachten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/betrachten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=betrachten&language=de)
 
 **Meaning:** to look at; to consider
 **Forms:** betrachtet · betrachtete · hat betrachtet

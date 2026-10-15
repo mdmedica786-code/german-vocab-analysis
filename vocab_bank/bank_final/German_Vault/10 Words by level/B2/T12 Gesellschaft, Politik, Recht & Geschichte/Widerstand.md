@@ -14,11 +14,16 @@ bank: "main"
 id: "B5334"
 freq_rank: 1472
 skip: false
+audio: "Widerstand.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Widerstand
+
+![[Widerstand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Widerstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Widerstand&language=de)
 
 **Meaning:** resistance
 **Plural:** Widerstände

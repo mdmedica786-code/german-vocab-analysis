@@ -15,11 +15,16 @@ id: "B4000"
 netzwerk: "B1 K5 9d"
 freq_rank: 5759
 skip: false
+audio: "Satzanfang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Satzanfang
+
+![[Satzanfang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satzanfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzanfang&language=de)
 
 **Meaning:** beginning of a sentence
 **Plural:** Satzanfänge

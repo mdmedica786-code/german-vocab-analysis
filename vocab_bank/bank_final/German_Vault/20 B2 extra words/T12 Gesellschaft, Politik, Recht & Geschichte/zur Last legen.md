@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zur Last legen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zur%20Last%20legen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%20Last%20legen&language=de)
+
 **Meaning:** to accuse of; to charge with
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

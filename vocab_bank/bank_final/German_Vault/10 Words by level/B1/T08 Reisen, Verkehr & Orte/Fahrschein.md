@@ -15,11 +15,16 @@ id: "B4978"
 netzwerk: "B1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Fahrschein.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fahrschein
+
+![[Fahrschein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrschein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrschein&language=de)
 
 **Meaning:** ticket (travel)
 **Plural:** Fahrscheine

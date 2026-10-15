@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0205"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "anstreben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anstreben
+
+![[anstreben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anstreben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anstreben&language=de)
 
 **Meaning:** to strive for; to aim at
 **Forms:** strebt an · strebte an · hat angestrebt

@@ -15,11 +15,16 @@ id: "B3013"
 netzwerk: "A2 K10 12a"
 freq_rank: 5759
 skip: false
+audio: "Besitzerin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Besitzerin
+
+![[Besitzerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Besitzerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Besitzerin&language=de)
 
 **Meaning:** owner (f)
 **Plural:** Besitzerinnen

@@ -15,11 +15,16 @@ id: "B6455"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Golfspiel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Golfspiel
+
+![[Golfspiel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Golfspiel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Golfspiel&language=de)
 
 **Meaning:** game of golf
 **Plural:** Golfspiele

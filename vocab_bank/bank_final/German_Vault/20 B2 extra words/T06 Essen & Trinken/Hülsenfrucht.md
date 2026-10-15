@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1440"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "Hülsenfrucht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Hülsenfrucht
+
+![[Hülsenfrucht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%BClsenfrucht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%BClsenfrucht&language=de)
 
 **Meaning:** legume; pulse
 **Plural:** Hülsenfrüchte

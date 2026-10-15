@@ -13,11 +13,16 @@ id: "B3428"
 netzwerk: "B1 K2 5b"
 freq_rank: 5759
 skip: false
+audio: "reklamieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reklamieren
+
+![[reklamieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reklamieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reklamieren&language=de)
 
 **Meaning:** to complain/exchange
 **Forms:** reklamiert · reklamierte · hat reklamiert

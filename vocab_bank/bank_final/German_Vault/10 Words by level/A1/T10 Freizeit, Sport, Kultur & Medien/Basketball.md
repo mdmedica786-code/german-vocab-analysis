@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Basketball
 
+[▶️ YouGlish](https://youglish.com/pronounce/Basketball/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Basketball&language=de)
+
 **Meaning:** basketball
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral
 **Note:** ohne Artikel

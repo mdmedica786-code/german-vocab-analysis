@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2599"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Feststellung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Feststellung
+
+![[Feststellung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feststellung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feststellung&language=de)
 
 **Meaning:** finding; statement; establishing
 **Plural:** Feststellungen

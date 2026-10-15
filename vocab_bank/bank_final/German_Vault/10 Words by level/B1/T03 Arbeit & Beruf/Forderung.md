@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1131
 skip: false
+audio: "Forderung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Forderung
+
+![[Forderung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Forderung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Forderung&language=de)
 
 **Meaning:** demand
 **Plural:** Forderungen

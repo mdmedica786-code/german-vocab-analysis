@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2668"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Weisheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weisheit
+
+![[Weisheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weisheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weisheit&language=de)
 
 **Meaning:** wisdom
 **Plural:** Weisheiten

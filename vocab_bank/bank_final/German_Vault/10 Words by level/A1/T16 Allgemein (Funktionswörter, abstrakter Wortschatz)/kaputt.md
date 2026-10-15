@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K11 10c"
 freq_rank: 4430
 skip: false
+audio: "kaputt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kaputt
+
+![[kaputt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kaputt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kaputt&language=de)
 
 **Meaning:** broken
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** informal

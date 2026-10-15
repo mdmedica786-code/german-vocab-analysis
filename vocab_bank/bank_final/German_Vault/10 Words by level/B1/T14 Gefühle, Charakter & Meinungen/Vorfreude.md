@@ -15,11 +15,16 @@ id: "B4167"
 netzwerk: "B1 K6 9a"
 freq_rank: 5759
 skip: false
+audio: "Vorfreude.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorfreude
+
+![[Vorfreude.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorfreude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorfreude&language=de)
 
 **Meaning:** anticipation; joyful expectation
 **Plural:** –

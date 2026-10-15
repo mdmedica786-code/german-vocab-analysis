@@ -15,11 +15,16 @@ id: "B5412"
 goethe_level: "B1"
 freq_rank: 1844
 skip: false
+audio: "Wärme.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wärme
+
+![[Wärme.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/W%C3%A4rme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W%C3%A4rme&language=de)
 
 **Meaning:** warmth; heat
 **Plural:** –

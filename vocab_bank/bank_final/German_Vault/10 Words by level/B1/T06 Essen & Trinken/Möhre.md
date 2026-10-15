@@ -15,11 +15,16 @@ id: "B6503"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Möhre.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Möhre
+
+![[Möhre.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%B6hre/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%B6hre&language=de)
 
 **Meaning:** carrot
 **Plural:** Möhren

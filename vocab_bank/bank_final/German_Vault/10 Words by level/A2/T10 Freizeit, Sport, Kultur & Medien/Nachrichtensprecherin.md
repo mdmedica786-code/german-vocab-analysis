@@ -15,11 +15,16 @@ id: "B3205"
 netzwerk: "A2 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Nachrichtensprecherin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachrichtensprecherin
+
+![[Nachrichtensprecherin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachrichtensprecherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachrichtensprecherin&language=de)
 
 **Meaning:** newsreader (f)
 **Plural:** Nachrichtensprecherinnen

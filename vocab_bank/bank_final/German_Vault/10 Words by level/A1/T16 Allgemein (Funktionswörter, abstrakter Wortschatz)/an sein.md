@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K3 8b"
 freq_rank: 3000
 skip: false
+audio: "an sein.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # an sein
+
+![[an sein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/an%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=an%20sein&language=de)
 
 **Meaning:** to be on
 **Forms:** ist an · war an · ist an gewesen

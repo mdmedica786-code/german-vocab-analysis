@@ -15,11 +15,16 @@ id: "B3834"
 netzwerk: "B1 K4 12b"
 freq_rank: 5759
 skip: false
+audio: "Interessentin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Interessentin
+
+![[Interessentin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Interessentin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Interessentin&language=de)
 
 **Meaning:** interested person (f); prospective candidate
 **Plural:** Interessentinnen

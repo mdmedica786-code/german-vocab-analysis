@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3155"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Revision.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Revision
+
+![[Revision.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Revision/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Revision&language=de)
 
 **Meaning:** revision; appeal; audit
 **Plural:** Revisionen

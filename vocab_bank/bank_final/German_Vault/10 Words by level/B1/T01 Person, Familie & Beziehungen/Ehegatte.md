@@ -15,11 +15,16 @@ id: "B4286"
 netzwerk: "B1 K7 10a"
 freq_rank: 4800
 skip: false
+audio: "Ehegatte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ehegatte
+
+![[Ehegatte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehegatte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehegatte&language=de)
 
 **Meaning:** spouse (m)
 **Plural:** Ehegatten

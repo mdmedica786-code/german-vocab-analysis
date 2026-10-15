@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 4f ÜB"
 freq_rank: 4490
 skip: false
+audio: "Vermieter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vermieter
+
+![[Vermieter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vermieter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermieter&language=de)
 
 **Meaning:** landlord
 **Plural:** Vermieter

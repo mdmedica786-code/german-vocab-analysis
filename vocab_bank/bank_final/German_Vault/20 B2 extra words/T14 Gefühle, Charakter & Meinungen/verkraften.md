@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1316"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "verkraften.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verkraften
+
+![[verkraften.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verkraften/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verkraften&language=de)
 
 **Meaning:** to cope with; to get over
 **Forms:** verkraftet · verkraftete · hat verkraftet

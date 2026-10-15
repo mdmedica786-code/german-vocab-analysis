@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4495"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Tierfreundin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Tierfreundin
+
+![[Tierfreundin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierfreundin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierfreundin&language=de)
 
 **Meaning:** animal lover (female)
 **Plural:** Tierfreundinnen

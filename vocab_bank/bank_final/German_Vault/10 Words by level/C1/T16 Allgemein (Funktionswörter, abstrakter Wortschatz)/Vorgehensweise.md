@@ -14,11 +14,16 @@ bank: "main"
 id: "B5766"
 freq_rank: 2988
 skip: false
+audio: "Vorgehensweise.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vorgehensweise
+
+![[Vorgehensweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorgehensweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorgehensweise&language=de)
 
 **Meaning:** procedure; approach
 **Plural:** Vorgehensweisen

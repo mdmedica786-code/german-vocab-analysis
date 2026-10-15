@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3725"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Arbeitsorganisation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Arbeitsorganisation
+
+![[Arbeitsorganisation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arbeitsorganisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arbeitsorganisation&language=de)
 
 **Meaning:** work organisation
 **Plural:** –

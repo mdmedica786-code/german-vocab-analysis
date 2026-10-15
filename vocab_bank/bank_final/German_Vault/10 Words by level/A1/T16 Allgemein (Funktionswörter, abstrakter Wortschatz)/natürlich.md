@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 11"
 freq_rank: 200
 skip: false
+audio: "natürlich.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # natürlich
+
+![[natürlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nat%C3%BCrlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nat%C3%BCrlich&language=de)
 
 **Meaning:** of course
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

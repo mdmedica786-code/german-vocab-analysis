@@ -15,11 +15,16 @@ id: "B4883"
 netzwerk: "B1 K10 11a"
 freq_rank: 9999
 skip: false
+audio: "Wirtschaftsbeziehung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wirtschaftsbeziehung
+
+![[Wirtschaftsbeziehung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wirtschaftsbeziehung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wirtschaftsbeziehung&language=de)
 
 **Meaning:** economic relationship
 **Plural:** Wirtschaftsbeziehungen

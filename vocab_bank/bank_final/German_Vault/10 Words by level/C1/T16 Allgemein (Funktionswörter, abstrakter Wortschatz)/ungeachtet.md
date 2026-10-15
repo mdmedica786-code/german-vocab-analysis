@@ -11,11 +11,16 @@ bank: "main"
 id: "B6020"
 freq_rank: 3984
 skip: false
+audio: "ungeachtet.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T16", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungeachtet
+
+![[ungeachtet.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungeachtet/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungeachtet&language=de)
 
 **Meaning:** regardless of
 **Case:** + Gen.

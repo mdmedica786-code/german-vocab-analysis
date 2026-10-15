@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 5b"
 freq_rank: 1344
 skip: false
+audio: "Partner.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Partner
+
+![[Partner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partner&language=de)
 
 **Meaning:** partner (m)
 **Plural:** Partner

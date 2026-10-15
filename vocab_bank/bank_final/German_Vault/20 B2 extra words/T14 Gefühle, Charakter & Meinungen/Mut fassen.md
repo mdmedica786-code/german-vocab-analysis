@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Mut fassen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Mut%20fassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mut%20fassen&language=de)
+
 **Meaning:** to take heart; to pluck up courage
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

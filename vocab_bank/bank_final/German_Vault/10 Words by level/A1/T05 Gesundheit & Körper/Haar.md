@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6b ÜB"
 freq_rank: 493
 skip: false
+audio: "Haar.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Haar
+
+![[Haar.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haar&language=de)
 
 **Meaning:** hair
 **Plural:** Haare

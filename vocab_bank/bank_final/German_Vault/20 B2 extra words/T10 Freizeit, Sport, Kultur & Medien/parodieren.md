@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4288"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "parodieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # parodieren
+
+![[parodieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/parodieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=parodieren&language=de)
 
 **Meaning:** to parody
 **Forms:** parodiert · parodierte · hat parodiert

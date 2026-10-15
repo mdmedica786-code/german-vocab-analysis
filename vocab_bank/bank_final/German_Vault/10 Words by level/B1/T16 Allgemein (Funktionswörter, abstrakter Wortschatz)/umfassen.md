@@ -12,11 +12,16 @@ bank: "main"
 id: "B5292"
 freq_rank: 1234
 skip: false
+audio: "umfassen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umfassen
+
+![[umfassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umfassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umfassen&language=de)
 
 **Meaning:** to include; to comprise
 **Forms:** umfasst · umfasste · hat umfasst

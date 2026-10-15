@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2381"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "begreifen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # begreifen
+
+![[begreifen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begreifen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begreifen&language=de)
 
 **Meaning:** to grasp; to understand
 **Forms:** begreift · begriff · hat begriffen

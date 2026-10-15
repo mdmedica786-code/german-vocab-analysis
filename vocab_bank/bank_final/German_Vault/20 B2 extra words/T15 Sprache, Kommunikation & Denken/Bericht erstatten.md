@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Bericht erstatten
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bericht%20erstatten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bericht%20erstatten&language=de)
+
 **Meaning:** to report; to give a report
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

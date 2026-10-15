@@ -15,11 +15,16 @@ id: "B4204"
 netzwerk: "B1 K6 10b"
 freq_rank: 5759
 skip: false
+audio: "Doktorand.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Doktorand
+
+![[Doktorand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Doktorand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Doktorand&language=de)
 
 **Meaning:** PhD student (m)
 **Plural:** Doktoranden

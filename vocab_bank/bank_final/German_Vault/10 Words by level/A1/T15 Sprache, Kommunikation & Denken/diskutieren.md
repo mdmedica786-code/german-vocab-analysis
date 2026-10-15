@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 7a"
 freq_rank: 1438
 skip: false
+audio: "diskutieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # diskutieren
+
+![[diskutieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diskutieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diskutieren&language=de)
 
 **Meaning:** to discuss
 **Forms:** diskutiert · diskutierte · hat diskutiert

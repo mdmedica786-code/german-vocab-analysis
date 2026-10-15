@@ -15,11 +15,16 @@ id: "B3934"
 netzwerk: "B1 K5 3"
 freq_rank: 5759
 skip: false
+audio: "Fußabdruck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fußabdruck
+
+![[Fußabdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fu%C3%9Fabdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fu%C3%9Fabdruck&language=de)
 
 **Meaning:** footprint
 **Plural:** Fußabdrücke

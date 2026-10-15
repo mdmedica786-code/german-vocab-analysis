@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3886"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "einbehalten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # einbehalten
+
+![[einbehalten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einbehalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einbehalten&language=de)
 
 **Meaning:** to withhold; to retain (money)
 **Forms:** behält ein · behielt ein · hat einbehalten

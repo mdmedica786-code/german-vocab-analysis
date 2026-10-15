@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4012"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Gesundheitsproblem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Gesundheitsproblem
+
+![[Gesundheitsproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesundheitsproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesundheitsproblem&language=de)
 
 **Meaning:** health problem
 **Plural:** Gesundheitsprobleme

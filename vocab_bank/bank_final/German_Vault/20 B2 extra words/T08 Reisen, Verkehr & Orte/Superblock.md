@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4469"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Superblock
+
+[▶️ YouGlish](https://youglish.com/pronounce/Superblock/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Superblock&language=de)
 
 **Meaning:** superblock (traffic-calmed city block)
 **Plural:** Superblöcke

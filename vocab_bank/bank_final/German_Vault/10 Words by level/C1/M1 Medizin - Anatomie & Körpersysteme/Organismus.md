@@ -14,11 +14,16 @@ bank: "main"
 id: "B5826"
 freq_rank: 3032
 skip: false
+audio: "Organismus.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Organismus
+
+![[Organismus.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Organismus/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Organismus&language=de)
 
 **Meaning:** organism
 **Plural:** Organismen

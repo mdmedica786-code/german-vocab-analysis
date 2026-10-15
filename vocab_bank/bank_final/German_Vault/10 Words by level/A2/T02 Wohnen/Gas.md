@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 11a"
 freq_rank: 3134
 skip: false
+audio: "Gas.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gas
+
+![[Gas.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gas/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gas&language=de)
 
 **Meaning:** gas
 **Plural:** Gase

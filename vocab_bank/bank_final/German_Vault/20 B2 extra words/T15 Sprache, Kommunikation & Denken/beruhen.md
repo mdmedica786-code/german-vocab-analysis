@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0213"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "beruhen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # beruhen
+
+![[beruhen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beruhen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beruhen&language=de)
 
 **Meaning:** to be based (on)
 **Forms:** beruht · beruhte · hat beruht

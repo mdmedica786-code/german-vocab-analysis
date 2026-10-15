@@ -15,11 +15,16 @@ id: "B5943"
 goethe_level: "A2"
 freq_rank: 3565
 skip: false
+audio: "Hamburger.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hamburger
+
+![[Hamburger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hamburger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hamburger&language=de)
 
 **Meaning:** hamburger
 **Plural:** Hamburger

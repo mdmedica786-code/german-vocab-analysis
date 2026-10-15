@@ -15,11 +15,16 @@ id: "B3699"
 netzwerk: "B1 K3 10b"
 freq_rank: 1212
 skip: false
+audio: "Wange.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wange
+
+![[Wange.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wange/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wange&language=de)
 
 **Meaning:** cheek
 **Plural:** Wangen

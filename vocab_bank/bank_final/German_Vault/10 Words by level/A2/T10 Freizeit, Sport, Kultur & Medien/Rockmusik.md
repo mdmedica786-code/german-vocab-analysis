@@ -15,11 +15,16 @@ id: "B3149"
 netzwerk: "A2 K12 3a"
 freq_rank: 5759
 skip: false
+audio: "Rockmusik.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rockmusik
+
+![[Rockmusik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rockmusik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rockmusik&language=de)
 
 **Meaning:** rock music
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 4126
 skip: false
+audio: "Hammer.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hammer
+
+![[Hammer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hammer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hammer&language=de)
 
 **Meaning:** hammer
 **Plural:** Hammer

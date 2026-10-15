@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2555"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "bedecken.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # bedecken
+
+![[bedecken.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bedecken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bedecken&language=de)
 
 **Meaning:** to cover
 **Forms:** bedeckt · bedeckte · hat bedeckt

@@ -13,11 +13,16 @@ id: "B4179"
 netzwerk: "B1 K6 9c"
 freq_rank: 5759
 skip: false
+audio: "stapeln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # stapeln
+
+![[stapeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stapeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stapeln&language=de)
 
 **Meaning:** to stack
 **Forms:** stapelt · stapelte · hat gestapelt

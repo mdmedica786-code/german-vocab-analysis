@@ -11,11 +11,16 @@ bank: "main"
 id: "B5610"
 freq_rank: 2527
 skip: false
+audio: "pädagogisch.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T04", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # pädagogisch
+
+![[pädagogisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/p%C3%A4dagogisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=p%C3%A4dagogisch&language=de)
 
 **Meaning:** pedagogical; educational
 **Level:** C1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

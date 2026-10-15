@@ -13,11 +13,16 @@ id: "B2338"
 netzwerk: "A2 K5 3c"
 freq_rank: 5759
 skip: false
+audio: "umsehen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # umsehen
+
+![[umsehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/umsehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=umsehen&language=de)
 
 **Meaning:** to look around
 **Forms:** sieht um · sah um · hat umgesehen

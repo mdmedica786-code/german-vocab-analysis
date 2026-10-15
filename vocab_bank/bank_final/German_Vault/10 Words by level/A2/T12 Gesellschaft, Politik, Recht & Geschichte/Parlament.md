@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 2578
 skip: false
+audio: "Parlament.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Parlament
+
+![[Parlament.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Parlament/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Parlament&language=de)
 
 **Meaning:** parliament
 **Plural:** Parlamente

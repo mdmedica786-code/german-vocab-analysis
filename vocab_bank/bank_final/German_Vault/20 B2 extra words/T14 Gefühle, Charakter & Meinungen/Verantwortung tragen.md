@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Verantwortung tragen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Verantwortung%20tragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verantwortung%20tragen&language=de)
+
 **Meaning:** to bear responsibility
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

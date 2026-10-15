@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3976"
 exam_use: ["Medien", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Gamification.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Gamification
+
+![[Gamification.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gamification/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gamification&language=de)
 
 **Meaning:** gamification
 **Plural:** –

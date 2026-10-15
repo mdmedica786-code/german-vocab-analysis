@@ -15,11 +15,16 @@ id: "B1286"
 netzwerk: "A1 K8 10c"
 freq_rank: 5759
 skip: false
+audio: "Halsschmerzen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Halsschmerzen
+
+![[Halsschmerzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Halsschmerzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Halsschmerzen&language=de)
 
 **Meaning:** sore throat
 **Plural:** (Pl.)

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1c ÜB"
 freq_rank: 3290
 skip: false
+audio: "Minister.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Minister
+
+![[Minister.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Minister/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Minister&language=de)
 
 **Meaning:** minister (m)
 **Plural:** Minister

@@ -15,11 +15,16 @@ id: "B5727"
 goethe_level: "B1"
 freq_rank: 2867
 skip: false
+audio: "Vermittlung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vermittlung
+
+![[Vermittlung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vermittlung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vermittlung&language=de)
 
 **Meaning:** agency; placement; mediation
 **Plural:** Vermittlungen

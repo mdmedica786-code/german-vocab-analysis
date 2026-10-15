@@ -15,11 +15,16 @@ id: "B6591"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Verliererin.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verliererin
+
+![[Verliererin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verliererin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verliererin&language=de)
 
 **Meaning:** loser (f)
 **Plural:** Verliererinnen

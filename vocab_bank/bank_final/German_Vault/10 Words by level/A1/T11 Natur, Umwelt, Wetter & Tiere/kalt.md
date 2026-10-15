@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 13b"
 freq_rank: 784
 skip: false
+audio: "kalt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kalt
+
+![[kalt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kalt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kalt&language=de)
 
 **Meaning:** cold
 **Forms:** kälter – am kältesten

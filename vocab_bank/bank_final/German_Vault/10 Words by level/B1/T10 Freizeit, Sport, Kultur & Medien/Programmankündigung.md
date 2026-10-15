@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Programmankündigung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Programmank%C3%BCndigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Programmank%C3%BCndigung&language=de)
+
 **Meaning:** program announcement
 **Plural:** Programmankündigungen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

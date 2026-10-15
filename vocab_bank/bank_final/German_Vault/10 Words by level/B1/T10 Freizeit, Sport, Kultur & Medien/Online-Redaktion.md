@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Online-Redaktion
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Redaktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Redaktion&language=de)
+
 **Meaning:** online editors
 **Plural:** Online-Redaktionen
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

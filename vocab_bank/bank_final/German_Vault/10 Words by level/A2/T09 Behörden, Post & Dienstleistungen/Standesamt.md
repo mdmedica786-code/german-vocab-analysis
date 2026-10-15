@@ -15,11 +15,16 @@ id: "B2765"
 netzwerk: "A2 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "Standesamt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Standesamt
+
+![[Standesamt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Standesamt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Standesamt&language=de)
 
 **Meaning:** registrar's office
 **Plural:** Standesämter

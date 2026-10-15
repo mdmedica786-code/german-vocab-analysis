@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 2a"
 freq_rank: 5512
 skip: false
+audio: "Bäckerei.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bäckerei
+
+![[Bäckerei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%A4ckerei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%A4ckerei&language=de)
 
 **Meaning:** bakery
 **Plural:** Bäckereien

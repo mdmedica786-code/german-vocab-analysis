@@ -15,11 +15,16 @@ id: "B3734"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Rechtsanwältin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rechtsanwältin
+
+![[Rechtsanwältin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechtsanw%C3%A4ltin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechtsanw%C3%A4ltin&language=de)
 
 **Meaning:** lawyer (f)
 **Plural:** Rechtsanwältinnen

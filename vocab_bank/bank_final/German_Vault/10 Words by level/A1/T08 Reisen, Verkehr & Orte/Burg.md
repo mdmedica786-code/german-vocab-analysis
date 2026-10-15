@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 11b"
 freq_rank: 2573
 skip: false
+audio: "Burg.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Burg
+
+![[Burg.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Burg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Burg&language=de)
 
 **Meaning:** castle
 **Plural:** Burgen

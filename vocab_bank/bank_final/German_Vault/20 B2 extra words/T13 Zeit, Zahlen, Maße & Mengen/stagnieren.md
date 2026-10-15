@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0261"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "stagnieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # stagnieren
+
+![[stagnieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/stagnieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=stagnieren&language=de)
 
 **Meaning:** to stagnate
 **Forms:** stagniert · stagnierte · hat stagniert

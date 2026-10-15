@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4376"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Schaubild.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Schaubild
+
+![[Schaubild.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schaubild/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaubild&language=de)
 
 **Meaning:** diagram; chart; graphic
 **Plural:** Schaubilder

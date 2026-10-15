@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6b ÜB"
 freq_rank: 126
 skip: false
+audio: "Auge.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Auge
+
+![[Auge.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auge&language=de)
 
 **Meaning:** eye
 **Plural:** Augen

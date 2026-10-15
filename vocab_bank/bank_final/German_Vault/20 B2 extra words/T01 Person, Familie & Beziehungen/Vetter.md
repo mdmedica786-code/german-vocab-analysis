@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3311"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Vetter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vetter
+
+![[Vetter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vetter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vetter&language=de)
 
 **Meaning:** (male) cousin
 **Plural:** Vettern

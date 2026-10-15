@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wer
 
+[▶️ YouGlish](https://youglish.com/pronounce/wer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wer&language=de)
+
 **Meaning:** who?
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

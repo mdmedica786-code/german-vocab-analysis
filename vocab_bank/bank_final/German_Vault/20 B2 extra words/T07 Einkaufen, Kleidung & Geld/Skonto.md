@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0457"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Skonto.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Skonto
+
+![[Skonto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Skonto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Skonto&language=de)
 
 **Meaning:** cash discount
 **Plural:** Skonti

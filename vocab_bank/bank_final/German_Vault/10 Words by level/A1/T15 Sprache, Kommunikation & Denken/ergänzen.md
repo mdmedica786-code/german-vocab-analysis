@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 4b"
 freq_rank: 1585
 skip: false
+audio: "ergänzen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ergänzen
+
+![[ergänzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erg%C3%A4nzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erg%C3%A4nzen&language=de)
 
 **Meaning:** to complete; to supplement
 **Forms:** ergänzt · ergänzte · hat ergänzt

@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 12b"
 freq_rank: 182
 skip: false
+audio: "versuchen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # versuchen
+
+![[versuchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/versuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=versuchen&language=de)
 
 **Meaning:** to attempt
 **Forms:** versucht · versuchte · hat versucht

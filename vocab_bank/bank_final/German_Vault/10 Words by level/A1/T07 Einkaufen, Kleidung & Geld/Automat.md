@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 5a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Automat.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Automat
+
+![[Automat.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Automat/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Automat&language=de)
 
 **Meaning:** vending machine
 **Plural:** Automaten

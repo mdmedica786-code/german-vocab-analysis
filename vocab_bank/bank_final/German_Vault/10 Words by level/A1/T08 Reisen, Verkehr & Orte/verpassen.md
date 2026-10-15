@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 7a"
 freq_rank: 3422
 skip: false
+audio: "verpassen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verpassen
+
+![[verpassen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verpassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verpassen&language=de)
 
 **Meaning:** to miss
 **Forms:** verpasst · verpasste · hat verpasst

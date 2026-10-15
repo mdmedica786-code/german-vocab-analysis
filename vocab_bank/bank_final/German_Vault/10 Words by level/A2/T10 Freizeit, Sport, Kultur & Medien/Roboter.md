@@ -15,11 +15,16 @@ id: "B2519"
 netzwerk: "A2 K6 13b"
 freq_rank: 3855
 skip: false
+audio: "Roboter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Roboter
+
+![[Roboter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Roboter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Roboter&language=de)
 
 **Meaning:** robot
 **Plural:** Roboter

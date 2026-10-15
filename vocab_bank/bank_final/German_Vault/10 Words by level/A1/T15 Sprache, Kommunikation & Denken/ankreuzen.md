@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 2a"
 freq_rank: 5759
 skip: false
+audio: "ankreuzen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ankreuzen
+
+![[ankreuzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ankreuzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ankreuzen&language=de)
 
 **Meaning:** to tick; to mark with a cross
 **Forms:** kreuzt an · kreuzte an · hat angekreuzt

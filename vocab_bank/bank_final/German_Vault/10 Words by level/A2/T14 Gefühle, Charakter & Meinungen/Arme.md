@@ -15,11 +15,16 @@ id: "B3076"
 netzwerk: "A2 K11 9a"
 freq_rank: 2000
 skip: false
+audio: "Arme.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Arme
+
+![[Arme.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Arme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arme&language=de)
 
 **Meaning:** poor person; poor thing
 **Plural:** Armen

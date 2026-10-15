@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K7 10a"
 freq_rank: 809
 skip: false
+audio: "Prozent.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Prozent
+
+![[Prozent.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prozent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prozent&language=de)
 
 **Meaning:** percent
 **Plural:** Prozente

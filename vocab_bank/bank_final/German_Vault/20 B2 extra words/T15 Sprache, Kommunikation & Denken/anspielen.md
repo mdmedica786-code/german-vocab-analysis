@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1794"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "anspielen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # anspielen
+
+![[anspielen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anspielen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anspielen&language=de)
 
 **Meaning:** to allude (to); to hint at
 **Forms:** spielt an · spielte an · hat angespielt

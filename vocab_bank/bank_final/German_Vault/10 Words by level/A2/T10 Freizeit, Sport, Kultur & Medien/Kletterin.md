@@ -15,11 +15,16 @@ id: "B2876"
 netzwerk: "A2 K9 10a"
 freq_rank: 5759
 skip: false
+audio: "Kletterin.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kletterin
+
+![[Kletterin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kletterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kletterin&language=de)
 
 **Meaning:** climber (f)
 **Plural:** Kletterinnen

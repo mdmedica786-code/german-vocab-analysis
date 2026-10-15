@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 9a"
 freq_rank: 4650
 skip: false
+audio: "putzen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # putzen
+
+![[putzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/putzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=putzen&language=de)
 
 **Meaning:** to clean
 **Forms:** putzt · putzte · hat geputzt

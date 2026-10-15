@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 2c"
 freq_rank: 5759
 skip: false
+audio: "Werktag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Werktag
+
+![[Werktag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werktag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werktag&language=de)
 
 **Meaning:** working day
 **Plural:** Werktage

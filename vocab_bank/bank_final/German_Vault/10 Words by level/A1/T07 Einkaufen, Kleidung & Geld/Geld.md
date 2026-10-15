@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 6a"
 freq_rank: 418
 skip: false
+audio: "Geld.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Geld
+
+![[Geld.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geld&language=de)
 
 **Meaning:** money
 **Plural:** Gelder

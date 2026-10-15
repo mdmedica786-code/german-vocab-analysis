@@ -15,11 +15,16 @@ id: "B2007"
 netzwerk: "A2 K2 7a"
 freq_rank: 5749
 skip: false
+audio: "Rollstuhl.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rollstuhl
+
+![[Rollstuhl.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rollstuhl/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rollstuhl&language=de)
 
 **Meaning:** wheelchair
 **Plural:** Rollstühle

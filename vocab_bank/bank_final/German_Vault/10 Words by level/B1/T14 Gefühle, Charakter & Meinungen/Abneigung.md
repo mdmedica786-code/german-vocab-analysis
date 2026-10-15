@@ -15,11 +15,16 @@ id: "B3364"
 netzwerk: "B1 K1 13c"
 freq_rank: 5219
 skip: false
+audio: "Abneigung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abneigung
+
+![[Abneigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abneigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abneigung&language=de)
 
 **Meaning:** dislike
 **Plural:** Abneigungen

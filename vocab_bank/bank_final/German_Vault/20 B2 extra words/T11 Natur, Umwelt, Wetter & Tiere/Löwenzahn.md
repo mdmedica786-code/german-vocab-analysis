@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1989"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Löwenzahn.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Löwenzahn
+
+![[Löwenzahn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/L%C3%B6wenzahn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=L%C3%B6wenzahn&language=de)
 
 **Meaning:** dandelion
 **Plural:** –

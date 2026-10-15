@@ -15,11 +15,16 @@ id: "B2632"
 netzwerk: "A2 K7 10a"
 freq_rank: 5759
 skip: false
+audio: "Verkehrsproblem.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Verkehrsproblem
+
+![[Verkehrsproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verkehrsproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verkehrsproblem&language=de)
 
 **Meaning:** traffic problem
 **Plural:** Verkehrsprobleme

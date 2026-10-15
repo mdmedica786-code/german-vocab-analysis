@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 9a"
 freq_rank: 5759
 skip: false
+audio: "vormittags.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vormittags
+
+![[vormittags.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vormittags/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vormittags&language=de)
 
 **Meaning:** before noon
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

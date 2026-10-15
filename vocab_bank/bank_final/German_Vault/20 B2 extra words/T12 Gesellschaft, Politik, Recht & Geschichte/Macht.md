@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3224"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Macht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Macht
+
+![[Macht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Macht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Macht&language=de)
 
 **Meaning:** power; might; force
 **Plural:** Mächte

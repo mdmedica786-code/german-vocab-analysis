@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "B1 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Rind.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Rind
+
+![[Rind.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rind&language=de)
 
 **Meaning:** cattle; beef
 **Plural:** Rinder

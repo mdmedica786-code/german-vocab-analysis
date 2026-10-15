@@ -14,11 +14,16 @@ bank: "main"
 id: "B5517"
 freq_rank: 2199
 skip: false
+audio: "Pflege.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflege
+
+![[Pflege.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflege/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflege&language=de)
 
 **Meaning:** care; nursing
 **Plural:** –

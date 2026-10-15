@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0691"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Wasserknappheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wasserknappheit
+
+![[Wasserknappheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wasserknappheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserknappheit&language=de)
 
 **Meaning:** water scarcity
 **Plural:** –

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 7c"
 freq_rank: 2000
 skip: false
+audio: "Dank.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Dank
+
+![[Dank.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dank&language=de)
 
 **Meaning:** thanks; gratitude
 **Plural:** –

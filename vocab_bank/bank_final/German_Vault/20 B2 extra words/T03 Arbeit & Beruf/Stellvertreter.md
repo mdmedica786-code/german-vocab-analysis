@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3478"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Stellvertreter.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Stellvertreter
+
+![[Stellvertreter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stellvertreter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stellvertreter&language=de)
 
 **Meaning:** deputy; substitute
 **Plural:** Stellvertreter

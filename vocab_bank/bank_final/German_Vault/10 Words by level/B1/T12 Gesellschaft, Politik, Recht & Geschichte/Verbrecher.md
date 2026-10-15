@@ -15,11 +15,16 @@ id: "B6092"
 goethe_level: "B1"
 freq_rank: 4305
 skip: false
+audio: "Verbrecher.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verbrecher
+
+![[Verbrecher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbrecher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbrecher&language=de)
 
 **Meaning:** criminal
 **Plural:** Verbrecher

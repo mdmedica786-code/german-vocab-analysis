@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K1 8a"
 freq_rank: 794
 skip: false
+audio: "Tabelle.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Tabelle
+
+![[Tabelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tabelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tabelle&language=de)
 
 **Meaning:** table, chart
 **Plural:** Tabellen

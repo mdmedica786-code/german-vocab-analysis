@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4433"
 exam_use: ["Medien", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Spielelement.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Spielelement
+
+![[Spielelement.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spielelement/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielelement&language=de)
 
 **Meaning:** game element; gaming element
 **Plural:** Spielelemente

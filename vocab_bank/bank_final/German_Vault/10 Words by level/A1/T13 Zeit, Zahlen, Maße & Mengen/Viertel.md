@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 5a"
 freq_rank: 2650
 skip: false
+audio: "Viertel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Viertel
+
+![[Viertel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Viertel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Viertel&language=de)
 
 **Meaning:** quarter
 **Plural:** Viertel

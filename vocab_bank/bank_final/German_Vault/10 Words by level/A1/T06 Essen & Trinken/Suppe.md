@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 2a"
 freq_rank: 3804
 skip: false
+audio: "Suppe.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Suppe
+
+![[Suppe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Suppe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Suppe&language=de)
 
 **Meaning:** soup
 **Plural:** Suppen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4122"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "konfigurieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # konfigurieren
+
+![[konfigurieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/konfigurieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=konfigurieren&language=de)
 
 **Meaning:** to configure; to set up
 **Forms:** konfiguriert · konfigurierte · hat konfiguriert

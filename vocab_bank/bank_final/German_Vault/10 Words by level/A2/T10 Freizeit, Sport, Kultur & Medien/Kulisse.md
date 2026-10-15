@@ -15,11 +15,16 @@ id: "B3128"
 netzwerk: "A2 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Kulisse.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kulisse
+
+![[Kulisse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kulisse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kulisse&language=de)
 
 **Meaning:** scenery; backdrop
 **Plural:** Kulissen

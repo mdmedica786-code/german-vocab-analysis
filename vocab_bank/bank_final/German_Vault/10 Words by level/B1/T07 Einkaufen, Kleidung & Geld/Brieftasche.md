@@ -15,11 +15,16 @@ id: "B6383"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Brieftasche.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Brieftasche
+
+![[Brieftasche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brieftasche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brieftasche&language=de)
 
 **Meaning:** wallet
 **Plural:** Brieftaschen

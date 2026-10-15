@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4488"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Theaterstudio
+
+[▶️ YouGlish](https://youglish.com/pronounce/Theaterstudio/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Theaterstudio&language=de)
 
 **Meaning:** theatre studio
 **Plural:** Theaterstudios

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0283"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "ableiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ableiten
+
+![[ableiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ableiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ableiten&language=de)
 
 **Meaning:** to derive; to deduce
 **Forms:** leitet ab · leitete ab · hat abgeleitet

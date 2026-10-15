@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1083"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wohnungsbesichtigung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wohnungsbesichtigung
+
+![[Wohnungsbesichtigung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnungsbesichtigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnungsbesichtigung&language=de)
 
 **Meaning:** flat viewing
 **Plural:** Wohnungsbesichtigungen

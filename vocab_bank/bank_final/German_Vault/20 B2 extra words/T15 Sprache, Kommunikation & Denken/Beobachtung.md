@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0333"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Beobachtung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Beobachtung
+
+![[Beobachtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beobachtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beobachtung&language=de)
 
 **Meaning:** observation
 **Plural:** Beobachtungen

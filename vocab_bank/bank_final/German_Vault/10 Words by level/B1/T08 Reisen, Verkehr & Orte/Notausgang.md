@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Notausgang.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Notausgang
+
+![[Notausgang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Notausgang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Notausgang&language=de)
 
 **Meaning:** emergency exit
 **Plural:** Notausgänge

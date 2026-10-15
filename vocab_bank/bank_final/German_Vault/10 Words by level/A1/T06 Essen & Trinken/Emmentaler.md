@@ -15,11 +15,16 @@ id: "B0675"
 netzwerk: "A1 K4 6a"
 freq_rank: 5759
 skip: false
+audio: "Emmentaler.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Emmentaler
+
+![[Emmentaler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Emmentaler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Emmentaler&language=de)
 
 **Meaning:** Emmentaler cheese
 **Plural:** Emmentaler

@@ -15,11 +15,16 @@ id: "B3955"
 netzwerk: "B1 K5 6b"
 freq_rank: 5759
 skip: false
+audio: "Energiekosten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Energiekosten
+
+![[Energiekosten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Energiekosten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Energiekosten&language=de)
 
 **Meaning:** cost of energy
 **Plural:** (Pl.)

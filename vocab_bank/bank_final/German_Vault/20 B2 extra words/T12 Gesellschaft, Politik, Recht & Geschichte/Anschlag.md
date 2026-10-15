@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3201"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Anschlag.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anschlag
+
+![[Anschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anschlag&language=de)
 
 **Meaning:** attack; notice; stop (on a device)
 **Plural:** Anschläge

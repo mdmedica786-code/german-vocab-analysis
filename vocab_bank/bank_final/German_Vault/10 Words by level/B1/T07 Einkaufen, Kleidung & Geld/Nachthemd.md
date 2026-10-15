@@ -15,11 +15,16 @@ id: "B4442"
 netzwerk: "B1 K8 5b"
 freq_rank: 5759
 skip: false
+audio: "Nachthemd.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nachthemd
+
+![[Nachthemd.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachthemd/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachthemd&language=de)
 
 **Meaning:** nightgown
 **Plural:** Nachthemden

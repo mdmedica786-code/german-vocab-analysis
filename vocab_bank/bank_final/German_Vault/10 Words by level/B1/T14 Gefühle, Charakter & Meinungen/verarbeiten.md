@@ -13,11 +13,16 @@ id: "B4496"
 netzwerk: "B1 K8 6b"
 freq_rank: 2613
 skip: false
+audio: "verarbeiten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verarbeiten
+
+![[verarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verarbeiten&language=de)
 
 **Meaning:** to process; to cope with
 **Forms:** verarbeitet · verarbeitete · hat verarbeitet

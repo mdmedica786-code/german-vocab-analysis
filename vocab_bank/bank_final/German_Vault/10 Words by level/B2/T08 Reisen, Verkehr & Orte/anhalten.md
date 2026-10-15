@@ -12,11 +12,16 @@ bank: "main"
 id: "B5905"
 freq_rank: 3438
 skip: false
+audio: "anhalten.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anhalten
+
+![[anhalten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anhalten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anhalten&language=de)
 
 **Meaning:** to stop; to last
 **Forms:** hält an · hielt an · hat angehalten

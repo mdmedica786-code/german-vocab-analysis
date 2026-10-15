@@ -15,11 +15,16 @@ id: "B3886"
 netzwerk: "B1 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Marktanteil.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Marktanteil
+
+![[Marktanteil.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Marktanteil/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Marktanteil&language=de)
 
 **Meaning:** market share
 **Plural:** Marktanteile

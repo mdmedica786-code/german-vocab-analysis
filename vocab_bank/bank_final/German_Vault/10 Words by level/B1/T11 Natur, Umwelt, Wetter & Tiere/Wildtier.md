@@ -15,11 +15,16 @@ id: "B3577"
 netzwerk: "B1 K3 3c"
 freq_rank: 5759
 skip: false
+audio: "Wildtier.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wildtier
+
+![[Wildtier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wildtier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wildtier&language=de)
 
 **Meaning:** wild animal
 **Plural:** Wildtiere

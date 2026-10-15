@@ -15,11 +15,16 @@ id: "B1710"
 netzwerk: "A1 K11 12b"
 freq_rank: 3068
 skip: false
+audio: "Architektur.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Architektur
+
+![[Architektur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Architektur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architektur&language=de)
 
 **Meaning:** architecture
 **Plural:** –

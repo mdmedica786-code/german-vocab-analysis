@@ -15,11 +15,16 @@ id: "B4332"
 netzwerk: "B1 K7 12b"
 freq_rank: 1224
 skip: false
+audio: "Feind.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Feind
+
+![[Feind.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feind/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feind&language=de)
 
 **Meaning:** enemy (m)
 **Plural:** Feinde

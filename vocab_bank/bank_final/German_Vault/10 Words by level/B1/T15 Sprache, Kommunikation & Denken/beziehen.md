@@ -13,11 +13,16 @@ id: "B3815"
 netzwerk: "B1 K4 9c"
 freq_rank: 607
 skip: false
+audio: "beziehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beziehen
+
+![[beziehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beziehen&language=de)
 
 **Meaning:** to refer (sich beziehen auf); to obtain; to move into
 **Forms:** bezieht · bezog · hat bezogen

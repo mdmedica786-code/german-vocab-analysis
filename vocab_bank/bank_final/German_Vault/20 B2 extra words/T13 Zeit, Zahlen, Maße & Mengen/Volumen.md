@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2981"
 exam_use: ["Wissenschaft", "Lesen"]
 skip: false
+audio: "Volumen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Wissenschaft", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Volumen
+
+![[Volumen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Volumen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Volumen&language=de)
 
 **Meaning:** volume
 **Plural:** Volumina

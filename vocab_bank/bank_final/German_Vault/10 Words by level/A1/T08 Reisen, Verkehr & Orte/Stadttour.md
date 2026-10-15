@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Stadttour
 
+[▶️ YouGlish](https://youglish.com/pronounce/Stadttour/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadttour&language=de)
+
 **Meaning:** city tour
 **Plural:** Stadttouren
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

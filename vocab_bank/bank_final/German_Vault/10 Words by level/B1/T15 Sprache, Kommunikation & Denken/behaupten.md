@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 10a"
 freq_rank: 1034
 skip: false
+audio: "behaupten.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # behaupten
+
+![[behaupten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/behaupten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=behaupten&language=de)
 
 **Meaning:** to claim
 **Forms:** behauptet · behauptete · hat behauptet

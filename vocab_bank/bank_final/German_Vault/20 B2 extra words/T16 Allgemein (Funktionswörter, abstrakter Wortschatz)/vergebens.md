@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3177"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "vergebens.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergebens
+
+![[vergebens.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergebens/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergebens&language=de)
 
 **Meaning:** in vain; for nothing
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

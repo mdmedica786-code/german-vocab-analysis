@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K10 3a"
 freq_rank: 764
 skip: false
+audio: "Projekt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Projekt
+
+![[Projekt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Projekt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Projekt&language=de)
 
 **Meaning:** project
 **Plural:** Projekte

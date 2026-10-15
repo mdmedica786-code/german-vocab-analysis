@@ -14,11 +14,16 @@ bank: "main"
 id: "B6268"
 freq_rank: 5246
 skip: false
+audio: "Rumpf.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rumpf
+
+![[Rumpf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rumpf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rumpf&language=de)
 
 **Meaning:** torso; trunk
 **Plural:** Rümpfe

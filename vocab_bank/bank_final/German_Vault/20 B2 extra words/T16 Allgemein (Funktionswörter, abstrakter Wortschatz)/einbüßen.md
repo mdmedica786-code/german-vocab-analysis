@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0880"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "einbüßen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einbüßen
+
+![[einbüßen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einb%C3%BC%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einb%C3%BC%C3%9Fen&language=de)
 
 **Meaning:** to lose; to forfeit
 **Forms:** büßt ein · büßte ein · hat eingebüßt

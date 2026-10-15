@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4524"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Umweltverband.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Umweltverband
+
+![[Umweltverband.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umweltverband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umweltverband&language=de)
 
 **Meaning:** environmental association; environmental organisation
 **Plural:** Umweltverbände

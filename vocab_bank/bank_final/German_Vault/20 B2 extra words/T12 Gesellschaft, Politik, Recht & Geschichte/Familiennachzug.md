@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1920"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Familiennachzug.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Familiennachzug
+
+![[Familiennachzug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familiennachzug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familiennachzug&language=de)
 
 **Meaning:** family reunification
 **Plural:** –

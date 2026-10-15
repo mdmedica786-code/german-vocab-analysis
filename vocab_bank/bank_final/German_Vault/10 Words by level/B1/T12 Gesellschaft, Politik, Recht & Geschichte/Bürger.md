@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 1296
 skip: false
+audio: "Bürger.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Bürger
+
+![[Bürger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrger&language=de)
 
 **Meaning:** citizen (m)
 **Plural:** Bürger

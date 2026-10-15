@@ -12,11 +12,16 @@ id: "B1576"
 netzwerk: "A1 K11 1a"
 freq_rank: 2215
 skip: false
+audio: "doof.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # doof
+
+![[doof.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/doof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=doof&language=de)
 
 **Meaning:** stupid
 **Level:** A1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** colloquial

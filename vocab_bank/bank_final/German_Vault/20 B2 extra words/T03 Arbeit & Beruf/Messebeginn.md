@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4224"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Messebeginn
+
+[▶️ YouGlish](https://youglish.com/pronounce/Messebeginn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messebeginn&language=de)
 
 **Meaning:** start of the fair
 **Plural:** –

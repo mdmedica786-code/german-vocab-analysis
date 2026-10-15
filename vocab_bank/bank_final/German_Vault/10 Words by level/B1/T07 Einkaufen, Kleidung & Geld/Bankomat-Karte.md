@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Bankomat-Karte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bankomat-Karte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankomat-Karte&language=de)
+
 **Meaning:** bank card (Austrian)
 **Plural:** Bankomat-Karten
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** regional

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4235"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "mitdenken.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # mitdenken
+
+![[mitdenken.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitdenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitdenken&language=de)
 
 **Meaning:** to think along; to follow the thought process
 **Forms:** denkt mit · dachte mit · hat mitgedacht

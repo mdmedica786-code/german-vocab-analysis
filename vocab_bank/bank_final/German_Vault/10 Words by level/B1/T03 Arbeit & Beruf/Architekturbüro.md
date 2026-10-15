@@ -15,11 +15,16 @@ id: "B4815"
 netzwerk: "B1 K10 7b"
 freq_rank: 5759
 skip: false
+audio: "Architekturbüro.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Architekturbüro
+
+![[Architekturbüro.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Architekturb%C3%BCro/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Architekturb%C3%BCro&language=de)
 
 **Meaning:** architecture firm
 **Plural:** Architekturbüros

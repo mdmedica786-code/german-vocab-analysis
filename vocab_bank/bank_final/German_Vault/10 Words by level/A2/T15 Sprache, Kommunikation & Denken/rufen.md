@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K1 9c"
 freq_rank: 254
 skip: false
+audio: "rufen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # rufen
+
+![[rufen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rufen&language=de)
 
 **Meaning:** to call
 **Forms:** ruft · rief · hat gerufen

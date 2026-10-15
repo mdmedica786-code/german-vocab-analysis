@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 9a"
 freq_rank: 2787
 skip: false
+audio: "starten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # starten
+
+![[starten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/starten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=starten&language=de)
 
 **Meaning:** to start
 **Forms:** startet · startete · ist gestartet

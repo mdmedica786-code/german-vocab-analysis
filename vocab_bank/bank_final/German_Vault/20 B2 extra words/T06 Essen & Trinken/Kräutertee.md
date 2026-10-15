@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4143"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Kräutertee.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Kräutertee
+
+![[Kräutertee.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kr%C3%A4utertee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kr%C3%A4utertee&language=de)
 
 **Meaning:** herbal tea
 **Plural:** Kräutertees

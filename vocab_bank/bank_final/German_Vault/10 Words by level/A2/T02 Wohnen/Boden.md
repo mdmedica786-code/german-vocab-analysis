@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K10 5b"
 freq_rank: 386
 skip: false
+audio: "Boden.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Boden
+
+![[Boden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Boden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Boden&language=de)
 
 **Meaning:** floor
 **Plural:** Böden

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A2 K8 9a"
 freq_rank: 4823
 skip: false
+audio: "reparieren.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # reparieren
+
+![[reparieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/reparieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=reparieren&language=de)
 
 **Meaning:** to repair
 **Forms:** repariert · reparierte · hat repariert

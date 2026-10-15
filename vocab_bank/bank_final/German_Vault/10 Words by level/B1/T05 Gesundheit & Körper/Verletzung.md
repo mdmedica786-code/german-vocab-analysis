@@ -15,11 +15,16 @@ id: "B5368"
 goethe_level: "B1"
 freq_rank: 1635
 skip: false
+audio: "Verletzung.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verletzung
+
+![[Verletzung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verletzung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verletzung&language=de)
 
 **Meaning:** injury
 **Plural:** Verletzungen

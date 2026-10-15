@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1514"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Selbstkritik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Selbstkritik
+
+![[Selbstkritik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Selbstkritik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Selbstkritik&language=de)
 
 **Meaning:** self-criticism
 **Plural:** –

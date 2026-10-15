@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # dich
 
+[▶️ YouGlish](https://youglish.com/pronounce/dich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dich&language=de)
+
 **Meaning:** you
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

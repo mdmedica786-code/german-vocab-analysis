@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K5 8b"
 freq_rank: 1044
 skip: false
+audio: "Gebäude.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gebäude
+
+![[Gebäude.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4ude/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4ude&language=de)
 
 **Meaning:** building
 **Plural:** Gebäude

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1005"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Stadtrundfahrt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stadtrundfahrt
+
+![[Stadtrundfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtrundfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtrundfahrt&language=de)
 
 **Meaning:** city sightseeing tour
 **Plural:** Stadtrundfahrten

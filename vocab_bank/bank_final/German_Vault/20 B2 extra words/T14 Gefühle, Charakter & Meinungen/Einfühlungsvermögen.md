@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0341"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Einfühlungsvermögen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Einfühlungsvermögen
+
+![[Einfühlungsvermögen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einf%C3%BChlungsverm%C3%B6gen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einf%C3%BChlungsverm%C3%B6gen&language=de)
 
 **Meaning:** empathy; sensitivity
 **Plural:** –

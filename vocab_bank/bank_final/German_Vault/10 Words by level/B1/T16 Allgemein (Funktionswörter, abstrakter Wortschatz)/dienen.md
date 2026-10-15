@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K5 13a"
 freq_rank: 513
 skip: false
+audio: "dienen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dienen
+
+![[dienen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dienen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dienen&language=de)
 
 **Meaning:** to serve; to be used
 **Forms:** dient · diente · hat gedient

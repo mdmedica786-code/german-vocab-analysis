@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # Grafik
 
+[▶️ YouGlish](https://youglish.com/pronounce/Grafik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grafik&language=de)
+
 **Meaning:** graphic design; graphics
 **Other senses:** diagram; graph; chart
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

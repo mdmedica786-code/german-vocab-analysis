@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Schutz suchen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schutz%20suchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schutz%20suchen&language=de)
+
 **Meaning:** to seek shelter
 **Level:** B2 · **Topic:** [[T11 Natur, Umwelt, Wetter & Tiere]] · **Register:** neutral
 

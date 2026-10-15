@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0372"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Mehrwert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Mehrwert
+
+![[Mehrwert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mehrwert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mehrwert&language=de)
 
 **Meaning:** added value; benefit
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4372"
 exam_use: ["Alltag", "Medien"]
 skip: false
-status: "new"
+audio: "scannen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Alltag", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # scannen
+
+![[scannen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/scannen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=scannen&language=de)
 
 **Meaning:** to scan
 **Forms:** scannt · scannte · hat gescannt

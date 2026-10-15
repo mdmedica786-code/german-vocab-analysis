@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 1b ÜB"
 freq_rank: 1215
 skip: false
+audio: "verletzen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # verletzen
+
+![[verletzen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verletzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verletzen&language=de)
 
 **Meaning:** to hurt
 **Forms:** verletzt · verletzte · hat verletzt

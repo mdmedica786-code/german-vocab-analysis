@@ -13,11 +13,16 @@ id: "B4070"
 netzwerk: "B1 K5 13e"
 freq_rank: 3445
 skip: false
+audio: "entfallen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entfallen
+
+![[entfallen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entfallen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entfallen&language=de)
 
 **Meaning:** to be omitted; to be waived; to fall to
 **Forms:** entfällt · entfiel · ist entfallen

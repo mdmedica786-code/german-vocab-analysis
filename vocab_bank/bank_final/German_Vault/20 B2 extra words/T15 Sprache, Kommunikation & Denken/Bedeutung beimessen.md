@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Bedeutung beimessen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bedeutung%20beimessen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedeutung%20beimessen&language=de)
+
 **Meaning:** to attach importance
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

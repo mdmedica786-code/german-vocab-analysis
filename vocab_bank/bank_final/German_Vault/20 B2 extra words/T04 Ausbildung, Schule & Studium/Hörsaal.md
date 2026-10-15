@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0933"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Hörsaal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hörsaal
+
+![[Hörsaal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/H%C3%B6rsaal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=H%C3%B6rsaal&language=de)
 
 **Meaning:** lecture hall
 **Plural:** Hörsäle

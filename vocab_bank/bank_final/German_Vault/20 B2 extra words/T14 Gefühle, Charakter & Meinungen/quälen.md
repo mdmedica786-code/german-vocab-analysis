@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3569"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "quälen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # quälen
+
+![[quälen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/qu%C3%A4len/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=qu%C3%A4len&language=de)
 
 **Meaning:** to torment; to torture; to pester
 **Forms:** quält · quälte · hat gequält

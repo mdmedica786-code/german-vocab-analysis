@@ -13,11 +13,16 @@ id: "B3713"
 netzwerk: "B1 K4 1b"
 freq_rank: 5759
 skip: false
+audio: "zustellen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zustellen
+
+![[zustellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zustellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zustellen&language=de)
 
 **Meaning:** to deliver (mail); to block off
 **Forms:** stellt zu · stellte zu · hat zugestellt

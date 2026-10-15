@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 1c"
 freq_rank: 499
 skip: false
+audio: "Bett.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bett
+
+![[Bett.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bett/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bett&language=de)
 
 **Meaning:** bed
 **Plural:** Betten

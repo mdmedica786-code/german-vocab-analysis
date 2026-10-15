@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2429"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Haltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Haltung
+
+![[Haltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haltung&language=de)
 
 **Meaning:** attitude; posture; keeping (of animals)
 **Plural:** Haltungen

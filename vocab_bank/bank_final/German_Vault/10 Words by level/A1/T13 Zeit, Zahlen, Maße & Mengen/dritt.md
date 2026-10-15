@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3c"
 freq_rank: 466
 skip: false
+audio: "dritt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/numeral"]
 status: "new"
 ---
 <!-- bank:start -->
 # dritt
+
+![[dritt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dritt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dritt&language=de)
 
 **Meaning:** third; (zu dritt) in threes, as three
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

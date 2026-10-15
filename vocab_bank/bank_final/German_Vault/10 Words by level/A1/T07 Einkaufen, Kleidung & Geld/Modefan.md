@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Modefan
 
+[▶️ YouGlish](https://youglish.com/pronounce/Modefan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modefan&language=de)
+
 **Meaning:** fashionista
 **Plural:** Modefans
 **Level:** A1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

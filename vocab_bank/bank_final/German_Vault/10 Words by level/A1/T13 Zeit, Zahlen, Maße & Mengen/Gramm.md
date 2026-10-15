@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 5144
 skip: false
+audio: "Gramm.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gramm
+
+![[Gramm.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gramm/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gramm&language=de)
 
 **Meaning:** gram
 **Plural:** Gramm

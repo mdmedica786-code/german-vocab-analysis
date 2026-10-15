@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0791"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "überflüssig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # überflüssig
+
+![[überflüssig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberfl%C3%BCssig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberfl%C3%BCssig&language=de)
 
 **Meaning:** superfluous; unnecessary
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

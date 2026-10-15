@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 12b"
 freq_rank: 444
 skip: false
+audio: "Bewegung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bewegung
+
+![[Bewegung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewegung&language=de)
 
 **Meaning:** exercise; movement
 **Plural:** Bewegungen

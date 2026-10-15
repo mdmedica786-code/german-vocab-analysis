@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # eingespannt sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/eingespannt%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eingespannt%20sein&language=de)
+
 **Meaning:** to be very busy
 **Forms:** ist eingespannt · war eingespannt · ist eingespannt gewesen
 **Level:** B1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

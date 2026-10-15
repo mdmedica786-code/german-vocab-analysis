@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Schweiz
 
+[▶️ YouGlish](https://youglish.com/pronounce/Schweiz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schweiz&language=de)
+
 **Meaning:** Switzerland
 **Plural:** –
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

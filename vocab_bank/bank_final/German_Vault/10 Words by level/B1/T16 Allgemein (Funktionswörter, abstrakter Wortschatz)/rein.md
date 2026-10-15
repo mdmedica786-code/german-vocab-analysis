@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 479
 skip: false
+audio: "rein.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # rein
+
+![[rein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/rein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=rein&language=de)
 
 **Meaning:** pure; clean; sheer
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

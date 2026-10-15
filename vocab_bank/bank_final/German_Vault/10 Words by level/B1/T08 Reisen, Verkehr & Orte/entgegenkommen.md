@@ -13,11 +13,16 @@ id: "B6418"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "entgegenkommen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # entgegenkommen
+
+![[entgegenkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/entgegenkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=entgegenkommen&language=de)
 
 **Meaning:** to meet halfway
 **Forms:** kommt entgegen · kam entgegen · ist entgegengekommen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0551"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Stiftung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stiftung
+
+![[Stiftung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stiftung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stiftung&language=de)
 
 **Meaning:** foundation; endowment
 **Plural:** Stiftungen

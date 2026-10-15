@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4510"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "übermitteln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # übermitteln
+
+![[übermitteln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCbermitteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCbermitteln&language=de)
 
 **Meaning:** to transmit; to convey; to send
 **Forms:** übermittelt · übermittelte · hat übermittelt

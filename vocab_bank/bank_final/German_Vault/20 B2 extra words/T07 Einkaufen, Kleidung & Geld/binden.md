@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1692"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "binden.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # binden
+
+![[binden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/binden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=binden&language=de)
 
 **Meaning:** to tie; to bind
 **Forms:** bindet · band · hat gebunden

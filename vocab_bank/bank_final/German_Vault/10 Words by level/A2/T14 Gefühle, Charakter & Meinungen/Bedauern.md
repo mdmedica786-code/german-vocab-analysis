@@ -15,11 +15,16 @@ id: "B2225"
 netzwerk: "A2 K4 8b"
 freq_rank: 5112
 skip: false
+audio: "Bedauern.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bedauern
+
+![[Bedauern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bedauern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bedauern&language=de)
 
 **Meaning:** regret
 **Plural:** –

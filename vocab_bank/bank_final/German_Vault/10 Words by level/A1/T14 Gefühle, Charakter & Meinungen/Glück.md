@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 6b"
 freq_rank: 598
 skip: false
+audio: "Glück.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Glück
+
+![[Glück.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BCck&language=de)
 
 **Meaning:** luck; happiness
 **Plural:** –

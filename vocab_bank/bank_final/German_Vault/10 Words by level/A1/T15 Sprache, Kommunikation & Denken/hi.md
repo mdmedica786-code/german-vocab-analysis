@@ -12,11 +12,16 @@ id: "B0930"
 netzwerk: "A1 K6 3a"
 freq_rank: 1163
 skip: false
+audio: "hi.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/interjection"]
 status: "new"
 ---
 <!-- bank:start -->
 # hi
+
+![[hi.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hi&language=de)
 
 **Meaning:** hi
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** informal

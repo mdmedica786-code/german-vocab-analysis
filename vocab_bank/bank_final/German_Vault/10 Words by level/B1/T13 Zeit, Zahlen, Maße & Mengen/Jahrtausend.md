@@ -15,11 +15,16 @@ id: "B6465"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "Jahrtausend.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Jahrtausend
+
+![[Jahrtausend.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jahrtausend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jahrtausend&language=de)
 
 **Meaning:** millennium
 **Plural:** Jahrtausende

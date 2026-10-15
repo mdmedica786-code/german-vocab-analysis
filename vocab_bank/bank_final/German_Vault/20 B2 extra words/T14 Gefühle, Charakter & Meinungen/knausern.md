@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1284"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "knausern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # knausern
+
+![[knausern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/knausern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=knausern&language=de)
 
 **Meaning:** to be stingy
 **Forms:** knausert · knauserte · hat geknausert

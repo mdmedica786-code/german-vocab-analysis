@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 3a"
 freq_rank: 183
 skip: false
+audio: "Herr.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Herr
+
+![[Herr.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Herr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Herr&language=de)
 
 **Meaning:** Mr; Sir (title)
 **Other senses:** gentleman

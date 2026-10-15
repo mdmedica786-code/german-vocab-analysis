@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4a ÜB"
 freq_rank: 389
 skip: false
+audio: "bieten.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bieten
+
+![[bieten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bieten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bieten&language=de)
 
 **Meaning:** to offer; to bid
 **Forms:** bietet · bot · hat geboten

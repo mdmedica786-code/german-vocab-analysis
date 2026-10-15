@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 11b"
 freq_rank: 2003
 skip: false
+audio: "Schnee.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schnee
+
+![[Schnee.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schnee/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnee&language=de)
 
 **Meaning:** snow
 **Plural:** –

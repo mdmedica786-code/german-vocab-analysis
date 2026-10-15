@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2456"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Anblick.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Anblick
+
+![[Anblick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anblick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anblick&language=de)
 
 **Meaning:** sight; view
 **Plural:** Anblicke

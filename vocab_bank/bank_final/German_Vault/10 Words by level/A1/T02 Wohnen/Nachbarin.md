@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 1e"
 freq_rank: 5347
 skip: false
+audio: "Nachbarin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachbarin
+
+![[Nachbarin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachbarin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachbarin&language=de)
 
 **Meaning:** neighbour (f)
 **Plural:** Nachbarinnen

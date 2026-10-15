@@ -14,11 +14,16 @@ bank: "main"
 id: "B6234"
 freq_rank: 4987
 skip: false
+audio: "Bereicherung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bereicherung
+
+![[Bereicherung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bereicherung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bereicherung&language=de)
 
 **Meaning:** enrichment
 **Plural:** Bereicherungen

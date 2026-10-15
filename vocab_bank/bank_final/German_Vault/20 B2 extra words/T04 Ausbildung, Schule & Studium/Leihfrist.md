@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0987"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Leihfrist.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Leihfrist
+
+![[Leihfrist.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leihfrist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leihfrist&language=de)
 
 **Meaning:** loan period
 **Plural:** Leihfristen

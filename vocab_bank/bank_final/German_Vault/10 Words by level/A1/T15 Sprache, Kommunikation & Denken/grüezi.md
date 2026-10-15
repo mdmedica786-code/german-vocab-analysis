@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # grüezi
 
+[▶️ YouGlish](https://youglish.com/pronounce/gr%C3%BCezi/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gr%C3%BCezi&language=de)
+
 **Meaning:** hello (Swiss German)
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** regional
 **Note:** Swiss German greeting.

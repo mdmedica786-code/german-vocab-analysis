@@ -15,11 +15,16 @@ id: "B2710"
 netzwerk: "A2 K8 3c"
 freq_rank: 5223
 skip: false
+audio: "Trick.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Trick
+
+![[Trick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trick&language=de)
 
 **Meaning:** trick
 **Plural:** Tricks

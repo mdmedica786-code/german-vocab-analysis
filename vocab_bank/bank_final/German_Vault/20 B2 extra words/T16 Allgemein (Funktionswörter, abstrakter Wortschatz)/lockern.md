@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1287"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "lockern.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # lockern
+
+![[lockern.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lockern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lockern&language=de)
 
 **Meaning:** to loosen; to relax (rules)
 **Forms:** lockert · lockerte · hat gelockert

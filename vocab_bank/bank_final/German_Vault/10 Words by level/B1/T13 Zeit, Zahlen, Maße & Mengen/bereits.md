@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 6b"
 freq_rank: 152
 skip: false
+audio: "bereits.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bereits
+
+![[bereits.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bereits/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereits&language=de)
 
 **Meaning:** already
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

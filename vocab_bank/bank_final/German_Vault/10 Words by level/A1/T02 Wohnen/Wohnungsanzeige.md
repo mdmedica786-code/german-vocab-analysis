@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Wohnungsanzeige
 
+[▶️ YouGlish](https://youglish.com/pronounce/Wohnungsanzeige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wohnungsanzeige&language=de)
+
 **Meaning:** advertisement for a flat
 **Plural:** Wohnungsanzeigen
 **Level:** A1 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

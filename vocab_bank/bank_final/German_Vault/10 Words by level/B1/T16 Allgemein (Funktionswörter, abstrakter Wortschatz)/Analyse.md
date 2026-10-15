@@ -15,11 +15,16 @@ id: "B3701"
 netzwerk: "B1 K4 1b"
 freq_rank: 616
 skip: false
+audio: "Analyse.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Analyse
+
+![[Analyse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Analyse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Analyse&language=de)
 
 **Meaning:** analysis
 **Plural:** Analysen

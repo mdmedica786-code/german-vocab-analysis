@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4019"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Großdruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Großdruck
+
+![[Großdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gro%C3%9Fdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gro%C3%9Fdruck&language=de)
 
 **Meaning:** large print
 **Plural:** Großdrucke

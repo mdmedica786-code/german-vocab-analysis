@@ -15,11 +15,13 @@ id: "D4094"
 exam_use: ["Medien", "Lesen"]
 skip: false
 check: "?Schreibung (üblich: Kabarettstück)"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Kabarett-Stück
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kabarett-St%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kabarett-St%C3%BCck&language=de)
 
 **Meaning:** cabaret piece; cabaret show
 **Plural:** Kabarett-Stücke

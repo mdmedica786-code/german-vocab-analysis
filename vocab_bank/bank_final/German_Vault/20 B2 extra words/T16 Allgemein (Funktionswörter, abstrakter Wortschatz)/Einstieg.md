@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3231"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Einstieg.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einstieg
+
+![[Einstieg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einstieg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einstieg&language=de)
 
 **Meaning:** entry; start; way in
 **Plural:** Einstiege

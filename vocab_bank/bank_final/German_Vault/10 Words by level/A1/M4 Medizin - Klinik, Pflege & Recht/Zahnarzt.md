@@ -15,11 +15,16 @@ id: "B1109"
 netzwerk: "A1 K7 5e"
 freq_rank: 4706
 skip: false
+audio: "Zahnarzt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zahnarzt
+
+![[Zahnarzt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zahnarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zahnarzt&language=de)
 
 **Meaning:** dentist (m)
 **Plural:** Zahnärzte

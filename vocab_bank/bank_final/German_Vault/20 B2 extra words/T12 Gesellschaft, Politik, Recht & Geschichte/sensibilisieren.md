@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4404"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
+audio: "sensibilisieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/verb", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # sensibilisieren
+
+![[sensibilisieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sensibilisieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sensibilisieren&language=de)
 
 **Meaning:** to raise awareness; to sensitise
 **Forms:** sensibilisiert · sensibilisierte · hat sensibilisiert

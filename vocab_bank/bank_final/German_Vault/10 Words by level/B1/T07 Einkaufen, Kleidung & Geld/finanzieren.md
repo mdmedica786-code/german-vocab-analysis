@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 7b"
 freq_rank: 5515
 skip: false
+audio: "finanzieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # finanzieren
+
+![[finanzieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/finanzieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=finanzieren&language=de)
 
 **Meaning:** to finance
 **Forms:** finanziert · finanzierte · hat finanziert

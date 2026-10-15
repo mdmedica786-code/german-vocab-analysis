@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a ÜB"
 freq_rank: 4720
 skip: false
+audio: "Bluse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bluse
+
+![[Bluse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bluse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bluse&language=de)
 
 **Meaning:** blouse
 **Plural:** Blusen

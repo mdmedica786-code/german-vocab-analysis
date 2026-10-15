@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 436
 skip: false
+audio: "Luft.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Luft
+
+![[Luft.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Luft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Luft&language=de)
 
 **Meaning:** air
 **Plural:** –

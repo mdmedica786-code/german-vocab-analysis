@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # erhalten sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/erhalten%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erhalten%20sein&language=de)
+
 **Meaning:** to be preserved
 **Forms:** ist erhalten · war erhalten · ist erhalten gewesen
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

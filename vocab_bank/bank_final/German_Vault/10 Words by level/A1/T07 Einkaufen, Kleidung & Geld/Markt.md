@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K3 8"
 freq_rank: 831
 skip: false
+audio: "Markt.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Markt
+
+![[Markt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Markt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markt&language=de)
 
 **Meaning:** market
 **Plural:** Märkte

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4412"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Sketch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sketch
+
+![[Sketch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sketch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sketch&language=de)
 
 **Meaning:** sketch; comedy skit
 **Plural:** Sketche

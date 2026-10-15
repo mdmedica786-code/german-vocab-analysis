@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0580"
 exam_use: ["Lesen"]
 skip: false
+audio: "Endgerät.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Endgerät
+
+![[Endgerät.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Endger%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Endger%C3%A4t&language=de)
 
 **Meaning:** end device; terminal device
 **Plural:** Endgeräte

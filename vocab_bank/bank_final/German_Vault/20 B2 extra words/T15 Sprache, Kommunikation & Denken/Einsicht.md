@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1483"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Einsicht.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einsicht
+
+![[Einsicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einsicht&language=de)
 
 **Meaning:** insight; realisation; access (to files)
 **Plural:** Einsichten

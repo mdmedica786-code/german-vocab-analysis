@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1609"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "ignorant.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ignorant
+
+![[ignorant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ignorant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ignorant&language=de)
 
 **Meaning:** ignorant; indifferent
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

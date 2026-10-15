@@ -15,11 +15,16 @@ id: "B0871"
 netzwerk: "A1 K5 10c"
 freq_rank: 5759
 skip: false
+audio: "Modalverb.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Modalverb
+
+![[Modalverb.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Modalverb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Modalverb&language=de)
 
 **Meaning:** modal verb
 **Plural:** Modalverben

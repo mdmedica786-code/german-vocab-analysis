@@ -12,11 +12,16 @@ id: "B5765"
 goethe_level: "B1"
 freq_rank: 2986
 skip: false
+audio: "nördlich.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nördlich
+
+![[nördlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%B6rdlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%B6rdlich&language=de)
 
 **Meaning:** northern
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

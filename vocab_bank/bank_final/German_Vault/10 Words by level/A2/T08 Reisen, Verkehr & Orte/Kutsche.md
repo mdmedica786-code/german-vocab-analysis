@@ -15,11 +15,16 @@ id: "B3096"
 netzwerk: "A2 K11 11a"
 freq_rank: 4546
 skip: false
+audio: "Kutsche.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kutsche
+
+![[Kutsche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kutsche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kutsche&language=de)
 
 **Meaning:** carriage
 **Plural:** Kutschen

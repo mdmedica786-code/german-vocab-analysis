@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1596"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "gemächlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # gemächlich
+
+![[gemächlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gem%C3%A4chlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gem%C3%A4chlich&language=de)
 
 **Meaning:** leisurely; unhurried
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

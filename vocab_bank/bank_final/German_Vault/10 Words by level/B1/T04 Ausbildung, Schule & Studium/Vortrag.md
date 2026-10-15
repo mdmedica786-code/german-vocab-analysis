@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 11b"
 freq_rank: 2390
 skip: false
+audio: "Vortrag.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vortrag
+
+![[Vortrag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vortrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vortrag&language=de)
 
 **Meaning:** lecture
 **Plural:** Vorträge

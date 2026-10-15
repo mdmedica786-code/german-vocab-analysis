@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0045"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "in Frage kommen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # in Frage kommen
+
+![[in Frage kommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/in%20Frage%20kommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=in%20Frage%20kommen&language=de)
 
 **Meaning:** to be an option; to come into question
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

@@ -15,11 +15,16 @@ id: "B0883"
 netzwerk: "A1 K5 12"
 freq_rank: 5759
 skip: false
+audio: "Sprachkurs.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sprachkurs
+
+![[Sprachkurs.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachkurs/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachkurs&language=de)
 
 **Meaning:** language class
 **Plural:** Sprachkurse

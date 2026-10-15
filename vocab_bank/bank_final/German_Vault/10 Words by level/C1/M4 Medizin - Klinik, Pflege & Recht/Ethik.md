@@ -14,11 +14,16 @@ bank: "main"
 id: "B5620"
 freq_rank: 2588
 skip: false
+audio: "Ethik.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ethik
+
+![[Ethik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ethik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ethik&language=de)
 
 **Meaning:** ethics
 **Plural:** –

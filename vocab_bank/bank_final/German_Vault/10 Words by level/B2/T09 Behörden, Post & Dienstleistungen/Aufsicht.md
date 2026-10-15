@@ -14,11 +14,16 @@ bank: "main"
 id: "B6067"
 freq_rank: 4151
 skip: false
+audio: "Aufsicht.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aufsicht
+
+![[Aufsicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufsicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufsicht&language=de)
 
 **Meaning:** supervision
 **Plural:** –

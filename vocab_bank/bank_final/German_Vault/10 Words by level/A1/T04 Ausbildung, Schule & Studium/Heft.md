@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 11b"
 freq_rank: 2521
 skip: false
+audio: "Heft.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Heft
+
+![[Heft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Heft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Heft&language=de)
 
 **Meaning:** exercise book
 **Plural:** Hefte

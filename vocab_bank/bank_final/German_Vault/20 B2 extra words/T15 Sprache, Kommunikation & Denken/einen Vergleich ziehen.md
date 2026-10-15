@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # einen Vergleich ziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/einen%20Vergleich%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einen%20Vergleich%20ziehen&language=de)
+
 **Meaning:** to draw a comparison
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

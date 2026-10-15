@@ -13,11 +13,16 @@ id: "B5100"
 netzwerk: "B1 K12 10a"
 freq_rank: 5759
 skip: false
+audio: "nachprüfen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nachprüfen
+
+![[nachprüfen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachpr%C3%BCfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachpr%C3%BCfen&language=de)
 
 **Meaning:** to check
 **Forms:** prüft nach · prüfte nach · hat nachgeprüft

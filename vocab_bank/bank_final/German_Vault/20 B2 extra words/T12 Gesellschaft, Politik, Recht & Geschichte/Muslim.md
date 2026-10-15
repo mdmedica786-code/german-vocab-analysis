@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3483"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Muslim.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Muslim
+
+![[Muslim.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Muslim/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Muslim&language=de)
 
 **Meaning:** Muslim
 **Plural:** Muslime

@@ -15,11 +15,16 @@ id: "B6425"
 goethe_level: "A1"
 freq_rank: 5759
 skip: false
+audio: "Familienstand.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Familienstand
+
+![[Familienstand.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Familienstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Familienstand&language=de)
 
 **Meaning:** marital status
 **Plural:** –

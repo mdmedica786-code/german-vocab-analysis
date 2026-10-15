@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Bulgarisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Bulgarisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bulgarisch&language=de)
+
 **Meaning:** Bulgarian
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 5410
 skip: false
+audio: "Passagier.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Passagier
+
+![[Passagier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passagier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passagier&language=de)
 
 **Meaning:** passenger (m)
 **Plural:** Passagiere

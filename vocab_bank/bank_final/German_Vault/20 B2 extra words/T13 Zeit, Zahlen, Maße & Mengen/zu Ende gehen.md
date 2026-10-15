@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # zu Ende gehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/zu%20Ende%20gehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu%20Ende%20gehen&language=de)
+
 **Meaning:** to come to an end
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral
 

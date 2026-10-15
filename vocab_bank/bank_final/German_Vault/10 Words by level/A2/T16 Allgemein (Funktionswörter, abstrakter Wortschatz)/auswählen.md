@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K1 9c"
 freq_rank: 1660
 skip: false
+audio: "auswählen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auswählen
+
+![[auswählen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausw%C3%A4hlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausw%C3%A4hlen&language=de)
 
 **Meaning:** to choose
 **Forms:** wählt aus · wählte aus · hat ausgewählt

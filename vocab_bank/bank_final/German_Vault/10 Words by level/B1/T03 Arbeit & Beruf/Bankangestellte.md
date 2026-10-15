@@ -15,11 +15,16 @@ id: "B5037"
 netzwerk: "B1 K12 3e"
 freq_rank: 5759
 skip: false
+audio: "Bankangestellte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Bankangestellte
+
+![[Bankangestellte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bankangestellte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankangestellte&language=de)
 
 **Meaning:** bank employee
 **Plural:** Bankangestellten

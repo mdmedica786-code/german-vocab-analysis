@@ -15,11 +15,16 @@ id: "B4468"
 netzwerk: "B1 K8 6b"
 freq_rank: 5512
 skip: false
+audio: "Dur.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Dur
+
+![[Dur.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Dur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dur&language=de)
 
 **Meaning:** major (key)
 **Plural:** –

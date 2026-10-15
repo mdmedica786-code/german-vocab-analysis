@@ -15,11 +15,16 @@ id: "B4592"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Kunsthistoriker.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kunsthistoriker
+
+![[Kunsthistoriker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunsthistoriker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunsthistoriker&language=de)
 
 **Meaning:** art historian (m)
 **Plural:** Kunsthistoriker

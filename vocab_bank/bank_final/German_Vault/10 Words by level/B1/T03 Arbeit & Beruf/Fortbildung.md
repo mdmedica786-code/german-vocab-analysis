@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 5759
 skip: false
+audio: "Fortbildung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fortbildung
+
+![[Fortbildung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fortbildung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fortbildung&language=de)
 
 **Meaning:** further training
 **Plural:** Fortbildungen

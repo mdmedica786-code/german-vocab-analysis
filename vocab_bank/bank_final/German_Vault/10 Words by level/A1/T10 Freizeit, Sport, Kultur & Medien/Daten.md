@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K12 3a ÜB"
 freq_rank: 536
 skip: false
+audio: "Daten.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Daten
+
+![[Daten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Daten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Daten&language=de)
 
 **Meaning:** data; dates
 **Plural:** (Pl.)

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0336"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Bestreben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bestreben
+
+![[Bestreben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bestreben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bestreben&language=de)
 
 **Meaning:** endeavour; aim
 **Plural:** –

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1202"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "aufbrechen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufbrechen
+
+![[aufbrechen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufbrechen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufbrechen&language=de)
 
 **Meaning:** to set off; to break open
 **Forms:** bricht auf · brach auf · ist aufgebrochen

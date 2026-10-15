@@ -15,11 +15,16 @@ id: "B6013"
 goethe_level: "B1"
 freq_rank: 3942
 skip: false
+audio: "Sender.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sender
+
+![[Sender.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sender/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sender&language=de)
 
 **Meaning:** channel; station
 **Plural:** Sender

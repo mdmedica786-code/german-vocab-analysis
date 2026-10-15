@@ -15,11 +15,16 @@ id: "B5254"
 goethe_level: "B1"
 freq_rank: 1056
 skip: false
+audio: "Versuch.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Versuch
+
+![[Versuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Versuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Versuch&language=de)
 
 **Meaning:** attempt; experiment
 **Plural:** Versuche

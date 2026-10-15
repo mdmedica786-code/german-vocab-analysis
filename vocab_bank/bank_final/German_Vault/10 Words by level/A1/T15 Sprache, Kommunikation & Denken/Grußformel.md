@@ -15,11 +15,16 @@ id: "B1157"
 netzwerk: "A1 K7 8b"
 freq_rank: 5759
 skip: false
+audio: "Grußformel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Grußformel
+
+![[Grußformel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gru%C3%9Fformel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gru%C3%9Fformel&language=de)
 
 **Meaning:** greeting formula (e.g. complimentary close)
 **Plural:** Grußformeln

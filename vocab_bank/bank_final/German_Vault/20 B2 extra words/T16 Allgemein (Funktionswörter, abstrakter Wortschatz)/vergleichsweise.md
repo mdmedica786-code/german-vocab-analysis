@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2861"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "vergleichsweise.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adverb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergleichsweise
+
+![[vergleichsweise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergleichsweise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergleichsweise&language=de)
 
 **Meaning:** comparatively; relatively
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

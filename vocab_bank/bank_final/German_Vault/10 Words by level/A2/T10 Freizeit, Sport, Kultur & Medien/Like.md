@@ -16,11 +16,16 @@ netzwerk: "A2 K3 8b"
 freq_rank: 2128
 skip: false
 check: "article?"
+audio: "Like.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Like
+
+![[Like.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Like/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Like&language=de)
 
 **Meaning:** like
 **Plural:** Likes

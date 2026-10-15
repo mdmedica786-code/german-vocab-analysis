@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1781"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Insolvenz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Insolvenz
+
+![[Insolvenz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Insolvenz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Insolvenz&language=de)
 
 **Meaning:** insolvency; bankruptcy
 **Plural:** Insolvenzen

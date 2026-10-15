@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 1c"
 freq_rank: 3675
 skip: false
+audio: "Freizeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freizeit
+
+![[Freizeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeit&language=de)
 
 **Meaning:** free time
 **Plural:** –

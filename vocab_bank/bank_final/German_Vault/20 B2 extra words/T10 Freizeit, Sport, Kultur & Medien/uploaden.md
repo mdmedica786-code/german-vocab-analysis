@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4556"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "uploaden.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # uploaden
+
+![[uploaden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/uploaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=uploaden&language=de)
 
 **Meaning:** to upload
 **Forms:** uploadet · uploadete · hat geuploadet

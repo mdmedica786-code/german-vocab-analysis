@@ -12,11 +12,16 @@ id: "B3960"
 netzwerk: "B1 K5 8a"
 freq_rank: 2216
 skip: false
+audio: "beschädigt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschädigt
+
+![[beschädigt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/besch%C3%A4digt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=besch%C3%A4digt&language=de)
 
 **Meaning:** damaged
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

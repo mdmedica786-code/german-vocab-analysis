@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1075"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "Untermiete.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Untermiete
+
+![[Untermiete.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Untermiete/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Untermiete&language=de)
 
 **Meaning:** subletting
 **Plural:** –

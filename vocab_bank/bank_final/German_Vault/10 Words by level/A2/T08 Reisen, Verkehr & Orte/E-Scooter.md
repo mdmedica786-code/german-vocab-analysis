@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der E-Scooter
 
+[▶️ YouGlish](https://youglish.com/pronounce/E-Scooter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Scooter&language=de)
+
 **Meaning:** electric scooter
 **Plural:** E-Scooter
 **Level:** A2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

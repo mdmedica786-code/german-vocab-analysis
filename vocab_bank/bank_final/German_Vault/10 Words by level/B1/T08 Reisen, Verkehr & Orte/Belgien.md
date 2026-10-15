@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Belgien
 
+[▶️ YouGlish](https://youglish.com/pronounce/Belgien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Belgien&language=de)
+
 **Meaning:** Belgium
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral
 

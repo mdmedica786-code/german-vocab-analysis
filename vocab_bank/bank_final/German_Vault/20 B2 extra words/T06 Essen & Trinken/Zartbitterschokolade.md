@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4657"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Zartbitterschokolade.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Zartbitterschokolade
+
+![[Zartbitterschokolade.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zartbitterschokolade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zartbitterschokolade&language=de)
 
 **Meaning:** dark chocolate (plain)
 **Plural:** Zartbitterschokoladen

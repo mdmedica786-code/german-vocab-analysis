@@ -18,6 +18,8 @@ status: "new"
 <!-- bank:start -->
 # Co
 
+[▶️ YouGlish](https://youglish.com/pronounce/Co/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Co&language=de)
+
 **Meaning:** and the like (Co.)
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 **Note:** Abbreviation of Compagnie/Company.

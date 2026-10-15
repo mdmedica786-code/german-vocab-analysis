@@ -15,11 +15,16 @@ id: "B3222"
 netzwerk: "A2 K12 9a"
 freq_rank: 5759
 skip: false
+audio: "Prominente.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Prominente
+
+![[Prominente.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Prominente/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Prominente&language=de)
 
 **Meaning:** celebrity
 **Plural:** Prominenten

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 3c"
 freq_rank: 260
 skip: false
+audio: "schließlich.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schließlich
+
+![[schließlich.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlie%C3%9Flich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlie%C3%9Flich&language=de)
 
 **Meaning:** finally, eventually
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

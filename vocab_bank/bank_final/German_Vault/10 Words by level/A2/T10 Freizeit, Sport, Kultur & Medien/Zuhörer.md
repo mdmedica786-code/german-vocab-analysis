@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 10b"
 freq_rank: 4327
 skip: false
+audio: "Zuhörer.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Zuhörer
+
+![[Zuhörer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zuh%C3%B6rer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zuh%C3%B6rer&language=de)
 
 **Meaning:** listener (m); member of the audience
 **Plural:** Zuhörer

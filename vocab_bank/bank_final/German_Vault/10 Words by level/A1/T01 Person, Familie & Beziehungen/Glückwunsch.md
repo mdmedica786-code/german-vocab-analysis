@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 5c"
 freq_rank: 2000
 skip: false
+audio: "Glückwunsch.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Glückwunsch
+
+![[Glückwunsch.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gl%C3%BCckwunsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gl%C3%BCckwunsch&language=de)
 
 **Meaning:** congratulations
 **Plural:** Glückwünsche

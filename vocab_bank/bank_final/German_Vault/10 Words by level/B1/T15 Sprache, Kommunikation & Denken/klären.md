@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 1914
 skip: false
+audio: "klären.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klären
+
+![[klären.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kl%C3%A4ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kl%C3%A4ren&language=de)
 
 **Meaning:** to settle
 **Forms:** klärt · klärte · hat geklärt

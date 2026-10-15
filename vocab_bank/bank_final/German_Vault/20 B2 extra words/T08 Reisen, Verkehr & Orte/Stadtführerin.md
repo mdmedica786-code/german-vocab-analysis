@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4453"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Stadtführerin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Stadtführerin
+
+![[Stadtführerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadtf%C3%BChrerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadtf%C3%BChrerin&language=de)
 
 **Meaning:** city guide (female)
 **Plural:** Stadtführerinnen

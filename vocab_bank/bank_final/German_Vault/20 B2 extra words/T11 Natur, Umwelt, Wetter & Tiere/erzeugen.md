@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2408"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "erzeugen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # erzeugen
+
+![[erzeugen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erzeugen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erzeugen&language=de)
 
 **Meaning:** to produce; to generate
 **Forms:** erzeugt · erzeugte · hat erzeugt

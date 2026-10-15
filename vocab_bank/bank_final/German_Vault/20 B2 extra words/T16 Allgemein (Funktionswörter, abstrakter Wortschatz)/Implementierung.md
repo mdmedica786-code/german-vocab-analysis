@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3039"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "Implementierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Implementierung
+
+![[Implementierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Implementierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Implementierung&language=de)
 
 **Meaning:** implementation
 **Plural:** Implementierungen

@@ -15,11 +15,16 @@ id: "B4795"
 netzwerk: "B1 K10 3c ÜB"
 freq_rank: 5759
 skip: false
+audio: "Quark.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Quark
+
+![[Quark.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quark/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quark&language=de)
 
 **Meaning:** quark (fresh curd cheese)
 **Plural:** –

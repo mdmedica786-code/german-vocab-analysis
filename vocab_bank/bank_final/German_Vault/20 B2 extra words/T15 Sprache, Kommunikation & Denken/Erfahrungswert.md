@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1486"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Erfahrungswert.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Erfahrungswert
+
+![[Erfahrungswert.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erfahrungswert/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erfahrungswert&language=de)
 
 **Meaning:** empirical value; figure based on experience
 **Plural:** Erfahrungswerte

@@ -15,11 +15,16 @@ id: "B3516"
 netzwerk: "B1 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "Handarbeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Handarbeit
+
+![[Handarbeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Handarbeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Handarbeit&language=de)
 
 **Meaning:** handicraft; manual work
 **Plural:** Handarbeiten

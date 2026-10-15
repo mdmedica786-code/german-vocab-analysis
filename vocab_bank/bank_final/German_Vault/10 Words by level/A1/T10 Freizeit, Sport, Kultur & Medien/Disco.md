@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A2 K5 8b"
 freq_rank: 5512
 skip: false
+audio: "Disco.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Disco
+
+![[Disco.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Disco/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Disco&language=de)
 
 **Meaning:** disco
 **Plural:** Discos

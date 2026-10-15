@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1538"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "ansehnlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansehnlich
+
+![[ansehnlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansehnlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansehnlich&language=de)
 
 **Meaning:** considerable; presentable
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

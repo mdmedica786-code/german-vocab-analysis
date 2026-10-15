@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Zimmernachbar
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zimmernachbar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zimmernachbar&language=de)
+
 **Meaning:** neighbour in the same room (m)
 **Plural:** Zimmernachbarn
 **Level:** B1 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

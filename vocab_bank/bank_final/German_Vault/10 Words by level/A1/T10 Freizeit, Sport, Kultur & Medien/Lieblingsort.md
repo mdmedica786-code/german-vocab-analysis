@@ -15,11 +15,16 @@ id: "B1372"
 netzwerk: "A1 K9 2a"
 freq_rank: 5759
 skip: false
+audio: "Lieblingsort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lieblingsort
+
+![[Lieblingsort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lieblingsort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lieblingsort&language=de)
 
 **Meaning:** favourite place
 **Plural:** Lieblingsorte

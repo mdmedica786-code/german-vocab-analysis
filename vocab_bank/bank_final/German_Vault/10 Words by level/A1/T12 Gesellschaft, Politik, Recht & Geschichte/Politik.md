@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K7 9a"
 freq_rank: 834
 skip: false
+audio: "Politik.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Politik
+
+![[Politik.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Politik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Politik&language=de)
 
 **Meaning:** politics
 **Plural:** –

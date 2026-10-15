@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1360"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "zwischenzeitlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # zwischenzeitlich
+
+![[zwischenzeitlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zwischenzeitlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zwischenzeitlich&language=de)
 
 **Meaning:** in the meantime; meanwhile
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

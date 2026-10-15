@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Arztkleidung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Arztkleidung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Arztkleidung&language=de)
+
 **Meaning:** doctor's clothing
 **Plural:** –
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

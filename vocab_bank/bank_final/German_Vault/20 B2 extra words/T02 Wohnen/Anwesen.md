@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3571"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Anwesen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Anwesen
+
+![[Anwesen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anwesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anwesen&language=de)
 
 **Meaning:** estate; property
 **Plural:** Anwesen

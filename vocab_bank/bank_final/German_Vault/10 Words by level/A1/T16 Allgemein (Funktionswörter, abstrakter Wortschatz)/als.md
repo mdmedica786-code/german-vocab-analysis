@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # als
 
+[▶️ YouGlish](https://youglish.com/pronounce/als/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=als&language=de)
+
 **Meaning:** as
 **Other senses:** than; when
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

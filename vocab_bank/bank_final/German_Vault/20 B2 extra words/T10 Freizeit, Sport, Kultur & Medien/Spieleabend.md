@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4432"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Spieleabend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Spieleabend
+
+![[Spieleabend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spieleabend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spieleabend&language=de)
 
 **Meaning:** games night
 **Plural:** Spieleabende

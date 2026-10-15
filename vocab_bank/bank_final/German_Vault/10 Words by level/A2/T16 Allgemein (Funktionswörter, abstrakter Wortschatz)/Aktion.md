@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 9a"
 freq_rank: 1852
 skip: false
+audio: "Aktion.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aktion
+
+![[Aktion.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aktion/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aktion&language=de)
 
 **Meaning:** campaign; action
 **Plural:** Aktionen

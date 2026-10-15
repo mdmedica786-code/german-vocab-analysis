@@ -15,11 +15,16 @@ id: "B4225"
 netzwerk: "B1 K7 1a ÜB"
 freq_rank: 2559
 skip: false
+audio: "Schatz.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schatz
+
+![[Schatz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schatz&language=de)
 
 **Meaning:** treasure; darling
 **Plural:** Schätze

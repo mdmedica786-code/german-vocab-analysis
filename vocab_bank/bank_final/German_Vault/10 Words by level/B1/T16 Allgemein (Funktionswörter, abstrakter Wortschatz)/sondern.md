@@ -12,11 +12,16 @@ id: "B5140"
 goethe_level: "B1"
 freq_rank: 115
 skip: false
+audio: "sondern (15).wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/conjunction"]
 status: "new"
 ---
 <!-- bank:start -->
 # sondern
+
+![[sondern (15).wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sondern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sondern&language=de)
 
 **Meaning:** but (rather); but instead
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

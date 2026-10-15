@@ -13,11 +13,16 @@ id: "B3851"
 netzwerk: "B1 K4 13b"
 freq_rank: 5759
 skip: false
+audio: "heraussuchen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # heraussuchen
+
+![[heraussuchen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/heraussuchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=heraussuchen&language=de)
 
 **Meaning:** to look out; to pick out
 **Forms:** sucht heraus · suchte heraus · hat herausgesucht

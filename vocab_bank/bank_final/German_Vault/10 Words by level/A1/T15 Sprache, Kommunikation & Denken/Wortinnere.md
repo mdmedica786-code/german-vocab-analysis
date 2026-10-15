@@ -15,11 +15,16 @@ id: "B1091"
 netzwerk: "A1 K7 3c"
 freq_rank: 9999
 skip: false
+audio: "Wortinnere.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Wortinnere
+
+![[Wortinnere.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wortinnere/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wortinnere&language=de)
 
 **Meaning:** inside of the word
 **Plural:** –

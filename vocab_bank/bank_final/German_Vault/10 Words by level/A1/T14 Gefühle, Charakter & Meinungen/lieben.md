@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3a"
 freq_rank: 178
 skip: false
+audio: "lieben.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # lieben
+
+![[lieben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/lieben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=lieben&language=de)
 
 **Meaning:** to love
 **Forms:** liebt · liebte · hat geliebt

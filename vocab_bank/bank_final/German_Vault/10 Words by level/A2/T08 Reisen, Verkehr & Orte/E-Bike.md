@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 10a"
 freq_rank: 4956
 skip: false
+audio: "E-Bike.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das E-Bike
+
+![[E-Bike.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/E-Bike/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=E-Bike&language=de)
 
 **Meaning:** e-bike
 **Plural:** E-Bikes

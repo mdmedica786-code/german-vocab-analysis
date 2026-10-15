@@ -15,11 +15,16 @@ id: "B0328"
 netzwerk: "A1 K2 7a"
 freq_rank: 5759
 skip: false
+audio: "Krankenpflegerin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krankenpflegerin
+
+![[Krankenpflegerin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankenpflegerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenpflegerin&language=de)
 
 **Meaning:** nurse (f)
 **Plural:** Krankenpflegerinnen

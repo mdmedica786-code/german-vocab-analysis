@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3516"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Verringerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verringerung
+
+![[Verringerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verringerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verringerung&language=de)
 
 **Meaning:** reduction; decrease
 **Plural:** Verringerungen

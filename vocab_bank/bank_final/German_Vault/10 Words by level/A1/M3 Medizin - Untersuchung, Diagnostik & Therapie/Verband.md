@@ -15,11 +15,16 @@ id: "B1256"
 netzwerk: "A1 K8 8a"
 freq_rank: 4399
 skip: false
+audio: "Verband.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verband
+
+![[Verband.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verband/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verband&language=de)
 
 **Meaning:** bandage
 **Plural:** Verbände

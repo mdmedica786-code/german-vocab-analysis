@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3939"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
+audio: "fertigstellen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # fertigstellen
+
+![[fertigstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fertigstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fertigstellen&language=de)
 
 **Meaning:** to finish; to complete
 **Forms:** stellt fertig · stellte fertig · hat fertiggestellt

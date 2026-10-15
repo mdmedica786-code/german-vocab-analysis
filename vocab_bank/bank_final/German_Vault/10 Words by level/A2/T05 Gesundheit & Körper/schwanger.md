@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K6 8b"
 freq_rank: 3785
 skip: false
+audio: "schwanger.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # schwanger
+
+![[schwanger.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schwanger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schwanger&language=de)
 
 **Meaning:** pregnant
 **Level:** A2 · **Topic:** [[T05 Gesundheit & Körper]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2200"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Schraubenzieher.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schraubenzieher
+
+![[Schraubenzieher.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schraubenzieher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schraubenzieher&language=de)
 
 **Meaning:** screwdriver
 **Plural:** Schraubenzieher

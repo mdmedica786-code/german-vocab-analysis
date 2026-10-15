@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # weiterverschenken
 
+[▶️ YouGlish](https://youglish.com/pronounce/weiterverschenken/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterverschenken&language=de)
+
 **Meaning:** to pass on as a gift
 **Forms:** verschenkt weiter · verschenkte weiter · hat weiterverschenkt
 **Grammar:** separable (weiter-)

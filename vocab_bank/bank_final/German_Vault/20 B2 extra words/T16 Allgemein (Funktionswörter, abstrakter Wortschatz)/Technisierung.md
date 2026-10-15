@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4477"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Technisierung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Technisierung
+
+![[Technisierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Technisierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Technisierung&language=de)
 
 **Meaning:** mechanisation; increasing use of technology
 **Plural:** –

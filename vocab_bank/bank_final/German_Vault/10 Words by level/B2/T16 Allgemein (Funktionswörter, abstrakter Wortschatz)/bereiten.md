@@ -12,11 +12,16 @@ bank: "main"
 id: "B5356"
 freq_rank: 1598
 skip: false
+audio: "bereiten.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bereiten
+
+![[bereiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bereiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bereiten&language=de)
 
 **Meaning:** to cause; to prepare
 **Forms:** bereitet · bereitete · hat bereitet

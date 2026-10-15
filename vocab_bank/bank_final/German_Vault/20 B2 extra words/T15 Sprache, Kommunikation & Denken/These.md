@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0298"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "These.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die These
+
+![[These.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/These/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=These&language=de)
 
 **Meaning:** thesis; hypothesis
 **Plural:** Thesen

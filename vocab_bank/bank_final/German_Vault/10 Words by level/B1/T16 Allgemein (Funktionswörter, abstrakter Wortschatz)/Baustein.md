@@ -15,11 +15,16 @@ id: "B3662"
 netzwerk: "B1 K3 9b"
 freq_rank: 5759
 skip: false
+audio: "Baustein.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Baustein
+
+![[Baustein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Baustein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Baustein&language=de)
 
 **Meaning:** building block
 **Plural:** Bausteine

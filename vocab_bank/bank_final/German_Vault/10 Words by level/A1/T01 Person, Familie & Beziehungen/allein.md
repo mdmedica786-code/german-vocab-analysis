@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9a"
 freq_rank: 252
 skip: false
+audio: "allein.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # allein
+
+![[allein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/allein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=allein&language=de)
 
 **Meaning:** alone; on one's own
 **Level:** A1 · **Topic:** [[T01 Person, Familie & Beziehungen]] · **Register:** neutral

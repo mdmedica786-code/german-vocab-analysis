@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 1a"
 freq_rank: 2022
 skip: false
+audio: "Demokratie.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Demokratie
+
+![[Demokratie.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Demokratie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Demokratie&language=de)
 
 **Meaning:** democracy
 **Plural:** Demokratien

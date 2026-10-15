@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 1c"
 freq_rank: 356
 skip: false
+audio: "schaffen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schaffen
+
+![[schaffen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schaffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schaffen&language=de)
 
 **Meaning:** to manage
 **Forms:** schafft · schaffte · hat geschafft

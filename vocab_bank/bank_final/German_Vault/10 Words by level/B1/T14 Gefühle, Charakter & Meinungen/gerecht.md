@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 1944
 skip: false
+audio: "gerecht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gerecht
+
+![[gerecht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gerecht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gerecht&language=de)
 
 **Meaning:** fair
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

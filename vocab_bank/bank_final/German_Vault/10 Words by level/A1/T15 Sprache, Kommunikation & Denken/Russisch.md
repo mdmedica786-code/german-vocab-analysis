@@ -13,11 +13,16 @@ netzwerk: "A1 K1 1a"
 freq_rank: 2849
 skip: true
 skip_reason: "cognate or proper name (country, language, school subject, sport)"
+audio: "russisch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # Russisch
+
+![[russisch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Russisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Russisch&language=de)
 
 **Meaning:** Russian
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

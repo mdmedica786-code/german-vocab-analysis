@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0694"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Müllentsorgung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Müllentsorgung
+
+![[Müllentsorgung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCllentsorgung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCllentsorgung&language=de)
 
 **Meaning:** waste disposal
 **Plural:** –

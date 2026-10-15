@@ -15,11 +15,16 @@ id: "B2873"
 netzwerk: "A2 K9 10a"
 freq_rank: 2000
 skip: false
+audio: "Info.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Info
+
+![[Info.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Info/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Info&language=de)
 
 **Meaning:** info (= information)
 **Plural:** Infos

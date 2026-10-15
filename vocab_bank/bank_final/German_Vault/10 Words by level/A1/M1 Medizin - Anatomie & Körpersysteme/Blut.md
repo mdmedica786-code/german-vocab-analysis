@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 13a"
 freq_rank: 664
 skip: false
+audio: "Blut.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Blut
+
+![[Blut.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Blut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Blut&language=de)
 
 **Meaning:** blood
 **Plural:** –

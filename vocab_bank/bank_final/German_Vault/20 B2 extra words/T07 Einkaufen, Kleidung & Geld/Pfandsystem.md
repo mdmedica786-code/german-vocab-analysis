@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0696"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Pfandsystem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Pfandsystem
+
+![[Pfandsystem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pfandsystem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pfandsystem&language=de)
 
 **Meaning:** deposit system
 **Plural:** Pfandsysteme

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5357"
 freq_rank: 1615
 skip: false
+audio: "Umfang.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Umfang
+
+![[Umfang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umfang&language=de)
 
 **Meaning:** extent; circumference
 **Plural:** Umfänge

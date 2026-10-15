@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3b"
 freq_rank: 670
 skip: false
+audio: "Organisation.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Organisation
+
+![[Organisation.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Organisation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Organisation&language=de)
 
 **Meaning:** organization
 **Plural:** Organisationen

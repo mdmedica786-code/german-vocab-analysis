@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Negationsartikel
 
+[▶️ YouGlish](https://youglish.com/pronounce/Negationsartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Negationsartikel&language=de)
+
 **Meaning:** negative article
 **Plural:** Negationsartikel
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

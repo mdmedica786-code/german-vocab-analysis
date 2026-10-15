@@ -15,11 +15,16 @@ id: "B3193"
 netzwerk: "A2 K12 6b"
 freq_rank: 4099
 skip: false
+audio: "Rap.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rap
+
+![[Rap.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rap/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rap&language=de)
 
 **Meaning:** rap
 **Plural:** Raps

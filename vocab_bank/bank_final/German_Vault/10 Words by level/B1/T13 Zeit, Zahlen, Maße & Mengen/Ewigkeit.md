@@ -15,11 +15,16 @@ id: "B4243"
 netzwerk: "B1 K7 2b"
 freq_rank: 2736
 skip: false
+audio: "Ewigkeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Ewigkeit
+
+![[Ewigkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ewigkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ewigkeit&language=de)
 
 **Meaning:** eternity; ages
 **Plural:** Ewigkeiten

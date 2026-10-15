@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 2037
 skip: false
+audio: "Frühstück.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Frühstück
+
+![[Frühstück.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fr%C3%BChst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fr%C3%BChst%C3%BCck&language=de)
 
 **Meaning:** breakfast
 **Plural:** Frühstücke

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3439"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Abfolge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abfolge
+
+![[Abfolge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abfolge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfolge&language=de)
 
 **Meaning:** sequence; order
 **Plural:** Abfolgen

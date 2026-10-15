@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 10b"
 freq_rank: 5759
 skip: false
+audio: "Lift.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Lift
+
+![[Lift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lift&language=de)
 
 **Meaning:** elevator
 **Plural:** Lifte

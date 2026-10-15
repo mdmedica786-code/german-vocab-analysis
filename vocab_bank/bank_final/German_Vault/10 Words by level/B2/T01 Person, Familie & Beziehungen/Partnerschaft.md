@@ -14,11 +14,16 @@ bank: "main"
 id: "B6086"
 freq_rank: 4255
 skip: false
+audio: "Partnerschaft.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Partnerschaft
+
+![[Partnerschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partnerschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partnerschaft&language=de)
 
 **Meaning:** partnership
 **Plural:** Partnerschaften

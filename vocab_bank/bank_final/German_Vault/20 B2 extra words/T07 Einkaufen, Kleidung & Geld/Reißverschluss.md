@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1406"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Reißverschluss.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Reißverschluss
+
+![[Reißverschluss.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rei%C3%9Fverschluss/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rei%C3%9Fverschluss&language=de)
 
 **Meaning:** zip
 **Plural:** Reißverschlüsse

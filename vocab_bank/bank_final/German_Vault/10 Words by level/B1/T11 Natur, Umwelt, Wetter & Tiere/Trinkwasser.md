@@ -15,11 +15,16 @@ id: "B3891"
 netzwerk: "B1 K5 1a"
 freq_rank: 4958
 skip: false
+audio: "Trinkwasser.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Trinkwasser
+
+![[Trinkwasser.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Trinkwasser/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Trinkwasser&language=de)
 
 **Meaning:** drinking water
 **Plural:** –

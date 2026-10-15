@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 12b"
 freq_rank: 2417
 skip: false
+audio: "beißen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beißen
+
+![[beißen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bei%C3%9Fen&language=de)
 
 **Meaning:** to bite
 **Forms:** beißt · biss · hat gebissen

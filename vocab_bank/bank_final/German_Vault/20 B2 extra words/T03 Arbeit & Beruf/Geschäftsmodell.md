@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3998"
 exam_use: ["Schreiben", "Medien"]
 skip: false
-status: "new"
+audio: "Geschäftsmodell.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Geschäftsmodell
+
+![[Geschäftsmodell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftsmodell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftsmodell&language=de)
 
 **Meaning:** business model
 **Plural:** Geschäftsmodelle

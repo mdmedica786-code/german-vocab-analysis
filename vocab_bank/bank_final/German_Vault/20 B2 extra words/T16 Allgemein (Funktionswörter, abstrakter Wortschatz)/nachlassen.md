@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4253"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "nachlassen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # nachlassen
+
+![[nachlassen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nachlassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nachlassen&language=de)
 
 **Meaning:** to subside; to decrease; to diminish
 **Forms:** lässt nach · ließ nach · hat nachgelassen

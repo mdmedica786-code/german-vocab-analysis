@@ -13,11 +13,16 @@ id: "B3063"
 netzwerk: "A2 K11 5a"
 freq_rank: 5759
 skip: false
+audio: "hereinkommen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hereinkommen
+
+![[hereinkommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hereinkommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hereinkommen&language=de)
 
 **Meaning:** to come in
 **Forms:** kommt herein · kam herein · ist hereingekommen

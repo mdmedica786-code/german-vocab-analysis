@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3950"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Flugwerft
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flugwerft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flugwerft&language=de)
 
 **Meaning:** aircraft maintenance base; aircraft hangar
 **Plural:** Flugwerften

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0665"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Feinstaub.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Feinstaub
+
+![[Feinstaub.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Feinstaub/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feinstaub&language=de)
 
 **Meaning:** fine dust; particulate matter
 **Plural:** –

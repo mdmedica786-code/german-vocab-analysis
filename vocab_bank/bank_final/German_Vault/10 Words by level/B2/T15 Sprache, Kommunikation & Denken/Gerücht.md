@@ -14,11 +14,16 @@ bank: "main"
 id: "B6164"
 freq_rank: 4699
 skip: false
+audio: "Gerücht.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gerücht
+
+![[Gerücht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ger%C3%BCcht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ger%C3%BCcht&language=de)
 
 **Meaning:** rumour
 **Plural:** Gerüchte

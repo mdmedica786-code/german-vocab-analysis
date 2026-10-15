@@ -11,11 +11,16 @@ bank: "b2"
 id: "D3761"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "autofrei.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/adjective", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # autofrei
+
+![[autofrei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/autofrei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=autofrei&language=de)
 
 **Meaning:** car-free
 **Level:** B2 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

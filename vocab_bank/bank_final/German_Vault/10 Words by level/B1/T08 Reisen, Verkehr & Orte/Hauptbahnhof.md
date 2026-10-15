@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 12c"
 freq_rank: 2216
 skip: false
+audio: "Hauptbahnhof.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hauptbahnhof
+
+![[Hauptbahnhof.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hauptbahnhof/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hauptbahnhof&language=de)
 
 **Meaning:** central station
 **Plural:** Hauptbahnhöfe

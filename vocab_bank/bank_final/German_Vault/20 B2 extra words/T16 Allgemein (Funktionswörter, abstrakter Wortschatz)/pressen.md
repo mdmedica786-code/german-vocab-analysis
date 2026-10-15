@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2572"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "pressen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # pressen
+
+![[pressen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pressen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pressen&language=de)
 
 **Meaning:** to press; to squeeze
 **Forms:** presst · presste · hat gepresst

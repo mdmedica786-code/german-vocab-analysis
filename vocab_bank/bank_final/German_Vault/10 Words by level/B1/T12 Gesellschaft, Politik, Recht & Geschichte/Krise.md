@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 6b"
 freq_rank: 1799
 skip: false
+audio: "Krise.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krise
+
+![[Krise.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krise/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krise&language=de)
 
 **Meaning:** crisis (Situation)
 **Plural:** Krisen

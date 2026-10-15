@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # der Genitiv
 
+[▶️ YouGlish](https://youglish.com/pronounce/Genitiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Genitiv&language=de)
+
 **Meaning:** genitive
 **Plural:** Genitive
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

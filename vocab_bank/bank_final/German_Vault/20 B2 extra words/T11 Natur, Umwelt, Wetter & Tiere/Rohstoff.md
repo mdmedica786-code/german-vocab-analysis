@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0685"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Rohstoff.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rohstoff
+
+![[Rohstoff.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rohstoff/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rohstoff&language=de)
 
 **Meaning:** raw material
 **Plural:** Rohstoffe

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3173"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Motto.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Motto
+
+![[Motto.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Motto/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Motto&language=de)
 
 **Meaning:** motto; theme; slogan
 **Plural:** Mottos

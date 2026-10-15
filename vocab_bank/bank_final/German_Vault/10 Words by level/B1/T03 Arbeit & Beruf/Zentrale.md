@@ -15,11 +15,16 @@ id: "B3452"
 netzwerk: "B1 K2 6b"
 freq_rank: 2000
 skip: false
+audio: "Zentrale.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zentrale
+
+![[Zentrale.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zentrale/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zentrale&language=de)
 
 **Meaning:** headquarters
 **Plural:** Zentralen

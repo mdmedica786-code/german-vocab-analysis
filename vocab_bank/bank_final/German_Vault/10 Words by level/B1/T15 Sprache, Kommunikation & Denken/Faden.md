@@ -15,11 +15,16 @@ id: "B4885"
 netzwerk: "B1 K10 11b"
 freq_rank: 2704
 skip: false
+audio: "Faden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Faden
+
+![[Faden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Faden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Faden&language=de)
 
 **Meaning:** thread; (den Faden verlieren = to lose the thread)
 **Plural:** Fäden

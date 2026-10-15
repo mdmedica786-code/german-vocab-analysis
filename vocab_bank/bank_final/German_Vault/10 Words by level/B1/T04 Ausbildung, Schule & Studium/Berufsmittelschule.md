@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Berufsmittelschule
 
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsmittelschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsmittelschule&language=de)
+
 **Meaning:** vocational secondary school (Swiss)
 **Plural:** Berufsmittelschulen
 **Level:** B1 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** regional

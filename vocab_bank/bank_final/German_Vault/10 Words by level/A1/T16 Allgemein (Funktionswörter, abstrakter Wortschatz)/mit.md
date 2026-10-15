@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # mit
 
+[▶️ YouGlish](https://youglish.com/pronounce/mit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mit&language=de)
+
 **Meaning:** with
 **Case:** + Dat.
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

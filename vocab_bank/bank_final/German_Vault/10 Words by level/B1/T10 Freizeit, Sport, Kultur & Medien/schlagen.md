@@ -13,11 +13,16 @@ id: "B5150"
 goethe_level: "B1"
 freq_rank: 365
 skip: false
+audio: "schlagen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlagen
+
+![[schlagen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlagen&language=de)
 
 **Meaning:** to hit; to beat; to strike
 **Forms:** schlägt · schlug · hat geschlagen

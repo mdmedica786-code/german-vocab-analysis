@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 2854
 skip: false
+audio: "Rabatt.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rabatt
+
+![[Rabatt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rabatt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rabatt&language=de)
 
 **Meaning:** discount
 **Plural:** Rabatte

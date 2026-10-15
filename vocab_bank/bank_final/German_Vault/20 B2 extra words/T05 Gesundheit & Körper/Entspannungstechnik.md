@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3902"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Entspannungstechnik.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Entspannungstechnik
+
+![[Entspannungstechnik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entspannungstechnik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entspannungstechnik&language=de)
 
 **Meaning:** relaxation technique
 **Plural:** Entspannungstechniken

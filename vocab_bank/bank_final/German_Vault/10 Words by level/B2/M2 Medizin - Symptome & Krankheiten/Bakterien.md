@@ -16,11 +16,16 @@ freq_rank: 3536
 skip: true
 skip_reason: "duplicate of B6004 (learn that entry)"
 check: "dup:B6004"
+audio: "Bakterien.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/M2", "pos/noun", "medical", "skipped"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bakterien
+
+![[Bakterien.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bakterien/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bakterien&language=de)
 
 **Meaning:** bacteria
 **Plural:** (Pl.)

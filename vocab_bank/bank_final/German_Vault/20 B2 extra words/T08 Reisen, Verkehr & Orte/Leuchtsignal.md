@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4190"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Leuchtsignal.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Leuchtsignal
+
+![[Leuchtsignal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Leuchtsignal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Leuchtsignal&language=de)
 
 **Meaning:** light signal
 **Plural:** Leuchtsignale

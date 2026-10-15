@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4239"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Mitarbeitermotivation
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitarbeitermotivation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitarbeitermotivation&language=de)
 
 **Meaning:** employee motivation
 **Plural:** –

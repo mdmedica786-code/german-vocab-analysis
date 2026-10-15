@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 12a"
 freq_rank: 2623
 skip: false
+audio: "Tal.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tal
+
+![[Tal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tal&language=de)
 
 **Meaning:** valley
 **Plural:** Täler

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1134"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Vertrautheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vertrautheit
+
+![[Vertrautheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertrautheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertrautheit&language=de)
 
 **Meaning:** familiarity; intimacy
 **Plural:** –

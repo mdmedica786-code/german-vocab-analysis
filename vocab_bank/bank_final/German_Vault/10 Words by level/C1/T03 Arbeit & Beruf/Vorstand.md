@@ -14,11 +14,16 @@ bank: "main"
 id: "B5948"
 freq_rank: 3599
 skip: false
+audio: "Vorstand.wav"
 tags: ["vocab", "bank/main", "level/C1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorstand
+
+![[Vorstand.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorstand/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorstand&language=de)
 
 **Meaning:** board; executive board
 **Plural:** Vorstände

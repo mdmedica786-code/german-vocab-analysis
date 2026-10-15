@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2814"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Ritual.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Ritual
+
+![[Ritual.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ritual/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ritual&language=de)
 
 **Meaning:** ritual
 **Plural:** Rituale

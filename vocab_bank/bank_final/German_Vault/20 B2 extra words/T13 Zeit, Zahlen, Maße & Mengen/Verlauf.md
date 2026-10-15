@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0301"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Verlauf.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Verlauf
+
+![[Verlauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verlauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verlauf&language=de)
 
 **Meaning:** course; progress
 **Plural:** Verläufe

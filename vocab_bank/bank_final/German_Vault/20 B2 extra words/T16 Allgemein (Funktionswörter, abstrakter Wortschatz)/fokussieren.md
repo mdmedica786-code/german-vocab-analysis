@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3619"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "fokussieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # fokussieren
+
+![[fokussieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fokussieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fokussieren&language=de)
 
 **Meaning:** to focus
 **Forms:** fokussiert · fokussierte · hat fokussiert

@@ -15,11 +15,13 @@ id: "D4243"
 exam_use: ["Medien", "Lesen"]
 skip: false
 check: "?Schreibung (üblich: Modedesignerin)"
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Mode-Designerin
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mode-Designerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mode-Designerin&language=de)
 
 **Meaning:** fashion designer (female)
 **Plural:** Mode-Designerinnen

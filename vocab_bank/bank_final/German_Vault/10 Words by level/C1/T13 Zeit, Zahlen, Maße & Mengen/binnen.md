@@ -11,11 +11,16 @@ bank: "main"
 id: "B6031"
 freq_rank: 4024
 skip: false
+audio: "binnen.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T13", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # binnen
+
+![[binnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/binnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=binnen&language=de)
 
 **Meaning:** within
 **Case:** + Dat.

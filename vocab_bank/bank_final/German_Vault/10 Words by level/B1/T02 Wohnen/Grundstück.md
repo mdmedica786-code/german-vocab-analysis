@@ -15,11 +15,16 @@ id: "B5917"
 goethe_level: "B1"
 freq_rank: 3511
 skip: false
+audio: "Grundstück.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Grundstück
+
+![[Grundstück.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Grundst%C3%BCck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Grundst%C3%BCck&language=de)
 
 **Meaning:** plot; property
 **Plural:** Grundstücke

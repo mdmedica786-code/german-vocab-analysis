@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 5759
 skip: false
+audio: "Wecker.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wecker
+
+![[Wecker.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wecker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wecker&language=de)
 
 **Meaning:** alarm clock
 **Plural:** Wecker

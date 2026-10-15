@@ -14,11 +14,16 @@ bank: "main"
 id: "B5433"
 freq_rank: 1943
 skip: false
+audio: "Verpflichtung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verpflichtung
+
+![[Verpflichtung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verpflichtung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpflichtung&language=de)
 
 **Meaning:** obligation; commitment
 **Plural:** Verpflichtungen

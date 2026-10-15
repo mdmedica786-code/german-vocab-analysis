@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4275"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "nominieren.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # nominieren
+
+![[nominieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nominieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nominieren&language=de)
 
 **Meaning:** to nominate
 **Forms:** nominiert · nominierte · hat nominiert

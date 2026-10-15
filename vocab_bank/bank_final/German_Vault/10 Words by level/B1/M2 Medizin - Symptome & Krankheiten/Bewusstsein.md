@@ -14,11 +14,16 @@ bank: "main"
 id: "B5247"
 freq_rank: 1027
 skip: false
+audio: "Bewusstsein.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bewusstsein
+
+![[Bewusstsein.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bewusstsein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bewusstsein&language=de)
 
 **Meaning:** consciousness; awareness
 **Plural:** –

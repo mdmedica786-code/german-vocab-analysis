@@ -12,11 +12,16 @@ id: "B3530"
 netzwerk: "B1 K3 2 ÜB"
 freq_rank: 677
 skip: false
+audio: "bewusst.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # bewusst
+
+![[bewusst.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bewusst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bewusst&language=de)
 
 **Meaning:** conscious; deliberate
 **Level:** B1 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

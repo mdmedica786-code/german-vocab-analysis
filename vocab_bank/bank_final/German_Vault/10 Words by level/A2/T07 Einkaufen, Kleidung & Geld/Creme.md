@@ -15,11 +15,16 @@ id: "B6399"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Creme.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Creme
+
+![[Creme.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Creme/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Creme&language=de)
 
 **Meaning:** cream
 **Plural:** Cremes

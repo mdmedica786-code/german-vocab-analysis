@@ -15,11 +15,16 @@ id: "B1997"
 netzwerk: "A2 K2 5a"
 freq_rank: 5759
 skip: false
+audio: "Schulweg.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Schulweg
+
+![[Schulweg.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schulweg/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schulweg&language=de)
 
 **Meaning:** way to school
 **Plural:** Schulwege

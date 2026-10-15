@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K10 7a"
 freq_rank: 1838
 skip: false
+audio: "Job.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Job
+
+![[Job.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Job/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Job&language=de)
 
 **Meaning:** job
 **Plural:** Jobs

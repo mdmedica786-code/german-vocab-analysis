@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Indonesisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Indonesisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Indonesisch&language=de)
+
 **Meaning:** Indonesian
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

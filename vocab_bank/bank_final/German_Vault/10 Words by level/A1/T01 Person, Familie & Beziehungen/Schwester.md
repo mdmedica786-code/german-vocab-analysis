@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 8a"
 freq_rank: 643
 skip: false
+audio: "Schwester.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schwester
+
+![[Schwester.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwester&language=de)
 
 **Meaning:** sister
 **Plural:** Schwestern

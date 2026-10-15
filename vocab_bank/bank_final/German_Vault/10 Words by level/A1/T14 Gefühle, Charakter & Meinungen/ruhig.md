@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 3d"
 freq_rank: 646
 skip: false
+audio: "ruhig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ruhig
+
+![[ruhig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ruhig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ruhig&language=de)
 
 **Meaning:** quiet; calm
 **Other senses:** calm

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5767"
 freq_rank: 2992
 skip: false
+audio: "Begleitung.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Begleitung
+
+![[Begleitung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Begleitung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Begleitung&language=de)
 
 **Meaning:** company; accompaniment; escort
 **Plural:** Begleitungen

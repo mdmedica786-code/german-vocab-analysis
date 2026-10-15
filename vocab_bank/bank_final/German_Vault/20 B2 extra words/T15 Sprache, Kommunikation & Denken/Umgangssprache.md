@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1927"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "Umgangssprache.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Umgangssprache
+
+![[Umgangssprache.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umgangssprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umgangssprache&language=de)
 
 **Meaning:** colloquial language
 **Plural:** Umgangssprachen

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4512"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
-status: "new"
+audio: "überrumpeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # überrumpeln
+
+![[überrumpeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberrumpeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberrumpeln&language=de)
 
 **Meaning:** to take by surprise; to catch off guard
 **Forms:** überrumpelt · überrumpelte · hat überrumpelt

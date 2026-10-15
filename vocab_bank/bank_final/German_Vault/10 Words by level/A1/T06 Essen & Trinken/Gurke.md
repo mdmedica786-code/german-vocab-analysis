@@ -15,11 +15,16 @@ id: "B0622"
 netzwerk: "A1 K4 2a"
 freq_rank: 5759
 skip: false
+audio: "Gurke.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gurke
+
+![[Gurke.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gurke/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gurke&language=de)
 
 **Meaning:** cucumber
 **Plural:** Gurken

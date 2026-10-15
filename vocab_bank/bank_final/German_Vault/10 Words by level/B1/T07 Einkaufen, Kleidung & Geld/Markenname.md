@@ -15,11 +15,16 @@ id: "B3478"
 netzwerk: "B1 K2 10a"
 freq_rank: 5759
 skip: false
+audio: "Markenname.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Markenname
+
+![[Markenname.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Markenname/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Markenname&language=de)
 
 **Meaning:** brand name
 **Plural:** Markennamen

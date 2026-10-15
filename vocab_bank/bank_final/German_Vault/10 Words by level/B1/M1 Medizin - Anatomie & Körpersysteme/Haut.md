@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 775
 skip: false
+audio: "Haut.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/M1", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Haut
+
+![[Haut.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Haut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Haut&language=de)
 
 **Meaning:** skin
 **Plural:** Häute

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 6a ÜB"
 freq_rank: 4313
 skip: false
+audio: "Rechner.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Rechner
+
+![[Rechner.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rechner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rechner&language=de)
 
 **Meaning:** computer; calculator
 **Plural:** Rechner

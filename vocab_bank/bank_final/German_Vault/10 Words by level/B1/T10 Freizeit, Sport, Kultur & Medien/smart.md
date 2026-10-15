@@ -12,11 +12,16 @@ id: "B3446"
 netzwerk: "B1 K2 6b"
 freq_rank: 2854
 skip: false
+audio: "smart.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # smart
+
+![[smart.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/smart/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=smart&language=de)
 
 **Meaning:** smart
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

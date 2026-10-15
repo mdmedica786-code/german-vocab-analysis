@@ -15,11 +15,16 @@ id: "B1316"
 netzwerk: "A1 K8 13a"
 freq_rank: 5759
 skip: false
+audio: "Laborant.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Laborant
+
+![[Laborant.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Laborant/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Laborant&language=de)
 
 **Meaning:** lab assistant (m)
 **Plural:** Laboranten

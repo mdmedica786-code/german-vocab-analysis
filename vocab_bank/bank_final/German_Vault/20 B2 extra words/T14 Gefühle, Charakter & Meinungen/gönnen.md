@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3626"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "gönnen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # gönnen
+
+![[gönnen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/g%C3%B6nnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=g%C3%B6nnen&language=de)
 
 **Meaning:** to not begrudge; to treat (oneself)
 **Forms:** gönnt · gönnte · hat gegönnt

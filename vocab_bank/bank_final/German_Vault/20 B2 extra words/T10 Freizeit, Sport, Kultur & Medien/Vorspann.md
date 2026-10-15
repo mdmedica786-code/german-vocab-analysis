@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1946"
 exam_use: ["Medien", "Hören"]
 skip: false
+audio: "Vorspann.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorspann
+
+![[Vorspann.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorspann/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorspann&language=de)
 
 **Meaning:** opening credits; title sequence
 **Plural:** Vorspänne

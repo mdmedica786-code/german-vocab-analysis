@@ -15,11 +15,16 @@ id: "B1711"
 netzwerk: "A1 K11 12b"
 freq_rank: 2804
 skip: false
+audio: "Designer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Designer
+
+![[Designer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Designer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Designer&language=de)
 
 **Meaning:** designer (m)
 **Plural:** Designer

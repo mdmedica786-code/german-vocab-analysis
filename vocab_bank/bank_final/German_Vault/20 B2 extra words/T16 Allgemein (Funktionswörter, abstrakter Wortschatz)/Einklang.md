@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0342"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Einklang.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Einklang
+
+![[Einklang.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einklang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einklang&language=de)
 
 **Meaning:** harmony; accord
 **Plural:** –

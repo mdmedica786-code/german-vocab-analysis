@@ -13,11 +13,16 @@ id: "B5160"
 goethe_level: "B1"
 freq_rank: 469
 skip: false
+audio: "wenden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # wenden
+
+![[wenden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wenden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wenden&language=de)
 
 **Meaning:** to turn (a vehicle); to turn over
 **Other senses:** sich wenden an: to turn to

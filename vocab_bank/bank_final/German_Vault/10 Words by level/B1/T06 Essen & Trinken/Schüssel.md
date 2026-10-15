@@ -15,11 +15,16 @@ id: "B6008"
 goethe_level: "B1"
 freq_rank: 3913
 skip: false
+audio: "Schüssel.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schüssel
+
+![[Schüssel.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sch%C3%BCssel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sch%C3%BCssel&language=de)
 
 **Meaning:** bowl
 **Plural:** Schüsseln

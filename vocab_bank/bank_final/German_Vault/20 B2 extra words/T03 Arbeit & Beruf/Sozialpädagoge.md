@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4430"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Sozialpädagoge.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sozialpädagoge
+
+![[Sozialpädagoge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialp%C3%A4dagoge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialp%C3%A4dagoge&language=de)
 
 **Meaning:** social education worker (male); social pedagogue
 **Plural:** Sozialpädagogen

@@ -15,11 +15,16 @@ id: "B1501"
 netzwerk: "A1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Partizip.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Partizip
+
+![[Partizip.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Partizip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Partizip&language=de)
 
 **Meaning:** participle
 **Plural:** Partizipien

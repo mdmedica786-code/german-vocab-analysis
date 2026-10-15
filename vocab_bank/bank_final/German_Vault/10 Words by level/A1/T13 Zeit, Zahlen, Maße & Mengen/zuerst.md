@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 7a"
 freq_rank: 684
 skip: false
+audio: "zuerst.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zuerst
+
+![[zuerst.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zuerst/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zuerst&language=de)
 
 **Meaning:** at first
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

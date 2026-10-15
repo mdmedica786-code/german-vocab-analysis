@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1429"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Sauerkraut.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Sauerkraut
+
+![[Sauerkraut.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sauerkraut/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sauerkraut&language=de)
 
 **Meaning:** sauerkraut; pickled cabbage
 **Plural:** –

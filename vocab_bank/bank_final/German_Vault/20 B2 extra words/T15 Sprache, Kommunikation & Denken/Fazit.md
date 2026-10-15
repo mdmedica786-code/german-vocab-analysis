@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0955"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Fazit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Fazit
+
+![[Fazit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fazit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fazit&language=de)
 
 **Meaning:** conclusion; summary verdict
 **Plural:** Fazits

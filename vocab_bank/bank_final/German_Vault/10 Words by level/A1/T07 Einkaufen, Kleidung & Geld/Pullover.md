@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K11 2a"
 freq_rank: 5759
 skip: false
+audio: "Pullover.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Pullover
+
+![[Pullover.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pullover/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pullover&language=de)
 
 **Meaning:** jumper
 **Plural:** Pullover

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K9 1b"
 freq_rank: 1693
 skip: false
+audio: "Pflanze.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Pflanze
+
+![[Pflanze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Pflanze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Pflanze&language=de)
 
 **Meaning:** plant
 **Plural:** Pflanzen

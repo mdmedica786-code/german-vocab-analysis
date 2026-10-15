@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7b"
 freq_rank: 50
 skip: false
+audio: "sagen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # sagen
+
+![[sagen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sagen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sagen&language=de)
 
 **Meaning:** to say
 **Forms:** sagt · sagte · hat gesagt

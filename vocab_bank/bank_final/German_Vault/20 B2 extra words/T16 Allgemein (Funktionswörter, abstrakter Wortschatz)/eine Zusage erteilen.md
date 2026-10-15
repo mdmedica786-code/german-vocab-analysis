@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # eine Zusage erteilen
 
+[▶️ YouGlish](https://youglish.com/pronounce/eine%20Zusage%20erteilen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=eine%20Zusage%20erteilen&language=de)
+
 **Meaning:** to give a commitment; to grant an acceptance
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

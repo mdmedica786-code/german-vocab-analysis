@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K5 1a"
 freq_rank: 5759
 skip: false
+audio: "Mensa.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mensa
+
+![[Mensa.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mensa/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mensa&language=de)
 
 **Meaning:** canteen
 **Plural:** Mensen

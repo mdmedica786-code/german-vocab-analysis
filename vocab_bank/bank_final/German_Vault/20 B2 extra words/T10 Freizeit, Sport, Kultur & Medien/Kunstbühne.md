@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4160"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Kunstbühne
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kunstb%C3%BChne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kunstb%C3%BChne&language=de)
 
 **Meaning:** art stage; stage for the arts
 **Plural:** Kunstbühnen

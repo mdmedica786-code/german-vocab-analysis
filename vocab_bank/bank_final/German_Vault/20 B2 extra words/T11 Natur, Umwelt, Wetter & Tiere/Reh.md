@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1955"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Reh.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Reh
+
+![[Reh.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Reh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Reh&language=de)
 
 **Meaning:** roe deer
 **Plural:** Rehe

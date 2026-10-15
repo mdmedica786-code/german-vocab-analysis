@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 8b"
 freq_rank: 3619
 skip: false
+audio: "Tourist.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tourist
+
+![[Tourist.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tourist/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tourist&language=de)
 
 **Meaning:** tourist (m)
 **Plural:** Touristen

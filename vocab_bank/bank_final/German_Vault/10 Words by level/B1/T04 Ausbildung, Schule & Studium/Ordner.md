@@ -15,11 +15,16 @@ id: "B6107"
 goethe_level: "B1"
 freq_rank: 4424
 skip: false
+audio: "Ordner.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ordner
+
+![[Ordner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ordner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ordner&language=de)
 
 **Meaning:** folder; file
 **Plural:** Ordner

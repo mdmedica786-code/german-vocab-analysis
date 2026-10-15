@@ -15,11 +15,16 @@ id: "B2448"
 netzwerk: "A2 K6 7a"
 freq_rank: 5759
 skip: false
+audio: "Jobwechsel.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Jobwechsel
+
+![[Jobwechsel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Jobwechsel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Jobwechsel&language=de)
 
 **Meaning:** job change
 **Plural:** Jobwechsel

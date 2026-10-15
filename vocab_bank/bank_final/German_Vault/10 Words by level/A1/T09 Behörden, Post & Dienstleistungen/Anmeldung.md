@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 15a"
 freq_rank: 4972
 skip: false
+audio: "Anmeldung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anmeldung
+
+![[Anmeldung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anmeldung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anmeldung&language=de)
 
 **Meaning:** registration; sign-up; application
 **Other senses:** registration

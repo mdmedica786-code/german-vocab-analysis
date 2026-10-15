@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 1a"
 freq_rank: 1003
 skip: false
+audio: "benötigen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # benötigen
+
+![[benötigen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ben%C3%B6tigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ben%C3%B6tigen&language=de)
 
 **Meaning:** to need
 **Forms:** benötigt · benötigte · hat benötigt

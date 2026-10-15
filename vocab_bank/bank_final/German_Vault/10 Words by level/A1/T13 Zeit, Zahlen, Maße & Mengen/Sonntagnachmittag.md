@@ -15,11 +15,16 @@ id: "B0875"
 netzwerk: "A1 K5 10c"
 freq_rank: 5759
 skip: false
+audio: "Sonntagnachmittag.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sonntagnachmittag
+
+![[Sonntagnachmittag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sonntagnachmittag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sonntagnachmittag&language=de)
 
 **Meaning:** Sunday afternoon
 **Plural:** Sonntagnachmittage

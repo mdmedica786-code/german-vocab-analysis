@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1780"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Gewinnspanne.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Gewinnspanne
+
+![[Gewinnspanne.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gewinnspanne/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gewinnspanne&language=de)
 
 **Meaning:** profit margin
 **Plural:** Gewinnspannen

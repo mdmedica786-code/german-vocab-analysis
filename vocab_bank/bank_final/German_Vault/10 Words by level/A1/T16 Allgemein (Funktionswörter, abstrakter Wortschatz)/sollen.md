@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sollen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sollen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sollen&language=de)
+
 **Meaning:** be supposed to
 **Forms:** soll · sollte · hat gesollt
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

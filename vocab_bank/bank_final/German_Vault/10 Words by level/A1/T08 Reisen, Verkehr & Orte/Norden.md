@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 11a"
 freq_rank: 1928
 skip: false
+audio: "Norden.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Norden
+
+![[Norden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Norden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Norden&language=de)
 
 **Meaning:** North
 **Plural:** –

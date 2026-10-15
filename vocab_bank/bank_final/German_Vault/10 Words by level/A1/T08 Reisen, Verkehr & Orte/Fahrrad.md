@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # das Fahrrad
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrrad/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrrad&language=de)
+
 **Meaning:** bicycle
 **Plural:** Fahrräder
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

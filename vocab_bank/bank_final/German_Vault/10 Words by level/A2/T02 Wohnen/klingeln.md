@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 5a"
 freq_rank: 2599
 skip: false
+audio: "klingeln.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # klingeln
+
+![[klingeln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/klingeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=klingeln&language=de)
 
 **Meaning:** to ring
 **Forms:** klingelt · klingelte · hat geklingelt

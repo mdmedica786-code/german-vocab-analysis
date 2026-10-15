@@ -15,11 +15,16 @@ id: "B2645"
 netzwerk: "A2 K7 11a"
 freq_rank: 5759
 skip: false
+audio: "Zugfahrt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zugfahrt
+
+![[Zugfahrt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zugfahrt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zugfahrt&language=de)
 
 **Meaning:** train ride
 **Plural:** Zugfahrten

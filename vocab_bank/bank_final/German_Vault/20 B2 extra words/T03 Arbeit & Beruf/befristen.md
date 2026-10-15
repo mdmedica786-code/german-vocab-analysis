@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0869"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "befristen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # befristen
+
+![[befristen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/befristen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=befristen&language=de)
 
 **Meaning:** to limit in time; to give a fixed term
 **Forms:** befristet · befristete · hat befristet

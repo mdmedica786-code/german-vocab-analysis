@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0715"
 exam_use: ["Hören", "Alltag"]
 skip: false
+audio: "Frost.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Frost
+
+![[Frost.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Frost/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Frost&language=de)
 
 **Meaning:** frost
 **Plural:** Fröste

@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # weiterhören
 
+[▶️ YouGlish](https://youglish.com/pronounce/weiterh%C3%B6ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weiterh%C3%B6ren&language=de)
+
 **Meaning:** to continue to listen
 **Forms:** hört weiter · hörte weiter · hat weitergehört
 **Grammar:** separable (weiter-)

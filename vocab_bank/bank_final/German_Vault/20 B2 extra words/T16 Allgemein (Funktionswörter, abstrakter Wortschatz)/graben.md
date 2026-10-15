@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3115"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "graben.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # graben
+
+![[graben.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/graben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=graben&language=de)
 
 **Meaning:** to dig
 **Forms:** gräbt · grub · hat gegraben

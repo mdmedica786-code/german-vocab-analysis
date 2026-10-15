@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 11a"
 freq_rank: 2745
 skip: false
+audio: "Zeichnung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeichnung
+
+![[Zeichnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeichnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeichnung&language=de)
 
 **Meaning:** drawing
 **Plural:** Zeichnungen

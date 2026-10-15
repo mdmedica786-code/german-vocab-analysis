@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Messe-Präsentation
 
+[▶️ YouGlish](https://youglish.com/pronounce/Messe-Pr%C3%A4sentation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Messe-Pr%C3%A4sentation&language=de)
+
 **Meaning:** trade fair presentation
 **Plural:** Messe-Präsentationen
 **Level:** C1 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

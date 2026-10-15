@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # der Zwang
 
+[▶️ YouGlish](https://youglish.com/pronounce/Zwang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zwang&language=de)
+
 **Meaning:** compulsion; coercion
 **Plural:** Zwänge
 **Level:** C1 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

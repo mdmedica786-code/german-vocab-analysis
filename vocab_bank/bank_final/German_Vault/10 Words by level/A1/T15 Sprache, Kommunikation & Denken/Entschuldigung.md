@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 2a"
 freq_rank: 3420
 skip: false
+audio: "Entschuldigung.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Entschuldigung
+
+![[Entschuldigung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entschuldigung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entschuldigung&language=de)
 
 **Meaning:** apology; excuse; Excuse me!
 **Plural:** Entschuldigungen

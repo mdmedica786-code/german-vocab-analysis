@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1891"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Sozialwohnung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sozialwohnung
+
+![[Sozialwohnung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sozialwohnung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sozialwohnung&language=de)
 
 **Meaning:** social housing flat
 **Plural:** Sozialwohnungen

@@ -13,11 +13,16 @@ id: "B2065"
 netzwerk: "A2 K3 1a"
 freq_rank: 5759
 skip: false
+audio: "downloaden.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # downloaden
+
+![[downloaden.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/downloaden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=downloaden&language=de)
 
 **Meaning:** to download
 **Forms:** downloadet · downloadete · hat downloadet

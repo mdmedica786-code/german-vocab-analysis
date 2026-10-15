@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4318"
 exam_use: ["Medien", "Alltag"]
 skip: false
-status: "new"
+audio: "Poetry-Slam.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Poetry-Slam
+
+![[Poetry-Slam.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Poetry-Slam/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Poetry-Slam&language=de)
 
 **Meaning:** poetry slam
 **Plural:** Poetry-Slams

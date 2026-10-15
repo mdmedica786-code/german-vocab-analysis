@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2715"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
+audio: "institutionell.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/adjective", "exam/Lesen", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # institutionell
+
+![[institutionell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/institutionell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=institutionell&language=de)
 
 **Meaning:** institutional
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral

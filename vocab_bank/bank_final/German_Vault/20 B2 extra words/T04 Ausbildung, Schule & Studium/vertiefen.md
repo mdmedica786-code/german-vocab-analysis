@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1845"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "vertiefen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # vertiefen
+
+![[vertiefen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vertiefen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vertiefen&language=de)
 
 **Meaning:** to deepen; to intensify
 **Forms:** vertieft · vertiefte · hat vertieft

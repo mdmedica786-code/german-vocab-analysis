@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0598"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Einschaltquote.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Einschaltquote
+
+![[Einschaltquote.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einschaltquote/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einschaltquote&language=de)
 
 **Meaning:** viewing figures; ratings
 **Plural:** Einschaltquoten

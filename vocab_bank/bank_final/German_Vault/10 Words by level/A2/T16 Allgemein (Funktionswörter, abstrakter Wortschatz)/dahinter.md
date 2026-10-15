@@ -12,11 +12,16 @@ id: "B3237"
 netzwerk: "A2 K12 11a"
 freq_rank: 2145
 skip: false
+audio: "dahinter.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dahinter
+
+![[dahinter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dahinter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dahinter&language=de)
 
 **Meaning:** behind it
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

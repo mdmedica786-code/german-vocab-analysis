@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 11a"
 freq_rank: 1750
 skip: false
+audio: "Zeile.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Zeile
+
+![[Zeile.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Zeile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Zeile&language=de)
 
 **Meaning:** line
 **Plural:** Zeilen

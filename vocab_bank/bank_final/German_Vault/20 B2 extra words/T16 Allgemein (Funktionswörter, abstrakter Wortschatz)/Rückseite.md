@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3162"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Rückseite.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rückseite
+
+![[Rückseite.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCckseite/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCckseite&language=de)
 
 **Meaning:** back; reverse side
 **Plural:** Rückseiten

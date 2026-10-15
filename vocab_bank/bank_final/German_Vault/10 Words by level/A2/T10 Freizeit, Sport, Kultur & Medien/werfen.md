@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 11b"
 freq_rank: 377
 skip: false
+audio: "werfen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # werfen
+
+![[werfen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/werfen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=werfen&language=de)
 
 **Meaning:** to throw
 **Forms:** wirft · warf · hat geworfen

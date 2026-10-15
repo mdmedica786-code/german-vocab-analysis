@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # sie
 
+[▶️ YouGlish](https://youglish.com/pronounce/sie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sie&language=de)
+
 **Meaning:** she
 **Other senses:** they; her
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

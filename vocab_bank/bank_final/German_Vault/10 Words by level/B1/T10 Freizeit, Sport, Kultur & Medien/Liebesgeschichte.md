@@ -15,11 +15,16 @@ id: "B3647"
 netzwerk: "B1 K3 6d"
 freq_rank: 5759
 skip: false
+audio: "Liebesgeschichte.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Liebesgeschichte
+
+![[Liebesgeschichte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Liebesgeschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Liebesgeschichte&language=de)
 
 **Meaning:** love story
 **Plural:** Liebesgeschichten

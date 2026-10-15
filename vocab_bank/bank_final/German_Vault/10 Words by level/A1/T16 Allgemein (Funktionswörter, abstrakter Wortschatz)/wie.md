@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wie
 
+[▶️ YouGlish](https://youglish.com/pronounce/wie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wie&language=de)
+
 **Meaning:** how; like; as
 **Other senses:** how
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

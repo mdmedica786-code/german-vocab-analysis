@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K8 6a"
 freq_rank: 557
 skip: false
+audio: "Bein.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Bein
+
+![[Bein.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bein&language=de)
 
 **Meaning:** leg
 **Plural:** Beine

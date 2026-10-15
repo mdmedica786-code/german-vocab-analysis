@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K4 1a"
 freq_rank: 5759
 skip: false
+audio: "Gebäck.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gebäck
+
+![[Gebäck.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geb%C3%A4ck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geb%C3%A4ck&language=de)
 
 **Meaning:** pastry
 **Plural:** –

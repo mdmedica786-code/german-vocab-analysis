@@ -15,11 +15,16 @@ id: "B0920"
 netzwerk: "A1 K6 1a"
 freq_rank: 5759
 skip: false
+audio: "Freizeitaktivität.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Freizeitaktivität
+
+![[Freizeitaktivität.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freizeitaktivit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freizeitaktivit%C3%A4t&language=de)
 
 **Meaning:** extracurricular activity
 **Plural:** Freizeitaktivitäten

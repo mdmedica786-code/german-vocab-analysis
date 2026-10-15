@@ -12,11 +12,16 @@ id: "B2196"
 netzwerk: "A2 K4 3a"
 freq_rank: 4785
 skip: false
+audio: "genervt.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # genervt
+
+![[genervt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/genervt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=genervt&language=de)
 
 **Meaning:** annoyed; irritated
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

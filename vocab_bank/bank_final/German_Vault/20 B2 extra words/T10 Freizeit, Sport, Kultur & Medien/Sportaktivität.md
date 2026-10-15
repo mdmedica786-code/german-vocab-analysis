@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4441"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Sportaktivität
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sportaktivit%C3%A4t/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sportaktivit%C3%A4t&language=de)
 
 **Meaning:** sports activity
 **Plural:** Sportaktivitäten

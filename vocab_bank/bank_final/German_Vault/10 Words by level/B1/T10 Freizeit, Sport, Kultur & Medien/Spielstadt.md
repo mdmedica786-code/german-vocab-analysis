@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Spielstadt
 
+[▶️ YouGlish](https://youglish.com/pronounce/Spielstadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spielstadt&language=de)
+
 **Meaning:** play city (children's mock town)
 **Plural:** Spielstädte
 **Level:** B1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

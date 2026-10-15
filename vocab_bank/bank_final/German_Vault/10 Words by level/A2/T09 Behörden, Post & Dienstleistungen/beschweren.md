@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K8 1b"
 freq_rank: 3534
 skip: false
+audio: "beschweren.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T09", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # beschweren
+
+![[beschweren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beschweren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beschweren&language=de)
 
 **Meaning:** to complain about
 **Forms:** beschwert · beschwerte · hat beschwert

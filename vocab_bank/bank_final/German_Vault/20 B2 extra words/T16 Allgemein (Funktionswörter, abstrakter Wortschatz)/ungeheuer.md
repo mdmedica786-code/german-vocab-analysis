@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2708"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "ungeheuer.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/adjective", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # ungeheuer
+
+![[ungeheuer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ungeheuer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ungeheuer&language=de)
 
 **Meaning:** tremendous; enormous
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

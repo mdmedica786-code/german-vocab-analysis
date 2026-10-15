@@ -11,11 +11,16 @@ bank: "b2"
 id: "D0802"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "verbindlich.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/adjective", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # verbindlich
+
+![[verbindlich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verbindlich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verbindlich&language=de)
 
 **Meaning:** binding; firm
 **Level:** B2 · **Topic:** [[T09 Behörden, Post & Dienstleistungen]] · **Register:** neutral

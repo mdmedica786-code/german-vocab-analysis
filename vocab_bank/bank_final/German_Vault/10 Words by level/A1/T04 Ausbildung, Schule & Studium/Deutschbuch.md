@@ -15,11 +15,16 @@ id: "B1822"
 netzwerk: "A1 K12 8b"
 freq_rank: 5759
 skip: false
+audio: "Deutschbuch.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Deutschbuch
+
+![[Deutschbuch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deutschbuch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deutschbuch&language=de)
 
 **Meaning:** German book
 **Plural:** Deutschbücher

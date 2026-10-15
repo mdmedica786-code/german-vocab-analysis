@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2405"
 exam_use: ["Schreiben", "Wissenschaft"]
 skip: false
+audio: "definieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Wissenschaft"]
 status: "new"
 ---
 <!-- bank:start -->
 # definieren
+
+![[definieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/definieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=definieren&language=de)
 
 **Meaning:** to define
 **Forms:** definiert · definierte · hat definiert

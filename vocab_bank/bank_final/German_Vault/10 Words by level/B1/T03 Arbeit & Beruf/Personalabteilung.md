@@ -15,11 +15,16 @@ id: "B3797"
 netzwerk: "B1 K4 8b"
 freq_rank: 5759
 skip: false
+audio: "Personalabteilung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Personalabteilung
+
+![[Personalabteilung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Personalabteilung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Personalabteilung&language=de)
 
 **Meaning:** HR department
 **Plural:** Personalabteilungen

@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Silbenanfang
 
+[▶️ YouGlish](https://youglish.com/pronounce/Silbenanfang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Silbenanfang&language=de)
+
 **Meaning:** beginning of the syllable
 **Plural:** Silbenanfänge
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

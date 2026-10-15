@@ -15,11 +15,16 @@ id: "B4681"
 netzwerk: "B1 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "Backofen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Backofen
+
+![[Backofen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Backofen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Backofen&language=de)
 
 **Meaning:** oven
 **Plural:** Backöfen

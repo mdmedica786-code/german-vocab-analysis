@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 8b"
 freq_rank: 5759
 skip: false
+audio: "wehtun.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # wehtun
+
+![[wehtun.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/wehtun/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wehtun&language=de)
 
 **Meaning:** to hurt
 **Forms:** tut weh · tat weh · hat wehgetan

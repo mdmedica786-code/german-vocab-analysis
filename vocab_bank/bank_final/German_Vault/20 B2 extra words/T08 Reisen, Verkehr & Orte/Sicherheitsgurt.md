@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4408"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Sicherheitsgurt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Sicherheitsgurt
+
+![[Sicherheitsgurt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sicherheitsgurt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicherheitsgurt&language=de)
 
 **Meaning:** seat belt
 **Plural:** Sicherheitsgurte

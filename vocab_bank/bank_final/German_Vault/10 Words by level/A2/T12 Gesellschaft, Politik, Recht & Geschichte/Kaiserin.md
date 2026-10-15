@@ -15,11 +15,16 @@ id: "B2373"
 netzwerk: "A2 K5 8b"
 freq_rank: 5587
 skip: false
+audio: "Kaiserin.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kaiserin
+
+![[Kaiserin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaiserin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaiserin&language=de)
 
 **Meaning:** empress
 **Plural:** Kaiserinnen

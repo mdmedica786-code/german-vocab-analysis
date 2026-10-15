@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0352"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Erwägung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Erwägung
+
+![[Erwägung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erw%C3%A4gung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erw%C3%A4gung&language=de)
 
 **Meaning:** consideration; deliberation
 **Plural:** Erwägungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0408"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Abfindung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Abfindung
+
+![[Abfindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Abfindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Abfindung&language=de)
 
 **Meaning:** severance pay; compensation
 **Plural:** Abfindungen

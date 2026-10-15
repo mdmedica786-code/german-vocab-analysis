@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 12b"
 freq_rank: 753
 skip: false
+audio: "Kultur.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kultur
+
+![[Kultur.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kultur/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kultur&language=de)
 
 **Meaning:** culture
 **Plural:** –

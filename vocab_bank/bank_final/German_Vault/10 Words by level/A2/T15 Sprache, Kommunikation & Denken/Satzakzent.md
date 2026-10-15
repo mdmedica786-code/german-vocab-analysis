@@ -15,11 +15,16 @@ id: "B2988"
 netzwerk: "A2 K10 9a"
 freq_rank: 9999
 skip: false
+audio: "Satzakzent.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Satzakzent
+
+![[Satzakzent.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satzakzent/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzakzent&language=de)
 
 **Meaning:** stress of the sentence
 **Plural:** Satzakzente

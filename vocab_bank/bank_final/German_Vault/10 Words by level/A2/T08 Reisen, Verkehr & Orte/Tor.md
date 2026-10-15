@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K9 1b ÜB"
 freq_rank: 1586
 skip: false
+audio: "Tor.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Tor
+
+![[Tor.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tor/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tor&language=de)
 
 **Meaning:** gate; goal
 **Plural:** Tore

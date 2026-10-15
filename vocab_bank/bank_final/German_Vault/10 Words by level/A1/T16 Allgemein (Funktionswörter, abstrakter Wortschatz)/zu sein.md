@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # zu sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/zu%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zu%20sein&language=de)
+
 **Meaning:** to be closed
 **Forms:** ist zu · war zu · ist zu gewesen
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

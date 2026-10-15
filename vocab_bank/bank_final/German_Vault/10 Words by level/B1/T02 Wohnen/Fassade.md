@@ -15,11 +15,16 @@ id: "B4979"
 netzwerk: "B1 K11 12b"
 freq_rank: 4479
 skip: false
+audio: "Fassade.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fassade
+
+![[Fassade.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fassade/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fassade&language=de)
 
 **Meaning:** facade
 **Plural:** Fassaden

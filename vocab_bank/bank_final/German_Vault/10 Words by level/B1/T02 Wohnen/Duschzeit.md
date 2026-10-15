@@ -15,11 +15,16 @@ id: "B3941"
 netzwerk: "B1 K5 4b"
 freq_rank: 9999
 skip: false
+audio: "Duschzeit.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Duschzeit
+
+![[Duschzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Duschzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Duschzeit&language=de)
 
 **Meaning:** shower time
 **Plural:** Duschzeiten

@@ -15,11 +15,16 @@ id: "B3183"
 netzwerk: "A2 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Verpflegung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verpflegung
+
+![[Verpflegung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verpflegung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verpflegung&language=de)
 
 **Meaning:** catering; food
 **Plural:** Verpflegungen

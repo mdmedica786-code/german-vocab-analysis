@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 6a"
 freq_rank: 2166
 skip: false
+audio: "Datei.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Datei
+
+![[Datei.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datei/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datei&language=de)
 
 **Meaning:** file
 **Plural:** Dateien

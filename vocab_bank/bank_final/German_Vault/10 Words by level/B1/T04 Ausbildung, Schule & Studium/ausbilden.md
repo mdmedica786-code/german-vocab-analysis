@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 3b"
 freq_rank: 3901
 skip: false
+audio: "ausbilden.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausbilden
+
+![[ausbilden.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausbilden/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausbilden&language=de)
 
 **Meaning:** to train
 **Forms:** bildet aus · bildete aus · hat ausgebildet

@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0214"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "resultieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # resultieren
+
+![[resultieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/resultieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=resultieren&language=de)
 
 **Meaning:** to result (from)
 **Forms:** resultiert · resultierte · hat resultiert

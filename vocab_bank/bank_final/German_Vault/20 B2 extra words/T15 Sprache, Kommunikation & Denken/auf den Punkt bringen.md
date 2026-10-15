@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # auf den Punkt bringen
 
+[▶️ YouGlish](https://youglish.com/pronounce/auf%20den%20Punkt%20bringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auf%20den%20Punkt%20bringen&language=de)
+
 **Meaning:** to put succinctly; to sum up
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

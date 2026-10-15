@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4073"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Informationssuche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Informationssuche
+
+![[Informationssuche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Informationssuche/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Informationssuche&language=de)
 
 **Meaning:** search for information
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1512"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Sachlichkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sachlichkeit
+
+![[Sachlichkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sachlichkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sachlichkeit&language=de)
 
 **Meaning:** objectivity; matter-of-factness
 **Plural:** –

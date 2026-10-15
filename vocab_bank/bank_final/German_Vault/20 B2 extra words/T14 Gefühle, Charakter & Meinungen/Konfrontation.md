@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3400"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "Konfrontation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Konfrontation
+
+![[Konfrontation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Konfrontation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Konfrontation&language=de)
 
 **Meaning:** confrontation
 **Plural:** Konfrontationen

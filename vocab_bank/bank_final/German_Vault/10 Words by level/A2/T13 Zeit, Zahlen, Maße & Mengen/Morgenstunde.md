@@ -15,11 +15,16 @@ id: "B3110"
 netzwerk: "A2 K11 12a"
 freq_rank: 5759
 skip: false
+audio: "Morgenstunde.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Morgenstunde
+
+![[Morgenstunde.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Morgenstunde/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Morgenstunde&language=de)
 
 **Meaning:** early in the morning
 **Plural:** Morgenstunden

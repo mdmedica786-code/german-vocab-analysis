@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # überrascht sein
 
+[▶️ YouGlish](https://youglish.com/pronounce/%C3%BCberrascht%20sein/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=%C3%BCberrascht%20sein&language=de)
+
 **Meaning:** to be surprised
 **Forms:** ist überrascht · war überrascht · ist überrascht gewesen
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

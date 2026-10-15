@@ -14,11 +14,16 @@ bank: "main"
 id: "B6318"
 freq_rank: 5527
 skip: false
+audio: "Koalition.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Koalition
+
+![[Koalition.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Koalition/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Koalition&language=de)
 
 **Meaning:** coalition
 **Plural:** Koalitionen

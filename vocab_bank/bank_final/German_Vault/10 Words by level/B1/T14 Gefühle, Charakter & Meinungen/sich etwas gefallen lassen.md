@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # sich etwas gefallen lassen
 
+[▶️ YouGlish](https://youglish.com/pronounce/sich%20etwas%20gefallen%20lassen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sich%20etwas%20gefallen%20lassen&language=de)
+
 **Meaning:** to put up with something
 **Forms:** lässt sich gefallen · ließ sich gefallen · hat sich gefallen lassen
 **Grammar:** reflexive

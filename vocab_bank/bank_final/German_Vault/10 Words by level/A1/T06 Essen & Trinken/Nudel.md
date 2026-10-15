@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K1 1a"
 freq_rank: 5759
 skip: false
+audio: "Nudel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nudel
+
+![[Nudel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nudel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nudel&language=de)
 
 **Meaning:** noodle
 **Plural:** Nudeln

@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K3 1b"
 freq_rank: 5512
 skip: false
+audio: "minimal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # minimal
+
+![[minimal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/minimal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=minimal&language=de)
 
 **Meaning:** minimal
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

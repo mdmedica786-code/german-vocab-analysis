@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3301"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Aufbruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Aufbruch
+
+![[Aufbruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aufbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aufbruch&language=de)
 
 **Meaning:** departure; start; new beginning
 **Plural:** Aufbrüche

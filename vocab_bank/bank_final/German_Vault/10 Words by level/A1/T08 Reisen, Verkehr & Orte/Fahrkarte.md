@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Fahrkarte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrkarte&language=de)
+
 **Meaning:** ticket
 **Plural:** Fahrkarten
 **Level:** A1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

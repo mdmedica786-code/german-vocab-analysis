@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 1b"
 freq_rank: 5428
 skip: false
+audio: "Müll.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Müll
+
+![[Müll.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/M%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=M%C3%BCll&language=de)
 
 **Meaning:** rubbish
 **Plural:** –

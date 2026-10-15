@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1697"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "fesseln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/verb", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # fesseln
+
+![[fesseln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fesseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fesseln&language=de)
 
 **Meaning:** to tie up; to captivate
 **Forms:** fesselt · fesselte · hat gefesselt

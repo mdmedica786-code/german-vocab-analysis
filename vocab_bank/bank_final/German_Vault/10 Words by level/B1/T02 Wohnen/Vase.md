@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K9 7b"
 freq_rank: 5759
 skip: false
+audio: "Vase.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Vase
+
+![[Vase.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vase/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vase&language=de)
 
 **Meaning:** vase
 **Plural:** Vasen

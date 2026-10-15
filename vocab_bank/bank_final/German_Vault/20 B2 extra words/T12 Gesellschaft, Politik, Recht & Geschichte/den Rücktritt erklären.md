@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # den Rücktritt erklären
 
+[▶️ YouGlish](https://youglish.com/pronounce/den%20R%C3%BCcktritt%20erkl%C3%A4ren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=den%20R%C3%BCcktritt%20erkl%C3%A4ren&language=de)
+
 **Meaning:** to announce one's resignation
 **Level:** B2 · **Topic:** [[T12 Gesellschaft, Politik, Recht & Geschichte]] · **Register:** neutral
 

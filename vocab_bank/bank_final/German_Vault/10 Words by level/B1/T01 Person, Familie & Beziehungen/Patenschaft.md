@@ -15,11 +15,16 @@ id: "B4774"
 netzwerk: "B1 K10 3b"
 freq_rank: 5759
 skip: false
+audio: "Patenschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Patenschaft
+
+![[Patenschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Patenschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Patenschaft&language=de)
 
 **Meaning:** sponsorship, godparenthood
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4645"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "Wochenplan.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Wochenplan
+
+![[Wochenplan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wochenplan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wochenplan&language=de)
 
 **Meaning:** weekly plan; weekly schedule
 **Plural:** Wochenpläne

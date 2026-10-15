@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K11 12a"
 freq_rank: 1906
 skip: false
+audio: "Gold.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gold
+
+![[Gold.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gold/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gold&language=de)
 
 **Meaning:** gold
 **Plural:** –

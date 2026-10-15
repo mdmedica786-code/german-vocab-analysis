@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K10 10b"
 freq_rank: 1676
 skip: false
+audio: "endgültig.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # endgültig
+
+![[endgültig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/endg%C3%BCltig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=endg%C3%BCltig&language=de)
 
 **Meaning:** final
 **Level:** B1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

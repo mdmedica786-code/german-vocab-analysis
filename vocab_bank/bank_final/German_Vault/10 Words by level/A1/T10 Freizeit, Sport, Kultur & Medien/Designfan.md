@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # der Designfan
 
+[▶️ YouGlish](https://youglish.com/pronounce/Designfan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Designfan&language=de)
+
 **Meaning:** design fan
 **Plural:** Designfans
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

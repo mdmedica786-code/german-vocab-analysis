@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0669"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "Hochwasserschutz.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Hochwasserschutz
+
+![[Hochwasserschutz.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hochwasserschutz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hochwasserschutz&language=de)
 
 **Meaning:** flood protection
 **Plural:** –

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 7c"
 freq_rank: 5759
 skip: false
+audio: "buchstabieren.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # buchstabieren
+
+![[buchstabieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/buchstabieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=buchstabieren&language=de)
 
 **Meaning:** to spell
 **Forms:** buchstabiert · buchstabierte · hat buchstabiert

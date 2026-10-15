@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3899"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
-status: "new"
+audio: "Entscheidungsfreiheit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Entscheidungsfreiheit
+
+![[Entscheidungsfreiheit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Entscheidungsfreiheit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Entscheidungsfreiheit&language=de)
 
 **Meaning:** freedom of choice; freedom to decide
 **Plural:** –

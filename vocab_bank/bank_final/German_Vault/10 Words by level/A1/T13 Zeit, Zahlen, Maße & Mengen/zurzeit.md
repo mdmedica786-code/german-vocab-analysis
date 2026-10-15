@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 11a"
 freq_rank: 4325
 skip: false
+audio: "zurzeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zurzeit
+
+![[zurzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zurzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zurzeit&language=de)
 
 **Meaning:** currently
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 13a"
 freq_rank: 2000
 skip: false
+audio: "Rede.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Rede
+
+![[Rede.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Rede/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Rede&language=de)
 
 **Meaning:** speech
 **Plural:** Reden

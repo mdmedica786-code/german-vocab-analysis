@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K1 13a"
 freq_rank: 4304
 skip: false
+audio: "Gebirge.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gebirge
+
+![[Gebirge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gebirge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gebirge&language=de)
 
 **Meaning:** mountains, mountain range
 **Plural:** Gebirge

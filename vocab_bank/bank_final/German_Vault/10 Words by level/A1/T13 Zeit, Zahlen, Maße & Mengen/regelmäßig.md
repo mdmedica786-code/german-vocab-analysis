@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A1 K8 1c"
 freq_rank: 963
 skip: false
+audio: "regelmäßig.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # regelmäßig
+
+![[regelmäßig.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/regelm%C3%A4%C3%9Fig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=regelm%C3%A4%C3%9Fig&language=de)
 
 **Meaning:** regularly
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

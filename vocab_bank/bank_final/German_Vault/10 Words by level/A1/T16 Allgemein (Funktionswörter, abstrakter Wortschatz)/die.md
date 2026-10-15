@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # die
 
+[▶️ YouGlish](https://youglish.com/pronounce/die/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=die&language=de)
+
 **Meaning:** the (definite article, feminine and plural)
 **Other senses:** the
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

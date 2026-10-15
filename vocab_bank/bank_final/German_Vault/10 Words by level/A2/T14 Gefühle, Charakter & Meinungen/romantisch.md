@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # romantisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/romantisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=romantisch&language=de)
+
 **Meaning:** romantic
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

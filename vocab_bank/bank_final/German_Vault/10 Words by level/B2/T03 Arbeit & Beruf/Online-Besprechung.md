@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Online-Besprechung
 
+[▶️ YouGlish](https://youglish.com/pronounce/Online-Besprechung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Online-Besprechung&language=de)
+
 **Meaning:** online meeting
 **Plural:** Online-Besprechungen
 **Level:** B2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

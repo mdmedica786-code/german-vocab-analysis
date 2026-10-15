@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 8a"
 freq_rank: 868
 skip: false
+audio: "schweigen.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schweigen
+
+![[schweigen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schweigen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schweigen&language=de)
 
 **Meaning:** to remain silent
 **Forms:** schweigt · schwieg · hat geschwiegen

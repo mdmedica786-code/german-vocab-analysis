@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1293"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
+audio: "quengeln.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T01", "pos/verb", "exam/Alltag", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # quengeln
+
+![[quengeln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/quengeln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=quengeln&language=de)
 
 **Meaning:** to whine; to grizzle
 **Forms:** quengelt · quengelte · hat gequengelt

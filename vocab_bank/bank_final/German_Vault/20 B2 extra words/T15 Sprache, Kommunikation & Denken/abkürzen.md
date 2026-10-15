@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0836"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "abkürzen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # abkürzen
+
+![[abkürzen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abk%C3%BCrzen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abk%C3%BCrzen&language=de)
 
 **Meaning:** to abbreviate; to shorten
 **Forms:** kürzt ab · kürzte ab · hat abgekürzt

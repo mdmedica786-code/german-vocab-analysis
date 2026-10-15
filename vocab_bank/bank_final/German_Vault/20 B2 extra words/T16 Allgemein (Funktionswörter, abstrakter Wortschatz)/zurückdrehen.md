@@ -12,11 +12,16 @@ bank: "b2"
 id: "D4673"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
-status: "new"
+audio: "zurückdrehen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Sprechen", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # zurückdrehen
+
+![[zurückdrehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zur%C3%BCckdrehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zur%C3%BCckdrehen&language=de)
 
 **Meaning:** to turn back; to reverse; to wind back
 **Forms:** dreht zurück · drehte zurück · hat zurückgedreht

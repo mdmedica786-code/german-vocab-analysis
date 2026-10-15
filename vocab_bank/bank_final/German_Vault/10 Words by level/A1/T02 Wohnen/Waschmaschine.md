@@ -15,11 +15,16 @@ id: "B1367"
 netzwerk: "A1 K9 1a"
 freq_rank: 5754
 skip: false
+audio: "Waschmaschine.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Waschmaschine
+
+![[Waschmaschine.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Waschmaschine/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Waschmaschine&language=de)
 
 **Meaning:** washing machine
 **Plural:** Waschmaschinen

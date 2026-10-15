@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1242"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
+audio: "einarbeiten.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/verb", "exam/Alltag", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # einarbeiten
+
+![[einarbeiten.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einarbeiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einarbeiten&language=de)
 
 **Meaning:** to familiarise oneself; to train (on the job)
 **Forms:** arbeitet sich ein · arbeitete sich ein · hat sich eingearbeitet

@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K12 8b"
 freq_rank: 3301
 skip: false
+audio: "Flug.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Flug
+
+![[Flug.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Flug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Flug&language=de)
 
 **Meaning:** flight
 **Plural:** Flüge

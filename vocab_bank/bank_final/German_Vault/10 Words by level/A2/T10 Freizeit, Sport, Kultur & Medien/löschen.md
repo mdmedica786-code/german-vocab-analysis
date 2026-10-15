@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 1b ÜB"
 freq_rank: 3095
 skip: false
+audio: "löschen.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # löschen
+
+![[löschen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/l%C3%B6schen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=l%C3%B6schen&language=de)
 
 **Meaning:** to delete
 **Forms:** löscht · löschte · hat gelöscht

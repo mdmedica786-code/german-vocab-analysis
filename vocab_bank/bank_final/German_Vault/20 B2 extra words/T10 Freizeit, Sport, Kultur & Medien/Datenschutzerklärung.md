@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0579"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Datenschutzerklärung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Datenschutzerklärung
+
+![[Datenschutzerklärung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Datenschutzerkl%C3%A4rung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Datenschutzerkl%C3%A4rung&language=de)
 
 **Meaning:** privacy policy
 **Plural:** Datenschutzerklärungen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2262"
 exam_use: ["Alltag", "Hören"]
 skip: false
+audio: "Wasserkocher.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Alltag", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wasserkocher
+
+![[Wasserkocher.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wasserkocher/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wasserkocher&language=de)
 
 **Meaning:** electric kettle
 **Plural:** Wasserkocher

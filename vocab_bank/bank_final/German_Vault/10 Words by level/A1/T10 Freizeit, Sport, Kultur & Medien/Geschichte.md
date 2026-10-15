@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # die Geschichte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Geschichte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geschichte&language=de)
+
 **Meaning:** story; history
 **Other senses:** history
 **Plural:** Geschichten

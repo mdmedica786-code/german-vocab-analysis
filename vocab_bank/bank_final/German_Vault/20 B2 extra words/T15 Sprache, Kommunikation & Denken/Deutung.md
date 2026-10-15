@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2745"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Deutung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Deutung
+
+![[Deutung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Deutung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Deutung&language=de)
 
 **Meaning:** interpretation
 **Plural:** Deutungen

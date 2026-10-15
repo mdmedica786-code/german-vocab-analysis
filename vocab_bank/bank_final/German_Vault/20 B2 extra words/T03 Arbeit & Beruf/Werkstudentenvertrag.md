@@ -14,11 +14,13 @@ bank: "b2"
 id: "D4636"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Werkstudentenvertrag
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werkstudentenvertrag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkstudentenvertrag&language=de)
 
 **Meaning:** working-student contract
 **Plural:** Werkstudentenverträge

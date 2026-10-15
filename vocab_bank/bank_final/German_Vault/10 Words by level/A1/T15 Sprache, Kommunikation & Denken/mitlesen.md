@@ -13,11 +13,16 @@ id: "B0142"
 netzwerk: "A1 K1 7a"
 freq_rank: 5759
 skip: false
+audio: "mitlesen.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitlesen
+
+![[mitlesen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitlesen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitlesen&language=de)
 
 **Meaning:** to read along
 **Forms:** liest mit · las mit · hat mitgelesen

@@ -15,11 +15,16 @@ id: "B4384"
 netzwerk: "B1 K8 1b"
 freq_rank: 2454
 skip: false
+audio: "Auswertung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Auswertung
+
+![[Auswertung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Auswertung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Auswertung&language=de)
 
 **Meaning:** evaluation
 **Plural:** Auswertungen

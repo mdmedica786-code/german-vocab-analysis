@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3706"
 exam_use: ["Sprechen", "Hören"]
 skip: false
-status: "new"
+audio: "Alltagssprache.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Sprechen", "exam/Hören"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Alltagssprache
+
+![[Alltagssprache.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Alltagssprache/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Alltagssprache&language=de)
 
 **Meaning:** everyday language; colloquial speech
 **Plural:** –

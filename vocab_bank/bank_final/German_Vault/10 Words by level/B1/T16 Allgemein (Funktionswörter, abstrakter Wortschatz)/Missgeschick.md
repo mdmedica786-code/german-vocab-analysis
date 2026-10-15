@@ -15,11 +15,16 @@ id: "B4595"
 netzwerk: "B1 K9 3b"
 freq_rank: 5759
 skip: false
+audio: "Missgeschick.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Missgeschick
+
+![[Missgeschick.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Missgeschick/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Missgeschick&language=de)
 
 **Meaning:** mishap, misfortune
 **Plural:** Missgeschicke

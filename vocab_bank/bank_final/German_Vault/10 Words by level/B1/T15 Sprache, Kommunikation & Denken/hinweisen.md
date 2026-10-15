@@ -13,11 +13,16 @@ id: "B5342"
 goethe_level: "B1"
 freq_rank: 1538
 skip: false
+audio: "hinweisen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # hinweisen
+
+![[hinweisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/hinweisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=hinweisen&language=de)
 
 **Meaning:** to point out; to refer
 **Forms:** weist hin · wies hin · hat hingewiesen

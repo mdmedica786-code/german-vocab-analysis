@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1802"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "abbringen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/verb", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # abbringen
+
+![[abbringen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abbringen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abbringen&language=de)
 
 **Meaning:** to dissuade; to talk out of
 **Forms:** bringt ab · brachte ab · hat abgebracht

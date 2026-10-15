@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K12 3a ÜB"
 freq_rank: 5759
 skip: false
+audio: "Einzelzimmer.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Einzelzimmer
+
+![[Einzelzimmer.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Einzelzimmer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einzelzimmer&language=de)
 
 **Meaning:** single room
 **Plural:** Einzelzimmer

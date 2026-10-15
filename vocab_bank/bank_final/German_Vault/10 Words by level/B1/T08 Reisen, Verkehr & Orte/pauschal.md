@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "pauschal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # pauschal
+
+![[pauschal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pauschal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pauschal&language=de)
 
 **Meaning:** across-the-board
 **Level:** B1 · **Topic:** [[T08 Reisen, Verkehr & Orte]] · **Register:** neutral

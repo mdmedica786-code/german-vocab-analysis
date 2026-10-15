@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0898"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "erwähnen.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # erwähnen
+
+![[erwähnen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/erw%C3%A4hnen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=erw%C3%A4hnen&language=de)
 
 **Meaning:** to mention
 **Forms:** erwähnt · erwähnte · hat erwähnt

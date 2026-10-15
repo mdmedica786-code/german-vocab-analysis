@@ -15,11 +15,16 @@ id: "B5119"
 netzwerk: "B1 K12 11b"
 freq_rank: 5759
 skip: false
+audio: "Kaufmannsfamilie.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kaufmannsfamilie
+
+![[Kaufmannsfamilie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaufmannsfamilie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaufmannsfamilie&language=de)
 
 **Meaning:** merchant family
 **Plural:** Kaufmannsfamilien

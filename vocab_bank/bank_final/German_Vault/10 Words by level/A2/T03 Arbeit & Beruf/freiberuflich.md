@@ -12,11 +12,16 @@ id: "B2747"
 netzwerk: "A2 K8 6b"
 freq_rank: 5759
 skip: false
+audio: "freiberuflich.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # freiberuflich
+
+![[freiberuflich.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/freiberuflich/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=freiberuflich&language=de)
 
 **Meaning:** freelance
 **Level:** A2 · **Topic:** [[T03 Arbeit & Beruf]] · **Register:** neutral

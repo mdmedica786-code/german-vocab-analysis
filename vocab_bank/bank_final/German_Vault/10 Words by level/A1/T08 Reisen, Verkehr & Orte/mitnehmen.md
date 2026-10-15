@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 1a"
 freq_rank: 2119
 skip: false
+audio: "mitnehmen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # mitnehmen
+
+![[mitnehmen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/mitnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=mitnehmen&language=de)
 
 **Meaning:** to take along
 **Forms:** nimmt mit · nahm mit · hat mitgenommen

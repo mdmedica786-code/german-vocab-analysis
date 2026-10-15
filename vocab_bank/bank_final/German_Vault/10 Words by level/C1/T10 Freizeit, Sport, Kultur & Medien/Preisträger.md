@@ -14,11 +14,16 @@ bank: "main"
 id: "B6526"
 freq_rank: 5759
 skip: false
+audio: "Preisträger.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Preisträger
+
+![[Preisträger.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Preistr%C3%A4ger/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preistr%C3%A4ger&language=de)
 
 **Meaning:** prize winner
 **Plural:** Preisträger

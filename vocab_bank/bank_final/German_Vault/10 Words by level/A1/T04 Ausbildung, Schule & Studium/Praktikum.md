@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K7 2a"
 freq_rank: 2934
 skip: false
+audio: "Praktikum.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Praktikum
+
+![[Praktikum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Praktikum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Praktikum&language=de)
 
 **Meaning:** internship
 **Plural:** Praktika

@@ -15,11 +15,16 @@ id: "B5764"
 goethe_level: "B1"
 freq_rank: 2982
 skip: false
+audio: "Schwangerschaft.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schwangerschaft
+
+![[Schwangerschaft.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schwangerschaft/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schwangerschaft&language=de)
 
 **Meaning:** pregnancy
 **Plural:** Schwangerschaften

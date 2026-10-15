@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 1a"
 freq_rank: 3031
 skip: false
+audio: "Gemüse.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Gemüse
+
+![[Gemüse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gem%C3%BCse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gem%C3%BCse&language=de)
 
 **Meaning:** vegetable
 **Plural:** Gemüse

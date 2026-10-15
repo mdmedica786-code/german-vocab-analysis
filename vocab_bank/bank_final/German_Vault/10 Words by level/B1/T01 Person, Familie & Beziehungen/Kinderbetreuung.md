@@ -15,11 +15,16 @@ id: "B4948"
 netzwerk: "B1 K11 8b"
 freq_rank: 5759
 skip: false
+audio: "Kinderbetreuung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kinderbetreuung
+
+![[Kinderbetreuung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kinderbetreuung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kinderbetreuung&language=de)
 
 **Meaning:** childcare
 **Plural:** –

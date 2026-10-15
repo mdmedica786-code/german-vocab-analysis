@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 8e"
 freq_rank: 264
 skip: false
+audio: "Stadt.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Stadt
+
+![[Stadt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Stadt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Stadt&language=de)
 
 **Meaning:** city
 **Plural:** Städte

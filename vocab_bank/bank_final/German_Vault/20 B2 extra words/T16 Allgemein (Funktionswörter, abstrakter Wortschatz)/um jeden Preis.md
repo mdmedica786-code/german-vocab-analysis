@@ -11,11 +11,16 @@ bank: "b2"
 id: "D2118"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "um jeden Preis.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/phrase", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # um jeden Preis
+
+![[um jeden Preis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/um%20jeden%20Preis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=um%20jeden%20Preis&language=de)
 
 **Meaning:** at all costs
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

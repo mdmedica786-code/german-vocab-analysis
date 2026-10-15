@@ -13,11 +13,16 @@ id: "B5195"
 goethe_level: "B1"
 freq_rank: 663
 skip: false
+audio: "schütteln.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schütteln
+
+![[schütteln.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/sch%C3%BCtteln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=sch%C3%BCtteln&language=de)
 
 **Meaning:** to shake
 **Forms:** schüttelt · schüttelte · hat geschüttelt

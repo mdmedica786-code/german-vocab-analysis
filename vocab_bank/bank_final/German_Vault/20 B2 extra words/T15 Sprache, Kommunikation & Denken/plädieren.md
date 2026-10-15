@@ -12,11 +12,16 @@ bank: "b2"
 id: "D0226"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "plädieren.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # plädieren
+
+![[plädieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/pl%C3%A4dieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=pl%C3%A4dieren&language=de)
 
 **Meaning:** to plead; to advocate
 **Forms:** plädiert · plädierte · hat plädiert

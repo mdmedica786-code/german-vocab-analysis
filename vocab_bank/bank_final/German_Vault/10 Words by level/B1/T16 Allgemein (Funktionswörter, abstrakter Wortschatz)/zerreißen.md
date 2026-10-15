@@ -13,11 +13,16 @@ id: "B4715"
 netzwerk: "B1 K9 13b"
 freq_rank: 5141
 skip: false
+audio: "zerreißen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zerreißen
+
+![[zerreißen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zerrei%C3%9Fen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zerrei%C3%9Fen&language=de)
 
 **Meaning:** to tear apart
 **Forms:** zerreißt · zerriss · hat zerrissen

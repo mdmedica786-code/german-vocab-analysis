@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 1c"
 freq_rank: 4987
 skip: false
+audio: "Krankenschwester.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/M4", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Krankenschwester
+
+![[Krankenschwester.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Krankenschwester/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Krankenschwester&language=de)
 
 **Meaning:** nurse
 **Plural:** Krankenschwestern

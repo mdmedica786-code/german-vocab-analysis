@@ -13,11 +13,16 @@ id: "B2974"
 netzwerk: "A2 K10 6c"
 freq_rank: 5759
 skip: false
+audio: "auskennen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # auskennen
+
+![[auskennen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/auskennen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=auskennen&language=de)
 
 **Meaning:** to know one's way around
 **Forms:** kennt aus · kannte aus · hat ausgekannt

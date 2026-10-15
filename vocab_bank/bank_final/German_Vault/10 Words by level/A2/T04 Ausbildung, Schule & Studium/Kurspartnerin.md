@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Kurspartnerin
 
+[▶️ YouGlish](https://youglish.com/pronounce/Kurspartnerin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kurspartnerin&language=de)
+
 **Meaning:** course partner (f)
 **Plural:** Kurspartnerinnen
 **Level:** A2 · **Topic:** [[T04 Ausbildung, Schule & Studium]] · **Register:** neutral

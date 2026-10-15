@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4375"
 exam_use: ["Lesen", "Wissenschaft"]
 skip: false
-status: "new"
+audio: "Schaltung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Wissenschaft"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Schaltung
+
+![[Schaltung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schaltung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schaltung&language=de)
 
 **Meaning:** circuit; gear system; wiring
 **Plural:** Schaltungen

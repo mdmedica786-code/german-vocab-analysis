@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 8c"
 freq_rank: 5759
 skip: false
+audio: "Bürgermeisterin.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bürgermeisterin
+
+![[Bürgermeisterin.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/B%C3%BCrgermeisterin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=B%C3%BCrgermeisterin&language=de)
 
 **Meaning:** mayor (f)
 **Plural:** Bürgermeisterinnen

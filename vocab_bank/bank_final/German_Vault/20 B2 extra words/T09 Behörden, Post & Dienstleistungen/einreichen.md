@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1247"
 exam_use: ["Schreiben", "Alltag"]
 skip: false
+audio: "einreichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/verb", "exam/Schreiben", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # einreichen
+
+![[einreichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/einreichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=einreichen&language=de)
 
 **Meaning:** to submit; to hand in
 **Forms:** reicht ein · reichte ein · hat eingereicht

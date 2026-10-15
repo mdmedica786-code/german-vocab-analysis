@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K8 9a"
 freq_rank: 2740
 skip: false
+audio: "Nachfrage.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Nachfrage
+
+![[Nachfrage.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nachfrage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nachfrage&language=de)
 
 **Meaning:** demand, inquiry
 **Plural:** Nachfragen

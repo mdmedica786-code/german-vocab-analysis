@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A2 K9 12a"
 freq_rank: 1084
 skip: false
+audio: "kulturell.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # kulturell
+
+![[kulturell.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/kulturell/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=kulturell&language=de)
 
 **Meaning:** cultural
 **Level:** A1 · **Topic:** [[T10 Freizeit, Sport, Kultur & Medien]] · **Register:** neutral

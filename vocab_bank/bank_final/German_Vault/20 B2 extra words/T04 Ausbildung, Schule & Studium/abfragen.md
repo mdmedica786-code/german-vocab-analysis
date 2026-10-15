@@ -12,11 +12,16 @@ bank: "b2"
 id: "D3686"
 exam_use: ["Alltag", "Schreiben"]
 skip: false
-status: "new"
+audio: "abfragen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/verb", "exam/Alltag", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # abfragen
+
+![[abfragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/abfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=abfragen&language=de)
 
 **Meaning:** to quiz; to test (orally); to query
 **Forms:** fragt ab · fragte ab · hat abgefragt

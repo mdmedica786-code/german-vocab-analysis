@@ -14,11 +14,16 @@ bank: "main"
 id: "B5514"
 freq_rank: 2184
 skip: false
+audio: "Umfeld.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Umfeld
+
+![[Umfeld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Umfeld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Umfeld&language=de)
 
 **Meaning:** environment; surroundings
 **Plural:** Umfelder

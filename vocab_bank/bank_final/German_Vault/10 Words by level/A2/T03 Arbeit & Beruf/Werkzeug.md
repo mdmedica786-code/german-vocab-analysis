@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 9a"
 freq_rank: 2242
 skip: false
+audio: "Werkzeug.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Werkzeug
+
+![[Werkzeug.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Werkzeug/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Werkzeug&language=de)
 
 **Meaning:** tool
 **Plural:** Werkzeuge

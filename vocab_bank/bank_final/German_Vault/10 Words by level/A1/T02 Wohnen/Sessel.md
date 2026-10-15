@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 1a"
 freq_rank: 2561
 skip: false
+audio: "Sessel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sessel
+
+![[Sessel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sessel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sessel&language=de)
 
 **Meaning:** armchair
 **Plural:** Sessel

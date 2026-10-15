@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3999"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
-status: "new"
+audio: "Geschäftszweig.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Schreiben", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Geschäftszweig
+
+![[Geschäftszweig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesch%C3%A4ftszweig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesch%C3%A4ftszweig&language=de)
 
 **Meaning:** branch of business; line of business
 **Plural:** Geschäftszweige

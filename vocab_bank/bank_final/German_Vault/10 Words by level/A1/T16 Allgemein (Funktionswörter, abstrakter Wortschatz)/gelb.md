@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 9a"
 freq_rank: 1790
 skip: false
+audio: "gelb.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # gelb
+
+![[gelb.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/gelb/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=gelb&language=de)
 
 **Meaning:** yellow
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

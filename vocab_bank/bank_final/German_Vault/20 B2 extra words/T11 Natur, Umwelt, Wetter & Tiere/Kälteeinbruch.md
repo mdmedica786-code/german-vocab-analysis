@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2024"
 exam_use: ["Hören", "Lesen"]
 skip: false
+audio: "Kälteeinbruch.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Hören", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kälteeinbruch
+
+![[Kälteeinbruch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4lteeinbruch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4lteeinbruch&language=de)
 
 **Meaning:** sudden cold spell
 **Plural:** Kälteeinbrüche

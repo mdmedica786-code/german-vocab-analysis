@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K9 11a"
 freq_rank: 552
 skip: false
+audio: "Lage.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Lage
+
+![[Lage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lage&language=de)
 
 **Meaning:** location; situation
 **Plural:** Lagen

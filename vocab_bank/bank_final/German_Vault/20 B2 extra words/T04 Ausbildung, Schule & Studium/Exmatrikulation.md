@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0928"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Exmatrikulation.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Exmatrikulation
+
+![[Exmatrikulation.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Exmatrikulation/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Exmatrikulation&language=de)
 
 **Meaning:** de-registration from university
 **Plural:** Exmatrikulationen

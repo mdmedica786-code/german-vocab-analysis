@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4066"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Immunabwehr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T05", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Immunabwehr
+
+![[Immunabwehr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Immunabwehr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Immunabwehr&language=de)
 
 **Meaning:** immune defence
 **Plural:** –

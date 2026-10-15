@@ -14,11 +14,16 @@ bank: "main"
 id: "B5592"
 freq_rank: 2446
 skip: false
+audio: "Empfindung.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/M2", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Empfindung
+
+![[Empfindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Empfindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Empfindung&language=de)
 
 **Meaning:** sensation; feeling
 **Plural:** Empfindungen

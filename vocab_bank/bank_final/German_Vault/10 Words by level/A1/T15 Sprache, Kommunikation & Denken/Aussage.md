@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 13a"
 freq_rank: 735
 skip: false
+audio: "Aussage.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Aussage
+
+![[Aussage.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Aussage/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Aussage&language=de)
 
 **Meaning:** statement
 **Plural:** Aussagen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2924"
 exam_use: ["Schreiben", "Lesen"]
 skip: false
+audio: "Lebensjahr.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Schreiben", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Lebensjahr
+
+![[Lebensjahr.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Lebensjahr/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Lebensjahr&language=de)
 
 **Meaning:** year of life
 **Plural:** Lebensjahre

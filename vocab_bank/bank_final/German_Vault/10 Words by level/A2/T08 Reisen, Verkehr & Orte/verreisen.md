@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K11 1a"
 freq_rank: 5759
 skip: false
+audio: "verreisen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # verreisen
+
+![[verreisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verreisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verreisen&language=de)
 
 **Meaning:** to go away (on a journey)
 **Forms:** verreist · verreiste · ist verreist

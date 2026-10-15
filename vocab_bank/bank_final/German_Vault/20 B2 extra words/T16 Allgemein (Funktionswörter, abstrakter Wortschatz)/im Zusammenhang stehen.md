@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # im Zusammenhang stehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/im%20Zusammenhang%20stehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=im%20Zusammenhang%20stehen&language=de)
+
 **Meaning:** to be connected
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

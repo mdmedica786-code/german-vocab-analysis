@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # Serbisch
 
+[▶️ YouGlish](https://youglish.com/pronounce/Serbisch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Serbisch&language=de)
+
 **Meaning:** Serbian
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

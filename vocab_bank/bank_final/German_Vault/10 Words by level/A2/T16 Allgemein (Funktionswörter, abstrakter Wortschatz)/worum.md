@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "A2 K3 8c"
 freq_rank: 3944
 skip: false
+audio: "worum.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # worum
+
+![[worum.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/worum/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=worum&language=de)
 
 **Meaning:** about what
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral

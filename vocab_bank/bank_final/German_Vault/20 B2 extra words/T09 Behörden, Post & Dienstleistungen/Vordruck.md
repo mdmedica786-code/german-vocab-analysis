@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1109"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Vordruck.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vordruck
+
+![[Vordruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vordruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vordruck&language=de)
 
 **Meaning:** printed form
 **Plural:** Vordrucke

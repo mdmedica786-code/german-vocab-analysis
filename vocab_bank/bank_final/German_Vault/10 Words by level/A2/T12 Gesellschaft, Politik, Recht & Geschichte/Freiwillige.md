@@ -15,11 +15,16 @@ id: "B2782"
 netzwerk: "A2 K8 9a"
 freq_rank: 2804
 skip: false
+audio: "Freiwillige.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # Freiwillige
+
+![[Freiwillige.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Freiwillige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Freiwillige&language=de)
 
 **Meaning:** volunteer
 **Plural:** Freiwilligen

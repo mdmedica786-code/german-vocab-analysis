@@ -15,11 +15,16 @@ id: "B3113"
 netzwerk: "A2 K11 12a"
 freq_rank: 1032
 skip: false
+audio: "Weile.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Weile
+
+![[Weile.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Weile/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Weile&language=de)
 
 **Meaning:** while
 **Plural:** –

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2515"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Kern.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kern
+
+![[Kern.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kern/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kern&language=de)
 
 **Meaning:** core; kernel; nucleus
 **Plural:** Kerne

@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K6 15a"
 freq_rank: 848
 skip: false
+audio: "Beginn.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Beginn
+
+![[Beginn.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Beginn/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Beginn&language=de)
 
 **Meaning:** beginning
 **Plural:** –

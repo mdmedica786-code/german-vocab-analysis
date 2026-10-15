@@ -15,11 +15,16 @@ id: "B4816"
 netzwerk: "B1 K10 7b"
 freq_rank: 5759
 skip: false
+audio: "Brezel.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T06", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Brezel
+
+![[Brezel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Brezel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Brezel&language=de)
 
 **Meaning:** pretzel
 **Plural:** Brezeln

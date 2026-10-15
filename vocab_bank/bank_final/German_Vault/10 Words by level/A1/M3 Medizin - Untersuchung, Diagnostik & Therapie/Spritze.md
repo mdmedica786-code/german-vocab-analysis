@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A1 K2 6a"
 freq_rank: 5759
 skip: false
+audio: "Spritze.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/M3", "pos/noun", "medical"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Spritze
+
+![[Spritze.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Spritze/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Spritze&language=de)
 
 **Meaning:** injection; syringe
 **Plural:** Spritzen

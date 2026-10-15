@@ -14,11 +14,16 @@ bank: "main"
 id: "B6249"
 freq_rank: 5098
 skip: false
+audio: "Kaninchen.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kaninchen
+
+![[Kaninchen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kaninchen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kaninchen&language=de)
 
 **Meaning:** rabbit
 **Plural:** Kaninchen

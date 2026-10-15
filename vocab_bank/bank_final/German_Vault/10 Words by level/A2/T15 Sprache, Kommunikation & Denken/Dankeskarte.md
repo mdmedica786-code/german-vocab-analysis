@@ -21,6 +21,8 @@ status: "new"
 <!-- bank:start -->
 # die Dankeskarte
 
+[▶️ YouGlish](https://youglish.com/pronounce/Dankeskarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Dankeskarte&language=de)
+
 **Meaning:** thank-you card
 **Plural:** Dankeskarten
 **Level:** A2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

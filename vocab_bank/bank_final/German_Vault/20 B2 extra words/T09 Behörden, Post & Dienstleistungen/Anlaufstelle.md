@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1855"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Anlaufstelle.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T09", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Anlaufstelle
+
+![[Anlaufstelle.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Anlaufstelle/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Anlaufstelle&language=de)
 
 **Meaning:** point of contact; support centre
 **Plural:** Anlaufstellen

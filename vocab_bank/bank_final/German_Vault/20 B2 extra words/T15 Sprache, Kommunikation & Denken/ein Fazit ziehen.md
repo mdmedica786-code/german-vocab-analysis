@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # ein Fazit ziehen
 
+[▶️ YouGlish](https://youglish.com/pronounce/ein%20Fazit%20ziehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ein%20Fazit%20ziehen&language=de)
+
 **Meaning:** to draw a conclusion; to sum up
 **Level:** B2 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral
 

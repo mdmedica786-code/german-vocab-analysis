@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3611"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Schnelligkeit.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Schnelligkeit
+
+![[Schnelligkeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Schnelligkeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Schnelligkeit&language=de)
 
 **Meaning:** speed; swiftness
 **Plural:** –

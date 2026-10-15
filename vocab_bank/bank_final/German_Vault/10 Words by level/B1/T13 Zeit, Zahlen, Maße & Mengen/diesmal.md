@@ -13,11 +13,16 @@ goethe_level: "B1"
 netzwerk: "B1 K2 5a ÜB"
 freq_rank: 1235
 skip: false
+audio: "diesmal.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T13", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # diesmal
+
+![[diesmal.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/diesmal/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=diesmal&language=de)
 
 **Meaning:** this time
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0574"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Benutzeroberfläche.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Benutzeroberfläche
+
+![[Benutzeroberfläche.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Benutzeroberfl%C3%A4che/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Benutzeroberfl%C3%A4che&language=de)
 
 **Meaning:** user interface
 **Plural:** Benutzeroberflächen

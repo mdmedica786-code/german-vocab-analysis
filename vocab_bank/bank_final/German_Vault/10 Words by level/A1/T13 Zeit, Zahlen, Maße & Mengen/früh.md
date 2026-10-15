@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K6 15a"
 freq_rank: 229
 skip: false
+audio: "früh.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # früh
+
+![[früh.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fr%C3%BCh/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fr%C3%BCh&language=de)
 
 **Meaning:** early
 **Forms:** früher – am frühesten

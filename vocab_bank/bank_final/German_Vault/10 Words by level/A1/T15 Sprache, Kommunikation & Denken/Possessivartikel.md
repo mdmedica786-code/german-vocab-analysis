@@ -15,11 +15,16 @@ id: "B0828"
 netzwerk: "A1 K5 8a"
 freq_rank: 9999
 skip: false
+audio: "Possessivartikel.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Possessivartikel
+
+![[Possessivartikel.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Possessivartikel/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Possessivartikel&language=de)
 
 **Meaning:** possessive article
 **Plural:** Possessivartikel

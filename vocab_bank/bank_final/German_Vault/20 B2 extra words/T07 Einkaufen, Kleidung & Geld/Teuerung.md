@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0431"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Teuerung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T07", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Teuerung
+
+![[Teuerung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Teuerung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Teuerung&language=de)
 
 **Meaning:** rise in prices
 **Plural:** Teuerungen

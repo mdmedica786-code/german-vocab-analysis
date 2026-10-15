@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 6a"
 freq_rank: 1655
 skip: false
+audio: "anrufen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # anrufen
+
+![[anrufen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/anrufen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=anrufen&language=de)
 
 **Meaning:** to call
 **Forms:** ruft an · rief an · hat angerufen

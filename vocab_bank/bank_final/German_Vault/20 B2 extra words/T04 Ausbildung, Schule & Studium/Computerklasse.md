@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3846"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Computerklasse
+
+[▶️ YouGlish](https://youglish.com/pronounce/Computerklasse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Computerklasse&language=de)
 
 **Meaning:** computer class; computer room
 **Plural:** Computerklassen

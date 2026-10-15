@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1908"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Berufsberatung.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Berufsberatung
+
+![[Berufsberatung.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufsberatung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufsberatung&language=de)
 
 **Meaning:** careers advice
 **Plural:** Berufsberatungen

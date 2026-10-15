@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K7 3c ÜB"
 freq_rank: 4070
 skip: false
+audio: "Kennzeichen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Kennzeichen
+
+![[Kennzeichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kennzeichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kennzeichen&language=de)
 
 **Meaning:** number plate
 **Plural:** Kennzeichen

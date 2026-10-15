@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A2 K4 1a"
 freq_rank: 193
 skip: false
+audio: "bestehen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T04", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # bestehen
+
+![[bestehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bestehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bestehen&language=de)
 
 **Meaning:** to pass; to consist; to exist
 **Forms:** besteht · bestand · hat bestanden

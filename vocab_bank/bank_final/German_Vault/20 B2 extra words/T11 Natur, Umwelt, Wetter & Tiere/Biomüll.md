@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0698"
 exam_use: ["Alltag"]
 skip: false
+audio: "Biomüll.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Biomüll
+
+![[Biomüll.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Biom%C3%BCll/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Biom%C3%BCll&language=de)
 
 **Meaning:** organic waste
 **Plural:** –

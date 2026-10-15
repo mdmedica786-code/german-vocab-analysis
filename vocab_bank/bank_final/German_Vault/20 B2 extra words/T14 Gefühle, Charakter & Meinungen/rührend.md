@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1635"
 exam_use: ["Sprechen", "Lesen"]
 skip: false
+audio: "rührend.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/adjective", "exam/Sprechen", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # rührend
+
+![[rührend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/r%C3%BChrend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=r%C3%BChrend&language=de)
 
 **Meaning:** touching; moving
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

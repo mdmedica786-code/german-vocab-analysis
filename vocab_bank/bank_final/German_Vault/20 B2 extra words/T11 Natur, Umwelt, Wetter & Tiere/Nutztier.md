@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2039"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Nutztier.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Nutztier
+
+![[Nutztier.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Nutztier/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Nutztier&language=de)
 
 **Meaning:** farm animal; livestock
 **Plural:** Nutztiere

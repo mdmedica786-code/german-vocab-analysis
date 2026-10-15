@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # die Einladungs-Mail
 
+[▶️ YouGlish](https://youglish.com/pronounce/Einladungs-Mail/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Einladungs-Mail&language=de)
+
 **Meaning:** invitation mail
 **Plural:** Einladungs-Mails
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

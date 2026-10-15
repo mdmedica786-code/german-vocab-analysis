@@ -20,6 +20,8 @@ status: "new"
 <!-- bank:start -->
 # wir
 
+[▶️ YouGlish](https://youglish.com/pronounce/wir/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=wir&language=de)
+
 **Meaning:** we
 **Level:** A1 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

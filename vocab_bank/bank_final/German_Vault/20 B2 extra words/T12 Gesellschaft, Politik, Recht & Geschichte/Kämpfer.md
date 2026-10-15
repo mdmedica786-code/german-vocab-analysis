@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3348"
 exam_use: ["Lesen", "Medien"]
 skip: false
+audio: "Kämpfer.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Medien"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Kämpfer
+
+![[Kämpfer.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/K%C3%A4mpfer/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=K%C3%A4mpfer&language=de)
 
 **Meaning:** fighter; combatant
 **Plural:** Kämpfer

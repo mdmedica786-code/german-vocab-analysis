@@ -15,11 +15,16 @@ id: "B2824"
 netzwerk: "A2 K9 1a"
 freq_rank: 5759
 skip: false
+audio: "Taucherbrille.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Taucherbrille
+
+![[Taucherbrille.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Taucherbrille/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Taucherbrille&language=de)
 
 **Meaning:** diving mask
 **Plural:** Taucherbrillen

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3914"
 exam_use: ["Lesen", "Medien"]
 skip: false
-status: "new"
+audio: "Erwerbstätige.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Lesen", "exam/Medien"]
+status: "new"
 ---
 <!-- bank:start -->
 # Erwerbstätige
+
+![[Erwerbstätige.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Erwerbst%C3%A4tige/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Erwerbst%C3%A4tige&language=de)
 
 **Meaning:** employed person; gainfully employed person
 **Plural:** Erwerbstätigen

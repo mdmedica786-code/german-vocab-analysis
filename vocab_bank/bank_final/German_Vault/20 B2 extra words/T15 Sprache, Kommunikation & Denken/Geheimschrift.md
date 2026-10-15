@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3988"
 exam_use: ["Lesen", "Alltag"]
 skip: false
-status: "new"
+audio: "Geheimschrift.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Lesen", "exam/Alltag"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Geheimschrift
+
+![[Geheimschrift.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geheimschrift/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geheimschrift&language=de)
 
 **Meaning:** secret code; cipher
 **Plural:** Geheimschriften

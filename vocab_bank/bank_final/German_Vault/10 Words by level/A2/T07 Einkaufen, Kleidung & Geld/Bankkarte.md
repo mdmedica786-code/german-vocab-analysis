@@ -15,11 +15,16 @@ id: "B2348"
 netzwerk: "A2 K5 5c"
 freq_rank: 5759
 skip: false
+audio: "Bankkarte.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Bankkarte
+
+![[Bankkarte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Bankkarte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Bankkarte&language=de)
 
 **Meaning:** bank card
 **Plural:** Bankkarten

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5837"
 freq_rank: 3088
 skip: false
+audio: "Vorhang.wav"
 tags: ["vocab", "bank/main", "level/B2", "topic/T02", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Vorhang
+
+![[Vorhang.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vorhang/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorhang&language=de)
 
 **Meaning:** curtain
 **Plural:** Vorhänge

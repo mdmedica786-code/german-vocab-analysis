@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 10c"
 freq_rank: 1155
 skip: false
+audio: "Karte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Karte
+
+![[Karte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Karte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Karte&language=de)
 
 **Meaning:** card; ticket; map
 **Plural:** Karten

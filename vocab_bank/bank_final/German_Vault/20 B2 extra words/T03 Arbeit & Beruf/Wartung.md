@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0638"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Wartung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T03", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Wartung
+
+![[Wartung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wartung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wartung&language=de)
 
 **Meaning:** maintenance; servicing
 **Plural:** Wartungen

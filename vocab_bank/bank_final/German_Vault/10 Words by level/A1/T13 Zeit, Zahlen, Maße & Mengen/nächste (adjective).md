@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 10c"
 freq_rank: 382
 skip: false
+audio: "nächste.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nächste
+
+![[nächste.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/n%C3%A4chste/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=n%C3%A4chste&language=de)
 
 **Meaning:** next; nearest
 **Level:** A1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

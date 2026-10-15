@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1688"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "beben.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # beben
+
+![[beben.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/beben/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=beben&language=de)
 
 **Meaning:** to tremble; to quake
 **Forms:** bebt · bebte · hat gebebt

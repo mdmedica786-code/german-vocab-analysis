@@ -15,11 +15,16 @@ id: "B1700"
 netzwerk: "A1 K11 12b"
 freq_rank: 5759
 skip: false
+audio: "Individualistin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Individualistin
+
+![[Individualistin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Individualistin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Individualistin&language=de)
 
 **Meaning:** individualist (f)
 **Plural:** Individualistinnen

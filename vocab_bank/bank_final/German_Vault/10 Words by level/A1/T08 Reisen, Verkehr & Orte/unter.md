@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K9 6b"
 freq_rank: 78
 skip: false
+audio: "unter.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/preposition"]
 status: "new"
 ---
 <!-- bank:start -->
 # unter
+
+![[unter.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/unter/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=unter&language=de)
 
 **Meaning:** under
 **Other senses:** below; among

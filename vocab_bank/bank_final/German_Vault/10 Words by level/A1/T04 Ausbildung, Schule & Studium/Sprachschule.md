@@ -15,11 +15,16 @@ id: "B0896"
 netzwerk: "A1 K5 14"
 freq_rank: 5759
 skip: false
+audio: "Sprachschule.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T04", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sprachschule
+
+![[Sprachschule.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sprachschule/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sprachschule&language=de)
 
 **Meaning:** language school
 **Plural:** Sprachschulen

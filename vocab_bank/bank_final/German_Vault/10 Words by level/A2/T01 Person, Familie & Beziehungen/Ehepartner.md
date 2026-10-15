@@ -15,11 +15,16 @@ id: "B6408"
 goethe_level: "A2"
 freq_rank: 5759
 skip: false
+audio: "Ehepartner.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ehepartner
+
+![[Ehepartner.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ehepartner/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ehepartner&language=de)
 
 **Meaning:** spouse; partner
 **Plural:** Ehepartner

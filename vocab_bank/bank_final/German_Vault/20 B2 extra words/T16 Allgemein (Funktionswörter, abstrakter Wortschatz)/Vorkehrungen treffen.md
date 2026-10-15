@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Vorkehrungen treffen
 
+[▶️ YouGlish](https://youglish.com/pronounce/Vorkehrungen%20treffen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vorkehrungen%20treffen&language=de)
+
 **Meaning:** to take precautions
 **Level:** B2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

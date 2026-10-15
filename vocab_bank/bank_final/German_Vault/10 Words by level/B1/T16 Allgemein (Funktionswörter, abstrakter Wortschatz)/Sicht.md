@@ -15,11 +15,16 @@ id: "B5076"
 netzwerk: "B1 K12 7a"
 freq_rank: 880
 skip: false
+audio: "Sicht.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sicht
+
+![[Sicht.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sicht/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sicht&language=de)
 
 **Meaning:** view; visibility; point of view
 **Plural:** –

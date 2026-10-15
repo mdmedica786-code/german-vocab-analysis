@@ -12,11 +12,16 @@ id: "B3468"
 netzwerk: "B1 K2 9c"
 freq_rank: 5759
 skip: false
+audio: "ansprechend.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # ansprechend
+
+![[ansprechend.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ansprechend/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ansprechend&language=de)
 
 **Meaning:** appealing
 **Level:** B1 · **Topic:** [[T07 Einkaufen, Kleidung & Geld]] · **Register:** neutral

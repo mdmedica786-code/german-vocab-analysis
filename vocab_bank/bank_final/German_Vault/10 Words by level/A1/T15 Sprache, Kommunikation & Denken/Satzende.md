@@ -15,11 +15,16 @@ id: "B0915"
 netzwerk: "A1 K5 15b"
 freq_rank: 5759
 skip: false
+audio: "Satzende.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Satzende
+
+![[Satzende.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Satzende/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Satzende&language=de)
 
 **Meaning:** ending of the sentence
 **Plural:** Satzenden

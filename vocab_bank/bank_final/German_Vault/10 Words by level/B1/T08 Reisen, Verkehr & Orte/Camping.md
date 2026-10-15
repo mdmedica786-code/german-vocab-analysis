@@ -15,11 +15,16 @@ id: "B3651"
 netzwerk: "B1 K3 8b"
 freq_rank: 5759
 skip: false
+audio: "Camping.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Camping
+
+![[Camping.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Camping/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Camping&language=de)
 
 **Meaning:** camping
 **Plural:** –

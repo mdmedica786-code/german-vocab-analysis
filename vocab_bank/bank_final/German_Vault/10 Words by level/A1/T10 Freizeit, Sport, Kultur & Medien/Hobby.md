@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K2 3d"
 freq_rank: 2202
 skip: false
+audio: "Hobby.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Hobby
+
+![[Hobby.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Hobby/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Hobby&language=de)
 
 **Meaning:** hobby
 **Plural:** Hobbys

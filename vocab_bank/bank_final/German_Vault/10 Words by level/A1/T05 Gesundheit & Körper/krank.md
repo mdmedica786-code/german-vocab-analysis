@@ -13,11 +13,16 @@ goethe_level: "A1"
 netzwerk: "A1 K5 7b"
 freq_rank: 973
 skip: false
+audio: "krank.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # krank
+
+![[krank.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/krank/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=krank&language=de)
 
 **Meaning:** sick
 **Forms:** kränker – am kränksten

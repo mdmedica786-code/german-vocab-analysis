@@ -22,6 +22,8 @@ status: "new"
 <!-- bank:start -->
 # das W-Wort
 
+[▶️ YouGlish](https://youglish.com/pronounce/W-Wort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=W-Wort&language=de)
+
 **Meaning:** w-word
 **Plural:** W-Wörter
 **Level:** A1 · **Topic:** [[T15 Sprache, Kommunikation & Denken]] · **Register:** neutral

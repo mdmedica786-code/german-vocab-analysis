@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K2 3a"
 freq_rank: 1181
 skip: false
+audio: "witzig.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T14", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # witzig
+
+![[witzig.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/witzig/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=witzig&language=de)
 
 **Meaning:** funny
 **Level:** A2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral

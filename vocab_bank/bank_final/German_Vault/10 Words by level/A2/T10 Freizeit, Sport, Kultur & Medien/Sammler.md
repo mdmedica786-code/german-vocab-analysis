@@ -15,11 +15,16 @@ id: "B3208"
 netzwerk: "A2 K12 7a"
 freq_rank: 4847
 skip: false
+audio: "Sammler.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Sammler
+
+![[Sammler.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sammler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sammler&language=de)
 
 **Meaning:** collector (m)
 **Plural:** Sammler

@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K3 1b"
 freq_rank: 747
 skip: false
+audio: "Mitte.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Mitte
+
+![[Mitte.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Mitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Mitte&language=de)
 
 **Meaning:** middle
 **Plural:** –

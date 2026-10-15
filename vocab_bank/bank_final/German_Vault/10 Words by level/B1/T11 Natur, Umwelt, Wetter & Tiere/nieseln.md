@@ -13,11 +13,16 @@ id: "B4017"
 netzwerk: "B1 K5 11a"
 freq_rank: 5759
 skip: false
+audio: "nieseln.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T11", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nieseln
+
+![[nieseln.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nieseln/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nieseln&language=de)
 
 **Meaning:** to drizzle
 **Forms:** nieselt · nieselte · hat genieselt

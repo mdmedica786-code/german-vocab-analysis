@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4250"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Musikgröße.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Musikgröße
+
+![[Musikgröße.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musikgr%C3%B6%C3%9Fe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musikgr%C3%B6%C3%9Fe&language=de)
 
 **Meaning:** music great; star of the music world
 **Plural:** Musikgrößen

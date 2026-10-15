@@ -13,11 +13,16 @@ id: "B6434"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "festnehmen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # festnehmen
+
+![[festnehmen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/festnehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=festnehmen&language=de)
 
 **Meaning:** to arrest
 **Forms:** nimmt fest · nahm fest · hat festgenommen

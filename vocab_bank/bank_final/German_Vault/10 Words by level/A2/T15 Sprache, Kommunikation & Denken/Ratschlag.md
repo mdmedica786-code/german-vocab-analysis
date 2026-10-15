@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 4b"
 freq_rank: 5501
 skip: false
+audio: "Ratschlag.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Ratschlag
+
+![[Ratschlag.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Ratschlag/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Ratschlag&language=de)
 
 **Meaning:** advice
 **Plural:** Ratschläge

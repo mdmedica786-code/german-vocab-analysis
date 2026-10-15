@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1213"
 exam_use: ["Sprechen", "Alltag"]
 skip: false
+audio: "ausfragen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Sprechen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # ausfragen
+
+![[ausfragen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ausfragen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ausfragen&language=de)
 
 **Meaning:** to question; to grill
 **Forms:** fragt aus · fragte aus · hat ausgefragt

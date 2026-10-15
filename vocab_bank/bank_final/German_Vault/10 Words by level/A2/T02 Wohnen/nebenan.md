@@ -13,11 +13,16 @@ goethe_level: "A2"
 netzwerk: "A2 K10 12c"
 freq_rank: 4558
 skip: false
+audio: "nebenan.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T02", "pos/adverb"]
 status: "new"
 ---
 <!-- bank:start -->
 # nebenan
+
+![[nebenan.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nebenan/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nebenan&language=de)
 
 **Meaning:** next door
 **Level:** A2 · **Topic:** [[T02 Wohnen]] · **Register:** neutral

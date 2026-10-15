@@ -15,11 +15,16 @@ id: "B5693"
 goethe_level: "B1"
 freq_rank: 2807
 skip: false
+audio: "Wissenschaftler.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Wissenschaftler
+
+![[Wissenschaftler.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Wissenschaftler/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Wissenschaftler&language=de)
 
 **Meaning:** scientist
 **Plural:** Wissenschaftler

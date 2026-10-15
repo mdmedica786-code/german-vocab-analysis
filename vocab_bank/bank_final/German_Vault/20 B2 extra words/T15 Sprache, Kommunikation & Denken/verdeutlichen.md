@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2573"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "verdeutlichen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/verb", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # verdeutlichen
+
+![[verdeutlichen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/verdeutlichen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=verdeutlichen&language=de)
 
 **Meaning:** to make clear; to illustrate
 **Forms:** verdeutlicht · verdeutlichte · hat verdeutlicht

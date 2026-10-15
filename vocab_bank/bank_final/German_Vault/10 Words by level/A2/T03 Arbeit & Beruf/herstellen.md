@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "B1 K4 1a ÜB"
 freq_rank: 1307
 skip: false
+audio: "herstellen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # herstellen
+
+![[herstellen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/herstellen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=herstellen&language=de)
 
 **Meaning:** to produce; to establish
 **Forms:** stellt her · stellte her · hat hergestellt

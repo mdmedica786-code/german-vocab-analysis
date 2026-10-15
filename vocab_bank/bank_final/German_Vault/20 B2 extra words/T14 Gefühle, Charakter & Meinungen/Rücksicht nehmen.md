@@ -17,6 +17,8 @@ status: "new"
 <!-- bank:start -->
 # Rücksicht nehmen
 
+[▶️ YouGlish](https://youglish.com/pronounce/R%C3%BCcksicht%20nehmen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=R%C3%BCcksicht%20nehmen&language=de)
+
 **Meaning:** to show consideration
 **Level:** B2 · **Topic:** [[T14 Gefühle, Charakter & Meinungen]] · **Register:** neutral
 

@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3420"
 exam_use: ["Sprechen", "Schreiben"]
 skip: false
+audio: "Sympathie.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T14", "pos/noun", "exam/Sprechen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Sympathie
+
+![[Sympathie.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Sympathie/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Sympathie&language=de)
 
 **Meaning:** liking; sympathy; goodwill
 **Plural:** Sympathien

@@ -14,11 +14,13 @@ bank: "b2"
 id: "D3930"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Fahrradstellplatz
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fahrradstellplatz/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fahrradstellplatz&language=de)
 
 **Meaning:** bicycle parking space
 **Plural:** Fahrradstellplätze

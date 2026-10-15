@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4314"
 exam_use: ["Alltag", "Sprechen"]
 skip: false
-status: "new"
+audio: "Platzproblem.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Sprechen"]
+status: "new"
 ---
 <!-- bank:start -->
 # das Platzproblem
+
+![[Platzproblem.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Platzproblem/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Platzproblem&language=de)
 
 **Meaning:** space problem; lack of space
 **Plural:** Platzprobleme

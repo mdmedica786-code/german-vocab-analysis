@@ -15,11 +15,16 @@ id: "B5414"
 goethe_level: "A2"
 freq_rank: 1865
 skip: false
+audio: "Magen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T05", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Magen
+
+![[Magen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Magen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Magen&language=de)
 
 **Meaning:** stomach
 **Plural:** Mägen

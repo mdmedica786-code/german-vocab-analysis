@@ -13,11 +13,16 @@ id: "B3683"
 netzwerk: "B1 K3 10b"
 freq_rank: 2239
 skip: false
+audio: "ignorieren.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # ignorieren
+
+![[ignorieren.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/ignorieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=ignorieren&language=de)
 
 **Meaning:** to ignore
 **Forms:** ignoriert · ignorierte · hat ignoriert

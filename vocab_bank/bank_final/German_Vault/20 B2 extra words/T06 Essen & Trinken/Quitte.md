@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1998"
 exam_use: ["Lesen", "Alltag"]
 skip: false
+audio: "Quitte.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T06", "pos/noun", "exam/Lesen", "exam/Alltag"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Quitte
+
+![[Quitte.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Quitte/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Quitte&language=de)
 
 **Meaning:** quince
 **Plural:** Quitten

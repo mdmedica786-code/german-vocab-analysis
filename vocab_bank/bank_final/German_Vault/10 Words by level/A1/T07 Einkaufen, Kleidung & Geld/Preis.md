@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 6a"
 freq_rank: 907
 skip: false
+audio: "Preis.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Preis
+
+![[Preis.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Preis/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Preis&language=de)
 
 **Meaning:** price; prize
 **Plural:** Preise

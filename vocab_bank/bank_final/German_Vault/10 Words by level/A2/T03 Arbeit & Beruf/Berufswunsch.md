@@ -15,11 +15,16 @@ id: "B2473"
 netzwerk: "A2 K6 8c"
 freq_rank: 5759
 skip: false
+audio: "Berufswunsch.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T03", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Berufswunsch
+
+![[Berufswunsch.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Berufswunsch/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Berufswunsch&language=de)
 
 **Meaning:** career goal
 **Plural:** Berufswünsche

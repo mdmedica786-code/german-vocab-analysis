@@ -12,11 +12,16 @@ bank: "b2"
 id: "D2386"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "weisen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T16", "pos/verb", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # weisen
+
+![[weisen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/weisen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=weisen&language=de)
 
 **Meaning:** to point; to show (the way)
 **Forms:** weist · wies · hat gewiesen

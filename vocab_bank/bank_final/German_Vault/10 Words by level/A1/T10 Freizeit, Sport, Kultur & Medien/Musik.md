@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K2 2a"
 freq_rank: 883
 skip: false
+audio: "Musik.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Musik
+
+![[Musik.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Musik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Musik&language=de)
 
 **Meaning:** music
 **Plural:** –

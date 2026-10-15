@@ -15,11 +15,16 @@ id: "B3006"
 netzwerk: "A2 K10 11b"
 freq_rank: 5759
 skip: false
+audio: "Tierarzt.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T11", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Tierarzt
+
+![[Tierarzt.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Tierarzt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Tierarzt&language=de)
 
 **Meaning:** vet (m)
 **Plural:** Tierärzte

@@ -11,11 +11,16 @@ bank: "main"
 id: "B5218"
 freq_rank: 857
 skip: false
+audio: "nahe.wav"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/adjective"]
 status: "new"
 ---
 <!-- bank:start -->
 # nahe
+
+![[nahe.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/nahe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=nahe&language=de)
 
 **Meaning:** near; close
 **Forms:** näher – am nächsten

@@ -15,11 +15,16 @@ id: "B0585"
 netzwerk: "A1 K3 10d"
 freq_rank: 5759
 skip: false
+audio: "Adjektiv.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Adjektiv
+
+![[Adjektiv.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Adjektiv/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Adjektiv&language=de)
 
 **Meaning:** adjective
 **Plural:** Adjektive

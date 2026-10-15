@@ -14,11 +14,16 @@ bank: "b2"
 id: "D0291"
 exam_use: ["Schreiben", "Sprechen"]
 skip: false
+audio: "Gesichtspunkt.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T15", "pos/noun", "exam/Schreiben", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Gesichtspunkt
+
+![[Gesichtspunkt.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Gesichtspunkt/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Gesichtspunkt&language=de)
 
 **Meaning:** point of view; aspect
 **Plural:** Gesichtspunkte

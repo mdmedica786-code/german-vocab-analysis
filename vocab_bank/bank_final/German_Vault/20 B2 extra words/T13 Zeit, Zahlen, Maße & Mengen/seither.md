@@ -11,11 +11,16 @@ bank: "b2"
 id: "D1349"
 exam_use: ["Lesen", "Sprechen"]
 skip: false
+audio: "seither.wav"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T13", "pos/adverb", "exam/Lesen", "exam/Sprechen"]
 status: "new"
 ---
 <!-- bank:start -->
 # seither
+
+![[seither.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/seither/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=seither&language=de)
 
 **Meaning:** since then
 **Level:** B2 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** neutral

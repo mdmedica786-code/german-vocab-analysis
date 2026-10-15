@@ -23,6 +23,8 @@ status: "new"
 <!-- bank:start -->
 # der Feber
 
+[▶️ YouGlish](https://youglish.com/pronounce/Feber/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Feber&language=de)
+
 **Meaning:** February (Austrian)
 **Plural:** –
 **Level:** B1 · **Topic:** [[T13 Zeit, Zahlen, Maße & Mengen]] · **Register:** regional

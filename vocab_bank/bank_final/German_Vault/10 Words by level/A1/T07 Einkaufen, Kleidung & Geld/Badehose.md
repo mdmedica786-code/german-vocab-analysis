@@ -15,11 +15,16 @@ id: "B1731"
 netzwerk: "A1 K12 1b"
 freq_rank: 5759
 skip: false
+audio: "Badehose.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Badehose
+
+![[Badehose.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Badehose/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Badehose&language=de)
 
 **Meaning:** swimming trunks
 **Plural:** Badehosen

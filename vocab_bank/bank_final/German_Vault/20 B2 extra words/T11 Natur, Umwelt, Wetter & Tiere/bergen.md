@@ -12,11 +12,16 @@ bank: "b2"
 id: "D1689"
 exam_use: ["Lesen", "Hören"]
 skip: false
+audio: "bergen.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T11", "pos/verb", "exam/Lesen", "exam/Hören"]
 status: "new"
 ---
 <!-- bank:start -->
 # bergen
+
+![[bergen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/bergen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=bergen&language=de)
 
 **Meaning:** to rescue; to salvage; to conceal
 **Forms:** birgt · barg · hat geborgen

@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K4 9a"
 freq_rank: 599
 skip: false
+audio: "schlafen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T05", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # schlafen
+
+![[schlafen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/schlafen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=schlafen&language=de)
 
 **Meaning:** to sleep
 **Forms:** schläft · schlief · hat geschlafen

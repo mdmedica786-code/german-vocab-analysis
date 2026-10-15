@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K7 6a"
 freq_rank: 2934
 skip: false
+audio: "Passwort.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Passwort
+
+![[Passwort.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Passwort/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Passwort&language=de)
 
 **Meaning:** password
 **Plural:** Passwörter

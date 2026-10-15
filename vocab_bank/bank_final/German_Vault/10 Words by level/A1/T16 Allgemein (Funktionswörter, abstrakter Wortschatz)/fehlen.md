@@ -14,11 +14,16 @@ goethe_level: "A1"
 netzwerk: "A1 K6 15a"
 freq_rank: 565
 skip: false
+audio: "fehlen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # fehlen
+
+![[fehlen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/fehlen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=fehlen&language=de)
 
 **Meaning:** to be missing; to be absent; to miss
 **Forms:** fehlt · fehlte · hat gefehlt

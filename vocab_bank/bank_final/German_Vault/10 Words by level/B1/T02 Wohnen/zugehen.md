@@ -13,11 +13,16 @@ id: "B6615"
 goethe_level: "B1"
 freq_rank: 5759
 skip: false
+audio: "zugehen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T02", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # zugehen
+
+![[zugehen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/zugehen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=zugehen&language=de)
 
 **Meaning:** to close; to approach
 **Forms:** geht zu · ging zu · ist zugegangen

@@ -15,11 +15,16 @@ id: "B2167"
 netzwerk: "A2 K3 13b"
 freq_rank: 2079
 skip: false
+audio: "Formulierung.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Formulierung
+
+![[Formulierung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Formulierung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Formulierung&language=de)
 
 **Meaning:** wording; phrasing
 **Plural:** Formulierungen

@@ -13,11 +13,16 @@ id: "B5526"
 goethe_level: "B1"
 freq_rank: 2216
 skip: false
+audio: "vergnügen.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # vergnügen
+
+![[vergnügen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/vergn%C3%BCgen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=vergn%C3%BCgen&language=de)
 
 **Meaning:** to enjoy oneself; to amuse oneself
 **Forms:** vergnügt sich · vergnügte sich · hat sich vergnügt

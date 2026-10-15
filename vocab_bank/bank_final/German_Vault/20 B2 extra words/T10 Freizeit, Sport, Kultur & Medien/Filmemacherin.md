@@ -14,11 +14,16 @@ bank: "b2"
 id: "D3943"
 exam_use: ["Medien", "Lesen"]
 skip: false
-status: "new"
+audio: "Filmemacherin.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T10", "pos/noun", "exam/Medien", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Filmemacherin
+
+![[Filmemacherin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Filmemacherin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Filmemacherin&language=de)
 
 **Meaning:** filmmaker (female)
 **Plural:** Filmemacherinnen

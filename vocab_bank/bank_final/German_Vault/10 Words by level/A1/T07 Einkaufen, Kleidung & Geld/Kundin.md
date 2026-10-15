@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K5 14"
 freq_rank: 5759
 skip: false
+audio: "Kundin.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kundin
+
+![[Kundin.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kundin/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kundin&language=de)
 
 **Meaning:** customer (f)
 **Plural:** Kundinnen

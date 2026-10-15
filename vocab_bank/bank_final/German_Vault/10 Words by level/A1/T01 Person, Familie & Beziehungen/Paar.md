@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A1 K4 10b"
 freq_rank: 4402
 skip: false
+audio: "Paar.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T01", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Paar
+
+![[Paar.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Paar/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Paar&language=de)
 
 **Meaning:** pair
 **Plural:** Paare

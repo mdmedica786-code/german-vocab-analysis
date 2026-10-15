@@ -15,11 +15,16 @@ id: "B0796"
 netzwerk: "A1 K5 3a"
 freq_rank: 4099
 skip: false
+audio: "Uhrzeit.ogg"
 tags: ["vocab", "bank/main", "level/A1", "topic/T13", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Uhrzeit
+
+![[Uhrzeit.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Uhrzeit/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Uhrzeit&language=de)
 
 **Meaning:** time of day
 **Plural:** Uhrzeiten

@@ -14,11 +14,16 @@ bank: "main"
 id: "B5467"
 freq_rank: 2015
 skip: false
+audio: "Republik.ogg"
 tags: ["vocab", "bank/main", "level/B2", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Republik
+
+![[Republik.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Republik/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Republik&language=de)
 
 **Meaning:** republic
 **Plural:** Republiken

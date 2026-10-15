@@ -15,11 +15,16 @@ id: "B3368"
 netzwerk: "B1 K2 1a"
 freq_rank: 5759
 skip: false
+audio: "Fingerabdruck.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Fingerabdruck
+
+![[Fingerabdruck.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Fingerabdruck/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Fingerabdruck&language=de)
 
 **Meaning:** finger print
 **Plural:** Fingerabdrücke

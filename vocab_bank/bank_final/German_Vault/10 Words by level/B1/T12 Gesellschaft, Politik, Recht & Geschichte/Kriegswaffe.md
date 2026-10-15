@@ -15,11 +15,16 @@ id: "B4874"
 netzwerk: "B1 K10 11a"
 freq_rank: 5759
 skip: false
+audio: "Kriegswaffe.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T12", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Kriegswaffe
+
+![[Kriegswaffe.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Kriegswaffe/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Kriegswaffe&language=de)
 
 **Meaning:** weapon of war
 **Plural:** Kriegswaffen

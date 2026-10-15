@@ -14,11 +14,16 @@ goethe_level: "A2"
 netzwerk: "A1 K8 4"
 freq_rank: 4706
 skip: false
+audio: "aufmachen.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # aufmachen
+
+![[aufmachen.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/aufmachen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=aufmachen&language=de)
 
 **Meaning:** to open
 **Forms:** macht auf · machte auf · hat aufgemacht

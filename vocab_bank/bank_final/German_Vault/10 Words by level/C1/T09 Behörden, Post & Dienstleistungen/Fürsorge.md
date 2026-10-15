@@ -14,11 +14,16 @@ bank: "main"
 id: "B6126"
 freq_rank: 4544
 skip: false
+audio: "Fürsorge.ogg"
 tags: ["vocab", "bank/main", "level/C1", "topic/T09", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Fürsorge
+
+![[Fürsorge.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/F%C3%BCrsorge/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=F%C3%BCrsorge&language=de)
 
 **Meaning:** care; welfare
 **Plural:** –

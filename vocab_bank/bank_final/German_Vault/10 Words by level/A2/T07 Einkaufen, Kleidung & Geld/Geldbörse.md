@@ -16,11 +16,16 @@ goethe_level: "A2"
 netzwerk: "A2 K5 3c"
 freq_rank: 5759
 skip: false
+audio: "Geldbörse.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geldbörse
+
+![[Geldbörse.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geldb%C3%B6rse/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geldb%C3%B6rse&language=de)
 
 **Meaning:** purse; wallet
 **Plural:** Geldbörsen

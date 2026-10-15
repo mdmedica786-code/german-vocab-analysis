@@ -15,11 +15,16 @@ id: "B4680"
 netzwerk: "B1 K9 11a"
 freq_rank: 5759
 skip: false
+audio: "Autoverkauf.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Autoverkauf
+
+![[Autoverkauf.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Autoverkauf/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Autoverkauf&language=de)
 
 **Meaning:** car sale
 **Plural:** Autoverkäufe

@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "A2 K8 6b"
 freq_rank: 1077
 skip: false
+audio: "begleiten.wav"
 tags: ["vocab", "bank/main", "level/A2", "topic/T01", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # begleiten
+
+![[begleiten.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/begleiten/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=begleiten&language=de)
 
 **Meaning:** to accompany
 **Forms:** begleitet · begleitete · hat begleitet

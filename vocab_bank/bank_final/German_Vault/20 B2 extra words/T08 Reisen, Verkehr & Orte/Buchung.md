@@ -14,11 +14,16 @@ bank: "b2"
 id: "D1042"
 exam_use: ["Alltag", "Lesen"]
 skip: false
+audio: "Buchung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T08", "pos/noun", "exam/Alltag", "exam/Lesen"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Buchung
+
+![[Buchung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Buchung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Buchung&language=de)
 
 **Meaning:** booking; entry
 **Plural:** Buchungen

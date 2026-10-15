@@ -16,11 +16,16 @@ goethe_level: "A1"
 netzwerk: "A1 K1 8e"
 freq_rank: 450
 skip: false
+audio: "Text.wav"
 tags: ["vocab", "bank/main", "level/A1", "topic/T15", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Text
+
+![[Text.wav]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Text/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Text&language=de)
 
 **Meaning:** text
 **Plural:** Texte

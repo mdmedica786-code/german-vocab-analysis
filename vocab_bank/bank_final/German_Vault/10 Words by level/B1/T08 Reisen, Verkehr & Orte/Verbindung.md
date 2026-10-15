@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 13b"
 freq_rank: 540
 skip: false
+audio: "Verbindung.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T08", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Verbindung
+
+![[Verbindung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Verbindung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Verbindung&language=de)
 
 **Meaning:** connection
 **Plural:** Verbindungen

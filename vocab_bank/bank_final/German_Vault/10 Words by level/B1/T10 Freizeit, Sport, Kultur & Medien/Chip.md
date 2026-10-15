@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K6 1a"
 freq_rank: 4517
 skip: false
+audio: "Chip.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T10", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # der Chip
+
+![[Chip.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Chip/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Chip&language=de)
 
 **Meaning:** chip (electronic); crisp
 **Plural:** Chips

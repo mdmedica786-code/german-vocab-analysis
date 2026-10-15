@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4591"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
-status: "new"
+audio: "Vertiefung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T04", "pos/noun", "exam/Lesen", "exam/Schreiben"]
+status: "new"
 ---
 <!-- bank:start -->
 # die Vertiefung
+
+![[Vertiefung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Vertiefung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Vertiefung&language=de)
 
 **Meaning:** deepening; specialisation; hollow
 **Plural:** Vertiefungen

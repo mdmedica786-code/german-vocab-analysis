@@ -14,11 +14,16 @@ bank: "b2"
 id: "D2798"
 exam_use: ["Lesen", "Schreiben"]
 skip: false
+audio: "Befreiung.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T12", "pos/noun", "exam/Lesen", "exam/Schreiben"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Befreiung
+
+![[Befreiung.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Befreiung/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Befreiung&language=de)
 
 **Meaning:** liberation; exemption
 **Plural:** Befreiungen

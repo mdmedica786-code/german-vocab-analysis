@@ -16,11 +16,16 @@ goethe_level: "B1"
 netzwerk: "B1 K4 8b"
 freq_rank: 2780
 skip: false
+audio: "Geduld.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T14", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # die Geduld
+
+![[Geduld.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Geduld/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Geduld&language=de)
 
 **Meaning:** patience
 **Plural:** –

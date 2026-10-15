@@ -14,11 +14,16 @@ bank: "b2"
 id: "D4268"
 exam_use: ["Alltag", "Lesen"]
 skip: false
-status: "new"
+audio: "Netzstecker.ogg"
 tags: ["vocab", "bank/b2", "level/B2", "topic/T02", "pos/noun", "exam/Alltag", "exam/Lesen"]
+status: "new"
 ---
 <!-- bank:start -->
 # der Netzstecker
+
+![[Netzstecker.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Netzstecker/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Netzstecker&language=de)
 
 **Meaning:** mains plug; power plug
 **Plural:** Netzstecker

@@ -13,11 +13,16 @@ id: "B2506"
 netzwerk: "A2 K6 13b"
 freq_rank: 5759
 skip: false
+audio: "dazukommen.ogg"
 tags: ["vocab", "bank/main", "level/A2", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # dazukommen
+
+![[dazukommen.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/dazukommen/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dazukommen&language=de)
 
 **Meaning:** to be added
 **Forms:** kommt dazu · kam dazu · ist dazugekommen

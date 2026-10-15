@@ -14,11 +14,16 @@ goethe_level: "B1"
 netzwerk: "B1 K7 8a"
 freq_rank: 1860
 skip: false
+audio: "akzeptieren.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T16", "pos/verb"]
 status: "new"
 ---
 <!-- bank:start -->
 # akzeptieren
+
+![[akzeptieren.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/akzeptieren/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=akzeptieren&language=de)
 
 **Meaning:** to accept
 **Forms:** akzeptiert · akzeptierte · hat akzeptiert

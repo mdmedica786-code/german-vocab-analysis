@@ -19,6 +19,8 @@ status: "new"
 <!-- bank:start -->
 # dunkel-
 
+[▶️ YouGlish](https://youglish.com/pronounce/dunkel-/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=dunkel-&language=de)
+
 **Meaning:** dark
 **Level:** A2 · **Topic:** [[T16 Allgemein (Funktionswörter, abstrakter Wortschatz)]] · **Register:** neutral
 

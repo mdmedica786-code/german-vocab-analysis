@@ -15,11 +15,16 @@ id: "B5074"
 netzwerk: "B1 K12 7a"
 freq_rank: 5759
 skip: false
+audio: "Produktangebot.ogg"
 tags: ["vocab", "bank/main", "level/B1", "topic/T07", "pos/noun"]
 status: "new"
 ---
 <!-- bank:start -->
 # das Produktangebot
+
+![[Produktangebot.ogg]]
+
+[▶️ YouGlish](https://youglish.com/pronounce/Produktangebot/german) · [🎬 PlayPhrase](https://www.playphrase.me/#/search?q=Produktangebot&language=de)
 
 **Meaning:** range of offered products
 **Plural:** Produktangebote
